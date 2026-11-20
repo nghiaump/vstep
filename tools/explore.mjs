@@ -1,0 +1,13 @@
+import { chromium } from 'playwright';
+const SS = process.argv[2];
+const browser = await chromium.launch({ channel: 'chrome', headless: true });
+const ctx = await browser.newContext({ viewport: { width: 1400, height: 1000 }, locale: 'vi-VN' });
+const page = await ctx.newPage();
+page.on('popup', p => console.log('POPUP', p.url()));
+await page.goto('https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-122&skill=speaking', { waitUntil: 'networkidle', timeout: 60000 });
+await page.waitForTimeout(2000);
+console.log('URL', page.url());
+await page.screenshot({ path: SS + '/e1.png' });
+const btns = await page.$$eval('button,a', els => els.map(e => e.innerText.trim()).filter(Boolean));
+console.log(JSON.stringify(btns.slice(0, 80)));
+await browser.close();

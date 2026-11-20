@@ -1,0 +1,715 @@
+{
+ "id": "vlu-94",
+ "number": 94,
+ "title": "Đề thi VLU 94",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-94",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Overrated Art of the Opening Line",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Many readers believe that a novel's success rests heavily on its opening line, the single sentence meant to grab attention before anything else happens. Bookstores post lists of the \"best first lines in literature,\" and writing workshops sometimes spend an entire class session on one opening sentence alone. This belief is common, but it may be somewhat misplaced.",
+     "A look at well-loved novels complicates the idea. Several classic books open with fairly ordinary sentences that simply state a fact or introduce a character without any dramatic trick. Readers of these books rarely mention the first line as the reason they kept reading; instead, they describe becoming interested gradually, as characters and events built up over several chapters.",
+     "Modern publishing has, however, made the opening line matter more than it once did. Online retailers often let shoppers preview only the first page of a book before buying it, so authors and editors now feel pressure to open with something immediately striking — a shocking statement, an unusual image, or a very short, dramatic sentence. **This pressure** can push a writer toward an opening that does not match the calmer tone of the chapters that follow.",
+     "None of this means first lines are worthless. A strong opening can set a story's tone efficiently, and a badly written one can certainly make a reader hesitate. Still, few people actually put a book down permanently because of one weak sentence, especially if a friend recommended it or the subject already interests them. Most readers give a book several pages, not one sentence, before deciding whether to continue.",
+     "What ultimately keeps someone reading for three hundred pages is not a clever opening but **steady**, consistent quality across the whole book — believable characters, a plot that keeps developing, and prose that stays interesting chapter after chapter. Treating the opening line as the single most important sentence in a novel may distract new writers from the harder, more important work of building a story that holds together from beginning to end."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, what do writing workshops sometimes do with a novel's opening line?",
+      "options": {
+       "A": "They ignore it completely in favor of studying the ending.",
+       "B": "They ask students to remove the opening line entirely.",
+       "C": "They spend an entire class session focused on one sentence.",
+       "D": "They compare it directly to a bestseller's opening line."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"writing workshops\" ở đoạn 1: bài đọc nêu rõ các xưởng sáng tác đôi khi dành toàn bộ một buổi học chỉ để tập trung vào một câu mở đầu (\"spend an entire class session on one opening sentence alone\")."
+     },
+     {
+      "number": 2,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Opening lines matter far more today than they did in earlier decades.",
+       "B": "A novel's opening line is generally less important than sustained quality throughout.",
+       "C": "Classic novels always open with plain, uninteresting sentences on purpose.",
+       "D": "Publishers should stop allowing shoppers to preview a book's first page."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Áp dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề các đoạn: đoạn 1 giới thiệu niềm tin phổ biến về tầm quan trọng của câu mở đầu; các đoạn 2, 3, 4 phân tích góc nhìn thực tế và áp lực xuất bản; đoạn 5 chốt lại chất lượng duy trì xuyên suốt mới là yếu tố quyết định. Phương án đúng phải nêu bật được thông điệp: câu mở đầu ít quan trọng hơn chất lượng ổn định của toàn bộ tác phẩm."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"misplaced\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "mistaken",
+       "B": "popular",
+       "C": "forgotten",
+       "D": "confirmed"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"misplaced\" ở đoạn 1 miêu tả niềm tin cho rằng câu mở đầu quyết định thành công của cuốn sách (\"This belief is common, but it may be somewhat misplaced\"). Ngữ cảnh này thể hiện sự sai lầm, không đúng chỗ (đồng nghĩa với mistaken)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, why do many authors now feel pressure to write a striking opening line?",
+      "options": {
+       "A": "Because literary critics refuse to review books with ordinary openings.",
+       "B": "Because publishers now require every book to open with dialogue.",
+       "C": "Because online shoppers can often preview only the book's first page.",
+       "D": "Because readers no longer finish books that are longer than usual."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Thái độ tác giả",
+      "explanation": "quét cụm từ \"feel pressure\" hoặc \"online retailers\" ở đoạn 3: tác giả giải thích các nhà bán lẻ trực tuyến cho phép xem trước trang đầu tiên, tạo áp lực khiến tác giả phải viết câu mở đầu thật ấn tượng."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, which of the following is NOT mentioned as a type of striking opening authors now use?",
+      "options": {
+       "A": "A shocking statement placed at the very start of the book.",
+       "B": "An unusual image described in the opening sentence.",
+       "C": "A very short, dramatic sentence used to open the story.",
+       "D": "A direct question addressed to the reader by name."
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Tìm đoạn 3 nơi liệt kê các kiểu mở đầu ấn tượng: một phát biểu gây sốc (\"a shocking statement\"), một hình ảnh khác lạ (\"an unusual image\"), và một câu ngắn mang tính kịch tính (\"a very short, dramatic sentence\"). Chi tiết \"đặt câu hỏi trực tiếp gọi tên người đọc\" là yếu tố không được đề cập trong bài."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"this pressure\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "the need for a striking opening",
+       "B": "the cost of publishing a novel",
+       "C": "the length of online previews",
+       "D": "the popularity of classic novels"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị cụm từ \"This pressure\" ở đoạn 3 (\"This pressure can push a writer toward...\"). Đọc câu liền trước để xác định nguyên nhân: áp lực phải mở đầu bằng một chi tiết thật ấn tượng (\"pressure to open with something immediately striking\"). Do đó, cụm này quy chiếu về nhu cầu tạo ra một câu mở đầu ấn tượng."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, why do most readers continue reading a book despite a weak opening line?",
+      "options": {
+       "A": "Because bookstores refuse to accept returns on already-opened books.",
+       "B": "Because a friend's recommendation or interest in the topic often outweighs one sentence.",
+       "C": "Because publishers rewrite weak opening lines before printing a book.",
+       "D": "Because most readers do not actually read the first page at all."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"hesitate\" hoặc \"put a book down\" ở đoạn 4: người đọc vẫn tiếp tục đọc nhờ vào lời giới thiệu của bạn bè hoặc do họ đã có sẵn sự hứng thú với chủ đề của cuốn sách (\"a friend recommended it or the subject already interests them\")."
+     },
+     {
+      "number": 8,
+      "stem": "What can be inferred about the author's view of new writers who focus heavily on the opening line?",
+      "options": {
+       "A": "The author believes this focus may distract them from harder, more important work.",
+       "B": "The author believes this focus guarantees a book will sell well.",
+       "C": "The author believes new writers should ignore opening lines completely and always.",
+       "D": "The author believes only new writers, not experienced ones, make this mistake."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Thái độ tác giả",
+      "explanation": "Phân tích câu cuối cùng của bài đọc (đoạn 5): việc quá chú trọng vào câu đầu tiên có thể làm các cây bút mới xao nhãng khỏi công việc khó khăn và quan trọng hơn là xây dựng một câu chuyện gắn kết từ đầu đến cuối. Từ đó suy luận rằng tác giả lo ngại sự tập trung này làm họ lơ đễnh khỏi những phần việc quan trọng hơn."
+     },
+     {
+      "number": 9,
+      "stem": "The word \"steady\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "consistent",
+       "B": "unusual",
+       "C": "expensive",
+       "D": "brief"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"steady\" ở đoạn 5 đi kèm với cụm \"consistent quality across the whole book\" để mô tả chất lượng xuyên suốt tác phẩm. Do đó, từ này mang nghĩa ổn định, kiên định (đồng nghĩa với consistent)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall attitude toward the common belief that opening lines determine a novel's success?",
+      "options": {
+       "A": "Fully supportive, agreeing that a weak opening line always ruins a book.",
+       "B": "Skeptical, viewing the belief as exaggerated compared to what actually matters.",
+       "C": "Completely dismissive, claiming opening lines have no value whatsoever.",
+       "D": "Uncertain, offering no clear opinion on the matter at all. Reading"
+      },
+      "answer": "B",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Đánh giá sắc thái ngôn từ xuyên suốt bài viết. Tác giả không hoàn toàn phủ nhận giá trị của câu mở đầu (\"None of this means first lines are worthless\") nhưng liên tục chỉ ra rằng vai trò của nó đang bị thổi phồng so với chất lượng tổng thể của tác phẩm. Sắc thái này thể hiện sự hoài nghi, nhìn nhận quan điểm phổ biến đó là bị nói quá (Skeptical)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R1Q1, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm thông tin trực tiếp trong bài đọc.\n  - Với **R1Q1**, quét từ khóa \"writing workshops\" ở đoạn 1: bài đọc nêu rõ các xưởng sáng tác đôi khi dành toàn bộ một buổi học chỉ để tập trung vào một câu mở đầu (\"spend an entire class session on one opening sentence alone\").\n  - Với **R1Q4**, quét cụm từ \"feel pressure\" hoặc \"online retailers\" ở đoạn 3: tác giả giải thích các nhà bán lẻ trực tuyến cho phép xem trước trang đầu tiên, tạo áp lực khiến tác giả phải viết câu mở đầu thật ấn tượng.\n  - Với **R1Q7**, tìm từ khóa \"hesitate\" hoặc \"put a book down\" ở đoạn 4: người đọc vẫn tiếp tục đọc nhờ vào lời giới thiệu của bạn bè hoặc do họ đã có sẵn sự hứng thú với chủ đề của cuốn sách (\"a friend recommended it or the subject already interests them\").\n- **Dạng câu hỏi Ý chính (R1Q2):** Áp dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề các đoạn: đoạn 1 giới thiệu niềm tin phổ biến về tầm quan trọng của câu mở đầu; các đoạn 2, 3, 4 phân tích góc nhìn thực tế và áp lực xuất bản; đoạn 5 chốt lại chất lượng duy trì xuyên suốt mới là yếu tố quyết định. Phương án đúng phải nêu bật được thông điệp: câu mở đầu ít quan trọng hơn chất lượng ổn định của toàn bộ tác phẩm.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"misplaced\"** ở đoạn 1 miêu tả niềm tin cho rằng câu mở đầu quyết định thành công của cuốn sách (\"This belief is common, but it may be somewhat misplaced\"). Ngữ cảnh này thể hiện sự sai lầm, không đúng chỗ (đồng nghĩa với mistaken).\n  - Với **R1Q9**, từ **\"steady\"** ở đoạn 5 đi kèm với cụm \"consistent quality across the whole book\" để mô tả chất lượng xuyên suốt tác phẩm. Do đó, từ này mang nghĩa ổn định, kiên định (đồng nghĩa với consistent).\n- **Dạng câu hỏi Loại trừ NOT (R1Q5):** Tìm đoạn 3 nơi liệt kê các kiểu mở đầu ấn tượng: một phát biểu gây sốc (\"a shocking statement\"), một hình ảnh khác lạ (\"an unusual image\"), và một câu ngắn mang tính kịch tính (\"a very short, dramatic sentence\"). Chi tiết \"đặt câu hỏi trực tiếp gọi tên người đọc\" là yếu tố không được đề cập trong bài.\n- **Dạng câu hỏi Quy chiếu (R1Q6):** Định vị cụm từ **\"This pressure\"** ở đoạn 3 (\"This pressure can push a writer toward...\"). Đọc câu liền trước để xác định nguyên nhân: áp lực phải mở đầu bằng một chi tiết thật ấn tượng (\"pressure to open with something immediately striking\"). Do đó, cụm này quy chiếu về nhu cầu tạo ra một câu mở đầu ấn tượng.\n- **Dạng câu hỏi Suy luận (R1Q8):** Phân tích câu cuối cùng của bài đọc (đoạn 5): việc quá chú trọng vào câu đầu tiên có thể làm các cây bút mới xao nhãng khỏi công việc khó khăn và quan trọng hơn là xây dựng một câu chuyện gắn kết từ đầu đến cuối. Từ đó suy luận rằng tác giả lo ngại sự tập trung này làm họ lơ đễnh khỏi những phần việc quan trọng hơn.\n- **Dạng câu hỏi Thái độ tác giả (R1Q10):** Đánh giá sắc thái ngôn từ xuyên suốt bài viết. Tác giả không hoàn toàn phủ nhận giá trị của câu mở đầu (\"None of this means first lines are worthless\") nhưng liên tục chỉ ra rằng vai trò của nó đang bị thổi phồng so với chất lượng tổng thể của tác phẩm. Sắc thái này thể hiện sự hoài nghi, nhìn nhận quan điểm phổ biến đó là bị nói quá (Skeptical).\nLời khuyên: Hãy bắt đầu bằng việc xử lý nhanh các câu hỏi định vị rõ ràng như Từ vựng (R1Q3, R1Q9) và Quy chiếu (R1Q6). Kế tiếp, sử dụng kỹ năng đọc quét nhanh để hoàn thành các câu hỏi **Chi tiết** (R1Q1, R1Q4, R1Q7) và câu **Loại** trừ (R1Q5). Cuối cùng, tổng hợp mạch lập luận logic của toàn bài để chọn đáp án chính xác cho các câu hỏi tổng hợp như **Suy luận** (R1Q8), **Ý chính** (R1Q2) và **Thái độ tác giả** (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "From English Teacher to E-Commerce Pioneer: The Early Career of Jack Ma",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Before he became known for building one of the world's largest e-commerce companies, Jack Ma spent years failing at the very jobs that might have seemed like natural stepping stones toward business success. That gap between his early career and his later reputation is, in many ways, more instructive than the outcome itself, since it suggests his path to prominence was shaped as much by repeated rejection as by any early sign of talent.",
+     "Ma failed the Chinese college entrance exam twice before finally gaining admission to a teacher-training college on his third attempt, and he was later rejected from dozens of jobs, including, according to widely repeated accounts, a position at a newly opened local KFC. Rather than a technology career, he settled into teaching English at a college in Hangzhou, work that gave him little obvious preparation for the digital economy that would later define his life.",
+     "A trip to the United States in the mid-1990s proved unexpectedly **pivotal-** . While there, Ma used the internet for what he later described as the first time, searching for information related to Chinese products and finding almost nothing available online. **That absence**, rather than any abundance of opportunity, appears to have been the detail that convinced him a market existed for connecting Chinese businesses to a global online audience.",
+     "His first venture built on this insight, an early online business directory, struggled against bureaucratic obstacles and a telecommunications environment that was not yet equipped for the kind of company he was trying to build. The venture is often described in hindsight as a commercial failure, though some accounts suggest it also functioned as an informal education in exactly which problems a future company would need to solve.",
+     "Alibaba itself was founded a few years later, reportedly in Ma's own apartment with a small group of early collaborators, though details of the company's earliest days have been retold so many times, and with so many variations, that separating confirmed fact from company mythology has become genuinely difficult for outside historians. What most accounts agree on is that early funding was **scarce** and that few outside observers expected the venture to succeed.",
+     "Looking back at this sequence of setbacks, it becomes difficult to treat Ma's eventual success as a story of steady, predictable rise. It reads instead as a case in which sustained failure across unrelated fields — examinations, employment, an earlier business — arguably built exactly the tolerance for risk and rejection that a later, far riskier venture would require, even though no single failure on its own pointed toward that outcome."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "The specific technical decisions that made Alibaba's website successful.",
+       "B": "Why the Chinese college entrance exam is considered unusually difficult.",
+       "C": "How every technology entrepreneur experiences early career rejection universally.",
+       "D": "How Jack Ma's early failures shaped his later path toward founding a company."
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu mở đầu và các đoạn chính: đoạn 1 & 2 tập trung vào việc Jack Ma liên tục thất bại ở kỳ thi và công việc đầu đời; đoạn 3 & 4 kể về chuyến đi Mỹ và dự án kinh doanh đầu tiên thất bại; đoạn 5 & 6 tổng kết việc những thất bại liên tiếp này tạo tiền đề cho sự thành công của Alibaba. Phương án đúng phải khái quát được hành trình những thất bại sớm của Jack Ma đã định hình con đường thành lập công ty sau này."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what happened after Ma failed the college entrance exam twice?",
+      "options": {
+       "A": "He immediately abandoned formal education and began working full time.",
+       "B": "He gained admission to a teacher-training college on his third attempt.",
+       "C": "He was accepted into a computer science program instead.",
+       "D": "He was hired at a local KFC restaurant shortly afterward."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét mốc thời gian \"failed... twice\" ở đoạn 2 để tìm thông tin diễn ra tiếp theo: ông đã đỗ vào một trường cao đẳng sư phạm ở lần thi thứ ba (\"gaining admission to a teacher-training college on his third attempt\")."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"pivotal\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "decisive",
+       "B": "accidental",
+       "C": "forgettable",
+       "D": "expensive"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"pivotal\" xuất hiện ở đoạn 3 để mô tả chuyến đi Mỹ giữa những năm 1990 (\"proved unexpectedly pivotal\"). Ngữ cảnh bài viết chỉ ra chuyến đi này đã làm thay đổi hoàn toàn nhận thức của Jack Ma và mở ra ý tưởng kinh doanh mới, do đó mang nghĩa có tính quyết định, then chốt (đồng nghĩa với decisive)."
+     },
+     {
+      "number": 14,
+      "stem": "Based on paragraphs 3 and 4, what connects Ma's trip to the United States and his first business venture?",
+      "options": {
+       "A": "The trip revealed a gap in online information that the venture then attempted to address.",
+       "B": "The venture was founded before the trip and had no connection to it.",
+       "C": "The trip convinced him to abandon business entirely and return to teaching.",
+       "D": "The venture succeeded specifically because of contacts he made during the trip."
+      },
+      "answer": "A",
+      "type_hint": "Mối liên hệ / Tổng hợp thông tin",
+      "type": "Chi tiết",
+      "explanation": "Kết hợp thông tin từ đoạn 3 (chuyến đi Mỹ giúp Jack Ma phát hiện sự thiếu vắng thông tin về sản phẩm Trung Quốc trên Internet) và đoạn 4 (dự án đầu tiên của ông là danh bạ doanh nghiệp trực tuyến dựa trên phát hiện đó). Mối nối giữa hai đoạn chính là chuyến đi đã hé lộ khoảng trống thông tin mà dự án sau đó nỗ lực giải quyết."
+     },
+     {
+      "number": 15,
+      "stem": "According to the passage, which of the following is NOT mentioned as an obstacle Ma's early venture faced?",
+      "options": {
+       "A": "Bureaucratic obstacles that slowed the business down.",
+       "B": "A telecommunications environment not yet ready for the venture.",
+       "C": "A lawsuit filed by a competing business directory.",
+       "D": "Circumstances an account describes as a commercial failure overall."
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các trở ngại mà dự án kinh doanh đầu tiên của Jack Ma phải đối mặt được liệt kê ở đoạn 4: rào cản hành chính (\"bureaucratic obstacles\"), hạ tầng viễn thông chưa sẵn sàng (\"telecommunications environment not yet equipped\"), và thất bại về mặt thương mại (\"commercial failure\"). Chi tiết \"vụ kiện từ một danh bạ đối thủ\" không được nhắc đến trong bài."
+     },
+     {
+      "number": 16,
+      "stem": "The phrase \"That absence\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "the lack of college admission",
+       "B": "the lack of online information about Chinese products",
+       "C": "the lack of funding for Alibaba",
+       "D": "the lack of interest from investors"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị cụm từ \"That absence\" ở đoạn 3 (\"That absence, rather than any"
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, why is it difficult for historians to separate fact from mythology about Alibaba's founding?",
+      "options": {
+       "A": "Because company records from that period were deliberately destroyed.",
+       "B": "Because Ma has refused to discuss the company's early history publicly.",
+       "C": "Because no early collaborators are still alive to confirm the details.",
+       "D": "Because the story has been retold many times with numerous variations."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"separate confirmed fact from company mythology\" ở đoạn 5 để tìm lý do: câu chuyện về những ngày đầu thành lập công ty đã được kể lại quá nhiều lần với rất nhiều biến thể khác nhau (\"retold so many times, and with so many variations\")."
+     },
+     {
+      "number": 18,
+      "stem": "What can be inferred about the relationship between Ma's repeated early failures and his later success?",
+      "options": {
+       "A": "His failures likely built a tolerance for risk that his later venture required.",
+       "B": "His failures had no meaningful connection to his later success at all.",
+       "C": "Each individual failure directly caused a specific decision at Alibaba.",
+       "D": "His failures were fabricated later to make his success story more appealing."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận ở đoạn cuối (đoạn 6): sự thất bại liên tiếp ở các lĩnh vực không liên quan đã rèn luyện cho ông khả năng chịu đựng rủi ro và sự từ chối (\"built exactly the tolerance for risk and rejection\") - điều rất cần thiết cho dự án Alibaba đầy mạo hiểm sau này."
+     },
+     {
+      "number": 19,
+      "stem": "The word \"scarce\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "limited",
+       "B": "guaranteed",
+       "C": "public",
+       "D": "delayed"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"scarce\" ở đoạn 5 dùng để mô tả nguồn vốn ban đầu của Alibaba (\"early funding was scarce\"). Ngữ cảnh bài nêu rõ ít ai tin công ty sẽ thành công và thiếu thốn nguồn lực, do đó từ này mang nghĩa hạn chế, khan hiếm (đồng nghĩa với limited)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's purpose in the final paragraph of the passage?",
+      "options": {
+       "A": "To argue that Ma's success was purely a matter of luck and timing.",
+       "B": "To reframe Ma's career as shaped by sustained failure rather than a steady rise.",
+       "C": "To criticize Ma for taking unnecessary risks with his early ventures.",
+       "D": "To summarize the technical features that made Alibaba's platform successful. Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích đoạn văn cuối cùng (đoạn 6). Tác giả tổng kết lại toàn bộ chuỗi thất bại để nhìn nhận lại sự nghiệp của Jack Ma dưới một góc nhìn mới: thành công của ông không phải là một con đường thăng tiến êm đềm, dự đoán trước được mà được định hình từ chính những thất bại kéo dài (reframe his career as shaped by sustained failure)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và các đoạn chính: đoạn 1 & 2 tập trung vào việc Jack Ma liên tục thất bại ở kỳ thi và công việc đầu đời; đoạn 3 & 4 kể về chuyến đi Mỹ và dự án kinh doanh đầu tiên thất bại; đoạn 5 & 6 tổng kết việc những thất bại liên tiếp này tạo tiền đề cho sự thành công của Alibaba. Phương án đúng phải khái quát được hành trình những thất bại sớm của Jack Ma đã định hình con đường thành lập công ty sau này.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực tiếp có sẵn trong bài đọc.\n  - Với **R2Q2**, quét mốc thời gian \"failed... twice\" ở đoạn 2 để tìm thông tin diễn ra tiếp theo: ông đã đỗ vào một trường cao đẳng sư phạm ở lần thi thứ ba (\"gaining admission to a teacher-training college on his third attempt\").\n  - Với **R2Q7**, quét cụm từ \"separate confirmed fact from company mythology\" ở đoạn 5 để tìm lý do: câu chuyện về những ngày đầu thành lập công ty đã được kể lại quá nhiều lần với rất nhiều biến thể khác nhau (\"retold so many times, and with so many variations\").\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"pivotal\"** xuất hiện ở đoạn 3 để mô tả chuyến đi Mỹ giữa những năm 1990 (\"proved unexpectedly pivotal\"). Ngữ cảnh bài viết chỉ ra chuyến đi này đã làm thay đổi hoàn toàn nhận thức của Jack Ma và mở ra ý tưởng kinh doanh mới, do đó mang nghĩa có tính quyết định, then chốt (đồng nghĩa với decisive).\n  - Với **R2Q9**, từ **\"scarce\"** ở đoạn 5 dùng để mô tả nguồn vốn ban đầu của Alibaba (\"early funding was scarce\"). Ngữ cảnh bài nêu rõ ít ai tin công ty sẽ thành công và thiếu thốn nguồn lực, do đó từ này mang nghĩa hạn chế, khan hiếm (đồng nghĩa với limited).\n- **Dạng câu hỏi Mối liên hệ / Tổng hợp thông tin (R2Q4):** Kết hợp thông tin từ đoạn 3 (chuyến đi Mỹ giúp Jack Ma phát hiện sự thiếu vắng thông tin về sản phẩm Trung Quốc trên Internet) và đoạn 4 (dự án đầu tiên của ông là danh bạ doanh nghiệp trực tuyến dựa trên phát hiện đó). Mối nối giữa hai đoạn chính là chuyến đi đã hé lộ khoảng trống thông tin mà dự án sau đó nỗ lực giải quyết.\n- **Dạng câu hỏi Loại trừ NOT (R2Q5):** Đối soát các trở ngại mà dự án kinh doanh đầu tiên của Jack Ma phải đối mặt được liệt kê ở đoạn 4: rào cản hành chính (\"bureaucratic obstacles\"), hạ tầng viễn thông chưa sẵn sàng (\"telecommunications environment not yet equipped\"), và thất bại về mặt thương mại (\"commercial failure\"). Chi tiết \"vụ kiện từ một danh bạ đối thủ\" không được nhắc đến trong bài.\n- **Dạng câu hỏi Quy chiếu (R2Q6):** Định vị cụm từ **\"That absence\"** ở đoạn 3 (\"That absence, rather than any\nabundance...\"). Đọc câu liền trước để xác định danh từ được quy chiếu: Jack Ma tìm kiếm thông tin liên quan đến các sản phẩm Trung Quốc nhưng hầu như không thấy gì (\"finding almost nothing available online\"). Vì vậy, \"That absence\" quy chiếu đến sự thiếu hụt thông tin trực tuyến về các sản phẩm Trung Quốc.\n- **Dạng câu hỏi Suy luận (R2Q8):** Phân tích lập luận ở đoạn cuối (đoạn 6): sự thất bại liên tiếp ở các lĩnh vực không liên quan đã rèn luyện cho ông khả năng chịu đựng rủi ro và sự từ chối (\"built exactly the tolerance for risk and rejection\") - điều rất cần thiết cho dự án Alibaba đầy mạo hiểm sau này.\n- **Dạng câu hỏi Mục đích của tác giả (R2Q10):** Phân tích đoạn văn cuối cùng (đoạn 6). Tác giả tổng kết lại toàn bộ chuỗi thất bại để nhìn nhận lại sự nghiệp của Jack Ma dưới một góc nhìn mới: thành công của ông không phải là một con đường thăng tiến êm đềm, dự đoán trước được mà được định hình từ chính những thất bại kéo dài (reframe his career as shaped by sustained failure).\nLời khuyên: Hãy bắt đầu bằng cách xử lý nhanh nhóm câu hỏi định vị rõ ràng như Từ vựng (R2Q3, R2Q9) và Quy chiếu (R2Q6). Tiếp theo, tận dụng kỹ năng đọc quét nhanh để hoàn thành các câu hỏi **Chi tiết** (R2Q2, R2Q7) và **Loại trừ** (R2Q5). Cuối cùng, tổng hợp logic giữa các đoạn để chọn đáp án chính xác cho các câu đòi hỏi tư duy phân tích sâu như **Mối** liên hệ (R2Q4), Suy luận (R2Q8), Ý chính (R2Q1) và Mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Why Most Exercise Regimens Fail Before They Begin",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Every January, gyms fill with new members whose enthusiasm rarely survives past February, and the conventional explanation for this pattern places blame squarely on the individual: insufficient willpower, poor discipline, competing priorities. This explanation is intuitive, widely repeated, and, according to a growing body of behavioral research, largely incomplete. What actually determines whether a new exercise habit survives its first months has less to do with a person's underlying character than with structural features of the regimen itself — features most people never consciously evaluate before starting.",
+     "Early motivation for a new fitness routine is often driven by novelty and identity aspiration — the appeal of becoming, however abstractly imagined, a different kind of person. This initial surge, however, is neurochemically distinct from the mechanisms that sustain long-term habitual behavior. Habits, once established, run largely on automatic cues rather than deliberate motivation; the problem is that most beginner regimens are designed around motivation alone, with no attention paid to building the environmental or contextual triggers that would eventually let the behavior run without conscious effort.",
+     "Consider, too, how most regimens define success. Outcome-based goals — losing a specific number of kilograms, reaching a particular strength benchmark — dominate popular fitness culture, in part because they are easy to state and easy to measure retrospectively. What they rarely provide, though, is meaningful feedback in the short term; a person training consistently for three weeks may see no visible change on a scale, and this absence of feedback, rather than any lapse in effort, is frequently what **precipitates** abandonment. Process-based goals, framed around the behavior itself rather than its eventual result, sidestep this problem by offering a form of success — the session was completed — available every single day.",
+     "Equally underappreciated is the role of friction, a term researchers use to describe the small, often trivial obstacles standing between intention and action. Whether a gym bag is packed the night before, whether a gym is a five-minute or a forty-minute commute, whether workout clothes are visible or buried in a drawer — **these details**, individually minor, compound into a substantial predictor of adherence. Reducing friction is not a matter of willpower at all; it is closer to environmental design, and regimens that ignore it place an unnecessary and largely avoidable burden on motivation that would otherwise be sufficient.",
+     "Social structure complicates the picture further. **[1]** Group classes, fitness challenges, and paid personal training sessions can dramatically boost short-term adherence by supplying external accountability that a solitary regimen lacks. **[2]** Once that external structure disappears — the challenge ends, the class schedule changes, the trainer's contract expires — adherence often collapses just as quickly as it rose, unless an internal sense of identity as someone who exercises has taken root in the meantime. **[3]** This is precisely why regimens built entirely around externally imposed structure, however effective at first, rarely produce **durable** behavior change on their own. **[4]** Sustainable adherence appears to require a period of overlap, during which external accountability and internal identity develop simultaneously rather than sequentially.",
+     "None of this implies that willpower plays no role whatsoever; sustaining any new behavior clearly requires some degree of self-directed effort. What the evidence complicates is the assumption that willpower is the primary or even the most significant variable. Regimens engineered around small, easily repeatable process goals, reduced environmental friction, and a deliberate transition from external accountability to internal identity appear, across multiple studies, to produce meaningfully higher adherence rates than those relying on ambition and self-discipline alone — a finding with implications well beyond exercise, for any domain in which a difficult new habit is meant to outlast its initial motivation."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, why do outcome-based goals often lead to abandonment?",
+      "options": {
+       "A": "They set unrealistic timelines that no one could ever meet.",
+       "B": "They lack immediate feedback, making non-progress feel like failure.",
+       "C": "They require expensive gym memberships most people cannot sustain.",
+       "D": "They ignore genetics, which researchers say determines most fitness outcomes."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "Sử dụng kỹ năng Scanning (Đọc quét từ khóa đặc hiệu) để tìm kiếm thông tin trực tiếp ở đoạn 3. Quét từ khóa \"Outcome-based goals\" để tìm nguyên nhân dẫn đến từ bỏ: bài viết chỉ ra rằng các mục tiêu dựa trên kết quả hiếm khi cung cấp phản hồi có ý nghĩa trong ngắn hạn, khiến người tập không thấy sự thay đổi ngay lập tức và coi đó như sự thất bại (\"absence of feedback... is frequently what precipitates abandonment\")."
+     },
+     {
+      "number": 22,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Why outcome-based fitness goals fail to provide adequate short-term feedback.",
+       "B": "How willpower alone determines whether a person maintains a new exercise habit.",
+       "C": "Why exercise regimens tend to fail, and how their structural design, not willpower, explains this.",
+       "D": "Why every attempt at behavior change across any domain is destined to fail."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Áp dụng kỹ năng Skimming (Đọc lướt). Theo dõi mạch lập luận xuyên suốt bài đọc: đoạn 1 mở đầu bằng việc phủ nhận quan điểm cho rằng thất bại là do ý chí (willpower); các đoạn 2, 3, 4, 5 đi sâu phân tích các yếu tố cấu trúc (thiết kế ngữ cảnh, giảm ma sát, xây dựng bản sắc nội tại); đoạn 6 tổng kết lại vấn đề. Do đó, phương án giải thích lý do các chế độ tập luyện thất bại dựa trên thiết kế cấu trúc chứ không phải ý chí cá nhân là đáp án khái quát đúng nhất."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"precipitates\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "triggers",
+       "B": "delays",
+       "C": "measures",
+       "D": "excuses"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"precipitates\" xuất hiện ở đoạn 3 trong ngữ cảnh mô tả sự thiếu hụt phản hồi là nguyên nhân châm ngòi / dẫn đến hành vi từ bỏ (\"what precipitates abandonment\"). Do đó, từ này đồng nghĩa với gây ra, kích hoạt (triggers)."
+     },
+     {
+      "number": 24,
+      "stem": "Based on paragraphs 2 and 4, what do habit-cue formation and friction reduction have in common as explanations for regimen failure?",
+      "options": {
+       "A": "Both suggest willpower is ultimately the single most important factor after all.",
+       "B": "Both point to environmental or contextual design rather than willpower as decisive.",
+       "C": "Both indicate that group accountability is the only reliable long-term solution.",
+       "D": "Both were discovered exclusively through outcome-based goal-setting research."
+      },
+      "answer": "B",
+      "type_hint": "Tổng hợp / Mối liên hệ",
+      "type": "Chi tiết",
+      "explanation": "Kết hợp thông tin từ đoạn 2 (việc hình thành thói quen dựa vào các tín hiệu môi trường/ngữ cảnh) và đoạn 4 (việc giảm ma sát là điều chỉnh thiết kế môi trường xung quanh). Điểm chung giữa hai yếu tố này là đều nhấn mạnh vào vai trò quyết định của thiết kế môi trường/ngữ cảnh thay vì dựa vào ý chí cá nhân."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, which of the following is NOT mentioned as an example of \"friction\" affecting adherence?",
+      "options": {
+       "A": "Whether a gym bag is packed the night before.",
+       "B": "Whether workout clothes are easily visible or hidden away.",
+       "C": "Whether the monthly cost of a gym membership is affordable.",
+       "D": "Whether the commute to the gym is short or long."
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Tìm đoạn 4 nơi tác giả giải thích khái niệm \"friction\" và liệt kê các ví dụ thực tế: chuẩn bị túi tập từ tối hôm trước, quãng đường di chuyển đến phòng tập 5 phút hay 40 phút, và quần áo tập để ở nơi dễ thấy hay trong ngăn kéo. Chi tiết \"chi phí hội viên hàng tháng\" không được đề cập làm ví dụ cho khái niệm này."
+     },
+     {
+      "number": 26,
+      "stem": "The phrase \"these details\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "the outcome-based goals",
+       "B": "the small obstacles listed",
+       "C": "the group fitness challenges",
+       "D": "the neurochemical mechanisms"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị cụm từ \"these details\" ở giữa đoạn 4 (\"these details, individually minor, compound into...\"). Đọc câu liền trước để xác định danh từ được quy chiếu: đó là danh sách các chướng ngại nhỏ được liệt kê (túi tập, khoảng cách di chuyển, vị trí để quần áo). Vì vậy, \"these details\" quy chiếu trực tiếp đến nhóm các rào cản/trở ngại nhỏ này."
+     },
+     {
+      "number": 27,
+      "stem": "What can be inferred about regimens built entirely around external accountability, based on paragraph 5?",
+      "options": {
+       "A": "They guarantee long-term adherence as long as the accountability structure remains popular.",
+       "B": "Internal identity formation causes external accountability structures to be created in the first place.",
+       "C": "Group classes and personal training can boost short-term adherence.",
+       "D": "They may raise short-term adherence but are unlikely to sustain it unless identity develops alongside it."
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận ở đoạn 5 về các chế độ tập phụ thuộc hoàn toàn vào trách nhiệm bên ngoài (lớp nhóm, PT). Khi cấu trúc bên ngoài mất đi, sự tuân thủ sẽ sụp đổ trừ khi bản sắc nội tại được hình thành song song. Từ đó suy luận rằng trách nhiệm bên ngoài có thể tăng tính tuân thủ ngắn hạn nhưng khó duy trì lâu dài nếu không phát triển bản sắc nội tại đi kèm."
+     },
+     {
+      "number": 28,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Yet this boost is often temporary and can mask a deeper vulnerability.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Chèn câu vào văn bản",
+      "type": "Chèn câu",
+      "explanation": "Xem xét vị trí câu chèn chứa từ nối \"Yet\" (tuy nhiên) và cụm \"this boost\" (sự gia tăng này). Vị trí [2] là phù hợp nhất vì câu liền trước (vị trí [1]) đề cập đến việc các lớp học nhóm hay PT giúp \"dramatically boost short-term adherence\" (gia tăng mạnh mẽ tính tuân thủ ngắn hạn). Câu chèn sẽ đóng vai trò chuyển ý phản biện cho sự gia tăng đó trước khi đoạn văn giải thích sự sụp đổ ở câu sau."
+     },
+     {
+      "number": 29,
+      "stem": "The word \"durable\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "lasting",
+       "B": "immediate",
+       "C": "expensive",
+       "D": "public"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"durable\" ở đoạn 5 dùng để miêu tả sự thay đổi hành vi lâu dài, bền vững (\"durable behavior change\"). Ngữ cảnh này chỉ tính chất kéo dài, bền vững (đồng nghĩa với lasting)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's purpose in the final paragraph?",
+      "options": {
+       "A": "To argue that willpower plays no role in behavior change whatsoever.",
+       "B": "To introduce an entirely new topic unrelated to the rest of the passage.",
+       "C": "To grant willpower a small role while upholding structural causes.",
+       "D": "To criticize prior researchers for ignoring the importance of genetics in fitness outcomes. Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích nội dung đoạn cuối cùng (đoạn 6). Tác giả thừa nhận ý chí vẫn đóng một vai trò nhỏ nhất định (\"willpower plays some role\"), nhưng mục đích chính là khẳng định lại các yếu tố cấu trúc mới là nguyên nhân then chốt quyết định sự thành công bền vững của thói quen."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R3Q1):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm thông tin trực tiếp ở đoạn 3. Quét từ khóa \"Outcome-based goals\" để tìm nguyên nhân dẫn đến từ bỏ: bài viết chỉ ra rằng các mục tiêu dựa trên kết quả hiếm khi cung cấp phản hồi có ý nghĩa trong ngắn hạn, khiến người tập không thấy sự thay đổi ngay lập tức và coi đó như sự thất bại (\"absence of feedback... is frequently what precipitates abandonment\").\n- **Dạng câu hỏi Ý chính (R3Q2):** Áp dụng kỹ năng **Skimming** (Đọc lướt). Theo dõi mạch lập luận xuyên suốt bài đọc: đoạn 1 mở đầu bằng việc phủ nhận quan điểm cho rằng thất bại là do ý chí (willpower); các đoạn 2, 3, 4, 5 đi sâu phân tích các yếu tố cấu trúc (thiết kế ngữ cảnh, giảm ma sát, xây dựng bản sắc nội tại); đoạn 6 tổng kết lại vấn đề. Do đó, phương án giải thích lý do các chế độ tập luyện thất bại dựa trên thiết kế cấu trúc chứ không phải ý chí cá nhân là đáp án khái quát đúng nhất.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"precipitates\"** xuất hiện ở đoạn 3 trong ngữ cảnh mô tả sự thiếu hụt phản hồi là nguyên nhân châm ngòi / dẫn đến hành vi từ bỏ (\"what precipitates abandonment\"). Do đó, từ này đồng nghĩa với gây ra, kích hoạt (triggers).\n  - Với **R3Q9**, từ **\"durable\"** ở đoạn 5 dùng để miêu tả sự thay đổi hành vi lâu dài, bền vững (\"durable behavior change\"). Ngữ cảnh này chỉ tính chất kéo dài, bền vững (đồng nghĩa với lasting).\n- **Dạng câu hỏi Tổng hợp / Mối liên hệ (R3Q4):** Kết hợp thông tin từ đoạn 2 (việc hình thành thói quen dựa vào các tín hiệu môi trường/ngữ cảnh) và đoạn 4 (việc giảm ma sát là điều chỉnh thiết kế môi trường xung quanh). Điểm chung giữa hai yếu tố này là đều nhấn mạnh vào vai trò quyết định của thiết kế môi trường/ngữ cảnh thay vì dựa vào ý chí cá nhân.\n- **Dạng câu hỏi Loại trừ NOT (R3Q5):** Tìm đoạn 4 nơi tác giả giải thích khái niệm \"friction\" và liệt kê các ví dụ thực tế: chuẩn bị túi tập từ tối hôm trước, quãng đường di chuyển đến phòng tập 5 phút hay 40 phút, và quần áo tập để ở nơi dễ thấy hay trong ngăn kéo. Chi tiết \"chi phí hội viên hàng tháng\" không được đề cập làm ví dụ cho khái niệm này.\n- **Dạng câu hỏi Quy chiếu (R3Q6):** Định vị cụm từ **\"these details\"** ở giữa đoạn 4 (\"these details, individually minor, compound into...\"). Đọc câu liền trước để xác định danh từ được quy chiếu: đó là danh sách các chướng ngại nhỏ được liệt kê (túi tập, khoảng cách di chuyển, vị trí để quần áo). Vì vậy, \"these details\" quy chiếu trực tiếp đến nhóm các rào cản/trở ngại nhỏ này.\n- **Dạng câu hỏi Suy luận (R3Q7):** Phân tích lập luận ở đoạn 5 về các chế độ tập phụ thuộc hoàn toàn vào trách nhiệm bên ngoài (lớp nhóm, PT). Khi cấu trúc bên ngoài mất đi, sự tuân thủ sẽ sụp đổ trừ khi bản sắc nội tại được hình thành song song. Từ đó suy luận rằng trách nhiệm bên ngoài có thể tăng tính tuân thủ ngắn hạn nhưng khó duy trì lâu dài nếu không phát triển bản sắc nội tại đi kèm.\n- **Dạng câu hỏi Chèn câu vào văn bản (R3Q8):** Xem xét vị trí câu chèn chứa từ nối **\"Yet\"** (tuy nhiên) và cụm **\"this boost\"** (sự gia tăng này). Vị trí **[2]** là phù hợp nhất vì câu liền trước (vị trí [1]) đề cập đến việc các lớp học nhóm hay PT giúp \"dramatically boost short-term adherence\" (gia tăng mạnh mẽ tính tuân thủ ngắn hạn). Câu chèn sẽ đóng vai trò chuyển ý phản biện cho sự gia tăng đó trước khi đoạn văn giải thích sự sụp đổ ở câu sau.\n- **Dạng câu hỏi Mục đích của tác giả (R3Q10):** Phân tích nội dung đoạn cuối cùng (đoạn 6). Tác giả thừa nhận ý chí vẫn đóng một vai trò nhỏ nhất định (\"willpower plays some role\"), nhưng mục đích chính là khẳng định lại các yếu tố cấu trúc mới là nguyên nhân then chốt quyết định sự thành công bền vững của thói quen.\nLời khuyên: Hãy ưu tiên hoàn thành nhanh nhóm câu hỏi định vị trực diện như Từ vựng (R3Q3, R3Q9) và Quy chiếu (R3Q6). Tiếp theo, sử dụng kỹ năng đọc quét nhanh để làm câu **Chi tiết** (R3Q1) và **Loại trừ** (R3Q5). Cuối cùng, kết nối mạch logic giữa các đoạn để giải quyết chính xác nhóm câu hỏi tư duy cao gồm **Mối liên hệ** (R3Q4), **Chèn câu** (R3Q8), Suy luận (R3Q7), Ý chính (R3Q2) và Mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Pardons, Parole, and the Unresolved Tension Between Mercy and Deterrence",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Executive clemency and parole occupy an uneasy space in criminal justice systems that otherwise pride themselves on procedural consistency, because both mechanisms exist precisely to override the sentence a court has already determined through due process. Not only does this create an obvious tension with the principle that similar offenses should receive similar treatment, but it also forces policymakers to confront, explicitly, a question the sentencing process itself tends to obscure: what, exactly, is punishment supposed to accomplish once the initial verdict has been rendered?",
+     "Proponents of robust clemency and parole systems typically appeal to mercy and rehabilitation, arguing that a person's culpability and capacity for harm are not fixed at the moment of sentencing but may shift, sometimes considerably, over years or decades of incarceration. A rigid system that ignores this possibility, the argument runs, risks continuing to punish a person for a version of themselves that may no longer exist — though critics counter that **this framing** assumes a degree of measurable transformation that parole boards are rarely equipped to assess with confidence.",
+     "Deterrence theory complicates this picture considerably. If the credible threat of a fixed, predictable sentence is what discourages potential offenders, then a system that regularly commutes or shortens sentences may — depending on how visibly and how often clemency is exercised — undermine the very deterrent effect sentencing was designed to produce. Whether this erosion is significant in practice remains genuinely contested; some researchers argue the deterrent effect of sentence length was always weaker than commonly assumed, in which case clemency's marginal cost to deterrence would be correspondingly small.",
+     "Empirical evidence bearing directly on this question is sparser than either side of the debate tends to acknowledge. Recidivism studies comparing paroled and non-paroled populations frequently fail to control adequately for the selection effects built into parole boards' own decisions — boards do not release prisoners at random, but rather select those already judged lowest-risk, which mechanically depresses the recidivism rate among the paroled group regardless of whether parole itself caused any behavioral change. **Disentangling** the effect of parole from the effect of who gets selected for it has proven, in practice, extraordinarily difficult.",
+     "A further complication concerns disparity in how clemency power is actually exercised. Analyses of pardon and commutation records in several jurisdictions have found that applicants with greater access to legal representation, media attention, or political connection succeed at markedly higher rates than applicants with comparable case merits but fewer such resources — a pattern that, whatever its cause, sits uneasily beside clemency's stated justification as an act of individualized mercy rather than a privilege extended disproportionately to the well-connected.",
+     "None of these complications resolves the underlying tension identified at the outset; if anything, they sharpen it. **[1]** A system that abandons clemency entirely **forecloses** the possibility of correcting sentences that later prove excessive or unjust, a cost difficult to dismiss given how often sentencing itself is later revised on appeal. **[2]** A system that exercises clemency too liberally, or too unevenly, risks eroding both deterrence and public confidence in the fairness of the process. **[3]** Evidence so far offers no reliable formula for locating the point at which one risk begins to outweigh the other. **[4]**",
+     "What emerges from the available research, then, is not a resolution but a more precise account of the trade-off itself: mercy and deterrence are not simply opposing values to be balanced by intuition, but forces whose relative weight shifts depending on how a clemency system is administered, who is empowered to exercise it, and how consistently its criteria are applied — variables that differ enough across jurisdictions that a single verdict on clemency's net effect may not be available at all."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, why is it difficult to isolate the effect of parole itself on recidivism?",
+      "options": {
+       "A": "Because parole boards release prisoners entirely at random, making comparison impossible.",
+       "B": "Because parole boards select lower-risk inmates, naturally lowering their reoffending rates.",
+       "C": "Because recidivism data is rarely collected for any paroled population at all.",
+       "D": "Because non-paroled populations are too small to produce statistically meaningful comparisons."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "Sử dụng kỹ năng Scanning (Đọc quét từ khóa đặc hiệu) để tìm thông tin ở đoạn 4. Quét các từ khóa \"parole\", \"recidivism\" và \"selection effects\": bài đọc chỉ rõ hội đồng tạm thấu không phóng thích tù nhân ngẫu nhiên mà chủ động chọn những người có rủi ro thấp nhất (\"select those already judged lowest-risk\"), điều này làm giảm tỷ lệ tái phạm một cách tự nhiên và gây khó khăn cho việc tách biệt hiệu quả thực sự của chế độ tạm tha."
+     },
+     {
+      "number": 32,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Why parole boards struggle to measure recidivism rates accurately.",
+       "B": "How disparities in legal representation are the central flaw undermining criminal sentencing.",
+       "C": "The ongoing tension between mercy and deterrence in post-sentencing relief.",
+       "D": "Why all criminal justice systems should abolish clemency and parole entirely."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Áp dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề đoạn 1 (sự căng thẳng giữa giảm án/tạm tha với nguyên tắc nhất quán của thủ tục tư pháp) và đoạn cuối (sự đánh đổi giữa lòng khoan hồng và tính răn đe). Phương án khái quát được sự giằng co liên tục giữa lòng khoan hồng (mercy) và tính răn đe (deterrence) trong các cơ chế giảm án sau khi tuyên án là đáp án chính xác nhất."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"forecloses\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "eliminates",
+       "B": "postpones",
+       "C": "increases",
+       "D": "excuses"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"forecloses\" ở đoạn 6 đi kèm với vế \"the possibility of correcting sentences that later prove excessive or unjust\". Việc từ bỏ hoàn toàn ân xá sẽ loại bỏ / ngăn chặn khả năng sửa chữa các bản án bất công, do đó đồng nghĩa với loại bỏ (eliminates)."
+     },
+     {
+      "number": 34,
+      "stem": "Based on paragraphs 3 and 6, what does the passage suggest about the relationship between clemency and deterrence?",
+      "options": {
+       "A": "Clemency has been proven, through the evidence discussed, to eliminate deterrence entirely.",
+       "B": "Its impact on deterrence is uncertain, with no established tipping point.",
+       "C": "Deterrence theory has been fully discredited by the studies described in paragraph 4.",
+       "D": "Clemency strengthens deterrence by demonstrating the system's flexibility to the public."
+      },
+      "answer": "B",
+      "type_hint": "Tổng hợp / Phân tích",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 3 (sự tranh cãi về mức độ suy giảm tính răn đe) và đoạn 6 (không có công thức tin cậy để xác định điểm cân bằng mà tại đó rủi ro này vượt trội rủi ro kia). Mối liên hệ này chỉ ra rằng tác động của ân xá đối với tính răn đe là chưa chắc chắn và không có điểm bùng phát (tipping point) cố định."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, which of the following is NOT mentioned as a factor associated with greater success in clemency applications?",
+      "options": {
+       "A": "Access to greater legal representation.",
+       "B": "Higher levels of media attention.",
+       "C": "The length of the applicant's original sentence.",
+       "D": "Political connections held by the applicant."
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Tìm đoạn 5 nơi liệt kê các yếu tố giúp hồ sơ xin ân xá có tỷ lệ thành công cao hơn: đại diện pháp lý tốt hơn (\"greater access to legal representation\"), sự chú ý từ truyền thông (\"media attention\"), và mối quan hệ chính trị (\"political connection\"). Chi tiết \"thời hạn bản án ban đầu của người nộp đơn\" không được đề cập làm yếu tố ảnh hưởng."
+     },
+     {
+      "number": 36,
+      "stem": "The phrase \"this framing\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "the deterrence argument",
+       "B": "the mercy and rehabilitation argument",
+       "C": "the recidivism study design",
+       "D": "the disparity in legal access"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị cụm từ \"this framing\" ở cuối đoạn 2 (\"critics counter that this framing assumes...\"). Đọc phần trước của đoạn 2: những người ủng hộ lập luận dựa trên lòng khoan hồng và sự cải tạo (\"appeal to mercy and rehabilitation\"). Do đó, \"this framing\" quy chiếu thẳng đến lập luận về lòng khoan hồng và cải tạo này."
+     },
+     {
+      "number": 37,
+      "stem": "What can be inferred about researchers who argue the deterrent effect of sentence length was always weaker than commonly assumed, based on paragraph 3?",
+      "options": {
+       "A": "Their position proves that deterrence theory has no validity in any criminal justice context.",
+       "B": "Widespread use of clemency caused these researchers to question deterrence theory in the first place.",
+       "C": "Some researchers dispute how strong the link between sentence length and deterrence actually is.",
+       "D": "If their view is correct, clemency's marginal cost to deterrence would likely be small."
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận ở đoạn 3: tác giả nêu lý thuyết của một số nhà nghiên cứu rằng tác động răn đe của thời hạn bản án vốn yếu hơn người ta tưởng, \"in which case clemency's marginal cost to deterrence would be correspondingly small\". Từ đó suy luận rằng nếu quan điểm của họ đúng, chi phí tổn thất đối với tính răn đe khi áp dụng ân xá sẽ là rất nhỏ."
+     },
+     {
+      "number": 38,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Neither failure mode, in other words, is obviously the safer choice.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Chèn câu vào văn bản",
+      "type": "Chèn câu",
+      "explanation": "Xem xét vị trí câu chèn chứa cụm \"Neither failure mode\" (Không có chế độ thất bại nào trong hai cái). Đoạn 6 đã phân tích 2 mô hình thất bại: [1] bỏ hoàn toàn ân xá làm mất cơ hội sửa sai, và [2] áp dụng quá tự do/không đều làm giảm tính răn đe. Vị trí [3] là phù hợp nhất để đặt câu chèn nhằm tóm tắt lại rằng cả hai mô hình thất bại trên đều không phải là lựa chọn an toàn hơn, trước khi dẫn đến câu [4] kết luận chưa có công thức cân bằng."
+     },
+     {
+      "number": 39,
+      "stem": "The word \"Disentangling\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "separating",
+       "B": "combining",
+       "C": "measuring",
+       "D": "predicting"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"Disentangling\" ở đoạn 4 mô tả hành động gỡ rối / tách biệt ảnh hưởng của chế độ tạm tha ra khỏi ảnh hưởng của tiêu chí chọn lọc tù nhân (\"Disentangling the effect of parole from the effect of who gets selected\"). Do đó, từ này đồng nghĩa với phân tách (separating)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's overall stance toward resolving the tension between mercy and deterrence?",
+      "options": {
+       "A": "Firmly in favor of abolishing clemency to protect deterrence at all costs.",
+       "B": "Firmly in favor of maximizing clemency regardless of its effect on deterrence.",
+       "C": "Dismissive, treating the entire debate as not worth serious consideration.",
+       "D": "Analytical, treating it as a genuinely unresolved trade-off shaped by system design."
+      },
+      "answer": "D",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Phân tích sắc thái toàn bài và đoạn kết: tác giả không nghiêng hẳn về bên nào mà phân tích sâu các khía cạnh dữ liệu, thách thức và yếu tố quản lý hệ thống. Tác giả giữ thái độ phân tích khách quan (Analytical), coi đây là sự đánh đổi chưa có lời giải triệt để và phụ thuộc vào cách thiết kế hệ thống."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R4Q1):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm thông tin ở đoạn 4. Quét các từ khóa \"parole\", \"recidivism\" và \"selection effects\": bài đọc chỉ rõ hội đồng tạm thấu không phóng thích tù nhân ngẫu nhiên mà chủ động chọn những người có rủi ro thấp nhất (\"select those already judged lowest-risk\"), điều này làm giảm tỷ lệ tái phạm một cách tự nhiên và gây khó khăn cho việc tách biệt hiệu quả thực sự của chế độ tạm tha.\n- **Dạng câu hỏi Ý chính (R4Q2):** Áp dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề đoạn 1 (sự căng thẳng giữa giảm án/tạm tha với nguyên tắc nhất quán của thủ tục tư pháp) và đoạn cuối (sự đánh đổi giữa lòng khoan hồng và tính răn đe). Phương án khái quát được sự giằng co liên tục giữa lòng khoan hồng (mercy) và tính răn đe (deterrence) trong các cơ chế giảm án sau khi tuyên án là đáp án chính xác nhất.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"forecloses\"** ở đoạn 6 đi kèm với vế \"the possibility of correcting sentences that later prove excessive or unjust\". Việc từ bỏ hoàn toàn ân xá sẽ loại bỏ / ngăn chặn khả năng sửa chữa các bản án bất công, do đó đồng nghĩa với loại bỏ (eliminates).\n  - Với **R4Q9**, từ **\"Disentangling\"** ở đoạn 4 mô tả hành động gỡ rối / tách biệt ảnh hưởng của chế độ tạm tha ra khỏi ảnh hưởng của tiêu chí chọn lọc tù nhân (\"Disentangling the effect of parole from the effect of who gets selected\"). Do đó, từ này đồng nghĩa với phân tách (separating).\n- **Dạng câu hỏi Tổng hợp / Phân tích (R4Q4):** Kết hợp thông tin từ đoạn 3 (sự tranh cãi về mức độ suy giảm tính răn đe) và đoạn 6 (không có công thức tin cậy để xác định điểm cân bằng mà tại đó rủi ro này vượt trội rủi ro kia). Mối liên hệ này chỉ ra rằng tác động của ân xá đối với tính răn đe là chưa chắc chắn và không có điểm bùng phát (tipping point) cố định.\n- **Dạng câu hỏi Loại trừ NOT (R4Q5):** Tìm đoạn 5 nơi liệt kê các yếu tố giúp hồ sơ xin ân xá có tỷ lệ thành công cao hơn: đại diện pháp lý tốt hơn (\"greater access to legal representation\"), sự chú ý từ truyền thông (\"media attention\"), và mối quan hệ chính trị (\"political connection\"). Chi tiết \"thời hạn bản án ban đầu của người nộp đơn\" không được đề cập làm yếu tố ảnh hưởng.\n- **Dạng câu hỏi Quy chiếu (R4Q6):** Định vị cụm từ **\"this framing\"** ở cuối đoạn 2 (\"critics counter that this framing assumes...\"). Đọc phần trước của đoạn 2: những người ủng hộ lập luận dựa trên lòng khoan hồng và sự cải tạo (\"appeal to mercy and rehabilitation\"). Do đó, \"this framing\" quy chiếu thẳng đến lập luận về lòng khoan hồng và cải tạo này.\n- **Dạng câu hỏi Suy luận (R4Q7):** Phân tích lập luận ở đoạn 3: tác giả nêu lý thuyết của một số nhà nghiên cứu rằng tác động răn đe của thời hạn bản án vốn yếu hơn người ta tưởng, \"in which case clemency's marginal cost to deterrence would be correspondingly small\". Từ đó suy luận rằng nếu quan điểm của họ đúng, chi phí tổn thất đối với tính răn đe khi áp dụng ân xá sẽ là rất nhỏ.\n- **Dạng câu hỏi Chèn câu vào văn bản (R4Q8):** Xem xét vị trí câu chèn chứa cụm **\"Neither failure mode\"** (Không có chế độ thất bại nào trong hai cái). Đoạn 6 đã phân tích 2 mô hình thất bại: [1] bỏ hoàn toàn ân xá làm mất cơ hội sửa sai, và [2] áp dụng quá tự do/không đều làm giảm tính răn đe. Vị trí **[3]** là phù hợp nhất để đặt câu chèn nhằm tóm tắt lại rằng cả hai mô hình thất bại trên đều không phải là lựa chọn an toàn hơn, trước khi dẫn đến câu [4] kết luận chưa có công thức cân bằng.\n- **Dạng câu hỏi Thái độ tác giả (R4Q10):** Phân tích sắc thái toàn bài và đoạn kết: tác giả không nghiêng hẳn về bên nào mà phân tích sâu các khía cạnh dữ liệu, thách thức và yếu tố quản lý hệ thống. Tác giả giữ thái độ phân tích khách quan (Analytical), coi đây là sự đánh đổi chưa có lời giải triệt để và phụ thuộc vào cách thiết kế hệ thống.\nLời khuyên: Hãy ưu tiên giải quyết nhanh các câu hỏi định vị trực tiếp như Từ vựng (R4Q3, R4Q9) và Quy chiếu (R4Q6). Kế tiếp, sử dụng kỹ năng đọc quét nhanh để làm câu **Chi tiết** (R4Q1) và **Loại trừ** (R4Q5). Cuối cùng, kết nối mạch lập luận giữa các đoạn để hoàn thành chính xác nhóm câu hỏi tư duy cao gồm **Chèn câu** (R4Q8), **Mối liên hệ / Suy luận** (R4Q4, R4Q7), **Ý chính** (R4Q2) và **Thái độ tác giả** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend, who is about to move to a new place near the university.\nRead part of their email below.\nI'm finally moving to a new place near the university next week, and there's so much to organize! I was hoping you could help me out with a few things.\n- Do you know of any good moving services I could use?\n- Would you be free to help me pack up my things before the move?\n- What is the neighbourhood around the university like?\nWrite an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend, who is about to move to a new place near the university.",
+      "Read part of their email below."
+     ],
+     "quote": [
+      "I'm finally moving to a new place near the university next week, and there's so much to organize! I was hoping you could help me out with a few things.",
+      "- Do you know of any good moving services I could use?",
+      "- Would you be free to help me pack up my things before the move?",
+      "- What is the neighbourhood around the university like?"
+     ],
+     "instruction": "Write an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (Thư thân mật) trả lời bạn thân đang chuẩn bị chuyển đến gần trường đại học.\n- Đề bài có **3 yêu cầu chính** cần trả lời đầy đủ: (1) gợi ý dịch vụ chuyển nhà, (2) xác nhận có rảnh để giúp đóng gói đồ đạc không, (3) miêu tả khu vực lân cận trường đại học.\n- Bài viết cần đạt tối thiểu **120 từ**, giọng văn thân mật, nhiệt tình vì đây là thư gửi bạn bè.\n- Cần trả lời rõ ràng, cụ thể cho từng yêu cầu, thể hiện sự sẵn lòng giúp đỡ.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear [Name],\n- **Opening:** Thể hiện sự hào hứng và sẵn lòng giúp đỡ. Ví dụ: I was so happy to hear that you're finally moving near the university! I'd be glad to help in any way I can.\n- **Body 1 (Dịch vụ chuyển nhà):** Gợi ý dịch vụ cụ thể. Ví dụ: As for moving services, I'd recommend contacting a local moving company, as they are usually affordable and reliable for short-distance moves.\n- **Body 2 (Giúp đóng gói):** Xác nhận sự sẵn lòng giúp đỡ. Ví dụ: I'd be more than happy to come over and help you pack up your things this weekend, if that works for you.\n- **Body 3 (Khu vực xung quanh):** Miêu tả khu vực lân cận. Ví dụ: Regarding the neighbourhood, it's a lively area with plenty of cafes, bookshops, and a large park nearby, so I'm sure you'll enjoy living there.\n- **Closing & Sign-off:** Kết thúc và chúc mừng bạn. Ví dụ: I hope the move goes smoothly! Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì **hiện tại đơn** khi miêu tả khu vực và thì **tương lai gần (be going to/would)** khi đề cập đến kế hoạch giúp đỡ.\n- Dùng các cấu trúc như \"I'd recommend...\", \"I'd be happy to...\", \"If that works for you\" để lời đề nghị tự nhiên hơn.\n- Tránh lặp từ \"move\" hoặc \"neighbourhood\" quá nhiều, hãy thay bằng các cách diễn đạt khác.\n- Mỗi câu trả lời nên có ít nhất một chi tiết cụ thể để bài viết chân thực hơn.\nTừ vựng quan trọng:\n- **Moving service:** Dịch vụ chuyển nhà\n- **Pack up one's belongings:** Đóng gói đồ đạc\n- **Neighbourhood:** Khu vực lân cận, khu dân cư\n- **Lively area:** Khu vực sôi động, nhộn nhịp\n- **Affordable:** Có giá cả phải chăng\n- **Reliable:** Đáng tin cậy\n- **Within walking distance:** Trong khoảng cách đi bộ\nTừ nối (Linking words):\n- **As for...:** Còn về...\n- **Regarding...:** Về vấn đề...\n- **Also / In addition:** Ngoài ra\n- **So:** Vì vậy\n- **If that works for you:** Nếu điều đó phù hợp với bạn\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I was so happy to hear that...:** Tôi đã rất vui khi nghe rằng...\n- **I'd be more than happy to...:** Tôi rất sẵn lòng để...\n- **I hope the move goes smoothly:** Tôi hy vọng việc chuyển nhà diễn ra suôn sẻ\n\n**4. Các lỗi thường gặp:**\n- Bỏ sót một trong ba yêu cầu mà bạn đặt ra.\n- Trả lời quá chung chung mà không đưa ra gợi ý hoặc chi tiết cụ thể.\n- Sử dụng giọng văn quá trang trọng, không phù hợp với thư gửi bạn thân.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã trả lời đủ cả 3 yêu cầu: dịch vụ chuyển nhà, giúp đóng gói, khu vực lân cận.\n- Đếm số từ để đảm bảo đạt tối thiểu 120 từ.\n- Kiểm tra giọng văn đã đủ thân mật, nhiệt tình như đang giúp đỡ bạn bè thật sự.\n\n**6. Tư duy làm bài:**\nHãy tưởng tượng bạn đang thật sự giúp đỡ một người bạn thân chuẩn bị chuyển nhà. Sự nhiệt tình, cụ thể và chân thành trong từng câu trả lời sẽ giúp bài viết tự nhiên và ghi điểm cao hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nWith the rise of social media platforms, sharing details of one's daily life online has become an increasingly common habit among people of all ages.\nSome people believe that sharing personal experiences on social media helps them connect with others and preserve memories, while others argue that it invades privacy and creates unnecessary pressure to present a perfect image of one's life.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about sharing one's life on social media. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "With the rise of social media platforms, sharing details of one's daily life online has become an increasingly common habit among people of all ages.",
+      "Some people believe that sharing personal experiences on social media helps them connect with others and preserve memories, while others argue that it invades privacy and creates unnecessary pressure to present a perfect image of one's life.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about sharing one's life on social media. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Discussion Essay**, yêu cầu thảo luận cả hai quan điểm trái ngược về việc chia sẻ cuộc sống cá nhân lên mạng xã hội trước khi đưa ra ý kiến cá nhân.\n- Bạn cần trình bày rõ quan điểm ủng hộ việc chia sẻ (kết nối, lưu giữ kỷ niệm) và quan điểm phản đối (xâm phạm riêng tư, tạo áp lực).\n- Yêu cầu tối thiểu là **250 từ**, cần có sự cân bằng giữa hai quan điểm trước khi khẳng định ý kiến riêng ở phần kết luận.\n- Tránh chỉ trình bày một phía hoặc nghiêng hẳn về một quan điểm ngay từ đầu bài, vì đây là lỗi nghiêm trọng trong dạng bài Discussion.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu hai quan điểm trái ngược về việc chia sẻ cuộc sống lên mạng xã hội. Ví dụ: While some people find sharing their daily lives on social media a valuable way to stay connected, others view it as an invasion of privacy.\n- **Body 1 (Ủng hộ):** Topic sentence, giải thích, ví dụ. Ví dụ: On the one hand, supporters argue that sharing personal moments online allows people to maintain close relationships with friends and family who live far away, as well as preserve precious memories in an easily accessible form.\n- **Body 2 (Phản đối):** Topic sentence, giải thích, ví dụ. Ví dụ: On the other hand, critics contend that constantly posting about one's life exposes personal information to strangers and creates pressure to portray an idealized, often unrealistic image of one's daily experiences.\n- **Conclusion:** Đưa ra quan điểm cá nhân, tóm tắt. Ví dụ: In conclusion, although sharing one's life online can strengthen connections, I believe people should be mindful of what they post in order to protect their privacy and mental wellbeing.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì **hiện tại đơn** để nêu sự thật chung và quan điểm phổ biến về mạng xã hội.\n- Phát triển ý theo cấu trúc: câu chủ đề - giải thích - ví dụ - mini kết luận cho mỗi đoạn thân bài.\n- Cần có **thesis statement** rõ ràng ở mở bài nêu rằng bài sẽ thảo luận cả hai quan điểm.\n- Tránh lặp từ \"social media\" liên tục, hãy thay bằng các cách diễn đạt khác.\nTừ vựng quan trọng:\n- **Personal privacy:** Sự riêng tư cá nhân\n- **Stay connected:** Duy trì kết nối\n- **Idealized image:** Hình ảnh được lý tưởng hóa\n- **Preserve memories:** Lưu giữ kỷ niệm\n- **Mental wellbeing:** Sức khỏe tinh thần\n- **Oversharing:** Chia sẻ quá mức\n- **Digital footprint:** Dấu vết kỹ thuật số\nTừ nối (Linking words):\n- **Contrast - On the one hand/On the other hand:** Một mặt/Mặt khác\n- **Contrast - However/Nevertheless:** Tuy nhiên\n- **Adding - In addition/Moreover:** Thêm vào đó\n- **Example - For instance/Such as:** Ví dụ như\n- **Cause-effect - As a result/Consequently:** Kết quả là, do đó\n- **Conclusion - In conclusion/Overall:** Tóm lại, nhìn chung\nDiễn đạt lại ý (Paraphrasing):\n- **Broadcasting one's daily life:** Thay cho \"sharing one's life on social media\".\n- **An invasion of personal space:** Cách diễn đạt khác cho \"invading privacy\".\n- **Curating an online persona:** Thay cho \"presenting a perfect image\".\nCách diễn đạt ý kiến / so sánh:\n- **While I acknowledge that..., I believe...:** Mặc dù tôi thừa nhận rằng..., tôi tin rằng...\n- **Unlike those who..., I feel that...:** Không giống như những người..., tôi cảm thấy rằng...\n- **From my perspective, ...:** Theo quan điểm của tôi, ...\n\n**4. Các lỗi thường gặp:**\n- Chỉ trình bày một quan điểm mà bỏ qua quan điểm còn lại.\n- Đưa ra ý kiến cá nhân ngay từ đầu bài thay vì thảo luận khách quan trước.\n- Thiếu ví dụ cụ thể để minh họa cho mỗi quan điểm.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã có Thesis Statement rõ ràng ở mở bài chưa.\n- Đảm bảo đã thảo luận đầy đủ cả hai quan điểm trước khi nêu ý kiến cá nhân.\n- Đếm số từ để chắc chắn đạt tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\nHãy tư duy theo trình tự logic: trước tiên trình bày lợi ích của việc chia sẻ cuộc sống lên mạng xã hội, sau đó trình bày những rủi ro và mặt trái, và cuối cùng đưa ra ý kiến cá nhân có lý lẽ rõ ràng và cân bằng."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about green spaces\n\n1\nAre there many green spaces, such as parks or gardens, in the area where you live?\n2\nHow often do you visit green spaces near your home?\n3\nDo you think cities should have more green spaces? Why?\n\nNow, let’s talk about food\n\n4\nWhat kind of food do you enjoy eating the most?\n5\nDo you prefer home-cooked food or food from restaurants?\n6\nDo you think eating habits have changed a lot compared to the past?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này có **2 chủ đề nhỏ**: **Topic A (Green Spaces)** và **Topic B (Food)**.\n- **Topic A (Green Spaces):** Ba câu hỏi đầu kiểm tra khả năng mô tả không gian xanh nơi sinh sống, tần suất ghé thăm, và quan điểm về tầm quan trọng của không gian xanh trong đô thị.\n- **Topic B (Food):** Ba câu hỏi sau kiểm tra khả năng nói về sở thích ăn uống, so sánh giữa ăn ở nhà và ăn ngoài, và quan điểm về sự thay đổi thói quen ăn uống theo thời gian.\n- Tiêu chí đánh giá gồm **Fluency, Vocabulary, Grammar và Pronunciation**.\n- Thời gian Part 1 là **3 phút**, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)** để trả lời đầy đủ và có chiều sâu.\n- **Ví dụ Topic A:** \"Yes, there's a small park near my house where I often go jogging in the morning, and it really helps me relax before starting my day.\"\n- **Ví dụ Topic B:** \"I really enjoy Vietnamese traditional food, especially noodle soups, because they're both delicious and comforting.\"\n- Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n- Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Besides enjoying green spaces, I'd also like to share a bit about my eating habits.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng **hiện tại đơn** khi mô tả thói quen chung, dùng **so sánh hơn** khi so sánh quá khứ và hiện tại về thói quen ăn uống.\n- Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n- Từ vựng cho Topic A: a breath of fresh air, urban greenery, reduce air pollution, a place to unwind.\n- Từ vựng cho Topic B: a well-balanced meal, home-cooked food, dine out, culinary preferences.\nCụm từ quan trọng nên dùng:\n- **a breath of fresh air** (một luồng không khí trong lành)\n- **urban greenery** (mảng xanh đô thị)\n- **reduce air pollution** (giảm ô nhiễm không khí)\n- **a well-balanced meal** (một bữa ăn cân bằng dinh dưỡng)\n- **home-cooked food** (đồ ăn tự nấu tại nhà)\n- **culinary preferences** (sở thích ẩm thực)\nTừ nối khi nói (Linking Words):\n- **Firstly** - trước hết, dùng để mở đầu ý.\n- **Besides** - bên cạnh đó, dùng để bổ sung ý.\n- **For example** - ví dụ như, dùng khi minh họa.\n- **However** - tuy nhiên, dùng khi đối chiếu ý kiến.\n- **Overall** - nhìn chung, dùng để tổng kết ý.\nCách thể hiện quan điểm tự nhiên:\n- **Personally, I think...** Ví dụ: \"Personally, I think green spaces are essential for people's mental health in busy cities.\"\n- **In my opinion...** Ví dụ: \"In my opinion, home-cooked food is usually healthier than restaurant food.\"\n- **I would say that...** Ví dụ: \"I would say that people's eating habits have become more convenience-focused compared to the past.\"\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n- Ở Topic A, chỉ nói tên công viên mà không mô tả hoạt động hay lý do ghé thăm.\n- Ở Topic B, chỉ liệt kê tên món ăn mà không giải thích lý do yêu thích.\n- Dùng sai thì khi so sánh thói quen ăn uống giữa quá khứ và hiện tại.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n- Với Topic A, nếu bí ý, hãy mô tả một buổi đi dạo công viên gần đây của bạn.\n- Với Topic B, nếu bí ý, hãy kể về một món ăn cụ thể bạn thường ăn.\n\n**6. Tư duy làm bài nói:**\n- Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou saw your friend cheating during an exam and need to decide how to react.\n\nYou are considering the following options:\n\nOption 1: Ignore what you saw and say nothing\nOption 2: Report the incident to the teacher\nOption 3: Talk directly to your friend about it\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần chọn cách xử lý phù hợp nhất khi phát hiện bạn mình gian lận trong kỳ thi, trong ba lựa chọn: phớt lờ, báo giáo viên, hoặc nói chuyện trực tiếp với bạn đó.\n- Ba lựa chọn khác biệt về mức độ can thiệp, tính công bằng, và ảnh hưởng đến mối quan hệ bạn bè.\n- Thời gian là **4 phút**; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Introduction – Comparison – Conclusion** để trình bày mạch lạc.\n- **Option 1 (phớt lờ):** \"Ignoring the situation might avoid conflict in the short term, but it could make you feel guilty for not doing anything about dishonest behavior.\"\n- **Option 2 (báo giáo viên):** \"Reporting the incident to the teacher ensures fairness for other students, although it might damage your friendship if your friend feels betrayed.\"\n- **Option 3 (nói chuyện trực tiếp):** \"Talking directly to your friend allows you to address the issue personally and give them a chance to correct their behavior before it becomes more serious.\"\n- Nên neo lập luận vào giá trị công bằng trong thi cử và tầm quan trọng của tình bạn.\n- Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike simply ignoring it, talking directly to your friend addresses the issue while preserving the relationship.\"\n- Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n- Paraphrase \"cheating\" bằng \"academic dishonesty\"; paraphrase \"tell the teacher\" bằng \"report the incident\". Cụm từ quan trọng nên dùng:\n- **academic dishonesty** (gian lận trong học tập)\n- **a sense of fairness** (tinh thần công bằng)\n- **damage the friendship** (làm tổn hại tình bạn)\n- **address the issue personally** (giải quyết vấn đề một cách cá nhân)\n- **serious consequences** (những hậu quả nghiêm trọng)\n- **a moral dilemma** (một tình huống khó xử về đạo đức)\nTừ nối khi nói (Linking Words):\n- **Compared with** - so với, dùng khi so sánh hai lựa chọn.\n- **Whereas** - trong khi đó, dùng để đối lập.\n- **Nevertheless** - tuy nhiên, dùng để chuyển ý ngược lại.\n- **Taking everything into account** - xét tất cả các yếu tố, dùng trước kết luận.\n- **In terms of** - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n- **If I had to choose, I would go with...** Ví dụ: \"If I had to choose, I would go with talking to my friend directly first, before considering any other action.\"\n- **I'm more inclined towards...** Ví dụ: \"I'm more inclined towards a private conversation rather than reporting\nimmediately.\"\n- **All things considered...** Ví dụ: \"All things considered, speaking to my friend directly seems like the most respectful first step.\"\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ \"good\"/\"bad\" quá nhiều thay vì dùng tính từ học thuật hơn.\n- Không có kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng liên quan đến một lựa chọn, chuyển hướng sang nói về yếu tố đạo đức hoặc mối quan hệ bạn bè.\n- Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n\n**6. Tư duy làm bài nói:**\n- Đặt mình vào vị trí người chứng kiến sự việc - lựa chọn nào vừa công bằng vừa giữ được tình bạn?\n- Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ chỉ báo giáo viên nếu việc nói chuyện trực tiếp không có hiệu quả, để thể hiện tư duy theo từng bước hợp lý.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of cashless payment\n\nBenefits of Cashless Payment\nConvenience in daily transactions\nEnhanced safety and security of money\nSpeed and efficiency of payment processes\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think cashless payment will completely replace cash in the future?\n2\nWhat are some risks associated with cashless payment methods?\n3\nHow has cashless payment changed shopping habits in your country?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển bài nói về lợi ích của thanh toán không dùng tiền mặt, dựa trên ba nhánh chính và một nhánh ý kiến cá nhân.\n- Ba nhánh chính gồm: sự tiện lợi trong giao dịch hằng ngày, tăng cường độ an toàn và bảo mật tiền bạc, và tốc độ cũng như hiệu quả của quy trình thanh toán.\n- **Gợi ý cho nhánh thứ 4 (ý kiến cá nhân):** có thể phát triển theo hướng thanh toán không tiền mặt giúp quản lý chi tiêu dễ dàng hơn nhờ lịch sử giao dịch được lưu lại tự động.\n- Thời gian là **5 phút**: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL (Point – Explanation – Example – Link)** để trình bày từng nhánh của sơ đồ tư duy.\n- **Ví dụ mở bài:** \"Today, I'd like to talk about the benefits of cashless payment in our modern lives.\"\n- **Ví dụ cho nhánh ý kiến cá nhân:** \"In my opinion, cashless payment also makes it easier to track spending, since every transaction is automatically recorded in an app.\"\n- Nên đưa ví dụ thực tế như quét mã QR để thanh toán tại quán ăn, hoặc chuyển khoản nhanh chóng qua ứng dụng ngân hàng.\n- Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n- Về thì: dùng **hiện tại đơn** cho sự thật chung, dùng **hiện tại hoàn thành** khi nói về xu hướng thanh toán không tiền mặt đã tăng lên trong những năm gần đây.\n- Paraphrase \"cashless payment\" bằng \"digital transactions\" hoặc \"electronic payment methods\" để tránh lặp từ. Cụm từ quan trọng nên dùng:\n- **a seamless transaction** (một giao dịch liền mạch)\n- **enhanced security** (sự bảo mật được tăng cường)\n- **minimize the risk of theft** (giảm thiểu nguy cơ trộm cắp)\n- **time-saving process** (một quy trình tiết kiệm thời gian)\n- **track spending habits** (theo dõi thói quen chi tiêu)\n- **digital transactions** (các giao dịch điện tử)\nTừ nối khi nói (Linking Words):\n- **To begin with** - trước hết, dùng để mở đầu nhánh đầu tiên.\n- **Moving on to** - chuyển sang, dùng khi chuyển nhánh ý.\n- **Furthermore** - hơn nữa, dùng để bổ sung ý.\n- **In addition to that** - thêm vào đó, dùng để mở rộng ý.\n- **To sum up** - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **I firmly believe that...** Ví dụ: \"I firmly believe that cashless payment has made everyday transactions much more convenient.\"\n- **It seems to me that...** Ví dụ: \"It seems to me that more people are choosing digital payment over carrying cash.\"\n- **What strikes me most is...** Ví dụ: \"What strikes me most is how quickly a payment can be completed with just a scan of a QR code.\"\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"Do you think cashless payment will completely replace cash in the future?\"** - Có thể, vì ngày càng nhiều người trẻ ưa chuộng sự tiện lợi của thanh toán điện tử, mặc dù tiền mặt vẫn cần thiết ở một số khu vực nông thôn.\n- **\"What are some risks associated with cashless payment methods?\"** - Một số rủi ro bao gồm bị đánh cắp thông tin tài khoản, lừa đảo trực tuyến, hoặc sự cố kỹ thuật khiến giao dịch không thực hiện được.\n- **\"How has cashless payment changed shopping habits in your country?\"** - Người tiêu dùng hiện nay mua sắm nhanh hơn và thường xuyên hơn nhờ việc thanh toán chỉ mất vài giây qua ứng dụng di động.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê lợi ích mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n- Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n- Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Neo vào trải nghiệm cá nhân, như một lần thanh toán bằng ứng dụng ngân hàng hoặc ví điện tử, khi bí ý.\n- Câu chờ ý học thuật: \"That is an interesting point. If we look at it from an economic perspective...\"\n- Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n\n**7. Tư duy làm bài nói:**\n- Suy nghĩ cân bằng giữa lợi ích và rủi ro của thanh toán không tiền mặt, tránh chỉ nói một chiều.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n- Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about green spaces.\n1.\nAre there many green spaces, such as parks or gardens, in the area where you live?\n2.\nHow often do you visit green spaces near your home?\n3.\nDo you think cities should have more green spaces? Why?\nNow, let’s talk about food.\n4.\nWhat kind of food do you enjoy eating the most?\n5.\nDo you prefer home-cooked food or food from restaurants?\n6.\nDo you think eating habits have changed a lot compared to the past?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này có 2 chủ đề nhỏ: Topic A (Green Spaces) và Topic B (Food).\n• Topic A (Green Spaces): Ba câu hỏi đầu kiểm tra khả năng mô tả không gian xanh nơi sinh sống, tần suất ghé thăm,\nvà quan điểm về tầm quan trọng của không gian xanh trong đô thị.\n• Topic B (Food): Ba câu hỏi sau kiểm tra khả năng nói về sở thích ăn uống, so sánh giữa ăn ở nhà và ăn ngoài, và quan\nđiểm về sự thay đổi thói quen ăn uống theo thời gian.\n• Tiêu chí đánh giá gồm Fluency, Vocabulary, Grammar và Pronunciation.\n• Thời gian Part 1 là 3 phút, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE) để trả lời đầy đủ và có chiều sâu.\n• Ví dụ Topic A: \"Yes, there's a small park near my house where I often go jogging in the morning, and it really helps\nme relax before starting my day.\"\n• Ví dụ Topic B: \"I really enjoy Vietnamese traditional food, especially noodle soups, because they're both delicious and\ncomforting.\"\n• Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n• Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Besides enjoying green spaces, I'd also like to\nshare a bit about my eating habits.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng hiện tại đơn khi mô tả thói quen chung, dùng so sánh hơn khi so sánh quá khứ và hiện tại về thói quen ăn uống.\n• Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n• Từ vựng cho Topic A: a breath of fresh air, urban greenery, reduce air pollution, a place to unwind.\n• Từ vựng cho Topic B: a well-balanced meal, home-cooked food, dine out, culinary preferences.\nCụm từ quan trọng nên dùng:\n• a breath of fresh air (một luồng không khí trong lành)\n• urban greenery (mảng xanh đô thị)\n• reduce air pollution (giảm ô nhiễm không khí)\n• a well-balanced meal (một bữa ăn cân bằng dinh dưỡng)\n• home-cooked food (đồ ăn tự nấu tại nhà)\n• culinary preferences (sở thích ẩm thực)\nTừ nối khi nói (Linking Words):\n• Firstly - trước hết, dùng để mở đầu ý.\n• Besides - bên cạnh đó, dùng để bổ sung ý.\n• For example - ví dụ như, dùng khi minh họa.\n• However - tuy nhiên, dùng khi đối chiếu ý kiến.\n• Overall - nhìn chung, dùng để tổng kết ý.\nCách thể hiện quan điểm tự nhiên:\n• Personally, I think... Ví dụ: \"Personally, I think green spaces are essential for people's mental health in busy cities.\"\n• In my opinion... Ví dụ: \"In my opinion, home-cooked food is usually healthier than restaurant food.\"\n• I would say that... Ví dụ: \"I would say that people's eating habits have become more convenience-focused compared\nto the past.\"\n4. Các lỗi thường gặp:\n• Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n• Ở Topic A, chỉ nói tên công viên mà không mô tả hoạt động hay lý do ghé thăm.\n• Ở Topic B, chỉ liệt kê tên món ăn mà không giải thích lý do yêu thích.\n• Dùng sai thì khi so sánh thói quen ăn uống giữa quá khứ và hiện tại.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n• Với Topic A, nếu bí ý, hãy mô tả một buổi đi dạo công viên gần đây của bạn.\n• Với Topic B, nếu bí ý, hãy kể về một món ăn cụ thể bạn thường ăn.\n6. Tư duy làm bài nói:\n• Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYou saw your friend cheating during an exam and need to decide how to react.\nYou are considering the following options:\n• Option 1: Ignore what you saw and say nothing\n• Option 2: Report the incident to the teacher\n• Option 3: Talk directly to your friend about it\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần chọn cách xử lý phù hợp nhất khi phát hiện bạn mình gian lận trong kỳ thi,\ntrong ba lựa chọn: phớt lờ, báo giáo viên, hoặc nói chuyện trực tiếp với bạn đó.\n• Ba lựa chọn khác biệt về mức độ can thiệp, tính công bằng, và ảnh hưởng đến mối quan hệ bạn bè.\n• Thời gian là 4 phút; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Introduction – Comparison – Conclusion để trình bày mạch lạc.\n• Option 1 (phớt lờ): \"Ignoring the situation might avoid conflict in the short term, but it could make you feel guilty for\nnot doing anything about dishonest behavior.\"\n• Option 2 (báo giáo viên): \"Reporting the incident to the teacher ensures fairness for other students, although it might\ndamage your friendship if your friend feels betrayed.\"\n• Option 3 (nói chuyện trực tiếp): \"Talking directly to your friend allows you to address the issue personally and give\nthem a chance to correct their behavior before it becomes more serious.\"\n• Nên neo lập luận vào giá trị công bằng trong thi cử và tầm quan trọng của tình bạn.\n• Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike simply ignoring it, talking directly to your friend\naddresses the issue while preserving the relationship.\"\n• Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n• Paraphrase \"cheating\" bằng \"academic dishonesty\"; paraphrase \"tell the teacher\" bằng \"report the incident\".\nCụm từ quan trọng nên dùng:\n• academic dishonesty (gian lận trong học tập)\n• a sense of fairness (tinh thần công bằng)\n• damage the friendship (làm tổn hại tình bạn)\n• address the issue personally (giải quyết vấn đề một cách cá nhân)\n• serious consequences (những hậu quả nghiêm trọng)\n• a moral dilemma (một tình huống khó xử về đạo đức)\nTừ nối khi nói (Linking Words):\n• Compared with - so với, dùng khi so sánh hai lựa chọn.\n• Whereas - trong khi đó, dùng để đối lập.\n• Nevertheless - tuy nhiên, dùng để chuyển ý ngược lại.\n• Taking everything into account - xét tất cả các yếu tố, dùng trước kết luận.\n• In terms of - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n• If I had to choose, I would go with... Ví dụ: \"If I had to choose, I would go with talking to my friend directly first, before\nconsidering any other action.\"\n• I'm more inclined towards... Ví dụ: \"I'm more inclined towards a private conversation rather than reporting\nimmediately.\"\n• All things considered... Ví dụ: \"All things considered, speaking to my friend directly seems like the most respectful\nfirst step.\"\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ \"good\"/\"bad\" quá nhiều thay vì dùng tính từ học thuật hơn.\n• Không có kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng liên quan đến một lựa chọn, chuyển hướng sang nói về yếu tố đạo đức hoặc mối quan hệ bạn bè.\n• Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n6. Tư duy làm bài nói:\n• Đặt mình vào vị trí người chứng kiến sự việc - lựa chọn nào vừa công bằng vừa giữ được tình bạn?\n• Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ chỉ báo giáo viên nếu việc nói chuyện trực tiếp không\ncó hiệu quả, để thể hiện tư duy theo từng bước hợp lý.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of cashless payment\nConvenience in daily transactions\nEnhanced safety and security of money\nBenefits of Cashless Payment\nÝ tưởng của bạn\nSpeed and efficiency of payment\nprocesses\nFOLLOW-UP QUESTIONS\n1.\nDo you think cashless payment will completely replace cash in the future?\n2.\nWhat are some risks associated with cashless payment methods?\n3.\nHow has cashless payment changed shopping habits in your country?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển bài nói về lợi ích của thanh toán không dùng tiền mặt, dựa trên ba nhánh chính và một\nnhánh ý kiến cá nhân.\n• Ba nhánh chính gồm: sự tiện lợi trong giao dịch hằng ngày, tăng cường độ an toàn và bảo mật tiền bạc, và tốc độ\ncũng như hiệu quả của quy trình thanh toán.\n• Gợi ý cho nhánh thứ 4 (ý kiến cá nhân): có thể phát triển theo hướng thanh toán không tiền mặt giúp quản lý chi tiêu\ndễ dàng hơn nhờ lịch sử giao dịch được lưu lại tự động.\n• Thời gian là 5 phút: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point – Explanation – Example – Link) để trình bày từng nhánh của sơ đồ tư duy.\n• Ví dụ mở bài: \"Today, I'd like to talk about the benefits of cashless payment in our modern lives.\"\n• Ví dụ cho nhánh ý kiến cá nhân: \"In my opinion, cashless payment also makes it easier to track spending, since every\ntransaction is automatically recorded in an app.\"\n• Nên đưa ví dụ thực tế như quét mã QR để thanh toán tại quán ăn, hoặc chuyển khoản nhanh chóng qua ứng dụng\nngân hàng.\n• Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n• Về thì: dùng hiện tại đơn cho sự thật chung, dùng hiện tại hoàn thành khi nói về xu hướng thanh toán không tiền mặt\nđã tăng lên trong những năm gần đây.\n• Paraphrase \"cashless payment\" bằng \"digital transactions\" hoặc \"electronic payment methods\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• a seamless transaction (một giao dịch liền mạch)\n• enhanced security (sự bảo mật được tăng cường)\n• minimize the risk of theft (giảm thiểu nguy cơ trộm cắp)\n• time-saving process (một quy trình tiết kiệm thời gian)\n• track spending habits (theo dõi thói quen chi tiêu)\n• digital transactions (các giao dịch điện tử)\nTừ nối khi nói (Linking Words):\n• To begin with - trước hết, dùng để mở đầu nhánh đầu tiên.\n• Moving on to - chuyển sang, dùng khi chuyển nhánh ý.\n• Furthermore - hơn nữa, dùng để bổ sung ý.\n• In addition to that - thêm vào đó, dùng để mở rộng ý.\n• To sum up - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n• I firmly believe that... Ví dụ: \"I firmly believe that cashless payment has made everyday transactions much more\nconvenient.\"\n• It seems to me that... Ví dụ: \"It seems to me that more people are choosing digital payment over carrying cash.\"\n• What strikes me most is... Ví dụ: \"What strikes me most is how quickly a payment can be completed with just a scan\nof a QR code.\"\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"Do you think cashless payment will completely replace cash in the future?\" - Có thể, vì ngày càng nhiều người trẻ\nưa chuộng sự tiện lợi của thanh toán điện tử, mặc dù tiền mặt vẫn cần thiết ở một số khu vực nông thôn.\n• \"What are some risks associated with cashless payment methods?\" - Một số rủi ro bao gồm bị đánh cắp thông tin\ntài khoản, lừa đảo trực tuyến, hoặc sự cố kỹ thuật khiến giao dịch không thực hiện được.\n• \"How has cashless payment changed shopping habits in your country?\" - Người tiêu dùng hiện nay mua sắm nhanh\nhơn và thường xuyên hơn nhờ việc thanh toán chỉ mất vài giây qua ứng dụng di động.\n5. Các lỗi thường gặp:\n• Liệt kê lợi ích mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n• Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n• Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Neo vào trải nghiệm cá nhân, như một lần thanh toán bằng ứng dụng ngân hàng hoặc ví điện tử, khi bí ý.\n• Câu chờ ý học thuật: \"That is an interesting point. If we look at it from an economic perspective...\"\n• Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n7. Tư duy làm bài nói:\n• Suy nghĩ cân bằng giữa lợi ích và rủi ro của thanh toán không tiền mặt, tránh chỉ nói một chiều.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n• Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+}

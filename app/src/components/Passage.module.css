@@ -1,0 +1,21 @@
+.wrap { position: relative; padding: 28px clamp(20px, 3.2vw, 44px) 64px; background: var(--surface); min-height: 100%; }
+.head { max-width: calc(68ch + 30px); margin-bottom: 18px; padding-left: 30px; }
+.label { font-size: 11.5px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--accent); }
+.title { font-family: var(--font-read); font-size: 25px; font-weight: 600; letter-spacing: -0.005em; margin: 6px 0 8px; line-height: 1.25; }
+.dir { font-size: 13px; color: var(--ink-3); font-style: italic; }
+.body { max-width: calc(68ch + 30px); padding-left: 30px; font-family: var(--font-read); font-size: 17.5px; line-height: 1.72; color: var(--ink); }
+.para { position: relative; margin: 0 0 1em; text-align: left; hyphens: auto; }
+.pn {
+  position: absolute; left: -30px; top: .3em; width: 20px; text-align: right;
+  font: 600 11.5px/1 var(--font-ui); color: var(--ink-3); font-variant-numeric: tabular-nums;
+}
+.body strong { font-weight: 700; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: var(--accent-line); }
+.mark { background: var(--mark); color: var(--mark-ink); border-radius: 2px; padding: 1px 0; cursor: pointer; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.pop {
+  position: absolute; transform: translate(-50%, calc(-100% - 8px)); z-index: 5;
+  display: flex; background: var(--ink); color: var(--paper); border-radius: 5px; box-shadow: var(--shadow-pop); overflow: hidden;
+}
+.pop button { display: flex; align-items: center; gap: 6px; border: 0; background: transparent; color: inherit; height: 32px; padding: 0 11px; font-size: 13px; font-weight: 500; cursor: pointer; }
+.pop button + button { border-left: 1px solid rgb(255 255 255 / .15); }
+.pop button:hover { background: rgb(255 255 255 / .1); }
+@media (max-width: 900px) { .head, .body { padding-left: 0; } .pn { position: static; display: inline-block; width: auto; margin-right: 8px; } }

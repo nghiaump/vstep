@@ -1,0 +1,47 @@
+.q { padding: 18px 22px 16px; border-bottom: 1px solid var(--rule); scroll-margin: 12px; position: relative; }
+.q::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: transparent; transition: background .15s; }
+.active::before { background: var(--accent); }
+.top { display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: start; margin-bottom: 10px; }
+.num {
+  min-width: 28px; height: 28px; padding: 0 6px; border-radius: 4px; display: grid; place-items: center;
+  font-size: 13px; font-weight: 600; font-variant-numeric: tabular-nums; background: var(--sunken); color: var(--ink-2);
+}
+.active .num { background: var(--accent); color: var(--accent-ink); }
+.num.ok { background: var(--ok); color: #fff; }
+.num.bad { background: var(--bad); color: #fff; }
+.num.skip { background: var(--warn-soft); color: var(--warn); }
+.stem { font-size: 15.5px; font-weight: 500; line-height: 1.5; padding-top: 3px; }
+.flag {
+  display: inline-flex; align-items: center; gap: 5px; height: 28px; padding: 0 8px; border: 1px solid transparent; border-radius: 4px;
+  background: transparent; color: var(--ink-3); font-size: 12.5px; cursor: pointer; white-space: nowrap;
+}
+.flag span { display: none; }
+.flag:hover { border-color: var(--rule); color: var(--ink-2); }
+.flag:hover span, .flagOn span { display: inline; }
+.flagOn { color: var(--warn); background: var(--warn-soft); }
+.opts { display: grid; gap: 6px; padding-left: 40px; }
+.opt {
+  display: grid; grid-template-columns: 26px 1fr auto; gap: 10px; align-items: start;
+  padding: 8px 10px; border: 1px solid var(--rule); border-radius: 5px; background: var(--surface);
+  cursor: pointer; font-size: 15px; line-height: 1.45; transition: border-color .1s, background .1s;
+}
+.opt:hover { border-color: var(--accent-line); }
+.opt:focus-within { outline: 2px solid var(--accent); outline-offset: 1px; }
+.letter {
+  width: 24px; height: 24px; border-radius: 50%; border: 1.5px solid var(--rule-strong); display: grid; place-items: center;
+  font-size: 12px; font-weight: 600; color: var(--ink-2); margin-top: -1px;
+}
+.text { padding-top: 1px; }
+.chosen { border-color: var(--accent); background: var(--accent-soft); }
+.chosen .letter { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.locked { cursor: default; }
+.locked:hover { border-color: var(--rule); }
+.right { border-color: var(--ok); background: var(--ok-soft); }
+.right .letter { background: var(--ok); border-color: var(--ok); color: #fff; }
+.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.wrong .letter { background: var(--bad); border-color: var(--bad); color: #fff; }
+.mark { margin-top: 3px; }
+.right .mark { color: var(--ok); } .wrong .mark { color: var(--bad); }
+.explain { margin: 12px 0 0 40px; padding: 10px 14px; border-left: 2px solid var(--accent-line); background: var(--surface-2); font-size: 14px; color: var(--ink-2); }
+.explainHead { display: flex; align-items: center; gap: 10px; margin-bottom: 4px; flex-wrap: wrap; font-size: 13px; }
+@media (max-width: 640px) { .opts, .explain { padding-left: 0; margin-left: 0; } .q { padding: 16px 14px; } }

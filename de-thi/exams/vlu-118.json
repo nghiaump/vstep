@@ -1,0 +1,715 @@
+{
+ "id": "vlu-118",
+ "number": 118,
+ "title": "Đề thi VLU 118",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-118",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Plastic Problem",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Plastic has become one of the most common materials in modern life. It is cheap to produce, light to carry, and easy to shape into almost any form, so factories use it to make everything from food containers and toys to medical tools and car parts. Global plastic production has grown enormously since the middle of the twentieth century. In 1950, factories worldwide made about two million tons of plastic; today that figure has climbed past four hundred million tons a year, and it continues to rise as more industries switch to plastic parts.",
+     "A large share of this plastic does not stay in use for long. Packaging, bags, and bottles are often thrown away within days or even minutes of purchase, yet the material itself is remarkably **durable** and can survive in the environment for centuries. Scientists estimate that around eight million tons of plastic waste enter the world's oceans every year, carried by rivers, wind, and careless disposal near coastlines. Food residue left inside packaging before it is thrown away also makes the material more difficult to recycle once it reaches a processing plant. Once in the water, larger pieces slowly break apart into microplastics — fragments smaller than five millimetres — which fish and seabirds frequently mistake for food.",
+     "Recycling is often presented as the main answer to plastic waste, but the process is harder than it sounds. Studies suggest that only about nine percent of all the plastic ever produced has actually been recycled; most of the rest has been burned, buried in landfills, or discarded directly into nature. One major **obstacle** is that many products combine several different types of plastic, and these types cannot be melted down together without weakening the final material. Because of this, workers must sort plastic carefully by type before it can be processed at all.",
+     "In response to these problems, governments and companies have begun exploring alternatives. Some countries have banned single-use plastic bags and straws, forcing shops to offer paper or cloth options instead. Even though customers sometimes complain about the change, most environmental groups argue that **this** represents real progress toward reducing overall waste. The sorting equipment needed to separate different types of plastic is also expensive, and many local governments simply cannot afford to install it, so some communities send their collected plastic abroad instead, where it may still end up in open dumps. Scientists are also developing bioplastics made from corn starch or seaweed, which break down naturally within months rather than centuries.",
+     "Plastic is unlikely to disappear from everyday life anytime soon, since it remains cheaper and more useful than most substitutes available today. However, small changes — from carrying reusable bags to supporting stronger recycling programs — can significantly slow the flow of waste into rivers and oceans, giving both wildlife and future generations a cleaner environment to live in."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Most countries have now completely banned all single-use plastic products.",
+       "B": "Recycling programs have already solved most of the world's plastic waste.",
+       "C": "Plastic's usefulness has created a waste problem recycling alone cannot solve.",
+       "D": "Food and drink packaging is the main cause of ocean pollution."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Thái độ tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp ý từ đoạn 1 đến đoạn 3: sự hữu ích của nhựa khiến sản lượng tăng vọt, tạo nên vấn đề rác thải khổng lồ mà riêng tái chế chưa thể xử lý dứt điểm."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, roughly how much plastic waste enters the world's oceans each year?",
+      "options": {
+       "A": "Around eight million tons of plastic reach the ocean monthly.",
+       "B": "Around eighty million tons of plastic reach the ocean yearly.",
+       "C": "Around eight million tons of plastic reach the ocean yearly.",
+       "D": "Around eight thousand tons of plastic reach the ocean yearly."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"oceans\" ở đoạn 2 để đối chiếu con số rác thải nhựa đi vào đại dương mỗi năm (chú ý phân biệt đơn vị số lượng \"eight million\" và tần suất \"yearly\" hay \"monthly\")."
+     },
+     {
+      "number": 3,
+      "stem": "According to the passage, what percentage of all plastic ever produced has actually been recycled?",
+      "options": {
+       "A": "Most of it has been burned or buried instead.",
+       "B": "About nine percent has actually been recycled so far.",
+       "C": "About nine percent is recycled only in developed regions.",
+       "D": "About ninety percent has actually been recycled so far."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"recycled\" ở đoạn 3 để xác định tỷ lệ phần trăm thực tế đã được tái chế (chú ý con số \"nine percent\")."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, why can many plastic products not be melted down together during recycling?",
+      "options": {
+       "A": "They are usually contaminated with dangerous industrial chemicals.",
+       "B": "They still contain food residue from their packaging.",
+       "C": "The equipment needed to sort them is too costly.",
+       "D": "They are made of several different plastic types."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"melted down together\" ở đoạn 3 để tìm lý do kỹ thuật khiến nhiều sản phẩm nhựa không thể nấu chảy cùng nhau (do được kết hợp từ nhiều loại nhựa khác nhau - different plastic types)."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason plastic recycling rates remain low?",
+      "options": {
+       "A": "Many products combine several different types of plastic.",
+       "B": "Packaging often still contains leftover food residue.",
+       "C": "Sorting equipment is too expensive for many governments.",
+       "D": "There are too few recycling plants worldwide."
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các lý do khiến tỷ lệ tái chế thấp được đề cập trong bài (dư lượng thực phẩm ở đoạn 2, phối hợp nhiều loại nhựa và chi phí thiết bị đắt đỏ ở đoạn 3 và 4). Chi tiết không xuất hiện trong bài (như việc có quá ít nhà máy tái chế) là phương án cần chọn."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"durable\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "recyclable",
+       "B": "flexible",
+       "C": "indestructible",
+       "D": "long-lasting"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"durable\" ở đoạn 2 mô tả đặc tính có thể tồn tại nhiều thế kỷ trong môi trường của chất liệu nhựa. Ngữ cảnh này thể hiện sự bền bỉ, lâu dài (long-lasting)."
+     },
+     {
+      "number": 7,
+      "stem": "The word \"obstacle\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "disaster",
+       "B": "difficulty",
+       "C": "objective",
+       "D": "requirement"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"obstacle\" ở đoạn 3 mô tả việc kết hợp nhiều loại nhựa gây cản trở cho quá trình tái chế. Từ này đồng nghĩa với khó khăn, trở ngại (difficulty)."
+     },
+     {
+      "number": 8,
+      "stem": "The word \"this\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "the cloth options",
+       "B": "customer complaints",
+       "C": "environmental groups",
+       "D": "the plastic bans"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu trước đại từ chỉ định \"this\" ở đoạn 4 để tìm đối tượng số ít/hành động được đại diện cho tiến trình giảm rác thải (chỉ việc cấm các sản phẩm nhựa dùng một lần - plastic bans)."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about the future of plastic use?",
+      "options": {
+       "A": "Plastic will likely remain widely used despite growing efforts to reduce waste.",
+       "B": "Governments have banned single-use plastic bags in some countries.",
+       "C": "Lower recycling costs caused plastic production to increase rapidly since 1950.",
+       "D": "Bioplastics will completely replace traditional plastic within a few years."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn cuối về tính rẻ, tiện lợi của nhựa cùng với thực tế các sản phẩm thay thế chưa thể thế chỗ hoàn toàn để suy luận rằng nhựa vẫn sẽ tiếp tục được sử dụng rộng rãi."
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall attitude toward the future of plastic waste reduction?",
+      "options": {
+       "A": "Entirely focused on explaining recycling statistics.",
+       "B": "Confident that plastic waste will disappear soon.",
+       "C": "Cautiously hopeful that gradual changes can help.",
+       "D": "Alarmed and pessimistic about ocean pollution. Reading"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "nhận diện sắc thái ở đoạn cuối: tác giả thẳng thắn thừa nhận nhựa khó biến mất ngay nhưng tin rằng những thay đổi nhỏ sẽ mang lại môi trường sạch hơn, thể hiện sự hy vọng có cơ sở/thận trọng (cautiously hopeful)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q3, R1Q4):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q2**, quét từ khóa \"oceans\" ở đoạn 2 để đối chiếu con số rác thải nhựa đi vào đại dương mỗi năm (chú ý phân biệt đơn vị số lượng \"eight million\" và tần suất \"yearly\" hay \"monthly\").\n  - Với **R1Q3**, quét từ khóa \"recycled\" ở đoạn 3 để xác định tỷ lệ phần trăm thực tế đã được tái chế (chú ý con số \"nine percent\").\n  - Với **R1Q4**, quét cụm từ \"melted down together\" ở đoạn 3 để tìm lý do kỹ thuật khiến nhiều sản phẩm nhựa không thể nấu chảy cùng nhau (do được kết hợp từ nhiều loại nhựa khác nhau - different plastic types).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q6, R1Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q6**, từ **\"durable\"** ở đoạn 2 mô tả đặc tính có thể tồn tại nhiều thế kỷ trong môi trường của chất liệu nhựa. Ngữ cảnh này thể hiện sự bền bỉ, lâu dài (long-lasting).\n  - Với **R1Q7**, từ **\"obstacle\"** ở đoạn 3 mô tả việc kết hợp nhiều loại nhựa gây cản trở cho quá trình tái chế. Từ này đồng nghĩa với khó khăn, trở ngại (difficulty).\n- **Dạng câu hỏi Ý chính & Thái độ tác giả (R1Q1, R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt câu chủ đề các đoạn).\n  - Với **R1Q1**, tổng hợp ý từ đoạn 1 đến đoạn 3: sự hữu ích của nhựa khiến sản lượng tăng vọt, tạo nên vấn đề rác thải khổng lồ mà riêng tái chế chưa thể xử lý dứt điểm.\n  - Với **R1Q10**, nhận diện sắc thái ở đoạn cuối: tác giả thẳng thắn thừa nhận nhựa khó biến mất ngay nhưng tin rằng những thay đổi nhỏ sẽ mang lại môi trường sạch hơn, thể hiện sự hy vọng có cơ sở/thận trọng (cautiously hopeful).\n- **Dạng câu hỏi Quy chiếu (R1Q8):** Đọc ngược lại câu trước đại từ chỉ định **\"this\"** ở đoạn 4 để tìm đối tượng số ít/hành động được đại diện cho tiến trình giảm rác thải (chỉ việc cấm các sản phẩm nhựa dùng một lần - plastic bans).\n- **Dạng câu hỏi Loại trừ NOT (R1Q5):** Đối soát các lý do khiến tỷ lệ tái chế thấp được đề cập trong bài (dư lượng thực phẩm ở đoạn 2, phối hợp nhiều loại nhựa và chi phí thiết bị đắt đỏ ở đoạn 3 và 4). Chi tiết không xuất hiện trong bài (như việc có quá ít nhà máy tái chế) là phương án cần chọn.\n- **Dạng câu hỏi Suy luận (R1Q9):** Kết hợp thông tin ở đoạn cuối về tính rẻ, tiện lợi của nhựa cùng với thực tế các sản phẩm thay thế chưa thể thế chỗ hoàn toàn để suy luận rằng nhựa vẫn sẽ tiếp tục được sử dụng rộng rãi.\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi quy chiếu (R1Q8) và từ vựng (R1Q6, R1Q7) để tiết kiệm thời gian. Tiếp theo, áp dụng đọc quét định vị từ khóa cho các câu hỏi chi tiết (R1Q2, R1Q3, R1Q4) và loại trừ (R1Q5). Cuối cùng, tổng hợp bức tranh toàn cảnh để chọn chính xác đáp án cho các câu hỏi tổng hợp như suy luận (R1Q9), ý chính (R1Q1) và thái độ tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Rise of Solar Power",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Although coal and natural gas still generate most of the world's electricity, solar power has expanded faster than any other energy source over the past decade. The price of photovoltaic panels has fallen by more than eighty percent since 2010, a decline driven largely by manufacturing scale and steady technological refinement. In many regions, these lower costs now allow solar installations to compete directly with fossil fuel plants even without government subsidies, a shift that would have seemed unlikely to most energy analysts only fifteen years ago.",
+     "Solar panels generate electricity through a process called the photovoltaic effect, in which sunlight striking a semiconductor material knocks electrons loose and creates an electrical current. Roughly ninety percent of panels sold today rely on silicon, valued for its reliability and low production cost. A newer material called perovskite has drawn strong research interest, since laboratory tests suggest it may eventually push efficiency well beyond silicon's limits; whether perovskite panels can hold **that performance** after years of outdoor heat and moisture, however, remains uncertain.",
+     "Global installed solar capacity passed one thousand gigawatts in 2022, and annual additions have continued to grow at double-digit rates ever since. China alone accounts for roughly a third of new installations worldwide, having invested heavily in both domestic solar farms and the manufacturing plants that supply panels to other countries. India and several Southeast Asian nations have followed a similar path more recently, expanding capacity quickly as equipment costs continue to decline.",
+     "A basic limitation of solar power is that panels only generate electricity while the sun is shining, and output shifts considerably with weather and season. Grid operators must therefore pair solar farms with battery storage or keep other power sources available to cover gaps in production. Battery prices have fallen alongside panel costs, yet storage large enough to support a regional grid still adds substantial expense, a burden smaller utilities often find difficult to absorb.",
+     "Utility-scale solar farms require considerable land, and in some agricultural regions this has put developers and farmers in competition for the same fields. Rooftop installations avoid the problem entirely, since they occupy space that already serves another purpose. Floating arrays, mounted on reservoirs and other bodies of water, offer a related solution: they generate power without converting additional land, and the water beneath can even help keep panels cooler and slightly more efficient.",
+     "Manufacturing photovoltaic panels is itself energy- and resource-intensive, drawing on raw materials, including rare minerals whose extraction has raised environmental and labor concerns in mining regions. Critics argue the solar industry cannot be called fully sustainable until it addresses these **upstream** impacts directly. Supporters counter that panels generate far more clean energy over their lifetime than manufacturing consumes, keeping the net effect on carbon emissions strongly positive.",
+     "Industry forecasts suggest that solar could become the leading source of new electricity generation capacity worldwide within the next decade, provided that storage technology and grid infrastructure continue to improve at their current pace. Some analysts caution, however, that this **trajectory** depends heavily on sustained government policy support and on international cooperation to secure stable supply chains for raw materials, and that either could slow progress considerably if it falters."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Solar power will completely replace fossil fuels within ten years.",
+       "B": "Solar power is growing quickly but still faces real challenges.",
+       "C": "Manufacturing problems make solar panels environmentally worse than fossil fuels.",
+       "D": "Falling panel prices have made solar cheaper than coal everywhere."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Thái độ tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp mạch bài đọc từ sự phát triển nhanh chóng của năng lượng mặt trời đến các thách thức thực tế về lưu trữ, đất đai và sản xuất mà ngành này đang gặp phải."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, by how much has the price of photovoltaic panels fallen since 2010?",
+      "options": {
+       "A": "By more than eighty percent since 2010.",
+       "B": "By more than eighty percent since 2020.",
+       "C": "Because it expanded faster than other energy sources.",
+       "D": "By more than eighteen percent since 2010."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét mốc thời gian \"2010\" ở đoạn 1 để đối chiếu con số phần trăm giá tấm pin quang điện (photovoltaic panels) đã giảm (chú ý phân biệt con số \"eighty percent\" và mốc năm \"2010\")."
+     },
+     {
+      "number": 13,
+      "stem": "According to the passage, roughly what share of new solar installations worldwide does China account for?",
+      "options": {
+       "A": "Roughly one third of new installations.",
+       "B": "Roughly one third of total electricity worldwide.",
+       "C": "Roughly one half of new installations.",
+       "D": "It has invested heavily in solar manufacturing plants."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"China\" ở đoạn 3 để định vị thị phần lắp đặt mới (\"new installations worldwide\") mà Trung Quốc chiếm giữ (chú ý tỷ lệ \"roughly a third\")."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what is one advantage of floating solar arrays mentioned in the passage?",
+      "options": {
+       "A": "They avoid converting additional land for power.",
+       "B": "They completely eliminate the need for battery storage.",
+       "C": "They require far less maintenance than rooftop panels.",
+       "D": "The water beneath the panels keeps them cooler."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"floating solar arrays\" (hệ thống điện mặt trời nổi) ở các đoạn sau để tìm ưu điểm được nhắc đến (giúp tránh việc phải chuyển đổi thêm diện tích đất đai)."
+     },
+     {
+      "number": 15,
+      "stem": "According to the passage, which of the following is NOT mentioned as a challenge facing solar power?",
+      "options": {
+       "A": "Panels degrade rapidly after only a few years.",
+       "B": "All utility-scale solar farms need enormous amounts of land.",
+       "C": "Manufacturing panels raises environmental and labor concerns.",
+       "D": "Panel output varies with weather and season."
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các thách thức được liệt kê trong bài (sự biến động theo thời tiết/mùa ở đoạn 4, nhu cầu đất đai ở đoạn 5, mối lo về môi trường/lao động ở đoạn 6). Chi tiết không được đề cập (như việc tấm pin suy giảm chất lượng nhanh chóng chỉ sau vài năm) là đáp án cần chọn."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"trajectory\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "territory",
+       "B": "course",
+       "C": "investment",
+       "D": "acceleration"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"trajectory\" ở đoạn 7 mô tả hướng phát triển, lộ trình hay con đường tiến trình của năng lượng mặt trời. Ngữ cảnh này sát nghĩa nhất với lộ trình, hướng đi (course)."
+     },
+     {
+      "number": 17,
+      "stem": "The word \"upstream\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "unstable",
+       "B": "preceding",
+       "C": "underground",
+       "D": "downstream"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"upstream\" ở đoạn 6 chỉ các công đoạn đầu nguồn/tiền đề trong chuỗi cung ứng sản xuất. Từ này tương đương về nghĩa với các công đoạn đi trước (preceding)."
+     },
+     {
+      "number": 18,
+      "stem": "The phrase \"that performance\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "silicon's low cost",
+       "B": "perovskite's higher efficiency",
+       "C": "the laboratory tests",
+       "D": "outdoor heat and moisture"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu trước cụm từ \"that performance\" ở đoạn 2 để xác định danh từ/khái niệm được thay thế (chỉ hiệu suất vượt trội của vật liệu perovskite trong các thử nghiệm phòng thí nghiệm)."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred about the overall affordability of large-scale solar projects?",
+      "options": {
+       "A": "Overall project costs have fallen at the same pace.",
+       "B": "Rising battery costs caused solar panel prices to fall.",
+       "C": "Falling panel prices alone do not guarantee cheap large-scale projects.",
+       "D": "China accounts for roughly a third of all installations."
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin về chi phí ở đoạn 1 và đoạn 4: dù giá tấm pin giảm mạnh nhưng các chi phí liên quan như hệ thống lưu trữ pin vẫn rất đắt đỏ, từ đó suy luận rằng giá pin giảm không đồng nghĩa với việc toàn bộ dự án quy mô lớn sẽ tự động trở nên rẻ."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's overall attitude toward the future of solar power?",
+      "options": {
+       "A": "Optimistic but aware of real limitations.",
+       "B": "Fully confident that solar will dominate energy.",
+       "C": "Strongly critical of the solar industry's practices.",
+       "D": "Focused only on explaining panel manufacturing costs. Reading"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "nhận diện thái độ xuyên suốt của tác giả: tích cực, lạc quan trước tiềm năng nhưng vẫn nhìn nhận rõ ràng các giới hạn thực tế (optimistic but aware of real limitations)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q3, R2Q4):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q2**, quét mốc thời gian \"2010\" ở đoạn 1 để đối chiếu con số phần trăm giá tấm pin quang điện (photovoltaic panels) đã giảm (chú ý phân biệt con số \"eighty percent\" và mốc năm \"2010\").\n  - Với **R2Q3**, quét từ khóa \"China\" ở đoạn 3 để định vị thị phần lắp đặt mới (\"new installations worldwide\") mà Trung Quốc chiếm giữ (chú ý tỷ lệ \"roughly a third\").\n  - Với **R2Q4**, quét cụm từ \"floating solar arrays\" (hệ thống điện mặt trời nổi) ở các đoạn sau để tìm ưu điểm được nhắc đến (giúp tránh việc phải chuyển đổi thêm diện tích đất đai).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q6, R2Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q6**, từ **\"trajectory\"** ở đoạn 7 mô tả hướng phát triển, lộ trình hay con đường tiến trình của năng lượng mặt trời. Ngữ cảnh này sát nghĩa nhất với lộ trình, hướng đi (course).\n  - Với **R2Q7**, từ **\"upstream\"** ở đoạn 6 chỉ các công đoạn đầu nguồn/tiền đề trong chuỗi cung ứng sản xuất. Từ này tương đương về nghĩa với các công đoạn đi trước (preceding).\n- **Dạng câu hỏi Ý chính & Thái độ tác giả (R2Q1, R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt câu chủ đề các đoạn).\n  - Với **R2Q1**, tổng hợp mạch bài đọc từ sự phát triển nhanh chóng của năng lượng mặt trời đến các thách thức thực tế về lưu trữ, đất đai và sản xuất mà ngành này đang gặp phải.\n  - Với **R2Q10**, nhận diện thái độ xuyên suốt của tác giả: tích cực, lạc quan trước tiềm năng nhưng vẫn nhìn nhận rõ ràng các giới hạn thực tế (optimistic but aware of real limitations).\n- **Dạng câu hỏi Quy chiếu (R2Q8):** Đọc ngược lại câu trước cụm từ **\"that performance\"** ở đoạn 2 để xác định danh từ/khái niệm được thay thế (chỉ hiệu suất vượt trội của vật liệu perovskite trong các thử nghiệm phòng thí nghiệm).\n- **Dạng câu hỏi Loại trừ NOT (R2Q5):** Đối soát các thách thức được liệt kê trong bài (sự biến động theo thời tiết/mùa ở đoạn 4, nhu cầu đất đai ở đoạn 5, mối lo về môi trường/lao động ở đoạn 6). Chi tiết không được đề cập (như việc tấm pin suy giảm chất lượng nhanh chóng chỉ sau vài năm) là đáp án cần chọn.\n- **Dạng câu hỏi Suy luận (R2Q9):** Kết hợp thông tin về chi phí ở đoạn 1 và đoạn 4: dù giá tấm pin giảm mạnh nhưng các chi phí liên quan như hệ thống lưu trữ pin vẫn rất đắt đỏ, từ đó suy luận rằng giá pin giảm không đồng nghĩa với việc toàn bộ dự án quy mô lớn sẽ tự động trở nên rẻ.\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi quy chiếu (R2Q8) và từ vựng (R2Q6, R2Q7) để tích lũy điểm nhanh. Tiếp theo, áp dụng kỹ thuật đọc quét định vị từ khóa cho các câu hỏi chi tiết (R2Q2, R2Q3, R2Q4) và loại trừ (R2Q5). Cuối cùng, tổng hợp logic toàn bài đọc để xử lý chính xác câu hỏi suy luận (R2Q9), ý chính (R2Q1) và thái độ tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Traffic and Mobility: Vietnam in Comparative Perspective",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "While many rapidly urbanizing countries eventually shift the bulk of their commuting from two wheels to four, Vietnam's cities have followed a markedly different path, in which motorbikes remain the dominant means of daily transport even as incomes rise. Motorbikes account for a large majority of registered vehicles in Hanoi and Ho Chi Minh City, **a** pattern that sets Vietnam apart from most regional neighbors, where car ownership has expanded far more quickly relative to population growth.",
+     "This **divergence** is rooted partly in history and partly in economics. Motorbikes became affordable in Vietnam decades before cars did, and the narrow streets of many older urban districts were never designed for heavy four-wheeled traffic. Even as household incomes have climbed, the relative cost of owning a car — including import tariffs considerably higher than in several neighboring economies — has kept ownership out of reach for many urban households.",
+     "Other countries facing similar space constraints have pursued different solutions. The Netherlands invested heavily in cycling infrastructure decades ago, so that bicycles now account for a substantial share of urban trips in cities such as Amsterdam. Singapore addressed congestion primarily through pricing, requiring drivers to bid for a certificate before registering a car, while expanding a rail network extensive enough to make private ownership unnecessary for most journeys. Tokyo built one of the world's densest commuter rail systems, around which the city's later growth was organized.",
+     "Vietnam's reliance on motorbikes carries costs of its own. Motorbike accidents account for a disproportionate share of road fatalities nationwide, and rush-hour congestion has worsened even as motorbike ownership itself begins to **plateau**, largely because car numbers have started rising from a low base. Air quality monitors in central Hanoi frequently record pollution among the worst of any capital in the region, a problem researchers attribute partly to the sheer density of small engines operating at street level rather than to any single dominant source.",
+     "In response, both major cities have invested in urban rail intended to shift trips away from private vehicles. Hanoi's first metro line opened after years of delay, and ridership, while growing, remains modest relative to designed capacity. Ho Chi Minh City has similar ambitions for its own network, though planners caution that rail alone is unlikely to change commuting habits unless paired with restrictions on motorbike use — a step that has proven politically difficult.",
+     "Proposals to restrict motorbikes from central districts have circulated for years, and while some officials argue such measures would reduce congestion and pollution, others caution that removing the primary transport for low-income commuters before adequate transit exists could deepen mobility problems instead. Whether restriction would do more good than harm appears to depend heavily on how quickly rail and bus networks can be expanded.",
+     "Vietnam's traffic patterns therefore reflect a transitional moment rather than a fixed arrangement. Whether the country eventually converges toward a transit-oriented model, some hybrid arrangement, or a continued motorbike-centered status quo will likely depend less on any single project than on how policymakers balance affordability, convenience, and the costs of congestion."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Vietnam's motorbike-based traffic reflects historical and economic factors now being challenged.",
+       "B": "Import tariffs alone explain why Vietnamese households prefer motorbikes.",
+       "C": "Vietnam has already shifted decisively toward a car-dominated transport system.",
+       "D": "Every rapidly urbanizing country eventually replaces motorbikes with private cars."
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Thái độ tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp ý toàn bài: văn hóa xe máy tại Việt Nam bắt nguồn từ các yếu tố lịch sử và kinh tế, hiện đang đứng trước nhiều thách thức về hạ tầng và ô nhiễm."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, how did Singapore primarily address traffic congestion?",
+      "options": {
+       "A": "By banning private car ownership within the city entirely.",
+       "B": "By investing heavily in dedicated cycling infrastructure citywide.",
+       "C": "By building one of the world's densest rail networks.",
+       "D": "By requiring competitive bidding for vehicle registration rights."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Singapore\" ở đoạn 3 để xác định giải pháp chính chống ùn tắc (yêu cầu đấu thầu mua quyền đăng ký xe - Certificate of Entitlement / competitive bidding)."
+     },
+     {
+      "number": 23,
+      "stem": "According to the passage, what has happened to Hanoi's metro ridership since the line opened?",
+      "options": {
+       "A": "It has declined steadily since opening despite promotion.",
+       "B": "It has already exceeded its full designed capacity.",
+       "C": "The line opened after years of delay and overruns.",
+       "D": "It has grown but remains below designed capacity."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"Hanoi's metro\" và \"ridership\" ở đoạn 5 để tìm tình trạng lượng khách đi tàu điện (tăng trưởng nhưng vẫn chưa đạt công suất thiết kế - grown but remains below designed capacity)."
+     },
+     {
+      "number": 24,
+      "stem": "According to the passage, what do transport researchers partly attribute Hanoi's poor air quality to?",
+      "options": {
+       "A": "Traffic accidents involving motorbikes account for many fatalities.",
+       "B": "A single large factory located near the city center.",
+       "C": "The high density of small engines at street level.",
+       "D": "The large number of private cars now on roads."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"air quality\" ở đoạn 4 để tìm nguyên nhân chất lượng không khí kém (do mật độ cao của các động cơ nhỏ ở tầm thấp - high density of small engines at street level)."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, which of the following is NOT mentioned as a strategy for reducing Vietnam's traffic problems?",
+      "options": {
+       "A": "Restricting motorbike use in central districts.",
+       "B": "Eventually replacing motorbikes entirely with buses and rail.",
+       "C": "Building urban rail systems in all major cities.",
+       "D": "Raising fuel taxes on private vehicles."
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các giải pháp được đề cập ở phần cuối bài đọc (xây dựng hệ thống đường sắt đô thị, hạn chế xe máy ở khu trung tâm, thay thế xe máy bằng xe buýt và tàu điện). Phương án không được đề cập (như việc tăng thuế nhiên liệu) chính là đáp án cần chọn."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"divergence\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "diversity",
+       "B": "conflict",
+       "C": "expansion",
+       "D": "difference"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"divergence\" ở đoạn 2 mô tả sự khác biệt giữa con đường phát triển giao thông của Việt Nam so với các quốc gia khác. Từ này sát nghĩa nhất với sự khác biệt (difference)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"plateau\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "collapse",
+       "B": "accelerate",
+       "C": "peak",
+       "D": "level off"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"plateau\" ở đoạn 4 mô tả tình trạng việc sử dụng xe máy chững lại, không tăng thêm nữa sau một giai đoạn. Từ này đồng nghĩa với giai đoạn chững lại/đi ngang (level off)."
+     },
+     {
+      "number": 28,
+      "stem": "The phrase \"a pattern\" in paragraph 1 refers to _______.",
+      "options": {
+       "A": "registered vehicle numbers",
+       "B": "the two major cities",
+       "C": "continued motorbike dominance",
+       "D": "rising household incomes"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu trước cụm từ \"a pattern\" ở đoạn 1 để xác định xu hướng/mô hình được nhắc đến (xu hướng tiếp tục thống trị của xe máy ngay cả khi thu nhập tăng)."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred about the likely effectiveness of Vietnam's metro investments, according to the passage?",
+      "options": {
+       "A": "Rail investment alone will probably not transform commuting without complementary restrictions on motorbikes.",
+       "B": "Modest ridership caused planners to abandon further metro expansion plans.",
+       "C": "Hanoi's metro line opened after years of delay and cost overruns.",
+       "D": "Rail investment alone will fully replace motorbikes as the primary mode within years."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở các đoạn cuối: đầu tư tàu điện ngầm là chưa đủ nếu không đi kèm các chính sách hạn chế phương tiện cá nhân phù hợp để thay đổi thói quen di chuyển của người dân."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's overall stance on Vietnam's transport future, as conveyed in the passage?",
+      "options": {
+       "A": "Strongly pessimistic about the success of Hanoi's metro.",
+       "B": "Neutral and analytical, presenting the situation as still unresolved.",
+       "C": "Focused narrowly on criticizing import tariff policies.",
+       "D": "Confident that Vietnam will soon resemble Singapore's transport system. Reading"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "nhận diện thái độ xuyên suốt của tác giả: khách quan, mang tính phân tích và đưa ra góc nhìn đa chiều về một bài toán giao thông chưa có lời giải dứt điểm (neutral and analytical)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q3, R3Q4):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q2**, quét từ khóa \"Singapore\" ở đoạn 3 để xác định giải pháp chính chống ùn tắc (yêu cầu đấu thầu mua quyền đăng ký xe - Certificate of Entitlement / competitive bidding).\n  - Với **R3Q3**, quét cụm từ \"Hanoi's metro\" và \"ridership\" ở đoạn 5 để tìm tình trạng lượng khách đi tàu điện (tăng trưởng nhưng vẫn chưa đạt công suất thiết kế - grown but remains below designed capacity).\n  - Với **R3Q4**, quét từ khóa \"air quality\" ở đoạn 4 để tìm nguyên nhân chất lượng không khí kém (do mật độ cao của các động cơ nhỏ ở tầm thấp - high density of small engines at street level).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q6, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q6**, từ **\"divergence\"** ở đoạn 2 mô tả sự khác biệt giữa con đường phát triển giao thông của Việt Nam so với các quốc gia khác. Từ này sát nghĩa nhất với sự khác biệt (difference).\n  - Với **R3Q7**, từ **\"plateau\"** ở đoạn 4 mô tả tình trạng việc sử dụng xe máy chững lại, không tăng thêm nữa sau một giai đoạn. Từ này đồng nghĩa với giai đoạn chững lại/đi ngang (level off).\n- **Dạng câu hỏi Ý chính & Thái độ tác giả (R3Q1, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt câu chủ đề các đoạn).\n  - Với **R3Q1**, tổng hợp ý toàn bài: văn hóa xe máy tại Việt Nam bắt nguồn từ các yếu tố lịch sử và kinh tế, hiện đang đứng trước nhiều thách thức về hạ tầng và ô nhiễm.\n  - Với **R3Q10**, nhận diện thái độ xuyên suốt của tác giả: khách quan, mang tính phân tích và đưa ra góc nhìn đa chiều về một bài toán giao thông chưa có lời giải dứt điểm (neutral and analytical).\n- **Dạng câu hỏi Quy chiếu (R3Q8):** Đọc ngược lại câu trước cụm từ **\"a pattern\"** ở đoạn 1 để xác định xu hướng/mô hình được nhắc đến (xu hướng tiếp tục thống trị của xe máy ngay cả khi thu nhập tăng).\n- **Dạng câu hỏi Loại trừ NOT (R3Q5):** Đối soát các giải pháp được đề cập ở phần cuối bài đọc (xây dựng hệ thống đường sắt đô thị, hạn chế xe máy ở khu trung tâm, thay thế xe máy bằng xe buýt và tàu điện). Phương án không được đề cập (như việc tăng thuế nhiên liệu) chính là đáp án cần chọn.\n- **Dạng câu hỏi Suy luận (R3Q9):** Kết hợp thông tin ở các đoạn cuối: đầu tư tàu điện ngầm là chưa đủ nếu không đi kèm các chính sách hạn chế phương tiện cá nhân phù hợp để thay đổi thói quen di chuyển của người dân.\nLời khuyên: Hãy bắt đầu bằng cách giải quyết các câu hỏi quy chiếu (R3Q8) và từ vựng (R3Q6, R3Q7) để hoàn thành nhanh các câu dễ. Tiếp theo, sử dụng kỹ thuật đọc quét định vị từ khóa cho nhóm câu hỏi chi tiết (R3Q2, R3Q3, R3Q4) và loại trừ (R3Q5). Cuối cùng, tổng hợp mạch lập luận của toàn bài đọc để xử lý chính xác câu hỏi suy luận (R3Q9), ý chính (R3Q1) và thái độ tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "A Walk Through Cúc Phương: What an Old-Growth Forest Still Has to Teach",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Not until a visitor has walked beneath the thousand-year-old trees of Cúc Phương does the sheer scale of Vietnam's oldest national park become fully apparent. Established in 1962 as the country's first protected forest, the park spans roughly twenty-two thousand hectares of limestone terrain across three provinces, sheltering an ecosystem that has, by most scientific accounts, remained largely undisturbed for centuries longer than the park itself has formally existed.",
+     "The park's biological richness is difficult to overstate, though quantifying it precisely has proven resistant to consensus among researchers. Estimates of recorded plant species range from just under two thousand to well over twenty-two hundred, a **discrepancy** that likely reflects differences in survey methodology as much as any genuine change in the forest itself. What is less disputed is the park's role as a refuge for the Delacour's langur, a critically endangered primate found almost nowhere else on Earth in meaningful numbers.",
+     "That the park has become a center of last resort for several endangered species owes as much to deliberate intervention as to accident of geography. The Endangered Primate Rescue Center, established within Cúc Phương in the 1990s, now houses individuals **confiscated** from illegal wildlife trade alongside animals bred in captivity for eventual, though rarely realized, reintroduction. Conservationists at the center are, by their own admission, cautious about overstating its success; breeding programs have proven far easier to sustain than releasing captive-born primates into habitats capable of supporting them long-term.",
+     "For visitors, the park's appeal lies as much in its accessibility as in its remoteness. A network of marked trails allows travelers with only modest hiking experience to reach striking features, including a botanical garden of rare native species and, several kilometers deeper, a cave once inhabited by prehistoric humans whose remains were uncovered there in the 1960s. Guides note that visitors expecting a brief afternoon excursion are often surprised by how demanding the longer trails toward the ancient trees can become, particularly during the humid summer months.",
+     "Chief among the park's attractions is a cluster of trees, some reputedly over a thousand years old, reached only after a trek of several hours each way. Whether the oldest specimens truly predate the founding of the Vietnamese state by several centuries, as some guides claim, remains difficult to verify, since reliable dating of living tropical trees this size is notoriously challenging; even so, their girth and height leave little doubt that they have stood through a substantial portion of the region's recorded history.",
+     "Growing visitor numbers have brought the park financial sustainability that many protected areas in the region lack, **[1]** yet managers increasingly acknowledge that this popularity carries its own risks. [2] Erosion along the most heavily trafficked trails has accelerated in recent years, **[3]** and some ecologists worry, without yet having conclusive evidence, that disturbance near busy paths may be altering the behavior of wildlife that would otherwise avoid human activity. [4] Balancing continued access against these pressures has become, officials suggest, the defining management challenge of the coming decades.",
+     "Cúc Phương therefore occupies an uneasy but instructive position: a forest old enough to have outlasted centuries of change, now dependent for its survival on decisions made within a single generation. Whether current management proves equal to **that task** will likely become clear only gradually, as the coming years reveal whether conservation and tourism can be sustained together rather than at each other's expense."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "All of Vietnam's national parks face identical conservation challenges.",
+       "B": "Cúc Phương's ecological significance now depends on careful, uncertain management.",
+       "C": "Tourism pressures have already outweighed the park's conservation achievements.",
+       "D": "The park is significant mainly because of its ancient trees' age."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Thái độ tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp thông tin bài đọc về ý nghĩa sinh thái của Cúc Phương, từ thành tựu bảo tồn đến những thách thức thực tế. Ý chính tập trung vào việc tầm quan trọng sinh thái của công viên phụ thuộc vào sự quản lý cẩn trọng nhưng còn nhiều yếu tố chưa chắc chắn."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what explains the range in estimates of the park's plant species?",
+      "options": {
+       "A": "Differences in how the plant surveys were conducted.",
+       "B": "The park spans roughly twenty-two thousand hectares of terrain.",
+       "C": "The park was established as a protected forest in 1962.",
+       "D": "Significant habitat loss caused by ongoing deforestation nearby."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"estimates\", \"plant species\", \"discrepancy\" ở đoạn 2 để định vị nguyên nhân chênh lệch số liệu (do sự khác biệt trong phương pháp khảo sát - differences in survey methodology)."
+     },
+     {
+      "number": 33,
+      "stem": "According to the passage, why are conservationists at the rescue center cautious about claiming success?",
+      "options": {
+       "A": "Wild primate populations have grown too large to manage.",
+       "B": "Breeding programs have consistently failed to produce offspring.",
+       "C": "The center houses animals confiscated from illegal wildlife trade.",
+       "D": "Releasing captive-born primates back into the wild remains difficult."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"cautious about overstating its success\" ở đoạn 3 để xác định lý do các nhà bảo tồn thận trọng (việc thả linh trưởng sinh sản trong nuôi nhốt về lại tự nhiên vẫn gặp nhiều khó khăn)."
+     },
+     {
+      "number": 34,
+      "stem": "According to the passage, which of the following is NOT mentioned as a feature or challenge associated with Cúc Phương?",
+      "options": {
+       "A": "Increased tourism has already caused irreversible ecological damage.",
+       "B": "Estimates of plant species vary depending on survey methods.",
+       "C": "The park was Vietnam's first UNESCO World Heritage site.",
+       "D": "Every trail in the park leads to a prehistoric cave."
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát thông tin trong bài về các đặc điểm của Cúc Phương. Chi tiết \"Vườn quốc gia Cúc Phương là di sản thế giới UNESCO đầu tiên của Việt Nam\" không được đề cập (bài chỉ nêu đây là rừng cấm/vườn quốc gia đầu tiên được thành lập năm 1962)."
+     },
+     {
+      "number": 35,
+      "stem": "The word \"discrepancy\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "discretion",
+       "B": "improvement",
+       "C": "contradiction",
+       "D": "inconsistency"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"discrepancy\" ở đoạn 2 mô tả sự chênh lệch giữa các con số ước tính loài thực vật (từ dưới 2,000 đến hơn 2,200). Từ này đồng nghĩa với sự không thống nhất/sự chênh lệch (inconsistency)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"confiscated\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "confided",
+       "B": "donated",
+       "C": "destroyed",
+       "D": "seized"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"confiscated\" ở đoạn 3 mô tả hành động đối với các động vật bị buôn bán trái phép được thu hồi/tịch thu đưa về trung tâm cứu hộ. Từ này sát nghĩa nhất với việc tịch thu (seized)."
+     },
+     {
+      "number": 37,
+      "stem": "The phrase \"that task\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "ensuring the forest's survival",
+       "B": "a single generation",
+       "C": "current park management",
+       "D": "centuries of change"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu & Chèn câu",
+      "type": "Quy chiếu",
+      "explanation": "đọc ngược câu trước cụm từ \"that task\" ở đoạn 7 để tìm nhiệm vụ/mục tiêu được nhắc đến (việc đảm bảo sự tồn tại lâu dài của khu rừng - ensuring the forest's survival)."
+     },
+     {
+      "number": 38,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Park rangers have responded by limiting the number of daily visitors permitted on the most sensitive trails.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu & Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "phân tích câu cần chèn liên quan đến phản ứng của kiểm lâm đối với áp lực du khách (\"limiting daily visitors\"). Vị trí [4] (thường nằm sau đoạn thảo luận về áp lực từ du lịch trên các tuyến đường đi bộ) là vị trí phù hợp nhất về mặt logic liên kết."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred about the reliability of claims regarding the age of Cúc Phương's oldest trees?",
+      "options": {
+       "A": "Their age is plausible but not precisely confirmed by reliable evidence.",
+       "B": "Scientific dating has confirmed the trees predate the Vietnamese state.",
+       "C": "Difficulty verifying tree age caused local guides to invent their claims.",
+       "D": "The park was established in 1962 as Vietnam's first protected forest."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tìm chi tiết đề cập đến độ tuổi của các cây cổ thụ hàng ngàn năm ở đoạn 1 và đoạn 5. Bài viết ngụ ý rằng mặc dù thông tin này rất phổ biến và hợp lý nhưng chưa có bằng chứng xác minh khoa học tuyệt đối chính xác."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's overall attitude toward Cúc Phương's future, as conveyed in the passage?",
+      "options": {
+       "A": "Firmly confident that conservation will fully succeed.",
+       "B": "Cautiously optimistic, though uncertain about long-term outcomes.",
+       "C": "Full of certainty about the langur's recovery.",
+       "D": "Focused solely on criticizing rising visitor numbers."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "nhận diện thái độ của tác giả ở đoạn kết: vừa ghi nhận nỗ lực bảo tồn vừa nhìn nhận những thách thức phía trước, thể hiện thái độ lạc quan có thận trọng/dè chừng (cautiously optimistic)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q3):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q2**, quét các từ khóa \"estimates\", \"plant species\", \"discrepancy\" ở đoạn 2 để định vị nguyên nhân chênh lệch số liệu (do sự khác biệt trong phương pháp khảo sát - differences in survey methodology).\n  - Với **R4Q3**, quét cụm từ \"cautious about overstating its success\" ở đoạn 3 để xác định lý do các nhà bảo tồn thận trọng (việc thả linh trưởng sinh sản trong nuôi nhốt về lại tự nhiên vẫn gặp nhiều khó khăn).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q5, R4Q6):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q5**, từ **\"discrepancy\"** ở đoạn 2 mô tả sự chênh lệch giữa các con số ước tính loài thực vật (từ dưới 2,000 đến hơn 2,200). Từ này đồng nghĩa với sự không thống nhất/sự chênh lệch (inconsistency).\n  - Với **R4Q6**, từ **\"confiscated\"** ở đoạn 3 mô tả hành động đối với các động vật bị buôn bán trái phép được thu hồi/tịch thu đưa về trung tâm cứu hộ. Từ này sát nghĩa nhất với việc tịch thu (seized).\n- **Dạng câu hỏi Ý chính & Thái độ tác giả (R4Q1, R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt câu chủ đề các đoạn).\n  - Với **R4Q1**, tổng hợp thông tin bài đọc về ý nghĩa sinh thái của Cúc Phương, từ thành tựu bảo tồn đến những thách thức thực tế. Ý chính tập trung vào việc tầm quan trọng sinh thái của công viên phụ thuộc vào sự quản lý cẩn trọng nhưng còn nhiều yếu tố chưa chắc chắn.\n  - Với **R4Q10**, nhận diện thái độ của tác giả ở đoạn kết: vừa ghi nhận nỗ lực bảo tồn vừa nhìn nhận những thách thức phía trước, thể hiện thái độ lạc quan có thận trọng/dè chừng (cautiously optimistic).\n- **Dạng câu hỏi Quy chiếu & Chèn câu (R4Q7, R4Q8):**\n  - Với **R4Q7**, đọc ngược câu trước cụm từ **\"that task\"** ở đoạn 7 để tìm nhiệm vụ/mục tiêu được nhắc đến (việc đảm bảo sự tồn tại lâu dài của khu rừng - ensuring the forest's survival).\n  - Với **R4Q8**, phân tích câu cần chèn liên quan đến phản ứng của kiểm lâm đối với áp lực du khách (\"limiting daily visitors\"). Vị trí **[4]** (thường nằm sau đoạn thảo luận về áp lực từ du lịch trên các tuyến đường đi bộ) là vị trí phù hợp nhất về mặt logic liên kết.\n- **Dạng câu hỏi Loại trừ NOT (R4Q4):** Đối soát thông tin trong bài về các đặc điểm của Cúc Phương. Chi tiết \"Vườn quốc gia Cúc Phương là di sản thế giới UNESCO đầu tiên của Việt Nam\" không được đề cập (bài chỉ nêu đây là rừng cấm/vườn quốc gia đầu tiên được thành lập năm 1962).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tìm chi tiết đề cập đến độ tuổi của các cây cổ thụ hàng ngàn năm ở đoạn 1 và đoạn 5. Bài viết ngụ ý rằng mặc dù thông tin này rất phổ biến và hợp lý nhưng chưa có bằng chứng xác minh khoa học tuyệt đối chính xác.\nLời khuyên: Hãy bắt đầu bằng việc xử lý nhanh các câu hỏi từ vựng (R4Q5, R4Q6) và câu hỏi quy chiếu (R4Q7). Tiếp theo, áp dụng kỹ thuật đọc quét từ khóa cho nhóm câu hỏi chi tiết (R4Q2, R4Q3), câu hỏi loại trừ (R4Q4) và câu chèn vị trí (R4Q8). Cuối cùng, dựa trên bức tranh tổng thể và mạch lập luận của toàn bài đọc để giải quyết chính xác câu hỏi suy luận (R4Q9), ý chính (R4Q1) và thái độ tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. Your foreign friend, Sarah, has just invited you to go jogging with her in the park every morning.\nRead part of her email below.\nI've just moved to your neighbourhood and I'm thinking of jogging in the park every morning. Would you like to join me?\nBy the way, do you know if there are any good gyms around here? Also, do you think going to the gym just twice a week would be enough exercise?\nYou should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. Your foreign friend, Sarah, has just invited you to go jogging with her in the park every morning.",
+      "Read part of her email below."
+     ],
+     "quote": [
+      "I've just moved to your neighbourhood and I'm thinking of jogging in the park every morning. Would you like to join me?",
+      "By the way, do you know if there are any good gyms around here? Also, do you think going to the gym just twice a week would be enough exercise?"
+     ],
+     "instruction": "You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\nĐây là dạng **Informal Email** (thư gửi bạn thân) trả lời một người bạn nước ngoài về chủ đề tập thể dục. Đề bài yêu cầu trả lời đủ **3 ý chính**: (1) có đồng ý đi chạy bộ buổi sáng ở công viên cùng bạn ấy không và vì sao, (2) khu vực này có phòng gym tốt hay không, (3) đi phòng gym 2 lần/tuần thì có đủ bài tập không, theo quan điểm cá nhân của bạn. Bài viết cần tối thiểu **120 từ**, giọng văn thân mật, tự nhiên.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Sarah,\n- **Opening:** Cảm ơn lời mời và bày tỏ sự vui mừng. Ví dụ: Thanks so much for inviting me to join you! It sounds like a great idea.\n- **Body 1 (đồng ý/không đồng ý đi chạy bộ):** Ví dụ: I'd love to go jogging with you every morning, as it would motivate me to exercise more regularly.\n- **Body 2 (phòng gym trong khu vực):** Ví dụ: As for gyms, there's actually a well-equipped one just a few blocks from here that I've heard great things about.\n- **Body 3 (2 lần/tuần có đủ không):** Ví dụ: Regarding your question, I think going to the gym twice a week might not be quite enough if you want to see real progress.\n- **Closing:** Ví dụ: Let me know what time suits you best for our first run!\n- **Sign-off:** Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nDùng thì hiện tại đơn khi đưa ra ý kiến và sự thật chung, và động từ khuyết thiếu (would/might/could) khi bày tỏ quan điểm cá nhân một cách nhẹ nhàng, tránh khẳng định quá cứng nhắc. Nên đa dạng hóa cách diễn đạt để tránh lặp từ. Từ vựng quan trọng:\n- **go jogging:** đi chạy bộ\n- **well-equipped:** được trang bị đầy đủ\n- **stay in shape:** giữ dáng, giữ sức khỏe\n- **work out:** tập luyện\n- **physical fitness:** thể lực\n- **membership fee:** phí hội viên\n- **make progress:** có tiến bộ\n- **routine:** thói quen, lịch trình\nTừ nối (Linking words):\n- **As for...:** Còn về...\n- **Regarding your question:** Về câu hỏi của bạn\n- **Personally:** Theo cá nhân tôi\n- **Besides:** Bên cạnh đó\n- **Actually:** Thực ra\nCách diễn đạt cảm xúc:\n- **I'd love to...:** Tôi rất muốn...\n- **That sounds like a great idea:** Nghe có vẻ là một ý tưởng hay\n- **I'm really looking forward to it:** Tôi thực sự rất mong chờ điều đó\n\n**4. Các lỗi thường gặp:**\n- Bỏ sót một trong ba câu hỏi của đề bài, đặc biệt là câu hỏi về tần suất tập gym.\n- Trả lời quá ngắn gọn, thiếu giải thích lý do cho ý kiến của mình.\n- Dùng văn phong quá trang trọng cho một bức thư bạn bè.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm lại số từ, đảm bảo đạt tối thiểu 120 từ.\n- Kiểm tra đã trả lời đủ cả 3 ý trong đề chưa.\n- Rà soát chính tả và cách chia thì động từ.\n\n**6. Tư duy làm bài:**\nHãy trả lời như đang thực sự trò chuyện với một người bạn nước ngoài thân thiện. Đưa ra ý kiến rõ ràng kèm lý do ngắn gọn sẽ giúp bài viết tự nhiên và thuyết phục hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nWhen choosing a job, people consider a wide range of factors, from salary and working environment to personal interests and career growth opportunities.\nWhile some believe that salary is the most important factor, others argue that job satisfaction and future prospects matter more.\nIn your opinion, what is the most important factor when choosing a job? Give reasons and examples to support your answer.\nWrite an essay to an educated reader to give your opinion on what the most important factor is when choosing a job. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "When choosing a job, people consider a wide range of factors, from salary and working environment to personal interests and career growth opportunities.",
+      "While some believe that salary is the most important factor, others argue that job satisfaction and future prospects matter more.",
+      "In your opinion, what is the most important factor when choosing a job? Give reasons and examples to support your answer."
+     ],
+     "instruction": "Write an essay to an educated reader to give your opinion on what the most important factor is when choosing a job. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\nĐây là dạng bài **Opinion Essay**. Bạn cần đưa ra và bảo vệ **một quan điểm rõ ràng** về yếu tố quan trọng nhất khi lựa chọn công việc, không cần trình bày cả hai mặt như dạng Discussion. Cần có lý do và ví dụ cụ thể để thuyết phục người đọc. Bài viết cần tối thiểu **250 từ**, tránh việc liệt kê chung chung nhiều yếu tố mà không tập trung vào một quan điểm chính.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vấn đề và nêu rõ quan điểm cá nhân. Ví dụ: While many factors influence career choices, I believe that job satisfaction is the most important factor when choosing a job.\n- **Body 1 (lý do 1):** Ví dụ: Firstly, when people genuinely enjoy their work, they tend to be more motivated and productive in the long run.\n- **Body 2 (lý do 2):** Ví dụ: Secondly, job satisfaction contributes significantly to mental well-being, whereas a high salary alone cannot compensate for constant stress and unhappiness.\n- **Body 3 (phản biện quan điểm đối lập - tùy chọn):** Ví dụ: Although some may argue that salary should come first, money without fulfilment often leads to burnout and job-hopping.\n- **Conclusion:** Khẳng định lại quan điểm. Ví dụ: In conclusion, I firmly believe that job satisfaction outweighs other factors when it comes to choosing a career.\nMỗi đoạn thân bài nên theo cấu trúc: Topic sentence -> Giải thích -> Ví dụ minh họa -> Kết mini-đoạn, giúp lập luận chặt chẽ và thuyết phục.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng các cấu trúc thể hiện quan điểm cá nhân (I believe, In my opinion, From my perspective) và câu so sánh để làm nổi bật yếu tố được chọn so với các yếu tố khác. Cần có thesis statement rõ ràng ngay từ phần mở bài.\nTừ vựng quan trọng:\n- **job satisfaction:** sự hài lòng với công việc\n- **career prospects:** triển vọng nghề nghiệp\n- **work-life balance:** cân bằng công việc-cuộc sống\n- **burnout:** kiệt sức vì công việc\n- **fulfilment:** sự thỏa mãn (lưu ý: dùng \"fulfilment\")\n- **competitive salary:** mức lương cạnh tranh\n- **professional growth:** sự phát triển nghề nghiệp\n- **working environment:** môi trường làm việc\nTừ nối (Linking words):\n- **Firstly / Secondly (Thứ tự):** Thứ nhất / Thứ hai\n- **Moreover / Furthermore (Thêm ý):** Hơn nữa\n- **Although / Despite (Đối lập):** Mặc dù\n- **For example / For instance (Ví dụ):** Ví dụ như\n- **Therefore / As a result (Nguyên nhân-kết quả):** Do đó\n- **In conclusion / Overall (Kết luận):** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **the most important factor:** có thể thay bằng \"the key determinant\"\n- **choosing a job:** có thể thay bằng \"selecting a career path\"\n- **salary:** có thể thay bằng \"financial compensation\" hoặc \"income\"\nCách diễn đạt ý kiến:\n- **In my opinion / From my point of view:** Theo quan điểm của tôi\n- **I am firmly convinced that...:** Tôi hoàn toàn tin rằng...\n- **It seems to me that...:** Đối với tôi thì dường như...\n\n**4. Các lỗi thường gặp:**\n- Liệt kê nhiều yếu tố mà không nêu rõ quan điểm cá nhân nhất quán.\n- Thiếu ví dụ cụ thể để minh họa cho lý do đưa ra.\n- Không có thesis statement rõ ràng ở phần mở bài.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã đạt tối thiểu 250 từ chưa.\n- Đảm bảo quan điểm cá nhân được thể hiện nhất quán xuyên suốt bài.\n- Xem lại phần kết luận đã khẳng định lại quan điểm rõ ràng chưa.\n\n**6. Tư duy làm bài:**\nHãy chọn một quan điểm duy nhất và bảo vệ nó xuyên suốt bài viết bằng lý lẽ và ví dụ thuyết phục, thay vì cố gắng đề cập đến quá nhiều yếu tố khiến bài viết thiếu trọng tâm."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about healthy eating\n\n1\nDo you enjoy eating healthy food? Why or why not?\n2\nWould you like to follow a Mediterranean diet? Why or why not?\n3\nWhat dishes would you like to share if your friends came over to your place?\n\nNow, let’s talk about parks\n\n4\nWhat is your favorite park and why do you like it?\n5\nHow often do you go to that park?\n6\nWhat do you like most about spending time in parks in general?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần 1 kéo dài **3 phút** với **6 câu hỏi** chia thành 2 chủ đề nhỏ, giúp giám khảo đánh giá khả năng giao tiếp tự nhiên ngay từ đầu bài thi.\n- **Topic A (Ăn uống lành mạnh):** Câu 1-3 hỏi về sở thích ăn uống lành mạnh, quan điểm về chế độ ăn Địa Trung Hải và món ăn muốn chia sẻ với bạn bè, kiểm tra vốn từ về ẩm thực và khả năng bày tỏ sở thích cá nhân.\n- **Topic B (Công viên yêu thích):** Câu 4-6 hỏi về công viên yêu thích, tần suất ghé thăm và cảm nhận chung về không gian công viên, kiểm tra khả năng miêu tả địa điểm và giải thích lý do yêu thích.\n- Tiêu chí chấm điểm gồm **Fluency**, **Vocabulary**, **Grammar** và **Pronunciation**.\n- Nên phân bổ khoảng **25-35 giây** cho mỗi câu, tránh trả lời quá dài ở Topic A khiến Topic B bị thiếu thời gian.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Áp dụng cấu trúc **Answer - Reason - Example (ARE)** để câu trả lời có chiều sâu thay vì chỉ nói một câu ngắn gọn.\n- **Ví dụ Topic A:** \"I really enjoy eating healthy food because it keeps me energetic and helps me avoid getting sick often.\"\n- **Ví dụ Topic B:** \"My favorite park is the one near my house because it has a peaceful lake and plenty of trees for shade.\"\n- Luôn tự hỏi **Why?/How?** sau khi trả lời để mở rộng ý, tránh câu trả lời cụt lủn.\n- Khi chuyển từ Topic A sang Topic B, dùng câu chuyển tiếp mượt mà, ví dụ: \"Speaking of healthy habits, going to the park is actually another thing I try to do regularly.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ nhịp nói ổn định, dùng từ đệm như \"well\", \"actually\", \"to be honest\" để tránh im lặng kéo dài khi suy nghĩ.\n- Dùng **thì hiện tại đơn** để nói về thói quen và sở thích chung (I usually..., I tend to...) và **would like to** khi nói về mong muốn (I would like to try a Mediterranean diet).\n- Nếu quên từ, hãy diễn giải thay vì im lặng, ví dụ thay vì \"nutritious\" có thể nói \"food that is good for your body\".\n- Từ vựng cho Topic A: **a balanced diet** (chế độ ăn cân bằng), **fresh produce** (nông sản tươi), **share a meal** (chia sẻ bữa ăn).\n- Từ vựng cho Topic B: **green space** (không gian xanh), **fresh air** (không khí trong lành), **unwind** (thư giãn).\nCụm từ quan trọng nên dùng:\n- **low in fat and sugar** - ít chất béo và đường (Topic A)\n- **rich in fruits and vegetables** - giàu trái cây và rau củ (Topic A)\n- **a home-cooked feast** - bữa tiệc tự nấu tại nhà (Topic A)\n- **a peaceful escape** - nơi trốn tránh yên bình (Topic B)\n- **jog around the park** - chạy bộ quanh công viên (Topic B)\n- **a family-friendly spot** - địa điểm phù hợp cho gia đình (Topic B)\nTừ nối khi nói (Linking Words):\n- **To begin with** - trước tiên\n- **Besides that** - bên cạnh đó\n- **Moreover** - hơn nữa\n- **As for...** - còn về...\n- **Overall** - nhìn chung\nCách thể hiện quan điểm tự nhiên:\n- **Personally, I feel that...** ví dụ: \"Personally, I feel that eating healthy makes a huge difference in my energy levels.\" (Cá nhân tôi cảm thấy rằng...)\n- **What I love most about...is...** ví dụ: \"What I love most about my local park is how quiet it is in the early morning.\" (Điều tôi thích nhất về...là...)\n- **In my opinion, ...is worth trying** ví dụ: \"In my opinion, the Mediterranean diet is definitely worth trying because it's both tasty and healthy.\" (Theo tôi, ...đáng để thử)\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes\" hoặc \"No\" rồi im lặng - lỗi nghiêm trọng nhất khiến giám khảo không đánh giá được khả năng ngôn ngữ.\n- Ở Topic A, nhiều bạn chỉ nói \"I like healthy food\" mà không giải thích lý do hay nêu món ăn cụ thể.\n- Ở Topic B, nhiều bạn chỉ nói tên công viên mà không miêu tả được không gian hay cảm xúc khi ở đó.\n- Dùng sai thì, ví dụ dùng thì quá khứ khi miêu tả thói quen hiện tại.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: \"That's an interesting question, let me think about it for a second.\"\n- Nếu quên từ vựng cụ thể, hãy mô tả bằng từ đơn giản hơn thay vì dừng lại.\n- Với Topic A, nếu bí ý, hãy nói về một món ăn gia đình hay nấu hoặc một bữa ăn đáng nhớ.\n- Với Topic B, nếu bí ý, hãy chuyển sang kể về một không gian ngoài trời khác quen thuộc như sân trường hay bờ sông.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải một bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để tránh nhầm lẫn nội dung giữa hai chủ đề.\n- Sự tự nhiên và trôi chảy quan trọng hơn việc cố dùng từ vựng phức tạp mà không chắc chắn.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend has an important presentation coming up and wants to practice speaking beforehand.\n\nYou are considering the following options:\n\nOption 1: Practice standing in front of a mirror\nOption 2: Record herself and listen back to the recording\nOption 3: Practice speaking in front of a small group of friends\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống đưa ra là giúp bạn thân chọn cách luyện tập trước khi thuyết trình quan trọng, với 3 lựa chọn: đứng trước gương, ghi âm và nghe lại, hoặc nói trước một nhóm bạn nhỏ.\n- Tiêu chí chấm điểm gồm khả năng phân tích, so sánh và đưa ra quyết định có lý lẽ thuyết phục.\n- Thời gian làm bài là **4 phút**, trong đó khoảng 1 phút chuẩn bị và 3 phút nói.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E (Introduction - Comparison/Body - End)**: giới thiệu tình huống, so sánh 3 lựa chọn, sau đó kết luận và chọn phương án tốt nhất.\n- **Option 1 (Đứng trước gương):** Giúp quan sát ngôn ngữ cơ thể và biểu cảm khuôn mặt, tuy nhiên không giúp cải thiện được giọng nói hay cách phát âm.\n- **Option 2 (Ghi âm và nghe lại):** Giúp nhận ra lỗi phát âm, tốc độ nói và những từ đệm thừa, nhưng không tạo được cảm giác thực tế của việc đứng trước khán giả.\n- **Option 3 (Nói trước nhóm nhỏ):** Giúp làm quen với cảm giác hồi hộp thật sự và nhận phản hồi trực tiếp, tuy nhiên có thể khiến người mới luyện tập cảm thấy áp lực hơn.\n- Nên gắn lập luận với ngữ cảnh thực tế, ví dụ mức độ tự tin hiện tại của bạn thân hoặc thời gian còn lại trước buổi thuyết trình.\n- Dùng từ nối tương phản để chuyển giữa ưu và nhược điểm của từng lựa chọn, ví dụ \"however\", \"on the other hand\".\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ so sánh trực tiếp Option 1 và Option 2 trước khi nói tới Option 3.\n- Dùng thì hiện tại đơn để miêu tả đặc điểm chung của từng phương pháp (Practicing in front of a mirror helps...) và thì tương lai gần khi nói về đề xuất (She will probably feel more confident...).\n- Sử dụng từ đồng nghĩa để tránh lặp lại \"good\" hoặc \"helpful\", ví dụ \"effective\", \"practical\", \"realistic\".\nCụm từ quan trọng nên dùng:\n- **body language** - ngôn ngữ cơ thể\n- **build confidence** - xây dựng sự tự tin\n- **identify weaknesses** - nhận ra điểm yếu\n- **constructive feedback** - phản hồi mang tính xây dựng\n- **simulate a real audience** - mô phỏng khán giả thật\n- **reduce stage fright** - giảm cảm giác lo lắng khi đứng trước đám đông\nTừ nối khi nói (Linking Words):\n- **Compared to...** - so với...\n- **On the other hand** - mặt khác\n- **Nevertheless** - tuy nhiên\n- **Taking everything into account** - xét tất cả các yếu tố\n- **All things considered** - nhìn chung, xét mọi mặt\nCách thể hiện quan điểm tự nhiên:\n- **If I were her, I would choose...** ví dụ: \"If I were her, I would choose to practice in front of a small group because it feels the most realistic.\" (Nếu là cô ấy, tôi sẽ chọn...)\n- **I'm leaning towards...** ví dụ: \"I'm leaning towards recording herself since it's the most convenient way to self-correct.\" (Tôi nghiêng về phía...)\n- **All things considered, I believe...** ví dụ: \"All things considered, I believe practicing in front of a small group would be the most effective option.\" (Xét mọi mặt, tôi tin rằng...)\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của các lựa chọn còn lại.\n- Lặp lại từ \"good\" hoặc \"helpful\" nhiều lần thay vì dùng tính từ học thuật hơn.\n- Không đưa ra kết luận rõ ràng ở cuối bài, khiến giám khảo không biết bạn thực sự chọn phương án nào.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên biệt về kỹ năng thuyết trình, hãy chuyển hướng sang yếu tố cảm xúc hoặc thời gian, ví dụ \"it also helps her feel calmer on the actual day\".\n- Dùng câu đệm: \"Let's evaluate this option from a different perspective\" để có thêm thời gian suy nghĩ.\n- Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang lựa chọn tiếp theo thay vì dừng lại quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người đưa ra lời khuyên thực sự cho bạn thân - đâu là cách luyện tập hiệu quả và thực tế nhất.\n- Đưa ra một vài gợi ý cải thiện ngay cả với lựa chọn được chọn để thể hiện tư duy phản biện, ví dụ có thể kết hợp ghi âm trước rồi mới nói trước nhóm nhỏ.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe impact of technology on learning\n\nTechnology and Learning\nOver-reliance on technology\nReduced critical thinking\nInformation overload\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think technology will completely replace traditional teaching methods?\n2\nHow can people avoid becoming too dependent on technology?\n3\nWhat skills do students need to use technology effectively for learning?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển bài nói về ảnh hưởng của công nghệ đối với việc học, dựa trên 3 nhánh ý chính: sự phụ thuộc quá mức vào công nghệ, tư duy phản biện bị suy giảm, tình trạng quá tải thông tin, cùng nhánh ý tự do thứ 4.\n- Tiêu chí chấm điểm gồm khả năng phát triển ý, tính mạch lạc và vốn từ vựng học thuật liên quan đến công nghệ và giáo dục.\n- Thời gian là **5 phút**, bao gồm khoảng 3-3.5 phút cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL (Point - Explanation - Example - Link)** cho mỗi nhánh ý để đảm bảo có dẫn chứng cụ thể thay vì chỉ liệt kê ý chung chung.\n- **Câu mở đầu gợi ý:** \"Today, I would like to talk about how technology has influenced the way students learn, both positively and negatively.\"\n- **Câu cho nhánh ý cá nhân:** \"Besides these issues, I also think technology can create a false sense of understanding when students simply search for answers instead of truly learning.\"\n- Nên đưa ra ví dụ thực tế để tăng tính thuyết phục, ví dụ nhắc đến việc học sinh dùng công cụ tìm kiếm để giải bài tập ngay lập tức mà không suy nghĩ.\n- Bám sát sơ đồ tư duy để tránh lặp ý hoặc lan man sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng các cụm từ chuyển tiếp mượt mà giữa các nhánh ý để bài nói liền mạch.\n- Kết hợp **thì hiện tại đơn** để nêu sự thật chung (Students rely heavily on technology) và **hiện tại hoàn thành** để nói về xu hướng tích lũy (Technology has changed the way we access information).\n- Paraphrase cụm từ chính \"technology\" bằng các cách diễn đạt khác như \"digital tools\" hoặc \"online resources\". Cụm từ quan trọng nên dùng:\n- **over-reliance on technology** - sự phụ thuộc quá mức vào công nghệ\n- **critical thinking skills** - kỹ năng tư duy phản biện\n- **information overload** - quá tải thông tin\n- **instant access to information** - tiếp cận thông tin ngay lập tức\n- **digital distractions** - những thứ gây xao nhãng từ thiết bị số\n- **filter reliable sources** - chọn lọc nguồn thông tin đáng tin cậy\nTừ nối khi nói (Linking Words):\n- **First and foremost** - trước hết\n- **Another downside is...** - một nhược điểm khác là...\n- **Not only... but also...** - không chỉ... mà còn...\n- **As a result** - kết quả là\n- **To sum up** - tóm lại\nCách thể hiện quan điểm tự nhiên:\n- **From my perspective, ...** ví dụ: \"From my perspective, technology should support learning, not replace independent thinking.\" (Theo quan điểm của tôi, ...)\n- **It seems to me that...** ví dụ: \"It seems to me that students today struggle to focus because of constant digital distractions.\" (Dường như đối với tôi rằng...)\n- **I would argue that...** ví dụ: \"I would argue that learning how to evaluate information is more important than ever.\" (Tôi cho rằng...)\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"Do you think technology will completely replace traditional teaching methods?\"** - Not entirely, because face-to-face interaction and guidance from teachers still play an irreplaceable role in learning.\n- **\"How can people avoid becoming too dependent on technology?\"** - They can set specific times for offline study, practice solving problems independently first, and use technology only to check or supplement their work.\n- **\"What skills do students need to use technology effectively for learning?\"** - They need strong information literacy, time management, and the ability to critically evaluate online sources.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê nhánh ý mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước để tránh bị động.\n- Dành quá nhiều thời gian cho bài nói chính, không còn thời gian trả lời câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Khi bí ý, hãy liên hệ đến trải nghiệm học tập thực tế của bản thân với công nghệ để có thêm ví dụ.\n- Dùng câu học thuật để câu giờ: \"That is a complex issue. If we evaluate it from an educational perspective...\"\n- Nếu quên từ vựng chuyên môn, hãy dùng từ đồng nghĩa đơn giản hơn hoặc mô tả khái niệm bằng câu dễ hiểu.\n\n**7. Tư duy làm bài nói:**\n- Hãy tư duy thực tế, nhìn nhận công nghệ như một công cụ hỗ trợ chứ không thay thế hoàn toàn con người.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao.\n- Đừng ngại đưa ra góc nhìn cá nhân, vì điều đó giúp bài nói trở nên chân thực và thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about healthy eating.\n1.\nDo you enjoy eating healthy food? Why or why not?\n2.\nWould you like to follow a Mediterranean diet? Why or why not?\n3.\nWhat dishes would you like to share if your friends came over to your place?\nNow, let’s talk about parks.\n4.\nWhat is your favorite park and why do you like it?\n5.\nHow often do you go to that park?\n6.\nWhat do you like most about spending time in parks in general?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần 1 kéo dài 3 phút với 6 câu hỏi chia thành 2 chủ đề nhỏ, giúp giám khảo đánh giá khả năng giao tiếp tự nhiên\nngay từ đầu bài thi.\n• Topic A (Ăn uống lành mạnh): Câu 1-3 hỏi về sở thích ăn uống lành mạnh, quan điểm về chế độ ăn Địa Trung Hải và\nmón ăn muốn chia sẻ với bạn bè, kiểm tra vốn từ về ẩm thực và khả năng bày tỏ sở thích cá nhân.\n• Topic B (Công viên yêu thích): Câu 4-6 hỏi về công viên yêu thích, tần suất ghé thăm và cảm nhận chung về không\ngian công viên, kiểm tra khả năng miêu tả địa điểm và giải thích lý do yêu thích.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và Pronunciation.\n• Nên phân bổ khoảng 25-35 giây cho mỗi câu, tránh trả lời quá dài ở Topic A khiến Topic B bị thiếu thời gian.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Áp dụng cấu trúc Answer - Reason - Example (ARE) để câu trả lời có chiều sâu thay vì chỉ nói một câu ngắn gọn.\n• Ví dụ Topic A: \"I really enjoy eating healthy food because it keeps me energetic and helps me avoid getting sick often.\"\n• Ví dụ Topic B: \"My favorite park is the one near my house because it has a peaceful lake and plenty of trees for shade.\"\n• Luôn tự hỏi Why?/How? sau khi trả lời để mở rộng ý, tránh câu trả lời cụt lủn.\n• Khi chuyển từ Topic A sang Topic B, dùng câu chuyển tiếp mượt mà, ví dụ: \"Speaking of healthy habits, going to the\npark is actually another thing I try to do regularly.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ nhịp nói ổn định, dùng từ đệm như \"well\", \"actually\", \"to be honest\" để tránh im lặng kéo dài khi suy nghĩ.\n• Dùng thì hiện tại đơn để nói về thói quen và sở thích chung (I usually..., I tend to...) và would like to khi nói về mong\nmuốn (I would like to try a Mediterranean diet).\n• Nếu quên từ, hãy diễn giải thay vì im lặng, ví dụ thay vì \"nutritious\" có thể nói \"food that is good for your body\".\n• Từ vựng cho Topic A: a balanced diet (chế độ ăn cân bằng), fresh produce (nông sản tươi), share a meal (chia sẻ\nbữa ăn).\n• Từ vựng cho Topic B: green space (không gian xanh), fresh air (không khí trong lành), unwind (thư giãn).\nCụm từ quan trọng nên dùng:\n• low in fat and sugar - ít chất béo và đường (Topic A)\n• rich in fruits and vegetables - giàu trái cây và rau củ (Topic A)\n• a home-cooked feast - bữa tiệc tự nấu tại nhà (Topic A)\n• a peaceful escape - nơi trốn tránh yên bình (Topic B)\n• jog around the park - chạy bộ quanh công viên (Topic B)\n• a family-friendly spot - địa điểm phù hợp cho gia đình (Topic B)\nTừ nối khi nói (Linking Words):\n• To begin with - trước tiên\n• Besides that - bên cạnh đó\n• Moreover - hơn nữa\n• As for... - còn về...\n• Overall - nhìn chung\nCách thể hiện quan điểm tự nhiên:\n• Personally, I feel that... ví dụ: \"Personally, I feel that eating healthy makes a huge difference in my energy levels.\" (Cá\nnhân tôi cảm thấy rằng...)\n• What I love most about...is... ví dụ: \"What I love most about my local park is how quiet it is in the early morning.\" (Điều\ntôi thích nhất về...là...)\n• In my opinion, ...is worth trying ví dụ: \"In my opinion, the Mediterranean diet is definitely worth trying because it's\nboth tasty and healthy.\" (Theo tôi, ...đáng để thử)\n4. Các lỗi thường gặp:\n• Trả lời \"Yes\" hoặc \"No\" rồi im lặng - lỗi nghiêm trọng nhất khiến giám khảo không đánh giá được khả năng ngôn ngữ.\n• Ở Topic A, nhiều bạn chỉ nói \"I like healthy food\" mà không giải thích lý do hay nêu món ăn cụ thể.\n• Ở Topic B, nhiều bạn chỉ nói tên công viên mà không miêu tả được không gian hay cảm xúc khi ở đó.\n• Dùng sai thì, ví dụ dùng thì quá khứ khi miêu tả thói quen hiện tại.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: \"That's an interesting question, let me think about it for a second.\"\n• Nếu quên từ vựng cụ thể, hãy mô tả bằng từ đơn giản hơn thay vì dừng lại.\n• Với Topic A, nếu bí ý, hãy nói về một món ăn gia đình hay nấu hoặc một bữa ăn đáng nhớ.\n• Với Topic B, nếu bí ý, hãy chuyển sang kể về một không gian ngoài trời khác quen thuộc như sân trường hay bờ sông.\n6. Tư duy làm bài nói:\n• Hãy coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải một bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để tránh nhầm lẫn nội dung giữa hai chủ đề.\n• Sự tự nhiên và trôi chảy quan trọng hơn việc cố dùng từ vựng phức tạp mà không chắc chắn.\nSolution Discussion\nPART 2\n4 phút\nYour friend has an important presentation coming up and wants to practice speaking beforehand.\nYou are considering the following options:\n• Option 1: Practice standing in front of a mirror\n• Option 2: Record herself and listen back to the recording\n• Option 3: Practice speaking in front of a small group of friends\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống đưa ra là giúp bạn thân chọn cách luyện tập trước khi thuyết trình quan trọng, với 3 lựa chọn: đứng trước\ngương, ghi âm và nghe lại, hoặc nói trước một nhóm bạn nhỏ.\n• Tiêu chí chấm điểm gồm khả năng phân tích, so sánh và đưa ra quyết định có lý lẽ thuyết phục.\n• Thời gian làm bài là 4 phút, trong đó khoảng 1 phút chuẩn bị và 3 phút nói.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu tình huống, so sánh 3 lựa chọn, sau đó\nkết luận và chọn phương án tốt nhất.\n• Option 1 (Đứng trước gương): Giúp quan sát ngôn ngữ cơ thể và biểu cảm khuôn mặt, tuy nhiên không giúp cải thiện\nđược giọng nói hay cách phát âm.\n• Option 2 (Ghi âm và nghe lại): Giúp nhận ra lỗi phát âm, tốc độ nói và những từ đệm thừa, nhưng không tạo được\ncảm giác thực tế của việc đứng trước khán giả.\n• Option 3 (Nói trước nhóm nhỏ): Giúp làm quen với cảm giác hồi hộp thật sự và nhận phản hồi trực tiếp, tuy nhiên có\nthể khiến người mới luyện tập cảm thấy áp lực hơn.\n• Nên gắn lập luận với ngữ cảnh thực tế, ví dụ mức độ tự tin hiện tại của bạn thân hoặc thời gian còn lại trước buổi\nthuyết trình.\n• Dùng từ nối tương phản để chuyển giữa ưu và nhược điểm của từng lựa chọn, ví dụ \"however\", \"on the other hand\".\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ so sánh trực tiếp Option 1 và Option 2 trước khi nói tới Option\n3.\n• Dùng thì hiện tại đơn để miêu tả đặc điểm chung của từng phương pháp (Practicing in front of a mirror helps...) và\nthì tương lai gần khi nói về đề xuất (She will probably feel more confident...).\n• Sử dụng từ đồng nghĩa để tránh lặp lại \"good\" hoặc \"helpful\", ví dụ \"effective\", \"practical\", \"realistic\".\nCụm từ quan trọng nên dùng:\n• body language - ngôn ngữ cơ thể\n• build confidence - xây dựng sự tự tin\n• identify weaknesses - nhận ra điểm yếu\n• constructive feedback - phản hồi mang tính xây dựng\n• simulate a real audience - mô phỏng khán giả thật\n• reduce stage fright - giảm cảm giác lo lắng khi đứng trước đám đông\nTừ nối khi nói (Linking Words):\n• Compared to... - so với...\n• On the other hand - mặt khác\n• Nevertheless - tuy nhiên\n• Taking everything into account - xét tất cả các yếu tố\n• All things considered - nhìn chung, xét mọi mặt\nCách thể hiện quan điểm tự nhiên:\n• If I were her, I would choose... ví dụ: \"If I were her, I would choose to practice in front of a small group because it\nfeels the most realistic.\" (Nếu là cô ấy, tôi sẽ chọn...)\n• I'm leaning towards... ví dụ: \"I'm leaning towards recording herself since it's the most convenient way to self-correct.\"\n(Tôi nghiêng về phía...)\n• All things considered, I believe... ví dụ: \"All things considered, I believe practicing in front of a small group would be\nthe most effective option.\" (Xét mọi mặt, tôi tin rằng...)\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của các lựa chọn còn lại.\n• Lặp lại từ \"good\" hoặc \"helpful\" nhiều lần thay vì dùng tính từ học thuật hơn.\n• Không đưa ra kết luận rõ ràng ở cuối bài, khiến giám khảo không biết bạn thực sự chọn phương án nào.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên biệt về kỹ năng thuyết trình, hãy chuyển hướng sang yếu tố cảm xúc hoặc thời gian, ví dụ\n\"it also helps her feel calmer on the actual day\".\n• Dùng câu đệm: \"Let's evaluate this option from a different perspective\" để có thêm thời gian suy nghĩ.\n• Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang lựa chọn tiếp theo thay vì dừng lại quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người đưa ra lời khuyên thực sự cho bạn thân - đâu là cách luyện tập hiệu quả và thực tế nhất.\n• Đưa ra một vài gợi ý cải thiện ngay cả với lựa chọn được chọn để thể hiện tư duy phản biện, ví dụ có thể kết hợp ghi\nâm trước rồi mới nói trước nhóm nhỏ.\nTopic Development\nPART 3\n5 phút\nTopic: The impact of technology on learning\nOver-reliance on technology\nReduced critical thinking\nTechnology and Learning\nÝ tưởng của bạn\nInformation overload\nFOLLOW-UP QUESTIONS\n1.\nDo you think technology will completely replace traditional teaching methods?\n2.\nHow can people avoid becoming too dependent on technology?\n3.\nWhat skills do students need to use technology effectively for learning?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển bài nói về ảnh hưởng của công nghệ đối với việc học, dựa trên 3 nhánh ý chính: sự phụ\nthuộc quá mức vào công nghệ, tư duy phản biện bị suy giảm, tình trạng quá tải thông tin, cùng nhánh ý tự do thứ 4.\n• Tiêu chí chấm điểm gồm khả năng phát triển ý, tính mạch lạc và vốn từ vựng học thuật liên quan đến công nghệ và\ngiáo dục.\n• Thời gian là 5 phút, bao gồm khoảng 3-3.5 phút cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point - Explanation - Example - Link) cho mỗi nhánh ý để đảm bảo có dẫn chứng cụ thể thay\nvì chỉ liệt kê ý chung chung.\n• Câu mở đầu gợi ý: \"Today, I would like to talk about how technology has influenced the way students learn, both\npositively and negatively.\"\n• Câu cho nhánh ý cá nhân: \"Besides these issues, I also think technology can create a false sense of understanding\nwhen students simply search for answers instead of truly learning.\"\n• Nên đưa ra ví dụ thực tế để tăng tính thuyết phục, ví dụ nhắc đến việc học sinh dùng công cụ tìm kiếm để giải bài tập\nngay lập tức mà không suy nghĩ.\n• Bám sát sơ đồ tư duy để tránh lặp ý hoặc lan man sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng các cụm từ chuyển tiếp mượt mà giữa các nhánh ý để bài nói liền mạch.\n• Kết hợp thì hiện tại đơn để nêu sự thật chung (Students rely heavily on technology) và hiện tại hoàn thành để nói về\nxu hướng tích lũy (Technology has changed the way we access information).\n• Paraphrase cụm từ chính \"technology\" bằng các cách diễn đạt khác như \"digital tools\" hoặc \"online resources\".\nCụm từ quan trọng nên dùng:\n• over-reliance on technology - sự phụ thuộc quá mức vào công nghệ\n• critical thinking skills - kỹ năng tư duy phản biện\n• information overload - quá tải thông tin\n• instant access to information - tiếp cận thông tin ngay lập tức\n• digital distractions - những thứ gây xao nhãng từ thiết bị số\n• filter reliable sources - chọn lọc nguồn thông tin đáng tin cậy\nTừ nối khi nói (Linking Words):\n• First and foremost - trước hết\n• Another downside is... - một nhược điểm khác là...\n• Not only... but also... - không chỉ... mà còn...\n• As a result - kết quả là\n• To sum up - tóm lại\nCách thể hiện quan điểm tự nhiên:\n• From my perspective, ... ví dụ: \"From my perspective, technology should support learning, not replace independent\nthinking.\" (Theo quan điểm của tôi, ...)\n• It seems to me that... ví dụ: \"It seems to me that students today struggle to focus because of constant digital\ndistractions.\" (Dường như đối với tôi rằng...)\n• I would argue that... ví dụ: \"I would argue that learning how to evaluate information is more important than ever.\" (Tôi\ncho rằng...)\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"Do you think technology will completely replace traditional teaching methods?\" - Not entirely, because face-to-face\ninteraction and guidance from teachers still play an irreplaceable role in learning.\n• \"How can people avoid becoming too dependent on technology?\" - They can set specific times for offline study,\npractice solving problems independently first, and use technology only to check or supplement their work.\n• \"What skills do students need to use technology effectively for learning?\" - They need strong information literacy,\ntime management, and the ability to critically evaluate online sources.\n5. Các lỗi thường gặp:\n• Liệt kê nhánh ý mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước để tránh bị động.\n• Dành quá nhiều thời gian cho bài nói chính, không còn thời gian trả lời câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Khi bí ý, hãy liên hệ đến trải nghiệm học tập thực tế của bản thân với công nghệ để có thêm ví dụ.\n• Dùng câu học thuật để câu giờ: \"That is a complex issue. If we evaluate it from an educational perspective...\"\n• Nếu quên từ vựng chuyên môn, hãy dùng từ đồng nghĩa đơn giản hơn hoặc mô tả khái niệm bằng câu dễ hiểu.\n7. Tư duy làm bài nói:\n• Hãy tư duy thực tế, nhìn nhận công nghệ như một công cụ hỗ trợ chứ không thay thế hoàn toàn con người.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao.\n• Đừng ngại đưa ra góc nhìn cá nhân, vì điều đó giúp bài nói trở nên chân thực và thuyết phục hơn."
+}

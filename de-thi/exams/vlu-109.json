@@ -1,0 +1,714 @@
+{
+ "id": "vlu-109",
+ "number": 109,
+ "title": "Đề thi VLU 109",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-109",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Getting Back Into Shape After the Holidays",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "For many people, the weeks following a major holiday season bring a familiar realization: months of rich food, late nights, and irregular schedules have left them feeling less fit than they would like. Rather than turning to extreme diets or quick fixes, more and more people are choosing a slower, steadier approach that combines regular exercise with realistic daily habits. Gyms and fitness studios typically see a noticeable rise in new members during this period, though studies suggest that many of these new members stop attending within just a few months if their initial routine was too demanding to **sustain**.",
+     "Two of the most commonly recommended activities for **this** kind of gradual recovery are gym-based strength training and yoga, and trainers often suggest combining the two rather than choosing only one. Strength training helps build muscle, which in turn increases the number of calories the body burns even while resting, while yoga improves flexibility, balance, and can also reduce the stress that sometimes leads people to overeat in the first place. A beginner program usually starts with only two or three short sessions per week, since attempting daily intense workouts right away is one of the most common reasons people quit exercising altogether within the first month.",
+     "Diet also plays an important supporting role, though most fitness experts caution against making **drastic** changes all at once. Instead of cutting out entire food groups immediately, nutritionists generally recommend gradually reducing portion sizes and replacing some fried or sugary foods with simpler alternatives, allowing the body and mind time to adjust without triggering the kind of intense cravings that often lead to giving up. Drinking enough water throughout the day is also frequently mentioned, since mild dehydration can sometimes be mistaken for hunger, leading people to eat more than they actually need.",
+     "Consistency, according to most trainers, matters far more than intensity, especially in the early weeks of any new routine. Someone who exercises moderately three times a week for several months will typically see better long-term results than someone who exercises intensely every day for two weeks and then stops entirely from exhaustion or injury. For this reason, many gyms and yoga studios now offer beginner-friendly class schedules specifically timed for the weeks after major holidays, when demand for gentler, lower-pressure options is highest.",
+     "Ultimately, most fitness professionals agree that the goal should not simply be losing the weight gained over the holiday season, but building habits flexible enough to last well beyond it. Small, sustainable changes to both exercise and diet, repeated patiently over time, tend to produce results that last far longer than any short, intense program ever could."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, why do many new gym members stop attending?",
+      "options": {
+       "A": "Gym membership fees rose sharply after New Year.",
+       "B": "Their initial routine was too demanding to sustain.",
+       "C": "Yoga studios offered better schedules than the gym.",
+       "D": "Their trainer canceled sessions during the busy season."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"stop attending\" hoặc \"gym members\" ở đoạn 1 để tìm lý do: chế độ tập luyện ban đầu quá khắt khe, nặng nhọc để duy trì (initial routine was too demanding to sustain)."
+     },
+     {
+      "number": 2,
+      "stem": "The word \"sustain\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "speed up",
+       "B": "hold back",
+       "C": "keep up",
+       "D": "warm up"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"sustain\" ở đoạn 1 được dùng trong ngữ cảnh duy trì lịch tập luyện vất vả. Từ này đồng nghĩa với tiếp tục, duy trì (keep up)."
+     },
+     {
+      "number": 3,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Drinking sufficient water each day is the most critical factor in losing holiday weight quickly.",
+       "B": "A gradual, consistent combination of exercise and diet changes tends to build habits that last.",
+       "C": "Yoga is generally more effective than gym training for people recovering from holiday weight gain.",
+       "D": "Most new gym members quit permanently after the first few weeks of their new routine."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 4,
+      "stem": "The word \"this\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "daily intense workouts",
+       "B": "new member increase",
+       "C": "gym and yoga",
+       "D": "stress reduction methods"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"this\" ở đoạn 2. Đọc câu ngay phía trước: câu trước vừa đề cập đến việc tập luyện cường độ cao hàng ngày (daily intense workouts). Đại từ \"this\" quy chiếu thẳng đến hoạt động này."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, what do nutritionists generally recommend regarding diet changes?",
+      "options": {
+       "A": "Avoid drinking water until clear hunger signals appear.",
+       "B": "Eliminate entire food groups immediately for the fastest results.",
+       "C": "Gradually reduce portions and replace some foods with simpler options.",
+       "D": "Repeat the exact pre-holiday diet without any changes."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"nutritionists\" ở đoạn 3 để thấy lời khuyên về chế độ ăn: giảm khẩu phần từ từ và thay thế một số món ăn bằng lựa chọn đơn giản hơn (gradually reduce portions and replace some foods with simpler options)."
+     },
+     {
+      "number": 6,
+      "stem": "According to the passage, which of the following is NOT mentioned as a benefit of yoga?",
+      "options": {
+       "A": "improving balance",
+       "B": "building muscle mass",
+       "C": "reducing stress",
+       "D": "improving flexibility"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét các tác dụng của yoga ở đoạn 2: cải thiện sự dẻo dai (improving flexibility), nâng cao thăng bằng (improving balance) và giảm căng thẳng (reducing stress). Chi tiết \"tăng khối lượng cơ bắp\" (building muscle mass) là lợi ích không được đề cập cho yoga."
+     },
+     {
+      "number": 7,
+      "stem": "The word \"drastic\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "healthy",
+       "B": "delayed",
+       "C": "gradual",
+       "D": "extreme"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"drastic\" ở đoạn 3 mô tả những thay đổi chế độ ăn đột ngột, quá đà. Sắc thái nghĩa của từ sát nhất với cực đoan, quyết liệt (extreme)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, what do most trainers say matters more than intensity?",
+      "options": {
+       "A": "Eating fewer calories than recommended.",
+       "B": "Following a strict daily class schedule.",
+       "C": "Staying consistent with a routine over time.",
+       "D": "Choosing a costly gym membership plan."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"matters more than intensity\" ở đoạn 2 để thấy điểm cốt lõi theo nhận định của huấn luyện viên: sự duy trì đều đặn theo thời gian (staying consistent with a routine over time)."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about why beginner programs start with fewer sessions per week?",
+      "options": {
+       "A": "Starting with intense daily workouts often leads to early exhaustion.",
+       "B": "Gyms are usually overwhelmed with new members during major holidays.",
+       "C": "Yoga instructors are rarely available for weekday afternoon classes.",
+       "D": "Fewer sessions burn more calories than daily exercise routines."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đọc nội dung đoạn 1 và đoạn 2. Việc người mới bắt đầu chỉ nên tập ít buổi/tuần có thể suy ra từ thực tế: nếu bắt đầu ngay bằng các buổi tập dồn dập hàng ngày sẽ dễ dẫn đến kiệt sức và bỏ cuộc sớm (Starting with intense daily workouts often leads to early exhaustion)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall purpose in writing this passage?",
+      "options": {
+       "A": "To argue that dietary changes are unnecessary for health.",
+       "B": "To promote a specific yoga studio's new class schedule.",
+       "C": "To explain a gradual approach to post-holiday fitness.",
+       "D": "To criticize gyms for encouraging unsustainable trends. Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 1 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R1Q1, R1Q5, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực tiếp có sẵn trong bài đọc:\n  - Với **R1Q1**, quét từ khóa \"stop attending\" hoặc \"gym members\" ở đoạn 1 để tìm lý do: chế độ tập luyện ban đầu quá khắt khe, nặng nhọc để duy trì (initial routine was too demanding to sustain).\n  - Với **R1Q5**, quét từ khóa \"nutritionists\" ở đoạn 3 để thấy lời khuyên về chế độ ăn: giảm khẩu phần từ từ và thay thế một số món ăn bằng lựa chọn đơn giản hơn (gradually reduce portions and replace some foods with simpler options).\n  - Với **R1Q8**, quét cụm từ \"matters more than intensity\" ở đoạn 2 để thấy điểm cốt lõi theo nhận định của huấn luyện viên: sự duy trì đều đặn theo thời gian (staying consistent with a routine over time).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q2, R1Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q2**, từ **\"sustain\"** ở đoạn 1 được dùng trong ngữ cảnh duy trì lịch tập luyện vất vả. Từ này đồng nghĩa với tiếp tục, duy trì (keep up).\n  - Với **R1Q7**, từ **\"drastic\"** ở đoạn 3 mô tả những thay đổi chế độ ăn đột ngột, quá đà. Sắc thái nghĩa của từ sát nhất với cực đoan, quyết liệt (extreme).\n- **Dạng câu hỏi Loại trừ NOT (R1Q6):** Đọc quét các tác dụng của yoga ở đoạn 2: cải thiện sự dẻo dai (improving flexibility), nâng cao thăng bằng (improving balance) và giảm căng thẳng (reducing stress). Chi tiết \"tăng khối lượng cơ bắp\" (building muscle mass) là lợi ích không được đề cập cho yoga.\n- **Dạng câu hỏi Quy chiếu (R1Q4):** Tập trung vào đại từ **\"this\"** ở đoạn 2. Đọc câu ngay phía trước: câu trước vừa đề cập đến việc tập luyện cường độ cao hàng ngày (daily intense workouts). Đại từ \"this\" quy chiếu thẳng đến hoạt động này.\n- **Dạng câu hỏi Ý chính (R1Q3) và Mục đích của tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và câu kết bài để thấy chủ đề xuyên suốt: việc kết hợp giữa tập luyện và ăn uống một cách từ tốn, đều đặn sẽ giúp hình thành thói quen lâu dài (A gradual, consistent combination of exercise and diet changes tends to build habits that last). Tác giả viết bài nhằm giải thích phương pháp tiếp cận thể hình từ từ sau kỳ nghỉ (To explain a gradual approach to post-holiday fitness).\n- **Dạng câu hỏi Suy luận (R1Q9):** Đọc nội dung đoạn 1 và đoạn 2. Việc người mới bắt đầu chỉ nên tập ít buổi/tuần có thể suy ra từ thực tế: nếu bắt đầu ngay bằng các buổi tập dồn dập hàng ngày sẽ dễ dẫn đến kiệt sức và bỏ cuộc sớm (Starting with intense daily workouts often leads to early exhaustion).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi có vị trí định vị rõ ràng như Từ vựng (R1Q2, R1Q7) và Quy chiếu (R1Q4). Tiếp theo, dùng kỹ thuật đọc quét nhanh để hoàn thành các câu **Chi tiết** (R1Q1, R1Q5, R1Q8) và câu hỏi **Loại trừ** (R1Q6). Cuối cùng, tổng hợp tinh thần toàn bài để chọn đáp án chính xác cho các câu tư duy tổng hợp gồm **Suy luận** (R1Q9), **Ý** chính (R1Q3) và Mục đích của tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Understanding Landslide and Flood Risk in Mountainous Regions",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Communities located near steep, forested slopes face a combination of hazards that rarely occur in isolation, since heavy rainfall capable of triggering a landslide is very often the same rainfall responsible for downstream flooding. Researchers studying these events have increasingly moved away from treating landslides and floods as separate categories of natural disaster, arguing instead that the two are frequently linked through a single underlying cause: prolonged or unusually intense rainfall that **saturates** soil beyond its capacity to hold water, at which point gravity, rather than the rain itself, becomes the immediate trigger for slope failure.",
+     "Soil saturation does not happen instantly, which is part of why early warning systems increasingly track cumulative rainfall over several days rather than the intensity of any single storm. A relatively modest rainstorm falling on already-saturated ground can trigger a landslide that a storm of similar or even greater intensity would not cause on dry soil, meaning that rainfall totals from the preceding week are sometimes a better predictor of landslide risk than the rainfall total of the triggering storm itself. **This distinction**, while seemingly technical, has practical consequences for how warnings are issued and how much lead time residents actually receive.",
+     "Deforestation compounds this risk considerably, since tree roots play a significant structural role in binding soil particles together and slowing the rate at which water infiltrates the ground. Slopes that have been cleared for agriculture or development, research consistently shows, experience landslides at meaningfully higher rates than comparable slopes that retain their original vegetation cover, even when rainfall amounts are held constant across both types of terrain. This has led some regional governments to restrict construction on steep slopes altogether, though enforcement of such restrictions varies considerably and is sometimes undermined by short-term economic pressure to develop available land.",
+     "Once a landslide reaches a river or stream — which happens more often than many residents assume, given how frequently slope failures occur near waterways in mountainous terrain — it can temporarily block the channel, creating what geologists call a landslide dam. These natural dams are frequently unstable, and when they eventually fail, the water and debris held behind them are released suddenly, sometimes producing floods considerably more destructive than would have occurred from rainfall alone, since the resulting surge combines fast-moving water with large volumes of accumulated sediment and debris.",
+     "Community preparedness in landslide-prone regions has, in recent years, shifted correspondingly from a narrow focus on flood-specific measures — such as levees and drainage channels — toward more **integrated** approaches that account for both hazards simultaneously. Evacuation routes are now more frequently planned with slope stability in mind, not just flood elevation, since a route that avoids low-lying flood zones may nonetheless cross terrain vulnerable to a landslide triggered by the very same storm.",
+     "Some rural communities, lacking the resources for sophisticated monitoring equipment, have instead adopted simpler observational practices, training residents to recognize early warning signs such as new cracks in the ground, tilting trees, or sudden changes in the clarity of stream water — indicators that, while less precise than instrumented monitoring, have in several documented cases provided enough advance notice for successful evacuation before a slope failure occurred."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Landslides and floods often share a single cause of prolonged rainfall, so preparedness now covers both.",
+       "B": "Modern warning systems now predict landslides with almost complete accuracy in every region.",
+       "C": "Deforestation alone explains nearly every landslide and flood recorded in mountainous regions worldwide.",
+       "D": "Landslide dams are the leading cause of most major floods across mountainous terrain today."
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why do early warning systems track rainfall over several days rather than a single storm's intensity?",
+      "options": {
+       "A": "Cumulative rainfall figures are simply easier for residents to understand than storm data.",
+       "B": "Single storms rarely produce enough rainfall to affect soil conditions at all.",
+       "C": "Soil saturation builds gradually, so a modest storm on wet ground can trigger a landslide.",
+       "D": "Single-storm intensity cannot be measured accurately with any current monitoring technology."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"track rainfall over several days\" ở đoạn 2 để thấy lý do: độ ẩm/sự bão hòa của đất tích tụ dần dần, nên một trận mưa nhỏ trên nền đất ẩm vẫn đủ kích hoạt sạt lở (soil saturation builds gradually, so a modest storm on wet ground can trigger a landslide)."
+     },
+     {
+      "number": 13,
+      "stem": "The phrase \"This distinction\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "rural versus urban evacuation planning",
+       "B": "preceding rainfall versus triggering-storm rainfall",
+       "C": "landslide dams versus river channels",
+       "D": "vegetated versus deforested slopes"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào cụm từ \"This distinction\" ở đoạn 2. Đọc ngược về câu phía trước: câu trước phân biệt sự khác nhau giữa tổng lượng mưa tích lũy từ các ngày trước (preceding rainfall) và lượng mưa của riêng trận bão trực tiếp gây ra (triggering-storm rainfall). Cụm \"This distinction\" quy chiếu thẳng đến sự phân biệt này."
+     },
+     {
+      "number": 14,
+      "stem": "The word \"saturates\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "dries out",
+       "B": "moistens lightly",
+       "C": "fills completely",
+       "D": "erodes slowly"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"saturates\" ở đoạn 1 được dùng để chỉ việc mưa làm đất ngấm đẫm, vượt quá khả năng giữ nước của đất. Từ này đồng nghĩa với làm đầy/làm ướt sũng hoàn toàn (fills completely)."
+     },
+     {
+      "number": 15,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way communities prepare for landslide risk?",
+      "options": {
+       "A": "planning slope-aware evacuation routes",
+       "B": "installing satellite soil sensors nationwide",
+       "C": "tracking cumulative rainfall totals",
+       "D": "training residents on warning signs"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét các biện pháp chuẩn bị phòng chống nguy cơ sạt lở ở đoạn 5: theo dõi lượng mưa tích lũy (tracking cumulative rainfall totals), tập huấn dấu hiệu cảnh báo cho dân cư (training residents on warning signs) và quy hoạch tuyến đường sơ tán dựa trên độ ổn định của sườn dốc (planning slope-aware evacuation routes). Chi tiết \"lắp đặt cảm biến đất vệ tinh trên toàn quốc\" là phương án không được đề cập."
+     },
+     {
+      "number": 16,
+      "stem": "Based on the passage, why do deforested slopes experience landslides at higher rates than vegetated slopes?",
+      "options": {
+       "A": "Tree roots bind soil and slow infiltration, a role lost when cleared.",
+       "B": "Deforested slopes always receive more total rainfall than forested slopes.",
+       "C": "Government restrictions apply only to slopes that remain forested.",
+       "D": "Deforested slopes sit at higher elevations than forested slopes generally."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"deforested slopes\" ở đoạn 3 để định vị lý do: rễ cây giúp liên kết các hạt đất và làm chậm tốc độ nước ngấm vào đất — vai trò này bị mất đi khi rừng bị chặt phá (tree roots bind soil and slow infiltration, a role lost when cleared)."
+     },
+     {
+      "number": 17,
+      "stem": "What is the author's overall attitude toward the relationship between landslides and floods?",
+      "options": {
+       "A": "dismissive of community-level preparedness efforts as ineffective",
+       "B": "skeptical that any real link between the hazards exists",
+       "C": "alarmist, stressing worst outcomes without discussing preparedness",
+       "D": "objective, presenting the link as well-supported scientific understanding"
+      },
+      "answer": "D",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": null
+     },
+     {
+      "number": 18,
+      "stem": "The word \"integrated\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "combined",
+       "B": "outdated",
+       "C": "simplified",
+       "D": "separated"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"integrated\" ở đoạn 5 mô tả các hệ thống cảnh báo tích hợp/kết hợp cả hai nguy cơ sạt lở và lũ lụt. Từ này đồng nghĩa với kết hợp (combined)."
+     },
+     {
+      "number": 19,
+      "stem": "According to the passage, what happens when a landslide dam eventually fails?",
+      "options": {
+       "A": "Surrounding vegetation regrows more quickly than on other slopes.",
+       "B": "Water and debris are released suddenly, sometimes causing severe flooding.",
+       "C": "Governments are required to rebuild the waterway immediately after.",
+       "D": "The river channel becomes permanently blocked from further flow."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"landslide dam\" ở đoạn 4 để thấy hậu quả khi đập sạt lở bị vỡ: nước và bùn đá xả ra đột ngột, đôi khi gây ra lũ lụt nghiêm trọng phía hạ lưu (water and debris are released suddenly, sometimes causing severe flooding)."
+     },
+     {
+      "number": 20,
+      "stem": "What can be inferred from the passage about why evacuation routes now account for slope stability?",
+      "options": {
+       "A": "Flood elevation data is generally unreliable in most mountainous regions.",
+       "B": "Landslides only occur in areas that are also flood-prone.",
+       "C": "Slope stability is easier to measure than flood risk in general.",
+       "D": "A route avoiding flood zones may still cross terrain vulnerable to landslides. Reading"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đọc đoạn 5 về việc quy hoạch tuyến đường sơ tán. Việc tính đến độ ổn định của sườn dốc khi lập tuyến đường sơ tán cho phép suy luận rằng: một tuyến đường tránh được vùng ngập lũ vẫn có thể băng qua khu vực nguy cơ bị sạt lở đất (a route avoiding flood zones may still cross terrain vulnerable to landslides). Lời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi định vị rõ ràng như Từ vựng (R2Q4, R2Q8) và Quy chiếu (R2Q3). Tiếp theo, sử dụng kỹ thuật đọc quét nhanh để hoàn thành các câu Chi tiết (R2Q2, R2Q6, R2Q9) và câu hỏi Loại trừ (R2Q5). Cuối cùng, dựa trên mạch liên kết logic toàn bài để chọn đáp án cho các câu đòi hỏi tư duy cao gồm Suy luận (R2Q10), Ý chính (R2Q1) và Thái độ của tác giả (R2Q7)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 2 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q6, R2Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực tiếp có sẵn trong bài đọc:\n  - Với **R2Q2**, quét từ khóa \"track rainfall over several days\" ở đoạn 2 để thấy lý do: độ ẩm/sự bão hòa của đất tích tụ dần dần, nên một trận mưa nhỏ trên nền đất ẩm vẫn đủ kích hoạt sạt lở (soil saturation builds gradually, so a modest storm on wet ground can trigger a landslide).\n  - Với **R2Q6**, quét từ khóa \"deforested slopes\" ở đoạn 3 để định vị lý do: rễ cây giúp liên kết các hạt đất và làm chậm tốc độ nước ngấm vào đất — vai trò này bị mất đi khi rừng bị chặt phá (tree roots bind soil and slow infiltration, a role lost when cleared).\n  - Với **R2Q9**, quét từ khóa \"landslide dam\" ở đoạn 4 để thấy hậu quả khi đập sạt lở bị vỡ: nước và bùn đá xả ra đột ngột, đôi khi gây ra lũ lụt nghiêm trọng phía hạ lưu (water and debris are released suddenly, sometimes causing severe flooding).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q4, R2Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q4**, từ **\"saturates\"** ở đoạn 1 được dùng để chỉ việc mưa làm đất ngấm đẫm, vượt quá khả năng giữ nước của đất. Từ này đồng nghĩa với làm đầy/làm ướt sũng hoàn toàn (fills completely).\n  - Với **R2Q8**, từ **\"integrated\"** ở đoạn 5 mô tả các hệ thống cảnh báo tích hợp/kết hợp cả hai nguy cơ sạt lở và lũ lụt. Từ này đồng nghĩa với kết hợp (combined).\n- **Dạng câu hỏi Loại trừ NOT (R2Q5):** Đọc quét các biện pháp chuẩn bị phòng chống nguy cơ sạt lở ở đoạn 5: theo dõi lượng mưa tích lũy (tracking cumulative rainfall totals), tập huấn dấu hiệu cảnh báo cho dân cư (training residents on warning signs) và quy hoạch tuyến đường sơ tán dựa trên độ ổn định của sườn dốc (planning slope-aware evacuation routes). Chi tiết \"lắp đặt cảm biến đất vệ tinh trên toàn quốc\" là phương án không được đề cập.\n- **Dạng câu hỏi Quy chiếu (R2Q3):** Tập trung vào cụm từ **\"This distinction\"** ở đoạn 2. Đọc ngược về câu phía trước: câu trước phân biệt sự khác nhau giữa tổng lượng mưa tích lũy từ các ngày trước (preceding rainfall) và lượng mưa của riêng trận bão trực tiếp gây ra (triggering-storm rainfall). Cụm \"This distinction\" quy chiếu thẳng đến sự phân biệt này.\n- **Dạng câu hỏi Ý chính (R2Q1) và Thái độ tác giả (R2Q7):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu đoạn 1 và đoạn cuối bài: bài viết giải thích sự liên quan chặt chẽ giữa sạt lở và lũ lụt do có chung nguyên nhân là mưa lớn kéo dài, từ đó công tác chuẩn bị hiện nay phải bao quát cả hai mối nguy này (Landslides and floods often share a single cause of prolonged rainfall, so preparedness now covers both). Tác giả thể hiện thái độ khách quan, khoa học khi trình bày mối liên hệ này (objective, presenting the link as well-supported scientific understanding).\n- **Dạng câu hỏi Suy luận (R2Q10):** Đọc đoạn 5 về việc quy hoạch tuyến đường sơ tán. Việc tính đến độ ổn định của sườn dốc khi lập tuyến đường sơ tán cho phép suy luận rằng: một tuyến đường tránh được vùng ngập lũ vẫn có thể băng qua khu vực nguy cơ bị sạt lở đất (a route avoiding flood zones may still cross terrain vulnerable to landslides). Lời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi định vị rõ ràng như Từ vựng (R2Q4, R2Q8) và Quy chiếu (R2Q3). Tiếp theo, sử dụng kỹ thuật đọc quét nhanh để hoàn thành các câu **Chi tiết** (R2Q2, R2Q6, R2Q9) và câu hỏi **Loại trừ** (R2Q5). Cuối cùng, dựa trên mạch liên kết logic toàn bài để chọn đáp án cho các câu đòi hỏi tư duy cao gồm **Suy luận** (R2Q10), **Ý chính** (R2Q1) và **Thái độ của tác giả** (R2Q7)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Persistence of the Ten-Percent Brain Myth",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few claims about human biology have proven as **durable**, or as thoroughly contradicted by evidence, as the assertion that people use only ten percent of their brains. Despite decades of neuroscientific research demonstrating otherwise, the notion continues to circulate in popular culture, occasionally resurfacing in films, self-help literature, and casual conversation as though **it** were an established scientific fact rather than a persistent misconception whose origins remain, even now, somewhat murky to historians of science.",
+     "Where exactly the myth originated is itself a matter of some dispute, though several plausible sources have been proposed over the years. Some historians trace it to a misreading of early twentieth-century neurological research, in which scientists — working with far more limited imaging technology than exists today — observed that only a fraction of neurons appeared active during any single simple task, a finding since shown to reflect the brain's efficient allocation of resources rather than any genuine underutilization of overall capacity. Others attribute the claim's popularization less to scientific misreading and more to self-help authors and motivational speakers, who found the notion of vast untapped mental potential rhetorically useful regardless of its accuracy.",
+     "Modern neuroimaging has since made the myth considerably harder to sustain, whatever its origin. Techniques such as functional MRI, which track blood flow and metabolic activity across the brain in near real time, reveal that virtually all regions show measurable activity over the course of a normal day, even if not every region is maximally active during any single given moment. Furthermore, patients who have suffered damage to even seemingly small areas of brain tissue frequently experience significant and often permanent impairment, a pattern that would be difficult to explain if ninety percent of the brain were, as the myth implies, functionally expendable.",
+     "Evolutionary considerations offer a further line of argument against the myth, one that some researchers find more persuasive than the neuroimaging evidence alone. The human brain, despite constituting only a small fraction of total body mass, consumes a disproportionately large share of the body's total energy budget — a metabolic cost that natural selection would be unlikely to have preserved across many generations had ninety percent of that costly tissue been providing no functional benefit whatsoever. This argument does not by itself prove that every neuron is essential at every moment, but it does suggest that large-scale, permanent underutilization would have carried an evolutionary cost difficult to justify.",
+     "Why the myth persists despite this accumulated evidence is a separate question from whether it is true, and one that some cognitive scientists find nearly as interesting as the original claim itself. Part of the explanation may lie in the appeal of the idea itself: the notion that untapped potential lies **dormant** within nearly everyone offers a more hopeful, motivating narrative than the comparatively mundane reality that most people already use the great majority of their brain, most of the time, simply not all of it at once for any single task. Whether correcting the myth actually diminishes its motivational appeal, or whether the two can coexist without contradiction, remains an open question that popular science communicators continue to grapple with.",
+     "What the myth ultimately illustrates, beyond its own specific inaccuracy, is a broader pattern in how scientific misconceptions take hold and endure: a claim need not be true, or even plausible under close scrutiny, to become deeply embedded in popular understanding, provided it offers a narrative more satisfying than the more complicated, less dramatic truth it displaces."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, what led to the initial emergence of the ten-percent myth?",
+      "options": {
+       "A": "A misunderstanding of early research on neuron activation levels.",
+       "B": "A deliberate attempt by self-help authors to deceive consumers.",
+       "C": "An inaccurate translation of twentieth-century medical journals.",
+       "D": "A flawed brain-imaging study that was later officially retracted."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 để thấy nguồn gốc của lầm tưởng 10%: xuất phát từ việc hiểu sai các nghiên cứu thần kinh đầu thế kỷ 20 về mức độ kích hoạt của neuron (A misunderstanding of early research on neuron activation levels)."
+     },
+     {
+      "number": 22,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Scientific evidence disproves the myth, but its popularity endures.",
+       "B": "Modern neuroimaging was created specifically to counter brain myths.",
+       "C": "Evolutionary biology fails to account for human brain energy use.",
+       "D": "Motivational speakers invented the myth strictly for financial gain."
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "ý chính xuyên suốt là: dù bằng chứng khoa học đã hoàn toàn bác bỏ, lầm tưởng này vẫn tiếp tục phổ biến rộng rãi (Scientific evidence disproves the myth, but its popularity endures)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"it\" in paragraph 1 refers to _______.",
+      "options": {
+       "A": "The ongoing debate among historians of cognitive science.",
+       "B": "The widespread assertion that humans use ten percent of brain power.",
+       "C": "The general field of modern neuroscientific research today.",
+       "D": "The general fascination with biology found in popular culture."
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"it\" ở câu cuối đoạn 1. Đọc ngược về câu trước: câu trước khẳng định về quan niệm sai lầm cho rằng con người chỉ dùng 10% bộ não. Đại từ \"it\" quy chiếu thẳng đến khẳng định phổ biến này (The widespread assertion that humans use ten percent of brain power)."
+     },
+     {
+      "number": 24,
+      "stem": "The word \"durable\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "short-lived",
+       "B": "widely doubted",
+       "C": "long-lasting",
+       "D": "easily proven"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"durable\" ở đoạn 1 được dùng để mô tả một quan niệm tồn tại dai dẳng qua nhiều thập kỷ dù đã bị bác bỏ. Từ này đồng nghĩa với lâu bền, kéo dài (long-lasting)."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what does the brain's disproportionate energy consumption suggest about the myth?",
+      "options": {
+       "A": "The brain's energy use has no bearing on evolutionary reasoning at all.",
+       "B": "Energy consumption data cannot be measured accurately in modern neuroscience.",
+       "C": "Natural selection would unlikely preserve costly tissue providing no benefit.",
+       "D": "The brain actually consumes very little of the body's total energy."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Suy luận",
+      "explanation": "quét từ khóa \"energy consumption\" ở đoạn 4 để thấy góc nhìn sinh học tiến hóa: chọn lọc tự nhiên khó có thể duy trì một cơ quan tiêu tốn quá nhiều năng lượng mà không mang lại giá trị/lợi ích gì (Natural selection would unlikely preserve costly tissue providing no benefit)."
+     },
+     {
+      "number": 26,
+      "stem": "According to the passage, which of the following is NOT presented as evidence against the ten-percent myth?",
+      "options": {
+       "A": "damage to small brain areas causing significant impairment",
+       "B": "fMRI showing activity across virtually all brain regions",
+       "C": "surveys showing most people already reject the myth",
+       "D": "the brain's disproportionately high energy consumption"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét các bằng chứng chống lại lầm tưởng 10% được đề cập trong bài: tổn thương diện tích nhỏ gây suy giảm chức năng lớn (đoạn 3), fMRI cho thấy hầu hết các vùng đều hoạt động (đoạn 3), và mức tiêu thụ năng lượng cao của bộ não (đoạn 4). Chi tiết \"các cuộc khảo sát cho thấy hầu hết mọi người đã bác bỏ quan niệm này\" là phương án không hề được đề cập."
+     },
+     {
+      "number": 27,
+      "stem": "What can be inferred from the passage about why neuroimaging evidence alone has not fully eliminated the myth?",
+      "options": {
+       "A": "Evolutionary arguments have completely replaced neuroimaging as the accepted proof.",
+       "B": "The myth's appeal may rest more on its hopeful narrative than on evidence.",
+       "C": "Most people have never been exposed to any neuroimaging findings at all.",
+       "D": "Neuroimaging technology remains too imprecise for most researchers to trust."
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "việc hình ảnh học thần kinh không xóa bỏ được lầm tưởng này cho thấy sức hút của nó đến từ mong muốn tin vào tiềm năng to lớn của bản thân (hopeful narrative) hơn là dựa vào bằng chứng."
+     },
+     {
+      "number": 28,
+      "stem": "According to the final paragraph, what does the ten-percent myth ultimately illustrate?",
+      "options": {
+       "A": "that a claim can endure in popular belief without needing to be true",
+       "B": "that self-help literature is generally more accurate than academic research",
+       "C": "that neuroscientists rarely agree on the origins of popular misconceptions",
+       "D": "that brain-imaging technology has resolved every major neuroscience debate"
+      },
+      "answer": "A",
+      "type_hint": "Kết luận / Thái độ",
+      "type": "Chi tiết",
+      "explanation": "đoạn cuối khẳng định lầm tưởng 10% cho thấy một niềm tin vẫn có thể sống tốt trong văn hóa đại chúng mà không cần phải đúng sự thật (a claim can endure in popular belief without needing to be true)."
+     },
+     {
+      "number": 29,
+      "stem": "The word \"dormant\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "damaged",
+       "B": "expanding",
+       "C": "inactive",
+       "D": "exhausted"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"dormant\" ở đoạn 5 được dùng để chỉ phần não bộ ở trạng thái không hoạt động/nghỉ ngơi. Ngữ cảnh này sát nghĩa nhất với không hoạt động (inactive)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's overall attitude toward the ten-percent brain myth?",
+      "options": {
+       "A": "Sympathetic, holding out hope that the claim may be validated.",
+       "B": "Indignant, condemning those who continue to spread the misconception.",
+       "C": "Analytical, examining its flaws alongside reasons for its persistence.",
+       "D": "Dismissive, refusing to discuss the myth's impact on popular culture. Reading"
+      },
+      "answer": "C",
+      "type_hint": "Kết luận / Thái độ",
+      "type": "Thái độ tác giả",
+      "explanation": "thái độ của tác giả là phân tích, khách quan (Analytical) khi vừa chỉ ra các bằng chứng phản bác, vừa giải thích lý do quan niệm này tồn tại dai dẳng."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 3 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R3Q1, R3Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực tiếp có sẵn trong bài đọc:\n  - Với **R3Q1**, quét đoạn 2 để thấy nguồn gốc của lầm tưởng 10%: xuất phát từ việc hiểu sai các nghiên cứu thần kinh đầu thế kỷ 20 về mức độ kích hoạt của neuron (A misunderstanding of early research on neuron activation levels).\n  - Với **R3Q5**, quét từ khóa \"energy consumption\" ở đoạn 4 để thấy góc nhìn sinh học tiến hóa: chọn lọc tự nhiên khó có thể duy trì một cơ quan tiêu tốn quá nhiều năng lượng mà không mang lại giá trị/lợi ích gì (Natural selection would unlikely preserve costly tissue providing no benefit).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q4, R3Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q4**, từ **\"durable\"** ở đoạn 1 được dùng để mô tả một quan niệm tồn tại dai dẳng qua nhiều thập kỷ dù đã bị bác bỏ. Từ này đồng nghĩa với lâu bền, kéo dài (long-lasting).\n  - Với **R3Q9**, từ **\"dormant\"** ở đoạn 5 được dùng để chỉ phần não bộ ở trạng thái không hoạt động/nghỉ ngơi. Ngữ cảnh này sát nghĩa nhất với không hoạt động (inactive).\n- **Dạng câu hỏi Loại trừ NOT (R3Q6):** Đọc quét các bằng chứng chống lại lầm tưởng 10% được đề cập trong bài: tổn thương diện tích nhỏ gây suy giảm chức năng lớn (đoạn 3), fMRI cho thấy hầu hết các vùng đều hoạt động (đoạn 3), và mức tiêu thụ năng lượng cao của bộ não (đoạn 4). Chi tiết \"các cuộc khảo sát cho thấy hầu hết mọi người đã bác bỏ quan niệm này\" là phương án không hề được đề cập.\n- **Dạng câu hỏi Quy chiếu (R3Q3):** Tập trung vào đại từ **\"it\"** ở câu cuối đoạn 1. Đọc ngược về câu trước: câu trước khẳng định về quan niệm sai lầm cho rằng con người chỉ dùng 10% bộ não. Đại từ \"it\" quy chiếu thẳng đến khẳng định phổ biến này (The widespread assertion that humans use ten percent of brain power).\n- **Dạng câu hỏi Ý chính (R3Q2), Suy luận (R3Q7) và Kết luận / Thái độ (R3Q8, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt) toàn bài:\n  - Với **R3Q2**, ý chính xuyên suốt là: dù bằng chứng khoa học đã hoàn toàn bác bỏ, lầm tưởng này vẫn tiếp tục phổ biến rộng rãi (Scientific evidence disproves the myth, but its popularity endures).\n  - Với **R3Q7**, việc hình ảnh học thần kinh không xóa bỏ được lầm tưởng này cho thấy sức hút của nó đến từ mong muốn tin vào tiềm năng to lớn của bản thân (hopeful narrative) hơn là dựa vào bằng chứng.\n  - Với **R3Q8**, đoạn cuối khẳng định lầm tưởng 10% cho thấy một niềm tin vẫn có thể sống tốt trong văn hóa đại chúng mà không cần phải đúng sự thật (a claim can endure in popular belief without needing to be true).\n  - Với **R3Q10**, thái độ của tác giả là phân tích, khách quan (Analytical) khi vừa chỉ ra các bằng chứng phản bác, vừa giải thích lý do quan niệm này tồn tại dai dẳng.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi có vị trí định vị rõ ràng như Từ vựng (R3Q4, R3Q9) và Quy chiếu (R3Q3). Tiếp theo, dùng kỹ thuật đọc quét nhanh để hoàn thành các câu **Chi tiết** (R3Q1, R3Q5) và câu hỏi **Loại trừ** (R3Q6). Cuối cùng, tổng hợp lập luận toàn bài để chốt chính xác các câu hỏi tư duy tổng hợp gồm **Suy luận** (R3Q7), **Ý** chính (R3Q2), Kết luận (R3Q8) và Thái độ của tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Rebuilding After the Storm: An Island Community's Long Recovery",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Not only did the typhoon that struck the island destroy the majority of its fishing fleet, but it also, in ways that took considerably longer to become apparent, damaged the underlying economic and social structures that had sustained the community for generations — a slower, less visible form of harm that some disaster researchers argue ultimately proves more consequential than the storm's immediate physical destruction, even though media coverage typically fades long before this second, quieter phase of damage fully plays out.",
+     "Initial recovery efforts, predictably enough, concentrated on the most visible needs: clearing debris, restoring electricity, and rebuilding damaged homes, tasks that international aid organizations are generally well equipped to address within the first several weeks following a disaster of this scale. What proved considerably harder to restore, however, was the informal economic network that had underpinned the island's fishing industry long before the storm — relationships between boat owners, processors, and buyers built up over years and, in some cases, decades, none of which could simply be rebuilt on the same timeline as a physical structure, however sophisticated the reconstruction effort.",
+     "Government disaster relief funding, while substantial in absolute terms, was allocated according to a formula that some economists have since argued failed to account adequately for **this** distinction between physical and relational capital, since funding formulas of this kind are typically designed around measurable losses — destroyed boats, damaged buildings — rather than the far less **quantifiable** erosion of trust and established working relationships that disasters of this scale routinely cause but that rarely appear in any standard damage assessment. Whether revised formulas incorporating this relational dimension would meaningfully improve outcomes remains a matter some policy researchers continue to debate, absent clear evidence from comparable cases elsewhere.",
+     "Migration patterns following the storm further complicated recovery, since a meaningful share of working-age residents, faced with an uncertain timeline for economic recovery, chose to relocate to the mainland in search of steadier employment rather than wait for the fishing industry to fully recover. This outmigration, while entirely rational from an individual household's perspective, arguably slowed the very recovery those departing residents might otherwise have contributed to, since a smaller working-age population left the aging fleet of remaining fishermen struggling to rebuild the informal networks that outmigration itself had further weakened — an unintended, self-reinforcing dynamic that few initial relief plans had anticipated.",
+     "Some outside observers, drawing on the island's difficult experience, have proposed that future disaster relief frameworks ought to incorporate explicit provisions for relational and economic capital rather than focusing narrowly on physical reconstruction, arguing that failing to do so risks repeating the same slow, quiet erosion documented here in future disasters elsewhere. Whether such reforms will materialize, and whether they would meaningfully alter recovery outcomes even if adopted, remains genuinely uncertain, and reasonable disaster-policy analysts continue to disagree on both points.",
+     "Years after the storm, the island's fishing industry has partially recovered, though most residents interviewed describe the community as functioning differently than it did before — smaller, somewhat less cohesive, and, according to several long-time fishermen, permanently altered in ways that no amount of reconstruction funding, however generously allocated, could have fully reversed."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, what form of harm does the author argue proved more consequential than the storm's immediate destruction?",
+      "options": {
+       "A": "the loss of the island's entire electrical grid infrastructure",
+       "B": "the slower damage to economic and social structures over time",
+       "C": "the temporary halt of international news coverage",
+       "D": "the destruction of homes located along the coastline"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 1 để tìm loại thiệt hại hệ trọng hơn phá hủy tức thời: sự tổn hại chậm hơn đối với cấu trúc kinh tế và xã hội theo thời gian (the slower damage to economic and social structures over time)."
+     },
+     {
+      "number": 32,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Outmigration is the only meaningful factor determining an island community's long-term recovery.",
+       "B": "The storm's slower relational and economic damage proved harder to repair than physical destruction.",
+       "C": "International aid organizations failed entirely to address the island's most urgent physical needs.",
+       "D": "Government funding formulas are always the primary obstacle to effective disaster recovery."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "chủ đề xuyên suốt bài viết là: thiệt hại kinh tế và mối quan hệ diễn ra chậm hơn của trận bão hóa ra lại khó khắc phục hơn nhiều so với thiệt hại vật chất ban đầu (The storm's slower relational and economic damage proved harder to repair than physical destruction)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"this\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "the total amount of government relief funding allocated",
+       "B": "the number of boats destroyed during the typhoon",
+       "C": "the timeline international organizations used for debris removal",
+       "D": "the distinction between physical losses and relational capital erosion"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"this\" ở đoạn 3. Đọc ngược câu ngay phía trước để thấy từ này quy chiếu thẳng đến sự phân biệt giữa tổn thất vật chất và sự suy giảm vốn quan hệ (the distinction between physical losses and relational capital erosion)."
+     },
+     {
+      "number": 34,
+      "stem": "The word \"quantifiable\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "deliberately hidden from view",
+       "B": "impossible to measure",
+       "C": "rapidly changing over time",
+       "D": "capable of being measured"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"quantifiable\" ở đoạn 3 mô tả các tổn thất có thể cân đo đếm được như thuyền hay nhà cửa bị hỏng. Từ này đồng nghĩa với có thể đo lường được (capable of being measured)."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, why did government relief funding fail to account for relational capital?",
+      "options": {
+       "A": "Funding formulas are typically designed around measurable, physical losses.",
+       "B": "The government intentionally excluded fishermen from relief funding entirely.",
+       "C": "Relational capital had already been fully restored before funding arrived.",
+       "D": "International aid organizations refused to share relevant damage data."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"government relief funding\" ở đoạn 3 để thấy lý do quỹ cứu trợ chưa tính đến vốn quan hệ: do công thức tài trợ thường chỉ thiết kế dựa trên thiệt hại vật chất, có thể đo lường được (designed around measurable, physical losses)."
+     },
+     {
+      "number": 36,
+      "stem": "According to the passage, which of the following is NOT mentioned as part of initial recovery efforts?",
+      "options": {
+       "A": "reforming national disaster funding formulas",
+       "B": "restoring electricity to the island",
+       "C": "rebuilding damaged residential homes",
+       "D": "clearing debris from damaged areas"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét nỗ lực phục hồi ban đầu ở đoạn 2: dọn dẹp mảnh vỡ (clearing debris), khôi phục điện (restoring electricity), và dựng lại nhà cửa (rebuilding damaged residential homes). Chi tiết \"cải cách công thức tài trợ thiên tai quốc gia\" là phương án không thuộc giai đoạn phục hồi ban đầu."
+     },
+     {
+      "number": 37,
+      "stem": "What can be inferred from the passage about the relationship between outmigration and the fishing industry's recovery?",
+      "options": {
+       "A": "Outmigration and weakened networks reinforced each other, slowing recovery further.",
+       "B": "Residents who left the island always returned once the fishing industry recovered.",
+       "C": "Outmigration had no measurable effect on the island's fishing industry at all.",
+       "D": "The fishing industry recovered fastest specifically because young workers had left."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "từ đoạn 4 có thể suy luận: việc di cư ra ngoài và các mạng lưới liên kết bị suy yếu tác động qua lại lẫn nhau, làm chậm hơn nữa tiến trình phục hồi ngành ngư nghiệp."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, what do some outside observers propose for future disaster relief frameworks?",
+      "options": {
+       "A": "relocating entire island populations before storms strike",
+       "B": "focusing exclusively on physical reconstruction going forward",
+       "C": "eliminating government funding formulas for fishing communities entirely",
+       "D": "incorporating explicit provisions for relational and economic capital"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 để tìm đề xuất cho khuôn khổ cứu trợ tương lai: tích hợp các điều khoản rõ ràng cho vốn quan hệ và kinh tế (incorporating explicit provisions for relational and economic capital)."
+     },
+     {
+      "number": 39,
+      "stem": "The word \"cohesive\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "expanding",
+       "B": "unified",
+       "C": "divided",
+       "D": "declining"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"cohesive\" ở đoạn 6 mô tả một cộng đồng gắn kết, đoàn kết chặt chẽ. Từ này đồng nghĩa với thống nhất, gắn kết (unified)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's overall stance toward whether future disaster relief reforms will be adopted?",
+      "options": {
+       "A": "dismissive, treating the entire reform debate as irrelevant to real outcomes",
+       "B": "genuinely uncertain, presenting the debate as unresolved among policy analysts",
+       "C": "strongly opposed to any changes in current relief funding formulas",
+       "D": "firmly confident that reforms will be adopted across all disaster-prone regions"
+      },
+      "answer": "B",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "tác giả thể hiện sự không chắc chắn (genuinely uncertain), trình bày cuộc thảo luận như một vấn đề chưa có hồi kết giữa các nhà phân tích chính sách."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 4 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R4Q1, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để xác định vị trí dữ kiện chính xác trong bài đọc:\n  - Với **R4Q1**, quét đoạn 1 để tìm loại thiệt hại hệ trọng hơn phá hủy tức thời: sự tổn hại chậm hơn đối với cấu trúc kinh tế và xã hội theo thời gian (the slower damage to economic and social structures over time).\n  - Với **R4Q5**, quét từ khóa \"government relief funding\" ở đoạn 3 để thấy lý do quỹ cứu trợ chưa tính đến vốn quan hệ: do công thức tài trợ thường chỉ thiết kế dựa trên thiệt hại vật chất, có thể đo lường được (designed around measurable, physical losses).\n  - Với **R4Q8**, quét đoạn 5 để tìm đề xuất cho khuôn khổ cứu trợ tương lai: tích hợp các điều khoản rõ ràng cho vốn quan hệ và kinh tế (incorporating explicit provisions for relational and economic capital).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q4, R4Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q4**, từ **\"quantifiable\"** ở đoạn 3 mô tả các tổn thất có thể cân đo đếm được như thuyền hay nhà cửa bị hỏng. Từ này đồng nghĩa với có thể đo lường được (capable of being measured).\n  - Với **R4Q9**, từ **\"cohesive\"** ở đoạn 6 mô tả một cộng đồng gắn kết, đoàn kết chặt chẽ. Từ này đồng nghĩa với thống nhất, gắn kết (unified).\n- **Dạng câu hỏi Loại trừ NOT (R4Q6):** Đọc quét nỗ lực phục hồi ban đầu ở đoạn 2: dọn dẹp mảnh vỡ (clearing debris), khôi phục điện (restoring electricity), và dựng lại nhà cửa (rebuilding damaged residential homes). Chi tiết \"cải cách công thức tài trợ thiên tai quốc gia\" là phương án không thuộc giai đoạn phục hồi ban đầu.\n- **Dạng câu hỏi Quy chiếu (R4Q3):** Tập trung vào đại từ **\"this\"** ở đoạn 3. Đọc ngược câu ngay phía trước để thấy từ này quy chiếu thẳng đến sự phân biệt giữa tổn thất vật chất và sự suy giảm vốn quan hệ (the distinction between physical losses and relational capital erosion).\n- **Dạng câu hỏi Ý chính (R4Q2), Suy luận (R4Q7) và Thái độ tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt) toàn bài:\n  - Với **R4Q2**, chủ đề xuyên suốt bài viết là: thiệt hại kinh tế và mối quan hệ diễn ra chậm hơn của trận bão hóa ra lại khó khắc phục hơn nhiều so với thiệt hại vật chất ban đầu (The storm's slower relational and economic damage proved harder to repair than physical destruction).\n  - Với **R4Q7**, từ đoạn 4 có thể suy luận: việc di cư ra ngoài và các mạng lưới liên kết bị suy yếu tác động qua lại lẫn nhau, làm chậm hơn nữa tiến trình phục hồi ngành ngư nghiệp.\n  - Với **R4Q10**, tác giả thể hiện sự không chắc chắn (genuinely uncertain), trình bày cuộc thảo luận như một vấn đề chưa có hồi kết giữa các nhà phân tích chính sách.\nLời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi định vị rõ ràng như Từ vựng (R4Q4, R4Q9) và Quy chiếu (R4Q3). Tiếp theo, sử dụng kỹ thuật đọc quét nhanh để giải quyết nhóm câu hỏi **Chi tiết** (R4Q1, R4Q5, R4Q8) và câu hỏi **Loại trừ** (R4Q6). Cuối cùng, tổng hợp lập luận toàn bài để chốt đáp án chính xác cho các câu tư duy cao gồm **Suy luận** (R4Q7), Ý chính (R4Q2) và Thái độ của tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend, Sarah, who is planning to visit your country for a month.\nShe has asked you for some advice before her trip. Read part of her email below.\nI'm so excited to be visiting your country for a whole month, but I have no idea what to bring or what to do while I'm there.\n- Tell her what she should bring for her trip\n- Recommend the best places she should visit\n- Suggest some activities she could take part in\nWrite an email responding to Sarah. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend, Sarah, who is planning to visit your country for a month.",
+      "She has asked you for some advice before her trip. Read part of her email below."
+     ],
+     "quote": [
+      "I'm so excited to be visiting your country for a whole month, but I have no idea what to bring or what to do while I'm there.",
+      "- Tell her what she should bring for her trip",
+      "- Recommend the best places she should visit",
+      "- Suggest some activities she could take part in"
+     ],
+     "instruction": "Write an email responding to Sarah. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\nĐây là dạng **Informal Email** (Thư thân mật) vì người viết cho bạn bè, nên văn phong cần gần gũi, tự nhiên. Đề bài yêu cầu bạn tư vấn ba nội dung chính: những thứ cần mang theo, những địa điểm tốt nhất nên ghé thăm, và những hoạt động nên tham gia. Bài viết cần đạt tối thiểu **120 từ** và phải trả lời đầy đủ cả ba nội dung được gợi ý.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Sarah,\n- **Opening:** Bày tỏ sự vui mừng và dẫn vào chủ đề. Ví dụ: I'm thrilled that you're coming to visit for a whole month, let me give you some tips to help you prepare.\n- **Body 1:** Những thứ cần mang theo. Ví dụ: In terms of what to bring, you should pack light, comfortable clothes as well as a good pair of walking shoes.\n- **Body 2:** Địa điểm tốt nhất nên đến. Ví dụ: As for places to visit, I highly recommend the old town, which is full of historic architecture and local charm.\n- **Body 3:** Hoạt động nên tham gia. Ví dụ: You should also try some outdoor activities, such as cycling around the lake or joining a local cooking class.\n- **Closing & Sign-off:** Kết thư và mong gặp lại. Ví dụ: I can't wait to see you soon. Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng động từ khuyết thiếu (should, could) khi đưa ra lời khuyên và gợi ý. Nên đa dạng hoá từ vựng, tránh lặp lại từ \"visit\" hay \"bring\" quá nhiều lần. Mỗi đoạn nên tập trung vào một nội dung để bố cục rõ ràng.\nTừ vựng quan trọng:\n- **Pack light:** Đóng gói gọn nhẹ\n- **Historic architecture:** Kiến trúc lịch sử\n- **Local cuisine:** Ẩm thực địa phương\n- **Sightseeing:** Tham quan ngắm cảnh\n- **Outdoor activities:** Hoạt động ngoài trời\n- **Tourist attraction:** Điểm thu hút du lịch\n- **Essential items:** Vật dụng cần thiết\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **In terms of / As for:** Về mặt / Còn về việc\n- **Also / In addition:** Ngoài ra / Bên cạnh đó\n- **Besides:** Bên cạnh đó\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm so excited that you're finally visiting:** Tôi rất vui khi cuối cùng bạn cũng đến thăm\n- **I'm sure you'll have an amazing time:** Tôi chắc chắn bạn sẽ có khoảng thời gian tuyệt vời\n- **I can't wait to show you around:** Tôi không thể chờ để dẫn bạn đi tham quan\n\n**4. Các lỗi thường gặp:**\n- Sử dụng ngôn ngữ quá trang trọng như \"Dear Sir/Madam\" thay vì xưng hô thân mật với bạn bè.\n- Không trả lời đầy đủ cả ba nội dung được gợi ý trong đề bài.\n- Liệt kê thông tin rời rạc mà không có sự liên kết giữa các câu.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã đề cập đủ những thứ cần mang, địa điểm và hoạt động chưa.\n- Đếm số từ để đảm bảo đạt tối thiểu 120 từ.\n- Xem lại cách xưng hô và văn phong có phù hợp với thư thân mật hay không.\n\n**6. Tư duy làm bài:**\nHãy viết như thể bạn đang thực sự tư vấn cho một người bạn thân sắp đến thăm đất nước mình. Sự chân thành và thông tin cụ thể sẽ giúp bài viết trở nên sinh động và hữu ích hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn recent years, an increasing number of countries have been investing heavily in alternative energy sources such as solar, wind, and hydroelectric power.\nWhile this shift towards alternative energy is often praised for its environmental benefits, some people argue that it also brings certain drawbacks that should not be overlooked.\nDo you think the increasing use of alternative energy is a positive or negative development? Give reasons for your answer.\nWrite an essay to an educated reader to give your opinion on whether the increasing use of alternative energy is a positive or negative development. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In recent years, an increasing number of countries have been investing heavily in alternative energy sources such as solar, wind, and hydroelectric power.",
+      "While this shift towards alternative energy is often praised for its environmental benefits, some people argue that it also brings certain drawbacks that should not be overlooked.",
+      "Do you think the increasing use of alternative energy is a positive or negative development? Give reasons for your answer."
+     ],
+     "instruction": "Write an essay to an educated reader to give your opinion on whether the increasing use of alternative energy is a positive or negative development. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\nĐây là dạng bài **Opinion Essay** (Bài luận nêu ý kiến), yêu cầu bạn khẳng định rõ quan điểm cá nhân về việc sử dụng năng lượng thay thế ngày càng tăng là một xu hướng tích cực hay tiêu cực, kèm theo lý do và dẫn chứng cụ thể. Bài viết yêu cầu tối thiểu **250 từ** và cần có lập trường rõ ràng, nhất quán xuyên suốt bài viết.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu chủ đề và nêu rõ quan điểm cá nhân. Ví dụ: I strongly believe that the growing use of alternative energy represents a positive development for both the environment and the global economy.\n- **Body 1:** Topic sentence nêu lý do thứ nhất, giải thích, cho ví dụ. Ví dụ: Firstly, alternative energy sources significantly reduce greenhouse gas emissions, helping to slow down the effects of climate change.\n- **Body 2:** Topic sentence nêu lý do thứ hai, giải thích, cho ví dụ. Ví dụ: Secondly, investing in renewable energy creates numerous job opportunities in emerging industries such as solar panel manufacturing.\n- **Conclusion:** Khẳng định lại quan điểm. Ví dụ: In conclusion, I firmly believe that the shift towards alternative energy is a positive development that benefits both the planet and society as a whole.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng thì Hiện tại đơn để diễn đạt sự thật và xu hướng chung. Mỗi đoạn thân bài nên phát triển ý bằng cách giải thích và đưa ví dụ cụ thể để tăng tính thuyết phục. Câu chủ đề ở phần mở bài cần nêu rõ lập trường của người viết ngay từ đầu.\nTừ vựng quan trọng:\n- **Renewable energy:** Năng lượng tái tạo\n- **Greenhouse gas emissions:** Khí thải nhà kính\n- **Fossil fuels:** Nhiên liệu hoá thạch\n- **Sustainable development:** Phát triển bền vững\n- **Solar panel:** Tấm pin năng lượng mặt trời\n- **Climate change:** Biến đổi khí hậu\n- **Energy consumption:** Tiêu thụ năng lượng\nTừ nối (Linking words):\n- **Firstly / Secondly:** Thứ nhất / Thứ hai (Liệt kê ý)\n- **Moreover / Furthermore:** Hơn nữa (Thêm ý)\n- **For example / For instance:** Ví dụ như (Đưa ví dụ)\n- **As a result:** Kết quả là (Nguyên nhân - kết quả)\n- **In my opinion:** Theo quan điểm của tôi\n- **In conclusion / To sum up:** Tóm lại (Kết luận)\nDiễn đạt lại ý (Paraphrasing):\n- **Clean energy sources:** Thay cho \"alternative energy\".\n- **A beneficial trend / a step forward:** Thay cho \"a positive development\".\n- **Transitioning to renewables:** Thay cho \"increasing use of alternative energy\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **I firmly believe that...:** Dùng để khẳng định quan điểm mạnh mẽ ngay từ đầu.\n- **It cannot be denied that...:** Dùng để nhấn mạnh một sự thật hiển nhiên.\n- **Compared to traditional energy sources, ... proves to be more advantageous:** Dùng khi so sánh năng lượng thay thế với năng lượng truyền thống.\n\n**4. Các lỗi thường gặp:**\n- Không nêu rõ quan điểm cá nhân ngay từ phần mở bài.\n- Thiếu ví dụ cụ thể để minh hoạ cho các luận điểm, khiến bài viết chung chung.\n- Đưa ra lập luận mâu thuẫn với quan điểm đã nêu ở đầu bài.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem quan điểm có được duy trì nhất quán xuyên suốt bài viết không.\n- Đếm số từ để đảm bảo đạt tối thiểu 250 từ.\n- Xem lại các từ nối đã được sử dụng hợp lý giữa các đoạn chưa.\n\n**6. Tư duy làm bài:**\nHãy nêu rõ lập trường cá nhân ngay từ đầu và duy trì nhất quán trong suốt bài viết. Sự rõ ràng trong lập luận cùng với ví dụ thực tế sẽ giúp bài viết thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about movies\n\n1\nWhat kind of movies do you enjoy watching?\n2\nHow often do you go to the cinema or watch movies at home?\n3\nWho do you usually watch movies with, and why?\n\nNow, let’s talk about pets\n\n4\nDo you have any pets, or would you like to have one?\n5\nWhat do you think are the benefits of keeping pets?\n6\nDo you think keeping pets requires a lot of responsibility?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần 1 kéo dài 3 phút với 6 câu hỏi, kiểm tra khả năng giao tiếp xã hội tự nhiên của bạn.\n- **Topic A (Phim ảnh):** Câu 1-3 hỏi về sở thích thể loại phim, tần suất xem phim và người cùng xem - kiểm tra khả năng miêu tả sở thích cá nhân.\n- **Topic B (Nuôi thú cưng):** Câu 4-6 hỏi về việc nuôi thú cưng, lợi ích và trách nhiệm khi nuôi - kiểm tra khả năng đưa ra ý kiến và lý giải.\n- Tiêu chí chấm điểm gồm: Fluency, Vocabulary, Grammar, Pronunciation.\n- Nên phân bổ khoảng 25-35 giây mỗi câu, cân bằng thời gian giữa Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **ARE** (Answer - Reason - Example) để câu trả lời có chiều sâu.\n- **Ví dụ Topic A:** \"I really enjoy watching action and comedy movies, because they help me relax after a long day of studying.\"\n- **Ví dụ Topic B:** \"I have a dog at home, and I think keeping pets brings a lot of joy and companionship to a family.\"\n- Luôn tự hỏi Why?/How? sau khi trả lời để mở rộng ý.\n- Dùng câu chuyển ý mượt mà khi chuyển từ Topic A sang Topic B, ví dụ: \"Apart from watching movies, I also enjoy spending time with animals at home.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định, dùng từ đệm như \"well\", \"actually\" để tránh khoảng lặng dài.\n- Về thì: dùng Hiện tại đơn cho sở thích (I usually watch...), Hiện tại hoàn thành khi nói về kinh nghiệm nuôi thú cưng (I have had a cat for three years).\n- Nếu bí từ, hãy diễn giải, ví dụ thay \"plot twist\" bằng \"an unexpected change in the story\".\n- Từ vựng Topic A: \"a great way to unwind\" (cách tuyệt vời để thư giãn), \"box office hit\" (phim ăn khách), \"gripping storyline\" (cốt truyện lôi cuốn).\n- Từ vựng Topic B: \"a loyal companion\" (người bạn trung thành), \"to take care of\" (chăm sóc), \"a sense of responsibility\" (tinh thần trách nhiệm).\nCụm từ quan trọng nên dùng:\n- \"to be a fan of\" - là người hâm mộ của\n- \"a form of entertainment\" - một hình thức giải trí\n- \"to lose track of time\" - quên mất thời gian\n- \"to bond with an animal\" - gắn kết với một con vật\n- \"emotional support\" - hỗ trợ tinh thần\n- \"a time-consuming commitment\" - một cam kết tốn thời gian\nTừ nối khi nói (Linking Words):\n- \"Firstly / Secondly\" - Thứ nhất / Thứ hai, dùng để liệt kê ý\n- \"In addition\" - Thêm vào đó, dùng để bổ sung ý\n- \"However\" - Tuy nhiên, dùng khi đối lập ý\n- \"As a result\" - Kết quả là, dùng nêu hệ quả\n- \"For example\" - Ví dụ như, dùng khi đưa ra minh chứng\nCách thể hiện quan điểm tự nhiên:\n- \"Personally, I think...\" - ví dụ: \"Personally, I think movies are a great way to learn about different cultures.\" (Cá nhân tôi nghĩ...)\n- \"In my opinion...\" - ví dụ: \"In my opinion, pets can teach children responsibility.\" (Theo ý kiến của tôi...)\n- \"From my point of view...\" - ví dụ: \"From my point of view, keeping a pet requires careful consideration.\" (Theo quan điểm của tôi...)\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes/No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n- Với Topic A: chỉ nói tên thể loại phim mà không giải thích lý do yêu thích.\n- Với Topic B: trả lời chung chung \"I like pets\" mà không nêu lợi ích hay trách nhiệm cụ thể.\n- Chia sai thì khi kể về kinh nghiệm nuôi thú cưng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu giờ: \"That's an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy mô tả đặc điểm thay vì dừng lại giữa chừng.\n- Với Topic A, nếu quên tên thể loại phim, có thể mô tả: \"movies that make you laugh a lot\".\n- Với Topic B, nếu quên từ chuyên biệt, hãy mô tả đơn giản như \"an animal that lives with a family at home\".\n\n**6. Tư duy làm bài nói:**\n- Hãy coi đây là một cuộc trò chuyện thân mật với giám khảo.\n- Chuyển đổi tâm thế linh hoạt khi chuyển từ Topic A sang Topic B để tránh nói lẫn lộn hai chủ đề.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng phức tạp gây vấp váp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou and your team need to choose a farewell gift for a colleague who is retiring.\n\nYou are considering the following options:\n\nOption 1: A handmade gift\nOption 2: A pair of tickets to a show or event\nOption 3: A book\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống xoay quanh việc chọn quà chia tay cho một đồng nghiệp sắp nghỉ hưu, với 3 lựa chọn: quà tự làm, cặp vé xem sự kiện, hoặc một cuốn sách.\n- Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và khả năng lập luận logic.\n- Thời gian: 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E** (Introduction - Comparison/Body - End): giới thiệu tình huống, so sánh 3 lựa chọn, kết luận lựa chọn tốt nhất.\n- Option 1 (handmade gift): \"A handmade gift shows genuine effort and sincerity, making it deeply personal, though it takes time and creativity to prepare.\"\n- Option 2 (pair of tickets): \"A pair of tickets to a show offers a fun, shared experience, but it may not suit everyone's interests or schedule.\"\n- Option 3 (a book): \"A book can be a thoughtful and lasting gift, especially if it matches the colleague's interests, though it might feel less personal than a handmade item.\"\n- Neo lập luận vào bối cảnh mối quan hệ đồng nghiệp thực tế, ví dụ nhắc đến sở thích cá nhân của người sắp nghỉ hưu.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách biệt, ví dụ: \"Unlike a book, which is a solitary gift, a pair of tickets allows for a shared, memorable experience.\"\n- Về thì: dùng modal verbs (would/could) để đưa ra dự đoán, ví dụ \"This gift would leave a lasting impression on our colleague.\"\n- Paraphrase từ \"meaningful\" bằng \"heartfelt\" hoặc \"thoughtful\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- \"a token of appreciation\" - món quà thể hiện sự trân trọng\n- \"a lasting impression\" - ấn tượng lâu dài\n- \"a personal touch\" - sự chăm chút cá nhân\n- \"a shared experience\" - trải nghiệm chung\n- \"to mark the occasion\" - đánh dấu dịp đặc biệt\n- \"a well-deserved retirement\" - kỳ nghỉ hưu xứng đáng\nTừ nối khi nói (Linking Words):\n- \"On the other hand\" - Mặt khác, dùng để đối lập ý\n- \"Compared to\" - So với, dùng để so sánh\n- \"Nevertheless\" - Tuy nhiên, dùng khi nêu điểm bất lợi\n- \"Taking everything into account\" - Xét tổng thể, dùng khi kết luận\n- \"Similarly\" - Tương tự, dùng khi hai lựa chọn có điểm chung\nCách thể hiện quan điểm tự nhiên:\n- \"I would go for...\" - ví dụ: \"I would go for the handmade gift because it reflects genuine care.\" (Tôi sẽ chọn...)\n- \"If I had to choose, I'd say...\" - ví dụ: \"If I had to choose, I'd say tickets to a show would create a wonderful memory.\" (Nếu phải chọn, tôi sẽ nói...)\n- \"What appeals to me most is...\" - ví dụ: \"What appeals to me most is the thoughtfulness behind a handmade gift.\" (Điều hấp dẫn tôi nhất là...)\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ \"good\"/\"nice\" liên tục thay vì dùng tính từ học thuật hơn như \"sentimental\", \"practical\", \"memorable\".\n- Không đưa ra kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên biệt, hãy chuyển hướng sang bàn về yếu tố chi phí hoặc sở thích cá nhân của người nhận.\n- Dùng câu giờ: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí ý ở một lựa chọn, hãy chuyển sang phân tích lựa chọn tiếp theo rồi quay lại sau.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một đồng nghiệp thân thiết đang lên kế hoạch - lựa chọn nào thể hiện sự trân trọng chân thành nhất.\n- Dù chọn phương án nào, vẫn nên đưa ra một gợi ý cải thiện nhỏ để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nEffective ways to stay healthy in daily life\n\nWays to Stay Healthy\nRegular exercise\nEating healthy food\nManaging stress effectively\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat type of exercise do you think is most effective for staying healthy?\n2\nHow does stress affect a person's overall health?\n3\nDo you think young people today pay enough attention to their health?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển ý về các cách để duy trì sức khỏe tốt trong cuộc sống hằng ngày, dựa trên 3 nhánh mindmap và 1 ý tưởng cá nhân (nhánh thứ 4 có thể là \"getting enough quality sleep every night\").\n- Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar, khả năng phát triển ý mạch lạc.\n- Thời gian 5 phút: khoảng 3-3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL** (Point - Explanation - Example - Link) để phát triển từng nhánh mindmap mạch lạc.\n- **Ví dụ 1 (mở bài):** \"Today, I would like to talk about some effective ways to stay healthy in our daily lives.\"\n- **Ví dụ 2 (nhánh cá nhân):** \"In addition, getting enough quality sleep every night plays a crucial role in maintaining both physical and mental health.\"\n- Khi nói về \"Regular exercise\", nên nêu ví dụ cụ thể như đi bộ 30 phút mỗi ngày hoặc tập gym ba lần một tuần.\n- Bám sát mindmap để tránh lặp ý hoặc lạc đề giữa các nhánh.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh mindmap, ví dụ \"Moving on to my next point...\"\n- Về thì: dùng Hiện tại đơn cho sự thật hiển nhiên (Exercise helps...) kết hợp Hiện tại hoàn thành cho thói quen đã hình thành (I have been exercising regularly for two years).\n- Paraphrase từ \"healthy\" bằng \"well-being\" hoặc \"fit and active\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- \"a balanced lifestyle\" - lối sống cân bằng\n- \"to boost the immune system\" - tăng cường hệ miễn dịch\n- \"nutrient-rich food\" - thực phẩm giàu dinh dưỡng\n- \"to cope with stress\" - đối phó với căng thẳng\n- \"physical and mental well-being\" - sức khỏe thể chất và tinh thần\n- \"to prevent illness\" - phòng ngừa bệnh tật\nTừ nối khi nói (Linking Words):\n- \"To begin with\" - Trước hết, dùng khi mở đầu nhánh ý đầu tiên\n- \"Furthermore\" - Hơn nữa, dùng để bổ sung ý\n- \"Not only... but also...\" - Không chỉ... mà còn..., dùng để nhấn mạnh hai lợi ích\n- \"On top of that\" - Bên cạnh đó, dùng khi thêm ý mới\n- \"In conclusion\" - Tóm lại, dùng khi kết luận bài nói\nCách thể hiện quan điểm tự nhiên:\n- \"I firmly believe that...\" - ví dụ: \"I firmly believe that a combination of exercise and a good diet is essential for good health.\" (Tôi tin chắc rằng...)\n- \"It seems to me that...\" - ví dụ: \"It seems to me that stress management is often overlooked compared to diet and exercise.\" (Đối với tôi có vẻ như...)\n- \"There is no doubt that...\" - ví dụ: \"There is no doubt that regular exercise improves both physical and mental health.\" (Không nghi ngờ gì rằng...)\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- \"What type of exercise do you think is most effective for staying healthy?\" - Trả lời: các bài tập cardio như chạy bộ hoặc bơi lội thường được xem là hiệu quả vì tác động tốt đến tim mạch.\n- \"How does stress affect a person's overall health?\" - Trả lời: căng thẳng kéo dài có thể gây mất ngủ, suy giảm hệ miễn dịch và ảnh hưởng đến sức khỏe tâm lý.\n- \"Do you think young people today pay enough attention to their health?\" - Trả lời: một số bạn trẻ đã quan tâm hơn đến sức khỏe, nhưng vẫn còn nhiều người bỏ qua do áp lực học tập và công việc.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê ý mà không giải thích hay đưa ví dụ cụ thể, khiến bài nói thiếu chiều sâu.\n- Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước một ý tưởng riêng.\n- Nói quá lâu ở phần mở đầu khiến không còn thời gian trả lời follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Khi bí ý, hãy liên hệ đến thói quen sinh hoạt hằng ngày của bản thân để có thêm ví dụ.\n- Dùng câu giờ học thuật: \"That is a complex issue. If we evaluate it from a health perspective...\"\n- Nếu quên từ chuyên môn, hãy dùng từ đồng nghĩa đơn giản hoặc mô tả ngắn gọn thay vì dừng lại.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ thực tế từ góc độ sức khỏe cá nhân - vì sao cần kết hợp nhiều thói quen tốt thay vì chỉ dựa vào một biện pháp duy nhất.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao, quan trọng hơn số lượng từ vựng khó.\n- Luôn giữ giọng nói tự tin và tích cực, vì đây là chủ đề mang tính xây dựng và hữu ích."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about movies.\n1.\nWhat kind of movies do you enjoy watching?\n2.\nHow often do you go to the cinema or watch movies at home?\n3.\nWho do you usually watch movies with, and why?\nNow, let’s talk about pets.\n4.\nDo you have any pets, or would you like to have one?\n5.\nWhat do you think are the benefits of keeping pets?\n6.\nDo you think keeping pets requires a lot of responsibility?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần 1 kéo dài 3 phút với 6 câu hỏi, kiểm tra khả năng giao tiếp xã hội tự nhiên của bạn.\n• Topic A (Phim ảnh): Câu 1-3 hỏi về sở thích thể loại phim, tần suất xem phim và người cùng xem - kiểm tra khả năng\nmiêu tả sở thích cá nhân.\n• Topic B (Nuôi thú cưng): Câu 4-6 hỏi về việc nuôi thú cưng, lợi ích và trách nhiệm khi nuôi - kiểm tra khả năng đưa ra\ný kiến và lý giải.\n• Tiêu chí chấm điểm gồm: Fluency, Vocabulary, Grammar, Pronunciation.\n• Nên phân bổ khoảng 25-35 giây mỗi câu, cân bằng thời gian giữa Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE (Answer - Reason - Example) để câu trả lời có chiều sâu.\n• Ví dụ Topic A: \"I really enjoy watching action and comedy movies, because they help me relax after a long day of\nstudying.\"\n• Ví dụ Topic B: \"I have a dog at home, and I think keeping pets brings a lot of joy and companionship to a family.\"\n• Luôn tự hỏi Why?/How? sau khi trả lời để mở rộng ý.\n• Dùng câu chuyển ý mượt mà khi chuyển từ Topic A sang Topic B, ví dụ: \"Apart from watching movies, I also enjoy\nspending time with animals at home.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định, dùng từ đệm như \"well\", \"actually\" để tránh khoảng lặng dài.\n• Về thì: dùng Hiện tại đơn cho sở thích (I usually watch...), Hiện tại hoàn thành khi nói về kinh nghiệm nuôi thú cưng\n(I have had a cat for three years).\n• Nếu bí từ, hãy diễn giải, ví dụ thay \"plot twist\" bằng \"an unexpected change in the story\".\n• Từ vựng Topic A: \"a great way to unwind\" (cách tuyệt vời để thư giãn), \"box office hit\" (phim ăn khách), \"gripping\nstoryline\" (cốt truyện lôi cuốn).\n• Từ vựng Topic B: \"a loyal companion\" (người bạn trung thành), \"to take care of\" (chăm sóc), \"a sense of responsibility\"\n(tinh thần trách nhiệm).\nCụm từ quan trọng nên dùng:\n• \"to be a fan of\" - là người hâm mộ của\n• \"a form of entertainment\" - một hình thức giải trí\n• \"to lose track of time\" - quên mất thời gian\n• \"to bond with an animal\" - gắn kết với một con vật\n• \"emotional support\" - hỗ trợ tinh thần\n• \"a time-consuming commitment\" - một cam kết tốn thời gian\nTừ nối khi nói (Linking Words):\n• \"Firstly / Secondly\" - Thứ nhất / Thứ hai, dùng để liệt kê ý\n• \"In addition\" - Thêm vào đó, dùng để bổ sung ý\n• \"However\" - Tuy nhiên, dùng khi đối lập ý\n• \"As a result\" - Kết quả là, dùng nêu hệ quả\n• \"For example\" - Ví dụ như, dùng khi đưa ra minh chứng\nCách thể hiện quan điểm tự nhiên:\n• \"Personally, I think...\" - ví dụ: \"Personally, I think movies are a great way to learn about different cultures.\" (Cá nhân\ntôi nghĩ...)\n• \"In my opinion...\" - ví dụ: \"In my opinion, pets can teach children responsibility.\" (Theo ý kiến của tôi...)\n• \"From my point of view...\" - ví dụ: \"From my point of view, keeping a pet requires careful consideration.\" (Theo quan\nđiểm của tôi...)\n4. Các lỗi thường gặp:\n• Trả lời \"Yes/No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n• Với Topic A: chỉ nói tên thể loại phim mà không giải thích lý do yêu thích.\n• Với Topic B: trả lời chung chung \"I like pets\" mà không nêu lợi ích hay trách nhiệm cụ thể.\n• Chia sai thì khi kể về kinh nghiệm nuôi thú cưng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu giờ: \"That's an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy mô tả đặc điểm thay vì dừng lại giữa chừng.\n• Với Topic A, nếu quên tên thể loại phim, có thể mô tả: \"movies that make you laugh a lot\".\n• Với Topic B, nếu quên từ chuyên biệt, hãy mô tả đơn giản như \"an animal that lives with a family at home\".\n6. Tư duy làm bài nói:\n• Hãy coi đây là một cuộc trò chuyện thân mật với giám khảo.\n• Chuyển đổi tâm thế linh hoạt khi chuyển từ Topic A sang Topic B để tránh nói lẫn lộn hai chủ đề.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng phức tạp gây vấp váp.\nSolution Discussion\nPART 2\n4 phút\nYou and your team need to choose a farewell gift for a colleague who is retiring.\nYou are considering the following options:\n• Option 1: A handmade gift\n• Option 2: A pair of tickets to a show or event\n• Option 3: A book\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống xoay quanh việc chọn quà chia tay cho một đồng nghiệp sắp nghỉ hưu, với 3 lựa chọn: quà tự làm, cặp vé\nxem sự kiện, hoặc một cuốn sách.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và khả năng lập luận logic.\n• Thời gian: 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu tình huống, so sánh 3 lựa chọn, kết luận\nlựa chọn tốt nhất.\n• Option 1 (handmade gift): \"A handmade gift shows genuine effort and sincerity, making it deeply personal, though it\ntakes time and creativity to prepare.\"\n• Option 2 (pair of tickets): \"A pair of tickets to a show offers a fun, shared experience, but it may not suit everyone's\ninterests or schedule.\"\n• Option 3 (a book): \"A book can be a thoughtful and lasting gift, especially if it matches the colleague's interests,\nthough it might feel less personal than a handmade item.\"\n• Neo lập luận vào bối cảnh mối quan hệ đồng nghiệp thực tế, ví dụ nhắc đến sở thích cá nhân của người sắp nghỉ hưu.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách biệt, ví dụ: \"Unlike a book, which is a solitary gift, a pair of tickets allows\nfor a shared, memorable experience.\"\n• Về thì: dùng modal verbs (would/could) để đưa ra dự đoán, ví dụ \"This gift would leave a lasting impression on our\ncolleague.\"\n• Paraphrase từ \"meaningful\" bằng \"heartfelt\" hoặc \"thoughtful\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• \"a token of appreciation\" - món quà thể hiện sự trân trọng\n• \"a lasting impression\" - ấn tượng lâu dài\n• \"a personal touch\" - sự chăm chút cá nhân\n• \"a shared experience\" - trải nghiệm chung\n• \"to mark the occasion\" - đánh dấu dịp đặc biệt\n• \"a well-deserved retirement\" - kỳ nghỉ hưu xứng đáng\nTừ nối khi nói (Linking Words):\n• \"On the other hand\" - Mặt khác, dùng để đối lập ý\n• \"Compared to\" - So với, dùng để so sánh\n• \"Nevertheless\" - Tuy nhiên, dùng khi nêu điểm bất lợi\n• \"Taking everything into account\" - Xét tổng thể, dùng khi kết luận\n• \"Similarly\" - Tương tự, dùng khi hai lựa chọn có điểm chung\nCách thể hiện quan điểm tự nhiên:\n• \"I would go for...\" - ví dụ: \"I would go for the handmade gift because it reflects genuine care.\" (Tôi sẽ chọn...)\n• \"If I had to choose, I'd say...\" - ví dụ: \"If I had to choose, I'd say tickets to a show would create a wonderful memory.\"\n(Nếu phải chọn, tôi sẽ nói...)\n• \"What appeals to me most is...\" - ví dụ: \"What appeals to me most is the thoughtfulness behind a handmade gift.\"\n(Điều hấp dẫn tôi nhất là...)\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ \"good\"/\"nice\" liên tục thay vì dùng tính từ học thuật hơn như \"sentimental\", \"practical\", \"memorable\".\n• Không đưa ra kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên biệt, hãy chuyển hướng sang bàn về yếu tố chi phí hoặc sở thích cá nhân của người nhận.\n• Dùng câu giờ: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí ý ở một lựa chọn, hãy chuyển sang phân tích lựa chọn tiếp theo rồi quay lại sau.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một đồng nghiệp thân thiết đang lên kế hoạch - lựa chọn nào thể hiện sự trân trọng chân thành\nnhất.\n• Dù chọn phương án nào, vẫn nên đưa ra một gợi ý cải thiện nhỏ để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: Effective ways to stay healthy in daily life\nRegular exercise\nEating healthy food\nWays to Stay Healthy\nÝ tưởng của bạn\nManaging stress effectively\nFOLLOW-UP QUESTIONS\n1.\nWhat type of exercise do you think is most effective for staying healthy?\n2.\nHow does stress affect a person's overall health?\n3.\nDo you think young people today pay enough attention to their health?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển ý về các cách để duy trì sức khỏe tốt trong cuộc sống hằng ngày, dựa trên 3 nhánh\nmindmap và 1 ý tưởng cá nhân (nhánh thứ 4 có thể là \"getting enough quality sleep every night\").\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar, khả năng phát triển ý mạch lạc.\n• Thời gian 5 phút: khoảng 3-3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point - Explanation - Example - Link) để phát triển từng nhánh mindmap mạch lạc.\n• Ví dụ 1 (mở bài): \"Today, I would like to talk about some effective ways to stay healthy in our daily lives.\"\n• Ví dụ 2 (nhánh cá nhân): \"In addition, getting enough quality sleep every night plays a crucial role in maintaining both\nphysical and mental health.\"\n• Khi nói về \"Regular exercise\", nên nêu ví dụ cụ thể như đi bộ 30 phút mỗi ngày hoặc tập gym ba lần một tuần.\n• Bám sát mindmap để tránh lặp ý hoặc lạc đề giữa các nhánh.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh mindmap, ví dụ \"Moving on to my next point...\"\n• Về thì: dùng Hiện tại đơn cho sự thật hiển nhiên (Exercise helps...) kết hợp Hiện tại hoàn thành cho thói quen đã hình\nthành (I have been exercising regularly for two years).\n• Paraphrase từ \"healthy\" bằng \"well-being\" hoặc \"fit and active\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• \"a balanced lifestyle\" - lối sống cân bằng\n• \"to boost the immune system\" - tăng cường hệ miễn dịch\n• \"nutrient-rich food\" - thực phẩm giàu dinh dưỡng\n• \"to cope with stress\" - đối phó với căng thẳng\n• \"physical and mental well-being\" - sức khỏe thể chất và tinh thần\n• \"to prevent illness\" - phòng ngừa bệnh tật\nTừ nối khi nói (Linking Words):\n• \"To begin with\" - Trước hết, dùng khi mở đầu nhánh ý đầu tiên\n• \"Furthermore\" - Hơn nữa, dùng để bổ sung ý\n• \"Not only... but also...\" - Không chỉ... mà còn..., dùng để nhấn mạnh hai lợi ích\n• \"On top of that\" - Bên cạnh đó, dùng khi thêm ý mới\n• \"In conclusion\" - Tóm lại, dùng khi kết luận bài nói\nCách thể hiện quan điểm tự nhiên:\n• \"I firmly believe that...\" - ví dụ: \"I firmly believe that a combination of exercise and a good diet is essential for good\nhealth.\" (Tôi tin chắc rằng...)\n• \"It seems to me that...\" - ví dụ: \"It seems to me that stress management is often overlooked compared to diet and\nexercise.\" (Đối với tôi có vẻ như...)\n• \"There is no doubt that...\" - ví dụ: \"There is no doubt that regular exercise improves both physical and mental health.\"\n(Không nghi ngờ gì rằng...)\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"What type of exercise do you think is most effective for staying healthy?\" - Trả lời: các bài tập cardio như chạy bộ\nhoặc bơi lội thường được xem là hiệu quả vì tác động tốt đến tim mạch.\n• \"How does stress affect a person's overall health?\" - Trả lời: căng thẳng kéo dài có thể gây mất ngủ, suy giảm hệ miễn\ndịch và ảnh hưởng đến sức khỏe tâm lý.\n• \"Do you think young people today pay enough attention to their health?\" - Trả lời: một số bạn trẻ đã quan tâm hơn\nđến sức khỏe, nhưng vẫn còn nhiều người bỏ qua do áp lực học tập và công việc.\n5. Các lỗi thường gặp:\n• Liệt kê ý mà không giải thích hay đưa ví dụ cụ thể, khiến bài nói thiếu chiều sâu.\n• Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước một ý tưởng riêng.\n• Nói quá lâu ở phần mở đầu khiến không còn thời gian trả lời follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Khi bí ý, hãy liên hệ đến thói quen sinh hoạt hằng ngày của bản thân để có thêm ví dụ.\n• Dùng câu giờ học thuật: \"That is a complex issue. If we evaluate it from a health perspective...\"\n• Nếu quên từ chuyên môn, hãy dùng từ đồng nghĩa đơn giản hoặc mô tả ngắn gọn thay vì dừng lại.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ thực tế từ góc độ sức khỏe cá nhân - vì sao cần kết hợp nhiều thói quen tốt thay vì chỉ dựa vào một biện\npháp duy nhất.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao, quan trọng hơn số lượng từ vựng\nkhó.\n• Luôn giữ giọng nói tự tin và tích cực, vì đây là chủ đề mang tính xây dựng và hữu ích."
+}

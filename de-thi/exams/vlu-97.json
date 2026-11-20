@@ -1,0 +1,715 @@
+{
+ "id": "vlu-97",
+ "number": 97,
+ "title": "Đề thi VLU 97",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-97",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "One Meal, Two Cities: Dining Customs in Mainland China and Hong Kong",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Visitors expecting a single, uniform \"Chinese dining culture\" across mainland China and Hong Kong are often surprised by how many small but consistent differences separate the two, differences that trace back not merely to regional cuisine but to divergent social histories that shaped how meals themselves came to be structured and shared. Both regions share a foundational emphasis on communal eating, in which dishes are placed at the center of the table for everyone to share rather than portioned individually, yet the specific etiquette surrounding that shared table has developed along noticeably different paths.",
+     "In many mainland Chinese households and restaurants, meal etiquette places considerable emphasis on the host actively serving guests, sometimes placing food directly onto a guest's plate as a gesture of hospitality that a guest is expected to accept graciously rather than decline, even when already full. Hong Kong dining customs, shaped partly by decades of dense urban restaurant culture and faster-paced communal dining in crowded dim sum halls, tend to place somewhat less emphasis on **this active-serving gesture**, with etiquette instead centering more heavily on turn-taking with shared serving utensils and prompt tea-pouring for others at the table before oneself.",
+     "Tea service itself illustrates this divergence clearly. While tea accompanies meals throughout both regions, Hong Kong's dim sum tradition has developed an elaborate, semi-**codified** etiquette around tea specifically: tapping two fingers lightly on the table to silently thank someone who has just refilled one's cup, a gesture with origins disputed among food historians but widely practiced today regardless of its precise historical origin, and turning the teapot lid upside down or propping it open to silently signal to serving staff that a refill of hot water is needed. Such conventions, while not entirely absent on the mainland, are considerably less standardized and vary far more by region and restaurant type.",
+     "The concept of the shared meal as an occasion for building or reinforcing business and social relationships is prominent in both cultures, but the specific negotiating role that a meal plays differs: in mainland business contexts, a formal banquet frequently precedes serious negotiation, functioning as a relationship-building ritual that must generally be completed before substantive discussion of terms feels appropriate. Hong Kong's faster commercial rhythm, several business etiquette researchers note, more frequently allows a working lunch to double as the venue for both relationship-building and negotiation simultaneously, a pattern some attribute to the city's dense concentration of finance-sector professionals operating under considerably tighter daily schedules.",
+     "Seating arrangements at a shared meal likewise carry more procedural weight than casual diners from outside either culture might initially assume. The seat facing the entrance directly, or otherwise designated as the position of highest honor, is customarily reserved for the most senior guest or host, a convention rooted in older ideas about a host's obligation to face potential threats first, and violating this seating order, even unintentionally, can register as a subtle social misstep in more formal settings, though younger diners in both regions report the convention loosening considerably in casual, peer-group dining.",
+     "What emerges from these accumulated small differences is not a picture of two entirely separate dining cultures but of a single underlying tradition of **commensality** that has been locally adapted — accelerated, formalized in some respects, loosened in others — by each region's distinct urban rhythm, political history, and social structure, producing customs recognizable to both sides yet subtly, sometimes confusingly, out of step with one another in specific etiquette."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, what gesture of hospitality is common in many mainland Chinese households?",
+      "options": {
+       "A": "Hosts requiring guests to finish every dish served at the table",
+       "B": "Guests seating themselves facing the entrance regardless of seniority",
+       "C": "Hosts placing food directly onto a guest's plate as a gesture of hospitality",
+       "D": "Guests pouring tea for the host before serving themselves"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Hong Kong's dining customs are historically older and more authentic than those of the mainland.",
+       "B": "Business negotiation in Chinese culture never occurs during shared meals in either region.",
+       "C": "Both regions share an underlying tradition of communal dining that has been locally adapted into distinct, sometimes mismatched etiquette.",
+       "D": "Mainland China and Hong Kong have entirely separate dining cultures with no shared foundation."
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 3,
+      "stem": "The word \"commensality\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "a type of individually portioned meal service",
+       "B": "a formal legal agreement between business partners",
+       "C": "the practice of eating together as a shared social activity",
+       "D": "a strict religious dietary restriction"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, which of the following is NOT mentioned as a Hong Kong dim sum tea custom?",
+      "options": {
+       "A": "Turn-taking with shared serving utensils",
+       "B": "Pouring tea only for the most senior guest at the table",
+       "C": "Turning the teapot lid upside down to signal a need for hot water",
+       "D": "Tapping two fingers on the table to silently thank someone for a refill"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 5,
+      "stem": "The phrase \"this active-serving gesture\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "the practice of reserving a seat for the most senior guest",
+       "B": "the practice of combining negotiation with a working lunch",
+       "C": "the practice of tapping two fingers to thank someone for tea",
+       "D": "the practice of a host placing food directly onto a guest's plate"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Quy chiếu",
+      "explanation": null
+     },
+     {
+      "number": 6,
+      "stem": "Based on the passage, what does tapping two fingers on the table signify in Hong Kong dim sum tradition?",
+      "options": {
+       "A": "A silent thank-you to someone who has just refilled one's tea cup",
+       "B": "A formal request for the bill at the end of a meal",
+       "C": "A gesture reserved exclusively for business negotiations",
+       "D": "A signal that a guest wishes to leave the table"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 7,
+      "stem": "The word \"codified\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "financially regulated by the government",
+       "B": "entirely eliminated from practice",
+       "C": "formally systematized into recognized rules",
+       "D": "kept secret from outsiders"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 8,
+      "stem": "What can be inferred from the passage about why Hong Kong business meals more often combine negotiation with relationship-building?",
+      "options": {
+       "A": "It has no connection to the pace of business life in the city",
+       "B": "It is attributed partly to the city's dense concentration of finance professionals under tighter daily schedules",
+       "C": "It is because Hong Kong etiquette forbids formal banquets entirely",
+       "D": "It is because mainland Chinese business culture has abandoned banquets altogether"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Suy luận",
+      "explanation": null
+     },
+     {
+      "number": 9,
+      "stem": "According to the passage, why is the seat facing the entrance customarily reserved for the most senior guest or host?",
+      "options": {
+       "A": "It is required by law in formal restaurant settings",
+       "B": "It allows the most senior guest the best view of the restaurant's decor",
+       "C": "It is rooted in older ideas about a host's obligation to face potential threats first",
+       "D": "It is a modern convention with no historical basis"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall attitude toward the dining differences between mainland China and Hong Kong?",
+      "options": {
+       "A": "Dismissive, treating the differences as trivial and not worth noting",
+       "B": "Strongly critical of Hong Kong's dining customs as inferior to mainland traditions",
+       "C": "Strongly critical of mainland dining customs as outdated compared to Hong Kong",
+       "D": "Analytical and balanced, treating the differences as meaningful local adaptations of a shared underlying tradition Reading"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Thái độ tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Do mình không có thời gian nên gợi ý sẽ thêm sau, bạn có thể sử dụng Gemini để hỏi chi tiết nhé."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Body as a Layered System: Rethinking Anatomical Organization",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Introductory descriptions of human anatomy tend to present the body as a collection of separate systems — skeletal, muscular, circulatory, nervous — each illustrated in its own textbook diagram, a pedagogical convenience that, while useful for initial learning, has increasingly been questioned by anatomists who argue that this system-by-system framing obscures how thoroughly these structures are functionally interdependent rather than merely co-located within the same body.",
+     "Consider the relationship between the skeletal and muscular systems, often introduced as though bones provide passive structural support while muscles do the active work of movement. This framing understates the skeleton's own active physiological role: bone tissue is continuously **remodeled** throughout life, with specialized cells simultaneously breaking down and rebuilding bone matrix in response to mechanical stress, meaning that a bone subjected to regular load-bearing activity develops measurably different density and internal architecture than one that is not — a dynamic, ongoing process rather than the static scaffold implied by most introductory diagrams.",
+     "Connective tissue further complicates the neat separation between systems, since tendons, ligaments, and fascia do not belong cleanly to any single system in the conventional teaching framework yet play a role in nearly every movement the body performs. Fascia in particular, a fibrous connective tissue once considered primarily a passive wrapping around muscles, is now understood by some researchers to form a continuous, body-wide network that transmits mechanical force across considerable distances, meaning that tension or restriction in one region can plausibly influence movement patterns in a seemingly unrelated region far from the original site.",
+     "The nervous system's relationship to movement likewise resists the simple command-and-response model often presented to beginning students, in which the brain issues a movement instruction that muscles then execute. Considerable movement regulation instead occurs through feedback loops involving specialized sensory receptors embedded within muscles and tendons themselves, which continuously relay information about muscle length, tension, and joint position back to the nervous system, allowing rapid, largely unconscious postural adjustments that occur well before any deliberate, consciously initiated movement correction could take effect.",
+     "Circulatory and respiratory function, too, are frequently taught as though blood oxygenation and nutrient delivery were entirely separable processes from the musculoskeletal activity they support, when in practice, sustained physical activity triggers cascading physiological adjustments — increased heart rate, redistributed blood flow toward active muscle tissue, altered breathing depth and rate — that occur through continuous, real-time coordination across systems rather than through any one system operating independently of the others.",
+     "What **this more integrated view** suggests, several anatomists now argue, is not that traditional system-based teaching is wrong so much as that it risks leaving students with a durable but misleading mental model — one in which the body's systems are imagined as more **modular** and independently functioning than the underlying physiology actually supports, an impression that becomes increasingly consequential in clinical and rehabilitative contexts, where treating a single system in isolation can overlook compensatory patterns originating elsewhere in this densely interconnected structure."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, what happens to bone tissue in response to mechanical stress from load-bearing activity?",
+      "options": {
+       "A": "It permanently loses density once initial skeletal growth is complete",
+       "B": "It remains structurally static regardless of activity level",
+       "C": "It becomes entirely dependent on muscular tissue for structural support",
+       "D": "It is continuously remodeled, with cells breaking down and rebuilding bone matrix, resulting in measurable density differences"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "The word \"remodeled\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "artificially replaced",
+       "B": "continuously restructured or rebuilt",
+       "C": "surgically removed",
+       "D": "permanently fixed in form"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 13,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Circulatory and respiratory functions have no connection to musculoskeletal activity.",
+       "B": "Traditional system-based anatomy teaching is entirely incorrect and should be abandoned.",
+       "C": "The body's anatomical systems are functionally interdependent in ways that traditional system-by-system teaching tends to obscure.",
+       "D": "The skeletal system operates independently of the muscular and nervous systems."
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 14,
+      "stem": "The phrase \"this more integrated view\" in the final paragraph refers to _______.",
+      "options": {
+       "A": "the specific process of bone remodeling described in paragraph 2",
+       "B": "the command-and-response model of nervous system function",
+       "C": "the understanding that the body's systems function interdependently rather than as separate, modular units",
+       "D": "the traditional system-by-system approach to teaching anatomy"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Quy chiếu",
+      "explanation": null
+     },
+     {
+      "number": 15,
+      "stem": "According to the passage, which of the following is NOT mentioned as an example of interdependence between bodily systems?",
+      "options": {
+       "A": "Digestive enzyme production increasing in response to skeletal muscle growth",
+       "B": "Fascia transmitting mechanical force across distant regions of the body",
+       "C": "Bone density changing in response to mechanical stress from muscular activity",
+       "D": "Heart rate and breathing adjusting in coordination with sustained physical activity"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 16,
+      "stem": "Based on the passage, what role does fascia play according to some researchers?",
+      "options": {
+       "A": "It is entirely separate from the muscular system and unrelated to movement",
+       "B": "It functions solely as a passive wrapping with no mechanical function",
+       "C": "It forms a continuous, body-wide network that transmits mechanical force across considerable distances",
+       "D": "It exists only in the limbs and has no presence elsewhere in the body"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 17,
+      "stem": "What can be inferred from the passage about postural adjustments during movement?",
+      "options": {
+       "A": "They occur through feedback loops and happen before any deliberate, consciously initiated correction could take effect",
+       "B": "They depend entirely on visual feedback rather than sensory receptors in muscles and tendons",
+       "C": "They are unrelated to the nervous system's regulation of movement",
+       "D": "They occur only after a person consciously decides to correct their posture"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Suy luận",
+      "explanation": null
+     },
+     {
+      "number": 18,
+      "stem": "The word \"modular\" in the final paragraph is closest in meaning to _______.",
+      "options": {
+       "A": "fully integrated and interconnected",
+       "B": "biologically impossible",
+       "C": "composed of separate, independently functioning parts",
+       "D": "medically outdated"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 19,
+      "stem": "According to the passage, what function do specialized sensory receptors in muscles and tendons serve?",
+      "options": {
+       "A": "They regulate blood flow to active muscle tissue exclusively",
+       "B": "They control the rate of bone remodeling directly",
+       "C": "They relay information about muscle length, tension, and joint position back to the nervous system",
+       "D": "They generate the force required for voluntary muscle contraction"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's overall attitude toward traditional system-based anatomy teaching?",
+      "options": {
+       "A": "Indifferent, treating the teaching method as irrelevant to clinical practice",
+       "B": "Fully supportive, with no reservations about its clinical implications",
+       "C": "Constructively critical, acknowledging its pedagogical usefulness while highlighting the misleading mental model it can create",
+       "D": "Entirely dismissive, arguing it should be replaced immediately Reading"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Thái độ tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Do mình không có thời gian nên gợi ý sẽ thêm sau, bạn có thể sử dụng Gemini để hỏi chi tiết nhé."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Living Alongside Giants: Reassessing Human Coexistence with Large Animals",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Popular narratives of human history often frame the relationship between people and large animals — elephants, bears, big cats, whales — as a story of straightforward conflict gradually resolved through either extermination or, more recently, conservation-driven protection, a framing that obscures a far messier and more regionally specific historical record than this two-stage story suggests. Long before industrial-scale hunting or modern conservation movements existed, numerous human societies developed sustained, functional coexistence arrangements with large animals that involved neither wholesale removal nor simple protection, but rather intricate, culturally embedded systems of mutual **accommodation**.",
+     "Several agricultural communities living near elephant populations, for instance, developed elaborate crop-timing and land-use strategies specifically designed to minimize competition for the same resources during particular seasons, arrangements that required detailed, transmitted ecological knowledge about elephant movement patterns rather than any attempt to exclude the animals from shared territory entirely. Such arrangements were rarely perfectly harmonious — crop damage and occasional serious injury to livestock or people did occur — but researchers studying these historical patterns note that the arrangements persisted for generations precisely because the accommodation, however imperfect, proved more sustainable than the alternative of open, sustained conflict.",
+     "What complicates any tidy narrative of harmonious traditional coexistence, however, is that the same historical record shows considerable variation in how differently local communities have valued the large animals sharing their territory, depending heavily on the specific animal's perceived economic threat, symbolic or religious significance, and the community's own subsistence strategy. Communities relying heavily on livestock, for example, developed markedly less tolerant relationships with large predators than communities whose subsistence depended less directly on animals vulnerable to predation, a divergence that undercuts any single generalization about how humans have traditionally regarded large fauna.",
+     "Modern conservation efforts attempting to draw on this historical record face a further complication: population densities, land-use patterns, and the economic pressures facing rural communities today differ substantially from the conditions under which many traditional accommodation strategies originally developed, meaning that historical coexistence arrangements cannot simply be reintroduced wholesale as contemporary conservation solutions without accounting for how drastically the surrounding circumstances have since changed. Several conservation researchers caution against romanticizing historical arrangements as a ready-made template, noting that the communities that once practiced them frequently did so under population pressures and land-availability conditions no longer present in the same regions today.",
+     "Compensation programs, introduced in several regions as a modern substitute for older accommodation strategies, illustrate **this** complication directly: programs that reimburse farmers for crop damage or livestock loss attributed to large animals have shown considerably variable success, with effectiveness depending heavily on how promptly and reliably compensation is actually paid rather than on the compensation scheme's stated terms alone, since delayed or inconsistently administered payouts have, in several documented cases, eroded local tolerance for large animals even where the underlying compensation policy appeared, on paper, generous.",
+     "What emerges from this more granulated historical and contemporary picture is that sustainable coexistence between humans and large animals has never depended on any single, transferable formula, but rather on a locally specific balance among ecological knowledge, economic incentive, and cultural valuation — a balance that must be actively renegotiated as surrounding conditions shift, rather than treated as something a historical precedent alone can permanently secure."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, what did agricultural communities living near elephant populations develop to reduce competition for resources?",
+      "options": {
+       "A": "Formal legal agreements enforced by regional governments",
+       "B": "A complete abandonment of farming in regions where elephants were present",
+       "C": "Permanent physical barriers designed to fully exclude elephants from shared territory",
+       "D": "Elaborate crop-timing and land-use strategies based on transmitted ecological knowledge of elephant movement"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Sustainable coexistence between humans and large animals depends on a locally specific, continually renegotiated balance rather than any single formula or historical template.",
+       "B": "Human coexistence with large animals has always followed a single, universally transferable formula.",
+       "C": "Modern compensation programs have completely solved the problem of human-wildlife conflict.",
+       "D": "Traditional accommodation strategies can be reintroduced today without any modification."
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 23,
+      "stem": "The word \"accommodation\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "a formal legal contract",
+       "B": "a mutual adjustment allowing coexistence",
+       "C": "a physical shelter or dwelling",
+       "D": "a complete removal of conflict"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 24,
+      "stem": "According to the passage, which of the following is NOT mentioned as a factor influencing how a community valued large animals sharing its territory?",
+      "options": {
+       "A": "The community's own subsistence strategy",
+       "B": "The animal's perceived economic threat",
+       "C": "The animal's symbolic or religious significance",
+       "D": "The animal's average lifespan in captivity"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 25,
+      "stem": "The phrase \"this complication\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "the symbolic significance certain animals hold in different cultures",
+       "B": "the difficulty of transmitting ecological knowledge across generations",
+       "C": "the difference in tolerance between livestock-dependent and non-livestock-dependent communities",
+       "D": "the fact that compensation effectiveness depends on prompt, reliable payment rather than the scheme's stated terms alone"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Quy chiếu",
+      "explanation": null
+     },
+     {
+      "number": 26,
+      "stem": "Based on the passage, why did communities relying heavily on livestock develop less tolerant relationships with large predators?",
+      "options": {
+       "A": "Because government policies required them to eliminate predators entirely",
+       "B": "Because they lacked any transmitted ecological knowledge about predator behavior",
+       "C": "Because they had no religious or symbolic beliefs regarding large animals",
+       "D": "Because their subsistence depended directly on animals vulnerable to predation"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 27,
+      "stem": "What can be inferred from the passage about applying historical coexistence arrangements to modern conservation efforts?",
+      "options": {
+       "A": "They have been proven scientifically ineffective in every documented case",
+       "B": "They are relevant only to communities that no longer practice agriculture",
+       "C": "They cannot simply be reapplied without accounting for how population density, land-use, and economic pressures have changed",
+       "D": "They can be reintroduced wholesale without any need for modification"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Suy luận",
+      "explanation": null
+     },
+     {
+      "number": 28,
+      "stem": "The word \"eroded\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "gradually weakened or diminished",
+       "B": "formally documented",
+       "C": "significantly strengthened",
+       "D": "immediately restored"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 29,
+      "stem": "According to the passage, what factor most directly determines the success of compensation programs for crop or livestock loss?",
+      "options": {
+       "A": "The total monetary value offered per claim, regardless of payment speed",
+       "B": "Whether the affected community has prior experience farming near large animals",
+       "C": "How promptly and reliably compensation is actually paid, rather than the scheme's stated terms alone",
+       "D": "Whether the compensation scheme is administered by a national or local government"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's overall attitude toward romanticizing historical human-animal coexistence arrangements as ready-made conservation templates?",
+      "options": {
+       "A": "Fully supportive of reviving historical arrangements exactly as they once existed",
+       "B": "Dismissive of all traditional ecological knowledge as scientifically unfounded",
+       "C": "Cautionary, arguing that changed circumstances make historical arrangements an unreliable direct template for today",
+       "D": "Indifferent, treating historical arrangements as irrelevant to modern conservation Reading"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Thái độ tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Do mình không có thời gian nên gợi ý sẽ thêm sau, bạn có thể sử dụng Gemini để hỏi chi tiết nhé."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Fine Print of Politeness: Etiquette Variation Across Europe",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Visitors who assume that a single, generalized notion of \"European etiquette\" can guide them reliably across the continent frequently discover, often through minor but memorable missteps, that etiquette norms considered basic good manners in one country can register as either excessively formal or, conversely, oddly casual in another — a variation that reflects deeper, historically rooted differences in how each culture conceptualizes hierarchy, personal space, and appropriate directness. **[1]** These differences persist despite decades of increased regional travel and economic integration, suggesting that etiquette norms prove considerably more resistant to **homogenization** than many other aspects of daily life.",
+     "Forms of address illustrate **this variation** clearly. Several Northern and Western European cultures have, over recent decades, moved toward increasingly informal address even in professional contexts, with first names and the informal second-person pronoun used comfortably between colleagues of markedly different seniority levels shortly after an initial introduction. **[2]** By contrast, several Central and Southern European business cultures retain a more formalized address system considerably longer into a professional relationship, in which switching to informal address is treated as a meaningful social step typically initiated by the more senior party rather than assumed automatically, and doing so prematurely can register as **presumptuous** rather than merely friendly.",
+     "Punctuality carries a comparably wide range of cultural weight. In several Northern European business contexts, arriving even a few minutes late to a scheduled meeting is interpreted as a meaningful signal of disrespect toward the other party's time, prompting an explicit apology regardless of the delay's brevity. **[3]** In several Southern and Mediterranean business cultures, by contrast, a modest degree of flexibility around scheduled start times is widely tolerated and rarely requires explicit acknowledgment, a difference that has occasionally produced friction in cross-border business dealings when one party interprets the other's relaxed timing as disrespect rather than as an unremarkable local norm.",
+     "Gift-giving customs surrounding hospitality likewise vary in ways that can produce unintentional offense despite good intentions. Certain European cultures attach specific symbolic meaning to particular flowers or numbers of flowers presented as a hosting gift, meanings entirely unrelated to the aesthetic qualities of the gift itself, such that an otherwise generous gesture can inadvertently carry an unintended connotation the giver never intended to convey. **[4]** Similarly, gift-wrapping conventions and the appropriate moment to open a gift — immediately in front of the giver versus privately afterward — differ enough across the continent that guidance appropriate in one country can constitute a minor faux pas in another.",
+     "Table manners present a further, frequently underestimated source of cross-cultural friction, since seemingly small habits — which hand is conventionally used for particular utensils, whether hands are expected to remain visible above the table throughout a meal, how directly a host's cooking should be praised or critiqued — vary enough across European dining cultures that etiquette guidance genuinely useful in one country can prove subtly inappropriate, or at minimum conspicuously foreign, in a neighboring one.",
+     "What this accumulated variation suggests, more broadly, is that no single etiquette framework travels reliably across the entire European continent, and that the practical skill most valuable to a traveler or business visitor is not the memorization of any universal rulebook but rather an attentiveness to local cues and a willingness to adjust behavior region by region, since even neighboring countries sharing considerable historical and economic connection can diverge substantially in precisely the everyday social conventions that visitors most often assume to be shared."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, how do several Central and Southern European business cultures typically handle the shift to informal address?",
+      "options": {
+       "A": "It is initiated exclusively by the more junior party as a sign of respect",
+       "B": "It is treated as a meaningful step typically initiated by the more senior party, not assumed automatically",
+       "C": "It occurs automatically and immediately after any first professional introduction",
+       "D": "It is entirely absent, with formal address maintained permanently regardless of seniority"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Gift-giving customs are the only significant source of cross-cultural etiquette friction in Europe.",
+       "B": "Etiquette norms vary considerably across Europe, and adapting to local cues matters more than memorizing any universal rulebook.",
+       "C": "Punctuality is valued identically across all European business cultures.",
+       "D": "A single, universal European etiquette framework can reliably guide behavior across the entire continent."
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 33,
+      "stem": "The word \"homogenization\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "an economic recession affecting multiple countries",
+       "B": "a formal legal standardization process",
+       "C": "the process of becoming more diverse and distinct",
+       "D": "the process of becoming more uniform or similar"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 34,
+      "stem": "According to the passage, which of the following is NOT mentioned as a source of unintentional offense in European gift-giving customs?",
+      "options": {
+       "A": "Specific symbolic meaning attached to certain flowers or numbers of flowers",
+       "B": "Differing expectations about when a gift should be opened",
+       "C": "Differing conventions around gift-wrapping",
+       "D": "Differing expectations about the monetary value of an appropriate gift"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 35,
+      "stem": "The phrase \"this variation\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "the increase in regional travel and economic integration across Europe",
+       "B": "the differences in etiquette norms across European cultures regarding hierarchy, personal space, and directness",
+       "C": "the difference in punctuality norms between business cultures",
+       "D": "the specific symbolic meaning of flowers in certain cultures"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Quy chiếu",
+      "explanation": null
+     },
+     {
+      "number": 36,
+      "stem": "Based on the passage, how is a few minutes' lateness to a meeting typically interpreted in several Northern European business contexts?",
+      "options": {
+       "A": "As an unremarkable and rarely acknowledged local norm",
+       "B": "As a meaningful signal of disrespect toward the other party's time, warranting an apology",
+       "C": "As a sign of the visitor's high professional status",
+       "D": "As entirely irrelevant to the meeting's outcome"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 37,
+      "stem": "What can be inferred from the passage about cross-border business dealings involving differing attitudes toward punctuality?",
+      "options": {
+       "A": "They are entirely unaffected by differing cultural attitudes toward time",
+       "B": "They always favor the party with stricter punctuality norms",
+       "C": "They have occasionally produced friction when one party misinterprets relaxed timing as disrespect rather than local norm",
+       "D": "They have led most European businesses to adopt identical scheduling practices"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Suy luận",
+      "explanation": null
+     },
+     {
+      "number": 38,
+      "stem": "The word \"presumptuous\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "financially motivated",
+       "B": "appropriately respectful and cautious",
+       "C": "overly forward or bold without proper standing",
+       "D": "legally prohibited"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 39,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? \"A visitor unaware of this distinction may unintentionally seem overly formal in one setting and oddly familiar in another, despite intending equal courtesy in both.\"",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Chèn câu",
+      "explanation": null
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's overall attitude toward navigating etiquette differences across Europe?",
+      "options": {
+       "A": "Strongly critical of Northern European etiquette norms as overly rigid",
+       "B": "Strongly critical of Southern European etiquette norms as less professional",
+       "C": "Dismissive, treating etiquette differences as unimportant for practical purposes",
+       "D": "Practical and instructive, emphasizing attentiveness to local cues over reliance on any single universal rulebook"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Thái độ tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Do mình không có thời gian nên gợi ý sẽ thêm sau, bạn có thể sử dụng Gemini để hỏi chi tiết nhé."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend Claire, who is planning a trip to Bali and would like some advice from you.\nRead part of her email below.\nI'm so excited about my upcoming trip to Bali, but I still have a few things I'd like to ask you about before I finalize my plans.\n- What can you tell me about the prices and facilities of the hotel you stayed at?\n- Could you suggest some places worth visiting in the area?\n- What activities would you recommend I try while I'm there?\nWrite an email responding to Claire. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend Claire, who is planning a trip to Bali and would like some advice from you.",
+      "Read part of her email below."
+     ],
+     "quote": [
+      "I'm so excited about my upcoming trip to Bali, but I still have a few things I'd like to ask you about before I finalize my plans.",
+      "- What can you tell me about the prices and facilities of the hotel you stayed at?",
+      "- Could you suggest some places worth visiting in the area?",
+      "- What activities would you recommend I try while I'm there?"
+     ],
+     "instruction": "Write an email responding to Claire. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (Thư thân mật) đưa ra lời khuyên cho bạn thân đang chuẩn bị cho chuyến du lịch đến Bali.\n- Đề bài có **3 yêu cầu chính** cần trả lời đầy đủ: (1) giá cả và tiện ích của khách sạn, (2) gợi ý địa điểm tham quan, (3) gợi ý hoạt động nên trải nghiệm.\n- Bài viết cần đạt tối thiểu **120 từ**, giọng văn thân mật, nhiệt tình vì đây là thư gửi bạn bè.\n- Cần đưa ra thông tin và gợi ý cụ thể cho từng yêu cầu, tránh trả lời chung chung.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Claire,\n- **Opening:** Thể hiện sự hào hứng và sẵn lòng giúp đỡ. Ví dụ: I'm so thrilled that you're going to Bali! I'd love to share what I know from my own trip there.\n- **Body 1 (Khách sạn):** Cung cấp thông tin giá cả và tiện ích. Ví dụ: The hotel I stayed at was reasonably priced, at around 900,000 VND per night, and it had great facilities such as a swimming pool and a free breakfast buffet.\n- **Body 2 (Địa điểm tham quan):** Gợi ý địa điểm cụ thể. Ví dụ: As for places to visit, I'd highly recommend Tanah Lot Temple and the rice terraces in Ubud, as they are both stunning and culturally rich.\n- **Body 3 (Hoạt động):** Gợi ý hoạt động nên trải nghiệm. Ví dụ: In terms of activities, you shouldn't miss trying surfing at Kuta Beach or taking a traditional cooking class.\n- **Closing & Sign-off:** Kết thúc và chúc chuyến đi vui vẻ. Ví dụ: I hope you have an amazing time, and I can't wait to hear all about it! Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì **quá khứ đơn** khi kể lại trải nghiệm của bản thân và thì **hiện tại đơn** khi đưa ra lời khuyên chung.\n- Dùng các cấu trúc như \"I'd recommend...\", \"You shouldn't miss...\", \"I'd highly suggest...\" để lời khuyên tự nhiên và thuyết phục hơn.\n- Tránh lặp từ \"Bali\" hoặc \"trip\" quá nhiều, hãy thay bằng các cách diễn đạt khác.\n- Mỗi câu trả lời nên có ít nhất một chi tiết cụ thể (giá cả, tên địa điểm) để bài viết chân thực hơn.\nTừ vựng quan trọng:\n- **Facilities:** Tiện ích, cơ sở vật chất\n- **Reasonably priced:** Có giá cả hợp lý\n- **Breakfast buffet:** Bữa sáng tự chọn\n- **Rice terrace:** Ruộng bậc thang\n- **Culturally rich:** Giàu bản sắc văn hóa\n- **Local cuisine:** Ẩm thực địa phương\n- **Worth visiting:** Đáng để ghé thăm\nTừ nối (Linking words):\n- **As for...:** Còn về...\n- **In terms of...:** Về mặt...\n- **Also / In addition:** Ngoài ra\n- **Such as:** Chẳng hạn như\n- **So:** Vì vậy\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm so thrilled that...:** Tôi rất phấn khích khi...\n- **I'd love to share what I know:** Tôi rất muốn chia sẻ những gì tôi biết\n- **I can't wait to hear all about it:** Tôi rất mong được nghe kể về chuyến đi\n\n**4. Các lỗi thường gặp:**\n- Bỏ sót một trong ba yêu cầu mà Claire đặt ra.\n- Chỉ nêu gợi ý chung chung mà không có tên địa điểm hoặc chi tiết cụ thể.\n- Sử dụng giọng văn quá trang trọng, không phù hợp với thư gửi bạn thân.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã trả lời đủ cả 3 yêu cầu: giá cả/tiện ích khách sạn, địa điểm tham quan, hoạt động.\n- Đếm số từ để đảm bảo đạt tối thiểu 120 từ.\n- Kiểm tra giọng văn đã đủ thân mật, nhiệt tình như đang tư vấn cho bạn bè thật sự.\n\n**6. Tư duy làm bài:**\nHãy tưởng tượng bạn đang thật sự chia sẻ kinh nghiệm du lịch của mình với một người bạn thân sắp đi chơi xa. Sự cụ thể, nhiệt tình trong từng gợi ý sẽ giúp bài viết tự nhiên và ghi điểm cao hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nAdvertising has become an integral part of modern life, appearing everywhere from television and social media to public spaces and websites.\nWhile advertising provides valuable information and supports economic growth, it also has certain negative effects on consumers and society as a whole.\nDiscuss both the advantages and disadvantages of advertising.\nWrite an essay to an educated reader to discuss both the advantages and disadvantages of advertising. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Advertising has become an integral part of modern life, appearing everywhere from television and social media to public spaces and websites.",
+      "While advertising provides valuable information and supports economic growth, it also has certain negative effects on consumers and society as a whole.",
+      "Discuss both the advantages and disadvantages of advertising."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both the advantages and disadvantages of advertising. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Advantages & Disadvantages Essay**, yêu cầu trình bày cả lợi ích và bất lợi của quảng cáo trong đời sống hiện đại.\n- Bạn cần đảm bảo cân bằng giữa hai khía cạnh: lợi ích về thông tin, kinh tế và những bất lợi về tâm lý, hành vi tiêu dùng của quảng cáo.\n- Yêu cầu tối thiểu là **250 từ**, cần trình bày rõ ràng cả ưu điểm và nhược điểm, tránh chỉ tập trung vào một phía.\n- Lưu ý đây là dạng bài liệt kê và phân tích lợi ích/bất lợi cụ thể, không phải dạng bài đưa ra ý kiến cá nhân riêng.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vai trò của quảng cáo trong đời sống hiện đại. Ví dụ: In today's society, advertising has become an unavoidable part of daily life, offering both notable benefits and certain drawbacks.\n- **Body 1 (Lợi ích):** Topic sentence, giải thích, ví dụ. Ví dụ: One major advantage of advertising is that it provides consumers with useful information about new products and services, helping them make more informed purchasing decisions.\n- **Body 2 (Bất lợi):** Topic sentence, giải thích, ví dụ. Ví dụ: However, a significant drawback is that advertising can encourage unnecessary consumption, as companies often use persuasive techniques to convince people to buy products they do not actually need.\n- **Conclusion:** Tóm tắt và đưa ra nhận định chung. Ví dụ: In conclusion, while advertising plays a useful role in informing consumers and driving economic activity, its potential to encourage excessive spending should not be overlooked.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì **hiện tại đơn** để nêu sự thật chung về vai trò của quảng cáo trong xã hội.\n- Phát triển ý theo cấu trúc: câu chủ đề - giải thích - ví dụ - mini kết luận cho mỗi đoạn thân bài.\n- Cần có **thesis statement** rõ ràng ở mở bài nêu rằng bài sẽ thảo luận cả lợi ích và bất lợi.\n- Tránh lặp từ \"advertising\" liên tục, hãy thay bằng các cách diễn đạt khác.\nTừ vựng quan trọng:\n- **Informed decision:** Quyết định có cân nhắc, dựa trên thông tin\n- **Persuasive technique:** Kỹ thuật thuyết phục\n- **Unnecessary consumption:** Tiêu dùng không cần thiết\n- **Economic growth:** Tăng trưởng kinh tế\n- **Consumer behavior:** Hành vi tiêu dùng\n- **Brand awareness:** Nhận diện thương hiệu\n- **Misleading claim:** Tuyên bố gây hiểu lầm\nTừ nối (Linking words):\n- **Adding - In addition/Moreover:** Thêm vào đó\n- **Contrast - However/Nevertheless:** Tuy nhiên\n- **Cause-effect - As a result/Consequently:** Kết quả là, do đó\n- **Example - For instance/Such as:** Ví dụ như\n- **Conclusion - In conclusion/Overall:** Tóm lại, nhìn chung\n- **Balance - On the positive side/On the negative side:** Về mặt tích cực/Về mặt tiêu cực\nDiễn đạt lại ý (Paraphrasing):\n- **Promotional content:** Thay cho \"advertising\".\n- **Marketing messages:** Cách diễn đạt khác cho \"advertisements\".\n- **Impulse buying:** Thay cho \"buying things people don't need\".\nCách diễn đạt so sánh:\n- **On the one hand..., on the other hand...:** Một mặt..., mặt khác...\n- **Despite the benefits, ...:** Mặc dù có những lợi ích, ...\n- **While..., it is also true that...:** Trong khi..., cũng đúng là...\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung vào lợi ích hoặc bất lợi mà bỏ qua khía cạnh còn lại.\n- Không đưa ra ví dụ cụ thể để minh họa cho mỗi lợi ích/bất lợi.\n- Nhầm lẫn sang dạng bài đưa ra ý kiến cá nhân thay vì phân tích khách quan.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã trình bày đủ cả lợi ích và bất lợi chưa.\n- Đảm bảo có Thesis Statement rõ ràng ở mở bài.\n- Đếm số từ để chắc chắn đạt tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\nHãy tư duy theo trình tự logic: trước tiên trình bày lợi ích của quảng cáo đối với người tiêu dùng và nền kinh tế, sau đó trình bày những bất lợi về hành vi tiêu dùng, và kết luận bằng một nhận định cân bằng, khách quan."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about farms\n\n1\nDo you often visit farms?\n2\nWhat can usually be found on a farm?\n3\nDo you think farms play an important role in your country?\n\nNow, let’s talk about bags\n\n4\nDo you often carry a bag with you when you go out?\n5\nWhat do you usually carry in your bag?\n6\nDo you prefer using canvas bags or plastic bags? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này có **2 chủ đề nhỏ**: **Topic A (Farms)** và **Topic B (Bags)**.\n- **Topic A (Farms):** Ba câu hỏi đầu kiểm tra khả năng mô tả trải nghiệm ghé thăm nông trại, những gì có ở đó, và quan điểm về tầm quan trọng của nông trại đối với quốc gia.\n- **Topic B (Bags):** Ba câu hỏi sau kiểm tra khả năng nói về thói quen mang túi khi ra ngoài, những vật dụng thường mang theo, và quan điểm về việc lựa chọn giữa túi vải và túi nilong.\n- Tiêu chí đánh giá gồm **Fluency, Vocabulary, Grammar và Pronunciation**.\n- Thời gian Part 1 là **3 phút**, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)** để trả lời đầy đủ và có chiều sâu.\n- **Ví dụ Topic A:** \"Yes, I sometimes visit farms in the countryside with my family, where I can see crops being grown and animals being raised.\"\n- **Ví dụ Topic B:** \"Yes, I usually carry a small bag with essentials like my wallet, phone, and a bottle of water.\"\n- Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n- Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Besides visiting farms, I'd also like to talk a bit about the bags I usually carry.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng **hiện tại đơn** khi mô tả thói quen chung, dùng **tính từ so sánh** khi so sánh túi vải và túi nilong.\n- Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n- Từ vựng cho Topic A: agricultural production, livestock, a vital source of income, rural areas.\n- Từ vựng cho Topic B: eco-friendly, biodegradable, everyday essentials, reduce plastic waste.\nCụm từ quan trọng nên dùng:\n- **agricultural production** (hoạt động sản xuất nông nghiệp)\n- **a vital source of income** (một nguồn thu nhập quan trọng)\n- **rural areas** (khu vực nông thôn)\n- **eco-friendly** (thân thiện với môi trường)\n- **reduce plastic waste** (giảm rác thải nhựa)\n- **everyday essentials** (những vật dụng thiết yếu hằng ngày)\nTừ nối khi nói (Linking Words):\n- **Firstly** - trước hết, dùng để mở đầu ý.\n- **Besides** - bên cạnh đó, dùng để bổ sung ý.\n- **For example** - ví dụ như, dùng khi minh họa.\n- **However** - tuy nhiên, dùng khi đối chiếu ý kiến.\n- **Overall** - nhìn chung, dùng để tổng kết ý.\nCách thể hiện quan điểm tự nhiên:\n- **Personally, I think...** Ví dụ: \"Personally, I think farms are essential for ensuring food security in any country.\"\n- **In my opinion...** Ví dụ: \"In my opinion, canvas bags are a better choice because they can be reused many times.\"\n- **I would say that...** Ví dụ: \"I would say that reducing plastic bag usage is one small step towards protecting the environment.\"\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n- Ở Topic A, chỉ nói \"there are animals and crops\" mà không mở rộng về vai trò của nông trại.\n- Ở Topic B, chỉ liệt kê vật dụng trong túi mà không giải thích lý do mang theo.\n- Dùng sai thì khi so sánh giữa hai loại túi.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n- Với Topic A, nếu bí ý, hãy kể về một lần ghé thăm nông trại cụ thể.\n- Với Topic B, nếu bí ý, hãy mô tả chiếc túi bạn đang dùng hằng ngày.\n\n**6. Tư duy làm bài nói:**\n- Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend is feeling sick and you want to cheer them up with a gift.\n\nYou are considering the following options:\n\nOption 1: A pot of flowers\nOption 2: Some colored pencils and a drawing book\nOption 3: Some healthy snacks\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần chọn món quà phù hợp nhất để thăm một người bạn đang bị ốm, trong ba lựa chọn: một chậu hoa, bút chì màu cùng sổ vẽ, hoặc đồ ăn vặt lành mạnh.\n- Ba lựa chọn khác biệt về mục đích: làm đẹp không gian, giải trí tinh thần, hay hỗ trợ sức khỏe thể chất.\n- Thời gian là **4 phút**; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Introduction – Comparison – Conclusion** để trình bày mạch lạc.\n- **Option 1 (chậu hoa):** \"A pot of flowers can brighten up the room and lift someone's mood, but it doesn't offer any practical benefit for recovery.\"\n- **Option 2 (bút chì màu và sổ vẽ):** \"Colored pencils and a drawing book can help your friend pass the time creatively while resting, which is great for mental relaxation during recovery.\"\n- **Option 3 (đồ ăn vặt lành mạnh):** \"Healthy snacks directly support physical recovery by providing nutrients, though they might be less exciting as a gift compared to the other options.\"\n- Nên neo lập luận vào nhu cầu thực tế của người bị ốm: cả về thể chất lẫn tinh thần.\n- Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike flowers, healthy snacks provide a more practical benefit by supporting physical recovery.\"\n- Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n- Paraphrase \"nice\" bằng \"thoughtful\"; paraphrase \"healthy\" bằng \"nutritious\".\nCụm từ quan trọng nên dùng:\n- **lift someone's spirits** (làm ai đó vui lên)\n- **a thoughtful gift** (một món quà chu đáo)\n- **support the recovery process** (hỗ trợ quá trình hồi phục)\n- **a creative outlet** (một kênh thể hiện sự sáng tạo)\n- **nutritious food** (thực phẩm giàu dinh dưỡng)\n- **a comforting gesture** (một cử chỉ an ủi)\nTừ nối khi nói (Linking Words):\n- **Compared with** - so với, dùng khi so sánh hai lựa chọn.\n- **Whereas** - trong khi đó, dùng để đối lập.\n- **Nevertheless** - tuy nhiên, dùng để chuyển ý ngược lại.\n- **Taking everything into account** - xét tất cả các yếu tố, dùng trước kết luận.\n- **In terms of** - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n- **If I had to choose, I would go with...** Ví dụ: \"If I had to choose, I would go with healthy snacks since they directly help my friend recover faster.\"\n- **I'm more inclined towards...** Ví dụ: \"I'm more inclined towards the drawing book because it gives my friend something enjoyable to do while resting.\"\n- **All things considered...** Ví dụ: \"All things considered, healthy snacks seem like the most practical and caring choice.\"\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ \"nice\"/\"good\" quá nhiều thay vì dùng tính từ đa dạng hơn.\n- Không có kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng liên quan đến một lựa chọn, chuyển hướng sang nói về cảm xúc của người nhận quà.\n- Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n\n**6. Tư duy làm bài nói:**\n- Đặt mình vào vị trí người đang chăm sóc bạn bị ốm - món quà nào vừa thiết thực vừa thể hiện sự quan tâm?\n- Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ kết hợp một tấm thiệp viết tay cùng món quà, để thể hiện sự chu đáo."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of leadership\n\nThe Importance of Leadership\nGuiding and motivating team members towards common goals\nMaking effective decisions in difficult situations\nBuilding trust and maintaining team cohesion\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think leadership skills can be learned, or are they innate?\n2\nWhat qualities make a good leader?\n3\nCan you think of a leader you admire and explain why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển bài nói về tầm quan trọng của khả năng lãnh đạo, dựa trên ba nhánh chính và một nhánh ý kiến cá nhân.\n- Ba nhánh chính gồm: dẫn dắt và tạo động lực cho các thành viên hướng tới mục tiêu chung, đưa ra quyết định hiệu quả trong tình huống khó khăn, và xây dựng lòng tin cùng sự gắn kết trong đội nhóm.\n- **Gợi ý cho nhánh thứ 4 (ý kiến cá nhân):** có thể phát triển theo hướng lãnh đạo tốt còn giúp truyền cảm hứng và phát triển tiềm năng của từng thành viên trong nhóm.\n- Thời gian là **5 phút**: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction – Detail – Example – Add/wrap up)** để trình bày từng nhánh của sơ đồ tư duy.\n- **Ví dụ mở bài:** \"Today, I'd like to talk about why leadership is so important, both in the workplace and in everyday life.\"\n- **Ví dụ cho nhánh ý kiến cá nhân:** \"In my opinion, a great leader also inspires team members to reach their full potential, not just complete tasks.\"\n- Nên đưa ví dụ thực tế như một người quản lý dẫn dắt đội ngũ vượt qua giai đoạn khó khăn của công ty.\n- Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n- Về thì: dùng **hiện tại đơn** cho sự thật chung, dùng **hiện tại hoàn thành** khi nói về những thành tựu mà một người lãnh đạo đã đạt được.\n- Paraphrase \"leadership\" bằng \"the ability to lead\" hoặc \"leading skills\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- **motivate team members** (tạo động lực cho các thành viên trong đội)\n- **effective decision-making** (khả năng ra quyết định hiệu quả)\n- **build trust** (xây dựng lòng tin)\n- **team cohesion** (sự gắn kết trong đội nhóm)\n- **inspire others** (truyền cảm hứng cho người khác)\n- **reach one's full potential** (đạt được tiềm năng tối đa của bản thân)\nTừ nối khi nói (Linking Words):\n- **To begin with** - trước hết, dùng để mở đầu nhánh đầu tiên.\n- **Moving on to** - chuyển sang, dùng khi chuyển nhánh ý.\n- **Furthermore** - hơn nữa, dùng để bổ sung ý.\n- **In addition to that** - thêm vào đó, dùng để mở rộng ý.\n- **To sum up** - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **I firmly believe that...** Ví dụ: \"I firmly believe that strong leadership can determine the success or failure of an organization.\"\n- **It seems to me that...** Ví dụ: \"It seems to me that good leaders are those who listen to their team members carefully.\"\n- **What strikes me most is...** Ví dụ: \"What strikes me most is how a good leader can turn a group of individuals into a united team.\"\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"Do you think leadership skills can be learned, or are they innate?\"** - Tôi nghĩ khả năng lãnh đạo vừa có thể là bẩm sinh vừa có thể rèn luyện được, vì nhiều kỹ năng như giao tiếp hay ra quyết định đều có thể học hỏi qua thời gian.\n- **\"What qualities make a good leader?\"** - Một người lãnh đạo giỏi cần có sự công bằng, khả năng lắng nghe, tầm nhìn rõ ràng, và sự quyết đoán trong những tình huống khó khăn.\n- **\"Can you think of a leader you admire and explain why?\"** - Tôi ngưỡng mộ những nhà lãnh đạo biết truyền cảm hứng cho người khác và luôn đặt lợi ích của tập thể lên hàng đầu, thay vì chỉ tập trung vào thành tích cá nhân.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê phẩm chất lãnh đạo mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n- Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n- Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Neo vào ví dụ thực tế về một người lãnh đạo bạn từng biết hoặc từng làm việc cùng khi bí ý.\n- Câu chờ ý học thuật: \"That is an interesting point. If we look at it from an organizational perspective...\"\n- Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n\n**7. Tư duy làm bài nói:**\n- Suy nghĩ từ góc độ thực tế của môi trường làm việc hoặc học tập, nơi lãnh đạo đóng vai trò quan trọng.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n- Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about farms.\n1.\nDo you often visit farms?\n2.\nWhat can usually be found on a farm?\n3.\nDo you think farms play an important role in your country?\nNow, let’s talk about bags.\n4.\nDo you often carry a bag with you when you go out?\n5.\nWhat do you usually carry in your bag?\n6.\nDo you prefer using canvas bags or plastic bags? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này có 2 chủ đề nhỏ: Topic A (Farms) và Topic B (Bags).\n• Topic A (Farms): Ba câu hỏi đầu kiểm tra khả năng mô tả trải nghiệm ghé thăm nông trại, những gì có ở đó, và quan\nđiểm về tầm quan trọng của nông trại đối với quốc gia.\n• Topic B (Bags): Ba câu hỏi sau kiểm tra khả năng nói về thói quen mang túi khi ra ngoài, những vật dụng thường mang\ntheo, và quan điểm về việc lựa chọn giữa túi vải và túi nilong.\n• Tiêu chí đánh giá gồm Fluency, Vocabulary, Grammar và Pronunciation.\n• Thời gian Part 1 là 3 phút, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE) để trả lời đầy đủ và có chiều sâu.\n• Ví dụ Topic A: \"Yes, I sometimes visit farms in the countryside with my family, where I can see crops being grown\nand animals being raised.\"\n• Ví dụ Topic B: \"Yes, I usually carry a small bag with essentials like my wallet, phone, and a bottle of water.\"\n• Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n• Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Besides visiting farms, I'd also like to talk a bit\nabout the bags I usually carry.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng hiện tại đơn khi mô tả thói quen chung, dùng tính từ so sánh khi so sánh túi vải và túi nilong.\n• Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n• Từ vựng cho Topic A: agricultural production, livestock, a vital source of income, rural areas.\n• Từ vựng cho Topic B: eco-friendly, biodegradable, everyday essentials, reduce plastic waste.\nCụm từ quan trọng nên dùng:\n• agricultural production (hoạt động sản xuất nông nghiệp)\n• a vital source of income (một nguồn thu nhập quan trọng)\n• rural areas (khu vực nông thôn)\n• eco-friendly (thân thiện với môi trường)\n• reduce plastic waste (giảm rác thải nhựa)\n• everyday essentials (những vật dụng thiết yếu hằng ngày)\nTừ nối khi nói (Linking Words):\n• Firstly - trước hết, dùng để mở đầu ý.\n• Besides - bên cạnh đó, dùng để bổ sung ý.\n• For example - ví dụ như, dùng khi minh họa.\n• However - tuy nhiên, dùng khi đối chiếu ý kiến.\n• Overall - nhìn chung, dùng để tổng kết ý.\nCách thể hiện quan điểm tự nhiên:\n• Personally, I think... Ví dụ: \"Personally, I think farms are essential for ensuring food security in any country.\"\n• In my opinion... Ví dụ: \"In my opinion, canvas bags are a better choice because they can be reused many times.\"\n• I would say that... Ví dụ: \"I would say that reducing plastic bag usage is one small step towards protecting the\nenvironment.\"\n4. Các lỗi thường gặp:\n• Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n• Ở Topic A, chỉ nói \"there are animals and crops\" mà không mở rộng về vai trò của nông trại.\n• Ở Topic B, chỉ liệt kê vật dụng trong túi mà không giải thích lý do mang theo.\n• Dùng sai thì khi so sánh giữa hai loại túi.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n• Với Topic A, nếu bí ý, hãy kể về một lần ghé thăm nông trại cụ thể.\n• Với Topic B, nếu bí ý, hãy mô tả chiếc túi bạn đang dùng hằng ngày.\n6. Tư duy làm bài nói:\n• Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYour friend is feeling sick and you want to cheer them up with a gift.\nYou are considering the following options:\n• Option 1: A pot of flowers\n• Option 2: Some colored pencils and a drawing book\n• Option 3: Some healthy snacks\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần chọn món quà phù hợp nhất để thăm một người bạn đang bị ốm, trong ba\nlựa chọn: một chậu hoa, bút chì màu cùng sổ vẽ, hoặc đồ ăn vặt lành mạnh.\n• Ba lựa chọn khác biệt về mục đích: làm đẹp không gian, giải trí tinh thần, hay hỗ trợ sức khỏe thể chất.\n• Thời gian là 4 phút; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Introduction – Comparison – Conclusion để trình bày mạch lạc.\n• Option 1 (chậu hoa): \"A pot of flowers can brighten up the room and lift someone's mood, but it doesn't offer any\npractical benefit for recovery.\"\n• Option 2 (bút chì màu và sổ vẽ): \"Colored pencils and a drawing book can help your friend pass the time creatively\nwhile resting, which is great for mental relaxation during recovery.\"\n• Option 3 (đồ ăn vặt lành mạnh): \"Healthy snacks directly support physical recovery by providing nutrients, though\nthey might be less exciting as a gift compared to the other options.\"\n• Nên neo lập luận vào nhu cầu thực tế của người bị ốm: cả về thể chất lẫn tinh thần.\n• Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike flowers, healthy snacks provide a more practical\nbenefit by supporting physical recovery.\"\n• Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n• Paraphrase \"nice\" bằng \"thoughtful\"; paraphrase \"healthy\" bằng \"nutritious\".\nCụm từ quan trọng nên dùng:\n• lift someone's spirits (làm ai đó vui lên)\n• a thoughtful gift (một món quà chu đáo)\n• support the recovery process (hỗ trợ quá trình hồi phục)\n• a creative outlet (một kênh thể hiện sự sáng tạo)\n• nutritious food (thực phẩm giàu dinh dưỡng)\n• a comforting gesture (một cử chỉ an ủi)\nTừ nối khi nói (Linking Words):\n• Compared with - so với, dùng khi so sánh hai lựa chọn.\n• Whereas - trong khi đó, dùng để đối lập.\n• Nevertheless - tuy nhiên, dùng để chuyển ý ngược lại.\n• Taking everything into account - xét tất cả các yếu tố, dùng trước kết luận.\n• In terms of - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n• If I had to choose, I would go with... Ví dụ: \"If I had to choose, I would go with healthy snacks since they directly help\nmy friend recover faster.\"\n• I'm more inclined towards... Ví dụ: \"I'm more inclined towards the drawing book because it gives my friend something\nenjoyable to do while resting.\"\n• All things considered... Ví dụ: \"All things considered, healthy snacks seem like the most practical and caring choice.\"\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ \"nice\"/\"good\" quá nhiều thay vì dùng tính từ đa dạng hơn.\n• Không có kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng liên quan đến một lựa chọn, chuyển hướng sang nói về cảm xúc của người nhận quà.\n• Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n6. Tư duy làm bài nói:\n• Đặt mình vào vị trí người đang chăm sóc bạn bị ốm - món quà nào vừa thiết thực vừa thể hiện sự quan tâm?\n• Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ kết hợp một tấm thiệp viết tay cùng món quà, để thể\nhiện sự chu đáo.\nPART 3\nTopic Development\n5 phút\nTopic: The importance of leadership\nGuiding and motivating team members\nMaking effective decisions in difficult\ntowards common goals\nsituations\nThe Importance of Leadership\nÝ tưởng của bạn\nBuilding trust and maintaining team\ncohesion\nFOLLOW-UP QUESTIONS\n1.\nDo you think leadership skills can be learned, or are they innate?\n2.\nWhat qualities make a good leader?\n3.\nCan you think of a leader you admire and explain why?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển bài nói về tầm quan trọng của khả năng lãnh đạo, dựa trên ba nhánh chính và một\nnhánh ý kiến cá nhân.\n• Ba nhánh chính gồm: dẫn dắt và tạo động lực cho các thành viên hướng tới mục tiêu chung, đưa ra quyết định hiệu\nquả trong tình huống khó khăn, và xây dựng lòng tin cùng sự gắn kết trong đội nhóm.\n• Gợi ý cho nhánh thứ 4 (ý kiến cá nhân): có thể phát triển theo hướng lãnh đạo tốt còn giúp truyền cảm hứng và phát\ntriển tiềm năng của từng thành viên trong nhóm.\n• Thời gian là 5 phút: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction – Detail – Example – Add/wrap up) để trình bày từng nhánh của sơ đồ tư duy.\n• Ví dụ mở bài: \"Today, I'd like to talk about why leadership is so important, both in the workplace and in everyday life.\"\n• Ví dụ cho nhánh ý kiến cá nhân: \"In my opinion, a great leader also inspires team members to reach their full potential,\nnot just complete tasks.\"\n• Nên đưa ví dụ thực tế như một người quản lý dẫn dắt đội ngũ vượt qua giai đoạn khó khăn của công ty.\n• Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n• Về thì: dùng hiện tại đơn cho sự thật chung, dùng hiện tại hoàn thành khi nói về những thành tựu mà một người lãnh\nđạo đã đạt được.\n• Paraphrase \"leadership\" bằng \"the ability to lead\" hoặc \"leading skills\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• motivate team members (tạo động lực cho các thành viên trong đội)\n• effective decision-making (khả năng ra quyết định hiệu quả)\n• build trust (xây dựng lòng tin)\n• team cohesion (sự gắn kết trong đội nhóm)\n• inspire others (truyền cảm hứng cho người khác)\n• reach one's full potential (đạt được tiềm năng tối đa của bản thân)\nTừ nối khi nói (Linking Words):\n• To begin with - trước hết, dùng để mở đầu nhánh đầu tiên.\n• Moving on to - chuyển sang, dùng khi chuyển nhánh ý.\n• Furthermore - hơn nữa, dùng để bổ sung ý.\n• In addition to that - thêm vào đó, dùng để mở rộng ý.\n• To sum up - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n• I firmly believe that... Ví dụ: \"I firmly believe that strong leadership can determine the success or failure of an\norganization.\"\n• It seems to me that... Ví dụ: \"It seems to me that good leaders are those who listen to their team members carefully.\"\n• What strikes me most is... Ví dụ: \"What strikes me most is how a good leader can turn a group of individuals into a\nunited team.\"\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"Do you think leadership skills can be learned, or are they innate?\" - Tôi nghĩ khả năng lãnh đạo vừa có thể là bẩm\nsinh vừa có thể rèn luyện được, vì nhiều kỹ năng như giao tiếp hay ra quyết định đều có thể học hỏi qua thời gian.\n• \"What qualities make a good leader?\" - Một người lãnh đạo giỏi cần có sự công bằng, khả năng lắng nghe, tầm nhìn\nrõ ràng, và sự quyết đoán trong những tình huống khó khăn.\n• \"Can you think of a leader you admire and explain why?\" - Tôi ngưỡng mộ những nhà lãnh đạo biết truyền cảm hứng\ncho người khác và luôn đặt lợi ích của tập thể lên hàng đầu, thay vì chỉ tập trung vào thành tích cá nhân.\n5. Các lỗi thường gặp:\n• Liệt kê phẩm chất lãnh đạo mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n• Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n• Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Neo vào ví dụ thực tế về một người lãnh đạo bạn từng biết hoặc từng làm việc cùng khi bí ý.\n• Câu chờ ý học thuật: \"That is an interesting point. If we look at it from an organizational perspective...\"\n• Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n7. Tư duy làm bài nói:\n• Suy nghĩ từ góc độ thực tế của môi trường làm việc hoặc học tập, nơi lãnh đạo đóng vai trò quan trọng.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n• Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+}

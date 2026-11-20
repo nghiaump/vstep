@@ -1,0 +1,717 @@
+{
+ "id": "vlu-99",
+ "number": 99,
+ "title": "Đề thi VLU 99",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-99",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Mekong Delta Under Climate Pressure",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Stretching across nine provinces in southern Vietnam, the Mekong Delta has long supplied nearly half of the country's rice output and sustains close to seventeen million people who depend on its rivers and canals for their daily livelihoods. Centuries of seasonal flooding once deposited fresh silt across the floodplains every year, keeping the soil fertile without artificial intervention. Now, though, a growing body of research suggests that the disruptions of the past two decades, taken together, may be reshaping the delta more profoundly than any single flood season ever did.",
+     "Saltwater intrusion has become the delta's most visible symptom of change, even though it is only one strand of a more tangled cause. Rising sea levels push brine further inland during the dry season, but the problem is **intensified** by dozens of hydropower dams built upstream in recent years, which trap sediment and reduce the freshwater flow that would otherwise push seawater back. In some provinces, salinity now reaches areas that were considered safe for freshwater rice cultivation only a decade ago, forcing local authorities to redraw agricultural zoning maps more frequently than before.",
+     "Farmers in the hardest-hit districts have responded unevenly. Some have shifted from rice to shrimp farming, a switch that tends to be more profitable in saline conditions but requires capital many smallholders lack. Others have persisted with rice, absorbing yield losses that, according to provincial agricultural offices, sometimes exceed thirty percent in a single season. A smaller number have simply abandoned their land altogether, a decision that reflects not carelessness but the narrowing of viable options as the growing season shortens each year.",
+     "The delta's mangrove forests, which once buffered the coastline against storms and provided nursery habitat for fish and shrimp, have shrunk considerably since the 1990s, partly due to aquaculture expansion and partly due to the same sediment starvation driving saltwater intrusion further inland. Fishermen report that catches of several native species have declined noticeably, though scientists caution that overfishing and habitat loss are difficult to **disentangle** as separate causes. What is clearer is that the ecological cushion the delta once relied upon during extreme weather events is thinner than it was a generation ago.",
+     "These pressures have accelerated migration out of the delta, particularly among younger residents who see limited prospects in agriculture. Provincial statistics indicate that outmigration rates in several Mekong districts now exceed the national rural average, with many young people moving to industrial zones near Ho Chi Minh City. **Those** who remain are disproportionately older, and some local officials worry that the loss of working-age labor could, over time, undermine the very adaptation efforts the delta needs most.",
+     "Government and international agencies have funded a range of adaptation projects, from sluice gates that regulate salinity to pilot programs promoting salt-tolerant rice varieties. Early results from a handful of these programs appear encouraging, though independent researchers note that pilot success does not always translate into results at scale. Whether the delta's residents can adapt as quickly as the environment is changing around them remains, for now, an open question rather than a settled one."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, what is one factor, besides rising sea levels, that has intensified saltwater intrusion in the Mekong Delta?",
+      "options": {
+       "A": "Downstream dams built specifically to block seawater from returning to the ocean",
+       "B": "Rising sea levels acting alone, without any other contributing factor",
+       "C": "Upstream hydropower dams trapping sediment and reducing the freshwater flow that pushes back seawater",
+       "D": "Delayed updates to provincial agricultural zoning maps"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "What is the main idea conveyed by the passage as a whole?",
+      "options": {
+       "A": "Adaptation programs funded by government and international agencies have largely resolved the delta's environmental challenges",
+       "B": "Multiple interacting environmental and human-made pressures are increasingly straining the Mekong Delta's ecosystems and the livelihoods that depend on them, with adaptation efforts showing only partial success so far",
+       "C": "Migration out of the Mekong Delta has become the dominant force reshaping the region's economy and demographics",
+       "D": "Saltwater intrusion caused by rising sea levels is the single most urgent problem threatening rice farmers in the Mekong Delta"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 3,
+      "stem": "The word \"intensified\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "eliminated",
+       "B": "worsened",
+       "C": "regulated",
+       "D": "intended"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way farmers in the Mekong Delta have responded to rising salinity?",
+      "options": {
+       "A": "Switching from rice cultivation to shrimp farming",
+       "B": "Continuing to grow rice despite significant yield losses",
+       "C": "Abandoning their land as the growing season shortens",
+       "D": "Installing individual desalination systems on their own farms"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, what pattern do provincial statistics reveal about outmigration from several Mekong districts?",
+      "options": {
+       "A": "It is concentrated among farmers who have shifted to shrimp aquaculture rather than left the delta entirely",
+       "B": "It exceeds the national rural average, driven largely by younger residents moving to industrial zones near Ho Chi Minh City",
+       "C": "It exceeds the national urban average, driven mainly by older residents relocating to coastal provinces",
+       "D": "It has remained roughly stable compared to the national rural average over the past decade"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 6,
+      "stem": "The word \"Those\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "provincial officials",
+       "B": "young migrants",
+       "C": "industrial workers",
+       "D": "residents who stay"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Quy chiếu",
+      "explanation": null
+     },
+     {
+      "number": 7,
+      "stem": "The word \"disentangle\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "separate",
+       "B": "monitor",
+       "C": "connect",
+       "D": "eliminate"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, why have the delta's mangrove forests shrunk since the 1990s?",
+      "options": {
+       "A": "Due to a combination of aquaculture expansion and sediment starvation linked to saltwater intrusion",
+       "B": "Due to declining rainfall reducing the freshwater needed by mangrove ecosystems",
+       "C": "Due to overfishing alone, which scientists have identified as the primary cause",
+       "D": "Due to hydropower dam construction directly flooding mangrove areas downstream"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about the relationship between outmigration and the delta's ability to adapt to environmental change?",
+      "options": {
+       "A": "The delta's mangrove forests have shrunk since the 1990s due to overlapping human and environmental causes",
+       "B": "Adaptation efforts have driven younger residents to leave the delta for urban opportunities",
+       "C": "Younger residents are migrating mainly because local adaptation programs have already failed",
+       "D": "The loss of working-age residents may weaken the delta's capacity to sustain the adaptation programs it depends on"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Suy luận",
+      "explanation": null
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall attitude toward the Mekong Delta's prospects for adapting to environmental change?",
+      "options": {
+       "A": "Confidently optimistic that current adaptation programs will fully resolve the delta's challenges",
+       "B": "Indifferent, presenting the delta's situation as a purely factual matter without any evaluative stance",
+       "C": "Sharply critical of government and international efforts as inadequate and poorly designed",
+       "D": "Cautiously uncertain, hopeful about early results but unwilling to call the outcome settled Reading"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Thái độ tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Do mình không có thời gian nên gợi ý sẽ thêm sau, bạn có thể sử dụng Gemini để hỏi chi tiết nhé."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "How Generations Diverge in Their Social Media Habits",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Surveys tracking social media use across age groups in recent years reveal a pattern that many marketers have been slow to fully appreciate: it is not merely which platforms people use, but why, that increasingly separates one generation from the next. What looks, on the surface, like simple platform loyalty often conceals a deeper divergence in how different age cohorts define the purpose of being online at all.",
+     "Facebook's user base, once synonymous with social media itself, has aged considerably since the platform's early years, and this shift has occurred even as total user numbers have remained relatively stable. Users over forty now make up the fastest-growing segment of Facebook's audience, largely because the platform functions for them as a place to maintain long-term connections with extended family, former classmates, and community groups rather than to discover new content. Younger users, by contrast, tend to treat a Facebook account as something inherited from an earlier internet era rather than a space they actively choose.",
+     "Instagram occupies a middle ground generationally, retaining strong engagement among millennials while gradually losing its grip on the youngest teenagers, who increasingly describe the platform as **curated** to the point of feeling inauthentic. The app's algorithm, which prioritizes visually polished content and rewards consistency of posting, tends to favor users who already have some experience building a personal brand, a skill more commonly associated with users in their late twenties and thirties than with those just entering adulthood. Even so, Instagram's messaging feature has quietly become one of its most-used functions across nearly every age group, suggesting that private communication may be doing more to retain users than public posting is.",
+     "Snapchat, meanwhile, has carved out a distinct niche among the youngest users, not because its features are unavailable elsewhere, but because its ephemeral format, messages and images that disappear after being viewed, aligns closely with what many teenagers say they want from digital communication: interactions that feel low-stakes and temporary rather than permanent and searchable. Streaks, the app's feature that rewards consecutive days of messaging between friends, have become for some users less a form of entertainment than a low-grade social obligation, one that several surveyed teenagers described as more exhausting than enjoyable, even as they continued to maintain them.",
+     "Underlying these platform-specific patterns is a broader generational divide in attitudes toward privacy and self-presentation. Older users tend to treat social media posts as relatively permanent records, worth curating carefully because they may be seen by employers or distant relatives years later; younger users, having grown up with platforms explicitly designed around disappearing content, appear less concerned with permanence and more concerned with controlling exactly who sees a given post in the moment it is shared. **This** does not mean younger users care less about privacy overall, if anything, research suggests the opposite, but rather that they define it differently, as a matter of audience control rather than content longevity.",
+     "For advertisers, this generational sorting has practical consequences. Campaigns built around polished, **aspirational** imagery continue to perform well on Instagram among older users, but the same approach frequently underperforms on Snapchat, where audiences respond more favorably to content that looks unedited or spontaneously filmed, even when it is not. Some brands have responded by producing entirely separate creative content for each platform rather than repurposing a single campaign across all three, a costlier strategy that several marketing analysts argue has nonetheless proven necessary.",
+     "Whether this generational sorting represents a permanent fracturing of social media use or simply a phase that will shift again as today's teenagers age is not yet clear. What does seem likely, based on the patterns observed so far, is that no single platform is likely to serve every generation equally well again, at least not in the way Facebook once did."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, why do users over forty represent Facebook's fastest-growing segment?",
+      "options": {
+       "A": "Because they use the platform mainly to discover long-term connections with family and former classmates rather than to maintain new content",
+       "B": "Because they use the platform mainly to maintain long-term connections with coworkers and former classmates rather than to discover new products",
+       "C": "Because they use the platform mainly to maintain long-term connections with family and former classmates rather than to discover new content",
+       "D": "Because they use the platform mainly to maintain short-term connections with family and current classmates rather than to discover new content"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "The word \"curated\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "carefully arranged",
+       "B": "artificially inflated",
+       "C": "publicly shared",
+       "D": "randomly generated"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 13,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Facebook has lost nearly all of its users to Instagram and Snapchat over the past decade",
+       "B": "Advertisers have universally abandoned Instagram in favor of Snapchat-style unedited content",
+       "C": "Different generations use major social media platforms for different underlying purposes, and this divergence is reshaping how platforms function and how advertisers approach them",
+       "D": "Younger users are far less concerned about online privacy than older generations"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason younger users are drawn to Snapchat?",
+      "options": {
+       "A": "Industry-leading data encryption compared to competing platforms",
+       "B": "The low-stakes, temporary feel of everyday interactions",
+       "C": "The temporary, disappearing nature of its messages and images",
+       "D": "The streaks feature, which nearly all users say they thoroughly enjoy"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 15,
+      "stem": "The word \"This\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "advertisers' targeting strategies",
+       "B": "employers' hiring decisions",
+       "C": "older users' careful curation habits",
+       "D": "younger users' shift in privacy concern"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Quy chiếu",
+      "explanation": null
+     },
+     {
+      "number": 16,
+      "stem": "According to the passage, what does Instagram's algorithm tend to favor?",
+      "options": {
+       "A": "Users who already have experience building a public image through polished, consistent posting",
+       "B": "Users who already have experience building a personal brand through polished, consistent posting",
+       "C": "Users who already have experience building a personal brand through polished, occasional posting",
+       "D": "Users who recently started building a personal brand through polished, consistent posting"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 17,
+      "stem": "What can be inferred about why some brands create separate content for Snapchat rather than reusing Instagram campaigns?",
+      "options": {
+       "A": "Because Instagram's messaging feature has become one of its most-used functions across nearly every age group",
+       "B": "Because content that appears polished and aspirational, effective on Instagram, tends to feel out of place with Snapchat audiences who prefer unedited, spontaneous-looking material",
+       "C": "Because Snapchat's younger audience actively distrusts all forms of paid advertising regardless of style",
+       "D": "Because Instagram's algorithm requires brands to produce Snapchat-specific content before posting on Instagram"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Suy luận",
+      "explanation": null
+     },
+     {
+      "number": 18,
+      "stem": "The word \"aspirational\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "targeted",
+       "B": "reflecting a desired, higher status",
+       "C": "unattainable",
+       "D": "conversational"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 19,
+      "stem": "According to the passage, how do several surveyed teenagers describe Snapchat's streaks feature?",
+      "options": {
+       "A": "As more exhausting than entertaining, even though they occasionally maintain them",
+       "B": "As more exhausting than enjoyable, even though they rarely continue maintaining them",
+       "C": "As more enjoyable than exhausting, even though they continue maintaining them",
+       "D": "As more exhausting than enjoyable, even though they continue maintaining them"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's overall attitude toward the future of generational platform sorting on social media?",
+      "options": {
+       "A": "Confidently predictive, asserting that today's generational divide in platform use will persist indefinitely",
+       "B": "Nostalgic, mourning the decline of Facebook as the dominant social platform",
+       "C": "Cautiously observational, noting a clear current pattern while remaining uncertain whether it will persist",
+       "D": "Strongly advisory, primarily aiming to instruct advertisers on which platform to invest in Reading"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Thái độ tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Do mình không có thời gian nên gợi ý sẽ thêm sau, bạn có thể sử dụng Gemini để hỏi chi tiết nhé."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Denim's Long Road from Workwear to Wardrobe Staple",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "That a fabric once reserved for miners and railroad workers would, within a century, become one of the most universally worn garments on earth is a trajectory few textile historians would have predicted at its origin. **[1]** The twill weave now associated almost exclusively with jeans traces back to at least two competing lineages, one from the French city of Nîmes, whose \"serge de Nîmes\" is frequently, though not uncontroversially, cited as the etymological root of \"denim,\" and another from the Italian port of Genoa, where a similar cotton fustian was already being woven and exported to sailors decades earlier.",
+     "Popular accounts tend to credit a single inventive moment: Jacob Davis, a tailor working with rivets to reinforce trouser pockets for laborers, approaching Levi Strauss in 1872 because he lacked the funds to patent the technique himself. **[2]** What **this** account tends to compress, however, is that riveted reinforcement solved a problem that had already been partially, if unevenly, addressed by generations of workwear tailors using double-stitching and heavier canvas; the rivet was less a singular breakthrough than the final, patentable refinement of a problem multiple tradespeople had been circling for years.",
+     "For roughly seven decades after the 1873 patent, denim trousers remained functionally coded: they signaled manual labor, and outside of mining camps, ranches, and factory floors, they were rarely worn as everyday dress. **[3]** The shift began not in fashion capitals but in Hollywood westerns of the 1930s, where denim's association with rugged frontier masculinity was, somewhat **paradoxically**, romanticized for urban audiences who had never worked a ranch in their lives; the garment's meaning was being rewritten by viewers who encountered it only on screen, not by the laborers who actually wore it daily.",
+     "It was the countercultural movements of the 1950s and 1960s that completed denim's symbolic inversion, though the process was neither linear nor universally embraced. Youth subcultures adopted jeans precisely because of their working-class associations, using the garment to signal rejection of the tailored formality favored by an older generation; some schools in the United States responded by explicitly banning jeans from classrooms well into the 1970s, a fact that complicates any narrative suggesting denim's acceptance was smooth or quick. **[4]** By the time designer labels began stitching their names onto back pockets in the late 1970s, the fabric had already completed an unlikely journey from workwear to rebellion to, eventually, luxury.",
+     "This final pivot into luxury retailing is where denim's history becomes genuinely difficult to summarize in a single sentence, because two seemingly contradictory trends unfolded simultaneously rather than sequentially. On one hand, mass-market denim became cheaper and more globally standardized as production shifted overseas, particularly to South and Southeast Asia, where labor costs were lower; on the other, a parallel market of premium, small-batch denim emerged, often marketed on the basis of selvedge weaving techniques and raw, unwashed finishing that deliberately imitated the roughness of nineteenth-century workwear. That premium buyers would pay a substantial markup to approximate the discomfort their labor-class predecessors had no choice but to endure is one of the stranger ironies in the fabric's already unlikely history.",
+     "Environmental scrutiny of denim production has intensified considerably since the early 2000s, driven largely by revelations about the water intensity of conventional cotton cultivation and the toxicity of certain dyeing and distressing processes, particularly those involving potassium permanganate spraying to achieve a faded look. Some manufacturers have responded with laser-distressing techniques and closed-loop water systems, though independent assessments suggest that these innovations, while genuinely reducing per-garment impact, have not offset the environmental cost of an industry whose overall output has continued to expand rather than contract, meaning that aggregate impact may not have improved even where per-unit impact has.",
+     "Whether denim's next transformation will be driven primarily by sustainability pressure, by shifting consumer aesthetics, or by some combination not yet visible from within the industry is a question that even denim historians are reluctant to answer with confidence, given how consistently the fabric's past transformations have defied prediction from those closest to it at the time."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "What is the main idea conveyed by the passage as a whole?",
+      "options": {
+       "A": "Denim's rise to popularity was driven almost entirely by Hollywood westerns romanticizing frontier labor for urban audiences",
+       "B": "Environmental concerns have now become the single most important factor shaping how denim is marketed to consumers",
+       "C": "Jacob Davis and Levi Strauss single-handedly created the modern denim industry through the 1873 rivet patent",
+       "D": "Denim's meaning has shifted repeatedly across distinct eras, and each transformation, from workwear to rebellion to luxury to sustainability concern, has proven difficult for contemporaries to anticipate in advance"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what does the popular account of the 1873 rivet patent tend to compress or oversimplify?",
+      "options": {
+       "A": "The fact that the rivet technique was a refinement of a problem workwear tailors had already been partially addressing through double-stitching and heavier canvas, rather than a wholly singular breakthrough",
+       "B": "The fact that Jacob Davis invented the rivet technique entirely independently of any prior workwear tailoring tradition",
+       "C": "The fact that riveted trousers were immediately adopted by fashion designers rather than laborers",
+       "D": "The fact that Levi Strauss patented the rivet technique before Jacob Davis approached him with the idea"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 23,
+      "stem": "The word \"this\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "the 1873 patent filing itself",
+       "B": "the 1872 meeting between Davis and Strauss",
+       "C": "the double-stitching technique used by earlier tailors",
+       "D": "the popular account of a single inventive moment"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Quy chiếu",
+      "explanation": null
+     },
+     {
+      "number": 24,
+      "stem": "The word \"paradoxically\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "gradually",
+       "B": "predictably",
+       "C": "seemingly contradictorily",
+       "D": "deliberately"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, which of the following is NOT mentioned as part of denim's history?",
+      "options": {
+       "A": "Designer labels stitching their names onto back pockets in the late 1970s",
+       "B": "Manufacturers using laser-distressing techniques to reduce environmental impact",
+       "C": "Some U.S. schools banning jeans from classrooms into the 1970s",
+       "D": "A government-mandated global quota limiting denim exports during the 1980s"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 26,
+      "stem": "According to the passage, how did countercultural youth in the 1950s and 1960s use denim?",
+      "options": {
+       "A": "To signal rejection of working-class labor by adopting tailored, formal garments instead",
+       "B": "To signal rejection of tailored formality by deliberately adopting a garment associated with working-class labor",
+       "C": "To signal support for tailored formality by rejecting a garment associated with working-class labor",
+       "D": "To signal alignment with Hollywood western fashion trends of the same decade"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 27,
+      "stem": "What can be inferred about the irony described in paragraph 5?",
+      "options": {
+       "A": "Nineteenth-century laborers deliberately chose rough, unwashed denim as a fashion statement",
+       "B": "Premium buyers pay extra for raw, unwashed denim that imitates the very discomfort nineteenth-century laborers had no choice but to endure",
+       "C": "Mass-market denim producers have begun copying premium selvedge weaving techniques to reduce costs",
+       "D": "Premium buyers reject raw, unwashed denim because it too closely resembles nineteenth-century laborers' clothing"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Suy luận",
+      "explanation": null
+     },
+     {
+      "number": 28,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Yet acceptance, once it began, still met resistance from institutions determined to preserve older dress codes.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Chèn câu",
+      "explanation": null
+     },
+     {
+      "number": 29,
+      "stem": "What does the passage suggest about the overall environmental impact of denim production despite recent innovations?",
+      "options": {
+       "A": "Aggregate environmental impact has decreased in direct proportion to the reduction in per-garment impact",
+       "B": "Environmental scrutiny has led manufacturers to abandon potassium permanganate spraying altogether",
+       "C": "Environmental impact has been eliminated entirely through laser-distressing and closed-loop water systems",
+       "D": "Aggregate environmental impact may not have improved even as per-garment impact has decreased, because overall industry output has continued to expand"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Suy luận",
+      "explanation": null
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's overall attitude toward predicting denim's future transformations?",
+      "options": {
+       "A": "Reluctant and cautious, given how consistently past transformations have defied prediction by those closest to the industry",
+       "B": "Confidently certain that sustainability pressure alone will determine the fabric's next transformation",
+       "C": "Dismissive of the idea that denim will undergo any further meaningful transformation",
+       "D": "Optimistic that consumer aesthetics will reverse denim's environmental problems within the decade Reading"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Thái độ tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Do mình không có thời gian nên gợi ý sẽ thêm sau, bạn có thể sử dụng Gemini để hỏi chi tiết nhé."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Is Homeschooling the Superior Path? The Evidence Resists a Simple Verdict",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Advocacy for homeschooling has, over the past two decades, increasingly leaned on academic outcome data, most prominently studies showing homeschooled students outperforming public school peers on standardized test averages. What such comparisons rarely disclose prominently, however, is that most available data derives from voluntary, self-selected samples, families who choose to submit test scores rather than a randomized or even representative cross-section of the homeschooling population, meaning the observed gap may reflect who chooses to report rather than what homeschooling itself causally produces.",
+     "Researchers attempting to correct for this selection problem have arrived at a more qualified picture. Some studies controlling for parental education and household income, both of which correlate independently with homeschooling uptake and with academic performance, find that a meaningful portion, though not necessarily all, of the raw test-score advantage disappears once these variables are accounted for. **This** does not establish that homeschooling confers no benefit; it does suggest that the commonly cited comparison overstates the causal contribution of the educational format itself relative to the socioeconomic circumstances of the families who select into it.",
+     "Socialization concerns, long a staple of skeptical commentary, have proven similarly resistant to a tidy conclusion. Early critiques suggesting broad social deficits among homeschooled children have not held up well against more recent, methodologically stronger studies, several of which find comparable or even superior measures of social confidence and community involvement among homeschooled populations, particularly those embedded in active co-op networks. Yet this finding itself carries an important qualifier: the benefit appears concentrated among families with access to such networks, which tend to require financial resources, geographic proximity to other homeschoolers, and parental time availability that not every homeschooling family possesses in equal measure.",
+     "A separate and comparatively under-examined dimension concerns curricular breadth rather than test performance or socialization. **[1]** Because homeschooling curricula are, in most jurisdictions, subject to considerably lighter oversight than public school standards, the range of subject exposure varies enormously between households, from families offering instruction that meets or exceeds conventional breadth to a smaller but documented minority providing instruction that regulatory bodies in several states have **flagged** as substantially deficient in core subjects. **[2]** This variance is **[3]** rarely captured by aggregate outcome studies, **[4]** which tend to average across a population whose internal diversity may matter more than its mean.",
+     "Advocates and critics alike tend to converge, somewhat unexpectedly, on one point: the quality of homeschooling outcomes appears to depend less on the format itself than on parental capacity, whether measured in time, educational background, or financial resources, to sustain rigorous instruction over many years without the institutional scaffolding that public schools provide by default. Where that capacity is present in abundance, outcomes documented in the research literature are frequently strong; where it is thin or intermittently available, the same literature documents considerably more mixed and, in some flagged cases, concerning results.",
+     "This capacity-dependence has a further implication that the outcome-focused debate tends to obscure: because families with greater capacity are also more likely to choose homeschooling in the first place, any comparison between homeschooled and conventionally schooled populations is comparing groups that differ systematically before instruction even begins, not two randomly equivalent groups experiencing different treatments. Some researchers have therefore argued that the more useful question is not whether homeschooling outperforms public schooling on average, but under what specific combinations of resources and oversight it does or does not do so.",
+     "None of this settles the debate definitively, nor, based on the trajectory of the research so far, does it seem likely to. What the accumulated evidence does suggest, cautiously, is that the question \"is homeschooling the best method\" may itself be malformed, presupposing a single answer to a question whose true answer is contingent on family circumstances the aggregate data was never well suited to capture in the first place."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "What is the main idea conveyed by the passage as a whole?",
+      "options": {
+       "A": "Socialization outcomes are the single most reliable measure for determining whether homeschooling is a superior educational method",
+       "B": "Regulatory oversight of homeschooling curricula is uniformly weak across all jurisdictions, making outcome comparisons meaningless",
+       "C": "Homeschooling consistently outperforms public schooling once socioeconomic factors are properly controlled for in research studies",
+       "D": "Homeschooling outcomes appear to depend more heavily on parental capacity and resources than on the educational format itself, which complicates any simple verdict about whether homeschooling is objectively superior"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what happens to the raw test-score advantage of homeschooled students once studies control for parental education and household income?",
+      "options": {
+       "A": "It disappears entirely, proving homeschooling confers no measurable academic benefit whatsoever",
+       "B": "It remains completely unchanged, since parental education and income do not correlate with homeschooling uptake",
+       "C": "A meaningful portion, though not necessarily all of it, disappears, suggesting the format's causal contribution is often overstated relative to family socioeconomic circumstances",
+       "D": "It increases further, confirming that homeschooling itself is the primary driver of academic outperformance"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 33,
+      "stem": "The word \"This\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "the fact that homeschooling families tend to have higher household incomes than average",
+       "B": "the fact that public schools provide institutional scaffolding that homeschooling lacks",
+       "C": "the fact that some studies find part of the test-score gap disappears after controlling for parental education and income",
+       "D": "the fact that standardized test averages are always self-reported by homeschooling families"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Quy chiếu",
+      "explanation": null
+     },
+     {
+      "number": 34,
+      "stem": "The word \"flagged\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "celebrated",
+       "B": "identified as concerning",
+       "C": "randomly selected",
+       "D": "financially rewarded"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, which of the following is NOT mentioned as a factor influencing homeschooling outcomes?",
+      "options": {
+       "A": "A national standardized curriculum mandated identically across all homeschooling households",
+       "B": "Access to active co-op networks for socialization",
+       "C": "Financial resources available to the family",
+       "D": "Parental time availability for sustaining rigorous instruction"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 36,
+      "stem": "According to the passage, among which homeschooled populations does the socialization benefit appear most concentrated?",
+      "options": {
+       "A": "Those whose parents hold advanced academic degrees, independent of any co-op network access",
+       "B": "Those living in rural areas regardless of access to co-op networks or financial resources",
+       "C": "Those who rely exclusively on standardized online curricula without in-person community involvement",
+       "D": "Those embedded in active co-op networks, which tend to require financial resources, geographic proximity, and parental time availability"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 37,
+      "stem": "What can be inferred about why comparisons between homeschooled and conventionally schooled populations are described as problematic?",
+      "options": {
+       "A": "Because families with greater capacity are more likely to choose homeschooling in the first place, so the two groups differ systematically before instruction even begins, unlike randomly equivalent groups",
+       "B": "Because standardized tests are not administered to public school students at all",
+       "C": "Because public schools deliberately select only high-performing students for standardized testing",
+       "D": "Because homeschooling regulations are identical across every jurisdiction, eliminating any meaningful variation"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Suy luận",
+      "explanation": null
+     },
+     {
+      "number": 38,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'This unevenness, rarely visible in summary statistics, may matter as much as any average difference in outcomes.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chèn câu",
+      "explanation": null
+     },
+     {
+      "number": 39,
+      "stem": "What does the passage suggest is a more useful question than simply asking whether homeschooling outperforms public schooling on average?",
+      "options": {
+       "A": "Under what specific combinations of resources and oversight homeschooling does or does not produce strong outcomes",
+       "B": "Whether socialization outcomes matter more than academic outcomes in any educational format",
+       "C": "Whether standardized testing should be abolished entirely for all students, homeschooled or otherwise",
+       "D": "Whether public schools should adopt homeschooling curricula wholesale within the next decade"
+      },
+      "answer": "A",
+      "type_hint": null,
+      "type": "Suy luận",
+      "explanation": null
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's overall attitude toward the question of whether homeschooling is the best educational method?",
+      "options": {
+       "A": "Strongly critical of homeschooling advocates while fully endorsing public schooling as categorically superior",
+       "B": "Dismissively certain that the entire debate is not worth serious academic attention",
+       "C": "Cautiously skeptical of the question's framing, suggesting it presupposes a single answer that the evidence cannot actually support",
+       "D": "Firmly convinced that homeschooling is superior once selection bias is corrected for in the data"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Thái độ tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Do mình không có thời gian nên gợi ý sẽ thêm sau, bạn có thể sử dụng Gemini để hỏi chi tiết nhé."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You have just been on a camping trip, and your friend has emailed you asking about it.\nRead part of their email below.\nI heard you went camping last weekend! I've never been camping before, so I'd love to hear all about it.\n- Where did you go camping and who did you go with?\n- What activities did you do during the trip?\n- Would you recommend camping to me? Why or why not?\nWrite an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You have just been on a camping trip, and your friend has emailed you asking about it.",
+      "Read part of their email below."
+     ],
+     "quote": [
+      "I heard you went camping last weekend! I've never been camping before, so I'd love to hear all about it.",
+      "- Where did you go camping and who did you go with?",
+      "- What activities did you do during the trip?",
+      "- Would you recommend camping to me? Why or why not?"
+     ],
+     "instruction": "Write an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (Thư thân mật) trả lời bạn bè về một chuyến cắm trại vừa trải qua.\n- Đề bài có **3 yêu cầu chính** cần trả lời đầy đủ: (1) đi cắm trại ở đâu và với ai, (2) đã làm những hoạt động gì trong chuyến đi, (3) có giới thiệu bạn mình đi cắm trại không và vì sao.\n- Bài viết cần đạt tối thiểu **120 từ**, giọng văn thân mật, sinh động, thể hiện cảm xúc thật khi kể chuyện.\n- Cần trả lời đủ cả 3 ý, tránh chỉ kể chung chung mà bỏ sót câu hỏi nào.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Lan,\n- **Opening:** Cảm ơn thư và dẫn vào chủ đề. Ví dụ: It's great to hear from you! I'd love to tell you all about my camping trip.\n- **Body 1 (Địa điểm và bạn đồng hành):** Ví dụ: I went camping by a lake in Da Lat with two of my close friends.\n- **Body 2 (Hoạt động):** Ví dụ: We spent our time hiking, cooking over a campfire, and stargazing at night.\n- **Body 3 (Lời khuyên):** Ví dụ: I would definitely recommend it to you, as it's a wonderful way to relax and reconnect with nature.\n- **Closing & Sign-off:** Ví dụ: Let me know if you'd like to join us next time! Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì **quá khứ đơn** để kể lại các hoạt động đã xảy ra trong chuyến đi.\n- Dùng tính từ miêu tả cảm xúc và trải nghiệm để bài viết sinh động hơn.\n- Tránh lặp từ \"camping\" nhiều lần, hãy thay bằng \"the trip\", \"the experience\".\n- Nên đưa lý do cụ thể khi đưa ra lời khuyên để thuyết phục hơn.\nTừ vựng quan trọng:\n- **Pitch a tent:** Dựng lều\n- **Campfire:** Lửa trại\n- **Stargazing:** Ngắm sao\n- **Reconnect with nature:** Kết nối lại với thiên nhiên\n- **Breathtaking scenery:** Cảnh vật tuyệt đẹp\n- **Fresh air:** Không khí trong lành\n- **Hiking trail:** Đường mòn leo núi\nTừ nối (Linking words):\n- **To begin with:** Trước hết\n- **After that:** Sau đó\n- **Besides:** Bên cạnh đó\n- **In my opinion:** Theo ý kiến của tôi\n- **All in all:** Nhìn chung\nCách diễn đạt cảm xúc (Expressing feelings):\n- **It was such an amazing experience:** Đó thực sự là một trải nghiệm tuyệt vời\n- **I really enjoyed...:** Tôi thực sự thích...\n- **I would definitely recommend...:** Tôi chắc chắn sẽ giới thiệu...\n\n**4. Các lỗi thường gặp:**\n- Kể chuyện chung chung mà không nêu rõ địa điểm hoặc bạn đồng hành.\n- Quên đưa ra lời khuyên hoặc không giải thích lý do cho lời khuyên đó.\n- Dùng sai thì, đặc biệt là dùng hiện tại đơn thay vì quá khứ đơn khi kể chuyện.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã trả lời đủ 3 ý: địa điểm/bạn đồng hành, hoạt động, lời khuyên.\n- Đếm số từ để đảm bảo đạt tối thiểu 120 từ.\n- Kiểm tra thì quá khứ đã được dùng nhất quán khi kể chuyện.\n\n**6. Tư duy làm bài:**\nHãy viết như thể bạn đang thực sự kể lại một kỷ niệm vui cho bạn thân nghe. Sự chân thật, chi tiết cụ thể và cảm xúc tự nhiên sẽ giúp bài viết ghi điểm cao.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nSince the pandemic, working from home has become a common practice for many employees around the world. Some people believe that this arrangement strengthens family bonds by allowing parents to spend more time with their children, while others argue that it blurs the boundary between work and family life, ultimately harming parent-child relationships.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about the impact of working from home on the relationship between parents and children. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Since the pandemic, working from home has become a common practice for many employees around the world. Some people believe that this arrangement strengthens family bonds by allowing parents to spend more time with their children, while others argue that it blurs the boundary between work and family life, ultimately harming parent-child relationships.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about the impact of working from home on the relationship between parents and children. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Discussion Essay**, yêu cầu thảo luận cả hai quan điểm trái ngược về ảnh hưởng của làm việc tại nhà đến mối quan hệ cha mẹ - con cái trước khi đưa ra ý kiến cá nhân.\n- Bạn cần trình bày rõ quan điểm cho rằng làm việc tại nhà giúp gắn kết gia đình, và quan điểm cho rằng nó làm mờ ranh giới công việc - gia đình, gây ảnh hưởng tiêu cực.\n- Yêu cầu tối thiểu là **250 từ**, cần có sự cân bằng giữa hai quan điểm trước khi đưa ra ý kiến riêng ở phần kết luận.\n- Tránh chỉ trình bày một phía hoặc nghiêng hẳn về một quan điểm ngay từ đầu bài, vì đây là lỗi nghiêm trọng trong dạng bài Discussion.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu hai quan điểm trái ngược về ảnh hưởng của làm việc tại nhà. Ví dụ: While some argue that working from home brings parents and children closer together, others believe it can actually damage their relationship.\n- **Body 1 (Quan điểm tích cực):** Topic sentence, giải thích, ví dụ. Ví dụ: On the one hand, working from home allows parents to spend more quality time with their children, such as having meals together and helping with homework.\n- **Body 2 (Quan điểm tiêu cực):** Topic sentence, giải thích, ví dụ. Ví dụ: On the other hand, many parents struggle to separate work from family time, which can lead to increased stress and less genuine attention given to their children.\n- **Conclusion:** Đưa ra quan điểm cá nhân, tóm tắt. Ví dụ: In conclusion, although working from home offers valuable opportunities for family bonding, I believe its benefits depend largely on how well parents manage their time and boundaries.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì **hiện tại đơn** cho sự thật chung và quan điểm phổ biến của mọi người.\n- Phát triển ý theo cấu trúc: câu chủ đề - giải thích - ví dụ - mini kết luận cho mỗi đoạn thân bài.\n- Cần có **thesis statement** rõ ràng ở mở bài nêu rằng bài sẽ thảo luận cả hai quan điểm.\n- Tránh lặp từ \"working from home\" liên tục, hãy thay bằng các cách diễn đạt khác.\nTừ vựng quan trọng:\n- **Remote work:** Làm việc từ xa\n- **Quality time:** Thời gian chất lượng (bên gia đình)\n- **Work-life balance:** Cân bằng giữa công việc và cuộc sống\n- **Blur the boundary:** Làm mờ ranh giới\n- **Parent-child bond:** Mối gắn kết cha mẹ - con cái\n- **Emotional attachment:** Sự gắn bó về mặt tình cảm\n- **Burnout:** Kiệt sức vì công việc\nTừ nối (Linking words):\n- **Contrast - On the one hand/On the other hand:** Một mặt/Mặt khác\n- **Contrast - However/Nevertheless:** Tuy nhiên\n- **Adding - In addition/Moreover:** Thêm vào đó\n- **Example - For instance/Such as:** Ví dụ như\n- **Conclusion - In conclusion/Overall:** Tóm lại/Nhìn chung\n- **Personal opinion - From my point of view:** Theo quan điểm của tôi\nDiễn đạt lại ý (Paraphrasing):\n- **Remote working arrangements:** Thay cho \"working from home\".\n- **The relationship between parents and their offspring:** Cách diễn đạt khác cho \"parent-child relationship\".\n- **Family cohesion:** Thay cho \"family bonds\".\nCách diễn đạt ý kiến / so sánh:\n- **While I acknowledge that..., I believe...:** Mặc dù tôi thừa nhận rằng..., tôi tin rằng...\n- **Unlike those who argue that..., I feel that...:** Không giống như những người cho rằng..., tôi cảm thấy rằng...\n- **It largely depends on...:** Điều đó phần lớn phụ thuộc vào...\n\n**4. Các lỗi thường gặp:**\n- Chỉ trình bày một quan điểm mà bỏ qua quan điểm còn lại.\n- Đưa ra ý kiến cá nhân ngay từ đầu bài thay vì thảo luận khách quan trước.\n- Thiếu ví dụ cụ thể để minh họa cho mỗi quan điểm, khiến lập luận thiếu thuyết phục.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã có Thesis Statement rõ ràng ở mở bài chưa.\n- Đảm bảo đã thảo luận đầy đủ cả hai quan điểm trước khi nêu ý kiến cá nhân.\n- Đếm số từ để chắc chắn đạt tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\nHãy tư duy theo trình tự logic: trước tiên trình bày lợi ích của việc làm việc tại nhà đối với mối quan hệ gia đình, sau đó phân tích những tác hại tiềm ẩn, và cuối cùng đưa ra ý kiến cá nhân có lý lẽ cân bằng, thuyết phục."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about the weather\n\n1\nWhat is the weather usually like in your hometown?\n2\nWhat is your favorite season of the year? Why?\n3\nDoes bad weather ever affect your daily activities? How?\n\nNow, let’s talk about your hobbies\n\n4\nWhat do you like to do in your free time?\n5\nHow did you discover this hobby?\n6\nDo you think hobbies are important for a person's life? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này có **2 chủ đề nhỏ**: **Topic A (Weather)** và **Topic B (Hobbies)**.\n- **Topic A (Weather):** Ba câu hỏi đầu kiểm tra khả năng mô tả thời tiết nơi mình sống, sở thích về mùa và ảnh hưởng của thời tiết đến cuộc sống hằng ngày.\n- **Topic B (Hobbies):** Ba câu hỏi sau kiểm tra khả năng nói về sở thích cá nhân, nguồn gốc của sở thích đó và quan điểm về tầm quan trọng của việc có sở thích.\n- Tiêu chí đánh giá gồm **Fluency, Vocabulary, Grammar và Pronunciation**.\n- Thời gian Part 1 là **3 phút**, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)** để trả lời đầy đủ và có chiều sâu.\n- **Ví dụ Topic A:** \"The weather in my hometown is usually hot and humid in summer, but it gets quite cool and pleasant around December.\"\n- **Ví dụ Topic B:** \"My favorite hobby is playing the guitar because it allows me to relax and express my emotions after a stressful day.\"\n- Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n- Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Speaking of the seasons, they actually remind me of one of my favorite hobbies.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định, dùng từ đệm để tránh khoảng lặng dài.\n- Dùng **hiện tại đơn** khi nói về đặc điểm thời tiết chung và thói quen sở thích, dùng **quá khứ đơn** khi kể về thời điểm bắt đầu một sở thích.\n- Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n- Từ vựng cho Topic A: humid, chilly, unpredictable weather, a pleasant climate.\n- Từ vựng cho Topic B: unwind, a creative outlet, develop a passion for, recharge my energy.\nCụm từ quan trọng nên dùng:\n- **a pleasant climate** (một khí hậu dễ chịu)\n- **unpredictable weather** (thời tiết khó lường)\n- **disrupt daily routines** (làm gián đoạn sinh hoạt hằng ngày)\n- **a creative outlet** (một cách để thể hiện sự sáng tạo)\n- **develop a passion for something** (phát triển niềm đam mê với điều gì đó)\n- **recharge my energy** (nạp lại năng lượng)\nTừ nối khi nói (Linking Words):\n- **Firstly** - trước hết, dùng để mở đầu ý.\n- **Besides** - bên cạnh đó, dùng để bổ sung ý.\n- **For example** - ví dụ như, dùng khi minh họa.\n- **However** - tuy nhiên, dùng khi đối chiếu ý kiến.\n- **That's why** - đó là lý do vì sao, dùng để nêu kết quả.\nCách thể hiện quan điểm tự nhiên:\n- **Personally, I think...** Ví dụ: \"Personally, I think autumn is the most beautiful season because the weather is mild and comfortable.\"\n- **In my opinion...** Ví dụ: \"In my opinion, having a hobby helps people reduce stress and enjoy life more.\"\n- **I would say that...** Ví dụ: \"I would say that bad weather can really affect people's mood and productivity.\"\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n- Ở Topic A, chỉ liệt kê tên các mùa mà không mô tả cụ thể đặc điểm hay cảm nhận.\n- Ở Topic B, nói sở thích quá chung chung như \"I like reading\" mà không giải thích lý do hay ví dụ cụ thể.\n- Phát âm sai trọng âm từ: **'weather** khác với **'whether**.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n- Với Topic A, nếu bí ý, hãy so sánh thời tiết ở quê mình với một nơi khác mà bạn biết.\n- Với Topic B, nếu bí ý, hãy kể về một kỷ niệm cụ thể liên quan đến sở thích đó.\n\n**6. Tư duy làm bài nói:**\n- Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour university's Science Club wants to organize an event to attract more members and raise interest in science.\n\nYou are considering the following options:\n\nOption 1: Invite a well-known scientist to give a guest talk\nOption 2: Organize a science book donation drive\nOption 3: Hold a science quiz and game competition\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Câu lạc bộ Khoa học của trường muốn tổ chức một sự kiện để thu hút thêm thành viên và khơi dậy hứng thú với khoa học, với ba lựa chọn: mời diễn giả nổi tiếng, quyên góp sách khoa học, hoặc tổ chức cuộc thi đố vui/trò chơi khoa học.\n- Ba lựa chọn khác nhau về mức độ thu hút, chi phí tổ chức và tính tương tác với sinh viên.\n- Thời gian là **4 phút**; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Introduction – Comparison – Conclusion** để trình bày mạch lạc.\n- **Option 1 (Mời diễn giả):** \"Inviting a well-known scientist could inspire students greatly, but it may involve high costs and scheduling difficulties.\"\n- **Option 2 (Quyên góp sách):** \"A book donation drive is easy to organize and promotes reading, though it may not generate as much excitement or immediate interest.\"\n- **Option 3 (Thi đố vui/trò chơi):** \"A quiz and game competition would be the most interactive option, encouraging active participation while making science fun and accessible.\"\n- Nên neo lập luận vào bối cảnh thực tế của việc thu hút sinh viên tham gia câu lạc bộ.\n- Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike a guest talk, which requires a large budget, a quiz competition can be organized at a much lower cost while still engaging students.\"\n- Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n- Paraphrase \"interesting\" bằng \"engaging\" hoặc \"appealing\"; paraphrase \"organize\" bằng \"host\" hoặc \"arrange\". Cụm từ quan trọng nên dùng:\n- **spark interest in science** (khơi dậy hứng thú với khoa học)\n- **attract new members** (thu hút thành viên mới)\n- **hands-on experience** (trải nghiệm thực hành trực tiếp)\n- **raise awareness of a subject** (nâng cao nhận thức về một lĩnh vực)\n- **foster a sense of community** (xây dựng tinh thần cộng đồng)\n- **a cost-effective activity** (một hoạt động tiết kiệm chi phí)\nTừ nối khi nói (Linking Words):\n- **Compared with** - so với, dùng khi so sánh hai lựa chọn.\n- **Whereas** - trong khi đó, dùng để đối lập.\n- **Nevertheless** - tuy nhiên, dùng để chuyển ý ngược lại.\n- **Taking everything into account** - xét tất cả các yếu tố, dùng trước kết luận.\n- **In terms of** - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n- **If I had to choose, I would go with...** Ví dụ: \"If I had to choose, I would go with the quiz competition because it actively involves students rather than making them passive listeners.\"\n- **I'm more inclined towards...** Ví dụ: \"I'm more inclined towards an interactive event rather than a lecture-style talk.\"\n- **All things considered...** Ví dụ: \"All things considered, a science quiz competition seems the most practical and engaging choice for the club.\"\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ \"good\"/\"interesting\" quá nhiều thay vì dùng tính từ học thuật hơn.\n- Không có kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng liên quan đến một lựa chọn, chuyển hướng sang nói về chi phí tổ chức hoặc mức độ thu hút sinh viên.\n- Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n\n**6. Tư duy làm bài nói:**\n- Đặt mình vào vị trí ban tổ chức câu lạc bộ - lựa chọn nào vừa tiết kiệm chi phí vừa thu hút được nhiều sinh viên tham gia?\n- Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ có thể kết hợp quyên góp sách trong buổi thi đố vui, để thể hiện tư duy sáng tạo và linh hoạt.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nFace-to-face communication is more beneficial than other types of communication\n\nFace-to-Face Communication\nAbility to convey emotions and body language clearly\nReduces misunderstandings compared to text-based communication\nBuilds stronger and more trusting relationships\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think technology has weakened face-to-face communication skills?\n2\nIn what situations is online communication more suitable than face-to-face communication?\n3\nHow can people improve their face-to-face communication skills?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển bài nói về việc giao tiếp trực tiếp có lợi hơn so với các hình thức giao tiếp khác, dựa trên ba nhánh chính và một nhánh ý kiến cá nhân.\n- Ba nhánh chính gồm: khả năng truyền tải cảm xúc và ngôn ngữ cơ thể rõ ràng, giảm hiểu lầm so với giao tiếp qua văn bản, và xây dựng mối quan hệ bền chặt và đáng tin cậy hơn.\n- **Gợi ý cho nhánh thứ 4 (ý kiến cá nhân):** có thể phát triển theo hướng giao tiếp trực tiếp giúp phản hồi tức thì và giải quyết vấn đề nhanh chóng hơn so với nhắn tin hay email.\n- Thời gian là **5 phút**: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction – Detail – Example – Add/wrap up)** để trình bày từng nhánh của sơ đồ tư duy.\n- **Ví dụ mở bài:** \"Today, I'd like to talk about why face-to-face communication is more beneficial than other types of communication.\"\n- **Ví dụ cho nhánh ý kiến cá nhân:** \"In my opinion, face-to-face communication also allows for immediate feedback, which helps solve problems much faster than exchanging messages online.\"\n- Nên đưa ví dụ thực tế như hiểu lầm khi nhắn tin do thiếu ngữ điệu hoặc biểu cảm khuôn mặt.\n- Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n- Về thì: dùng **hiện tại đơn** cho sự thật chung, dùng **hiện tại hoàn thành** khi nói về xu hướng giao tiếp đã thay đổi theo thời gian.\n- Paraphrase \"face-to-face communication\" bằng \"in-person interaction\" hoặc \"direct conversation\" để tránh lặp từ. Cụm từ quan trọng nên dùng:\n- **body language** (ngôn ngữ cơ thể)\n- **convey emotions accurately** (truyền tải cảm xúc một cách chính xác)\n- **avoid misunderstandings** (tránh những hiểu lầm)\n- **build trust and rapport** (xây dựng sự tin tưởng và gắn kết)\n- **instant feedback** (phản hồi tức thì)\n- **a deeper connection** (một sự kết nối sâu sắc hơn)\nTừ nối khi nói (Linking Words):\n- **To begin with** - trước hết, dùng để mở đầu nhánh đầu tiên.\n- **Moving on to** - chuyển sang, dùng khi chuyển nhánh ý.\n- **Furthermore** - hơn nữa, dùng để bổ sung ý.\n- **In addition to that** - thêm vào đó, dùng để mở rộng ý.\n- **To sum up** - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **I firmly believe that...** Ví dụ: \"I firmly believe that face-to-face communication remains the most effective way to build genuine relationships.\"\n- **It seems to me that...** Ví dụ: \"It seems to me that text messages often fail to convey tone, which can easily lead to misunderstandings.\"\n- **What strikes me most is...** Ví dụ: \"What strikes me most is how much easier it is to resolve conflicts when talking face to face.\"\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"Do you think technology has weakened face-to-face communication skills?\"** - Có phần đúng, vì nhiều người trẻ hiện nay dành quá nhiều thời gian nhắn tin và ít luyện tập giao tiếp trực tiếp, khiến họ cảm thấy ngại ngùng khi nói chuyện trực diện.\n- **\"In what situations is online communication more suitable than face-to-face communication?\"** - Giao tiếp trực tuyến phù hợp hơn khi cần trao đổi nhanh với người ở xa, hoặc khi cần lưu lại thông tin bằng văn bản để tham khảo sau này.\n- **\"How can people improve their face-to-face communication skills?\"** - Có thể cải thiện bằng cách chủ động tham gia các hoạt động nhóm, luyện tập lắng nghe tích cực, và hạn chế phụ thuộc vào điện thoại khi trò chuyện với người khác.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê lợi ích mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n- Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n- Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Neo vào trải nghiệm cá nhân khi bí ý, ví dụ một lần hiểu lầm do nhắn tin và được giải quyết nhanh chóng khi nói chuyện trực tiếp.\n- Câu chờ ý học thuật: \"That is an interesting point. If we look at it from a psychological perspective...\"\n- Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n\n**7. Tư duy làm bài nói:**\n- Suy nghĩ thực tế và liên hệ với trải nghiệm giao tiếp hằng ngày của bản thân khi nói về chủ đề này.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n- Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about the weather.\n1.\nWhat is the weather usually like in your hometown?\n2.\nWhat is your favorite season of the year? Why?\n3.\nDoes bad weather ever affect your daily activities? How?\nNow, let’s talk about your hobbies.\n4.\nWhat do you like to do in your free time?\n5.\nHow did you discover this hobby?\n6.\nDo you think hobbies are important for a person's life? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này có 2 chủ đề nhỏ: Topic A (Weather) và Topic B (Hobbies).\n• Topic A (Weather): Ba câu hỏi đầu kiểm tra khả năng mô tả thời tiết nơi mình sống, sở thích về mùa và ảnh hưởng\ncủa thời tiết đến cuộc sống hằng ngày.\n• Topic B (Hobbies): Ba câu hỏi sau kiểm tra khả năng nói về sở thích cá nhân, nguồn gốc của sở thích đó và quan\nđiểm về tầm quan trọng của việc có sở thích.\n• Tiêu chí đánh giá gồm Fluency, Vocabulary, Grammar và Pronunciation.\n• Thời gian Part 1 là 3 phút, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE) để trả lời đầy đủ và có chiều sâu.\n• Ví dụ Topic A: \"The weather in my hometown is usually hot and humid in summer, but it gets quite cool and pleasant\naround December.\"\n• Ví dụ Topic B: \"My favorite hobby is playing the guitar because it allows me to relax and express my emotions after\na stressful day.\"\n• Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n• Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Speaking of the seasons, they actually remind\nme of one of my favorite hobbies.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định, dùng từ đệm để tránh khoảng lặng dài.\n• Dùng hiện tại đơn khi nói về đặc điểm thời tiết chung và thói quen sở thích, dùng quá khứ đơn khi kể về thời điểm\nbắt đầu một sở thích.\n• Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n• Từ vựng cho Topic A: humid, chilly, unpredictable weather, a pleasant climate.\n• Từ vựng cho Topic B: unwind, a creative outlet, develop a passion for, recharge my energy.\nCụm từ quan trọng nên dùng:\n• a pleasant climate (một khí hậu dễ chịu)\n• unpredictable weather (thời tiết khó lường)\n• disrupt daily routines (làm gián đoạn sinh hoạt hằng ngày)\n• a creative outlet (một cách để thể hiện sự sáng tạo)\n• develop a passion for something (phát triển niềm đam mê với điều gì đó)\n• recharge my energy (nạp lại năng lượng)\nTừ nối khi nói (Linking Words):\n• Firstly - trước hết, dùng để mở đầu ý.\n• Besides - bên cạnh đó, dùng để bổ sung ý.\n• For example - ví dụ như, dùng khi minh họa.\n• However - tuy nhiên, dùng khi đối chiếu ý kiến.\n• That's why - đó là lý do vì sao, dùng để nêu kết quả.\nCách thể hiện quan điểm tự nhiên:\n• Personally, I think... Ví dụ: \"Personally, I think autumn is the most beautiful season because the weather is mild and\ncomfortable.\"\n• In my opinion... Ví dụ: \"In my opinion, having a hobby helps people reduce stress and enjoy life more.\"\n• I would say that... Ví dụ: \"I would say that bad weather can really affect people's mood and productivity.\"\n4. Các lỗi thường gặp:\n• Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n• Ở Topic A, chỉ liệt kê tên các mùa mà không mô tả cụ thể đặc điểm hay cảm nhận.\n• Ở Topic B, nói sở thích quá chung chung như \"I like reading\" mà không giải thích lý do hay ví dụ cụ thể.\n• Phát âm sai trọng âm từ: 'weather khác với 'whether.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n• Với Topic A, nếu bí ý, hãy so sánh thời tiết ở quê mình với một nơi khác mà bạn biết.\n• Với Topic B, nếu bí ý, hãy kể về một kỷ niệm cụ thể liên quan đến sở thích đó.\n6. Tư duy làm bài nói:\n• Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYour university's Science Club wants to organize an event to attract more members and raise interest in science.\nYou are considering the following options:\n• Option 1: Invite a well-known scientist to give a guest talk\n• Option 2: Organize a science book donation drive\n• Option 3: Hold a science quiz and game competition\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Câu lạc bộ Khoa học của trường muốn tổ chức một sự kiện để thu hút thêm thành\nviên và khơi dậy hứng thú với khoa học, với ba lựa chọn: mời diễn giả nổi tiếng, quyên góp sách khoa học, hoặc tổ\nchức cuộc thi đố vui/trò chơi khoa học.\n• Ba lựa chọn khác nhau về mức độ thu hút, chi phí tổ chức và tính tương tác với sinh viên.\n• Thời gian là 4 phút; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Introduction – Comparison – Conclusion để trình bày mạch lạc.\n• Option 1 (Mời diễn giả): \"Inviting a well-known scientist could inspire students greatly, but it may involve high costs\nand scheduling difficulties.\"\n• Option 2 (Quyên góp sách): \"A book donation drive is easy to organize and promotes reading, though it may not\ngenerate as much excitement or immediate interest.\"\n• Option 3 (Thi đố vui/trò chơi): \"A quiz and game competition would be the most interactive option, encouraging active\nparticipation while making science fun and accessible.\"\n• Nên neo lập luận vào bối cảnh thực tế của việc thu hút sinh viên tham gia câu lạc bộ.\n• Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike a guest talk, which requires a large budget, a quiz\ncompetition can be organized at a much lower cost while still engaging students.\"\n• Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n• Paraphrase \"interesting\" bằng \"engaging\" hoặc \"appealing\"; paraphrase \"organize\" bằng \"host\" hoặc \"arrange\".\nCụm từ quan trọng nên dùng:\n• spark interest in science (khơi dậy hứng thú với khoa học)\n• attract new members (thu hút thành viên mới)\n• hands-on experience (trải nghiệm thực hành trực tiếp)\n• raise awareness of a subject (nâng cao nhận thức về một lĩnh vực)\n• foster a sense of community (xây dựng tinh thần cộng đồng)\n• a cost-effective activity (một hoạt động tiết kiệm chi phí)\nTừ nối khi nói (Linking Words):\n• Compared with - so với, dùng khi so sánh hai lựa chọn.\n• Whereas - trong khi đó, dùng để đối lập.\n• Nevertheless - tuy nhiên, dùng để chuyển ý ngược lại.\n• Taking everything into account - xét tất cả các yếu tố, dùng trước kết luận.\n• In terms of - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n• If I had to choose, I would go with... Ví dụ: \"If I had to choose, I would go with the quiz competition because it actively\ninvolves students rather than making them passive listeners.\"\n• I'm more inclined towards... Ví dụ: \"I'm more inclined towards an interactive event rather than a lecture-style talk.\"\n• All things considered... Ví dụ: \"All things considered, a science quiz competition seems the most practical and\nengaging choice for the club.\"\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ \"good\"/\"interesting\" quá nhiều thay vì dùng tính từ học thuật hơn.\n• Không có kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng liên quan đến một lựa chọn, chuyển hướng sang nói về chi phí tổ chức hoặc mức độ thu hút sinh\nviên.\n• Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n6. Tư duy làm bài nói:\n• Đặt mình vào vị trí ban tổ chức câu lạc bộ - lựa chọn nào vừa tiết kiệm chi phí vừa thu hút được nhiều sinh viên tham\ngia?\n• Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ có thể kết hợp quyên góp sách trong buổi thi đố vui,\nđể thể hiện tư duy sáng tạo và linh hoạt.\nTopic Development\nPART 3\n5 phút\nTopic: Face-to-face communication is more beneficial than other types of communication\nAbility to convey emotions and body\nReduces misunderstandings compared\nlanguage clearly\nto text-based communication\nFace-to-Face Communication\nÝ tưởng của bạn\nBuilds stronger and more trusting\nrelationships\nFOLLOW-UP QUESTIONS\n1.\nDo you think technology has weakened face-to-face communication skills?\n2.\nIn what situations is online communication more suitable than face-to-face communication?\n3.\nHow can people improve their face-to-face communication skills?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển bài nói về việc giao tiếp trực tiếp có lợi hơn so với các hình thức giao tiếp khác, dựa\ntrên ba nhánh chính và một nhánh ý kiến cá nhân.\n• Ba nhánh chính gồm: khả năng truyền tải cảm xúc và ngôn ngữ cơ thể rõ ràng, giảm hiểu lầm so với giao tiếp qua văn\nbản, và xây dựng mối quan hệ bền chặt và đáng tin cậy hơn.\n• Gợi ý cho nhánh thứ 4 (ý kiến cá nhân): có thể phát triển theo hướng giao tiếp trực tiếp giúp phản hồi tức thì và giải\nquyết vấn đề nhanh chóng hơn so với nhắn tin hay email.\n• Thời gian là 5 phút: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction – Detail – Example – Add/wrap up) để trình bày từng nhánh của sơ đồ tư duy.\n• Ví dụ mở bài: \"Today, I'd like to talk about why face-to-face communication is more beneficial than other types of\ncommunication.\"\n• Ví dụ cho nhánh ý kiến cá nhân: \"In my opinion, face-to-face communication also allows for immediate feedback,\nwhich helps solve problems much faster than exchanging messages online.\"\n• Nên đưa ví dụ thực tế như hiểu lầm khi nhắn tin do thiếu ngữ điệu hoặc biểu cảm khuôn mặt.\n• Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n• Về thì: dùng hiện tại đơn cho sự thật chung, dùng hiện tại hoàn thành khi nói về xu hướng giao tiếp đã thay đổi theo\nthời gian.\n• Paraphrase \"face-to-face communication\" bằng \"in-person interaction\" hoặc \"direct conversation\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• body language (ngôn ngữ cơ thể)\n• convey emotions accurately (truyền tải cảm xúc một cách chính xác)\n• avoid misunderstandings (tránh những hiểu lầm)\n• build trust and rapport (xây dựng sự tin tưởng và gắn kết)\n• instant feedback (phản hồi tức thì)\n• a deeper connection (một sự kết nối sâu sắc hơn)\nTừ nối khi nói (Linking Words):\n• To begin with - trước hết, dùng để mở đầu nhánh đầu tiên.\n• Moving on to - chuyển sang, dùng khi chuyển nhánh ý.\n• Furthermore - hơn nữa, dùng để bổ sung ý.\n• In addition to that - thêm vào đó, dùng để mở rộng ý.\n• To sum up - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n• I firmly believe that... Ví dụ: \"I firmly believe that face-to-face communication remains the most effective way to build\ngenuine relationships.\"\n• It seems to me that... Ví dụ: \"It seems to me that text messages often fail to convey tone, which can easily lead to\nmisunderstandings.\"\n• What strikes me most is... Ví dụ: \"What strikes me most is how much easier it is to resolve conflicts when talking\nface to face.\"\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"Do you think technology has weakened face-to-face communication skills?\" - Có phần đúng, vì nhiều người trẻ hiện\nnay dành quá nhiều thời gian nhắn tin và ít luyện tập giao tiếp trực tiếp, khiến họ cảm thấy ngại ngùng khi nói chuyện\ntrực diện.\n• \"In what situations is online communication more suitable than face-to-face communication?\" - Giao tiếp trực tuyến\nphù hợp hơn khi cần trao đổi nhanh với người ở xa, hoặc khi cần lưu lại thông tin bằng văn bản để tham khảo sau này.\n• \"How can people improve their face-to-face communication skills?\" - Có thể cải thiện bằng cách chủ động tham gia\ncác hoạt động nhóm, luyện tập lắng nghe tích cực, và hạn chế phụ thuộc vào điện thoại khi trò chuyện với người khác.\n5. Các lỗi thường gặp:\n• Liệt kê lợi ích mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n• Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n• Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Neo vào trải nghiệm cá nhân khi bí ý, ví dụ một lần hiểu lầm do nhắn tin và được giải quyết nhanh chóng khi nói chuyện\ntrực tiếp.\n• Câu chờ ý học thuật: \"That is an interesting point. If we look at it from a psychological perspective...\"\n• Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n7. Tư duy làm bài nói:\n• Suy nghĩ thực tế và liên hệ với trải nghiệm giao tiếp hằng ngày của bản thân khi nói về chủ đề này.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n• Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+}

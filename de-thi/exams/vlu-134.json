@@ -1,0 +1,717 @@
+{
+ "id": "vlu-134",
+ "number": 134,
+ "title": "Đề thi VLU 134",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-134",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Plastic Recycling: Why It Matters and How It Works",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Plastic is everywhere in our daily lives. We use it for water bottles, food packaging, toys, phones, and clothes. It is cheap, light, and strong, which is why companies like it so much. However, these same qualities create a big problem. Most plastic is made from oil, and it can stay in nature for hundreds of years before it breaks into tiny pieces. Scientists have found very small pieces of plastic, called microplastics, in rivers, soil, and some foods. Each year, millions of tons of plastic waste end up in landfills, rivers, and the ocean, where it can harm animals and pollute the water.",
+     "Recycling is one way to reduce **this problem**. First, people put used plastic into special bins. Then workers and machines sort it by type, because different plastics cannot be mixed. Many countries use a number inside a small triangle on products to show the type of plastic, and this helps people and machines sort it. Next, the plastic is washed to remove food and dirt, cut into small flakes, and melted into tiny pellets. Factories can use these pellets to make new products, such as bottles, bags, carpets, and even warm jackets. In this way, recycling saves energy and reduces the amount of new plastic that needs to be made from oil.",
+     "Unfortunately, recycling is not as simple as it sounds. Experts estimate that only about nine percent of all plastic ever made has been recycled. One reason is that there are many kinds of plastic, and some are much harder to process than others. Bottles and milk containers are usually easy to recycle, but thin bags, wrappers, and packages made of several materials often are not. Another reason is that dirty plastic can **spoil** a whole batch, so a bottle with leftover food may be thrown away instead of being recycled.",
+     "Money is also a problem. In many places, new plastic made from oil is cheaper than recycled plastic, so some companies prefer to buy the new material. Recycling centers also need expensive machines and trained workers, which small towns may not be able to **afford**. In addition, recycled plastic is sometimes used for lower-quality products, which means it often cannot be recycled again and again. For these reasons, many experts say that recycling alone is not enough. They suggest that people should reduce the plastic they use and reuse items whenever they can.",
+     "Everyone can help in small ways. You can carry a reusable water bottle and a cloth shopping bag instead of buying new plastic every day. Before you recycle, rinse the container and check the rules in your area, because they are different from city to city. Most important, buy only what you need. If more people make these simple choices, we can protect the environment and leave a cleaner planet for the next generation."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "How factories turn oil into strong and cheap plastic",
+       "B": "The rules for recycling plastic in different cities",
+       "C": "Why recycling plastic helps but cannot solve the whole problem",
+       "D": "Why companies prefer new plastic to recycled plastic"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc nhanh nội dung cốt lõi của từng đoạn: đoạn 1 giới thiệu sự phổ biến của nhựa, nguồn gốc từ dầu mỏ, độ bền hàng trăm năm, vi nhựa và lượng rác thải lớn gây hại môi trường; đoạn 2 trình bày quy trình tái chế nhựa và lợi ích tiết kiệm năng lượng/giảm nhựa mới; đoạn 3 chỉ ra tỷ lệ tái chế thấp cùng các trở ngại kỹ thuật như phân loại, bao bì đa vật liệu và nhựa bẩn; đoạn 4 nêu rào cản chi phí, chất lượng nhựa tái chế và lời khuyên giảm dùng - tái sử dụng; đoạn 5 kêu gọi những hành động nhỏ hằng ngày. Phương án đúng cần bao quát trọn vẹn cả giá trị hỗ trợ lẫn giới hạn của việc tái chế đối với bài toán rác nhựa, không thu hẹp vào một khâu sản xuất hay quy định địa phương."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why is plastic a problem for nature?",
+      "options": {
+       "A": "It is thrown into landfills far from the ocean",
+       "B": "It is too expensive for most companies to buy",
+       "C": "It turns into tiny pieces within a few days",
+       "D": "It lasts for a very long time in nature"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa ở đoạn 1 giải thích tác hại của nhựa đối với tự nhiên: nhựa làm từ dầu mỏ, tồn tại rất lâu (hàng trăm năm) trước khi vỡ thành mảnh nhỏ (vi nhựa) và tích tụ ở bãi rác, sông ngòi, đại dương."
+     },
+     {
+      "number": 3,
+      "stem": "The phrase \"this problem\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "Companies using oil",
+       "B": "Plastic waste pollution",
+       "C": "Expensive plastic products",
+       "D": "Dirty plastic bottles"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định cụm danh từ chỉ định \"this problem\" ở câu đầu tiên của đoạn 2 (\"Recycling is one way to reduce this problem.\"). Đọc ngược lại câu cuối của đoạn 1 để tìm vấn đề lớn vừa được chốt lại về rác thải nhựa đổ ra bãi rác, sông ngòi và đại dương gây ô nhiễm/hại động vật."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what is done to plastic after it is sorted?",
+      "options": {
+       "A": "It is turned into new oil for factories",
+       "B": "It is placed in special bins by workers",
+       "C": "It is washed and cut into small flakes",
+       "D": "It is melted into pellets before it is cleaned"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các bước quy trình tái chế ở đoạn 2 sau giai đoạn phân loại theo loại nhựa (\"sort it by type\") để xác định chính xác trình tự công đoạn tiếp theo, tránh nhầm lẫn thứ tự trước - sau."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, which of the following is NOT a reason why plastic recycling is difficult?",
+      "options": {
+       "A": "People refuse to put plastic into recycling bins",
+       "B": "There are many kinds of plastic with different needs",
+       "C": "Some packages are made of several materials",
+       "D": "Thin bags and wrappers are often not accepted"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các nguyên nhân khiến việc tái chế nhựa gặp khó khăn được nêu riêng trong đoạn 3: ước tính tỷ lệ tái chế chỉ khoảng 9%, sự đa dạng chủng loại nhựa và mức độ xử lý khác nhau, bao bì mỏng/nhiều lớp khó tái chế, cùng việc nhựa dính bẩn làm hỏng cả lô. Hãy loại trừ các lý do có mặt trong đoạn 3 để chọn ra yếu tố không được đề cập tại đây."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"spoil\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "damage slightly",
+       "B": "separate",
+       "C": "ruin",
+       "D": "wash clean"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"spoil\" ở đoạn 3 trong ví dụ chai nhựa còn thức ăn thừa có thể làm hỏng cả mẻ nhựa tái chế khiến người ta phải bỏ đi; ngữ cảnh chỉ tác động làm hư hại/làm hỏng toàn bộ mẻ xử lý."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, why do some companies prefer new plastic?",
+      "options": {
+       "A": "Recycling centers can make it more quickly",
+       "B": "It can be recycled again and again",
+       "C": "In many places it costs less than recycled plastic",
+       "D": "It is made in small towns with trained workers"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa liên quan đến doanh nghiệp (\"companies\") và nhựa mới/nhựa tái chế ở đoạn 4 để tìm lý do kinh tế khiến một số nơi ưu tiên nhựa mới."
+     },
+     {
+      "number": 8,
+      "stem": "The word \"afford\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "buy cheaply",
+       "B": "have enough money for",
+       "C": "choose carefully",
+       "D": "get rid of"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"afford\" ở đoạn 4 khi nói về máy móc đắt tiền và nhân công được đào tạo mà các thị trấn nhỏ có thể gặp khó khăn về tài chính để chi trả; ngữ cảnh hướng tới khả năng chi trả/đủ tiền trang trải."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about recycling?",
+      "options": {
+       "A": "Recycling works best alongside using less plastic",
+       "B": "People use less plastic because recycling is cheap",
+       "C": "Bottles are usually easier to recycle than bags",
+       "D": "Most plastic ever made has already been recycled"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ đoạn 3 và đoạn 4 về tỷ lệ tái chế thấp, chi phí đầu tư, chất lượng tái chế bị giới hạn và khuyến nghị của các chuyên gia về việc giảm sử dụng lẫn tái sử dụng đồ dùng. Từ đó rút ra kết luận hợp lý về cách tái chế phát huy hiệu quả tối ưu khi kết hợp với giảm tiêu thụ nhựa."
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's purpose in writing the passage?",
+      "options": {
+       "A": "To explain plastic waste and encourage small actions",
+       "B": "To tell a story about a recycling factory worker",
+       "C": "To advertise reusable bottles and cloth shopping bags",
+       "D": "To prove that recycling is a waste of money Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Quan sát cấu trúc toàn bài từ đầu đến cuối: mở đầu giải thích nguồn gốc và tác hại của rác thải nhựa, phân tích quy trình cùng hạn chế của tái chế, và kết thúc bằng những gợi ý hành động nhỏ gọn cho mỗi cá nhân vì môi trường. Hãy chọn phương án phản ánh đúng cả hai vế giải thích vấn đề và khuyến khích hành động này."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc nhanh nội dung cốt lõi của từng đoạn: đoạn 1 giới thiệu sự phổ biến của nhựa, nguồn gốc từ dầu mỏ, độ bền hàng trăm năm, vi nhựa và lượng rác thải lớn gây hại môi trường; đoạn 2 trình bày quy trình tái chế nhựa và lợi ích tiết kiệm năng lượng/giảm nhựa mới; đoạn 3 chỉ ra tỷ lệ tái chế thấp cùng các trở ngại kỹ thuật như phân loại, bao bì đa vật liệu và nhựa bẩn; đoạn 4 nêu rào cản chi phí, chất lượng nhựa tái chế và lời khuyên giảm dùng - tái sử dụng; đoạn 5 kêu gọi những hành động nhỏ hằng ngày. Phương án đúng cần bao quát trọn vẹn cả giá trị hỗ trợ lẫn giới hạn của việc tái chế đối với bài toán rác nhựa, không thu hẹp vào một khâu sản xuất hay quy định địa phương.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực tiếp trong từng đoạn được chỉ định.\n  - Với **R1Q2**, quét từ khóa ở đoạn 1 giải thích tác hại của nhựa đối với tự nhiên: nhựa làm từ dầu mỏ, tồn tại rất lâu (hàng trăm năm) trước khi vỡ thành mảnh nhỏ (vi nhựa) và tích tụ ở bãi rác, sông ngòi, đại dương.\n  - Với **R1Q4**, quét các bước quy trình tái chế ở đoạn 2 sau giai đoạn phân loại theo loại nhựa (\"sort it by type\") để xác định chính xác trình tự công đoạn tiếp theo, tránh nhầm lẫn thứ tự trước - sau.\n  - Với **R1Q7**, quét từ khóa liên quan đến doanh nghiệp (\"companies\") và nhựa mới/nhựa tái chế ở đoạn 4 để tìm lý do kinh tế khiến một số nơi ưu tiên nhựa mới.\n- **Dạng câu hỏi Loại trừ NOT (R1Q5):** Đối soát các nguyên nhân khiến việc tái chế nhựa gặp khó khăn được nêu riêng trong đoạn 3: ước tính tỷ lệ tái chế chỉ khoảng 9%, sự đa dạng chủng loại nhựa và mức độ xử lý khác nhau, bao bì mỏng/nhiều lớp khó tái chế, cùng việc nhựa dính bẩn làm hỏng cả lô. Hãy loại trừ các lý do có mặt trong đoạn 3 để chọn ra yếu tố không được đề cập tại đây.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q6, R1Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp đọc kỹ câu chứa từ.\n  - Với **R1Q6**, xét từ **\"spoil\"** ở đoạn 3 trong ví dụ chai nhựa còn thức ăn thừa có thể làm hỏng cả mẻ nhựa tái chế khiến người ta phải bỏ đi; ngữ cảnh chỉ tác động làm hư hại/làm hỏng toàn bộ mẻ xử lý.\n  - Với **R1Q8**, xét từ **\"afford\"** ở đoạn 4 khi nói về máy móc đắt tiền và nhân công được đào tạo mà các thị trấn nhỏ có thể gặp khó khăn về tài chính để chi trả; ngữ cảnh hướng tới khả năng chi trả/đủ tiền trang trải.\n- **Dạng câu hỏi Quy chiếu (R1Q3):** Xác định cụm danh từ chỉ định **\"this problem\"** ở câu đầu tiên của đoạn 2 (\"Recycling is one way to reduce this problem.\"). Đọc ngược lại câu cuối của đoạn 1 để tìm vấn đề lớn vừa được chốt lại về rác thải nhựa đổ ra bãi rác, sông ngòi và đại dương gây ô nhiễm/hại động vật.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ đoạn 3 và đoạn 4 về tỷ lệ tái chế thấp, chi phí đầu tư, chất lượng tái chế bị giới hạn và khuyến nghị của các chuyên gia về việc giảm sử dụng lẫn tái sử dụng đồ dùng. Từ đó rút ra kết luận hợp lý về cách tái chế phát huy hiệu quả tối ưu khi kết hợp với giảm tiêu thụ nhựa.\n- **Dạng câu hỏi Mục đích tác giả (R1Q10):** Quan sát cấu trúc toàn bài từ đầu đến cuối: mở đầu giải thích nguồn gốc và tác hại của rác thải nhựa, phân tích quy trình cùng hạn chế của tái chế, và kết thúc bằng những gợi ý hành động nhỏ gọn cho mỗi cá nhân vì môi trường. Hãy chọn phương án phản ánh đúng cả hai vế giải thích vấn đề và khuyến khích hành động này.\nLời khuyên: Hãy giải quyết trước nhóm câu hỏi có tọa độ rõ ràng và tập trung vào từ/cụm từ như Quy chiếu (R1Q3) và Từ vựng theo ngữ cảnh (R1Q6, R1Q8). Tiếp theo, dùng kỹ thuật đọc quét để xử lý nhanh nhóm Chi tiết (R1Q2, R1Q4, R1Q7) và **Loại trừ NOT** (R1Q5). Cuối cùng, khi đã xâu chuỗi đầy đủ mạch ý của toàn bài, bạn sẽ dễ dàng chọn đáp án chính xác cho các câu hỏi tổng hợp gồm **Suy luận** (R1Q9), **Mục đích tác giả** (R1Q10) và **Ý chính** (R1Q1)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Can Games Be Good for Children? What the Research Suggests",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "For decades, games have been blamed for distracting children from homework, friends, and fresh air, and headlines still tend to emphasize the risks. Games, after all, are among the most popular pastimes for children in many countries, so understanding their effects matters to parents and teachers alike. Yet a growing body of research suggests that the picture is more balanced than the stereotype implies. When games are chosen carefully and played in moderation, they may contribute to children's development in ways that go well beyond entertainment.",
+     "The most consistent findings concern attention and perception. Some studies of fast-paced action games report that regular players are quicker at spotting details, switching between tasks, and mentally rotating objects, skills linked to science and engineering. Not only do these abilities appear to improve with practice, but they may also transfer, at least modestly, to tasks outside the game, although researchers still disagree about how large and lasting the effect is.",
+     "Puzzle and strategy games, by contrast, reward planning. Strategy titles in particular ask players to manage limited resources, which resembles the budgeting and prioritizing demanded by real projects. A child who wants to build a working city or escape a locked room must set goals, test ideas, and revise them after failure. Because losing a level usually costs nothing more than a few minutes, games can make failure feel like information rather than humiliation, and children who learn to tolerate repeated mistakes in this setting may approach difficult schoolwork with greater **persistence**.",
+     "Social benefits are equally notable. Cooperative and multiplayer games require children to share roles, negotiate plans, and communicate under time pressure, and surveys of teenagers in the United States suggest that a substantial share have made friends through gaming. Rarely does a hobby practiced at home offer such a ready-made reason to talk with peers, and for shy or geographically isolated children the shared activity can lower the barrier to friendship.",
+     "Games also support learning more directly. Some players even pick up English vocabulary from instructions and online chat. Well-designed educational titles give immediate feedback and adjust difficulty to the player, which helps children practice mathematics or vocabulary at their own pace, while open-ended sandbox games such as Minecraft invite them to design structures, invent rules, and tell stories. Teachers in some countries have begun to use **such games** in lessons, with encouraging, though not uniform, results.",
+     "Not all play is **sedentary**, either. Motion-based and location-based games, such as dance simulations or augmented-reality adventures, have been associated with more walking and movement in several small studies. Because the activity is enjoyable, children may keep moving for longer than they would during routine exercise. Many also use games to unwind after school. Whether this relaxation genuinely reduces stress remains uncertain, yet it seems that for many families games provide a shared pastime that parents and children can enjoy together.",
+     "None of this means that more play is always better. Health organizations recognize that a small minority of players develop problematic habits, and excessive late-night play can damage sleep and school performance. Only when parents choose age-appropriate titles, set sensible limits, and show interest in what their children play do the benefits described above seem likely to outweigh the costs."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, what does a growing body of research suggest about games?",
+      "options": {
+       "A": "They distract children from homework, friends, and fresh air",
+       "B": "Headlines usually report the benefits of gaming accurately",
+       "C": "Their influence on children is less one-sided than people often assume",
+       "D": "Moderation matters more than the choice of game"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Suy luận",
+      "explanation": "quét từ khóa liên quan đến \"research\" ở đoạn 1 để xác định nhận định khái quát của giới nghiên cứu về mức độ tác động của trò chơi đối với trẻ em."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what do some studies report about regular players of action games?",
+      "options": {
+       "A": "They may spot details and switch tasks faster",
+       "B": "They find tasks outside the game less interesting",
+       "C": "They gain lasting benefits that researchers now confirm",
+       "D": "They score higher in science and engineering exams"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ về \"action games\" và \"studies\" ở đoạn 2 để tìm các ghi nhận liên quan đến khả năng quan sát chi tiết hoặc chuyển đổi tác vụ."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"persistence\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "attention",
+       "B": "determination",
+       "C": "stubbornness",
+       "D": "obedience"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"persistence\" ở đoạn 3 trong ngữ cảnh người chơi thử đi thử lại nhiều lần để vượt qua màn khó hoặc thử thách; ngữ cảnh hướng tới sự kiên trì, bền chí theo đuổi mục tiêu."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, which of the following is NOT mentioned as a social benefit of games?",
+      "options": {
+       "A": "Practicing negotiation while making plans together",
+       "B": "Earning money by teaching other players",
+       "C": "Finding it easier to begin friendships",
+       "D": "Learning to share roles with other players"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các lợi ích xã hội khi chơi cùng người khác được nhắc đến trong đoạn 4 (như trao đổi, thương lượng, phối hợp/chia sẻ vai trò hoặc kết nối bạn bè mới). Hãy rà soát để loại ra những ý không nằm trong các lợi ích xã hội được nêu tại đoạn này."
+     },
+     {
+      "number": 15,
+      "stem": "The phrase \"such games\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Fast-paced action games",
+       "B": "Educational and sandbox games",
+       "C": "Puzzle and strategy games",
+       "D": "Cooperative multiplayer games"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định cụm danh từ \"such games\" ở đoạn 5. Đọc ngược lại câu ngay trước đó để tìm chính xác nhóm thể loại trò chơi vừa được liệt kê làm đối tượng tham chiếu, tránh nhầm sang các nhóm trò chơi ở đoạn khác."
+     },
+     {
+      "number": 16,
+      "stem": "According to the passage, what have motion-based and location-based games been associated with?",
+      "options": {
+       "A": "Increased walking and movement in some small studies",
+       "B": "Dance lessons replacing routine exercise at school",
+       "C": "Shared pastimes that parents and children enjoy",
+       "D": "Clear reductions in stress for many children"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa về trò chơi vận động/theo vị trí (\"motion-based\" hoặc \"location-based\") ở đoạn 6 để tìm mối liên hệ với hoạt động thể chất trong các nghiên cứu quy mô nhỏ."
+     },
+     {
+      "number": 17,
+      "stem": "The word \"sedentary\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "inactive",
+       "B": "expensive",
+       "C": "competitive",
+       "D": "slow-paced"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"sedentary\" ở đoạn 6 trong tương quan với việc ngồi nhiều, ít vận động thể chất; ngữ cảnh chỉ tính chất ít hoạt động hoặc tĩnh tại."
+     },
+     {
+      "number": 18,
+      "stem": "Which conclusion is best supported by paragraphs 3 and 7 taken together?",
+      "options": {
+       "A": "Strategy games teach budgeting better than classroom lessons do",
+       "B": "Games may build resilience when play is kept in proportion",
+       "C": "Children become persistent because parents set limits on play",
+       "D": "A small minority of players develop problematic habits"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp ý ở đoạn 3 về việc rèn sự bền bỉ khi đối mặt thử thách với ý ở đoạn 7 về việc duy trì thời lượng/cách chơi điều độ, hợp lý. Từ đó rút ra kết luận tổng hợp về mối liên hệ giữa việc chơi chừng mực và khả năng thích ứng/vững vàng trước khó khăn."
+     },
+     {
+      "number": 19,
+      "stem": "Which of the following best describes the author's attitude toward children's games?",
+      "options": {
+       "A": "Cautiously positive, noting benefits as well as risks",
+       "B": "Strongly negative, warning parents to ban games",
+       "C": "Indifferent, offering no view on whether games are useful",
+       "D": "Uncritical, presenting games as helpful in every situation"
+      },
+      "answer": "A",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Quan sát giọng điệu xuyên suốt bài viết: tác giả vừa chỉ ra những khía cạnh tích cực tiềm năng ở từng dạng trò chơi vừa lưu ý tính chất còn đang nghiên cứu, giới hạn bằng chứng và rủi ro khi chơi quá mức. Hãy chọn phương án thể hiện đúng sắc thái đánh giá thận trọng nhưng cởi mở, tích cực có điều kiện. Lời khuyên: Hãy xử lý trước các câu hỏi có tọa độ rõ ràng như Quy chiếu (R2Q5) và Từ vựng theo ngữ cảnh (R2Q3, R2Q7). Tiếp theo, dùng kỹ thuật đọc quét để giải quyết nhanh nhóm Chi tiết (R2Q1, R2Q2, R2Q6) và Loại trừ NOT (R2Q4). Cuối cùng, khi đã nắm trọn vẹn mạch ý của toàn bài, bạn sẽ dễ dàng chốt đáp án chính xác cho ba câu hỏi tổng hợp gồm Suy luận (R2Q8), Thái độ tác giả (R2Q9) và Ý chính (R2Q10)."
+     },
+     {
+      "number": 20,
+      "stem": "Which of the following best expresses the main idea of the passage?",
+      "options": {
+       "A": "Action games are the best way to teach school subjects",
+       "B": "Health organizations want governments to restrict children's gaming",
+       "C": "Games can benefit children's development when they are used sensibly",
+       "D": "Children who play games make friends more easily than adults Reading"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề và nắm mạch lập luận xuyên suốt toàn bài: đoạn 1 mở đầu bằng góc nhìn nghiên cứu ngày càng đa chiều về tác động của trò chơi lên trẻ em; đoạn 2 và 3 bàn về kỹ năng nhận thức/thị giác cũng như sự kiên trì khi vượt thử thách; đoạn 4 và 5 nói về tương tác xã hội và các dạng trò chơi mang tính giáo dục/sáng tạo; đoạn 6 đề cập các trò chơi gắn với vận động/địa điểm trong bối cảnh lối sống tĩnh tại; đoạn 7 nhấn mạnh sự cân bằng, giới hạn lành mạnh và rủi ro ở một nhóm nhỏ. Phương án đúng phải bao quát được cả tiềm năng hỗ trợ phát triển của trò chơi lẫn điều kiện sử dụng hợp lý, chừng mực, tránh các đáp án quy chụp một thể loại duy nhất hay cực đoan hóa."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề và nắm mạch lập luận xuyên suốt toàn bài: đoạn 1 mở đầu bằng góc nhìn nghiên cứu ngày càng đa chiều về tác động của trò chơi lên trẻ em; đoạn 2 và 3 bàn về kỹ năng nhận thức/thị giác cũng như sự kiên trì khi vượt thử thách; đoạn 4 và 5 nói về tương tác xã hội và các dạng trò chơi mang tính giáo dục/sáng tạo; đoạn 6 đề cập các trò chơi gắn với vận động/địa điểm trong bối cảnh lối sống tĩnh tại; đoạn 7 nhấn mạnh sự cân bằng, giới hạn lành mạnh và rủi ro ở một nhóm nhỏ. Phương án đúng phải bao quát được cả tiềm năng hỗ trợ phát triển của trò chơi lẫn điều kiện sử dụng hợp lý, chừng mực, tránh các đáp án quy chụp một thể loại duy nhất hay cực đoan hóa.\n- **Dạng câu hỏi Chi tiết (R2Q1, R2Q2, R2Q6):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm thông tin được nêu trực tiếp trong từng đoạn được chỉ định.\n  - Với **R2Q1**, quét từ khóa liên quan đến \"research\" ở đoạn 1 để xác định nhận định khái quát của giới nghiên cứu về mức độ tác động của trò chơi đối với trẻ em.\n  - Với **R2Q2**, quét cụm từ về \"action games\" và \"studies\" ở đoạn 2 để tìm các ghi nhận liên quan đến khả năng quan sát chi tiết hoặc chuyển đổi tác vụ.\n  - Với **R2Q6**, quét từ khóa về trò chơi vận động/theo vị trí (\"motion-based\" hoặc \"location-based\") ở đoạn 6 để tìm mối liên hệ với hoạt động thể chất trong các nghiên cứu quy mô nhỏ.\n- **Dạng câu hỏi Loại trừ NOT (R2Q4):** Đối soát các lợi ích xã hội khi chơi cùng người khác được nhắc đến trong đoạn 4 (như trao đổi, thương lượng, phối hợp/chia sẻ vai trò hoặc kết nối bạn bè mới). Hãy rà soát để loại ra những ý không nằm trong các lợi ích xã hội được nêu tại đoạn này.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp đọc kỹ câu chứa từ.\n  - Với **R2Q3**, xét từ **\"persistence\"** ở đoạn 3 trong ngữ cảnh người chơi thử đi thử lại nhiều lần để vượt qua màn khó hoặc thử thách; ngữ cảnh hướng tới sự kiên trì, bền chí theo đuổi mục tiêu.\n  - Với **R2Q7**, xét từ **\"sedentary\"** ở đoạn 6 trong tương quan với việc ngồi nhiều, ít vận động thể chất; ngữ cảnh chỉ tính chất ít hoạt động hoặc tĩnh tại.\n- **Dạng câu hỏi Quy chiếu (R2Q5):** Xác định cụm danh từ **\"such games\"** ở đoạn 5. Đọc ngược lại câu ngay trước đó để tìm chính xác nhóm thể loại trò chơi vừa được liệt kê làm đối tượng tham chiếu, tránh nhầm sang các nhóm trò chơi ở đoạn khác.\n- **Dạng câu hỏi Suy luận (R2Q8):** Kết hợp ý ở đoạn 3 về việc rèn sự bền bỉ khi đối mặt thử thách với ý ở đoạn 7 về việc duy trì thời lượng/cách chơi điều độ, hợp lý. Từ đó rút ra kết luận tổng hợp về mối liên hệ giữa việc chơi chừng mực và khả năng thích ứng/vững vàng trước khó khăn.\n- **Dạng câu hỏi Thái độ tác giả (R2Q9):** Quan sát giọng điệu xuyên suốt bài viết: tác giả vừa chỉ ra những khía cạnh tích cực tiềm năng ở từng dạng trò chơi vừa lưu ý tính chất còn đang nghiên cứu, giới hạn bằng chứng và rủi ro khi chơi quá mức. Hãy chọn phương án thể hiện đúng sắc thái đánh giá thận trọng nhưng cởi mở, tích cực có điều kiện. Lời khuyên: Hãy xử lý trước các câu hỏi có tọa độ rõ ràng như Quy chiếu (R2Q5) và Từ vựng theo ngữ cảnh (R2Q3, R2Q7). Tiếp theo, dùng kỹ thuật đọc quét để giải quyết nhanh nhóm **Chi tiết** (R2Q1, R2Q2, R2Q6) và **Loại trừ NOT** (R2Q4). Cuối cùng, khi đã nắm trọn vẹn mạch ý của toàn bài, bạn sẽ dễ dàng chốt đáp án chính xác cho ba câu hỏi tổng hợp gồm **Suy luận** (R2Q8), **Thái độ tác giả** (R2Q9) và **Ý chính** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Ecotourism: Conservation Tool or Marketing Label?",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few travel trends have attracted as much enthusiasm, and as much suspicion, as ecotourism. The term is commonly defined as responsible travel to natural areas that conserves the environment, sustains the well-being of local people, and involves interpretation and education. In practice, that definition covers everything from a family-run guesthouse beside a rainforest reserve to a luxury cruise that promises visitors a close encounter with polar wildlife.",
+     "The strongest argument in its favor is economic. Where wildlife can generate income through visitors, governments and communities have a financial reason to protect it. Rwanda's mountain gorillas are often cited as an example: permits for gorilla trekking are expensive, a share of the revenue is directed to communities near the park, and the gorilla population in the region has grown in recent decades, although tourism is only one of several factors behind that recovery.",
+     "Benefits for local people can be equally significant when they are genuine. In parts of Kenya, landowners have formed conservancies that lease land to tour operators and employ residents as guides and rangers, giving pastoralist families an income that offers an alternative to converting grazing land into farms. Visitors, for their part, often leave with a stronger attachment to the places they have seen, which may translate into donations or political support for conservation at home.",
+     "Yet the label is not tightly regulated in many places, so it can be attached to almost any product. Operators who merely add a recycling bin or a few native plants to a conventional resort may advertise themselves as sustainable, a practice critics call greenwashing. Rarely does a traveler have the time or the information to verify **these assertions**, which allows genuinely responsible businesses to be **undercut** by competitors that spend more on marketing than on conservation.",
+     "Even well-intentioned tourism leaves a footprint. Visitors need transport, accommodation, and food, and flights alone can account for a large proportion of a trip's carbon emissions, which sits uneasily with the goal of protecting nature. At popular sites, trails erode, wildlife can be disturbed by close approaches, and the arrival of visitors may change animals' feeding or breeding behavior. Not only must managers decide how many people a site can tolerate, but they must also enforce that limit against the commercial pressure to admit more.",
+     "There is also the question of who actually benefits. Studies of tourism in many developing regions have found that a considerable share of visitor spending leaks out of the host economy, because foreign-owned lodges import food and equipment and send profits abroad. Communities may be left with low-paid service jobs while decisions about land use are made elsewhere, and in some protected areas residents have been restricted from using resources they depended on for generations.",
+     "Ecotourism, then, is neither a cure nor a fraud. Only when ownership, benefit-sharing, and visitor numbers are managed transparently, and when independent certification replaces self-description, does it begin to deliver what the label promises. For travelers, the practical lesson is modest: ask who owns the lodge, where the money goes, and whether the experience would still exist if tourists stopped coming."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, which of the following is part of the common definition of ecotourism?",
+      "options": {
+       "A": "Offering luxury cruises that promise close wildlife encounters",
+       "B": "Staying in family-run guesthouses beside rainforest reserves",
+       "C": "Benefiting the people who live in the destination",
+       "D": "Avoiding contact between visitors and local communities"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa liên quan đến định nghĩa du lịch sinh thái ở đoạn 1 để xác định các tiêu chí cấu thành chuẩn mực của khái niệm này (bảo vệ tự nhiên, giáo dục/nhận thức và mang lại lợi ích cho cư dân/cộng đồng sở tại)."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what is said about the recovery of mountain gorillas in Rwanda's region?",
+      "options": {
+       "A": "Visitor income is just one cause among several",
+       "B": "Tourism alone explains the growth in numbers",
+       "C": "Most revenue is directed to communities near the park",
+       "D": "Permits are cheap, so many visitors trek each year"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét tên địa danh \"Rwanda\" hoặc \"mountain gorillas\" ở đoạn 2 để tìm nhận định về mức độ đóng góp của nguồn thu từ du lịch trong bức tranh phục hồi quần thể khỉ đột núi."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"genuine\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "expensive",
+       "B": "impressive",
+       "C": "occasional",
+       "D": "authentic"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"genuine\" ở đoạn 3 khi đối lập với những lời quảng cáo/mô tả bề ngoài mang tính hình thức; ngữ cảnh chỉ tính chân thật, thực chất, đáng tin cậy."
+     },
+     {
+      "number": 24,
+      "stem": "The phrase \"these assertions\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Advertised sustainability credentials",
+       "B": "Recycling bins and plants",
+       "C": "Critics' greenwashing complaints",
+       "D": "Conventional resort prices"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định cụm danh từ chỉ định \"these assertions\" ở đoạn 4. Đọc ngược lại các câu trước đó trong đoạn để tìm chính xác những tuyên bố/cam kết về tính bền vững hay yếu tố xanh mà các cơ sở/điểm đến tự quảng bá, tránh nhầm sang lời chỉ trích hay cơ sở vật chất thông thường."
+     },
+     {
+      "number": 25,
+      "stem": "The word \"undercut\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "cut down",
+       "B": "put at a disadvantage",
+       "C": "destroyed",
+       "D": "restricted"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét động từ \"undercut\" ở đoạn 4 trong ngữ cảnh mức giá hoặc lợi thế cạnh tranh khiến đối thủ/mô hình khác gặp khó khăn hơn; chọn nghĩa phản ánh sự làm suy yếu vị thế cạnh tranh hoặc đặt vào thế bất lợi."
+     },
+     {
+      "number": 26,
+      "stem": "According to the passage, which of the following is NOT mentioned as a problem caused by tourism at natural sites?",
+      "options": {
+       "A": "Changes in animals' feeding or breeding behavior",
+       "B": "Trails wearing away at popular sites",
+       "C": "Pollution of rivers by sewage from lodges",
+       "D": "Carbon emissions from the flights visitors take"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các vấn đề/tác động bất lợi do du lịch gây ra tại các khu vực tự nhiên được liệt kê trong đoạn 5 (như xói mòn/hao mòn đường đi/điểm tham quan, ảnh hưởng đến tập tính ăn uống hoặc sinh sản của động vật, hay phát thải carbon từ chuyến bay). Hãy loại bỏ các yếu tố xuất hiện trong đoạn này để chọn ra nội dung không được nhắc đến tại đây."
+     },
+     {
+      "number": 27,
+      "stem": "According to the passage, why does much visitor spending fail to benefit host communities?",
+      "options": {
+       "A": "Protected areas prevent tourists from buying local food",
+       "B": "Studies show that visitors spend very little overall",
+       "C": "Many lodges are owned abroad and buy their supplies elsewhere",
+       "D": "Residents refuse to take low-paid service jobs"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa về chi tiêu của du khách và cộng đồng sở tại ở đoạn 6 để tìm nguyên nhân khiến phần lớn tiền chi tiêu không đọng lại cho người dân địa phương."
+     },
+     {
+      "number": 28,
+      "stem": "Which of the following can be inferred from paragraphs 2, 3, and 6 taken together?",
+      "options": {
+       "A": "Gorilla permits prove that high prices protect residents' rights",
+       "B": "Visitors often leave with a stronger attachment to places",
+       "C": "Conservancies exist because foreign lodges send profits abroad",
+       "D": "Ecotourism's benefits depend heavily on how revenue is shared locally"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ các đoạn 2, 3 và 6 về tác động bảo tồn khi có cơ chế quản lý/chia sẻ nguồn lực hợp lý đối lập với việc dòng tiền bị rút ra ngoài qua sở hữu nước ngoài hoặc chuỗi cung ứng bên ngoài. Từ đó rút ra kết luận tổng hợp về vai trò then chốt của cách phân bổ/chia sẻ lợi ích tại địa phương đối với thành công của du lịch sinh thái."
+     },
+     {
+      "number": 29,
+      "stem": "Which of the following best describes the author's attitude toward ecotourism?",
+      "options": {
+       "A": "Balanced, recognizing real benefits alongside serious flaws",
+       "B": "Enthusiastic, presenting ecotourism as a complete solution",
+       "C": "Indifferent, avoiding any judgment about the industry",
+       "D": "Hostile, urging travelers to avoid all natural areas"
+      },
+      "answer": "A",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Quan sát cách tiếp cận xuyên suốt bài viết: tác giả ghi nhận các thành quả bảo tồn và mô hình tích cực ở một số nơi, đồng thời phân tích thẳng thắn tình trạng greenwashing, áp lực môi trường/khí thải và sự thất thoát lợi ích địa phương. Hãy chọn phương án phản ánh đúng sự cân bằng, khách quan giữa mặt tích cực và hạn chế tồn tại."
+     },
+     {
+      "number": 30,
+      "stem": "Which statement best expresses the main idea of the passage?",
+      "options": {
+       "A": "Flights are the main reason ecotourism harms the environment",
+       "B": "Gorilla tourism in Rwanda should be copied in every country",
+       "C": "Ecotourism is mostly a marketing trick with no real value",
+       "D": "Ecotourism can help nature and communities if properly managed Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề và theo dõi mạch lập luận xuyên suốt toàn bài: đoạn 1 giới thiệu định nghĩa phổ biến của du lịch sinh thái (ecotourism); đoạn 2 và 3 nêu các ví dụ tích cực như bảo tồn khỉ đột núi ở Rwanda và các mô hình/khu bảo tồn có hiệu quả thực chất; đoạn 4 chỉ ra hiện tượng gắn mác xanh (greenwashing) và sự chênh lệch chi phí/tiêu chuẩn; đoạn 5 phân tích tác động môi trường và khí thải từ việc di chuyển; đoạn 6 đề cập vấn đề rò rỉ lợi ích kinh tế khỏi cộng đồng địa phương. Phương án đúng cần bao quát trọn vẹn cả tiềm năng hỗ trợ thiên nhiên lẫn cộng đồng cùng điều kiện quản lý/thực thi hiệu quả, tránh các đáp án quy chụp một nguyên nhân đơn lẻ hay phủ nhận hoàn toàn giá trị."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề và theo dõi mạch lập luận xuyên suốt toàn bài: đoạn 1 giới thiệu định nghĩa phổ biến của du lịch sinh thái (ecotourism); đoạn 2 và 3 nêu các ví dụ tích cực như bảo tồn khỉ đột núi ở Rwanda và các mô hình/khu bảo tồn có hiệu quả thực chất; đoạn 4 chỉ ra hiện tượng gắn mác xanh (greenwashing) và sự chênh lệch chi phí/tiêu chuẩn; đoạn 5 phân tích tác động môi trường và khí thải từ việc di chuyển; đoạn 6 đề cập vấn đề rò rỉ lợi ích kinh tế khỏi cộng đồng địa phương. Phương án đúng cần bao quát trọn vẹn cả tiềm năng hỗ trợ thiên nhiên lẫn cộng đồng cùng điều kiện quản lý/thực thi hiệu quả, tránh các đáp án quy chụp một nguyên nhân đơn lẻ hay phủ nhận hoàn toàn giá trị.\n- **Dạng câu hỏi Chi tiết (R3Q1, R3Q2, R3Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực tiếp trong từng đoạn được chỉ định.\n  - Với **R3Q1**, quét từ khóa liên quan đến định nghĩa du lịch sinh thái ở đoạn 1 để xác định các tiêu chí cấu thành chuẩn mực của khái niệm này (bảo vệ tự nhiên, giáo dục/nhận thức và mang lại lợi ích cho cư dân/cộng đồng sở tại).\n  - Với **R3Q2**, quét tên địa danh \"Rwanda\" hoặc \"mountain gorillas\" ở đoạn 2 để tìm nhận định về mức độ đóng góp của nguồn thu từ du lịch trong bức tranh phục hồi quần thể khỉ đột núi.\n  - Với **R3Q7**, quét từ khóa về chi tiêu của du khách và cộng đồng sở tại ở đoạn 6 để tìm nguyên nhân khiến phần lớn tiền chi tiêu không đọng lại cho người dân địa phương.\n- **Dạng câu hỏi Loại trừ NOT (R3Q6):** Đối soát các vấn đề/tác động bất lợi do du lịch gây ra tại các khu vực tự nhiên được liệt kê trong đoạn 5 (như xói mòn/hao mòn đường đi/điểm tham quan, ảnh hưởng đến tập tính ăn uống hoặc sinh sản của động vật, hay phát thải carbon từ chuyến bay). Hãy loại bỏ các yếu tố xuất hiện trong đoạn này để chọn ra nội dung không được nhắc đến tại đây.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp phân tích câu chứa từ.\n  - Với **R3Q3**, xét từ **\"genuine\"** ở đoạn 3 khi đối lập với những lời quảng cáo/mô tả bề ngoài mang tính hình thức; ngữ cảnh chỉ tính chân thật, thực chất, đáng tin cậy.\n  - Với **R3Q5**, xét động từ **\"undercut\"** ở đoạn 4 trong ngữ cảnh mức giá hoặc lợi thế cạnh tranh khiến đối thủ/mô hình khác gặp khó khăn hơn; chọn nghĩa phản ánh sự làm suy yếu vị thế cạnh tranh hoặc đặt vào thế bất lợi.\n- **Dạng câu hỏi Quy chiếu (R3Q4):** Xác định cụm danh từ chỉ định **\"these assertions\"** ở đoạn 4. Đọc ngược lại các câu trước đó trong đoạn để tìm chính xác những tuyên bố/cam kết về tính bền vững hay yếu tố xanh mà các cơ sở/điểm đến tự quảng bá, tránh nhầm sang lời chỉ trích hay cơ sở vật chất thông thường.\n- **Dạng câu hỏi Suy luận (R3Q8):** Kết hợp thông tin từ các đoạn 2, 3 và 6 về tác động bảo tồn khi có cơ chế quản lý/chia sẻ nguồn lực hợp lý đối lập với việc dòng tiền bị rút ra ngoài qua sở hữu nước ngoài hoặc chuỗi cung ứng bên ngoài. Từ đó rút ra kết luận tổng hợp về vai trò then chốt của cách phân bổ/chia sẻ lợi ích tại địa phương đối với thành công của du lịch sinh thái.\n- **Dạng câu hỏi Thái độ tác giả (R3Q9):** Quan sát cách tiếp cận xuyên suốt bài viết: tác giả ghi nhận các thành quả bảo tồn và mô hình tích cực ở một số nơi, đồng thời phân tích thẳng thắn tình trạng greenwashing, áp lực môi trường/khí thải và sự thất thoát lợi ích địa phương. Hãy chọn phương án phản ánh đúng sự cân bằng, khách quan giữa mặt tích cực và hạn chế tồn tại.\nLời khuyên: Hãy xử lý trước nhóm câu hỏi có tọa độ rõ ràng và tập trung vào từ/cụm từ như Quy chiếu (R3Q4) và Từ vựng theo ngữ cảnh (R3Q3, R3Q5). Tiếp theo, dùng kỹ thuật đọc quét để giải quyết nhanh nhóm Chi tiết (R3Q1, R3Q2, R3Q7) và **Loại trừ NOT** (R3Q6). Cuối cùng, khi đã liên kết trọn vẹn mạch thông tin và các mối quan hệ nguyên nhân - hệ quả trong bài, bạn sẽ dễ dàng chốt đáp án chính xác cho ba câu hỏi tổng hợp gồm **Suy luận** (R3Q8), **Thái độ tác giả** (R3Q9) và **Ý chính** (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Behind the Mask: Singaporean Women, Skin, and the Pandemic",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "When Singapore made face masks compulsory outside the home in April 2020, few residents expected that the rule would last for nearly three years. Outdoor masking ended in March 2022, and the requirement on public transport finally lapsed in February 2023, by which time covering the lower half of the face had become so **habitual** that many people continued to do so voluntarily. For many women, the long interval reshaped not only how they protected their health but also how they treated their skin.",
+     "The most immediate consequence was an increase in complaints that dermatologists came to call maskne, the acne and irritation associated with prolonged mask use. Heat, friction, and trapped moisture combine to clog pores and inflame sensitive skin, and in Singapore's hot, humid climate those conditions are close to constant. Doctors at specialist clinics reported seeing more patients with mask-related acne and eczema, including adults as well as teenagers. Skin specialists stressed that the condition was usually manageable and rarely dangerous, but its visibility, on the cheeks, chin, and jawline, may have made it a source of embarrassment for some patients.",
+     "The burden was heaviest for those who wore masks for entire shifts. Nurses and other healthcare workers, a workforce in which women are a majority, wore tight-fitting respirators for hours, and many reported pressure marks, rashes, or small sores across the nose and cheeks. Rarely did the discomfort end when the shift did, and dermatologists warned that harsh cleansers, applied in an effort to keep the skin clean, could make matters worse. Guidance for healthcare workers commonly suggests protective dressings under the straps and scheduled breaks, although the demands of infection control limit how far such adjustments can go.",
+     "Beauty habits changed in tandem. **[A]** Many women abandoned or reduced foundation, which smears against fabric and can clog pores beneath it. **[B]** Lip products, which smudge onto the mask and go unseen, reportedly suffered a similar decline. **[C]** Attention turned instead to the eyes, which remained visible above the mask, and to a simpler routine of cleansing, moisturizing, and sun protection recommended by clinics and magazines alike. **[D]**",
+     "Brands noticed. Skincare was reportedly among the few retail categories that held up during the early months of the pandemic, and Singaporean labels began promoting soothing creams and gentle cleansers to consumers through social media. Whether **these products** delivered all that they promised is open to question, since dermatologists emphasized that simple measures, such as changing masks regularly and taking short breaks in safe settings, often mattered more than any cream. None of this was unique to Singapore, but the city's year-round heat and humidity, together with the length of its mask rules, probably made the effects especially noticeable.",
+     "The psychological dimension is harder to measure. Some people have said that a mask offered a welcome shield, freeing them from the pressure to appear flawless, and a few admitted to feeling uneasy when it finally came off. Only when masking became optional did some begin to notice how far their routines had adapted to a half-hidden face. Such accounts are mostly **anecdotal**, however, and no single narrative captures the experience of an entire population.",
+     "The pandemic years, then, arguably left a double legacy: greater awareness that skin is a barrier worth protecting, and a reminder of how quickly appearance norms can shift when circumstances demand it. Rarely does a public-health measure reshape private routines so thoroughly, and it remains uncertain how many of the habits formed behind the mask will outlast it."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "The word \"habitual\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "uncomfortable",
+       "B": "compulsory",
+       "C": "routine",
+       "D": "occasional"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"habitual\" ở đoạn 1 trong ngữ cảnh hành vi lặp đi lặp lại hằng ngày theo thói quen; chọn nghĩa phản ánh tính chất thường nhật, quen thuộc."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, why are the conditions that cause maskne so persistent in Singapore?",
+      "options": {
+       "A": "Only teenagers with sensitive skin are affected by the condition",
+       "B": "Mask-related eczema has largely replaced acne among patients",
+       "C": "Warm, humid weather sustains the conditions that irritate skin under masks",
+       "D": "Dermatologists consider the condition dangerous and difficult to treat"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Singapore\", \"maskne\" hoặc điều kiện thời tiết ở đoạn 2 để tìm yếu tố khí hậu duy trì tình trạng gây kích ứng da dưới lớp khẩu trang."
+     },
+     {
+      "number": 33,
+      "stem": "According to the passage, what could make healthcare workers' skin problems worse?",
+      "options": {
+       "A": "Brief breaks taken during the middle of a long shift",
+       "B": "Harsh cleansers used to keep skin clean could aggravate it",
+       "C": "Pressure marks that fade as soon as the shift ends",
+       "D": "Protective dressings placed under the straps of respirators"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa về nhân viên y tế (\"healthcare workers\") và các yếu tố làm tình trạng da nặng thêm ở đoạn 3 để xác định tác động từ cách làm sạch da quá mức hoặc sản phẩm có tính tẩy rửa mạnh."
+     },
+     {
+      "number": 34,
+      "stem": "Look at the four squares [A], [B], [C], and [D] in paragraph 4 that show where the following sentence could be added: \"Both products had long been staples of many women's daily routines.\" Where would the sentence best fit?",
+      "options": {
+       "A": "[A]",
+       "B": "[B]",
+       "C": "[C]",
+       "D": "[D]"
+      },
+      "answer": "C",
+      "type_hint": "Chèn câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Phân tích nội dung câu cần chèn (\"Both products had long been staples of many women's daily routines.\") — câu này yêu cầu phía trước phải giới thiệu đủ hai sản phẩm cụ thể (\"Both products\") và mạch văn sau đó tiếp nối hợp lý với thói quen sinh hoạt hằng ngày. Hãy đối chiếu vị trí xuất hiện của hai sản phẩm này trong đoạn 4 để chọn ô vuông [A], [B], [C], hoặc [D] khớp nhất về cả nghĩa lẫn tính liên kết."
+     },
+     {
+      "number": 35,
+      "stem": "The phrase \"these products\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Mask-proof foundations",
+       "B": "Singaporean labels",
+       "C": "Retail categories",
+       "D": "Creams and cleansers"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định cụm danh từ chỉ định \"these products\" ở đoạn 5. Đọc ngược lại các câu trước đó trong đoạn để tìm chính xác nhóm sản phẩm chăm sóc da vừa được nhắc đến làm đối tượng tham chiếu, tránh nhầm sang mỹ phẩm trang điểm hoặc nhãn mác/danh mục bán lẻ."
+     },
+     {
+      "number": 36,
+      "stem": "According to paragraphs 2 and 3, which of the following is NOT mentioned as a factor in mask-related skin problems?",
+      "options": {
+       "A": "Allergic reactions to the dyes in cloth masks",
+       "B": "Moisture trapped between the mask and the skin",
+       "C": "Harsh cleansers used to keep the skin clean",
+       "D": "Heat generated by long hours of wear"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các yếu tố liên quan đến kích ứng/vấn đề da khi đeo khẩu trang được đề cập trong đoạn 2 và đoạn 3 (như độ ẩm bị giữ lại, nhiệt lượng sinh ra khi đeo lâu, ma sát/áp lực hoặc cách vệ sinh/làm sạch). Hãy loại trừ các yếu tố có xuất hiện trong hai đoạn này để chọn ra chi tiết không được nhắc đến tại đây."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"anecdotal\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "published in medical journals",
+       "B": "measured by large studies",
+       "C": "based on personal accounts",
+       "D": "required by official rules"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"anecdotal\" ở đoạn 6 khi nói về những chia sẻ/nhận xét từ trải nghiệm riêng lẻ chứ chưa dựa trên thống kê diện rộng; ngữ cảnh hướng tới tính chất dựa trên lời kể hoặc câu chuyện cá nhân."
+     },
+     {
+      "number": 38,
+      "stem": "Which conclusion is best supported by paragraphs 1 and 6 taken together?",
+      "options": {
+       "A": "Research proves that masks improved the confidence of all women",
+       "B": "Long mask use may have left some people reluctant to unmask",
+       "C": "Masks stopped being compulsory on public transport in February 2023",
+       "D": "Masking became optional because many people felt uneasy without it"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 1 về thói quen đeo khẩu trang kéo dài với đoạn 6 về cảm nhận và phản ứng của con người khi các quy định nới lỏng hoặc khi bỏ khẩu trang. Từ hai đoạn này ghép lại, rút ra kết luận hợp lý về mức độ e ngại/chưa sẵn sàng bỏ khẩu trang ở một số người sau thời gian dài đeo."
+     },
+     {
+      "number": 39,
+      "stem": "Which of the following best describes the author's approach to the topic?",
+      "options": {
+       "A": "Balanced and cautious, noting both evidence and its limits",
+       "B": "Promotional, encouraging readers to buy skincare products",
+       "C": "Alarmist, claiming masks permanently damaged women's skin",
+       "D": "Dismissive, treating beauty concerns as unimportant during a crisis"
+      },
+      "answer": "A",
+      "type_hint": "Cách tiếp cận của tác giả",
+      "type": "Chi tiết",
+      "explanation": "Quan sát giọng điệu xuyên suốt văn bản: tác giả vừa trình bày các ghi nhận, ví dụ và xu hướng thực tế vừa chỉ rõ giới hạn dữ liệu, sự khác biệt giữa bằng chứng khoa học và nhận định cá nhân, tránh thổi phồng hay hạ thấp vấn đề. Hãy chọn phương án phản ánh đúng sự cân bằng và thận trọng này. Lời khuyên: Hãy xử lý trước nhóm câu hỏi có tọa độ rõ ràng và tập trung vào từ/cụm từ như Quy chiếu (R4Q5) và Từ vựng theo ngữ cảnh (R4Q1, R4Q7). Tiếp theo, dùng kỹ thuật đọc quét để giải quyết nhanh nhóm Chi tiết (R4Q2, R4Q3), Loại trừ NOT (R4Q6) và Chèn câu (R4Q4). Cuối cùng, khi đã liên kết trọn vẹn mạch thông tin và mối quan hệ giữa các đoạn, bạn sẽ dễ dàng chốt đáp án chính xác cho các câu hỏi tổng hợp gồm Suy luận (R4Q8), Cách tiếp cận của tác giả (R4Q9) và Ý chính toàn bài (R4Q10)."
+     },
+     {
+      "number": 40,
+      "stem": "Which of the following best expresses the main idea of the passage?",
+      "options": {
+       "A": "Healthcare workers suffered more skin damage than any other group",
+       "B": "Singapore's mask rules were stricter than those of almost any other country",
+       "C": "Prolonged mask wearing in Singapore caused skin problems and changed beauty routines",
+       "D": "Skincare brands profited by exaggerating the dangers of maskne"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề và nắm mạch phát triển xuyên suốt toàn bài: đoạn 1 mở đầu bằng thói quen đeo khẩu trang kéo dài trong đời sống; đoạn 2 và 3 phân tích các vấn đề về da liên quan đến việc đeo khẩu trang tại Singapore cũng như trường hợp nhân viên y tế; đoạn 4 và 5 bàn về sự dịch chuyển trong thói quen làm đẹp, mỹ phẩm và các dòng sản phẩm chăm sóc da; đoạn 6 đề cập các ghi nhận mang tính trải nghiệm/cá nhân về tâm lý khi tháo bỏ khẩu trang. Phương án đúng cần bao quát trọn vẹn cả vấn đề da liễu do đeo khẩu trang kéo dài lẫn sự thay đổi trong thói quen làm đẹp, tránh các đáp án quy chụp một nhóm đối tượng hay gán động cơ phiến diện."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề và nắm mạch phát triển xuyên suốt toàn bài: đoạn 1 mở đầu bằng thói quen đeo khẩu trang kéo dài trong đời sống; đoạn 2 và 3 phân tích các vấn đề về da liên quan đến việc đeo khẩu trang tại Singapore cũng như trường hợp nhân viên y tế; đoạn 4 và 5 bàn về sự dịch chuyển trong thói quen làm đẹp, mỹ phẩm và các dòng sản phẩm chăm sóc da; đoạn 6 đề cập các ghi nhận mang tính trải nghiệm/cá nhân về tâm lý khi tháo bỏ khẩu trang. Phương án đúng cần bao quát trọn vẹn cả vấn đề da liễu do đeo khẩu trang kéo dài lẫn sự thay đổi trong thói quen làm đẹp, tránh các đáp án quy chụp một nhóm đối tượng hay gán động cơ phiến diện.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q3):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm thông tin được nêu trực tiếp trong từng đoạn được chỉ định.\n  - Với **R4Q2**, quét từ khóa \"Singapore\", \"maskne\" hoặc điều kiện thời tiết ở đoạn 2 để tìm yếu tố khí hậu duy trì tình trạng gây kích ứng da dưới lớp khẩu trang.\n  - Với **R4Q3**, quét từ khóa về nhân viên y tế (\"healthcare workers\") và các yếu tố làm tình trạng da nặng thêm ở đoạn 3 để xác định tác động từ cách làm sạch da quá mức hoặc sản phẩm có tính tẩy rửa mạnh.\n- **Dạng câu hỏi Loại trừ NOT (R4Q6):** Đối soát các yếu tố liên quan đến kích ứng/vấn đề da khi đeo khẩu trang được đề cập trong đoạn 2 và đoạn 3 (như độ ẩm bị giữ lại, nhiệt lượng sinh ra khi đeo lâu, ma sát/áp lực hoặc cách vệ sinh/làm sạch). Hãy loại trừ các yếu tố có xuất hiện trong hai đoạn này để chọn ra chi tiết không được nhắc đến tại đây.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q1, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp phân tích cấu trúc câu.\n  - Với **R4Q1**, xét từ **\"habitual\"** ở đoạn 1 trong ngữ cảnh hành vi lặp đi lặp lại hằng ngày theo thói quen; chọn nghĩa phản ánh tính chất thường nhật, quen thuộc.\n  - Với **R4Q7**, xét từ **\"anecdotal\"** ở đoạn 6 khi nói về những chia sẻ/nhận xét từ trải nghiệm riêng lẻ chứ chưa dựa trên thống kê diện rộng; ngữ cảnh hướng tới tính chất dựa trên lời kể hoặc câu chuyện cá nhân.\n- **Dạng câu hỏi Quy chiếu (R4Q5):** Xác định cụm danh từ chỉ định **\"these products\"** ở đoạn 5. Đọc ngược lại các câu trước đó trong đoạn để tìm chính xác nhóm sản phẩm chăm sóc da vừa được nhắc đến làm đối tượng tham chiếu, tránh nhầm sang mỹ phẩm trang điểm hoặc nhãn mác/danh mục bán lẻ.\n- **Dạng câu hỏi Chèn câu vào đoạn văn (R4Q4):** Phân tích nội dung câu cần chèn (\"Both products had long been staples of many women's daily routines.\") — câu này yêu cầu phía trước phải giới thiệu đủ **hai sản phẩm** cụ thể (\"Both products\") và mạch văn sau đó tiếp nối hợp lý với thói quen sinh hoạt hằng ngày. Hãy đối chiếu vị trí xuất hiện của hai sản phẩm này trong đoạn 4 để chọn ô vuông **[A]**, **[B]**, **[C]**, hoặc **[D]** khớp nhất về cả nghĩa lẫn tính liên kết.\n- **Dạng câu hỏi Suy luận (R4Q8):** Kết hợp thông tin từ đoạn 1 về thói quen đeo khẩu trang kéo dài với đoạn 6 về cảm nhận và phản ứng của con người khi các quy định nới lỏng hoặc khi bỏ khẩu trang. Từ hai đoạn này ghép lại, rút ra kết luận hợp lý về mức độ e ngại/chưa sẵn sàng bỏ khẩu trang ở một số người sau thời gian dài đeo.\n- **Dạng câu hỏi Cách tiếp cận của tác giả (R4Q9):** Quan sát giọng điệu xuyên suốt văn bản: tác giả vừa trình bày các ghi nhận, ví dụ và xu hướng thực tế vừa chỉ rõ giới hạn dữ liệu, sự khác biệt giữa bằng chứng khoa học và nhận định cá nhân, tránh thổi phồng hay hạ thấp vấn đề. Hãy chọn phương án phản ánh đúng sự cân bằng và thận trọng này. Lời khuyên: Hãy xử lý trước nhóm câu hỏi có tọa độ rõ ràng và tập trung vào từ/cụm từ như Quy chiếu (R4Q5) và Từ vựng theo ngữ cảnh (R4Q1, R4Q7). Tiếp theo, dùng kỹ thuật đọc quét để giải quyết nhanh nhóm Chi tiết (R4Q2, R4Q3), Loại trừ NOT (R4Q6) và Chèn câu (R4Q4). Cuối cùng, khi đã liên kết trọn vẹn mạch thông tin và mối quan hệ giữa các đoạn, bạn sẽ dễ dàng chốt đáp án chính xác cho các câu hỏi tổng hợp gồm **Suy luận** (R4Q8), **Cách tiếp cận của tác giả** (R4Q9) và **Ý chính toàn bài** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Jake.\nHe is writing an article about film preferences and wants to know about your taste. Read part of his email below. I'm interested in finding out what kinds of films my friends enjoy. I'd love to hear your opinion about action films.\n- Do you like action films? Why or why not?\n- Do you often go to the cinema to watch films?\n- What is your favorite type of action film?\nWrite an email responding to Jake. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Jake.",
+      "He is writing an article about film preferences and wants to know about your taste. Read part of his email below."
+     ],
+     "quote": [
+      "I'm interested in finding out what kinds of films my friends enjoy. I'd love to hear your opinion about action films.",
+      "- Do you like action films? Why or why not?",
+      "- Do you often go to the cinema to watch films?",
+      "- What is your favorite type of action film?"
+     ],
+     "instruction": "Write an email responding to Jake. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (thư thân mật) chia sẻ sở thích cá nhân về phim hành động với bạn bè. Giọng văn thân thiện, tự nhiên, thể hiện cảm xúc.\n- Đề yêu cầu 3 ý chính: (1) bạn có thích phim hành động không và vì sao, (2) bạn có thường ra rạp xem phim không, (3) thể loại phim hành động bạn yêu thích.\n- Bài viết cần tối thiểu **120 từ**. Nên viết khoảng 140–170 từ để an toàn.\n- Phải trả lời đủ cả 3 ý. Bỏ sót ý sẽ bị trừ điểm Task Fulfillment. Câu trả lời có thể là có hoặc không, miễn là có lý do rõ ràng.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Jake,\n- **Opening:** Cảm ơn thư và dẫn vào chủ đề. Ví dụ: Thanks for your email! I'm happy to tell you about my taste in films.\n- **Body 1 (Có thích phim hành động không):** Nêu quan điểm và lý do. Ví dụ: Yes, I really enjoy action films, because they are exciting and full of energy. They help me forget my stress after a long day.\n- **Body 2 (Thói quen ra rạp):** Ví dụ: I go to the cinema about twice a month, usually at the weekend with my friends. The big screen and the powerful sound make the experience much better than watching at home.\n- **Body 3 (Thể loại yêu thích):** Ví dụ: My favorite type is martial arts films, because the fighting scenes are skillful and I admire the actors' training and discipline.\n- **Closing:** Hỏi lại bạn và hẹn hồi âm. Ví dụ: What about you? Do you enjoy action films too? Write back soon!\n- **Sign-off:** Best wishes, [Your Name]. Mỗi đoạn body nên dài 2–3 câu.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Dùng **hiện tại đơn** để nói về sở thích và thói quen (I enjoy..., I go to the cinema...), cùng **trạng từ tần suất** (usually, often, once a month).\n- Dùng cấu trúc nói về sở thích đa dạng: I'm a big fan of..., I'm keen on..., I'm really into..., What I like most about... is...\n- Mỗi ý nên có lý do ngắn gọn (vì hồi hộp, vì thư giãn, vì hiệu ứng hình ảnh đẹp) để bài phong phú và đủ độ dài.\n- Tránh lặp từ like, good, exciting. Hãy thay bằng các từ bên dưới.\nTừ vựng quan trọng:\n- **Action film / Action movie:** Phim hành động\n- **Fight scene / Chase scene:** Cảnh đánh nhau / cảnh rượt đuổi\n- **Thrilling / Gripping:** Gay cấn, hấp dẫn\n- **Special effects:** Kỹ xảo điện ảnh\n- **Martial arts / Spy film:** Võ thuật / phim điệp viên\n- **Go to the cinema:** Đi xem phim ở rạp\n- **Relieve stress:** Giải tỏa căng thẳng\n- **Be a fan of:** Là người hâm mộ của\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Besides / Moreover:** Bên cạnh đó, hơn nữa\n- **Because / Since:** Bởi vì\n- **So / Therefore:** Vì vậy\n- **However:** Tuy nhiên\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm absolutely crazy about action films.** Mình cực kỳ mê phim hành động.\n- **They keep me on the edge of my seat.** Chúng khiến mình hồi hộp từ đầu đến cuối.\n- **I find them really thrilling.** Mình thấy chúng rất gay cấn.\n- **I'd love to hear your opinion.** Mình rất muốn nghe ý kiến của bạn.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời Yes hoặc No ngắn gọn mà không giải thích lý do.\n- Bỏ sót một trong ba ý, thường là phần thể loại phim yêu thích.\n- Liệt kê tên phim hoặc nhân vật thay vì nói về thể loại.\n- Dùng giọng văn quá trang trọng hoặc sai cấu trúc như I like watch thay vì I like watching.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm từ và đảm bảo đạt trên 120 từ.\n- Kiểm tra đã trả lời đủ 3 ý: có thích hay không, thói quen ra rạp, thể loại yêu thích.\n- Kiểm tra có lời chào, mở đầu, kết thư (có hỏi lại bạn) và ký tên.\n- Soát lỗi chính tả, thì động từ và dấu câu.\n\n**6. Tư duy làm bài:**\nHãy viết như đang trò chuyện thật với một người bạn về sở thích: chân thật, có cảm xúc và có lý do. Mỗi ý tương ứng một đoạn ngắn rõ ràng sẽ giúp bài mạch lạc và đủ độ dài.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nAir pollution is becoming a major problem in many cities around the world. In some places, the air is so polluted that people are advised to stay indoors or wear masks when going outside.\nBoth human activities and industrial development are blamed for this situation.\nDiscuss the causes of air pollution and its effects on people and the environment.\nWrite an essay to an educated reader to analyze the causes of air pollution and its effects. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Air pollution is becoming a major problem in many cities around the world. In some places, the air is so polluted that people are advised to stay indoors or wear masks when going outside.",
+      "Both human activities and industrial development are blamed for this situation.",
+      "Discuss the causes of air pollution and its effects on people and the environment."
+     ],
+     "instruction": "Write an essay to an educated reader to analyze the causes of air pollution and its effects. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Cause–Effect Essay**: bạn cần phân tích nguyên nhân gây ô nhiễm không khí và những ảnh hưởng của nó đến con người và môi trường.\n- Từ khoá chính: **causes, effects, air pollution, people and the environment**. Phải trả lời đủ cả hai phần: nguyên nhân và ảnh hưởng.\n- Nên chọn 2 nguyên nhân (khí thải từ phương tiện giao thông, khí thải và bụi từ nhà máy hoặc đốt rác, đốt rơm rạ) và 2 ảnh hưởng (bệnh về hô hấp và sức khoẻ con người, biến đổi khí hậu, mưa axit và hại hệ sinh thái).\n- Bài cần tối thiểu **250 từ**. Chú ý không viết thành bài giải pháp nếu đề không yêu cầu.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Dẫn dắt và nêu thesis. Ví dụ: Air pollution is a serious problem in modern cities, mainly caused by traffic and industry, and it has harmful effects on both human health and the environment.\n- **Body 1 (Nguyên nhân 1):** Topic sentence, giải thích, ví dụ. Ví dụ: One main cause is the large number of vehicles on the roads. Cars and motorbikes release exhaust fumes, which fill the air with harmful gases, especially in crowded cities.\n- **Body 2 (Nguyên nhân 2):** Ví dụ: Another cause is industrial activity. Factories burn fossil fuels and release smoke and dust, and burning rubbish or crop residue also adds to the problem.\n- **Body 3 (Ảnh hưởng):** Ví dụ: As a result, many people suffer from breathing problems such as asthma, and children and the elderly are especially at risk. Moreover, air pollution contributes to climate change and damages plants and wildlife.\n- **Conclusion:** Tóm tắt và khẳng định. Ví dụ: In conclusion, air pollution mainly results from traffic and industry, and its effects on health and nature are serious and need urgent attention.\n- Mỗi đoạn thân bài theo cấu trúc: Topic sentence -> Explanation -> Example -> Mini-conclusion.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Dùng **hiện tại đơn** cho sự thật, **hiện tại hoàn thành** cho xu hướng (Air pollution has become worse), và các cụm chỉ nguyên nhân, kết quả (is caused by, results from, leads to, as a result).\n- Mỗi ý cần được phát triển: nêu nguyên nhân hoặc ảnh hưởng, giải thích cơ chế, rồi ví dụ cụ thể (khói bụi giờ cao điểm, bệnh hen suyễn, mưa axit).\n- Tránh lặp từ pollution và cause. Hãy dùng từ đồng nghĩa trong các mục bên dưới.\n- Thesis statement phải nêu rõ cả nguyên nhân chính lẫn ảnh hưởng ở cuối mở bài.\nTừ vựng quan trọng:\n- **Air pollution / Smog:** Ô nhiễm không khí / khói bụi\n- **Exhaust fumes:** Khí thải xe cộ\n- **Fossil fuels:** Nhiên liệu hoá thạch\n- **Industrial emissions:** Khí thải công nghiệp\n- **Respiratory diseases / Asthma:** Bệnh hô hấp / hen suyễn\n- **Greenhouse gases:** Khí nhà kính\n- **Climate change:** Biến đổi khí hậu\n- **Acid rain:** Mưa axit\nTừ nối (Linking words):\n- **In addition / Furthermore:** Hơn nữa (thêm ý)\n- **However / Nevertheless:** Tuy nhiên (đối lập)\n- **As a result / Consequently:** Do đó (kết quả)\n- **For example / For instance:** Ví dụ (minh hoạ)\n- **Because of / Due to:** Bởi vì, do (nguyên nhân)\n- **In conclusion / To sum up:** Tóm lại (kết luận)\nDiễn đạt lại ý (Paraphrasing):\n- **Air pollution:** Có thể thay bằng contamination of the air hoặc poor air quality.\n- **Causes:** Có thể thay bằng reasons hoặc factors behind this problem.\n- **Effects:** Có thể thay bằng consequences hoặc impacts.\n- **Vehicles:** Có thể thay bằng road transport hoặc motor traffic.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **One main cause of this problem is...:** Một nguyên nhân chính của vấn đề này là...\n- **This can lead to / result in...:** Điều này có thể dẫn đến...\n- **This has a negative effect on...:** Điều này có ảnh hưởng tiêu cực đến...\n- **As a consequence,...:** Kết quả là,...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nêu nguyên nhân mà thiếu ảnh hưởng, hoặc ngược lại.\n- Nhầm lẫn giữa nguyên nhân và ảnh hưởng khi triển khai ý.\n- Nêu ý chung chung như It is bad for health mà không có ví dụ cụ thể.\n- Đoạn văn quá ngắn, thiếu Topic sentence hoặc dùng sai từ nối nguyên nhân, kết quả.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra mở bài đã có thesis statement nêu cả nguyên nhân và ảnh hưởng.\n- Đảm bảo mỗi ý đều có ví dụ cụ thể và đã đề cập cả con người lẫn môi trường.\n- Đếm từ để chắc chắn đạt trên 250 từ.\n- Soát lỗi chia động từ, mạo từ và từ nối.\n\n**6. Tư duy làm bài:**\nHãy lập dàn ý ngắn gọn trước khi viết: hai nguyên nhân, ảnh hưởng đến con người và môi trường, mỗi ý một ví dụ. Một bài có bố cục logic, quan hệ nguyên nhân và kết quả rõ ràng sẽ ghi điểm tốt hơn bài dùng từ phức tạp nhưng thiếu mạch lạc."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about traveling\n\n1\nWhat do you like most about traveling?\n2\nWhere do you like to stay when you go on holiday?\n3\nWhat activities do you enjoy doing when you travel?\n\nNow, let’s talk about your neighborhood\n\n4\nWhat is your neighborhood like?\n5\nDo you know your neighbors well?\n6\nWould you like to live in the same neighborhood in the future? Why or why not?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 kéo dài **3 phút** với **6 câu hỏi** về những chủ đề quen thuộc trong cuộc sống hằng ngày.\n- **Topic A (Traveling):** Câu 1–3 hỏi về điều bạn thích nhất khi du lịch, nơi bạn thích nghỉ dưỡng và hoạt động yêu thích khi đi chơi. Phần này kiểm tra khả năng mô tả sở thích, địa điểm và đưa ra lý do.\n- **Topic B (Your neighborhood):** Câu 4–6 hỏi về khu phố nơi bạn sống, mối quan hệ với hàng xóm và mong muốn sống ở đó trong tương lai. Phần này kiểm tra khả năng mô tả địa điểm, con người và nói về kế hoạch.\n- Tiêu chí chấm điểm: **Fluency** (độ trôi chảy), **Vocabulary** (từ vựng), **Grammar** (ngữ pháp), **Pronunciation** (phát âm).\n- Phân bổ thời gian: khoảng **25–35 giây** mỗi câu, chia đều cho Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Dùng cấu trúc **Answer – Reason – Example (ARE)**: trả lời trực tiếp, nêu lý do, rồi thêm một ví dụ ngắn từ đời sống của bạn.\n- **Ví dụ Topic A (câu 2):** I like staying at beach resorts because I can relax and enjoy the sea breeze. For example, last summer my family stayed at a resort in Phu Quoc, and we spent our days swimming and reading by the pool.\n- **Ví dụ Topic B (câu 4):** My neighborhood is quite quiet and friendly because most people have lived there for years. For instance, there is a small park nearby where residents often go for a walk in the evening.\n- Mẹo: luôn tự hỏi **Why?** hoặc **How?** sau mỗi câu trả lời để kéo dài ý một cách tự nhiên.\n- Mẹo chuyển chủ đề mượt: khi sang câu 4, bạn có thể bắt đầu bằng **Speaking of places I love...** hoặc **As for the area** where I live... để thể hiện bạn theo kịp mạch hỏi.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định, dùng từ đệm như **well**, **actually**, **let me think** để tránh im lặng kéo dài.\n- Thì động từ: dùng **hiện tại đơn** cho sở thích và mô tả (My neighborhood is quiet), **quá khứ đơn** cho chuyến đi đã qua (We stayed at a resort last year), **would** cho kế hoạch tương lai (I would like to move to a bigger area).\n- Kỹ thuật paraphrase: nếu quên từ, hãy diễn đạt bằng từ đơn giản hơn. Ví dụ quên từ **resort** thì nói **a big hotel with a** pool and a beach.\n- **Từ vựng Topic A:** beach resort (khu nghỉ dưỡng biển), sightseeing (tham quan), local specialties (đặc sản địa phương), laid-back (thư thả).\n- **Từ vựng Topic B:** residential area (khu dân cư), friendly neighbors (hàng xóm thân thiện), convenient location (vị trí thuận tiện), community (cộng đồng).\nCụm từ quan trọng nên dùng:\n- **Topic A:** escape from daily routine (thoát khỏi nhịp sống hằng ngày)\n- **Topic A:** explore new places (khám phá những nơi mới)\n- **Topic A:** relaxing atmosphere (không khí thư giãn)\n- **Topic A:** try local cuisine (thử ẩm thực địa phương)\n- **Topic B:** close to public facilities (gần tiện ích công cộng)\n- **Topic B:** a sense of community (tinh thần cộng đồng)\n- **Topic B:** peaceful and safe (yên bình và an toàn)\n- **Topic B:** noisy and crowded (ồn ào và đông đúc)\nTừ nối khi nói (Linking Words):\n- **because / since:** bởi vì, dùng để nêu lý do.\n- **for example / for instance:** ví dụ, dùng trước ví dụ cá nhân.\n- **however:** tuy nhiên, dùng để nêu mặt trái.\n- **besides / also:** ngoài ra, dùng để thêm ý.\n- **as a result:** kết quả là, dùng để nêu hệ quả.\n- **on the other hand:** mặt khác, dùng khi so sánh hai lựa chọn.\nCách thể hiện quan điểm tự nhiên:\n- **Topic A:** **In my opinion...** (theo tôi) – In my opinion, a good holiday is one where I can rest and try new things.\n- **Topic A:** **I would say that...** (tôi cho rằng) – I would say that seaside resorts are perfect for families.\n- **Topic A:** **To be honest...** (thành thật mà nói) – To be honest, I prefer quiet resorts to crowded tourist spots.\n- **Topic B:** **As far as I am concerned...** (theo tôi thấy) – As far as I am concerned, friendly neighbors make a\nneighborhood feel like home.\n- **Topic B:** **I truly believe that...** (tôi tin rằng) – I truly believe that a safe and quiet area is important for family life.\n- **Topic B:** **From my perspective...** (từ góc nhìn của tôi) – From my perspective, convenient transport is the biggest advantage of my neighborhood.\n\n**4. Các lỗi thường gặp:**\n- Trả lời **Yes/No** rồi im lặng, không giải thích. Đây là lỗi nghiêm trọng nhất vì câu trả lời quá ngắn.\n- Topic A: chỉ nói I like relaxing mà không mô tả nơi nghỉ dưỡng và hoạt động cụ thể.\n- Topic A: nhầm giữa **holiday**, **vacation** và **trip**, hoặc dùng sai giới từ như stay at, stay in.\n- Topic B: chỉ nói It is good mà không mô tả cảnh quan, tiện ích hay con người.\n- Topic B: nhầm giữa **neighbor** (hàng xóm) và **neighborhood** (khu phố), hoặc quên mạo từ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu kéo dài thời gian: **That is an interesting question, let me think for a second.**\n- Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm thay vì bỏ cuộc.\n- Bí ý ở Topic A: kể về chuyến đi gần nhất của bạn, bạn ở đâu, làm gì, ăn gì và cảm thấy thế nào.\n- Bí ý ở Topic B: mô tả đường từ nhà bạn ra phố, các cửa hàng, quán ăn hoặc công viên gần đó.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi Part 1 như một cuộc trò chuyện thân mật với giám khảo, không phải bài học thuộc lòng.\n- Sau câu 3, hãy **reset tâm lý**: quên chủ đề du lịch và bước vào chủ đề khu phố với năng lượng mới.\n- Sự tự nhiên và trôi chảy quan trọng hơn từ vựng phức tạp. Một câu đơn giản, đúng và đủ ý luôn tốt hơn một câu khó nhưng sai.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour school wants to organize an educational activity to teach students about a local pagoda and its cultural value.\n\nYou are considering the following options:\n\nOption 1: A cultural festival\nOption 2: A cultural event\nOption 3: A cultural competition with prizes\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống: trường muốn tổ chức một hoạt động giáo dục về ngôi chùa địa phương và giá trị văn hóa của nó. Có **3** phương án: lễ hội văn hóa, sự kiện văn hóa, cuộc thi văn hóa có giải thưởng.\n- Tiêu chí chấm điểm: **Fluency**, **Vocabulary**, **Grammar**, **Pronunciation** và khả năng lập luận để chọn phương án tốt nhất.\n- Thời gian: **4 phút** tổng cộng, khoảng 1 phút chuẩn bị và khoảng 3 phút nói.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Dùng cấu trúc **I-C-E**: Introduction (nêu tình huống) – Comparison/Body (phân tích từng phương án) – End (kết luận chọn một phương án).\n- **Option 1 (cultural festival):** quy mô lớn, thu hút nhiều người, không khí sôi động và có nhiều hoạt động tương tác, nhưng cần nhiều kinh phí, nhân lực và thời gian chuẩn bị.\n- **Option 2 (cultural event):** quy mô vừa, dễ tổ chức hơn, có thể gồm buổi tham quan và thuyết trình, chi phí hợp lý, nhưng sức hút và mức độ tham gia có thể thấp hơn.\n- **Option 3 (competition with prizes):** tạo động lực tham gia, khuyến khích học sinh tìm hiểu sâu, nhưng chỉ một nhóm nhỏ học sinh tham gia tích cực và có thể tạo áp lực cạnh tranh.\n- Mẹo: lập luận theo mục tiêu giáo dục, mức độ tham gia của học sinh, chi phí và tính khả thi.\n- Mẹo: dùng từ nối chỉ sự đối lập như **however**, **on the other hand** để chuyển từ ưu điểm sang nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các phương án với nhau thay vì nói riêng lẻ, ví dụ: Compared to a competition, a festival lets every student take part, not just the winners.\n- Thì động từ: dùng **hiện tại đơn** để nêu đặc điểm (A festival attracts many visitors), **will/would** để dự đoán (Students would learn more through activities), **câu điều kiện loại 2** để giả định (If we organized a competition, students would research more carefully).\n- Paraphrase theo chủ đề: thay **pagoda** bằng **historical site** hoặc **cultural heritage site**; thay **learn** bằng **gain** knowledge; thay expensive bằng costly.\nCụm từ quan trọng nên dùng:\n- **cultural heritage:** di sản văn hóa\n- **raise awareness of:** nâng cao nhận thức về\n- **hands-on experience:** trải nghiệm thực tế\n- **encourage participation:** khuyến khích sự tham gia\n- **preserve traditions:** giữ gìn truyền thống\n- **limited budget:** ngân sách hạn chế\n- **healthy competition:** sự cạnh tranh lành mạnh\nTừ nối khi nói (Linking Words):\n- **First of all:** trước hết, dùng để mở đầu phân tích.\n- **However:** tuy nhiên, dùng để nêu nhược điểm.\n- **On the other hand:** mặt khác, dùng để chuyển sang phương án khác.\n- **In addition:** ngoài ra, dùng để thêm lý do.\n- **Therefore:** vì vậy, dùng để rút ra kết luận.\n- **All things considered:** xét tổng thể, dùng để mở đầu kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **Compared to...** (so với) – Compared to a competition, a cultural festival offers a livelier and more inclusive experience.\n- **I would go for...** (tôi sẽ chọn) – I would go for the cultural festival because it allows everyone to join and learn through activities.\n- **What matters most is...** (điều quan trọng nhất là) – What matters most is helping students understand and appreciate the value of the pagoda.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen phương án mình chọn mà không phân tích điểm yếu của hai phương án còn lại.\n- Lặp lại **good** và **interesting**, hãy thay bằng educational, engaging, inclusive, costly, time-consuming.\n- Không đưa ra quyết định rõ ràng ở phần kết, chỉ dừng lại ở việc liệt kê ưu nhược điểm.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên biệt, hãy chuyển sang yếu tố **chi phí** hoặc **mức độ tham gia của học sinh** để tiếp tục lập luận.\n- Dùng câu kéo dài thời gian: **Let's evaluate this option from a different perspective.**\n- Giữ bình tĩnh, nếu bí ý ở một phương án thì chuyển sang phương án tiếp theo và quay lại sau nếu còn thời gian.\n\n**6. Tư duy làm bài nói:**\n- Hãy nghĩ như người tổ chức hoạt động giáo dục: cách nào giúp nhiều học sinh hiểu và trân trọng di sản nhất với nguồn lực hợp lý?\n- Dù chọn phương án nào, hãy đề xuất kết hợp, ví dụ tổ chức lễ hội kèm một cuộc thi nhỏ có quà, để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe effects of academic pressure on students\n\nAcademic Pressure\nLack of sleep\nGetting angry easily\nReduced social interaction\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat causes academic pressure among students?\n2\nHow can students deal with academic pressure?\n3\nDo you think schools give students too much homework? Why or why not?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề là **tác động của áp lực học tập lên học sinh, sinh viên** với 3 nhánh sơ đồ tư duy: **thiếu ngủ**, **dễ nổi nóng**, **giảm** giao tiếp xã hội, cộng thêm 1 nhánh ý tưởng cá nhân.\n- Gợi ý cho nhánh thứ 4: suy giảm sức khỏe thể chất và tinh thần, mất hứng thú học tập, hoặc ảnh hưởng đến mối quan hệ với gia đình.\n- Tiêu chí chấm điểm: **Fluency**, **Vocabulary**, **Grammar**, **Pronunciation** và khả năng phát triển ý mạch lạc.\n- Thời gian: **5 phút**, khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Dùng cấu trúc **IDEA**: Introduction (giới thiệu) – Detail (chi tiết) – Example (ví dụ) – Add/wrap up (bổ sung hoặc chốt ý) cho từng nhánh.\n- **Ví dụ 1:** Today, I would like to talk about the effects of academic pressure on students, which is a common problem in many schools and universities.\n- **Ví dụ 2 (ý cá nhân):** Another effect is a decline in physical and mental health, because stress can cause headaches, anxiety and loss of motivation.\n- Mẹo: mỗi nhánh nên nêu nguyên nhân rồi hệ quả, ví dụ học khuya để ôn thi dẫn đến thiếu ngủ và khó tập trung.\n- Mẹo: bám sát sơ đồ tư duy để tránh lặp ý và lan man sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm chuyển ý mượt giữa các nhánh như **Moving on to...**, **Another effect worth mentioning is...**\n- Thì động từ: **hiện tại đơn** cho sự thật chung (Stress affects students' sleep) và **hiện tại hoàn thành** cho xu hướng đang diễn ra (Academic pressure has become more serious in recent years).\n- Paraphrase cụm chủ đề: **academic pressure** có thể thay bằng **study stress** hoặc **pressure from schoolwork**; **effects** thay bằng **consequences** hoặc **impacts**.\nCụm từ quan trọng nên dùng:\n- **academic pressure:** áp lực học tập\n- **sleep deprivation:** thiếu ngủ\n- **lose my temper:** mất bình tĩnh, nổi nóng\n- **social isolation:** sự cô lập xã hội\n- **mental health problems:** các vấn đề sức khỏe tinh thần\n- **heavy workload:** khối lượng bài vở nặng\n- **burn out:** kiệt sức\nTừ nối khi nói (Linking Words):\n- **To begin with:** trước tiên, dùng để mở đầu nhánh đầu tiên.\n- **Moving on to:** chuyển sang, dùng để sang nhánh tiếp theo.\n- **Another point is that:** một điểm khác là, dùng để thêm ý.\n- **Having said that:** tuy vậy, dùng để đưa ra mặt đối lập.\n- **As a result:** kết quả là, dùng để nêu hệ quả.\n- **To sum up:** tóm lại, dùng để kết bài.\nCách thể hiện quan điểm tự nhiên:\n- **I firmly believe that...** (tôi tin chắc rằng) – I firmly believe that too much pressure harms both students' health and their results.\n- **It seems to me that...** (với tôi thì có vẻ) – It seems to me that many students sacrifice sleep to keep up with their studies.\n- **From my point of view...** (theo quan điểm của tôi) – From my point of view, schools should pay more attention to students' mental well-being.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **What causes academic pressure among students?** – It comes from heavy workloads, high expectations from parents and teachers, and competition among classmates. Students also worry about exams and their future careers.\n- **How can students deal with academic pressure?** – They can make a study schedule, take regular breaks, exercise and talk to friends or family. Getting enough sleep also helps them stay calm and focused.\n- **Do schools give students too much homework?** – In many cases, yes, especially before exams. A reasonable amount of homework is useful, but too much leaves students no time to rest or enjoy hobbies.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê tác động (lack of sleep, anger, isolation) mà không giải thích cơ chế và không đưa ví dụ cụ thể.\n- Quên nhánh ý tưởng cá nhân, hãy chuẩn bị sẵn một tác động riêng như sức khỏe suy giảm hoặc mất hứng thú.\n- Nói quá lâu ở phần chính khiến không còn thời gian cho câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Quay về trải nghiệm cá nhân: mùa thi của bạn hoặc bạn bè, cảm giác khi phải học nhiều và thiếu ngủ.\n- Dùng câu kéo dài thời gian mang tính học thuật: **That is a complex issue. If we evaluate it from an educational** viewpoint...\n- Nếu quên từ kỹ thuật, hãy dùng từ đồng nghĩa hoặc mô tả đơn giản, ví dụ thay **sleep deprivation** bằng **not getting** enough sleep.\n\n**7. Tư duy làm bài nói:**\n- Hãy nghĩ thực tế và từ góc nhìn của người học: áp lực ở mức vừa phải thúc đẩy tiến bộ, nhưng quá mức sẽ gây hại cho sức khỏe và các mối quan hệ.\n- Sự mạch lạc và logic trong dòng ý tưởng là yếu tố then chốt để đạt điểm cao.\n- Khi trả lời follow-up, hãy nêu quan điểm rõ ràng và thêm một giải pháp hoặc ví dụ ngắn để câu trả lời đầy đủ nhưng không quá dài."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about traveling.\n1.\nWhat do you like most about traveling?\n2.\nWhere do you like to stay when you go on holiday?\n3.\nWhat activities do you enjoy doing when you travel?\nNow, let’s talk about your neighborhood.\n4.\nWhat is your neighborhood like?\n5.\nDo you know your neighbors well?\n6.\nWould you like to live in the same neighborhood in the future? Why or why not?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 kéo dài 3 phút với 6 câu hỏi về những chủ đề quen thuộc trong cuộc sống hằng ngày.\n• Topic A (Traveling): Câu 1–3 hỏi về điều bạn thích nhất khi du lịch, nơi bạn thích nghỉ dưỡng và hoạt động yêu thích\nkhi đi chơi. Phần này kiểm tra khả năng mô tả sở thích, địa điểm và đưa ra lý do.\n• Topic B (Your neighborhood): Câu 4–6 hỏi về khu phố nơi bạn sống, mối quan hệ với hàng xóm và mong muốn sống\nở đó trong tương lai. Phần này kiểm tra khả năng mô tả địa điểm, con người và nói về kế hoạch.\n• Tiêu chí chấm điểm: Fluency (độ trôi chảy), Vocabulary (từ vựng), Grammar (ngữ pháp), Pronunciation (phát âm).\n• Phân bổ thời gian: khoảng 25–35 giây mỗi câu, chia đều cho Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Dùng cấu trúc Answer – Reason – Example (ARE): trả lời trực tiếp, nêu lý do, rồi thêm một ví dụ ngắn từ đời sống của\nbạn.\n• Ví dụ Topic A (câu 2): I like staying at beach resorts because I can relax and enjoy the sea breeze. For example, last\nsummer my family stayed at a resort in Phu Quoc, and we spent our days swimming and reading by the pool.\n• Ví dụ Topic B (câu 4): My neighborhood is quite quiet and friendly because most people have lived there for years.\nFor instance, there is a small park nearby where residents often go for a walk in the evening.\n• Mẹo: luôn tự hỏi Why? hoặc How? sau mỗi câu trả lời để kéo dài ý một cách tự nhiên.\n• Mẹo chuyển chủ đề mượt: khi sang câu 4, bạn có thể bắt đầu bằng Speaking of places I love... hoặc As for the area\nwhere I live... để thể hiện bạn theo kịp mạch hỏi.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định, dùng từ đệm như well, actually, let me think để tránh im lặng kéo dài.\n• Thì động từ: dùng hiện tại đơn cho sở thích và mô tả (My neighborhood is quiet), quá khứ đơn cho chuyến đi đã qua\n(We stayed at a resort last year), would cho kế hoạch tương lai (I would like to move to a bigger area).\n• Kỹ thuật paraphrase: nếu quên từ, hãy diễn đạt bằng từ đơn giản hơn. Ví dụ quên từ resort thì nói a big hotel with a\npool and a beach.\n• Từ vựng Topic A: beach resort (khu nghỉ dưỡng biển), sightseeing (tham quan), local specialties (đặc sản địa phương),\nlaid-back (thư thả).\n• Từ vựng Topic B: residential area (khu dân cư), friendly neighbors (hàng xóm thân thiện), convenient location (vị trí\nthuận tiện), community (cộng đồng).\nCụm từ quan trọng nên dùng:\n• Topic A: escape from daily routine (thoát khỏi nhịp sống hằng ngày)\n• Topic A: explore new places (khám phá những nơi mới)\n• Topic A: relaxing atmosphere (không khí thư giãn)\n• Topic A: try local cuisine (thử ẩm thực địa phương)\n• Topic B: close to public facilities (gần tiện ích công cộng)\n• Topic B: a sense of community (tinh thần cộng đồng)\n• Topic B: peaceful and safe (yên bình và an toàn)\n• Topic B: noisy and crowded (ồn ào và đông đúc)\nTừ nối khi nói (Linking Words):\n• because / since: bởi vì, dùng để nêu lý do.\n• for example / for instance: ví dụ, dùng trước ví dụ cá nhân.\n• however: tuy nhiên, dùng để nêu mặt trái.\n• besides / also: ngoài ra, dùng để thêm ý.\n• as a result: kết quả là, dùng để nêu hệ quả.\n• on the other hand: mặt khác, dùng khi so sánh hai lựa chọn.\nCách thể hiện quan điểm tự nhiên:\n• Topic A: In my opinion... (theo tôi) – In my opinion, a good holiday is one where I can rest and try new things.\n• Topic A: I would say that... (tôi cho rằng) – I would say that seaside resorts are perfect for families.\n• Topic A: To be honest... (thành thật mà nói) – To be honest, I prefer quiet resorts to crowded tourist spots.\n• Topic B: As far as I am concerned... (theo tôi thấy) – As far as I am concerned, friendly neighbors make a\nneighborhood feel like home.\n• Topic B: I truly believe that... (tôi tin rằng) – I truly believe that a safe and quiet area is important for family life.\n• Topic B: From my perspective... (từ góc nhìn của tôi) – From my perspective, convenient transport is the biggest\nadvantage of my neighborhood.\n4. Các lỗi thường gặp:\n• Trả lời Yes/No rồi im lặng, không giải thích. Đây là lỗi nghiêm trọng nhất vì câu trả lời quá ngắn.\n• Topic A: chỉ nói I like relaxing mà không mô tả nơi nghỉ dưỡng và hoạt động cụ thể.\n• Topic A: nhầm giữa holiday, vacation và trip, hoặc dùng sai giới từ như stay at, stay in.\n• Topic B: chỉ nói It is good mà không mô tả cảnh quan, tiện ích hay con người.\n• Topic B: nhầm giữa neighbor (hàng xóm) và neighborhood (khu phố), hoặc quên mạo từ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu kéo dài thời gian: That is an interesting question, let me think for a second.\n• Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm thay vì bỏ cuộc.\n• Bí ý ở Topic A: kể về chuyến đi gần nhất của bạn, bạn ở đâu, làm gì, ăn gì và cảm thấy thế nào.\n• Bí ý ở Topic B: mô tả đường từ nhà bạn ra phố, các cửa hàng, quán ăn hoặc công viên gần đó.\n6. Tư duy làm bài nói:\n• Hãy coi Part 1 như một cuộc trò chuyện thân mật với giám khảo, không phải bài học thuộc lòng.\n• Sau câu 3, hãy reset tâm lý: quên chủ đề du lịch và bước vào chủ đề khu phố với năng lượng mới.\n• Sự tự nhiên và trôi chảy quan trọng hơn từ vựng phức tạp. Một câu đơn giản, đúng và đủ ý luôn tốt hơn một câu khó\nnhưng sai.\nSolution Discussion\nPART 2\n4 phút\nYour school wants to organize an educational activity to teach students about a local pagoda and its cultural value.\nYou are considering the following options:\n• Option 1: A cultural festival\n• Option 2: A cultural event\n• Option 3: A cultural competition with prizes\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống: trường muốn tổ chức một hoạt động giáo dục về ngôi chùa địa phương và giá trị văn hóa của nó. Có 3\nphương án: lễ hội văn hóa, sự kiện văn hóa, cuộc thi văn hóa có giải thưởng.\n• Tiêu chí chấm điểm: Fluency, Vocabulary, Grammar, Pronunciation và khả năng lập luận để chọn phương án tốt nhất.\n• Thời gian: 4 phút tổng cộng, khoảng 1 phút chuẩn bị và khoảng 3 phút nói.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Dùng cấu trúc I-C-E: Introduction (nêu tình huống) – Comparison/Body (phân tích từng phương án) – End (kết luận\nchọn một phương án).\n• Option 1 (cultural festival): quy mô lớn, thu hút nhiều người, không khí sôi động và có nhiều hoạt động tương tác,\nnhưng cần nhiều kinh phí, nhân lực và thời gian chuẩn bị.\n• Option 2 (cultural event): quy mô vừa, dễ tổ chức hơn, có thể gồm buổi tham quan và thuyết trình, chi phí hợp lý, nhưng\nsức hút và mức độ tham gia có thể thấp hơn.\n• Option 3 (competition with prizes): tạo động lực tham gia, khuyến khích học sinh tìm hiểu sâu, nhưng chỉ một nhóm\nnhỏ học sinh tham gia tích cực và có thể tạo áp lực cạnh tranh.\n• Mẹo: lập luận theo mục tiêu giáo dục, mức độ tham gia của học sinh, chi phí và tính khả thi.\n• Mẹo: dùng từ nối chỉ sự đối lập như however, on the other hand để chuyển từ ưu điểm sang nhược điểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các phương án với nhau thay vì nói riêng lẻ, ví dụ: Compared to a competition, a festival lets every student\ntake part, not just the winners.\n• Thì động từ: dùng hiện tại đơn để nêu đặc điểm (A festival attracts many visitors), will/would để dự đoán (Students\nwould learn more through activities), câu điều kiện loại 2 để giả định (If we organized a competition, students would\nresearch more carefully).\n• Paraphrase theo chủ đề: thay pagoda bằng historical site hoặc cultural heritage site; thay learn bằng gain\nknowledge; thay expensive bằng costly.\nCụm từ quan trọng nên dùng:\n• cultural heritage: di sản văn hóa\n• raise awareness of: nâng cao nhận thức về\n• hands-on experience: trải nghiệm thực tế\n• encourage participation: khuyến khích sự tham gia\n• preserve traditions: giữ gìn truyền thống\n• limited budget: ngân sách hạn chế\n• healthy competition: sự cạnh tranh lành mạnh\nTừ nối khi nói (Linking Words):\n• First of all: trước hết, dùng để mở đầu phân tích.\n• However: tuy nhiên, dùng để nêu nhược điểm.\n• On the other hand: mặt khác, dùng để chuyển sang phương án khác.\n• In addition: ngoài ra, dùng để thêm lý do.\n• Therefore: vì vậy, dùng để rút ra kết luận.\n• All things considered: xét tổng thể, dùng để mở đầu kết luận.\nCách thể hiện quan điểm tự nhiên:\n• Compared to... (so với) – Compared to a competition, a cultural festival offers a livelier and more inclusive experience.\n• I would go for... (tôi sẽ chọn) – I would go for the cultural festival because it allows everyone to join and learn through\nactivities.\n• What matters most is... (điều quan trọng nhất là) – What matters most is helping students understand and appreciate\nthe value of the pagoda.\n4. Các lỗi thường gặp:\n• Chỉ khen phương án mình chọn mà không phân tích điểm yếu của hai phương án còn lại.\n• Lặp lại good và interesting, hãy thay bằng educational, engaging, inclusive, costly, time-consuming.\n• Không đưa ra quyết định rõ ràng ở phần kết, chỉ dừng lại ở việc liệt kê ưu nhược điểm.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên biệt, hãy chuyển sang yếu tố chi phí hoặc mức độ tham gia của học sinh để tiếp tục lập luận.\n• Dùng câu kéo dài thời gian: Let's evaluate this option from a different perspective.\n• Giữ bình tĩnh, nếu bí ý ở một phương án thì chuyển sang phương án tiếp theo và quay lại sau nếu còn thời gian.\n6. Tư duy làm bài nói:\n• Hãy nghĩ như người tổ chức hoạt động giáo dục: cách nào giúp nhiều học sinh hiểu và trân trọng di sản nhất với nguồn\nlực hợp lý?\n• Dù chọn phương án nào, hãy đề xuất kết hợp, ví dụ tổ chức lễ hội kèm một cuộc thi nhỏ có quà, để thể hiện tư duy\nphản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The effects of academic pressure on students\nLack of sleep\nGetting angry easily\nAcademic Pressure\nÝ tưởng của bạn\nReduced social interaction\nFOLLOW-UP QUESTIONS\n1.\nWhat causes academic pressure among students?\n2.\nHow can students deal with academic pressure?\n3.\nDo you think schools give students too much homework? Why or why not?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề là tác động của áp lực học tập lên học sinh, sinh viên với 3 nhánh sơ đồ tư duy: thiếu ngủ, dễ nổi nóng, giảm\ngiao tiếp xã hội, cộng thêm 1 nhánh ý tưởng cá nhân.\n• Gợi ý cho nhánh thứ 4: suy giảm sức khỏe thể chất và tinh thần, mất hứng thú học tập, hoặc ảnh hưởng đến mối quan\nhệ với gia đình.\n• Tiêu chí chấm điểm: Fluency, Vocabulary, Grammar, Pronunciation và khả năng phát triển ý mạch lạc.\n• Thời gian: 5 phút, khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Dùng cấu trúc IDEA: Introduction (giới thiệu) – Detail (chi tiết) – Example (ví dụ) – Add/wrap up (bổ sung hoặc chốt\ný) cho từng nhánh.\n• Ví dụ 1: Today, I would like to talk about the effects of academic pressure on students, which is a common problem\nin many schools and universities.\n• Ví dụ 2 (ý cá nhân): Another effect is a decline in physical and mental health, because stress can cause headaches,\nanxiety and loss of motivation.\n• Mẹo: mỗi nhánh nên nêu nguyên nhân rồi hệ quả, ví dụ học khuya để ôn thi dẫn đến thiếu ngủ và khó tập trung.\n• Mẹo: bám sát sơ đồ tư duy để tránh lặp ý và lan man sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm chuyển ý mượt giữa các nhánh như Moving on to..., Another effect worth mentioning is...\n• Thì động từ: hiện tại đơn cho sự thật chung (Stress affects students' sleep) và hiện tại hoàn thành cho xu hướng\nđang diễn ra (Academic pressure has become more serious in recent years).\n• Paraphrase cụm chủ đề: academic pressure có thể thay bằng study stress hoặc pressure from schoolwork; effects\nthay bằng consequences hoặc impacts.\nCụm từ quan trọng nên dùng:\n• academic pressure: áp lực học tập\n• sleep deprivation: thiếu ngủ\n• lose my temper: mất bình tĩnh, nổi nóng\n• social isolation: sự cô lập xã hội\n• mental health problems: các vấn đề sức khỏe tinh thần\n• heavy workload: khối lượng bài vở nặng\n• burn out: kiệt sức\nTừ nối khi nói (Linking Words):\n• To begin with: trước tiên, dùng để mở đầu nhánh đầu tiên.\n• Moving on to: chuyển sang, dùng để sang nhánh tiếp theo.\n• Another point is that: một điểm khác là, dùng để thêm ý.\n• Having said that: tuy vậy, dùng để đưa ra mặt đối lập.\n• As a result: kết quả là, dùng để nêu hệ quả.\n• To sum up: tóm lại, dùng để kết bài.\nCách thể hiện quan điểm tự nhiên:\n• I firmly believe that... (tôi tin chắc rằng) – I firmly believe that too much pressure harms both students' health and\ntheir results.\n• It seems to me that... (với tôi thì có vẻ) – It seems to me that many students sacrifice sleep to keep up with their\nstudies.\n• From my point of view... (theo quan điểm của tôi) – From my point of view, schools should pay more attention to\nstudents' mental well-being.\n4. Gợi ý trả lời câu hỏi follow-up:\n• What causes academic pressure among students? – It comes from heavy workloads, high expectations from parents\nand teachers, and competition among classmates. Students also worry about exams and their future careers.\n• How can students deal with academic pressure? – They can make a study schedule, take regular breaks, exercise\nand talk to friends or family. Getting enough sleep also helps them stay calm and focused.\n• Do schools give students too much homework? – In many cases, yes, especially before exams. A reasonable amount\nof homework is useful, but too much leaves students no time to rest or enjoy hobbies.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê tác động (lack of sleep, anger, isolation) mà không giải thích cơ chế và không đưa ví dụ cụ thể.\n• Quên nhánh ý tưởng cá nhân, hãy chuẩn bị sẵn một tác động riêng như sức khỏe suy giảm hoặc mất hứng thú.\n• Nói quá lâu ở phần chính khiến không còn thời gian cho câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Quay về trải nghiệm cá nhân: mùa thi của bạn hoặc bạn bè, cảm giác khi phải học nhiều và thiếu ngủ.\n• Dùng câu kéo dài thời gian mang tính học thuật: That is a complex issue. If we evaluate it from an educational\nviewpoint...\n• Nếu quên từ kỹ thuật, hãy dùng từ đồng nghĩa hoặc mô tả đơn giản, ví dụ thay sleep deprivation bằng not getting\nenough sleep.\n7. Tư duy làm bài nói:\n• Hãy nghĩ thực tế và từ góc nhìn của người học: áp lực ở mức vừa phải thúc đẩy tiến bộ, nhưng quá mức sẽ gây hại\ncho sức khỏe và các mối quan hệ.\n• Sự mạch lạc và logic trong dòng ý tưởng là yếu tố then chốt để đạt điểm cao.\n• Khi trả lời follow-up, hãy nêu quan điểm rõ ràng và thêm một giải pháp hoặc ví dụ ngắn để câu trả lời đầy đủ nhưng\nkhông quá dài."
+}

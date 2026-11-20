@@ -1,0 +1,716 @@
+{
+ "id": "vlu-91",
+ "number": 91,
+ "title": "Đề thi VLU 91",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-91",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Asia's Famous Streets: Between Commerce and Memory",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Walk down certain streets in Bangkok, Hanoi, or Kolkata, and you can feel two different time periods pressing against each other at once. Neon signs for mobile phone shops hang above buildings that have stood for over a century. Motorbikes weave past vendors selling the same snacks their grandparents once sold on the same corner. These streets are rarely quiet, and they are rarely simple; each one carries decades of trade, migration, and daily life layered on top of one another.",
+     "Many of these streets began as trading routes centuries ago, long before any modern city grew up around them. Merchants specializing in a single good — silk, spices, metalwork, paper — often clustered together on one street, since buyers found it easier to compare goods sold close by. Over time, some streets became known almost entirely for one craft, and that reputation, once earned, could last for generations even as the surrounding city changed dramatically around **it**.",
+     "Tourism has reshaped many of these streets in the past few decades, sometimes gently and sometimes **abruptly**. Shops that once served local residents now cater mainly to visitors, selling souvenirs instead of daily necessities. Rents have risen sharply in some of the most photographed locations, pushing out small family businesses that could no longer afford the space their grandparents once rented cheaply. A few streets have become so associated with tourism that locals rarely shop there anymore, visiting mainly to eat at a favorite old stall.",
+     "In response, some city governments and local communities have taken steps to protect what remains of a street's original character. A handful of streets now hold official heritage status, which limits how much a building's outer appearance can be altered, even if the shop inside changes completely. Community groups in a few cities have also pushed successfully for rules requiring new businesses to keep certain design elements, such as traditional shop signs or window shapes, even when the goods being sold have nothing to do with the street's original trade.",
+     "None of these efforts fully resolves the underlying tension between commerce and memory. A street can keep its old signs and still lose its old rhythm, its old customers, and its old smells. Yet a street frozen entirely in the past would likely lose the very thing that made it lively in the first place — the **constant**, practical business of buying and selling. What survives, in most cases, is neither fully preserved nor fully changed, but something adapted, imperfectly, from both."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, why did merchants selling a single good often cluster on the same street?",
+      "options": {
+       "A": "because city officials required merchants to organize by trade",
+       "B": "because guild leaders assigned each merchant a fixed location",
+       "C": "because buyers found it easier to compare goods sold close together",
+       "D": "because rent was cheaper on streets with fewer separate businesses"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"clustered together\" ở đoạn 2: bài viết chỉ ra thương nhân tập trung bán cùng mặt hàng vì người mua thấy dễ so sánh sản phẩm hơn (\"buyers found it easier to compare goods sold close by\")."
+     },
+     {
+      "number": 2,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "The ongoing tension between commercial change and memory on Asia's old streets.",
+       "B": "The specific heritage rules some cities have adopted for old streets.",
+       "C": "How tourism has permanently destroyed the character of Asia's old streets.",
+       "D": "How every old trading street in Asia eventually disappears entirely."
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Áp dụng kỹ năng Skimming (Đọc lướt). Theo dõi mạch lập luận toàn bài từ sự hình thành lịch sử, tác động của du lịch cho đến nỗ lực bảo tồn. Nội dung xuyên suốt xoay quanh sự giằng co liên tục giữa thay đổi thương mại và ký ức lịch sử trên các con phố cổ châu Á."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"abruptly\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "slowly",
+       "B": "quietly",
+       "C": "annually",
+       "D": "suddenly"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"abruptly\" ở đoạn 3 dùng để miêu tả sự thay đổi diễn ra bất ngờ, đột ngột đối lập với \"gently\" (êm đềm). Do đó, từ này đồng nghĩa với đột ngột (suddenly)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what happened to rents in some of the most photographed locations?",
+      "options": {
+       "A": "They fell sharply, attracting new small family businesses.",
+       "B": "They rose sharply, pushing out small family businesses.",
+       "C": "They stayed the same, protecting long-term family businesses.",
+       "D": "They rose gradually, allowing family businesses time to adapt."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"rents\", \"photographed locations\" ở đoạn 3: giá thuê nhà tăng mạnh đã đẩy các doanh nghiệp gia đình nhỏ ra ngoài (\"Rents have risen sharply... pushing out small family businesses\")."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way communities have protected a street's character?",
+      "options": {
+       "A": "They required new shops to sell only traditional local goods.",
+       "B": "They granted official heritage status limiting exterior building changes.",
+       "C": "They required businesses to keep traditional shop signs in place.",
+       "D": "They required businesses to preserve certain traditional window shapes."
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Tìm đoạn 4 nơi liệt kê các biện pháp bảo vệ con phố: cấp trạng thái di sản hạn chế sửa đổi ngoại thất, yêu cầu giữ biển hiệu truyền thống, và giữ hình dáng cửa sổ đặc trưng. Yêu cầu \"bắt buộc các cửa hàng mới chỉ được bán hàng hóa địa phương truyền thống\" không được đề cập trong bài."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"it\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "the surrounding city",
+       "B": "the modern city",
+       "C": "the street",
+       "D": "that reputation"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị từ \"it\" ở cuối đoạn 2 (\"...even as the surrounding city changed dramatically around it\"). Đọc vế trước để xác định đại từ quy chiếu: đó là con phố cổ (\"some streets / that reputation... changed around it\" -> quy chiếu tới \"the street\")."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what does the passage suggest would happen if a street were frozen entirely in the past?",
+      "options": {
+       "A": "It would likely gain new tourism revenue from historical preservation.",
+       "B": "It would likely lose the practical trading activity that made it lively.",
+       "C": "It would likely regain the exact customers it had a century ago.",
+       "D": "It would likely qualify automatically for official heritage status citywide."
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "bài viết gợi ý rằng nếu một con phố bị đóng đóng băng hoàn toàn trong quá khứ, nó sẽ mất đi hoạt động thương mại thực tế - yếu tố vốn tạo nên sự sống động ban đầu của nó."
+     },
+     {
+      "number": 8,
+      "stem": "What can be inferred about streets that have become closely associated with tourism?",
+      "options": {
+       "A": "Local residents have completely stopped visiting these streets for any reason.",
+       "B": "Rising rents occurred mainly because local residents had already stopped shopping there.",
+       "C": "Rents have risen sharply in some of the most heavily photographed locations.",
+       "D": "Local residents may now visit mainly for nostalgic reasons rather than daily shopping."
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "việc người dân địa phương hiếm khi mua sắm nhu yếu phẩm ở đây nữa mà chỉ ghé thăm các quán ăn cũ cho thấy họ ghé thăm chủ yếu vì lý do hoài niệm (nostalgic reasons) hơn là mua sắm hàng ngày."
+     },
+     {
+      "number": 9,
+      "stem": "The word \"constant\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "continuous",
+       "B": "occasional",
+       "C": "profitable",
+       "D": "historic"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"constant\" ở đoạn 5 mô tả sự thích nghi và thay đổi diễn ra liên tục, không ngừng nghỉ. Do đó, từ này đồng nghĩa với liên tục (continuous)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall attitude toward the changes happening on these historic streets?",
+      "options": {
+       "A": "Strongly critical, blaming tourism entirely for destroying these streets forever.",
+       "B": "Purely nostalgic, wishing every street could return to its original state.",
+       "C": "Balanced, acknowledging both real loss and the practical need for adaptation.",
+       "D": "Entirely optimistic, expressing no concern about what these streets have lost. Reading"
+      },
+      "answer": "C",
+      "type_hint": "Thái độ của tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Đánh giá sắc thái ở đoạn cuối: tác giả vừa thừa nhận những mất mát thực tế về không gian văn hóa vừa nhìn nhận nhu cầu thích nghi mang tính thực tiễn của cuộc sống hiện đại. Sắc thái này thể hiện góc nhìn cân bằng, khách quan (Balanced)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R1Q1, R1Q4):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm thông tin trực tiếp trong bài đọc.\n  - Với **R1Q1**, quét cụm từ \"clustered together\" ở đoạn 2: bài viết chỉ ra thương nhân tập trung bán cùng mặt hàng vì người mua thấy dễ so sánh sản phẩm hơn (\"buyers found it easier to compare goods sold close by\").\n  - Với **R1Q4**, quét các từ khóa \"rents\", \"photographed locations\" ở đoạn 3: giá thuê nhà tăng mạnh đã đẩy các doanh nghiệp gia đình nhỏ ra ngoài (\"Rents have risen sharply... pushing out small family businesses\").\n- **Dạng câu hỏi Ý chính (R1Q2):** Áp dụng kỹ năng **Skimming** (Đọc lướt). Theo dõi mạch lập luận toàn bài từ sự hình thành lịch sử, tác động của du lịch cho đến nỗ lực bảo tồn. Nội dung xuyên suốt xoay quanh sự giằng co liên tục giữa thay đổi thương mại và ký ức lịch sử trên các con phố cổ châu Á.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"abruptly\"** ở đoạn 3 dùng để miêu tả sự thay đổi diễn ra bất ngờ, đột ngột đối lập với \"gently\" (êm đềm). Do đó, từ này đồng nghĩa với đột ngột (suddenly).\n  - Với **R1Q9**, từ **\"constant\"** ở đoạn 5 mô tả sự thích nghi và thay đổi diễn ra liên tục, không ngừng nghỉ. Do đó, từ này đồng nghĩa với liên tục (continuous).\n- **Dạng câu hỏi Loại trừ NOT (R1Q5):** Tìm đoạn 4 nơi liệt kê các biện pháp bảo vệ con phố: cấp trạng thái di sản hạn chế sửa đổi ngoại thất, yêu cầu giữ biển hiệu truyền thống, và giữ hình dáng cửa sổ đặc trưng. Yêu cầu \"bắt buộc các cửa hàng mới chỉ được bán hàng hóa địa phương truyền thống\" không được đề cập trong bài.\n- **Dạng câu hỏi Quy chiếu (R1Q6):** Định vị từ **\"it\"** ở cuối đoạn 2 (\"...even as the surrounding city changed dramatically around it\"). Đọc vế trước để xác định đại từ quy chiếu: đó là con phố cổ (\"some streets / that reputation... changed around it\" -> quy chiếu tới \"the street\").\n- **Dạng câu hỏi Suy luận (R1Q7, R1Q8):** Phân tích lập luận tư duy ở đoạn 3 và 5.\n  - Với **R1Q7**, bài viết gợi ý rằng nếu một con phố bị đóng đóng băng hoàn toàn trong quá khứ, nó sẽ mất đi hoạt động thương mại thực tế - yếu tố vốn tạo nên sự sống động ban đầu của nó.\n  - Với **R1Q8**, việc người dân địa phương hiếm khi mua sắm nhu yếu phẩm ở đây nữa mà chỉ ghé thăm các quán ăn cũ cho thấy họ ghé thăm chủ yếu vì lý do hoài niệm (nostalgic reasons) hơn là mua sắm hàng ngày.\n- **Dạng câu hỏi Thái độ của tác giả (R1Q10):** Đánh giá sắc thái ở đoạn cuối: tác giả vừa thừa nhận những mất mát thực tế về không gian văn hóa vừa nhìn nhận nhu cầu thích nghi mang tính thực tiễn của cuộc sống hiện đại. Sắc thái này thể hiện góc nhìn cân bằng, khách quan (Balanced).\nLời khuyên: Hãy ưu tiên làm nhanh nhóm câu hỏi định vị trực tiếp như Từ vựng (R1Q3, R1Q9) và Quy chiếu (R1Q6). Tiếp theo, áp dụng kỹ năng đọc quét nhanh để hoàn thành các câu **Chi tiết** (R1Q1, R1Q4) và **Loại trừ** (R1Q5). Cuối cùng, tổng hợp logic toàn bài để chọn đáp án cho nhóm câu hỏi tư duy sâu như **Suy luận** (R1Q7, R1Q8), **Ý chính** (R1Q2) và **Thái độ** tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Uneven Maturing of Southeast Asia's Online Retail",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Southeast Asia's online retail sector is often described in single, sweeping terms — as one of the world's fastest-growing e-commerce regions, a story of smartphones and rising incomes converging into a single consumer boom. That description, while not inaccurate at the regional level, flattens enormous variation beneath it, since the region comprises economies at markedly different stages of digital and physical infrastructure development, and a platform succeeding in one country's dense urban core may face an entirely different set of constraints two borders away.",
+     "Delivery infrastructure illustrates this unevenness clearly. In metropolitan Jakarta, Bangkok, or Manila, same-day delivery has become a realistic expectation for many consumers, supported by dense road networks and a large pool of motorbike couriers. Beyond these urban centers, however, delivery times can stretch to several days or longer, not because demand is absent but because the underlying road and warehousing infrastructure required for fast fulfillment was never built with rural or secondary-city delivery in mind.",
+     "Payment behavior diverges just as sharply. In several markets, cash-on-delivery remains the dominant payment method even for platforms actively promoting digital wallets, reflecting persistent gaps in banking access and, in some cases, lingering distrust of prepaying for goods not yet received. Elsewhere, digital payment adoption has advanced rapidly, driven less by consumer preference alone than by aggressive subsidization from payment providers eager to capture transaction data and establish early market dominance.",
+     "Regulatory frameworks add a further layer of **fragmentation-** . Cross-border e-commerce rules, customs procedures, and tax treatment of digital transactions differ substantially from one country to the next, and harmonization efforts, while periodically announced, have progressed slowly relative to the pace of commercial activity they are meant to govern. A seller operating profitably across three countries may find that identical products require three separate compliance strategies, a burden that falls disproportionately on smaller merchants lacking dedicated legal resources.",
+     "Beneath this infrastructural and regulatory unevenness sits a period of aggressive platform competition, much of it financed by investor capital rather than operating revenue. Deep discounts and free-shipping promotions, sustained well beyond what unit economics alone would justify, have shaped consumer expectations in ways that may prove difficult to reverse once subsidies eventually taper — a pattern some analysts argue is now entering a correction phase, as investor patience for unprofitable growth narrows across the broader technology sector.",
+     "This competitive intensity has downstream labor consequences rarely covered with the same attention as consumer-facing growth statistics. Delivery work has absorbed a substantial share of newly informal employment across the region, offering flexible entry but comparatively little of the stability or benefit structure associated with formal employment. Whether this arrangement represents a **durable** feature of the sector's labor model or a transitional phase preceding stronger regulation remains, at this stage, genuinely unresolved.",
+     "None of this unevenness necessarily contradicts the broader growth narrative; regional transaction volumes have, by most measures, continued to expand. What the unevenness does complicate is any assumption that the region is moving along a single, converging trajectory toward a uniform digital retail market. A more accurate account treats Southeast Asian e-commerce not as one maturing market but as several distinct markets maturing along different timelines, shaped by infrastructure, regulation, and capital availability that vary as much within the region as they do between **it** and the rest of the world."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, why can delivery times stretch to several days outside major urban centers?",
+      "options": {
+       "A": "because road and warehousing infrastructure was never built for rural delivery",
+       "B": "because demand outside major cities is too low to justify investment",
+       "C": "because platforms deliberately restrict service outside major urban centers",
+       "D": "because motorbike couriers refuse to travel beyond city limits"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "Sử dụng kỹ năng Scanning (Đọc quét từ khóa). Quét cụm từ \"delivery times\", \"rural\" ở đoạn 2 để tìm nguyên nhân: bài đọc khẳng định thời gian giao hàng kéo dài không phải do thiếu cầu, mà do hạ tầng đường xá và kho bãi không được xây dựng cho việc giao hàng ở vùng nông thôn hay thành phố phụ (\"underlying road and warehousing infrastructure... was never built with rural or secondary-city delivery in mind\")."
+     },
+     {
+      "number": 12,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "The specific reasons cash-on-delivery remains common in some Southeast Asian markets.",
+       "B": "Why every Southeast Asian country now shares an identical digital retail market.",
+       "C": "The significant unevenness underlying Southeast Asia's overall e-commerce growth narrative.",
+       "D": "How investor-funded price wars became the defining story of the region's retail sector."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Áp dụng kỹ năng Skimming (Đọc lướt). Ngay đoạn 1, tác giả đã nêu rõ việc coi Đông Nam Á là một thị trường thương mại điện tử đồng nhất sẽ làm che khuất sự khác biệt lớn bên dưới (\"flattens enormous variation beneath it\"). Các đoạn sau phân tích sự bất đồng đều về hạ tầng, thanh toán, pháp lý. Do đó, ý chính là sự bất đồng đều đáng kể đằng sau câu chuyện tăng trưởng tổng thể."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"fragmentation\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "unity",
+       "B": "efficiency",
+       "C": "profitability",
+       "D": "division"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"fragmentation\" ở đoạn 4 dùng để chỉ sự phân mảnh, chia nhỏ trong khung pháp lý giữa các quốc gia. Do đó, từ này đồng nghĩa với sự chia rẽ/phân chia (division)."
+     },
+     {
+      "number": 14,
+      "stem": "What do delivery infrastructure and payment behavior have in common as challenges for Southeast Asian e-commerce?",
+      "options": {
+       "A": "Both were resolved once digital wallets became available regionally.",
+       "B": "Both reveal significant variation rather than a single, uniform regional pattern.",
+       "C": "Both are primarily caused by government regulation restricting market entry.",
+       "D": "Both improved mainly because of subsidies from international investors."
+      },
+      "answer": "B",
+      "type_hint": "Mối liên hệ / Phân tích",
+      "type": "Chi tiết",
+      "explanation": "cả hạ tầng giao hàng và hành vi thanh toán đều là các ví dụ minh họa cho sự đa dạng, không đồng nhất giữa các quốc gia trong khu vực."
+     },
+     {
+      "number": 15,
+      "stem": "According to the passage, which of the following is NOT mentioned as a source of unevenness in Southeast Asia's online retail sector?",
+      "options": {
+       "A": "Differences in the language used in marketing content across markets.",
+       "B": "Divergence in payment methods used across different markets.",
+       "C": "Fragmentation in regulatory frameworks governing cross-border commerce.",
+       "D": "Gaps in delivery infrastructure between urban and rural areas."
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Kiểm tra các yếu tố gây ra sự bất đồng đều được liệt kê: sự khác biệt về phương thức thanh toán (đoạn 3), sự phân mảnh pháp lý (đoạn 4), và khoảng cách hạ tầng giao hàng (đoạn 2). Chi tiết \"sự khác biệt về ngôn ngữ trong nội dung tiếp thị\" không được đề cập trong bài."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"it\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "the rest of the world",
+       "B": "the region",
+       "C": "infrastructure and regulation",
+       "D": "capital availability"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị đại từ \"it\" ở đoạn 7. Đọc vế trước để tìm danh từ số ít được quy chiếu: đại từ này thay thế cho khu vực Đông Nam Á (\"the region\")."
+     },
+     {
+      "number": 17,
+      "stem": "What connects aggressive platform competition and the growth of informal delivery labor?",
+      "options": {
+       "A": "Informal delivery labor caused platforms to abandon investor-funded discounting entirely.",
+       "B": "Government regulation directly created both platform competition and informal labor growth.",
+       "C": "Competitive pressure to sustain low prices relied partly on flexible, unstable labor.",
+       "D": "Aggressive competition eliminated the need for any delivery labor at all."
+      },
+      "answer": "C",
+      "type_hint": "Mối liên hệ / Phân tích",
+      "type": "Chi tiết",
+      "explanation": "áp lực cạnh tranh khốc liệt giữa các nền tảng để giữ giá rẻ đòi hỏi phải dựa vào nguồn lao động giao hàng linh hoạt nhưng thiếu ổn định (informal labor) để cắt giảm chi phí."
+     },
+     {
+      "number": 18,
+      "stem": "What can be inferred about the future of deep discounts and free-shipping promotions in the region?",
+      "options": {
+       "A": "These promotions will disappear completely and permanently within the next year.",
+       "B": "Investor patience narrowed mainly because consumer expectations became too difficult to reverse.",
+       "C": "Some analysts argue the sector is now entering a correction phase.",
+       "D": "Consumer expectations shaped by subsidies may be difficult to sustain once funding decreases."
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận ở đoạn 6 về các chương trình trợ giá/miễn phí vận chuyển: khi nguồn vốn đầu tư giảm, kỳ vọng của người tiêu dùng đã được định hình bởi trợ giá sẽ rất khó để duy trì."
+     },
+     {
+      "number": 19,
+      "stem": "The word \"durable\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "lasting",
+       "B": "temporary",
+       "C": "profitable",
+       "D": "informal"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"durable\" ở đoạn 6 miêu tả lợi thế cạnh tranh lâu dài, bền vững (\"durable competitive advantage\"). Từ này đồng nghĩa với lâu dài/bền vững (lasting)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's overall attitude toward the narrative that Southeast Asia is one uniformly maturing e-commerce market?",
+      "options": {
+       "A": "Fully supportive, agreeing the region functions as one converging market.",
+       "B": "Skeptical, treating the region as several distinct markets maturing at different rates.",
+       "C": "Dismissive, denying that any meaningful growth has occurred in the region.",
+       "D": "Neutral, offering no assessment of whether the growth narrative is accurate. Reading"
+      },
+      "answer": "B",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Đánh giá quan điểm xuyên suốt bài viết: tác giả thể hiện sự hoài nghi (Skeptical) đối với nhận định coi Đông Nam Á là một thị trường đơn nhất, đồng thời chỉ ra đây là tập hợp của nhiều thị trường riêng biệt phát triển với tốc độ khác nhau."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R2Q1):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa). Quét cụm từ \"delivery times\", \"rural\" ở đoạn 2 để tìm nguyên nhân: bài đọc khẳng định thời gian giao hàng kéo dài không phải do thiếu cầu, mà do hạ tầng đường xá và kho bãi không được xây dựng cho việc giao hàng ở vùng nông thôn hay thành phố phụ (\"underlying road and warehousing infrastructure... was never built with rural or secondary-city delivery in mind\").\n- **Dạng câu hỏi Ý chính (R2Q2):** Áp dụng kỹ năng **Skimming** (Đọc lướt). Ngay đoạn 1, tác giả đã nêu rõ việc coi Đông Nam Á là một thị trường thương mại điện tử đồng nhất sẽ làm che khuất sự khác biệt lớn bên dưới (\"flattens enormous variation beneath it\"). Các đoạn sau phân tích sự bất đồng đều về hạ tầng, thanh toán, pháp lý. Do đó, ý chính là sự bất đồng đều đáng kể đằng sau câu chuyện tăng trưởng tổng thể.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"fragmentation\"** ở đoạn 4 dùng để chỉ sự phân mảnh, chia nhỏ trong khung pháp lý giữa các quốc gia. Do đó, từ này đồng nghĩa với sự chia rẽ/phân chia (division).\n  - Với **R2Q9**, từ **\"durable\"** ở đoạn 6 miêu tả lợi thế cạnh tranh lâu dài, bền vững (\"durable competitive advantage\"). Từ này đồng nghĩa với lâu dài/bền vững (lasting).\n- **Dạng câu hỏi Mối liên hệ / Phân tích (R2Q4, R2Q7):** Tóm tắt mạch logic kết nối các yếu tố trong bài.\n  - Với **R2Q4**, cả hạ tầng giao hàng và hành vi thanh toán đều là các ví dụ minh họa cho sự đa dạng, không đồng nhất giữa các quốc gia trong khu vực.\n  - Với **R2Q7**, áp lực cạnh tranh khốc liệt giữa các nền tảng để giữ giá rẻ đòi hỏi phải dựa vào nguồn lao động giao hàng linh hoạt nhưng thiếu ổn định (informal labor) để cắt giảm chi phí.\n- **Dạng câu hỏi Loại trừ NOT (R2Q5):** Kiểm tra các yếu tố gây ra sự bất đồng đều được liệt kê: sự khác biệt về phương thức thanh toán (đoạn 3), sự phân mảnh pháp lý (đoạn 4), và khoảng cách hạ tầng giao hàng (đoạn 2). Chi tiết \"sự khác biệt về ngôn ngữ trong nội dung tiếp thị\" không được đề cập trong bài.\n- **Dạng câu hỏi Quy chiếu (R2Q6):** Định vị đại từ **\"it\"** ở đoạn 7. Đọc vế trước để tìm danh từ số ít được quy chiếu: đại từ này thay thế cho khu vực Đông Nam Á (\"the region\").\n- **Dạng câu hỏi Suy luận (R2Q8):** Phân tích lập luận ở đoạn 6 về các chương trình trợ giá/miễn phí vận chuyển: khi nguồn vốn đầu tư giảm, kỳ vọng của người tiêu dùng đã được định hình bởi trợ giá sẽ rất khó để duy trì.\n- **Dạng câu hỏi Thái độ tác giả (R2Q10):** Đánh giá quan điểm xuyên suốt bài viết: tác giả thể hiện sự hoài nghi (Skeptical) đối với nhận định coi Đông Nam Á là một thị trường đơn nhất, đồng thời chỉ ra đây là tập hợp của nhiều thị trường riêng biệt phát triển với tốc độ khác nhau.\nLời khuyên: Hãy ưu tiên làm nhanh các câu hỏi định vị trực tiếp như Từ vựng (R2Q3, R2Q9) và Quy chiếu (R2Q6). Kế tiếp, sử dụng kỹ năng đọc quét để xử lý các câu **Chi tiết** (R2Q1) và **Loại trừ** (R2Q5). Cuối cùng, kết nối mạch logic của toàn bài để hoàn thành nhóm câu hỏi tư duy cao gồm **Mối liên hệ / Suy luận** (R2Q4, R2Q7, R2Q8), **Ý chính** (R2Q2) và Thái độ tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Rethinking the Bystander: What Drives Ordinary People to Intervene",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "For decades, the dominant explanation for why witnesses to an emergency often fail to help has centered on a single, memorable idea: the presence of other people inhibits individual action, an effect popularized after press coverage of a 1964 murder in New York suggested, controversially, that dozens of witnesses had watched without intervening. The story that emerged from that case, however, was later shown to be considerably less clear-cut than initial reporting implied, and the psychological theory it inspired has, over the following decades, undergone significant revision.",
+     "The original theoretical account, developed through a series of laboratory experiments in the late 1960s, proposed two related mechanisms. Diffusion of responsibility suggested that each bystander feels less personally obligated to act as the number of witnesses increases, since responsibility is implicitly divided among everyone present. Pluralistic ignorance, a related but distinct mechanism, proposed that bystanders look to each other's outward calm for cues about whether a situation is truly an emergency, and a crowd of individually uncertain people can collectively appear falsely **composed**, delaying everyone's response at once.",
+     "Recent research, drawing on an unlikely data source — security camera footage of real, naturally occurring public conflicts — has complicated this picture considerably. Analyses of hundreds of recorded incidents across several countries found that some form of intervention occurred in the substantial majority of cases, far more often than laboratory-based bystander studies would predict. This finding does not overturn the original theory outright, but it does suggest that inhibition, where it occurs, may be more conditional and situation-dependent than the classic account implies.",
+     "Several factors appear to shape whether a given bystander intervenes. Familiarity among witnesses reduces inhibition considerably; strangers surrounded by other strangers hesitate more than individuals embedded within a group of people they already know, since the diffusion of responsibility that troubled Latané and Darley's original subjects seems to weaken substantially once social bonds, even loose ones, connect the people present. Perceived severity matters as well — witnesses appear far more willing to intervene once a conflict crosses a threshold read as physically dangerous, even when doing so involves genuine personal risk.",
+     "Physical and psychological proximity to the victim further **modulate** the likelihood of action, though not always in the direction intuition might suggest. Closer physical proximity increases the pressure to act, but **it** does not guarantee intervention if the bystander interprets the situation as a private matter rather than a genuine emergency — a distinction that camera footage analysis suggests bystanders make quickly, sometimes within seconds, based on cues as subtle as tone of voice or body posture between the parties involved.",
+     "None of this evidence resolves the underlying theoretical debate entirely, and researchers caution against treating footage-based intervention rates as a simple refutation of decades of laboratory findings; the two research traditions examine somewhat different phenomena under different conditions, and reconciling them fully remains an active area of inquiry. What does seem increasingly clear, however, is that the bystander effect, as popularly understood, describes a real but narrower phenomenon than the original framing suggested — one shaped as much by group familiarity, perceived severity, and situational interpretation as by the mere number of people present."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, what did the mechanism of pluralistic ignorance propose?",
+      "options": {
+       "A": "bystanders divide the perceived responsibility equally among everyone present",
+       "B": "bystanders look to others' outward calm for emergency cues",
+       "C": "bystanders assume someone with authority will intervene first",
+       "D": "bystanders wait for a clear signal directly from the victim"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Pluralistic ignorance\" ở đoạn 2: cơ chế này cho thấy những người đứng xem nhìn vào sự điềm tĩnh bên ngoài của người khác để tìm kiếm dấu hiệu (\"bystanders look to each other's outward calm for cues\")."
+     },
+     {
+      "number": 22,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "The specific camera-footage methods used in recent bystander research.",
+       "B": "How camera footage completely disproved the original bystander effect theory.",
+       "C": "Why bystanders in every country respond identically to public emergencies.",
+       "D": "How research has revised the classic bystander-effect account."
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Áp dụng kỹ năng Skimming (Đọc lướt). Theo dõi mạch lập luận từ đoạn 1 (lý thuyết cổ điển về hiệu ứng người đứng xem), các đoạn giữa (nghiên cứu mới qua camera giám sát chỉ ra tính phức tạp và các yếu tố ảnh hưởng) cho đến đoạn kết. Ý chính bao quát toàn bài là nghiên cứu hiện đại đã điều chỉnh và bổ sung cho lý thuyết cổ thuyết về hiệu ứng này như thế nào."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"modulate\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "influence",
+       "B": "prevent",
+       "C": "guarantee",
+       "D": "measure"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"modulate\" ở đoạn 5 đi kèm với các yếu tố điều chỉnh/ảnh hưởng đến khả năng hành động, đồng nghĩa với ảnh hưởng, tác động (influence)."
+     },
+     {
+      "number": 24,
+      "stem": "How does recent camera-footage research relate to the original laboratory-based theory?",
+      "options": {
+       "A": "It completely overturns the original theory, proving diffusion never occurs.",
+       "B": "It was conducted using the same laboratory methods as the original studies.",
+       "C": "It complicates but does not fully overturn the original account of inhibition.",
+       "D": "It confirms every prediction the original laboratory-based theory originally made."
+      },
+      "answer": "C",
+      "type_hint": "Mối liên hệ / Phân tích",
+      "type": "Chi tiết",
+      "explanation": "Kết hợp thông tin từ đoạn 2 và đoạn 3: nghiên cứu qua camera thực tế không bác bỏ hoàn toàn lý thuyết phòng thí nghiệm ban đầu (\"does not overturn the original theory outright\"), mà làm cho bức tranh trở nên phức tạp hơn (complicates) và phụ thuộc vào tình huống hơn."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, which of the following is NOT mentioned as a factor shaping whether a bystander intervenes?",
+      "options": {
+       "A": "The degree of familiarity among the witnesses present.",
+       "B": "The bystander's own prior training in administering first aid.",
+       "C": "How physically or psychologically close the bystander is to the victim.",
+       "D": "Whether the conflict is perceived as sufficiently severe or dangerous."
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Tìm đoạn 4 và 5 nơi liệt kê các yếu tố ảnh hưởng đến sự can thiệp: độ quen biết giữa các nhân chứng, khoảng cách vật lý/tâm lý đối với nạn nhân, và mức độ nghiêm trọng/nguy hiểm của vụ việc. Chi tiết \"việc người đứng xem từng được đào tạo về sơ cứu\" không được đề cập trong bài."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"it\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "the bystander effect",
+       "B": "psychological proximity",
+       "C": "the victim's behavior",
+       "D": "closer physical proximity"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị từ \"it\" ở đoạn 5. Đọc vế trước để xác định danh từ được quy chiếu: từ này thay thế cho khoảng cách vật lý gần hơn (\"closer physical proximity\")."
+     },
+     {
+      "number": 27,
+      "stem": "What can be inferred about the relationship between the classic bystander-effect theory and the newer camera-footage findings?",
+      "options": {
+       "A": "The two research traditions may examine different aspects of a genuinely complex phenomenon.",
+       "B": "The two research traditions have already been fully reconciled by current researchers.",
+       "C": "Camera footage was developed specifically because researchers requested better laboratory evidence.",
+       "D": "Some form of intervention occurred in the majority of recorded incidents."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận ở các đoạn giữa: sự khác biệt giữa kết quả nghiên cứu trong phòng thí nghiệm và qua camera ghi hình thực tế gợi ý rằng hai hướng nghiên cứu này có thể đang xem xét các khía cạnh khác nhau của một hiện tượng tâm lý xã hội thực sự phức tạp."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, how does familiarity among witnesses affect the likelihood of intervention?",
+      "options": {
+       "A": "It increases inhibition considerably, making bystanders less likely to act.",
+       "B": "It has no measurable effect on whether bystanders intervene at all.",
+       "C": "It reduces inhibition considerably, making bystanders more likely to act.",
+       "D": "It matters only when the conflict is perceived as physically dangerous."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"familiarity\" ở đoạn 4: bài viết khẳng định sự quen biết giữa các nhân chứng giúp giảm đáng kể sự e dè/ức chế (\"Familiarity among witnesses reduces inhibition considerably\"), làm tăng khả năng can thiệp."
+     },
+     {
+      "number": 29,
+      "stem": "The word \"composed\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "confused",
+       "B": "calm",
+       "C": "responsible",
+       "D": "informed"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"composed\" ở đoạn 2 mô tả trạng thái tỏ ra điềm tĩnh, bình tĩnh bên ngoài của nhóm người (\"appear falsely composed\"), đồng nghĩa với bình tĩnh (calm)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's overall attitude toward the classic bystander-effect narrative as popularly understood?",
+      "options": {
+       "A": "Fully dismissive, arguing the bystander effect has never been observed in any study.",
+       "B": "Fully accepting, arguing the classic narrative requires no further qualification at all.",
+       "C": "Uncertain, offering no assessment of whether the narrative holds any validity.",
+       "D": "Measured, treating it as real but narrower than the popular narrative suggests. Reading"
+      },
+      "answer": "D",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Đánh giá quan điểm xuyên suốt bài đọc: tác giả nhận định lý thuyết cổ điển không hoàn toàn sai nhưng phạm vi ứng dụng thực tế hẹp hơn và phụ thuộc nhiều vào hoàn cảnh hơn so với những gì truyền thông/công chúng thường hiểu. Thái độ này mang tính chừng mực, đánh giá khách quan (Measured). Lời khuyên: Tận dụng thời gian làm nhanh các câu hỏi định vị trực tiếp như Từ vựng (R3Q3, R3Q9) và Quy chiếu (R3Q6). Tiếp theo, dùng kỹ năng đọc quét để xử lý các câu Chi tiết (R3Q1, R3Q8) và Loại trừ (R3Q5). Cuối cùng, tổng hợp mạch lập luận của bài để hoàn thành chính xác nhóm câu hỏi tư duy cao gồm Mối liên hệ / Suy luận (R3Q4, R3Q7), Ý chính (R3Q2) và Thái độ tác giả (R3Q10)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R3Q1, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm thông tin trực tiếp trong bài.\n  - Với **R3Q1**, quét từ khóa \"Pluralistic ignorance\" ở đoạn 2: cơ chế này cho thấy những người đứng xem nhìn vào sự điềm tĩnh bên ngoài của người khác để tìm kiếm dấu hiệu (\"bystanders look to each other's outward calm for cues\").\n  - Với **R3Q8**, quét từ khóa \"familiarity\" ở đoạn 4: bài viết khẳng định sự quen biết giữa các nhân chứng giúp giảm đáng kể sự e dè/ức chế (\"Familiarity among witnesses reduces inhibition considerably\"), làm tăng khả năng can thiệp.\n- **Dạng câu hỏi Ý chính (R3Q2):** Áp dụng kỹ năng **Skimming** (Đọc lướt). Theo dõi mạch lập luận từ đoạn 1 (lý thuyết cổ điển về hiệu ứng người đứng xem), các đoạn giữa (nghiên cứu mới qua camera giám sát chỉ ra tính phức tạp và các yếu tố ảnh hưởng) cho đến đoạn kết. Ý chính bao quát toàn bài là nghiên cứu hiện đại đã điều chỉnh và bổ sung cho lý thuyết cổ thuyết về hiệu ứng này như thế nào.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"modulate\"** ở đoạn 5 đi kèm với các yếu tố điều chỉnh/ảnh hưởng đến khả năng hành động, đồng nghĩa với ảnh hưởng, tác động (influence).\n  - Với **R3Q9**, từ **\"composed\"** ở đoạn 2 mô tả trạng thái tỏ ra điềm tĩnh, bình tĩnh bên ngoài của nhóm người (\"appear falsely composed\"), đồng nghĩa với bình tĩnh (calm).\n- **Dạng câu hỏi Mối liên hệ / Phân tích (R3Q4):** Kết hợp thông tin từ đoạn 2 và đoạn 3: nghiên cứu qua camera thực tế không bác bỏ hoàn toàn lý thuyết phòng thí nghiệm ban đầu (\"does not overturn the original theory outright\"), mà làm cho bức tranh trở nên phức tạp hơn (complicates) và phụ thuộc vào tình huống hơn.\n- **Dạng câu hỏi Loại trừ NOT (R3Q5):** Tìm đoạn 4 và 5 nơi liệt kê các yếu tố ảnh hưởng đến sự can thiệp: độ quen biết giữa các nhân chứng, khoảng cách vật lý/tâm lý đối với nạn nhân, và mức độ nghiêm trọng/nguy hiểm của vụ việc. Chi tiết \"việc người đứng xem từng được đào tạo về sơ cứu\" không được đề cập trong bài.\n- **Dạng câu hỏi Quy chiếu (R3Q6):** Định vị từ **\"it\"** ở đoạn 5. Đọc vế trước để xác định danh từ được quy chiếu: từ này thay thế cho khoảng cách vật lý gần hơn (\"closer physical proximity\").\n- **Dạng câu hỏi Suy luận (R3Q7):** Phân tích lập luận ở các đoạn giữa: sự khác biệt giữa kết quả nghiên cứu trong phòng thí nghiệm và qua camera ghi hình thực tế gợi ý rằng hai hướng nghiên cứu này có thể đang xem xét các khía cạnh khác nhau của một hiện tượng tâm lý xã hội thực sự phức tạp.\n- **Dạng câu hỏi Thái độ tác giả (R3Q10):** Đánh giá quan điểm xuyên suốt bài đọc: tác giả nhận định lý thuyết cổ điển không hoàn toàn sai nhưng phạm vi ứng dụng thực tế hẹp hơn và phụ thuộc nhiều vào hoàn cảnh hơn so với những gì truyền thông/công chúng thường hiểu. Thái độ này mang tính chừng mực, đánh giá khách quan (Measured). Lời khuyên: Tận dụng thời gian làm nhanh các câu hỏi định vị trực tiếp như Từ vựng (R3Q3, R3Q9) và Quy chiếu (R3Q6). Tiếp theo, dùng kỹ năng đọc quét để xử lý các câu **Chi tiết** (R3Q1, R3Q8) và **Loại trừ** (R3Q5). Cuối cùng, tổng hợp mạch lập luận của bài để hoàn thành chính xác nhóm câu hỏi tư duy cao gồm **Mối liên hệ / Suy luận** (R3Q4, R3Q7), **Ý chính** (R3Q2) và **Thái độ tác giả** (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Beyond Charisma: Self-Examination as a Leadership Discipline",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Leadership development programs have long gravitated toward charisma as though it were the discipline's foundational variable — the trait from which persuasive vision, follower loyalty, and organizational momentum are all presumed, more or less directly, to flow. Not only does this emphasis persist despite decades of mixed empirical support, but it has arguably deepened, as media coverage of prominent executives continues to attribute organizational outcomes overwhelmingly to individual personality rather than to the less visible, more distributed mechanisms that organizational research increasingly implicates instead.",
+     "That charisma correlates with certain short-term outcomes — heightened follower enthusiasm, more favorable performance ratings in the months immediately following a leadership transition — is not seriously disputed. What is disputed, increasingly, is whether these short-term correlations translate into anything resembling durable organizational health, since several longitudinal studies tracking leadership cohorts over a decade or more have found charisma's predictive power for outcomes such as employee retention and long-term financial performance to be considerably weaker than its predictive power for immediate follower impressions.",
+     "A quieter body of leadership research has, over roughly the same period, converged on a different candidate variable: self-examination, understood not as generic introspection but as a structured, recurring practice of soliciting disconfirming feedback and revising one's own operating assumptions accordingly. While charisma tends to be treated in the literature as comparatively fixed — a trait one either possesses in meaningful degree or does not — self-examination is characterized, across nearly every study reviewed here, as **trainable**, and its trainability may be precisely what accounts for its stronger association with sustained rather than merely initial organizational performance.",
+     "The mechanism proposed to explain this association is not, as intuition might suggest, that self-examining leaders simply make fewer errors. Rather, the proposed mechanism concerns error correction speed: leaders who habitually solicit and act on disconfirming feedback appear to identify and reverse flawed strategic assumptions considerably faster than leaders who do not, a difference that compounds meaningfully across years even when the two groups' initial error rates are statistically indistinguishable. Whether this compounding effect fully accounts for the long-term performance gap observed, or merely contributes to it alongside other, less-studied variables, remains a question the current evidence cannot resolve with confidence.",
+     "Institutional obstacles to cultivating this discipline are, however, considerable, and arguably more **entrenched** than obstacles to cultivating charisma. Organizational hierarchies routinely **insulate** senior leaders from precisely the kind of disconfirming feedback self-examination requires, not through any deliberate conspiracy but through an accumulation of smaller incentive distortions — subordinates calibrating candor to perceived risk, boards rewarding confident narrative over qualified uncertainty, media coverage rewarding decisiveness over visible reconsideration — each individually minor, collectively substantial.",
+     "Some organizations have attempted structural interventions intended to counteract this insulation: mandatory 360-degree review processes, external advisory boards explicitly tasked with challenging leadership assumptions, rotating internal dissent roles modeled loosely on the historical devil's advocate. Evidence on these interventions' effectiveness is, at present, decidedly mixed; several studies suggest their impact depends less on the intervention's formal design than on whether senior leadership visibly treats disconfirming feedback as valuable rather than merely tolerated, a distinction subordinates appear to detect quickly and to calibrate their own candor against accordingly.",
+     "None of this amounts to a wholesale dismissal of charisma's relevance to leadership, and the argument advanced here should not be mistaken for one. Charisma retains clear value in specific circumstances — crisis communication, rapid mobilization of a workforce around an urgent priority — where **its** short-term advantages are neither disputed nor, on the evidence available, easily substituted for. The more defensible position is narrower: that charisma and self-examination address different organizational needs operating on different time horizons, and that leadership development programs weighted overwhelmingly toward the former may be optimizing for exactly the outcomes least correlated with an organization's long-term health."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, what do longitudinal studies suggest about charisma's predictive power?",
+      "options": {
+       "A": "It predicts long-term financial performance more strongly than immediate follower impressions.",
+       "B": "It predicts almost nothing measurable about either short-term or long-term outcomes.",
+       "C": "It predicts immediate follower impressions more strongly than durable outcomes like retention.",
+       "D": "It predicts long-term outcomes moderately well, though less consistently than short-term ones."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Suy luận",
+      "explanation": "quét cụm từ \"longitudinal studies\" ở đoạn 2: các nghiên cứu dọc chỉ ra sức mạnh dự báo của sức hút cá nhân (charisma) đối với các kết quả lâu dài như sự gắn bó của nhân viên bị yếu hơn đáng kể so với khả năng tạo ấn tượng ban đầu (\"predictive power... to be considerably weaker than its predictive power for immediate follower impressions\")."
+     },
+     {
+      "number": 32,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "Why self-examination may be a more durable, harder-to-institutionalize leadership discipline than charisma.",
+       "B": "The specific mechanism by which self-examination speeds error correction in leaders.",
+       "C": "How charisma has been proven to outperform self-examination on every leadership outcome.",
+       "D": "Why all organizational leadership programs should abandon charisma entirely and immediately."
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Áp dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề đoạn 1 (nhấn mạnh sự thiên lệch vào charisma) và kết nối với các đoạn về năng lực tự kiểm điểm (self-examination). Ý bao quát toàn bài là phân tích lý do tại sao tự kiểm điểm có thể là một kỷ luật lãnh đạo bền vững hơn nhưng lại khó thể chế hóa hơn so với charisma."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"insulate\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "expose",
+       "B": "reward",
+       "C": "train",
+       "D": "shield"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"insulate\" ở đoạn 5 được dùng với nghĩa che chắn, bảo vệ các nhà lãnh đạo khỏi phản hồi bất lợi. Do đó, từ này đồng nghĩa với che chắn / bảo vệ (shield)."
+     },
+     {
+      "number": 34,
+      "stem": "Why might self-examination's trainability help explain its stronger association with long-term organizational performance?",
+      "options": {
+       "A": "Because trainability guarantees leaders will make no strategic errors at all.",
+       "B": "Because it lets leaders correct flawed assumptions faster than a fixed trait would.",
+       "C": "Because trainability was shown to eliminate the need for disconfirming feedback entirely.",
+       "D": "Because trainable leaders start with a lower initial error rate than others."
+      },
+      "answer": "B",
+      "type_hint": "Mối liên hệ / Phân tích",
+      "type": "Chi tiết",
+      "explanation": "Kết hợp thông tin đoạn 3 và 4: tính có thể đào tạo (trainability) của tự kiểm điểm giúp nhà lãnh đạo chủ động tìm kiếm thông tin phản biện, từ đó điều chỉnh và sửa chữa các giả định sai lầm nhanh hơn hẳn một đặc tính cố định."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, which of the following is NOT mentioned as a factor insulating senior leaders from disconfirming feedback?",
+      "options": {
+       "A": "Subordinates calibrating their candor to perceived professional risk.",
+       "B": "Boards rewarding confident narrative over qualified uncertainty.",
+       "C": "A formal policy explicitly banning critical feedback from subordinates.",
+       "D": "Media coverage rewarding decisiveness over visible reconsideration."
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát đoạn 5 nơi liệt kê các yếu tố cách ly lãnh đạo khỏi thông tin phản biện: cấp dưới điều chỉnh sự thẳng thắn do rủi ro nghề nghiệp, hội đồng quản trị thưởng cho các câu chuyện tự tin, và truyền thông đề cao tính quyết đoán. Chi tiết \"chính sách chính thức cấm phản hồi chỉ trích từ cấp dưới\" không được đề cập."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"its\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "charisma",
+       "B": "crisis communication",
+       "C": "self-examination",
+       "D": "leadership development"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị từ \"its\" ở đoạn 7. Đọc vế câu liền trước để xác định danh từ số ít được quy chiếu: đại từ này thay thế cho khái niệm charisma."
+     },
+     {
+      "number": 37,
+      "stem": "What can be inferred about the effectiveness of structural interventions like 360-degree reviews?",
+      "options": {
+       "A": "These interventions have been proven consistently effective across every organization studied.",
+       "B": "Subordinates' candor levels caused organizations to adopt these interventions in the first place.",
+       "C": "Evidence on these interventions' effectiveness is, at present, decidedly mixed.",
+       "D": "Their effectiveness may depend more on genuine buy-in than formal design."
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận ở đoạn 6 về các công cụ như đánh giá 360 độ: bài viết gợi ý rằng hiệu quả của các can thiệp cấu trúc này phụ thuộc nhiều vào sự cam kết thực sự (genuine buy-in) hơn là chỉ thiết kế hình thức bên ngoài."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, in which circumstance does the passage say charisma retains clear value?",
+      "options": {
+       "A": "in circumstances involving routine daily management of established teams",
+       "B": "in circumstances involving crisis communication and rapid workforce mobilization",
+       "C": "in circumstances involving long-term strategic planning across multiple fiscal years",
+       "D": "in circumstances involving formal succession planning for senior leadership roles"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"retains clear value\" ở các đoạn cuối: bài viết khẳng định charisma vẫn giữ giá trị rõ ràng trong các tình huống truyền thông khủng hoảng và huy động lực lượng lao động nhanh chóng (\"crisis communication and rapid workforce mobilization\")."
+     },
+     {
+      "number": 39,
+      "stem": "The word \"entrenched\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "temporary",
+       "B": "visible",
+       "C": "established",
+       "D": "measurable"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"entrenched\" ở đoạn 5 mô tả các cấu trúc/thói quen đã được thiết lập vững chắc, cắm rễ sâu trong tổ chức. Do đó, từ này đồng nghĩa với được thiết lập / ăn sâu (established)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's overall stance toward the relative value of charisma and self-examination in leadership?",
+      "options": {
+       "A": "Measured, arguing self-examination deserves more attention without fully dismissing charisma's value.",
+       "B": "Fully dismissive of charisma, arguing it has no legitimate role in leadership at all.",
+       "C": "Fully dismissive of self-examination, treating it as an impractical academic ideal.",
+       "D": "Uncertain, offering no clear position on the relative value of either quality."
+      },
+      "answer": "A",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Đánh giá sắc thái chung của tác giả: tác giả thể hiện góc nhìn chừng mực, khách quan (Measured) khi cho rằng năng lực tự kiểm điểm xứng đáng nhận được nhiều sự chú ý hơn nhưng không hoàn toàn bác bỏ giá trị riêng của charisma."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R4Q1, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để định vị nhanh thông tin trong đoạn.\n  - Với **R4Q1**, quét cụm từ \"longitudinal studies\" ở đoạn 2: các nghiên cứu dọc chỉ ra sức mạnh dự báo của sức hút cá nhân (charisma) đối với các kết quả lâu dài như sự gắn bó của nhân viên bị yếu hơn đáng kể so với khả năng tạo ấn tượng ban đầu (\"predictive power... to be considerably weaker than its predictive power for immediate follower impressions\").\n  - Với **R4Q8**, quét cụm từ \"retains clear value\" ở các đoạn cuối: bài viết khẳng định charisma vẫn giữ giá trị rõ ràng trong các tình huống truyền thông khủng hoảng và huy động lực lượng lao động nhanh chóng (\"crisis communication and rapid workforce mobilization\").\n- **Dạng câu hỏi Ý chính (R4Q2):** Áp dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề đoạn 1 (nhấn mạnh sự thiên lệch vào charisma) và kết nối với các đoạn về năng lực tự kiểm điểm (self-examination). Ý bao quát toàn bài là phân tích lý do tại sao tự kiểm điểm có thể là một kỷ luật lãnh đạo bền vững hơn nhưng lại khó thể chế hóa hơn so với charisma.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"insulate\"** ở đoạn 5 được dùng với nghĩa che chắn, bảo vệ các nhà lãnh đạo khỏi phản hồi bất lợi. Do đó, từ này đồng nghĩa với che chắn / bảo vệ (shield).\n  - Với **R4Q9**, từ **\"entrenched\"** ở đoạn 5 mô tả các cấu trúc/thói quen đã được thiết lập vững chắc, cắm rễ sâu trong tổ chức. Do đó, từ này đồng nghĩa với được thiết lập / ăn sâu (established).\n- **Dạng câu hỏi Loại trừ NOT (R4Q5):** Đối soát đoạn 5 nơi liệt kê các yếu tố cách ly lãnh đạo khỏi thông tin phản biện: cấp dưới điều chỉnh sự thẳng thắn do rủi ro nghề nghiệp, hội đồng quản trị thưởng cho các câu chuyện tự tin, và truyền thông đề cao tính quyết đoán. Chi tiết \"chính sách chính thức cấm phản hồi chỉ trích từ cấp dưới\" không được đề cập.\n- **Dạng câu hỏi Quy chiếu (R4Q6):** Định vị từ **\"its\"** ở đoạn 7. Đọc vế câu liền trước để xác định danh từ số ít được quy chiếu: đại từ này thay thế cho khái niệm charisma.\n- **Dạng câu hỏi Mối liên hệ / Phân tích (R4Q4):** Kết hợp thông tin đoạn 3 và 4: tính có thể đào tạo (trainability) của tự kiểm điểm giúp nhà lãnh đạo chủ động tìm kiếm thông tin phản biện, từ đó điều chỉnh và sửa chữa các giả định sai lầm nhanh hơn hẳn một đặc tính cố định.\n- **Dạng câu hỏi Suy luận (R4Q7):** Phân tích lập luận ở đoạn 6 về các công cụ như đánh giá 360 độ: bài viết gợi ý rằng hiệu quả của các can thiệp cấu trúc này phụ thuộc nhiều vào sự cam kết thực sự (genuine buy-in) hơn là chỉ thiết kế hình thức bên ngoài.\n- **Dạng câu hỏi Thái độ tác giả (R4Q10):** Đánh giá sắc thái chung của tác giả: tác giả thể hiện góc nhìn chừng mực, khách quan (Measured) khi cho rằng năng lực tự kiểm điểm xứng đáng nhận được nhiều sự chú ý hơn nhưng không hoàn toàn bác bỏ giá trị riêng của charisma.\nLời khuyên: Hãy ưu tiên hoàn thành nhanh nhóm câu hỏi định vị trực tiếp như Từ vựng (R4Q3, R4Q9) và Quy chiếu (R4Q6). Tiếp theo, sử dụng kỹ năng đọc quét nhanh để giải quyết các câu **Chi tiết** (R4Q1, R4Q8) và **Loại trừ** (R4Q5). Cuối cùng, tổng hợp mạch logic toàn bài để chọn đáp án cho nhóm câu hỏi tư duy sâu như **Mối liên hệ** (R4Q4), **Suy luận** (R4Q7), **Ý chính** (R4Q2) và **Thái độ tác giả** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend Kate, who is organizing a school trip for her class and needs your advice.\nRead part of her email below.\nI'm organizing a class trip for my students next month, but there are a few things I still can't decide on. I'd really appreciate your advice.\n- Should we take the students to a museum or a park?\n- Should the students bring packed lunches, or should we order food from a restaurant?\n- Should we ask the students to record a video of the trip, or have them write a short review afterwards? Write an email responding to Kate. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend Kate, who is organizing a school trip for her class and needs your advice.",
+      "Read part of her email below."
+     ],
+     "quote": [
+      "I'm organizing a class trip for my students next month, but there are a few things I still can't decide on. I'd really appreciate your advice.",
+      "- Should we take the students to a museum or a park?",
+      "- Should the students bring packed lunches, or should we order food from a restaurant?",
+      "- Should we ask the students to record a video of the trip, or have them write a short review afterwards?"
+     ],
+     "instruction": "Write an email responding to Kate. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (Thư thân mật) đưa ra lời khuyên cho bạn thân đang phân vân một số vấn đề khi tổ chức chuyến đi cho học sinh.\n- Đề bài có **3 yêu cầu chính** cần trả lời đầy đủ: (1) chọn bảo tàng hay công viên, (2) chọn đem cơm theo hay đặt nhà hàng, (3) chọn quay video hay viết bài review ngắn.\n- Bài viết cần đạt tối thiểu **120 từ**, giọng văn thân mật, gần gũi vì đây là thư gửi bạn bè.\n- Cần đưa ra lựa chọn rõ ràng cho từng vấn đề kèm theo lý do thuyết phục, tránh trả lời chung chung.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Kate,\n- **Opening:** Cảm ơn thư và thể hiện sự sẵn lòng giúp đỡ. Ví dụ: It was lovely to hear from you, and I'd be happy to share my thoughts on your trip.\n- **Body 1 (Địa điểm):** Đưa ra lựa chọn và lý do. Ví dụ: In my opinion, visiting a museum would be more beneficial, as it allows the students to learn something new while still having fun.\n- **Body 2 (Ăn uống):** Đưa ra lựa chọn và lý do. Ví dụ: As for food, I'd suggest asking the students to bring packed lunches, since this teaches them responsibility and saves money.\n- **Body 3 (Hoạt động ghi lại):** Đưa ra lựa chọn và lý do. Ví dụ: Regarding the activity, having them write a short review afterwards might be more useful, as it encourages reflection rather than just filming.\n- **Closing & Sign-off:** Kết thúc và chúc may mắn. Ví dụ: I hope this helps, and I'm sure the trip will be a great success! Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì **hiện tại đơn** khi đưa ra quan điểm và lời khuyên chung.\n- Dùng các cấu trúc gợi ý như \"I'd suggest...\", \"Why don't you...\", \"It might be better to...\" để lời khuyên tự nhiên hơn.\n- Tránh lặp lại từ \"trip\" hoặc \"students\" quá nhiều, hãy thay bằng các cách diễn đạt khác.\n- Mỗi lựa chọn nên đi kèm ít nhất một lý do cụ thể để bài viết thuyết phục hơn.\nTừ vựng quan trọng:\n- **Organize a trip:** Tổ chức một chuyến đi\n- **Packed lunch:** Cơm mang theo, hộp cơm trưa\n- **Hands-on experience:** Trải nghiệm thực tế\n- **Educational value:** Giá trị giáo dục\n- **Budget-friendly:** Tiết kiệm chi phí\n- **Reflect on something:** Suy ngẫm về điều gì đó\n- **Capture memories:** Lưu giữ kỷ niệm\nTừ nối (Linking words):\n- **In my opinion:** Theo tôi\n- **As for...:** Còn về...\n- **Regarding...:** Về vấn đề...\n- **Also / In addition:** Ngoài ra\n- **That way:** Bằng cách đó\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'd be happy to share my thoughts:** Tôi rất vui được chia sẻ suy nghĩ của mình\n- **I'm sure it will be a great success:** Tôi tin chắc nó sẽ rất thành công\n- **I hope this helps:** Tôi hy vọng điều này sẽ hữu ích\n\n**4. Các lỗi thường gặp:**\n- Chỉ nêu lựa chọn mà không giải thích lý do, khiến lời khuyên thiếu thuyết phục.\n- Bỏ sót một trong ba vấn đề mà Kate hỏi.\n- Sử dụng giọng văn quá trang trọng, không phù hợp với thư gửi bạn thân.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã đưa ra lựa chọn rõ ràng cho cả 3 vấn đề chưa.\n- Đếm số từ để đảm bảo đạt tối thiểu 120 từ.\n- Kiểm tra giọng văn đã đủ thân mật, tự nhiên như đang trò chuyện với bạn bè.\n\n**6. Tư duy làm bài:**\nHãy tưởng tượng bạn đang thật sự đưa ra lời khuyên cho một người bạn thân đang cần giúp đỡ. Sự rõ ràng trong từng lựa chọn và lý do đi kèm sẽ giúp bài viết tự nhiên và thuyết phục hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn the digital age, fewer and fewer people spend their free time reading books, choosing instead to spend hours on smartphones and social media.\nThis decline in reading habits, particularly among young people, is believed by many educators to have serious consequences for society as a whole.\nDiscuss the effects of this problem and suggest some solutions.\nWrite an essay to an educated reader to discuss the problems caused by the decline in reading habits and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In the digital age, fewer and fewer people spend their free time reading books, choosing instead to spend hours on smartphones and social media.",
+      "This decline in reading habits, particularly among young people, is believed by many educators to have serious consequences for society as a whole.",
+      "Discuss the effects of this problem and suggest some solutions."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by the decline in reading habits and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Problem–Solution Essay**, yêu cầu trình bày các ảnh hưởng tiêu cực của việc suy giảm thói quen đọc sách và đề xuất giải pháp khắc phục.\n- Từ khóa quan trọng cần bám sát: \"effects\" (ảnh hưởng) và \"solutions\" (giải pháp) — bài viết bắt buộc phải có cả hai phần này.\n- Yêu cầu tối thiểu là **250 từ**, cần đảm bảo Task Fulfilment bằng cách trình bày đủ ảnh hưởng và giải pháp tương ứng.\n- Tránh nhầm sang dạng bài Nguyên nhân–Kết quả (Cause–Effect) hoặc chỉ nêu ảnh hưởng mà quên phần giải pháp.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vấn đề suy giảm thói quen đọc sách trong thời đại số. Ví dụ: With the rise of digital entertainment, an increasing number of people, especially the younger generation, are reading far less than they used to.\n- **Body 1 (Ảnh hưởng):** Topic sentence, giải thích, ví dụ. Ví dụ: One of the most significant effects of this trend is a decline in critical thinking and concentration skills, as reading requires sustained focus that scrolling through social media does not.\n- **Body 2 (Ảnh hưởng khác):** Topic sentence, giải thích, ví dụ. Ví dụ: In addition, this problem may also lead to a narrower vocabulary and weaker writing skills among young people, since books expose readers to richer language than short online posts.\n- **Body 3 (Giải pháp):** Topic sentence, giải thích, ví dụ. Ví dụ: To address this issue, schools could organize regular reading sessions and book clubs to make reading a more enjoyable and social activity for students.\n- **Conclusion:** Tóm tắt ảnh hưởng và giải pháp, khẳng định tầm quan trọng của việc đọc sách. Ví dụ: In conclusion, although the decline in reading habits poses real risks to cognitive and language development, coordinated efforts from schools and families can help reverse this trend.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì **hiện tại đơn** để nói về thực trạng chung và thì **hiện tại tiếp diễn** khi mô tả xu hướng đang diễn ra.\n- Mỗi đoạn thân bài nên phát triển theo cấu trúc: câu chủ đề - giải thích - ví dụ - mini kết luận.\n- Cần có **thesis statement** rõ ràng ở mở bài nêu rằng bài sẽ thảo luận cả ảnh hưởng và giải pháp.\n- Tránh lặp từ \"reading\" hoặc \"books\" liên tục, hãy thay bằng các cách diễn đạt khác.\nTừ vựng quan trọng:\n- **Reading habit:** Thói quen đọc sách\n- **Critical thinking:** Tư duy phản biện\n- **Attention span:** Khả năng tập trung\n- **Digital distraction:** Sự xao nhãng bởi thiết bị số\n- **Vocabulary range:** Vốn từ vựng\n- **Cognitive development:** Sự phát triển nhận thức\n- **Foster a habit:** Nuôi dưỡng một thói quen\nTừ nối (Linking words):\n- **Adding - In addition/Moreover:** Thêm vào đó\n- **Contrast - However/Nevertheless:** Tuy nhiên\n- **Cause-effect - As a result/Consequently:** Kết quả là, do đó\n- **Example - For instance/Such as:** Ví dụ như\n- **Solution - To address this issue/One way to tackle this:** Để giải quyết vấn đề này\n- **Conclusion - In conclusion/Overall:** Tóm lại, nhìn chung\nDiễn đạt lại ý (Paraphrasing):\n- **The decline in reading habits:** Thay cho \"people reading less\".\n- **Digital entertainment:** Cách diễn đạt khác cho \"smartphones and social media\".\n- **Cognitive and language development:** Thay cho \"thinking and vocabulary skills\".\nCách diễn đạt giải pháp:\n- **To address this issue, ...:** Để giải quyết vấn đề này, ...\n- **One effective solution would be to...:** Một giải pháp hiệu quả sẽ là...\n- **This problem could be tackled by...:** Vấn đề này có thể được giải quyết bằng cách...\n\n**4. Các lỗi thường gặp:**\n- Chỉ liệt kê ảnh hưởng mà không đưa ra giải pháp tương ứng, hoặc ngược lại.\n- Nhầm lẫn giữa nguyên nhân và ảnh hưởng của vấn đề.\n- Thiếu ví dụ cụ thể khiến lập luận thiếu sức thuyết phục.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã trình bày đủ cả ảnh hưởng và giải pháp chưa.\n- Đảm bảo có Thesis Statement rõ ràng ở mở bài.\n- Đếm số từ để chắc chắn đạt tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\nHãy tư duy theo trình tự logic: trước tiên nêu rõ ảnh hưởng của việc suy giảm thói quen đọc sách, sau đó đề xuất giải pháp cụ thể và khả thi để khắc phục từng ảnh hưởng đã nêu."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about dancing\n\n1\nHave you ever learned how to dance?\n2\nDo you prefer dancing in a group or by yourself? Why?\n3\nWhat do you do to improve your dancing skills?\n\nNow, let’s talk about taking care of yourself\n\n4\nDo you often take care of yourself?\n5\nWhat do you usually do to take care of yourself?\n6\nDo you think having a proper self-care routine is important nowadays? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này có **2 chủ đề nhỏ**: **Topic A (Dancing)** và **Topic B (Self-care)**.\n- **Topic A (Dancing):** Ba câu hỏi đầu kiểm tra khả năng chia sẻ kinh nghiệm học nhảy, sở thích nhảy nhóm hay solo, và cách rèn luyện kỹ năng nhảy.\n- **Topic B (Self-care):** Ba câu hỏi sau kiểm tra khả năng nói về thói quen chăm sóc bản thân và quan điểm về tầm quan trọng của việc này trong cuộc sống hiện đại.\n- Tiêu chí đánh giá gồm **Fluency, Vocabulary, Grammar và Pronunciation**.\n- Thời gian Part 1 là **3 phút**, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)** để trả lời đầy đủ và có chiều sâu.\n- **Ví dụ Topic A:** \"Yes, I took some basic dance classes a few years ago, and I really enjoyed learning how to move to the rhythm of the music.\"\n- **Ví dụ Topic B:** \"Yes, I try to take care of myself every day by exercising and eating healthily, since it helps me stay energetic.\"\n- Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n- Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Besides dancing, I'd also like to talk a bit about how I take care of myself in daily life.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng **hiện tại đơn** khi nói về thói quen chung, dùng **quá khứ đơn** khi kể về trải nghiệm học nhảy trước đây.\n- Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n- Từ vựng cho Topic A: keep in rhythm with the music, build up stamina, master the basic steps, boost my confidence.\n- Từ vựng cho Topic B: recharge both physically and mentally, maintain a healthy lifestyle, unwind after a long day, prioritize my well-being.\nCụm từ quan trọng nên dùng:\n- **keep in rhythm with the music** (giữ nhịp theo nhạc)\n- **build up stamina** (tăng cường sức bền)\n- **master the basic steps** (thành thạo các bước cơ bản)\n- **maintain a healthy lifestyle** (duy trì lối sống lành mạnh)\n- **recharge both physically and mentally** (nạp lại năng lượng cả về thể chất lẫn tinh thần)\n- **prioritize my well-being** (ưu tiên sức khỏe tinh thần của bản thân)\nTừ nối khi nói (Linking Words):\n- **Firstly** - trước hết, dùng để mở đầu ý.\n- **Besides** - bên cạnh đó, dùng để bổ sung ý.\n- **For instance** - ví dụ như, dùng khi minh họa.\n- **Although** - mặc dù, dùng khi đối chiếu ý kiến.\n- **As a result** - kết quả là, dùng để nêu hệ quả.\nCách thể hiện quan điểm tự nhiên:\n- **Personally, I feel that...** Ví dụ: \"Personally, I feel that dancing in a group is more fun because you can learn from others.\"\n- **In my opinion...** Ví dụ: \"In my opinion, self-care should be a daily habit, not just something you do occasionally.\"\n- **I would say that...** Ví dụ: \"I would say that taking care of yourself becomes more important as life gets busier.\"\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n- Ở Topic A, chỉ nói \"I like dancing\" mà không giải thích thích nhảy nhóm hay solo và vì sao.\n- Ở Topic B, nhầm lẫn \"chăm sóc bản thân\" với chỉ mỗi việc làm đẹp bề ngoài, bỏ qua khía cạnh tinh thần.\n- Dùng sai thì khi kể về kinh nghiệm học nhảy trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n- Với Topic A, nếu bí ý, hãy kể một buổi tập nhảy cụ thể hoặc một điệu nhảy bạn thích.\n- Với Topic B, nếu bí ý, hãy liên hệ đến một hoạt động chăm sóc bản thân cụ thể như ngủ đủ giấc hoặc tập thể dục.\n\n**6. Tư duy làm bài nói:**\n- Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp."
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend is planning a fun day out with their children and needs to choose a place to visit.\n\nYou are considering the following options:\n\nOption 1: Visit the zoo\nOption 2: Visit the aquarium\nOption 3: Visit the park\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần chọn địa điểm phù hợp nhất để bạn của mình đưa các con đi chơi, trong ba lựa chọn: sở thú, thủy cung, và công viên.\n- Ba lựa chọn khác biệt về mức độ giáo dục, chi phí, và mức độ phù hợp với trẻ nhỏ.\n- Thời gian là **4 phút**; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Introduction – Comparison – Conclusion** để trình bày mạch lạc.\n- **Option 1 (sở thú):** \"Visiting the zoo would allow the children to see a wide variety of animals up close, which is both exciting and educational.\"\n- **Option 2 (thủy cung):** \"The aquarium offers a calmer, more relaxing environment where children can learn about marine life, though it might feel less interactive for younger kids.\"\n- **Option 3 (công viên):** \"The park is a low-cost, flexible option that lets children run around and play freely, but it lacks the educational value of the other two options.\"\n- Nên neo lập luận vào độ tuổi của các con và mục tiêu chính của chuyến đi (giải trí hay học hỏi).\n- Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike the park, the zoo provides a more structured and educational experience for children.\"\n- Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n- Paraphrase \"fun\" bằng \"enjoyable\"; paraphrase \"see animals\" bằng \"observe wildlife up close\".\nCụm từ quan trọng nên dùng:\n- **an educational experience** (một trải nghiệm mang tính giáo dục)\n- **observe wildlife up close** (quan sát động vật hoang dã ở cự ly gần)\n- **a budget-friendly option** (một lựa chọn tiết kiệm chi phí)\n- **suitable for young children** (phù hợp với trẻ nhỏ)\n- **a memorable family outing** (một chuyến đi chơi gia đình đáng nhớ)\n- **hands-on learning** (học tập trải nghiệm thực tế)\nTừ nối khi nói (Linking Words):\n- **Compared with** - so với, dùng khi so sánh hai lựa chọn.\n- **Whereas** - trong khi đó, dùng để đối lập.\n- **On the other hand** - mặt khác, dùng để chuyển ý ngược lại.\n- **Taking everything into account** - xét tất cả các yếu tố, dùng trước kết luận.\n- **In terms of** - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n- **If I had to choose, I would go with...** Ví dụ: \"If I had to choose, I would go with the zoo because it offers the most engaging experience for children.\"\n- **I'm more inclined towards...** Ví dụ: \"I'm more inclined towards the park since it's more relaxed and budget-friendly.\"\n- **All things considered...** Ví dụ: \"All things considered, the zoo seems to strike the best balance between fun and learning.\"\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ \"good\"/\"fun\" quá nhiều thay vì dùng tính từ đa dạng hơn.\n- Không có kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng liên quan đến một lựa chọn, chuyển hướng sang nói về yếu tố chi phí hoặc độ phù hợp với trẻ em.\n- Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n\n**6. Tư duy làm bài nói:**\n- Đặt mình vào vị trí người bạn đang lên kế hoạch - lựa chọn nào vừa vui vừa phù hợp với các con?\n- Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ kết hợp công viên vào buổi chiều sau khi thăm sở thú, để thể hiện tư duy linh hoạt."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of keeping pets\n\nBenefits of Keeping Pets\nImproving physical health through daily activities with pets\nProviding emotional support and reducing stress\nStrengthening bonds within the family\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat kinds of pets are most commonly kept in your area?\n2\nDo you think it is suitable for children to keep pets?\n3\nWhy do many people dislike keeping pets?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển bài nói về lợi ích của việc nuôi thú cưng, dựa trên ba nhánh chính và một nhánh ý kiến cá nhân.\n- Ba nhánh chính gồm: cải thiện sức khỏe thể chất thông qua các hoạt động hằng ngày với thú cưng, hỗ trợ cảm xúc và giảm căng thẳng, và tăng cường sự gắn bó trong gia đình.\n- **Gợi ý cho nhánh thứ 4 (ý kiến cá nhân):** có thể phát triển theo hướng nuôi thú cưng giúp trẻ em học được tinh thần trách nhiệm và sự đồng cảm.\n- Thời gian là **5 phút**: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL (Point – Explanation – Example – Link)** để trình bày từng nhánh của sơ đồ tư duy.\n- **Ví dụ mở bài:** \"Today, I'd like to talk about the benefits of keeping pets in our daily lives.\"\n- **Ví dụ cho nhánh ý kiến cá nhân:** \"In my opinion, keeping a pet also teaches children a sense of responsibility, as they learn to care for another living being.\"\n- Nên đưa ví dụ thực tế như việc dắt chó đi dạo mỗi ngày giúp tăng vận động, hoặc thú cưng giúp giảm cảm giác cô đơn.\n- Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n- Về thì: dùng **hiện tại đơn** cho sự thật chung, dùng **hiện tại hoàn thành** khi nói về xu hướng nuôi thú cưng đã tăng lên trong xã hội.\n- Paraphrase \"pets\" bằng \"companion animals\" hoặc \"animal companions\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- **a sense of companionship** (cảm giác được đồng hành)\n- **reduce feelings of loneliness** (giảm cảm giác cô đơn)\n- **promote physical activity** (thúc đẩy vận động thể chất)\n- **emotional bond** (sự gắn kết cảm xúc)\n- **a sense of responsibility** (tinh thần trách nhiệm)\n- **unconditional affection** (tình cảm vô điều kiện)\nTừ nối khi nói (Linking Words):\n- **To begin with** - trước hết, dùng để mở đầu nhánh đầu tiên.\n- **Moving on to** - chuyển sang, dùng khi chuyển nhánh ý.\n- **Furthermore** - hơn nữa, dùng để bổ sung ý.\n- **In addition to that** - thêm vào đó, dùng để mở rộng ý.\n- **To sum up** - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **I firmly believe that...** Ví dụ: \"I firmly believe that pets can significantly improve a person's mental well-being.\"\n- **It seems to me that...** Ví dụ: \"It seems to me that more urban families are choosing to keep pets for emotional support.\"\n- **What strikes me most is...** Ví dụ: \"What strikes me most is how much comfort a simple pet can bring during stressful times.\"\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"What kinds of pets are most commonly kept in your area?\"** - Ở khu vực của tôi, chó và mèo là hai loại thú cưng phổ biến nhất vì chúng dễ chăm sóc và phù hợp với không gian sống của các gia đình.\n- **\"Do you think it is suitable for children to keep pets?\"** - Có, vì nuôi thú cưng giúp trẻ học cách chăm sóc, kiên nhẫn và có trách nhiệm, miễn là có sự giám sát của người lớn.\n- **\"Why do many people dislike keeping pets?\"** - Một số người ngại vì lo sợ dị ứng, tốn thời gian chăm sóc, hoặc không muốn chịu thêm chi phí như thức ăn và khám bệnh cho thú cưng.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê lợi ích mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n- Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n- Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Neo vào ví dụ thực tế từ cuộc sống hằng ngày, như một người bạn hoặc người thân từng nuôi thú cưng, khi bí ý.\n- Câu chờ ý học thuật: \"That is an interesting point. If we look at it from a psychological perspective...\"\n- Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n\n**7. Tư duy làm bài nói:**\n- Suy nghĩ từ góc độ cả người nuôi thú cưng lẫn người không thích nuôi thú cưng để có góc nhìn cân bằng.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n- Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about dancing.\n1.\nHave you ever learned how to dance?\n2.\nDo you prefer dancing in a group or by yourself? Why?\n3.\nWhat do you do to improve your dancing skills?\nNow, let’s talk about taking care of yourself.\n4.\nDo you often take care of yourself?\n5.\nWhat do you usually do to take care of yourself?\n6.\nDo you think having a proper self-care routine is important nowadays? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này có 2 chủ đề nhỏ: Topic A (Dancing) và Topic B (Self-care).\n• Topic A (Dancing): Ba câu hỏi đầu kiểm tra khả năng chia sẻ kinh nghiệm học nhảy, sở thích nhảy nhóm hay solo, và\ncách rèn luyện kỹ năng nhảy.\n• Topic B (Self-care): Ba câu hỏi sau kiểm tra khả năng nói về thói quen chăm sóc bản thân và quan điểm về tầm quan\ntrọng của việc này trong cuộc sống hiện đại.\n• Tiêu chí đánh giá gồm Fluency, Vocabulary, Grammar và Pronunciation.\n• Thời gian Part 1 là 3 phút, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE) để trả lời đầy đủ và có chiều sâu.\n• Ví dụ Topic A: \"Yes, I took some basic dance classes a few years ago, and I really enjoyed learning how to move to\nthe rhythm of the music.\"\n• Ví dụ Topic B: \"Yes, I try to take care of myself every day by exercising and eating healthily, since it helps me stay\nenergetic.\"\n• Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n• Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Besides dancing, I'd also like to talk a bit about\nhow I take care of myself in daily life.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng hiện tại đơn khi nói về thói quen chung, dùng quá khứ đơn khi kể về trải nghiệm học nhảy trước đây.\n• Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n• Từ vựng cho Topic A: keep in rhythm with the music, build up stamina, master the basic steps, boost my confidence.\n• Từ vựng cho Topic B: recharge both physically and mentally, maintain a healthy lifestyle, unwind after a long day,\nprioritize my well-being.\nCụm từ quan trọng nên dùng:\n• keep in rhythm with the music (giữ nhịp theo nhạc)\n• build up stamina (tăng cường sức bền)\n• master the basic steps (thành thạo các bước cơ bản)\n• maintain a healthy lifestyle (duy trì lối sống lành mạnh)\n• recharge both physically and mentally (nạp lại năng lượng cả về thể chất lẫn tinh thần)\n• prioritize my well-being (ưu tiên sức khỏe tinh thần của bản thân)\nTừ nối khi nói (Linking Words):\n• Firstly - trước hết, dùng để mở đầu ý.\n• Besides - bên cạnh đó, dùng để bổ sung ý.\n• For instance - ví dụ như, dùng khi minh họa.\n• Although - mặc dù, dùng khi đối chiếu ý kiến.\n• As a result - kết quả là, dùng để nêu hệ quả.\nCách thể hiện quan điểm tự nhiên:\n• Personally, I feel that... Ví dụ: \"Personally, I feel that dancing in a group is more fun because you can learn from\nothers.\"\n• In my opinion... Ví dụ: \"In my opinion, self-care should be a daily habit, not just something you do occasionally.\"\n• I would say that... Ví dụ: \"I would say that taking care of yourself becomes more important as life gets busier.\"\n4. Các lỗi thường gặp:\n• Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n• Ở Topic A, chỉ nói \"I like dancing\" mà không giải thích thích nhảy nhóm hay solo và vì sao.\n• Ở Topic B, nhầm lẫn \"chăm sóc bản thân\" với chỉ mỗi việc làm đẹp bề ngoài, bỏ qua khía cạnh tinh thần.\n• Dùng sai thì khi kể về kinh nghiệm học nhảy trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n• Với Topic A, nếu bí ý, hãy kể một buổi tập nhảy cụ thể hoặc một điệu nhảy bạn thích.\n• Với Topic B, nếu bí ý, hãy liên hệ đến một hoạt động chăm sóc bản thân cụ thể như ngủ đủ giấc hoặc tập thể dục.\n6. Tư duy làm bài nói:\n• Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nPART 2\nSolution Discussion\n4 phút\nYour friend is planning a fun day out with their children and needs to choose a place to visit.\nYou are considering the following options:\n• Option 1: Visit the zoo\n• Option 2: Visit the aquarium\n• Option 3: Visit the park\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần chọn địa điểm phù hợp nhất để bạn của mình đưa các con đi chơi, trong\nba lựa chọn: sở thú, thủy cung, và công viên.\n• Ba lựa chọn khác biệt về mức độ giáo dục, chi phí, và mức độ phù hợp với trẻ nhỏ.\n• Thời gian là 4 phút; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Introduction – Comparison – Conclusion để trình bày mạch lạc.\n• Option 1 (sở thú): \"Visiting the zoo would allow the children to see a wide variety of animals up close, which is both\nexciting and educational.\"\n• Option 2 (thủy cung): \"The aquarium offers a calmer, more relaxing environment where children can learn about\nmarine life, though it might feel less interactive for younger kids.\"\n• Option 3 (công viên): \"The park is a low-cost, flexible option that lets children run around and play freely, but it lacks\nthe educational value of the other two options.\"\n• Nên neo lập luận vào độ tuổi của các con và mục tiêu chính của chuyến đi (giải trí hay học hỏi).\n• Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike the park, the zoo provides a more structured and\neducational experience for children.\"\n• Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n• Paraphrase \"fun\" bằng \"enjoyable\"; paraphrase \"see animals\" bằng \"observe wildlife up close\".\nCụm từ quan trọng nên dùng:\n• an educational experience (một trải nghiệm mang tính giáo dục)\n• observe wildlife up close (quan sát động vật hoang dã ở cự ly gần)\n• a budget-friendly option (một lựa chọn tiết kiệm chi phí)\n• suitable for young children (phù hợp với trẻ nhỏ)\n• a memorable family outing (một chuyến đi chơi gia đình đáng nhớ)\n• hands-on learning (học tập trải nghiệm thực tế)\nTừ nối khi nói (Linking Words):\n• Compared with - so với, dùng khi so sánh hai lựa chọn.\n• Whereas - trong khi đó, dùng để đối lập.\n• On the other hand - mặt khác, dùng để chuyển ý ngược lại.\n• Taking everything into account - xét tất cả các yếu tố, dùng trước kết luận.\n• In terms of - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n• If I had to choose, I would go with... Ví dụ: \"If I had to choose, I would go with the zoo because it offers the most\nengaging experience for children.\"\n• I'm more inclined towards... Ví dụ: \"I'm more inclined towards the park since it's more relaxed and budget-friendly.\"\n• All things considered... Ví dụ: \"All things considered, the zoo seems to strike the best balance between fun and\nlearning.\"\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ \"good\"/\"fun\" quá nhiều thay vì dùng tính từ đa dạng hơn.\n• Không có kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng liên quan đến một lựa chọn, chuyển hướng sang nói về yếu tố chi phí hoặc độ phù hợp với trẻ em.\n• Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n6. Tư duy làm bài nói:\n• Đặt mình vào vị trí người bạn đang lên kế hoạch - lựa chọn nào vừa vui vừa phù hợp với các con?\n• Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ kết hợp công viên vào buổi chiều sau khi thăm sở\nthú, để thể hiện tư duy linh hoạt.\nPART 3\nTopic Development\n5 phút\nTopic: The benefits of keeping pets\nImproving physical health through daily\nProviding emotional support and\nactivities with pets\nreducing stress\nBenefits of Keeping Pets\nÝ tưởng của bạn\nStrengthening bonds within the family\nFOLLOW-UP QUESTIONS\n1.\nWhat kinds of pets are most commonly kept in your area?\n2.\nDo you think it is suitable for children to keep pets?\n3.\nWhy do many people dislike keeping pets?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển bài nói về lợi ích của việc nuôi thú cưng, dựa trên ba nhánh chính và một nhánh ý kiến\ncá nhân.\n• Ba nhánh chính gồm: cải thiện sức khỏe thể chất thông qua các hoạt động hằng ngày với thú cưng, hỗ trợ cảm xúc\nvà giảm căng thẳng, và tăng cường sự gắn bó trong gia đình.\n• Gợi ý cho nhánh thứ 4 (ý kiến cá nhân): có thể phát triển theo hướng nuôi thú cưng giúp trẻ em học được tinh thần\ntrách nhiệm và sự đồng cảm.\n• Thời gian là 5 phút: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point – Explanation – Example – Link) để trình bày từng nhánh của sơ đồ tư duy.\n• Ví dụ mở bài: \"Today, I'd like to talk about the benefits of keeping pets in our daily lives.\"\n• Ví dụ cho nhánh ý kiến cá nhân: \"In my opinion, keeping a pet also teaches children a sense of responsibility, as they\nlearn to care for another living being.\"\n• Nên đưa ví dụ thực tế như việc dắt chó đi dạo mỗi ngày giúp tăng vận động, hoặc thú cưng giúp giảm cảm giác cô\nđơn.\n• Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n• Về thì: dùng hiện tại đơn cho sự thật chung, dùng hiện tại hoàn thành khi nói về xu hướng nuôi thú cưng đã tăng lên\ntrong xã hội.\n• Paraphrase \"pets\" bằng \"companion animals\" hoặc \"animal companions\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• a sense of companionship (cảm giác được đồng hành)\n• reduce feelings of loneliness (giảm cảm giác cô đơn)\n• promote physical activity (thúc đẩy vận động thể chất)\n• emotional bond (sự gắn kết cảm xúc)\n• a sense of responsibility (tinh thần trách nhiệm)\n• unconditional affection (tình cảm vô điều kiện)\nTừ nối khi nói (Linking Words):\n• To begin with - trước hết, dùng để mở đầu nhánh đầu tiên.\n• Moving on to - chuyển sang, dùng khi chuyển nhánh ý.\n• Furthermore - hơn nữa, dùng để bổ sung ý.\n• In addition to that - thêm vào đó, dùng để mở rộng ý.\n• To sum up - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n• I firmly believe that... Ví dụ: \"I firmly believe that pets can significantly improve a person's mental well-being.\"\n• It seems to me that... Ví dụ: \"It seems to me that more urban families are choosing to keep pets for emotional\nsupport.\"\n• What strikes me most is... Ví dụ: \"What strikes me most is how much comfort a simple pet can bring during stressful\ntimes.\"\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"What kinds of pets are most commonly kept in your area?\" - Ở khu vực của tôi, chó và mèo là hai loại thú cưng phổ\nbiến nhất vì chúng dễ chăm sóc và phù hợp với không gian sống của các gia đình.\n• \"Do you think it is suitable for children to keep pets?\" - Có, vì nuôi thú cưng giúp trẻ học cách chăm sóc, kiên nhẫn\nvà có trách nhiệm, miễn là có sự giám sát của người lớn.\n• \"Why do many people dislike keeping pets?\" - Một số người ngại vì lo sợ dị ứng, tốn thời gian chăm sóc, hoặc không\nmuốn chịu thêm chi phí như thức ăn và khám bệnh cho thú cưng.\n5. Các lỗi thường gặp:\n• Liệt kê lợi ích mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n• Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n• Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Neo vào ví dụ thực tế từ cuộc sống hằng ngày, như một người bạn hoặc người thân từng nuôi thú cưng, khi bí ý.\n• Câu chờ ý học thuật: \"That is an interesting point. If we look at it from a psychological perspective...\"\n• Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n7. Tư duy làm bài nói:\n• Suy nghĩ từ góc độ cả người nuôi thú cưng lẫn người không thích nuôi thú cưng để có góc nhìn cân bằng.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n• Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+}

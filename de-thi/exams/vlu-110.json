@@ -1,0 +1,717 @@
+{
+ "id": "vlu-110",
+ "number": 110,
+ "title": "Đề thi VLU 110",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-110",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Rural Life Videos of Li Ziqi",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In recent years, a young woman from Sichuan, China, named Li Ziqi has become known around the world for her quiet videos about country life. In each video, she cooks traditional meals, grows vegetables in her garden, and makes handmade crafts using simple tools. She films everything herself, often working alone from early morning until late at night. Even though she rarely speaks in her videos, millions of people watch them every month, drawn by the calm pace and beautiful natural scenery.",
+     "Li Ziqi's videos look very different from most content found online today. She does not talk directly to the camera, and she almost never explains what she is doing step by step. Instead, viewers simply watch as she plants rice in a flooded field, weaves a basket from dried grass, or bakes bread in a small clay oven built by hand. The soundtrack of her videos is not music but the everyday sounds of the countryside: birds calling, water flowing, or a knife slowly cutting vegetables on a wooden board. This slow, quiet style helps busy viewers relax and feel, for a few minutes, far away from noisy city life.",
+     "Because of this unusual style, Li Ziqi has built an enormous following on video platforms both inside and outside China. Her main channel has tens of millions of subscribers, and admirers from dozens of countries watch her uploads, including many who cannot understand a single word of Mandarin. In 2021, she was recognized for holding the record for the most subscribers on a Chinese-language YouTube channel, a record that surprised many industry observers at the time. Fans frequently describe watching one of her videos as taking a short holiday from the pressure of modern life, even if that holiday lasts only ten minutes.",
+     "Li Ziqi's popularity has done more than entertain; it has also introduced traditional Chinese culture to a global audience. Through her videos, viewers see old-fashioned cooking methods, handmade tools, and seasonal festivals that many young people living in Chinese cities rarely experience anymore. A number of schools and cultural organizations have used clips from her channel to teach children about rural customs and traditional skills. Still, a few critics argue that her carefully edited scenes present an overly **idealized** picture of farm life, **one** that quietly leaves out the physical **hardship** and financial struggle that real farmers often face.",
+     "In the middle of 2021, Li Ziqi unexpectedly stopped uploading new videos for more than a year, and her channel fell silent. Worried fans asked what had happened, but her production team gave only a brief statement, mentioning a business disagreement without going into detail. She eventually returned in 2023 with a new set of videos, and longtime fans welcomed her back with excitement. Today she continues to share peaceful scenes of rural life with the world, gently reminding busy viewers everywhere that a simpler, slower way of living can still be genuinely beautiful."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, Li Ziqi is originally from _______.",
+      "options": {
+       "A": "Yunnan Province",
+       "B": "Guangdong Province",
+       "C": "Sichuan Province",
+       "D": "Beijing City"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Li Ziqi\" ngay ở câu đầu tiên của đoạn 1: cô đến từ Tứ Xuyên, Trung Quốc (a young woman from Sichuan, China)."
+     },
+     {
+      "number": 2,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Li Ziqi gained fame for teaching step-by-step traditional recipes.",
+       "B": "Li Ziqi earned global fame through peaceful rural videos despite criticism.",
+       "C": "Li Ziqi became famous mainly after taking an unexpected public break.",
+       "D": "Li Ziqi built a massive following as China's top-rated chef."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề của từng đoạn: bài viết giới thiệu về sự nổi tiếng toàn cầu của Lý Tử Thất qua các video nông thôn yên bình, đồng thời nêu bật cả sự lan tỏa văn hóa lẫn những lời phê bình về tính thực tế. Đáp án đúng phải khái quát được cả sự nổi tiếng lẫn góc nhìn phản biện này."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"idealized\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "criticized",
+       "B": "simplified",
+       "C": "romanticized",
+       "D": "documented"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"idealized\" ở đoạn 4 được dùng để mô tả bức tranh về cuộc sống nông thôn mà các video thể hiện — một bức tranh đã bỏ qua những gian khổ thể chất và khó khăn tài chính. Do đó, từ này mang nghĩa lãng mạn hóa, lý tưởng hóa (romanticized)."
+     },
+     {
+      "number": 4,
+      "stem": "In 2021, Li Ziqi was recognized for _______.",
+      "options": {
+       "A": "Setting a subscriber record for a Chinese-language channel.",
+       "B": "Publishing her first international cookbook for global readers.",
+       "C": "Winning a major documentary film award for rural culture.",
+       "D": "Opening a rural cultural museum in her Chinese hometown."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét mốc thời gian \"2021\" ở đoạn 3 để định vị thành tích: cô được ghi nhận giữ kỷ lục về số lượng người đăng ký nhiều nhất trên một kênh YouTube tiếng Trung (holding the record for the most subscribers on a Chinese-language YouTube channel)."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, which of the following is NOT mentioned as an activity Li Ziqi does in her videos?",
+      "options": {
+       "A": "growing vegetables in her garden",
+       "B": "baking bread in a clay oven",
+       "C": "painting traditional watercolor pictures",
+       "D": "weaving baskets from dried grass"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét các hoạt động của Lý Tử Thất ở đoạn 1 và đoạn 2: trồng rau trong vườn (grows vegetables in her garden), nướng bánh mì trong lò đất (bakes bread in a clay oven) và đan giỏ từ cỏ khô (weaves a basket from dried grass). Phương án \"vẽ tranh thủy mặc truyền thống\" là hoạt động không được nhắc tới trong bài."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"one\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "the idealized picture",
+       "B": "financial struggle",
+       "C": "rural customs",
+       "D": "traditional Chinese culture"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"one\" ở câu cuối đoạn 4. Áp dụng quy tắc đọc câu trước đó: tác giả đề cập đến \"an overly idealized picture of farm life, one that quietly leaves out...\" (một bức tranh lý tưởng hóa quá mức về cuộc sống nông thôn, một bức tranh mà...). Từ \"one\" quy chiếu trực tiếp đến bức tranh lý tưởng hóa đó (the idealized picture)."
+     },
+     {
+      "number": 7,
+      "stem": "Why did Li Ziqi stop posting videos in 2021?",
+      "options": {
+       "A": "Her production team cited an undisclosed business disagreement.",
+       "B": "She spent a year recovering privately from a serious illness.",
+       "C": "She left China to study culinary arts at a university.",
+       "D": "She chose to focus full-time on farming with her family."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét mốc thời gian \"2021\" ở đoạn 5 để tìm nguyên nhân ngừng đăng video: ê-kíp sản xuất chỉ đưa ra thông báo ngắn gọn về một tranh chấp kinh doanh mà không đi vào chi tiết (a business disagreement without going into detail)."
+     },
+     {
+      "number": 8,
+      "stem": "The word \"hardship\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "difficulty",
+       "B": "inconvenience",
+       "C": "reputation",
+       "D": "tradition"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"hardship\" ở đoạn 4 đi kèm với cụm \"physical hardship and financial struggle\" (vất vả thể chất và chật vật tài chính) mà nông dân thực tế phải đối mặt. Ngữ cảnh này chỉ ra sắc thái nghĩa của từ sát nhất với sự khó khăn, vất vả (difficulty)."
+     },
+     {
+      "number": 9,
+      "stem": "It can be inferred from the passage that the author most likely believes _______.",
+      "options": {
+       "A": "Li Ziqi's fans mainly watch her videos because they hope to learn practical farming skills at home",
+       "B": "Li Ziqi's videos are considered by most experts the only accurate record of rural Chinese life",
+       "C": "Li Ziqi will most likely stop making new videos again soon due to ongoing business problems",
+       "D": "Li Ziqi's videos, while beautifully made, do not tell the full story of rural farming life"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đọc đoạn 4 về lời chỉ trích của các nhà bình luận đối với nội dung video. Việc tác giả đưa góc nhìn này vào bài đọc cho thấy tác giả đồng tình rằng dù video được quay dàn dựng rất đẹp nhưng chưa phản ánh đầy đủ toàn bộ bức tranh cuộc sống nông thôn vất vả thực tế."
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall attitude toward Li Ziqi in the passage?",
+      "options": {
+       "A": "Personal, based on individual travel experiences across rural regions.",
+       "B": "Balanced, presenting both her widespread appeal and valid criticisms.",
+       "C": "Critical, highlighting mostly negative consequences of idealized content.",
+       "D": "Promotional, encouraging online audiences to subscribe to her channel. Reading"
+      },
+      "answer": "B",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Phân tích giọng văn toàn bài. Tác giả giới thiệu sự thu hút của các video, ghi nhận kỷ lục và đóng góp quảng bá văn hóa, đồng thời cũng đề cập đến những lời phê bình. Cách trình bày này thể hiện thái độ thông tin khách quan, cân bằng (informative and balanced)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 1 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R1Q1, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực tiếp có sẵn trong bài đọc:\n  - Với **R1Q1**, quét từ khóa \"Li Ziqi\" ngay ở câu đầu tiên của đoạn 1: cô đến từ Tứ Xuyên, Trung Quốc (a young woman from Sichuan, China).\n  - Với **R1Q4**, quét mốc thời gian \"2021\" ở đoạn 3 để định vị thành tích: cô được ghi nhận giữ kỷ lục về số lượng người đăng ký nhiều nhất trên một kênh YouTube tiếng Trung (holding the record for the most subscribers on a Chinese-language YouTube channel).\n  - Với **R1Q7**, quét mốc thời gian \"2021\" ở đoạn 5 để tìm nguyên nhân ngừng đăng video: ê-kíp sản xuất chỉ đưa ra thông báo ngắn gọn về một tranh chấp kinh doanh mà không đi vào chi tiết (a business disagreement without going into detail).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"idealized\"** ở đoạn 4 được dùng để mô tả bức tranh về cuộc sống nông thôn mà các video thể hiện — một bức tranh đã bỏ qua những gian khổ thể chất và khó khăn tài chính. Do đó, từ này mang nghĩa lãng mạn hóa, lý tưởng hóa (romanticized).\n  - Với **R1Q8**, từ **\"hardship\"** ở đoạn 4 đi kèm với cụm \"physical hardship and financial struggle\" (vất vả thể chất và chật vật tài chính) mà nông dân thực tế phải đối mặt. Ngữ cảnh này chỉ ra sắc thái nghĩa của từ sát nhất với sự khó khăn, vất vả (difficulty).\n- **Dạng câu hỏi Loại trừ NOT (R1Q5):** Đọc quét các hoạt động của Lý Tử Thất ở đoạn 1 và đoạn 2: trồng rau trong vườn (grows vegetables in her garden), nướng bánh mì trong lò đất (bakes bread in a clay oven) và đan giỏ từ cỏ khô (weaves a basket from dried grass). Phương án \"vẽ tranh thủy mặc truyền thống\" là hoạt động không được nhắc tới trong bài.\n- **Dạng câu hỏi Quy chiếu (R1Q6):** Tập trung vào đại từ **\"one\"** ở câu cuối đoạn 4. Áp dụng quy tắc đọc câu trước đó: tác giả đề cập đến \"an overly idealized picture of farm life, one that quietly leaves out...\" (một bức tranh lý tưởng hóa quá mức về cuộc sống nông thôn, một bức tranh mà...). Từ \"one\" quy chiếu trực tiếp đến bức tranh lý tưởng hóa đó (the idealized picture).\n- **Dạng câu hỏi Ý chính (R1Q2):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của từng đoạn: bài viết giới thiệu về sự nổi tiếng toàn cầu của Lý Tử Thất qua các video nông thôn yên bình, đồng thời nêu bật cả sự lan tỏa văn hóa lẫn những lời phê bình về tính thực tế. Đáp án đúng phải khái quát được cả sự nổi tiếng lẫn góc nhìn phản biện này.\n- **Dạng câu hỏi Suy luận (R1Q9):** Đọc đoạn 4 về lời chỉ trích của các nhà bình luận đối với nội dung video. Việc tác giả đưa góc nhìn này vào bài đọc cho thấy tác giả đồng tình rằng dù video được quay dàn dựng rất đẹp nhưng chưa phản ánh đầy đủ toàn bộ bức tranh cuộc sống nông thôn vất vả thực tế.\n- **Dạng câu hỏi Thái độ tác giả (R1Q10):** Phân tích giọng văn toàn bài. Tác giả giới thiệu sự thu hút của các video, ghi nhận kỷ lục và đóng góp quảng bá văn hóa, đồng thời cũng đề cập đến những lời phê bình. Cách trình bày này thể hiện thái độ thông tin khách quan, cân bằng (informative and balanced).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi có vị trí định vị rõ ràng như Từ vựng (R1Q3, R1Q8) và Quy chiếu (R1Q6). Tiếp theo, dùng kỹ năng đọc quét nhanh để hoàn thành các câu **Chi tiết** (R1Q1, R1Q4, R1Q7) và câu hỏi **Loại trừ** (R1Q5). Cuối cùng, tổng hợp nội dung bài đọc để chọn đáp án chính xác cho các câu tư duy tổng hợp gồm **Ý chính** (R1Q2), **Suy** luận (R1Q9) và Thái độ tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Platform Shift Among Generation Z",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Although Facebook still ranks among the most widely used social media platforms in the world by total number of accounts, evidence gathered over the past several years suggests that its grip on the youngest generation of users has been steadily **eroding**. Surveys conducted among teenagers and young adults consistently show declining daily engagement with the platform, even as older users continue signing on in large numbers. This gradual shift has prompted researchers, marketers, and parents alike to ask the same question: where exactly are young people going instead, and why?",
+     "The most commonly cited destinations are Snapchat and Instagram, two platforms that, while different in design, share features that appeal strongly to younger audiences. Snapchat's disappearing messages and playful filters offer a sense of spontaneity that many teenagers find preferable to the more permanent, curated posts typical of Facebook. Instagram, meanwhile, has managed to retain relevance by continuously adapting its format — most notably by introducing short-form video features that closely resemble those popularized by competing apps. Neither platform requires the kind of long-term, public profile-building that Facebook was originally designed around, a distinction that appears to matter a great deal to younger users.",
+     "Some researchers argue that the underlying cause is not simply a preference for newer technology but a deeper shift in how young people wish to present themselves online. Whereas earlier generations often used Facebook to construct a lasting, semi-permanent record of their lives — photos, relationship updates, life milestones — many Gen Z users appear to favor more fleeting, less **curated** forms of self-expression. This is not to say that image matters less to them; if anything, the pressure to appear authentic, rather than polished, has simply taken a different form, one better suited to platforms built around temporary content.",
+     "There is also a generational association at play that should not be underestimated. Because Facebook was adopted early on by parents, teachers, and even grandparents, many teenagers came to view it less as a space for peer interaction and more as a platform monitored by adults. Several studies have noted that teenagers, when asked directly, describe Facebook as being for \"older people,\" a perception that, once established, tends to become self-reinforcing regardless of any features the platform later introduces to attract younger users.",
+     "None of this means Facebook has become irrelevant to Gen Z entirely. Many young users maintain a Facebook account for practical reasons — joining local community groups, buying and selling secondhand items on Facebook Marketplace, or staying connected with extended family members who are not active on other platforms. In **these cases-** , however, the platform functions more like a utility than a primary space for social interaction, opened occasionally rather than checked throughout the day. This distinction, between a platform used out of necessity and one used out of genuine enjoyment, may explain why usage statistics alone can be misleading.",
+     "The long-term consequences of this shift remain uncertain. Some analysts predict that Facebook's parent company will continue investing heavily in Instagram, effectively allowing one platform to age alongside its original user base while directing newer features toward the other. Others suggest that an entirely new platform, not yet dominant, could eventually capture Gen Z's attention in the same way Snapchat and Instagram once did, following a pattern of generational rotation that has repeated itself several times since the rise of social media roughly two decades ago.",
+     "What seems clear, at least for now, is that generational loyalty to any single platform cannot be assumed. Just as Facebook once displaced earlier networks by offering something new, it may eventually be displaced itself — not necessarily because it has failed, but because the platforms young people gravitate toward tend to say something about who they want to be, not merely where their friends happen to be."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, which two platforms are most commonly cited as destinations for young users leaving Facebook?",
+      "options": {
+       "A": "TikTok and YouTube",
+       "B": "Snapchat and Instagram",
+       "C": "WhatsApp and Telegram",
+       "D": "Twitter and Pinterest"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"commonly cited destinations\" ở đầu đoạn 2 để thấy hai nền tảng được nhắc tới nhiều nhất: Snapchat và Instagram."
+     },
+     {
+      "number": 12,
+      "stem": "The word \"eroding\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "fading",
+       "B": "improving",
+       "C": "expanding",
+       "D": "weakening"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"eroding\" ở đoạn 1 mô tả việc sức ảnh hưởng/sự kiểm soát của Facebook đối với giới trẻ đang ngày càng suy giảm. Do đó, từ này đồng nghĩa với suy yếu, giảm dần (weakening)."
+     },
+     {
+      "number": 13,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Instagram and Snapchat will soon replace Facebook entirely globally.",
+       "B": "Facebook remains widely used, but young users prefer other platforms.",
+       "C": "Young people abandoned Facebook mainly because parents joined the app.",
+       "D": "Facebook lost most global users due to inferior technological features."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu mở đầu đoạn 1 và kết hợp nội dung các đoạn: bài viết làm rõ việc Facebook vẫn giữ quy mô lớn nhưng mức độ gắn bó của giới trẻ đang giảm mạnh do họ ưu tiên chuyển sang các nền tảng khác. Phương án đúng phải khái quát được bức tranh tổng thể này."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, which of the following is NOT given as a reason young people prefer Snapchat and Instagram over Facebook?",
+      "options": {
+       "A": "Snapchat's messages disappear rather than remaining permanently",
+       "B": "Both platforms offer significantly lower data and storage costs",
+       "C": "Instagram has added short-form video features",
+       "D": "Facebook is associated with parents and older relatives"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét các lý do giới trẻ thích Snapchat/Instagram ở đoạn 2 và đoạn 4: tin nhắn tự biến mất, tính năng video ngắn và sự có mặt của phụ huynh trên Facebook. Phương án về \"chi phí dữ liệu và dung lượng lưu trữ thấp hơn\" là chi tiết không hề xuất hiện trong bài."
+     },
+     {
+      "number": 15,
+      "stem": "According to the passage, how do many teenagers describe Facebook, according to several studies?",
+      "options": {
+       "A": "as being 'for older people,' due to its early adoption by adults",
+       "B": "as less secure and more likely to expose personal information",
+       "C": "as too complicated and difficult for younger users to understand",
+       "D": "as a platform mainly for professional networking and job searching"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"describe Facebook\" hoặc \"studies\" ở đoạn 4 để tìm nhận xét của thanh thiếu niên: họ mô tả Facebook là dành cho \"người lớn tuổi\" (for older people)."
+     },
+     {
+      "number": 16,
+      "stem": "The phrase \"these cases\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "declining engagement among older Facebook users",
+       "B": "secondhand items sold on Facebook Marketplace",
+       "C": "extended family members who are not active on other platforms",
+       "D": "situations where teenagers use Facebook mainly for practical purposes"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào cụm từ \"these cases\" ở đoạn 5. Đọc câu trước đó: tác giả liệt kê các tình huống người dùng trẻ dùng Facebook cho mục đích thực tế (tham gia nhóm cộng đồng, mua bán đồ cũ, liên lạc với họ hàng). Cụm này quy chiếu trực tiếp đến các trường hợp dùng Facebook cho mục đích thực tế này (situations where teenagers use Facebook mainly for practical purposes)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, which of the following is mentioned as a practical reason some Gen Z users keep a Facebook account?",
+      "options": {
+       "A": "streaming live sports events broadcast only on Facebook",
+       "B": "buying and selling secondhand items through Facebook Marketplace",
+       "C": "playing multiplayer games developed specifically for the platform",
+       "D": "applying for jobs listed exclusively on Facebook's job board"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"practical reasons\" hoặc \"Gen Z\" ở đoạn 5 để tìm lý do thực tế: mua bán đồ cũ trên Facebook Marketplace (buying and selling secondhand items on Facebook Marketplace)."
+     },
+     {
+      "number": 18,
+      "stem": "The word \"curated\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "widely criticized",
+       "B": "carefully selected",
+       "C": "removed entirely",
+       "D": "shared randomly"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"curated\" ở đoạn 3 đi kèm với các bài đăng có định hướng chỉnh sửa tỉ mỉ, được chọn lọc kỹ lưỡng trên Facebook. Ngữ cảnh này chỉ ý nghĩa chọn lọc cẩn thận (carefully selected)."
+     },
+     {
+      "number": 19,
+      "stem": "Based on information in the passage, it can be inferred that a decline in teenagers' daily engagement with Facebook does NOT necessarily mean that _______.",
+      "options": {
+       "A": "those same teenagers have stopped using Facebook accounts completely",
+       "B": "older Facebook users are also reducing their daily time on the app",
+       "C": "Instagram will eventually overtake Facebook in total number of accounts",
+       "D": "Snapchat's disappearing messages are the single biggest reason for this"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Tổng hợp thông tin từ đoạn 5. Tác giả lưu ý việc giảm tương tác hàng ngày không đồng nghĩa với việc giới trẻ xóa tài khoản hay ngừng hẳn, vì nhiều người vẫn duy trì tài khoản để phục vụ các nhu cầu thực tế thi thoảng mới dùng tới."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's primary purpose in writing this passage?",
+      "options": {
+       "A": "To criticize Gen Z for abandoning long-term online self-presentation.",
+       "B": "To persuade readers that Facebook will disappear in a few years.",
+       "C": "To explore various possible explanations for Gen Z's platform shift.",
+       "D": "To promote Instagram and Snapchat as superior choices for all ages. Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích thái độ bài viết. Tác giả trình bày hàng loạt góc nhìn (công nghệ, tâm lý thể hiện bản thân, yếu tố thế hệ) để lý giải hiện tượng dịch chuyển nền tảng của Gen Z. Mục đích chính là khám phá các nguyên nhân có thể có (explore various possible explanations)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 2 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R2Q1, R2Q5, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để định vị nhanh thông tin trong bài đọc:\n  - Với **R2Q1**, quét cụm từ \"commonly cited destinations\" ở đầu đoạn 2 để thấy hai nền tảng được nhắc tới nhiều nhất: Snapchat và Instagram.\n  - Với **R2Q5**, quét từ khóa \"describe Facebook\" hoặc \"studies\" ở đoạn 4 để tìm nhận xét của thanh thiếu niên: họ mô tả Facebook là dành cho \"người lớn tuổi\" (for older people).\n  - Với **R2Q7**, quét cụm từ \"practical reasons\" hoặc \"Gen Z\" ở đoạn 5 để tìm lý do thực tế: mua bán đồ cũ trên Facebook Marketplace (buying and selling secondhand items on Facebook Marketplace).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q2, R2Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q2**, từ **\"eroding\"** ở đoạn 1 mô tả việc sức ảnh hưởng/sự kiểm soát của Facebook đối với giới trẻ đang ngày càng suy giảm. Do đó, từ này đồng nghĩa với suy yếu, giảm dần (weakening).\n  - Với **R2Q8**, từ **\"curated\"** ở đoạn 3 đi kèm với các bài đăng có định hướng chỉnh sửa tỉ mỉ, được chọn lọc kỹ lưỡng trên Facebook. Ngữ cảnh này chỉ ý nghĩa chọn lọc cẩn thận (carefully selected).\n- **Dạng câu hỏi Loại trừ NOT (R2Q4):** Đọc quét các lý do giới trẻ thích Snapchat/Instagram ở đoạn 2 và đoạn 4: tin nhắn tự biến mất, tính năng video ngắn và sự có mặt của phụ huynh trên Facebook. Phương án về \"chi phí dữ liệu và dung lượng lưu trữ thấp hơn\" là chi tiết không hề xuất hiện trong bài.\n- **Dạng câu hỏi Quy chiếu (R2Q6):** Tập trung vào cụm từ **\"these cases\"** ở đoạn 5. Đọc câu trước đó: tác giả liệt kê các tình huống người dùng trẻ dùng Facebook cho mục đích thực tế (tham gia nhóm cộng đồng, mua bán đồ cũ, liên lạc với họ hàng). Cụm này quy chiếu trực tiếp đến các trường hợp dùng Facebook cho mục đích thực tế này (situations where teenagers use Facebook mainly for practical purposes).\n- **Dạng câu hỏi Ý chính (R2Q3):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu đoạn 1 và kết hợp nội dung các đoạn: bài viết làm rõ việc Facebook vẫn giữ quy mô lớn nhưng mức độ gắn bó của giới trẻ đang giảm mạnh do họ ưu tiên chuyển sang các nền tảng khác. Phương án đúng phải khái quát được bức tranh tổng thể này.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ đoạn 5. Tác giả lưu ý việc giảm tương tác hàng ngày không đồng nghĩa với việc giới trẻ xóa tài khoản hay ngừng hẳn, vì nhiều người vẫn duy trì tài khoản để phục vụ các nhu cầu thực tế thi thoảng mới dùng tới.\n- **Dạng câu hỏi Mục đích của tác giả (R2Q10):** Phân tích thái độ bài viết. Tác giả trình bày hàng loạt góc nhìn (công nghệ, tâm lý thể hiện bản thân, yếu tố thế hệ) để lý giải hiện tượng dịch chuyển nền tảng của Gen Z. Mục đích chính là khám phá các nguyên nhân có thể có (explore various possible explanations).\nLời khuyên: Ưu tiên giải quyết trước các câu hỏi định vị rõ ràng như Từ vựng (R2Q2, R2Q8) và Quy chiếu (R2Q6). Tiếp theo, sử dụng kỹ thuật đọc quét nhanh để hoàn thành các câu **Chi tiết** (R2Q1, R2Q5, R2Q7) và câu hỏi **Loại trừ** (R2Q4). Sau khi đã nắm vững bố cục thông tin, bạn sẽ dễ dàng chinh phục các câu đòi hỏi tư duy tổng hợp cao gồm **Ý chính** (R2Q3), **Suy luận** (R2Q9) và **Mục đích của tác giả** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Last City",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Long before I set foot on the gravel track that climbs toward what locals simply call \"the last city,\" I had assumed that the appeal of such a place would lie in its remoteness alone. What I had not anticipated was how quickly that remoteness would begin to feel less like an absence and more like a kind of company. The settlement, a cluster of perhaps forty buildings clinging to a ridge above the tree line, earns its nickname not because it is technically the final inhabited point on any map, but because, for those who arrive on foot, it is the last place that still resembles a city at all.",
+     "Reaching it required four days of walking, though the difficulty of the route had less to do with altitude than with the way each day seemed to **erase** the previous one's sense of progress. Rivers that appeared, according to the map, to be minor crossings routinely demanded hour-long detours; a ridge that looked, from a distance, like the day's final obstacle would reveal, on arrival, three further ridges behind it. It was only on the third evening, exhausted and disoriented by a landscape that refused to be measured in the usual way, that I began to understand why the townspeople speak of the walk itself, rather than the destination, as the defining experience.",
+     "Anthropologists who have studied the settlement suggest that its isolation, rather than eroding a sense of community, may have intensified it, though they are careful to note that this effect is not unique to remote towns and could equally reflect selection: those unsuited to such isolation simply do not stay long enough to be counted. Whatever the cause, the town's roughly two hundred residents maintain a density of mutual obligation that would be unusual even in a small city. Nearly every adult, I was told, holds some formal responsibility — tending the water system, managing the single school, coordinating supply runs — that cannot easily be delegated or ignored.",
+     "[1] None of this, however, should be mistaken for a life free of hardship. [2] Supplies that cannot be grown or made locally arrive only twice a month, carried in by mule train along the same route I had walked, and prices reflect that scarcity: a single bag of flour costs roughly four times what it would in the nearest large town. **[3]** Several residents mentioned, almost in passing, that they had considered leaving after a particularly harsh winter, only to find that the prospect of returning to a conventional job elsewhere felt, in their words, more foreign than the isolation itself. [4]",
+     "What struck me most, though, was not the hardship but the particular quality of attention that isolation seemed to demand. Without the usual background noise of traffic, notifications, or distant construction, small events — a change in wind direction, a delay in the mule train, a disagreement over water rights — acquired a weight that would seem disproportionate anywhere else. Whether this heightened attentiveness constitutes a genuine improvement in quality of life, or simply a narrowing of one's field of concern until it fits the available space, is a question the residents themselves seem divided on, and one I found myself unable to answer with any confidence.",
+     "Tourism, predictably, has begun to complicate this arrangement, even though its scale remains modest for now. A handful of trekkers, myself included, now make the journey each season, drawn by accounts of the settlement's self-sufficiency, and their presence has introduced a small but steady source of income that several residents describe as welcome, if occasionally intrusive. Whether **this trickle** of outside interest will, over the coming decade, reshape the town's economy in ways that echo other once-remote destinations, or whether the difficulty of the approach will continue to limit numbers naturally, remains, by the residents' own admission, an open question.",
+     "I left after five days, descending the same route by which I had come, and found the return journey considerably faster, not because the terrain had changed but because I no longer expected the walk to resolve into anything other than what it was. The last city, I suspect, earns its name less from geography than from the particular relationship its residents have negotiated with distance itself — a relationship that outsiders like myself can observe, and even briefly inhabit, but never fully claim to understand after a visit measured in days rather than years."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, why do supplies delivered to the settlement cost significantly more than in nearby towns?",
+      "options": {
+       "A": "The nearest large town restricts how many goods may be exported.",
+       "B": "Residents refuse to grow or produce any food locally themselves.",
+       "C": "The town imposes an additional local tax on all imported goods.",
+       "D": "Infrequent, mule-based delivery routes limit supply and raise costs."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 nói về nguồn cung cấp nhu yếu phẩm: hàng hóa chỉ được vận chuyển 2 lần/tháng bằng lừa (mule train) qua tuyến đường khó khăn, làm hạn chế nguồn cung và đẩy giá cao gấp 4 lần (Infrequent, mule-based delivery routes limit supply and raise costs)."
+     },
+     {
+      "number": 22,
+      "stem": "The word \"erase\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "measure",
+       "B": "confirm",
+       "C": "postpone",
+       "D": "eliminate"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"erase\" ở đoạn 2 mô tả việc các chướng ngại vật trên đường đi làm \"xóa bỏ/tiêu tan\" cảm giác đã tiến xa được của ngày hôm trước. Do đó, từ này đồng nghĩa với loại bỏ, làm mất đi (eliminate)."
+     },
+     {
+      "number": 23,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "The passage documents physical difficulty, concluding the journey is worthless.",
+       "B": "Isolation creates deep social bonds alongside hardship with uncertain trade-offs.",
+       "C": "Tourism has already transformed the economy and destroyed local self-sufficiency.",
+       "D": "Isolation alone fosters strong social ties without requiring communal effort."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 24,
+      "stem": "Based on paragraph 3, it can be inferred that the anthropologists' explanation for the town's strong sense of community _______.",
+      "options": {
+       "A": "applies equally well to explain why tourism has recently increased in the area",
+       "B": "is presented as certain, though the passage never actually questions its accuracy",
+       "C": "may be confounded by the fact that only certain people remain long enough to be studied",
+       "D": "has been strongly confirmed by long-term studies of many other remote settlements"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đọc đoạn 3 về giải thích của các nhà nhân học. Họ lưu ý rằng tinh thần cộng đồng cao có thể do yếu tố sàng lọc (selection): những người không thích hợp với sự cô lập đã rời đi, chỉ những người phù hợp mới ở lại. Do đó, nghiên cứu bị ảnh hưởng bởi thực tế là chỉ những người trụ lại lâu mới được khảo sát/nghiên cứu."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, which of the following is NOT mentioned as a formal responsibility held by residents of the settlement?",
+      "options": {
+       "A": "coordinating every single supply run",
+       "B": "overseeing seasonal tourist trekking routes",
+       "C": "tending the town's water system",
+       "D": "managing the settlement's only school"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét danh sách trách nhiệm chính thức của cư dân ở đoạn 3: chăm sóc hệ thống nước (tending the water system), quản lý trường học duy nhất (managing the single school), và phối hợp các chuyến vận chuyển nhu yếu phẩm (coordinating supply runs). Phương án \"giám sát các tuyến đường trekking du lịch theo mùa\" là trách nhiệm không được đề cập."
+     },
+     {
+      "number": 26,
+      "stem": "The phrase \"this trickle\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "the town's traditional self-sufficiency practices",
+       "B": "the steady income generated by visiting trekkers",
+       "C": "outside accounts describing the settlement",
+       "D": "the difficulty of the approach itself"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào cụm từ \"this trickle\" ở đoạn 6. Áp dụng quy tắc đọc ngược về câu phía trước: câu trước nhắc tới dòng thu nhập nhỏ/đều đặn thu được từ lượng du khách đi bộ đường dài ghé qua. Cụm \"this trickle\" quy chiếu đến dòng thu nhập này (the steady income generated by visiting trekkers)."
+     },
+     {
+      "number": 27,
+      "stem": "According to the passage, how did the writer's experience of the return journey differ from the journey to the settlement, and why?",
+      "options": {
+       "A": "The return felt slower because of extra supplies being carried.",
+       "B": "The return felt faster because the writer took a direct route.",
+       "C": "The return felt faster because expectations about the walk changed.",
+       "D": "The return felt unchanged in both travel speed and mindset."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về hành trình trở về ở các đoạn cuối: chuyến về cảm giác nhanh hơn không phải vì đi đường khác hay ít tải trọng hơn, mà vì tâm lý/kỳ vọng về chặng đường đi bộ đã thay đổi (expectations about the walk changed)."
+     },
+     {
+      "number": 28,
+      "stem": "What is the writer's overall attitude toward the settlement and its way of life, as expressed in the passage?",
+      "options": {
+       "A": "Scientific, focusing on cataloguing anthropological data without personal reflection.",
+       "B": "Dismissive, viewing the residents' extreme isolation as impractical and pointless.",
+       "C": "Purely celebratory, presenting the remote settlement as an ideal lifestyle.",
+       "D": "Reflective, appreciating community resilience while remaining uncertain about trade-offs."
+      },
+      "answer": "D",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": null
+     },
+     {
+      "number": 29,
+      "stem": "The word \"disproportionate\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "excessive",
+       "B": "predictable",
+       "C": "irrelevant",
+       "D": "temporary"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"disproportionate\" ở đoạn 5 mô tả mức độ tác động không tương xứng/quá mức so với quy mô. Ngữ cảnh này sát nghĩa nhất với vượt quá mức, quá đáng (excessive)."
+     },
+     {
+      "number": 30,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Yet none of them, in the end, chose to go.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4] Reading"
+      },
+      "answer": "D",
+      "type_hint": "Chèn câu vào vị trí [1], [2], [3], [4]",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mối liên hệ logic của câu cần chèn: \"Yet none of them, in the end, chose to go.\" (Tuy nhiên cuối cùng không ai trong số họ chọn ra đi). Câu trước vị trí [4] (ở đoạn 4) vừa đề cập đến việc một vài cư dân nhắc đến ý định rời đi sau mùa đông khắc nghiệt. Đặt câu chèn vào vị trí [4] tạo nên mạch lập luận phản chiếu hoàn toàn hợp lý."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 3 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R3Q1, R3Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực tiếp có sẵn trong bài đọc:\n  - Với **R3Q1**, quét đoạn 4 nói về nguồn cung cấp nhu yếu phẩm: hàng hóa chỉ được vận chuyển 2 lần/tháng bằng lừa (mule train) qua tuyến đường khó khăn, làm hạn chế nguồn cung và đẩy giá cao gấp 4 lần (Infrequent, mule-based delivery routes limit supply and raise costs).\n  - Với **R3Q7**, quét thông tin về hành trình trở về ở các đoạn cuối: chuyến về cảm giác nhanh hơn không phải vì đi đường khác hay ít tải trọng hơn, mà vì tâm lý/kỳ vọng về chặng đường đi bộ đã thay đổi (expectations about the walk changed).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q2, R3Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q2**, từ **\"erase\"** ở đoạn 2 mô tả việc các chướng ngại vật trên đường đi làm \"xóa bỏ/tiêu tan\" cảm giác đã tiến xa được của ngày hôm trước. Do đó, từ này đồng nghĩa với loại bỏ, làm mất đi (eliminate).\n  - Với **R3Q9**, từ **\"disproportionate\"** ở đoạn 5 mô tả mức độ tác động không tương xứng/quá mức so với quy mô. Ngữ cảnh này sát nghĩa nhất với vượt quá mức, quá đáng (excessive).\n- **Dạng câu hỏi Loại trừ NOT (R3Q5):** Đọc quét danh sách trách nhiệm chính thức của cư dân ở đoạn 3: chăm sóc hệ thống nước (tending the water system), quản lý trường học duy nhất (managing the single school), và phối hợp các chuyến vận chuyển nhu yếu phẩm (coordinating supply runs). Phương án \"giám sát các tuyến đường trekking du lịch theo mùa\" là trách nhiệm không được đề cập.\n- **Dạng câu hỏi Quy chiếu (R3Q6):** Tập trung vào cụm từ **\"this trickle\"** ở đoạn 6. Áp dụng quy tắc đọc ngược về câu phía trước: câu trước nhắc tới dòng thu nhập nhỏ/đều đặn thu được từ lượng du khách đi bộ đường dài ghé qua. Cụm \"this trickle\" quy chiếu đến dòng thu nhập này (the steady income generated by visiting trekkers).\n- **Dạng câu hỏi Suy luận (R3Q4):** Đọc đoạn 3 về giải thích của các nhà nhân học. Họ lưu ý rằng tinh thần cộng đồng cao có thể do yếu tố sàng lọc (selection): những người không thích hợp với sự cô lập đã rời đi, chỉ những người phù hợp mới ở lại. Do đó, nghiên cứu bị ảnh hưởng bởi thực tế là chỉ những người trụ lại lâu mới được khảo sát/nghiên cứu.\n- **Dạng câu hỏi Chèn câu vào vị trí [1], [2], [3], [4] (R3Q10):** Phân tích mối liên hệ logic của câu cần chèn: \"Yet none of them, in the end, chose to go.\" (Tuy nhiên cuối cùng không ai trong số họ chọn ra đi). Câu trước vị trí **[4]** (ở đoạn 4) vừa đề cập đến việc một vài cư dân nhắc đến ý định rời đi sau mùa đông khắc nghiệt. Đặt câu chèn vào vị trí **[4]** tạo nên mạch lập luận phản chiếu hoàn toàn hợp lý.\n- **Dạng câu hỏi Ý chính (R3Q3) và Thái độ tác giả (R3Q8):** Tổng hợp mạch cảm xúc và lập luận toàn bài: tác giả suy ngẫm về sự cô lập vừa tạo ra mối liên kết cộng đồng sâu sắc vừa mang lại những khó khăn vất vả thực tế, đồng thời thể hiện cái nhìn đầy trăn trở, trân trọng sức bền của cư dân nhưng vẫn cân nhắc những sự đánh đổi (reflective, appreciating community resilience while remaining uncertain about trade-offs).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị rõ ràng như Từ vựng (R3Q2, R3Q9), Quy chiếu (R3Q6) và Chèn câu (R3Q10). Sau đó, dùng kỹ thuật đọc quét nhanh để hoàn thành các câu Chi tiết (R3Q1, R3Q7) và câu hỏi Loại trừ (R3Q5). Cuối cùng, tổng hợp tinh thần toàn bài để trả lời chính xác các câu đòi hỏi tư duy cao gồm Suy luận (R3Q4), Ý chính (R3Q3) và Thái độ của tác giả (R3Q8)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Rethinking the Boomerang Generation",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "The image of the \"boomerang\" adult — a young person who leaves home, only to return within a few years — has become so familiar in public discourse that it risks obscuring rather than clarifying what is actually happening to early-career trajectories. It would be a mistake, however, to treat the trend as evidence of a single, uniform cause, whether that cause is framed as economic necessity, cultural preference, or generational fragility; the reality, as several recent studies suggest, appears considerably more layered than any of these framings alone can capture.",
+     "Housing costs are, unsurprisingly, central to most explanations, though the precise mechanism deserves closer scrutiny than it typically receives. In many metropolitan areas, the ratio of median home price to median entry-level income has grown so sharply over the past two decades that homeownership, for a graduate entering the workforce today, functions less as a distant but attainable milestone than as what some commentators have started calling a pipe dream — an aspiration retained more out of habit than realistic planning. This does not mean the aspiration has disappeared; if anything, surveys suggest it remains widely held, even as fewer respondents expect to achieve it within the timeframe their parents once considered normal.",
+     "Whether this gap between aspiration and expectation constitutes a genuine psychological burden, or whether younger adults have simply recalibrated their sense of a \"normal\" timeline without much distress, remains disputed among researchers. What does seem clearer is that returning to a parental household, once treated primarily as a marker of failure to launch, is increasingly understood — by the young adults themselves, if not always by their parents — as a rational financial strategy, one that allows savings to accumulate at a rate that independent living would not permit.",
+     "A parallel, and arguably related, shift has taken place in attitudes toward employment itself, particularly since the disruptions of the pandemic years. Where previous generations were often encouraged to view a single, stable job as both an economic necessity and a marker of adult identity, a growing proportion of younger workers now appear to treat frequent job changes, and in some cases the deliberate combination of several part-time or freelance roles, not as a fallback position but as a preferred arrangement. Employers, somewhat predictably, have tended to describe this shift using less flattering language, characterizing it variously as disloyalty, restlessness, or an unwillingness to commit.",
+     "Such characterizations, however, may say as much about employer expectations formed in a different economic era as they do about the workers themselves. Several labor economists have argued — though not without dissent from colleagues who caution against overstating the shift — that what looks like restlessness might more accurately be described as a rational response to an employment landscape in which long-term loyalty is rewarded far less reliably than it once was, given the frequency with which companies themselves now **restructure**, relocate, or eliminate positions with limited notice.",
+     "It would be too simple, though, to characterize this shift as purely a matter of economic calculation on the workers' side. Interviews conducted with young adults who have deliberately chosen part-time or multiple-role arrangements over a single full-time position suggest that considerations of flexibility, mental health, and control over one's schedule factor at least as heavily as income optimization, even when the arrangements in question do not clearly pay more, and sometimes pay measurably less, than the conventional alternative they replaced. Taken together, these patterns suggest that what is often described, somewhat dismissively, as a generation reluctant to grow up may instead reflect a generation adapting, not always by choice, to housing and labor markets that no longer function the way they did for the generation that designed the expectations still being applied to them. Whether **this adaptation** proves temporary, easing as economic conditions shift, or whether it marks a more lasting reorganization of how adulthood itself is sequenced, is a question current data cannot yet answer with confidence.",
+     "These two threads — housing affordability and employment structure — are not unrelated, since the same generation navigating a stretched mortgage market is also absorbing a labor market that increasingly rewards adaptability over tenure. Understood this way, the boomerang phenomenon looks less like an isolated housing story and more like one symptom of a broader realignment between economic structures and the life stages they were once assumed to support."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, what does the growing gap between median home prices and entry-level income mean for how homeownership functions for many recent graduates?",
+      "options": {
+       "A": "It has become entirely unattainable, with almost no graduates expecting to ever own a home",
+       "B": "It has shifted from a realistic milestone to a persistently held but less achievable ideal",
+       "C": "It has caused graduates to prioritize renting permanently over any future homeownership plans",
+       "D": "It has led most graduates to abandon the goal of homeownership altogether within a decade"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 nơi đề cập đến khoảng cách giữa giá nhà trung vị và thu nhập khởi điểm. Khoảng cách này khiến quyền sở hữu nhà chuyển từ một mốc đạt được thực tế thành một lý tưởng vẫn được duy trì nhưng khó đạt được hơn (shifted from a realistic milestone to a persistently held but less achievable ideal)."
+     },
+     {
+      "number": 32,
+      "stem": "The word \"recalibrated\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "publicized",
+       "B": "adjusted",
+       "C": "abandoned",
+       "D": "exaggerated"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"recalibrated\" ở đoạn 3 mô tả việc người trẻ tự điều chỉnh lại khái niệm về mốc thời gian \"bình thường\". Từ này đồng nghĩa với điều chỉnh (adjusted)."
+     },
+     {
+      "number": 33,
+      "stem": "Regarding the relationship between employment attitudes and economic conditions, the passage suggests that _______.",
+      "options": {
+       "A": "Job-hopping is driven mainly by declining employer loyalty.",
+       "B": "Job-hopping stems from economic instability despite researchers' objections.",
+       "C": "Job-hopping reflects rational responses to employers alongside personal factors.",
+       "D": "Job-hopping is strictly a rational response to unstable employers."
+      },
+      "answer": "C",
+      "type_hint": "Quan điểm / Thái độ tác giả",
+      "type": "Suy luận",
+      "explanation": "tác giả cho rằng việc nhảy việc (job-hopping) vừa là phản ứng hợp lý trước thị trường lao động/doanh nghiệp, vừa xuất phát từ các yếu tố cá nhân."
+     },
+     {
+      "number": 34,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Young adults are fundamentally less motivated toward financial independence.",
+       "B": "The boomerang trend stems from interconnected economic and personal factors.",
+       "C": "Housing costs are the sole driver of shifting adult trajectories.",
+       "D": "Employer criticism of job-hopping is completely unjustified and biased."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc đoạn 1 và đoạn cuối bài: xu hướng \"boomerang\" không đến từ một nguyên nhân đơn lẻ mà là sự kết hợp của nhiều yếu tố kinh tế và cá nhân đan xen (interconnected economic and personal factors)."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason young adults choose part-time or multiple-role work arrangements over a single full-time job?",
+      "options": {
+       "A": "considerations related to mental health",
+       "B": "greater flexibility over one's schedule",
+       "C": "guaranteed higher overall income than full-time work",
+       "D": "a desire for more control over daily routines"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét đoạn 4 và 5 về lý do người trẻ chọn công việc bán thời gian/nhiều vai trò: để cân bằng sức khỏe tinh thần, linh hoạt thời gian và chủ động lịch trình. Chi tiết \"đảm bảo thu nhập cao hơn làm toàn thời gian\" (guaranteed higher overall income) là chi tiết không hề được nhắc đến."
+     },
+     {
+      "number": 36,
+      "stem": "According to the passage, why might returning to live with parents no longer be viewed primarily as a sign of failure?",
+      "options": {
+       "A": "because it is increasingly seen as a rational strategy allowing faster savings accumulation",
+       "B": "because government housing policy now requires young adults to live with relatives first",
+       "C": "because parents increasingly encourage their adult children to remain at home indefinitely",
+       "D": "because most employers now expect new graduates to live with family during their careers"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để thấy lý do việc quay về sống cùng bố mẹ không còn bị coi là thất bại: nó ngày càng được hiểu là một chiến lược tài chính hợp lý giúp tích lũy tiền tiết kiệm nhanh hơn (rational financial strategy allowing faster savings accumulation)."
+     },
+     {
+      "number": 37,
+      "stem": "The phrase \"this adaptation\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "Employers choosing to restructure companies without advance notice.",
+       "B": "Young adults adjusting behaviors to changed housing and job markets.",
+       "C": "Parents encouraging their adult children to stay home longer.",
+       "D": "The description framing young adults as reluctant to grow up."
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào cụm từ \"this adaptation\" ở đoạn 7. Đọc các câu trước đó để thấy cụm này quy chiếu đến việc người trẻ thích ứng hành vi trước những thay đổi của thị trường nhà ở và việc làm (young adults adjusting behaviors to changed housing and job markets)."
+     },
+     {
+      "number": 38,
+      "stem": "What is the author's overall stance toward the common characterization of boomerang-generation young adults as \"reluctant to grow up\"?",
+      "options": {
+       "A": "Skeptical, suggesting it overlooks structural economic and labor pressures.",
+       "B": "Indifferent, treating the debate as largely unimportant to the argument.",
+       "C": "Supportive, agreeing that personal reluctance explains the current trend.",
+       "D": "Neutral, presenting the characterization without offering any critical evaluation."
+      },
+      "answer": "A",
+      "type_hint": "Quan điểm / Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "tác giả thể hiện thái độ hoài nghi (skeptical) đối với định kiến người trẻ \"ngại trưởng thành\", chỉ ra rằng cách nói này bỏ qua các áp lực kinh tế mang tính cấu trúc."
+     },
+     {
+      "number": 39,
+      "stem": "The word \"restructure\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "recruit",
+       "B": "relocate",
+       "C": "reward",
+       "D": "reorganize"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"restructure\" ở đoạn 5 mô tả việc các doanh nghiệp tái cơ cấu tổ chức/hoạt động. Từ này đồng nghĩa với tái tổ chức (reorganize)."
+     },
+     {
+      "number": 40,
+      "stem": "According to the passage, how does the author ultimately frame the relationship between housing affordability and employment trends among young adults?",
+      "options": {
+       "A": "as two entirely separate phenomena that happen to affect the same generation coincidentally",
+       "B": "as connected symptoms of a broader shift in how economic structures support different life stages",
+       "C": "as proof that government policy failures are the single root cause of both trends",
+       "D": "as evidence that young adults are financially irresponsible in both housing and career decisions"
+      },
+      "answer": "B",
+      "type_hint": "Quan điểm / Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "ở đoạn cuối, tác giả kết luận xu hướng nhà ở và việc làm là những biểu hiện có liên quan với nhau của một sự thay đổi diện rộng trong cấu trúc kinh tế (connected symptoms of a broader shift in economic structures)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 4 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R4Q1, R4Q6):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm thông tin chính xác trong bài đọc:\n  - Với **R4Q1**, quét đoạn 2 nơi đề cập đến khoảng cách giữa giá nhà trung vị và thu nhập khởi điểm. Khoảng cách này khiến quyền sở hữu nhà chuyển từ một mốc đạt được thực tế thành một lý tưởng vẫn được duy trì nhưng khó đạt được hơn (shifted from a realistic milestone to a persistently held but less achievable ideal).\n  - Với **R4Q6**, quét đoạn 3 để thấy lý do việc quay về sống cùng bố mẹ không còn bị coi là thất bại: nó ngày càng được hiểu là một chiến lược tài chính hợp lý giúp tích lũy tiền tiết kiệm nhanh hơn (rational financial strategy allowing faster savings accumulation).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q2, R4Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q2**, từ **\"recalibrated\"** ở đoạn 3 mô tả việc người trẻ tự điều chỉnh lại khái niệm về mốc thời gian \"bình thường\". Từ này đồng nghĩa với điều chỉnh (adjusted).\n  - Với **R4Q9**, từ **\"restructure\"** ở đoạn 5 mô tả việc các doanh nghiệp tái cơ cấu tổ chức/hoạt động. Từ này đồng nghĩa với tái tổ chức (reorganize).\n- **Dạng câu hỏi Loại trừ NOT (R4Q5):** Đọc quét đoạn 4 và 5 về lý do người trẻ chọn công việc bán thời gian/nhiều vai trò: để cân bằng sức khỏe tinh thần, linh hoạt thời gian và chủ động lịch trình. Chi tiết \"đảm bảo thu nhập cao hơn làm toàn thời gian\" (guaranteed higher overall income) là chi tiết không hề được nhắc đến.\n- **Dạng câu hỏi Quy chiếu (R4Q7):** Tập trung vào cụm từ **\"this adaptation\"** ở đoạn 7. Đọc các câu trước đó để thấy cụm này quy chiếu đến việc người trẻ thích ứng hành vi trước những thay đổi của thị trường nhà ở và việc làm (young adults adjusting behaviors to changed housing and job markets).\n- **Dạng câu hỏi Quan điểm / Thái độ tác giả (R4Q3, R4Q8, R4Q10):** Phân tích lập luận toàn bài:\n  - Với **R4Q3**, tác giả cho rằng việc nhảy việc (job-hopping) vừa là phản ứng hợp lý trước thị trường lao động/doanh nghiệp, vừa xuất phát từ các yếu tố cá nhân.\n  - Với **R4Q8**, tác giả thể hiện thái độ hoài nghi (skeptical) đối với định kiến người trẻ \"ngại trưởng thành\", chỉ ra rằng cách nói này bỏ qua các áp lực kinh tế mang tính cấu trúc.\n  - Với **R4Q10**, ở đoạn cuối, tác giả kết luận xu hướng nhà ở và việc làm là những biểu hiện có liên quan với nhau của một sự thay đổi diện rộng trong cấu trúc kinh tế (connected symptoms of a broader shift in economic structures).\n- **Dạng câu hỏi Ý chính (R4Q4):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn 1 và đoạn cuối bài: xu hướng \"boomerang\" không đến từ một nguyên nhân đơn lẻ mà là sự kết hợp của nhiều yếu tố kinh tế và cá nhân đan xen (interconnected economic and personal factors).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R4Q2, R4Q9) và Quy chiếu (R4Q7). Tiếp theo, sử dụng kỹ thuật đọc quét nhanh để hoàn thành các câu **Chi tiết** (R4Q1, R4Q6) và câu hỏi **Loại trừ** (R4Q5). Cuối cùng, tổng hợp lập luận toàn bài để chọn chính xác đáp án cho nhóm câu hỏi tư duy cao gồm **Ý chính** (R4Q4) và **Quan điểm / Thái độ tác giả** (R4Q3, R4Q8, R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend Alex about visiting Scotland this summer.\nRead part of his email below.\nMy uncle has kindly agreed to let you stay at his house in the countryside, and he said you can come and visit whenever you like. I'm really looking forward to seeing you here this summer!\n- When are you planning to come?\n- What means of transport will you use to get around here?\n- My uncle's house is in the countryside, surrounded by mountains — what activities would you suggest we do while you're here?\nWrite an email responding to Alex. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend Alex about visiting Scotland this summer.",
+      "Read part of his email below."
+     ],
+     "quote": [
+      "My uncle has kindly agreed to let you stay at his house in the countryside, and he said you can come and visit whenever you like. I'm really looking forward to seeing you here this summer!",
+      "- When are you planning to come?",
+      "- What means of transport will you use to get around here?",
+      "- My uncle's house is in the countryside, surrounded by mountains — what activities would you suggest we do while you're here?"
+     ],
+     "instruction": "Write an email responding to Alex. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (Thư thân mật) trả lời bạn bè, giọng văn cần gần gũi, tự nhiên.\n- Đề bài có **3 câu hỏi chính** cần trả lời đầy đủ: thời gian đến, phương tiện di chuyển, và gợi ý hoạt động ở vùng núi.\n- Yêu cầu tối thiểu **120 từ**, không cần ghi tên hay địa chỉ.\n- Cần thể hiện sự háo hức, thân thiện vì đây là chuyến đi thăm bạn thân.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Alex,\n- **Opening:** Cảm ơn và bày tỏ sự vui mừng. Ví dụ: Thank you so much for inviting me and for asking your uncle to let me stay!\n- **Body 1 (thời gian):** Trả lời khi nào bạn sẽ đến. Ví dụ: I'm planning to arrive in the second week of July, right after my exams finish.\n- **Body 2 (phương tiện):** Nói về cách di chuyển. Ví dụ: I think I'll take the train from London, as it's more scenic and relaxing than flying.\n- **Body 3 (hoạt động):** Gợi ý hoạt động vùng núi. Ví dụ: Since your uncle's house is surrounded by mountains, maybe we could go hiking or try some rock climbing.\n- **Closing:** Kết thúc thư và hỏi thăm lại. Ví dụ: I can't wait to see you and explore the countryside together!\n- **Sign-off:** Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng thì **tương lai đơn (will)** hoặc **tương lai gần (be going to)** khi nói về kế hoạch chuyến đi, và **hiện tại tiếp diễn** khi nói về kế hoạch đã sắp xếp. Tránh lặp từ bằng cách dùng từ đồng nghĩa cho \"excited\", \"visit\", \"countryside\". Câu văn nên có sự liên kết mượt mà giữa các ý.\nTừ vựng quan trọng:\n- **Countryside:** Vùng nông thôn\n- **Scenic route:** Tuyến đường có phong cảnh đẹp\n- **Hiking trail:** Đường mòn đi bộ đường dài\n- **Public transport:** Phương tiện công cộng\n- **Breathtaking view:** Cảnh đẹp ngoạn mục\n- **Outdoor activities:** Hoạt động ngoài trời\n- **Accommodation:** Chỗ ở\nTừ nối (Linking words):\n- **As soon as:** Ngay khi\n- **In terms of:** Về mặt\n- **Besides / Also:** Bên cạnh đó\n- **Since:** Vì (lý do)\n- **Once:** Một khi\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm really looking forward to...:** Tôi rất mong chờ...\n- **I can't wait to...:** Tôi không thể chờ để...\n- **It would be amazing if...:** Sẽ thật tuyệt nếu...\n\n**4. Các lỗi thường gặp:**\n- Bỏ sót một trong ba câu hỏi được yêu cầu, đặc biệt là câu hỏi về hoạt động.\n- Viết thư quá trang trọng, dùng \"Dear Sir/Madam\" thay vì tên bạn.\n- Không nêu lý do cụ thể cho lựa chọn phương tiện di chuyển.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm lại số từ, đảm bảo trên 120 từ.\n- Kiểm tra đã trả lời đủ 3 câu hỏi trong đề chưa.\n- Xem lại thì động từ có nhất quán không.\n\n**6. Tư duy làm bài:**\nHãy viết như đang thực sự nhắn tin cho một người bạn thân, giữ giọng văn tự nhiên, ấm áp và cụ thể hóa các gợi ý hoạt động để bài viết sinh động hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nRead the following extract from a magazine article.\nNowadays, many people spend their limited free time socializing with colleagues and classmates on social media, rather than spending time with the real, close friends — the people they truly want to see, talk to, and care for. Discuss the advantages and disadvantages of having lots of online friends.\nWrite an essay to an educated reader to discuss the advantages and disadvantages of having lots of online friends. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Read the following extract from a magazine article.",
+      "Nowadays, many people spend their limited free time socializing with colleagues and classmates on social media, rather than spending time with the real, close friends — the people they truly want to see, talk to, and care for.",
+      "Discuss the advantages and disadvantages of having lots of online friends."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages and disadvantages of having lots of online friends. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Advantages and Disadvantages** (Ưu điểm và nhược điểm), yêu cầu trình bày cả hai mặt của việc có nhiều bạn bè trực tuyến.\n- Từ khóa quan trọng: \"online friends\", \"social media\", \"real, close friends\" — cần phân biệt rõ giữa bạn ảo và bạn thật.\n- Yêu cầu tối thiểu **250 từ**, không cần đưa ra kết luận thiên về một phía như dạng Opinion.\n- Tránh chỉ liệt kê chung chung, cần có ví dụ hoặc giải thích cụ thể cho từng ý.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu hiện tượng kết bạn online ngày càng phổ biến. Ví dụ: In the digital age, it has become increasingly common for people to build large networks of online friends through social media.\n- **Body 1 (Advantages):** Topic sentence nêu lợi ích, sau đó giải thích và cho ví dụ. Ví dụ: One major advantage is that online friendships allow people to stay connected with colleagues and classmates regardless of distance.\n- **Body 2 (Disadvantages):** Topic sentence nêu nhược điểm, giải thích và ví dụ. Ví dụ: However, spending too much time on virtual relationships can reduce the quality time devoted to close, meaningful friendships.\n- **Body 3 (mở rộng, tùy chọn):** Có thể so sánh mức độ ảnh hưởng đến sức khỏe tinh thần. Ví dụ: Furthermore, an overreliance on online interaction may lead to feelings of loneliness despite having hundreds of virtual friends.\n- **Conclusion:** Tóm tắt cân bằng cả hai mặt. Ví dụ: In conclusion, while online friendships offer convenience and broader social connections, they should not replace the depth and support of real, close relationships.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng thì **hiện tại đơn** để nói về sự thật và xu hướng chung, kết hợp **hiện tại hoàn thành** khi nói về xu hướng đang diễn ra. Mỗi đoạn thân bài cần có câu chủ đề rõ ràng và ví dụ minh họa cụ thể để tránh lan man.\nTừ vựng quan trọng:\n- **Virtual relationship:** Mối quan hệ ảo\n- **Social networking:** Mạng lưới xã hội\n- **Superficial connection:** Mối liên kết hời hợt\n- **Emotional support:** Sự hỗ trợ tinh thần\n- **Social isolation:** Sự cô lập xã hội\n- **Broaden one's network:** Mở rộng mạng lưới quan hệ\n- **Genuine friendship:** Tình bạn chân thành\nTừ nối (Linking words):\n- **On the one hand / On the other hand:** Một mặt / Mặt khác\n- **In addition / Moreover:** Hơn nữa (Thêm ý)\n- **However / Nevertheless:** Tuy nhiên (Đối lập)\n- **As a result / Consequently:** Kết quả là (Nguyên nhân - kết quả)\n- **For instance / For example:** Ví dụ như (Đưa ra ví dụ)\n- **In conclusion / To sum up:** Tóm lại (Kết luận)\nDiễn đạt lại ý (Paraphrasing):\n- **Digital acquaintances:** Thay cho \"online friends\".\n- **Face-to-face relationships:** Thay cho \"real, close friends\".\n- **Online social platforms:** Thay cho \"social media\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **While X offers benefit A, it also brings drawback B:** Dùng để cân bằng hai mặt trong một câu.\n- **This is not to say that... but rather...:** Dùng để làm rõ quan điểm không tuyệt đối.\n- **A balanced approach would be to...:** Dùng để đề xuất giải pháp cân bằng ở phần kết.\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung viết về một mặt (chỉ ưu điểm hoặc chỉ nhược điểm) thay vì cả hai.\n- Không phân biệt rõ giữa \"online friends\" và \"real, close friends\" như đề bài yêu cầu.\n- Đưa ra ví dụ chung chung, thiếu tính thuyết phục.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã trình bày đầy đủ cả ưu điểm lẫn nhược điểm chưa.\n- Đảm bảo mỗi đoạn thân bài có ví dụ hoặc giải thích cụ thể.\n- Rà soát lỗi ngữ pháp và sự nhất quán giữa các thì.\n\n**6. Tư duy làm bài:**\nGiữ thái độ khách quan, trình bày cân bằng cả hai mặt của vấn đề, và sử dụng ví dụ thực tế để bài viết thuyết phục và mạch lạc hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about your health\n\n1\nDo you often get sick?\n2\nDo you go for regular health check-ups?\n3\nDo you think people in your country consider health check-ups important?\n\nNow, let’s talk about saving money\n\n4\nDo you often save money?\n5\nHow do you usually save money?\n6\nWhat do you use your savings for?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần 1 kéo dài 3 phút và gồm 6 câu hỏi chia làm 2 chủ đề nhỏ, mỗi chủ đề 3 câu.\n- **Topic A (Sức khỏe):** câu 1-3 hỏi về thói quen khám sức khỏe cá nhân và quan điểm của cộng đồng về việc chăm sóc sức khỏe.\n- **Topic B (Tiết kiệm tiền):** câu 4-6 hỏi về thói quen tiết kiệm, cách tiết kiệm và mục đích sử dụng tiền tiết kiệm.\n- Tiêu chí chấm điểm gồm Độ trôi chảy, Từ vựng, Ngữ pháp và Phát âm.\n- Phân bổ khoảng 25-30 giây cho mỗi câu, cân bằng thời gian giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc Answer-Reason-Example (ARE) cho mỗi câu trả lời.\n- **Ví dụ Topic A:** \"I rarely get sick because I try to maintain a balanced diet and exercise every day, so I feel my immune system is quite strong.\"\n- **Ví dụ Topic B:** \"I usually save about twenty percent of my monthly income by setting a fixed budget for essential expenses.\"\n- Luôn tự hỏi Why?/How? để mở rộng câu trả lời thay vì dừng lại quá sớm.\n- Dùng một câu chuyển tiếp ngắn khi đổi từ Topic A sang Topic B, ví dụ: \"Now, moving on to my financial habits...\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định, dùng filler words tự nhiên khi cần thời gian suy nghĩ thay vì im lặng.\n- Thì: dùng Hiện tại đơn cho thói quen (I usually go for a check-up once a year), dùng Hiện tại hoàn thành khi nói về kinh nghiệm (I have saved money since I started working).\n- Áp dụng kỹ thuật diễn giải (paraphrase) khi quên từ, ví dụ thay 'get sick' bằng 'fall ill'.\n- Từ vựng Topic A nên dùng: go for a check-up, stay in shape, boost immunity, take precautions.\n- Từ vựng Topic B nên dùng: set aside money, cut back on spending, emergency fund, financial habit.\nCụm từ quan trọng nên dùng:\n- go for a regular check-up (đi khám sức khỏe định kỳ)\n- stay in good shape (giữ vóc dáng và sức khỏe tốt)\n- boost my immune system (tăng cường hệ miễn dịch)\n- set aside a portion of my income (dành ra một phần thu nhập)\n- cut back on unnecessary spending (cắt giảm chi tiêu không cần thiết)\n- build up an emergency fund (xây dựng quỹ dự phòng)\nTừ nối khi nói (Linking Words):\n- First of all (trước hết) - dùng để mở đầu ý đầu tiên\n- In addition (thêm vào đó) - dùng để bổ sung ý\n- However (tuy nhiên) - dùng để nêu điểm trái ngược\n- As a result (kết quả là) - dùng để nêu hệ quả\n- On the other hand (mặt khác) - dùng khi chuyển sang khía cạnh khác\nCách thể hiện quan điểm tự nhiên:\n- **Topic A:** \"In my opinion, prevention is better than cure\" (Theo tôi, phòng bệnh hơn chữa bệnh)\n- **Topic A:** \"I would say that most people in my country still don't take check-ups seriously\" (Tôi cho rằng hầu hết mọi người vẫn chưa coi trọng việc khám sức khỏe)\n- **Topic B:** \"From my point of view, saving money gives me peace of mind\" (Theo quan điểm của tôi, tiết kiệm tiền giúp tôi an tâm)\n- **Topic B:** \"I believe that having savings is essential for unexpected situations\" (Tôi tin rằng có tiền tiết kiệm là cần thiết cho những tình huống bất ngờ)\n\n**4. Các lỗi thường gặp:**\n- Trả lời Yes/No rồi im lặng mà không giải thích thêm - đây là lỗi nghiêm trọng nhất.\n- Topic A: không nêu lý do cụ thể vì sao bản thân hay/ít bị ốm.\n- Topic B: chỉ liệt kê cách tiết kiệm mà không đưa ra ví dụ cụ thể hoặc mục đích sử dụng.\n- Sai thì động từ khi nói về thói quen, ví dụ dùng thì quá khứ thay vì hiện tại đơn.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng filler phrase: \"That is an interesting question, let me think for a second.\"\n- Mô tả vòng vo (circumlocution) nếu quên từ chính xác, ví dụ thay vì 'check-up' có thể nói 'when I go to the hospital to see if I'm healthy'.\n- **Topic A fallback:** nếu bí ý, chuyển sang nói chung về lối sống lành mạnh như ăn uống, tập thể dục.\n- **Topic B fallback:** nếu bí ý, chuyển sang nói về mục tiêu tài chính trong tương lai như mua nhà, du học.\n\n**6. Tư duy làm bài nói:**\n- Coi đây như một cuộc trò chuyện tự nhiên với giám khảo, không phải một bài kiểm tra căng thẳng.\n- Reset tư duy rõ ràng khi chuyển từ chủ đề sức khỏe sang chủ đề tiết kiệm tiền.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố gắng dùng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend has just graduated from university and is trying to decide where to work as a teacher.\n\nYou are considering the following options:\n\nOption 1: Teach at a public school in her hometown\nOption 2: Teach at a public school in a big city\nOption 3: Teach at an international school in a big city\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống: bạn của bạn vừa tốt nghiệp đại học và đang cân nhắc nơi làm việc với vai trò giáo viên.\n- Ba lựa chọn cần phân tích: trường công ở quê nhà, trường công ở thành phố lớn, trường quốc tế ở thành phố lớn.\n- Tiêu chí chấm điểm gồm Độ trôi chảy, Từ vựng, Ngữ pháp và khả năng lập luận logic.\n- Thời gian làm bài là 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction (giới thiệu tình huống) - Comparison/Body (so sánh 3 lựa chọn) - End (kết luận và chọn phương án tốt nhất).\n- **Option 1:** gần gia đình, chi phí sinh hoạt thấp nhưng mức lương và cơ hội thăng tiến hạn chế.\n- **Option 2:** lương cao hơn, môi trường cạnh tranh hơn nhưng chi phí sinh hoạt và áp lực công việc lớn hơn.\n- **Option 3:** lương hấp dẫn nhất, môi trường quốc tế chuyên nghiệp nhưng yêu cầu cao về trình độ tiếng Anh và kinh nghiệm.\n- Tip: luôn gắn lập luận vào bối cảnh thực tế của một giáo viên mới ra trường như thu nhập, kinh nghiệm, cơ hội học hỏi.\n- Tip: dùng từ nối tương phản như 'however', 'whereas' khi chuyển giữa ưu và nhược điểm của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết ba lựa chọn với nhau thay vì trình bày tách biệt, ví dụ so sánh trực tiếp Option 1 với Option 2 trước khi chuyển sang Option 3.\n- Thì: dùng câu điều kiện loại 1 khi dự đoán tương lai, ví dụ \"If she chooses Option 3, she will need to improve her English proficiency.\"\n- Kỹ thuật diễn giải cho chủ đề nghề giáo, ví dụ thay 'teaching job' bằng 'career in education'.\nCụm từ quan trọng nên dùng:\n- teaching position (vị trí giảng dạy)\n- career advancement (thăng tiến sự nghiệp)\n- cost of living (chi phí sinh hoạt)\n- professional development (phát triển chuyên môn)\n- job stability (sự ổn định công việc)\n- competitive salary (mức lương cạnh tranh)\nTừ nối khi nói (Linking Words):\n- On the one hand (một mặt) - mở đầu điểm đầu tiên khi so sánh\n- On the other hand (mặt khác) - dùng khi nêu điểm đối lập\n- In contrast (ngược lại) - nhấn mạnh sự khác biệt\n- Nevertheless (tuy nhiên) - dùng để bổ sung ý trái ngược\n- Taking everything into account (xét tổng thể) - dùng khi kết luận\nCách thể hiện quan điểm tự nhiên:\n- \"I would recommend that she choose Option 2 because it offers a good balance between salary and opportunities.\"\n- \"Compared to the other two options, teaching at an international school seems more rewarding financially, but it comes with higher expectations.\"\n- \"If I were in her shoes, I would prioritize long-term career growth over short-term comfort.\"\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen một lựa chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ 'good'/'bad' thay vì dùng tính từ học thuật hơn như 'beneficial', 'demanding'.\n- Không đưa ra kết luận rõ ràng ở cuối bài, khiến bài nói thiếu tính thuyết phục.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên ngành giáo dục, chuyển hướng sang yếu tố chi phí hoặc thời gian di chuyển để tiếp tục lập luận.\n- Dùng câu chuyển hướng: \"Let's evaluate this option from a different perspective.\"\n- Giữ bình tĩnh, nếu bí ý ở một lựa chọn thì chuyển sang lựa chọn tiếp theo và quay lại sau nếu còn thời gian.\n\n**6. Tư duy làm bài nói:**\n- Suy nghĩ từ góc độ người ra quyết định thực sự, cân nhắc cả yếu tố tài chính lẫn tinh thần.\n- Đưa ra gợi ý cải thiện ngay cả cho lựa chọn đã chọn, ví dụ đề xuất cách chuẩn bị trước khi nhận việc, để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nMisbehavior is increasingly becoming popular in some schools\n\nStudent Misbehavior\nSchool discipline\nFamily background\nEffect of the internet\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat are the sorts of children's misbehavior?\n2\nWho do you think is most responsible for preventing student misbehavior?\n3\nHow can schools reduce misbehavior among students?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề và 3 nhánh mindmap được cho sẵn: school discipline, family background, effect of the internet, cộng thêm ý cá nhân (gợi ý nhánh thứ 4: consequences on the overall school environment).\n- Tiêu chí chấm điểm gồm Độ trôi chảy, Từ vựng, Ngữ pháp và tính mạch lạc trong lập luận.\n- Thời gian là 5 phút, nên dành khoảng 3-3.5 phút cho phần nói chính, phần còn lại cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc IDEA: Introduction - Detail - Example - Add/wrap up cho từng nhánh mindmap.\n- **Ví dụ 1 (mở bài):** \"Today, I would like to discuss why misbehavior is becoming more common in some schools nowadays.\"\n- **Ví dụ 2 (ý cá nhân):** \"In addition to the three factors mentioned, I also think that overcrowded classrooms make it harder for teachers to monitor every student closely.\"\n- Tip: với chủ đề này nên đưa ra ví dụ thực tế từ trường học Việt Nam để bài nói thuyết phục hơn.\n- Tip: bám sát mindmap theo thứ tự để tránh lặp ý hoặc lạc đề.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh mindmap, ví dụ \"Another factor contributing to this issue is...\"\n- Thì: dùng Hiện tại đơn cho các sự thật chung (Many students misbehave due to peer pressure) và Hiện tại hoàn thành cho kinh nghiệm tích lũy (Schools have tried various methods to address this).\n- Paraphrase: có thể thay 'misbehavior' bằng 'student misconduct' hoặc 'inappropriate behavior' để tránh lặp từ. Cụm từ quan trọng nên dùng:\n- disciplinary measures (biện pháp kỷ luật)\n- lack of parental guidance (thiếu sự hướng dẫn của cha mẹ)\n- exposure to violent content online (tiếp xúc với nội dung bạo lực trên mạng)\n- peer pressure (áp lực từ bạn bè)\n- role models (hình mẫu để noi theo)\n- code of conduct (quy tắc ứng xử)\nTừ nối khi nói (Linking Words):\n- Firstly (trước hết) - mở đầu nhánh đầu tiên\n- Moreover (hơn nữa) - bổ sung ý\n- In addition to that (thêm vào đó) - dùng khi thêm ý cá nhân\n- As a result (kết quả là) - nêu hệ quả\n- To sum up (tóm lại) - dùng khi kết luận\nCách thể hiện quan điểm tự nhiên:\n- \"I strongly believe that family plays the most important role in shaping a child's behavior.\"\n- \"It seems to me that strict school discipline alone cannot solve this problem.\"\n- \"From my perspective, the internet has amplified negative behaviors among young students.\"\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"What are the sorts of children's misbehavior?\"** - Có thể kể đến bắt nạt bạn học, gian lận trong thi cử, không tôn trọng giáo viên, hoặc bỏ học.\n- **\"Who do you think is most responsible for preventing student misbehavior?\"** - Cả gia đình, nhà trường và xã hội đều có trách nhiệm, nhưng gia đình đóng vai trò nền tảng nhất.\n- **\"How can schools reduce misbehavior among students?\"** - Trường học có thể tổ chức các buổi tư vấn tâm lý, xây dựng quy tắc ứng xử rõ ràng và tăng cường sự phối hợp với phụ huynh.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê các nguyên nhân mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên chuẩn bị ý cá nhân cho nhánh thứ 4, khiến bài nói thiếu chiều sâu.\n- Nói quá lâu ở phần chính, không còn đủ thời gian trả lời tốt các câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Gắn vấn đề vào trải nghiệm cá nhân hoặc môi trường học đại học để dễ triển khai ý.\n- Dùng câu học thuật để câu giờ: \"That is a complex issue. If we evaluate it from a societal viewpoint...\"\n- Nếu quên từ vựng chuyên môn, dùng từ đồng nghĩa đơn giản hơn hoặc mô tả ngắn gọn.\n\n**7. Tư duy làm bài nói:**\n- Suy nghĩ thực tế từ góc độ một nhà giáo dục hoặc phụ huynh khi phân tích vấn đề.\n- Sự mạch lạc và logic trong cách triển khai ý quan trọng hơn việc dùng từ vựng phức tạp.\n- Luôn kết nối các nhánh mindmap với nhau để bài nói có tính thống nhất thay vì rời rạc."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about your health.\n1.\nDo you often get sick?\n2.\nDo you go for regular health check-ups?\n3.\nDo you think people in your country consider health check-ups important?\nNow, let’s talk about saving money.\n4.\nDo you often save money?\n5.\nHow do you usually save money?\n6.\nWhat do you use your savings for?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần 1 kéo dài 3 phút và gồm 6 câu hỏi chia làm 2 chủ đề nhỏ, mỗi chủ đề 3 câu.\n• Topic A (Sức khỏe): câu 1-3 hỏi về thói quen khám sức khỏe cá nhân và quan điểm của cộng đồng về việc chăm sóc\nsức khỏe.\n• Topic B (Tiết kiệm tiền): câu 4-6 hỏi về thói quen tiết kiệm, cách tiết kiệm và mục đích sử dụng tiền tiết kiệm.\n• Tiêu chí chấm điểm gồm Độ trôi chảy, Từ vựng, Ngữ pháp và Phát âm.\n• Phân bổ khoảng 25-30 giây cho mỗi câu, cân bằng thời gian giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer-Reason-Example (ARE) cho mỗi câu trả lời.\n• Ví dụ Topic A: \"I rarely get sick because I try to maintain a balanced diet and exercise every day, so I feel my immune\nsystem is quite strong.\"\n• Ví dụ Topic B: \"I usually save about twenty percent of my monthly income by setting a fixed budget for essential\nexpenses.\"\n• Luôn tự hỏi Why?/How? để mở rộng câu trả lời thay vì dừng lại quá sớm.\n• Dùng một câu chuyển tiếp ngắn khi đổi từ Topic A sang Topic B, ví dụ: \"Now, moving on to my financial habits...\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định, dùng filler words tự nhiên khi cần thời gian suy nghĩ thay vì im lặng.\n• Thì: dùng Hiện tại đơn cho thói quen (I usually go for a check-up once a year), dùng Hiện tại hoàn thành khi nói về\nkinh nghiệm (I have saved money since I started working).\n• Áp dụng kỹ thuật diễn giải (paraphrase) khi quên từ, ví dụ thay 'get sick' bằng 'fall ill'.\n• Từ vựng Topic A nên dùng: go for a check-up, stay in shape, boost immunity, take precautions.\n• Từ vựng Topic B nên dùng: set aside money, cut back on spending, emergency fund, financial habit.\nCụm từ quan trọng nên dùng:\n• go for a regular check-up (đi khám sức khỏe định kỳ)\n• stay in good shape (giữ vóc dáng và sức khỏe tốt)\n• boost my immune system (tăng cường hệ miễn dịch)\n• set aside a portion of my income (dành ra một phần thu nhập)\n• cut back on unnecessary spending (cắt giảm chi tiêu không cần thiết)\n• build up an emergency fund (xây dựng quỹ dự phòng)\nTừ nối khi nói (Linking Words):\n• First of all (trước hết) - dùng để mở đầu ý đầu tiên\n• In addition (thêm vào đó) - dùng để bổ sung ý\n• However (tuy nhiên) - dùng để nêu điểm trái ngược\n• As a result (kết quả là) - dùng để nêu hệ quả\n• On the other hand (mặt khác) - dùng khi chuyển sang khía cạnh khác\nCách thể hiện quan điểm tự nhiên:\n• Topic A: \"In my opinion, prevention is better than cure\" (Theo tôi, phòng bệnh hơn chữa bệnh)\n• Topic A: \"I would say that most people in my country still don't take check-ups seriously\" (Tôi cho rằng hầu hết mọi\nngười vẫn chưa coi trọng việc khám sức khỏe)\n• Topic B: \"From my point of view, saving money gives me peace of mind\" (Theo quan điểm của tôi, tiết kiệm tiền giúp\ntôi an tâm)\n• Topic B: \"I believe that having savings is essential for unexpected situations\" (Tôi tin rằng có tiền tiết kiệm là cần thiết\ncho những tình huống bất ngờ)\n4. Các lỗi thường gặp:\n• Trả lời Yes/No rồi im lặng mà không giải thích thêm - đây là lỗi nghiêm trọng nhất.\n• Topic A: không nêu lý do cụ thể vì sao bản thân hay/ít bị ốm.\n• Topic B: chỉ liệt kê cách tiết kiệm mà không đưa ra ví dụ cụ thể hoặc mục đích sử dụng.\n• Sai thì động từ khi nói về thói quen, ví dụ dùng thì quá khứ thay vì hiện tại đơn.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng filler phrase: \"That is an interesting question, let me think for a second.\"\n• Mô tả vòng vo (circumlocution) nếu quên từ chính xác, ví dụ thay vì 'check-up' có thể nói 'when I go to the hospital to\nsee if I'm healthy'.\n• Topic A fallback: nếu bí ý, chuyển sang nói chung về lối sống lành mạnh như ăn uống, tập thể dục.\n• Topic B fallback: nếu bí ý, chuyển sang nói về mục tiêu tài chính trong tương lai như mua nhà, du học.\n6. Tư duy làm bài nói:\n• Coi đây như một cuộc trò chuyện tự nhiên với giám khảo, không phải một bài kiểm tra căng thẳng.\n• Reset tư duy rõ ràng khi chuyển từ chủ đề sức khỏe sang chủ đề tiết kiệm tiền.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố gắng dùng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYour friend has just graduated from university and is trying to decide where to work as a teacher.\nYou are considering the following options:\n• Option 1: Teach at a public school in her hometown\n• Option 2: Teach at a public school in a big city\n• Option 3: Teach at an international school in a big city\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống: bạn của bạn vừa tốt nghiệp đại học và đang cân nhắc nơi làm việc với vai trò giáo viên.\n• Ba lựa chọn cần phân tích: trường công ở quê nhà, trường công ở thành phố lớn, trường quốc tế ở thành phố lớn.\n• Tiêu chí chấm điểm gồm Độ trôi chảy, Từ vựng, Ngữ pháp và khả năng lập luận logic.\n• Thời gian làm bài là 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction (giới thiệu tình huống) - Comparison/Body (so sánh 3 lựa chọn) - End (kết luận\nvà chọn phương án tốt nhất).\n• Option 1: gần gia đình, chi phí sinh hoạt thấp nhưng mức lương và cơ hội thăng tiến hạn chế.\n• Option 2: lương cao hơn, môi trường cạnh tranh hơn nhưng chi phí sinh hoạt và áp lực công việc lớn hơn.\n• Option 3: lương hấp dẫn nhất, môi trường quốc tế chuyên nghiệp nhưng yêu cầu cao về trình độ tiếng Anh và kinh\nnghiệm.\n• Tip: luôn gắn lập luận vào bối cảnh thực tế của một giáo viên mới ra trường như thu nhập, kinh nghiệm, cơ hội học\nhỏi.\n• Tip: dùng từ nối tương phản như 'however', 'whereas' khi chuyển giữa ưu và nhược điểm của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết ba lựa chọn với nhau thay vì trình bày tách biệt, ví dụ so sánh trực tiếp Option 1 với Option 2 trước khi chuyển\nsang Option 3.\n• Thì: dùng câu điều kiện loại 1 khi dự đoán tương lai, ví dụ \"If she chooses Option 3, she will need to improve her English\nproficiency.\"\n• Kỹ thuật diễn giải cho chủ đề nghề giáo, ví dụ thay 'teaching job' bằng 'career in education'.\nCụm từ quan trọng nên dùng:\n• teaching position (vị trí giảng dạy)\n• career advancement (thăng tiến sự nghiệp)\n• cost of living (chi phí sinh hoạt)\n• professional development (phát triển chuyên môn)\n• job stability (sự ổn định công việc)\n• competitive salary (mức lương cạnh tranh)\nTừ nối khi nói (Linking Words):\n• On the one hand (một mặt) - mở đầu điểm đầu tiên khi so sánh\n• On the other hand (mặt khác) - dùng khi nêu điểm đối lập\n• In contrast (ngược lại) - nhấn mạnh sự khác biệt\n• Nevertheless (tuy nhiên) - dùng để bổ sung ý trái ngược\n• Taking everything into account (xét tổng thể) - dùng khi kết luận\nCách thể hiện quan điểm tự nhiên:\n• \"I would recommend that she choose Option 2 because it offers a good balance between salary and opportunities.\"\n• \"Compared to the other two options, teaching at an international school seems more rewarding financially, but it\ncomes with higher expectations.\"\n• \"If I were in her shoes, I would prioritize long-term career growth over short-term comfort.\"\n4. Các lỗi thường gặp:\n• Chỉ khen một lựa chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ 'good'/'bad' thay vì dùng tính từ học thuật hơn như 'beneficial', 'demanding'.\n• Không đưa ra kết luận rõ ràng ở cuối bài, khiến bài nói thiếu tính thuyết phục.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên ngành giáo dục, chuyển hướng sang yếu tố chi phí hoặc thời gian di chuyển để tiếp tục lập\nluận.\n• Dùng câu chuyển hướng: \"Let's evaluate this option from a different perspective.\"\n• Giữ bình tĩnh, nếu bí ý ở một lựa chọn thì chuyển sang lựa chọn tiếp theo và quay lại sau nếu còn thời gian.\n6. Tư duy làm bài nói:\n• Suy nghĩ từ góc độ người ra quyết định thực sự, cân nhắc cả yếu tố tài chính lẫn tinh thần.\n• Đưa ra gợi ý cải thiện ngay cả cho lựa chọn đã chọn, ví dụ đề xuất cách chuẩn bị trước khi nhận việc, để thể hiện tư\nduy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: Misbehavior is increasingly becoming popular in some schools\nSchool discipline\nFamily background\nStudent Misbehavior\nÝ tưởng của bạn\nEffect of the internet\nFOLLOW-UP QUESTIONS\n1.\nWhat are the sorts of children's misbehavior?\n2.\nWho do you think is most responsible for preventing student misbehavior?\n3.\nHow can schools reduce misbehavior among students?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề và 3 nhánh mindmap được cho sẵn: school discipline, family background, effect of the internet, cộng thêm ý\ncá nhân (gợi ý nhánh thứ 4: consequences on the overall school environment).\n• Tiêu chí chấm điểm gồm Độ trôi chảy, Từ vựng, Ngữ pháp và tính mạch lạc trong lập luận.\n• Thời gian là 5 phút, nên dành khoảng 3-3.5 phút cho phần nói chính, phần còn lại cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA: Introduction - Detail - Example - Add/wrap up cho từng nhánh mindmap.\n• Ví dụ 1 (mở bài): \"Today, I would like to discuss why misbehavior is becoming more common in some schools\nnowadays.\"\n• Ví dụ 2 (ý cá nhân): \"In addition to the three factors mentioned, I also think that overcrowded classrooms make it\nharder for teachers to monitor every student closely.\"\n• Tip: với chủ đề này nên đưa ra ví dụ thực tế từ trường học Việt Nam để bài nói thuyết phục hơn.\n• Tip: bám sát mindmap theo thứ tự để tránh lặp ý hoặc lạc đề.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh mindmap, ví dụ \"Another factor contributing to this issue is...\"\n• Thì: dùng Hiện tại đơn cho các sự thật chung (Many students misbehave due to peer pressure) và Hiện tại hoàn thành\ncho kinh nghiệm tích lũy (Schools have tried various methods to address this).\n• Paraphrase: có thể thay 'misbehavior' bằng 'student misconduct' hoặc 'inappropriate behavior' để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• disciplinary measures (biện pháp kỷ luật)\n• lack of parental guidance (thiếu sự hướng dẫn của cha mẹ)\n• exposure to violent content online (tiếp xúc với nội dung bạo lực trên mạng)\n• peer pressure (áp lực từ bạn bè)\n• role models (hình mẫu để noi theo)\n• code of conduct (quy tắc ứng xử)\nTừ nối khi nói (Linking Words):\n• Firstly (trước hết) - mở đầu nhánh đầu tiên\n• Moreover (hơn nữa) - bổ sung ý\n• In addition to that (thêm vào đó) - dùng khi thêm ý cá nhân\n• As a result (kết quả là) - nêu hệ quả\n• To sum up (tóm lại) - dùng khi kết luận\nCách thể hiện quan điểm tự nhiên:\n• \"I strongly believe that family plays the most important role in shaping a child's behavior.\"\n• \"It seems to me that strict school discipline alone cannot solve this problem.\"\n• \"From my perspective, the internet has amplified negative behaviors among young students.\"\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"What are the sorts of children's misbehavior?\" - Có thể kể đến bắt nạt bạn học, gian lận trong thi cử, không tôn trọng\ngiáo viên, hoặc bỏ học.\n• \"Who do you think is most responsible for preventing student misbehavior?\" - Cả gia đình, nhà trường và xã hội đều\ncó trách nhiệm, nhưng gia đình đóng vai trò nền tảng nhất.\n• \"How can schools reduce misbehavior among students?\" - Trường học có thể tổ chức các buổi tư vấn tâm lý, xây\ndựng quy tắc ứng xử rõ ràng và tăng cường sự phối hợp với phụ huynh.\n5. Các lỗi thường gặp:\n• Liệt kê các nguyên nhân mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên chuẩn bị ý cá nhân cho nhánh thứ 4, khiến bài nói thiếu chiều sâu.\n• Nói quá lâu ở phần chính, không còn đủ thời gian trả lời tốt các câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Gắn vấn đề vào trải nghiệm cá nhân hoặc môi trường học đại học để dễ triển khai ý.\n• Dùng câu học thuật để câu giờ: \"That is a complex issue. If we evaluate it from a societal viewpoint...\"\n• Nếu quên từ vựng chuyên môn, dùng từ đồng nghĩa đơn giản hơn hoặc mô tả ngắn gọn.\n7. Tư duy làm bài nói:\n• Suy nghĩ thực tế từ góc độ một nhà giáo dục hoặc phụ huynh khi phân tích vấn đề.\n• Sự mạch lạc và logic trong cách triển khai ý quan trọng hơn việc dùng từ vựng phức tạp.\n• Luôn kết nối các nhánh mindmap với nhau để bài nói có tính thống nhất thay vì rời rạc."
+}

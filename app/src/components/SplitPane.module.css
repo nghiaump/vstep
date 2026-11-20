@@ -1,0 +1,6 @@
+.split { display: grid; min-height: 0; height: 100%; }
+.pane { min-width: 0; min-height: 0; overflow: auto; overscroll-behavior: contain; scrollbar-gutter: stable; }
+.handle { cursor: col-resize; display: grid; place-items: center; background: var(--paper); border-left: 1px solid var(--rule); border-right: 1px solid var(--rule); touch-action: none; }
+.handle span { width: 3px; height: 36px; border-radius: 2px; background: var(--rule-strong); transition: background .12s, height .12s; }
+.handle:hover span, .handle:focus-visible span { background: var(--accent); height: 56px; }
+.handle:focus-visible { outline: none; }

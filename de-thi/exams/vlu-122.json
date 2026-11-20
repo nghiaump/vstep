@@ -1,0 +1,716 @@
+{
+ "id": "vlu-122",
+ "number": 122,
+ "title": "Đề thi VLU 122",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-122",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The History of the Coffeehouse",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Coffee is believed to have first been discovered in Ethiopia, where local legend says a goat herder noticed his goats becoming energetic after eating berries from a certain bush. From there, the practice of brewing coffee spread across the Red Sea into Yemen, where people began drinking it regularly by the fifteenth century. As the drink grew popular, small shops selling coffee started to appear, giving people a new place to meet and talk. Traders carried the habit further along established routes, introducing coffee to new regions one city at a time.",
+     "These early coffeehouses spread quickly through major cities of the Ottoman world, including Mecca, Cairo, and Istanbul. Unlike taverns, which served alcohol, coffeehouses offered a place where people could gather without the effects of drinking, so conversations tended to stay clearer and often lasted for hours. Customers came to hear music, play games, discuss local news, and sometimes debate religion and politics. Some rulers grew nervous about these gatherings and tried, without much success, to shut coffeehouses down, worried that open discussion might encourage unwanted criticism of their rule.",
+     "Coffee eventually reached Europe through trade routes, arriving first in Venice before spreading north to cities such as London and Paris. In London, coffeehouses became known as penny universities, since a customer could pay just one penny for a cup of coffee and spend hours listening to educated discussions on science, business, and current events. Many important institutions, including early insurance companies and stock exchanges, actually began inside these busy, crowded coffeehouses. In Paris, cafes became closely linked with writers and philosophers, who used **them** as informal meeting places to share new ideas, some of which later shaped major political movements.",
+     "By the twentieth century, coffee culture had spread across the globe, and coffee itself had become one of the most widely traded goods in the world. Large coffee chains opened in cities everywhere, making the drink more convenient but, according to some critics, less **distinctive** than the coffeehouses of earlier centuries. In response, a newer movement focused on specialty and locally roasted coffee has grown steadily, emphasizing quality and the story behind each cup rather than speed alone. Small independent cafes in many cities now compete directly with these larger chains for **loyal** customers.",
+     "Today, cafes serve many different purposes beyond simply selling coffee. Many people use them as informal offices, meeting friends, studying, or working on laptops for hours at a time. Despite all these changes, the basic idea behind the coffeehouse has stayed remarkably consistent since its earliest days: a shared space where people can gather, talk, and exchange ideas over a warm drink. Whatever form the modern cafe takes, this social function appears likely to continue for generations to come."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, what did the goat herder notice?",
+      "options": {
+       "A": "His goats became energetic after eating certain berries.",
+       "B": "His camels became energetic after eating certain berries.",
+       "C": "His goats became energetic after drinking a certain tea.",
+       "D": "His goats became sleepy after eating certain berries."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"goat herder\" ở đoạn 1 để xác định điều anh ta nhận ra (dê trở nên năng động hơn sau khi ăn một loại quả mọng)."
+     },
+     {
+      "number": 2,
+      "stem": "The word \"distinctive\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "expensive",
+       "B": "distant",
+       "C": "unique",
+       "D": "popular"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "đọc ngữ cảnh đoạn 4 mô tả các chuỗi cà phê tuy tiện lợi nhưng ít có nét độc đáo/riêng biệt (\"distinctive\") để chọn từ đồng nghĩa phù hợp (unique)."
+     },
+     {
+      "number": 3,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Coffee is now less popular worldwide than in earlier centuries.",
+       "B": "Only European coffeehouses mattered in the history of coffee culture.",
+       "C": "Modern coffee chains have completely replaced independent local cafes.",
+       "D": "Coffeehouses have long served as social gathering places, from origins to today."
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp nội dung xuyên suốt từ nguồn gốc lịch sử đến hiện tại để chọn ý chính bao quát (quán cà phê từ lâu đã đóng vai trò là không gian giao lưu xã hội)."
+     },
+     {
+      "number": 4,
+      "stem": "The word \"them\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "new ideas",
+       "B": "cafes",
+       "C": "writers",
+       "D": "philosophers"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu trước ở đoạn 3 để xác định danh từ số nhiều chỉ địa điểm (quán quán cà phê / cafes) mà các nhà văn và triết gia sử dụng làm nơi gặp mặt."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, what is true about London's penny universities?",
+      "options": {
+       "A": "Customers in Paris paid one penny for hours of discussion.",
+       "B": "Customers paid one pound for hours of educated discussion.",
+       "C": "Customers paid one penny for a few minutes of discussion.",
+       "D": "Customers paid one penny for hours of educated discussion."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"penny universities\" ở đoạn 3 để xác định mức chi phí và thời gian (khách hàng chỉ trả 1 xu cho nhiều giờ thảo luận trí tuệ)."
+     },
+     {
+      "number": 6,
+      "stem": "According to the passage, which of the following is NOT mentioned as an activity in Ottoman coffeehouses?",
+      "options": {
+       "A": "Hearing music played by local performers during the evening.",
+       "B": "Watching theatrical stage performances put on by traveling actors.",
+       "C": "Discussing local news and debating religion and politics.",
+       "D": "Playing games with friends while drinking coffee together."
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Tổng hợp các hoạt động ở quán cà phê thời Ottoman trong đoạn 2 (nghe nhạc, chơi trò chơi, bàn tin tức và tranh luận), đối soát 4 phương án để chọn chi tiết không được đề cập (xem kịch do diễn viên lưu diễn biểu diễn)."
+     },
+     {
+      "number": 7,
+      "stem": "What can be inferred about why some rulers tried to shut coffeehouses down?",
+      "options": {
+       "A": "They were following orders from European trading partners.",
+       "B": "They wanted to increase tax revenue from coffee sales.",
+       "C": "They believed coffee itself was harmful to people's health.",
+       "D": "They may have worried open talk could invite criticism."
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở cuối đoạn 2 về việc các nhà cầm quyền lo ngại những buổi tụ họp có thể kích động sự chỉ trích đối với chính quyền họ để chọn đáp án suy luận chính xác."
+     },
+     {
+      "number": 8,
+      "stem": "The word \"loyal\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "royal",
+       "B": "wealthy",
+       "C": "convenient",
+       "D": "faithful"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét ngữ cảnh đoạn 4 nói về những khách hàng trung thành/gắn bó (\"loyal\") để tìm từ đồng nghĩa thích hợp (faithful)."
+     },
+     {
+      "number": 9,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that Ethiopia deserves sole credit for coffee culture.",
+       "B": "To convince readers to stop visiting large coffee chains.",
+       "C": "To provide a detailed guide for opening a coffee shop.",
+       "D": "To describe how coffeehouses developed and their lasting social role."
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "nhận diện mục đích chính của tác giả là mô tả quá trình phát triển của quán cà phê và vai trò xã hội lâu dài của chúng."
+     },
+     {
+      "number": 10,
+      "stem": "According to the passage, what does the specialty coffee movement emphasize?",
+      "options": {
+       "A": "Quality, while ignoring where each cup of coffee comes from.",
+       "B": "Lower prices rather than quality or story.",
+       "C": "Speed and convenience over quality and story.",
+       "D": "Quality and the story behind each cup of coffee. Reading"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"specialty coffee movement\" ở đoạn 4 để tìm yếu tố được nhấn mạnh (chất lượng và câu chuyện đằng sau mỗi tách cà phê)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R1Q1, R1Q5, R1Q10):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa) để tìm kiếm dữ kiện trực tiếp có sẵn trong bài đọc:\n  - Với **R1Q1**, quét các từ khóa \"goat herder\" ở đoạn 1 để xác định điều anh ta nhận ra (dê trở nên năng động hơn sau khi ăn một loại quả mọng).\n  - Với **R1Q5**, quét từ khóa \"penny universities\" ở đoạn 3 để xác định mức chi phí và thời gian (khách hàng chỉ trả 1 xu cho nhiều giờ thảo luận trí tuệ).\n  - Với **R1Q10**, quét cụm từ \"specialty coffee movement\" ở đoạn 4 để tìm yếu tố được nhấn mạnh (chất lượng và câu chuyện đằng sau mỗi tách cà phê).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q2, R1Q8):** Áp dụng kỹ thuật **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R1Q2**, đọc ngữ cảnh đoạn 4 mô tả các chuỗi cà phê tuy tiện lợi nhưng ít có nét độc đáo/riêng biệt (**\"distinctive\"**) để chọn từ đồng nghĩa phù hợp (unique).\n  - Với **R1Q8**, xét ngữ cảnh đoạn 4 nói về những khách hàng trung thành/gắn bó (**\"loyal\"**) để tìm từ đồng nghĩa thích hợp (faithful).\n- **Dạng câu hỏi Quy chiếu (R1Q4):** Đọc ngược lại câu trước ở đoạn 3 để xác định danh từ số nhiều chỉ địa điểm (quán quán cà phê / cafes) mà các nhà văn và triết gia sử dụng làm nơi gặp mặt.\n- **Dạng câu hỏi Loại trừ NOT (R1Q6):** Tổng hợp các hoạt động ở quán cà phê thời Ottoman trong đoạn 2 (nghe nhạc, chơi trò chơi, bàn tin tức và tranh luận), đối soát 4 phương án để chọn chi tiết không được đề cập (xem kịch do diễn viên lưu diễn biểu diễn).\n- **Dạng câu hỏi Suy luận (R1Q7):** Kết hợp thông tin ở cuối đoạn 2 về việc các nhà cầm quyền lo ngại những buổi tụ họp có thể kích động sự chỉ trích đối với chính quyền họ để chọn đáp án suy luận chính xác.\n- **Dạng câu hỏi Ý chính & Mục đích của tác giả (R1Q3, R1Q9):** Phân tích lập luận toàn cục của bài đọc:\n  - Với **R1Q3**, tổng hợp nội dung xuyên suốt từ nguồn gốc lịch sử đến hiện tại để chọn ý chính bao quát (quán cà phê từ lâu đã đóng vai trò là không gian giao lưu xã hội).\n  - Với **R1Q9**, nhận diện mục đích chính của tác giả là mô tả quá trình phát triển của quán cà phê và vai trò xã hội lâu dài của chúng.\nLời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi định vị vị trí nhanh như Quy chiếu (R1Q4) và Từ vựng (R1Q2, R1Q8). Tiếp theo, áp dụng kỹ thuật đọc quét cho các câu hỏi **Chi tiết** (R1Q1, R1Q5, R1Q10) và câu **Loại trừ** (R1Q6). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã nắm bắt, bạn sẽ dễ dàng xử lý các câu đòi hỏi tính tổng hợp cao gồm Suy luận (R1Q7), Ý chính toàn bài (R1Q3) và Mục đích của tác giả (R1Q9)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Weaving Silk From Lotus Stems in Hanoi",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Among Vietnam's many traditional crafts, few are as unusual or as labor-intensive as weaving fabric from lotus stems. Unlike ordinary silk, which comes from the cocoons of silkworms, lotus silk is drawn from thin fibers hidden inside the stem of the lotus plant, a flower already deeply associated with Vietnamese culture and Buddhist symbolism. Turning these fragile threads into wearable cloth requires patience that few other textile techniques demand.",
+     "The process begins the moment a lotus stem is cut, since the fibers inside begin to dry and lose their usefulness within just a few hours. Artisans must snap each stem carefully, then pull and twist the exposed threads by hand to draw out delicate strands of fiber. These strands are rolled together on a flat surface to form a single continuous thread, a step that demands a steady hand and considerable practice to avoid breaking the fragile material.",
+     "The craft owes much of its modern revival to Phan Thi Thuan, a weaver from Phung Xa village on the outskirts of Hanoi, who spent years experimenting with lotus fibers after decades of working with traditional silkworm silk. Her persistence eventually produced a reliable method for turning lotus stems into workable thread, a technical achievement that had **eluded** many earlier attempts by other artisans in the region.",
+     "The scale of labor involved is difficult to overstate. Producing just one meter of lotus silk fabric can require several thousand lotus stems, each processed almost entirely by hand within a narrow window of time after harvesting. Because of this intensity, a single skilled weaver can typically complete only a very limited length of fabric per month, which keeps overall production small no matter how much demand might exist. This scarcity, combined with the fabric's soft texture and natural, faintly herbal scent, has helped lotus silk attract attention well beyond Vietnam. Some international fashion houses have expressed interest in the material, drawn partly by its novelty and partly by its environmentally friendly production process, which avoids the synthetic dyes and chemical treatments common in much of the textile industry. Prices for finished lotus silk products remain correspondingly high, reflecting the sheer number of hours embedded in every piece, a cost few casual buyers are willing to cover, though collectors continue to seek **them** out.",
+     "Despite this growing recognition, the craft faces real challenges in surviving into the next generation. Very few artisans currently possess the specialized skill needed to extract and weave lotus fiber reliably, and the physically demanding, low-yield nature of the work makes it a difficult sell to younger workers who might otherwise pursue faster-paying trades. Training programs have begun in some villages, though it remains unclear whether enough new weavers will commit to mastering such a **painstaking** craft.",
+     "Whether lotus silk weaving expands into a larger, sustainable industry or remains a rare specialty practiced by only a handful of artisans will likely depend on finding buyers willing to pay for its labor rather than its speed of production. For now, the craft persists mainly through the dedication of individuals determined not to let a distinctly Vietnamese tradition disappear."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, what is true about processing lotus fibers?",
+      "options": {
+       "A": "They must be processed within a few hours after the stem is cut.",
+       "B": "They must be processed before the stem is cut, not after.",
+       "C": "They must be processed within a few days after the stem is cut.",
+       "D": "They can be processed at any time without any time pressure."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"harvesting\" hoặc \"narrow window of time\" ở đoạn 4 để tìm quy định thời gian xử lý tơ sen (phải xử lý trong vòng vài giờ sau khi cắt cọng sen)."
+     },
+     {
+      "number": 12,
+      "stem": "The word \"eluded\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "funded",
+       "B": "alluded",
+       "C": "impressed",
+       "D": "escaped"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét ngữ cảnh đoạn 3 nói về một thành tựu kỹ thuật từng làm vướng mắc/mới lẩn tránh (\"eluded\") nỗ lực của nhiều nghệ nhân trước đó để tìm từ đồng nghĩa (escaped)."
+     },
+     {
+      "number": 13,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "International fashion houses now mass-produce garments using lotus silk.",
+       "B": "Silkworm silk has been entirely replaced by lotus silk in Vietnam.",
+       "C": "Lotus silk weaving is a rare, labor-intensive craft with an uncertain future.",
+       "D": "Lotus silk weaving has become a large, fully industrialized sector."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp nội dung toàn bài nói về một làng nghề truyền thống quý hiếm, tốn nhiều công sức nhưng đang đứng trước tương lai không chắc chắn để chọn ý chính bao quát."
+     },
+     {
+      "number": 14,
+      "stem": "The word \"them\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "collectors",
+       "B": "lotus silk products",
+       "C": "casual buyers",
+       "D": "hours"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu liền trước ở đoạn 5 để tìm danh từ số nhiều chỉ đối tượng (các sản phẩm lụa sen / lotus silk products) mà những nhà sưu tầm tiếp tục tìm kiếm."
+     },
+     {
+      "number": 15,
+      "stem": "According to the passage, what is true about producing lotus silk fabric?",
+      "options": {
+       "A": "Several meters of fabric require just one thousand stems total.",
+       "B": "One meter of fabric can require only a few dozen stems.",
+       "C": "One meter of silkworm silk requires several thousand lotus stems.",
+       "D": "One meter of fabric can require several thousand lotus stems."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"one meter of lotus silk fabric\" ở đoạn 4 để xác định lượng nguyên liệu cần thiết (cần tới hàng nghìn cọng sen cho 1 mét vải)."
+     },
+     {
+      "number": 16,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason lotus silk attracts international attention?",
+      "options": {
+       "A": "Its soft texture and natural, faintly herbal scent overall.",
+       "B": "Its scarcity, since production of the fabric remains small.",
+       "C": "Its resistance to fading when exposed to direct sunlight.",
+       "D": "Its environmentally friendly production process without synthetic dyes."
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Tổng hợp các lý do lụa sen thu hút sự chú ý quốc tế ở đoạn 5 (kết cấu mềm mại, hương thơm tự nhiên, quy trình thân thiện với môi trường, tính khan hiếm), đối soát 4 phương án để chọn chi tiết không hề được đề cập (khả năng chống phai màu dưới ánh nắng)."
+     },
+     {
+      "number": 17,
+      "stem": "What can be inferred from the passage about the future of lotus silk weaving?",
+      "options": {
+       "A": "Phan Thi Thuan developed a reliable method for the thread.",
+       "B": "It will certainly disappear completely within the next few years.",
+       "C": "It may depend on finding buyers who value the labor involved.",
+       "D": "Rising buyer demand has caused fewer artisans to learn it."
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp các dữ kiện ở đoạn cuối về tương lai của nghề dệt tơ sen để suy luận rằng sự tồn tại của nó phụ thuộc vào việc tìm kiếm những người mua sẵn sàng trả giá tương xứng cho công sức lao động."
+     },
+     {
+      "number": 18,
+      "stem": "The word \"painstaking\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "painless",
+       "B": "boring",
+       "C": "meticulous",
+       "D": "expensive"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét ngữ cảnh đoạn 6 mô tả nghề dệt tơ sen đòi hỏi sự tỉ mỉ, cẩn trọng và công phu rất lớn (\"painstaking\") để chọn từ đồng nghĩa phù hợp (meticulous)."
+     },
+     {
+      "number": 19,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To describe a rare Vietnamese craft and the challenges it faces.",
+       "B": "To promote a specific fashion brand that uses lotus silk.",
+       "C": "To argue that lotus silk should fully replace silkworm silk.",
+       "D": "To criticize young workers for abandoning traditional crafts."
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "nhận diện mục đích viết chính của tác giả nhằm mô tả một nghề thủ công hiếm có của Việt Nam cùng những thách thức thực tế mà nó đang phải đối mặt."
+     },
+     {
+      "number": 20,
+      "stem": "According to the passage, what is true about Phan Thi Thuan's background?",
+      "options": {
+       "A": "She began working with silkworm silk only after mastering lotus silk.",
+       "B": "She worked with silkworm silk for decades before trying lotus fiber.",
+       "C": "She worked with lotus silk for decades before trying silkworm silk.",
+       "D": "She had no prior experience with any form of silk weaving. Reading"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét tên riêng \"Phan Thi Thuan\" ở đoạn 3 để tìm thông tin về nền tảng kinh nghiệm (bà đã làm việc với lụa tơ tằm nhiều thập kỷ trước khi thử nghiệm với tơ sen)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R2Q1, R2Q5, R2Q10):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa) để tìm kiếm dữ kiện trực tiếp trong đoạn văn:\n  - Với **R2Q1**, quét từ khóa \"harvesting\" hoặc \"narrow window of time\" ở đoạn 4 để tìm quy định thời gian xử lý tơ sen (phải xử lý trong vòng vài giờ sau khi cắt cọng sen).\n  - Với **R2Q5**, quét cụm từ \"one meter of lotus silk fabric\" ở đoạn 4 để xác định lượng nguyên liệu cần thiết (cần tới hàng nghìn cọng sen cho 1 mét vải).\n  - Với **R2Q10**, quét tên riêng \"Phan Thi Thuan\" ở đoạn 3 để tìm thông tin về nền tảng kinh nghiệm (bà đã làm việc với lụa tơ tằm nhiều thập kỷ trước khi thử nghiệm với tơ sen).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q2, R2Q8):** Áp dụng kỹ thuật **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R2Q2**, xét ngữ cảnh đoạn 3 nói về một thành tựu kỹ thuật từng làm vướng mắc/mới lẩn tránh (**\"eluded\"**) nỗ lực của nhiều nghệ nhân trước đó để tìm từ đồng nghĩa (escaped).\n  - Với **R2Q8**, xét ngữ cảnh đoạn 6 mô tả nghề dệt tơ sen đòi hỏi sự tỉ mỉ, cẩn trọng và công phu rất lớn (**\"painstaking\"**) để chọn từ đồng nghĩa phù hợp (meticulous).\n- **Dạng câu hỏi Quy chiếu (R2Q4):** Đọc ngược lại câu liền trước ở đoạn 5 để tìm danh từ số nhiều chỉ đối tượng (các sản phẩm lụa sen / lotus silk products) mà những nhà sưu tầm tiếp tục tìm kiếm.\n- **Dạng câu hỏi Loại trừ NOT (R2Q6):** Tổng hợp các lý do lụa sen thu hút sự chú ý quốc tế ở đoạn 5 (kết cấu mềm mại, hương thơm tự nhiên, quy trình thân thiện với môi trường, tính khan hiếm), đối soát 4 phương án để chọn chi tiết không hề được đề cập (khả năng chống phai màu dưới ánh nắng).\n- **Dạng câu hỏi Suy luận (R2Q7):** Kết hợp các dữ kiện ở đoạn cuối về tương lai của nghề dệt tơ sen để suy luận rằng sự tồn tại của nó phụ thuộc vào việc tìm kiếm những người mua sẵn sàng trả giá tương xứng cho công sức lao động.\n- **Dạng câu hỏi Ý chính & Mục đích của tác giả (R2Q3, R2Q9):** Phân tích lập luận toàn cục của văn bản:\n  - Với **R2Q3**, tổng hợp nội dung toàn bài nói về một làng nghề truyền thống quý hiếm, tốn nhiều công sức nhưng đang đứng trước tương lai không chắc chắn để chọn ý chính bao quát.\n  - Với **R2Q9**, nhận diện mục đích viết chính của tác giả nhằm mô tả một nghề thủ công hiếm có của Việt Nam cùng những thách thức thực tế mà nó đang phải đối mặt.\nLời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi định vị vị trí nhanh như Quy chiếu (R2Q4) và Từ vựng (R2Q2, R2Q8). Tiếp theo, áp dụng kỹ thuật đọc quét cho các câu hỏi **Chi tiết** (R2Q1, R2Q5, R2Q10) và câu **Loại trừ** (R2Q6). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã ráp nối, bạn sẽ dễ dàng xử lý các câu đòi hỏi tính tổng hợp cao gồm Suy luận (R2Q7), Ý chính toàn bài (R2Q3) và Mục đích của tác giả (R2Q9)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Left-Handedness: Weighing the Pros and Cons",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Roughly one in ten people worldwide is left-handed, a proportion that has stayed remarkably stable across cultures and historical periods studied so far. For centuries, left-handedness carried a social stigma, often linked in folklore and language to clumsiness, dishonesty, or even bad luck. Modern science treats the trait far more neutrally, viewing it as one ordinary outcome of how the brain organizes motor control, rather than as a defect requiring correction.",
+     "The biological basis of handedness remains only partly understood, despite decades of scientific attention. Researchers have identified a modest genetic component, since handedness tends to run in families, though no single gene determines it outright. Brain lateralization, the tendency for each hemisphere to specialize in different functions, appears closely tied to hand preference, but scientists still debate exactly how prenatal development settles on one dominant hand rather than the other.",
+     "Left-handedness carries certain situational advantages, particularly in combat-style sports such as fencing, boxing, and tennis. Right-handed opponents, who train mostly against other right-handers, often find a left-handed opponent's angles and timing unfamiliar, giving left-handed athletes a disproportionate presence at elite levels of these sports. Some researchers have also proposed that left-handed individuals show slightly greater cognitive flexibility on certain tasks, though this finding remains contested and the effect, if real, appears small. Sports scientists sometimes call this the fighting-left-hander hypothesis.",
+     "Everyday life, by contrast, often works against left-handed people, since most common tools and environments were designed with right-handed users in mind. Scissors, school desks, and even some kitchen equipment can feel awkward or genuinely difficult for a left-handed user to operate comfortably. These frictions are minor individually but can accumulate into a persistent, low-level inconvenience that right-handed people rarely have to think about, though many left-handed adults report noticing **it** daily nonetheless.",
+     "Older research once suggested more serious risks, including claims that left-handed people had shorter average lifespans and faced higher rates of certain health problems. Much of this research has since been seriously questioned on methodological grounds. A key issue was a cohort effect: many older left-handed adults in these studies had been forcibly switched to right-handed writing as children. This common practice from decades ago likely **confounded** whatever the original data seemed to show.",
+     "Social attitudes toward left-handedness have shifted considerably since the mid-twentieth century, and the practice of forcing left-handed children to switch hands has become far less common in most countries. Manufacturers now sell specialized left-handed scissors, desks, and other tools far more widely than before, gradually reducing the everyday friction earlier generations of left-handers simply had to tolerate without complaint. Schools in many countries have also grown noticeably more **accommodating** of left-handed students in recent decades.",
+     "Taken together, the evidence suggests that being left-handed is neither a hidden advantage nor a meaningful disadvantage in any general sense. Whatever benefits or drawbacks exist appear to depend heavily on specific context, from the sport being played to the tools available in a given kitchen. Framing handedness as inherently good or bad, the current research suggests, misses just how situational its effects actually are."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, why do left-handed athletes often have an advantage in combat sports?",
+      "options": {
+       "A": "Left-handed athletes are often physically stronger than right-handed athletes.",
+       "B": "Left-handed opponents often find right-handed angles and timing unfamiliar.",
+       "C": "Right-handed opponents often find left-handed angles and timing unfamiliar.",
+       "D": "Left-handed athletes often train more hours than right-handed athletes."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"combat-style sports\" ở đoạn 3 để tìm nguyên nhân vận động viên thuận tay trái có lợi thế (đối thủ thuận tay phải chưa quen với góc đánh và nhịp độ của họ)."
+     },
+     {
+      "number": 22,
+      "stem": "The word \"confounded\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "confirmed",
+       "B": "funded",
+       "C": "distorted",
+       "D": "compounded"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "đọc ngữ cảnh đoạn 5 nói về các nghiên cứu cũ bị làm sai lệch/gây nhiễu (\"confounded\") do chọn mẫu không chuẩn để tìm từ đồng nghĩa thích hợp (distorted)."
+     },
+     {
+      "number": 23,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Being left-handed is a serious health risk, current research shows.",
+       "B": "Left-handed people are naturally more intelligent than right-handed people.",
+       "C": "Left-handedness brings minor advantages and disadvantages depending on context.",
+       "D": "No everyday tools are still designed for right-handed users today."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp nội dung xuyên suốt bài viết từ lợi thế thể thao đến những bất tiện sinh hoạt để chọn ý chính bao quát (việc thuận tay trái mang lại cả ưu điểm lẫn nhược điểm tùy ngữ cảnh)."
+     },
+     {
+      "number": 24,
+      "stem": "The word \"it\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "the inconvenience",
+       "B": "right-handed people",
+       "C": "left-handed adults",
+       "D": "kitchen equipment"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu trước ở đoạn 4 để xác định danh từ chỉ sự phiền ngoái/bất tiện nhỏ (the inconvenience) mà người thuận tay trái nhận thấy hàng ngày."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what is true about older left-handed adults in early health studies?",
+      "options": {
+       "A": "Many right-handed adults had been forced to switch hands as children.",
+       "B": "Many younger left-handed adults had been forced to switch hands.",
+       "C": "Many had been forced to switch to right-handed writing as children.",
+       "D": "Many had refused to switch to right-handed writing as children."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa liên quan đến \"older left-handed adults\" ở đoạn 5 để xác định thực trạng (nhiều người thời thơ ấu từng bị ép đổi sang viết tay phải)."
+     },
+     {
+      "number": 26,
+      "stem": "According to the passage, which of the following is NOT mentioned as an everyday item that can be difficult for left-handed people?",
+      "options": {
+       "A": "Some kitchen equipment designed for right-handed use.",
+       "B": "School desks built for right-handed students.",
+       "C": "Scissors that are shaped for right-handed use.",
+       "D": "Computer keyboards designed mainly for right-handed typing."
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Tổng hợp danh sách vật dụng được đề cập ở đoạn 4 (kéo, bàn học, dụng cụ bếp), đối soát 4 phương án để chọn chi tiết không được nhắc đến (bàn phím máy tính / computer keyboards)."
+     },
+     {
+      "number": 27,
+      "stem": "What can be inferred from the passage about older studies linking left-handedness to health risks?",
+      "options": {
+       "A": "Their conclusions proved left-handedness causes no health risks whatsoever.",
+       "B": "Their conclusions may have resulted from a flaw in participant selection.",
+       "C": "Being forced to switch hands as a child caused left-handedness.",
+       "D": "Left-handedness carries situational advantages in combat-style sports today."
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp các dữ kiện ở đoạn 5 về sai lệch trong phương pháp chọn mẫu của các nghiên cứu cũ để suy ra kết luận về độ tin cậy của các rủi ro sức khỏe được đưa ra trước đó."
+     },
+     {
+      "number": 28,
+      "stem": "The word \"accommodating\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "expensive",
+       "B": "strict",
+       "C": "adaptable",
+       "D": "accompanying"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét ngữ cảnh đoạn 6 mô tả thái độ xã hội ngày nay cởi mở/thích ứng tốt hơn (\"accommodating\") đối với người thuận tay trái để chọn từ đồng nghĩa (adaptable)."
+     },
+     {
+      "number": 29,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote a specific brand of left-handed scissors and desks.",
+       "B": "To give a balanced overview of the pros and cons of left-handedness.",
+       "C": "To argue all historical research on left-handedness was fraudulent.",
+       "D": "To convince left-handed readers to switch to their right hand."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "nhận diện mục đích chính của tác giả là đưa ra cái nhìn cân bằng, tổng quan về các khía cạnh tích cực và tiêu cực của người thuận tay trái."
+     },
+     {
+      "number": 30,
+      "stem": "According to the passage, what does brain lateralization refer to?",
+      "options": {
+       "A": "How each brain hemisphere specializes in different functions.",
+       "B": "How each brain hemisphere performs identical functions overall.",
+       "C": "How the left hemisphere alone controls all body movement.",
+       "D": "How the right hemisphere controls only left-handed people. Reading"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Quy chiếu",
+      "explanation": "quét thuật ngữ \"Brain lateralization\" ở đoạn 2 để tìm định nghĩa chính xác (xu hướng mỗi bán cầu não đảm nhận/chuyên môn hóa các chức năng khác nhau)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R3Q1, R3Q5, R3Q10):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa) để tìm kiếm dữ kiện trực tiếp trong bài đọc:\n  - Với **R3Q1**, quét từ khóa \"combat-style sports\" ở đoạn 3 để tìm nguyên nhân vận động viên thuận tay trái có lợi thế (đối thủ thuận tay phải chưa quen với góc đánh và nhịp độ của họ).\n  - Với **R3Q5**, quét các từ khóa liên quan đến \"older left-handed adults\" ở đoạn 5 để xác định thực trạng (nhiều người thời thơ ấu từng bị ép đổi sang viết tay phải).\n  - Với **R3Q10**, quét thuật ngữ \"Brain lateralization\" ở đoạn 2 để tìm định nghĩa chính xác (xu hướng mỗi bán cầu não đảm nhận/chuyên môn hóa các chức năng khác nhau).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q2, R3Q8):** Áp dụng kỹ thuật **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R3Q2**, đọc ngữ cảnh đoạn 5 nói về các nghiên cứu cũ bị làm sai lệch/gây nhiễu (**\"confounded\"**) do chọn mẫu không chuẩn để tìm từ đồng nghĩa thích hợp (distorted).\n  - Với **R3Q8**, xét ngữ cảnh đoạn 6 mô tả thái độ xã hội ngày nay cởi mở/thích ứng tốt hơn (**\"accommodating\"**) đối với người thuận tay trái để chọn từ đồng nghĩa (adaptable).\n- **Dạng câu hỏi Quy chiếu (R3Q4):** Đọc ngược lại câu trước ở đoạn 4 để xác định danh từ chỉ sự phiền ngoái/bất tiện nhỏ (the inconvenience) mà người thuận tay trái nhận thấy hàng ngày.\n- **Dạng câu hỏi Loại trừ NOT (R3Q6):** Tổng hợp danh sách vật dụng được đề cập ở đoạn 4 (kéo, bàn học, dụng cụ bếp), đối soát 4 phương án để chọn chi tiết không được nhắc đến (bàn phím máy tính / computer keyboards).\n- **Dạng câu hỏi Suy luận (R3Q7):** Kết hợp các dữ kiện ở đoạn 5 về sai lệch trong phương pháp chọn mẫu của các nghiên cứu cũ để suy ra kết luận về độ tin cậy của các rủi ro sức khỏe được đưa ra trước đó.\n- **Dạng câu hỏi Ý chính & Mục đích của tác giả (R3Q3, R3Q9):** Phân tích lập luận toàn cục của văn bản:\n  - Với **R3Q3**, tổng hợp nội dung xuyên suốt bài viết từ lợi thế thể thao đến những bất tiện sinh hoạt để chọn ý chính bao quát (việc thuận tay trái mang lại cả ưu điểm lẫn nhược điểm tùy ngữ cảnh).\n  - Với **R3Q9**, nhận diện mục đích chính của tác giả là đưa ra cái nhìn cân bằng, tổng quan về các khía cạnh tích cực và tiêu cực của người thuận tay trái.\nLời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi định vị vị trí nhanh như Quy chiếu (R3Q4) và Từ vựng (R3Q2, R3Q8). Tiếp theo, áp dụng kỹ thuật đọc quét cho các câu hỏi **Chi tiết** (R3Q1, R3Q5, R3Q10) và câu **Loại trừ** (R3Q6). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã ráp nối, bạn sẽ dễ dàng xử lý các câu đòi hỏi tính tổng hợp cao gồm Suy luận (R3Q7), Ý chính toàn bài (R3Q3) và Mục đích của tác giả (R3Q9)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "When Penguins Were Giants",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "The largest living penguin, the emperor penguin, stands at just over a meter tall, a size that already seems impressive to anyone watching one waddle across Antarctic ice. Fossil evidence, however, suggests that penguins were once considerably larger, with some ancient species reaching heights that would have brought them roughly level with an adult human. These giant penguins vanished long before humans existed, known to us only through fragments of bone recovered from ancient coastal rock.",
+     "Among the most striking fossil finds is Kumimanu biceae, a species described from bones discovered in New Zealand and estimated to have lived between fifty-five and sixty million years ago. Researchers calculated that this penguin likely stood around one and a half meters tall and weighed close to eighty kilograms, **dwarfing** any penguin alive today. Several other giant species have since been identified from similar fossil beds, suggesting that unusually large penguins were not a single evolutionary fluke but a recurring pattern in early penguin history.",
+     "Estimating the size of an animal known only from scattered bones is inherently uncertain work. Paleontologists typically rely on the dimensions of preserved limb bones, comparing them against scaling relationships observed in living penguins, to infer overall body size and mass. Because complete skeletons are rare, these estimates carry meaningful margins of error, and researchers are generally careful to describe such figures as best approximations rather than settled fact. A single new, more complete fossil can sometimes shift **it** considerably.",
+     "Why penguins grew so large in this early period remains a matter of ongoing debate, though one hypothesis has attracted particular attention. Shortly after the mass extinction that ended the age of dinosaurs, marine ecosystems lacked many of the large predators, such as seals and toothed whales, that dominate today's oceans. With fewer competitors and predators pursuing similar prey in coastal waters, some researchers argue, penguins may have been free to evolve toward considerably larger body sizes than would otherwise have been sustainable.",
+     "That relatively open ecological niche did not last indefinitely. As millions of years passed, marine mammals diversified substantially, and seals and early whales began competing directly with penguins for fish and squid in the same coastal waters. Many researchers suspect that this rising competition, combined with new predation pressure, gradually favored smaller, more maneuverable penguins over their giant ancestors. Pinning down the exact pace and mechanism of this shift, however, remains genuinely difficult using fossils alone.",
+     "Other explanations have also been proposed alongside the competition hypothesis, and the field has not settled on a single, agreed-upon account. Some researchers point to possible thermoregulation advantages tied to large body size in cold Southern Ocean waters. Others emphasize physical constraints on diving depth and swimming efficiency that may have limited how large a penguin could practically become while remaining an effective underwater hunter. Most specialists now treat these explanations as complementary rather than competing, since several pressures likely acted together rather than in isolation.",
+     "The **fragmentary** fossil record of giant penguins continues to be reshaped by new discoveries that refine scientists' understanding of the timeline involved. Each newly described species adds another data point to a picture that is still, by most paleontologists' own admission, more suggestive than definitive. What does seem clear is that today's comparatively modest penguins represent only one chapter in a much longer, and considerably larger-scaled, evolutionary story that fossil hunters are still piecing together."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, when and where did Kumimanu biceae live?",
+      "options": {
+       "A": "In Antarctica, between about fifty-five and sixty million years ago.",
+       "B": "In New Zealand, between about fifty-five and sixty million years ago.",
+       "C": "In New Zealand, more than one hundred million years ago.",
+       "D": "In New Zealand, between about five and ten million years ago."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa tên riêng \"Kumimanu biceae\" ở đoạn 1 để xác định thời gian và địa điểm sinh sống (New Zealand, khoảng 55 đến 60 triệu năm trước)."
+     },
+     {
+      "number": 32,
+      "stem": "The word \"dwarfing\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "protecting",
+       "B": "resembling",
+       "C": "dwelling",
+       "D": "overshadowing"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "đọc ngữ cảnh đoạn 2 mô tả vóc dáng to lớn của chim cánh cụt cổ đại làm lu mờ/vượt trội hoàn toàn (\"dwarfing\") so với các loài chim cánh cụt hiện đại để chọn từ đồng nghĩa thích hợp (overshadowing)."
+     },
+     {
+      "number": 33,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Modern penguins are larger than any ancient penguin species ever was.",
+       "B": "Fossils show ancient penguins were far larger, for reasons still debated.",
+       "C": "Kumimanu biceae is the only giant penguin species ever found.",
+       "D": "Scientists have fully confirmed why ancient penguins were so large."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp nội dung xuyên suốt bài viết về việc hóa thạch cho thấy chim cánh cụt cổ đại lớn hơn nhiều so với hiện nay vì những lý do vẫn đang tiếp tục được tranh luận."
+     },
+     {
+      "number": 34,
+      "stem": "The word \"it\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "limb bones",
+       "B": "living penguins",
+       "C": "the size estimate",
+       "D": "a fossil"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu trước ở đoạn 3 để xác định danh từ số ít chỉ đối tượng (kết quả ước tính kích thước / the size estimate) mà đại từ \"it\" đang thế chỗ."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, how do paleontologists typically estimate ancient penguin size?",
+      "options": {
+       "A": "By comparing complete skeletons only, since partial bones are unusable.",
+       "B": "By comparing bone dimensions with scaling relationships from living penguins.",
+       "C": "By comparing bone dimensions with scaling relationships from living whales.",
+       "D": "By comparing preserved feather patterns with coloring seen today."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"estimate ancient penguin size\" ở đoạn 3 để tìm cách thức ước tính kích thước (so sánh kích thước xương với tỷ lệ tương quan từ chim cánh cụt hiện đại)."
+     },
+     {
+      "number": 36,
+      "stem": "According to the passage, which of the following is NOT mentioned as a possible reason for the decline in penguin size over time?",
+      "options": {
+       "A": "Rising competition from diversifying marine mammals over time.",
+       "B": "New predation pressure from seals and early whales.",
+       "C": "A sudden, dramatic drop in ocean water temperature.",
+       "D": "Physical constraints on diving depth and swimming efficiency."
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Tổng hợp các nguyên nhân được đề cập ở đoạn 5 và 6 giải thích cho sự suy giảm kích thước (sự cạnh tranh từ động vật biển, áp lực săn mồi mới, giới hạn thể chất khi lặn), đối soát 4 phương án để chọn chi tiết không được nhắc tới (sự giảm nhiệt độ nước biển đột ngột)."
+     },
+     {
+      "number": 37,
+      "stem": "What can be inferred about scientists' current understanding of the decline in giant penguin size?",
+      "options": {
+       "A": "Smaller penguin size caused marine mammals to diversify faster.",
+       "B": "It likely resulted from several overlapping pressures, not one cause.",
+       "C": "It has now been completely and definitively explained by fossils.",
+       "D": "Kumimanu biceae weighed close to eighty kilograms when grown."
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp các dữ kiện ở đoạn 6 về việc nhiều yếu tố tác động đồng thời (cạnh tranh, áp lực sinh học, giới hạn lặn) để suy luận rằng sự suy giảm kích thước là do sự kết hợp của nhiều áp lực khác nhau."
+     },
+     {
+      "number": 38,
+      "stem": "The word \"fragmentary\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "worthless",
+       "B": "expensive",
+       "C": "fragrant",
+       "D": "incomplete"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét ngữ cảnh đoạn 7 nói về hồ sơ hóa thạch còn chưa hoàn chỉnh/mảnh vỡ (\"fragmentary\") của chim cánh cụt khổng lồ để tìm từ đồng nghĩa phù hợp (incomplete)."
+     },
+     {
+      "number": 39,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that modern penguins should be considered endangered.",
+       "B": "To prove definitively why giant penguins went extinct.",
+       "C": "To provide a step-by-step guide to excavating penguin fossils.",
+       "D": "To explain what fossils reveal about giant penguins."
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "nhận diện mục đích viết chính của tác giả nhằm giải thích những gì hóa thạch tiết lộ về loài chim cánh cụt khổng lồ."
+     },
+     {
+      "number": 40,
+      "stem": "According to the passage, what was true of marine ecosystems shortly after the dinosaur extinction?",
+      "options": {
+       "A": "They were already full of large predators like seals and whales.",
+       "B": "They lacked small fish that giant penguins needed to eat.",
+       "C": "They lacked large predators, but penguins were also absent then.",
+       "D": "They initially lacked many large predators like seals and toothed whales."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"shortly after the mass extinction\" ở đoạn 4 để tìm đặc điểm của hệ sinh thái biển (ban đầu thiếu vắng nhiều loài săn mồi lớn như hải cẩu và cá voi có răng)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R4Q1, R4Q5, R4Q10):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa) để tìm kiếm dữ kiện trực tiếp có sẵn trong bài đọc:\n  - Với **R4Q1**, quét từ khóa tên riêng \"Kumimanu biceae\" ở đoạn 1 để xác định thời gian và địa điểm sinh sống (New Zealand, khoảng 55 đến 60 triệu năm trước).\n  - Với **R4Q5**, quét cụm từ \"estimate ancient penguin size\" ở đoạn 3 để tìm cách thức ước tính kích thước (so sánh kích thước xương với tỷ lệ tương quan từ chim cánh cụt hiện đại).\n  - Với **R4Q10**, quét cụm từ \"shortly after the mass extinction\" ở đoạn 4 để tìm đặc điểm của hệ sinh thái biển (ban đầu thiếu vắng nhiều loài săn mồi lớn như hải cẩu và cá voi có răng).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q2, R4Q8):** Áp dụng kỹ thuật **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R4Q2**, đọc ngữ cảnh đoạn 2 mô tả vóc dáng to lớn của chim cánh cụt cổ đại làm lu mờ/vượt trội hoàn toàn (**\"dwarfing\"**) so với các loài chim cánh cụt hiện đại để chọn từ đồng nghĩa thích hợp (overshadowing).\n  - Với **R4Q8**, xét ngữ cảnh đoạn 7 nói về hồ sơ hóa thạch còn chưa hoàn chỉnh/mảnh vỡ (**\"fragmentary\"**) của chim cánh cụt khổng lồ để tìm từ đồng nghĩa phù hợp (incomplete).\n- **Dạng câu hỏi Quy chiếu (R4Q4):** Đọc ngược lại câu trước ở đoạn 3 để xác định danh từ số ít chỉ đối tượng (kết quả ước tính kích thước / the size estimate) mà đại từ **\"it\"** đang thế chỗ.\n- **Dạng câu hỏi Loại trừ NOT (R4Q6):** Tổng hợp các nguyên nhân được đề cập ở đoạn 5 và 6 giải thích cho sự suy giảm kích thước (sự cạnh tranh từ động vật biển, áp lực săn mồi mới, giới hạn thể chất khi lặn), đối soát 4 phương án để chọn chi tiết không được nhắc tới (sự giảm nhiệt độ nước biển đột ngột).\n- **Dạng câu hỏi Suy luận (R4Q7):** Kết hợp các dữ kiện ở đoạn 6 về việc nhiều yếu tố tác động đồng thời (cạnh tranh, áp lực sinh học, giới hạn lặn) để suy luận rằng sự suy giảm kích thước là do sự kết hợp của nhiều áp lực khác nhau.\n- **Dạng câu hỏi Ý chính & Mục đích của tác giả (R4Q3, R4Q9):** Phân tích lập luận toàn cục của bài đọc:\n  - Với **R4Q3**, tổng hợp nội dung xuyên suốt bài viết về việc hóa thạch cho thấy chim cánh cụt cổ đại lớn hơn nhiều so với hiện nay vì những lý do vẫn đang tiếp tục được tranh luận.\n  - Với **R4Q9**, nhận diện mục đích viết chính của tác giả nhằm giải thích những gì hóa thạch tiết lộ về loài chim cánh cụt khổng lồ.\nLời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi định vị vị trí nhanh như Quy chiếu (R4Q4) và Từ vựng (R4Q2, R4Q8). Tiếp theo, thực hiện đọc quét dữ kiện cho các câu **Chi tiết** (R4Q1, R4Q5, R4Q10) và câu **Loại trừ** (R4Q6). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã nắm bắt, bạn sẽ dễ dàng xử lý các câu đòi hỏi tính tổng hợp cao gồm Suy luận (R4Q7), Ý chính toàn bài (R4Q3) và Mục đích của tác giả (R4Q9)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You recently received an email from your foreign friend, Alex, who is planning to visit Vietnam for a holiday.\nHe asked you for some travel advice before his trip. Read part of his email below.\nI'm finally coming to Vietnam next month, and I have no idea where to start planning! Could you give me some advice?\n- Where should I go and what should I do during my trip?\n- Could you recommend a museum worth visiting?\n- What local food should I definitely try while I'm there?\nRespond to Alex's email and answer all of his questions. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You recently received an email from your foreign friend, Alex, who is planning to visit Vietnam for a holiday.",
+      "He asked you for some travel advice before his trip. Read part of his email below."
+     ],
+     "quote": [
+      "I'm finally coming to Vietnam next month, and I have no idea where to start planning! Could you give me some advice?",
+      "- Where should I go and what should I do during my trip?",
+      "- Could you recommend a museum worth visiting?",
+      "- What local food should I definitely try while I'm there?"
+     ],
+     "instruction": "Respond to Alex's email and answer all of his questions. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\nĐây là dạng **Informal Email** gửi cho bạn bè nước ngoài, đưa ra lời khuyên du lịch. Bạn cần trả lời đầy đủ **3 câu hỏi chính**: nên đi đâu và làm gì, gợi ý một viện bảo tàng đáng ghé thăm, và món ăn địa phương nên thử. Yêu cầu tối thiểu **120 từ**, giọng văn thân mật, nhiệt tình như đang tư vấn cho một người bạn thân sắp đến chơi.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Alex,\n- **Opening:** Bày tỏ sự vui mừng khi nghe tin bạn sắp đến. Ví dụ: I was thrilled to hear you're finally coming to Vietnam next month!\n- **Body 1 (Where to go/activities):** Gợi ý địa điểm và hoạt động. Ví dụ: You should definitely visit the Old Quarter in Hanoi and take a boat trip around Ha Long Bay.\n- **Body 2 (Museum):** Đề xuất viện bảo tàng cụ thể. Ví dụ: I'd also recommend the Vietnam Museum of Ethnology, which gives a fascinating insight into the country's different ethnic groups.\n- **Body 3 (Food):** Gợi ý món ăn đặc trưng. Ví dụ: As for food, you can't leave without trying pho and banh mi from a local street stall.\n- **Closing:** Kết thúc thư và thể hiện sự mong chờ. Ví dụ: I can't wait to show you around when you arrive!\n- **Sign-off:** Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng thì Hiện tại đơn và cấu trúc gợi ý (should, why don't you, I'd recommend) để lời khuyên nghe tự nhiên, thân thiện. Kết hợp tên riêng địa danh cụ thể để bài viết chân thực hơn.\nTừ vựng quan trọng:\n- **Tourist attraction:** Điểm tham quan\n- **Old Quarter:** Phố cổ\n- **Ethnic group:** Dân tộc thiểu số\n- **Street food:** Đồ ăn đường phố\n- **Cultural heritage:** Di sản văn hóa\n- **Scenic spot:** Địa điểm phong cảnh đẹp\n- **Local specialty:** Đặc sản địa phương\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Besides / Also:** Bên cạnh đó\n- **As for:** Còn về\n- **In addition:** Thêm vào đó\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I was thrilled to hear...:** Tôi rất vui khi nghe...\n- **You can't leave without...:** Bạn không thể rời đi mà chưa...\n- **I can't wait to...:** Tôi rất mong chờ...\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời 1-2 trong số 3 câu hỏi mà đề bài yêu cầu.\n- Gợi ý địa điểm quá chung chung, không nêu tên cụ thể.\n- Dùng văn phong quá trang trọng thay vì giọng thân mật với bạn bè.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm lại số từ, đảm bảo đạt tối thiểu 120 từ.\n- Kiểm tra đã trả lời đủ cả 3 câu hỏi (địa điểm, bảo tàng, món ăn) chưa.\n- Rà soát lỗi chính tả tên riêng địa danh, món ăn.\n\n**6. Tư duy làm bài:**\nHãy viết như thể bạn đang thật sự hào hứng giới thiệu quê hương mình cho một người bạn nước ngoài. Sự cụ thể, chân thực trong từng gợi ý sẽ giúp bài viết tự nhiên và thuyết phục hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nWith the rapid development of technology, many schools are now considering replacing printed textbooks with digital devices such as tablets and e-readers.\nSome people believe that schools should continue using traditional printed textbooks, while others think digital textbooks should completely replace them.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about whether schools should continue using printed textbooks or replace them with digital textbooks. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "With the rapid development of technology, many schools are now considering replacing printed textbooks with digital devices such as tablets and e-readers.",
+      "Some people believe that schools should continue using traditional printed textbooks, while others think digital textbooks should completely replace them.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about whether schools should continue using printed textbooks or replace them with digital textbooks. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\nĐây là dạng bài **Discussion Essay**, bàn về việc trường học nên tiếp tục dùng sách giáo khoa in truyền thống hay thay thế hoàn toàn bằng sách điện tử/thiết bị số. Bạn cần trình bày **cả hai quan điểm** một cách cân bằng trước khi đưa ra ý kiến cá nhân. Yêu cầu tối thiểu **250 từ**, tránh chỉ nghiêng về một phía ngay từ đầu.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vấn đề và nêu hai luồng quan điểm. Ví dụ: With the growing use of technology in education, opinions are divided over whether printed textbooks should be replaced by digital ones.\n- **Body 1 (Quan điểm 1 - Printed textbooks):** Topic sentence -> Explanation -> Example. Ví dụ: On the one hand, many people believe that printed textbooks are still essential because they reduce eye strain and help students concentrate better.\n- **Body 2 (Quan điểm 2 - Digital textbooks):** Ví dụ: On the other hand, others argue that digital textbooks are more practical, as they are lighter, searchable, and often cheaper to update.\n- **Body 3 (Ý kiến cá nhân):** Ví dụ: In my opinion, a combination of both formats would offer students the best of both worlds.\n- **Conclusion:** Khẳng định lại quan điểm. Ví dụ: In conclusion, while digital textbooks bring convenience, printed materials still hold irreplaceable educational value.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng thì Hiện tại đơn để nêu sự thật và quan điểm chung, kết hợp cấu trúc so sánh (more...than, whereas) để làm nổi bật sự khác biệt giữa hai loại sách. Luôn có câu Thesis Statement rõ ràng ở mở bài.\nTừ vựng quan trọng:\n- **Printed textbook:** Sách giáo khoa in\n- **Digital device:** Thiết bị kỹ thuật số\n- **Eye strain:** Mỏi mắt\n- **Searchable content:** Nội dung có thể tìm kiếm\n- **Cost-effective:** Tiết kiệm chi phí\n- **Learning material:** Tài liệu học tập\n- **Screen time:** Thời gian sử dụng màn hình\nTừ nối (Linking words):\n- **On the one hand / On the other hand:** Một mặt / Mặt khác (Thêm ý)\n- **However / Whereas:** Tuy nhiên / Trong khi đó (Đối lập)\n- **As a result:** Do đó (Nguyên nhân - kết quả)\n- **For example / For instance:** Ví dụ như (Minh họa)\n- **In conclusion / To sum up:** Tóm lại (Kết luận)\n- **Compared to:** So với (So sánh)\nDiễn đạt lại ý (Paraphrasing):\n- **Conventional learning materials:** Thay cho \"printed textbooks\".\n- **Electronic learning tools:** Thay cho \"digital textbooks\".\n- **Educational institutions:** Thay cho \"schools\".\nCách diễn đạt ý kiến / so sánh:\n- **From my perspective...:** Theo quan điểm của tôi...\n- **Unlike printed books, digital ones...:** Không giống sách in, sách điện tử...\n- **A more balanced approach would be...:** Một cách tiếp cận cân bằng hơn sẽ là...\n\n**4. Các lỗi thường gặp:**\n- Chỉ trình bày một quan điểm mà bỏ qua quan điểm còn lại.\n- Không có Topic sentence rõ ràng ở mỗi đoạn thân bài.\n- Nhầm lẫn dạng bài Discussion với dạng bài Opinion (chỉ nêu ý kiến cá nhân ngay từ đầu).\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã có Thesis Statement rõ ràng ở mở bài chưa.\n- Đảm bảo cả hai quan điểm đều được thảo luận đầy đủ.\n- Rà soát lỗi ngữ pháp và sự liên kết giữa các đoạn.\n\n**6. Tư duy làm bài:**\nĐừng vội nghiêng về một phía ngay từ đầu bài. Hãy phân tích khách quan cả hai luồng ý kiến trước, sau đó mới đưa ra quan điểm cá nhân dựa trên lập luận chặt chẽ."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about sports\n\n1\nDo you often play or watch sports?\n2\nWhat is your favorite sport and why?\n3\nDo you think sports are important for a person's health?\n\nNow, let’s talk about TV programs\n\n4\nDo you often watch TV programs?\n5\nWhat type of TV program do you enjoy watching the most?\n6\nDo you prefer watching TV alone or with your family?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này kéo dài **3 phút** với **6 câu hỏi**, được giám khảo hỏi trực tiếp theo hình thức hội thoại tự nhiên.\n- **Chủ đề A (Thể thao):** Ba câu hỏi đầu xoay quanh việc chơi/xem thể thao, môn thể thao yêu thích và tầm quan trọng của thể thao với sức khỏe.\n- **Chủ đề B (Chương trình TV):** Ba câu hỏi sau khai thác thói quen xem TV, thể loại chương trình yêu thích và việc xem một mình hay cùng gia đình.\n- Tiêu chí chấm điểm gồm: **Độ trôi chảy (Fluency)**, **Từ vựng (Vocabulary)**, **Ngữ pháp (Grammar)** và **Phát âm** (Pronunciation).\n- Nên phân bổ khoảng **25–30 giây** cho mỗi câu hỏi, tránh dồn quá nhiều thời gian cho một chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Áp dụng cấu trúc **Answer – Reason – Example (ARE)**: trả lời trực tiếp, đưa lý do, sau đó minh họa bằng ví dụ cụ thể.\n- **Ví dụ Chủ đề A:** \"I play badminton twice a week with my classmates because it helps me stay fit and relieve stress after studying.\"\n- **Ví dụ Chủ đề B:** \"I usually watch documentaries because they help me learn new things about the world while relaxing.\"\n- Luôn tự hỏi **Why?/How?** sau mỗi câu trả lời ngắn để mở rộng ý (bắt buộc).\n- Dùng một câu chuyển ý ngắn gọn khi chuyển từ Chủ đề A sang B, ví dụ: \"Now, moving on to my entertainment habits...\" (bắt buộc).\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói đều, sử dụng các từ đệm tự nhiên như \"well\", \"actually\" để tránh im lặng kéo dài.\n- Về thì: dùng **hiện tại đơn** khi nói về thói quen chơi thể thao và xem TV (\"I usually...\", \"I tend to...\"), dùng **hiện tại hoàn** thành nếu nhắc đến trải nghiệm tích lũy (\"I have watched this show since I was a kid\").\n- Nếu quên từ, hãy diễn giải bằng cách mô tả (paraphrase) thay vì dừng lại.\n- Từ vựng Chủ đề A: **keep fit** (giữ dáng), **team spirit** (tinh thần đồng đội), **work up a sweat** (đổ mồ hôi khi tập luyện), **a** sport enthusiast (người đam mê thể thao).\n- Từ vựng Chủ đề B: **prime-time show** (chương trình giờ vàng), **reality TV** (truyền hình thực tế), **binge-watch** (xem liền một mạch), **broadcast** (phát sóng).\nCụm từ quan trọng nên dùng:\n- **boost physical fitness** (tăng cường thể lực) — Chủ đề A.\n- **relieve stress** (giải tỏa căng thẳng) — Chủ đề A.\n- **a competitive spirit** (tinh thần cạnh tranh) — Chủ đề A.\n- **an informative program** (chương trình mang tính thông tin) — Chủ đề B.\n- **a great way to unwind** (cách tuyệt vời để thư giãn) — Chủ đề B.\n- **family bonding time** (thời gian gắn kết gia đình) — Chủ đề B.\nTừ nối khi nói (Linking Words):\n- **Actually,** – mở đầu ý kiến cá nhân tự nhiên (thực ra thì).\n- **In terms of...** – giới hạn phạm vi câu trả lời (về mặt...).\n- **Apart from that,** – bổ sung ý (bên cạnh đó).\n- **The main reason is that...** – nêu lý do chính.\n- **Speaking of...** – chuyển chủ đề mượt mà (nói đến...).\nCách thể hiện quan điểm tự nhiên:\n- \"Personally, I think sports play a vital role in maintaining both physical and mental health.\" (Cá nhân tôi nghĩ...) — Chủ đề A.\n- \"From my point of view, team sports also teach valuable life skills like cooperation.\" (Theo quan điểm của tôi...) — Chủ đề A.\n- \"As far as I'm concerned, watching TV with family strengthens our relationship.\" (Theo tôi thì...) — Chủ đề B.\n\n**4. Các lỗi thường gặp:**\n- Trả lời cụt lủn kiểu \"Yes\" hoặc \"Football\" mà không giải thích thêm — đây là lỗi nghiêm trọng nhất.\n- Với Chủ đề A: nhầm lẫn giữa \"play\" (chơi thể thao) và \"do\" (dùng cho một số môn như gym, yoga).\n- Với Chủ đề B: chỉ liệt kê tên chương trình mà không giải thích lý do yêu thích.\n- Dùng sai thì, ví dụ dùng thì tương lai khi mô tả thói quen hiện tại.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu chêm: \"That's an interesting question, let me think for a moment\" để có thêm thời gian.\n- Nếu quên từ vựng cụ thể, hãy mô tả bằng từ đơn giản hơn, ví dụ thay vì \"badminton\" có thể nói \"a sport played with a racket and a shuttlecock\".\n- Với Chủ đề A, nếu không nhớ chi tiết, có thể nói chung chung về \"a sport that helps me stay active\" rồi phát triển thêm.\n- Với Chủ đề B, nếu bí ý tưởng, hãy liên hệ đến lợi ích giải trí và thư giãn của việc xem TV.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem đây như một cuộc trò chuyện thân mật, không phải một bài kiểm tra căng thẳng.\n- Khi chuyển từ Chủ đề A sang B, hãy \"reset\" tâm lý và coi đó là một câu hỏi hoàn toàn mới.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố gắng dùng từ vựng học thuật phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour class is organizing a potluck party and needs to choose one dish for the whole class to prepare together.\n\nYou are considering the following options:\n\nOption 1: Fried spring rolls\nOption 2: Fried rice\nOption 3: Beef noodles\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống: lớp bạn đang tổ chức một buổi tiệc góp món (potluck) và cần chọn một món ăn để cả lớp cùng chuẩn bị.\n- Ba lựa chọn: **chả giò (fried spring rolls)**, **cơm chiên (fried rice)**, và **mì bò (beef noodles)**.\n- Tiêu chí chấm điểm: khả năng phân tích, so sánh và đưa ra kết luận thuyết phục, cùng với Fluency, Vocabulary, Grammar và Pronunciation.\n- Thời gian: **4 phút** — khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E (Introduction – Comparison/Body – End)**: giới thiệu tình huống, phân tích lần lượt ba lựa chọn, sau đó kết luận và đưa ra lý do.\n- **Option 1 (chả giò):** \"Fried spring rolls are easy to prepare in large quantities and popular with almost everyone, but they can be a bit greasy for some people.\"\n- **Option 2 (cơm chiên):** \"Fried rice is simple, filling, and budget-friendly, though it might be seen as a less exciting choice for a party.\"\n- **Option 3 (mì bò):** \"Beef noodles are hearty and flavorful, but they require more cooking skills and could be more expensive due to the beef.\"\n- Mẹo: luôn neo lập luận vào bối cảnh thực tế của một buổi tiệc lớp học (bắt buộc).\n- Mẹo: dùng từ nối tương phản như \"however\", \"on the other hand\" để chuyển giữa ưu và nhược điểm (bắt buộc).\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết ba lựa chọn với nhau thay vì nói tách biệt, ví dụ: \"Compared to Option 3, Option 1 is much easier and quicker to prepare for a large group.\"\n- Về thì: dùng **câu điều kiện loại 1** khi dự đoán hệ quả (\"If we choose beef noodles, we will need more time and ingredients\") và **hiện tại đơn** khi mô tả đặc điểm từng món ăn.\n- Paraphrase cụm \"prepare\" thành \"make\" hoặc \"cook\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- **easy to prepare** (dễ chuẩn bị).\n- **budget-friendly** (tiết kiệm chi phí).\n- **a crowd-pleaser** (món ăn được nhiều người yêu thích).\n- **time-consuming** (tốn thời gian).\n- **a hearty meal** (bữa ăn no bụng, thịnh soạn).\n- **suit different tastes** (phù hợp với nhiều khẩu vị).\nTừ nối khi nói (Linking Words):\n- **On the other hand,** – nêu quan điểm đối lập (mặt khác).\n- **Compared to...,** – so sánh giữa các lựa chọn.\n- **Taking everything into account,** – tổng kết trước khi kết luận (xét tổng thể).\n- **Nevertheless,** – nhấn mạnh điểm trái ngược (tuy nhiên).\n- **As a result,** – nêu hệ quả (kết quả là).\nCách thể hiện quan điểm tự nhiên:\n- \"If it were up to me, I would choose fried spring rolls because they are convenient and loved by most people.\" (Nếu là tôi...)\n- \"I would strongly recommend fried rice for its simplicity and low cost.\" (Tôi sẽ khuyên...)\n- \"In my opinion, beef noodles would make the party feel more special despite the extra effort.\" (Theo ý kiến của tôi...)\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen món ăn mình chọn mà không chỉ ra nhược điểm của các lựa chọn còn lại.\n- Lặp đi lặp lại từ \"delicious\"/\"good\" thay vì dùng tính từ đa dạng hơn như \"flavorful\", \"convenient\".\n- Không đưa ra kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên ngành ẩm thực, chuyển hướng sang yếu tố chi phí hoặc thời gian chuẩn bị để tiếp tục lập luận.\n- Dùng câu chêm: \"Let's evaluate this option from a different perspective\" để có thêm thời gian suy nghĩ.\n- Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một thành viên thực sự đang góp ý cho lớp — điều gì thực sự phù hợp với số đông.\n- Đưa ra một vài gợi ý cải thiện ngay cả cho lựa chọn được chọn để thể hiện tư duy phản biện.\n- Sự mạch lạc và logic trong lập luận quan trọng hơn việc dùng từ vựng phức tạp.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of traveling in a group\n\nBenefits of Group Traveling\nSharing costs and reducing travel expenses\nFeeling safer and more supported during the trip\nCreating shared memories and stronger friendships\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat do you think are the main advantages of traveling with a group rather than alone?\n2\nAre there any disadvantages to traveling in a group?\n3\nWould you say group traveling is more suitable for young people or for families? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề: **Lợi ích của việc đi du lịch theo nhóm**, với 3 nhánh ý chính và 1 nhánh ý cá nhân (gợi ý nhánh thứ 4: học hỏi kỹ năng làm việc nhóm khi đi du lịch cùng nhau).\n- Tiêu chí chấm điểm: khả năng phát triển ý mạch lạc theo sơ đồ tư duy, cùng Fluency, Vocabulary, Grammar và Pronunciation.\n- Thời gian: **5 phút**; khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction – Detail – Example – Add/wrap up)** vì chủ đề mang tính trải nghiệm xã hội, cần cả lý lẽ lẫn ví dụ thực tế.\n- **Ví dụ 1 (mở bài):** \"Traveling in a group brings a variety of benefits, from saving money to creating unforgettable memories with others.\"\n- **Ví dụ 2 (nhánh cá nhân):** \"Personally, I find that group trips also help me improve my teamwork and communication skills, since everyone has to plan and compromise together.\"\n- Mẹo: khi nói về từng nhánh ý, hãy đưa ra một ví dụ chuyến đi nhóm cụ thể để minh họa thay vì chỉ nói lý thuyết.\n- Mẹo: bám sát sơ đồ tư duy để tránh lan man, không lặp lại ý đã nói (bắt buộc).\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh ý, ví dụ \"Another advantage worth mentioning is...\".\n- Về thì: dùng **hiện tại đơn** để nêu sự thật/quan điểm chung (\"Group trips usually cost less per person\") và **hiện tại hoàn** thành để nói về trải nghiệm tích lũy (\"I have been on several trips with my classmates\").\n- Paraphrase \"traveling in a group\" bằng \"group trips\" hoặc \"traveling with others\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- **split the cost** (chia sẻ chi phí).\n- **a sense of security** (cảm giác an toàn).\n- **build lasting friendships** (xây dựng tình bạn lâu dài).\n- **share responsibilities** (chia sẻ trách nhiệm).\n- **create shared memories** (tạo ra những kỷ niệm chung).\n- **work as a team** (làm việc theo nhóm).\nTừ nối khi nói (Linking Words):\n- **To begin with,** – mở đầu nhánh ý đầu tiên (trước hết).\n- **Moreover,** – bổ sung ý (hơn nữa).\n- **Another point worth noting is...** – chuyển sang nhánh ý mới.\n- **In addition to that,** – mở rộng ý (thêm vào đó).\n- **To sum up,** – kết luận (tóm lại).\nCách thể hiện quan điểm tự nhiên:\n- \"I would say that traveling in a group is one of the most cost-effective ways to explore new places.\" (Tôi cho rằng...)\n- \"From what I've experienced, group trips always leave me with stories I still talk about years later.\" (Theo những gì tôi trải nghiệm được...)\n- \"It seems to me that having companions makes unfamiliar destinations feel much less intimidating.\" (Đối với tôi thì có vẻ như...)\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"What do you think are the main advantages of traveling with a group rather than alone?\"** – Lower costs, more safety, and the joy of sharing experiences with others.\n- **\"Are there any disadvantages to traveling in a group?\"** – Conflicts over schedules or preferences, and less flexibility in decision-making.\n- **\"Would you say group traveling is more suitable for young people or for families? Why?\"** – It suits both, but young people may enjoy the adventure and bonding aspect more, while families value the safety and shared responsibilities.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê ý mà không giải thích hoặc cho ví dụ cụ thể.\n- Quên nhánh ý cá nhân — nên chuẩn bị trước một trải nghiệm đi du lịch nhóm thực tế của bản thân.\n- Dành quá nhiều thời gian cho bài nói chính, không còn thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Neo vào một chuyến đi nhóm thực tế của bản thân hoặc bạn bè khi bí ý.\n- Câu chêm học thuật: \"That is a complex issue. If we evaluate it from a societal viewpoint...\"\n- Nếu quên từ vựng chuyên ngành, dùng mô tả đơn giản, ví dụ thay vì \"itinerary\" có thể nói \"a plan of places to visit during the trip\".\n\n**7. Tư duy làm bài nói:**\n- Suy nghĩ từ góc nhìn thực tế của một người trẻ thường xuyên đi du lịch cùng bạn bè hoặc gia đình.\n- Sự mạch lạc và logic trong luồng ý là yếu tố then chốt để đạt điểm cao.\n- Đừng cố nhồi nhét từ vựng khó, hãy ưu tiên truyền tải ý tưởng rõ ràng và tự nhiên."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about sports.\n1.\nDo you often play or watch sports?\n2.\nWhat is your favorite sport and why?\n3.\nDo you think sports are important for a person's health?\nNow, let’s talk about TV programs.\n4.\nDo you often watch TV programs?\n5.\nWhat type of TV program do you enjoy watching the most?\n6.\nDo you prefer watching TV alone or with your family?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này kéo dài 3 phút với 6 câu hỏi, được giám khảo hỏi trực tiếp theo hình thức hội thoại tự nhiên.\n• Chủ đề A (Thể thao): Ba câu hỏi đầu xoay quanh việc chơi/xem thể thao, môn thể thao yêu thích và tầm quan trọng\ncủa thể thao với sức khỏe.\n• Chủ đề B (Chương trình TV): Ba câu hỏi sau khai thác thói quen xem TV, thể loại chương trình yêu thích và việc xem\nmột mình hay cùng gia đình.\n• Tiêu chí chấm điểm gồm: Độ trôi chảy (Fluency), Từ vựng (Vocabulary), Ngữ pháp (Grammar) và Phát âm\n(Pronunciation).\n• Nên phân bổ khoảng 25–30 giây cho mỗi câu hỏi, tránh dồn quá nhiều thời gian cho một chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Áp dụng cấu trúc Answer – Reason – Example (ARE): trả lời trực tiếp, đưa lý do, sau đó minh họa bằng ví dụ cụ thể.\n• Ví dụ Chủ đề A: \"I play badminton twice a week with my classmates because it helps me stay fit and relieve stress\nafter studying.\"\n• Ví dụ Chủ đề B: \"I usually watch documentaries because they help me learn new things about the world while relaxing.\"\n• Luôn tự hỏi Why?/How? sau mỗi câu trả lời ngắn để mở rộng ý (bắt buộc).\n• Dùng một câu chuyển ý ngắn gọn khi chuyển từ Chủ đề A sang B, ví dụ: \"Now, moving on to my entertainment habits...\"\n(bắt buộc).\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói đều, sử dụng các từ đệm tự nhiên như \"well\", \"actually\" để tránh im lặng kéo dài.\n• Về thì: dùng hiện tại đơn khi nói về thói quen chơi thể thao và xem TV (\"I usually...\", \"I tend to...\"), dùng hiện tại hoàn\nthành nếu nhắc đến trải nghiệm tích lũy (\"I have watched this show since I was a kid\").\n• Nếu quên từ, hãy diễn giải bằng cách mô tả (paraphrase) thay vì dừng lại.\n• Từ vựng Chủ đề A: keep fit (giữ dáng), team spirit (tinh thần đồng đội), work up a sweat (đổ mồ hôi khi tập luyện), a\nsport enthusiast (người đam mê thể thao).\n• Từ vựng Chủ đề B: prime-time show (chương trình giờ vàng), reality TV (truyền hình thực tế), binge-watch (xem liền\nmột mạch), broadcast (phát sóng).\nCụm từ quan trọng nên dùng:\n• boost physical fitness (tăng cường thể lực) — Chủ đề A.\n• relieve stress (giải tỏa căng thẳng) — Chủ đề A.\n• a competitive spirit (tinh thần cạnh tranh) — Chủ đề A.\n• an informative program (chương trình mang tính thông tin) — Chủ đề B.\n• a great way to unwind (cách tuyệt vời để thư giãn) — Chủ đề B.\n• family bonding time (thời gian gắn kết gia đình) — Chủ đề B.\nTừ nối khi nói (Linking Words):\n• Actually, – mở đầu ý kiến cá nhân tự nhiên (thực ra thì).\n• In terms of... – giới hạn phạm vi câu trả lời (về mặt...).\n• Apart from that, – bổ sung ý (bên cạnh đó).\n• The main reason is that... – nêu lý do chính.\n• Speaking of... – chuyển chủ đề mượt mà (nói đến...).\nCách thể hiện quan điểm tự nhiên:\n• \"Personally, I think sports play a vital role in maintaining both physical and mental health.\" (Cá nhân tôi nghĩ...) — Chủ\nđề A.\n• \"From my point of view, team sports also teach valuable life skills like cooperation.\" (Theo quan điểm của tôi...) —\nChủ đề A.\n• \"As far as I'm concerned, watching TV with family strengthens our relationship.\" (Theo tôi thì...) — Chủ đề B.\n4. Các lỗi thường gặp:\n• Trả lời cụt lủn kiểu \"Yes\" hoặc \"Football\" mà không giải thích thêm — đây là lỗi nghiêm trọng nhất.\n• Với Chủ đề A: nhầm lẫn giữa \"play\" (chơi thể thao) và \"do\" (dùng cho một số môn như gym, yoga).\n• Với Chủ đề B: chỉ liệt kê tên chương trình mà không giải thích lý do yêu thích.\n• Dùng sai thì, ví dụ dùng thì tương lai khi mô tả thói quen hiện tại.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu chêm: \"That's an interesting question, let me think for a moment\" để có thêm thời gian.\n• Nếu quên từ vựng cụ thể, hãy mô tả bằng từ đơn giản hơn, ví dụ thay vì \"badminton\" có thể nói \"a sport played with a\nracket and a shuttlecock\".\n• Với Chủ đề A, nếu không nhớ chi tiết, có thể nói chung chung về \"a sport that helps me stay active\" rồi phát triển thêm.\n• Với Chủ đề B, nếu bí ý tưởng, hãy liên hệ đến lợi ích giải trí và thư giãn của việc xem TV.\n6. Tư duy làm bài nói:\n• Hãy xem đây như một cuộc trò chuyện thân mật, không phải một bài kiểm tra căng thẳng.\n• Khi chuyển từ Chủ đề A sang B, hãy \"reset\" tâm lý và coi đó là một câu hỏi hoàn toàn mới.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố gắng dùng từ vựng học thuật phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYour class is organizing a potluck party and needs to choose one dish for the whole class to prepare together.\nYou are considering the following options:\n• Option 1: Fried spring rolls\n• Option 2: Fried rice\n• Option 3: Beef noodles\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống: lớp bạn đang tổ chức một buổi tiệc góp món (potluck) và cần chọn một món ăn để cả lớp cùng chuẩn\nbị.\n• Ba lựa chọn: chả giò (fried spring rolls), cơm chiên (fried rice), và mì bò (beef noodles).\n• Tiêu chí chấm điểm: khả năng phân tích, so sánh và đưa ra kết luận thuyết phục, cùng với Fluency, Vocabulary,\nGrammar và Pronunciation.\n• Thời gian: 4 phút — khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction – Comparison/Body – End): giới thiệu tình huống, phân tích lần lượt ba lựa chọn,\nsau đó kết luận và đưa ra lý do.\n• Option 1 (chả giò): \"Fried spring rolls are easy to prepare in large quantities and popular with almost everyone, but\nthey can be a bit greasy for some people.\"\n• Option 2 (cơm chiên): \"Fried rice is simple, filling, and budget-friendly, though it might be seen as a less exciting\nchoice for a party.\"\n• Option 3 (mì bò): \"Beef noodles are hearty and flavorful, but they require more cooking skills and could be more\nexpensive due to the beef.\"\n• Mẹo: luôn neo lập luận vào bối cảnh thực tế của một buổi tiệc lớp học (bắt buộc).\n• Mẹo: dùng từ nối tương phản như \"however\", \"on the other hand\" để chuyển giữa ưu và nhược điểm (bắt buộc).\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết ba lựa chọn với nhau thay vì nói tách biệt, ví dụ: \"Compared to Option 3, Option 1 is much easier and quicker\nto prepare for a large group.\"\n• Về thì: dùng câu điều kiện loại 1 khi dự đoán hệ quả (\"If we choose beef noodles, we will need more time and\ningredients\") và hiện tại đơn khi mô tả đặc điểm từng món ăn.\n• Paraphrase cụm \"prepare\" thành \"make\" hoặc \"cook\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• easy to prepare (dễ chuẩn bị).\n• budget-friendly (tiết kiệm chi phí).\n• a crowd-pleaser (món ăn được nhiều người yêu thích).\n• time-consuming (tốn thời gian).\n• a hearty meal (bữa ăn no bụng, thịnh soạn).\n• suit different tastes (phù hợp với nhiều khẩu vị).\nTừ nối khi nói (Linking Words):\n• On the other hand, – nêu quan điểm đối lập (mặt khác).\n• Compared to..., – so sánh giữa các lựa chọn.\n• Taking everything into account, – tổng kết trước khi kết luận (xét tổng thể).\n• Nevertheless, – nhấn mạnh điểm trái ngược (tuy nhiên).\n• As a result, – nêu hệ quả (kết quả là).\nCách thể hiện quan điểm tự nhiên:\n• \"If it were up to me, I would choose fried spring rolls because they are convenient and loved by most people.\" (Nếu\nlà tôi...)\n• \"I would strongly recommend fried rice for its simplicity and low cost.\" (Tôi sẽ khuyên...)\n• \"In my opinion, beef noodles would make the party feel more special despite the extra effort.\" (Theo ý kiến của tôi...)\n4. Các lỗi thường gặp:\n• Chỉ khen món ăn mình chọn mà không chỉ ra nhược điểm của các lựa chọn còn lại.\n• Lặp đi lặp lại từ \"delicious\"/\"good\" thay vì dùng tính từ đa dạng hơn như \"flavorful\", \"convenient\".\n• Không đưa ra kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên ngành ẩm thực, chuyển hướng sang yếu tố chi phí hoặc thời gian chuẩn bị để tiếp tục lập\nluận.\n• Dùng câu chêm: \"Let's evaluate this option from a different perspective\" để có thêm thời gian suy nghĩ.\n• Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một thành viên thực sự đang góp ý cho lớp — điều gì thực sự phù hợp với số đông.\n• Đưa ra một vài gợi ý cải thiện ngay cả cho lựa chọn được chọn để thể hiện tư duy phản biện.\n• Sự mạch lạc và logic trong lập luận quan trọng hơn việc dùng từ vựng phức tạp.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of traveling in a group\nSharing costs and reducing travel\nFeeling safer and more supported\nexpenses\nduring the trip\nBenefits of Group Traveling\nÝ tưởng của bạn\nCreating shared memories and\nstronger friendships\nFOLLOW-UP QUESTIONS\n1.\nWhat do you think are the main advantages of traveling with a group rather than alone?\n2.\nAre there any disadvantages to traveling in a group?\n3.\nWould you say group traveling is more suitable for young people or for families? Why?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề: Lợi ích của việc đi du lịch theo nhóm, với 3 nhánh ý chính và 1 nhánh ý cá nhân (gợi ý nhánh thứ 4: học hỏi\nkỹ năng làm việc nhóm khi đi du lịch cùng nhau).\n• Tiêu chí chấm điểm: khả năng phát triển ý mạch lạc theo sơ đồ tư duy, cùng Fluency, Vocabulary, Grammar và\nPronunciation.\n• Thời gian: 5 phút; khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction – Detail – Example – Add/wrap up) vì chủ đề mang tính trải nghiệm xã hội, cần\ncả lý lẽ lẫn ví dụ thực tế.\n• Ví dụ 1 (mở bài): \"Traveling in a group brings a variety of benefits, from saving money to creating unforgettable\nmemories with others.\"\n• Ví dụ 2 (nhánh cá nhân): \"Personally, I find that group trips also help me improve my teamwork and communication\nskills, since everyone has to plan and compromise together.\"\n• Mẹo: khi nói về từng nhánh ý, hãy đưa ra một ví dụ chuyến đi nhóm cụ thể để minh họa thay vì chỉ nói lý thuyết.\n• Mẹo: bám sát sơ đồ tư duy để tránh lan man, không lặp lại ý đã nói (bắt buộc).\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh ý, ví dụ \"Another advantage worth mentioning is...\".\n• Về thì: dùng hiện tại đơn để nêu sự thật/quan điểm chung (\"Group trips usually cost less per person\") và hiện tại hoàn\nthành để nói về trải nghiệm tích lũy (\"I have been on several trips with my classmates\").\n• Paraphrase \"traveling in a group\" bằng \"group trips\" hoặc \"traveling with others\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• split the cost (chia sẻ chi phí).\n• a sense of security (cảm giác an toàn).\n• build lasting friendships (xây dựng tình bạn lâu dài).\n• share responsibilities (chia sẻ trách nhiệm).\n• create shared memories (tạo ra những kỷ niệm chung).\n• work as a team (làm việc theo nhóm).\nTừ nối khi nói (Linking Words):\n• To begin with, – mở đầu nhánh ý đầu tiên (trước hết).\n• Moreover, – bổ sung ý (hơn nữa).\n• Another point worth noting is... – chuyển sang nhánh ý mới.\n• In addition to that, – mở rộng ý (thêm vào đó).\n• To sum up, – kết luận (tóm lại).\nCách thể hiện quan điểm tự nhiên:\n• \"I would say that traveling in a group is one of the most cost-effective ways to explore new places.\" (Tôi cho rằng...)\n• \"From what I've experienced, group trips always leave me with stories I still talk about years later.\" (Theo những gì tôi\ntrải nghiệm được...)\n• \"It seems to me that having companions makes unfamiliar destinations feel much less intimidating.\" (Đối với tôi thì\ncó vẻ như...)\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"What do you think are the main advantages of traveling with a group rather than alone?\" – Lower costs, more safety,\nand the joy of sharing experiences with others.\n• \"Are there any disadvantages to traveling in a group?\" – Conflicts over schedules or preferences, and less flexibility\nin decision-making.\n• \"Would you say group traveling is more suitable for young people or for families? Why?\" – It suits both, but young\npeople may enjoy the adventure and bonding aspect more, while families value the safety and shared responsibilities.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê ý mà không giải thích hoặc cho ví dụ cụ thể.\n• Quên nhánh ý cá nhân — nên chuẩn bị trước một trải nghiệm đi du lịch nhóm thực tế của bản thân.\n• Dành quá nhiều thời gian cho bài nói chính, không còn thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Neo vào một chuyến đi nhóm thực tế của bản thân hoặc bạn bè khi bí ý.\n• Câu chêm học thuật: \"That is a complex issue. If we evaluate it from a societal viewpoint...\"\n• Nếu quên từ vựng chuyên ngành, dùng mô tả đơn giản, ví dụ thay vì \"itinerary\" có thể nói \"a plan of places to visit\nduring the trip\".\n7. Tư duy làm bài nói:\n• Suy nghĩ từ góc nhìn thực tế của một người trẻ thường xuyên đi du lịch cùng bạn bè hoặc gia đình.\n• Sự mạch lạc và logic trong luồng ý là yếu tố then chốt để đạt điểm cao.\n• Đừng cố nhồi nhét từ vựng khó, hãy ưu tiên truyền tải ý tưởng rõ ràng và tự nhiên."
+}

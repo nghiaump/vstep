@@ -1,0 +1,714 @@
+{
+ "id": "vlu-108",
+ "number": 108,
+ "title": "Đề thi VLU 108",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-108",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "How the Oscars Are Organized",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "The Academy Awards, better known as the Oscars, are among the most famous events in the entertainment world today. Each year, millions of viewers around the globe tune in to watch the ceremony and see which films, actors, and directors receive the film industry's top honor. The awards began in 1929, when a small private dinner was held to celebrate outstanding achievement in motion pictures. Since that first quiet gathering of only a few hundred guests, the event has grown into a massive televised **spectacle** — complete with famous hosts, elaborate stage design, and nearly a century of history behind every golden statue handed out on stage.",
+     "Before any winner can ever be announced, films and performances must go through a long nomination process that takes several months to complete. The Academy of Motion Picture Arts and Sciences, the organization responsible for the awards, invites qualified film professionals — including directors, actors, writers, and editors — to become voting members of the group. Each branch of the Academy nominates films and individuals working within its own specific area of the industry; for instance, only professional editors are permitted to nominate candidates for the Best Film Editing category. **This** branch-based system means that experienced experts, rather than casual moviegoers, ultimately decide who deserves a nomination in each individual craft.",
+     "Once the full list of nominees has been publicly announced, a second and truly final round of voting begins among all members. Unlike the earlier branch-specific nomination stage, every member of the Academy, regardless of which profession they work in, may vote in the final round for almost every category, including Best Picture itself. Voters are expected to watch or review as many of the nominated films as they reasonably can before submitting a ranked ballot online through a secure system. An independent accounting firm then collects and counts these ballots in complete secrecy, and not even the Academy's own leadership learns the final results until the night of the live ceremony.",
+     "On the night of the ceremony, the event itself becomes an enormous television production that often lasts more than three hours from start to finish. A host usually opens the show with a series of jokes about the past year in film, and presenters — frequently past winners themselves — read the nominees aloud before opening a sealed envelope to reveal the winner. Millions of people around the world watch the broadcast live, and the show is translated into dozens of languages for international audiences. A few of the more technical categories are sometimes presented earlier in the evening and later edited into the main broadcast simply to save time.",
+     "Winning an Oscar can change a career almost overnight, bringing new job offers, larger paychecks, and lasting public recognition to actors and filmmakers alike. For a film itself, an Oscar win — especially in the Best Picture category — can often lead to a noticeable rise in ticket sales and renewed public interest long after its original theatrical release has ended. Because of this powerful **influence**, film studios spend enormous sums of money every single year promoting their movies directly to Academy voters, hoping to improve their chances of earning both a nomination and, eventually, a win."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, what determines whether a film gets nominated for the Best Film Editing category?",
+      "options": {
+       "A": "Only professional actors decide.",
+       "B": "Directors and writers decide together.",
+       "C": "All voting members of the Academy decide.",
+       "D": "Only professional editors decide."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Best Film Editing\" ở đoạn 2 để thấy người quyết định đề cử: chỉ có các biên tập viên chuyên nghiệp mới được đề cử hạng mục này (Only professional editors decide)."
+     },
+     {
+      "number": 2,
+      "stem": "The word \"spectacle\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "an official nomination",
+       "B": "a brief show",
+       "C": "a pair of glasses",
+       "D": "a grand show"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"spectacle\" ở đoạn 1 được dùng để chỉ sự kiện truyền hình hoành tráng, quy mô lớn. Từ này đồng nghĩa với một màn trình diễn/chương trình hoành tráng (a grand show)."
+     },
+     {
+      "number": 3,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Winning an Oscar brings greater financial benefits than personal recognition.",
+       "B": "Only professional editors are permitted to nominate candidates for editing.",
+       "C": "The Oscars involve a complex voting process and global ceremony impact.",
+       "D": "Every major film award worldwide uses the same multi-stage voting process."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 4,
+      "stem": "The word \"this\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "the Academy's voting members",
+       "B": "the final round of voting",
+       "C": "the branch-specific nomination process",
+       "D": "the Best Film Editing category"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"this\" (hoặc cụm \"This branch-based system\") ở đoạn 2. Đọc ngược về các câu trước nói về quy trình đề cử theo từng chi nhánh/chuyên môn. Từ này quy chiếu thẳng đến quy trình đề cử theo ngành/chi nhánh cụ thể (the branch-specific nomination process)."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, what happens to the ballots after members vote in the final round?",
+      "options": {
+       "A": "Each branch counts the ballots related to its own category only.",
+       "B": "The Academy's own leadership reviews the ballots before the ceremony.",
+       "C": "The ballots are displayed publicly before winners are revealed.",
+       "D": "An independent accounting firm counts them in complete secrecy."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về quá trình đếm phiếu bầu ở đoạn 3 để thấy điều diễn ra sau khi bỏ phiếu: một công ty kiểm toán độc lập sẽ kiểm phiếu trong sự bảo mật tuyệt đối (An independent accounting firm counts them in complete secrecy)."
+     },
+     {
+      "number": 6,
+      "stem": "According to the passage, which of the following is NOT mentioned as part of the ceremony broadcast?",
+      "options": {
+       "A": "A host opening the show with jokes",
+       "B": "Presenters revealing winners from sealed envelopes",
+       "C": "Live audience voting for favorite films during the show",
+       "D": "Technical categories sometimes edited into the broadcast to save time"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét các nội dung diễn ra trong buổi phát sóng lễ trao giải ở đoạn 4: người dẫn chương trình (host), người trao giải mở phong bì niêm phong (presenters opening sealed envelopes) và các hạng mục kỹ thuật bị chỉnh sửa để tiết kiệm thời gian. Phương án \"khán giả bình chọn trực tiếp cho bộ phim yêu thích trong chương trình\" là chi tiết không hề được nhắc đến."
+     },
+     {
+      "number": 7,
+      "stem": "The word \"influence\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "wealth",
+       "B": "control",
+       "C": "nomination",
+       "D": "effect"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"influence\" ở đoạn 5 mô tả sức ảnh hưởng của giải thưởng đến nền công nghiệp điện ảnh và công chúng. Từ này đồng nghĩa với tác động, ảnh hưởng (effect)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, how does winning an Oscar typically affect a film itself?",
+      "options": {
+       "A": "It leads to higher ticket sales and renewed public interest.",
+       "B": "It increases box office numbers only in the year of release.",
+       "C": "It mainly increases interest among film critics rather than general audiences.",
+       "D": "It usually results in a new contract for the film's original director."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4-5 để thấy tác động của việc đoạt giải Oscar đối với bản thân bộ phim: dẫn đến doanh số bán vé cao hơn và thu hút lại sự chú ý của công chúng (leads to higher ticket sales and renewed public interest)."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about the secrecy of the voting results?",
+      "options": {
+       "A": "Keeping results secret preserves fairness and excitement for everyone.",
+       "B": "The accounting firm hides results because leaders cannot be trusted.",
+       "C": "Voters submit ranked ballots online through a secure, confidential system.",
+       "D": "The secret counting system was created because of the live broadcast."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đọc đoạn 3 và đoạn 4 về việc giữ bí mật kết quả đến phút chót. Việc này cho thấy mục đích giữ sự công bằng và tạo sự hồi hộp, kịch tính cho tất cả mọi người theo dõi (Keeping results secret preserves fairness and excitement for everyone)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall purpose in writing this passage?",
+      "options": {
+       "A": "To explain step by step how the Oscars are organized and why the outcome matters.",
+       "B": "To argue that the ceremony broadcast has become too long for modern audiences.",
+       "C": "To criticize how much money film studios spend campaigning for nominations each year.",
+       "D": "To entertain readers with dramatic behind-the-scenes stories from past ceremonies. Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 1 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R1Q1, R1Q5, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực tiếp có sẵn trong bài đọc:\n  - Với **R1Q1**, quét từ khóa \"Best Film Editing\" ở đoạn 2 để thấy người quyết định đề cử: chỉ có các biên tập viên chuyên nghiệp mới được đề cử hạng mục này (Only professional editors decide).\n  - Với **R1Q5**, quét thông tin về quá trình đếm phiếu bầu ở đoạn 3 để thấy điều diễn ra sau khi bỏ phiếu: một công ty kiểm toán độc lập sẽ kiểm phiếu trong sự bảo mật tuyệt đối (An independent accounting firm counts them in complete secrecy).\n  - Với **R1Q8**, quét đoạn 4-5 để thấy tác động của việc đoạt giải Oscar đối với bản thân bộ phim: dẫn đến doanh số bán vé cao hơn và thu hút lại sự chú ý của công chúng (leads to higher ticket sales and renewed public interest).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q2, R1Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q2**, từ **\"spectacle\"** ở đoạn 1 được dùng để chỉ sự kiện truyền hình hoành tráng, quy mô lớn. Từ này đồng nghĩa với một màn trình diễn/chương trình hoành tráng (a grand show).\n  - Với **R1Q7**, từ **\"influence\"** ở đoạn 5 mô tả sức ảnh hưởng của giải thưởng đến nền công nghiệp điện ảnh và công chúng. Từ này đồng nghĩa với tác động, ảnh hưởng (effect).\n- **Dạng câu hỏi Loại trừ NOT (R1Q6):** Đọc quét các nội dung diễn ra trong buổi phát sóng lễ trao giải ở đoạn 4: người dẫn chương trình (host), người trao giải mở phong bì niêm phong (presenters opening sealed envelopes) và các hạng mục kỹ thuật bị chỉnh sửa để tiết kiệm thời gian. Phương án \"khán giả bình chọn trực tiếp cho bộ phim yêu thích trong chương trình\" là chi tiết không hề được nhắc đến.\n- **Dạng câu hỏi Quy chiếu (R1Q4):** Tập trung vào đại từ **\"this\"** (hoặc cụm \"This branch-based system\") ở đoạn 2. Đọc ngược về các câu trước nói về quy trình đề cử theo từng chi nhánh/chuyên môn. Từ này quy chiếu thẳng đến quy trình đề cử theo ngành/chi nhánh cụ thể (the branch-specific nomination process).\n- **Dạng câu hỏi Ý chính (R1Q3) và Mục đích của tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và các đoạn chính để thấy chủ đề xuyên suốt: bài viết giải thích toàn bộ quy trình bầu chọn phức tạp của giải Oscar cùng tác động/sức ảnh hưởng toàn cầu của buổi lễ (The Oscars involve a complex voting process and global ceremony impact). Tác giả viết bài nhằm giải thích từng bước cách tổ chức giải Oscar và lý do kết quả lại quan trọng (To explain step by step how the Oscars are organized and why the outcome matters).\n- **Dạng câu hỏi Suy luận (R1Q9):** Đọc đoạn 3 và đoạn 4 về việc giữ bí mật kết quả đến phút chót. Việc này cho thấy mục đích giữ sự công bằng và tạo sự hồi hộp, kịch tính cho tất cả mọi người theo dõi (Keeping results secret preserves fairness and excitement for everyone).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi có vị trí định vị rõ ràng như Từ vựng (R1Q2, R1Q7) và Quy chiếu (R1Q4). Tiếp theo, dùng kỹ thuật đọc quét nhanh để hoàn thành các câu **Chi tiết** (R1Q1, R1Q5, R1Q8) và câu hỏi **Loại** trừ (R1Q6). Cuối cùng, tổng hợp tinh thần toàn bài để chọn đáp án chính xác cho các câu hỏi tư duy tổng hợp gồm Suy luận (R1Q9), Ý chính (R1Q3) và Mục đích của tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Listening as a Marketing Strategy",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Rather than relying on advertising budgets alone, many small restaurants have discovered that their most effective marketing tool is something far simpler: careful listening. Over the past several years, a growing number of local eateries have **overhauled** their entire approach to attracting customers, shifting away from traditional advertisements and toward strategies built directly around customer feedback and menu experimentation. This shift did not happen overnight, nor was it driven purely by trend-chasing; it emerged gradually as owners noticed that word-of-mouth recommendations tended to outperform paid promotions, sometimes by a significant margin.",
+     "One of the clearest examples of this shift involves menu redesign. Instead of keeping a fixed menu for years at a time, an increasing number of restaurants now treat their menu as a living document, subject to regular revision based on what customers actually order — and, just as importantly, what they leave uneaten. Dishes that consistently underperform are quietly removed, while popular items are sometimes expanded into full sections of their own. This process, while seemingly straightforward, requires restaurants to track ordering patterns closely over time, a task that many owners say is more demanding than it initially appears.",
+     "Collecting useful feedback, however, is not as simple as placing a comment card near the register. Many diners, research suggests, are reluctant to voice complaints directly to staff, preferring instead to share their opinions anonymously or not at all. To work around **this** tendency, some restaurants have begun using short digital surveys sent after a meal, while others train servers to ask specific, low-pressure questions rather than the generic \"How was everything?\" Timing matters too: feedback requested immediately after a difficult experience, some managers report, tends to be more emotionally charged and therefore less actionable than feedback gathered a day or two later.",
+     "Whether these feedback-driven changes actually increase profits remains a matter of some debate among industry analysts, though early evidence tends to suggest a modest positive effect, at least for smaller, independently owned establishments. Large chain restaurants, by contrast, may benefit less from this approach, since their menus are typically standardized across dozens or hundreds of locations, making item-by-item customization difficult to implement at scale. Some analysts argue that the reported gains are more closely tied to renewed customer attention than to the menu changes themselves — a distinction that is not always easy to isolate in the data.",
+     "Beyond the menu itself, several of the same restaurants that have embraced feedback-driven redesign have also invested in staff training focused on hospitality rather than pure efficiency. Servers are increasingly encouraged to remember returning customers' preferences, flag recurring complaints to management, and treat casual conversation as a legitimate source of market research rather than a distraction from their other duties. This does not mean efficiency is ignored entirely — busy restaurants still track wait times and turnover rates — but rather that these operational metrics are increasingly considered alongside, rather than instead of, customer sentiment.",
+     "Not every restaurant that adopts these methods sees dramatic results, and a few owners have reported that the added administrative work — tracking feedback, adjusting menus, retraining staff — outweighs any measurable benefit, particularly in the short term. Even so, **proponents** argue that the approach builds a kind of customer loyalty that traditional advertising rarely achieves, since diners who feel genuinely heard are, according to several restaurant owners interviewed, more likely to return and to recommend the restaurant to others than those who were simply targeted by an advertisement."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Asking for customer feedback guarantees a major profit surge.",
+       "B": "Post-meal digital surveys are the best feedback collection tool.",
+       "C": "Small restaurants pivot from traditional ads to feedback-driven strategies.",
+       "D": "Large chain restaurants benefit more from feedback than small ones."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu mở đầu đoạn 1 và tinh thần toàn bài để nắm được nội dung xuyên suốt: nhiều nhà hàng nhỏ đang chuyển hướng từ quảng cáo truyền thống sang việc lắng nghe phản hồi của khách hàng và điều chỉnh thực đơn linh hoạt."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what determines whether a menu item stays or is removed?",
+      "options": {
+       "A": "Whether rival chain restaurants offer a similar dish on their menu.",
+       "B": "Whether servers personally recommend the dish to management.",
+       "C": "Whether the dish requires ingredients that are hard to source.",
+       "D": "Whether it consistently underperforms based on ordering patterns."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 về việc chỉnh sửa thực đơn: quyết định giữ hay bỏ một món ăn dựa trên việc theo dõi dữ liệu gọi món và mức độ kém hiệu quả của món đó qua thời gian."
+     },
+     {
+      "number": 13,
+      "stem": "The phrase \"this tendency\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Diners' hesitation to voice complaints directly to restaurant staff.",
+       "B": "Short digital surveys sent to customers after completing a meal.",
+       "C": "The habit of sharing opinions anonymously on internet platforms.",
+       "D": "The comment cards placed near the register for voluntary feedback."
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc câu ngay phía trước trong đoạn 3. Cụm \"this tendency\" quy chiếu trực tiếp đến tâm lý ngần ngại, không muốn góp ý trực tiếp với nhân viên của khách hàng."
+     },
+     {
+      "number": 14,
+      "stem": "The word \"overhauled\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "completely redesigned",
+       "B": "overworked",
+       "C": "slightly adjusted",
+       "D": "advertised"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"overhauled\" ở đoạn 1 mô tả việc thay đổi toàn bộ chiến lược thu hút khách hàng. Từ này mang nghĩa cải tổ, thiết kế lại hoàn toàn."
+     },
+     {
+      "number": 15,
+      "stem": "According to the passage, which of the following is NOT mentioned as a method restaurants use to gather customer feedback?",
+      "options": {
+       "A": "Servers asking specific, low-pressure questions instead of generic ones.",
+       "B": "Offering discounts in exchange for positive online reviews.",
+       "C": "Tracking which dishes are left uneaten by customers.",
+       "D": "All restaurants send digital surveys after every meal."
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét các phương pháp thu thập phản hồi ở đoạn 2 và đoạn 3 (khảo sát điện tử, nhân viên hỏi câu hỏi cụ thể, theo dõi món ăn bỏ thừa). Phương án đề cập đến việc \"tặng mã giảm giá để đổi lấy đánh giá tích cực trên mạng\" là chi tiết không hề được nhắc đến."
+     },
+     {
+      "number": 16,
+      "stem": "Based on the passage, why might large chain restaurants benefit less from feedback-driven menu changes than small independent restaurants?",
+      "options": {
+       "A": "Their customers are less willing to complete digital survey forms.",
+       "B": "Standardized multi-location menus make item-by-item updates difficult.",
+       "C": "Their staff lack training to treat conversations as market research.",
+       "D": "They receive far less actionable feedback overall from diners."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"large chain restaurants\" ở đoạn 4 để thấy lý do các chuỗi lớn khó áp dụng: do thực đơn của họ được chuẩn hóa trên hàng loạt chi nhánh nên khó thay đổi linh hoạt từng món."
+     },
+     {
+      "number": 17,
+      "stem": "What is the author's overall attitude toward feedback-driven restaurant marketing strategies?",
+      "options": {
+       "A": "Cautiously supportive, acknowledging both real benefits and real limitations of the approach.",
+       "B": "Strongly critical, focused mainly on the added administrative burden mentioned near the end.",
+       "C": "Fully convinced that these methods guarantee greater restaurant profits.",
+       "D": "Purely neutral, simply listing feedback methods without evaluating their effectiveness."
+      },
+      "answer": "A",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "phân tích cách tác giả trình bày cả ưu điểm lẫn những thách thức/hạn chế ở đoạn 4 và đoạn 6 để thấy thái độ ủng hộ có sự cân nhắc, khách quan."
+     },
+     {
+      "number": 18,
+      "stem": "The word \"proponents\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "opponents",
+       "B": "restaurant owners",
+       "C": "supporters",
+       "D": "skeptics"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"proponents\" ở đoạn 6 chỉ những người lập luận ủng hộ phương pháp này (trái ngược với những ý kiến hoài nghi). Từ này mang nghĩa những người ủng hộ."
+     },
+     {
+      "number": 19,
+      "stem": "According to the passage, what do industry analysts say about whether feedback-driven menu changes increase profits?",
+      "options": {
+       "A": "Analysts prove feedback-driven changes always boost restaurant profits.",
+       "B": "Analysts agree the changes have no measurable effect on revenues.",
+       "C": "Analysts note the profit gains come primarily from lower ingredient costs.",
+       "D": "Early evidence suggests modest positive gains for small independent eateries."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"industry analysts\" ở đoạn 4 để thấy nhận định về lợi nhuận: bằng chứng ban đầu cho thấy hiệu quả tích cực ở mức khiêm tốn, chủ yếu đối với các nhà hàng nhỏ, độc lập."
+     },
+     {
+      "number": 20,
+      "stem": "What can be inferred from the passage about the relationship between customer feedback and staff training?",
+      "options": {
+       "A": "Staff are trained mainly to increase operational speed and efficiency.",
+       "B": "Training programs lead restaurants to redesign menus more frequently.",
+       "C": "Servers learn to ask generic questions to speed up service times.",
+       "D": "Feedback-focused eateries often train staff to notice customer concerns. Reading"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "kết hợp thông tin đoạn 3 và đoạn 5 để thấy mối liên hệ giữa phản hồi và đào tạo nhân viên: các nhà hàng chú trọng phản hồi thường kết hợp đào tạo nhân viên lắng nghe và phát hiện các vấn đề mà khách hàng thường xuyên phản ánh."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu đoạn 1 và tinh thần toàn bài để nắm được nội dung xuyên suốt: nhiều nhà hàng nhỏ đang chuyển hướng từ quảng cáo truyền thống sang việc lắng nghe phản hồi của khách hàng và điều chỉnh thực đơn linh hoạt.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q4, R2Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q4**, từ **\"overhauled\"** ở đoạn 1 mô tả việc thay đổi toàn bộ chiến lược thu hút khách hàng. Từ này mang nghĩa cải tổ, thiết kế lại hoàn toàn.\n  - Với **R2Q8**, từ **\"proponents\"** ở đoạn 6 chỉ những người lập luận ủng hộ phương pháp này (trái ngược với những ý kiến hoài nghi). Từ này mang nghĩa những người ủng hộ.\n- **Dạng câu hỏi Quy chiếu (R2Q3):** Đọc câu ngay phía trước trong đoạn 3. Cụm **\"this tendency\"** quy chiếu trực tiếp đến tâm lý ngần ngại, không muốn góp ý trực tiếp với nhân viên của khách hàng.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q6, R2Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực tiếp trong bài đọc:\n  - Với **R2Q2**, quét thông tin ở đoạn 2 về việc chỉnh sửa thực đơn: quyết định giữ hay bỏ một món ăn dựa trên việc theo dõi dữ liệu gọi món và mức độ kém hiệu quả của món đó qua thời gian.\n  - Với **R2Q6**, quét từ khóa \"large chain restaurants\" ở đoạn 4 để thấy lý do các chuỗi lớn khó áp dụng: do thực đơn của họ được chuẩn hóa trên hàng loạt chi nhánh nên khó thay đổi linh hoạt từng món.\n  - Với **R2Q9**, quét từ khóa \"industry analysts\" ở đoạn 4 để thấy nhận định về lợi nhuận: bằng chứng ban đầu cho thấy hiệu quả tích cực ở mức khiêm tốn, chủ yếu đối với các nhà hàng nhỏ, độc lập.\n- **Dạng câu hỏi Loại trừ NOT (R2Q5):** Đọc quét các phương pháp thu thập phản hồi ở đoạn 2 và đoạn 3 (khảo sát điện tử, nhân viên hỏi câu hỏi cụ thể, theo dõi món ăn bỏ thừa). Phương án đề cập đến việc \"tặng mã giảm giá để đổi lấy đánh giá tích cực trên mạng\" là chi tiết không hề được nhắc đến.\n- **Dạng câu hỏi Suy luận (R2Q10) và Thái độ tác giả (R2Q7):** Dựa vào khả năng phân tích và tổng hợp thông tin:\n  - Với **R2Q10**, kết hợp thông tin đoạn 3 và đoạn 5 để thấy mối liên hệ giữa phản hồi và đào tạo nhân viên: các nhà hàng chú trọng phản hồi thường kết hợp đào tạo nhân viên lắng nghe và phát hiện các vấn đề mà khách hàng thường xuyên phản ánh.\n  - Với **R2Q7**, phân tích cách tác giả trình bày cả ưu điểm lẫn những thách thức/hạn chế ở đoạn 4 và đoạn 6 để thấy thái độ ủng hộ có sự cân nhắc, khách quan.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi có vị trí định vị rõ ràng như Từ vựng (R2Q4, R2Q8) và Quy chiếu (R2Q3). Tiếp theo, dùng kỹ thuật đọc quét nhanh để hoàn thành các câu **Chi tiết** (R2Q2, R2Q6, R2Q9) và câu **Loại trừ** (R2Q5). Cuối cùng, dựa trên bức tranh tổng thể của bài đọc để xử lý các câu **Ý chính** (R2Q1), **Suy luận** (R2Q10) và **Thái** độ tác giả (R2Q7)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Unresolved Engineering of Ancient Monumental Structures",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Archaeologists have long debated not whether ancient societies were capable of monumental construction, but how, given tools that modern engineers would consider primitive, they achieved precision that in some cases exceeds what casual observers assume was possible without powered machinery. Structures such as certain megalithic sites, whose foundation stones weigh many tons and were transported considerable distances over uneven terrain, continue to resist a single, universally accepted explanation — not because no plausible methods exist, but because the surviving evidence rarely specifies which of several plausible methods was actually used, and different sites appear to have combined techniques in ways that resist a single unifying model.",
+     "Sledges, log rollers, and ramps built from packed earth are the explanations most frequently proposed, and experimental archaeology — in which researchers physically attempt to replicate ancient construction using only period-appropriate tools — has demonstrated that each of these methods is mechanically sufficient on its own. What experimental replication has not settled, however, is which combination of techniques any specific ancient workforce actually relied upon, since a method being physically possible does not establish that it was the method historically employed; the labor, coordination, and organizational capacity required to move stones at the observed scale would still have demanded a workforce numbering, by some estimates, in the low thousands, sustained over years or even decades.",
+     "Where the puzzle deepens considerably is in the domain of precision rather than raw movement. At several ancient sites, stones weighing tens of tons were fitted together with joints so tight that even a thin blade cannot be inserted between them, a level of tolerance that some modern stonemasons — working with contemporary measuring instruments — have struggled to replicate using only historically documented techniques. **This** has led a minority of researchers to argue that some undocumented method of stone-softening or surface abrasion, distinct from anything directly attested in surviving textual records, may have supplemented purely mechanical shaping; the mainstream position, by contrast, holds that painstaking manual grinding, repeated over enormous stretches of time by large trained crews, sufficiently accounts for the observed precision without requiring any lost technique.",
+     "Complicating the picture further, isotopic and geological analysis of quarry sites — a comparatively recent addition to the archaeological toolkit — has in several instances revealed that stone sources lay far closer to construction sites than earlier surveys, conducted before such analysis was routinely available, had assumed. This **proximity** reduces, though it does not eliminate, the sheer scale of transportation the builders would have needed to manage, and it has quietly shifted scholarly emphasis away from long-distance haulage as the central engineering challenge and toward quarrying, shaping, and precise placement instead — a reordering of priorities that some popular accounts, still relying on older transportation-focused narratives, have yet to catch up with.",
+     "Environmental context matters as much as tool availability, since the same climate and terrain that shaped what materials were locally available also constrained which construction methods were even feasible in the first place. Arid regions with minimal vegetation, for instance, would have offered builders far fewer viable options for rollers or fibrous rope than forested regions, which suggests that the diversity of engineering solutions documented across different ancient cultures may reflect environmental necessity as much as, or more than, independent cultural innovation — two explanations that are not mutually exclusive and that most current scholarship treats as operating together rather than as competing alternatives.",
+     "None of this **ambiguity** should be mistaken for genuine mystery in the sense popularized by speculative media, which tend to favor explanations involving lost civilizations or external intervention. Nearly every serious researcher in the field agrees that human ingenuity, organized labor, and centuries of accumulated trial-and-error fully account for what remains standing today; what is still debated is not whether ordinary humans built these structures, but which specific sequence of ordinary techniques any given ancient workforce combined to do so, and reconstructing that sequence with confidence, absent direct textual documentation from the builders themselves, may in some cases never be fully achievable."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, what does experimental archaeology actually demonstrate about ancient construction methods?",
+      "options": {
+       "A": "That modern stonemasons have fully replicated ancient precision using only historically documented grinding techniques.",
+       "B": "That ancient workforces definitely relied on ramps rather than rollers or sledges for stone transport.",
+       "C": "That period-appropriate tools were incapable of moving stones at the scale observed at ancient sites.",
+       "D": "That sledges, rollers, and ramps were each mechanically sufficient, though not which combination was historically used."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"experimental archaeology\" ở đoạn 2 để thấy kết quả thử nghiệm: các công cụ như xe trượt, con lăn, đường dốc đều đủ khả năng về mặt cơ học, nhưng chưa thể khẳng định sự kết hợp cụ thể nào đã được dùng trong lịch sử."
+     },
+     {
+      "number": 22,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Modern stonemasons cannot replicate ancient precision using historical tools.",
+       "B": "Ancient builders relied on human techniques, but specific combinations remain uncertain.",
+       "C": "Speculative theories offer the best explanation for ancient monumental construction.",
+       "D": "Isotopic analysis has fully resolved how ancient stones were transported."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "tổng hợp ý chính toàn bài: con người thời cổ đại hoàn toàn dùng sức người và kỹ thuật thông thường để xây dựng, nhưng sự kết hợp chính xác giữa các phương pháp vẫn còn chưa chắc chắn."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"This\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "The mainstream position that manual grinding accounts for precision.",
+       "B": "The existence of surviving textual records documenting ancient methods.",
+       "C": "The low-thousands workforce estimate discussed in the previous section.",
+       "D": "The difficulty modern stonemasons face replicating precise joint construction."
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc câu ngay phía trước trong đoạn 3 nói về việc các thợ đá hiện đại khó lòng tái hiện độ khít hoàn hảo của các khớp nối đá bằng kỹ thuật cổ xưa. Đại từ \"This\" quy chiếu thẳng tới khó khăn trong việc tái hiện độ chính xác này."
+     },
+     {
+      "number": 24,
+      "stem": "The word \"proximity\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "scarcity",
+       "B": "nearness",
+       "C": "abundance",
+       "D": "composition"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"proximity\" ở đoạn 4 nói về việc nguồn đá nằm gần công trường hơn so với dự đoán trước đây. Từ này đồng nghĩa với sự gần kề, khoảng cách gần (nearness)."
+     },
+     {
+      "number": 25,
+      "stem": "Based on the passage, why has scholarly emphasis shifted away from long-distance haulage as the central engineering challenge?",
+      "options": {
+       "A": "Geological analysis showed quarries were closer than previously assumed.",
+       "B": "Experimental archaeology proved sledges moved stones over distances easily.",
+       "C": "Popular accounts persuaded researchers that transport was never challenging.",
+       "D": "Researchers determined ancient builders never needed to transport stones."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về việc chuyển dịch trọng tâm nghiên cứu ở đoạn 4: do phân tích địa chất cho thấy mỏ đá nằm gần công trường xây dựng hơn so với ước tính ban đầu."
+     },
+     {
+      "number": 26,
+      "stem": "According to the passage, which of the following is NOT presented as a factor shaping which construction techniques an ancient culture could use?",
+      "options": {
+       "A": "The local climate and terrain available to a given culture",
+       "B": "The specific religious beliefs a culture held about monument-building",
+       "C": "The organizational capacity required to sustain a large workforce over time",
+       "D": "Whether vegetation suitable for rollers or rope was locally available"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét các yếu tố ảnh hưởng đến kỹ thuật xây dựng ở đoạn 2 và đoạn 5 (khí hậu, địa hình, thực vật sẵn có, năng lực tổ chức lực lượng lao động). Phương án đề cập đến \"yếu tố niềm tin tôn giáo cụ thể\" là chi tiết không hề được nhắc đến trong bài."
+     },
+     {
+      "number": 27,
+      "stem": "What can be inferred from the passage about the relationship between environmental necessity and cultural innovation in ancient engineering?",
+      "options": {
+       "A": "Environmental necessity fully replaces cultural innovation as an explanation once climate data is available.",
+       "B": "Environmental necessity only mattered in forested regions, not in arid ones.",
+       "C": "The two factors likely worked together rather than as competing, mutually exclusive explanations.",
+       "D": "Cultural innovation is the only meaningful explanation, with environment playing a negligible role."
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "đọc đoạn 5 về mối quan hệ giữa môi trường và sáng tạo văn hóa: bài đọc chỉ ra hai yếu tố này hoạt động song hành cùng nhau chứ không loại trừ lẫn nhau."
+     },
+     {
+      "number": 28,
+      "stem": "According to the final paragraph, what specific point do serious researchers in the field agree on?",
+      "options": {
+       "A": "Lost civilizations or external intervention explain the most precise joints.",
+       "B": "Ordinary human labor and accumulated technique account for surviving structures.",
+       "C": "Popular media accounts are generally more accurate than scientific consensus.",
+       "D": "The exact sequence of techniques used has now been conclusively documented."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn cuối về điểm chung của các nhà nghiên cứu nghiêm túc: tất cả đều đồng ý rằng sức lao động con người và kỹ thuật tích lũy (ordinary human labor) giải thích cho các công trình tồn tại, chứ không phải các yếu tố bí ẩn."
+     },
+     {
+      "number": 29,
+      "stem": "The word \"ambiguity\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "certainty",
+       "B": "unresolved uncertainty",
+       "C": "physical evidence",
+       "D": "public interest"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's overall attitude toward speculative explanations involving lost civilizations?",
+      "options": {
+       "A": "Sympathetic, suggesting they may eventually be validated by isotopic analysis.",
+       "B": "Dismissive, treating them as distinct from genuine scholarly ambiguity.",
+       "C": "Neutral, presenting them as equally credible alongside mainstream theories.",
+       "D": "Uncertain, declining to take a clear position on their overall plausibility. Reading"
+      },
+      "answer": "B",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "đọc đoạn 6 về các giả thuyết về văn minh bị mất hay can thiệp bên ngoài: tác giả thể hiện thái độ bác bỏ, coi đó là sự suy đoán vô căn cứ khác hẳn với sự mơ hồ khoa học thực sự."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 3 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q4, R3Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q4**, từ **\"proximity\"** ở đoạn 4 nói về việc nguồn đá nằm gần công trường hơn so với dự đoán trước đây. Từ này đồng nghĩa với sự gần kề, khoảng cách gần (nearness).\n  - Với **R3Q5** (Từ vựng/Ngữ cảnh), từ **\"ambiguity\"** ở đoạn 6 chỉ sự mơ hồ, chưa rõ ràng giữa các phương pháp mà giới khoa học vẫn đang tranh luận. Từ này đồng nghĩa với sự chưa thể khẳng định/không chắc chắn (unresolved uncertainty).\n- **Dạng câu hỏi Quy chiếu (R3Q3):** Đọc câu ngay phía trước trong đoạn 3 nói về việc các thợ đá hiện đại khó lòng tái hiện độ khít hoàn hảo của các khớp nối đá bằng kỹ thuật cổ xưa. Đại từ **\"This\"** quy chiếu thẳng tới khó khăn trong việc tái hiện độ chính xác này.\n- **Dạng câu hỏi Chi tiết (R3Q1, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực tiếp trong bài đọc:\n  - Với **R3Q1**, quét từ khóa \"experimental archaeology\" ở đoạn 2 để thấy kết quả thử nghiệm: các công cụ như xe trượt, con lăn, đường dốc đều đủ khả năng về mặt cơ học, nhưng chưa thể khẳng định sự kết hợp cụ thể nào đã được dùng trong lịch sử.\n  - Với **R3Q5**, quét thông tin về việc chuyển dịch trọng tâm nghiên cứu ở đoạn 4: do phân tích địa chất cho thấy mỏ đá nằm gần công trường xây dựng hơn so với ước tính ban đầu.\n  - Với **R3Q8**, quét đoạn cuối về điểm chung của các nhà nghiên cứu nghiêm túc: tất cả đều đồng ý rằng sức lao động con người và kỹ thuật tích lũy (ordinary human labor) giải thích cho các công trình tồn tại, chứ không phải các yếu tố bí ẩn.\n- **Dạng câu hỏi Loại trừ NOT (R3Q6):** Đọc quét các yếu tố ảnh hưởng đến kỹ thuật xây dựng ở đoạn 2 và đoạn 5 (khí hậu, địa hình, thực vật sẵn có, năng lực tổ chức lực lượng lao động). Phương án đề cập đến \"yếu tố niềm tin tôn giáo cụ thể\" là chi tiết không hề được nhắc đến trong bài.\n- **Dạng câu hỏi Ý chính (R3Q2), Suy luận (R3Q7) và Thái độ tác giả (R3Q10):** Dựa vào kỹ năng đọc lướt tổng thể và phân tích lập luận:\n  - Với **R3Q2**, tổng hợp ý chính toàn bài: con người thời cổ đại hoàn toàn dùng sức người và kỹ thuật thông thường để xây dựng, nhưng sự kết hợp chính xác giữa các phương pháp vẫn còn chưa chắc chắn.\n  - Với **R3Q7**, đọc đoạn 5 về mối quan hệ giữa môi trường và sáng tạo văn hóa: bài đọc chỉ ra hai yếu tố này hoạt động song hành cùng nhau chứ không loại trừ lẫn nhau.\n  - Với **R3Q10**, đọc đoạn 6 về các giả thuyết về văn minh bị mất hay can thiệp bên ngoài: tác giả thể hiện thái độ bác bỏ, coi đó là sự suy đoán vô căn cứ khác hẳn với sự mơ hồ khoa học thực sự.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị nhanh như Từ vựng (R3Q4, R3Q9) và Quy chiếu (R3Q3). Dùng kỹ năng đọc quét để xử lý chính xác các câu hỏi **Chi tiết** (R3Q1, R3Q5, R3Q8) và câu **Loại trừ** (R3Q6). Cuối cùng, kết hợp thông tin toàn bài để hoàn thành các câu tổng hợp như **Ý chính** (R3Q2), **Suy luận** (R3Q7) và **Thái độ tác giả** (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Contested Authenticity of Reality Television",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Not only does reality television present itself as an unscripted window into ordinary or extraordinary lives, but it also, somewhat paradoxically, relies on production techniques — selective editing, engineered situations, and carefully cast participants — that arguably shape outcomes as deliberately as any scripted drama, even though the genre's commercial appeal rests almost entirely on audiences believing, or at least suspending disbelief about, its claim to spontaneity. Industry insiders have long acknowledged, in interviews that rarely make it into mainstream coverage, that the term \"unscripted\" is itself something of a misnomer, since producers routinely construct scenarios, sequence footage for dramatic effect, and in some documented cases feed participants suggested lines under the guise of prompting a natural reaction.",
+     "While early academic treatments of the genre tended to dismiss it as culturally negligible, more recent scholarship — drawing on production interviews unavailable to earlier researchers — suggests instead that reality television functions as a genuinely **hybrid** form, one that resists easy classification as either documentary or drama, and that **this** hybridity may itself explain much of its enduring commercial success, since audiences appear to derive pleasure less from resolving the question of what is real and what is constructed than from the sustained uncertainty of not quite knowing which parts of a given episode fall into which category.",
+     "Casting, perhaps more than any single editing technique, may in fact do the most work in shaping outcomes that later appear spontaneous on screen. Producers frequently select participants specifically for personality traits likely to generate conflict, deploying detailed psychological screening that goes well beyond what audiences typically assume happens before filming even begins — a process some former casting directors describe as effectively predetermining a season's dramatic arc before a single scene is shot, though the degree to which this predetermination fully accounts for what eventually airs, as opposed to merely narrowing the range of likely outcomes, remains a matter some industry insiders continue to dispute even among themselves.",
+     "The financial incentives underlying these practices are not incidental but structural: because reality programming is markedly cheaper to produce than scripted drama, requiring no writers' room and comparatively modest performer fees, networks have strong economic reasons to sustain the genre's claim to authenticity even as internal production practices, according to several insider accounts, increasingly resemble those of scripted television in most respects that matter to the finished broadcast. Whether this **convergence** will eventually collapse the distinction between the two categories entirely, or whether audiences will continue to accept — and perhaps even prefer — the fiction of unscriptedness regardless of how thoroughly it is undermined by known production practices, remains genuinely unresolved, and reasonable industry analysts appear to disagree.",
+     "Audience research complicates the picture still further, since it suggests that most viewers are not simply unaware of these constructed elements but are instead engaged in what some scholars term \"informed suspension of disbelief\" — a state in which viewers know, at least in general terms, that situations are engineered and editing is selective, yet still choose to experience the genre as though it were substantially spontaneous, a stance that some researchers argue may not necessarily indicate audience gullibility so much as a deliberate, consciously chosen mode of engagement with the format. Whether this knowing complicity ultimately strengthens or subtly erodes the genre's cultural legitimacy is itself contested, with some scholars arguing the former and others the latter, and no clear consensus has yet emerged from the available research.",
+     "Regulatory bodies in several countries have, in recent years, begun to grapple with where reality programming should sit within existing broadcast classification systems, since the genre does not map cleanly onto categories developed for either documentary or scripted fiction, and disclosure requirements — where they exist at all — vary considerably by jurisdiction and are enforced with inconsistent rigor. This regulatory uncertainty is not merely a bureaucratic footnote, since how a program is classified can determine which advertising standards, labor protections, and truth-in-broadcasting rules apply to it, meaning the unresolved question of what reality television actually is carries consequences well beyond the academic debate over authenticity."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, what do industry insiders acknowledge about the term \"unscripted\"?",
+      "options": {
+       "A": "It is misleading because producers deliberately construct scenarios and edit footage.",
+       "B": "It accurately described early reality television but has since become outdated.",
+       "C": "Only a tiny minority of reality shows still depend on scripted production elements.",
+       "D": "It correctly reflects how the majority of modern reality television is produced."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 1 về thuật ngữ \"unscripted\": những người trong ngành thừa nhận từ này dễ gây hiểu nhầm (misnomer) do nhà sản xuất cố tình dàn dựng kịch bản và sắp xếp lại cảnh quay."
+     },
+     {
+      "number": 32,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Reality TV's authenticity claims are contested by production practices and audience habits.",
+       "B": "Audiences remain largely ignorant of how production techniques shape reality broadcasts.",
+       "C": "Scripted drama is regarded as fundamentally more authentic by contemporary scholars.",
+       "D": "Regulatory agencies have successfully integrated reality shows into standard TV categories."
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "tổng hợp nội dung toàn bài: sự tranh cãi về tính chân thực của truyền hình thực tế dưới tác động của kỹ thuật sản xuất, động cơ tài chính và sự chấp nhận của khán giả."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"this\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "early academic scholarship dismissing the genre as culturally negligible",
+       "B": "audiences resolving the question of what is real and what is constructed",
+       "C": "the genre's resistance to easy classification as either documentary or drama",
+       "D": "the availability of production interviews to more recent researchers"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc câu ngay phía trước trong đoạn 2. Từ \"this\" (hoặc \"this hybridity\") quy chiếu trực tiếp đến việc thể loại này khó xếp loại rạch ròi thành tài liệu hay kịch bản thuần túy (the genre's resistance to easy classification)."
+     },
+     {
+      "number": 34,
+      "stem": "The word \"hybrid\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "combining two forms",
+       "B": "purely fictional",
+       "C": "commercially negligible",
+       "D": "entirely documentary"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"hybrid\" ở đoạn 2 mô tả hình thức kết hợp giữa tài liệu và kịch bản. Từ này đồng nghĩa với việc kết hợp hai hình thức (combining two forms)."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what remains genuinely disputed about the role of casting?",
+      "options": {
+       "A": "Whether casting predetermines a season's arc or simply narrows potential outcomes.",
+       "B": "Whether modern reality television productions rely on casting practices at all.",
+       "C": "Whether former casting directors are willing to share their techniques publicly.",
+       "D": "Whether psychological evaluation costs more than hiring a traditional writers' room."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"casting\" ở đoạn 3 để thấy vấn đề còn tranh cãi: liệu việc tuyển chọn diễn viên quyết định hoàn toàn diễn biến mùa giải hay chỉ thu hẹp các khả năng có thể xảy ra."
+     },
+     {
+      "number": 36,
+      "stem": "According to the passage, which of the following is NOT presented as a reason networks have incentive to sustain reality television's claim to authenticity?",
+      "options": {
+       "A": "Reality programming is markedly cheaper to produce than scripted drama.",
+       "B": "The genre requires no writers' room and comparatively modest performer fees.",
+       "C": "Regulatory bodies currently require networks to label all content as authentic.",
+       "D": "Internal production practices increasingly resemble scripted television in ways that matter to the broadcast."
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét các lý do nhà mạng duy trì tính \"chân thực\" ở đoạn 4 (chi phí rẻ, không cần đội ngũ biên kịch, thù lao diễn viên thấp). Phương án đề cập đến \"cơ quan quản lý yêu cầu dán nhãn chân thực\" là chi tiết không hề được nhắc đến."
+     },
+     {
+      "number": 37,
+      "stem": "What can be inferred from the passage about why the distinction between reality and scripted television might eventually collapse?",
+      "options": {
+       "A": "Production techniques are converging while financial motives push conflicting authenticity claims.",
+       "B": "Regulatory institutions have formally combined both genres under a single framework.",
+       "C": "Traditional writers' rooms have become standard operational procedure for reality TV.",
+       "D": "Global audiences have largely abandoned watching reality TV programs altogether."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "đọc đoạn 4 để thấy lý do ranh giới có thể bị xóa bỏ: do kỹ thuật sản xuất thực tế ngày càng giống truyền hình kịch bản trong khi động cơ tài chính vẫn thúc đẩy duy trì vỏ bọc chân thực."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, what does \"informed suspension of disbelief\" describe?",
+      "options": {
+       "A": "Viewers who know content is constructed yet deliberately choose to treat it as real.",
+       "B": "Viewers who are genuinely unaware that situations in reality TV are engineered.",
+       "C": "Regulators who intentionally permit reality shows to bypass transparency requirements.",
+       "D": "Viewers who decline to watch reality programs because they recognize their artificial nature."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thuật ngữ \"informed suspension of disbelief\" ở đoạn 5: dùng để chỉ những người xem dù biết chương trình được dàn dựng nhưng vẫn tự nguyện đón nhận như thể nó diễn ra tự nhiên."
+     },
+     {
+      "number": 39,
+      "stem": "The word \"convergence\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "financial loss",
+       "B": "growing similarity",
+       "C": "regulatory oversight",
+       "D": "complete separation"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"convergence\" ở đoạn 4 nói về sự xích lại gần nhau giữa thực tế và kịch bản dàn dựng. Từ này đồng nghĩa với sự tương đồng/xích lại gần nhau (growing similarity)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's overall stance toward the debate on reality television's authenticity?",
+      "options": {
+       "A": "Dismissive, regarding audience research as irrelevant to the core ongoing debate.",
+       "B": "Convinced, asserting that reality TV must be categorized identically to scripted drama.",
+       "C": "Critical, condemning TV networks for deceiving viewers regarding production realities.",
+       "D": "Analytical, presenting multiple scholarly viewpoints without stating a final conclusion."
+      },
+      "answer": "D",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "nhận diện thái độ của tác giả qua toàn bài: mang tính phân tích, khách quan, đưa ra nhiều góc nhìn của các nhà nghiên cứu mà không đưa ra kết luận phiến diện hay áp đặt."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi Part 4 này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q4, R4Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q4**, từ **\"hybrid\"** ở đoạn 2 mô tả hình thức kết hợp giữa tài liệu và kịch bản. Từ này đồng nghĩa với việc kết hợp hai hình thức (combining two forms).\n  - Với **R4Q9**, từ **\"convergence\"** ở đoạn 4 nói về sự xích lại gần nhau giữa thực tế và kịch bản dàn dựng. Từ này đồng nghĩa với sự tương đồng/xích lại gần nhau (growing similarity).\n- **Dạng câu hỏi Quy chiếu (R4Q3):** Đọc câu ngay phía trước trong đoạn 2. Từ **\"this\"** (hoặc \"this hybridity\") quy chiếu trực tiếp đến việc thể loại này khó xếp loại rạch ròi thành tài liệu hay kịch bản thuần túy (the genre's resistance to easy classification).\n- **Dạng câu hỏi Chi tiết (R4Q1, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực tiếp trong bài đọc:\n  - Với **R4Q1**, quét đoạn 1 về thuật ngữ \"unscripted\": những người trong ngành thừa nhận từ này dễ gây hiểu nhầm (misnomer) do nhà sản xuất cố tình dàn dựng kịch bản và sắp xếp lại cảnh quay.\n  - Với **R4Q5**, quét từ khóa \"casting\" ở đoạn 3 để thấy vấn đề còn tranh cãi: liệu việc tuyển chọn diễn viên quyết định hoàn toàn diễn biến mùa giải hay chỉ thu hẹp các khả năng có thể xảy ra.\n  - *Với **R4Q8**, quét thuật ngữ \"informed suspension of disbelief\" ở đoạn 5: dùng để chỉ những người xem dù biết chương trình được dàn dựng nhưng vẫn tự nguyện đón nhận như thể nó diễn ra tự nhiên.\n- **Dạng câu hỏi Loại trừ NOT (R4Q6):** Đọc quét các lý do nhà mạng duy trì tính \"chân thực\" ở đoạn 4 (chi phí rẻ, không cần đội ngũ biên kịch, thù lao diễn viên thấp). Phương án đề cập đến \"cơ quan quản lý yêu cầu dán nhãn chân thực\" là chi tiết không hề được nhắc đến.\n- **Dạng câu hỏi Ý chính (R4Q2), Suy luận (R4Q7) và Thái độ tác giả (R4Q10):** Dựa vào kỹ năng đọc lướt tổng thể và phân tích lập luận:\n  - Với **R4Q2**, tổng hợp nội dung toàn bài: sự tranh cãi về tính chân thực của truyền hình thực tế dưới tác động của kỹ thuật sản xuất, động cơ tài chính và sự chấp nhận của khán giả.\n  - Với **R4Q7**, đọc đoạn 4 để thấy lý do ranh giới có thể bị xóa bỏ: do kỹ thuật sản xuất thực tế ngày càng giống truyền hình kịch bản trong khi động cơ tài chính vẫn thúc đẩy duy trì vỏ bọc chân thực.\n  - Với **R4Q10**, nhận diện thái độ của tác giả qua toàn bài: mang tính phân tích, khách quan, đưa ra nhiều góc nhìn của các nhà nghiên cứu mà không đưa ra kết luận phiến diện hay áp đặt.\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị nhanh như Từ vựng (R4Q4, R4Q9) và Quy chiếu (R4Q3). Tiếp theo, dùng kỹ năng đọc quét để trả lời các câu **Chi tiết** (R4Q1, R4Q5, R4Q8) và câu **Loại trừ** (R4Q6). Cuối cùng, tổng hợp tinh thần toàn bài để chọn đáp án cho các câu hỏi tư duy gồm **Ý chính** (R4Q2), **Suy luận** (R4Q7) và **Thái độ tác giả** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You are planning to visit a pet store to buy a pet and would like to arrange your visit in advance.\nWrite a letter to the pet store manager.\nI am interested in visiting your pet store to purchase a pet and would like to arrange the details beforehand.\n- Let them know when you would like to visit the store\n- Mention what kind of animal you are interested in\n- Inform them of your budget for the pet\nWrite a formal letter to the pet store manager. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You are planning to visit a pet store to buy a pet and would like to arrange your visit in advance.",
+      "Write a letter to the pet store manager."
+     ],
+     "quote": [
+      "I am interested in visiting your pet store to purchase a pet and would like to arrange the details beforehand.",
+      "- Let them know when you would like to visit the store",
+      "- Mention what kind of animal you are interested in",
+      "- Inform them of your budget for the pet"
+     ],
+     "instruction": "Write a formal letter to the pet store manager. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\nĐây là dạng **Formal Letter** (Thư trang trọng) vì người viết gửi cho cửa hàng thú cưng với mục đích trao đổi thông tin trước khi đến mua, nên văn phong cần lịch sự, rõ ràng. Đề bài yêu cầu bạn cung cấp ba nội dung chính: thời gian bạn muốn đến cửa hàng, loại thú cưng bạn quan tâm, và ngân sách bạn dự định chi. Bài viết cần đạt tối thiểu **120 từ** và phải trả lời đầy đủ cả ba nội dung được gợi ý.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi trang trọng. Ví dụ: Dear Sir/Madam,\n- **Opening:** Nêu lý do viết thư. Ví dụ: I am writing to inquire about purchasing a pet from your store and to arrange a suitable time for my visit.\n- **Body 1:** Thời gian muốn đến. Ví dụ: I would like to visit your store this Saturday morning, if that is convenient for you.\n- **Body 2:** Loại thú cưng quan tâm. Ví dụ: I am particularly interested in adopting a small dog, as I believe it would be a great companion for my family.\n- **Body 3:** Ngân sách dự định. Ví dụ: In terms of budget, I am prepared to spend up to three million dong on the pet and any necessary accessories.\n- **Closing & Sign-off:** Cảm ơn và kết thư. Ví dụ: I look forward to your reply. Yours faithfully, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng cấu trúc câu lịch sự (I would like to..., I am writing to...) thay vì diễn đạt trực tiếp, thân mật. Mỗi đoạn nên tập trung vào một nội dung để bố cục rõ ràng, mạch lạc. Tránh dùng từ ngữ suồng sã trong thư trang trọng.\nTừ vựng quan trọng:\n- **Pet store:** Cửa hàng thú cưng\n- **Adopt a pet:** Nhận nuôi thú cưng\n- **Budget:** Ngân sách\n- **Accessories:** Phụ kiện\n- **Suitable time:** Thời gian phù hợp\n- **Companion animal:** Thú cưng làm bạn đồng hành\n- **Vaccination record:** Hồ sơ tiêm phòng\nTừ nối (Linking words):\n- **Firstly:** Trước hết\n- **In addition / Furthermore:** Bên cạnh đó\n- **In terms of:** Về mặt\n- **Therefore:** Do đó\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I would greatly appreciate your assistance:** Tôi sẽ rất biết ơn nếu nhận được sự hỗ trợ từ bạn\n- **I look forward to hearing from you soon:** Tôi mong sớm nhận được phản hồi từ bạn\n- **I am very excited about the possibility of adopting a pet:** Tôi rất háo hức về khả năng nhận nuôi một thú cưng\n\n**4. Các lỗi thường gặp:**\n- Sử dụng ngôn ngữ quá thân mật, không phù hợp với thư trang trọng.\n- Không đề cập đầy đủ cả ba nội dung được gợi ý trong đề bài.\n- Quên phần chào hỏi trang trọng hoặc phần kết thư đúng chuẩn.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã đề cập đủ thời gian đến, loại thú cưng và ngân sách chưa.\n- Đếm số từ để đảm bảo đạt tối thiểu 120 từ.\n- Xem lại văn phong đã đủ trang trọng, lịch sự hay chưa.\n\n**6. Tư duy làm bài:**\nHãy đặt mình vào vai một khách hàng nghiêm túc muốn mua thú cưng và cần trao đổi thông tin rõ ràng với cửa hàng. Sự lịch sự và cụ thể trong nội dung sẽ giúp bức thư trở nên chuyên nghiệp và thuyết phục hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn many households, it is still common for mothers to take on the majority of domestic responsibilities, from cooking and cleaning to taking care of children.\nHowever, an increasing number of families are now choosing to share household chores among all family members instead of leaving the burden to the mother alone.\nDiscuss the advantages of sharing household chores among family members.\nWrite an essay to an educated reader to discuss the advantages of sharing household chores among family members instead of leaving them to the mother alone. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In many households, it is still common for mothers to take on the majority of domestic responsibilities, from cooking and cleaning to taking care of children.",
+      "However, an increasing number of families are now choosing to share household chores among all family members instead of leaving the burden to the mother alone.",
+      "Discuss the advantages of sharing household chores among family members."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages of sharing household chores among family members instead of leaving them to the mother alone. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\nĐây là dạng bài **Advantages Essay** (Bài luận về lợi ích), yêu cầu bạn tập trung phân tích các lợi ích của việc chia sẻ việc nhà giữa các thành viên trong gia đình thay vì để một mình người mẹ đảm nhận. Vì đề chỉ yêu cầu \"advantages\", bạn nên tập trung khai thác sâu các lợi ích thay vì bàn về nhược điểm. Bài viết yêu cầu tối thiểu **250 từ** và cần có ví dụ cụ thể để minh hoạ cho từng luận điểm.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu chủ đề và nêu rằng bài viết sẽ phân tích các lợi ích. Ví dụ: Sharing household chores among all family members brings a range of benefits that go beyond simply lightening the mother's workload.\n- **Body 1:** Topic sentence nêu lợi ích thứ nhất, giải thích, cho ví dụ. Ví dụ: Firstly, distributing housework helps reduce the physical and mental burden placed on the mother, allowing her more time to rest and pursue her own interests.\n- **Body 2:** Topic sentence nêu lợi ích thứ hai, giải thích, cho ví dụ. Ví dụ: Secondly, when children participate in household chores from a young age, they develop a stronger sense of responsibility and important life skills.\n- **Conclusion:** Tóm tắt lại các lợi ích và đưa ra nhận định chung. Ví dụ: In conclusion, sharing household chores not only benefits the mother but also strengthens family bonds and helps children grow into responsible individuals.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng thì Hiện tại đơn để diễn đạt sự thật và xu hướng chung. Mỗi đoạn thân bài nên phát triển ý bằng cách giải thích và đưa ví dụ cụ thể để tăng tính thuyết phục. Câu chủ đề ở phần mở bài cần nêu rõ bài viết sẽ tập trung vào các lợi ích. Từ vựng quan trọng:\n- **Household chores:** Việc nhà\n- **Domestic responsibilities:** Trách nhiệm trong gia đình\n- **Sense of responsibility:** Tinh thần trách nhiệm\n- **Family bond:** Sự gắn kết gia đình\n- **Workload:** Khối lượng công việc\n- **Life skills:** Kỹ năng sống\n- **Gender equality:** Bình đẳng giới\nTừ nối (Linking words):\n- **Firstly / Secondly:** Thứ nhất / Thứ hai (Liệt kê ý)\n- **Moreover / Furthermore:** Hơn nữa (Thêm ý)\n- **In addition:** Bên cạnh đó\n- **As a result / Consequently:** Do đó (Nguyên nhân - kết quả)\n- **For example / For instance:** Ví dụ như (Đưa ví dụ)\n- **In conclusion / To sum up:** Tóm lại (Kết luận)\nDiễn đạt lại ý (Paraphrasing):\n- **Domestic tasks / housework:** Thay cho \"household chores\".\n- **Distributing responsibilities equally:** Thay cho \"sharing household chores\".\n- **Easing the mother's burden:** Thay cho \"not leaving it to the mother alone\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **One of the most notable benefits is that...:** Dùng để giới thiệu một lợi ích nổi bật.\n- **This not only helps... but also...:** Dùng để mở rộng thêm một lợi ích liên quan.\n- **Compared to a situation where only the mother does the housework, ... proves to be more beneficial:** Dùng để so sánh hai tình huống.\n\n**4. Các lỗi thường gặp:**\n- Lạc đề sang bàn về nhược điểm trong khi đề chỉ yêu cầu lợi ích.\n- Không có ví dụ cụ thể để minh hoạ cho các luận điểm, khiến bài viết chung chung.\n- Thiếu câu chủ đề rõ ràng ở đầu mỗi đoạn thân bài.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem bài viết có tập trung đúng vào các lợi ích như đề yêu cầu không.\n- Đếm số từ để đảm bảo đạt tối thiểu 250 từ.\n- Xem lại các từ nối đã được sử dụng hợp lý giữa các đoạn chưa.\n\n**6. Tư duy làm bài:**\nHãy tập trung khai thác sâu các lợi ích cụ thể thay vì liệt kê chung chung. Sự rõ ràng trong lập luận cùng với ví dụ thực tế sẽ giúp bài viết thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about online courses\n\n1\nHave you ever taken an online course before?\n2\nWhat do you like most about learning online?\n3\nWhat difficulties do you face when studying online?\n\nNow, let’s talk about public transportation\n\n4\nHow often do you use public transportation?\n5\nWhat are the advantages of using public transportation?\n6\nDo you think more people should use public transportation instead of private vehicles?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần 1 kéo dài 3 phút với 6 câu hỏi, kiểm tra khả năng giao tiếp xã hội tự nhiên của bạn.\n- **Topic A (Học trực tuyến - Online course):** Câu 1-3 hỏi về trải nghiệm học online, điều thích nhất và khó khăn gặp phải - kiểm tra khả năng kể lại trải nghiệm và phân tích.\n- **Topic B (Giao thông công cộng):** Câu 4-6 hỏi về tần suất sử dụng, lợi ích và quan điểm về việc khuyến khích sử dụng phương tiện công cộng - kiểm tra khả năng đưa ra ý kiến cá nhân.\n- Tiêu chí chấm điểm gồm: Fluency, Vocabulary, Grammar, Pronunciation.\n- Nên phân bổ khoảng 25-35 giây mỗi câu, cân bằng thời gian giữa Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **ARE** (Answer - Reason - Example) để câu trả lời có chiều sâu.\n- **Ví dụ Topic A:** \"Yes, I have taken several online courses, mainly about English speaking skills, because I wanted to improve my fluency at my own pace.\"\n- **Ví dụ Topic B:** \"I use public transportation quite often, especially the bus, because it's cheaper and more convenient than driving.\"\n- Luôn tự hỏi Why?/How? sau khi trả lời để mở rộng ý.\n- Dùng câu chuyển ý mượt mà khi chuyển từ Topic A sang Topic B, ví dụ: \"Besides studying online, getting around the city is also something I do regularly.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định, dùng từ đệm như \"well\", \"actually\" để tránh khoảng lặng dài.\n- Về thì: dùng Hiện tại hoàn thành khi nói về kinh nghiệm (I have taken...), Hiện tại đơn khi nói về thói quen (I usually take the bus...).\n- Nếu bí từ, hãy diễn giải, ví dụ thay \"self-paced learning\" bằng \"studying at your own speed\".\n- Từ vựng Topic A: \"flexible schedule\" (lịch học linh hoạt), \"to lose motivation\" (mất động lực), \"technical issues\" (trục trặc kỹ thuật).\n- Từ vựng Topic B: \"to reduce traffic congestion\" (giảm ùn tắc giao thông), \"eco-friendly\" (thân thiện với môi trường), \"affordable\" (giá cả phải chăng).\nCụm từ quan trọng nên dùng:\n- \"to study at my own pace\" - học theo tốc độ của riêng mình\n- \"a lack of face-to-face interaction\" - thiếu sự tương tác trực tiếp\n- \"to stay disciplined\" - giữ kỷ luật\n- \"to ease traffic jams\" - giảm bớt kẹt xe\n- \"a cost-effective option\" - lựa chọn tiết kiệm chi phí\n- \"to reduce carbon emissions\" - giảm khí thải carbon\nTừ nối khi nói (Linking Words):\n- \"Firstly / Secondly\" - Thứ nhất / Thứ hai, dùng để liệt kê ý\n- \"In addition\" - Thêm vào đó, dùng để bổ sung ý\n- \"However\" - Tuy nhiên, dùng khi đối lập ý\n- \"As a result\" - Kết quả là, dùng nêu hệ quả\n- \"For example\" - Ví dụ như, dùng khi đưa ra minh chứng\nCách thể hiện quan điểm tự nhiên:\n- \"Personally, I think...\" - ví dụ: \"Personally, I think online learning suits busy people best.\" (Cá nhân tôi nghĩ...)\n- \"In my opinion...\" - ví dụ: \"In my opinion, public transportation should be improved to attract more users.\" (Theo ý kiến của tôi...)\n- \"From my point of view...\" - ví dụ: \"From my point of view, using the bus helps reduce pollution.\" (Theo quan điểm của tôi...)\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes/No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n- Với Topic A: chỉ nói \"I like it\" mà không nêu lý do cụ thể.\n- Với Topic B: trả lời chung chung \"I sometimes use it\" mà không nêu tần suất hay lợi ích cụ thể.\n- Chia sai thì khi kể về kinh nghiệm học tập.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu giờ: \"That's an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy mô tả đặc điểm thay vì dừng lại giữa chừng.\n- Với Topic A, nếu quên từ, có thể mô tả: \"a way of learning through the internet\".\n- Với Topic B, nếu quên từ chuyên biệt, hãy mô tả đơn giản như \"a vehicle that many people can ride together\".\n\n**6. Tư duy làm bài nói:**\n- Hãy coi đây là một cuộc trò chuyện thân mật với giám khảo.\n- Chuyển đổi tâm thế linh hoạt khi chuyển từ Topic A sang Topic B để tránh nói lẫn lộn hai chủ đề.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng phức tạp gây vấp váp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou and a friend are planning a farewell gift for a colleague who is leaving the company.\n\nYou are considering the following options:\n\nOption 1: A framed photo of the two of you together\nOption 2: A handmade gift\nOption 3: A dinner party at a restaurant\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống xoay quanh việc chuẩn bị quà chia tay cho một đồng nghiệp sắp rời công ty, với 3 lựa chọn: ảnh kỷ niệm đóng khung, quà tự làm, hoặc tổ chức tiệc tại nhà hàng.\n- Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và khả năng lập luận logic.\n- Thời gian: 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E** (Introduction - Comparison/Body - End): giới thiệu tình huống, so sánh 3 lựa chọn, kết luận lựa chọn tốt nhất.\n- Option 1 (framed photo): \"A framed photo is a sentimental keepsake that captures shared memories, though it may feel a bit ordinary for a farewell gift.\"\n- Option 2 (handmade gift): \"A handmade gift shows genuine effort and personal thought, making it more meaningful, but it requires time and creative skill to prepare.\"\n- Option 3 (dinner party): \"A dinner party allows everyone to celebrate together and say a proper goodbye, though it can be costly and harder to organize on short notice.\"\n- Neo lập luận vào bối cảnh tình bạn đồng nghiệp thực tế, ví dụ nhắc đến mối quan hệ lâu năm hoặc ngân sách nhóm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách biệt, ví dụ: \"Unlike a framed photo, which is a static memento, a dinner party creates new memories before the farewell.\"\n- Về thì: dùng modal verbs (would/could) để đưa ra dự đoán, ví dụ \"This gift would show how much we appreciate our colleague's contribution.\"\n- Paraphrase từ \"meaningful\" bằng \"heartfelt\" hoặc \"touching\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- \"a sentimental value\" - giá trị tình cảm\n- \"to show appreciation\" - thể hiện sự trân trọng\n- \"a personal touch\" - sự chăm chút cá nhân\n- \"a heartfelt gesture\" - cử chỉ chân thành\n- \"to bid farewell\" - nói lời tạm biệt\n- \"a memorable send-off\" - buổi tiễn đưa đáng nhớ\nTừ nối khi nói (Linking Words):\n- \"On the other hand\" - Mặt khác, dùng để đối lập ý\n- \"Compared to\" - So với, dùng để so sánh\n- \"Nevertheless\" - Tuy nhiên, dùng khi nêu điểm bất lợi\n- \"Taking everything into account\" - Xét tổng thể, dùng khi kết luận\n- \"Similarly\" - Tương tự, dùng khi hai lựa chọn có điểm chung\nCách thể hiện quan điểm tự nhiên:\n- \"I would go for...\" - ví dụ: \"I would go for the handmade gift because it feels more personal.\" (Tôi sẽ chọn...)\n- \"If I had to choose, I'd say...\" - ví dụ: \"If I had to choose, I'd say the dinner party is the most memorable option.\" (Nếu phải chọn, tôi sẽ nói...)\n- \"What appeals to me most is...\" - ví dụ: \"What appeals to me most is the effort put into a handmade gift.\" (Điều hấp dẫn tôi nhất là...)\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ \"good\"/\"nice\" liên tục thay vì dùng tính từ học thuật hơn như \"sentimental\", \"practical\", \"costly\".\n- Không đưa ra kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên biệt, hãy chuyển hướng sang bàn về yếu tố chi phí hoặc thời gian chuẩn bị.\n- Dùng câu giờ: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí ý ở một lựa chọn, hãy chuyển sang phân tích lựa chọn tiếp theo rồi quay lại sau.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người bạn thân thiết đang lên kế hoạch - lựa chọn nào thể hiện tình cảm chân thành nhất.\n- Dù chọn phương án nào, vẫn nên đưa ra một gợi ý cải thiện nhỏ để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nEffective solutions to reduce obesity in modern society\n\nSolutions to Reduce Obesity\nEating less fast food\nExercising regularly\nCooking meals at home\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat types of fast food are popular in your country?\n2\nWhy do many people choose to eat fast food?\n3\nApart from obesity, what other health problems can fast food cause?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển ý về các giải pháp giảm tình trạng béo phì, dựa trên 3 nhánh mindmap và 1 ý tưởng cá nhân (nhánh thứ 4 có thể là \"raising public awareness through education and media campaigns\").\n- Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar, khả năng phát triển ý mạch lạc.\n- Thời gian 5 phút: khoảng 3-3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL** (Point - Explanation - Example - Link) để phát triển từng nhánh mindmap mạch lạc.\n- **Ví dụ 1 (mở bài):** \"Today, I would like to talk about some effective solutions to reduce obesity, which has become a serious health issue in modern society.\"\n- **Ví dụ 2 (nhánh cá nhân):** \"In addition, raising public awareness through school education and media campaigns can help people understand the long-term risks of poor eating habits.\"\n- Khi nói về \"Eating less fast food\", nên nêu ví dụ cụ thể như hạn chế đồ ăn nhanh chứa nhiều dầu mỡ và đường.\n- Bám sát mindmap để tránh lặp ý hoặc lạc đề giữa các nhánh.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh mindmap, ví dụ \"Moving on to my next point...\"\n- Về thì: dùng Hiện tại đơn cho sự thật hiển nhiên (Regular exercise helps...) kết hợp Hiện tại hoàn thành cho xu hướng gần đây (Obesity rates have increased significantly...).\n- Paraphrase từ \"obesity\" bằng \"excessive weight gain\" hoặc \"being overweight\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- \"a balanced diet\" - chế độ ăn cân bằng\n- \"to burn calories\" - đốt cháy calo\n- \"processed food\" - thực phẩm chế biến sẵn\n- \"a sedentary lifestyle\" - lối sống ít vận động\n- \"to maintain a healthy weight\" - duy trì cân nặng khỏe mạnh\n- \"high in fat and sugar\" - chứa nhiều chất béo và đường\nTừ nối khi nói (Linking Words):\n- \"To begin with\" - Trước hết, dùng khi mở đầu nhánh ý đầu tiên\n- \"Furthermore\" - Hơn nữa, dùng để bổ sung ý\n- \"Not only... but also...\" - Không chỉ... mà còn..., dùng để nhấn mạnh hai giải pháp\n- \"On top of that\" - Bên cạnh đó, dùng khi thêm ý mới\n- \"In conclusion\" - Tóm lại, dùng khi kết luận bài nói\nCách thể hiện quan điểm tự nhiên:\n- \"I firmly believe that...\" - ví dụ: \"I firmly believe that cooking at home is one of the healthiest choices people can make.\" (Tôi tin chắc rằng...)\n- \"It seems to me that...\" - ví dụ: \"It seems to me that fast food consumption is closely linked to busy lifestyles.\" (Đối với tôi có vẻ như...)\n- \"There is no doubt that...\" - ví dụ: \"There is no doubt that regular exercise plays a key role in weight management.\" (Không nghi ngờ gì rằng...)\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- \"What types of fast food are popular in your country?\" - Trả lời: các loại phổ biến như gà rán, khoai tây chiên, bánh mì kẹp thịt, và trà sữa cũng thường được xem là một dạng đồ ăn nhanh.\n- \"Why do many people choose to eat fast food?\" - Trả lời: vì sự tiện lợi, giá cả phải chăng và tiết kiệm thời gian, đặc biệt với người có lịch trình bận rộn.\n- \"Apart from obesity, what other health problems can fast food cause?\" - Trả lời: có thể gây ra các bệnh như tiểu đường, tim mạch, huyết áp cao do hàm lượng đường và chất béo bão hòa cao.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê ý mà không giải thích hay đưa ví dụ cụ thể, khiến bài nói thiếu chiều sâu.\n- Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước một ý tưởng riêng.\n- Nói quá lâu ở phần mở đầu khiến không còn thời gian trả lời follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Khi bí ý, hãy liên hệ đến thói quen ăn uống hằng ngày của bản thân hoặc gia đình để có thêm ví dụ.\n- Dùng câu giờ học thuật: \"That is a complex issue. If we evaluate it from a health perspective...\"\n- Nếu quên từ chuyên môn, hãy dùng từ đồng nghĩa đơn giản hoặc mô tả ngắn gọn thay vì dừng lại.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ thực tế từ góc độ sức khỏe cộng đồng - vì sao cần kết hợp nhiều giải pháp thay vì chỉ dựa vào một biện pháp duy nhất.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao, quan trọng hơn số lượng từ vựng khó.\n- Luôn giữ giọng nói tự tin và có trách nhiệm, vì đây là chủ đề liên quan đến sức khỏe cộng đồng."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about online courses.\n1.\nHave you ever taken an online course before?\n2.\nWhat do you like most about learning online?\n3.\nWhat difficulties do you face when studying online?\nNow, let’s talk about public transportation.\n4.\nHow often do you use public transportation?\n5.\nWhat are the advantages of using public transportation?\n6.\nDo you think more people should use public transportation instead of private vehicles?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần 1 kéo dài 3 phút với 6 câu hỏi, kiểm tra khả năng giao tiếp xã hội tự nhiên của bạn.\n• Topic A (Học trực tuyến - Online course): Câu 1-3 hỏi về trải nghiệm học online, điều thích nhất và khó khăn gặp phải\n- kiểm tra khả năng kể lại trải nghiệm và phân tích.\n• Topic B (Giao thông công cộng): Câu 4-6 hỏi về tần suất sử dụng, lợi ích và quan điểm về việc khuyến khích sử dụng\nphương tiện công cộng - kiểm tra khả năng đưa ra ý kiến cá nhân.\n• Tiêu chí chấm điểm gồm: Fluency, Vocabulary, Grammar, Pronunciation.\n• Nên phân bổ khoảng 25-35 giây mỗi câu, cân bằng thời gian giữa Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE (Answer - Reason - Example) để câu trả lời có chiều sâu.\n• Ví dụ Topic A: \"Yes, I have taken several online courses, mainly about English speaking skills, because I wanted to\nimprove my fluency at my own pace.\"\n• Ví dụ Topic B: \"I use public transportation quite often, especially the bus, because it's cheaper and more convenient\nthan driving.\"\n• Luôn tự hỏi Why?/How? sau khi trả lời để mở rộng ý.\n• Dùng câu chuyển ý mượt mà khi chuyển từ Topic A sang Topic B, ví dụ: \"Besides studying online, getting around the\ncity is also something I do regularly.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định, dùng từ đệm như \"well\", \"actually\" để tránh khoảng lặng dài.\n• Về thì: dùng Hiện tại hoàn thành khi nói về kinh nghiệm (I have taken...), Hiện tại đơn khi nói về thói quen (I usually\ntake the bus...).\n• Nếu bí từ, hãy diễn giải, ví dụ thay \"self-paced learning\" bằng \"studying at your own speed\".\n• Từ vựng Topic A: \"flexible schedule\" (lịch học linh hoạt), \"to lose motivation\" (mất động lực), \"technical issues\" (trục\ntrặc kỹ thuật).\n• Từ vựng Topic B: \"to reduce traffic congestion\" (giảm ùn tắc giao thông), \"eco-friendly\" (thân thiện với môi trường),\n\"affordable\" (giá cả phải chăng).\nCụm từ quan trọng nên dùng:\n• \"to study at my own pace\" - học theo tốc độ của riêng mình\n• \"a lack of face-to-face interaction\" - thiếu sự tương tác trực tiếp\n• \"to stay disciplined\" - giữ kỷ luật\n• \"to ease traffic jams\" - giảm bớt kẹt xe\n• \"a cost-effective option\" - lựa chọn tiết kiệm chi phí\n• \"to reduce carbon emissions\" - giảm khí thải carbon\nTừ nối khi nói (Linking Words):\n• \"Firstly / Secondly\" - Thứ nhất / Thứ hai, dùng để liệt kê ý\n• \"In addition\" - Thêm vào đó, dùng để bổ sung ý\n• \"However\" - Tuy nhiên, dùng khi đối lập ý\n• \"As a result\" - Kết quả là, dùng nêu hệ quả\n• \"For example\" - Ví dụ như, dùng khi đưa ra minh chứng\nCách thể hiện quan điểm tự nhiên:\n• \"Personally, I think...\" - ví dụ: \"Personally, I think online learning suits busy people best.\" (Cá nhân tôi nghĩ...)\n• \"In my opinion...\" - ví dụ: \"In my opinion, public transportation should be improved to attract more users.\" (Theo ý kiến\ncủa tôi...)\n• \"From my point of view...\" - ví dụ: \"From my point of view, using the bus helps reduce pollution.\" (Theo quan điểm của\ntôi...)\n4. Các lỗi thường gặp:\n• Trả lời \"Yes/No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n• Với Topic A: chỉ nói \"I like it\" mà không nêu lý do cụ thể.\n• Với Topic B: trả lời chung chung \"I sometimes use it\" mà không nêu tần suất hay lợi ích cụ thể.\n• Chia sai thì khi kể về kinh nghiệm học tập.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu giờ: \"That's an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy mô tả đặc điểm thay vì dừng lại giữa chừng.\n• Với Topic A, nếu quên từ, có thể mô tả: \"a way of learning through the internet\".\n• Với Topic B, nếu quên từ chuyên biệt, hãy mô tả đơn giản như \"a vehicle that many people can ride together\".\n6. Tư duy làm bài nói:\n• Hãy coi đây là một cuộc trò chuyện thân mật với giám khảo.\n• Chuyển đổi tâm thế linh hoạt khi chuyển từ Topic A sang Topic B để tránh nói lẫn lộn hai chủ đề.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng phức tạp gây vấp váp.\nSolution Discussion\nPART 2\n4 phút\nYou and a friend are planning a farewell gift for a colleague who is leaving the company.\nYou are considering the following options:\n• Option 1: A framed photo of the two of you together\n• Option 2: A handmade gift\n• Option 3: A dinner party at a restaurant\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống xoay quanh việc chuẩn bị quà chia tay cho một đồng nghiệp sắp rời công ty, với 3 lựa chọn: ảnh kỷ niệm\nđóng khung, quà tự làm, hoặc tổ chức tiệc tại nhà hàng.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và khả năng lập luận logic.\n• Thời gian: 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu tình huống, so sánh 3 lựa chọn, kết luận\nlựa chọn tốt nhất.\n• Option 1 (framed photo): \"A framed photo is a sentimental keepsake that captures shared memories, though it may\nfeel a bit ordinary for a farewell gift.\"\n• Option 2 (handmade gift): \"A handmade gift shows genuine effort and personal thought, making it more meaningful,\nbut it requires time and creative skill to prepare.\"\n• Option 3 (dinner party): \"A dinner party allows everyone to celebrate together and say a proper goodbye, though it\ncan be costly and harder to organize on short notice.\"\n• Neo lập luận vào bối cảnh tình bạn đồng nghiệp thực tế, ví dụ nhắc đến mối quan hệ lâu năm hoặc ngân sách nhóm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách biệt, ví dụ: \"Unlike a framed photo, which is a static memento, a dinner\nparty creates new memories before the farewell.\"\n• Về thì: dùng modal verbs (would/could) để đưa ra dự đoán, ví dụ \"This gift would show how much we appreciate our\ncolleague's contribution.\"\n• Paraphrase từ \"meaningful\" bằng \"heartfelt\" hoặc \"touching\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• \"a sentimental value\" - giá trị tình cảm\n• \"to show appreciation\" - thể hiện sự trân trọng\n• \"a personal touch\" - sự chăm chút cá nhân\n• \"a heartfelt gesture\" - cử chỉ chân thành\n• \"to bid farewell\" - nói lời tạm biệt\n• \"a memorable send-off\" - buổi tiễn đưa đáng nhớ\nTừ nối khi nói (Linking Words):\n• \"On the other hand\" - Mặt khác, dùng để đối lập ý\n• \"Compared to\" - So với, dùng để so sánh\n• \"Nevertheless\" - Tuy nhiên, dùng khi nêu điểm bất lợi\n• \"Taking everything into account\" - Xét tổng thể, dùng khi kết luận\n• \"Similarly\" - Tương tự, dùng khi hai lựa chọn có điểm chung\nCách thể hiện quan điểm tự nhiên:\n• \"I would go for...\" - ví dụ: \"I would go for the handmade gift because it feels more personal.\" (Tôi sẽ chọn...)\n• \"If I had to choose, I'd say...\" - ví dụ: \"If I had to choose, I'd say the dinner party is the most memorable option.\" (Nếu\nphải chọn, tôi sẽ nói...)\n• \"What appeals to me most is...\" - ví dụ: \"What appeals to me most is the effort put into a handmade gift.\" (Điều hấp\ndẫn tôi nhất là...)\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ \"good\"/\"nice\" liên tục thay vì dùng tính từ học thuật hơn như \"sentimental\", \"practical\", \"costly\".\n• Không đưa ra kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên biệt, hãy chuyển hướng sang bàn về yếu tố chi phí hoặc thời gian chuẩn bị.\n• Dùng câu giờ: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí ý ở một lựa chọn, hãy chuyển sang phân tích lựa chọn tiếp theo rồi quay lại sau.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người bạn thân thiết đang lên kế hoạch - lựa chọn nào thể hiện tình cảm chân thành nhất.\n• Dù chọn phương án nào, vẫn nên đưa ra một gợi ý cải thiện nhỏ để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: Effective solutions to reduce obesity in modern society\nEating less fast food\nExercising regularly\nSolutions to Reduce Obesity\nÝ tưởng của bạn\nCooking meals at home\nFOLLOW-UP QUESTIONS\n1.\nWhat types of fast food are popular in your country?\n2.\nWhy do many people choose to eat fast food?\n3.\nApart from obesity, what other health problems can fast food cause?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển ý về các giải pháp giảm tình trạng béo phì, dựa trên 3 nhánh mindmap và 1 ý tưởng cá\nnhân (nhánh thứ 4 có thể là \"raising public awareness through education and media campaigns\").\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar, khả năng phát triển ý mạch lạc.\n• Thời gian 5 phút: khoảng 3-3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point - Explanation - Example - Link) để phát triển từng nhánh mindmap mạch lạc.\n• Ví dụ 1 (mở bài): \"Today, I would like to talk about some effective solutions to reduce obesity, which has become a\nserious health issue in modern society.\"\n• Ví dụ 2 (nhánh cá nhân): \"In addition, raising public awareness through school education and media campaigns can\nhelp people understand the long-term risks of poor eating habits.\"\n• Khi nói về \"Eating less fast food\", nên nêu ví dụ cụ thể như hạn chế đồ ăn nhanh chứa nhiều dầu mỡ và đường.\n• Bám sát mindmap để tránh lặp ý hoặc lạc đề giữa các nhánh.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh mindmap, ví dụ \"Moving on to my next point...\"\n• Về thì: dùng Hiện tại đơn cho sự thật hiển nhiên (Regular exercise helps...) kết hợp Hiện tại hoàn thành cho xu hướng\ngần đây (Obesity rates have increased significantly...).\n• Paraphrase từ \"obesity\" bằng \"excessive weight gain\" hoặc \"being overweight\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• \"a balanced diet\" - chế độ ăn cân bằng\n• \"to burn calories\" - đốt cháy calo\n• \"processed food\" - thực phẩm chế biến sẵn\n• \"a sedentary lifestyle\" - lối sống ít vận động\n• \"to maintain a healthy weight\" - duy trì cân nặng khỏe mạnh\n• \"high in fat and sugar\" - chứa nhiều chất béo và đường\nTừ nối khi nói (Linking Words):\n• \"To begin with\" - Trước hết, dùng khi mở đầu nhánh ý đầu tiên\n• \"Furthermore\" - Hơn nữa, dùng để bổ sung ý\n• \"Not only... but also...\" - Không chỉ... mà còn..., dùng để nhấn mạnh hai giải pháp\n• \"On top of that\" - Bên cạnh đó, dùng khi thêm ý mới\n• \"In conclusion\" - Tóm lại, dùng khi kết luận bài nói\nCách thể hiện quan điểm tự nhiên:\n• \"I firmly believe that...\" - ví dụ: \"I firmly believe that cooking at home is one of the healthiest choices people can make.\"\n(Tôi tin chắc rằng...)\n• \"It seems to me that...\" - ví dụ: \"It seems to me that fast food consumption is closely linked to busy lifestyles.\" (Đối\nvới tôi có vẻ như...)\n• \"There is no doubt that...\" - ví dụ: \"There is no doubt that regular exercise plays a key role in weight management.\"\n(Không nghi ngờ gì rằng...)\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"What types of fast food are popular in your country?\" - Trả lời: các loại phổ biến như gà rán, khoai tây chiên, bánh mì\nkẹp thịt, và trà sữa cũng thường được xem là một dạng đồ ăn nhanh.\n• \"Why do many people choose to eat fast food?\" - Trả lời: vì sự tiện lợi, giá cả phải chăng và tiết kiệm thời gian, đặc\nbiệt với người có lịch trình bận rộn.\n• \"Apart from obesity, what other health problems can fast food cause?\" - Trả lời: có thể gây ra các bệnh như tiểu đường,\ntim mạch, huyết áp cao do hàm lượng đường và chất béo bão hòa cao.\n5. Các lỗi thường gặp:\n• Liệt kê ý mà không giải thích hay đưa ví dụ cụ thể, khiến bài nói thiếu chiều sâu.\n• Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước một ý tưởng riêng.\n• Nói quá lâu ở phần mở đầu khiến không còn thời gian trả lời follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Khi bí ý, hãy liên hệ đến thói quen ăn uống hằng ngày của bản thân hoặc gia đình để có thêm ví dụ.\n• Dùng câu giờ học thuật: \"That is a complex issue. If we evaluate it from a health perspective...\"\n• Nếu quên từ chuyên môn, hãy dùng từ đồng nghĩa đơn giản hoặc mô tả ngắn gọn thay vì dừng lại.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ thực tế từ góc độ sức khỏe cộng đồng - vì sao cần kết hợp nhiều giải pháp thay vì chỉ dựa vào một biện\npháp duy nhất.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao, quan trọng hơn số lượng từ vựng\nkhó.\n• Luôn giữ giọng nói tự tin và có trách nhiệm, vì đây là chủ đề liên quan đến sức khỏe cộng đồng."
+}

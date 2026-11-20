@@ -1,0 +1,718 @@
+{
+ "id": "vlu-117",
+ "number": 117,
+ "title": "Đề thi VLU 117",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-117",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "School Lunches Around the World",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "School lunch programs look very different depending on where in the world a student happens to attend school. In some countries, lunch is treated almost like a subject in itself, with clear rules about nutrition and presentation. In others, students bring food from home or buy whatever is available nearby, with far less official oversight. These differences reflect not only budgets but also cultural attitudes toward food, health, and childhood. Even within a single country, lunch quality can vary sharply between wealthier and poorer school districts.",
+     "In France, school lunch is often a sit-down, multi-course meal, sometimes including a small starter, a main dish, cheese, and fruit, all eaten at a proper table rather than rushed through in a few minutes. In Japan, the lunch program, known as kyushoku, is centrally planned to meet strict nutritional standards, and students themselves often help serve the food and clean up afterward as part of their daily routine. In the United States, lunch is typically served cafeteria-style, and the quality can vary **enormously** from one school district to another depending on local funding. Many other countries fall somewhere between these approaches, mixing central planning with local flexibility.",
+     "Well-designed lunch programs offer benefits that go beyond simply filling hungry stomachs. Students who eat a balanced meal in the middle of the day tend to concentrate better during afternoon classes and show fewer behavior problems linked to hunger or blood sugar swings. Subsidized or free lunch programs for children from low-income families also help reduce a source of daily inequality that might otherwise follow some students throughout their entire school career. Teachers in several countries have reported noticeably calmer classrooms after lunch policies were improved. Some schools also invite parents or nutritionists to help design healthier menus.",
+     "Despite these benefits, running a good lunch program is genuinely difficult. Tight budgets often force schools to choose between cheaper, less nutritious ingredients and pricier options that meet stricter health guidelines. Food waste is another persistent problem, since students frequently throw away vegetables or other healthy items they simply do not want to eat, even when cafeteria staff have prepared **them** carefully. This waste **undermines** the nutritional goals the meal was originally designed to meet. Balancing nutrition, cost, and student taste preferences remains an ongoing challenge for administrators everywhere.",
+     "Around the world, schools continue to experiment with new approaches to lunch, from farm-to-table programs that source ingredients locally to efforts aimed at reducing plastic packaging and food waste. Some schools now involve students directly in planning menus, hoping that a sense of ownership will make healthy options more appealing. What began as a simple matter of feeding hungry children has gradually become tied to broader conversations about health, sustainability, and equal opportunity in education."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, what is true about Japan's kyushoku program?",
+      "options": {
+       "A": "Students help cook the food but never clean up.",
+       "B": "Teachers help serve the food and clean up afterward.",
+       "C": "Students in France help serve the food and clean up.",
+       "D": "Students help serve the food and clean up afterward."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét tên chương trình \"kyushoku\" ở đoạn 2 để tìm vai trò của học sinh trong giờ ăn (học sinh tự phục vụ thức ăn và dọn dẹp sau bữa ăn)."
+     },
+     {
+      "number": 2,
+      "stem": "The word \"enormously\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "slightly",
+       "B": "locally",
+       "C": "anonymously",
+       "D": "greatly"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"enormously\" ở đoạn 2 mô tả sự chênh lệch chất lượng bữa ăn giữa các khu vực học chánh. Ngữ cảnh này thể hiện mức độ chênh lệch rất lớn (greatly)."
+     },
+     {
+      "number": 3,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Food waste is the only serious problem facing school lunches.",
+       "B": "School lunch programs offer no real benefit to student learning.",
+       "C": "School lunch programs vary worldwide and involve real benefits and challenges.",
+       "D": "All countries now provide the exact same type of school lunch."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp thông tin từ việc so sánh mô hình bữa ăn trưa ở các quốc gia khác nhau, những lợi ích mang lại cùng các rào cản thách thức. Ý chính phải phản ánh sự đa dạng toàn cầu cùng cả hai mặt lợi ích và thách thức."
+     },
+     {
+      "number": 4,
+      "stem": "The word \"them\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "the meal",
+       "B": "healthy food items",
+       "C": "cafeteria staff",
+       "D": "nutritious ingredients"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu chứa đại từ \"them\" ở đoạn 4 để tìm danh từ số nhiều đứng trước làm đối tượng được nhân viên bếp chuẩn bị cẩn thận nhưng vẫn bị vứt bỏ (vegetables or other healthy items)."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, what is true about school lunch in France?",
+      "options": {
+       "A": "It is often a single dish eaten at a table.",
+       "B": "It is often a sit-down meal eaten outside the school.",
+       "C": "It is often a sit-down, multi-course meal eaten at a table.",
+       "D": "It is often eaten quickly while standing at a counter."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"France\" ở đoạn 2 để xác định đặc điểm bữa ăn trưa (bữa ăn nhiều món ngồi tại bàn cẩn thận thay vì ăn vội vàng)."
+     },
+     {
+      "number": 6,
+      "stem": "According to the passage, which of the following is NOT mentioned as a new approach schools are trying?",
+      "options": {
+       "A": "Sourcing ingredients locally through farm-to-table programs.",
+       "B": "Reducing plastic packaging used for school lunches.",
+       "C": "Involving students directly in planning school menus.",
+       "D": "Eliminating school lunch programs entirely to save money."
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các hướng tiếp cận mới được liệt kê ở đoạn cuối (chương trình từ trang nông trại đến bàn ăn, giảm đóng gói nhựa, cho học sinh tham gia lên thực đơn). Chi tiết không được đề cập (như việc hủy bỏ hoàn toàn bữa trưa để tiết kiệm chi phí) chính là đáp án cần chọn."
+     },
+     {
+      "number": 7,
+      "stem": "What can be inferred from the passage about subsidized lunch programs for low-income students?",
+      "options": {
+       "A": "They were first introduced in France before other countries.",
+       "B": "They are available in every country regardless of funding.",
+       "C": "They may help reduce inequality students would otherwise face.",
+       "D": "They completely eliminate all inequality between students in school."
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tìm thông tin ở đoạn 3 về các chương trình bữa trưa trợ giá/miễn phí cho học sinh nghèo. Logic bài đọc chỉ ra rằng các chương trình này giúp giảm bớt sự bất bình đẳng mà các em có thể phải đối mặt."
+     },
+     {
+      "number": 8,
+      "stem": "The word \"undermines\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "destroys",
+       "B": "funds",
+       "C": "underlines",
+       "D": "weakens"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"undermines\" ở đoạn 4 mô tả tác động tiêu cực của việc lãng phí thức ăn đối với các mục tiêu dinh dưỡng ban đầu. Từ này đồng nghĩa với làm suy giảm, làm yếu đi (weakens)."
+     },
+     {
+      "number": 9,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To convince readers that Japan's lunch program is superior to all others.",
+       "B": "To provide a detailed recipe guide for healthy school lunch meals.",
+       "C": "To criticize schools in the United States for their cafeteria system.",
+       "D": "To describe how school lunch programs differ and the challenges they face."
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "nhận diện mục đích tổng quát của bài viết: mô tả sự khác biệt giữa các chương trình ăn trưa và giải thích các thách thức thực tế đang gặp phải."
+     },
+     {
+      "number": 10,
+      "stem": "According to the passage, what is true about food waste at school?",
+      "options": {
+       "A": "Teachers often throw away vegetables or other items students dislike.",
+       "B": "Students often throw away vegetables or other healthy items they dislike.",
+       "C": "Students often throw away meat dishes but eat all their vegetables.",
+       "D": "Students rarely throw away food, since portions are always small. Reading"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Food waste\" ở đoạn 4 để tìm thực trạng rác thải thức ăn (học sinh thường vứt bỏ rau củ hoặc món ăn lành mạnh mà các em không thích)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R1Q1, R1Q5, R1Q10):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q1**, quét tên chương trình \"kyushoku\" ở đoạn 2 để tìm vai trò của học sinh trong giờ ăn (học sinh tự phục vụ thức ăn và dọn dẹp sau bữa ăn).\n  - Với **R1Q5**, tìm từ khóa \"France\" ở đoạn 2 để xác định đặc điểm bữa ăn trưa (bữa ăn nhiều món ngồi tại bàn cẩn thận thay vì ăn vội vàng).\n  - Với **R1Q10**, quét từ khóa \"Food waste\" ở đoạn 4 để tìm thực trạng rác thải thức ăn (học sinh thường vứt bỏ rau củ hoặc món ăn lành mạnh mà các em không thích).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q2, R1Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q2**, từ **\"enormously\"** ở đoạn 2 mô tả sự chênh lệch chất lượng bữa ăn giữa các khu vực học chánh. Ngữ cảnh này thể hiện mức độ chênh lệch rất lớn (greatly).\n  - Với **R1Q8**, từ **\"undermines\"** ở đoạn 4 mô tả tác động tiêu cực của việc lãng phí thức ăn đối với các mục tiêu dinh dưỡng ban đầu. Từ này đồng nghĩa với làm suy giảm, làm yếu đi (weakens).\n- **Dạng câu hỏi Ý chính & Mục đích của tác giả (R1Q3, R1Q9):** Sử dụng kỹ năng **Skimming** (Đọc lướt câu chủ đề các đoạn).\n  - Với **R1Q3**, tổng hợp thông tin từ việc so sánh mô hình bữa ăn trưa ở các quốc gia khác nhau, những lợi ích mang lại cùng các rào cản thách thức. Ý chính phải phản ánh sự đa dạng toàn cầu cùng cả hai mặt lợi ích và thách thức.\n  - Với **R1Q9**, nhận diện mục đích tổng quát của bài viết: mô tả sự khác biệt giữa các chương trình ăn trưa và giải thích các thách thức thực tế đang gặp phải.\n- **Dạng câu hỏi Quy chiếu (R1Q4):** Đọc ngược lại câu chứa đại từ **\"them\"** ở đoạn 4 để tìm danh từ số nhiều đứng trước làm đối tượng được nhân viên bếp chuẩn bị cẩn thận nhưng vẫn bị vứt bỏ (vegetables or other healthy items).\n- **Dạng câu hỏi Loại trừ NOT (R1Q6):** Đối soát các hướng tiếp cận mới được liệt kê ở đoạn cuối (chương trình từ trang nông trại đến bàn ăn, giảm đóng gói nhựa, cho học sinh tham gia lên thực đơn). Chi tiết không được đề cập (như việc hủy bỏ hoàn toàn bữa trưa để tiết kiệm chi phí) chính là đáp án cần chọn.\n- **Dạng câu hỏi Suy luận (R1Q7):** Tìm thông tin ở đoạn 3 về các chương trình bữa trưa trợ giá/miễn phí cho học sinh nghèo. Logic bài đọc chỉ ra rằng các chương trình này giúp giảm bớt sự bất bình đẳng mà các em có thể phải đối mặt.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi quy chiếu (R1Q4) và từ vựng (R1Q2, R1Q8) để làm chủ thời gian. Kế tiếp, áp dụng kỹ thuật đọc quét định vị từ khóa để xử lý các câu hỏi chi tiết (R1Q1, R1Q5, R1Q10) và loại trừ (R1Q6). Cuối cùng, tổng hợp logic toàn bài để trả lời chuẩn xác câu suy luận (R1Q7), ý chính (R1Q3) và mục đích bài viết (R1Q9)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Jamu and UNESCO's Intangible Cultural Heritage",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "When people think of UNESCO recognition, physical landmarks such as ancient temples or historic city centers often come to mind first. Since 2003, however, UNESCO has also maintained a separate list dedicated to intangible cultural heritage, a category covering living practices, oral traditions, performing arts, and traditional knowledge rather than buildings or monuments. The distinction matters because intangible heritage survives only through people who continue to practice **it**, not through stone or preservation alone.",
+     "In late 2023, UNESCO added jamu, an Indonesian tradition of herbal wellness practices, to this intangible heritage list. Jamu refers to a wide range of traditional drinks and remedies made from ingredients such as turmeric, ginger, tamarind, and various local roots and leaves, prepared according to knowledge passed down through generations. For centuries, jamu has been part of daily life across much of Indonesia, used both to maintain general wellness and to treat specific minor ailments.",
+     "The practice of making and selling jamu has historically been closely associated with women. A well-known group of traveling sellers, called jamu gendong, once carried baskets of bottled jamu on their backs and sold it door to door in villages and city neighborhoods. Beyond the physical preparation of the drinks, jamu is tied to a broader philosophy of balance between body, mind, and daily life, reflecting ideas about wellness that predate modern medicine in the region.",
+     "UNESCO recognition carries several potential benefits for a tradition like jamu. International visibility can boost tourism interest and encourage younger Indonesians to take renewed pride in a practice sometimes seen as old-fashioned compared with modern pharmaceuticals. Government agencies and cultural organizations often use such recognition to justify funding for documentation projects, training programs, and efforts to support the practitioners who keep the tradition alive day to day.",
+     "The recognition also carries risks that specialists in cultural heritage frequently point out. Increased commercial interest can push producers toward mass-produced, standardized versions of jamu that prioritize shelf life and marketability over the more varied, personalized recipes traditionally passed down within families and local communities. Some heritage experts worry that international attention, if not managed carefully, can end up **flattening** the very diversity that made a tradition worth recognizing in the first place.",
+     "This tension is not unique to jamu. Many other traditions on UNESCO's intangible heritage list, from traditional music forms to specific culinary practices in various countries, face similar pressures once they gain international attention. Because intangible heritage depends entirely on active practitioners rather than a fixed physical structure, it remains inherently more **fragile** than a monument, which will still stand whether or not anyone visits it.",
+     "For jamu specifically, sustaining the tradition will likely depend less on the UNESCO designation itself and more on whether younger generations continue learning the practice directly from elders. Encountering jamu only as a bottled product on a store shelf is not the same as learning the tradition firsthand. International recognition can open doors and draw attention, but keeping a living tradition genuinely alive still depends on the everyday choices of the communities that practice it."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, when did UNESCO add jamu to its intangible heritage list?",
+      "options": {
+       "A": "UNESCO removed jamu from the list in late 2023.",
+       "B": "Indonesia added jamu to its own national list in 2023.",
+       "C": "UNESCO added jamu to the list in late 2023.",
+       "D": "UNESCO added jamu to the list back in 2003."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"UNESCO\" và mốc thời gian liên quan đến việc bổ sung jamu vào danh sách di sản văn hóa phi vật thể."
+     },
+     {
+      "number": 12,
+      "stem": "The word \"flattening\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "reducing",
+       "B": "funding",
+       "C": "destroying",
+       "D": "flattering"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"flattening\" ở đoạn 5 mô tả nguy cơ của việc thương mại hóa làm đơn giản hóa, giảm bớt hoặc làm mất đi tính đa dạng tinh tế của các công thức truyền thống."
+     },
+     {
+      "number": 13,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "UNESCO recognition guarantees a tradition will never change or disappear.",
+       "B": "Physical monuments face the exact same risks as jamu does.",
+       "C": "Jamu is a newly invented drink with no historical roots.",
+       "D": "UNESCO's recognition of jamu brings benefits but also risks to the tradition."
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp ý của toàn bài từ việc UNESCO công nhận jamu, lợi ích thúc đẩy văn hóa cho đến những thách thức và nguy cơ thương mại hóa. Phương án chọn phải bao quát cả hai mặt lợi ích lẫn rủi ro này."
+     },
+     {
+      "number": 14,
+      "stem": "The word \"it\" in paragraph 1 refers to _______.",
+      "options": {
+       "A": "the list",
+       "B": "intangible heritage",
+       "C": "physical landmarks",
+       "D": "ancient temples"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu chứa đại từ \"it\" ở đoạn 1 để xác định danh từ số ít làm chủ ngữ logic (chỉ khái niệm di sản văn hóa phi vật thể - intangible heritage)."
+     },
+     {
+      "number": 15,
+      "stem": "According to the passage, what is true about jamu gendong sellers?",
+      "options": {
+       "A": "They were shop owners who sold jamu from a fixed spot.",
+       "B": "They were male sellers who carried jamu in baskets.",
+       "C": "They carried jamu in baskets and sold it door to door.",
+       "D": "They carried jamu in trucks and sold it door to door."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm cụm từ \"jamu gendong\" để xác định phương thức người bán hàng rong vận chuyển và tiếp cận người mua (bằng giỏ/gánh và bán tận nhà)."
+     },
+     {
+      "number": 16,
+      "stem": "According to the passage, which of the following is NOT mentioned as a potential benefit of UNESCO recognition?",
+      "options": {
+       "A": "Encouraging younger Indonesians to take pride in the practice.",
+       "B": "Helping justify funding for documentation and training programs.",
+       "C": "Boosting tourism interest in Indonesian traditions overall.",
+       "D": "Guaranteeing higher wages for traditional jamu sellers nationwide."
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Rà soát danh sách lợi ích của việc UNESCO công nhận được liệt kê trong bài (tăng trưởng du lịch, niềm tự hào giới trẻ, hỗ trợ quỹ bảo tồn). Lựa chọn lợi ích không hề xuất hiện trong bài (như việc đảm bảo mức lương cao hơn cho người bán)."
+     },
+     {
+      "number": 17,
+      "stem": "What can be inferred from the passage about the risks of commercializing jamu?",
+      "options": {
+       "A": "A decline in traditional recipes caused more commercial interest.",
+       "B": "Mass production will certainly destroy jamu within a decade.",
+       "C": "Jamu gendong sellers historically carried baskets on their backs.",
+       "D": "Mass production may reduce the variety found in family recipes."
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tập trung vào phần phân tích nguy cơ thương mại hóa và sản xuất hàng loạt. Logic của bài chỉ ra rằng việc công nghiệp hóa có thể làm suy giảm sự phong phú, đa dạng vốn có trong các công thức gia truyền."
+     },
+     {
+      "number": 18,
+      "stem": "The word \"fragile\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "worthless",
+       "B": "expensive",
+       "C": "vulnerable",
+       "D": "frugal"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"fragile\" ở đoạn 6 mô tả bản chất dễ tổn thương, mỏng mảnh của di sản phi vật thể nếu không được bảo tồn cẩn thận. Ngữ cảnh này chỉ sự mỏng mảnh/dễ bị ảnh hưởng (vulnerable)."
+     },
+     {
+      "number": 19,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To explain what UNESCO recognition means for jamu.",
+       "B": "To argue that jamu should replace modern pharmaceuticals entirely.",
+       "C": "To provide step-by-step instructions for making jamu at home.",
+       "D": "To criticize UNESCO for recognizing too many traditions each year."
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "nhận diện mục đích chính của tác giả: phân tích và giải thích ý nghĩa, cơ hội cũng như thách thức mà danh hiệu UNESCO mang lại cho văn hóa jamu."
+     },
+     {
+      "number": 20,
+      "stem": "According to the passage, what will most affect jamu's long-term survival?",
+      "options": {
+       "A": "Whether the UNESCO designation itself is renewed every few years.",
+       "B": "Whether older generations stop practicing jamu in favor of the young.",
+       "C": "Whether younger generations learn the practice directly from elders.",
+       "D": "Whether jamu is sold in more stores as a bottled product. Reading"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa liên quan đến sự tồn tại lâu dài của jamu (\"survival\", \"long-term\") ở đoạn cuối để tìm yếu tố quyết định cốt lõi (sự truyền nghề trực tiếp giữa thế hệ trẻ và người đi trước)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R2Q1, R2Q5, R2Q10):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q1**, quét từ khóa \"UNESCO\" và mốc thời gian liên quan đến việc bổ sung jamu vào danh sách di sản văn hóa phi vật thể.\n  - Với **R2Q5**, tìm cụm từ \"jamu gendong\" để xác định phương thức người bán hàng rong vận chuyển và tiếp cận người mua (bằng giỏ/gánh và bán tận nhà).\n  - Với **R2Q10**, quét các từ khóa liên quan đến sự tồn tại lâu dài của jamu (\"survival\", \"long-term\") ở đoạn cuối để tìm yếu tố quyết định cốt lõi (sự truyền nghề trực tiếp giữa thế hệ trẻ và người đi trước).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q2, R2Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q2**, từ **\"flattening\"** ở đoạn 5 mô tả nguy cơ của việc thương mại hóa làm đơn giản hóa, giảm bớt hoặc làm mất đi tính đa dạng tinh tế của các công thức truyền thống.\n  - Với **R2Q8**, từ **\"fragile\"** ở đoạn 6 mô tả bản chất dễ tổn thương, mỏng mảnh của di sản phi vật thể nếu không được bảo tồn cẩn thận. Ngữ cảnh này chỉ sự mỏng mảnh/dễ bị ảnh hưởng (vulnerable).\n- **Dạng câu hỏi Ý chính & Mục đích của tác giả (R2Q3, R2Q9):** Sử dụng kỹ năng **Skimming** (Đọc lướt câu chủ đề các đoạn).\n  - Với **R2Q3**, tổng hợp ý của toàn bài từ việc UNESCO công nhận jamu, lợi ích thúc đẩy văn hóa cho đến những thách thức và nguy cơ thương mại hóa. Phương án chọn phải bao quát cả hai mặt lợi ích lẫn rủi ro này.\n  - Với **R2Q9**, nhận diện mục đích chính của tác giả: phân tích và giải thích ý nghĩa, cơ hội cũng như thách thức mà danh hiệu UNESCO mang lại cho văn hóa jamu.\n- **Dạng câu hỏi Quy chiếu (R2Q4):** Đọc ngược lại câu chứa đại từ **\"it\"** ở đoạn 1 để xác định danh từ số ít làm chủ ngữ logic (chỉ khái niệm di sản văn hóa phi vật thể - intangible heritage).\n- **Dạng câu hỏi Loại trừ NOT (R2Q6):** Rà soát danh sách lợi ích của việc UNESCO công nhận được liệt kê trong bài (tăng trưởng du lịch, niềm tự hào giới trẻ, hỗ trợ quỹ bảo tồn). Lựa chọn lợi ích không hề xuất hiện trong bài (như việc đảm bảo mức lương cao hơn cho người bán).\n- **Dạng câu hỏi Suy luận (R2Q7):** Tập trung vào phần phân tích nguy cơ thương mại hóa và sản xuất hàng loạt. Logic của bài chỉ ra rằng việc công nghiệp hóa có thể làm suy giảm sự phong phú, đa dạng vốn có trong các công thức gia truyền.\nLời khuyên: Hãy bắt đầu làm các câu hỏi quy chiếu (R2Q4) và từ vựng (R2Q2, R2Q8) trước để lấy điểm nhanh. Tiếp theo, áp dụng kỹ năng đọc quét để xử lý các câu hỏi chi tiết (R2Q1, R2Q5, R2Q10) và loại trừ (R2Q6). Sau khi đã hiểu cấu trúc và thông tin chi tiết của bài đọc, bạn sẽ dễ dàng suy luận (R2Q7) và chọn đáp án chuẩn xác cho các câu hỏi tổng hợp ý chính (R2Q3) cũng như mục đích bài viết (R2Q9)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Beyond the Horned Helmet: Who the Vikings Really Were",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Popular culture has long portrayed the Vikings as little more than savage raiders, sweeping down from Scandinavia in horned helmets to pillage coastal villages before vanishing back across the sea. This image, while dramatic, badly oversimplifies a culture that was also deeply engaged in trade, exploration, craftsmanship, and even early forms of self-governance. The raiding certainly happened, but it was only one part of a much larger and more complicated picture.",
+     "The horned helmet, in particular, appears to be a nineteenth-century invention rather than a historical fact. No archaeological excavation has ever recovered a Viking-era helmet fitted with horns, and most surviving helmets from the period are notably plain, practical pieces of metalwork. Historians generally trace the horned image to costume designers working on operas and later illustrations, whose visually striking choice simply stuck in the popular imagination far more firmly than the archaeological record ever did.",
+     "Trade, not just raiding, connected Viking communities to a surprisingly wide world. Norse traders traveled extensively along Russian rivers, exchanging furs, amber, and slaves for silver coins that originated as far away as Baghdad, evidence of indirect but real commercial links stretching deep into the Islamic world. Viking merchants also maintained trading contacts with Constantinople, sometimes serving as elite guards for the Byzantine emperor, a role that placed former raiders in surprisingly formal, institutional positions.",
+     "Viking exploration pushed even further than their trade routes, reaching across the North Atlantic centuries before other Europeans attempted similar voyages. Norse settlers established colonies in Iceland and later Greenland, and archaeological evidence at a site called L'Anse aux Meadows, in present-day Newfoundland, confirms that Vikings reached North America roughly five hundred years before Columbus's better-known voyage, though historians still debate how long the Vikings maintained **it** as a permanent foothold. These settlements depended heavily on skilled shipbuilding, since the longship's shallow draft and flexible hull made such long ocean crossings genuinely **feasible**.",
+     "Viking society also included forms of collective decision-making that complicate the stereotype of pure lawlessness. Local and regional assemblies, known as things, brought free men together to settle disputes, pass judgments, and make certain communal decisions, functioning as an early and admittedly limited form of representative governance. Iceland's assembly, the Althing, is often cited as one of the oldest continuously operating parliamentary institutions in the world, tracing its origins back to the late ninth century.",
+     "The Viking Age eventually wound down for several overlapping reasons rather than any single cause. The gradual spread of Christianity across Scandinavia reshaped political and religious structures that had previously favored raiding expeditions. Around the same period, a cooling climate made the Greenland settlements increasingly difficult to sustain, contributing to their eventual abandonment centuries later. Growing political consolidation into more centralized kingdoms further reduced the loose, opportunistic conditions that had once made large-scale raiding relatively easy to organize.",
+     "Taken together, the archaeological and historical record paints a picture considerably more **layered** than the horned-helmet stereotype suggests. Vikings were raiders, certainly, but they were also traders, explorers, craftsmen, and, in their own limited way, early practitioners of assembly-based governance. Reducing them to a single violent caricature flattens a culture whose actual reach and complexity continue to surprise historians studying the period today."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, where does the horned helmet image likely come from?",
+      "options": {
+       "A": "Modern Scandinavian historians researching Viking artifacts.",
+       "B": "Actual blacksmiths working during the Viking era.",
+       "C": "Costume designers, rather than archaeological evidence.",
+       "D": "Several confirmed archaeological excavations of helmets."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"horned helmet\" ở đoạn 2 để xác định nguồn gốc hình ảnh nón có sừng (nguồn gốc do các nhà thiết kế trang phục sáng tạo ra thay vì dựa trên bằng chứng khảo cổ thực tế)."
+     },
+     {
+      "number": 22,
+      "stem": "The word \"feasible\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "feeble",
+       "B": "profitable",
+       "C": "guaranteed",
+       "D": "possible"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"feasible\" ở đoạn 4 đi kèm ngữ cảnh thiết kế tàu longship giúp các chuyến vượt đại dương dài ngày có thể thực hiện được. Ngữ cảnh này mang nghĩa có thể thực hiện (possible)."
+     },
+     {
+      "number": 23,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Vikings invented democracy and passed it directly to modern Iceland.",
+       "B": "Vikings never actually reached North America before European contact.",
+       "C": "Vikings were purely violent raiders with no other real achievements.",
+       "D": "Vikings were more than raiders, also being traders, explorers, and early governors."
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp thông tin toàn bài: bên cạnh việc cướp phá (raiders), người Viking còn là nhà thương thuyết, nhà khai phá và quản trị. Ý chính phải phản ánh bức tranh toàn diện và đa dạng này."
+     },
+     {
+      "number": 24,
+      "stem": "The word \"it\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Columbus's voyage",
+       "B": "North America",
+       "C": "Greenland",
+       "D": "L'Anse aux Meadows"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu trước từ \"it\" ở đoạn 4 để tìm thực thể số ít được nhắc đến làm đối tượng địa lý cho các chuyến hành trình dài ngày (North America)."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what did Norse traders exchange for silver coins from Baghdad?",
+      "options": {
+       "A": "They exchanged silver coins for furs and amber instead.",
+       "B": "They exchanged furs and amber for silver coins from Rome.",
+       "C": "They exchanged furs and amber for the silver coins.",
+       "D": "They exchanged weapons and tools for the silver coins."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm các cụm từ \"Norse traders\", \"silver coins\", \"Baghdad\" ở đoạn 3 để định vị loại hàng hóa được trao đổi (lông thú và hổ phách - furs and amber)."
+     },
+     {
+      "number": 26,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason the Viking Age declined?",
+      "options": {
+       "A": "The gradual spread of Christianity across Scandinavia.",
+       "B": "A cooling climate that affected the Greenland settlements.",
+       "C": "A major military defeat by a rival European kingdom.",
+       "D": "Growing political consolidation into centralized kingdoms."
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Rà soát các nguyên nhân làm thoái trào Thời đại Viking được nhắc đến ở đoạn 6 (sự lan rộng của Công giáo, khí hậu lạnh đi, sự tập trung quyền lực chính trị). Chi tiết không được đề cập (như một thất bại quân sự lớn trước một vương quốc châu Âu đối thủ) chính là đáp án cần chọn."
+     },
+     {
+      "number": 27,
+      "stem": "What can be inferred from the passage about the Althing in Iceland?",
+      "options": {
+       "A": "It proves Vikings invented the first fully democratic nation.",
+       "B": "The Althing dates back to the late ninth century.",
+       "C": "It suggests Vikings had more organized governance than stereotypes imply.",
+       "D": "Christianity's spread caused the Althing to be established."
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tìm chi tiết về cơ quan \"Althing\" ở Iceland ở đoạn 5. Việc tồn tại một hệ thống nghị viện/hội đồng lập pháp chứng minh rằng xã hội Viking có tổ chức quản trị bài bản và phức tạp hơn rất nhiều so với những định kiến thô sơ về họ."
+     },
+     {
+      "number": 28,
+      "stem": "The word \"layered\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "simple",
+       "B": "wealthy",
+       "C": "leathered",
+       "D": "complex"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"layered\" ở đoạn 7 mô tả cái nhìn về xã hội Viking vốn có nhiều khía cạnh phức tạp, đa chiều chứ không đơn điệu. Từ này sát nghĩa nhất với sự phức tạp (complex)."
+     },
+     {
+      "number": 29,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To provide a detailed timeline of every Viking military campaign.",
+       "B": "To present a more accurate, nuanced picture of Viking society.",
+       "C": "To celebrate the horned helmet as an authentic Viking symbol.",
+       "D": "To argue that Viking raiding never actually happened at all."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "nhận diện mục đích của tác giả: phá bỏ các định kiến/rập khuôn lịch sử đơn điệu để đưa ra một cái nhìn chính xác, tinh tế và đầy đủ hơn (nuanced picture) về xã hội Viking."
+     },
+     {
+      "number": 30,
+      "stem": "According to the passage, what role did some Viking merchants play in Constantinople?",
+      "options": {
+       "A": "They served as elite guards for the Byzantine emperor.",
+       "B": "They served as elite guards for the Roman emperor.",
+       "C": "They refused to ever serve the Byzantine emperor directly.",
+       "D": "Byzantine merchants served as guards for Viking chieftains instead. Reading"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét địa danh \"Constantinople\" ở đoạn 3 để xác định vai trò của các thương nhân Viking (làm cận vệ tinh nhuệ cho hoàng đế Byzantine)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R3Q1, R3Q5, R3Q10):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q1**, quét từ khóa \"horned helmet\" ở đoạn 2 để xác định nguồn gốc hình ảnh nón có sừng (nguồn gốc do các nhà thiết kế trang phục sáng tạo ra thay vì dựa trên bằng chứng khảo cổ thực tế).\n  - Với **R3Q5**, tìm các cụm từ \"Norse traders\", \"silver coins\", \"Baghdad\" ở đoạn 3 để định vị loại hàng hóa được trao đổi (lông thú và hổ phách - furs and amber).\n  - Với **R3Q10**, quét địa danh \"Constantinople\" ở đoạn 3 để xác định vai trò của các thương nhân Viking (làm cận vệ tinh nhuệ cho hoàng đế Byzantine).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q2, R3Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q2**, từ **\"feasible\"** ở đoạn 4 đi kèm ngữ cảnh thiết kế tàu longship giúp các chuyến vượt đại dương dài ngày có thể thực hiện được. Ngữ cảnh này mang nghĩa có thể thực hiện (possible).\n  - Với **R3Q8**, từ **\"layered\"** ở đoạn 7 mô tả cái nhìn về xã hội Viking vốn có nhiều khía cạnh phức tạp, đa chiều chứ không đơn điệu. Từ này sát nghĩa nhất với sự phức tạp (complex).\n- **Dạng câu hỏi Ý chính & Mục đích của tác giả (R3Q3, R3Q9):** Sử dụng kỹ năng **Skimming** (Đọc lướt câu chủ đề các đoạn).\n  - Với **R3Q3**, tổng hợp thông tin toàn bài: bên cạnh việc cướp phá (raiders), người Viking còn là nhà thương thuyết, nhà khai phá và quản trị. Ý chính phải phản ánh bức tranh toàn diện và đa dạng này.\n  - Với **R3Q9**, nhận diện mục đích của tác giả: phá bỏ các định kiến/rập khuôn lịch sử đơn điệu để đưa ra một cái nhìn chính xác, tinh tế và đầy đủ hơn (nuanced picture) về xã hội Viking.\n- **Dạng câu hỏi Quy chiếu (R3Q4):** Đọc ngược lại câu trước từ **\"it\"** ở đoạn 4 để tìm thực thể số ít được nhắc đến làm đối tượng địa lý cho các chuyến hành trình dài ngày (North America).\n- **Dạng câu hỏi Loại trừ NOT (R3Q6):** Rà soát các nguyên nhân làm thoái trào Thời đại Viking được nhắc đến ở đoạn 6 (sự lan rộng của Công giáo, khí hậu lạnh đi, sự tập trung quyền lực chính trị). Chi tiết không được đề cập (như một thất bại quân sự lớn trước một vương quốc châu Âu đối thủ) chính là đáp án cần chọn.\n- **Dạng câu hỏi Suy luận (R3Q7):** Tìm chi tiết về cơ quan \"Althing\" ở Iceland ở đoạn 5. Việc tồn tại một hệ thống nghị viện/hội đồng lập pháp chứng minh rằng xã hội Viking có tổ chức quản trị bài bản và phức tạp hơn rất nhiều so với những định kiến thô sơ về họ.\nLời khuyên: Hãy bắt đầu bằng cách xử lý các câu hỏi quy chiếu (R3Q4) và từ vựng (R3Q2, R3Q8) để ghi điểm nhanh chóng. Tiếp theo, áp dụng đọc quét định vị từ khóa cho các câu hỏi chi tiết (R3Q1, R3Q5, R3Q10) và loại trừ (R3Q6). Cuối cùng, dựa trên bức tranh tổng thể của bài đọc, hãy hoàn tất các câu hỏi tư duy cao như suy luận (R3Q7), ý chính (R3Q3) và mục đích bài viết (R3Q9)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Opening Doors: The United States and Trade with Asia",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "By the middle of the nineteenth century, American merchants and policymakers had grown increasingly frustrated by how little access they had to markets across East Asia. Japan, in particular, had maintained a policy of near-total isolation for more than two centuries, permitting only strictly limited trade through a single port and largely barring contact with Western nations. American ambitions in the Pacific, driven by a mix of commercial hope and expanding whaling and steamship interests, collided directly with this policy of deliberate **seclusion**.",
+     "In 1853, Commodore Matthew Perry sailed a squadron of American warships, popularly remembered as the black ships, into Japanese waters and delivered a formal request that Japan open itself to trade and diplomatic relations. Perry returned the following year with an even larger force, and under this pressure, Japanese officials signed the Treaty of Kanagawa in 1854, formally ending Japan's long period of relative isolation. The treaty itself granted only limited trading rights, but it opened a door that had been firmly shut for generations.",
+     "American motivations behind this pressure were not purely commercial. Steamships crossing the Pacific needed reliable coaling stations, and American whaling crews, who frequently found themselves shipwrecked along the Japanese coast, needed guaranteed protection and assistance rather than the harsh treatment some had previously received. Broader commercial ambition mattered too, however, since American traders hoped that access to Japan might eventually open a path toward the much larger and more lucrative markets of China.",
+     "The treaties that followed Perry's expedition, along with similar agreements the Western powers extracted from China during roughly the same period, followed a strikingly similar and one-sided pattern. Provisions for extraterritoriality allowed foreign citizens accused of crimes to be tried under their own country's laws rather than local ones. Fixed low tariffs, meanwhile, limited how much these nations could tax foreign imports on their own soil. Most-favored-nation clauses further ensured that any concession granted to one Western power automatically extended to all the others as well.",
+     "For Japan specifically, the consequences of this forced opening proved genuinely transformative, though hardly in ways foreign negotiators had anticipated or intended. Domestic political upheaval, partly triggered by resentment over the unequal treaties, contributed to the collapse of the shogunate and the restoration of imperial rule in 1868. The new Meiji government pursued rapid, deliberate modernization along largely Western lines, driven substantially by a determination to renegotiate the unequal treaties from a position of far greater strength.",
+     "China's experience during this same period followed a related but distinct trajectory. Western powers, including the United States, secured a growing network of treaty ports along the Chinese coast. By the century's end, American policymakers had begun formally advocating what became known as the Open Door Policy. This approach was meant to preserve broad, roughly equal commercial access for all foreign powers, rather than allowing any single nation exclusive control over Chinese markets.",
+     "Historians continue to debate how best to characterize this entire era of American engagement with Asia. Some frame **it** primarily as a straightforward, if occasionally **coercive**, expansion of global commerce that ultimately benefited all parties involved. Others emphasize the coercive gunboat diplomacy at its foundation, arguing that celebratory language about opening markets obscures how much of this economic access was extracted under direct or implied military threat. Such critics maintain that little of it was freely negotiated in good faith."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, what happened when Perry returned to Japan?",
+      "options": {
+       "A": "He returned with a smaller force, and Japan signed the treaty in 1854.",
+       "B": "He returned with a larger force, but Japan refused to sign any treaty.",
+       "C": "He returned with a larger force, and China signed the treaty in 1854.",
+       "D": "He returned with a larger force, and Japan signed the treaty in 1854."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét tên riêng \"Perry\" và mốc thời gian \"1854\" ở đoạn 2 để tìm kết quả sự trở lại của ông (mang theo lực lượng đông hơn và Nhật Bản đã ký hiệp ước)."
+     },
+     {
+      "number": 32,
+      "stem": "The word \"seclusion\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "expansion",
+       "B": "isolation",
+       "C": "protection",
+       "D": "seduction"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"seclusion\" ở đoạn 1 mô tả chính sách bế quan tỏa cảng của Nhật Bản trước khi mở cửa giao thương. Ngữ cảnh này mang nghĩa sự cô lập, tách biệt (isolation)."
+     },
+     {
+      "number": 33,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "The US and Japan negotiated trade agreements as complete equals.",
+       "B": "The US pressured Japan and China into trade agreements historians still debate.",
+       "C": "Japan eagerly sought American trade long before Perry's expedition.",
+       "D": "China's Open Door Policy had no connection to events in Japan."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Ý chính",
+      "explanation": "tổng hợp nội dung xuyên suốt bài đọc về sức ép của Mỹ đối với Nhật Bản và Trung Quốc trong việc mở cửa thương mại qua các hiệp ước bất bình đẳng. Ý chính phải phản ánh bức tranh toàn cảnh về sức ép thương mại này."
+     },
+     {
+      "number": 34,
+      "stem": "The word \"it\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "global commerce",
+       "B": "American engagement with Asia",
+       "C": "all parties involved",
+       "D": "coercive gunboat diplomacy"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược lại câu trước từ \"it\" ở đoạn 7 để xác định danh từ/cụm danh từ làm chủ ngữ logic (chỉ sự can thiệp/dấn thân của Mỹ vào châu Á - American engagement with Asia)."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what did extraterritoriality allow?",
+      "options": {
+       "A": "Foreign citizens to avoid any trial for crimes committed.",
+       "B": "Foreign citizens to be tried under their own laws.",
+       "C": "Foreign citizens to be tried only under local Japanese laws.",
+       "D": "Local citizens to be tried under a foreign country's laws."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"extraterritoriality\" (quyền ngoại tài phán) ở đoạn 4 để tìm định nghĩa chính xác (cho phép công dân nước ngoài được xét xử theo luật pháp của nước họ)."
+     },
+     {
+      "number": 36,
+      "stem": "According to the passage, which of the following is NOT mentioned as a feature of the unequal treaties?",
+      "options": {
+       "A": "Extraterritoriality protections granted to foreign citizens accused of crimes.",
+       "B": "Permanent military bases granted to foreign powers on local soil.",
+       "C": "Fixed low tariffs limiting taxes on foreign imports overall.",
+       "D": "Most-favored-nation clauses extending concessions to all Western powers."
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các đặc điểm của hiệp ước bất bình đẳng được đề cập ở đoạn 4 (quyền ngoại tài phán, thuế quan cố định ở mức thấp, điều khoản tối huệ quốc). Chi tiết không được đề cập (như việc căn cứ quân sự vĩnh viễn được trao cho nước ngoài trên lãnh thổ nội địa) chính là phương án cần chọn."
+     },
+     {
+      "number": 37,
+      "stem": "What can be inferred from the passage about Japan's Meiji government after 1868?",
+      "options": {
+       "A": "It pursued modernization partly to gain leverage in renegotiating treaties.",
+       "B": "The shogunate collapsed and imperial rule was restored in 1868.",
+       "C": "Successful treaty renegotiation caused Japan's modernization efforts to begin.",
+       "D": "It pursued modernization solely to copy Western culture for its own sake."
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Định vị thông tin về chính quyền Meiji (Minh Trị) sau năm 1868 ở đoạn 5. Logic trong bài chỉ ra rằng Nhật Bản đẩy mạnh hiện đại hóa một phần để tăng thế lực và uy tín nhằm đàm phán lại các hiệp ước bất bình đẳng."
+     },
+     {
+      "number": 38,
+      "stem": "The word \"coercive\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "corrosive",
+       "B": "gentle",
+       "C": "forceful",
+       "D": "profitable"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"coercive\" ở đoạn 7 đi kèm với \"gunboat diplomacy\" (ngoại giao pháo thủ) dùng lực lượng quân sự để ép buộc. Từ này sát nghĩa nhất với tính chất dùng sức mạnh/cưỡng chế (forceful)."
+     },
+     {
+      "number": 39,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that Commodore Perry acted purely out of ambition.",
+       "B": "To celebrate the economic benefits Japan gained from Western contact.",
+       "C": "To explain why the US pressured Asia to open trade.",
+       "D": "To provide a full biography of Commodore Matthew Perry's career."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "nhận diện mục đích của tác giả: phân tích lý do và bối cảnh lịch sử khiến Mỹ gây áp lực buộc các nước Đông Á mở cửa giao thương."
+     },
+     {
+      "number": 40,
+      "stem": "According to the passage, what did the Open Door Policy aim to do?",
+      "options": {
+       "A": "Give the United States exclusive control over Chinese markets.",
+       "B": "Preserve roughly equal commercial access for all foreign powers.",
+       "C": "Preserve equal access only for European powers, not the US.",
+       "D": "Close Chinese ports entirely to all foreign powers."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"Open Door Policy\" ở đoạn 6 để xác định mục tiêu cốt lõi (duy trì cơ hội thương mại bình đẳng cho tất cả các cường quốc ngoại giao)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Chi tiết (R4Q1, R4Q5, R4Q10):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q1**, quét tên riêng \"Perry\" và mốc thời gian \"1854\" ở đoạn 2 để tìm kết quả sự trở lại của ông (mang theo lực lượng đông hơn và Nhật Bản đã ký hiệp ước).\n  - Với **R4Q5**, quét từ khóa \"extraterritoriality\" (quyền ngoại tài phán) ở đoạn 4 để tìm định nghĩa chính xác (cho phép công dân nước ngoài được xét xử theo luật pháp của nước họ).\n  - Với **R4Q10**, quét cụm từ \"Open Door Policy\" ở đoạn 6 để xác định mục tiêu cốt lõi (duy trì cơ hội thương mại bình đẳng cho tất cả các cường quốc ngoại giao).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q2, R4Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q2**, từ **\"seclusion\"** ở đoạn 1 mô tả chính sách bế quan tỏa cảng của Nhật Bản trước khi mở cửa giao thương. Ngữ cảnh này mang nghĩa sự cô lập, tách biệt (isolation).\n  - Với **R4Q8**, từ **\"coercive\"** ở đoạn 7 đi kèm với \"gunboat diplomacy\" (ngoại giao pháo thủ) dùng lực lượng quân sự để ép buộc. Từ này sát nghĩa nhất với tính chất dùng sức mạnh/cưỡng chế (forceful).\n- **Dạng câu hỏi Ý chính & Mục đích của tác giả (R4Q3, R4Q9):** Sử dụng kỹ năng **Skimming** (Đọc lướt câu chủ đề các đoạn).\n  - Với **R4Q3**, tổng hợp nội dung xuyên suốt bài đọc về sức ép của Mỹ đối với Nhật Bản và Trung Quốc trong việc mở cửa thương mại qua các hiệp ước bất bình đẳng. Ý chính phải phản ánh bức tranh toàn cảnh về sức ép thương mại này.\n  - Với **R4Q9**, nhận diện mục đích của tác giả: phân tích lý do và bối cảnh lịch sử khiến Mỹ gây áp lực buộc các nước Đông Á mở cửa giao thương.\n- **Dạng câu hỏi Quy chiếu (R4Q4):** Đọc ngược lại câu trước từ **\"it\"** ở đoạn 7 để xác định danh từ/cụm danh từ làm chủ ngữ logic (chỉ sự can thiệp/dấn thân của Mỹ vào châu Á - American engagement with Asia).\n- **Dạng câu hỏi Loại trừ NOT (R4Q6):** Đối soát các đặc điểm của hiệp ước bất bình đẳng được đề cập ở đoạn 4 (quyền ngoại tài phán, thuế quan cố định ở mức thấp, điều khoản tối huệ quốc). Chi tiết không được đề cập (như việc căn cứ quân sự vĩnh viễn được trao cho nước ngoài trên lãnh thổ nội địa) chính là phương án cần chọn.\n- **Dạng câu hỏi Suy luận (R4Q7):** Định vị thông tin về chính quyền Meiji (Minh Trị) sau năm 1868 ở đoạn 5. Logic trong bài chỉ ra rằng Nhật Bản đẩy mạnh hiện đại hóa một phần để tăng thế lực và uy tín nhằm đàm phán lại các hiệp ước bất bình đẳng.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi quy chiếu (R4Q4) và từ vựng (R4Q2, R4Q8) trước để tích lũy điểm số nhanh chóng. Kế tiếp, sử dụng kỹ thuật đọc quét định vị từ khóa cho nhóm câu hỏi chi tiết (R4Q1, R4Q5, R4Q10) và loại trừ (R4Q6). Cuối cùng, tổng hợp mạch logic của toàn bài đọc để xử lý chính xác câu hỏi suy luận (R4Q7), ý chính (R4Q3) và mục đích bài viết (R4Q9)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You have just come back from a trip to Phan Thiet.\nWrite an email to your friend, Lan, telling her about your trip.\nInclude the following points in your email:\n- Say where you went, when, and who you went with.\n- Describe the activities you did during the trip.\n- Say how you felt about the trip and what impressed you most.\n- Recommend whether Lan should visit Phan Thiet too, and explain why.\nYou should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You have just come back from a trip to Phan Thiet.",
+      "Write an email to your friend, Lan, telling her about your trip."
+     ],
+     "quote": [
+      "Include the following points in your email:",
+      "- Say where you went, when, and who you went with.",
+      "- Describe the activities you did during the trip.",
+      "- Say how you felt about the trip and what impressed you most.",
+      "- Recommend whether Lan should visit Phan Thiet too, and explain why."
+     ],
+     "instruction": "You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\nĐây là dạng **Informal Email** (thư gửi bạn thân) kể về một chuyến đi đã trải qua. Đề bài yêu cầu trả lời đủ **4 ý chính**: (1) đi đâu, khi nào, đi cùng ai, (2) đã làm những hoạt động gì trong chuyến đi, (3) cảm nhận về chuyến đi và điều gì ấn tượng nhất, (4) có nên giới thiệu bạn mình đi Phan Thiết không và vì sao. Bài viết cần tối thiểu **120 từ**, giọng văn thân mật, kể chuyện tự nhiên như đang tâm sự với bạn bè.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Lan,\n- **Opening:** Dẫn dắt vào chủ đề chuyến đi. Ví dụ: I've just got back from an amazing trip and I can't wait to tell you all about it!\n- **Body 1 (đi đâu, khi nào, với ai):** Ví dụ: Last weekend, my family and I went to Phan Thiet for three days.\n- **Body 2 (hoạt động):** Ví dụ: We spent most of our time relaxing on the beach, trying fresh seafood, and visiting the famous sand dunes.\n- **Body 3 (cảm nhận và gợi ý):** Ví dụ: I was really impressed by the clear blue sea, and I think you would love it too, especially the sunrise at the dunes.\n- **Closing:** Ví dụ: I hope you get the chance to visit sometime soon. Let me know if you'd like some tips!\n- **Sign-off:** Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nDùng thì quá khứ đơn để kể lại các sự kiện đã xảy ra trong chuyến đi (went, visited, tried), và tính từ miêu tả cảm xúc để bài viết sinh động hơn. Tránh lặp lại từ \"go/went\" hoặc \"nice\" quá nhiều lần, nên thay bằng các từ đồng nghĩa. Từ vựng quan trọng:\n- **sand dunes:** đồi cát\n- **fresh seafood:** hải sản tươi\n- **breathtaking scenery:** phong cảnh ngoạn mục\n- **relax/unwind:** thư giãn\n- **coastal town:** thị trấn ven biển\n- **sunrise/sunset:** bình minh/hoàng hôn\n- **worth visiting:** đáng để ghé thăm\n- **local cuisine:** ẩm thực địa phương\nTừ nối (Linking words):\n- **After that:** Sau đó\n- **Besides:** Bên cạnh đó\n- **Especially:** Đặc biệt là\n- **On the last day:** Vào ngày cuối cùng\n- **Overall:** Nhìn chung\nCách diễn đạt cảm xúc:\n- **I was truly amazed by...:** Tôi thực sự bị choáng ngợp bởi...\n- **It was one of the best trips I've ever had:** Đó là một trong những chuyến đi tuyệt vời nhất của tôi\n- **You would definitely fall in love with...:** Bạn chắc chắn sẽ yêu thích...\n\n**4. Các lỗi thường gặp:**\n- Quên chia thì quá khứ khi kể lại các sự kiện đã xảy ra.\n- Không đưa ra lời khuyên hoặc gợi ý cho bạn mình ở phần cuối thư.\n- Liệt kê hoạt động một cách khô khan mà không kèm cảm nhận.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm lại số từ, đảm bảo đạt tối thiểu 120 từ.\n- Kiểm tra đã trả lời đủ cả 4 ý trong đề chưa.\n- Rà soát lỗi chia thì quá khứ và chính tả.\n\n**6. Tư duy làm bài:**\nHãy kể chuyến đi như đang thực sự chia sẻ trải nghiệm thú vị với bạn thân. Ưu tiên sự chân thật, sinh động và đầy đủ thông tin hơn là cố gắng dùng từ ngữ quá cầu kỳ.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn recent years, children have been spending an increasing amount of time using electronic devices such as smartphones, tablets and computers.\nThis growing trend has raised serious concerns among parents and educators about its impact on children's health, behaviour and academic performance.\nDiscuss the causes of this problem and suggest possible solutions to reduce it.\nWrite an essay to an educated reader to discuss the problems caused by children's excessive use of electronic devices and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In recent years, children have been spending an increasing amount of time using electronic devices such as smartphones, tablets and computers.",
+      "This growing trend has raised serious concerns among parents and educators about its impact on children's health, behaviour and academic performance.",
+      "Discuss the causes of this problem and suggest possible solutions to reduce it."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by children's excessive use of electronic devices and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\nĐây là dạng bài **Problem–Solution Essay**. Bạn cần phân tích **nguyên nhân** khiến trẻ em ngày càng sử dụng thiết bị điện tử nhiều hơn, sau đó đề xuất **giải pháp** khả thi để giảm bớt tình trạng này. Lưu ý tránh lạc đề sang phân tích lợi ích của thiết bị điện tử; trọng tâm là vấn đề và cách giải quyết. Bài viết cần tối thiểu **250 từ**.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vấn đề và nêu luận điểm chính. Ví dụ: While technology offers many benefits, the excessive use of electronic devices among children has become a growing concern for parents and educators alike.\n- **Body 1 (nguyên nhân):** Ví dụ: One major cause is the lack of parental supervision, as many parents allow their children to use devices unsupervised to keep them occupied.\n- **Body 2 (nguyên nhân khác):** Ví dụ: Another contributing factor is the addictive design of games and social media apps, which are specifically created to capture children's attention for long periods.\n- **Body 3 (giải pháp):** Ví dụ: To tackle this issue, parents should set clear time limits on device usage, while schools could organise more outdoor and physical activities to encourage healthier habits.\n- **Conclusion:** Tóm tắt nguyên nhân và giải pháp, khẳng định lại quan điểm. Ví dụ: In conclusion, addressing children's overuse of electronic devices requires joint efforts from parents, schools and technology companies.\nMỗi đoạn thân bài nên theo cấu trúc: Topic sentence -> Giải thích -> Ví dụ minh họa -> Kết mini-đoạn, giúp bài viết chặt chẽ và thuyết phục.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng câu điều kiện hoặc modal verbs (should, could) khi đề xuất giải pháp, và cấu trúc nguyên nhân – kết quả (due to, as a result, this leads to) để liên kết các ý mạch lạc. Cần có thesis statement rõ ràng ngay ở phần mở bài.\nTừ vựng quan trọng:\n- **screen time:** thời gian dùng thiết bị màn hình\n- **parental supervision:** sự giám sát của cha mẹ\n- **addictive:** gây nghiện\n- **sedentary lifestyle:** lối sống ít vận động\n- **academic performance:** kết quả học tập\n- **social skills:** kỹ năng xã hội\n- **outdoor activities:** hoạt động ngoài trời\n- **digital detox:** cai nghiện thiết bị số\nTừ nối (Linking words):\n- **In addition / Moreover (Thêm ý):** Hơn nữa\n- **However / On the other hand (Đối lập):** Tuy nhiên\n- **As a result / Consequently (Nguyên nhân-kết quả):** Do đó\n- **For example / Such as (Ví dụ):** Ví dụ như\n- **In conclusion / Overall (Kết luận):** Tóm lại\n- **Particularly / Especially (Nhấn mạnh):** Đặc biệt là\nDiễn đạt lại ý (Paraphrasing):\n- **electronic devices:** có thể thay bằng \"digital gadgets\" hoặc \"smart devices\"\n- **children's excessive use:** có thể thay bằng \"overreliance among young users\"\n- **reduce:** có thể thay bằng \"minimise\" hoặc \"curb\"\nCách diễn đạt giải pháp:\n- **One practical solution would be to...:** Một giải pháp thiết thực sẽ là...\n- **Parents/Schools should encourage...:** Cha mẹ/Nhà trường nên khuyến khích...\n- **It is essential that...:** Điều cần thiết là...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nêu nguyên nhân mà không đưa ra giải pháp tương ứng, hoặc ngược lại.\n- Thiếu ví dụ cụ thể để minh họa cho từng luận điểm.\n- Đoạn văn không có topic sentence rõ ràng, khiến bài viết thiếu mạch lạc.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã đạt tối thiểu 250 từ chưa.\n- Đảm bảo bài viết có cả phần nguyên nhân và phần giải pháp rõ ràng.\n- Xem lại phần kết luận đã tóm tắt đầy đủ ý chính chưa.\n\n**6. Tư duy làm bài:**\nHãy cân bằng dung lượng giữa nguyên nhân và giải pháp, tránh chỉ tập trung vào một phía. Sự logic và rõ ràng trong lập luận chính là yếu tố then chốt để đạt điểm cao ở dạng bài này."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about your family responsibilities\n\n1\nWhat do you think are your main responsibilities towards your family?\n2\nHow do you usually help your family members in daily life?\n3\nDo you think responsibilities towards family change as people grow older? Why?\n\nNow, let’s talk about making money\n\n4\nWhy do you think making money is important?\n5\nWhat are some ways young people today try to earn money?\n6\nDo you think money can bring happiness? Why or why not?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần 1 kéo dài **3 phút** với **6 câu hỏi** chia thành 2 chủ đề nhỏ, giúp giám khảo đánh giá khả năng giao tiếp tự nhiên ngay từ đầu bài thi.\n- **Topic A (Trách nhiệm với gia đình):** Câu 1-3 hỏi về trách nhiệm chính của bạn với gia đình, cách bạn giúp đỡ người thân và việc trách nhiệm có thay đổi theo tuổi tác hay không, kiểm tra khả năng bày tỏ quan điểm về giá trị gia đình.\n- **Topic B (Kiếm tiền):** Câu 4-6 hỏi về tầm quan trọng của việc kiếm tiền, cách người trẻ kiếm tiền và mối liên hệ giữa tiền bạc và hạnh phúc, kiểm tra vốn từ về tài chính và tư duy phản biện.\n- Tiêu chí chấm điểm gồm **Fluency**, **Vocabulary**, **Grammar** và **Pronunciation**.\n- Nên phân bổ khoảng **25-35 giây** cho mỗi câu, tránh trả lời quá dài ở Topic A khiến Topic B bị thiếu thời gian.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Áp dụng cấu trúc **Answer - Reason - Example (ARE)** để câu trả lời có chiều sâu thay vì chỉ nói một câu ngắn gọn.\n- **Ví dụ Topic A:** \"I think one of my main responsibilities is to support my parents emotionally and financially as they get older, because they have sacrificed a lot for me.\"\n- **Ví dụ Topic B:** \"I believe making money is important because it allows me to be independent and take care of the people I love.\"\n- Luôn tự hỏi **Why?/How?** sau khi trả lời để mở rộng ý, tránh câu trả lời cụt lủn.\n- Khi chuyển từ Topic A sang Topic B, dùng câu chuyển tiếp mượt mà, ví dụ: \"Speaking of taking care of my family, that's actually one of the main reasons why earning money matters so much to me.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ nhịp nói ổn định, dùng từ đệm như \"well\", \"actually\", \"to be honest\" để tránh im lặng kéo dài khi suy nghĩ.\n- Dùng **thì hiện tại đơn** để nói về trách nhiệm và quan điểm chung (I believe..., I usually...) và **động từ khuyết thiếu** should/have to khi nói về nghĩa vụ (I should take care of my parents).\n- Nếu quên từ, hãy diễn giải thay vì im lặng, ví dụ thay vì \"provide for\" có thể nói \"give money and support to\".\n- Từ vựng cho Topic A: **take care of** (chăm sóc), **be there for someone** (ở bên cạnh ai đó), **filial piety** (lòng hiếu thảo).\n- Từ vựng cho Topic B: **earn a living** (kiếm sống), **financial independence** (độc lập tài chính), **make ends meet** (đủ trang trải cuộc sống).\nCụm từ quan trọng nên dùng:\n- **lend a helping hand** - giúp đỡ (Topic A)\n- **a sense of duty** - ý thức trách nhiệm (Topic A)\n- **repay my parents' love** - đền đáp tình yêu thương của cha mẹ (Topic A)\n- **a part-time job** - công việc bán thời gian (Topic B)\n- **save up for the future** - tiết kiệm cho tương lai (Topic B)\n- **a stable income** - thu nhập ổn định (Topic B)\nTừ nối khi nói (Linking Words):\n- **To begin with** - trước tiên\n- **Besides that** - bên cạnh đó\n- **Moreover** - hơn nữa\n- **As for...** - còn về...\n- **In short** - tóm lại\nCách thể hiện quan điểm tự nhiên:\n- **To me, ...matters a lot** ví dụ: \"To me, supporting my family matters a lot, especially as my parents grow older.\" (Đối với tôi, ...rất quan trọng)\n- **I truly believe that...** ví dụ: \"I truly believe that earning money gives you more freedom in life.\" (Tôi thực sự tin rằng...)\n- **What matters most to me is...** ví dụ: \"What matters most to me is being able to provide for my family.\" (Điều quan trọng nhất với tôi là...)\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes\" hoặc \"No\" rồi im lặng - lỗi nghiêm trọng nhất khiến giám khảo không đánh giá được khả năng ngôn ngữ.\n- Ở Topic A, nhiều bạn chỉ nói chung chung \"I love my family\" mà không nêu được trách nhiệm cụ thể.\n- Ở Topic B, nhiều bạn chỉ nói \"money is important\" mà không giải thích lý do hoặc cách kiếm tiền cụ thể.\n- Dùng sai thì, ví dụ dùng thì quá khứ khi nói về quan điểm hiện tại.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: \"That's a thoughtful question, let me think about it for a moment.\"\n- Nếu quên từ vựng cụ thể, hãy mô tả bằng từ đơn giản hơn thay vì dừng lại.\n- Với Topic A, nếu bí ý, hãy kể về một kỷ niệm cụ thể với gia đình để minh họa.\n- Với Topic B, nếu bí ý, hãy nói về dự định công việc trong tương lai gần.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi đây như một cuộc trò chuyện chân thành về giá trị cá nhân, không phải một bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để tránh nhầm lẫn nội dung giữa hai chủ đề.\n- Sự chân thành và trôi chảy quan trọng hơn việc cố dùng từ vựng phức tạp mà không chắc chắn.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou have just graduated and received three different job offers.\n\nYou are considering the following options:\n\nOption 1: A job with a high salary\nOption 2: A job with a good working environment\nOption 3: A job that you are truly passionate about\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống đưa ra là lựa chọn công việc sau khi tốt nghiệp, với 3 lựa chọn: lương cao, môi trường làm việc tốt, và công việc mình yêu thích.\n- Tiêu chí chấm điểm gồm khả năng phân tích, so sánh và đưa ra quyết định có lý lẽ thuyết phục.\n- Thời gian làm bài là **4 phút**, trong đó khoảng 1 phút chuẩn bị và 3 phút nói.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E (Introduction - Comparison/Body - End)**: giới thiệu tình huống, so sánh 3 lựa chọn, sau đó kết luận và chọn phương án tốt nhất.\n- **Option 1 (Lương cao):** Giúp ổn định tài chính và hỗ trợ gia đình sớm, tuy nhiên công việc lương cao thường đi kèm áp lực lớn và ít thời gian cho bản thân.\n- **Option 2 (Môi trường tốt):** Giúp duy trì sức khỏe tinh thần, có đồng nghiệp thân thiện và cơ hội học hỏi, nhưng có thể mức lương không cao bằng các lựa chọn khác.\n- **Option 3 (Công việc yêu thích):** Mang lại động lực và sự hài lòng lâu dài trong công việc, tuy nhiên có thể thu nhập ban đầu chưa cao và cần thời gian để phát triển.\n- Nên gắn lập luận với ngữ cảnh thực tế, ví dụ giai đoạn mới ra trường cần ưu tiên điều gì trước.\n- Dùng từ nối tương phản để chuyển giữa ưu và nhược điểm của từng lựa chọn, ví dụ \"however\", \"on the other hand\".\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ so sánh trực tiếp Option 1 và Option 3 trước khi nói tới Option 2.\n- Dùng thì hiện tại đơn để miêu tả đặc điểm chung của từng lựa chọn (A high salary usually means...) và thì tương lai để nói về dự định (I will probably prioritize...).\n- Sử dụng từ đồng nghĩa để tránh lặp lại \"good\" hoặc \"important\", ví dụ \"fulfilling\", \"rewarding\", \"essential\".\nCụm từ quan trọng nên dùng:\n- **a competitive salary** - mức lương cạnh tranh\n- **a supportive workplace** - môi trường làm việc hỗ trợ\n- **job satisfaction** - sự hài lòng trong công việc\n- **burn out** - kiệt sức vì công việc\n- **career growth** - sự phát triển sự nghiệp\n- **pursue your passion** - theo đuổi đam mê\nTừ nối khi nói (Linking Words):\n- **Compared to...** - so với...\n- **On the other hand** - mặt khác\n- **Nevertheless** - tuy nhiên\n- **Taking everything into account** - xét tất cả các yếu tố\n- **All things considered** - nhìn chung, xét mọi mặt\nCách thể hiện quan điểm tự nhiên:\n- **If I had to choose, I would go with...** ví dụ: \"If I had to choose, I would go with the job I'm passionate about because it keeps me motivated long-term.\" (Nếu phải chọn, tôi sẽ chọn...)\n- **I'm inclined to think that...** ví dụ: \"I'm inclined to think that a good working environment matters more than salary at the start of a career.\" (Tôi nghiêng về suy nghĩ rằng...)\n- **All things considered, I believe...** ví dụ: \"All things considered, I believe passion is the key to long-term success.\" (Xét mọi mặt, tôi tin rằng...)\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của các lựa chọn còn lại.\n- Lặp lại từ \"good\" hoặc \"important\" nhiều lần thay vì dùng tính từ học thuật hơn.\n- Không đưa ra kết luận rõ ràng ở cuối bài, khiến giám khảo không biết bạn thực sự chọn phương án nào.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên biệt về công việc, hãy chuyển hướng sang yếu tố thời gian hoặc cảm xúc, ví dụ \"it also makes me feel happier every day\".\n- Dùng câu đệm: \"Let's evaluate this option from a different perspective\" để có thêm thời gian suy nghĩ.\n- Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang lựa chọn tiếp theo thay vì dừng lại quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người ra quyết định thực sự - đâu là lựa chọn phù hợp và bền vững nhất cho giai đoạn hiện tại của cuộc đời bạn.\n- Đưa ra một vài gợi ý cải thiện ngay cả với lựa chọn được chọn để thể hiện tư duy phản biện, ví dụ có thể thương lượng thêm về lương dù chọn công việc yêu thích.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of failure in personal growth\n\nBenefits of Failure\nLearning valuable lessons from mistakes\nBuilding resilience and character\nMotivation for future success\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think schools should teach students how to handle failure?\n2\nHow can people stay motivated after experiencing failure?\n3\nIs failure always a bad thing? Why or why not?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển bài nói về lợi ích của thất bại, dựa trên 3 nhánh ý chính: bài học rút ra từ sai lầm, xây dựng sự kiên cường và tính cách, động lực cho thành công trong tương lai, cùng nhánh ý tự do thứ 4.\n- Tiêu chí chấm điểm gồm khả năng phát triển ý, tính mạch lạc và vốn từ vựng học thuật liên quan đến tâm lý và phát triển bản thân.\n- Thời gian là **5 phút**, bao gồm khoảng 3-3.5 phút cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL (Point - Explanation - Example - Link)** cho mỗi nhánh ý để đảm bảo có dẫn chứng cụ thể thay vì chỉ liệt kê ý chung chung.\n- **Câu mở đầu gợi ý:** \"Today, I would like to talk about the benefits of failure and why it plays an important role in personal growth.\"\n- **Câu cho nhánh ý cá nhân:** \"Besides these benefits, I also think failure helps people develop humility and empathy towards others.\"\n- Nên đưa ra ví dụ thực tế để tăng tính thuyết phục, ví dụ nhắc đến những người thành công từng thất bại nhiều lần trước khi đạt được mục tiêu.\n- Bám sát sơ đồ tư duy để tránh lặp ý hoặc lan man sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng các cụm từ chuyển tiếp mượt mà giữa các nhánh ý để bài nói liền mạch.\n- Kết hợp **thì hiện tại đơn** để nêu sự thật chung (Failure teaches us valuable lessons) và **hiện tại hoàn thành** để nói về trải nghiệm tích lũy (I have learned a lot from my past mistakes).\n- Paraphrase cụm từ chính \"failure\" bằng các cách diễn đạt khác như \"setbacks\" hoặc \"unsuccessful attempts\". Cụm từ quan trọng nên dùng:\n- **learn from one's mistakes** - học hỏi từ sai lầm của bản thân\n- **bounce back** - vực dậy sau thất bại\n- **build resilience** - xây dựng sự kiên cường\n- **a stepping stone to success** - bước đệm dẫn đến thành công\n- **step out of one's comfort zone** - bước ra khỏi vùng an toàn\n- **a valuable life lesson** - bài học quý giá trong cuộc sống\nTừ nối khi nói (Linking Words):\n- **First and foremost** - trước hết\n- **Another benefit is...** - một lợi ích khác là...\n- **Not only... but also...** - không chỉ... mà còn...\n- **As a result** - kết quả là\n- **To sum up** - tóm lại\nCách thể hiện quan điểm tự nhiên:\n- **From my perspective, ...** ví dụ: \"From my perspective, failure is often more valuable than early success.\" (Theo quan điểm của tôi, ...)\n- **It seems to me that...** ví dụ: \"It seems to me that people who never fail rarely learn how to overcome real challenges.\" (Dường như đối với tôi rằng...)\n- **I would argue that...** ví dụ: \"I would argue that failure is an essential part of the learning process.\" (Tôi cho rằng...)\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"Do you think schools should teach students how to handle failure?\"** - Yes, schools should help students see failure as a normal part of learning rather than something to fear.\n- **\"How can people stay motivated after experiencing failure?\"** - They can focus on what they learned, set new realistic goals, and seek support from friends or mentors.\n- **\"Is failure always a bad thing? Why or why not?\"** - Not necessarily, because failure often provides insights and motivation that success alone cannot offer.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê nhánh ý mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước để tránh bị động.\n- Dành quá nhiều thời gian cho bài nói chính, không còn thời gian trả lời câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Khi bí ý, hãy liên hệ đến trải nghiệm thất bại thực tế của bản thân trong học tập hoặc công việc để có thêm ví dụ.\n- Dùng câu học thuật để câu giờ: \"That is a complex issue. If we evaluate it from a psychological perspective...\"\n- Nếu quên từ vựng chuyên môn, hãy dùng từ đồng nghĩa đơn giản hơn hoặc mô tả khái niệm bằng câu dễ hiểu.\n\n**7. Tư duy làm bài nói:**\n- Hãy tư duy thực tế, nhìn nhận thất bại như một phần tất yếu của quá trình trưởng thành.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao.\n- Đừng ngại đưa ra góc nhìn cá nhân, vì điều đó giúp bài nói trở nên chân thực và thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about your family responsibilities.\n1.\nWhat do you think are your main responsibilities towards your family?\n2.\nHow do you usually help your family members in daily life?\n3.\nDo you think responsibilities towards family change as people grow older? Why?\nNow, let’s talk about making money.\n4.\nWhy do you think making money is important?\n5.\nWhat are some ways young people today try to earn money?\n6.\nDo you think money can bring happiness? Why or why not?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần 1 kéo dài 3 phút với 6 câu hỏi chia thành 2 chủ đề nhỏ, giúp giám khảo đánh giá khả năng giao tiếp tự nhiên\nngay từ đầu bài thi.\n• Topic A (Trách nhiệm với gia đình): Câu 1-3 hỏi về trách nhiệm chính của bạn với gia đình, cách bạn giúp đỡ người\nthân và việc trách nhiệm có thay đổi theo tuổi tác hay không, kiểm tra khả năng bày tỏ quan điểm về giá trị gia đình.\n• Topic B (Kiếm tiền): Câu 4-6 hỏi về tầm quan trọng của việc kiếm tiền, cách người trẻ kiếm tiền và mối liên hệ giữa\ntiền bạc và hạnh phúc, kiểm tra vốn từ về tài chính và tư duy phản biện.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và Pronunciation.\n• Nên phân bổ khoảng 25-35 giây cho mỗi câu, tránh trả lời quá dài ở Topic A khiến Topic B bị thiếu thời gian.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Áp dụng cấu trúc Answer - Reason - Example (ARE) để câu trả lời có chiều sâu thay vì chỉ nói một câu ngắn gọn.\n• Ví dụ Topic A: \"I think one of my main responsibilities is to support my parents emotionally and financially as they\nget older, because they have sacrificed a lot for me.\"\n• Ví dụ Topic B: \"I believe making money is important because it allows me to be independent and take care of the\npeople I love.\"\n• Luôn tự hỏi Why?/How? sau khi trả lời để mở rộng ý, tránh câu trả lời cụt lủn.\n• Khi chuyển từ Topic A sang Topic B, dùng câu chuyển tiếp mượt mà, ví dụ: \"Speaking of taking care of my family, that's\nactually one of the main reasons why earning money matters so much to me.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ nhịp nói ổn định, dùng từ đệm như \"well\", \"actually\", \"to be honest\" để tránh im lặng kéo dài khi suy nghĩ.\n• Dùng thì hiện tại đơn để nói về trách nhiệm và quan điểm chung (I believe..., I usually...) và động từ khuyết thiếu\nshould/have to khi nói về nghĩa vụ (I should take care of my parents).\n• Nếu quên từ, hãy diễn giải thay vì im lặng, ví dụ thay vì \"provide for\" có thể nói \"give money and support to\".\n• Từ vựng cho Topic A: take care of (chăm sóc), be there for someone (ở bên cạnh ai đó), filial piety (lòng hiếu thảo).\n• Từ vựng cho Topic B: earn a living (kiếm sống), financial independence (độc lập tài chính), make ends meet (đủ trang\ntrải cuộc sống).\nCụm từ quan trọng nên dùng:\n• lend a helping hand - giúp đỡ (Topic A)\n• a sense of duty - ý thức trách nhiệm (Topic A)\n• repay my parents' love - đền đáp tình yêu thương của cha mẹ (Topic A)\n• a part-time job - công việc bán thời gian (Topic B)\n• save up for the future - tiết kiệm cho tương lai (Topic B)\n• a stable income - thu nhập ổn định (Topic B)\nTừ nối khi nói (Linking Words):\n• To begin with - trước tiên\n• Besides that - bên cạnh đó\n• Moreover - hơn nữa\n• As for... - còn về...\n• In short - tóm lại\nCách thể hiện quan điểm tự nhiên:\n• To me, ...matters a lot ví dụ: \"To me, supporting my family matters a lot, especially as my parents grow older.\" (Đối\nvới tôi, ...rất quan trọng)\n• I truly believe that... ví dụ: \"I truly believe that earning money gives you more freedom in life.\" (Tôi thực sự tin rằng...)\n• What matters most to me is... ví dụ: \"What matters most to me is being able to provide for my family.\" (Điều quan\ntrọng nhất với tôi là...)\n4. Các lỗi thường gặp:\n• Trả lời \"Yes\" hoặc \"No\" rồi im lặng - lỗi nghiêm trọng nhất khiến giám khảo không đánh giá được khả năng ngôn ngữ.\n• Ở Topic A, nhiều bạn chỉ nói chung chung \"I love my family\" mà không nêu được trách nhiệm cụ thể.\n• Ở Topic B, nhiều bạn chỉ nói \"money is important\" mà không giải thích lý do hoặc cách kiếm tiền cụ thể.\n• Dùng sai thì, ví dụ dùng thì quá khứ khi nói về quan điểm hiện tại.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: \"That's a thoughtful question, let me think about it for a moment.\"\n• Nếu quên từ vựng cụ thể, hãy mô tả bằng từ đơn giản hơn thay vì dừng lại.\n• Với Topic A, nếu bí ý, hãy kể về một kỷ niệm cụ thể với gia đình để minh họa.\n• Với Topic B, nếu bí ý, hãy nói về dự định công việc trong tương lai gần.\n6. Tư duy làm bài nói:\n• Hãy coi đây như một cuộc trò chuyện chân thành về giá trị cá nhân, không phải một bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để tránh nhầm lẫn nội dung giữa hai chủ đề.\n• Sự chân thành và trôi chảy quan trọng hơn việc cố dùng từ vựng phức tạp mà không chắc chắn.\nSolution Discussion\nPART 2\n4 phút\nYou have just graduated and received three different job offers.\nYou are considering the following options:\n• Option 1: A job with a high salary\n• Option 2: A job with a good working environment\n• Option 3: A job that you are truly passionate about\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống đưa ra là lựa chọn công việc sau khi tốt nghiệp, với 3 lựa chọn: lương cao, môi trường làm việc tốt, và\ncông việc mình yêu thích.\n• Tiêu chí chấm điểm gồm khả năng phân tích, so sánh và đưa ra quyết định có lý lẽ thuyết phục.\n• Thời gian làm bài là 4 phút, trong đó khoảng 1 phút chuẩn bị và 3 phút nói.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu tình huống, so sánh 3 lựa chọn, sau đó\nkết luận và chọn phương án tốt nhất.\n• Option 1 (Lương cao): Giúp ổn định tài chính và hỗ trợ gia đình sớm, tuy nhiên công việc lương cao thường đi kèm\náp lực lớn và ít thời gian cho bản thân.\n• Option 2 (Môi trường tốt): Giúp duy trì sức khỏe tinh thần, có đồng nghiệp thân thiện và cơ hội học hỏi, nhưng có thể\nmức lương không cao bằng các lựa chọn khác.\n• Option 3 (Công việc yêu thích): Mang lại động lực và sự hài lòng lâu dài trong công việc, tuy nhiên có thể thu nhập\nban đầu chưa cao và cần thời gian để phát triển.\n• Nên gắn lập luận với ngữ cảnh thực tế, ví dụ giai đoạn mới ra trường cần ưu tiên điều gì trước.\n• Dùng từ nối tương phản để chuyển giữa ưu và nhược điểm của từng lựa chọn, ví dụ \"however\", \"on the other hand\".\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ so sánh trực tiếp Option 1 và Option 3 trước khi nói tới Option\n2.\n• Dùng thì hiện tại đơn để miêu tả đặc điểm chung của từng lựa chọn (A high salary usually means...) và thì tương lai\nđể nói về dự định (I will probably prioritize...).\n• Sử dụng từ đồng nghĩa để tránh lặp lại \"good\" hoặc \"important\", ví dụ \"fulfilling\", \"rewarding\", \"essential\".\nCụm từ quan trọng nên dùng:\n• a competitive salary - mức lương cạnh tranh\n• a supportive workplace - môi trường làm việc hỗ trợ\n• job satisfaction - sự hài lòng trong công việc\n• burn out - kiệt sức vì công việc\n• career growth - sự phát triển sự nghiệp\n• pursue your passion - theo đuổi đam mê\nTừ nối khi nói (Linking Words):\n• Compared to... - so với...\n• On the other hand - mặt khác\n• Nevertheless - tuy nhiên\n• Taking everything into account - xét tất cả các yếu tố\n• All things considered - nhìn chung, xét mọi mặt\nCách thể hiện quan điểm tự nhiên:\n• If I had to choose, I would go with... ví dụ: \"If I had to choose, I would go with the job I'm passionate about because\nit keeps me motivated long-term.\" (Nếu phải chọn, tôi sẽ chọn...)\n• I'm inclined to think that... ví dụ: \"I'm inclined to think that a good working environment matters more than salary at\nthe start of a career.\" (Tôi nghiêng về suy nghĩ rằng...)\n• All things considered, I believe... ví dụ: \"All things considered, I believe passion is the key to long-term success.\" (Xét\nmọi mặt, tôi tin rằng...)\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của các lựa chọn còn lại.\n• Lặp lại từ \"good\" hoặc \"important\" nhiều lần thay vì dùng tính từ học thuật hơn.\n• Không đưa ra kết luận rõ ràng ở cuối bài, khiến giám khảo không biết bạn thực sự chọn phương án nào.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên biệt về công việc, hãy chuyển hướng sang yếu tố thời gian hoặc cảm xúc, ví dụ \"it also\nmakes me feel happier every day\".\n• Dùng câu đệm: \"Let's evaluate this option from a different perspective\" để có thêm thời gian suy nghĩ.\n• Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang lựa chọn tiếp theo thay vì dừng lại quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người ra quyết định thực sự - đâu là lựa chọn phù hợp và bền vững nhất cho giai đoạn hiện tại của\ncuộc đời bạn.\n• Đưa ra một vài gợi ý cải thiện ngay cả với lựa chọn được chọn để thể hiện tư duy phản biện, ví dụ có thể thương lượng\nthêm về lương dù chọn công việc yêu thích.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of failure in personal growth\nLearning valuable lessons from\nBuilding resilience and character\nmistakes\nBenefits of Failure\nÝ tưởng của bạn\nMotivation for future success\nFOLLOW-UP QUESTIONS\n1.\nDo you think schools should teach students how to handle failure?\n2.\nHow can people stay motivated after experiencing failure?\n3.\nIs failure always a bad thing? Why or why not?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển bài nói về lợi ích của thất bại, dựa trên 3 nhánh ý chính: bài học rút ra từ sai lầm, xây\ndựng sự kiên cường và tính cách, động lực cho thành công trong tương lai, cùng nhánh ý tự do thứ 4.\n• Tiêu chí chấm điểm gồm khả năng phát triển ý, tính mạch lạc và vốn từ vựng học thuật liên quan đến tâm lý và phát\ntriển bản thân.\n• Thời gian là 5 phút, bao gồm khoảng 3-3.5 phút cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point - Explanation - Example - Link) cho mỗi nhánh ý để đảm bảo có dẫn chứng cụ thể thay\nvì chỉ liệt kê ý chung chung.\n• Câu mở đầu gợi ý: \"Today, I would like to talk about the benefits of failure and why it plays an important role in\npersonal growth.\"\n• Câu cho nhánh ý cá nhân: \"Besides these benefits, I also think failure helps people develop humility and empathy\ntowards others.\"\n• Nên đưa ra ví dụ thực tế để tăng tính thuyết phục, ví dụ nhắc đến những người thành công từng thất bại nhiều lần\ntrước khi đạt được mục tiêu.\n• Bám sát sơ đồ tư duy để tránh lặp ý hoặc lan man sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng các cụm từ chuyển tiếp mượt mà giữa các nhánh ý để bài nói liền mạch.\n• Kết hợp thì hiện tại đơn để nêu sự thật chung (Failure teaches us valuable lessons) và hiện tại hoàn thành để nói về\ntrải nghiệm tích lũy (I have learned a lot from my past mistakes).\n• Paraphrase cụm từ chính \"failure\" bằng các cách diễn đạt khác như \"setbacks\" hoặc \"unsuccessful attempts\".\nCụm từ quan trọng nên dùng:\n• learn from one's mistakes - học hỏi từ sai lầm của bản thân\n• bounce back - vực dậy sau thất bại\n• build resilience - xây dựng sự kiên cường\n• a stepping stone to success - bước đệm dẫn đến thành công\n• step out of one's comfort zone - bước ra khỏi vùng an toàn\n• a valuable life lesson - bài học quý giá trong cuộc sống\nTừ nối khi nói (Linking Words):\n• First and foremost - trước hết\n• Another benefit is... - một lợi ích khác là...\n• Not only... but also... - không chỉ... mà còn...\n• As a result - kết quả là\n• To sum up - tóm lại\nCách thể hiện quan điểm tự nhiên:\n• From my perspective, ... ví dụ: \"From my perspective, failure is often more valuable than early success.\" (Theo quan\nđiểm của tôi, ...)\n• It seems to me that... ví dụ: \"It seems to me that people who never fail rarely learn how to overcome real challenges.\"\n(Dường như đối với tôi rằng...)\n• I would argue that... ví dụ: \"I would argue that failure is an essential part of the learning process.\" (Tôi cho rằng...)\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"Do you think schools should teach students how to handle failure?\" - Yes, schools should help students see failure\nas a normal part of learning rather than something to fear.\n• \"How can people stay motivated after experiencing failure?\" - They can focus on what they learned, set new realistic\ngoals, and seek support from friends or mentors.\n• \"Is failure always a bad thing? Why or why not?\" - Not necessarily, because failure often provides insights and\nmotivation that success alone cannot offer.\n5. Các lỗi thường gặp:\n• Liệt kê nhánh ý mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước để tránh bị động.\n• Dành quá nhiều thời gian cho bài nói chính, không còn thời gian trả lời câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Khi bí ý, hãy liên hệ đến trải nghiệm thất bại thực tế của bản thân trong học tập hoặc công việc để có thêm ví dụ.\n• Dùng câu học thuật để câu giờ: \"That is a complex issue. If we evaluate it from a psychological perspective...\"\n• Nếu quên từ vựng chuyên môn, hãy dùng từ đồng nghĩa đơn giản hơn hoặc mô tả khái niệm bằng câu dễ hiểu.\n7. Tư duy làm bài nói:\n• Hãy tư duy thực tế, nhìn nhận thất bại như một phần tất yếu của quá trình trưởng thành.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao.\n• Đừng ngại đưa ra góc nhìn cá nhân, vì điều đó giúp bài nói trở nên chân thực và thuyết phục hơn."
+}

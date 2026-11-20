@@ -1,0 +1,715 @@
+{
+ "id": "vlu-123",
+ "number": 123,
+ "title": "Đề thi VLU 123",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-123",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Cyclo: A Vietnamese Street Icon",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "If you walk through the Old Quarter of Hanoi or the busy streets of Ho Chi Minh City, you may see a cyclo. A cyclo is a three-wheeled vehicle with a seat at the front for one or two passengers and a driver who sits behind and pedals. In Vietnamese, it is called xích lô, a name that comes from the French word cyclo. For many visitors, riding in one is a slow and relaxing way to see the city. Cyclos can also be found in Cambodia and some other Asian countries.",
+     "The story of the cyclo begins with an older vehicle, the rickshaw. In the late nineteenth century, the French brought hand-pulled rickshaws to Hanoi, and they quickly became a popular way for rich residents and officials to travel. Rickshaw drivers were often poor workers from the countryside, and their income depended on how far they could run. However, the work was very hard, because the driver had to run on foot while pulling the carriage. Some people felt that this was a tiring and unfair job.",
+     "In the late 1930s, a new kind of vehicle appeared. It was based on a French design, and it used a bicycle-like frame, so the driver could sit and pedal instead of running. The first cyclos arrived in Vietnam around 1939. **They** were faster and less tiring than rickshaws, and they could carry both people and goods. Many cyclos had a folding roof, which kept passengers dry during the rainy season. Soon cyclos replaced rickshaws in many cities, and they spread to Saigon and other towns.",
+     "For several decades, the cyclo was an important part of city transport. Thousands of drivers earned a living by taking passengers to markets, schools, and offices. In busy markets, cyclos were also used to carry rice, vegetables, and other goods. During the war years, many people who had lost their jobs in the countryside moved to cities and became cyclo drivers. After the war ended in 1975, however, the number of cyclos slowly fell. Motorbikes became cheaper and faster, and city governments in some places **limited** cyclos on busy roads because they moved slowly and caused traffic problems.",
+     "Today, the cyclo has found a new role. Few people use it for daily travel, but it is popular with tourists who want to enjoy the streets at a gentle speed. Some drivers now work as guides, telling visitors about local food, old buildings, and city life. In this way, the cyclo has changed from a basic means of transport into a symbol of Vietnamese culture. Some artists and photographers have also used the cyclo in their work, which helps keep its image alive. Many residents hope that it will **survive**, even though the city around it keeps changing quickly."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "How tourists in Hanoi can learn to pedal a cyclo safely",
+       "B": "How the cyclo developed in Vietnam and what role it has today",
+       "C": "Why rickshaws were better vehicles than cyclos for crowded Vietnamese cities",
+       "D": "How motorbikes took over Vietnamese roads after the end of the war"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu mở đầu và nắm mạch phát triển xuyên suốt năm đoạn: đoạn 1 giới thiệu xích lô (cyclo) trên đường phố Việt Nam và trải nghiệm tham quan chậm rãi của du khách; đoạn 2 kể nguồn gốc từ xe kéo tay (rickshaw) thời Pháp thuộc và sự vất vả của nghề kéo xe; đoạn 3 trình bày sự ra đời của xích lô cuối thập niên 1930 với khung kiểu xe đạp và các ưu điểm vượt trội; đoạn 4 theo dấu thời kỳ xích lô là phương tiện giao thông quan trọng, sự gia tăng tài xế trong thời chiến và đà suy giảm sau năm 1975; đoạn 5 nêu vai trò mới gắn với du lịch, văn hóa và mong muốn duy trì hiện diện của xích lô. Phương án đúng cần bao quát trọn vẹn cả quá trình phát triển ở Việt Nam lẫn vai trò hiện nay, tránh các đáp án thu hẹp vào việc tập lái cho khách du lịch, đảo ngược ưu thế xe kéo hay chỉ nói về xe máy sau chiến tranh."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why did some people think rickshaw work was unfair?",
+      "options": {
+       "A": "Rickshaws quickly became a popular way for officials to travel",
+       "B": "Drivers lost their jobs when French designs arrived in cities",
+       "C": "Passengers refused to pay for journeys across the countryside",
+       "D": "Drivers had to run on foot while pulling the passengers"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa liên quan đến \"rickshaw\" và \"unfair\" ở đoạn 2 để tìm lý do xuất phát từ việc người lái phải chạy bộ trên chân để kéo xe chở khách."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"limited\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "delayed",
+       "B": "restricted",
+       "C": "banned completely",
+       "D": "carried"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét động từ \"limited\" ở đoạn 4 khi mô tả chính quyền một số nơi kiểm soát/giới hạn hoạt động của xích lô trên các tuyến đường đông đúc (khác với cấm hoàn toàn); ngữ cảnh hướng tới việc bị hạn chế, giới hạn."
+     },
+     {
+      "number": 4,
+      "stem": "The word \"They\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "French designers",
+       "B": "The first cyclos",
+       "C": "Vietnamese cities",
+       "D": "Rickshaws"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ nhân xưng số nhiều \"They\" ở đoạn 3 (\"The first cyclos arrived in Vietnam around 1939. They were faster and less tiring than rickshaws...\"). Đọc ngược lại câu ngay trước đó để tìm chính xác những chiếc xích lô đầu tiên làm đối tượng tham chiếu, tránh nhầm sang nhà thiết kế Pháp, các thành phố Việt Nam hay xe kéo."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, how was the cyclo better than the rickshaw?",
+      "options": {
+       "A": "It kept passengers dry with a folding roof in the rainy season",
+       "B": "It could travel between Saigon and Hanoi in a single day",
+       "C": "It was pulled by two drivers who ran together on foot",
+       "D": "It was faster, less tiring, and could carry goods as well"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa so sánh xích lô với xe kéo (\"than rickshaws\") ở đoạn 3 để xác định các ưu điểm chính được liệt kê cùng nhau (nhanh hơn, ít mệt hơn và chở được cả người lẫn hàng hóa)."
+     },
+     {
+      "number": 6,
+      "stem": "According to the passage, which of the following is NOT a reason for the decline in cyclos?",
+      "options": {
+       "A": "City governments limited cyclos on busy roads",
+       "B": "Tourists stopped visiting the Old Quarter of Hanoi",
+       "C": "Motorbikes became cheaper and faster than cyclos",
+       "D": "Cyclos moved slowly and caused traffic problems"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các nguyên nhân khiến số lượng xích lô giảm dần sau năm 1975 được nêu rõ trong đoạn 4 (như xe máy rẻ và nhanh hơn, chính quyền một số nơi hạn chế xích lô trên các tuyến đường đông đúc do chạy chậm và gây vấn đề giao thông). Hãy loại trừ các lý do có xuất hiện trong bài để tìm ra chi tiết không được nhắc đến."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, who often became cyclo drivers during the war years?",
+      "options": {
+       "A": "Rickshaw drivers who had worked for French officials",
+       "B": "Former soldiers who returned to Saigon after 1975",
+       "C": "City workers who wanted to move to the countryside",
+       "D": "People who had lost their jobs in the countryside"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa về thời kỳ chiến tranh (\"during the war years\") ở đoạn 4 để tìm nhóm người thường chuyển sang làm nghề đạp xích lô (những người mất việc làm ở nông thôn chuyển ra thành phố)."
+     },
+     {
+      "number": 8,
+      "stem": "The word \"survive\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "escape danger",
+       "B": "return quickly",
+       "C": "become popular",
+       "D": "continue to exist"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét động từ \"survive\" ở đoạn 5 khi người dân mong xích lô tiếp tục tồn tại giữa nhịp đổi thay nhanh của đô thị; chọn nghĩa tương đương với tiếp tục tồn tại."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 4 and 5 about the cyclo's future?",
+      "options": {
+       "A": "It will soon replace motorbikes on the busiest city roads",
+       "B": "It will probably depend more on tourism than on daily transport",
+       "C": "It will disappear from Vietnamese cities within a few years",
+       "D": "It is likely to return as the main form of transport"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 4 về việc ít người dùng xích lô đi lại hằng ngày hơn trước xe máy với đoạn 5 về sự ưa chuộng của khách du lịch và vai trò dẫn tour/văn hóa. Từ hai đoạn này ghép lại, rút ra kết luận hợp lý về việc tương lai của xích lô nhiều khả năng dựa vào du lịch hơn là giao thông đi lại thường nhật."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's attitude toward the cyclo?",
+      "options": {
+       "A": "Sad, because tourists now ignore it completely",
+       "B": "Critical, because it causes serious traffic problems in cities",
+       "C": "Neutral, because it has no importance for modern life",
+       "D": "Warm and respectful, seeing it as part of Vietnamese culture Reading"
+      },
+      "answer": "D",
+      "type_hint": "Thái độ người viết",
+      "type": "Thái độ tác giả",
+      "explanation": "Quan sát giọng điệu xuyên suốt bài viết từ đoạn 1 đến đoạn 5: người viết mô tả trải nghiệm thư thả, ghi nhận vai trò văn hóa - nghệ thuật và nhắc đến mong muốn giữ gìn xích lô của cư dân. Hãy chọn phương án phản ánh đúng sự ấm áp, trân trọng này, tránh các đáp án buồn bã tuyệt vọng, chỉ trích gay gắt hay thờ ơ."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và nắm mạch phát triển xuyên suốt năm đoạn: đoạn 1 giới thiệu xích lô (cyclo) trên đường phố Việt Nam và trải nghiệm tham quan chậm rãi của du khách; đoạn 2 kể nguồn gốc từ xe kéo tay (rickshaw) thời Pháp thuộc và sự vất vả của nghề kéo xe; đoạn 3 trình bày sự ra đời của xích lô cuối thập niên 1930 với khung kiểu xe đạp và các ưu điểm vượt trội; đoạn 4 theo dấu thời kỳ xích lô là phương tiện giao thông quan trọng, sự gia tăng tài xế trong thời chiến và đà suy giảm sau năm 1975; đoạn 5 nêu vai trò mới gắn với du lịch, văn hóa và mong muốn duy trì hiện diện của xích lô. Phương án đúng cần bao quát trọn vẹn cả quá trình phát triển ở Việt Nam lẫn vai trò hiện nay, tránh các đáp án thu hẹp vào việc tập lái cho khách du lịch, đảo ngược ưu thế xe kéo hay chỉ nói về xe máy sau chiến tranh.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q5, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực tiếp trong từng đoạn được chỉ định.\n  - Với **R1Q2**, quét từ khóa liên quan đến \"rickshaw\" và \"unfair\" ở đoạn 2 để tìm lý do xuất phát từ việc người lái phải chạy bộ trên chân để kéo xe chở khách.\n  - Với **R1Q5**, quét từ khóa so sánh xích lô với xe kéo (\"than rickshaws\") ở đoạn 3 để xác định các ưu điểm chính được liệt kê cùng nhau (nhanh hơn, ít mệt hơn và chở được cả người lẫn hàng hóa).\n  - Với **R1Q7**, quét từ khóa về thời kỳ chiến tranh (\"during the war years\") ở đoạn 4 để tìm nhóm người thường chuyển sang làm nghề đạp xích lô (những người mất việc làm ở nông thôn chuyển ra thành phố).\n- **Dạng câu hỏi Loại trừ NOT (R1Q6):** Đối soát các nguyên nhân khiến số lượng xích lô giảm dần sau năm 1975 được nêu rõ trong đoạn 4 (như xe máy rẻ và nhanh hơn, chính quyền một số nơi hạn chế xích lô trên các tuyến đường đông đúc do chạy chậm và gây vấn đề giao thông). Hãy loại trừ các lý do có xuất hiện trong bài để tìm ra chi tiết không được nhắc đến.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp phân tích cấu trúc câu.\n  - Với **R1Q3**, xét động từ **\"limited\"** ở đoạn 4 khi mô tả chính quyền một số nơi kiểm soát/giới hạn hoạt động của xích lô trên các tuyến đường đông đúc (khác với cấm hoàn toàn); ngữ cảnh hướng tới việc bị hạn chế, giới hạn.\n  - Với **R1Q8**, xét động từ **\"survive\"** ở đoạn 5 khi người dân mong xích lô tiếp tục tồn tại giữa nhịp đổi thay nhanh của đô thị; chọn nghĩa tương đương với tiếp tục tồn tại.\n- **Dạng câu hỏi Quy chiếu (R1Q4):** Xác định đại từ nhân xưng số nhiều **\"They\"** ở đoạn 3 (\"The first cyclos arrived in Vietnam around 1939. They were faster and less tiring than rickshaws...\"). Đọc ngược lại câu ngay trước đó để tìm chính xác những chiếc xích lô đầu tiên làm đối tượng tham chiếu, tránh nhầm sang nhà thiết kế Pháp, các thành phố Việt Nam hay xe kéo.\n- **Dạng câu hỏi Suy luận (R1Q9):** Kết hợp thông tin từ đoạn 4 về việc ít người dùng xích lô đi lại hằng ngày hơn trước xe máy với đoạn 5 về sự ưa chuộng của khách du lịch và vai trò dẫn tour/văn hóa. Từ hai đoạn này ghép lại, rút ra kết luận hợp lý về việc tương lai của xích lô nhiều khả năng dựa vào du lịch hơn là giao thông đi lại thường nhật.\n- **Dạng câu hỏi Thái độ người viết (R1Q10):** Quan sát giọng điệu xuyên suốt bài viết từ đoạn 1 đến đoạn 5: người viết mô tả trải nghiệm thư thả, ghi nhận vai trò văn hóa - nghệ thuật và nhắc đến mong muốn giữ gìn xích lô của cư dân. Hãy chọn phương án phản ánh đúng sự ấm áp, trân trọng này, tránh các đáp án buồn bã tuyệt vọng, chỉ trích gay gắt hay thờ ơ.\nLời khuyên: Hãy xử lý trước nhóm câu hỏi có tọa độ rõ ràng và tập trung vào từ/cụm từ như Quy chiếu (R1Q4) và Từ vựng theo ngữ cảnh (R1Q3, R1Q8). Tiếp theo, dùng kỹ thuật đọc quét để giải quyết nhanh nhóm Chi tiết (R1Q2, R1Q5, R1Q7) và **Loại trừ NOT** (R1Q6). Cuối cùng, khi đã nắm trọn vẹn mạch thông tin và mối liên hệ giữa các đoạn, bạn sẽ dễ dàng chốt đáp án chính xác cho ba câu hỏi tổng hợp gồm **Suy luận** (R1Q9), **Thái độ người viết** (R1Q10) và **Ý chính toàn** bài (R1Q1)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Behind the Curtain: The Stories of Famous Ballets",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Ask someone to name a ballet and the answer is likely to be Swan Lake or The Nutcracker, works so familiar that it is easy to assume they were instant triumphs. In fact, the histories behind famous ballets are far more uneven, full of **lukewarm** premieres, borrowed stories, and revivals that rescued works their first audiences hardly noticed.",
+     "The art form itself took shape in the courts of Renaissance Italy before flourishing in France, where Louis XIV, himself a keen dancer, founded an academy of dance in 1661. French terminology, still used in ballet studios worldwide, dates from that era. Over the following two centuries, ballet moved from courtly spectacle toward storytelling, and by the 1830s and 1840s the Romantic movement had made supernatural tales and fragile heroines its signature subjects.",
+     "Giselle, first staged at the Paris Opera in 1841, is the clearest example. Its heroine is a peasant girl who dies of heartbreak after discovering that the man she loves is a nobleman already engaged to someone else. In the second act she joins the Wilis, ghostly spirits of betrayed young women, who force men to dance until they collapse. The story drew on a legend that the poet Heinrich Heine had described, and the ballet's white-clad, otherworldly corps became a **template** that later choreographers copied for generations.",
+     "Tchaikovsky's Swan Lake had a rockier start. Premiered at Moscow's Bolshoi Theatre in 1877, it was **his** first ballet, and many critics and audiences found the choreography weak and the score unusually demanding for dancers accustomed to lighter music. The work faded from the repertory within a decade. Only after the composer's death in 1893 did it return to prominence, in an 1895 production at St. Petersburg's Mariinsky Theatre staged by Marius Petipa and Lev Ivanov, whose choreography for the lakeside scenes remains the core of many versions today.",
+     "The Nutcracker, premiered at the Mariinsky in 1892, followed a similar pattern of mixed reception. Adapted from a tale by E. T. A. Hoffmann through a French retelling by Alexandre Dumas, its plot struck some critics as thin, though Tchaikovsky's music, especially the orchestral suite he extracted from it, was praised from the outset. What turned it into a global holiday ritual came much later: in 1954, George Balanchine's production for New York City Ballet proved so popular that companies across the United States began staging their own versions each December.",
+     "Behind the scenes, these works owed as much to collaboration as to composition. Marius Petipa, who dominated Russian ballet for decades, typically gave his composers detailed instructions, and Tchaikovsky is reported to have followed them closely when writing The Nutcracker, even down to the number of bars required for each dance. Such tight control may sound restrictive, yet it came at a time when many composers were expected to provide little more than background music, and Tchaikovsky's insistence on treating ballet scores as serious music helped change that expectation.",
+     "Together, these stories suggest that a ballet's fame is rarely a measure of its first reception. Public taste, a gifted revival, or simply the habit of an annual tradition can lift a work from obscurity, and the most familiar titles on today's stages are, in a sense, the survivors of repeated second chances."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, why does Giselle's heroine join the Wilis?",
+      "options": {
+       "A": "She is rejected by a nobleman who orders her to leave",
+       "B": "She dies of heartbreak after learning her lover is already engaged",
+       "C": "She learns that the Wilis are spirits of betrayed young women",
+       "D": "She is forced to dance until she collapses during the first act"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét tên nhân vật/tác phẩm \"Giselle\" và \"Wilis\" ở đoạn 3 để xác định nguyên nhân nhân vật nữ chính gia nhập nhóm Wilis (chết vì đau lòng sau khi biết người yêu đã đính hôn/hứa hôn với người khác)."
+     },
+     {
+      "number": 12,
+      "stem": "The word \"lukewarm\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "unenthusiastic",
+       "B": "mildly warm",
+       "C": "openly hostile",
+       "D": "very brief"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét tính từ \"lukewarm\" ở đoạn 1 khi mô tả sự đón nhận thiếu nồng nhiệt hoặc hờ hững ban đầu; ngữ cảnh hướng tới sự thiếu nhiệt tình, không mặn mà."
+     },
+     {
+      "number": 13,
+      "stem": "Which statement best expresses the main idea of the passage?",
+      "options": {
+       "A": "Tchaikovsky's scores transformed ballet into a respected form of serious music",
+       "B": "Romantic ballets such as Giselle were more popular than Russian ones",
+       "C": "Famous ballets often succeeded only after weak premieres, revivals, or later traditions",
+       "D": "French court traditions explain why ballet became popular around the world"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề và nắm mạch lập luận xuyên suốt toàn bài: đoạn 1 mở đầu bằng việc nhiều vở ballet nổi tiếng từng có khởi đầu kém rực rỡ hoặc thiếu hào hứng; các đoạn tiếp theo lần lượt theo dấu hành trình của các tác phẩm tiêu biểu như Giselle, Swan Lake (Hồ Thiên Nga) và The Nutcracker (Kẹp Hạt Dẻ) qua các lần dàn dựng lại, biên đạo mới hoặc truyền thống diễn xuất sau đó, cùng vai trò âm nhạc của Tchaikovsky. Phương án đúng cần bao quát trọn vẹn việc các vở ballet nổi tiếng thường thành công sau những buổi ra mắt nhạt nhòa, các lần hồi sinh hoặc truyền thống về sau, tránh các đáp án quy chụp một nhà soạn nhạc, so sánh hơn thua giữa dòng Romantic và Nga hay thu hẹp vào cung đình Pháp."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, how did Swan Lake finally gain prominence?",
+      "options": {
+       "A": "Tchaikovsky rewrote the score for dancers used to lighter music",
+       "B": "The Bolshoi Theatre staged it again in 1877 with new dancers",
+       "C": "An 1895 production at the Mariinsky Theatre, staged by Petipa and Ivanov",
+       "D": "Critics praised the choreography after the composer's death in 1893"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét tên vở \"Swan Lake\" và quá trình vươn lên vị thế nổi bật ở đoạn 4 để tìm mốc dàn dựng năm 1895 tại nhà hát Mariinsky do Petipa và Ivanov dàn dựng."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"his\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "The Bolshoi Theatre",
+       "B": "Tchaikovsky",
+       "C": "Moscow's critics",
+       "D": "Marius Petipa"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định tính từ sở hữu \"his\" ở đoạn 4. Đọc ngược lại các câu trước đó trong đoạn để tìm chính xác danh từ riêng chỉ nhà soạn nhạc làm đối tượng tham chiếu, tránh nhầm sang nhà hát Bolshoi, giới phê bình Moscow hay biên đạo múa Marius Petipa."
+     },
+     {
+      "number": 16,
+      "stem": "According to the passage, which of the following is NOT mentioned as part of The Nutcracker's history?",
+      "options": {
+       "A": "A revival choreographed by Petipa and Ivanov in 1895",
+       "B": "A popular 1954 production by Balanchine in New York",
+       "C": "Early praise for the orchestral suite drawn from the score",
+       "D": "An adaptation of a Hoffmann tale retold by Dumas"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các thông tin gắn với lịch sử của The Nutcracker được đề cập trong bài (như việc chuyển thể truyện của Hoffmann qua bản kể lại của Dumas, sự đón nhận tích cực dành cho bộ trích đoạn dàn nhạc giao hưởng, hay bản dàn dựng năm 1954 của Balanchine ở New York). Hãy loại trừ các chi tiết có xuất hiện về The Nutcracker để chọn ra sự kiện không thuộc tác phẩm này (lưu ý mốc 1895 của Petipa và Ivanov gắn với Swan Lake)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what made The Nutcracker a global holiday ritual?",
+      "options": {
+       "A": "Its plot impressed critics at the Mariinsky premiere in 1892",
+       "B": "Balanchine's 1954 production led American companies to stage it every December",
+       "C": "Dumas's retelling made Hoffmann's story familiar to French audiences",
+       "D": "Tchaikovsky's suite was praised from the outset by critics"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét tên vở \"The Nutcracker\" ở đoạn 5 để tìm yếu tố giúp tác phẩm trở thành thông lệ mùa lễ hội toàn cầu (bản dàn dựng năm 1954 của Balanchine thúc đẩy các đoàn múa Mỹ diễn hằng tháng 12)."
+     },
+     {
+      "number": 18,
+      "stem": "The word \"template\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "model",
+       "B": "strict rule",
+       "C": "temporary copy",
+       "D": "costume"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét danh từ \"template\" ở đoạn 3 khi nói về tác phẩm/cấu trúc đóng vai trò khuôn mẫu tham chiếu cho các vở kịch múa lãng mạn về sau; chọn nghĩa tương đương với hình mẫu, khuôn mẫu."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 4 and 6 about Tchaikovsky's ballet music?",
+      "options": {
+       "A": "Composers of the period were rarely asked to write ballet scores",
+       "B": "Petipa's detailed instructions were the main reason Swan Lake failed in 1877",
+       "C": "Dancers disliked his scores because Petipa had written parts of the music",
+       "D": "Treating ballet music seriously may have helped his scores outlast early criticism"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 4 về các phản ứng ban đầu đối với phần nhạc của Tchaikovsky với đoạn 6 về cách ông tiếp cận âm nhạc ballet như một nghệ thuật nghiêm túc, giàu chiều sâu giao hưởng. Từ hai đoạn này ghép lại, rút ra kết luận hợp lý về việc coi trọng âm nhạc ballet một cách nghiêm túc có thể giúp tác phẩm của ông sống bền bỉ hơn những lời chê bai ban đầu."
+     },
+     {
+      "number": 20,
+      "stem": "Which of the following best describes the author's attitude toward the history of famous ballets?",
+      "options": {
+       "A": "Critical, blaming composers for the failure of early ballet premieres",
+       "B": "Appreciative but realistic, noting that fame often followed early disappointment",
+       "C": "Nostalgic, arguing that ballet was better before the Romantic era",
+       "D": "Dismissive, suggesting that famous ballets are overrated by modern audiences Reading"
+      },
+      "answer": "B",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Quan sát giọng điệu xuyên suốt bài viết khi kể lại lịch sử các vở ballet kinh điển: tác giả vừa trân trọng giá trị nghệ thuật lâu dài của chúng vừa nhìn nhận thẳng thắn những thất vọng hoặc đón nhận lạnh nhạt lúc ban đầu. Hãy chọn phương án phản ánh đúng thái độ trân trọng nhưng thực tế này, tránh các đáp án đổ lỗi một chiều, hoài cổ phủ nhận thời Romantic hay xem nhẹ giá trị tác phẩm."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q3):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề và nắm mạch lập luận xuyên suốt toàn bài: đoạn 1 mở đầu bằng việc nhiều vở ballet nổi tiếng từng có khởi đầu kém rực rỡ hoặc thiếu hào hứng; các đoạn tiếp theo lần lượt theo dấu hành trình của các tác phẩm tiêu biểu như Giselle, Swan Lake (Hồ Thiên Nga) và The Nutcracker (Kẹp Hạt Dẻ) qua các lần dàn dựng lại, biên đạo mới hoặc truyền thống diễn xuất sau đó, cùng vai trò âm nhạc của Tchaikovsky. Phương án đúng cần bao quát trọn vẹn việc các vở ballet nổi tiếng thường thành công sau những buổi ra mắt nhạt nhòa, các lần hồi sinh hoặc truyền thống về sau, tránh các đáp án quy chụp một nhà soạn nhạc, so sánh hơn thua giữa dòng Romantic và Nga hay thu hẹp vào cung đình Pháp.\n- **Dạng câu hỏi Chi tiết (R2Q1, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực tiếp trong từng đoạn được chỉ định.\n  - Với **R2Q1**, quét tên nhân vật/tác phẩm \"Giselle\" và \"Wilis\" ở đoạn 3 để xác định nguyên nhân nhân vật nữ chính gia nhập nhóm Wilis (chết vì đau lòng sau khi biết người yêu đã đính hôn/hứa hôn với người khác).\n  - Với **R2Q4**, quét tên vở \"Swan Lake\" và quá trình vươn lên vị thế nổi bật ở đoạn 4 để tìm mốc dàn dựng năm 1895 tại nhà hát Mariinsky do Petipa và Ivanov dàn dựng.\n  - Với **R2Q7**, quét tên vở \"The Nutcracker\" ở đoạn 5 để tìm yếu tố giúp tác phẩm trở thành thông lệ mùa lễ hội toàn cầu (bản dàn dựng năm 1954 của Balanchine thúc đẩy các đoàn múa Mỹ diễn hằng tháng 12).\n- **Dạng câu hỏi Loại trừ NOT (R2Q6):** Đối soát các thông tin gắn với lịch sử của The Nutcracker được đề cập trong bài (như việc chuyển thể truyện của Hoffmann qua bản kể lại của Dumas, sự đón nhận tích cực dành cho bộ trích đoạn dàn nhạc giao hưởng, hay bản dàn dựng năm 1954 của Balanchine ở New York). Hãy loại trừ các chi tiết có xuất hiện về The Nutcracker để chọn ra sự kiện không thuộc tác phẩm này (lưu ý mốc 1895 của Petipa và Ivanov gắn với Swan Lake).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q2, R2Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp phân tích cấu trúc câu.\n  - Với **R2Q2**, xét tính từ **\"lukewarm\"** ở đoạn 1 khi mô tả sự đón nhận thiếu nồng nhiệt hoặc hờ hững ban đầu; ngữ cảnh hướng tới sự thiếu nhiệt tình, không mặn mà.\n  - Với **R2Q8**, xét danh từ **\"template\"** ở đoạn 3 khi nói về tác phẩm/cấu trúc đóng vai trò khuôn mẫu tham chiếu cho các vở kịch múa lãng mạn về sau; chọn nghĩa tương đương với hình mẫu, khuôn mẫu.\n- **Dạng câu hỏi Quy chiếu (R2Q5):** Xác định tính từ sở hữu **\"his\"** ở đoạn 4. Đọc ngược lại các câu trước đó trong đoạn để tìm chính xác danh từ riêng chỉ nhà soạn nhạc làm đối tượng tham chiếu, tránh nhầm sang nhà hát Bolshoi, giới phê bình Moscow hay biên đạo múa Marius Petipa.\n- **Dạng câu hỏi Suy luận (R2Q9):** Kết hợp thông tin từ đoạn 4 về các phản ứng ban đầu đối với phần nhạc của Tchaikovsky với đoạn 6 về cách ông tiếp cận âm nhạc ballet như một nghệ thuật nghiêm túc, giàu chiều sâu giao hưởng. Từ hai đoạn này ghép lại, rút ra kết luận hợp lý về việc coi trọng âm nhạc ballet một cách nghiêm túc có thể giúp tác phẩm của ông sống bền bỉ hơn những lời chê bai ban đầu.\n- **Dạng câu hỏi Thái độ tác giả (R2Q10):** Quan sát giọng điệu xuyên suốt bài viết khi kể lại lịch sử các vở ballet kinh điển: tác giả vừa trân trọng giá trị nghệ thuật lâu dài của chúng vừa nhìn nhận thẳng thắn những thất vọng hoặc đón nhận lạnh nhạt lúc ban đầu. Hãy chọn phương án phản ánh đúng thái độ trân trọng nhưng thực tế này, tránh các đáp án đổ lỗi một chiều, hoài cổ phủ nhận thời Romantic hay xem nhẹ giá trị tác phẩm.\nLời khuyên: Hãy xử lý trước nhóm câu hỏi có tọa độ rõ ràng và tập trung vào từ/cụm từ như Quy chiếu (R2Q5) và Từ vựng theo ngữ cảnh (R2Q2, R2Q8). Tiếp theo, dùng kỹ thuật đọc quét để giải quyết nhanh nhóm Chi tiết (R2Q1, R2Q4, R2Q7) và **Loại trừ NOT** (R2Q6). Cuối cùng, khi đã nắm trọn vẹn mạch thông tin và mối liên hệ giữa các đoạn, bạn sẽ dễ dàng chốt đáp án chính xác cho ba câu hỏi tổng hợp gồm **Suy luận** (R2Q9), **Thái độ tác giả** (R2Q10) và **Ý chính toàn** bài (R2Q3)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Traffic in Vietnam: Chaos, Cures, and a Comparison with Britain",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "To the visitor, Vietnamese traffic is a spectacle: streams of motorbikes flow around cars, vendors, and pedestrians in a pattern that seems chaotic but works because everyone moves slowly and watches everyone else. Yet the charm of the scene conceals the real costs. In a country where tens of millions of motorbikes are registered, the machine that gave ordinary families mobility has also become the source of some of the nation's most stubborn urban problems.",
+     "The statistics are **sobering**. Reports from the authorities have put annual road deaths at roughly ten thousand, a toll that places Vietnam among the more dangerous countries for road users in Asia. Congestion in Hanoi and Ho Chi Minh City eats into commuters' days, exhaust fumes contribute to air pollution that regularly exceeds recommended limits, and pavements are so often occupied by parked bikes that pedestrians are pushed into the road. Few of these problems are new; what is striking is how long they have been tolerated.",
+     "Critics argue that the weakness lies less in ideas than in follow-through. Rules are frequently announced with **fanfare** and then softened or delayed. Hanoi's directive to bar petrol motorbikes from the area inside its first ring road by mid-2026, for instance, was later reshaped into a phased pilot of low-emission zones in selected central wards. Urban metro lines, which could offer a genuine alternative, opened years behind schedule, and until riders have a credible substitute, restrictions risk punishing the very people with the fewest options. Supporters of the authorities reply that change on this scale must be gradual, and that abrupt bans could damage livelihoods, including those of delivery riders and street vendors.",
+     "It would be unfair, however, to suggest that nothing has worked. A national requirement for motorbike riders to wear helmets, introduced in 2007, is widely credited with saving many lives, and stricter penalties for drink-driving in recent years appear to have reduced evening fatalities. **These successes** share a feature: they were simple, clearly communicated, and enforced consistently enough that people believed the rules were real.",
+     "Britain offers a useful, if imperfect, comparison. Over the past six decades its government has combined legislation with pricing: the breathalyser arrived in 1967, front-seat belts became compulsory in 1983, and in 2003 London introduced a congestion charge that drivers pay to enter the city center. Road deaths have since fallen below two thousand a year, a fraction of Vietnam's toll when population is taken into account. Yet British policy has hardly been free of controversy. The expansion of London's Ultra Low Emission Zone across all boroughs in 2023 provoked fierce protest, and critics at home regularly complain about potholes, delayed rail projects, and costs that rise faster than promised.",
+     "What, then, can Vietnam learn? Not that British methods can be copied wholesale; a megacity dependent on cheap motorbikes faces different constraints from a country with an extensive car and rail culture. The lesson is subtler: policies endure when they are phased, explained, and backed by alternatives, and when officials accept short-term unpopularity in exchange for long-term benefit. Seldom does a city improve its traffic by announcement alone."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, what happened to Hanoi's plan to bar petrol motorbikes inside its first ring road?",
+      "options": {
+       "A": "It was abandoned once the metro lines had opened on schedule",
+       "B": "It was enforced in full by mid-2026 within the first ring road",
+       "C": "It was extended to cover every ring road from the start",
+       "D": "It was reshaped into a phased pilot of low-emission zones"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa liên quan đến kế hoạch hạn chế/cấm xe máy xăng trong vành đai 1 của Hà Nội ở đoạn 3 để xác định hướng điều chỉnh thành thí điểm theo từng giai đoạn của các vùng phát thải thấp (low-emission zones)."
+     },
+     {
+      "number": 22,
+      "stem": "Which statement best expresses the main idea of the passage?",
+      "options": {
+       "A": "Vietnam's authorities have failed to introduce any effective road safety measures",
+       "B": "Vietnam's traffic woes reflect weak follow-through, a weakness consistent policy could remedy",
+       "C": "Motorbikes are the sole cause of Vietnam's pollution and deadly road accidents",
+       "D": "Britain's congestion charge offers a ready-made solution for every Vietnamese city"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề và nắm mạch lập luận xuyên suốt toàn bài: các đoạn đầu mô tả thực trạng giao thông, ùn tắc, vỉa hè, ô nhiễm không khí và các số liệu/tác động đáng lưu ý; các đoạn giữa phân tích chính sách hạn chế xe máy xăng, sự thực thi và bài học/thành tựu so sánh với Anh; các đoạn cuối bàn về tranh luận công chúng, đặc thù đô thị phụ thuộc xe máy giá rẻ và cách tiếp cận chính sách nhất quán. Phương án đúng cần bao quát trọn vẹn việc vấn đề giao thông của Việt Nam gắn với sự thiếu nhất quán/thực thi chưa trọn vẹn và có thể được cải thiện nhờ chính sách kiên định, tránh các đáp án quy chụp thất bại hoàn toàn, đổ lỗi tuyệt đối cho xe máy hoặc coi giải pháp nước ngoài là bản sao áp dụng máy móc."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"sobering\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "grimly serious",
+       "B": "mildly worrying",
+       "C": "widely criticized",
+       "D": "relating to alcohol"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét tính từ \"sobering\" ở đoạn 2 khi mô tả các con số hoặc thực tế nghiêm trọng khiến người đọc phải nhìn nhận nghiêm túc, tỉnh táo hơn; ngữ cảnh hướng tới sắc thái nghiêm trọng, đáng suy ngẫm."
+     },
+     {
+      "number": 24,
+      "stem": "According to the passage, what does the expansion of London's Ultra Low Emission Zone illustrate?",
+      "options": {
+       "A": "Road measures in Britain have also attracted fierce public protest",
+       "B": "It proved that costs rise faster than ministers promise",
+       "C": "It replaced the congestion charge in the city center",
+       "D": "Its introduction in 2003 cut road deaths below two thousand"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét tên vùng phát thải siêu thấp của London (\"Ultra Low Emission Zone\") ở đoạn 5 để tìm ý nghĩa minh họa về việc các biện pháp giao thông ở Anh cũng vấp phải sự phản đối mạnh mẽ từ công chúng."
+     },
+     {
+      "number": 25,
+      "stem": "The phrase \"These successes\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Critics' main arguments",
+       "B": "Britain's road policies",
+       "C": "Evening fatalities",
+       "D": "Helmet and drink-driving rules"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định cụm danh từ chỉ định \"These successes\" ở đoạn 4. Đọc ngược lại các câu trước đó trong đoạn để tìm chính xác các quy định cụ thể (như quy định đội mũ bảo hiểm và nồng độ cồn khi lái xe) vừa tạo ra kết quả tích cực làm đối tượng tham chiếu, tránh nhầm sang lập luận của người phản đối, toàn bộ chính sách đường bộ của Anh hay số ca tử vong buổi tối."
+     },
+     {
+      "number": 26,
+      "stem": "According to the passage, which of the following is NOT mentioned as a consequence of Vietnam's traffic problems?",
+      "options": {
+       "A": "Rising fuel prices that make commuting unaffordable",
+       "B": "Congestion that eats into commuters' daily schedules",
+       "C": "Pedestrians forced onto the road by parked motorbikes",
+       "D": "Air pollution that regularly exceeds recommended limits"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các hệ quả của vấn đề giao thông được nêu trong bài (như ùn tắc làm tốn thời gian di chuyển hằng ngày, người đi bộ phải xuống lòng đường do xe máy đậu lấn chiếm, hay ô nhiễm không khí vượt ngưỡng khuyến nghị). Hãy loại trừ các hậu quả có xuất hiện trong bài để chọn ra yếu tố không được đề cập."
+     },
+     {
+      "number": 27,
+      "stem": "What can be inferred from paragraphs 3 and 4 about restrictions on petrol motorbikes?",
+      "options": {
+       "A": "Their success may depend on credible alternatives and consistent enforcement",
+       "B": "They are unnecessary because helmet laws already solved the pollution problem",
+       "C": "They would work best if introduced suddenly and without explanation",
+       "D": "They will probably fail because riders always ignore new rules"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 3 về các kế hoạch/chính sách hạn chế xe máy xăng với đoạn 4 về tầm quan trọng của việc thực thi nghiêm túc và hạ tầng thay thế. Từ hai đoạn này ghép lại, rút ra kết luận hợp lý về việc hiệu quả của các hạn chế phụ thuộc vào phương án thay thế khả thi và sự thực thi nhất quán."
+     },
+     {
+      "number": 28,
+      "stem": "The word \"fanfare\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "careful planning",
+       "B": "great publicity",
+       "C": "mild interest",
+       "D": "loud music"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét danh từ \"fanfare\" ở đoạn 3 khi nói về sự công bố/khởi động rầm rộ trước truyền thông; chọn nghĩa tương đương với sự rầm rộ, được chú ý/quảng bá mạnh."
+     },
+     {
+      "number": 29,
+      "stem": "According to the passage, why can British methods not simply be copied by Vietnam?",
+      "options": {
+       "A": "A megacity reliant on cheap motorbikes faces different constraints",
+       "B": "Britain's methods have proved unpopular and ineffective at home",
+       "C": "Vietnamese officials are unwilling to accept short-term unpopularity",
+       "D": "Vietnam has no metro lines to offer a credible alternative"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Suy luận",
+      "explanation": "quét từ khóa về lý do không thể sao chép nguyên xi phương pháp của Anh ở đoạn 6 để tìm đặc thù ràng buộc của siêu đô thị phụ thuộc nhiều vào phương tiện xe máy chi phí thấp."
+     },
+     {
+      "number": 30,
+      "stem": "Which of the following best describes the author's overall attitude toward Vietnam's traffic policy?",
+      "options": {
+       "A": "Indifferent, offering information without any evaluation of policies",
+       "B": "Admiring, presenting Vietnam's policies as superior to Britain's",
+       "C": "Critical but fair, acknowledging successes while urging steadier follow-through",
+       "D": "Scornful, dismissing Vietnamese officials as incapable of reform Reading"
+      },
+      "answer": "C",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Quan sát giọng điệu xuyên suốt bài viết khi đánh giá chính sách giao thông của Việt Nam: tác giả ghi nhận những bước đi hoặc kết quả tích cực đạt được nhưng chỉ ra thẳng thắn sự thiếu đồng bộ, đứt gãy trong triển khai và kêu gọi duy trì nhất quán hơn. Hãy chọn phương án phản ánh đúng thái độ phê bình nhưng công bằng này, tránh các đáp án bàng quan, tung hô vượt trội hoặc miệt thị."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q2):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề và nắm mạch lập luận xuyên suốt toàn bài: các đoạn đầu mô tả thực trạng giao thông, ùn tắc, vỉa hè, ô nhiễm không khí và các số liệu/tác động đáng lưu ý; các đoạn giữa phân tích chính sách hạn chế xe máy xăng, sự thực thi và bài học/thành tựu so sánh với Anh; các đoạn cuối bàn về tranh luận công chúng, đặc thù đô thị phụ thuộc xe máy giá rẻ và cách tiếp cận chính sách nhất quán. Phương án đúng cần bao quát trọn vẹn việc vấn đề giao thông của Việt Nam gắn với sự thiếu nhất quán/thực thi chưa trọn vẹn và có thể được cải thiện nhờ chính sách kiên định, tránh các đáp án quy chụp thất bại hoàn toàn, đổ lỗi tuyệt đối cho xe máy hoặc coi giải pháp nước ngoài là bản sao áp dụng máy móc.\n- **Dạng câu hỏi Chi tiết (R3Q1, R3Q4, R3Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực tiếp trong từng đoạn được chỉ định.\n  - Với **R3Q1**, quét từ khóa liên quan đến kế hoạch hạn chế/cấm xe máy xăng trong vành đai 1 của Hà Nội ở đoạn 3 để xác định hướng điều chỉnh thành thí điểm theo từng giai đoạn của các vùng phát thải thấp (low-emission zones).\n  - Với **R3Q4**, quét tên vùng phát thải siêu thấp của London (\"Ultra Low Emission Zone\") ở đoạn 5 để tìm ý nghĩa minh họa về việc các biện pháp giao thông ở Anh cũng vấp phải sự phản đối mạnh mẽ từ công chúng.\n  - Với **R3Q9**, quét từ khóa về lý do không thể sao chép nguyên xi phương pháp của Anh ở đoạn 6 để tìm đặc thù ràng buộc của siêu đô thị phụ thuộc nhiều vào phương tiện xe máy chi phí thấp.\n- **Dạng câu hỏi Loại trừ NOT (R3Q6):** Đối soát các hệ quả của vấn đề giao thông được nêu trong bài (như ùn tắc làm tốn thời gian di chuyển hằng ngày, người đi bộ phải xuống lòng đường do xe máy đậu lấn chiếm, hay ô nhiễm không khí vượt ngưỡng khuyến nghị). Hãy loại trừ các hậu quả có xuất hiện trong bài để chọn ra yếu tố không được đề cập.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp phân tích cấu trúc câu.\n  - Với **R3Q3**, xét tính từ **\"sobering\"** ở đoạn 2 khi mô tả các con số hoặc thực tế nghiêm trọng khiến người đọc phải nhìn nhận nghiêm túc, tỉnh táo hơn; ngữ cảnh hướng tới sắc thái nghiêm trọng, đáng suy ngẫm.\n  - Với **R3Q8**, xét danh từ **\"fanfare\"** ở đoạn 3 khi nói về sự công bố/khởi động rầm rộ trước truyền thông; chọn nghĩa tương đương với sự rầm rộ, được chú ý/quảng bá mạnh.\n- **Dạng câu hỏi Quy chiếu (R3Q5):** Xác định cụm danh từ chỉ định **\"These successes\"** ở đoạn 4. Đọc ngược lại các câu trước đó trong đoạn để tìm chính xác các quy định cụ thể (như quy định đội mũ bảo hiểm và nồng độ cồn khi lái xe) vừa tạo ra kết quả tích cực làm đối tượng tham chiếu, tránh nhầm sang lập luận của người phản đối, toàn bộ chính sách đường bộ của Anh hay số ca tử vong buổi tối.\n- **Dạng câu hỏi Suy luận (R3Q7):** Kết hợp thông tin từ đoạn 3 về các kế hoạch/chính sách hạn chế xe máy xăng với đoạn 4 về tầm quan trọng của việc thực thi nghiêm túc và hạ tầng thay thế. Từ hai đoạn này ghép lại, rút ra kết luận hợp lý về việc hiệu quả của các hạn chế phụ thuộc vào phương án thay thế khả thi và sự thực thi nhất quán.\n- **Dạng câu hỏi Thái độ tác giả (R3Q10):** Quan sát giọng điệu xuyên suốt bài viết khi đánh giá chính sách giao thông của Việt Nam: tác giả ghi nhận những bước đi hoặc kết quả tích cực đạt được nhưng chỉ ra thẳng thắn sự thiếu đồng bộ, đứt gãy trong triển khai và kêu gọi duy trì nhất quán hơn. Hãy chọn phương án phản ánh đúng thái độ phê bình nhưng công bằng này, tránh các đáp án bàng quan, tung hô vượt trội hoặc miệt thị.\nLời khuyên: Hãy xử lý trước nhóm câu hỏi có tọa độ rõ ràng và tập trung vào từ/cụm từ như Quy chiếu (R3Q5) và Từ vựng theo ngữ cảnh (R3Q3, R3Q8). Tiếp theo, dùng kỹ thuật đọc quét để giải quyết nhanh nhóm Chi tiết (R3Q1, R3Q4, R3Q9) và **Loại trừ NOT** (R3Q6). Cuối cùng, khi đã nắm trọn vẹn mạch thông tin và mối liên hệ giữa các đoạn, bạn sẽ dễ dàng chốt đáp án chính xác cho ba câu hỏi tổng hợp gồm **Suy luận** (R3Q7), **Thái độ tác giả** (R3Q10) và **Ý chính toàn** bài (R3Q2)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Neptune: The Distant Planet Whose Scientific Stock Is Rising",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "For most of human history Neptune was simply unknown. Invisible to the naked eye, it was identified in 1846 not by a lucky glance through a telescope but by mathematics, after astronomers noticed that Uranus was drifting from its predicted path and **inferred** that an unseen body was tugging on it. Urbain Le Verrier in France and John Couch Adams in Britain independently calculated where it should be, and Johann Galle, working in Berlin, found it within about a degree of Le Verrier's prediction.",
+     "Neptune's remoteness shapes everything about it. More than thirty times farther from the Sun than Earth, it receives only a sliver of sunlight and takes roughly 165 years to complete a single orbit, so it completed its first full orbit since its discovery only in 2011. Yet its atmosphere is far from quiet. Winds there have been measured at close to two thousand kilometers per hour, among the fastest in the solar system, an observation that puzzles scientists because so little solar energy is available to drive them.",
+     "Almost everything detailed that humanity knows of Neptune dates from a single event: the flyby of Voyager 2 in August 1989, the only spacecraft visit the planet has ever received. **[A]** The probe revealed a dark storm system, faint rings, and a magnetic field tilted at a sharp angle and offset from the planet's center. **[B]** Voyager also photographed Triton, Neptune's largest moon, where plumes appeared to rise from the surface. **[C]** Not until a future mission arrives, if one is ever approved, will scientists be able to test the many ideas those few hours of data inspired. **[D]**",
+     "Telescopes, however, have begun to fill the gap. In 2025, researchers reported that the James Webb Space Telescope had captured the first clear images of auroras on Neptune, using infrared observations taken in 2023 that revealed a glowing ion in the planet's upper atmosphere. Auroras had already been seen on Jupiter, Saturn, and Uranus, so **the** result completed the set among the giant planets. What made the finding intriguing was where the glow appeared: at mid-latitudes rather than clustered around the poles as on Earth, a pattern that scientists link to Neptune's strongly tilted magnetic field.",
+     "Neptune's growing prominence owes something to developments far beyond the solar system. Among the thousands of planets discovered around other stars, many of the most common are of similar size to Neptune or somewhat smaller, so understanding Neptune itself matters if astronomers want to interpret those distant worlds. Rarely has a single planet served so conveniently as a local benchmark for an entire class of objects, yet it can fulfill that role only if its composition, interior, and weather are understood far better than they are now.",
+     "The case for returning is therefore growing, although no mission to Neptune has yet been approved. Space agencies have studied concepts for orbiters, some of which would also study Triton, and a recent US priority list for planetary science placed a Uranus mission first, leaving Neptune further down the queue. Even a mission launched in the next decade would take years to arrive, which means that today's students may be the first to analyze fresh data from the planet.",
+     "Neptune therefore illustrates how a planet can become scientifically fashionable without becoming any closer. Its **allure** lies in what remains unknown: the source of its energy, the nature of its interior, and the reasons its atmosphere behaves so violently so far from the Sun. Only with new data will those questions move from speculation toward answers."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, how was Neptune identified?",
+      "options": {
+       "A": "Uranus's orbit changed after a close encounter with an unseen planet",
+       "B": "Astronomers calculated its position from Uranus's drift, and Galle then located it",
+       "C": "Adams and Le Verrier jointly photographed it from observatories in Britain",
+       "D": "Galle noticed it by chance while mapping the sky in Berlin"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa liên quan đến cách sao Hải Vương được nhận diện/xác định ở đoạn 1 để tìm chuỗi bước: các nhà thiên văn tính toán vị trí từ độ lệch quỹ đạo của sao Thiên Vương, sau đó Galle định vị được hành tinh."
+     },
+     {
+      "number": 32,
+      "stem": "The word \"inferred\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "observed directly",
+       "B": "guessed carelessly",
+       "C": "confirmed experimentally",
+       "D": "deduced"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét động từ \"inferred\" ở đoạn 1 khi nói về việc suy đoán vị trí của một thiên thể chưa quan sát trực tiếp từ tác động hấp dẫn lên quỹ đạo lân cận; ngữ cảnh hướng tới việc suy luận, rút ra bằng lập luận logic."
+     },
+     {
+      "number": 33,
+      "stem": "Which statement best summarizes the passage?",
+      "options": {
+       "A": "Neptune, known from one flyby, is gaining scientific interest despite lacking a mission",
+       "B": "Webb's observations have solved the mystery of Neptune's powerful winds and magnetic field",
+       "C": "Uranus deserves a mission before Neptune because its auroras were detected first",
+       "D": "Neptune's discovery by mathematics proved that planets can be found without telescopes"
+      },
+      "answer": "A",
+      "type_hint": "Tóm tắt toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề và nắm mạch lập luận xuyên suốt toàn bài: đoạn 1 mở đầu bằng việc sao Hải Vương được phát hiện nhờ tính toán thiên văn và xác định vị trí; các đoạn tiếp theo lần lượt trình bày dữ liệu từ chuyến bay ngang qua của Voyager 2 (khí quyển, bão tối, từ trường, vệ tinh Triton), quan sát gần đây bằng kính thiên văn không gian Webb, ý nghĩa của sao Hải Vương đối với việc nghiên cứu ngoại hành tinh kích thước tương tự, cùng những câu hỏi lớn còn bỏ ngỏ và sức hút khoa học của hành tinh này. Phương án đúng cần bao quát trọn vẹn việc sao Hải Vương — dù mới được biết đến nhiều qua một chuyến bay ngang — đang thu hút sự quan tâm khoa học dù chưa có sứ mệnh chuyên biệt riêng, tránh các đáp án quy chụp việc Webb đã giải quyết mọi bí ẩn, so sánh thứ tự ưu tiên sứ mệnh với sao Thiên Vương hay tuyệt đối hóa việc tìm hành tinh không cần kính thiên văn."
+     },
+     {
+      "number": 34,
+      "stem": "According to the passage, which of the following is NOT mentioned as something Voyager 2 revealed or photographed at Neptune?",
+      "options": {
+       "A": "Auroras glowing at mid-latitudes of the planet",
+       "B": "A magnetic field tilted and offset from center",
+       "C": "Plumes rising from the surface of Triton",
+       "D": "A dark storm system in the atmosphere"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các đặc điểm hoặc hiện tượng mà tàu Voyager 2 ghi nhận/chụp ảnh tại hệ sao Hải Vương được nêu trong bài (như bão tối trong khí quyển, từ trường lệch tâm và nghiêng góc lớn, hay các cột phun trào trên bề mặt vệ tinh Triton). Hãy loại trừ các chi tiết có xuất hiện trong bài để chọn ra đặc điểm không được nhắc đến ở đây."
+     },
+     {
+      "number": 35,
+      "stem": "The phrase \"the result\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "The set of giant planets",
+       "B": "Auroras seen on Uranus",
+       "C": "Voyager 2's flyby",
+       "D": "Webb's aurora detection"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định cụm danh từ chỉ định \"the result\" ở đoạn 4. Đọc ngược lại các câu trước đó trong đoạn để tìm chính xác kết quả quan sát/phát hiện cực quang bằng kính thiên văn Webb vừa được nhắc đến làm đối tượng tham chiếu, tránh nhầm sang tập hợp các hành tinh khí khổng lồ/băng khổng lồ, cực quang trên sao Thiên Vương hay chuyến bay ngang qua của Voyager 2."
+     },
+     {
+      "number": 36,
+      "stem": "Look at the four squares [A], [B], [C], and [D] in paragraph 3 that show where the following sentence could be added: \"Its orbit runs opposite to the planet's rotation, a clue that Triton was probably captured from the outer solar system rather than formed alongside Neptune.\" Where would the sentence best fit?",
+      "options": {
+       "A": "[A]",
+       "B": "[B]",
+       "C": "[C]",
+       "D": "[D]"
+      },
+      "answer": "C",
+      "type_hint": "Chèn câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Phân tích nội dung câu cần chèn (\"Its orbit runs opposite to the planet's rotation, a clue that Triton was probably captured from the outer solar system rather than formed alongside Neptune.\") — câu này đòi hỏi phía trước phải giới thiệu vệ tinh Triton (\"Its orbit\", \"Triton\") và chuyển động/đặc điểm quỹ đạo của nó để làm căn cứ cho giả thuyết bị bắt giữ từ vùng rìa hệ Mặt Trời. Hãy đối chiếu vị trí xuất hiện của Triton trong đoạn 3 để chọn ô vuông [A], [B], [C], hoặc [D] khớp nhất về cả nghĩa lẫn mạch liên kết."
+     },
+     {
+      "number": 37,
+      "stem": "According to the passage, why does understanding Neptune matter for interpreting planets around other stars?",
+      "options": {
+       "A": "Many common planets around other stars are similar in size to Neptune",
+       "B": "Thousands of exoplanets have already been explained by studying Neptune alone",
+       "C": "Neptune is close enough for spacecraft to visit within a few years",
+       "D": "Planets around other stars have been shown to share Neptune's winds"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa về các hành tinh quanh các ngôi sao khác (ngoại hành tinh) ở đoạn 5 để tìm lý do sao Hải Vương có giá trị tham chiếu: nhiều ngoại hành tinh phổ biến có kích thước tương đương sao Hải Vương."
+     },
+     {
+      "number": 38,
+      "stem": "What can be inferred from paragraphs 3 and 6 about future research on Neptune?",
+      "options": {
+       "A": "Large advances in knowledge probably await a dedicated spacecraft mission",
+       "B": "A Neptune mission will launch soon because Uranus has been completed",
+       "C": "Space telescopes make a visiting spacecraft unnecessary for answering questions",
+       "D": "Voyager 2's data are too limited to support any theory"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 3 về những khám phá nhưng cũng còn nhiều câu hỏi từ lần bay ngang duy nhất của Voyager 2 với đoạn 6 về các bí ẩn cấu trúc bên trong/khí quyển/từ trường chưa thể giải đáp trọn vẹn từ xa. Từ hai đoạn này ghép lại, rút ra kết luận hợp lý về việc các bước tiến lớn trong hiểu biết nhiều khả năng cần một sứ mệnh tàu thăm dò chuyên biệt tới tận nơi."
+     },
+     {
+      "number": 39,
+      "stem": "The word \"allure\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "attraction",
+       "B": "excitement",
+       "C": "illusion",
+       "D": "distance"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét danh từ \"allure\" ở đoạn 7 khi mô tả sức hấp dẫn khoa học và bí ẩn cuốn hút các nhà nghiên cứu hướng về sao Hải Vương; chọn nghĩa tương đương với sức hút, sự lôi cuốn."
+     },
+     {
+      "number": 40,
+      "stem": "Which of the following best describes the author's attitude toward research on Neptune?",
+      "options": {
+       "A": "Alarmed, because Neptune's storms threaten the outer solar system",
+       "B": "Disappointed, because space agencies have ignored Neptune completely",
+       "C": "Interested and measured, noting both discoveries and unanswered questions",
+       "D": "Skeptical, because Webb's findings have been exaggerated by researchers"
+      },
+      "answer": "C",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Quan sát giọng điệu xuyên suốt bài viết khi bàn về nghiên cứu sao Hải Vương: tác giả thể hiện sự quan tâm khoa học rõ rệt nhưng giữ mức độ chừng mực, nêu bật cả các phát hiện nổi bật lẫn những câu hỏi lớn còn để ngỏ. Hãy chọn phương án phản ánh đúng sự quan tâm và chừng mực này, tránh các đáp án hoảng hốt, thất vọng phủ nhận hay hoài nghi phóng đại."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Tóm tắt toàn bài (R4Q3):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề và nắm mạch lập luận xuyên suốt toàn bài: đoạn 1 mở đầu bằng việc sao Hải Vương được phát hiện nhờ tính toán thiên văn và xác định vị trí; các đoạn tiếp theo lần lượt trình bày dữ liệu từ chuyến bay ngang qua của Voyager 2 (khí quyển, bão tối, từ trường, vệ tinh Triton), quan sát gần đây bằng kính thiên văn không gian Webb, ý nghĩa của sao Hải Vương đối với việc nghiên cứu ngoại hành tinh kích thước tương tự, cùng những câu hỏi lớn còn bỏ ngỏ và sức hút khoa học của hành tinh này. Phương án đúng cần bao quát trọn vẹn việc sao Hải Vương — dù mới được biết đến nhiều qua một chuyến bay ngang — đang thu hút sự quan tâm khoa học dù chưa có sứ mệnh chuyên biệt riêng, tránh các đáp án quy chụp việc Webb đã giải quyết mọi bí ẩn, so sánh thứ tự ưu tiên sứ mệnh với sao Thiên Vương hay tuyệt đối hóa việc tìm hành tinh không cần kính thiên văn.\n- **Dạng câu hỏi Chi tiết (R4Q1, R4Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực tiếp trong từng đoạn được chỉ định.\n  - Với **R4Q1**, quét từ khóa liên quan đến cách sao Hải Vương được nhận diện/xác định ở đoạn 1 để tìm chuỗi bước: các nhà thiên văn tính toán vị trí từ độ lệch quỹ đạo của sao Thiên Vương, sau đó Galle định vị được hành tinh.\n  - Với **R4Q7**, quét từ khóa về các hành tinh quanh các ngôi sao khác (ngoại hành tinh) ở đoạn 5 để tìm lý do sao Hải Vương có giá trị tham chiếu: nhiều ngoại hành tinh phổ biến có kích thước tương đương sao Hải Vương.\n- **Dạng câu hỏi Loại trừ NOT (R4Q4):** Đối soát các đặc điểm hoặc hiện tượng mà tàu Voyager 2 ghi nhận/chụp ảnh tại hệ sao Hải Vương được nêu trong bài (như bão tối trong khí quyển, từ trường lệch tâm và nghiêng góc lớn, hay các cột phun trào trên bề mặt vệ tinh Triton). Hãy loại trừ các chi tiết có xuất hiện trong bài để chọn ra đặc điểm không được nhắc đến ở đây.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q2, R4Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp phân tích cấu trúc câu.\n  - Với **R4Q2**, xét động từ **\"inferred\"** ở đoạn 1 khi nói về việc suy đoán vị trí của một thiên thể chưa quan sát trực tiếp từ tác động hấp dẫn lên quỹ đạo lân cận; ngữ cảnh hướng tới việc suy luận, rút ra bằng lập luận logic.\n  - Với **R4Q9**, xét danh từ **\"allure\"** ở đoạn 7 khi mô tả sức hấp dẫn khoa học và bí ẩn cuốn hút các nhà nghiên cứu hướng về sao Hải Vương; chọn nghĩa tương đương với sức hút, sự lôi cuốn.\n- **Dạng câu hỏi Quy chiếu (R4Q5):** Xác định cụm danh từ chỉ định **\"the result\"** ở đoạn 4. Đọc ngược lại các câu trước đó trong đoạn để tìm chính xác kết quả quan sát/phát hiện cực quang bằng kính thiên văn Webb vừa được nhắc đến làm đối tượng tham chiếu, tránh nhầm sang tập hợp các hành tinh khí khổng lồ/băng khổng lồ, cực quang trên sao Thiên Vương hay chuyến bay ngang qua của Voyager 2.\n- **Dạng câu hỏi Chèn câu vào đoạn văn (R4Q6):** Phân tích nội dung câu cần chèn (\"Its orbit runs opposite to the planet's rotation, a clue that Triton was probably captured from the outer solar system rather than formed alongside Neptune.\") — câu này đòi hỏi phía trước phải giới thiệu vệ tinh **Triton** (\"Its orbit\", \"Triton\") và chuyển động/đặc điểm quỹ đạo của nó để làm căn cứ cho giả thuyết bị bắt giữ từ vùng rìa hệ Mặt Trời. Hãy đối chiếu vị trí xuất hiện của Triton trong đoạn 3 để chọn ô vuông **[A]**, **[B]**, **[C]**, hoặc **[D]** khớp nhất về cả nghĩa lẫn mạch liên kết.\n- **Dạng câu hỏi Suy luận (R4Q8):** Kết hợp thông tin từ đoạn 3 về những khám phá nhưng cũng còn nhiều câu hỏi từ lần bay ngang duy nhất của Voyager 2 với đoạn 6 về các bí ẩn cấu trúc bên trong/khí quyển/từ trường chưa thể giải đáp trọn vẹn từ xa. Từ hai đoạn này ghép lại, rút ra kết luận hợp lý về việc các bước tiến lớn trong hiểu biết nhiều khả năng cần một sứ mệnh tàu thăm dò chuyên biệt tới tận nơi.\n- **Dạng câu hỏi Thái độ tác giả (R4Q10):** Quan sát giọng điệu xuyên suốt bài viết khi bàn về nghiên cứu sao Hải Vương: tác giả thể hiện sự quan tâm khoa học rõ rệt nhưng giữ mức độ chừng mực, nêu bật cả các phát hiện nổi bật lẫn những câu hỏi lớn còn để ngỏ. Hãy chọn phương án phản ánh đúng sự quan tâm và chừng mực này, tránh các đáp án hoảng hốt, thất vọng phủ nhận hay hoài nghi phóng đại.\nLời khuyên: Hãy xử lý trước nhóm câu hỏi có tọa độ rõ ràng và tập trung vào từ/cụm từ như Quy chiếu (R4Q5) và Từ vựng theo ngữ cảnh (R4Q2, R4Q9). Tiếp theo, dùng kỹ thuật đọc quét để giải quyết nhanh nhóm Chi tiết (R4Q1, R4Q7), Loại trừ NOT (R4Q4) và Chèn câu (R4Q6). Cuối cùng, khi đã nắm trọn vẹn mạch thông tin và mối liên hệ giữa các đoạn, bạn sẽ dễ dàng chốt đáp án chính xác cho các câu hỏi tổng hợp gồm **Suy luận** (R4Q8), **Thái độ tác giả** (R4Q10) và **Tóm** tắt toàn bài (R4Q3)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Daniel.\nHe knows that you recently started a new job and that he has an interview at your company next week. Read part of his email below.\nCongratulations on your new job! I have an interview at your company next week, so I would like to know more about it.\n- What are your colleagues like?\n- How can I get to the company?\n- What advice can you give me for the interview?\nWrite an email responding to Daniel. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Daniel.",
+      "He knows that you recently started a new job and that he has an interview at your company next week. Read part of his email below."
+     ],
+     "quote": [
+      "Congratulations on your new job! I have an interview at your company next week, so I would like to know more about it.",
+      "- What are your colleagues like?",
+      "- How can I get to the company?",
+      "- What advice can you give me for the interview?"
+     ],
+     "instruction": "Write an email responding to Daniel. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (thư thân mật) cung cấp thông tin và lời khuyên cho bạn bè sắp phỏng vấn tại công ty bạn. Giọng văn thân thiện, khích lệ, mang tính tư vấn.\n- Đề yêu cầu 3 ý chính: (1) kể về đồng nghiệp, (2) hướng dẫn đường đến công ty, (3) đưa lời khuyên cho buổi phỏng vấn.\n- Bài viết cần tối thiểu **120 từ**. Nên viết khoảng 140–170 từ để an toàn.\n- Phải trả lời đủ cả 3 ý. Bỏ sót ý sẽ bị trừ điểm Task Fulfillment.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Daniel,\n- **Opening:** Cảm ơn lời chúc và động viên. Ví dụ: Thanks for your kind words! I'm happy to hear that you have an interview at my company.\n- **Body 1 (Đồng nghiệp):** Mô tả tính cách và không khí làm việc. Ví dụ: My colleagues are friendly and helpful, and they always share their experience with newcomers.\n- **Body 2 (Đường đến công ty):** Nêu phương tiện, tuyến đường, thời gian. Ví dụ: The easiest way is to take bus number 10 and get off at the City Hall stop. The office is just a five-minute walk from there.\n- **Body 3 (Lời khuyên phỏng vấn):** Nêu 2–3 lời khuyên kèm lý do. Ví dụ: You should dress smartly and arrive early. It is also a good idea to research the company and practise answering common questions.\n- **Closing:** Chúc may mắn và hẹn hồi âm. Ví dụ: I'm sure you will do great. Good luck, and let me know how it goes!\n- **Sign-off:** Best wishes, [Your Name]. Mỗi đoạn body nên dài 2–3 câu.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Dùng **hiện tại đơn** để mô tả đồng nghiệp và đường đi, **should / need to / had better** để đưa lời khuyên, và **will** để chúc và dự đoán.\n- Với mô tả đồng nghiệp, nên có tính từ cụ thể kèm ví dụ ngắn (helpful because they answered all my questions on the first day).\n- Với lời khuyên, nên có lý do đi kèm để bài thuyết phục và đủ độ dài.\n- Tránh lặp từ good, nice, advice. Hãy thay bằng các từ bên dưới.\nTừ vựng quan trọng:\n- **Colleague / Coworker:** Đồng nghiệp\n- **Supportive / Approachable:** Hay giúp đỡ / dễ gần\n- **Commute:** Đi lại hằng ngày (đi làm)\n- **Get off / Get on:** Xuống xe / lên xe\n- **Job interview:** Buổi phỏng vấn xin việc\n- **Dress code / Dress smartly:** Quy định về trang phục / ăn mặc lịch sự\n- **Make a good impression:** Tạo ấn tượng tốt\n- **Do some research:** Tìm hiểu trước\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Besides / Moreover:** Bên cạnh đó, hơn nữa\n- **Because / Since:** Bởi vì\n- **So / Therefore:** Vì vậy\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm so glad that you're applying here.** Mình rất vui vì bạn ứng tuyển ở đây.\n- **Don't worry, you'll do fine.** Đừng lo, bạn sẽ làm tốt thôi.\n- **I'm sure you will make a great impression.** Mình chắc bạn sẽ tạo được ấn tượng tốt.\n- **I'm keeping my fingers crossed for you.** Mình cầu chúc may mắn cho bạn.\n\n**4. Các lỗi thường gặp:**\n- Chỉ liệt kê tính từ về đồng nghiệp mà không giải thích hay ví dụ.\n- Chỉ đường chung chung mà thiếu tuyến, trạm xuống hoặc thời gian.\n- Bỏ sót phần lời khuyên phỏng vấn hoặc chỉ đưa một lời khuyên rất ngắn.\n- Dùng giọng văn quá trang trọng hoặc dùng sai giới từ (by bus, on foot, at the stop).\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm từ và đảm bảo đạt trên 120 từ.\n- Kiểm tra đã trả lời đủ 3 ý: đồng nghiệp, đường đến công ty, lời khuyên phỏng vấn.\n- Kiểm tra có lời chào, mở đầu, kết thư và ký tên.\n- Soát lỗi chính tả, thì động từ và dấu câu.\n\n**6. Tư duy làm bài:**\nHãy viết như đang giúp một người bạn thật sự chuẩn bị cho buổi phỏng vấn: cụ thể, thân thiện và hữu ích. Mỗi ý tương ứng một đoạn rõ ràng, kèm lý do ngắn gọn, sẽ giúp bài mạch lạc và đủ ý.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn many cities around the world, streets, buildings and advertising signs are brightly lit throughout the night. This excessive use of artificial light at night has led to light pollution, which affects people's health, wildlife and our view of the night sky.\nSuggest some solutions that governments and individuals can take to reduce light pollution.\nWrite an essay to an educated reader to suggest solutions that governments and individuals can take to reduce light pollution caused by artificial light at night. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In many cities around the world, streets, buildings and advertising signs are brightly lit throughout the night. This excessive use of artificial light at night has led to light pollution, which affects people's health, wildlife and our view of the night sky.",
+      "Suggest some solutions that governments and individuals can take to reduce light pollution."
+     ],
+     "instruction": "Write an essay to an educated reader to suggest solutions that governments and individuals can take to reduce light pollution caused by artificial light at night. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Problem–Solution Essay** (tập trung vào giải pháp): bạn cần đề xuất các biện pháp mà cả chính phủ lẫn cá nhân có thể thực hiện để giảm ô nhiễm ánh sáng.\n- Từ khoá chính: **solutions, governments and individuals, artificial light at night, light pollution**. Phải nêu giải pháp cho cả hai nhóm, không chỉ một nhóm.\n- Nên chọn 2 giải pháp cho chính phủ (ban hành quy định về chiếu sáng, thay đèn đường tiết kiệm và có chụp che) và 2 giải pháp cho cá nhân (tắt đèn khi không dùng, dùng đèn ấm và rèm cửa).\n- Bài cần tối thiểu **250 từ**. Có thể nêu ngắn gọn các tác hại ở mở bài để làm rõ vấn đề.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Dẫn dắt và nêu thesis. Ví dụ: Light pollution is an increasing concern in modern cities, but it can be reduced if both governments and individuals take action.\n- **Body 1 (Giải pháp cho chính phủ):** Topic sentence, giải thích, ví dụ. Ví dụ: Governments should introduce regulations that limit unnecessary lighting at night. For example, advertising signs and office buildings could be required to switch off their lights after midnight.\n- **Body 2 (Giải pháp công nghệ, tuỳ chọn):** Ví dụ: Authorities could also replace old street lamps with shielded LED lights that direct light downwards, which would save energy and reduce glare.\n- **Body 3 (Giải pháp cho cá nhân):** Ví dụ: Individuals can turn off lights when they are not needed, use warm-colored bulbs and install curtains or timers at home.\n- **Conclusion:** Tóm tắt và khẳng định. Ví dụ: In conclusion, light pollution can be tackled effectively if governments set clear rules and individuals change their daily habits.\n- Mỗi đoạn thân bài theo cấu trúc: Topic sentence -> Explanation -> Example -> Mini-conclusion.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Dùng **should / could / must** cho giải pháp, **hiện tại đơn** cho sự thật, và **câu điều kiện loại 1** (If lights are switched off at night, energy will be saved) để nêu hiệu quả.\n- Mỗi giải pháp cần được phát triển: nêu biện pháp, giải thích cách nó hoạt động, rồi ví dụ cụ thể (đèn đường có chụp che, tắt biển quảng cáo sau nửa đêm, Giờ Trái Đất).\n- Tránh lặp từ light và pollution. Hãy dùng từ đồng nghĩa trong các mục bên dưới.\n- Thesis statement phải nêu rõ cả hai nhóm chủ thể (governments và individuals) ở cuối mở bài.\nTừ vựng quan trọng:\n- **Light pollution:** Ô nhiễm ánh sáng\n- **Artificial lighting:** Ánh sáng nhân tạo\n- **Street lamp / Streetlight:** Đèn đường\n- **Energy-saving bulb / LED light:** Bóng đèn tiết kiệm điện / đèn LED\n- **Glare:** Ánh sáng chói\n- **Disrupt sleep patterns:** Làm rối loạn giấc ngủ\n- **Wildlife / Nocturnal animals:** Động vật hoang dã / động vật hoạt động ban đêm\n- **Impose regulations:** Ban hành quy định\nTừ nối (Linking words):\n- **In addition / Furthermore:** Hơn nữa (thêm ý)\n- **However / Nevertheless:** Tuy nhiên (đối lập)\n- **As a result / Consequently:** Do đó (kết quả)\n- **For example / For instance:** Ví dụ (minh hoạ)\n- **One solution is... / Another solution is...:** Một giải pháp là... / Một giải pháp khác là...\n- **In conclusion / To sum up:** Tóm lại (kết luận)\nDiễn đạt lại ý (Paraphrasing):\n- **Light pollution:** Có thể thay bằng excessive artificial lighting hoặc over-illumination at night.\n- **Solutions:** Có thể thay bằng measures hoặc ways to tackle the problem.\n- **Governments:** Có thể thay bằng authorities hoặc local councils.\n- **Individuals:** Có thể thay bằng ordinary people hoặc households.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **Governments should take action to...:** Chính phủ nên có hành động để...\n- **Individuals can also play a part by...:** Cá nhân cũng có thể góp phần bằng cách...\n- **This problem can be tackled by...:** Vấn đề này có thể được giải quyết bằng cách...\n- **This would help to reduce the amount of...:** Điều này sẽ giúp giảm lượng...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nêu giải pháp cho chính phủ hoặc chỉ cho cá nhân, bỏ sót một nhóm theo yêu cầu đề.\n- Giải pháp chung chung như We should protect the environment mà không có biện pháp cụ thể.\n- Đoạn văn quá ngắn, thiếu Topic sentence và ví dụ.\n- Lặp từ light quá nhiều lần hoặc dùng sai thì và modal verbs.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra mở bài đã có thesis statement nêu cả chính phủ và cá nhân.\n- Đảm bảo mỗi nhóm đều có ít nhất một giải pháp kèm ví dụ.\n- Đếm từ để chắc chắn đạt trên 250 từ.\n- Soát lỗi chia động từ, mạo từ và từ nối.\n\n**6. Tư duy làm bài:**\nHãy lập dàn ý ngắn gọn trước khi viết: giải pháp cho chính phủ, giải pháp cho cá nhân, mỗi giải pháp một ví dụ. Một bài có bố cục logic, giải pháp cụ thể và ngôn ngữ chính xác sẽ ghi điểm tốt hơn bài dùng từ phức tạp nhưng thiếu mạch lạc."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about AI tools\n\n1\nDo you use AI tools in your daily life? What do you use them for?\n2\nDo you think AI is helpful for students? Why?\n3\nWhat are the possible risks of relying too much on AI?\n\nNow, let’s talk about reading books\n\n4\nDo you enjoy reading books? What kinds of books do you like?\n5\nWhen and where do you usually read?\n6\nDo you prefer paper books or e-books? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 kéo dài **3 phút** với **6 câu hỏi** về những chủ đề quen thuộc trong cuộc sống hằng ngày.\n- **Topic A (AI tools):** Câu 1–3 hỏi về việc bạn dùng AI vào mục đích gì, AI có hữu ích cho sinh viên không và rủi ro khi phụ thuộc vào AI. Phần này kiểm tra khả năng mô tả thói quen và nêu quan điểm có lý do.\n- **Topic B (Reading books):** Câu 4–6 hỏi về sở thích đọc sách, thời gian và địa điểm đọc, cũng như sách giấy hay sách điện tử. Phần này kiểm tra khả năng mô tả thói quen và so sánh.\n- Tiêu chí chấm điểm: **Fluency** (độ trôi chảy), **Vocabulary** (từ vựng), **Grammar** (ngữ pháp), **Pronunciation** (phát âm).\n- Phân bổ thời gian: khoảng **25–35 giây** mỗi câu, chia đều cho Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Dùng cấu trúc **Answer – Reason – Example (ARE)**: trả lời trực tiếp, nêu lý do, rồi thêm một ví dụ ngắn từ đời sống của bạn.\n- **Ví dụ Topic A (câu 2):** Yes, I think AI is very helpful for students because it can explain difficult topics quickly. For example, when I do not understand a grammar point, I ask an AI tool to give me simple examples.\n- **Ví dụ Topic B (câu 6):** I prefer paper books because I can concentrate better without notifications. For instance, I usually read a novel before bed, and the printed pages make me feel relaxed.\n- Mẹo: luôn tự hỏi **Why?** hoặc **How?** sau mỗi câu trả lời để kéo dài ý một cách tự nhiên.\n- Mẹo chuyển chủ đề mượt: khi sang câu 4, bạn có thể bắt đầu bằng **Speaking of learning new things...** hoặc **As for** books... để thể hiện bạn theo kịp mạch hỏi.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định, dùng từ đệm như **well**, **actually**, **let me think** để tránh im lặng kéo dài.\n- Thì động từ: dùng **hiện tại đơn** cho thói quen (I often use AI to...), **quá khứ đơn** khi kể về cuốn sách đã đọc (I read a novel last month), **will/could** để nói về rủi ro tương lai (People could lose their creativity).\n- Kỹ thuật paraphrase: nếu quên từ, hãy diễn đạt bằng từ đơn giản hơn. Ví dụ quên từ **plot** thì nói **the story of the book**.\n- **Từ vựng Topic A:** save time (tiết kiệm thời gian), generate ideas (tạo ý tưởng), rely on (dựa vào), spread false information (lan truyền thông tin sai).\n- **Từ vựng Topic B:** page-turner (cuốn sách hấp dẫn), bookworm (mọt sách), plot (cốt truyện), widen my knowledge (mở rộng kiến thức).\nCụm từ quan trọng nên dùng:\n- **Topic A:** AI-powered tools (các công cụ dùng AI)\n- **Topic A:** double-check the information (kiểm tra lại thông tin)\n- **Topic A:** lose critical thinking skills (mất kỹ năng tư duy phản biện)\n- **Topic A:** support my studies (hỗ trợ việc học của tôi)\n- **Topic B:** curl up with a good book (thư thái đọc một cuốn sách hay)\n- **Topic B:** bestselling novel (tiểu thuyết bán chạy)\n- **Topic B:** read for pleasure (đọc để giải trí)\n- **Topic B:** strain my eyes (làm mỏi mắt)\nTừ nối khi nói (Linking Words):\n- **because / since:** bởi vì, dùng để nêu lý do.\n- **for example / for instance:** ví dụ, dùng trước ví dụ cá nhân.\n- **however:** tuy nhiên, dùng để nêu mặt trái.\n- **besides / also:** ngoài ra, dùng để thêm ý.\n- **as a result:** kết quả là, dùng để nêu hệ quả.\n- **on the other hand:** mặt khác, dùng khi so sánh hai mặt của vấn đề.\nCách thể hiện quan điểm tự nhiên:\n- **Topic A:** **In my opinion...** (theo tôi) – In my opinion, AI is a useful assistant, but students should still think for themselves.\n- **Topic A:** **I would say that...** (tôi cho rằng) – I would say that depending too much on AI may reduce our creativity.\n- **Topic A:** **To be honest...** (thành thật mà nói) – To be honest, I sometimes find AI answers incorrect, so I always check them.\n- **Topic B:** **As far as I am concerned...** (theo tôi thấy) – As far as I am concerned, reading books is the best way to relax.\n- **Topic B:** **I truly believe that...** (tôi tin rằng) – I truly believe that reading regularly improves vocabulary and\nconcentration.\n- **Topic B:** **From my perspective...** (từ góc nhìn của tôi) – From my perspective, e-books are more convenient, but paper books feel more enjoyable.\n\n**4. Các lỗi thường gặp:**\n- Trả lời **Yes/No** rồi im lặng, không giải thích. Đây là lỗi nghiêm trọng nhất vì câu trả lời quá ngắn.\n- Topic A: chỉ nói tên công cụ (ChatGPT, translator) mà không mô tả cách dùng và hiệu quả.\n- Topic A: nhầm giữa **rely on** và **rely in**, hoặc phát âm sai **AI** (hãy nói rõ /ˌeɪ ˈaɪ/).\n- Topic B: chỉ nói tên thể loại (novels, comics) mà không kể một cuốn sách hoặc lý do thích cụ thể.\n- Topic B: nhầm giữa **read** hiện tại /riːd/ và quá khứ /red/ khi kể về cuốn sách đã đọc.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu kéo dài thời gian: **That is an interesting question, let me think for a second.**\n- Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm thay vì bỏ cuộc.\n- Bí ý ở Topic A: kể lại lần gần nhất bạn dùng AI, hỏi gì, kết quả ra sao và bạn có hài lòng không.\n- Bí ý ở Topic B: kể về cuốn sách bạn đọc gần đây nhất, nội dung chính và vì sao bạn thích hoặc không thích.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi Part 1 như một cuộc trò chuyện thân mật với giám khảo, không phải bài học thuộc lòng.\n- Sau câu 3, hãy **reset tâm lý**: quên chủ đề AI và bước vào chủ đề đọc sách với năng lượng mới.\n- Sự tự nhiên và trôi chảy quan trọng hơn từ vựng phức tạp. Một câu đơn giản, đúng và đủ ý luôn tốt hơn một câu khó nhưng sai."
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou and your friends want to have dinner together at a restaurant this weekend and you need to decide where to go.\n\nYou are considering the following options:\n\nOption 1: A Thai restaurant\nOption 2: A Chinese restaurant\nOption 3: A Japanese restaurant\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống: bạn và bạn bè muốn đi ăn tối cuối tuần và cần chọn nhà hàng. Có **3 phương án**: nhà hàng Thái, nhà hàng Trung, nhà hàng Nhật.\n- Tiêu chí chấm điểm: **Fluency**, **Vocabulary**, **Grammar**, **Pronunciation** và khả năng lập luận để chọn phương án tốt nhất.\n- Thời gian: **4 phút** tổng cộng, khoảng 1 phút chuẩn bị và khoảng 3 phút nói.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Dùng cấu trúc **I-C-E**: Introduction (nêu tình huống) – Comparison/Body (phân tích từng phương án) – End (kết luận chọn một phương án).\n- **Option 1 (Thai):** hương vị chua cay đậm đà, nhiều món ăn chung hợp nhóm bạn, giá thường vừa phải, nhưng có thể quá cay với người không ăn được cay.\n- **Option 2 (Chinese):** thực đơn đa dạng, nhiều món để chia sẻ quanh bàn tròn, phù hợp nhóm đông, nhưng món có thể nhiều dầu mỡ và thời gian chờ lâu.\n- **Option 3 (Japanese):** món ăn thanh đạm, trình bày đẹp, tốt cho sức khỏe, nhưng giá thường cao hơn và khẩu phần nhỏ, không phải ai cũng ăn được đồ sống.\n- Mẹo: gắn lập luận với nhu cầu của nhóm bạn như ngân sách sinh viên, số người, sở thích ăn uống và không khí trò chuyện.\n- Mẹo: dùng từ nối chỉ sự đối lập như **however**, **on the other hand** để chuyển từ ưu điểm sang nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các phương án với nhau thay vì nói riêng lẻ, ví dụ: Compared to Japanese food, Thai dishes are cheaper and easier to share among a big group.\n- Thì động từ: dùng **hiện tại đơn** để nêu đặc điểm (Thai food has a strong flavor), **will/would** để dự đoán (My friends would enjoy sharing dishes), **câu điều kiện loại 2** để giả định (If we had a bigger budget, I would choose a Japanese restaurant).\n- Paraphrase theo chủ đề: thay **delicious** bằng **flavorful** hoặc **tasty**; thay **cheap** bằng **affordable**; thay **healthy** bằng nutritious.\nCụm từ quan trọng nên dùng:\n- **spicy and sour flavor:** hương vị chua cay\n- **share dishes:** chia sẻ món ăn\n- **affordable prices:** giá cả phải chăng\n- **healthy and light meals:** bữa ăn lành mạnh và nhẹ nhàng\n- **cozy atmosphere:** không khí ấm cúng\n- **a wide variety of dishes:** nhiều món ăn đa dạng\n- **suit everyone's taste:** phù hợp khẩu vị của mọi người\nTừ nối khi nói (Linking Words):\n- **First of all:** trước hết, dùng để mở đầu phân tích.\n- **However:** tuy nhiên, dùng để nêu nhược điểm.\n- **On the other hand:** mặt khác, dùng để chuyển sang phương án khác.\n- **In addition:** ngoài ra, dùng để thêm lý do.\n- **Therefore:** vì vậy, dùng để rút ra kết luận.\n- **All things considered:** xét tổng thể, dùng để mở đầu kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **Compared to...** (so với) – Compared to a Japanese restaurant, a Chinese one offers more dishes at a lower price.\n- **I would go for...** (tôi sẽ chọn) – I would go for the Thai restaurant because the food is tasty and perfect for sharing.\n- **What matters most is...** (điều quan trọng nhất là) – What matters most is that everyone can enjoy the meal and chat comfortably.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen phương án mình chọn mà không phân tích điểm yếu của hai phương án còn lại.\n- Lặp lại **delicious** và **good**, hãy thay bằng flavorful, authentic, nutritious, greasy, overpriced.\n- Không đưa ra quyết định rõ ràng ở phần kết, chỉ dừng lại ở việc liệt kê ưu nhược điểm.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên biệt, hãy chuyển sang yếu tố **giá cả** hoặc **không khí nhà hàng** để tiếp tục lập luận.\n- Dùng câu kéo dài thời gian: **Let's evaluate this option from a different perspective.**\n- Giữ bình tĩnh, nếu bí ý ở một phương án thì chuyển sang phương án tiếp theo và quay lại sau nếu còn thời gian.\n\n**6. Tư duy làm bài nói:**\n- Hãy nghĩ như người đang thật sự chọn chỗ ăn cho cả nhóm: món nào hợp khẩu vị nhiều người, giá hợp lý và dễ trò chuyện?\n- Dù chọn phương án nào, hãy đề xuất cách khắc phục nhược điểm, ví dụ gọi thêm món không cay tại nhà hàng Thái, để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe causes of obesity in children\n\nChildhood Obesity\nUnhealthy eating habits\nLack of physical activity\nToo much screen time\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWho should be responsible for preventing obesity in children, parents or schools?\n2\nWhat can parents do to help their children eat more healthily?\n3\nDo you think advertisements for fast food should be restricted for children?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề là **nguyên nhân gây béo phì ở trẻ em** với 3 nhánh sơ đồ tư duy: **thói quen ăn uống thiếu lành mạnh**, **thiếu vận** động thể chất, dành quá nhiều thời gian trước màn hình, cộng thêm 1 nhánh ý tưởng cá nhân.\n- Gợi ý cho nhánh thứ 4: thiếu hiểu biết về dinh dưỡng của phụ huynh, quảng cáo đồ ăn nhanh nhắm vào trẻ em, hoặc yếu tố di truyền và ngủ không đủ giấc.\n- Tiêu chí chấm điểm: **Fluency**, **Vocabulary**, **Grammar**, **Pronunciation** và khả năng phát triển ý mạch lạc.\n- Thời gian: **5 phút**, khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Dùng cấu trúc **IDEA**: Introduction (giới thiệu) – Detail (chi tiết) – Example (ví dụ) – Add/wrap up (bổ sung hoặc chốt ý) cho từng nhánh.\n- **Ví dụ 1:** Today, I would like to talk about the causes of obesity in children, which has become a serious problem in many countries, including Vietnam.\n- **Ví dụ 2 (ý cá nhân):** Another cause is advertising, because colorful commercials for fast food and sweet drinks make children want to eat unhealthy products.\n- Mẹo: mỗi nhánh nên nêu nguyên nhân rồi hệ quả, ví dụ ăn nhiều đồ ngọt dẫn đến tăng cân, ít vận động làm tình trạng nặng hơn.\n- Mẹo: bám sát sơ đồ tư duy để tránh lặp ý và lan man sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm chuyển ý mượt giữa các nhánh như **Moving on to...**, **Another cause worth mentioning is...**\n- Thì động từ: **hiện tại đơn** cho sự thật chung (Fast food contains a lot of fat and sugar) và **hiện tại hoàn thành** cho xu hướng đang diễn ra (The number of overweight children has increased in recent years).\n- Paraphrase cụm chủ đề: **obesity** có thể thay bằng **being seriously overweight**; **causes** thay bằng **reasons** hoặc factors; children thay bằng kids hoặc young people.\nCụm từ quan trọng nên dùng:\n- **childhood obesity:** béo phì ở trẻ em\n- **sugary drinks and snacks:** đồ uống và đồ ăn vặt nhiều đường\n- **sedentary lifestyle:** lối sống ít vận động\n- **excessive screen time:** thời gian dùng màn hình quá nhiều\n- **balanced diet:** chế độ ăn cân bằng\n- **gain weight:** tăng cân\n- **health problems:** các vấn đề sức khỏe\nTừ nối khi nói (Linking Words):\n- **To begin with:** trước tiên, dùng để mở đầu nhánh đầu tiên.\n- **Moving on to:** chuyển sang, dùng để sang nhánh tiếp theo.\n- **Another point is that:** một điểm khác là, dùng để thêm ý.\n- **Having said that:** tuy vậy, dùng để đưa ra mặt đối lập.\n- **As a result:** kết quả là, dùng để nêu hệ quả.\n- **To sum up:** tóm lại, dùng để kết bài.\nCách thể hiện quan điểm tự nhiên:\n- **I firmly believe that...** (tôi tin chắc rằng) – I firmly believe that unhealthy eating habits are the main cause of obesity in children.\n- **It seems to me that...** (với tôi thì có vẻ) – It seems to me that many children spend more time on screens than playing outside.\n- **From my point of view...** (theo quan điểm của tôi) – From my point of view, parents play a key role in shaping their children's eating habits.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Who should be responsible for preventing obesity in children, parents or schools?** – I think both, but parents have the biggest influence because they decide what children eat at home. Schools can support by providing healthy lunches and physical education classes.\n- **What can parents do to help their children eat more healthily?** – They can cook more meals at home, limit sweets and soft drinks, and encourage children to eat vegetables. Eating together as a family and setting a good example also helps.\n- **Should advertisements for fast food be restricted for children?** – Yes, I think so. Children are easily influenced by advertising, so limiting these ads, especially during children's programs, could reduce unhealthy cravings.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê nguyên nhân (fast food, screen time) mà không giải thích cơ chế và không đưa ví dụ cụ thể.\n- Quên nhánh ý tưởng cá nhân, hãy chuẩn bị sẵn một nguyên nhân riêng như quảng cáo hoặc thiếu kiến thức dinh dưỡng.\n- Nói quá lâu ở phần chính khiến không còn thời gian cho câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Quay về trải nghiệm cá nhân: thói quen ăn uống của trẻ em xung quanh bạn như em họ, hàng xóm hoặc học sinh ở trường.\n- Dùng câu kéo dài thời gian mang tính học thuật: **That is a complex issue. If we evaluate it from a health viewpoint...**\n- Nếu quên từ kỹ thuật, hãy dùng từ đồng nghĩa hoặc mô tả đơn giản, ví dụ thay **sedentary** bằng **not moving much** during the day.\n\n**7. Tư duy làm bài nói:**\n- Hãy nghĩ thực tế và từ góc nhìn xã hội: béo phì ở trẻ em là vấn đề sức khỏe cộng đồng, có nguyên nhân từ cả gia đình, nhà trường và môi trường sống.\n- Sự mạch lạc và logic trong dòng ý tưởng là yếu tố then chốt để đạt điểm cao.\n- Khi trả lời follow-up về trách nhiệm, hãy nêu quan điểm rõ ràng, đưa lý do rồi gợi ý một hành động cụ thể để câu trả lời thuyết phục."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about AI tools.\n1.\nDo you use AI tools in your daily life? What do you use them for?\n2.\nDo you think AI is helpful for students? Why?\n3.\nWhat are the possible risks of relying too much on AI?\nNow, let’s talk about reading books.\n4.\nDo you enjoy reading books? What kinds of books do you like?\n5.\nWhen and where do you usually read?\n6.\nDo you prefer paper books or e-books? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 kéo dài 3 phút với 6 câu hỏi về những chủ đề quen thuộc trong cuộc sống hằng ngày.\n• Topic A (AI tools): Câu 1–3 hỏi về việc bạn dùng AI vào mục đích gì, AI có hữu ích cho sinh viên không và rủi ro khi\nphụ thuộc vào AI. Phần này kiểm tra khả năng mô tả thói quen và nêu quan điểm có lý do.\n• Topic B (Reading books): Câu 4–6 hỏi về sở thích đọc sách, thời gian và địa điểm đọc, cũng như sách giấy hay sách\nđiện tử. Phần này kiểm tra khả năng mô tả thói quen và so sánh.\n• Tiêu chí chấm điểm: Fluency (độ trôi chảy), Vocabulary (từ vựng), Grammar (ngữ pháp), Pronunciation (phát âm).\n• Phân bổ thời gian: khoảng 25–35 giây mỗi câu, chia đều cho Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Dùng cấu trúc Answer – Reason – Example (ARE): trả lời trực tiếp, nêu lý do, rồi thêm một ví dụ ngắn từ đời sống của\nbạn.\n• Ví dụ Topic A (câu 2): Yes, I think AI is very helpful for students because it can explain difficult topics quickly. For\nexample, when I do not understand a grammar point, I ask an AI tool to give me simple examples.\n• Ví dụ Topic B (câu 6): I prefer paper books because I can concentrate better without notifications. For instance, I\nusually read a novel before bed, and the printed pages make me feel relaxed.\n• Mẹo: luôn tự hỏi Why? hoặc How? sau mỗi câu trả lời để kéo dài ý một cách tự nhiên.\n• Mẹo chuyển chủ đề mượt: khi sang câu 4, bạn có thể bắt đầu bằng Speaking of learning new things... hoặc As for\nbooks... để thể hiện bạn theo kịp mạch hỏi.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định, dùng từ đệm như well, actually, let me think để tránh im lặng kéo dài.\n• Thì động từ: dùng hiện tại đơn cho thói quen (I often use AI to...), quá khứ đơn khi kể về cuốn sách đã đọc (I read a\nnovel last month), will/could để nói về rủi ro tương lai (People could lose their creativity).\n• Kỹ thuật paraphrase: nếu quên từ, hãy diễn đạt bằng từ đơn giản hơn. Ví dụ quên từ plot thì nói the story of the book.\n• Từ vựng Topic A: save time (tiết kiệm thời gian), generate ideas (tạo ý tưởng), rely on (dựa vào), spread false\ninformation (lan truyền thông tin sai).\n• Từ vựng Topic B: page-turner (cuốn sách hấp dẫn), bookworm (mọt sách), plot (cốt truyện), widen my knowledge (mở\nrộng kiến thức).\nCụm từ quan trọng nên dùng:\n• Topic A: AI-powered tools (các công cụ dùng AI)\n• Topic A: double-check the information (kiểm tra lại thông tin)\n• Topic A: lose critical thinking skills (mất kỹ năng tư duy phản biện)\n• Topic A: support my studies (hỗ trợ việc học của tôi)\n• Topic B: curl up with a good book (thư thái đọc một cuốn sách hay)\n• Topic B: bestselling novel (tiểu thuyết bán chạy)\n• Topic B: read for pleasure (đọc để giải trí)\n• Topic B: strain my eyes (làm mỏi mắt)\nTừ nối khi nói (Linking Words):\n• because / since: bởi vì, dùng để nêu lý do.\n• for example / for instance: ví dụ, dùng trước ví dụ cá nhân.\n• however: tuy nhiên, dùng để nêu mặt trái.\n• besides / also: ngoài ra, dùng để thêm ý.\n• as a result: kết quả là, dùng để nêu hệ quả.\n• on the other hand: mặt khác, dùng khi so sánh hai mặt của vấn đề.\nCách thể hiện quan điểm tự nhiên:\n• Topic A: In my opinion... (theo tôi) – In my opinion, AI is a useful assistant, but students should still think for\nthemselves.\n• Topic A: I would say that... (tôi cho rằng) – I would say that depending too much on AI may reduce our creativity.\n• Topic A: To be honest... (thành thật mà nói) – To be honest, I sometimes find AI answers incorrect, so I always check\nthem.\n• Topic B: As far as I am concerned... (theo tôi thấy) – As far as I am concerned, reading books is the best way to relax.\n• Topic B: I truly believe that... (tôi tin rằng) – I truly believe that reading regularly improves vocabulary and\nconcentration.\n• Topic B: From my perspective... (từ góc nhìn của tôi) – From my perspective, e-books are more convenient, but paper\nbooks feel more enjoyable.\n4. Các lỗi thường gặp:\n• Trả lời Yes/No rồi im lặng, không giải thích. Đây là lỗi nghiêm trọng nhất vì câu trả lời quá ngắn.\n• Topic A: chỉ nói tên công cụ (ChatGPT, translator) mà không mô tả cách dùng và hiệu quả.\n• Topic A: nhầm giữa rely on và rely in, hoặc phát âm sai AI (hãy nói rõ /ˌeɪ ˈaɪ/).\n• Topic B: chỉ nói tên thể loại (novels, comics) mà không kể một cuốn sách hoặc lý do thích cụ thể.\n• Topic B: nhầm giữa read hiện tại /riːd/ và quá khứ /red/ khi kể về cuốn sách đã đọc.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu kéo dài thời gian: That is an interesting question, let me think for a second.\n• Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm thay vì bỏ cuộc.\n• Bí ý ở Topic A: kể lại lần gần nhất bạn dùng AI, hỏi gì, kết quả ra sao và bạn có hài lòng không.\n• Bí ý ở Topic B: kể về cuốn sách bạn đọc gần đây nhất, nội dung chính và vì sao bạn thích hoặc không thích.\n6. Tư duy làm bài nói:\n• Hãy coi Part 1 như một cuộc trò chuyện thân mật với giám khảo, không phải bài học thuộc lòng.\n• Sau câu 3, hãy reset tâm lý: quên chủ đề AI và bước vào chủ đề đọc sách với năng lượng mới.\n• Sự tự nhiên và trôi chảy quan trọng hơn từ vựng phức tạp. Một câu đơn giản, đúng và đủ ý luôn tốt hơn một câu khó\nnhưng sai.\nPART 2\nSolution Discussion\n4 phút\nYou and your friends want to have dinner together at a restaurant this weekend and you need to decide where to go.\nYou are considering the following options:\n• Option 1: A Thai restaurant\n• Option 2: A Chinese restaurant\n• Option 3: A Japanese restaurant\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống: bạn và bạn bè muốn đi ăn tối cuối tuần và cần chọn nhà hàng. Có 3 phương án: nhà hàng Thái, nhà hàng\nTrung, nhà hàng Nhật.\n• Tiêu chí chấm điểm: Fluency, Vocabulary, Grammar, Pronunciation và khả năng lập luận để chọn phương án tốt nhất.\n• Thời gian: 4 phút tổng cộng, khoảng 1 phút chuẩn bị và khoảng 3 phút nói.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Dùng cấu trúc I-C-E: Introduction (nêu tình huống) – Comparison/Body (phân tích từng phương án) – End (kết luận\nchọn một phương án).\n• Option 1 (Thai): hương vị chua cay đậm đà, nhiều món ăn chung hợp nhóm bạn, giá thường vừa phải, nhưng có thể\nquá cay với người không ăn được cay.\n• Option 2 (Chinese): thực đơn đa dạng, nhiều món để chia sẻ quanh bàn tròn, phù hợp nhóm đông, nhưng món có thể\nnhiều dầu mỡ và thời gian chờ lâu.\n• Option 3 (Japanese): món ăn thanh đạm, trình bày đẹp, tốt cho sức khỏe, nhưng giá thường cao hơn và khẩu phần\nnhỏ, không phải ai cũng ăn được đồ sống.\n• Mẹo: gắn lập luận với nhu cầu của nhóm bạn như ngân sách sinh viên, số người, sở thích ăn uống và không khí trò\nchuyện.\n• Mẹo: dùng từ nối chỉ sự đối lập như however, on the other hand để chuyển từ ưu điểm sang nhược điểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các phương án với nhau thay vì nói riêng lẻ, ví dụ: Compared to Japanese food, Thai dishes are cheaper and\neasier to share among a big group.\n• Thì động từ: dùng hiện tại đơn để nêu đặc điểm (Thai food has a strong flavor), will/would để dự đoán (My friends\nwould enjoy sharing dishes), câu điều kiện loại 2 để giả định (If we had a bigger budget, I would choose a Japanese\nrestaurant).\n• Paraphrase theo chủ đề: thay delicious bằng flavorful hoặc tasty; thay cheap bằng affordable; thay healthy bằng\nnutritious.\nCụm từ quan trọng nên dùng:\n• spicy and sour flavor: hương vị chua cay\n• share dishes: chia sẻ món ăn\n• affordable prices: giá cả phải chăng\n• healthy and light meals: bữa ăn lành mạnh và nhẹ nhàng\n• cozy atmosphere: không khí ấm cúng\n• a wide variety of dishes: nhiều món ăn đa dạng\n• suit everyone's taste: phù hợp khẩu vị của mọi người\nTừ nối khi nói (Linking Words):\n• First of all: trước hết, dùng để mở đầu phân tích.\n• However: tuy nhiên, dùng để nêu nhược điểm.\n• On the other hand: mặt khác, dùng để chuyển sang phương án khác.\n• In addition: ngoài ra, dùng để thêm lý do.\n• Therefore: vì vậy, dùng để rút ra kết luận.\n• All things considered: xét tổng thể, dùng để mở đầu kết luận.\nCách thể hiện quan điểm tự nhiên:\n• Compared to... (so với) – Compared to a Japanese restaurant, a Chinese one offers more dishes at a lower price.\n• I would go for... (tôi sẽ chọn) – I would go for the Thai restaurant because the food is tasty and perfect for sharing.\n• What matters most is... (điều quan trọng nhất là) – What matters most is that everyone can enjoy the meal and chat\ncomfortably.\n4. Các lỗi thường gặp:\n• Chỉ khen phương án mình chọn mà không phân tích điểm yếu của hai phương án còn lại.\n• Lặp lại delicious và good, hãy thay bằng flavorful, authentic, nutritious, greasy, overpriced.\n• Không đưa ra quyết định rõ ràng ở phần kết, chỉ dừng lại ở việc liệt kê ưu nhược điểm.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên biệt, hãy chuyển sang yếu tố giá cả hoặc không khí nhà hàng để tiếp tục lập luận.\n• Dùng câu kéo dài thời gian: Let's evaluate this option from a different perspective.\n• Giữ bình tĩnh, nếu bí ý ở một phương án thì chuyển sang phương án tiếp theo và quay lại sau nếu còn thời gian.\n6. Tư duy làm bài nói:\n• Hãy nghĩ như người đang thật sự chọn chỗ ăn cho cả nhóm: món nào hợp khẩu vị nhiều người, giá hợp lý và dễ trò\nchuyện?\n• Dù chọn phương án nào, hãy đề xuất cách khắc phục nhược điểm, ví dụ gọi thêm món không cay tại nhà hàng Thái,\nđể thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The causes of obesity in children\nUnhealthy eating habits\nLack of physical activity\nChildhood Obesity\nÝ tưởng của bạn\nToo much screen time\nFOLLOW-UP QUESTIONS\n1.\nWho should be responsible for preventing obesity in children, parents or schools?\n2.\nWhat can parents do to help their children eat more healthily?\n3.\nDo you think advertisements for fast food should be restricted for children?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề là nguyên nhân gây béo phì ở trẻ em với 3 nhánh sơ đồ tư duy: thói quen ăn uống thiếu lành mạnh, thiếu vận\nđộng thể chất, dành quá nhiều thời gian trước màn hình, cộng thêm 1 nhánh ý tưởng cá nhân.\n• Gợi ý cho nhánh thứ 4: thiếu hiểu biết về dinh dưỡng của phụ huynh, quảng cáo đồ ăn nhanh nhắm vào trẻ em, hoặc\nyếu tố di truyền và ngủ không đủ giấc.\n• Tiêu chí chấm điểm: Fluency, Vocabulary, Grammar, Pronunciation và khả năng phát triển ý mạch lạc.\n• Thời gian: 5 phút, khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Dùng cấu trúc IDEA: Introduction (giới thiệu) – Detail (chi tiết) – Example (ví dụ) – Add/wrap up (bổ sung hoặc chốt\ný) cho từng nhánh.\n• Ví dụ 1: Today, I would like to talk about the causes of obesity in children, which has become a serious problem in\nmany countries, including Vietnam.\n• Ví dụ 2 (ý cá nhân): Another cause is advertising, because colorful commercials for fast food and sweet drinks make\nchildren want to eat unhealthy products.\n• Mẹo: mỗi nhánh nên nêu nguyên nhân rồi hệ quả, ví dụ ăn nhiều đồ ngọt dẫn đến tăng cân, ít vận động làm tình trạng\nnặng hơn.\n• Mẹo: bám sát sơ đồ tư duy để tránh lặp ý và lan man sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm chuyển ý mượt giữa các nhánh như Moving on to..., Another cause worth mentioning is...\n• Thì động từ: hiện tại đơn cho sự thật chung (Fast food contains a lot of fat and sugar) và hiện tại hoàn thành cho xu\nhướng đang diễn ra (The number of overweight children has increased in recent years).\n• Paraphrase cụm chủ đề: obesity có thể thay bằng being seriously overweight; causes thay bằng reasons hoặc\nfactors; children thay bằng kids hoặc young people.\nCụm từ quan trọng nên dùng:\n• childhood obesity: béo phì ở trẻ em\n• sugary drinks and snacks: đồ uống và đồ ăn vặt nhiều đường\n• sedentary lifestyle: lối sống ít vận động\n• excessive screen time: thời gian dùng màn hình quá nhiều\n• balanced diet: chế độ ăn cân bằng\n• gain weight: tăng cân\n• health problems: các vấn đề sức khỏe\nTừ nối khi nói (Linking Words):\n• To begin with: trước tiên, dùng để mở đầu nhánh đầu tiên.\n• Moving on to: chuyển sang, dùng để sang nhánh tiếp theo.\n• Another point is that: một điểm khác là, dùng để thêm ý.\n• Having said that: tuy vậy, dùng để đưa ra mặt đối lập.\n• As a result: kết quả là, dùng để nêu hệ quả.\n• To sum up: tóm lại, dùng để kết bài.\nCách thể hiện quan điểm tự nhiên:\n• I firmly believe that... (tôi tin chắc rằng) – I firmly believe that unhealthy eating habits are the main cause of obesity\nin children.\n• It seems to me that... (với tôi thì có vẻ) – It seems to me that many children spend more time on screens than playing\noutside.\n• From my point of view... (theo quan điểm của tôi) – From my point of view, parents play a key role in shaping their\nchildren's eating habits.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Who should be responsible for preventing obesity in children, parents or schools? – I think both, but parents have the\nbiggest influence because they decide what children eat at home. Schools can support by providing healthy lunches\nand physical education classes.\n• What can parents do to help their children eat more healthily? – They can cook more meals at home, limit sweets\nand soft drinks, and encourage children to eat vegetables. Eating together as a family and setting a good example\nalso helps.\n• Should advertisements for fast food be restricted for children? – Yes, I think so. Children are easily influenced by\nadvertising, so limiting these ads, especially during children's programs, could reduce unhealthy cravings.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê nguyên nhân (fast food, screen time) mà không giải thích cơ chế và không đưa ví dụ cụ thể.\n• Quên nhánh ý tưởng cá nhân, hãy chuẩn bị sẵn một nguyên nhân riêng như quảng cáo hoặc thiếu kiến thức dinh\ndưỡng.\n• Nói quá lâu ở phần chính khiến không còn thời gian cho câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Quay về trải nghiệm cá nhân: thói quen ăn uống của trẻ em xung quanh bạn như em họ, hàng xóm hoặc học sinh ở\ntrường.\n• Dùng câu kéo dài thời gian mang tính học thuật: That is a complex issue. If we evaluate it from a health viewpoint...\n• Nếu quên từ kỹ thuật, hãy dùng từ đồng nghĩa hoặc mô tả đơn giản, ví dụ thay sedentary bằng not moving much\nduring the day.\n7. Tư duy làm bài nói:\n• Hãy nghĩ thực tế và từ góc nhìn xã hội: béo phì ở trẻ em là vấn đề sức khỏe cộng đồng, có nguyên nhân từ cả gia\nđình, nhà trường và môi trường sống.\n• Sự mạch lạc và logic trong dòng ý tưởng là yếu tố then chốt để đạt điểm cao.\n• Khi trả lời follow-up về trách nhiệm, hãy nêu quan điểm rõ ràng, đưa lý do rồi gợi ý một hành động cụ thể để câu trả\nlời thuyết phục."
+}

@@ -1,0 +1,717 @@
+{
+ "id": "vlu-135",
+ "number": 135,
+ "title": "Đề thi VLU 135",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-135",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Ada Lovelace: The World's First Computer Programmer?",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Today, millions of people write computer programs, but the idea of a program is more than 180 years old. Many historians say that the first person to describe one was a British woman named Ada Lovelace. She was born in London in 1815, and her father was the famous poet Lord Byron. However, she never really knew him, because her parents separated when she was only a few weeks old. She later married and became the Countess of Lovelace, which is how she got her famous name.",
+     "Ada's mother worried that her daughter might grow up like her father, so she made sure Ada studied mathematics and science. Ada had private teachers from a young age, and she was a quick learner. As a teenager, she became interested in machines and even drew plans for a flying machine with wings. In 1833, a friend introduced her to Charles Babbage, a mathematician who was designing a large calculating machine. Ada was **fascinated** by his ideas, and the two stayed friends for many years.",
+     "Babbage's most **ambitious** design was the Analytical Engine. It was never finished, partly because it was so expensive and complicated, but on paper it had many parts that modern computers also have, such as a memory and a section that performed calculations. It was also meant to follow instructions stored on punched cards. In 1842, an Italian engineer wrote an article about the machine in French. Ada translated it into English, and Babbage encouraged her to add her own comments. Her notes turned out to be about three times longer than the article itself, and she signed them only with her initials.",
+     "The most famous part of her notes explains, step by step, how the machine could calculate a long series of numbers called Bernoulli numbers. Many people consider **this** the first computer program, although some historians believe that Babbage had written similar sets of instructions earlier. Ada also made a bigger point. She suggested that the Engine might one day work with music, not only with numbers. At the time, that idea was very unusual, and it is one reason why she is still admired today.",
+     "Sadly, Ada died in 1852 at the age of 36, and her notes were almost forgotten for about a hundred years. Because the Analytical Engine was never built, her program was never tested on a real machine during her life. Interest in her work returned in the 1950s, when computers began to appear. Later, the US Department of Defense named a programming language Ada in her honor, and every October, Ada Lovelace Day celebrates women who work in science and technology. Not everyone agrees that she deserves the title of first programmer, since much of the machine's design came from Babbage. Still, few people doubt that she understood the true possibilities of computing earlier than most of her colleagues."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "Why Lord Byron's daughter never studied advanced mathematics",
+       "B": "Ada Lovelace's life and her early ideas about computer programs",
+       "C": "The history of the programming language named Ada",
+       "D": "How Charles Babbage built the first working computer"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu mở đầu và mạch nội dung của từng đoạn: đoạn 1 giới thiệu Ada Lovelace và xuất thân của bà (con gái nhà thơ Lord Byron, trở thành Bá tước phu nhân Lovelace); đoạn 2 và 3 nói về nền tảng học vấn toán - khoa học, sự quen biết với Charles Babbage, cỗ máy Analytical Engine cùng phần ghi chú mở rộng cho bài viết năm 1842; đoạn 4 nêu thuật toán tính dãy số Bernoulli và tầm nhìn về âm nhạc; đoạn 5 đề cập sự lãng quên rồi được ghi nhận muộn màng, ngôn ngữ lập trình Ada, ngày vinh danh và tranh luận học thuật. Phương án chính xác cần bao quát trọn vẹn tiểu sử và những tư duy tiên phong của bà về lập trình máy tính, không thu hẹp vào một chi tiết rời rạc hay diễn biến trái với văn bản."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why did Ada's mother make sure she studied mathematics and science?",
+      "options": {
+       "A": "She wanted her daughter to meet Charles Babbage",
+       "B": "Ada had already designed a flying machine with wings",
+       "C": "She feared Ada might turn out like her father",
+       "D": "Ada was a quick learner who disliked poetry"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"mother\", \"mathematics and science\" ở đoạn 2 để tìm lý do người mẹ định hướng việc học của Ada ngay từ nhỏ."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"fascinated\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "very interested in",
+       "B": "worried by",
+       "C": "bored by",
+       "D": "slightly curious about"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"fascinated\" ở đoạn 2 khi Ada tiếp xúc với các ý tưởng về cỗ máy tính toán của Babbage và duy trì tình bạn bền chặt sau đó; ngữ cảnh thể hiện sự hứng thú mạnh mẽ, cuốn hút sâu sắc."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how was the Analytical Engine similar to modern computers?",
+      "options": {
+       "A": "It was completed in 1842 by an Italian engineer",
+       "B": "It printed its answers on punched cards",
+       "C": "It contained a memory and a calculating section",
+       "D": "It could translate French articles into English"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Analytical Engine\" và \"modern computers\" ở đoạn 3 để xác định các bộ phận thiết kế trên lý thuyết tương đồng với máy tính hiện đại (bộ nhớ và bộ phận thực hiện phép tính, cùng cơ chế thẻ đục lỗ)."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, which of the following is NOT true about Ada's notes?",
+      "options": {
+       "A": "They commented on an article about the Analytical Engine",
+       "B": "Babbage encouraged her to write them herself",
+       "C": "She published them under her full name",
+       "D": "They were roughly three times longer than the article"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng đặc điểm của phần ghi chú (\"notes\") trong đoạn 3 với nội dung bài đọc: bà dịch bài báo tiếng Pháp sang tiếng Anh, viết thêm phần bình luận theo gợi ý của Babbage, độ dài gấp khoảng ba lần bài gốc và chỉ ký tên tắt. Hãy rà soát kỹ để nhận diện mệnh đề nói về cách bà công bố danh tính không khớp với dữ kiện trong đoạn này."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"this\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "The Bernoulli numbers",
+       "B": "The step-by-step explanation",
+       "C": "The Analytical Engine",
+       "D": "Babbage's earlier instructions"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ chỉ định số ít \"this\" trong câu thứ hai của đoạn 4 (\"Many people consider this the first computer program...\"). Đọc ngược lại câu ngay trước đó để tìm danh từ hoặc cụm danh từ chỉ một tiến trình/bản trình bày cụ thể được nhắc đến ở vế trước, tránh nhầm lẫn với tên dãy số hay bản thân cỗ máy."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what did Ada suggest about the Analytical Engine?",
+      "options": {
+       "A": "It might replace the musicians of her time",
+       "B": "It would soon be built by Charles Babbage",
+       "C": "It could eventually handle music as well as numbers",
+       "D": "It could calculate only a long series of Bernoulli numbers"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Suy luận",
+      "explanation": "quét từ khóa \"suggested\" và \"music\" ở đoạn 4 để xem Ada nhận định khả năng ứng dụng mở rộng của cỗ máy vượt ra ngoài các con số thuần túy như thế nào."
+     },
+     {
+      "number": 8,
+      "stem": "The word \"ambitious\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "cheap and simple",
+       "B": "slightly difficult",
+       "C": "bold and demanding",
+       "D": "famous and popular"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"ambitious\" ở đoạn 3 khi mô tả thiết kế Analytical Engine chưa từng hoàn thiện do mức độ tốn kém và phức tạp cao; ngữ cảnh gợi ra tính chất táo bạo, tham vọng và đòi hỏi nhiều nỗ lực/nguồn lực lớn."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about Ada's ideas?",
+      "options": {
+       "A": "Her ideas were valued mostly after computers existed",
+       "B": "Babbage built a working model from her program",
+       "C": "Computers were invented because people read her notes",
+       "D": "Most historians agree that she wrote the first program"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ đoạn 4 và đoạn 5 về việc cỗ máy không được chế tạo hoàn chỉnh khi bà còn sống, chương trình chưa được chạy thử trên thiết bị thực tế, phần ghi chú bị lãng quên khoảng một thế kỷ và chỉ thực sự được chú ý trở lại khi máy tính xuất hiện từ thập niên 1950. Từ đó rút ra kết luận hợp lý về thời điểm giá trị tư tưởng của bà được nhìn nhận rộng rãi hơn."
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's attitude toward Ada Lovelace?",
+      "options": {
+       "A": "Critical, blaming her for the failure of the machine",
+       "B": "Enthusiastic, claiming she invented the modern computer",
+       "C": "Admiring but aware that her title is debated",
+       "D": "Neutral, giving no opinion about her importance Reading"
+      },
+      "answer": "C",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Quan sát cách hành văn xuyên suốt năm đoạn: tác giả trình bày tiểu sử, sự kiện lịch sử, các nhận định còn khác biệt giữa các nhà sử học và đánh giá chung một cách chừng mực, vừa ghi nhận tầm nhìn xa của bà vừa nêu rõ những tranh cãi xung quanh danh xưng người lập trình đầu tiên. Hãy chọn phương án phản ánh đúng sự cân bằng giữa ngưỡng mộ và tỉnh táo khách quan này."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và mạch nội dung của từng đoạn: đoạn 1 giới thiệu Ada Lovelace và xuất thân của bà (con gái nhà thơ Lord Byron, trở thành Bá tước phu nhân Lovelace); đoạn 2 và 3 nói về nền tảng học vấn toán - khoa học, sự quen biết với Charles Babbage, cỗ máy Analytical Engine cùng phần ghi chú mở rộng cho bài viết năm 1842; đoạn 4 nêu thuật toán tính dãy số Bernoulli và tầm nhìn về âm nhạc; đoạn 5 đề cập sự lãng quên rồi được ghi nhận muộn màng, ngôn ngữ lập trình Ada, ngày vinh danh và tranh luận học thuật. Phương án chính xác cần bao quát trọn vẹn tiểu sử và những tư duy tiên phong của bà về lập trình máy tính, không thu hẹp vào một chi tiết rời rạc hay diễn biến trái với văn bản.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực tiếp trong từng đoạn được chỉ định.\n  - Với **R1Q2**, quét từ khóa \"mother\", \"mathematics and science\" ở đoạn 2 để tìm lý do người mẹ định hướng việc học của Ada ngay từ nhỏ.\n  - Với **R1Q4**, quét từ khóa \"Analytical Engine\" và \"modern computers\" ở đoạn 3 để xác định các bộ phận thiết kế trên lý thuyết tương đồng với máy tính hiện đại (bộ nhớ và bộ phận thực hiện phép tính, cùng cơ chế thẻ đục lỗ).\n  - Với **R1Q7**, quét từ khóa \"suggested\" và \"music\" ở đoạn 4 để xem Ada nhận định khả năng ứng dụng mở rộng của cỗ máy vượt ra ngoài các con số thuần túy như thế nào.\n- **Dạng câu hỏi Loại trừ NOT (R1Q5):** Đối chiếu từng đặc điểm của phần ghi chú (\"notes\") trong đoạn 3 với nội dung bài đọc: bà dịch bài báo tiếng Pháp sang tiếng Anh, viết thêm phần bình luận theo gợi ý của Babbage, độ dài gấp khoảng ba lần bài gốc và chỉ ký tên tắt. Hãy rà soát kỹ để nhận diện mệnh đề nói về cách bà công bố danh tính không khớp với dữ kiện trong đoạn này.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp phân tích cấu trúc câu.\n  - Với **R1Q3**, xét từ **\"fascinated\"** ở đoạn 2 khi Ada tiếp xúc với các ý tưởng về cỗ máy tính toán của Babbage và duy trì tình bạn bền chặt sau đó; ngữ cảnh thể hiện sự hứng thú mạnh mẽ, cuốn hút sâu sắc.\n  - Với **R1Q8**, xét từ **\"ambitious\"** ở đoạn 3 khi mô tả thiết kế Analytical Engine chưa từng hoàn thiện do mức độ tốn kém và phức tạp cao; ngữ cảnh gợi ra tính chất táo bạo, tham vọng và đòi hỏi nhiều nỗ lực/nguồn lực lớn.\n- **Dạng câu hỏi Quy chiếu (R1Q6):** Xác định đại từ chỉ định số ít **\"this\"** trong câu thứ hai của đoạn 4 (\"Many people consider this the first computer program...\"). Đọc ngược lại câu ngay trước đó để tìm danh từ hoặc cụm danh từ chỉ một tiến trình/bản trình bày cụ thể được nhắc đến ở vế trước, tránh nhầm lẫn với tên dãy số hay bản thân cỗ máy.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ đoạn 4 và đoạn 5 về việc cỗ máy không được chế tạo hoàn chỉnh khi bà còn sống, chương trình chưa được chạy thử trên thiết bị thực tế, phần ghi chú bị lãng quên khoảng một thế kỷ và chỉ thực sự được chú ý trở lại khi máy tính xuất hiện từ thập niên 1950. Từ đó rút ra kết luận hợp lý về thời điểm giá trị tư tưởng của bà được nhìn nhận rộng rãi hơn.\n- **Dạng câu hỏi Thái độ tác giả (R1Q10):** Quan sát cách hành văn xuyên suốt năm đoạn: tác giả trình bày tiểu sử, sự kiện lịch sử, các nhận định còn khác biệt giữa các nhà sử học và đánh giá chung một cách chừng mực, vừa ghi nhận tầm nhìn xa của bà vừa nêu rõ những tranh cãi xung quanh danh xưng người lập trình đầu tiên. Hãy chọn phương án phản ánh đúng sự cân bằng giữa ngưỡng mộ và tỉnh táo khách quan này.\nLời khuyên: Hãy giải quyết trước nhóm câu hỏi có tọa độ rõ ràng như Quy chiếu (R1Q6) và Từ vựng theo ngữ cảnh (R1Q3, R1Q8). Tiếp theo, dùng kỹ thuật đọc quét để xử lý nhanh nhóm **Chi tiết** (R1Q2, R1Q4, R1Q7) và **Loại trừ NOT** (R1Q5). Cuối cùng, khi đã nắm chắc toàn bộ ý của từng đoạn, bạn sẽ dễ dàng kết luận chính xác cho ba câu hỏi tổng hợp gồm **Suy luận** (R1Q9), **Thái độ tác giả** (R1Q10) và **Ý chính** (R1Q1)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Taekwondo: A Korean Art Between Tradition and Sport",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few martial arts are as widely recognized as taekwondo, yet its history is more contested than its global popularity suggests. The name, usually translated as the way of the foot and the fist, was adopted only in 1955, so the art in its modern form is younger than many practitioners assume. Tens of millions of people are often estimated to train in it, and more than two hundred national federations belong to its international governing body.",
+     "Its roots are usually traced to older Korean traditions such as taekkyeon, a folk art built around kicks and footwork, although historians disagree about how direct the link is. Several instructors who shaped the modern art had also trained in Japanese karate, and many historians acknowledge that those techniques influenced early taekwondo. Because Korea was under Japanese rule from 1910 to 1945, and local martial arts were **restricted** for at least part of that time, continuity was hard to preserve, and later accounts sometimes stressed native heritage over foreign influence.",
+     "Only after liberation in 1945 could Korean teachers openly reopen their training halls, known as kwans, and each developed its own style. The military soon took an interest: General Choi Hong Hi, an army officer, taught the art to soldiers and is generally credited with promoting the name taekwondo in 1955. Disagreements about unifying the kwans followed, and Choi, who founded the International Taekwon-Do Federation in 1966, later left South Korea after political disputes, leaving the art divided between rival organizations.",
+     "In South Korea, meanwhile, the government backed a different path. The Kukkiwon, a national academy in Seoul, was established in 1972, and the World Taekwondo Federation, since renamed World Taekwondo, was founded the following year to organize competition. Its curriculum rests on three elements: poomsae, choreographed patterns that are practiced alone; kyorugi, controlled sparring; and kyokpa, the breaking of boards. Students progress through colored belts to black belts, and many schools also teach **tenets** such as courtesy, perseverance, and self-control.",
+     "Taekwondo appeared as a demonstration sport at the 1988 Seoul Games and again in 1992, but it became an official medal event only at Sydney in 2000. Not only did **this** bring funding and television audiences, but it also pushed organizers to adopt rules that spectators could follow easily, including electronic scoring vests and video replay in more recent competitions.",
+     "The sporting emphasis has divided opinion. Supporters argue that clear rules and global competition have spread the art far beyond Korea and kept it safe and fair. Critics counter that a focus on scoring points, particularly with fast kicks to the head, has led some schools to neglect self-defense and the moral teaching that older masters considered essential. Seldom do the two camps agree on what the art is for, and the disagreement is likely to continue as long as training halls serve both competitors and ordinary students.",
+     "What is beyond dispute is the art's adaptability. A tradition that survived colonial restrictions, political division, and the demands of television has become one of the most widely practiced martial arts in the world. Whether it ultimately remains a way of life or turns mainly into a sport may depend less on federations than on what ordinary students decide to value."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, what does the date 1955 suggest about taekwondo?",
+      "options": {
+       "A": "It suggests the modern art is fairly recent",
+       "B": "It marks the end of Japanese rule in Korea",
+       "C": "It was the year training spread to tens of millions",
+       "D": "It shows that taekkyeon had disappeared well before then"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Suy luận",
+      "explanation": "quét mốc năm \"1955\" ở đoạn 1 để xem ý nghĩa của cột mốc này khi đặt cạnh lịch sử lâu đời của các môn võ cổ truyền và sự ra đời của tên gọi hiện đại."
+     },
+     {
+      "number": 12,
+      "stem": "The word \"restricted\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "reopened",
+       "B": "banned entirely",
+       "C": "limited",
+       "D": "restored"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"restricted\" ở đoạn 2 trong bối cảnh chính quyền thuộc địa kiểm soát các hoạt động văn hóa/võ thuật bản địa khiến việc luyện tập bị thu hẹp hoặc giới hạn phạm vi; ngữ cảnh hướng tới sắc thái bị giới hạn chứ không phải khôi phục hay mở cửa lại."
+     },
+     {
+      "number": 13,
+      "stem": "According to the passage, what role did General Choi Hong Hi play in the development of taekwondo?",
+      "options": {
+       "A": "He reopened the kwans after Japanese rule ended in 1945",
+       "B": "He founded the Kukkiwon in Seoul with government support",
+       "C": "He left South Korea and stopped teaching taekwondo",
+       "D": "He taught soldiers the art and helped promote its name"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét tên \"General Choi Hong Hi\" ở đoạn 3 để xác định những đóng góp cụ thể của ông trong việc huấn luyện và phổ biến danh xưng của môn võ, đồng thời phân biệt với các nhân vật/tổ chức khác trong đoạn."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, which of the following is NOT part of taekwondo training?",
+      "options": {
+       "A": "Teaching values such as courtesy and perseverance",
+       "B": "Practice with weapons such as swords and staffs",
+       "C": "Controlled sparring against a training partner",
+       "D": "Choreographed patterns that students practice alone"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các thành tố luyện tập của taekwondo được nêu trong đoạn 4 (các bài quyền/chuỗi động tác theo trình tự, kỹ thuật đối kháng có kiểm soát, phẩm chất đạo đức/tinh thần và kỹ năng tự vệ). Hãy loại dần các yếu tố thực sự xuất hiện trong bài để tìm ra nội dung không nằm trong chương trình tập luyện được mô tả ở đoạn này."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"tenets\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "ranking levels",
+       "B": "passing fashions",
+       "C": "scoring rules",
+       "D": "guiding principles"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"tenets\" ở đoạn 4 khi đi cùng các chuẩn mực đạo đức và tinh thần mà người học cần rèn luyện; ngữ cảnh chỉ các nguyên tắc nền tảng hoặc tôn chỉ dẫn dắt hành vi."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"this\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Electronic scoring vests",
+       "B": "Demonstration sport status",
+       "C": "The 1988 Seoul Games",
+       "D": "Becoming a medal event"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ chỉ định số ít \"this\" trong đoạn 5 (nhắc đến bước chuyển trạng thái của môn võ tại Thế vận hội sau giai đoạn xuất hiện như môn biểu diễn). Đọc ngược lại câu trước đó để tìm chính xác sự kiện/trạng thái mới mà người viết muốn nhắc lại bằng \"this\", tránh nhầm với tên thế vận hội hay thiết bị chấm điểm."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what do critics say about the focus on competition?",
+      "options": {
+       "A": "It has led some schools to neglect self-defense and moral lessons",
+       "B": "It has made the art unsafe for ordinary students",
+       "C": "It has stopped the art from spreading beyond Korea",
+       "D": "It has caused older masters to abandon their schools"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"critics\" và \"competition\" ở đoạn 6 để nhận diện quan ngại mà giới phê bình đặt ra khi môn võ nghiêng quá nhiều về khía cạnh thi đấu đối kháng."
+     },
+     {
+      "number": 18,
+      "stem": "Which of the following best describes the author's attitude toward the debate over taekwondo's purpose?",
+      "options": {
+       "A": "Enthusiastic about the sporting emphasis and its Olympic rewards",
+       "B": "Balanced, presenting both camps without choosing a side",
+       "C": "Dismissive, regarding the dispute as a pointless quarrel",
+       "D": "Alarmed, fearing that taekwondo will soon lose its traditions"
+      },
+      "answer": "B",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Đánh giá cách tác giả trình bày cuộc tranh luận ở đoạn cuối (và xuyên suốt bài viết): một bên nhấn mạnh tính thể thao hiện đại, sự phổ biến rộng khắp và thành tựu thi đấu; bên kia lo ngại về việc mai một giá trị cốt lõi, kỷ luật và tính thực chiến/tự vệ. Tác giả đặt hai góc nhìn cạnh nhau để người đọc tự thấy sự cân bằng, không thiên vị tuyệt đối hay gạt bỏ tranh luận."
+     },
+     {
+      "number": 19,
+      "stem": "Which of the following can be inferred from paragraphs 3 and 4?",
+      "options": {
+       "A": "Rival federations caused the political disputes between Korean leaders",
+       "B": "Taekkyeon masters opposed the founding of the Kukkiwon in 1972",
+       "C": "Political conflict helped produce competing organizations within the art",
+       "D": "Olympic recognition brought funding and larger television audiences"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết nối các chi tiết ở đoạn 3 và đoạn 4 về bối cảnh chính trị - lịch sử cùng sự ra đời của nhiều hiệp hội, trường phái hoặc tổ chức quản lý khác nhau trong quá trình phát triển của môn võ. Từ mối liên hệ nhân - quả này, suy luận ra tác động của bất đồng/xung đột chính trị đối với sự phân tách hoặc hình thành các tổ chức cạnh tranh."
+     },
+     {
+      "number": 20,
+      "stem": "Which of the following best summarizes the passage?",
+      "options": {
+       "A": "Taekwondo is a Japanese martial art that Korea later adopted",
+       "B": "Taekwondo evolved from disputed roots into a global sport with uncertain aims",
+       "C": "General Choi Hong Hi invented taekwondo and carried it to the world",
+       "D": "The Olympic Games created taekwondo as a spectator sport in 1988 Reading"
+      },
+      "answer": "B",
+      "type_hint": "Tóm tắt / Ý bao quát",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Nắm bắt mạch triển khai xuyên suốt toàn bài: từ gốc rễ lịch sử và thời điểm hình thành tên gọi hiện đại ở đoạn 1, bối cảnh thời kỳ bị kiểm soát và sự trỗi dậy của các võ đường/trường phái sau này ở đoạn 2, quá trình phát triển - phân nhánh tổ chức và chuẩn hóa ở đoạn 3 và 4, hành trình tiến vào đấu trường Olympic ở đoạn 5, cho đến tranh luận về định hướng giữa thi đấu thể thao và giá trị truyền thống ở đoạn 6. Phương án chuẩn xác cần bao hàm trọn vẹn hành trình hình thành, mở rộng toàn cầu và sự giằng co về mục tiêu cốt lõi của môn võ này, tránh các lựa chọn chỉ nói về một mốc sự kiện hay gán ghép nguồn gốc phiến diện."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Tóm tắt / Ý bao quát (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Nắm bắt mạch triển khai xuyên suốt toàn bài: từ gốc rễ lịch sử và thời điểm hình thành tên gọi hiện đại ở đoạn 1, bối cảnh thời kỳ bị kiểm soát và sự trỗi dậy của các võ đường/trường phái sau này ở đoạn 2, quá trình phát triển - phân nhánh tổ chức và chuẩn hóa ở đoạn 3 và 4, hành trình tiến vào đấu trường Olympic ở đoạn 5, cho đến tranh luận về định hướng giữa thi đấu thể thao và giá trị truyền thống ở đoạn 6. Phương án chuẩn xác cần bao hàm trọn vẹn hành trình hình thành, mở rộng toàn cầu và sự giằng co về mục tiêu cốt lõi của môn võ này, tránh các lựa chọn chỉ nói về một mốc sự kiện hay gán ghép nguồn gốc phiến diện.\n- **Dạng câu hỏi Chi tiết (R2Q1, R2Q3, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm dữ kiện trực tiếp trong từng đoạn được yêu cầu.\n  - Với **R2Q1**, quét mốc năm \"1955\" ở đoạn 1 để xem ý nghĩa của cột mốc này khi đặt cạnh lịch sử lâu đời của các môn võ cổ truyền và sự ra đời của tên gọi hiện đại.\n  - Với **R2Q3**, quét tên \"General Choi Hong Hi\" ở đoạn 3 để xác định những đóng góp cụ thể của ông trong việc huấn luyện và phổ biến danh xưng của môn võ, đồng thời phân biệt với các nhân vật/tổ chức khác trong đoạn.\n  - Với **R2Q7**, quét từ khóa \"critics\" và \"competition\" ở đoạn 6 để nhận diện quan ngại mà giới phê bình đặt ra khi môn võ nghiêng quá nhiều về khía cạnh thi đấu đối kháng.\n- **Dạng câu hỏi Loại trừ NOT (R2Q4):** Đối soát các thành tố luyện tập của taekwondo được nêu trong đoạn 4 (các bài quyền/chuỗi động tác theo trình tự, kỹ thuật đối kháng có kiểm soát, phẩm chất đạo đức/tinh thần và kỹ năng tự vệ). Hãy loại dần các yếu tố thực sự xuất hiện trong bài để tìm ra nội dung không nằm trong chương trình tập luyện được mô tả ở đoạn này.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q2, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp đọc kỹ câu chứa từ vựng.\n  - Với **R2Q2**, xét từ **\"restricted\"** ở đoạn 2 trong bối cảnh chính quyền thuộc địa kiểm soát các hoạt động văn hóa/võ thuật bản địa khiến việc luyện tập bị thu hẹp hoặc giới hạn phạm vi; ngữ cảnh hướng tới sắc thái bị giới hạn chứ không phải khôi phục hay mở cửa lại.\n  - Với **R2Q5**, xét từ **\"tenets\"** ở đoạn 4 khi đi cùng các chuẩn mực đạo đức và tinh thần mà người học cần rèn luyện; ngữ cảnh chỉ các nguyên tắc nền tảng hoặc tôn chỉ dẫn dắt hành vi.\n- **Dạng câu hỏi Quy chiếu (R2Q6):** Xác định đại từ chỉ định số ít **\"this\"** trong đoạn 5 (nhắc đến bước chuyển trạng thái của môn võ tại Thế vận hội sau giai đoạn xuất hiện như môn biểu diễn). Đọc ngược lại câu trước đó để tìm chính xác sự kiện/trạng thái mới mà người viết muốn nhắc lại bằng \"this\", tránh nhầm với tên thế vận hội hay thiết bị chấm điểm.\n- **Dạng câu hỏi Suy luận (R2Q9):** Kết nối các chi tiết ở đoạn 3 và đoạn 4 về bối cảnh chính trị - lịch sử cùng sự ra đời của nhiều hiệp hội, trường phái hoặc tổ chức quản lý khác nhau trong quá trình phát triển của môn võ. Từ mối liên hệ nhân - quả này, suy luận ra tác động của bất đồng/xung đột chính trị đối với sự phân tách hoặc hình thành các tổ chức cạnh tranh.\n- **Dạng câu hỏi Thái độ tác giả (R2Q8):** Đánh giá cách tác giả trình bày cuộc tranh luận ở đoạn cuối (và xuyên suốt bài viết): một bên nhấn mạnh tính thể thao hiện đại, sự phổ biến rộng khắp và thành tựu thi đấu; bên kia lo ngại về việc mai một giá trị cốt lõi, kỷ luật và tính thực chiến/tự vệ. Tác giả đặt hai góc nhìn cạnh nhau để người đọc tự thấy sự cân bằng, không thiên vị tuyệt đối hay gạt bỏ tranh luận.\nLời khuyên: Hãy bắt đầu với các câu có vị trí rõ ràng và ít gây nhiễu cấu trúc như Quy chiếu (R2Q6) và Từ vựng theo ngữ cảnh (R2Q2, R2Q5). Sau đó, dùng kỹ năng đọc quét để giải quyết nhóm Chi tiết (R2Q1, R2Q3, R2Q7) và Loại trừ NOT (R2Q4). Cuối cùng, khi đã liên kết trọn vẹn mạch thông tin từ đầu đến cuối bài, hãy chốt đáp án cho các câu tổng hợp gồm **Suy luận** (R2Q9), **Thái độ tác giả** (R2Q8) và **Tóm tắt toàn bài** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "From Selling Goods to Selling Ideas: How Young People Choose Careers",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "A generation or two ago, the question of what to do for a living was often answered before a young person had a chance to ask it. In many families, a son or daughter stepped into the shop, the market stall, or the trading business that relatives had built, and the central skill of the working life was buying goods at one price and selling them at a higher one. Careers were rarely chosen so much as inherited.",
+     "Today's graduates face a very different landscape. Where commerce once meant moving physical products, a growing share of entry-level openings now sit in marketing, a field concerned less with delivering goods than with shaping what people want and where they look for it. Roles such as social media manager, content creator, and search-engine specialist barely existed two decades ago, and young people often describe them as more creative and more flexible than the trades their parents followed.",
+     "The criteria for choosing have shifted along with the jobs. Surveys of young workers in several countries suggest that pay still matters, yet many give nearly as much weight to flexibility, the chance to work remotely, and a sense that their work has a purpose beyond profit. Rarely does a graduate now expect to remain with one employer for decades; moving between companies, or between industries, is increasingly seen as a normal way to build skills rather than a sign of failure.",
+     "Technology has done much to make **such mobility** possible. A teenager with a phone can now build an audience, promote products, and earn money without ever visiting an office, and platforms reward visible personalities, so that a personal brand can function as a kind of résumé. Not only has marketing become more accessible, but it has also made the boundary between work and self-presentation harder to see, since the people who succeed are often those who turn their own lives into content.",
+     "Yet the shift has costs that earlier generations rarely faced. Trading goods, for all its risks, often offered a clear measure of success: the stock was sold or it was not. Marketing results are harder to **attribute**, and algorithms can change overnight, leaving a creator's income at the mercy of a platform's decisions. Entry-level competition is also fierce, because the barrier to starting is low while the number of aspiring candidates is high.",
+     "Automation adds a further layer of uncertainty. Tools that generate text and images can already draft advertisements in seconds, which may reduce demand for some junior marketing tasks even as it creates demand for people who can direct, judge, and verify what the software produces. Only when young workers combine technical fluency with skills that machines imitate poorly, such as negotiation and original thinking, are they likely to remain competitive.",
+     "It would be misleading, then, to say that today's young people are simply more ambitious or less loyal than their grandparents. They are responding rationally to a labor market in which stability has become scarcer and visibility more valuable. What has not changed is the underlying question of how to turn one's abilities into a livelihood; only the available answers, and the risks attached to them, have been rewritten."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best expresses the main idea of the passage?",
+      "options": {
+       "A": "Marketing has become the safest and best-paid career for graduates",
+       "B": "Young people today are less loyal and less ambitious than their grandparents",
+       "C": "Young people's career choices have changed, offering new opportunities alongside new risks",
+       "D": "Automation will soon remove most junior marketing positions worldwide"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Theo dõi sự chuyển dịch của mạch lập luận từ đầu đến cuối: đoạn 1 đối chiếu bối cảnh nghề nghiệp truyền thống trước đây với thực tế hiện tại; các đoạn giữa bàn về sự trỗi dậy của các hướng đi mới như marketing/sáng tạo nội dung, giá trị công việc và mức độ dịch chuyển nghề nghiệp của người trẻ; các đoạn sau phân tích biến động thu nhập, tác động của công nghệ/tự động hóa và những thách thức đi kèm. Phương án chính xác cần bao quát trọn vẹn sự thay đổi trong lựa chọn nghề nghiệp của giới trẻ cùng cả cơ hội lẫn rủi ro song hành, tránh các lựa chọn chỉ nói về một nghề đơn lẻ, phán xét phiến diện hoặc phóng đại mức độ thay thế tuyệt đối."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what was the central skill in many earlier working lives?",
+      "options": {
+       "A": "Asking young people what work they preferred",
+       "B": "Managing the family shop or market stall",
+       "C": "Selling goods for more than they had cost",
+       "D": "Choosing a career that relatives had never followed"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 1 nói về kỹ năng cốt lõi trong đời sống lao động trước đây khi người ta buôn bán/thương mại để xác định nguyên tắc tạo ra lợi nhuận cơ bản."
+     },
+     {
+      "number": 23,
+      "stem": "According to the passage, what do many young workers value alongside pay?",
+      "options": {
+       "A": "Staying with a single employer for several decades",
+       "B": "Flexibility and a feeling that work is worthwhile",
+       "C": "Fast promotion within a single industry",
+       "D": "A salary larger than their parents earned"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa ở đoạn 3 về những yếu tố mà nhiều lao động trẻ quan tâm bên cạnh mức lương/thu nhập."
+     },
+     {
+      "number": 24,
+      "stem": "The phrase \"such mobility\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Working remotely from home",
+       "B": "Staying with one employer",
+       "C": "Building a personal brand",
+       "D": "Changing employers or industries"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định cụm danh từ \"such mobility\" ở đoạn 4. Đọc ngược lại các câu trước đó trong đoạn để thấy người viết đang nói đến kiểu dịch chuyển nào trong sự nghiệp của người lao động (chuyển đổi chỗ làm, công ty hoặc lĩnh vực), từ đó chọn phương án khớp với phạm vi dịch chuyển này."
+     },
+     {
+      "number": 25,
+      "stem": "According to paragraphs 2 to 4, which of the following is NOT mentioned as a feature of modern marketing careers?",
+      "options": {
+       "A": "Personal brands that can work like a résumé",
+       "B": "Roles that hardly existed two decades ago",
+       "C": "Audiences that can be built using only a phone",
+       "D": "Guaranteed employment with one company for life"
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các đặc điểm của sự nghiệp marketing hiện đại được đề cập trong khoảng từ đoạn 2 đến đoạn 4 (như vai trò của thương hiệu cá nhân, các vị trí mới xuất hiện gần đây, khả năng xây dựng tệp người theo dõi qua thiết bị cá nhân, hay xu hướng chuyển dịch công việc). Hãy rà soát để loại ra mệnh đề trái ngược với thực tế nghề nghiệp hiện đại được mô tả trong đoạn văn."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"attribute\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "contribute",
+       "B": "promote widely",
+       "C": "measure exactly",
+       "D": "trace to a cause"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"attribute\" ở đoạn 5 trong ngữ cảnh gắn kết hiệu quả/kết quả với nguyên nhân hoặc nguồn gốc tạo ra nó; chọn nghĩa tương đương với việc quy kết hoặc lần theo nguồn gốc/nguyên nhân."
+     },
+     {
+      "number": 27,
+      "stem": "According to the passage, why might a creator's income be unstable?",
+      "options": {
+       "A": "Platforms can change their algorithms without any warning",
+       "B": "Marketing results are easier to measure than sales",
+       "C": "Entry-level competition is weak because few people apply",
+       "D": "Unsold stock is left in the creator's warehouse"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa liên quan đến người sáng tạo nội dung (\"creator\") và sự bấp bênh của thu nhập ở đoạn 5 để tìm yếu tố khách quan từ nền tảng số khiến nguồn thu dễ biến động."
+     },
+     {
+      "number": 28,
+      "stem": "What can be inferred from paragraphs 5 and 6 about young marketing workers?",
+      "options": {
+       "A": "Their security may depend on skills that software cannot easily copy",
+       "B": "Marketing results are harder to attribute than sales results",
+       "C": "Automation has already eliminated most junior marketing positions",
+       "D": "Low entry barriers exist because few people want marketing jobs"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Liên kết thông tin ở đoạn 5 và đoạn 6 về đặc thù công việc marketing, khả năng đo lường/tác động của công nghệ và tự động hóa đối với các tác vụ lặp lại hoặc công việc cấp đầu vào. Từ đó rút ra kết luận hợp lý về lợi thế cạnh tranh mà người làm marketing trẻ cần dựa vào để giữ vững vị thế."
+     },
+     {
+      "number": 29,
+      "stem": "The word \"scarcer\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "less common",
+       "B": "completely gone",
+       "C": "more frightening",
+       "D": "more expensive"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"scarcer\" ở đoạn 7 trong tương quan so sánh mức độ phổ biến hoặc độ khan hiếm của một yếu tố/cơ hội nào đó; ngữ cảnh hướng tới sắc thái ít phổ biến hoặc hiếm hơn chứ không phải biến mất hoàn toàn."
+     },
+     {
+      "number": 30,
+      "stem": "Which of the following best describes the author's attitude toward today's young job seekers?",
+      "options": {
+       "A": "Disapproving, blaming them for lacking commitment to employers",
+       "B": "Understanding, viewing their choices as reasonable responses to change",
+       "C": "Skeptical, doubting that marketing offers genuine career prospects",
+       "D": "Envious, wishing that earlier generations had enjoyed their options Reading"
+      },
+      "answer": "B",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Quan sát cách tác giả nhìn nhận thế hệ lao động trẻ xuyên suốt bài viết: phân tích bối cảnh kinh tế - công nghệ khiến cách chọn nghề thay đổi, ghi nhận cả động lực lẫn rủi ro thực tế thay vì chỉ trích hay tô hồng cực đoan. Hãy chọn phương án phản ánh đúng sự thấu hiểu và đánh giá hợp lý này."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Theo dõi sự chuyển dịch của mạch lập luận từ đầu đến cuối: đoạn 1 đối chiếu bối cảnh nghề nghiệp truyền thống trước đây với thực tế hiện tại; các đoạn giữa bàn về sự trỗi dậy của các hướng đi mới như marketing/sáng tạo nội dung, giá trị công việc và mức độ dịch chuyển nghề nghiệp của người trẻ; các đoạn sau phân tích biến động thu nhập, tác động của công nghệ/tự động hóa và những thách thức đi kèm. Phương án chính xác cần bao quát trọn vẹn sự thay đổi trong lựa chọn nghề nghiệp của giới trẻ cùng cả cơ hội lẫn rủi ro song hành, tránh các lựa chọn chỉ nói về một nghề đơn lẻ, phán xét phiến diện hoặc phóng đại mức độ thay thế tuyệt đối.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q3, R3Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm thông tin được nêu trực tiếp trong từng đoạn.\n  - Với **R3Q2**, quét thông tin ở đoạn 1 nói về kỹ năng cốt lõi trong đời sống lao động trước đây khi người ta buôn bán/thương mại để xác định nguyên tắc tạo ra lợi nhuận cơ bản.\n  - Với **R3Q3**, quét từ khóa ở đoạn 3 về những yếu tố mà nhiều lao động trẻ quan tâm bên cạnh mức lương/thu nhập.\n  - Với **R3Q7**, quét từ khóa liên quan đến người sáng tạo nội dung (\"creator\") và sự bấp bênh của thu nhập ở đoạn 5 để tìm yếu tố khách quan từ nền tảng số khiến nguồn thu dễ biến động.\n- **Dạng câu hỏi Loại trừ NOT (R3Q5):** Đối soát các đặc điểm của sự nghiệp marketing hiện đại được đề cập trong khoảng từ đoạn 2 đến đoạn 4 (như vai trò của thương hiệu cá nhân, các vị trí mới xuất hiện gần đây, khả năng xây dựng tệp người theo dõi qua thiết bị cá nhân, hay xu hướng chuyển dịch công việc). Hãy rà soát để loại ra mệnh đề trái ngược với thực tế nghề nghiệp hiện đại được mô tả trong đoạn văn.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q6, R3Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp phân tích câu chứa từ.\n  - Với **R3Q6**, xét từ **\"attribute\"** ở đoạn 5 trong ngữ cảnh gắn kết hiệu quả/kết quả với nguyên nhân hoặc nguồn gốc tạo ra nó; chọn nghĩa tương đương với việc quy kết hoặc lần theo nguồn gốc/nguyên nhân.\n  - Với **R3Q9**, xét từ **\"scarcer\"** ở đoạn 7 trong tương quan so sánh mức độ phổ biến hoặc độ khan hiếm của một yếu tố/cơ hội nào đó; ngữ cảnh hướng tới sắc thái ít phổ biến hoặc hiếm hơn chứ không phải biến mất hoàn toàn.\n- **Dạng câu hỏi Quy chiếu (R3Q4):** Xác định cụm danh từ **\"such mobility\"** ở đoạn 4. Đọc ngược lại các câu trước đó trong đoạn để thấy người viết đang nói đến kiểu dịch chuyển nào trong sự nghiệp của người lao động (chuyển đổi chỗ làm, công ty hoặc lĩnh vực), từ đó chọn phương án khớp với phạm vi dịch chuyển này.\n- **Dạng câu hỏi Suy luận (R3Q8):** Liên kết thông tin ở đoạn 5 và đoạn 6 về đặc thù công việc marketing, khả năng đo lường/tác động của công nghệ và tự động hóa đối với các tác vụ lặp lại hoặc công việc cấp đầu vào. Từ đó rút ra kết luận hợp lý về lợi thế cạnh tranh mà người làm marketing trẻ cần dựa vào để giữ vững vị thế.\n- **Dạng câu hỏi Thái độ tác giả (R3Q10):** Quan sát cách tác giả nhìn nhận thế hệ lao động trẻ xuyên suốt bài viết: phân tích bối cảnh kinh tế - công nghệ khiến cách chọn nghề thay đổi, ghi nhận cả động lực lẫn rủi ro thực tế thay vì chỉ trích hay tô hồng cực đoan. Hãy chọn phương án phản ánh đúng sự thấu hiểu và đánh giá hợp lý này.\nLời khuyên: Hãy xử lý trước các câu hỏi có tọa độ rõ ràng như Quy chiếu (R3Q4) và Từ vựng theo ngữ cảnh (R3Q6, R3Q9). Tiếp theo, dùng kỹ năng đọc quét để giải quyết nhanh nhóm **Chi tiết** (R3Q2, R3Q3, R3Q7) và **Loại trừ NOT** (R3Q5). Cuối cùng, khi đã xâu chuỗi đầy đủ luận điểm của toàn bài, bạn sẽ dễ dàng chốt đáp án cho ba câu hỏi tổng hợp gồm Suy luận (R3Q8), Thái độ tác giả (R3Q10) và Ý chính (R3Q1)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Fiddler Crabs: Small Animals, Lopsided Lives",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "On muddy shores and mangrove flats across much of the world, visitors often notice a restless carpet of small crabs, many of them apparently waving. These are fiddler crabs, a group of roughly one hundred species that was long placed in the single genus Uca and is now generally divided among several. Their most **conspicuous** feature is an asymmetry so extreme that it looks almost like a design flaw: adult males carry one claw so large that, by some estimates, it can account for up to a third of their body weight.",
+     "The enormous claw plays little part in feeding. Males wave it in rhythmic patterns that vary by species, some lifting it in broad arcs, others in quick jerks, and females seem to prefer males whose waves are vigorous and well timed. Because the claw is costly to grow and carry, a strong display probably serves as an honest signal of condition, although researchers continue to debate how much weight females give to wave rate, claw size, and the quality of a male's burrow. Seldom does a single trait generate so much argument.",
+     "Feeding is left to the smaller claw, which scoops sediment into the mouth, where specialized mouthparts sift out algae, bacteria, and decaying matter before the cleaned mud is discarded as tiny pellets. With only one hand available, males generally feed more slowly than females, which have two small claws. The weapon carries other costs, too: it can be lost to a predator or in a fight, although in many species the surviving small claw gradually grows into a replacement while a new small one forms on the injured side.",
+     "Fiddler crabs matter well beyond their displays, because in dense colonies they may dig dozens of burrows in a single square meter. Each burrow carries oxygen and water into airless mud, and the digging draws buried nutrients toward the surface. Studies in several salt marshes suggest that these effects can boost the growth of marsh grasses, whose roots then help hold the shoreline together, although the benefit probably varies from marsh to marsh. Not only do the crabs reshape the sediment, but they also feed shorebirds, raccoons, and larger crabs.",
+     "Their lives are governed by the tide. When the water recedes, entire colonies emerge from their burrows to feed and display; when it returns, the crabs retreat, often plugging the entrance with mud to trap a pocket of air. Their internal clocks, which keep running even in the laboratory, are tuned to this cycle, and some species also darken by day and pale at night. **Such rhythms** probably help the crabs conserve water and avoid predators, though how closely individual species follow them remains under study.",
+     "Fiddler crabs are not, however, immune to the pressures now bearing on coastal wetlands. **[A]** Development steadily erases the mudflats they need, particularly where shorelines are hardened with concrete or stone. [B] Rising seas add a slower but potentially serious threat, since marshes hemmed in by seawalls and buildings cannot migrate inland as the water advances. **[C]** Whether fiddler crabs cope will therefore depend largely on whether marshes are given room to move. **[D]**",
+     "Few animals of such modest size repay attention so generously. Fiddler crabs illustrate how costly signals evolve, how burrowing creatures remodel the ground beneath them, and how fragile intertidal habitats can be. Only by protecting the mudflats they inhabit can people be sure that their strange, lopsided waving will remain part of the shoreline."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "The word \"conspicuous\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "poorly understood",
+       "B": "rapidly changing",
+       "C": "slightly unusual",
+       "D": "easily noticed"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét từ \"conspicuous\" ở đoạn 1 khi nói về sự hiện diện hoặc đặc điểm dễ thu hút sự chú ý trên bãi bùn/vùng triều; ngữ cảnh hướng tới tính chất dễ nhận ra, nổi bật rõ ràng."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, why might a strong wave display serve as an honest signal?",
+      "options": {
+       "A": "Different species wave differently, so females prefer faster waves",
+       "B": "Growing and carrying such a large claw demands considerable resources",
+       "C": "Males use the claw mostly to scoop food from the mud",
+       "D": "Researchers have shown that wave rate matters more than claw size"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"wave display\" hoặc \"honest signal\" ở đoạn 2 để tìm lý do vì sao màn vẫy càng mạnh mẽ phản ánh đúng thể lực/chất lượng cá thể (liên quan đến chi phí năng lượng và nguồn lực để phát triển/duy trì chiếc càng lớn)."
+     },
+     {
+      "number": 33,
+      "stem": "According to the passage, why do males generally feed more slowly than females?",
+      "options": {
+       "A": "They discard the cleaned mud as pellets more slowly",
+       "B": "Their mouthparts are less specialized than those of females",
+       "C": "They spend much of the time regenerating a lost claw",
+       "D": "They have only one small claw available for feeding"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"feed more slowly\" hoặc \"males\" ở đoạn 3 để xác định điểm bất lợi về số lượng chiếc càng dùng cho việc gắp thức ăn ở con đực so với con cái."
+     },
+     {
+      "number": 34,
+      "stem": "According to the passage, which of the following is NOT mentioned as an effect of fiddler crab activity?",
+      "options": {
+       "A": "Reduced pollution in the water above the mudflats",
+       "B": "Oxygen and water carried into airless mud",
+       "C": "Food for shorebirds, raccoons, and larger crabs",
+       "D": "Nutrients from deeper sediment moving toward the surface"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Rà soát kỹ các tác động sinh thái của hoạt động đào hang/kiếm ăn của cua còng được liệt kê trong đoạn 4 (như đưa oxy và nước xuống tầng bùn thiếu khí, đẩy dinh dưỡng từ tầng sâu lên bề mặt, hỗ trợ thực vật/đầm lầy hoặc trở thành nguồn thức ăn cho các loài động vật ăn thịt). Hãy loại bỏ các ý có xuất hiện trong đoạn để chọn ra nội dung không được nhắc đến tại đây."
+     },
+     {
+      "number": 35,
+      "stem": "The phrase \"such rhythms\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Males' waving displays",
+       "B": "Burrow-plugging behavior",
+       "C": "Laboratory experiments",
+       "D": "Tide-linked cycles of behavior"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Xác định cụm danh từ \"such rhythms\" ở đoạn 5. Đọc ngược lại câu trước đó để tìm danh từ/cụm danh từ chỉ các chu kỳ lặp lại theo nhịp điệu tự nhiên (như biến động của thủy triều) mà đoạn văn đang phân tích, tránh nhầm sang từng hành vi đơn lẻ hoặc thí nghiệm."
+     },
+     {
+      "number": 36,
+      "stem": "Look at the four squares [A], [B], [C], and [D] in paragraph 6 that show where the following sentence could be added: \"Both pressures narrow the band of intertidal mud where the crabs can live.\" Where would the sentence best fit?",
+      "options": {
+       "A": "[A]",
+       "B": "[B]",
+       "C": "[C]",
+       "D": "[D]"
+      },
+      "answer": "C",
+      "type_hint": "Chèn câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Phân tích nội dung câu cần chèn (\"Both pressures narrow the band of intertidal mud where the crabs can live.\") — câu này đòi hỏi phía trước phải đề cập đủ hai áp lực (\"Both pressures\") và mạch văn tiếp theo ăn khớp với phạm vi/dải bùn vùng triều bị thu hẹp. Hãy kiểm tra vị trí của hai yếu tố tác động trong đoạn 6 để chọn ô vuông [A], [B], [C], hoặc [D] khớp nhất về cả nghĩa lẫn liên kết câu."
+     },
+     {
+      "number": 37,
+      "stem": "The phrase \"hemmed in\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "confined",
+       "B": "shielded",
+       "C": "flooded",
+       "D": "abandoned"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "xét cụm từ \"hemmed in\" ở đoạn 6 trong ngữ cảnh môi trường sống bị bao quanh hoặc kẹp chặt bởi các yếu tố cản trở/mở rộng không gian; chọn nghĩa sát nhất với trạng thái bị giới hạn, giam hãm trong phạm vi hẹp."
+     },
+     {
+      "number": 38,
+      "stem": "Which conclusion is best supported by paragraphs 2 and 3 taken together?",
+      "options": {
+       "A": "Mating success may come at a cost to feeding efficiency",
+       "B": "Slow feeding makes males grow larger claws to attract mates",
+       "C": "Many species can regenerate a claw lost in a fight",
+       "D": "Females prefer males that have lost their large claw"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 2 và đoạn 3: một bên là chiếc càng lớn dùng để phô diễn thu hút bạn tình/cạnh tranh, bên kia là việc con đực chỉ còn một chiếc càng nhỏ để kiếm ăn nên tốc độ ăn chậm hơn con cái. Từ hai đoạn này ghép lại, suy luận ra sự đánh đổi giữa lợi thế sinh sản/giao phối và hiệu quả kiếm ăn."
+     },
+     {
+      "number": 39,
+      "stem": "What is the author's main purpose in the final paragraph?",
+      "options": {
+       "A": "To criticize scientists for ignoring the behavior of small crustaceans",
+       "B": "To compare the displays of fiddler crabs with those of birds",
+       "C": "To predict that fiddler crabs will vanish within a few decades",
+       "D": "To suggest that these small animals deserve study and habitat protection"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích đoạn văn",
+      "type": "Mục đích tác giả",
+      "explanation": "Xác định ý đồ chính của tác giả ở đoạn cuối cùng: sau khi trình bày giá trị sinh thái và những thách thức đối với sinh cảnh của loài, tác giả hướng người đọc tới việc quan tâm nghiên cứu và bảo vệ không gian sống của chúng. Hãy chọn phương án phản ánh đúng lời kêu gọi/đề xuất mang tính xây dựng này, tránh các đáp án mang sắc thái chỉ trích gay gắt hay tiên đoán cực đoan."
+     },
+     {
+      "number": 40,
+      "stem": "Which of the following best expresses the main idea of the passage?",
+      "options": {
+       "A": "Large claws have evolved mainly to help males find food in mud",
+       "B": "Fiddler crabs combine striking behavior with ecological importance but face habitat threats",
+       "C": "Fiddler crabs are declining mainly because of pollution from oil spills",
+       "D": "Marsh grasses owe their survival to the burrowing of fiddler crabs"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề và nắm mạch phát triển của toàn bài: từ đặc điểm dễ nhận diện và chiếc càng lớn nổi bật của cua còng (fiddler crabs) ở đoạn 1, cơ chế phô diễn thu hút bạn tình và bảo vệ lãnh thổ ở đoạn 2, cách kiếm ăn liên quan đến cấu tạo càng/miệng ở đoạn 3, vai trò sinh thái đối với bùn lầy/thảm thực vật/chuỗi thức ăn ở đoạn 4, nhịp sinh học gắn với thủy triều ở đoạn 5, đến các áp lực thu hẹp môi trường sống ở đoạn 6 và thông điệp ở đoạn kết. Phương án đúng phải bao quát trọn vẹn tập tính nổi bật, vai trò sinh thái cùng những nguy cơ đe dọa môi trường sống của loài này, tránh các lựa chọn chỉ nói về một tác dụng đơn lẻ hay gán nguyên nhân hẹp."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề và nắm mạch phát triển của toàn bài: từ đặc điểm dễ nhận diện và chiếc càng lớn nổi bật của cua còng (fiddler crabs) ở đoạn 1, cơ chế phô diễn thu hút bạn tình và bảo vệ lãnh thổ ở đoạn 2, cách kiếm ăn liên quan đến cấu tạo càng/miệng ở đoạn 3, vai trò sinh thái đối với bùn lầy/thảm thực vật/chuỗi thức ăn ở đoạn 4, nhịp sinh học gắn với thủy triều ở đoạn 5, đến các áp lực thu hẹp môi trường sống ở đoạn 6 và thông điệp ở đoạn kết. Phương án đúng phải bao quát trọn vẹn tập tính nổi bật, vai trò sinh thái cùng những nguy cơ đe dọa môi trường sống của loài này, tránh các lựa chọn chỉ nói về một tác dụng đơn lẻ hay gán nguyên nhân hẹp.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q3):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực tiếp trong từng đoạn.\n  - Với **R4Q2**, quét từ khóa \"wave display\" hoặc \"honest signal\" ở đoạn 2 để tìm lý do vì sao màn vẫy càng mạnh mẽ phản ánh đúng thể lực/chất lượng cá thể (liên quan đến chi phí năng lượng và nguồn lực để phát triển/duy trì chiếc càng lớn).\n  - Với **R4Q3**, quét từ khóa \"feed more slowly\" hoặc \"males\" ở đoạn 3 để xác định điểm bất lợi về số lượng chiếc càng dùng cho việc gắp thức ăn ở con đực so với con cái.\n- **Dạng câu hỏi Loại trừ NOT (R4Q4):** Rà soát kỹ các tác động sinh thái của hoạt động đào hang/kiếm ăn của cua còng được liệt kê trong đoạn 4 (như đưa oxy và nước xuống tầng bùn thiếu khí, đẩy dinh dưỡng từ tầng sâu lên bề mặt, hỗ trợ thực vật/đầm lầy hoặc trở thành nguồn thức ăn cho các loài động vật ăn thịt). Hãy loại bỏ các ý có xuất hiện trong đoạn để chọn ra nội dung không được nhắc đến tại đây.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q1, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) kết hợp phân tích cấu trúc câu.\n  - Với **R4Q1**, xét từ **\"conspicuous\"** ở đoạn 1 khi nói về sự hiện diện hoặc đặc điểm dễ thu hút sự chú ý trên bãi bùn/vùng triều; ngữ cảnh hướng tới tính chất dễ nhận ra, nổi bật rõ ràng.\n  - Với **R4Q7**, xét cụm từ **\"hemmed in\"** ở đoạn 6 trong ngữ cảnh môi trường sống bị bao quanh hoặc kẹp chặt bởi các yếu tố cản trở/mở rộng không gian; chọn nghĩa sát nhất với trạng thái bị giới hạn, giam hãm trong phạm vi hẹp.\n- **Dạng câu hỏi Quy chiếu (R4Q5):** Xác định cụm danh từ **\"such rhythms\"** ở đoạn 5. Đọc ngược lại câu trước đó để tìm danh từ/cụm danh từ chỉ các chu kỳ lặp lại theo nhịp điệu tự nhiên (như biến động của thủy triều) mà đoạn văn đang phân tích, tránh nhầm sang từng hành vi đơn lẻ hoặc thí nghiệm.\n- **Dạng câu hỏi Chèn câu vào đoạn văn (R4Q6):** Phân tích nội dung câu cần chèn (\"Both pressures narrow the band of intertidal mud where the crabs can live.\") — câu này đòi hỏi phía trước phải đề cập đủ **hai áp lực** (\"Both pressures\") và mạch văn tiếp theo ăn khớp với phạm vi/dải bùn vùng triều bị thu hẹp. Hãy kiểm tra vị trí của hai yếu tố tác động trong đoạn 6 để chọn ô vuông **[A]**, **[B]**, **[C]**, hoặc **[D]** khớp nhất về cả nghĩa lẫn liên kết câu.\n- **Dạng câu hỏi Suy luận (R4Q8):** Kết hợp thông tin ở đoạn 2 và đoạn 3: một bên là chiếc càng lớn dùng để phô diễn thu hút bạn tình/cạnh tranh, bên kia là việc con đực chỉ còn một chiếc càng nhỏ để kiếm ăn nên tốc độ ăn chậm hơn con cái. Từ hai đoạn này ghép lại, suy luận ra sự đánh đổi giữa lợi thế sinh sản/giao phối và hiệu quả kiếm ăn.\n- **Dạng câu hỏi Mục đích đoạn văn (R4Q9):** Xác định ý đồ chính của tác giả ở đoạn cuối cùng: sau khi trình bày giá trị sinh thái và những thách thức đối với sinh cảnh của loài, tác giả hướng người đọc tới việc quan tâm nghiên cứu và bảo vệ không gian sống của chúng. Hãy chọn phương án phản ánh đúng lời kêu gọi/đề xuất mang tính xây dựng này, tránh các đáp án mang sắc thái chỉ trích gay gắt hay tiên đoán cực đoan.\nLời khuyên: Hãy xử lý trước nhóm câu hỏi có tọa độ rõ ràng và tập trung vào từ/cụm từ như Quy chiếu (R4Q5) và Từ vựng theo ngữ cảnh (R4Q1, R4Q7). Tiếp theo, dùng kỹ thuật đọc quét để giải quyết nhanh nhóm Chi tiết (R4Q2, R4Q3), Loại trừ NOT (R4Q4) và Chèn câu (R4Q6). Cuối cùng, khi đã nắm trọn vẹn mạch thông tin và mối liên hệ giữa các đoạn, bạn sẽ dễ dàng chọn đáp án chính xác cho các câu hỏi tổng hợp gồm **Suy luận** (R4Q8), **Mục đích đoạn cuối** (R4Q9) và Ý chính toàn bài (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Steve.\nHe would like to catch up with you and is thinking about visiting your country. Read part of his email below. It's been a long time since we last talked! I'd love to hear all about your life these days. I'm also thinking about visiting your country soon.\n- Tell me about yourself, especially your job, and about your hometown.\n- What do you do in your free time?\n- I'm considering a visit to your country. Could you arrange a meeting with me?\nWrite an email responding to Steve. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Steve.",
+      "He would like to catch up with you and is thinking about visiting your country. Read part of his email below."
+     ],
+     "quote": [
+      "It's been a long time since we last talked! I'd love to hear all about your life these days. I'm also thinking about visiting your country soon.",
+      "- Tell me about yourself, especially your job, and about your hometown.",
+      "- What do you do in your free time?",
+      "- I'm considering a visit to your country. Could you arrange a meeting with me?"
+     ],
+     "instruction": "Write an email responding to Steve. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (thư thân mật) hỏi thăm và chia sẻ thông tin cá nhân với một người bạn lâu ngày không gặp. Giọng văn thân thiện, cởi mở, tự nhiên.\n- Đề yêu cầu 3 ý chính: (1) chia sẻ về bản thân (đặc biệt là công việc) và quê hương, (2) nói về hoạt động lúc rảnh rỗi, (3) trả lời việc sắp xếp một buổi gặp khi Steve đến thăm.\n- Bài viết cần tối thiểu **120 từ**. Nên viết khoảng 140–170 từ để an toàn.\n- Phải trả lời đủ cả 3 ý. Bỏ sót ý sẽ bị trừ điểm Task Fulfillment.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Steve,\n- **Opening:** Thể hiện niềm vui khi nhận thư. Ví dụ: It was great to hear from you! I'm so glad you wrote to me after such a long time.\n- **Body 1 (Bản thân và quê hương):** Nêu công việc, đặc điểm quê hương. Ví dụ: I'm working as an English teacher at a language center, and I really enjoy it. My hometown is a peaceful coastal town, famous for its beaches and fresh seafood.\n- **Body 2 (Hoạt động lúc rảnh):** Nêu 2–3 sở thích kèm lý do. Ví dụ: In my free time, I like cycling around the town and cooking for my family, because these activities help me relax after work.\n- **Body 3 (Sắp xếp buổi gặp):** Trả lời cụ thể. Ví dụ: I'd be delighted to meet you when you visit. Just let me know your travel dates, and I can pick you up at the airport and show you around. We could have dinner together on your first evening.\n- **Closing:** Hẹn gặp và chúc. Ví dụ: I can't wait to see you! Write back soon.\n- **Sign-off:** Best wishes, [Your Name]. Mỗi đoạn body nên dài 2–3 câu.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Dùng **hiện tại đơn** hoặc **hiện tại tiếp diễn** để nói về công việc (I work as..., I'm working as...), **trạng từ tần suất** cho sở thích, và **can / could / will** để sắp xếp buổi gặp.\n- Khi sắp xếp buổi gặp, nên đề xuất cụ thể: thời gian, địa điểm, hoạt động (đón ở sân bay, ăn tối, tham quan) thay vì chỉ nói Yes.\n- Mỗi ý nên có lý do hoặc chi tiết ngắn gọn để bài phong phú và đủ độ dài.\n- Tránh lặp từ like, nice, work. Hãy thay bằng các từ bên dưới.\nTừ vựng quan trọng:\n- **Work as / Be in charge of:** Làm nghề / phụ trách\n- **Hometown:** Quê hương\n- **Coastal town / Rural area:** Thị trấn ven biển / vùng nông thôn\n- **Free time / Spare time:** Thời gian rảnh\n- **Unwind / Relax:** Thư giãn\n- **Arrange a meeting:** Sắp xếp một buổi gặp\n- **Pick someone up:** Đón ai đó\n- **Show someone around:** Dẫn ai đó đi tham quan\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Besides / Moreover:** Bên cạnh đó, hơn nữa\n- **Because / Since:** Bởi vì\n- **So / Therefore:** Vì vậy\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **It was great to hear from you!** Thật vui khi nhận được thư của bạn!\n- **I'd be delighted to meet you.** Mình rất vui được gặp bạn.\n- **I can't wait to see you.** Mình rất mong được gặp bạn.\n- **I'm looking forward to your visit.** Mình mong chờ chuyến thăm của bạn.\n\n**4. Các lỗi thường gặp:**\n- Chỉ liệt kê thông tin ngắn (I am teacher. I like music.) mà không phát triển câu và lý do.\n- Bỏ sót một trong ba ý, thường là phần sắp xếp buổi gặp.\n- Dùng giọng văn quá trang trọng như Dear Sir/Madam.\n- Sai giới từ (work as, live in, come from) hoặc thì động từ.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm từ và đảm bảo đạt trên 120 từ.\n- Kiểm tra đã trả lời đủ ý: bản thân và công việc, quê hương, sở thích, sắp xếp buổi gặp.\n- Kiểm tra có lời chào, mở đầu, kết thư và ký tên.\n- Soát lỗi chính tả, thì động từ và dấu câu.\n\n**6. Tư duy làm bài:**\nHãy viết như đang trò chuyện thật với một người bạn lâu ngày không gặp: thân thiện, chân thật và có chi tiết riêng của bạn. Mỗi ý tương ứng một đoạn ngắn rõ ràng, kèm lý do, sẽ giúp bài mạch lạc và đủ độ dài.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nNowadays, almost everyone owns a smartphone, and many employees take their personal mobile phones to work every day.\nSome employers allow staff to use their phones during working hours, while others strictly limit or ban it.\nDiscuss the advantages and disadvantages of using personal mobile phones at work.\nWrite an essay to an educated reader to discuss the advantages and disadvantages of using personal mobile phones at work. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Nowadays, almost everyone owns a smartphone, and many employees take their personal mobile phones to work every day.",
+      "Some employers allow staff to use their phones during working hours, while others strictly limit or ban it.",
+      "Discuss the advantages and disadvantages of using personal mobile phones at work."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages and disadvantages of using personal mobile phones at work. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Advantages & Disadvantages Essay**: bạn cần phân tích cả lợi ích và bất lợi của việc dùng điện thoại cá nhân tại nơi làm việc.\n- Từ khoá chính: **personal mobile phones, at work, advantages, disadvantages**. Cần cân bằng cả hai phía.\n- Nên chọn 2 lợi ích (liên lạc nhanh với đồng nghiệp, khách hàng và gia đình trong trường hợp khẩn cấp; tra cứu thông tin và dùng ứng dụng hỗ trợ công việc) và 2 bất lợi (xao nhãng, giảm năng suất; nguy cơ rò rỉ thông tin công ty, ảnh hưởng đến giao tiếp giữa đồng nghiệp).\n- Bài cần tối thiểu **250 từ**. Chú ý không viết thành bài nêu quan điểm đồng ý hay không đồng ý.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Dẫn dắt và nêu thesis. Ví dụ: Personal mobile phones are now a common part of working life, and using them at work has both benefits and drawbacks.\n- **Body 1 (Lợi ích):** Topic sentence, giải thích, ví dụ. Ví dụ: One major advantage is quick communication. Employees can contact colleagues and clients instantly, and family members can reach them in an emergency.\n- **Body 2 (Lợi ích thứ hai, tuỳ chọn):** Ví dụ: Phones also give access to useful tools such as translation apps, calendars and work chat groups, which can improve efficiency.\n- **Body 3 (Bất lợi):** Ví dụ: However, phones can be a serious distraction. Workers who check social media or play games during working hours may lose concentration and produce less work. In addition, taking photos or recording meetings may put company information at risk.\n- **Conclusion:** Tóm tắt và khẳng định. Ví dụ: In conclusion, personal phones are useful at work, but clear rules are necessary to prevent distraction and protect company information.\n- Mỗi đoạn thân bài theo cấu trúc: Topic sentence -> Explanation -> Example -> Mini-conclusion.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Dùng **hiện tại đơn** cho sự thật, **hiện tại hoàn thành** cho xu hướng (Smartphones have become essential), và **can /** may / tend to để diễn đạt mức độ chắc chắn.\n- Mỗi ý cần được phát triển: nêu ý, giải thích lý do, rồi ví dụ cụ thể (nhắn tin với khách hàng, nhóm chat công việc, lướt mạng xã hội trong giờ làm).\n- Tránh lặp từ phone và work. Hãy dùng từ đồng nghĩa trong các mục bên dưới.\n- Nêu quan điểm tổng quát ở kết bài (cần có quy định rõ ràng) để bài có sự kết nối.\nTừ vựng quan trọng:\n- **Personal mobile phone / Smartphone:** Điện thoại cá nhân\n- **Workplace:** Nơi làm việc\n- **Instant communication:** Giao tiếp tức thì\n- **Emergency:** Tình huống khẩn cấp\n- **Distraction:** Sự xao nhãng\n- **Productivity / Efficiency:** Năng suất / hiệu quả\n- **Confidential information:** Thông tin mật\n- **Company policy:** Quy định của công ty\nTừ nối (Linking words):\n- **In addition / Furthermore:** Hơn nữa (thêm ý)\n- **However / On the other hand:** Tuy nhiên (đối lập)\n- **As a result / Consequently:** Do đó (kết quả)\n- **For example / For instance:** Ví dụ (minh hoạ)\n- **On the one hand... on the other hand...:** Một mặt... mặt khác...\n- **In conclusion / To sum up:** Tóm lại (kết luận)\nDiễn đạt lại ý (Paraphrasing):\n- **Personal mobile phones:** Có thể thay bằng private smartphones hoặc staff's own devices.\n- **Advantages:** Có thể thay bằng benefits hoặc positive aspects.\n- **Disadvantages:** Có thể thay bằng drawbacks hoặc downsides.\n- **At work:** Có thể thay bằng during working hours hoặc in the workplace.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **One major benefit of... is that...:** Một lợi ích lớn của... là...\n- **A key drawback is that...:** Một nhược điểm chính là...\n- **Compared with banning phones,...:** So với việc cấm điện thoại,...\n- **Overall, the advantages outweigh the disadvantages, provided that...:** Nhìn chung, lợi ích nhiều hơn bất lợi, miễn là...\n\n**4. Các lỗi thường gặp:**\n- Chỉ viết về lợi ích hoặc chỉ về bất lợi, làm mất cân bằng bài.\n- Nêu ý chung chung như It is useful mà không có lý do hoặc ví dụ cụ thể.\n- Đoạn văn quá ngắn, thiếu Topic sentence.\n- Lặp từ phone quá nhiều lần hoặc dùng sai từ nối đối lập.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra mở bài đã có thesis statement nêu cả hai phía.\n- Đảm bảo đã có ít nhất một ví dụ cho mỗi ý chính.\n- Đếm từ để chắc chắn đạt trên 250 từ.\n- Soát lỗi chia động từ, mạo từ và từ nối.\n\n**6. Tư duy làm bài:**\nHãy lập dàn ý ngắn gọn trước khi viết: hai lợi ích, hai bất lợi, mỗi ý một ví dụ. Một bài cân bằng, mạch lạc và có ví dụ cụ thể sẽ ghi điểm tốt hơn bài dùng từ phức tạp nhưng thiếu cấu trúc."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about food\n\n1\nHow often do you eat out?\n2\nDo you prefer eating out or eating at home? Why?\n3\nDo you prefer Vietnamese food or food from other countries? Why?\n\nNow, let’s talk about celebrities\n\n4\nDo you have any idols?\n5\nWhy do you admire this person?\n6\nDo you want to become famous? Why or why not?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 kéo dài **3 phút** với **6 câu hỏi** về những chủ đề quen thuộc trong cuộc sống hằng ngày.\n- **Topic A (Food):** Câu 1–3 hỏi về tần suất ăn ngoài, sở thích ăn ngoài hay ăn ở nhà và việc thích món Việt hay món nước ngoài. Phần này kiểm tra khả năng mô tả thói quen, so sánh và đưa ra lý do.\n- **Topic B (Celebrities):** Câu 4–6 hỏi về thần tượng của bạn, lý do ngưỡng mộ và mong muốn nổi tiếng. Phần này kiểm tra khả năng mô tả con người và nêu quan điểm cá nhân.\n- Tiêu chí chấm điểm: **Fluency** (độ trôi chảy), **Vocabulary** (từ vựng), **Grammar** (ngữ pháp), **Pronunciation** (phát âm).\n- Phân bổ thời gian: khoảng **25–35 giây** mỗi câu, chia đều cho Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Dùng cấu trúc **Answer – Reason – Example (ARE)**: trả lời trực tiếp, nêu lý do, rồi thêm một ví dụ ngắn từ đời sống của bạn.\n- **Ví dụ Topic A (câu 3):** I prefer Vietnamese food because it is fresh and full of flavor. For example, a bowl of pho or a plate of broken rice always reminds me of home, and I never get tired of it.\n- **Ví dụ Topic B (câu 6):** I would not like to be famous because I value my privacy. For instance, famous people are often followed by reporters, and I prefer a quiet life with my family and friends.\n- Mẹo: luôn tự hỏi **Why?** hoặc **How?** sau mỗi câu trả lời để kéo dài ý một cách tự nhiên.\n- Mẹo chuyển chủ đề mượt: khi sang câu 4, bạn có thể bắt đầu bằng **Speaking of things that interest me...** hoặc **As** for celebrities... để thể hiện bạn theo kịp mạch hỏi.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định, dùng từ đệm như **well**, **actually**, **let me think** để tránh im lặng kéo dài.\n- Thì động từ: dùng **hiện tại đơn** cho thói quen (I usually eat out on weekends), **quá khứ đơn** cho trải nghiệm (I tried Korean food last month), **would** cho giả định (I would not like to be famous).\n- Kỹ thuật paraphrase: nếu quên từ, hãy diễn đạt bằng từ đơn giản hơn. Ví dụ quên từ **idol** thì nói **a person I look up to** and admire.\n- **Từ vựng Topic A:** dine out (ăn ngoài), home-cooked meal (bữa ăn nấu ở nhà), local specialties (đặc sản địa phương), foreign cuisine (ẩm thực nước ngoài).\n- **Từ vựng Topic B:** role model (hình mẫu), fan (người hâm mộ), public figure (nhân vật của công chúng), fame (danh tiếng).\nCụm từ quan trọng nên dùng:\n- **Topic A:** save time and money (tiết kiệm thời gian và tiền)\n- **Topic A:** a wide variety of dishes (nhiều món đa dạng)\n- **Topic A:** suit my taste (hợp khẩu vị của tôi)\n- **Topic A:** try something new (thử điều mới)\n- **Topic B:** look up to someone (ngưỡng mộ ai)\n- **Topic B:** be an inspiration to (là nguồn cảm hứng cho)\n- **Topic B:** lack of privacy (thiếu sự riêng tư)\n- **Topic B:** under constant pressure (chịu áp lực liên tục)\nTừ nối khi nói (Linking Words):\n- **because / since:** bởi vì, dùng để nêu lý do.\n- **for example / for instance:** ví dụ, dùng trước ví dụ cá nhân.\n- **however:** tuy nhiên, dùng để nêu mặt trái.\n- **besides / also:** ngoài ra, dùng để thêm ý.\n- **as a result:** kết quả là, dùng để nêu hệ quả.\n- **on the other hand:** mặt khác, dùng khi so sánh hai lựa chọn.\nCách thể hiện quan điểm tự nhiên:\n- **Topic A:** **In my opinion...** (theo tôi) – In my opinion, home-cooked meals are healthier and more affordable.\n- **Topic A:** **I would say that...** (tôi cho rằng) – I would say that eating out is a great way to meet friends and relax.\n- **Topic A:** **To be honest...** (thành thật mà nói) – To be honest, nothing beats traditional Vietnamese dishes for me.\n- **Topic B:** **As far as I am concerned...** (theo tôi thấy) – As far as I am concerned, a good idol should set a positive example for young people.\n- **Topic B:** **I truly believe that...** (tôi tin rằng) – I truly believe that being famous also brings a lot of pressure.\n- **Topic B:** **From my perspective...** (từ góc nhìn của tôi) – From my perspective, success matters more than fame.\n\n**4. Các lỗi thường gặp:**\n- Trả lời **Yes/No** rồi im lặng, không giải thích. Đây là lỗi nghiêm trọng nhất vì câu trả lời quá ngắn.\n- Topic A: chỉ nói tên món ăn mà không mô tả hương vị, lý do thích hay dịp thường ăn.\n- Topic A: nhầm giữa **eat out** (ăn ngoài) và **eat outside** (ăn ngoài trời), hoặc dùng sai giới từ.\n- Topic B: chỉ nói tên thần tượng mà không giải thích vì sao ngưỡng mộ hoặc học được gì.\n- Topic B: nhầm giữa **famous** (nổi tiếng) và **popular** (được yêu thích), hoặc phát âm sai **celebrity** /səˈlebrəti/.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu kéo dài thời gian: **That is an interesting question, let me think for a second.**\n- Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm thay vì bỏ cuộc.\n- Bí ý ở Topic A: kể về lần gần nhất bạn ăn ngoài, ăn ở đâu, với ai, gọi món gì và cảm thấy thế nào.\n- Bí ý ở Topic B: nếu không có thần tượng, hãy nói về một người bạn ngưỡng mộ như ca sĩ, vận động viên hoặc người thân.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi Part 1 như một cuộc trò chuyện thân mật với giám khảo, không phải bài học thuộc lòng.\n- Sau câu 3, hãy **reset tâm lý**: quên chủ đề ẩm thực và bước vào chủ đề người nổi tiếng với năng lượng mới.\n- Sự tự nhiên và trôi chảy quan trọng hơn từ vựng phức tạp. Một câu đơn giản, đúng và đủ ý luôn tốt hơn một câu khó nhưng sai.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour brother wants to improve his professional skills and asks for your advice on which course to take.\n\nYou are considering the following options:\n\nOption 1: A management skills course\nOption 2: A presentation skills course\nOption 3: An effective communication skills course\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống: anh/em trai của bạn muốn nâng cao kỹ năng và nhờ bạn tư vấn khóa học. Có **3 phương án**: khóa kỹ năng quản lý, khóa kỹ năng thuyết trình, khóa kỹ năng giao tiếp hiệu quả.\n- Tiêu chí chấm điểm: **Fluency**, **Vocabulary**, **Grammar**, **Pronunciation** và khả năng lập luận để chọn phương án tốt nhất.\n- Thời gian: **4 phút** tổng cộng, khoảng 1 phút chuẩn bị và khoảng 3 phút nói.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Dùng cấu trúc **I-C-E**: Introduction (nêu tình huống) – Comparison/Body (phân tích từng phương án) – End (kết luận chọn một phương án và đưa lời khuyên cho người thân).\n- **Option 1 (management skills):** giúp lên kế hoạch, điều phối nhóm và ra quyết định, phù hợp khi muốn thăng tiến lên vị trí quản lý, nhưng chỉ hữu ích khi đã có kinh nghiệm hoặc đã dẫn dắt một nhóm.\n- **Option 2 (presentation skills):** giúp trình bày ý tưởng tự tin và thuyết phục trước đám đông, hữu ích trong họp và báo cáo, nhưng phạm vi ứng dụng hẹp hơn trong công việc hằng ngày.\n- **Option 3 (effective communication skills):** áp dụng trong mọi tình huống như làm việc nhóm, đàm phán, thuyết phục và giải quyết xung đột, nên có giá trị rộng nhất, nhưng nội dung có thể khá tổng quát.\n- Mẹo: lập luận theo mức độ ứng dụng, mục tiêu nghề nghiệp của người em/anh và giá trị lâu dài của kỹ năng.\n- Mẹo: dùng từ nối chỉ sự đối lập như **however**, **on the other hand** để chuyển từ ưu điểm sang nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các phương án với nhau thay vì nói riêng lẻ, ví dụ: Compared to a presentation course, a communication course covers a broader range of situations at work.\n- Thì động từ: dùng **hiện tại đơn** để nêu đặc điểm (Management skills help people lead a team), **will/would** để dự đoán (He would feel more confident), **câu điều kiện loại 2** để khuyên (If I were him, I would choose the communication course).\n- Paraphrase theo chủ đề: thay **skills course** bằng **training program**; thay **useful** bằng **valuable**; thay **improve** bằng develop hoặc enhance.\nCụm từ quan trọng nên dùng:\n- **leadership and teamwork:** khả năng lãnh đạo và làm việc nhóm\n- **public speaking:** nói trước đám đông\n- **express ideas clearly:** diễn đạt ý tưởng rõ ràng\n- **career advancement:** cơ hội thăng tiến\n- **build professional relationships:** xây dựng mối quan hệ nghề nghiệp\n- **transferable skills:** kỹ năng có thể áp dụng nhiều lĩnh vực\n- **boost confidence:** tăng sự tự tin\nTừ nối khi nói (Linking Words):\n- **First of all:** trước hết, dùng để mở đầu phân tích.\n- **However:** tuy nhiên, dùng để nêu nhược điểm.\n- **On the other hand:** mặt khác, dùng để chuyển sang phương án khác.\n- **In addition:** ngoài ra, dùng để thêm lý do.\n- **Therefore:** vì vậy, dùng để rút ra kết luận.\n- **All things considered:** xét tổng thể, dùng để mở đầu kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **Compared to...** (so với) – Compared to management skills, communication skills are useful at every stage of a career.\n- **I would advise him to...** (tôi sẽ khuyên anh ấy) – I would advise him to take the communication course, because it will support him in any job.\n- **What matters most is...** (điều quan trọng nhất là) – What matters most is choosing a skill that fits his career goals and can be used every day.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen phương án mình chọn mà không phân tích điểm yếu của hai phương án còn lại.\n- Lặp lại **good** và **useful**, hãy thay bằng valuable, practical, versatile, specific, limited.\n- Không đưa ra quyết định rõ ràng ở phần kết, quên đưa lời khuyên cụ thể cho người thân.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên biệt, hãy chuyển sang yếu tố **mục tiêu nghề nghiệp** hoặc **tính ứng dụng** để tiếp tục lập luận.\n- Dùng câu kéo dài thời gian: **Let's evaluate this option from a different perspective.**\n- Giữ bình tĩnh, nếu bí ý ở một phương án thì chuyển sang phương án tiếp theo và quay lại sau nếu còn thời gian.\n\n**6. Tư duy làm bài nói:**\n- Hãy nghĩ như một người thân chân thành muốn giúp người em/anh phát triển: kỹ năng nào dùng nhiều nhất và có giá trị lâu dài nhất?\n- Dù chọn phương án nào, hãy gợi ý bước tiếp theo, ví dụ học kỹ năng giao tiếp trước rồi mới học thuyết trình hoặc quản lý, để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe uses of social media\n\nUses of Social Media\nEntertainment\nDoing business\nKeeping in touch with others\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think people spend too much time on social media? Why or why not?\n2\nWhat are the disadvantages of using social media?\n3\nIs social media more useful for young people or older people? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề là **các công dụng của mạng xã hội** với 3 nhánh sơ đồ tư duy: **giải trí**, **kinh doanh**, **giữ liên lạc với mọi người**, cộng thêm 1 nhánh ý tưởng cá nhân (ý kiến của bạn).\n- Gợi ý cho nhánh thứ 4: nhìn nhận của bạn về việc dùng mạng xã hội đúng cách, hoặc công dụng khác như học tập và cập nhật tin tức.\n- Tiêu chí chấm điểm: **Fluency**, **Vocabulary**, **Grammar**, **Pronunciation** và khả năng phát triển ý mạch lạc.\n- Thời gian: **5 phút**, khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Dùng cấu trúc **FEEL**: Point (nêu ý) – Explanation (giải thích) – Example (ví dụ) – Link (nối sang ý tiếp theo) cho từng nhánh.\n- **Ví dụ 1:** Today, I would like to talk about the main uses of social media, which has become a part of daily life for millions of people.\n- **Ví dụ 2 (ý cá nhân):** In my opinion, social media is a useful tool, but people should use it wisely, because spending too much time online can affect their health and studies.\n- Mẹo: mỗi nhánh nên có một ví dụ thực tế như xem video giải trí, bán hàng qua Facebook hoặc nhắn tin với người thân ở xa.\n- Mẹo: bám sát sơ đồ tư duy để tránh lặp ý và lan man sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm chuyển ý mượt giữa các nhánh như **Moving on to...**, **Another use worth mentioning is...**\n- Thì động từ: **hiện tại đơn** cho sự thật chung (Social media helps people stay connected) và **hiện tại hoàn thành** cho xu hướng đang diễn ra (Many small businesses have started selling online).\n- Paraphrase cụm chủ đề: **social media** có thể thay bằng **social networking sites** hoặc **online platforms**; **uses** thay bằng **purposes** hoặc **functions**.\nCụm từ quan trọng nên dùng:\n- **stay in touch with:** giữ liên lạc với\n- **source of entertainment:** nguồn giải trí\n- **promote products:** quảng bá sản phẩm\n- **reach a wide audience:** tiếp cận lượng lớn khách hàng\n- **online business:** kinh doanh trực tuyến\n- **share photos and videos:** chia sẻ ảnh và video\n- **keep up with the latest news:** cập nhật tin tức mới nhất\nTừ nối khi nói (Linking Words):\n- **To begin with:** trước tiên, dùng để mở đầu nhánh đầu tiên.\n- **Moving on to:** chuyển sang, dùng để sang nhánh tiếp theo.\n- **Another point is that:** một điểm khác là, dùng để thêm ý.\n- **Having said that:** tuy vậy, dùng để đưa ra mặt đối lập.\n- **As a result:** kết quả là, dùng để nêu hệ quả.\n- **To sum up:** tóm lại, dùng để kết bài.\nCách thể hiện quan điểm tự nhiên:\n- **I firmly believe that...** (tôi tin chắc rằng) – I firmly believe that social media is a powerful tool for both fun and business.\n- **It seems to me that...** (với tôi thì có vẻ) – It seems to me that social media has made it much easier to keep in touch with relatives abroad.\n- **From my point of view...** (theo quan điểm của tôi) – From my point of view, the benefits outweigh the drawbacks if people use it sensibly.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Do people spend too much time on social media?** – Yes, I think many people do. They often scroll for hours without noticing, which can reduce their study or work time and affect their sleep.\n- **What are the disadvantages of using social media?** – It can be addictive and waste time. It may also spread false information, invade privacy and cause people to compare themselves with others.\n- **Is social media more useful for young people or older people?** – I think it is useful for both, but in different ways. Young people use it for learning and entertainment, while older people use it to stay in touch with family and friends.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê công dụng (fun, business, keeping in touch) mà không giải thích và không đưa ví dụ cụ thể.\n- Quên nhánh ý kiến cá nhân, hãy chuẩn bị sẵn một nhận định rõ ràng về cách dùng mạng xã hội hợp lý.\n- Nói quá lâu ở phần chính khiến không còn thời gian cho câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Quay về trải nghiệm cá nhân: bạn dùng mạng xã hội để làm gì, nền tảng nào và những lợi ích hoặc bất tiện bạn từng gặp.\n- Dùng câu kéo dài thời gian mang tính học thuật: **That is a complex issue. If we evaluate it from a social viewpoint...**\n- Nếu quên từ kỹ thuật, hãy dùng từ đồng nghĩa hoặc mô tả đơn giản, ví dụ thay **promote** bằng **let more people know** about a product.\n\n**7. Tư duy làm bài nói:**\n- Hãy nghĩ thực tế và cân bằng: mạng xã hội là công cụ hữu ích nhưng hiệu quả phụ thuộc vào cách sử dụng.\n- Sự mạch lạc và logic trong dòng ý tưởng là yếu tố then chốt để đạt điểm cao.\n- Khi nêu ý kiến cá nhân, hãy đưa quan điểm rõ ràng, một lý do và một ví dụ ngắn để thuyết phục giám khảo."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about food.\n1.\nHow often do you eat out?\n2.\nDo you prefer eating out or eating at home? Why?\n3.\nDo you prefer Vietnamese food or food from other countries? Why?\nNow, let’s talk about celebrities.\n4.\nDo you have any idols?\n5.\nWhy do you admire this person?\n6.\nDo you want to become famous? Why or why not?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 kéo dài 3 phút với 6 câu hỏi về những chủ đề quen thuộc trong cuộc sống hằng ngày.\n• Topic A (Food): Câu 1–3 hỏi về tần suất ăn ngoài, sở thích ăn ngoài hay ăn ở nhà và việc thích món Việt hay món\nnước ngoài. Phần này kiểm tra khả năng mô tả thói quen, so sánh và đưa ra lý do.\n• Topic B (Celebrities): Câu 4–6 hỏi về thần tượng của bạn, lý do ngưỡng mộ và mong muốn nổi tiếng. Phần này kiểm\ntra khả năng mô tả con người và nêu quan điểm cá nhân.\n• Tiêu chí chấm điểm: Fluency (độ trôi chảy), Vocabulary (từ vựng), Grammar (ngữ pháp), Pronunciation (phát âm).\n• Phân bổ thời gian: khoảng 25–35 giây mỗi câu, chia đều cho Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Dùng cấu trúc Answer – Reason – Example (ARE): trả lời trực tiếp, nêu lý do, rồi thêm một ví dụ ngắn từ đời sống của\nbạn.\n• Ví dụ Topic A (câu 3): I prefer Vietnamese food because it is fresh and full of flavor. For example, a bowl of pho or a\nplate of broken rice always reminds me of home, and I never get tired of it.\n• Ví dụ Topic B (câu 6): I would not like to be famous because I value my privacy. For instance, famous people are often\nfollowed by reporters, and I prefer a quiet life with my family and friends.\n• Mẹo: luôn tự hỏi Why? hoặc How? sau mỗi câu trả lời để kéo dài ý một cách tự nhiên.\n• Mẹo chuyển chủ đề mượt: khi sang câu 4, bạn có thể bắt đầu bằng Speaking of things that interest me... hoặc As\nfor celebrities... để thể hiện bạn theo kịp mạch hỏi.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định, dùng từ đệm như well, actually, let me think để tránh im lặng kéo dài.\n• Thì động từ: dùng hiện tại đơn cho thói quen (I usually eat out on weekends), quá khứ đơn cho trải nghiệm (I tried\nKorean food last month), would cho giả định (I would not like to be famous).\n• Kỹ thuật paraphrase: nếu quên từ, hãy diễn đạt bằng từ đơn giản hơn. Ví dụ quên từ idol thì nói a person I look up to\nand admire.\n• Từ vựng Topic A: dine out (ăn ngoài), home-cooked meal (bữa ăn nấu ở nhà), local specialties (đặc sản địa phương),\nforeign cuisine (ẩm thực nước ngoài).\n• Từ vựng Topic B: role model (hình mẫu), fan (người hâm mộ), public figure (nhân vật của công chúng), fame (danh\ntiếng).\nCụm từ quan trọng nên dùng:\n• Topic A: save time and money (tiết kiệm thời gian và tiền)\n• Topic A: a wide variety of dishes (nhiều món đa dạng)\n• Topic A: suit my taste (hợp khẩu vị của tôi)\n• Topic A: try something new (thử điều mới)\n• Topic B: look up to someone (ngưỡng mộ ai)\n• Topic B: be an inspiration to (là nguồn cảm hứng cho)\n• Topic B: lack of privacy (thiếu sự riêng tư)\n• Topic B: under constant pressure (chịu áp lực liên tục)\nTừ nối khi nói (Linking Words):\n• because / since: bởi vì, dùng để nêu lý do.\n• for example / for instance: ví dụ, dùng trước ví dụ cá nhân.\n• however: tuy nhiên, dùng để nêu mặt trái.\n• besides / also: ngoài ra, dùng để thêm ý.\n• as a result: kết quả là, dùng để nêu hệ quả.\n• on the other hand: mặt khác, dùng khi so sánh hai lựa chọn.\nCách thể hiện quan điểm tự nhiên:\n• Topic A: In my opinion... (theo tôi) – In my opinion, home-cooked meals are healthier and more affordable.\n• Topic A: I would say that... (tôi cho rằng) – I would say that eating out is a great way to meet friends and relax.\n• Topic A: To be honest... (thành thật mà nói) – To be honest, nothing beats traditional Vietnamese dishes for me.\n• Topic B: As far as I am concerned... (theo tôi thấy) – As far as I am concerned, a good idol should set a positive\nexample for young people.\n• Topic B: I truly believe that... (tôi tin rằng) – I truly believe that being famous also brings a lot of pressure.\n• Topic B: From my perspective... (từ góc nhìn của tôi) – From my perspective, success matters more than fame.\n4. Các lỗi thường gặp:\n• Trả lời Yes/No rồi im lặng, không giải thích. Đây là lỗi nghiêm trọng nhất vì câu trả lời quá ngắn.\n• Topic A: chỉ nói tên món ăn mà không mô tả hương vị, lý do thích hay dịp thường ăn.\n• Topic A: nhầm giữa eat out (ăn ngoài) và eat outside (ăn ngoài trời), hoặc dùng sai giới từ.\n• Topic B: chỉ nói tên thần tượng mà không giải thích vì sao ngưỡng mộ hoặc học được gì.\n• Topic B: nhầm giữa famous (nổi tiếng) và popular (được yêu thích), hoặc phát âm sai celebrity /səˈlebrəti/.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu kéo dài thời gian: That is an interesting question, let me think for a second.\n• Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm thay vì bỏ cuộc.\n• Bí ý ở Topic A: kể về lần gần nhất bạn ăn ngoài, ăn ở đâu, với ai, gọi món gì và cảm thấy thế nào.\n• Bí ý ở Topic B: nếu không có thần tượng, hãy nói về một người bạn ngưỡng mộ như ca sĩ, vận động viên hoặc người\nthân.\n6. Tư duy làm bài nói:\n• Hãy coi Part 1 như một cuộc trò chuyện thân mật với giám khảo, không phải bài học thuộc lòng.\n• Sau câu 3, hãy reset tâm lý: quên chủ đề ẩm thực và bước vào chủ đề người nổi tiếng với năng lượng mới.\n• Sự tự nhiên và trôi chảy quan trọng hơn từ vựng phức tạp. Một câu đơn giản, đúng và đủ ý luôn tốt hơn một câu khó\nnhưng sai.\nSolution Discussion\nPART 2\n4 phút\nYour brother wants to improve his professional skills and asks for your advice on which course to take.\nYou are considering the following options:\n• Option 1: A management skills course\n• Option 2: A presentation skills course\n• Option 3: An effective communication skills course\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống: anh/em trai của bạn muốn nâng cao kỹ năng và nhờ bạn tư vấn khóa học. Có 3 phương án: khóa kỹ năng\nquản lý, khóa kỹ năng thuyết trình, khóa kỹ năng giao tiếp hiệu quả.\n• Tiêu chí chấm điểm: Fluency, Vocabulary, Grammar, Pronunciation và khả năng lập luận để chọn phương án tốt nhất.\n• Thời gian: 4 phút tổng cộng, khoảng 1 phút chuẩn bị và khoảng 3 phút nói.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Dùng cấu trúc I-C-E: Introduction (nêu tình huống) – Comparison/Body (phân tích từng phương án) – End (kết luận\nchọn một phương án và đưa lời khuyên cho người thân).\n• Option 1 (management skills): giúp lên kế hoạch, điều phối nhóm và ra quyết định, phù hợp khi muốn thăng tiến lên\nvị trí quản lý, nhưng chỉ hữu ích khi đã có kinh nghiệm hoặc đã dẫn dắt một nhóm.\n• Option 2 (presentation skills): giúp trình bày ý tưởng tự tin và thuyết phục trước đám đông, hữu ích trong họp và báo\ncáo, nhưng phạm vi ứng dụng hẹp hơn trong công việc hằng ngày.\n• Option 3 (effective communication skills): áp dụng trong mọi tình huống như làm việc nhóm, đàm phán, thuyết phục\nvà giải quyết xung đột, nên có giá trị rộng nhất, nhưng nội dung có thể khá tổng quát.\n• Mẹo: lập luận theo mức độ ứng dụng, mục tiêu nghề nghiệp của người em/anh và giá trị lâu dài của kỹ năng.\n• Mẹo: dùng từ nối chỉ sự đối lập như however, on the other hand để chuyển từ ưu điểm sang nhược điểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các phương án với nhau thay vì nói riêng lẻ, ví dụ: Compared to a presentation course, a communication\ncourse covers a broader range of situations at work.\n• Thì động từ: dùng hiện tại đơn để nêu đặc điểm (Management skills help people lead a team), will/would để dự đoán\n(He would feel more confident), câu điều kiện loại 2 để khuyên (If I were him, I would choose the communication\ncourse).\n• Paraphrase theo chủ đề: thay skills course bằng training program; thay useful bằng valuable; thay improve bằng\ndevelop hoặc enhance.\nCụm từ quan trọng nên dùng:\n• leadership and teamwork: khả năng lãnh đạo và làm việc nhóm\n• public speaking: nói trước đám đông\n• express ideas clearly: diễn đạt ý tưởng rõ ràng\n• career advancement: cơ hội thăng tiến\n• build professional relationships: xây dựng mối quan hệ nghề nghiệp\n• transferable skills: kỹ năng có thể áp dụng nhiều lĩnh vực\n• boost confidence: tăng sự tự tin\nTừ nối khi nói (Linking Words):\n• First of all: trước hết, dùng để mở đầu phân tích.\n• However: tuy nhiên, dùng để nêu nhược điểm.\n• On the other hand: mặt khác, dùng để chuyển sang phương án khác.\n• In addition: ngoài ra, dùng để thêm lý do.\n• Therefore: vì vậy, dùng để rút ra kết luận.\n• All things considered: xét tổng thể, dùng để mở đầu kết luận.\nCách thể hiện quan điểm tự nhiên:\n• Compared to... (so với) – Compared to management skills, communication skills are useful at every stage of a career.\n• I would advise him to... (tôi sẽ khuyên anh ấy) – I would advise him to take the communication course, because it\nwill support him in any job.\n• What matters most is... (điều quan trọng nhất là) – What matters most is choosing a skill that fits his career goals\nand can be used every day.\n4. Các lỗi thường gặp:\n• Chỉ khen phương án mình chọn mà không phân tích điểm yếu của hai phương án còn lại.\n• Lặp lại good và useful, hãy thay bằng valuable, practical, versatile, specific, limited.\n• Không đưa ra quyết định rõ ràng ở phần kết, quên đưa lời khuyên cụ thể cho người thân.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên biệt, hãy chuyển sang yếu tố mục tiêu nghề nghiệp hoặc tính ứng dụng để tiếp tục lập luận.\n• Dùng câu kéo dài thời gian: Let's evaluate this option from a different perspective.\n• Giữ bình tĩnh, nếu bí ý ở một phương án thì chuyển sang phương án tiếp theo và quay lại sau nếu còn thời gian.\n6. Tư duy làm bài nói:\n• Hãy nghĩ như một người thân chân thành muốn giúp người em/anh phát triển: kỹ năng nào dùng nhiều nhất và có giá\ntrị lâu dài nhất?\n• Dù chọn phương án nào, hãy gợi ý bước tiếp theo, ví dụ học kỹ năng giao tiếp trước rồi mới học thuyết trình hoặc quản\nlý, để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The uses of social media\nEntertainment\nDoing business\nUses of Social Media\nÝ tưởng của bạn\nKeeping in touch with others\nFOLLOW-UP QUESTIONS\n1.\nDo you think people spend too much time on social media? Why or why not?\n2.\nWhat are the disadvantages of using social media?\n3.\nIs social media more useful for young people or older people? Why?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề là các công dụng của mạng xã hội với 3 nhánh sơ đồ tư duy: giải trí, kinh doanh, giữ liên lạc với mọi người,\ncộng thêm 1 nhánh ý tưởng cá nhân (ý kiến của bạn).\n• Gợi ý cho nhánh thứ 4: nhìn nhận của bạn về việc dùng mạng xã hội đúng cách, hoặc công dụng khác như học tập\nvà cập nhật tin tức.\n• Tiêu chí chấm điểm: Fluency, Vocabulary, Grammar, Pronunciation và khả năng phát triển ý mạch lạc.\n• Thời gian: 5 phút, khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Dùng cấu trúc FEEL: Point (nêu ý) – Explanation (giải thích) – Example (ví dụ) – Link (nối sang ý tiếp theo) cho từng\nnhánh.\n• Ví dụ 1: Today, I would like to talk about the main uses of social media, which has become a part of daily life for\nmillions of people.\n• Ví dụ 2 (ý cá nhân): In my opinion, social media is a useful tool, but people should use it wisely, because spending\ntoo much time online can affect their health and studies.\n• Mẹo: mỗi nhánh nên có một ví dụ thực tế như xem video giải trí, bán hàng qua Facebook hoặc nhắn tin với người thân\nở xa.\n• Mẹo: bám sát sơ đồ tư duy để tránh lặp ý và lan man sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm chuyển ý mượt giữa các nhánh như Moving on to..., Another use worth mentioning is...\n• Thì động từ: hiện tại đơn cho sự thật chung (Social media helps people stay connected) và hiện tại hoàn thành cho\nxu hướng đang diễn ra (Many small businesses have started selling online).\n• Paraphrase cụm chủ đề: social media có thể thay bằng social networking sites hoặc online platforms; uses thay\nbằng purposes hoặc functions.\nCụm từ quan trọng nên dùng:\n• stay in touch with: giữ liên lạc với\n• source of entertainment: nguồn giải trí\n• promote products: quảng bá sản phẩm\n• reach a wide audience: tiếp cận lượng lớn khách hàng\n• online business: kinh doanh trực tuyến\n• share photos and videos: chia sẻ ảnh và video\n• keep up with the latest news: cập nhật tin tức mới nhất\nTừ nối khi nói (Linking Words):\n• To begin with: trước tiên, dùng để mở đầu nhánh đầu tiên.\n• Moving on to: chuyển sang, dùng để sang nhánh tiếp theo.\n• Another point is that: một điểm khác là, dùng để thêm ý.\n• Having said that: tuy vậy, dùng để đưa ra mặt đối lập.\n• As a result: kết quả là, dùng để nêu hệ quả.\n• To sum up: tóm lại, dùng để kết bài.\nCách thể hiện quan điểm tự nhiên:\n• I firmly believe that... (tôi tin chắc rằng) – I firmly believe that social media is a powerful tool for both fun and\nbusiness.\n• It seems to me that... (với tôi thì có vẻ) – It seems to me that social media has made it much easier to keep in touch\nwith relatives abroad.\n• From my point of view... (theo quan điểm của tôi) – From my point of view, the benefits outweigh the drawbacks if\npeople use it sensibly.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do people spend too much time on social media? – Yes, I think many people do. They often scroll for hours without\nnoticing, which can reduce their study or work time and affect their sleep.\n• What are the disadvantages of using social media? – It can be addictive and waste time. It may also spread false\ninformation, invade privacy and cause people to compare themselves with others.\n• Is social media more useful for young people or older people? – I think it is useful for both, but in different ways.\nYoung people use it for learning and entertainment, while older people use it to stay in touch with family and friends.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê công dụng (fun, business, keeping in touch) mà không giải thích và không đưa ví dụ cụ thể.\n• Quên nhánh ý kiến cá nhân, hãy chuẩn bị sẵn một nhận định rõ ràng về cách dùng mạng xã hội hợp lý.\n• Nói quá lâu ở phần chính khiến không còn thời gian cho câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Quay về trải nghiệm cá nhân: bạn dùng mạng xã hội để làm gì, nền tảng nào và những lợi ích hoặc bất tiện bạn từng\ngặp.\n• Dùng câu kéo dài thời gian mang tính học thuật: That is a complex issue. If we evaluate it from a social viewpoint...\n• Nếu quên từ kỹ thuật, hãy dùng từ đồng nghĩa hoặc mô tả đơn giản, ví dụ thay promote bằng let more people know\nabout a product.\n7. Tư duy làm bài nói:\n• Hãy nghĩ thực tế và cân bằng: mạng xã hội là công cụ hữu ích nhưng hiệu quả phụ thuộc vào cách sử dụng.\n• Sự mạch lạc và logic trong dòng ý tưởng là yếu tố then chốt để đạt điểm cao.\n• Khi nêu ý kiến cá nhân, hãy đưa quan điểm rõ ràng, một lý do và một ví dụ ngắn để thuyết phục giám khảo."
+}

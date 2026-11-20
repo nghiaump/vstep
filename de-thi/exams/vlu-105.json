@@ -1,0 +1,718 @@
+{
+ "id": "vlu-105",
+ "number": 105,
+ "title": "Đề thi VLU 105",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-105",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Understanding Ultraviolet Radiation and Sun Safety",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Ultraviolet, or UV, radiation is a type of energy that comes from the sun. **It** cannot be seen by the human eye, but its effects on the body are easy to notice. Scientists usually divide UV radiation into a few different types, though most of what reaches the ground and affects our skin belongs to just two of these categories. When skin is exposed to UV rays for too long, it can quickly turn red and sore, a reaction most people simply call sunburn. Even on a cloudy day, a surprising amount of UV radiation can still reach the ground and affect unprotected skin.",
+     "Repeated exposure to UV radiation over many years can **damage** the skin in ways that are not always immediately visible. Doctors have found clear links between long-term sun exposure and premature skin aging, including wrinkles and dark spots that appear earlier than they otherwise would. More seriously, years of unprotected exposure can raise the risk of skin cancer, since UV rays are able to harm the cells that make up the outer layer of skin. People with fair skin, light-colored eyes, or a family history of skin cancer tend to face a somewhat higher risk from the same amount of sun exposure. This is why health experts consistently encourage people to take sun protection seriously, even when the weather does not feel especially hot.",
+     "At the same time, UV radiation is not entirely harmful. A small amount of regular sun exposure helps the human body produce vitamin D, a nutrient that supports strong bones and a healthy immune system. Without enough vitamin D, children in particular can develop weaker bones as they grow, which is one reason doctors rarely recommend avoiding the sun completely. Some doctors even use carefully controlled UV light to treat certain skin conditions in a hospital setting. Finding the right balance, then, is important: too little sun exposure can lead to low vitamin D levels, while too much can cause lasting skin damage.",
+     "Fortunately, there are several simple ways to reduce the risks of UV exposure while still enjoying time outdoors. Wearing sunscreen with a strong sun protection factor, choosing long sleeves and a wide-brimmed hat, and staying in the shade during the middle of the day are all effective habits. Sunglasses that block UV rays can also protect the eyes, which are sensitive to sun damage as well. Reapplying sunscreen every couple of hours, especially after swimming or sweating, makes this protection considerably more **reliable**. Parents are often advised to be especially careful with young children, whose skin tends to burn more easily than adult skin does.",
+     "To help people plan their outdoor activities safely, many weather services now report a daily UV index. This number tells people how strong the sun's UV radiation is expected to be on a given day, with higher numbers meaning greater risk. The index is often grouped into simple categories, such as low, moderate, high, and very high, so that people can quickly understand the day's risk level without needing to know the exact number. The UV index tends to rise around midday, and it can also be higher in summer, at high altitudes, or near reflective surfaces such as snow and water. Checking the UV index before going outside, much like checking the weather forecast, has become an easy habit that helps families make smarter choices about sun protection."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "The UV index is the only reliable method available for measuring skin damage",
+       "B": "UV radiation has both risks and benefits, and simple habits can help manage sun exposure safely",
+       "C": "UV radiation is only dangerous to people who spend time outdoors during winter months",
+       "D": "Doctors now recommend that everyone avoid all sun exposure completely, in every season"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu mở đầu và câu kết thúc của các đoạn để nắm bức tranh tổng thể: Đoạn 1 giới thiệu tia UV gây cháy nắng; Đoạn 2 nêu các tác hại lâu dài như lão hóa sớm và ung thư da; Đoạn 3 cân bằng lại bằng cách trình bày lợi ích giúp tổng hợp vitamin D; Đoạn 4 & 5 đưa ra giải pháp bảo vệ da và cách theo dõi chỉ số UV index. Lựa chọn phương án bao quát cả hai mặt lợi - hại của tia UV cùng lời khuyên bảo vệ da an toàn, tránh chọn các phương án mang tính cực đoan hoặc quá hẹp."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what have doctors found regarding long-term unprotected sun exposure?",
+      "options": {
+       "A": "It has been shown to actually lower a person's overall future illness risk",
+       "B": "It is clearly linked to premature skin aging and a higher cancer risk",
+       "C": "It only becomes harmful after many consecutive years without any sunscreen at all",
+       "D": "It mainly affects the eyes rather than the skin over a long time"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"doctors\", \"long-term sun exposure\" ở đoạn 2. Đoạn văn nêu rõ bác sĩ tìm thấy mối liên hệ giữa việc tiếp xúc với ánh nắng lâu dài không bảo vệ với sự lão hóa da sớm (nếp nhăn, tàn nhang) và nguy cơ ung thư da cao hơn."
+     },
+     {
+      "number": 3,
+      "stem": "According to the passage, why is a small amount of regular sun exposure considered helpful?",
+      "options": {
+       "A": "It is the only known way for the body to produce vitamin D",
+       "B": "It helps the body produce vitamin D, which supports bones and immunity",
+       "C": "It allows doctors to stop recommending sunscreen for healthy young adults",
+       "D": "It permanently removes any risk of developing skin cancer later in life"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"small amount\", \"helpful\" hoặc \"vitamin D\" ở đoạn 3. Đoạn văn chỉ ra tiếp xúc vừa phải giúp cơ thể sản sinh vitamin D, hỗ trợ xương chắc khỏe và hệ miễn dịch."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to reduce UV exposure risks?",
+      "options": {
+       "A": "Staying in the shade during midday hours",
+       "B": "Wearing sunscreen with a strong protection factor",
+       "C": "Taking daily vitamin D supplements instead",
+       "D": "Choosing long sleeves and a wide-brimmed hat"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét đoạn 4 danh sách các biện pháp giảm thiểu rủi ro UV được nhắc đến: ở trong bóng râm vào giữa ngày (shade), thoa kem chống nắng (sunscreen), mặc áo dài tay và đội nón rộng vành (long sleeves and wide-brimmed hat). Hãy tìm phương án đề cập đến hành động/phương pháp không hề được nêu trong đoạn văn (như việc uống thực phẩm bổ sung thay thế)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"damage\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "delay",
+       "B": "protect",
+       "C": "harm",
+       "D": "damp"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"damage\" trong đoạn 2 mô tả ảnh hưởng tiêu cực của tia UV đến tế bào da gây ra lão hóa và ung thư. Do đó, từ này mang sắc thái gây hại, tổn thương (harm)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"reliable\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "dependable",
+       "B": "expensive",
+       "C": "relaxing",
+       "D": "reversible"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"reliable\" trong đoạn 4 mô tả hiệu quả bảo vệ của kem chống nắng khi được thoa lại thường xuyên. Sắc thái ở đây mang tính đáng tin cậy, an toàn, ổn định (dependable)."
+     },
+     {
+      "number": 7,
+      "stem": "The word \"it\" in paragraph 1 refers to _______.",
+      "options": {
+       "A": "a cloudy day",
+       "B": "unprotected skin",
+       "C": "ultraviolet radiation",
+       "D": "the human eye"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tìm đại từ \"It\" ở câu hai của đoạn 1. Áp dụng quy tắc đọc ngược lại câu đầu tiên: \"Ultraviolet, or UV, radiation is a type of energy...\". Từ \"It\" đóng vai trò chủ ngữ thay thế trực tiếp cho loại năng lượng/bức xạ được giới thiệu ngay trước đó (ultraviolet radiation)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, when does the UV index tend to be higher?",
+      "options": {
+       "A": "Around midday, in summer, at high altitudes, or near reflective surfaces",
+       "B": "Only during the early morning hours before most people wake up",
+       "C": "Only in regions located very far from the Earth's equator",
+       "D": "Exclusively during winter months in areas that receive heavy snowfall"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"UV index\", \"higher\" ở đoạn 5. Tìm đoạn danh sách các điều kiện khiến chỉ số UV tăng lên: vào giữa ngày, mùa hè, độ cao lớn, hoặc gần các bề mặt phản xạ như nước và tuyết."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about checking the UV index before going outside?",
+      "options": {
+       "A": "It can help families make more informed choices about sun protection",
+       "B": "It has replaced the need for wearing sunscreen entirely",
+       "C": "It is only useful for people who already have skin conditions",
+       "D": "It guarantees complete protection from all UV-related skin damage"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đọc đoạn cuối về chỉ số UV index. Tác giả so sánh thói quen kiểm tra UV index giống như xem dự báo thời tiết, giúp mọi người dễ dàng đưa ra quyết định thông minh hơn để bảo vệ sức khỏe gia đình trước khi ra ngoài. Tìm phương án phản ánh đúng bản chất suy luận này."
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall purpose in writing this passage?",
+      "options": {
+       "A": "To criticize weather services for reporting an inaccurate daily UV index",
+       "B": "To argue that sunscreen is unnecessary for most healthy people",
+       "C": "To promote a single specific brand of sunscreen over all others",
+       "D": "To explain UV radiation's effects and offer practical sun protection advice Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích mục tiêu tổng thể của toàn bài văn. Tác giả cung cấp kiến thức khoa học cơ bản về tia UV (tác hại, lợi ích) đồng thời đưa ra các hướng dẫn mang tính thực tiễn (dùng kem chống nắng, theo dõi UV index). Do đó, mục đích chính là giải thích ảnh hưởng của bức xạ UV và đưa ra lời khuyên bảo vệ da thiết thực."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và câu kết thúc của các đoạn để nắm bức tranh tổng thể: Đoạn 1 giới thiệu tia UV gây cháy nắng; Đoạn 2 nêu các tác hại lâu dài như lão hóa sớm và ung thư da; Đoạn 3 cân bằng lại bằng cách trình bày lợi ích giúp tổng hợp vitamin D; Đoạn 4 & 5 đưa ra giải pháp bảo vệ da và cách theo dõi chỉ số UV index. Lựa chọn phương án bao quát cả hai mặt lợi - hại của tia UV cùng lời khuyên bảo vệ da an toàn, tránh chọn các phương án mang tính cực đoan hoặc quá hẹp.\n- **Dạng câu hỏi Chi tiết (R1Q2 - R1Q3 & R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa):\n  - Với **R1Q2**, quét các từ khóa \"doctors\", \"long-term sun exposure\" ở đoạn 2. Đoạn văn nêu rõ bác sĩ tìm thấy mối liên hệ giữa việc tiếp xúc với ánh nắng lâu dài không bảo vệ với sự lão hóa da sớm (nếp nhăn, tàn nhang) và nguy cơ ung thư da cao hơn.\n  - Với **R1Q3**, quét từ khóa \"small amount\", \"helpful\" hoặc \"vitamin D\" ở đoạn 3. Đoạn văn chỉ ra tiếp xúc vừa phải giúp cơ thể sản sinh vitamin D, hỗ trợ xương chắc khỏe và hệ miễn dịch.\n  - Với **R1Q8**, quét cụm từ \"UV index\", \"higher\" ở đoạn 5. Tìm đoạn danh sách các điều kiện khiến chỉ số UV tăng lên: vào giữa ngày, mùa hè, độ cao lớn, hoặc gần các bề mặt phản xạ như nước và tuyết.\n- **Dạng câu hỏi Loại trừ NOT (R1Q4):** Đọc quét đoạn 4 danh sách các biện pháp giảm thiểu rủi ro UV được nhắc đến: ở trong bóng râm vào giữa ngày (shade), thoa kem chống nắng (sunscreen), mặc áo dài tay và đội nón rộng vành (long sleeves and wide-brimmed hat). Hãy tìm phương án đề cập đến hành động/phương pháp không hề được nêu trong đoạn văn (như việc uống thực phẩm bổ sung thay thế).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q5 - R1Q6):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R1Q5**, từ **\"damage\"** trong đoạn 2 mô tả ảnh hưởng tiêu cực của tia UV đến tế bào da gây ra lão hóa và ung thư. Do đó, từ này mang sắc thái gây hại, tổn thương (harm).\n  - Với **R1Q6**, từ **\"reliable\"** trong đoạn 4 mô tả hiệu quả bảo vệ của kem chống nắng khi được thoa lại thường xuyên. Sắc thái ở đây mang tính đáng tin cậy, an toàn, ổn định (dependable).\n- **Dạng câu hỏi Quy chiếu (R1Q7):** Tìm đại từ **\"It\"** ở câu hai của đoạn 1. Áp dụng quy tắc đọc ngược lại câu đầu tiên: \"Ultraviolet, or UV, radiation is a type of energy...\". Từ \"It\" đóng vai trò chủ ngữ thay thế trực tiếp cho loại năng lượng/bức xạ được giới thiệu ngay trước đó (ultraviolet radiation).\n- **Dạng câu hỏi Suy luận (R1Q9):** Đọc đoạn cuối về chỉ số UV index. Tác giả so sánh thói quen kiểm tra UV index giống như xem dự báo thời tiết, giúp mọi người dễ dàng đưa ra quyết định thông minh hơn để bảo vệ sức khỏe gia đình trước khi ra ngoài. Tìm phương án phản ánh đúng bản chất suy luận này.\n- **Dạng câu hỏi Mục đích của tác giả (R1Q10):** Phân tích mục tiêu tổng thể của toàn bài văn. Tác giả cung cấp kiến thức khoa học cơ bản về tia UV (tác hại, lợi ích) đồng thời đưa ra các hướng dẫn mang tính thực tiễn (dùng kem chống nắng, theo dõi UV index). Do đó, mục đích chính là giải thích ảnh hưởng của bức xạ UV và đưa ra lời khuyên bảo vệ da thiết thực.\nLời khuyên: Ưu tiên giải quyết nhanh các câu hỏi quy chiếu Quy chiếu (R1Q7) và Từ vựng (R1Q5, R1Q6). Sau đó tiến hành đọc quét thông tin để hoàn thành chính xác nhóm **Chi tiết** (R1Q2, R1Q3, R1Q8) và **Loại trừ** (R1Q4). Cuối cùng, tổng hợp mạch nội dung chính để trả lời chính xác các câu hỏi tổng quát như **Suy luận** (R1Q9), **Ý chính** (R1Q1) và **Mục đích** của tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Sugary Beverages and the Rise of Childhood Obesity",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Rates of childhood obesity have climbed steadily in many countries over the past few decades, and public health researchers increasingly point to one dietary factor as a particularly influential contributor: the regular consumption of sugar-sweetened beverages. Sodas, sweetened juices, and flavored milk drinks now make up a substantial share of many children's daily caloric intake, a shift that has occurred alongside, and some researchers argue partly because of, aggressive marketing aimed specifically at young audiences.",
+     "What makes sugary drinks especially concerning, from a nutritional standpoint, is not simply their calorie content but how the body processes those calories. Unlike calories consumed through solid food, calories from sweetened beverages tend not to trigger the same feeling of fullness, meaning children who drink a sugary beverage with a meal often go on to consume roughly the same amount of solid food they would have eaten anyway. The additional liquid calories, in other words, are frequently consumed on top of normal food intake rather than replacing it, a pattern that several long-term studies have linked to steady, cumulative weight gain over time.",
+     "Marketing practices have drawn particular **scrutiny** in recent years. Beverage companies have long directed a disproportionate share of advertising toward children and adolescents, using bright packaging, popular characters, and messaging strategically placed on television programs and websites that young audiences frequent. Industry representatives have generally maintained that **such marketing** merely builds brand awareness rather than directly driving consumption; public health advocates, by contrast, argue that repeated exposure to this kind of advertising measurably shapes children's beverage preferences well before they are old enough to critically evaluate the claims being made.",
+     "In response to mounting evidence, a number of governments have introduced policies specifically targeting sugar-sweetened beverages. Several countries and cities have implemented taxes on sugary drinks, calculated either by volume or by sugar content, with the explicit goal of discouraging consumption through higher prices. Early evaluations of these taxes have generally found modest reductions in purchasing, though researchers remain divided over how much of that reduction reflects a genuine decline in consumption versus consumers simply switching to untaxed alternatives that may carry similarly high sugar content.",
+     "Schools represent another frequent site of policy intervention, since children often obtain a meaningful share of their daily beverage intake through school cafeterias and vending machines. Many school districts have removed sugary drinks from vending machines entirely or replaced them with water, plain milk, and unsweetened alternatives. **Compliance** with these policies, however, varies considerably from district to district, and some researchers caution that removing sugary drinks from school settings alone accomplishes relatively little if children simply increase their consumption at home to compensate.",
+     "Socioeconomic disparities further complicate the broader picture. Children from lower-income households are, according to several studies, disproportionately likely to consume sugar-sweetened beverages regularly, a pattern researchers attribute to a combination of factors: sugary drinks are often cheaper per calorie than healthier alternatives, are more heavily marketed in lower-income neighborhoods, and are more readily available in areas with limited access to fresh food. These same communities, researchers note, frequently have less access to the parks, recreational facilities, and safe outdoor spaces that might otherwise help offset excess caloric intake through physical activity.",
+     "Taken together, the accumulated research suggests that addressing childhood obesity through beverage policy alone is unlikely to prove sufficient. Reducing sugary drink consumption, most public health experts now agree, works best as one component of a broader strategy that also addresses food marketing, physical activity access, and the underlying economic pressures that shape what families are realistically able to afford."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Sugary drink taxes have already eliminated childhood obesity in every country that adopted them",
+       "B": "School vending machine policies alone have fully resolved the childhood obesity problem",
+       "C": "Marketing has no measurable effect whatsoever on children's beverage preferences or consumption",
+       "D": "Sugary beverages contribute meaningfully to childhood obesity, but policy alone cannot fully solve it"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu đầu tiên của đoạn 1 để nắm chủ đề chính (sự gia tăng tỷ lệ béo phì ở trẻ em và đồ uống có đường) và kết hợp đọc đoạn cuối cùng (đoạn 7) để lấy kết luận tổng thể của tác giả: việc giải quyết béo phì thông qua chính sách đồ uống độc lập là chưa đủ mà cần một chiến lược toàn diện hơn. Chọn phương án phản ánh được bức tranh toàn cảnh này thay vì các nhận định cực đoan hoặc quá hẹp."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why are liquid calories from sugary drinks considered especially concerning?",
+      "options": {
+       "A": "They often fail to trigger fullness, so children eat about the same solid food anyway",
+       "B": "They are absorbed into the bloodstream much more slowly than calories from solid foods",
+       "C": "They are typically consumed as a complete substitute for a balanced daily solid meal",
+       "D": "They contain a distinct form of sugar that is chemically absent from solid food sources"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"liquid calories\" hoặc \"fullness\" ở đoạn 2. Quan sát cách cơ thể xử lý calo dạng lỏng so with thức ăn đặc (không tạo cảm giác no, dẫn đến việc trẻ vẫn ăn cùng lượng thức ăn rắn đó)."
+     },
+     {
+      "number": 13,
+      "stem": "According to the passage, how do industry representatives and public health advocates differ in their view of beverage marketing aimed at children?",
+      "options": {
+       "A": "Both groups agree marketing directly and substantially increases beverage consumption",
+       "B": "Industry admits it drives consumption directly; advocates argue it has no real effect",
+       "C": "Industry says it builds brand awareness; advocates say it shapes preferences early on",
+       "D": "Both groups agree marketing has no measurable influence on children's preferences"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"industry representatives\" và \"public health advocates\" ở đoạn 3. So sánh đối chiếu lập luận hai bên: đại diện ngành cho rằng quảng cáo chỉ xây dựng nhận diện thương hiệu (\"brand awareness\"), trong khi các nhà định hướng sức khỏe lập luận rằng quảng cáo định hình sự yêu thích đồ uống của trẻ từ sớm."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason lower-income households consume more sugary drinks?",
+      "options": {
+       "A": "Fresh food access tends to be more limited in these areas",
+       "B": "Government subsidies specifically fund sugary drink purchases there",
+       "C": "Sugary drinks are often cheaper per calorie than healthier options",
+       "D": "Sugary drinks are more heavily marketed in these neighborhoods"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét đoạn 6 để tìm các nguyên nhân khiến hộ gia đình thu nhập thấp tiêu thụ nhiều đồ uống có đường hơn: giá thành rẻ hơn trên mỗi calo, tần suất quảng cáo dày đặc hơn ở khu vực này, và khả năng tiếp cận thực phẩm tươi sống bị hạn chế. Đối soát kỹ để tìm ra phương án chứa thông tin không hề được nhắc tới trong đoạn văn."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"scrutiny\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "secrecy",
+       "B": "scarcity",
+       "C": "approval",
+       "D": "examination"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"scrutiny\" ở đoạn 3 mô tả phản ứng của công chúng và giới chuyên gia đối với hành vi quảng cáo nhắm vào trẻ em. Ngữ cảnh này thể hiện sự xem xét, kiểm tra kỹ lưỡng (examination)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"compliance\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "adherence",
+       "B": "resistance",
+       "C": "complexity",
+       "D": "complaint"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"compliance\" ở đoạn 5 mô tả mức độ thực hiện/tuân thủ các quy định cấm bán đồ uống có đường tại các khu vực trường học khác nhau. Ngữ cảnh này đồng nghĩa với sự tuân thủ, chấp hành (adherence)."
+     },
+     {
+      "number": 17,
+      "stem": "The phrase \"such marketing\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "long-term scientific studies linking sugary drinks to steady cumulative weight gain over time",
+       "B": "advertising using bright packaging and popular characters aimed at children",
+       "C": "government tax systems calculated strictly by beverage volume or added sugar content",
+       "D": "school policies focused on replacing sugary drinks with plain milk and unsweetened options"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tìm cụm từ \"such marketing\" ở giữa đoạn 3. Áp dụng quy tắc đọc ngược lại câu phía trước để xác định hành vi được nhắc tới: việc các công ty đồ uống sử dụng bao bì màu sắc, nhân vật nổi tiếng và đặt thông điệp quảng cáo trên các chương trình truyền hình/trang web mà trẻ em hay truy cập."
+     },
+     {
+      "number": 18,
+      "stem": "What concern do researchers raise about relying on taxes and school policies alone?",
+      "options": {
+       "A": "These policies have already proven entirely successful across all implementation sites nationwide",
+       "B": "Taxation consistently leads to an unexpected surge in overall sugary drink purchases",
+       "C": "Consumers or children may simply shift consumption to untaxed drinks or home settings",
+       "D": "School boards have uniformly rejected the enforcement of vending machine restrictions"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa về mối quan ngại đối với chính sách thuế và trường học ở đoạn 4 & 5. Đoạn văn chỉ ra rủi ro khi người tiêu dùng/trẻ em chuyển sang tiêu thụ các lựa chọn không bị đánh thuế hoặc tăng tiêu thụ ở nhà để bù đắp."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraph 6 about why beverage policy alone may not resolve disparities in childhood obesity?",
+      "options": {
+       "A": "Sugary drink consumption represents the sole dietary difference between varied income groups",
+       "B": "Lower-income families maintain a strong preference for sugary drinks regardless of pricing shifts",
+       "C": "Underlying economic and environmental factors extend well beyond beverage choice alone",
+       "D": "Recreational facilities and safe outdoor spaces are already distributed evenly across communities"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp các dữ kiện ở đoạn 6 về rào cản tài chính, không gian vận động thể chất hạn chế và khả năng tiếp cận thực phẩm tươi. Từ đó suy luận rằng vấn đề chênh lệch tỷ lệ béo phì xuất phát từ các yếu tố kinh tế và môi trường rộng lớn hơn rất nhiều so with chỉ riêng sự lựa chọn đồ uống."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's overall purpose in writing this passage?",
+      "options": {
+       "A": "To prove that sugary drink taxation is the single most effective health policy available",
+       "B": "To examine how sugary drinks contribute to childhood obesity and evaluate policy responses",
+       "C": "To criticize parents directly for allowing children to consume sugar-sweetened beverages",
+       "D": "To argue that beverage corporations bear zero accountability for current health trends Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Xem xét cấu trúc toàn bài văn: bài viết vừa phân tích cơ chế tác động của đồ uống có đường đến béo phì ở trẻ em, vừa xem xét và đánh giá tính hiệu quả cũng như hạn chế của các chính sách can thiệp (thuế, trường học, môi trường). Lựa chọn phương án miêu tả đúng mục đích phân tích và đánh giá khách quan này."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu đầu tiên của đoạn 1 để nắm chủ đề chính (sự gia tăng tỷ lệ béo phì ở trẻ em và đồ uống có đường) và kết hợp đọc đoạn cuối cùng (đoạn 7) để lấy kết luận tổng thể của tác giả: việc giải quyết béo phì thông qua chính sách đồ uống độc lập là chưa đủ mà cần một chiến lược toàn diện hơn. Chọn phương án phản ánh được bức tranh toàn cảnh này thay vì các nhận định cực đoan hoặc quá hẹp.\n- **Dạng câu hỏi Chi tiết (R2Q2 - R2Q3 & R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R2Q2**, quét từ khóa \"liquid calories\" hoặc \"fullness\" ở đoạn 2. Quan sát cách cơ thể xử lý calo dạng lỏng so with thức ăn đặc (không tạo cảm giác no, dẫn đến việc trẻ vẫn ăn cùng lượng thức ăn rắn đó).\n  - Với **R2Q3**, quét từ khóa \"industry representatives\" và \"public health advocates\" ở đoạn 3. So sánh đối chiếu lập luận hai bên: đại diện ngành cho rằng quảng cáo chỉ xây dựng nhận diện thương hiệu (\"brand awareness\"), trong khi các nhà định hướng sức khỏe lập luận rằng quảng cáo định hình sự yêu thích đồ uống của trẻ từ sớm.\n  - Với **R2Q8**, quét các từ khóa về mối quan ngại đối với chính sách thuế và trường học ở đoạn 4 & 5. Đoạn văn chỉ ra rủi ro khi người tiêu dùng/trẻ em chuyển sang tiêu thụ các lựa chọn không bị đánh thuế hoặc tăng tiêu thụ ở nhà để bù đắp.\n- **Dạng câu hỏi Loại trừ NOT (R2Q4):** Đọc quét đoạn 6 để tìm các nguyên nhân khiến hộ gia đình thu nhập thấp tiêu thụ nhiều đồ uống có đường hơn: giá thành rẻ hơn trên mỗi calo, tần suất quảng cáo dày đặc hơn ở khu vực này, và khả năng tiếp cận thực phẩm tươi sống bị hạn chế. Đối soát kỹ để tìm ra phương án chứa thông tin không hề được nhắc tới trong đoạn văn.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q5 - R2Q6):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R2Q5**, từ **\"scrutiny\"** ở đoạn 3 mô tả phản ứng của công chúng và giới chuyên gia đối với hành vi quảng cáo nhắm vào trẻ em. Ngữ cảnh này thể hiện sự xem xét, kiểm tra kỹ lưỡng (examination).\n  - Với **R2Q6**, từ **\"compliance\"** ở đoạn 5 mô tả mức độ thực hiện/tuân thủ các quy định cấm bán đồ uống có đường tại các khu vực trường học khác nhau. Ngữ cảnh này đồng nghĩa với sự tuân thủ, chấp hành (adherence).\n- **Dạng câu hỏi Quy chiếu (R2Q7):** Tìm cụm từ **\"such marketing\"** ở giữa đoạn 3. Áp dụng quy tắc đọc ngược lại câu phía trước để xác định hành vi được nhắc tới: việc các công ty đồ uống sử dụng bao bì màu sắc, nhân vật nổi tiếng và đặt thông điệp quảng cáo trên các chương trình truyền hình/trang web mà trẻ em hay truy cập.\n- **Dạng câu hỏi Suy luận (R2Q9):** Kết hợp các dữ kiện ở đoạn 6 về rào cản tài chính, không gian vận động thể chất hạn chế và khả năng tiếp cận thực phẩm tươi. Từ đó suy luận rằng vấn đề chênh lệch tỷ lệ béo phì xuất phát từ các yếu tố kinh tế và môi trường rộng lớn hơn rất nhiều so with chỉ riêng sự lựa chọn đồ uống.\n- **Dạng câu hỏi Mục đích của tác giả (R2Q10):** Xem xét cấu trúc toàn bài văn: bài viết vừa phân tích cơ chế tác động của đồ uống có đường đến béo phì ở trẻ em, vừa xem xét và đánh giá tính hiệu quả cũng như hạn chế của các chính sách can thiệp (thuế, trường học, môi trường). Lựa chọn phương án miêu tả đúng mục đích phân tích và đánh giá khách quan này.\nLời khuyên: Hãy bắt đầu bằng cách xử lý nhanh các câu hỏi kiểm tra từ vựng và quy chiếu như Quy chiếu (R2Q7), Từ vựng (R2Q5, R2Q6). Tiếp theo, tận dụng kỹ năng đọc quét để xử lý chính xác nhóm câu hỏi Chi tiết (R2Q2, R2Q3, R2Q8) và **Loại trừ** (R2Q4). Cuối cùng, liên kết logic toàn bài để hoàn thành các câu đòi hỏi tư duy tổng hợp gồm **Suy luận** (R2Q9), **Mục đích tác giả** (R2Q10) và **Ý chính** (R2Q1)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Detecting Distant Worlds: Exoplanets and the Question of Habitability",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Confirmed discoveries of planets orbiting stars beyond our own sun have accelerated dramatically since the first such detection in the early 1990s, with astronomers now cataloguing several thousand confirmed exoplanets and thousands more candidates awaiting verification. This surge has renewed a much older question in a considerably more concrete form: rather than speculating abstractly about life elsewhere, researchers can now examine specific, real planets and ask whether conditions there might plausibly support it.",
+     "Two detection methods account for the overwhelming majority of confirmed exoplanets, and each carries its own built-in bias. The transit method identifies planets by measuring the tiny, periodic dip in a star's brightness as an orbiting planet passes in front of it; this technique favors planets with orbits aligned so precisely with our line of sight that a transit is even visible, and it works best for planets that orbit close to their star, since closer orbits produce more frequent, easily confirmed transits. The radial velocity method instead detects the slight gravitational wobble a planet induces in its star, a technique that favors especially massive planets, since smaller worlds produce a wobble too subtle to reliably measure with current instruments.",
+     "Central to the search for habitability is the concept of the habitable zone, the range of distances from a star within which a rocky planet could plausibly maintain liquid water on its surface. This concept, however, is considerably less straightforward than early popular accounts suggested. A planet's actual habitability depends on its atmosphere, its geological activity, and the specific type of star it orbits — planets orbiting small, dim red dwarf stars, for instance, must orbit so closely to remain within the habitable zone that they frequently become tidally locked, permanently presenting one hemisphere to their star, a configuration whose implications for habitability remain genuinely debated among specialists.",
+     "Confirming that a planet actually harbors life, as opposed to merely occupying a promising orbit, requires detecting so-called biosignatures — atmospheric gases whose presence would be difficult to explain without biological activity. Oxygen and methane occurring together are frequently cited as a promising combination, since the two gases react with each other and would not be expected to coexist in significant quantities without some ongoing process **replenishing** them. Yet this apparent signature is not unambiguous: several purely geological or photochemical processes, researchers have shown, can under certain conditions generate similar atmospheric signatures without any biological activity whatsoever, meaning a detected signature alone cannot be treated as decisive proof.",
+     "The James Webb Space Telescope, launched in 2021, has meaningfully advanced this search by analyzing the light that filters through a transiting planet's atmosphere during a transit, revealing which gases that atmosphere contains. Its instruments have already characterized the atmospheres of several large, close-orbiting exoplanets in considerable detail. Detecting comparable signals from smaller, Earth-sized planets, however, remains substantially more difficult, since such planets block far less starlight and produce correspondingly fainter atmospheric signals — a limitation that several astronomers argue will not be fully overcome until a new generation of even more sensitive instruments becomes operational.",
+     "The TRAPPIST-1 system, discovered in 2017, illustrates both the promise and the complications this search regularly encounters. Seven roughly Earth-sized planets orbit a single red dwarf star, with as many as three positioned within the habitable zone — an unusually favorable arrangement for a single planetary system. Red dwarf stars, however, are also prone to powerful stellar flares considerably more frequent than those our own sun produces, and several researchers have argued that such flares may have stripped away the atmospheres of TRAPPIST-1's inner planets long ago, potentially undermining the very habitability their orbital position would otherwise suggest.",
+     "Statistical **extrapolation** from these findings paints a striking picture at the galactic scale. Data gathered by the Kepler space telescope suggest that potentially rocky, habitable-zone planets could number in the billions across our galaxy alone, a figure that has reshaped how researchers frame the search for life. Despite this apparent statistical abundance, however, no research team has yet reported a confirmed biosignature detection, a gap between statistical promise and observational confirmation that most researchers in the field describe candidly as one of its central, unresolved tensions."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Exoplanet research has conclusively proved that habitability is widespread across nearby galaxies",
+       "B": "Exoplanet detection has advanced greatly, yet confirming actual habitability remains genuinely uncertain",
+       "C": "Red dwarf stars have been shown to be universally hostile to any form of planetary life",
+       "D": "Technological limitations have made traditional transit methods completely obsolete for current astronomy"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Kết hợp đọc đoạn 1 (sự phát triển vượt bậc trong phát hiện exoplanet) và đoạn cuối (khoảng cách giữa dự đoán thống kê và bằng chứng xác thực) để nắm thông điệp chính: dù công nghệ phát hiện exoplanet tiến bộ vượt bậc nhưng việc xác nhận sự sống/khả năng sống được vẫn còn nhiều hoài nghi và bất định. Lựa chọn phương án phản ánh được tính hai mặt này."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why does the transit method tend to favor planets that orbit close to their star?",
+      "options": {
+       "A": "Closer orbits reduce the total brightness dip that a transit produces",
+       "B": "Closer orbits make a planet's gravitational wobble easier for instruments to detect",
+       "C": "Closer orbits produce more frequent transits, which are easier to confirm reliably",
+       "D": "Closer orbits allow astronomers to photograph a planet's surface directly"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"transit method\", \"orbit close\" ở đoạn 2. Đoạn văn giải thích rõ các hành tinh có quỹ đạo gần sao chủ sẽ tạo ra các lần quá cảnh (transits) thường xuyên hơn, giúp việc xác nhận trở nên dễ dàng và đáng tin cậy hơn."
+     },
+     {
+      "number": 23,
+      "stem": "According to the passage, why can the presence of oxygen and methane together not be treated as decisive proof of life?",
+      "options": {
+       "A": "Modern observational instruments remain incapable of detecting chemical compound signatures in remote space",
+       "B": "Neither gas has ever been identified within any extra-solar planetary atmosphere to date",
+       "C": "Certain geological or photochemical processes can also generate a similar signature",
+       "D": "These specific chemical compounds inherently neutralize each other whenever they come into direct contact"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"oxygen and methane\", \"decisive proof\" ở đoạn 4. Chú ý đến lý do được tác giả nêu: một số quá trình địa chất (geological) hoặc quang hóa (photochemical) thuần túy cũng có thể tạo ra sự kết hợp khí tương tự mà không cần đến hoạt động sinh học."
+     },
+     {
+      "number": 24,
+      "stem": "According to the passage, which of the following is NOT mentioned as true of the James Webb Space Telescope?",
+      "options": {
+       "A": "It has successfully provided detailed spectral analyses for multiple large, close-orbiting exoplanets",
+       "B": "It evaluates starlight filtering through planetary atmospheres during transiting orbital events",
+       "C": "It can easily detect atmospheric signals from small, Earth-sized planets",
+       "D": "It was officially deployed and launched into service by international space agencies in 2021"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét đoạn 5 về kính thiên văn James Webb (JWST). Đoạn văn nêu rõ JWST hoạt động từ năm 2021, phân tích ánh sáng qua khí quyển hành tinh và đã phân tích chi tiết các hành tinh lớn. Tuy nhiên, việc phát hiện tín hiệu từ các hành tinh nhỏ cỡ Trái Đất (Earth-sized planets) vẫn rất khó khăn (substantially more difficult). Phương án khẳng định nó \"dễ dàng phát hiện hành tinh nhỏ\" chính là thông tin sai lệch so with bài đọc."
+     },
+     {
+      "number": 25,
+      "stem": "The word \"replenishing\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "resembling",
+       "B": "revealing",
+       "C": "restocking",
+       "D": "removing"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"replenishing\" ở đoạn 4 mô tả quá trình liên tục cung cấp/bổ sung lại lượng khí oxy và mê-tan vốn phản ứng và phân hủy lẫn nhau. Từ này đồng nghĩa với việc làm đầy lại, bổ sung (restocking)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"extrapolation\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "projection",
+       "B": "exaggeration",
+       "C": "exploration",
+       "D": "confirmation"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"extrapolation\" ở đoạn 7 đề cập đến việc từ các dữ liệu thu được của kính Kepler, các nhà khoa học suy đoán/dự báo quy mô ra toàn ngân hà. Từ này mang nghĩa dự đoán, suy rộng (projection)."
+     },
+     {
+      "number": 27,
+      "stem": "The phrase \"such flares\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "the specific orbital placements of planets located directly inside theoretical habitable zones",
+       "B": "the collection of Earth-sized worlds discovered orbiting around the TRAPPIST-1 system",
+       "C": "the atmospheric gas compositions measured during planetary transit analyses",
+       "D": "the powerful stellar flares more frequent than the sun's own flares"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tìm cụm từ \"such flares\" ở đoạn 6. Đọc ngược lại câu trước đó để xác định danh từ được thay thế: câu trước nhắc đến các cú bùng phát năng lượng sao lùn đỏ (\"stellar flares\") với tần suất và cường độ lớn hơn nhiều so with Mặt Trời của chúng ta."
+     },
+     {
+      "number": 28,
+      "stem": "What complication do red dwarf stars pose for evaluating a planet's habitability?",
+      "options": {
+       "A": "Their extreme gravitational wobble prevents astronomers from measuring orbital parameters accurately",
+       "B": "Their surrounding habitable regions are theoretically incapable of supporting solid terrestrial bodies",
+       "C": "Their habitable-zone planets may face tidal locking and atmosphere-stripping stellar flares",
+       "D": "Their distance from Earth prevents ground-based observatories from recording any clear optical data"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"red dwarf stars\", \"habitability\" ở đoạn 3 và đoạn 6. Tìm kiếm các trở ngại liên quan đến sao lùn đỏ: hiện tượng khóa thủy triều (tidal locking) và các bùng bùng phát sao (stellar flares) mạnh có thể làm bốc hơi khí quyển."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraph 7 about the current state of the search for life on other planets?",
+      "options": {
+       "A": "The Kepler telescope has directly detected life on several rocky planets",
+       "B": "Statistical potential remains far ahead of any confirmed observational evidence so far",
+       "C": "Most researchers now consider the search for biosignatures essentially complete",
+       "D": "Researchers have already confirmed multiple biosignatures across several galaxy regions"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đọc đoạn 7 về sự chênh lệch giữa số lượng hành tinh tiềm năng trên lý thuyết (hàng tỷ hành tinh) và thực tế chưa có bất kỳ phát hiện dấu hiệu sinh học (biosignature) nào được xác nhận. Từ đó suy luận rằng tiềm năng thống kê hiện vẫn đi xa hơn rất nhiều so with bằng chứng quan sát thực tế."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's overall attitude toward claims of confirmed life-bearing exoplanets?",
+      "options": {
+       "A": "Uninvolved and neutral, avoiding any direct assessment of recent observational achievements",
+       "B": "Entirely optimistic, accepting initial biosignature signals as definitive proof of alien life",
+       "C": "Highly skeptical, viewing exoplanet habitability research as largely ungrounded scientific speculation",
+       "D": "Cautious, emphasizing genuine progress alongside significant remaining scientific uncertainty Reading"
+      },
+      "answer": "D",
+      "type_hint": "Thái độ của tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Phân tích giọng văn xuyên suốt bài đọc. Tác giả ghi nhận những bước tiến lớn của khoa học (kính JWST, hệ TRAPPIST-1) nhưng luôn đi kèm với việc chỉ ra các giới hạn công nghệ, tính mơ hồ của dữ liệu và thách thức chưa lời giải. Giọng văn này thể hiện thái độ cẩn trọng (cautious), vừa đánh giá cao sự tiến bộ vừa thừa nhận những yếu tố chưa chắc chắn."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Kết hợp đọc đoạn 1 (sự phát triển vượt bậc trong phát hiện exoplanet) và đoạn cuối (khoảng cách giữa dự đoán thống kê và bằng chứng xác thực) để nắm thông điệp chính: dù công nghệ phát hiện exoplanet tiến bộ vượt bậc nhưng việc xác nhận sự sống/khả năng sống được vẫn còn nhiều hoài nghi và bất định. Lựa chọn phương án phản ánh được tính hai mặt này.\n- **Dạng câu hỏi Chi tiết (R3Q2 - R3Q3 & R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa):\n  - Với **R3Q2**, quét các từ khóa \"transit method\", \"orbit close\" ở đoạn 2. Đoạn văn giải thích rõ các hành tinh có quỹ đạo gần sao chủ sẽ tạo ra các lần quá cảnh (transits) thường xuyên hơn, giúp việc xác nhận trở nên dễ dàng và đáng tin cậy hơn.\n  - Với **R3Q3**, quét từ khóa \"oxygen and methane\", \"decisive proof\" ở đoạn 4. Chú ý đến lý do được tác giả nêu: một số quá trình địa chất (geological) hoặc quang hóa (photochemical) thuần túy cũng có thể tạo ra sự kết hợp khí tương tự mà không cần đến hoạt động sinh học.\n  - Với **R3Q8**, quét từ khóa \"red dwarf stars\", \"habitability\" ở đoạn 3 và đoạn 6. Tìm kiếm các trở ngại liên quan đến sao lùn đỏ: hiện tượng khóa thủy triều (tidal locking) và các bùng bùng phát sao (stellar flares) mạnh có thể làm bốc hơi khí quyển.\n- **Dạng câu hỏi Loại trừ NOT (R3Q4):** Đọc quét đoạn 5 về kính thiên văn James Webb (JWST). Đoạn văn nêu rõ JWST hoạt động từ năm 2021, phân tích ánh sáng qua khí quyển hành tinh và đã phân tích chi tiết các hành tinh lớn. Tuy nhiên, việc phát hiện tín hiệu từ các hành tinh nhỏ cỡ Trái Đất (Earth-sized planets) vẫn rất khó khăn (substantially more difficult). Phương án khẳng định nó \"dễ dàng phát hiện hành tinh nhỏ\" chính là thông tin sai lệch so with bài đọc.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q5 - R3Q6):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R3Q5**, từ **\"replenishing\"** ở đoạn 4 mô tả quá trình liên tục cung cấp/bổ sung lại lượng khí oxy và mê-tan vốn phản ứng và phân hủy lẫn nhau. Từ này đồng nghĩa với việc làm đầy lại, bổ sung (restocking).\n  - Với **R3Q6**, từ **\"extrapolation\"** ở đoạn 7 đề cập đến việc từ các dữ liệu thu được của kính Kepler, các nhà khoa học suy đoán/dự báo quy mô ra toàn ngân hà. Từ này mang nghĩa dự đoán, suy rộng (projection).\n- **Dạng câu hỏi Quy chiếu (R3Q7):** Tìm cụm từ **\"such flares\"** ở đoạn 6. Đọc ngược lại câu trước đó để xác định danh từ được thay thế: câu trước nhắc đến các cú bùng phát năng lượng sao lùn đỏ (\"stellar flares\") với tần suất và cường độ lớn hơn nhiều so with Mặt Trời của chúng ta.\n- **Dạng câu hỏi Suy luận (R3Q9):** Đọc đoạn 7 về sự chênh lệch giữa số lượng hành tinh tiềm năng trên lý thuyết (hàng tỷ hành tinh) và thực tế chưa có bất kỳ phát hiện dấu hiệu sinh học (biosignature) nào được xác nhận. Từ đó suy luận rằng tiềm năng thống kê hiện vẫn đi xa hơn rất nhiều so with bằng chứng quan sát thực tế.\n- **Dạng câu hỏi Thái độ của tác giả (R3Q10):** Phân tích giọng văn xuyên suốt bài đọc. Tác giả ghi nhận những bước tiến lớn của khoa học (kính JWST, hệ TRAPPIST-1) nhưng luôn đi kèm với việc chỉ ra các giới hạn công nghệ, tính mơ hồ của dữ liệu và thách thức chưa lời giải. Giọng văn này thể hiện thái độ cẩn trọng (cautious), vừa đánh giá cao sự tiến bộ vừa thừa nhận những yếu tố chưa chắc chắn.\nLời khuyên: Xử lý nhanh các câu hỏi yêu cầu định vị chính xác như Quy chiếu (R3Q7) và Từ vựng (R3Q5, R3Q6). Tận dụng kỹ thuật quét từ khóa để giải quyết nhóm câu hỏi **Chi tiết** (R3Q2, R3Q3, R3Q8) và **Loại trừ** (R3Q4). Sau cùng, xâu chuỗi thông tin toàn bài để lựa chọn đáp án chuẩn xác cho các câu tổng hợp như **Suy luận** (R3Q9), **Thái độ tác giả** (R3Q10) và **Ý chính** (R3Q1)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Diverging Climate Trajectories Across Europe",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Europe, taken as a whole, has warmed measurably faster than the global average over recent decades, a finding well supported by observational records. What this continental-scale figure obscures, however, is that the underlying regional experience of that warming is anything but uniform: a farmer in southern Spain and a fisherman in northern Norway are, in meaningful respects, contending with almost entirely different climatic trajectories, unified mainly by the shared statistical trend that made headlines.",
+     "Southern and Mediterranean Europe illustrate one end of this divergence particularly starkly. Prolonged drought conditions, once considered periodic and recoverable, have in several Mediterranean regions become sufficiently persistent that agricultural planners now describe them as approaching a structural rather than a cyclical feature of the regional climate. Rising summer temperatures have compounded this pressure, extending wildfire seasons considerably beyond their historical bounds and placing increasing strain on water resources already stretched thin by agricultural and tourism demand alike.",
+     "Northern and western Europe present an almost inverted picture. Rather than drying, several of these regions have experienced measurably increased winter precipitation, a pattern several climate scientists tentatively link to shifts in the jet stream's typical path, though the precise mechanism connecting a warming Arctic to these specific shifts remains, by the field's own admission, incompletely understood. The practical consequence has nonetheless been concrete: several northern European countries have recorded a marked rise in river flooding events over the past two decades, straining infrastructure originally designed for a considerably drier baseline.",
+     "Mountain regions, meanwhile, face a distinct set of pressures tied less to precipitation patterns than to temperature alone. Alpine glaciers have retreated at a pace that has accelerated markedly since the 1980s, a trend with consequences reaching well beyond the mountains themselves, since meltwater from these glaciers historically sustained river flow through the drier summer months for tens of millions of people living downstream. Exactly how much further this retreat will progress depends heavily on which emissions trajectory the world ultimately follows, a dependency that leaves glaciologists able to offer only a plausible range of outcomes rather than a single confident projection; some downstream communities have already begun adapting their water storage infrastructure in anticipation, while others have been slower to act, partly because **this dependency** on unresolved emissions scenarios makes committing scarce public funds to any one projection politically difficult.",
+     "Scandinavia and the broader Arctic periphery illustrate yet another distinct pattern, one frequently described as Arctic amplification: warming there has proceeded at a pace several times faster than the global average, driven by feedback loops involving melting sea ice and thawing permafrost. This accelerated warming carries consequences extending well beyond temperature readings alone, since infrastructure built on now-thawing permafrost has in several documented cases suffered structural damage, and traditional livelihoods dependent on stable seasonal ice patterns have grown correspondingly more precarious.",
+     "Policy responses across the continent have, perhaps unsurprisingly, proven similarly uneven. While European Union frameworks establish continent-wide emissions targets, the practical work of adaptation — reinforcing flood defenses, redesigning agricultural practices, retrofitting infrastructure for a warmer climate — remains substantially a national and often municipal responsibility, and funding capacity for this work varies considerably between wealthier northern economies and more fiscally constrained regions further south and east, a disparity that several policy analysts argue risks entrenching precisely the climate vulnerabilities that adaptation funding is meant to address.",
+     "Complicating any confident regional forecast further, climate models that perform relatively well at the global scale diverge considerably more sharply once applied to smaller geographic regions, since local topography, ocean currents, and atmospheric circulation patterns introduce sources of uncertainty that tend to average out at broader scales but remain stubbornly present at finer resolution. Attributing any single extreme weather event to climate change with full confidence therefore remains, climate scientists generally caution, a considerably more **fraught** exercise than confirming the broader warming trend itself.",
+     "Taken together, this regional unevenness suggests that treating European climate change as a single, uniform phenomenon requiring a single continental strategy risks obscuring more than it reveals. The overarching warming trend is, by now, essentially beyond serious scientific dispute; how that warming will manifest in any particular region, by contrast, remains considerably less settled — a distinction that, several researchers argue, ought to shape adaptation policy considerably more than it currently does."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Southern European regions represent the primary geographical zone impacted by climate disruption",
+       "B": "European Union frameworks have effectively resolved structural climate adaptation challenges nationwide",
+       "C": "Every single European territory experiences identical manifestations of accelerated environmental warming",
+       "D": "Europe's overall warming trend is clear, but its regional effects vary considerably and unevenly"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu đầu tiên của đoạn 1 (xu hướng ấm lên toàn Châu Âu) kết hợp với các câu chủ đề ở các đoạn tiếp theo (Nam Âu hạn hán, Bắc Âu gia tăng lượng mưa, vùng núi tan băng, vùng Bắc Cực ấm lên nhanh) và đoạn cuối cùng. Lựa chọn phương án phản ánh đúng bản chất: mặc dù xu hướng ấm lên chung của Châu Âu là rõ ràng, nhưng biểu hiện và ảnh hưởng ở từng khu vực lại rất khác nhau và không đồng đều."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, how have Mediterranean drought conditions changed in character over time?",
+      "options": {
+       "A": "They have shifted from periodic events toward a more persistent, structural pattern",
+       "B": "They now occur exclusively during the winter rather than summer months",
+       "C": "They have had no measurable effect on regional agricultural planning at all",
+       "D": "They have become considerably less frequent than they were several decades ago"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"Mediterranean\", \"drought\" ở đoạn 2. Quan sát sự thay đổi tính chất của hạn hán từ các sự kiện định kỳ (periodic) chuyển sang dạng cố định/mạn tính (persistent, structural)."
+     },
+     {
+      "number": 33,
+      "stem": "According to the passage, what remains incompletely understood about increased winter precipitation in northern and western Europe?",
+      "options": {
+       "A": "Whether river flooding events have actually increased over the past decades",
+       "B": "The precise mechanism linking Arctic warming to shifts in the jet stream",
+       "C": "Whether this precipitation pattern differs at all from Mediterranean Europe",
+       "D": "Whether infrastructure in these countries was designed for a wetter baseline"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"increased winter precipitation\", \"incompletely understood\" ở đoạn 3. Tìm chi tiết đoạn văn thừa nhận rằng cơ chế chính xác nối liền sự ấm lên ở Bắc Cực với sự thay đổi của dòng dòng siết (jet stream) vẫn chưa được hiểu rõ hoàn toàn."
+     },
+     {
+      "number": 34,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason policy responses vary across Europe?",
+      "options": {
+       "A": "This disparity risks entrenching the vulnerabilities funding should address",
+       "B": "European Union frameworks currently set no continent-wide targets at all",
+       "C": "Funding capacity differs between wealthier and more constrained regions",
+       "D": "Adaptation work remains largely a national and municipal responsibility"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét đoạn 6 để tìm danh từ và nguyên nhân dẫn đến sự khác biệt trong chính sách ứng phó: công tác thích ứng là trách nhiệm của quốc gia/địa phương, năng lực tài chính giữa các vùng giàu/nghèo khác nhau, và rủi ro làm sâu sắc thêm lỗ hổng khí hậu. Phương án khẳng định \"EU hiện không đưa ra bất kỳ mục tiêu chung nào\" là thông tin trái ngược với bài đọc (bài đọc nêu EU có thiết lập mục tiêu toàn lục địa)."
+     },
+     {
+      "number": 35,
+      "stem": "The word \"precarious\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "predictable",
+       "B": "profitable",
+       "C": "unstable",
+       "D": "permanent"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"precarious\" ở đoạn 5 mô tả sinh kế truyền thống phụ thuộc vào băng theo mùa đang trở nên bấp bấp chới, không ổn định do băng tan. Từ này đồng nghĩa với bấp bấp chới, không vững chắc (unstable)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"fraught\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "difficult",
+       "B": "forgotten",
+       "C": "flawless",
+       "D": "frequent"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"fraught\" ở đoạn 7 mô tả việc quy kết một sự kiện thời tiết cực đoan cho biến đổi khí hậu là một công việc đầy khó khăn, phức tạp và dễ gây tranh cãi. Từ này sát nghĩa nhất với khó khăn (difficult)."
+     },
+     {
+      "number": 37,
+      "stem": "The phrase \"this dependency\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "how flooding events depend on aging northern European infrastructure",
+       "B": "how much further glacier retreat depends on future emissions trajectories",
+       "C": "how mountain regions depend on winter precipitation patterns",
+       "D": "how downstream populations depend on rivers for drinking water"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tìm cụm từ \"this dependency\" ở giữa đoạn 4. Áp dụng quy tắc đọc ngược câu phía trước: \"Exactly how much further this retreat will progress depends heavily on which emissions trajectory...\". Cụm từ này quy chiếu trực tiếp đến việc mức độ băng tan tiến xa đến đâu phụ thuộc vào kịch bản phát thải trong tương lai."
+     },
+     {
+      "number": 38,
+      "stem": "What does the passage suggest about confidently explaining specific regional climate patterns?",
+      "options": {
+       "A": "Regional mechanisms and specific events remain harder to confirm than the broader warming trend",
+       "B": "Localized meteorological extreme events can currently be linked directly to planetary climate shifts",
+       "C": "Predictive climate models demonstrate equivalent reliability across localized and continental spatial scales",
+       "D": "Localized environmental circulation patterns are understood with identical precision as broad global trends"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Suy luận",
+      "explanation": "quét các từ khóa ở đoạn 7 về \"climate models\" và \"extreme weather event\". Nhận diện lập luận của tác giả rằng việc giải thích hay quy kết một sự kiện thời tiết cực đoan cụ thể ở quy mô khu vực thì phức tạp và khó xác nhận hơn nhiều so với việc xác nhận xu hướng ấm lên diện rộng."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraph 6 about the likely effect of uneven adaptation funding across Europe?",
+      "options": {
+       "A": "It has already been shown to eliminate all regional climate vulnerabilities",
+       "B": "It may deepen existing climate vulnerabilities in less fiscally resourced regions",
+       "C": "It affects wealthier northern economies more severely than southern regions",
+       "D": "It has no meaningful relationship to a region's climate vulnerability at all"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 6 về năng lực tài chính khác biệt giữa các nền kinh tế phía Bắc giàu có và các khu vực phía Nam/Đông bị hạn chế tài chính. Từ đó suy luận rằng nguồn kinh phí thích ứng không đồng đều có thể làm trầm trọng hơn/sâu sắc hơn các lỗ hổng khí hậu vốn có ở những vùng ít nguồn lực hơn."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's overall purpose in writing this passage?",
+      "options": {
+       "A": "To challenge the scientific consensus regarding accelerated continental temperature increase rates",
+       "B": "To advocate for centralized European policy frameworks applying identical environmental standards",
+       "C": "To show that European climate change demands regionally tailored rather than uniform responses",
+       "D": "To demonstrate that Mediterranean territories constitute the only region facing severe ecological risk"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích mục tiêu xuyên suốt bài viết: tác giả chứng minh rằng ứng phó với biến đổi khí hậu không thể dùng một chiến lược chung cho toàn Châu Âu mà đòi hỏi các chính sách thích ứng được thiết kế riêng theo từng khu vực địa lý. Phương án miêu tả đúng mục đích này là lựa chọn chính xác. Lời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi kiểm tra từ vựng và quy chiếu như Quy chiếu (R4Q7) và Từ vựng (R4Q5, R4Q6). Tiếp theo, dùng kỹ năng đọc quét định vị dữ kiện để giải quyết các câu Chi tiết (R4Q2, R4Q3, R4Q8) và Loại trừ (R4Q4). Sau cùng, liên kết tư duy logic toàn bài để chọn đáp án cho các câu tổng hợp bao gồm Suy luận (R4Q9), Mục đích tác giả (R4Q10) và Ý chính toàn bài (R4Q1)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu đầu tiên của đoạn 1 (xu hướng ấm lên toàn Châu Âu) kết hợp với các câu chủ đề ở các đoạn tiếp theo (Nam Âu hạn hán, Bắc Âu gia tăng lượng mưa, vùng núi tan băng, vùng Bắc Cực ấm lên nhanh) và đoạn cuối cùng. Lựa chọn phương án phản ánh đúng bản chất: mặc dù xu hướng ấm lên chung của Châu Âu là rõ ràng, nhưng biểu hiện và ảnh hưởng ở từng khu vực lại rất khác nhau và không đồng đều.\n- **Dạng câu hỏi Chi tiết (R4Q2 - R4Q3 & R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, quét các từ khóa \"Mediterranean\", \"drought\" ở đoạn 2. Quan sát sự thay đổi tính chất của hạn hán từ các sự kiện định kỳ (periodic) chuyển sang dạng cố định/mạn tính (persistent, structural).\n  - Với **R4Q3**, quét từ khóa \"increased winter precipitation\", \"incompletely understood\" ở đoạn 3. Tìm chi tiết đoạn văn thừa nhận rằng cơ chế chính xác nối liền sự ấm lên ở Bắc Cực với sự thay đổi của dòng dòng siết (jet stream) vẫn chưa được hiểu rõ hoàn toàn.\n  - Với **R4Q8**, quét các từ khóa ở đoạn 7 về \"climate models\" và \"extreme weather event\". Nhận diện lập luận của tác giả rằng việc giải thích hay quy kết một sự kiện thời tiết cực đoan cụ thể ở quy mô khu vực thì phức tạp và khó xác nhận hơn nhiều so với việc xác nhận xu hướng ấm lên diện rộng.\n- **Dạng câu hỏi Loại trừ NOT (R4Q4):** Đọc quét đoạn 6 để tìm danh từ và nguyên nhân dẫn đến sự khác biệt trong chính sách ứng phó: công tác thích ứng là trách nhiệm của quốc gia/địa phương, năng lực tài chính giữa các vùng giàu/nghèo khác nhau, và rủi ro làm sâu sắc thêm lỗ hổng khí hậu. Phương án khẳng định \"EU hiện không đưa ra bất kỳ mục tiêu chung nào\" là thông tin trái ngược với bài đọc (bài đọc nêu EU có thiết lập mục tiêu toàn lục địa).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q5 - R4Q6):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R4Q5**, từ **\"precarious\"** ở đoạn 5 mô tả sinh kế truyền thống phụ thuộc vào băng theo mùa đang trở nên bấp bấp chới, không ổn định do băng tan. Từ này đồng nghĩa với bấp bấp chới, không vững chắc (unstable).\n  - Với **R4Q6**, từ **\"fraught\"** ở đoạn 7 mô tả việc quy kết một sự kiện thời tiết cực đoan cho biến đổi khí hậu là một công việc đầy khó khăn, phức tạp và dễ gây tranh cãi. Từ này sát nghĩa nhất với khó khăn (difficult).\n- **Dạng câu hỏi Quy chiếu (R4Q7):** Tìm cụm từ **\"this dependency\"** ở giữa đoạn 4. Áp dụng quy tắc đọc ngược câu phía trước: \"Exactly how much further this retreat will progress depends heavily on which emissions trajectory...\". Cụm từ này quy chiếu trực tiếp đến việc mức độ băng tan tiến xa đến đâu phụ thuộc vào kịch bản phát thải trong tương lai.\n- **Dạng câu hỏi Suy luận (R4Q9):** Kết hợp thông tin ở đoạn 6 về năng lực tài chính khác biệt giữa các nền kinh tế phía Bắc giàu có và các khu vực phía Nam/Đông bị hạn chế tài chính. Từ đó suy luận rằng nguồn kinh phí thích ứng không đồng đều có thể làm trầm trọng hơn/sâu sắc hơn các lỗ hổng khí hậu vốn có ở những vùng ít nguồn lực hơn.\n- **Dạng câu hỏi Mục đích của tác giả (R4Q10):** Phân tích mục tiêu xuyên suốt bài viết: tác giả chứng minh rằng ứng phó với biến đổi khí hậu không thể dùng một chiến lược chung cho toàn Châu Âu mà đòi hỏi các chính sách thích ứng được thiết kế riêng theo từng khu vực địa lý. Phương án miêu tả đúng mục đích này là lựa chọn chính xác. Lời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi kiểm tra từ vựng và quy chiếu như Quy chiếu (R4Q7) và Từ vựng (R4Q5, R4Q6). Tiếp theo, dùng kỹ năng đọc quét định vị dữ kiện để giải quyết các câu **Chi tiết** (R4Q2, R4Q3, R4Q8) và Loại trừ (R4Q4). Sau cùng, liên kết tư duy logic toàn bài để chọn đáp án cho các câu tổng hợp bao gồm Suy luận (R4Q9), Mục đích tác giả (R4Q10) và Ý chính toàn bài (R4Q1)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You are a parent whose child's school is organizing a field trip next week.\nYou have some questions for the teacher before the trip. Read the notice below.\nDear Parents, next week our school will be organizing a field trip for the students. Please read the notice carefully and contact us if you have any questions.\n- Ask what items your child should bring for the trip\n- Ask why students need to bring their own packed lunch instead of the school providing one\n- Ask what activities your child will participate in during the trip\nWrite a formal letter to the teacher asking about the school trip. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You are a parent whose child's school is organizing a field trip next week.",
+      "You have some questions for the teacher before the trip. Read the notice below."
+     ],
+     "quote": [
+      "Dear Parents, next week our school will be organizing a field trip for the students. Please read the notice carefully and contact us if you have any questions.",
+      "- Ask what items your child should bring for the trip",
+      "- Ask why students need to bring their own packed lunch instead of the school providing one",
+      "- Ask what activities your child will participate in during the trip"
+     ],
+     "instruction": "Write a formal letter to the teacher asking about the school trip. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\nĐây là dạng **Formal Letter** (Thư trang trọng) vì người viết là phụ huynh gửi cho giáo viên/nhà trường, nên văn phong cần lịch sự, trang trọng. Đề bài yêu cầu bạn hỏi ba nội dung chính: những vật dụng cần mang theo, lý do phải tự mang cơm trưa thay vì nhà trường chuẩn bị, và các hoạt động con bạn sẽ tham gia trong chuyến đi. Bài viết cần đạt tối thiểu 120 từ và phải trả lời đầy đủ cả ba nội dung được gợi ý.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi trang trọng. Ví dụ: Dear Sir/Madam,\n- **Opening:** Nêu lý do viết thư. Ví dụ: I am writing to ask for some further information regarding the upcoming school trip.\n- **Body 1:** Hỏi về vật dụng cần mang theo. Ví dụ: Could you please let me know what items my child should bring for the trip?\n- **Body 2:** Hỏi lý do phải tự mang cơm trưa. Ví dụ: I would also like to ask why students are required to bring their own packed lunch instead of the school providing one.\n- **Body 3:** Hỏi về các hoạt động sẽ tham gia. Ví dụ: In addition, I would appreciate it if you could inform me about the activities my child will take part in during the trip.\n- **Closing & Sign-off:** Cảm ơn và kết thư. Ví dụ: I look forward to hearing from you. Yours faithfully, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng cấu trúc câu hỏi lịch sự (Could you please..., I would like to know...) thay vì hỏi trực tiếp. Tránh dùng ngôn ngữ thân mật (informal) trong thư trang trọng. Mỗi đoạn nên tập trung vào một câu hỏi để bố cục rõ ràng, mạch lạc. Từ vựng quan trọng:\n- **Field trip:** Chuyến dã ngoại/tham quan\n- **Packed lunch:** Cơm hộp mang theo\n- **Itinerary:** Lịch trình\n- **Supervision:** Sự giám sát\n- **Extracurricular activity:** Hoạt động ngoại khoá\n- **Permission slip:** Đơn xin phép\n- **Appropriate clothing:** Trang phục phù hợp\nTừ nối (Linking words):\n- **Firstly:** Trước hết\n- **In addition / Furthermore:** Bên cạnh đó\n- **Moreover:** Hơn nữa\n- **Also:** Ngoài ra\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I would be grateful if you could...:** Tôi sẽ rất biết ơn nếu bạn có thể...\n- **I look forward to your prompt reply:** Tôi mong sớm nhận được phản hồi từ bạn\n- **I appreciate your attention to this matter:** Tôi đánh giá cao sự quan tâm của bạn về vấn đề này\n\n**4. Các lỗi thường gặp:**\n- Sử dụng ngôn ngữ thân mật như \"Hi\" hoặc \"Hey\" thay vì \"Dear Sir/Madam\".\n- Không hỏi đầy đủ cả ba nội dung được gợi ý trong đề bài.\n- Đặt câu hỏi quá trực tiếp, thiếu lịch sự (ví dụ: \"What should I bring?\" thay vì \"Could you please tell me what I should bring?\").\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã hỏi đủ ba nội dung: vật dụng mang theo, lý do mang cơm trưa, và hoạt động tham gia chưa.\n- Đếm số từ để đảm bảo đạt tối thiểu 120 từ.\n- Xem lại văn phong đã đủ trang trọng, lịch sự hay chưa.\n\n**6. Tư duy làm bài:**\nHãy đặt mình vào vai một phụ huynh quan tâm đến con và cần thông tin rõ ràng từ nhà trường. Sự lịch sự và rõ ràng trong cách đặt câu hỏi sẽ giúp bức thư trở nên chuyên nghiệp và thuyết phục hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nHistorical exhibitions offer visitors a valuable opportunity to explore the past through artifacts, documents, and stories from different periods of time.\nSome people believe that visiting historical exhibitions brings numerous benefits, particularly in broadening one's knowledge and understanding of culture and history.\nDo you agree or disagree that visiting historical exhibitions is beneficial? Give reasons for your answer. Write an essay to an educated reader to give your opinion on whether visiting historical exhibitions is beneficial. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Historical exhibitions offer visitors a valuable opportunity to explore the past through artifacts, documents, and stories from different periods of time.",
+      "Some people believe that visiting historical exhibitions brings numerous benefits, particularly in broadening one's knowledge and understanding of culture and history.",
+      "Do you agree or disagree that visiting historical exhibitions is beneficial? Give reasons for your answer."
+     ],
+     "instruction": "Write an essay to an educated reader to give your opinion on whether visiting historical exhibitions is beneficial. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\nĐây là dạng bài **Opinion Essay** (Bài luận nêu ý kiến), yêu cầu bạn nêu quan điểm đồng ý hay không đồng ý về việc tham quan các triển lãm lịch sử có mang lại lợi ích hay không, kèm theo lý do và dẫn chứng cụ thể. Bài viết yêu cầu tối thiểu 250 từ và cần có lập trường rõ ràng xuyên suốt bài viết, tránh mơ hồ giữa các ý.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu chủ đề và nêu rõ quan điểm cá nhân. Ví dụ: I firmly believe that visiting historical exhibitions offers significant benefits to individuals of all ages.\n- **Body 1:** Topic sentence nêu lợi ích thứ nhất, giải thích, cho ví dụ. Ví dụ: Firstly, historical exhibitions provide visitors with a deeper understanding of their cultural heritage and national identity.\n- **Body 2:** Topic sentence nêu lợi ích thứ hai, giải thích, cho ví dụ. Ví dụ: Secondly, such exhibitions encourage critical thinking by allowing visitors to compare past events with present circumstances.\n- **Conclusion:** Khẳng định lại quan điểm. Ví dụ: In conclusion, I strongly agree that visiting historical exhibitions is a valuable and enriching experience for everyone.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng thì Hiện tại đơn để diễn đạt sự thật và quan điểm chung. Mỗi đoạn thân bài nên phát triển ý bằng cách giải thích và đưa ví dụ cụ thể để tăng tính thuyết phục. Câu chủ đề ở phần mở bài cần nêu rõ lập trường của người viết ngay từ đầu.\nTừ vựng quan trọng:\n- **Cultural heritage:** Di sản văn hoá\n- **Historical artifact:** Hiện vật lịch sử\n- **Broaden one's knowledge:** Mở rộng kiến thức\n- **National identity:** Bản sắc dân tộc\n- **Critical thinking:** Tư duy phản biện\n- **Educational value:** Giá trị giáo dục\n- **Preserve history:** Bảo tồn lịch sử\nTừ nối (Linking words):\n- **Firstly / Secondly:** Thứ nhất / Thứ hai (Liệt kê ý)\n- **Moreover / Furthermore:** Hơn nữa (Thêm ý)\n- **For example / For instance:** Ví dụ như (Đưa ví dụ)\n- **As a result:** Kết quả là (Nguyên nhân - kết quả)\n- **In my opinion:** Theo quan điểm của tôi\n- **In conclusion / To sum up:** Tóm lại (Kết luận)\nDiễn đạt lại ý (Paraphrasing):\n- **Historical displays / museum exhibits:** Thay cho \"historical exhibitions\".\n- **Gaining insight into the past:** Thay cho \"learning about history\".\n- **Advantageous / rewarding experience:** Thay cho \"beneficial\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **I firmly believe that...:** Dùng để khẳng định quan điểm mạnh mẽ ngay từ đầu.\n- **It cannot be denied that...:** Dùng để nhấn mạnh một sự thật hiển nhiên.\n- **From my perspective, ... outweighs...:** Dùng khi so sánh lợi ích với hạn chế (nếu có).\n\n**4. Các lỗi thường gặp:**\n- Không nêu rõ quan điểm cá nhân ngay từ phần mở bài.\n- Thiếu ví dụ cụ thể để minh hoạ cho các luận điểm, khiến bài viết chung chung.\n- Đưa ra lập luận mâu thuẫn với quan điểm đã nêu ở đầu bài.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem quan điểm có được duy trì nhất quán xuyên suốt bài viết không.\n- Đếm số từ để đảm bảo đạt tối thiểu 250 từ.\n- Xem lại các từ nối đã được sử dụng hợp lý giữa các đoạn chưa.\n\n**6. Tư duy làm bài:**\nHãy nêu rõ lập trường cá nhân ngay từ đầu và duy trì nhất quán trong suốt bài viết. Sự rõ ràng trong lập luận cùng với ví dụ thực tế sẽ giúp bài viết thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about your hobbies\n\n1\nWhat is your favorite thing to do in your free time?\n2\nWhy do you enjoy this activity more than others?\n3\nHas your favorite hobby changed since you were younger?\n\nNow, let’s talk about sports\n\n4\nWhat is your favorite sport to play or watch?\n5\nHow often do you take part in sports activities?\n6\nDo you think sports are important for young people nowadays?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần 1 kéo dài 3 phút với 6 câu hỏi, kiểm tra khả năng giao tiếp xã hội tự nhiên của bạn.\n- **Topic A (Sở thích - Favourite):** Câu 1-3 hỏi về hoạt động yêu thích, lý do yêu thích và sự thay đổi sở thích theo thời gian - kiểm tra khả năng miêu tả và giải thích quan điểm cá nhân.\n- **Topic B (Thể thao - Sport):** Câu 4-6 hỏi về môn thể thao yêu thích, tần suất tham gia và quan điểm về tầm quan trọng của thể thao - kiểm tra khả năng đưa ra ý kiến.\n- Tiêu chí chấm điểm gồm: Fluency, Vocabulary, Grammar, Pronunciation.\n- Nên phân bổ khoảng 25-35 giây mỗi câu, cân bằng thời gian giữa Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **ARE** (Answer - Reason - Example) để câu trả lời có chiều sâu.\n- **Ví dụ Topic A:** \"My favorite thing to do in my free time is reading novels, because it helps me relax and learn new vocabulary at the same time.\"\n- **Ví dụ Topic B:** \"My favorite sport is badminton, as it's fast-paced and helps me stay physically fit.\"\n- Luôn tự hỏi Why?/How? sau khi trả lời để mở rộng ý.\n- Dùng câu chuyển ý mượt mà khi chuyển từ Topic A sang Topic B, ví dụ: \"Besides my hobbies, playing sports is also a big part of my life.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định, dùng từ đệm như \"well\", \"actually\" để tránh khoảng lặng dài.\n- Về thì: dùng Hiện tại đơn cho sở thích hiện tại (I usually enjoy...), Hiện tại hoàn thành khi nói về sự thay đổi (My interest in sports has grown over the years).\n- Nếu bí từ, hãy diễn giải, ví dụ thay \"badminton racket\" bằng \"the equipment used to hit the shuttlecock\".\n- Từ vựng Topic A: \"a great stress reliever\" (cách giảm stress hiệu quả), \"to pick up a hobby\" (bắt đầu một sở thích), \"leisure time\" (thời gian rảnh).\n- Từ vựng Topic B: \"to stay in shape\" (giữ dáng), \"team spirit\" (tinh thần đồng đội), \"physical endurance\" (sức bền thể chất).\nCụm từ quan trọng nên dùng:\n- \"to unwind\" - thư giãn\n- \"a passion for\" - niềm đam mê với\n- \"to broaden my horizons\" - mở rộng tầm nhìn\n- \"to keep fit\" - giữ gìn sức khỏe\n- \"a competitive spirit\" - tinh thần cạnh tranh\n- \"to build stamina\" - rèn luyện sức bền\nTừ nối khi nói (Linking Words):\n- \"Firstly / Secondly\" - Thứ nhất / Thứ hai, dùng để liệt kê ý\n- \"In addition\" - Thêm vào đó, dùng để bổ sung ý\n- \"However\" - Tuy nhiên, dùng khi đối lập ý\n- \"As a result\" - Kết quả là, dùng nêu hệ quả\n- \"For example\" - Ví dụ như, dùng khi đưa ra minh chứng\nCách thể hiện quan điểm tự nhiên:\n- \"Personally, I think...\" - ví dụ: \"Personally, I think reading is the best way to relax.\" (Cá nhân tôi nghĩ...)\n- \"In my opinion...\" - ví dụ: \"In my opinion, sports help build discipline in young people.\" (Theo ý kiến của tôi...)\n- \"From my point of view...\" - ví dụ: \"From my point of view, playing sports regularly boosts confidence.\" (Theo quan điểm của tôi...)\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes/No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n- Với Topic A: chỉ nêu tên sở thích mà không giải thích lý do yêu thích.\n- Với Topic B: trả lời chung chung \"I like sports\" mà không nêu môn thể thao cụ thể.\n- Chia sai thì khi mô tả sự thay đổi theo thời gian.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu giờ: \"That's an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy mô tả đặc điểm thay vì dừng lại giữa chừng.\n- Với Topic A, nếu quên tên hoạt động, có thể mô tả: \"something I do to relax after school\".\n- Với Topic B, nếu quên tên môn thể thao, hãy mô tả luật chơi đơn giản thay vì tên cụ thể.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi đây là một cuộc trò chuyện thân mật với giám khảo.\n- Chuyển đổi tâm thế linh hoạt khi chuyển từ Topic A sang Topic B để tránh nói lẫn lộn hai chủ đề.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng phức tạp gây vấp váp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nA company wants to improve its employees' skills and overall well-being.\n\nYou are considering the following options:\n\nOption 1: Organize skill-building workshops\nOption 2: Provide access to online learning courses\nOption 3: Arrange outdoor team-building activities\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống xoay quanh việc một công ty muốn cải thiện kỹ năng và tinh thần của nhân viên, với 3 lựa chọn: tổ chức workshop, cung cấp khóa học online, tổ chức hoạt động ngoài trời.\n- Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và khả năng lập luận logic.\n- Thời gian: 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E** (Introduction - Comparison/Body - End): giới thiệu tình huống, so sánh 3 lựa chọn, kết luận lựa chọn tốt nhất.\n- Option 1 (workshops): \"Workshops allow employees to learn new skills directly from experts, though they require significant time and scheduling coordination.\"\n- Option 2 (online courses): \"Online courses offer flexibility, letting employees learn at their own pace, but they may lack the hands-on interaction of in-person training.\"\n- Option 3 (outdoor activities): \"Outdoor team-building activities boost morale and strengthen relationships among colleagues, though they focus less on technical skill development.\"\n- Neo lập luận vào bối cảnh môi trường công sở thực tế, ví dụ nhắc đến năng suất làm việc hoặc tinh thần đội nhóm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách biệt, ví dụ: \"Unlike online courses, which are flexible but solitary, workshops encourage direct interaction among employees.\"\n- Về thì: dùng modal verbs (would/could) để đưa ra dự đoán, ví dụ \"This option would help employees feel more engaged with their work.\"\n- Paraphrase từ \"effective\" bằng \"beneficial\" hoặc \"productive\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- \"professional development\" - phát triển chuyên môn\n- \"hands-on experience\" - kinh nghiệm thực hành\n- \"work-life balance\" - cân bằng công việc và cuộc sống\n- \"team cohesion\" - sự gắn kết đội nhóm\n- \"flexible learning\" - học tập linh hoạt\n- \"employee morale\" - tinh thần nhân viên\nTừ nối khi nói (Linking Words):\n- \"On the other hand\" - Mặt khác, dùng để đối lập ý\n- \"Compared to\" - So với, dùng để so sánh\n- \"Nevertheless\" - Tuy nhiên, dùng khi nêu điểm bất lợi\n- \"Taking everything into account\" - Xét tổng thể, dùng khi kết luận\n- \"Similarly\" - Tương tự, dùng khi hai lựa chọn có điểm chung\nCách thể hiện quan điểm tự nhiên:\n- \"I would go for...\" - ví dụ: \"I would go for the workshop option because it provides direct expert guidance.\" (Tôi sẽ chọn...)\n- \"If I had to choose, I'd say...\" - ví dụ: \"If I had to choose, I'd say online courses are the most practical for busy employees.\" (Nếu phải chọn, tôi sẽ nói...)\n- \"What appeals to me most is...\" - ví dụ: \"What appeals to me most is the bonding opportunity outdoor activities provide.\" (Điều hấp dẫn tôi nhất là...)\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ \"good\"/\"bad\" liên tục thay vì dùng tính từ học thuật hơn như \"practical\", \"engaging\", \"time-consuming\".\n- Không đưa ra kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên biệt, hãy chuyển hướng sang bàn về yếu tố thời gian hoặc chi phí.\n- Dùng câu giờ: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí ý ở một lựa chọn, hãy chuyển sang phân tích lựa chọn tiếp theo rồi quay lại sau.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một nhà quản lý thực sự - lựa chọn nào mang lại lợi ích lâu dài nhất cho công ty và nhân viên.\n- Dù chọn phương án nào, vẫn nên đưa ra một gợi ý cải thiện nhỏ để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nWhat companies should consider when hiring new employees\n\nHiring New Employees\nQualifications and technical skills\nSoft skills and attitude\nCultural fit within the company\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat qualities do you think make a candidate stand out during an interview?\n2\nShould companies prioritize experience or potential when hiring?\n3\nHow has the hiring process changed in recent years?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển ý về những yếu tố công ty nên cân nhắc khi tuyển dụng nhân viên mới, dựa trên 3 nhánh mindmap và 1 ý tưởng cá nhân (nhánh thứ 4 có thể là \"the role of technology in the recruitment process\").\n- Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar, khả năng phát triển ý mạch lạc.\n- Thời gian 5 phút: khoảng 3-3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL** (Point - Explanation - Example - Link) để phát triển từng nhánh mindmap mạch lạc.\n- **Ví dụ 1 (mở bài):** \"Today, I would like to talk about the key factors companies should consider when hiring new employees.\"\n- **Ví dụ 2 (nhánh cá nhân):** \"In addition, technology now plays a significant role in recruitment, with many companies using AI tools to screen candidates.\"\n- Khi nói về \"Qualifications and technical skills\", nên nêu ví dụ cụ thể như bằng cấp, chứng chỉ chuyên môn liên quan đến vị trí ứng tuyển.\n- Bám sát mindmap để tránh lặp ý hoặc lạc đề giữa các nhánh.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh mindmap, ví dụ \"Moving on to my next point...\"\n- Về thì: dùng Hiện tại đơn cho sự thật hiển nhiên (Companies look for...) kết hợp Hiện tại hoàn thành cho xu hướng gần đây (Hiring practices have changed significantly...).\n- Paraphrase từ \"hiring\" bằng \"recruiting\" hoặc \"employing\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- \"a strong candidate\" - ứng viên xuất sắc\n- \"to stand out from the crowd\" - nổi bật giữa đám đông\n- \"problem-solving skills\" - kỹ năng giải quyết vấn đề\n- \"to fit into the company culture\" - phù hợp với văn hóa công ty\n- \"a competitive edge\" - lợi thế cạnh tranh\n- \"to screen candidates\" - sàng lọc ứng viên\nTừ nối khi nói (Linking Words):\n- \"To begin with\" - Trước hết, dùng khi mở đầu nhánh ý đầu tiên\n- \"Furthermore\" - Hơn nữa, dùng để bổ sung ý\n- \"Not only... but also...\" - Không chỉ... mà còn..., dùng để nhấn mạnh hai yếu tố\n- \"On top of that\" - Bên cạnh đó, dùng khi thêm ý mới\n- \"In conclusion\" - Tóm lại, dùng khi kết luận bài nói\nCách thể hiện quan điểm tự nhiên:\n- \"I firmly believe that...\" - ví dụ: \"I firmly believe that soft skills are just as important as technical qualifications.\" (Tôi tin chắc rằng...)\n- \"It seems to me that...\" - ví dụ: \"It seems to me that cultural fit is often overlooked during hiring.\" (Đối với tôi có vẻ như...)\n- \"There is no doubt that...\" - ví dụ: \"There is no doubt that a well-rounded candidate benefits the company long-term.\" (Không nghi ngờ gì rằng...)\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- \"What qualities do you think make a candidate stand out during an interview?\" - Trả lời: sự tự tin, khả năng giao tiếp rõ ràng và thái độ cầu tiến thường gây ấn tượng với nhà tuyển dụng.\n- \"Should companies prioritize experience or potential when hiring?\" - Trả lời: tùy vị trí, nhưng với môi trường thay đổi nhanh, tiềm năng phát triển đôi khi quan trọng hơn kinh nghiệm sẵn có.\n- \"How has the hiring process changed in recent years?\" - Trả lời: công nghệ như phỏng vấn online và AI sàng lọc hồ sơ đã làm quy trình tuyển dụng nhanh và hiệu quả hơn.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê ý mà không giải thích hay đưa ví dụ cụ thể, khiến bài nói thiếu chiều sâu.\n- Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước một ý tưởng riêng.\n- Nói quá lâu ở phần mở đầu khiến không còn thời gian trả lời follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Khi bí ý, hãy liên hệ đến trải nghiệm thực tế như phỏng vấn xin việc hoặc thực tập để có thêm ví dụ.\n- Dùng câu giờ học thuật: \"That is a complex issue. If we evaluate it from an employer's viewpoint...\"\n- Nếu quên từ chuyên môn, hãy dùng từ đồng nghĩa đơn giản hoặc mô tả ngắn gọn thay vì dừng lại.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ thực tế từ góc độ nhà tuyển dụng - vì sao những yếu tố này lại quan trọng đối với sự phát triển lâu dài của công ty.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao, quan trọng hơn số lượng từ vựng khó.\n- Luôn giữ giọng nói tự tin và chuyên nghiệp, vì đây là chủ đề liên quan đến môi trường công sở."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about your hobbies.\n1.\nWhat is your favorite thing to do in your free time?\n2.\nWhy do you enjoy this activity more than others?\n3.\nHas your favorite hobby changed since you were younger?\nNow, let’s talk about sports.\n4.\nWhat is your favorite sport to play or watch?\n5.\nHow often do you take part in sports activities?\n6.\nDo you think sports are important for young people nowadays?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần 1 kéo dài 3 phút với 6 câu hỏi, kiểm tra khả năng giao tiếp xã hội tự nhiên của bạn.\n• Topic A (Sở thích - Favourite): Câu 1-3 hỏi về hoạt động yêu thích, lý do yêu thích và sự thay đổi sở thích theo thời\ngian - kiểm tra khả năng miêu tả và giải thích quan điểm cá nhân.\n• Topic B (Thể thao - Sport): Câu 4-6 hỏi về môn thể thao yêu thích, tần suất tham gia và quan điểm về tầm quan trọng\ncủa thể thao - kiểm tra khả năng đưa ra ý kiến.\n• Tiêu chí chấm điểm gồm: Fluency, Vocabulary, Grammar, Pronunciation.\n• Nên phân bổ khoảng 25-35 giây mỗi câu, cân bằng thời gian giữa Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE (Answer - Reason - Example) để câu trả lời có chiều sâu.\n• Ví dụ Topic A: \"My favorite thing to do in my free time is reading novels, because it helps me relax and learn new\nvocabulary at the same time.\"\n• Ví dụ Topic B: \"My favorite sport is badminton, as it's fast-paced and helps me stay physically fit.\"\n• Luôn tự hỏi Why?/How? sau khi trả lời để mở rộng ý.\n• Dùng câu chuyển ý mượt mà khi chuyển từ Topic A sang Topic B, ví dụ: \"Besides my hobbies, playing sports is also\na big part of my life.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định, dùng từ đệm như \"well\", \"actually\" để tránh khoảng lặng dài.\n• Về thì: dùng Hiện tại đơn cho sở thích hiện tại (I usually enjoy...), Hiện tại hoàn thành khi nói về sự thay đổi (My interest\nin sports has grown over the years).\n• Nếu bí từ, hãy diễn giải, ví dụ thay \"badminton racket\" bằng \"the equipment used to hit the shuttlecock\".\n• Từ vựng Topic A: \"a great stress reliever\" (cách giảm stress hiệu quả), \"to pick up a hobby\" (bắt đầu một sở thích),\n\"leisure time\" (thời gian rảnh).\n• Từ vựng Topic B: \"to stay in shape\" (giữ dáng), \"team spirit\" (tinh thần đồng đội), \"physical endurance\" (sức bền thể\nchất).\nCụm từ quan trọng nên dùng:\n• \"to unwind\" - thư giãn\n• \"a passion for\" - niềm đam mê với\n• \"to broaden my horizons\" - mở rộng tầm nhìn\n• \"to keep fit\" - giữ gìn sức khỏe\n• \"a competitive spirit\" - tinh thần cạnh tranh\n• \"to build stamina\" - rèn luyện sức bền\nTừ nối khi nói (Linking Words):\n• \"Firstly / Secondly\" - Thứ nhất / Thứ hai, dùng để liệt kê ý\n• \"In addition\" - Thêm vào đó, dùng để bổ sung ý\n• \"However\" - Tuy nhiên, dùng khi đối lập ý\n• \"As a result\" - Kết quả là, dùng nêu hệ quả\n• \"For example\" - Ví dụ như, dùng khi đưa ra minh chứng\nCách thể hiện quan điểm tự nhiên:\n• \"Personally, I think...\" - ví dụ: \"Personally, I think reading is the best way to relax.\" (Cá nhân tôi nghĩ...)\n• \"In my opinion...\" - ví dụ: \"In my opinion, sports help build discipline in young people.\" (Theo ý kiến của tôi...)\n• \"From my point of view...\" - ví dụ: \"From my point of view, playing sports regularly boosts confidence.\" (Theo quan điểm\ncủa tôi...)\n4. Các lỗi thường gặp:\n• Trả lời \"Yes/No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n• Với Topic A: chỉ nêu tên sở thích mà không giải thích lý do yêu thích.\n• Với Topic B: trả lời chung chung \"I like sports\" mà không nêu môn thể thao cụ thể.\n• Chia sai thì khi mô tả sự thay đổi theo thời gian.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu giờ: \"That's an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy mô tả đặc điểm thay vì dừng lại giữa chừng.\n• Với Topic A, nếu quên tên hoạt động, có thể mô tả: \"something I do to relax after school\".\n• Với Topic B, nếu quên tên môn thể thao, hãy mô tả luật chơi đơn giản thay vì tên cụ thể.\n6. Tư duy làm bài nói:\n• Hãy coi đây là một cuộc trò chuyện thân mật với giám khảo.\n• Chuyển đổi tâm thế linh hoạt khi chuyển từ Topic A sang Topic B để tránh nói lẫn lộn hai chủ đề.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng phức tạp gây vấp váp.\nSolution Discussion\nPART 2\n4 phút\nA company wants to improve its employees' skills and overall well-being.\nYou are considering the following options:\n• Option 1: Organize skill-building workshops\n• Option 2: Provide access to online learning courses\n• Option 3: Arrange outdoor team-building activities\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống xoay quanh việc một công ty muốn cải thiện kỹ năng và tinh thần của nhân viên, với 3 lựa chọn: tổ chức\nworkshop, cung cấp khóa học online, tổ chức hoạt động ngoài trời.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và khả năng lập luận logic.\n• Thời gian: 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu tình huống, so sánh 3 lựa chọn, kết luận\nlựa chọn tốt nhất.\n• Option 1 (workshops): \"Workshops allow employees to learn new skills directly from experts, though they require\nsignificant time and scheduling coordination.\"\n• Option 2 (online courses): \"Online courses offer flexibility, letting employees learn at their own pace, but they may\nlack the hands-on interaction of in-person training.\"\n• Option 3 (outdoor activities): \"Outdoor team-building activities boost morale and strengthen relationships among\ncolleagues, though they focus less on technical skill development.\"\n• Neo lập luận vào bối cảnh môi trường công sở thực tế, ví dụ nhắc đến năng suất làm việc hoặc tinh thần đội nhóm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách biệt, ví dụ: \"Unlike online courses, which are flexible but solitary,\nworkshops encourage direct interaction among employees.\"\n• Về thì: dùng modal verbs (would/could) để đưa ra dự đoán, ví dụ \"This option would help employees feel more\nengaged with their work.\"\n• Paraphrase từ \"effective\" bằng \"beneficial\" hoặc \"productive\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• \"professional development\" - phát triển chuyên môn\n• \"hands-on experience\" - kinh nghiệm thực hành\n• \"work-life balance\" - cân bằng công việc và cuộc sống\n• \"team cohesion\" - sự gắn kết đội nhóm\n• \"flexible learning\" - học tập linh hoạt\n• \"employee morale\" - tinh thần nhân viên\nTừ nối khi nói (Linking Words):\n• \"On the other hand\" - Mặt khác, dùng để đối lập ý\n• \"Compared to\" - So với, dùng để so sánh\n• \"Nevertheless\" - Tuy nhiên, dùng khi nêu điểm bất lợi\n• \"Taking everything into account\" - Xét tổng thể, dùng khi kết luận\n• \"Similarly\" - Tương tự, dùng khi hai lựa chọn có điểm chung\nCách thể hiện quan điểm tự nhiên:\n• \"I would go for...\" - ví dụ: \"I would go for the workshop option because it provides direct expert guidance.\" (Tôi sẽ\nchọn...)\n• \"If I had to choose, I'd say...\" - ví dụ: \"If I had to choose, I'd say online courses are the most practical for busy\nemployees.\" (Nếu phải chọn, tôi sẽ nói...)\n• \"What appeals to me most is...\" - ví dụ: \"What appeals to me most is the bonding opportunity outdoor activities\nprovide.\" (Điều hấp dẫn tôi nhất là...)\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ \"good\"/\"bad\" liên tục thay vì dùng tính từ học thuật hơn như \"practical\", \"engaging\", \"time-consuming\".\n• Không đưa ra kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên biệt, hãy chuyển hướng sang bàn về yếu tố thời gian hoặc chi phí.\n• Dùng câu giờ: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí ý ở một lựa chọn, hãy chuyển sang phân tích lựa chọn tiếp theo rồi quay lại sau.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một nhà quản lý thực sự - lựa chọn nào mang lại lợi ích lâu dài nhất cho công ty và nhân viên.\n• Dù chọn phương án nào, vẫn nên đưa ra một gợi ý cải thiện nhỏ để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: What companies should consider when hiring new employees\nQualifications and technical skills\nSoft skills and attitude\nHiring New Employees\nÝ tưởng của bạn\nCultural fit within the company\nFOLLOW-UP QUESTIONS\n1.\nWhat qualities do you think make a candidate stand out during an interview?\n2.\nShould companies prioritize experience or potential when hiring?\n3.\nHow has the hiring process changed in recent years?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển ý về những yếu tố công ty nên cân nhắc khi tuyển dụng nhân viên mới, dựa trên 3 nhánh\nmindmap và 1 ý tưởng cá nhân (nhánh thứ 4 có thể là \"the role of technology in the recruitment process\").\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar, khả năng phát triển ý mạch lạc.\n• Thời gian 5 phút: khoảng 3-3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point - Explanation - Example - Link) để phát triển từng nhánh mindmap mạch lạc.\n• Ví dụ 1 (mở bài): \"Today, I would like to talk about the key factors companies should consider when hiring new\nemployees.\"\n• Ví dụ 2 (nhánh cá nhân): \"In addition, technology now plays a significant role in recruitment, with many companies\nusing AI tools to screen candidates.\"\n• Khi nói về \"Qualifications and technical skills\", nên nêu ví dụ cụ thể như bằng cấp, chứng chỉ chuyên môn liên quan\nđến vị trí ứng tuyển.\n• Bám sát mindmap để tránh lặp ý hoặc lạc đề giữa các nhánh.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh mindmap, ví dụ \"Moving on to my next point...\"\n• Về thì: dùng Hiện tại đơn cho sự thật hiển nhiên (Companies look for...) kết hợp Hiện tại hoàn thành cho xu hướng\ngần đây (Hiring practices have changed significantly...).\n• Paraphrase từ \"hiring\" bằng \"recruiting\" hoặc \"employing\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• \"a strong candidate\" - ứng viên xuất sắc\n• \"to stand out from the crowd\" - nổi bật giữa đám đông\n• \"problem-solving skills\" - kỹ năng giải quyết vấn đề\n• \"to fit into the company culture\" - phù hợp với văn hóa công ty\n• \"a competitive edge\" - lợi thế cạnh tranh\n• \"to screen candidates\" - sàng lọc ứng viên\nTừ nối khi nói (Linking Words):\n• \"To begin with\" - Trước hết, dùng khi mở đầu nhánh ý đầu tiên\n• \"Furthermore\" - Hơn nữa, dùng để bổ sung ý\n• \"Not only... but also...\" - Không chỉ... mà còn..., dùng để nhấn mạnh hai yếu tố\n• \"On top of that\" - Bên cạnh đó, dùng khi thêm ý mới\n• \"In conclusion\" - Tóm lại, dùng khi kết luận bài nói\nCách thể hiện quan điểm tự nhiên:\n• \"I firmly believe that...\" - ví dụ: \"I firmly believe that soft skills are just as important as technical qualifications.\" (Tôi\ntin chắc rằng...)\n• \"It seems to me that...\" - ví dụ: \"It seems to me that cultural fit is often overlooked during hiring.\" (Đối với tôi có vẻ\nnhư...)\n• \"There is no doubt that...\" - ví dụ: \"There is no doubt that a well-rounded candidate benefits the company long-term.\"\n(Không nghi ngờ gì rằng...)\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"What qualities do you think make a candidate stand out during an interview?\" - Trả lời: sự tự tin, khả năng giao tiếp\nrõ ràng và thái độ cầu tiến thường gây ấn tượng với nhà tuyển dụng.\n• \"Should companies prioritize experience or potential when hiring?\" - Trả lời: tùy vị trí, nhưng với môi trường thay đổi\nnhanh, tiềm năng phát triển đôi khi quan trọng hơn kinh nghiệm sẵn có.\n• \"How has the hiring process changed in recent years?\" - Trả lời: công nghệ như phỏng vấn online và AI sàng lọc hồ\nsơ đã làm quy trình tuyển dụng nhanh và hiệu quả hơn.\n5. Các lỗi thường gặp:\n• Liệt kê ý mà không giải thích hay đưa ví dụ cụ thể, khiến bài nói thiếu chiều sâu.\n• Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước một ý tưởng riêng.\n• Nói quá lâu ở phần mở đầu khiến không còn thời gian trả lời follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Khi bí ý, hãy liên hệ đến trải nghiệm thực tế như phỏng vấn xin việc hoặc thực tập để có thêm ví dụ.\n• Dùng câu giờ học thuật: \"That is a complex issue. If we evaluate it from an employer's viewpoint...\"\n• Nếu quên từ chuyên môn, hãy dùng từ đồng nghĩa đơn giản hoặc mô tả ngắn gọn thay vì dừng lại.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ thực tế từ góc độ nhà tuyển dụng - vì sao những yếu tố này lại quan trọng đối với sự phát triển lâu dài\ncủa công ty.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao, quan trọng hơn số lượng từ vựng\nkhó.\n• Luôn giữ giọng nói tự tin và chuyên nghiệp, vì đây là chủ đề liên quan đến môi trường công sở."
+}

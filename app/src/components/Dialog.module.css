@@ -1,0 +1,12 @@
+.dialog {
+  padding: 0; border: 1px solid var(--rule-strong); border-radius: var(--r-3);
+  background: var(--surface); color: var(--ink); box-shadow: var(--shadow-pop);
+  max-width: calc(100vw - 32px);
+}
+.dialog::backdrop { background: rgb(15 18 22 / 0.42); }
+.dialog[open] { animation: pop .16s var(--ease); }
+@keyframes pop { from { opacity: 0; transform: translateY(6px) scale(.985); } }
+.body { padding: 22px 24px 8px; }
+.title { font-size: 17px; margin-bottom: 10px; }
+.content { color: var(--ink-2); font-size: 14.5px; }
+.actions { display: flex; justify-content: flex-end; gap: 8px; padding: 16px 24px 20px; }

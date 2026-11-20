@@ -1,0 +1,718 @@
+{
+ "id": "vlu-104",
+ "number": 104,
+ "title": "Đề thi VLU 104",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-104",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Heavy Rainfall and the Growing Risk of Landslides",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In many hilly and mountainous regions around the world, unusually heavy rainfall has become a growing concern for local communities. When rain falls in large amounts over a short period, water can quickly soak into hillsides that are already close to their saturation point. Once the ground can no longer absorb any more water, the extra weight and reduced friction inside the soil sometimes **trigger** a sudden downward movement of earth and rock known as a landslide. **Such events** can happen with very little warning, and in some cases entire hillsides give way within minutes.",
+     "Several factors combine to make some slopes more vulnerable than others. Steep terrain naturally increases the risk, since gravity pulls loosened soil downhill more easily on a sharp incline than on a gentle one. Prolonged or repeated rainfall over several days, rather than a single short burst, is often more dangerous because it gradually saturates deeper layers of soil. Human activity plays a role as well: when forests are cleared for farming or construction, the tree roots that once held soil together disappear, leaving the slope far less stable. Poorly planned roads and construction projects can also cut into hillsides in ways that remove natural support, quietly increasing the danger long before any rain falls.",
+     "The consequences of a major landslide can be severe. Homes built on or near affected slopes are sometimes buried or swept away entirely, and roads connecting villages to larger towns may be blocked for days or weeks, cutting off access to food, medical care, and other essential supplies. Farmland can be destroyed in a matter of seconds, wiping out a family's income for an entire season or longer. In the most serious cases, landslides claim human lives, particularly when they strike at night while residents are asleep and unable to react quickly. Even communities that escape direct damage often face rising insurance costs and falling property values afterward, since the risk of a future slide changes how outsiders view the area.",
+     "In response, many governments and communities have invested in ways to reduce the danger. Early warning systems that measure rainfall and soil movement can alert residents before a slope begins to fail, giving people precious time to evacuate. Planting trees and other vegetation on bare slopes helps **restore** some of the natural stability that deforestation had removed. Engineers also build drainage channels to carry excess water away from vulnerable hillsides rather than letting it pool and soak in. Local authorities frequently distribute simple safety guidelines, encouraging residents to watch for warning signs such as new cracks in the ground or tilting trees near their homes.",
+     "Despite this progress, significant gaps remain, especially in rural or lower-income areas. Installing and maintaining sensor-based warning systems is costly, and many isolated villages still rely on word-of-mouth rather than any formal alert system. Some scientists warn that shifting weather patterns may bring heavier and more frequent rainstorms to regions unaccustomed to them, meaning slopes considered stable for generations could face new risks in the years ahead. Closing this gap, most experts agree, will require steady long-term investment rather than a one-time response to a single disaster."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Rural mountainous territories demonstrate superior resilience against unexpected landslide hazards",
+       "B": "Sensor-based detection technologies have effectively eliminated landslide vulnerabilities across high-risk zones",
+       "C": "Heavy rainfall can trigger landslides, and several combined causes and solutions are described",
+       "D": "Catastrophic ground slope collapses exclusively impact untouched ecosystems free from human construction"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu đầu tiên của đoạn 1 (mưa lớn gây lo ngại ở vùng đồi núi) kết hợp với các câu chủ đề ở các đoạn sau (yếu tố gây sạt lở, hậu quả, giải pháp và những thách thức còn tồn tại). Lựa chọn phương án bao quát toàn bộ nội dung: mưa lớn có thể kích hoạt sạt lở đất, đồng thời bài viết giải thích các nguyên nhân kết hợp và những giải pháp khắc phục."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why does prolonged rainfall over several days tend to be more dangerous than a single short, heavy rainstorm?",
+      "options": {
+       "A": "It weakens tree roots directly rather than affecting the soil",
+       "B": "It increases the steepness of hillsides over a short time",
+       "C": "It gradually saturates deeper layers of soil beneath the surface",
+       "D": "It causes roads to flood before any soil movement begins"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"prolonged or repeated rainfall\" ở đoạn 2. Đoạn văn giải thích lý do mưa kéo dài nhiều ngày nguy hiểm hơn mưa rào ngắn là vì nó làm bão hòa dần các lớp đất sâu hơn dưới bề mặt (saturates deeper layers of soil)."
+     },
+     {
+      "number": 3,
+      "stem": "According to the passage, what can happen to communities that escape direct landslide damage?",
+      "options": {
+       "A": "They usually see property values increase due to safety upgrades",
+       "B": "They may face rising insurance costs and falling property values afterward",
+       "C": "They are required to relocate within a fixed period of time",
+       "D": "They typically receive immediate government compensation for potential future risk"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"escape direct damage\" ở đoạn 3. Quan sát hậu quả đối với các cộng đồng không bị thiệt hại trực tiếp: họ vẫn phải đối mặt với chi phí bảo hiểm tăng cao và giá trị bất động sản sụt giảm."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to reduce landslide danger?",
+      "options": {
+       "A": "Planting trees and vegetation to restore slope stability",
+       "B": "Distributing safety guidelines about warning signs to residents",
+       "C": "Building drainage channels to carry excess water away",
+       "D": "Relocating entire villages to newly built government towns"
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét đoạn 4 danh sách các biện pháp giảm thiểu nguy cơ sạt lở được đề cập: trồng cây khôi phục độ ổn định (planting trees), phát tài liệu hướng dẫn an toàn cho người dân (distributing safety guidelines), và xây kênh thoát nước (building drainage channels). Tìm phương án chứa hành động không hề được nhắc tới trong đoạn văn (như việc di dời toàn bộ làng mạc đến các đô thị mới do chính phủ xây)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"trigger\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "trace",
+       "B": "cause",
+       "C": "erode",
+       "D": "worsen"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"trigger\" ở đoạn 1 mô tả việc áp lực nước làm khởi phát/gây ra sự chuyển dịch đột ngột của đất đá. Từ này đồng nghĩa với gây ra, kích hoạt (cause)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"restore\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "remove",
+       "B": "replace",
+       "C": "renew",
+       "D": "reduce"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"restore\" ở đoạn 4 mô tả việc trồng cây giúp khôi phục/làm mới lại độ ổn định tự nhiên của sườn dốc đã bị mất do phá rừng. Từ này sát nghĩa nhất với làm mới, khôi phục (renew)."
+     },
+     {
+      "number": 7,
+      "stem": "The phrase \"Such events\" in paragraph 1 refers to _______.",
+      "options": {
+       "A": "hillsides",
+       "B": "heavy rainstorms",
+       "C": "landslides",
+       "D": "warning signs"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tìm cụm từ \"Such events\" ở câu cuối đoạn 1. Áp dụng quy tắc đọc ngược câu phía trước để xác định hiện tượng được nhắc đến: sự chuyển dịch đột ngột của đất và đá xuống dốc được gọi là hiện tượng sạt lở đất (landslides). Cụm từ này quy chiếu thẳng đến các trận sạt lở đất."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, what do some scientists warn about shifting weather patterns?",
+      "options": {
+       "A": "They primarily intensify precipitation hazards within zones traditionally accustomed to heavy monsoon rains",
+       "B": "They have rendered technological monitoring networks obsolete across remote mountainous communities",
+       "C": "They may bring heavier and more frequent storms to unaccustomed regions",
+       "D": "They will produce a sustained worldwide reduction in total annual rainfall levels across all continents"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"shifting weather patterns\" ở đoạn 5. Tìm chi tiết cảnh báo của các nhà khoa học: sự thay đổi thời tiết có thể mang theo các trận mưa lớn và thường xuyên hơn đến những khu vực vốn chưa quen với kiểu thời tiết này."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about villages that rely on word-of-mouth rather than a formal alert system?",
+      "options": {
+       "A": "They experience minimal slope failure risks due to their geographical isolation from urban centers",
+       "B": "They achieve equivalent emergency reaction speeds compared to communities equipped with automated sensors",
+       "C": "They likely receive warnings later than villages with sensor-based systems",
+       "D": "They deliberately favor informal communication models because traditional methods outperform technology"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đọc đoạn 5 về việc các ngôi làng hẻo lánh vẫn phải dựa vào truyền miệng"
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall purpose in writing this passage?",
+      "options": {
+       "A": "To criticize governments for entirely ignoring rural landslide warning needs",
+       "B": "To explain how landslides occur and describe efforts to reduce danger",
+       "C": "To argue that landslides can never be prevented by any method",
+       "D": "To promote only one company's landslide warning technology as the best Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Xem xét cấu trúc toàn bài văn: tác giả vừa giải thích cơ chế tự nhiên và nhân tạo gây ra sạt lở đất, vừa trình bày các nỗ lực, công nghệ và chính sách nhằm giảm thiểu rủi ro. Mục đích chính là giải thích cách sạt lở diễn ra và mô tả các nỗ lực giảm thiểu rủi ro nguy hiểm này."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu đầu tiên của đoạn 1 (mưa lớn gây lo ngại ở vùng đồi núi) kết hợp với các câu chủ đề ở các đoạn sau (yếu tố gây sạt lở, hậu quả, giải pháp và những thách thức còn tồn tại). Lựa chọn phương án bao quát toàn bộ nội dung: mưa lớn có thể kích hoạt sạt lở đất, đồng thời bài viết giải thích các nguyên nhân kết hợp và những giải pháp khắc phục.\n- **Dạng câu hỏi Chi tiết (R1Q2 - R1Q3 & R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R1Q2**, quét từ khóa \"prolonged or repeated rainfall\" ở đoạn 2. Đoạn văn giải thích lý do mưa kéo dài nhiều ngày nguy hiểm hơn mưa rào ngắn là vì nó làm bão hòa dần các lớp đất sâu hơn dưới bề mặt (saturates deeper layers of soil).\n  - Với **R1Q3**, quét từ khóa \"escape direct damage\" ở đoạn 3. Quan sát hậu quả đối với các cộng đồng không bị thiệt hại trực tiếp: họ vẫn phải đối mặt với chi phí bảo hiểm tăng cao và giá trị bất động sản sụt giảm.\n  - Với **R1Q8**, quét từ khóa \"shifting weather patterns\" ở đoạn 5. Tìm chi tiết cảnh báo của các nhà khoa học: sự thay đổi thời tiết có thể mang theo các trận mưa lớn và thường xuyên hơn đến những khu vực vốn chưa quen với kiểu thời tiết này.\n- **Dạng câu hỏi Loại trừ NOT (R1Q4):** Đọc quét đoạn 4 danh sách các biện pháp giảm thiểu nguy cơ sạt lở được đề cập: trồng cây khôi phục độ ổn định (planting trees), phát tài liệu hướng dẫn an toàn cho người dân (distributing safety guidelines), và xây kênh thoát nước (building drainage channels). Tìm phương án chứa hành động không hề được nhắc tới trong đoạn văn (như việc di dời toàn bộ làng mạc đến các đô thị mới do chính phủ xây).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q5 - R1Q6):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R1Q5**, từ **\"trigger\"** ở đoạn 1 mô tả việc áp lực nước làm khởi phát/gây ra sự chuyển dịch đột ngột của đất đá. Từ này đồng nghĩa với gây ra, kích hoạt (cause).\n  - Với **R1Q6**, từ **\"restore\"** ở đoạn 4 mô tả việc trồng cây giúp khôi phục/làm mới lại độ ổn định tự nhiên của sườn dốc đã bị mất do phá rừng. Từ này sát nghĩa nhất với làm mới, khôi phục (renew).\n- **Dạng câu hỏi Quy chiếu (R1Q7):** Tìm cụm từ **\"Such events\"** ở câu cuối đoạn 1. Áp dụng quy tắc đọc ngược câu phía trước để xác định hiện tượng được nhắc đến: sự chuyển dịch đột ngột của đất và đá xuống dốc được gọi là hiện tượng sạt lở đất (landslides). Cụm từ này quy chiếu thẳng đến các trận sạt lở đất.\n- **Dạng câu hỏi Suy luận (R1Q9):** Đọc đoạn 5 về việc các ngôi làng hẻo lánh vẫn phải dựa vào truyền miệng\n(word-of-mouth) thay vì hệ thống cảnh báo sớm dựa trên cảm biến. Từ đó suy luận rằng những cộng đồng này nhiều khả năng sẽ nhận được thông tin cảnh báo chậm hơn so với những nơi có hệ thống tự động.\n- **Dạng câu hỏi Mục đích của tác giả (R1Q10):** Xem xét cấu trúc toàn bài văn: tác giả vừa giải thích cơ chế tự nhiên và nhân tạo gây ra sạt lở đất, vừa trình bày các nỗ lực, công nghệ và chính sách nhằm giảm thiểu rủi ro. Mục đích chính là giải thích cách sạt lở diễn ra và mô tả các nỗ lực giảm thiểu rủi ro nguy hiểm này.\nLời khuyên: Bắt đầu bài làm bằng việc xử lý nhanh các câu hỏi Quy chiếu (R1Q7) và Từ vựng (R1Q5, R1Q6). Kế tiếp, áp dụng kỹ thuật đọc quét để tìm dữ kiện cho các câu **Chi tiết** (R1Q2, R1Q3, R1Q8) và **Loại trừ** (R1Q4). Sau cùng, liên kết mạch nội dung để hoàn thành các câu tổng hợp như **Suy luận** (R1Q9), **Mục đích tác giả** (R1Q10) và **Ý chính toàn bài** (R1Q1)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Comparing Experiences of Anti-Asian Discrimination in the United States and Canada",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Both the United States and Canada are home to large and diverse Asian communities, and both countries have, at various points over the past two decades, seen public conversations intensify around discrimination directed at people of Asian descent. Comparative researchers studying these conversations have generally cautioned against assuming that discrimination looks the same, or occurs at the same rate, simply because the two countries share a long border and, in some respects, comparable immigration histories. Beneath surface similarities, several studies suggest, lie meaningful differences in how discrimination is experienced, reported, and addressed.",
+     "Understanding present-day patterns arguably requires looking backward first, since both nations built exclusionary immigration policy directly into law during roughly the same historical period. The United States barred most Chinese immigration outright beginning in 1882, a policy that remained in force for over sixty years, while Canada imposed a steep head tax on Chinese immigrants before adopting its own near-total exclusion law in 1923. These policies were not merely historical footnotes, several historians argue; the legal architecture built to justify them shaped public attitudes in ways that echoed for generations afterward, even once the laws themselves were formally repealed.",
+     "More recent survey data complicates any simple before-and-after narrative. Large-scale surveys conducted since 2020 have found that a substantial majority of Asian American respondents report having personally experienced some form of discrimination, ranging from subtle social slights to overt verbal harassment, with a smaller but still significant share reporting physical intimidation or assault. Canadian surveys covering the same period show comparable proportions reporting verbal harassment, yet somewhat lower proportions reporting physical incidents — a gap researchers have not fully explained, though some point to differences in urban population density and policing practices between the two countries.",
+     "One frequently proposed explanation for divergent public responses lies in each country's official approach to cultural diversity. Canada adopted multiculturalism as formal government policy in 1971, embedding the concept into federal law and public education in ways that the United States, which has never adopted an equivalent national policy, largely has not. Whether this difference meaningfully reduces discrimination itself remains disputed; some researchers argue that official multiculturalism mainly shapes how incidents are discussed and reported publicly rather than how frequently they occur in the first place.",
+     "The economic dimension of discrimination has received somewhat less public attention than incidents of harassment, though the data here is arguably just as revealing. In both countries, Asian professionals are frequently associated with the so-called model minority stereotype, an assumption of uniform academic and economic success that, researchers note, **obscures** considerable internal variation and can itself function as a barrier — subtly justifying the underrepresentation of Asian employees in senior leadership roles even at firms and universities where entry-level representation is comparatively high. Wage and promotion data from both countries show measurable gaps between Asian employees and their non-Asian peers at senior levels, gaps that narrow only modestly once education and years of experience are statistically controlled for.",
+     "Community organizations in both countries have responded by building reporting networks intended to capture incidents that official crime statistics tend to **undercount**, since many victims, researchers find, do not report incidents to police at all. **These grassroots reporting** systems, while methodologically different from official statistics, have in both countries produced the most detailed available data on lower-level harassment — the kind of incident too minor, in the view of many victims, to justify a formal police report but frequent enough, taken together, to shape everyday experience.",
+     "Taken as a whole, the comparative research suggests that formal policy differences between the two countries have shaped the public conversation around anti-Asian discrimination more clearly than they have shaped its underlying prevalence. Whether Canada's longer-standing multiculturalism policy will, over a longer time horizon, produce measurably different outcomes than the American approach remains, most researchers agree, an open question that current data cannot yet answer with confidence."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Discrimination against Asian people occurs only within workplace settings rather than in public life generally",
+       "B": "Discrimination against Asian people differs across the US and Canada mainly in how it is reported",
+       "C": "The United States has never enacted any exclusionary immigration law aimed at Asian immigrants historically",
+       "D": "Canada's official policy of multiculturalism has entirely eliminated discrimination against Asian communities in the country"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc đoạn 1 (giới thiệu sự khác biệt trong cách phân biệt đối xử được trải nghiệm, báo cáo và giải quyết giữa Mỹ và Canada) và kết hợp đọc câu kết của bài viết ở đoạn 7. Chọn phương án phản ánh đúng trọng tâm: sự khác biệt chính giữa hai quốc gia nằm ở cách thức phân biệt đối xử được phản ánh và thảo luận công khai, thay vì các khẳng định cực đoan như đã xóa bỏ triệt để hay chỉ xảy ra ở nơi làm việc."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, in what year did the United States begin barring most Chinese immigration?",
+      "options": {
+       "A": "1971",
+       "B": "1923",
+       "C": "2020",
+       "D": "1882"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"United States\", \"Chinese immigration\", \"barred\" ở đoạn 2 để tìm mốc thời gian cụ thể được nhắc đến khi Mỹ bắt đầu cấm nhập cư đối với đa số người Trung Quốc."
+     },
+     {
+      "number": 13,
+      "stem": "According to the passage, what notable difference did researchers find between Asian American and Canadian survey respondents?",
+      "options": {
+       "A": "Both groups reported completely identical proportions of physical and verbal incidents overall",
+       "B": "Canadian respondents reported somewhat lower proportions of physical incidents than Asian American respondents",
+       "C": "Canadian respondents reported far higher proportions of physical incidents than Asian American respondents",
+       "D": "Asian American respondents reported no verbal harassment at all in recent surveys"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"survey data\", \"Canadian surveys\", \"physical incidents\" ở đoạn 3. So sánh tỷ lệ giữa hai quốc gia: dữ liệu khảo sát ở Canada cho thấy tỷ lệ báo cáo các vụ việc đe dọa/tấn công thể chất thấp hơn so với khảo sát tại Mỹ."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, which of the following is NOT mentioned as an effect associated with the model minority stereotype?",
+      "options": {
+       "A": "It can function as a barrier to senior leadership representation",
+       "B": "It obscures considerable variation among Asian individuals and communities",
+       "C": "It is associated with measurable wage gaps at senior levels",
+       "D": "It guarantees automatic promotion into senior leadership positions quickly"
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét đoạn 5 về định kiến \"model minority\" (thiểu số kiểu mẫu). Các tác động được bài viết liệt kê bao gồm: che giấu sự khác biệt nội bộ (obscures internal variation), tạo rào cản lên vị trí lãnh đạo cấp cao (barrier in senior leadership), và gắn liền với khoảng cách về lương/thăng tiến. Phương án khẳng định định kiến này \"đảm bảo tự động thăng tiến nhanh chóng\" là chi tiết hoàn toàn sai lệch và trái ngược với nội dung bài đọc."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"obscures\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "hides",
+       "B": "promotes",
+       "C": "observes",
+       "D": "erases"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"obscures\" ở đoạn 5 mô tả việc giả định thành công chung của nhóm thiểu số kiểu mẫu làm che khuất/che giấu đi sự đa dạng và khác biệt thực sự bên trong cộng đồng. Từ này đồng nghĩa với che giấu, làm ẩn đi (hides)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"undercount\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "overreport",
+       "B": "underreport",
+       "C": "discount",
+       "D": "eliminate"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"undercount\" ở đoạn 6 mô tả việc số liệu thống kê tội phạm chính thức báo cáo thiếu/thấp hơn thực tế do nạn nhân không trình báo cảnh sát. Từ này đồng nghĩa với báo cáo dưới mức thực tế (underreport)."
+     },
+     {
+      "number": 17,
+      "stem": "The phrase \"These grassroots reporting systems\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "community reporting networks",
+       "B": "government multiculturalism programs",
+       "C": "official crime statistics",
+       "D": "the police"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tìm cụm từ \"These grassroots reporting systems\" ở đoạn 6. Đọc ngược lại câu phía trước để xác định thực thể được thay thế: câu trước đề cập đến việc các tổ chức cộng đồng tự xây dựng mạng lưới báo cáo (community reporting networks) để ghi nhận các vụ việc bị bỏ sót. Cụm từ quy chiếu trực tiếp đến các mạng lưới báo cáo cộng đồng này."
+     },
+     {
+      "number": 18,
+      "stem": "What remains uncertain about the effect of Canada's multiculturalism policy?",
+      "options": {
+       "A": "Whether the legislative framework applies uniformly across all sovereign provinces nationwide",
+       "B": "Whether Canadian authorities instituted this national strategy prior to similar American initiatives",
+       "C": "Whether the cultural guidelines have been formally integrated into public education and federal law",
+       "D": "Whether it produces measurably different discrimination outcomes than the American approach over time"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"multiculturalism policy\", \"open question\" hoặc \"uncertain\" ở đoạn 4 và đoạn 7. Nhận diện vấn đề chưa có lời giải đáp chắc chắn: liệu chính sách đa văn hóa lâu đời của Canada có tạo ra kết quả đo lường được khác biệt so với tiếp cận của Mỹ về lâu dài hay không."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from the passage about the relationship between official multiculturalism policy and the actual frequency of discrimination?",
+      "options": {
+       "A": "A formal policy always reduces discrimination frequency more effectively than informal social norms do",
+       "B": "A formal policy has no relationship whatsoever to how discrimination is publicly discussed",
+       "C": "A formal policy mainly affects immigration law rather than public discussion or discrimination frequency",
+       "D": "A formal policy may shape public discussion without necessarily reducing how often discrimination occurs"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp phân tích ở đoạn 4 và đoạn 7 về chính sách đa văn hóa chính thức của Canada. Tác giả chỉ ra rằng chính sách này chủ yếu định hình cách công chúng thảo luận và báo cáo các vụ việc, chứ không nhất thiết làm giảm tần suất xảy ra phân biệt đối xử thực tế. Tìm phương án thể hiện đúng mối quan hệ suy luận này."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's overall purpose in writing this passage?",
+      "options": {
+       "A": "To compare research findings on anti-Asian discrimination in the US and Canada carefully",
+       "B": "To prove that discrimination against Asian communities no longer exists in either country",
+       "C": "To argue that Canada's approach to discrimination is unquestionably superior to the American one",
+       "D": "To criticize individual researchers publicly for disagreeing about the causes of discrimination Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích của tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích thái độ và mục tiêu xuyên suốt văn bản: tác giả trình bày, so sánh và đối chiếu các phát hiện nghiên cứu về tình trạng phân biệt đối xử chống lại người gốc Á tại Mỹ và Canada một cách cẩn trọng, khách quan. Phương án miêu tả đúng hành động so sánh phân tích nghiên cứu này là lựa chọn chính xác."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn 1 (giới thiệu sự khác biệt trong cách phân biệt đối xử được trải nghiệm, báo cáo và giải quyết giữa Mỹ và Canada) và kết hợp đọc câu kết của bài viết ở đoạn 7. Chọn phương án phản ánh đúng trọng tâm: sự khác biệt chính giữa hai quốc gia nằm ở cách thức phân biệt đối xử được phản ánh và thảo luận công khai, thay vì các khẳng định cực đoan như đã xóa bỏ triệt để hay chỉ xảy ra ở nơi làm việc.\n- **Dạng câu hỏi Chi tiết (R2Q2 - R2Q3 & R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R2Q2**, quét các từ khóa \"United States\", \"Chinese immigration\", \"barred\" ở đoạn 2 để tìm mốc thời gian cụ thể được nhắc đến khi Mỹ bắt đầu cấm nhập cư đối với đa số người Trung Quốc.\n  - Với **R2Q3**, quét các từ khóa \"survey data\", \"Canadian surveys\", \"physical incidents\" ở đoạn 3. So sánh tỷ lệ giữa hai quốc gia: dữ liệu khảo sát ở Canada cho thấy tỷ lệ báo cáo các vụ việc đe dọa/tấn công thể chất thấp hơn so với khảo sát tại Mỹ.\n  - Với **R2Q8**, quét các từ khóa \"multiculturalism policy\", \"open question\" hoặc \"uncertain\" ở đoạn 4 và đoạn 7. Nhận diện vấn đề chưa có lời giải đáp chắc chắn: liệu chính sách đa văn hóa lâu đời của Canada có tạo ra kết quả đo lường được khác biệt so với tiếp cận của Mỹ về lâu dài hay không.\n- **Dạng câu hỏi Loại trừ NOT (R2Q4):** Đọc quét đoạn 5 về định kiến \"model minority\" (thiểu số kiểu mẫu). Các tác động được bài viết liệt kê bao gồm: che giấu sự khác biệt nội bộ (obscures internal variation), tạo rào cản lên vị trí lãnh đạo cấp cao (barrier in senior leadership), và gắn liền với khoảng cách về lương/thăng tiến. Phương án khẳng định định kiến này \"đảm bảo tự động thăng tiến nhanh chóng\" là chi tiết hoàn toàn sai lệch và trái ngược với nội dung bài đọc.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q5 - R2Q6):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R2Q5**, từ **\"obscures\"** ở đoạn 5 mô tả việc giả định thành công chung của nhóm thiểu số kiểu mẫu làm che khuất/che giấu đi sự đa dạng và khác biệt thực sự bên trong cộng đồng. Từ này đồng nghĩa với che giấu, làm ẩn đi (hides).\n  - Với **R2Q6**, từ **\"undercount\"** ở đoạn 6 mô tả việc số liệu thống kê tội phạm chính thức báo cáo thiếu/thấp hơn thực tế do nạn nhân không trình báo cảnh sát. Từ này đồng nghĩa với báo cáo dưới mức thực tế (underreport).\n- **Dạng câu hỏi Quy chiếu (R2Q7):** Tìm cụm từ **\"These grassroots reporting systems\"** ở đoạn 6. Đọc ngược lại câu phía trước để xác định thực thể được thay thế: câu trước đề cập đến việc các tổ chức cộng đồng tự xây dựng mạng lưới báo cáo (community reporting networks) để ghi nhận các vụ việc bị bỏ sót. Cụm từ quy chiếu trực tiếp đến các mạng lưới báo cáo cộng đồng này.\n- **Dạng câu hỏi Suy luận (R2Q9):** Kết hợp phân tích ở đoạn 4 và đoạn 7 về chính sách đa văn hóa chính thức của Canada. Tác giả chỉ ra rằng chính sách này chủ yếu định hình cách công chúng thảo luận và báo cáo các vụ việc, chứ không nhất thiết làm giảm tần suất xảy ra phân biệt đối xử thực tế. Tìm phương án thể hiện đúng mối quan hệ suy luận này.\n- **Dạng câu hỏi Mục đích của tác giả (R2Q10):** Phân tích thái độ và mục tiêu xuyên suốt văn bản: tác giả trình bày, so sánh và đối chiếu các phát hiện nghiên cứu về tình trạng phân biệt đối xử chống lại người gốc Á tại Mỹ và Canada một cách cẩn trọng, khách quan. Phương án miêu tả đúng hành động so sánh phân tích nghiên cứu này là lựa chọn chính xác.\nLời khuyên: Hãy ưu tiên hoàn thành nhanh nhóm câu hỏi Quy chiếu (R2Q7) và Từ vựng (R2Q5, R2Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý chính xác các câu hỏi **Chi tiết** (R2Q2, R2Q3, R2Q8) và câu hỏi **Loại trừ** (R2Q4). Sau cùng, tổng hợp lập luận logic toàn bài để lựa chọn đáp án chuẩn xác cho các câu đòi hỏi tư duy cao như **Suy luận** (R2Q9), Mục đích tác giả (R2Q10) và Ý chính toàn bài (R2Q1)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Shifting Patterns in Lung Cancer Diagnosis and Treatment",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Lung cancer continues to account for more cancer deaths worldwide than any other single malignancy, a statistic that has remained essentially unchanged for decades even as survival rates for many other cancers have improved. Much of this burden traces back to how the disease is typically discovered: because early-stage tumors rarely produce symptoms, most cases are diagnosed only after the cancer has spread, at which point treatment options narrow considerably. Smoking remains the largest risk factor by a wide margin, yet the diagnosed population has grown noticeably more heterogeneous in recent years, with a growing share of cases occurring in people who have never smoked.",
+     "Screening with low-dose computed tomography has been shown, in large trials, to reduce mortality among people meeting specific age and smoking-history criteria, yet uptake remains far lower than officials had hoped. Part of the hesitation stems from an unresolved tension: while catching tumors earlier improves outcomes for many patients, a nontrivial proportion of screen-detected abnormalities would, evidence suggests, never have caused clinical harm if left undetected, exposing those patients to biopsies and unnecessary surgery without any survival benefit. Distinguishing which nodules genuinely warrant aggressive follow-up from which can safely be monitored remains, several oncologists note, a persistently unresolved question.",
+     "Diagnosis today increasingly involves more than confirming a tumor's presence. Molecular testing for mutations in genes such as EGFR, ALK, and KRAS has, over roughly fifteen years, transformed treatment from a largely uniform approach into something considerably more individualized, since tumors carrying particular mutations often respond dramatically to drugs that offer little benefit to tumors lacking them. **This** shift has proven especially consequential for the never-smoker patients mentioned earlier, whose tumors are disproportionately likely to carry precisely the mutations these targeted therapies address — reshaping how clinicians approach a population that earlier screening guidelines, built around smoking history, were not designed to capture.",
+     "Immunotherapy works by a fundamentally different mechanism, prompting a patient's immune system to attack cancer cells rather than targeting a specific mutation. Checkpoint inhibitors have measurably extended survival for a meaningful subset of patients, sometimes producing responses persisting for years in cases once considered untreatable. Response, however, remains markedly **heterogeneous-** : biomarkers such as PD-L1 expression offer some predictive value, but a substantial minority of low-expressing tumors nonetheless respond well, while some high-expressing tumors fail to respond at all, leaving clinicians without a fully reliable way to predict who benefits most.",
+     "None of these advances, it should be emphasized, has been distributed evenly across the population that might benefit. Access to screening, molecular testing, and the newest agents correlates strongly with insurance coverage, proximity to specialized centers, and, in several studies, race — disparities that compound rather than merely coexist, since a patient without molecular testing cannot, by definition, benefit from a targeted therapy regardless of whether their tumor would have responded well. Rural populations face a documented combination of lower screening rates and longer distances to capable centers, a gap several researchers argue has only widened as treatment has grown more specialized.",
+     "Prevention efforts present a genuinely mixed global picture. Sustained tobacco taxation and indoor smoking bans have coincided with declining incidence in several high-income countries, though researchers caution that correlation alone cannot establish how much these specific policies caused versus other concurrent shifts. In other regions, incidence continues to rise alongside growing tobacco use, complicating any simple narrative of improvement. Attention has also turned toward non-smoking risk factors — residential radon and outdoor air pollution chief among them — which researchers believe account for a disproportionate share of never-smoker cases, though quantifying their precise contribution remains considerably harder than measuring a well-documented exposure like cigarette smoke.",
+     "Looking ahead, emerging technologies have generated considerable optimism, though most researchers temper that optimism with caution. Liquid biopsy techniques, detecting tumor DNA fragments in blood, may eventually allow earlier detection without invasive sampling, while AI tools applied to imaging show promise in flagging abnormalities a radiologist might miss. Neither technology, however, has yet been validated at the scale required for routine use, and several specialists have cautioned against a pattern of **overpromising** in early coverage, noting that the gap between a promising finding and a reliable, equitably accessible tool has historically proven wider than initial enthusiasm suggests."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Lung cancer care has advanced scientifically, yet access to these advances remains uneven",
+       "B": "Immunotherapy has fully replaced molecular testing as the standard for every lung cancer case",
+       "C": "Cigarette smoking is the only meaningful risk factor across every group of patients",
+       "D": "Every recent lung cancer treatment advance has reached all patient populations equally worldwide"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc đoạn 1 (những tiến bộ y học và thách thức trong chẩn đoán ung thư phổi) kết hợp với các đoạn 3, 4, 5 (xét nghiệm phân tử, liệu pháp miễn dịch và khoảng cách bất bình đẳng trong tiếp cận y tế). Lựa chọn phương án bao quát cả hai khía cạnh: y học ung thư phổi đã có những tiến bộ khoa học vượt bậc, nhưng khả năng tiếp cận các thành tựu này vẫn chưa đồng đều giữa các nhóm bệnh nhân."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what tension complicates the case for widespread lung cancer screening?",
+      "options": {
+       "A": "Earlier detection helps patients, but some abnormalities detected would never have caused real harm",
+       "B": "Screening programs have been shown in every trial to increase mortality among high-risk patients",
+       "C": "Public health officials have found screening uptake exceeds expectations in most affected countries",
+       "D": "Screening criteria based on age and smoking history have already been abandoned by all programs"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"screening\", \"unresolved tension\" ở đoạn 2. Đoạn văn chỉ ra sự mâu thuẫn: việc phát hiện sớm giúp cải thiện điều trị, nhưng một tỷ lệ bất thường phát hiện qua tầm soát lại không hề gây hại lâm sàng nếu để nguyên, khiến bệnh nhân phải chịu phẫu thuật/sinh thiết không cần thiết."
+     },
+     {
+      "number": 23,
+      "stem": "Why has molecular testing become especially relevant to the growing population of never-smoker patients mentioned earlier in the passage?",
+      "options": {
+       "A": "Never-smoker tumors usually lack genetic mutations detectable by modern tests",
+       "B": "Never-smoker tumors respond far better to immunotherapy than molecular testing",
+       "C": "Never-smoker patients are excluded entirely from standard screening protocols",
+       "D": "Never-smoker tumors often have mutations targeted by specific drugs"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"molecular testing\", \"never-smoker\" ở đoạn 3. Nhận diện lý do xét nghiệm phân tử đặc biệt quan trọng với nhóm không hút thuốc: khối u của họ có tỷ lệ sở hữu các đột biến gen mà các liệu pháp trúng đích (targeted therapies) được thiết kế riêng để điều trị cao hơn đáng kể."
+     },
+     {
+      "number": 24,
+      "stem": "According to the passage, which of the following is NOT mentioned as part of lung cancer prevention efforts?",
+      "options": {
+       "A": "Mandatory annual chest X-rays nationwide",
+       "B": "Comprehensive bans on indoor smoking",
+       "C": "Sustained taxation on tobacco products",
+       "D": "Residential radon gas exposure levels"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét đoạn 6 về các nỗ lực phòng ngừa ung thư phổi được nhắc tới: thuế đánh vào thuốc lá (tobacco taxation), cấm hút thuốc trong nhà (indoor smoking bans) và theo dõi chất khí radon trong nhà (residential radon). Tìm phương án đề cập đến biện pháp không hề xuất hiện trong bài đọc (như quy định bắt buộc chụp X-quang ngực hàng năm trên toàn quốc)."
+     },
+     {
+      "number": 25,
+      "stem": "The word \"heterogeneous\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "varied",
+       "B": "inconsistent",
+       "C": "hereditary",
+       "D": "targeted"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"heterogeneous\" ở đoạn 4 mô tả mức độ phản ứng với liệu pháp miễn dịch rất đa dạng, khác biệt lớn giữa các bệnh nhân. Do đó, từ này đồng nghĩa với đa dạng, khác nhau (varied)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"overpromising\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "exaggerating",
+       "B": "validating",
+       "C": "overlooking",
+       "D": "guaranteeing"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"overpromising\" ở đoạn 7 mô tả việc truyền thông quá đà/hứa hẹn quá mức về hiệu quả của các công nghệ mới khi chưa được kiểm chứng quy mô lớn. Từ này sát nghĩa nhất với thổi phồng, phóng đại (exaggerating)."
+     },
+     {
+      "number": 27,
+      "stem": "The phrase \"This shift\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "the move toward individualized, mutation-based treatment",
+       "B": "the decline in overall smoking rates",
+       "C": "the age-based screening guidelines used earlier",
+       "D": "the steadily growing population of never-smokers"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tìm cụm từ \"This shift\" ở đoạn 3. Áp dụng quy tắc đọc ngược lại câu trước: câu trước đề cập đến việc chuyển đổi từ phương pháp điều trị đồng khuôn/đồng nhất sang phương pháp cá thể hóa dựa trên xét nghiệm đột biến gen. Cụm từ quy chiếu trực tiếp đến sự chuyển dịch sang điều trị cá thể hóa dựa trên đột biến này."
+     },
+     {
+      "number": 28,
+      "stem": "Why does the passage suggest that molecular testing access disparities may compound rather than simply coexist with other disparities?",
+      "options": {
+       "A": "A patient lacking molecular testing access cannot benefit from a well-suited therapy",
+       "B": "Targeted therapies are equally effective regardless of whether molecular testing was ever performed",
+       "C": "Molecular testing is now universally available regardless of insurance coverage or location",
+       "D": "Rural patients receive molecular testing more consistently than urban specialized center patients"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Suy luận",
+      "explanation": "quét các từ khóa \"molecular testing\", \"disparities\", \"compound\" ở đoạn 5. Tìm giải thích của bài viết: sự thiếu hụt về xét nghiệm phân tử làm trầm trọng thêm các bất bình đẳng khác vì một bệnh nhân không được xét nghiệm phân tử thì về mặt bản chất sẽ không thể hưởng lợi từ liệu pháp trúng đích tương ứng."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraph 7 about the likely near-term impact of liquid biopsy and AI-assisted imaging on equitable lung cancer care?",
+      "options": {
+       "A": "They are expected to replace tissue-based molecular testing within a few years",
+       "B": "Their actual benefit for all patients remains uncertain despite current research",
+       "C": "They have already eliminated existing economic disparities in access to care",
+       "D": "They are considered fully validated and ready for immediate clinical use"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đọc đoạn 7 về các công nghệ mới như sinh thiết lỏng (liquid biopsy) và AI trong chẩn đoán hình ảnh. Tác giả nhấn mạnh cả hai công nghệ đều chưa được xác minh trên quy mô lớn và khoảng cách từ nghiên cứu hứa hẹn đến công cụ thực tế, tiếp cận bình đẳng vẫn còn rộng. Từ đó suy luận rằng lợi ích thực tế bình đẳng của chúng cho tất cả bệnh nhân trong tương lai gần vẫn chưa chắc chắn."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's overall attitude toward recent advances in lung cancer care?",
+      "options": {
+       "A": "Dismissive, treating recent scientific advances as largely irrelevant to patient outcomes",
+       "B": "Fully confident that modern innovations have successfully solved all remaining issues",
+       "C": "Uniformly pessimistic about the long-term clinical value of current screening methods",
+       "D": "Cautiously optimistic, noting progress alongside open questions Reading"
+      },
+      "answer": "D",
+      "type_hint": "Thái độ của tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Phân tích giọng văn toàn bài: tác giả thừa nhận những đột phá lớn (xét nghiệm gen, liệu pháp miễn dịch, AI) nhưng luôn đi kèm với sự thận trọng khi nêu lên các bất bình đẳng tiếp cận và các mâu thuẫn/câu hỏi chưa có lời giải. Thái độ này thể hiện sự lạc quan có cẩn trọng (cautiously optimistic). Lời khuyên: Hãy bắt đầu bằng cách xử lý nhanh nhóm câu hỏi Quy chiếu (R3Q7) và Từ vựng (R3Q5, R3Q6). Tiếp theo, tận dụng kỹ năng đọc quét để giải quyết chính xác các câu hỏi Chi tiết (R3Q2, R3Q3, R3Q8) và câu hỏi Loại trừ (R3Q4). Cuối cùng, liên kết logic toàn bài để chọn đáp án chuẩn xác cho các câu tổng hợp bao gồm Suy luận (R3Q9), Thái độ tác giả (R3Q10) và Ý chính toàn bài (R3Q1)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn 1 (những tiến bộ y học và thách thức trong chẩn đoán ung thư phổi) kết hợp với các đoạn 3, 4, 5 (xét nghiệm phân tử, liệu pháp miễn dịch và khoảng cách bất bình đẳng trong tiếp cận y tế). Lựa chọn phương án bao quát cả hai khía cạnh: y học ung thư phổi đã có những tiến bộ khoa học vượt bậc, nhưng khả năng tiếp cận các thành tựu này vẫn chưa đồng đều giữa các nhóm bệnh nhân.\n- **Dạng câu hỏi Chi tiết (R3Q2 - R3Q3 & R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R3Q2**, quét các từ khóa \"screening\", \"unresolved tension\" ở đoạn 2. Đoạn văn chỉ ra sự mâu thuẫn: việc phát hiện sớm giúp cải thiện điều trị, nhưng một tỷ lệ bất thường phát hiện qua tầm soát lại không hề gây hại lâm sàng nếu để nguyên, khiến bệnh nhân phải chịu phẫu thuật/sinh thiết không cần thiết.\n  - Với **R3Q3**, quét các từ khóa \"molecular testing\", \"never-smoker\" ở đoạn 3. Nhận diện lý do xét nghiệm phân tử đặc biệt quan trọng với nhóm không hút thuốc: khối u của họ có tỷ lệ sở hữu các đột biến gen mà các liệu pháp trúng đích (targeted therapies) được thiết kế riêng để điều trị cao hơn đáng kể.\n  - Với **R3Q8**, quét các từ khóa \"molecular testing\", \"disparities\", \"compound\" ở đoạn 5. Tìm giải thích của bài viết: sự thiếu hụt về xét nghiệm phân tử làm trầm trọng thêm các bất bình đẳng khác vì một bệnh nhân không được xét nghiệm phân tử thì về mặt bản chất sẽ không thể hưởng lợi từ liệu pháp trúng đích tương ứng.\n- **Dạng câu hỏi Loại trừ NOT (R3Q4):** Đọc quét đoạn 6 về các nỗ lực phòng ngừa ung thư phổi được nhắc tới: thuế đánh vào thuốc lá (tobacco taxation), cấm hút thuốc trong nhà (indoor smoking bans) và theo dõi chất khí radon trong nhà (residential radon). Tìm phương án đề cập đến biện pháp không hề xuất hiện trong bài đọc (như quy định bắt buộc chụp X-quang ngực hàng năm trên toàn quốc).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q5 - R3Q6):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R3Q5**, từ **\"heterogeneous\"** ở đoạn 4 mô tả mức độ phản ứng với liệu pháp miễn dịch rất đa dạng, khác biệt lớn giữa các bệnh nhân. Do đó, từ này đồng nghĩa với đa dạng, khác nhau (varied).\n  - Với **R3Q6**, từ **\"overpromising\"** ở đoạn 7 mô tả việc truyền thông quá đà/hứa hẹn quá mức về hiệu quả của các công nghệ mới khi chưa được kiểm chứng quy mô lớn. Từ này sát nghĩa nhất với thổi phồng, phóng đại (exaggerating).\n- **Dạng câu hỏi Quy chiếu (R3Q7):** Tìm cụm từ **\"This shift\"** ở đoạn 3. Áp dụng quy tắc đọc ngược lại câu trước: câu trước đề cập đến việc chuyển đổi từ phương pháp điều trị đồng khuôn/đồng nhất sang phương pháp cá thể hóa dựa trên xét nghiệm đột biến gen. Cụm từ quy chiếu trực tiếp đến sự chuyển dịch sang điều trị cá thể hóa dựa trên đột biến này.\n- **Dạng câu hỏi Suy luận (R3Q9):** Đọc đoạn 7 về các công nghệ mới như sinh thiết lỏng (liquid biopsy) và AI trong chẩn đoán hình ảnh. Tác giả nhấn mạnh cả hai công nghệ đều chưa được xác minh trên quy mô lớn và khoảng cách từ nghiên cứu hứa hẹn đến công cụ thực tế, tiếp cận bình đẳng vẫn còn rộng. Từ đó suy luận rằng lợi ích thực tế bình đẳng của chúng cho tất cả bệnh nhân trong tương lai gần vẫn chưa chắc chắn.\n- **Dạng câu hỏi Thái độ của tác giả (R3Q10):** Phân tích giọng văn toàn bài: tác giả thừa nhận những đột phá lớn (xét nghiệm gen, liệu pháp miễn dịch, AI) nhưng luôn đi kèm với sự thận trọng khi nêu lên các bất bình đẳng tiếp cận và các mâu thuẫn/câu hỏi chưa có lời giải. Thái độ này thể hiện sự lạc quan có cẩn trọng (cautiously optimistic). Lời khuyên: Hãy bắt đầu bằng cách xử lý nhanh nhóm câu hỏi Quy chiếu (R3Q7) và Từ vựng (R3Q5, R3Q6). Tiếp theo, tận dụng kỹ năng đọc quét để giải quyết chính xác các câu hỏi **Chi tiết** (R3Q2, R3Q3, R3Q8) và câu hỏi **Loại trừ** (R3Q4). Cuối cùng, liên kết logic toàn bài để chọn đáp án chuẩn xác cho các câu tổng hợp bao gồm **Suy luận** (R3Q9), **Thái độ** tác giả (R3Q10) và Ý chính toàn bài (R3Q1)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "What the Big Bang Theory Does and Does Not Claim",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "That the universe originated in a single, definable event — an image evoked by the phrase 'the Big Bang' — is, strictly speaking, a more contested characterization than popular accounts suggest. What cosmologists mean by the term is narrower and more hedged than the everyday image implies: a description, grounded in extrapolating well-tested physical laws backward in time, of how a hot, dense, rapidly expanding early universe evolved into the cosmos observed today, rather than a claim, fully substantiated by current physics, about what — if anything — preceded or caused that initial state.",
+     "Confidence in this picture rests on several independent lines of evidence rather than any single observation. Foremost, historically, was the discovery that distant galaxies recede from our own at speeds roughly proportional to their distance — a relationship first documented in the late 1920s and now understood to reflect space itself expanding, not galaxies moving through static space. Run the expansion backward mathematically, and one arrives, under reasonable assumptions, at an epoch when all observable matter would have been compressed into an extraordinarily hot, dense state.",
+     "It was not this recession data alone, however, but a largely accidental discovery decades later that most decisively corroborated the emerging picture. In 1965, researchers testing a radio antenna detected a faint, uniform background of microwave radiation arriving from every direction in the sky — radiation interpreted as the cooled remnant of light released roughly 380,000 years after the universe's earliest moments, once it had cooled enough for atoms to form and light to travel freely. Minor variations in this background's temperature are understood to trace the density fluctuations from which galaxies eventually formed, linking the earliest observable universe to the large-scale structure seen billions of years later.",
+     "A further, independently derived line of support comes from predictions about the relative abundance of the universe's lightest elements. Calculations describing nuclear reactions in the first few minutes after the hot early state predict specific ratios of hydrogen, helium, and trace lithium that should have formed before stars existed to synthesize heavier elements. Observed hydrogen and helium abundances match these predictions closely enough to count, in the view of most physicists, as strong evidence; the predicted lithium abundance, however, diverges from what telescopes observe by a margin researchers have neither dismissed as error nor fully explained — a discrepancy known, with evident understatement, as the 'lithium problem.'",
+     "Even granting this evidence, the standard picture left certain features of the observed universe — its large-scale uniformity and geometric flatness — without a clear explanation, prompting the proposal, in the early 1980s, of a still-earlier phase of extraordinarily rapid expansion known as cosmic inflation. Inflationary models account elegantly for these puzzling features and have gained support from measurements of the microwave background's fine structure; whether inflation occurred in the manner any single model proposes, however, remains genuinely unsettled, since multiple variants fit current data adequately and no observation yet favors one definitively.",
+     "Perhaps the most misunderstood aspect of the theory concerns what it claims about the very beginning. Extrapolating known laws backward far enough produces a mathematical singularity — a point of infinite density at which those equations cease to yield meaningful predictions. Whether this artifact corresponds to an actual physical event, a literal beginning of time, or merely marks a boundary beyond which physics stops applying and some unknown theory would describe what came before, is a question current cosmology cannot answer with confidence; physicists are, on this point, considerably more **circumspect** than the popular narrative of a single originating explosion suggests.",
+     "This acknowledged limitation has not stopped more speculative proposals from circulating, some better supported than others. A minority of theorists, extending inflationary models to their logical conclusion, have proposed that inflation might never fully end everywhere at once, generating not one universe but a continually branching multitude of separate regions — a scenario described as eternal inflation and popularly associated with a broader multiverse. Such proposals remain, by the admission of many who take them seriously, largely **unfalsifiable** given current observational capacity, and mainstream cosmology treats them as intriguing possibilities warranting further development rather than established components of the standard model.",
+     "Considered as a whole, the evidence supporting an early hot, dense, expanding universe is genuinely robust for describing cosmic evolution from a small fraction of a second after that state onward — robust enough that the framework is treated as settled science. What remains considerably less settled, and what popular treatments frequently elide, is any confident claim about what the singularity itself represents physically, or what — if a meaningful 'before' even applies — might have preceded it; on these deepest questions, most working cosmologists hold a position of disciplined uncertainty rather than confident narrative."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Multiple independent evidence lines support an early expanding universe, but its ultimate origin remains open",
+       "B": "Cosmologists have definitively proven that a single explosive event created the universe out of nothing",
+       "C": "Current physics has convincingly ruled out any possibility that the universe had a definite beginning",
+       "D": "The cosmic microwave background alone fully settles every remaining question about the universe's origin"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc đoạn 1 (thuyết Big Bang được giải thích như sự tiến hóa từ trạng thái sớm thay vì nguồn gốc điểm khởi đầu) kết hợp với đoạn cuối cùng (đoạn 8) để tổng hợp luận điểm chính của tác giả: có nhiều bằng chứng độc lập ủng hộ mô hình vũ trụ giãn nở sớm, nhưng nguồn gốc điểm khởi đầu (singularity) vẫn là một câu hỏi mở chưa có lời giải đáp chắc chắn."
+     },
+     {
+      "number": 32,
+      "stem": "What role did the cosmic microwave background play relative to the earlier redshift observations?",
+      "options": {
+       "A": "It directly contradicted conclusions cosmologists had drawn from earlier redshift observations",
+       "B": "It first suggested cosmic expansion decades before redshift observations were ever made",
+       "C": "It provided decisive corroboration for a picture the redshift data had already suggested",
+       "D": "It was discovered specifically to test predictions made by redshift measurements"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"cosmic microwave background\", \"redshift\" ở đoạn 3. Đoạn văn chỉ ra sự phát hiện tình cờ của bức xạ nền vi sóng năm 1965 đã cung cấp bằng chứng củng cố mang tính quyết định (decisively corroborated) cho bức tranh giãn nở mà dữ liệu dịch chuyển đỏ (redshift) trước đó đã gợi mở."
+     },
+     {
+      "number": 33,
+      "stem": "According to the passage, how does the predicted abundance of lithium compare to that of hydrogen and helium in relation to observation?",
+      "options": {
+       "A": "Lithium predictions match observation perfectly while hydrogen and helium predictions remain disputed",
+       "B": "All three predicted element abundances match observed values equally closely and without exception",
+       "C": "None of the three predicted element abundances have ever matched any observed values",
+       "D": "Hydrogen and helium predictions match observation closely, but the lithium prediction remains unexplained"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"lithium\", \"hydrogen and helium\" ở đoạn 4. So sánh kết quả: dự đoán tỷ lệ hydro và heliam khớp rất sát với quan sát thực tế, trong khi tỷ lệ liti (lithium) dự đoán lại lệch so với quan sát qua kính thiên văn và vẫn chưa được giải thích trọn vẹn."
+     },
+     {
+      "number": 34,
+      "stem": "According to the passage, which of the following is NOT mentioned in connection with the theory of cosmic inflation?",
+      "options": {
+       "A": "Receiving support from background fine structure",
+       "B": "Helping explain the universe's large-scale uniformity",
+       "C": "Helping explain the universe's geometric flatness",
+       "D": "Being confirmed by direct gravitational detection"
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc quét đoạn 5 về thuyết lạm phát vũ trụ (cosmic inflation). Các yếu tố được nhắc tới bao gồm: nhận được sự ủng hộ từ cấu trúc vi mô của bức xạ nền (background fine structure), giúp giải thích tính đồng nhất diện rộng (large-scale uniformity) và độ phẳng hình học (geometric flatness). Tìm phương án đề cập đến chi tiết không hề xuất hiện trong bài (như việc được xác nhận trực tiếp bằng dò tìm sóng hấp dẫn)."
+     },
+     {
+      "number": 35,
+      "stem": "The word \"circumspect\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "cautious",
+       "B": "certain",
+       "C": "circular",
+       "D": "singular"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"circumspect\" ở đoạn 6 mô tả thái độ của các nhà vật lý so với truyền thông đại chúng: họ cẩn trọng hơn, không khẳng định chắc chắn về điểm khởi đầu khi chưa đủ dữ liệu. Từ này đồng nghĩa với cẩn trọng, thận trọng (cautious)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"unfalsifiable\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "unjustifiable",
+       "B": "unobservable",
+       "C": "untestable",
+       "D": "untrue"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"unfalsifiable\" ở đoạn 7 mô tả các lý thuyết lạm phát vĩnh cửu và đa vũ trụ chưa thể bác bỏ hay kiểm chứng được bằng năng lực quan sát hiện tại. Từ này đồng nghĩa với không thể kiểm chứng/bác bỏ (untestable)."
+     },
+     {
+      "number": 37,
+      "stem": "The phrase \"This acknowledged limitation\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "the accidental discovery of background radiation described earlier",
+       "B": "cosmology's inability to explain what preceded the singularity",
+       "C": "the earlier discrepancy in predicted lithium abundance levels",
+       "D": "the multiple competing inflationary models discussed earlier"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tìm cụm từ \"This acknowledged limitation\" ở câu đầu đoạn 7. Áp dụng quy tắc đọc ngược lại đoạn 6 phía trước: câu trước thảo luận về giới hạn của vật lý hiện đại khi không thể giải thích chắc chắn điều gì đứng đằng sau điểm kỳ dị hay điều gì xảy ra trước đó. Cụm từ quy chiếu trực tiếp đến giới hạn chưa thể giải thích được những gì tiền đề của điểm kỳ dị."
+     },
+     {
+      "number": 38,
+      "stem": "Which best characterizes what current cosmology can confidently claim about the universe's ultimate origin?",
+      "options": {
+       "A": "It can confirm that the singularity represents a literal physical beginning",
+       "B": "It can confirm with full certainty that nothing existed before the singularity",
+       "C": "It can describe the early dense state, but cannot confirm what preceded it",
+       "D": "It can rule out entirely any earlier physical process preceding the singularity"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"ultimate origin\", \"confidently claim\" ở đoạn 6 và đoạn 8. Tìm phát biểu phản ánh đúng giới hạn của vật lý hiện đại: có thể mô tả chính xác trạng thái đặc nóng ban đầu, nhưng không thể xác nhận điều gì đã xảy ra trước đó hay bản chất thực sự của điểm kỳ dị."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraph 5 about the current scientific status of cosmic inflation?",
+      "options": {
+       "A": "It was proposed but has since contradicted all microwave background measurements",
+       "B": "It is widely supported as a concept, but its precise mechanism remains unsettled",
+       "C": "It has been fully confirmed in every detail by unanimous scientific agreement",
+       "D": "It has been entirely rejected due to a lack of supporting evidence"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đọc đoạn 5 về thuyết lạm phát vũ trụ. Tác giả nêu rõ khái niệm lạm phát giải thích tốt các đặc tính của vũ trụ và có nhiều bằng chứng ủng hộ, tuy nhiên mô hình chính xác diễn ra như thế nào vẫn chưa được chốt (unsettled) vì có nhiều biến thể cùng phù hợp với dữ liệu hiện tại. Từ đó suy luận rằng khái niệm này được ủng hộ rộng rãi nhưng cơ chế chính xác vẫn chưa được quyết định chắc chắn."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's overall attitude toward popular narratives describing the Big Bang as a single, fully explained originating explosion?",
+      "options": {
+       "A": "Skeptical of oversimplified certainty, favoring a carefully qualified account of current physics",
+       "B": "Dismissive of all scientific evidence supporting an early expanding universe",
+       "C": "Fully supportive, treating popular narratives as accurate and complete summaries of physics",
+       "D": "Indifferent, expressing no view on how the theory is presented"
+      },
+      "answer": "A",
+      "type_hint": "Thái độ của tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Xem xét giọng văn ở đoạn 1 và đoạn 8 khi tác giả đối sánh giữa truyền thông đại chúng (popular narrative) vốn đơn giản hóa Big Bang như một vụ nổ đơn lẻ với thực tế nghiên cứu vật lý. Giọng văn tác giả thể hiện sự hoài nghi trước những khẳng định đơn giản hóa thái quá và ủng hộ cách tiếp cận có điều kiện, cẩn trọng của vật lý hiện đại."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn 1 (thuyết Big Bang được giải thích như sự tiến hóa từ trạng thái sớm thay vì nguồn gốc điểm khởi đầu) kết hợp với đoạn cuối cùng (đoạn 8) để tổng hợp luận điểm chính của tác giả: có nhiều bằng chứng độc lập ủng hộ mô hình vũ trụ giãn nở sớm, nhưng nguồn gốc điểm khởi đầu (singularity) vẫn là một câu hỏi mở chưa có lời giải đáp chắc chắn.\n- **Dạng câu hỏi Chi tiết (R4Q2 - R4Q3 & R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, quét từ khóa \"cosmic microwave background\", \"redshift\" ở đoạn 3. Đoạn văn chỉ ra sự phát hiện tình cờ của bức xạ nền vi sóng năm 1965 đã cung cấp bằng chứng củng cố mang tính quyết định (decisively corroborated) cho bức tranh giãn nở mà dữ liệu dịch chuyển đỏ (redshift) trước đó đã gợi mở.\n  - Với **R4Q3**, quét từ khóa \"lithium\", \"hydrogen and helium\" ở đoạn 4. So sánh kết quả: dự đoán tỷ lệ hydro và heliam khớp rất sát với quan sát thực tế, trong khi tỷ lệ liti (lithium) dự đoán lại lệch so với quan sát qua kính thiên văn và vẫn chưa được giải thích trọn vẹn.\n  - Với **R4Q8**, quét từ khóa \"ultimate origin\", \"confidently claim\" ở đoạn 6 và đoạn 8. Tìm phát biểu phản ánh đúng giới hạn của vật lý hiện đại: có thể mô tả chính xác trạng thái đặc nóng ban đầu, nhưng không thể xác nhận điều gì đã xảy ra trước đó hay bản chất thực sự của điểm kỳ dị.\n- **Dạng câu hỏi Loại trừ NOT (R4Q4):** Đọc quét đoạn 5 về thuyết lạm phát vũ trụ (cosmic inflation). Các yếu tố được nhắc tới bao gồm: nhận được sự ủng hộ từ cấu trúc vi mô của bức xạ nền (background fine structure), giúp giải thích tính đồng nhất diện rộng (large-scale uniformity) và độ phẳng hình học (geometric flatness). Tìm phương án đề cập đến chi tiết không hề xuất hiện trong bài (như việc được xác nhận trực tiếp bằng dò tìm sóng hấp dẫn).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q5 - R4Q6):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R4Q5**, từ **\"circumspect\"** ở đoạn 6 mô tả thái độ của các nhà vật lý so với truyền thông đại chúng: họ cẩn trọng hơn, không khẳng định chắc chắn về điểm khởi đầu khi chưa đủ dữ liệu. Từ này đồng nghĩa với cẩn trọng, thận trọng (cautious).\n  - Với **R4Q6**, từ **\"unfalsifiable\"** ở đoạn 7 mô tả các lý thuyết lạm phát vĩnh cửu và đa vũ trụ chưa thể bác bỏ hay kiểm chứng được bằng năng lực quan sát hiện tại. Từ này đồng nghĩa với không thể kiểm chứng/bác bỏ (untestable).\n- **Dạng câu hỏi Quy chiếu (R4Q7):** Tìm cụm từ **\"This acknowledged limitation\"** ở câu đầu đoạn 7. Áp dụng quy tắc đọc ngược lại đoạn 6 phía trước: câu trước thảo luận về giới hạn của vật lý hiện đại khi không thể giải thích chắc chắn điều gì đứng đằng sau điểm kỳ dị hay điều gì xảy ra trước đó. Cụm từ quy chiếu trực tiếp đến giới hạn chưa thể giải thích được những gì tiền đề của điểm kỳ dị.\n- **Dạng câu hỏi Suy luận (R4Q9):** Đọc đoạn 5 về thuyết lạm phát vũ trụ. Tác giả nêu rõ khái niệm lạm phát giải thích tốt các đặc tính của vũ trụ và có nhiều bằng chứng ủng hộ, tuy nhiên mô hình chính xác diễn ra như thế nào vẫn chưa được chốt (unsettled) vì có nhiều biến thể cùng phù hợp với dữ liệu hiện tại. Từ đó suy luận rằng khái niệm này được ủng hộ rộng rãi nhưng cơ chế chính xác vẫn chưa được quyết định chắc chắn.\n- **Dạng câu hỏi Thái độ của tác giả (R4Q10):** Xem xét giọng văn ở đoạn 1 và đoạn 8 khi tác giả đối sánh giữa truyền thông đại chúng (popular narrative) vốn đơn giản hóa Big Bang như một vụ nổ đơn lẻ với thực tế nghiên cứu vật lý. Giọng văn tác giả thể hiện sự hoài nghi trước những khẳng định đơn giản hóa thái quá và ủng hộ cách tiếp cận có điều kiện, cẩn trọng của vật lý hiện đại.\nLời khuyên: Ưu tiên giải quyết nhanh các câu hỏi Quy chiếu (R4Q7) và Từ vựng (R4Q5, R4Q6). Tiếp theo, sử dụng kỹ thuật đọc quét định vị từ khóa để hoàn thành nhóm câu **Chi tiết** (R4Q2, R4Q3, R4Q8) và **Loại trừ** (R4Q4). Sau cùng, xâu chuỗi lập luận logic toàn bài để lựa chọn đáp án cho các câu tổng hợp bao gồm **Suy luận** (R4Q9), **Thái độ tác giả** (R4Q10) và **Ý chính toàn bài** (R4Q1)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend, Mark, who is planning to visit your town soon.\nHe wants to know more about the town before his trip. Read part of his email below.\nI'm really looking forward to visiting your town next month, but I don't know much about it yet.\n- Tell him about the shopping facilities in your town\n- Give him an idea of the population and what the town is like\n- Share your personal experience of living there\nWrite an email responding to Mark. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend, Mark, who is planning to visit your town soon.",
+      "He wants to know more about the town before his trip. Read part of his email below."
+     ],
+     "quote": [
+      "I'm really looking forward to visiting your town next month, but I don't know much about it yet.",
+      "- Tell him about the shopping facilities in your town",
+      "- Give him an idea of the population and what the town is like",
+      "- Share your personal experience of living there"
+     ],
+     "instruction": "Write an email responding to Mark. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\nĐây là dạng **Informal Email** (Thư thân mật) vì người viết cho bạn bè, nên văn phong cần gần gũi, tự nhiên. Đề bài yêu cầu bạn cung cấp ba thông tin chính: các cơ sở mua sắm trong thị trấn, dân số và đặc điểm chung của thị trấn, và trải nghiệm cá nhân khi sống ở đó. Bài viết cần đạt tối thiểu **120 từ** và phải trả lời đầy đủ cả ba nội dung được gợi ý, tránh bỏ sót ý nào.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Mark,\n- **Opening:** Bày tỏ sự vui mừng và dẫn vào chủ đề. Ví dụ: I'm so excited that you're coming to visit my town soon, let me tell you a bit about it.\n- **Body 1:** Giới thiệu về cơ sở mua sắm. Ví dụ: When it comes to shopping, we have a large shopping mall in the town centre as well as a traditional market that sells fresh produce.\n- **Body 2:** Nói về dân số và đặc điểm thị trấn. Ví dụ: My town has a population of around fifty thousand people and is known for being peaceful yet lively.\n- **Body 3:** Chia sẻ trải nghiệm cá nhân. Ví dụ: I have lived here for over ten years and have always enjoyed the friendly atmosphere and convenient facilities.\n- **Closing & Sign-off:** Kết thư và mong gặp lại. Ví dụ: I can't wait to show you around. Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng thì Hiện tại đơn để mô tả đặc điểm chung của thị trấn, và thì Hiện tại hoàn thành khi nói về trải nghiệm sống ở đó. Nên đa dạng hoá từ vựng, tránh lặp lại từ \"town\" hay \"shopping\" quá nhiều lần. Các đoạn nên được sắp xếp theo thứ tự logic, mỗi đoạn tập trung vào một nội dung.\nTừ vựng quan trọng:\n- **Shopping mall:** Trung tâm thương mại\n- **Local market:** Chợ địa phương\n- **Population:** Dân số\n- **Residential area:** Khu dân cư\n- **Convenient facilities:** Tiện ích thuận tiện\n- **Friendly atmosphere:** Bầu không khí thân thiện\n- **Bustling town:** Thị trấn nhộn nhịp\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **In addition / Also:** Bên cạnh đó\n- **As for:** Còn về việc\n- **Overall:** Nhìn chung\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm really looking forward to your visit:** Tôi rất mong chờ chuyến thăm của bạn\n- **I have always enjoyed living here:** Tôi luôn thích sống ở đây\n- **I'm sure you'll love it here:** Tôi chắc chắn bạn sẽ thích nơi này\n\n**4. Các lỗi thường gặp:**\n- Sử dụng ngôn ngữ quá trang trọng như \"Dear Sir/Madam\" thay vì xưng hô thân mật với bạn bè.\n- Không trả lời đầy đủ cả ba nội dung được gợi ý trong đề bài.\n- Liệt kê thông tin rời rạc mà không có sự liên kết giữa các câu.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã đề cập đủ shopping facilities, population và experience chưa.\n- Đếm số từ để đảm bảo đạt tối thiểu 120 từ.\n- Xem lại phần chào hỏi và kết thư đã đầy đủ chưa.\n\n**6. Tư duy làm bài:**\nHãy viết như thể bạn đang thực sự giới thiệu quê hương mình cho một người bạn thân sắp đến thăm. Sự chân thành và thông tin cụ thể sẽ giúp bài viết trở nên sinh động và thuyết phục hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nRiding motorbikes has long been one of the most popular means of transportation in many countries, especially in crowded urban areas.\nWhile motorbikes offer convenience and flexibility for daily commuting, they also raise concerns regarding safety and environmental impact.\nDiscuss the advantages and disadvantages of riding motorbikes.\nWrite an essay to an educated reader to discuss the advantages and disadvantages of riding motorbikes. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Riding motorbikes has long been one of the most popular means of transportation in many countries, especially in crowded urban areas.",
+      "While motorbikes offer convenience and flexibility for daily commuting, they also raise concerns regarding safety and environmental impact.",
+      "Discuss the advantages and disadvantages of riding motorbikes."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages and disadvantages of riding motorbikes. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\nĐây là dạng bài **Advantages and Disadvantages Essay** (Ưu điểm và Nhược điểm), yêu cầu bạn phân tích cả mặt lợi và mặt hại của việc đi xe máy. Cần trình bày cân bằng cả hai khía cạnh, không nghiêng hẳn về một phía. Bài viết yêu cầu tối thiểu **250 từ** và cần có ví dụ cụ thể để minh hoạ cho từng luận điểm.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu chủ đề và nêu rằng bài viết sẽ phân tích cả ưu và nhược điểm. Ví dụ: Motorbikes have become a common means of transport in many cities, bringing both benefits and challenges to riders.\n- **Body 1 (Advantages):** Topic sentence nêu lợi ích, giải thích, cho ví dụ. Ví dụ: One of the main advantages of riding a motorbike is that it allows people to travel quickly through congested streets.\n- **Body 2 (Disadvantages):** Topic sentence nêu hạn chế, giải thích, cho ví dụ. Ví dụ: On the other hand, motorbikes pose significant safety risks, as riders are more vulnerable to accidents than car drivers.\n- **Conclusion:** Tóm tắt lại hai mặt và đưa ra nhận định chung. Ví dụ: In conclusion, despite the risks involved, motorbikes remain a practical choice for many people due to their convenience and affordability.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng thì Hiện tại đơn để diễn đạt sự thật và xu hướng chung. Mỗi đoạn thân bài nên phát triển ý bằng cách giải thích và đưa ví dụ cụ thể để tăng tính thuyết phục. Tránh lặp lại từ \"motorbike\" nhiều lần bằng cách dùng các cách diễn đạt thay thế. Câu chủ đề ở phần mở bài cần nêu rõ bài viết sẽ bàn về cả hai mặt.\nTừ vựng quan trọng:\n- **Traffic congestion:** Tắc nghẽn giao thông\n- **Fuel-efficient:** Tiết kiệm nhiên liệu\n- **Road accidents:** Tai nạn giao thông\n- **Air pollution:** Ô nhiễm không khí\n- **Manoeuvrability:** Khả năng di chuyển linh hoạt\n- **Vulnerable road users:** Người tham gia giao thông dễ bị tổn thương\n- **Affordable means of transport:** Phương tiện di chuyển giá cả phải chăng\nTừ nối (Linking words):\n- **On the one hand / On the other hand:** Một mặt / Mặt khác\n- **Furthermore / Moreover:** Hơn nữa (Thêm ý)\n- **Nevertheless / However:** Tuy nhiên (Đối lập)\n- **As a result / Consequently:** Do đó (Nguyên nhân - kết quả)\n- **For instance / For example:** Ví dụ như (Đưa ví dụ)\n- **In conclusion / To sum up:** Tóm lại (Kết luận)\nDiễn đạt lại ý (Paraphrasing):\n- **Two-wheeled vehicles:** Thay cho \"motorbikes\".\n- **Motorcycle commuting:** Thay cho \"riding motorbikes\".\n- **Personal transport options:** Thay cho \"ways of getting around\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **Despite its drawbacks, ... remains a popular choice:** Dùng để nhấn mạnh lợi ích vượt trội dù có hạn chế.\n- **Compared to cars, ... proves to be more...:** Dùng để so sánh giữa hai phương tiện.\n- **One possible solution to this problem would be to...:** Dùng khi đề xuất giải pháp khắc phục nhược điểm.\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung viết về ưu điểm hoặc nhược điểm mà bỏ qua mặt còn lại.\n- Không có ví dụ cụ thể để minh hoạ cho các luận điểm, khiến bài viết chung chung.\n- Thiếu câu chủ đề rõ ràng ở đầu mỗi đoạn thân bài.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã trình bày cân bằng cả hai mặt ưu và nhược điểm chưa.\n- Đếm số từ để đảm bảo đạt tối thiểu 250 từ.\n- Xem lại các từ nối đã được sử dụng hợp lý giữa các đoạn chưa.\n\n**6. Tư duy làm bài:**\nHãy giữ thái độ khách quan khi phân tích cả hai mặt của vấn đề, không nên thiên vị quá mức về một phía. Sự rõ ràng trong lập luận và ví dụ thực tế sẽ giúp bài viết thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about taking breaks\n\n1\nHow do you usually take a break during a busy day?\n2\nWhy do you think taking breaks is important for students?\n3\nDo you prefer short frequent breaks or one long break? Why?\n\nNow, let’s talk about saving money\n\n4\nDo you have any habits of saving money?\n5\nWhat do you usually save money for?\n6\nDo you think it is important for young people to learn how to save money?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần 1 kéo dài 3 phút với 6 câu hỏi, kiểm tra khả năng giao tiếp xã hội tự nhiên của bạn.\n- **Topic A (Nghỉ ngơi/Take a break):** Câu 1-3 hỏi về cách nghỉ ngơi, lý do tầm quan trọng của việc nghỉ ngơi và sở thích cá nhân về kiểu nghỉ ngơi - kiểm tra khả năng miêu tả thói quen và giải thích quan điểm.\n- **Topic B (Tiết kiệm tiền):** Câu 4-6 hỏi về thói quen tiết kiệm, mục đích tiết kiệm và quan điểm về tầm quan trọng của việc tiết kiệm ở người trẻ - kiểm tra khả năng đưa ra lý lẽ.\n- Tiêu chí chấm điểm gồm: Fluency, Vocabulary, Grammar, Pronunciation.\n- Nên phân bổ khoảng 25-35 giây mỗi câu, cân bằng thời gian giữa hai chủ đề, tránh nói lan man ở Topic A khiến thiếu thời gian cho Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **ARE** (Answer - Reason - Example) để câu trả lời có chiều sâu thay vì chỉ trả lời một câu ngắn.\n- **Ví dụ Topic A:** \"I usually take a break by listening to music or taking a short walk, because it helps me clear my mind before continuing to study.\"\n- **Ví dụ Topic B:** \"I try to save a small amount of money every month, mainly because I want to buy a new laptop for my studies.\"\n- Luôn tự hỏi Why?/How? sau khi trả lời để mở rộng ý, tránh câu trả lời cụt.\n- Dùng câu chuyển ý mượt mà khi chuyển từ Topic A sang Topic B, ví dụ: \"Besides resting well, I also try to manage my finances wisely.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định, dùng từ đệm như \"well\", \"actually\" để tránh khoảng lặng dài.\n- Về thì: dùng Hiện tại đơn cho thói quen (I usually take...), Hiện tại hoàn thành khi nói về thói quen đã hình thành lâu (I have been saving money since...).\n- Nếu bí từ, hãy diễn giải, ví dụ thay \"piggy bank\" bằng \"a small container to keep coins in\".\n- Từ vựng Topic A: \"to recharge\" (nạp lại năng lượng), \"to unwind\" (thư giãn), \"a short getaway\" (chuyến đi ngắn để nghỉ ngơi).\n- Từ vựng Topic B: \"to cut down on expenses\" (cắt giảm chi tiêu), \"a rainy day fund\" (quỹ dự phòng), \"financial habits\" (thói quen tài chính).\nCụm từ quan trọng nên dùng:\n- \"to recharge one's batteries\" - nạp lại năng lượng\n- \"a change of pace\" - thay đổi nhịp độ sinh hoạt\n- \"to relieve stress\" - giải tỏa căng thẳng\n- \"to set money aside\" - dành tiền để dành\n- \"to live within one's means\" - sống trong khả năng tài chính\n- \"a financial cushion\" - khoản đệm tài chính dự phòng\nTừ nối khi nói (Linking Words):\n- \"Firstly / Secondly\" - Thứ nhất / Thứ hai, dùng để liệt kê ý\n- \"In addition\" - Thêm vào đó, dùng để bổ sung ý\n- \"However\" - Tuy nhiên, dùng khi đối lập ý\n- \"As a result\" - Kết quả là, dùng nêu hệ quả\n- \"For instance\" - Ví dụ như, dùng khi đưa ra minh chứng\nCách thể hiện quan điểm tự nhiên:\n- \"Personally, I think...\" - ví dụ: \"Personally, I think short breaks are more effective than one long break.\" (Cá nhân tôi nghĩ...)\n- \"In my opinion...\" - ví dụ: \"In my opinion, saving money early helps build good financial habits.\" (Theo ý kiến của tôi...)\n- \"From my point of view...\" - ví dụ: \"From my point of view, resting properly improves productivity.\" (Theo quan điểm của tôi...)\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes/No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n- Với Topic A: chỉ liệt kê hoạt động nghỉ ngơi mà không giải thích tại sao nó hiệu quả.\n- Với Topic B: trả lời chung chung \"I save money\" mà không nêu mục đích cụ thể.\n- Chia sai thì khi mô tả thói quen lâu dài.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu giờ: \"That's an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy mô tả công dụng thay vì dừng lại giữa chừng.\n- Với Topic A, nếu quên từ, có thể mô tả: \"something relaxing that helps me feel less tired\".\n- Với Topic B, nếu quên từ chuyên ngành tài chính, hãy dùng từ đơn giản như \"keeping some money for later\" thay vì thuật ngữ phức tạp.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi đây là một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n- Chuyển đổi tâm thế linh hoạt khi chuyển từ Topic A sang Topic B để tránh nói lẫn lộn hai chủ đề.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng phức tạp gây vấp váp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nA family is deciding which type of school to enroll their 6th-grade child in.\n\nYou are considering the following options:\n\nOption 1: International school\nOption 2: Public school\nOption 3: Private school\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống xoay quanh việc một gia đình cần chọn trường học phù hợp cho con vào lớp 6, với 3 lựa chọn: trường quốc tế, trường công lập, trường tư thục.\n- Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và khả năng lập luận logic.\n- Thời gian: 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E** (Introduction - Comparison/Body - End): giới thiệu tình huống, so sánh 3 lựa chọn, kết luận lựa chọn tốt nhất.\n- Option 1 (international school): \"An international school would offer an excellent English-speaking environment and modern facilities, though the tuition fees can be extremely high for most families.\"\n- Option 2 (public school): \"A public school is affordable and close to home, but class sizes are often large, which may limit individual attention.\"\n- Option 3 (private school): \"A private school provides smaller classes and more personalized support, striking a balance between quality and cost.\"\n- Neo lập luận vào bối cảnh thực tế của gia đình Việt Nam, ví dụ nhắc đến ngân sách gia đình hoặc khoảng cách di chuyển.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách biệt, ví dụ: \"Unlike public schools, which are more affordable, international schools offer a more immersive English environment but at a much higher cost.\"\n- Về thì: dùng modal verbs (would/could) để đưa ra dự đoán, ví dụ \"This option would help the child develop stronger English skills.\"\n- Paraphrase từ \"expensive\" bằng \"costly\" hoặc \"financially demanding\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- \"tuition fees\" - học phí\n- \"a well-rounded education\" - nền giáo dục toàn diện\n- \"class size\" - sĩ số lớp học\n- \"individual attention\" - sự quan tâm cá nhân\n- \"extracurricular activities\" - hoạt động ngoại khóa\n- \"a financial burden\" - gánh nặng tài chính\nTừ nối khi nói (Linking Words):\n- \"On the other hand\" - Mặt khác, dùng để đối lập ý\n- \"Compared to\" - So với, dùng để so sánh\n- \"Nevertheless\" - Tuy nhiên, dùng khi nêu điểm bất lợi\n- \"Taking everything into account\" - Xét tổng thể, dùng khi kết luận\n- \"Similarly\" - Tương tự, dùng khi hai lựa chọn có điểm chung\nCách thể hiện quan điểm tự nhiên:\n- \"I would go for...\" - ví dụ: \"I would go for the private school because it balances quality and affordability.\" (Tôi sẽ chọn...)\n- \"If I had to choose, I'd say...\" - ví dụ: \"If I had to choose, I'd say the public school is the most practical option.\" (Nếu phải chọn, tôi sẽ nói...)\n- \"What appeals to me most is...\" - ví dụ: \"What appeals to me most is the smaller class size at private schools.\" (Điều hấp dẫn tôi nhất là...)\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ \"good\"/\"bad\" liên tục thay vì dùng tính từ học thuật hơn như \"practical\", \"costly\", \"suitable\".\n- Không đưa ra kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên biệt, hãy chuyển hướng sang bàn về yếu tố chi phí hoặc khoảng cách.\n- Dùng câu giờ: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí ý ở một lựa chọn, hãy chuyển sang phân tích lựa chọn tiếp theo rồi quay lại sau.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một phụ huynh thực sự đang cân nhắc - lựa chọn nào phù hợp nhất với hoàn cảnh gia đình và tương lai của con.\n- Dù chọn phương án nào, vẫn nên đưa ra một gợi ý cải thiện nhỏ để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of investing in art\n\nBenefits of Investing in Art\nEconomic value and long-term financial returns\nPreserving culture and history\nSupporting artists and creative industries\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo people prefer going to museums or buying art for themselves?\n2\nDo you think museums and art will change much in the next 30 years?\n3\nShould governments spend more money supporting the arts?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển ý về lợi ích của việc đầu tư vào nghệ thuật, dựa trên 3 nhánh mindmap và 1 ý tưởng cá nhân (nhánh thứ 4 có thể là \"the role of art in personal well-being and creativity\").\n- Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar, khả năng phát triển ý mạch lạc.\n- Thời gian 5 phút: khoảng 3-3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL** (Point - Explanation - Example - Link) để phát triển từng nhánh mindmap mạch lạc.\n- **Ví dụ 1 (mở bài):** \"Today, I would like to talk about the benefits of investing in art, both for individuals and society as a whole.\"\n- **Ví dụ 2 (nhánh cá nhân):** \"In addition, art can also play an important role in improving mental well-being, as it allows people to express emotions creatively.\"\n- Khi nói về \"Economic value\", nên nêu ví dụ cụ thể như tranh của các họa sĩ nổi tiếng tăng giá trị theo thời gian.\n- Bám sát mindmap để tránh lặp ý hoặc lạc đề giữa các nhánh.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh mindmap, ví dụ \"Moving on to my next point...\"\n- Về thì: dùng Hiện tại đơn cho sự thật hiển nhiên (Art plays...) kết hợp Hiện tại hoàn thành cho xu hướng gần đây (Art investments have become increasingly popular...).\n- Paraphrase từ \"investing\" bằng \"putting money into\" hoặc \"allocating resources to\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- \"a valuable asset\" - tài sản có giá trị\n- \"to appreciate in value\" - tăng giá trị theo thời gian\n- \"cultural heritage\" - di sản văn hóa\n- \"to support emerging artists\" - hỗ trợ nghệ sĩ mới nổi\n- \"aesthetic appreciation\" - sự thưởng thức thẩm mỹ\n- \"a creative outlet\" - kênh thể hiện sáng tạo\nTừ nối khi nói (Linking Words):\n- \"To begin with\" - Trước hết, dùng khi mở đầu nhánh ý đầu tiên\n- \"Furthermore\" - Hơn nữa, dùng để bổ sung ý\n- \"Not only... but also...\" - Không chỉ... mà còn..., dùng để nhấn mạnh hai lợi ích\n- \"On top of that\" - Bên cạnh đó, dùng khi thêm ý mới\n- \"In conclusion\" - Tóm lại, dùng khi kết luận bài nói\nCách thể hiện quan điểm tự nhiên:\n- \"I firmly believe that...\" - ví dụ: \"I firmly believe that investing in art benefits both individuals and society.\" (Tôi tin chắc rằng...)\n- \"It seems to me that...\" - ví dụ: \"It seems to me that art investment is becoming more mainstream.\" (Đối với tôi có vẻ như...)\n- \"There is no doubt that...\" - ví dụ: \"There is no doubt that art helps preserve a nation's cultural identity.\" (Không nghi ngờ gì rằng...)\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- \"Do people prefer going to museums or buying art for themselves?\" - Trả lời: nhiều người thích đi bảo tàng vì chi phí thấp và trải nghiệm đa dạng hơn, trong khi chỉ số ít có khả năng mua tranh vì giá thành cao.\n- \"Do you think museums and art will change much in the next 30 years?\" - Trả lời: có thể thay đổi nhiều nhờ công nghệ số, như bảo tàng ảo hoặc nghệ thuật số (digital art) trở nên phổ biến hơn.\n- \"Should governments spend more money supporting the arts?\" - Trả lời: nên đầu tư hợp lý vì nghệ thuật góp phần bảo tồn văn hóa và phát triển ngành công nghiệp sáng tạo, dù vẫn cần cân đối với các nhu cầu khác.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê ý mà không giải thích hay đưa ví dụ cụ thể, khiến bài nói thiếu chiều sâu.\n- Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước một ý tưởng riêng.\n- Nói quá lâu ở phần mở đầu khiến không còn thời gian trả lời follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Khi bí ý, hãy liên hệ đến trải nghiệm thực tế như đi bảo tàng hoặc xem triển lãm để có thêm ví dụ.\n- Dùng câu giờ học thuật: \"That is a complex issue. If we evaluate it from an economic viewpoint...\"\n- Nếu quên từ chuyên môn, hãy dùng từ đồng nghĩa đơn giản hoặc mô tả ngắn gọn thay vì dừng lại.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ thực tế từ góc độ kinh tế và văn hóa - vì sao nghệ thuật lại có giá trị lâu dài.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao, quan trọng hơn số lượng từ vựng khó.\n- Luôn giữ giọng nói tự tin, vì đây là chủ đề mang tính học thuật và cần lập luận rõ ràng."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about taking breaks.\n1.\nHow do you usually take a break during a busy day?\n2.\nWhy do you think taking breaks is important for students?\n3.\nDo you prefer short frequent breaks or one long break? Why?\nNow, let’s talk about saving money.\n4.\nDo you have any habits of saving money?\n5.\nWhat do you usually save money for?\n6.\nDo you think it is important for young people to learn how to save money?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần 1 kéo dài 3 phút với 6 câu hỏi, kiểm tra khả năng giao tiếp xã hội tự nhiên của bạn.\n• Topic A (Nghỉ ngơi/Take a break): Câu 1-3 hỏi về cách nghỉ ngơi, lý do tầm quan trọng của việc nghỉ ngơi và sở thích\ncá nhân về kiểu nghỉ ngơi - kiểm tra khả năng miêu tả thói quen và giải thích quan điểm.\n• Topic B (Tiết kiệm tiền): Câu 4-6 hỏi về thói quen tiết kiệm, mục đích tiết kiệm và quan điểm về tầm quan trọng của\nviệc tiết kiệm ở người trẻ - kiểm tra khả năng đưa ra lý lẽ.\n• Tiêu chí chấm điểm gồm: Fluency, Vocabulary, Grammar, Pronunciation.\n• Nên phân bổ khoảng 25-35 giây mỗi câu, cân bằng thời gian giữa hai chủ đề, tránh nói lan man ở Topic A khiến thiếu\nthời gian cho Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE (Answer - Reason - Example) để câu trả lời có chiều sâu thay vì chỉ trả lời một câu ngắn.\n• Ví dụ Topic A: \"I usually take a break by listening to music or taking a short walk, because it helps me clear my mind\nbefore continuing to study.\"\n• Ví dụ Topic B: \"I try to save a small amount of money every month, mainly because I want to buy a new laptop for my\nstudies.\"\n• Luôn tự hỏi Why?/How? sau khi trả lời để mở rộng ý, tránh câu trả lời cụt.\n• Dùng câu chuyển ý mượt mà khi chuyển từ Topic A sang Topic B, ví dụ: \"Besides resting well, I also try to manage my\nfinances wisely.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định, dùng từ đệm như \"well\", \"actually\" để tránh khoảng lặng dài.\n• Về thì: dùng Hiện tại đơn cho thói quen (I usually take...), Hiện tại hoàn thành khi nói về thói quen đã hình thành lâu\n(I have been saving money since...).\n• Nếu bí từ, hãy diễn giải, ví dụ thay \"piggy bank\" bằng \"a small container to keep coins in\".\n• Từ vựng Topic A: \"to recharge\" (nạp lại năng lượng), \"to unwind\" (thư giãn), \"a short getaway\" (chuyến đi ngắn để nghỉ\nngơi).\n• Từ vựng Topic B: \"to cut down on expenses\" (cắt giảm chi tiêu), \"a rainy day fund\" (quỹ dự phòng), \"financial habits\"\n(thói quen tài chính).\nCụm từ quan trọng nên dùng:\n• \"to recharge one's batteries\" - nạp lại năng lượng\n• \"a change of pace\" - thay đổi nhịp độ sinh hoạt\n• \"to relieve stress\" - giải tỏa căng thẳng\n• \"to set money aside\" - dành tiền để dành\n• \"to live within one's means\" - sống trong khả năng tài chính\n• \"a financial cushion\" - khoản đệm tài chính dự phòng\nTừ nối khi nói (Linking Words):\n• \"Firstly / Secondly\" - Thứ nhất / Thứ hai, dùng để liệt kê ý\n• \"In addition\" - Thêm vào đó, dùng để bổ sung ý\n• \"However\" - Tuy nhiên, dùng khi đối lập ý\n• \"As a result\" - Kết quả là, dùng nêu hệ quả\n• \"For instance\" - Ví dụ như, dùng khi đưa ra minh chứng\nCách thể hiện quan điểm tự nhiên:\n• \"Personally, I think...\" - ví dụ: \"Personally, I think short breaks are more effective than one long break.\" (Cá nhân tôi\nnghĩ...)\n• \"In my opinion...\" - ví dụ: \"In my opinion, saving money early helps build good financial habits.\" (Theo ý kiến của tôi...)\n• \"From my point of view...\" - ví dụ: \"From my point of view, resting properly improves productivity.\" (Theo quan điểm\ncủa tôi...)\n4. Các lỗi thường gặp:\n• Trả lời \"Yes/No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n• Với Topic A: chỉ liệt kê hoạt động nghỉ ngơi mà không giải thích tại sao nó hiệu quả.\n• Với Topic B: trả lời chung chung \"I save money\" mà không nêu mục đích cụ thể.\n• Chia sai thì khi mô tả thói quen lâu dài.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu giờ: \"That's an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy mô tả công dụng thay vì dừng lại giữa chừng.\n• Với Topic A, nếu quên từ, có thể mô tả: \"something relaxing that helps me feel less tired\".\n• Với Topic B, nếu quên từ chuyên ngành tài chính, hãy dùng từ đơn giản như \"keeping some money for later\" thay vì\nthuật ngữ phức tạp.\n6. Tư duy làm bài nói:\n• Hãy coi đây là một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n• Chuyển đổi tâm thế linh hoạt khi chuyển từ Topic A sang Topic B để tránh nói lẫn lộn hai chủ đề.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng phức tạp gây vấp váp.\nSolution Discussion\nPART 2\n4 phút\nA family is deciding which type of school to enroll their 6th-grade child in.\nYou are considering the following options:\n• Option 1: International school\n• Option 2: Public school\n• Option 3: Private school\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống xoay quanh việc một gia đình cần chọn trường học phù hợp cho con vào lớp 6, với 3 lựa chọn: trường\nquốc tế, trường công lập, trường tư thục.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và khả năng lập luận logic.\n• Thời gian: 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu tình huống, so sánh 3 lựa chọn, kết luận\nlựa chọn tốt nhất.\n• Option 1 (international school): \"An international school would offer an excellent English-speaking environment and\nmodern facilities, though the tuition fees can be extremely high for most families.\"\n• Option 2 (public school): \"A public school is affordable and close to home, but class sizes are often large, which may\nlimit individual attention.\"\n• Option 3 (private school): \"A private school provides smaller classes and more personalized support, striking a\nbalance between quality and cost.\"\n• Neo lập luận vào bối cảnh thực tế của gia đình Việt Nam, ví dụ nhắc đến ngân sách gia đình hoặc khoảng cách di\nchuyển.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách biệt, ví dụ: \"Unlike public schools, which are more affordable,\ninternational schools offer a more immersive English environment but at a much higher cost.\"\n• Về thì: dùng modal verbs (would/could) để đưa ra dự đoán, ví dụ \"This option would help the child develop stronger\nEnglish skills.\"\n• Paraphrase từ \"expensive\" bằng \"costly\" hoặc \"financially demanding\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• \"tuition fees\" - học phí\n• \"a well-rounded education\" - nền giáo dục toàn diện\n• \"class size\" - sĩ số lớp học\n• \"individual attention\" - sự quan tâm cá nhân\n• \"extracurricular activities\" - hoạt động ngoại khóa\n• \"a financial burden\" - gánh nặng tài chính\nTừ nối khi nói (Linking Words):\n• \"On the other hand\" - Mặt khác, dùng để đối lập ý\n• \"Compared to\" - So với, dùng để so sánh\n• \"Nevertheless\" - Tuy nhiên, dùng khi nêu điểm bất lợi\n• \"Taking everything into account\" - Xét tổng thể, dùng khi kết luận\n• \"Similarly\" - Tương tự, dùng khi hai lựa chọn có điểm chung\nCách thể hiện quan điểm tự nhiên:\n• \"I would go for...\" - ví dụ: \"I would go for the private school because it balances quality and affordability.\" (Tôi sẽ chọn...)\n• \"If I had to choose, I'd say...\" - ví dụ: \"If I had to choose, I'd say the public school is the most practical option.\" (Nếu\nphải chọn, tôi sẽ nói...)\n• \"What appeals to me most is...\" - ví dụ: \"What appeals to me most is the smaller class size at private schools.\" (Điều\nhấp dẫn tôi nhất là...)\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ \"good\"/\"bad\" liên tục thay vì dùng tính từ học thuật hơn như \"practical\", \"costly\", \"suitable\".\n• Không đưa ra kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên biệt, hãy chuyển hướng sang bàn về yếu tố chi phí hoặc khoảng cách.\n• Dùng câu giờ: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí ý ở một lựa chọn, hãy chuyển sang phân tích lựa chọn tiếp theo rồi quay lại sau.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một phụ huynh thực sự đang cân nhắc - lựa chọn nào phù hợp nhất với hoàn cảnh gia đình và tương\nlai của con.\n• Dù chọn phương án nào, vẫn nên đưa ra một gợi ý cải thiện nhỏ để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of investing in art\nEconomic value and long-term financial\nPreserving culture and history\nreturns\nBenefits of Investing in Art\nÝ tưởng của bạn\nSupporting artists and creative\nindustries\nFOLLOW-UP QUESTIONS\n1.\nDo people prefer going to museums or buying art for themselves?\n2.\nDo you think museums and art will change much in the next 30 years?\n3.\nShould governments spend more money supporting the arts?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển ý về lợi ích của việc đầu tư vào nghệ thuật, dựa trên 3 nhánh mindmap và 1 ý tưởng cá\nnhân (nhánh thứ 4 có thể là \"the role of art in personal well-being and creativity\").\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar, khả năng phát triển ý mạch lạc.\n• Thời gian 5 phút: khoảng 3-3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point - Explanation - Example - Link) để phát triển từng nhánh mindmap mạch lạc.\n• Ví dụ 1 (mở bài): \"Today, I would like to talk about the benefits of investing in art, both for individuals and society as\na whole.\"\n• Ví dụ 2 (nhánh cá nhân): \"In addition, art can also play an important role in improving mental well-being, as it allows\npeople to express emotions creatively.\"\n• Khi nói về \"Economic value\", nên nêu ví dụ cụ thể như tranh của các họa sĩ nổi tiếng tăng giá trị theo thời gian.\n• Bám sát mindmap để tránh lặp ý hoặc lạc đề giữa các nhánh.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm từ chuyển tiếp mượt mà giữa các nhánh mindmap, ví dụ \"Moving on to my next point...\"\n• Về thì: dùng Hiện tại đơn cho sự thật hiển nhiên (Art plays...) kết hợp Hiện tại hoàn thành cho xu hướng gần đây (Art\ninvestments have become increasingly popular...).\n• Paraphrase từ \"investing\" bằng \"putting money into\" hoặc \"allocating resources to\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• \"a valuable asset\" - tài sản có giá trị\n• \"to appreciate in value\" - tăng giá trị theo thời gian\n• \"cultural heritage\" - di sản văn hóa\n• \"to support emerging artists\" - hỗ trợ nghệ sĩ mới nổi\n• \"aesthetic appreciation\" - sự thưởng thức thẩm mỹ\n• \"a creative outlet\" - kênh thể hiện sáng tạo\nTừ nối khi nói (Linking Words):\n• \"To begin with\" - Trước hết, dùng khi mở đầu nhánh ý đầu tiên\n• \"Furthermore\" - Hơn nữa, dùng để bổ sung ý\n• \"Not only... but also...\" - Không chỉ... mà còn..., dùng để nhấn mạnh hai lợi ích\n• \"On top of that\" - Bên cạnh đó, dùng khi thêm ý mới\n• \"In conclusion\" - Tóm lại, dùng khi kết luận bài nói\nCách thể hiện quan điểm tự nhiên:\n• \"I firmly believe that...\" - ví dụ: \"I firmly believe that investing in art benefits both individuals and society.\" (Tôi tin chắc\nrằng...)\n• \"It seems to me that...\" - ví dụ: \"It seems to me that art investment is becoming more mainstream.\" (Đối với tôi có vẻ\nnhư...)\n• \"There is no doubt that...\" - ví dụ: \"There is no doubt that art helps preserve a nation's cultural identity.\" (Không nghi\nngờ gì rằng...)\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"Do people prefer going to museums or buying art for themselves?\" - Trả lời: nhiều người thích đi bảo tàng vì chi phí\nthấp và trải nghiệm đa dạng hơn, trong khi chỉ số ít có khả năng mua tranh vì giá thành cao.\n• \"Do you think museums and art will change much in the next 30 years?\" - Trả lời: có thể thay đổi nhiều nhờ công nghệ\nsố, như bảo tàng ảo hoặc nghệ thuật số (digital art) trở nên phổ biến hơn.\n• \"Should governments spend more money supporting the arts?\" - Trả lời: nên đầu tư hợp lý vì nghệ thuật góp phần\nbảo tồn văn hóa và phát triển ngành công nghiệp sáng tạo, dù vẫn cần cân đối với các nhu cầu khác.\n5. Các lỗi thường gặp:\n• Liệt kê ý mà không giải thích hay đưa ví dụ cụ thể, khiến bài nói thiếu chiều sâu.\n• Quên nhánh ý cá nhân (nhánh thứ 4) - nên chuẩn bị trước một ý tưởng riêng.\n• Nói quá lâu ở phần mở đầu khiến không còn thời gian trả lời follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Khi bí ý, hãy liên hệ đến trải nghiệm thực tế như đi bảo tàng hoặc xem triển lãm để có thêm ví dụ.\n• Dùng câu giờ học thuật: \"That is a complex issue. If we evaluate it from an economic viewpoint...\"\n• Nếu quên từ chuyên môn, hãy dùng từ đồng nghĩa đơn giản hoặc mô tả ngắn gọn thay vì dừng lại.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ thực tế từ góc độ kinh tế và văn hóa - vì sao nghệ thuật lại có giá trị lâu dài.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố then chốt để đạt điểm cao, quan trọng hơn số lượng từ vựng\nkhó.\n• Luôn giữ giọng nói tự tin, vì đây là chủ đề mang tính học thuật và cần lập luận rõ ràng."
+}
