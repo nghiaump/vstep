@@ -5,6 +5,8 @@ import { countWords } from '../lib/time';
 import { Inline } from '../components/Markdown';
 import { Icon } from '../components/Icon';
 import { templateByKey, templateHref, w2TemplateKey } from '../lib/templates';
+import { useMedia } from '../hooks/useMedia';
+import { PHONE } from '../components/AppShell';
 import s from './Solution.module.css';
 
 const paras = (t: string) => t.split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
@@ -21,7 +23,13 @@ function Quote({ lines }: { lines: string[] }) {
   return <blockquote className={s.quote}>{out}</blockquote>;
 }
 
-function Outline({ rows }: { rows: OutlineRow[] }) {
+function Outline({ rows, phone }: { rows: OutlineRow[]; phone?: boolean }) {
+  // A 3-column table is unreadable at 393pt: phones get a stacked list instead.
+  if (phone) return (
+    <ol className={s.olist}>
+      {rows.map((r, i) => <li key={i}><b>{r.section}</b> {r.content}<span className={s.reuse} lang="en">{r.reusable}</span></li>)}
+    </ol>
+  );
   return (
     <table className={s.table}>
       <thead><tr><th>Đoạn</th><th>Nội dung</th><th>Câu mẫu dùng lại</th></tr></thead>
@@ -43,8 +51,18 @@ function TplLink({ k }: { k?: string }) {
   return href ? <Link className={s.tpl} to={href}>Khung: {templateByKey[k!].name.split(':')[0]} →</Link> : null;
 }
 
-function Part({ id, title, kind, meta, prompt, children, count, outline, vocab, tpl }: {
-  id: string; title: string; kind: string; meta: string; prompt: ReactNode; children: ReactNode; count: ReactNode; outline: OutlineRow[]; vocab: Vocab[]; tpl?: string;
+/** Secondary steps (word count, outline, vocab) fold away on phones so the answer itself stays dense. */
+function Fold({ n, title, phone, children }: { n: number; title: string; phone?: boolean; children: ReactNode }) {
+  return (
+    <details className={s.step + ' ' + s.fold} open={!phone}>
+      <summary><h3><i>{n}</i> {title}</h3></summary>
+      {children}
+    </details>
+  );
+}
+
+function Part({ id, title, kind, meta, prompt, children, count, outline, vocab, tpl, phone }: {
+  id: string; title: string; kind: string; meta: string; prompt: ReactNode; children: ReactNode; count: ReactNode; outline: OutlineRow[]; vocab: Vocab[]; tpl?: string; phone?: boolean;
 }) {
   return (
     <section className={s.part} id={id}>
@@ -53,21 +71,21 @@ function Part({ id, title, kind, meta, prompt, children, count, outline, vocab, 
         <span className={s.meta}>{meta}</span>
         <TplLink k={tpl} />
       </header>
-      <div className={s.step}><h3><i>1</i> Đề bài</h3><div className={s.paper}>{prompt}</div></div>
-      <div className={s.step}><h3><i>2</i> Bài mẫu</h3><div className={s.answer}>{children}</div></div>
-      <div className={s.step}><h3><i>3</i> Số từ</h3><p className={s.count}>{count}</p></div>
-      <div className={s.step}><h3><i>4</i> Khung dàn ý</h3><Outline rows={outline} /></div>
-      <div className={s.step}><h3><i>5</i> Từ vựng đáng học</h3><VocabTable rows={vocab} /></div>
+      <div className={s.step}><h3><i>1</i> Đề bài</h3><div className={s.paper} lang="en">{prompt}</div></div>
+      <div className={s.step}><h3><i>2</i> Bài mẫu</h3><div className={s.answer} lang="en">{children}</div></div>
+      <Fold n={3} title="Số từ" phone={phone}><p className={s.count}>{count}</p></Fold>
+      <Fold n={4} title="Khung dàn ý" phone={phone}><Outline rows={outline} phone={phone} /></Fold>
+      <Fold n={5} title="Từ vựng đáng học" phone={phone}><VocabTable rows={vocab} /></Fold>
     </section>
   );
 }
 
-export function SolutionBody({ sol }: { sol: Sol }) {
+export function SolutionBody({ sol, phone = false }: { sol: Sol; phone?: boolean }) {
   const P = sol.prompt, A = sol.answer;
   const w = (['1', '2'] as const).map((k) => {
     const p = P.writing[k], a = A.writing[k], wc = countWords(a.answer);
     return (
-      <Part key={k} id={`w${k}`} title={p.title} kind={p.kind} meta={`${p.time} · tối thiểu ${p.min_words} từ`}
+      <Part phone={phone} key={k} id={`w${k}`} title={p.title} kind={p.kind} meta={`${p.time} · tối thiểu ${p.min_words} từ`}
         prompt={<>{p.intro.map((t, i) => <p key={i}>{t}</p>)}<Quote lines={p.quote} /><p className={s.instr}>{p.instruction}</p></>}
         count={<><b>{wc} từ</b> (đếm bằng công cụ) · {wc >= p.min_words ? 'đạt' : 'chưa đạt'} mức tối thiểu {p.min_words} từ</>}
         outline={a.outline} vocab={a.vocab} tpl={k === '1' ? A.writing['1'].template : w2TemplateKey(A.writing['2'].type_key)}>
@@ -84,7 +102,7 @@ export function SolutionBody({ sol }: { sol: Sol }) {
   return (
     <>
       {w}
-      <Part id="s1" title={S['1'].title} kind={S['1'].name} meta={S['1'].time}
+      <Part phone={phone} id="s1" title={S['1'].title} kind={S['1'].name} meta={S['1'].time}
         prompt={S['1'].topics.map((t, i) => (
           <div key={i} className={s.topic}><p><b>{t.lead} {t.title}</b></p>
             <ol start={qn + 1}>{t.questions.map((q) => { qn++; return <li key={qn}>{q}</li>; })}</ol></div>
@@ -92,14 +110,14 @@ export function SolutionBody({ sol }: { sol: Sol }) {
         count={<><b>{w1} từ</b> · khoảng {speakTime(w1)} nói</>} outline={SA['1'].outline} vocab={SA['1'].vocab} tpl="s1">
         {qs.map((q, i) => <div key={i} className={s.qa}><p className={s.q}>{i + 1}. {q}</p><p>{SA['1'].answers[i]}</p></div>)}
       </Part>
-      <Part id="s2" title={S['2'].title} kind={S['2'].name} meta={S['2'].time}
+      <Part phone={phone} id="s2" title={S['2'].title} kind={S['2'].name} meta={S['2'].time}
         prompt={<><p>{S['2'].situation}</p><p>You are considering the following options:</p>
           <ul>{S['2'].options.map((o, i) => <li key={i}>Option {i + 1}: {o}</li>)}</ul><p className={s.instr}>{S['2'].task}</p></>}
         count={<><b>{w2} từ</b> · khoảng {speakTime(w2)} nói</>} outline={SA['2'].outline} vocab={SA['2'].vocab} tpl="s2">
         <p className={s.type}><b>Lựa chọn:</b> Option {SA['2'].choice}: {S['2'].options[SA['2'].choice - 1]}</p>
         {paras(SA['2'].answer).map((t, i) => <p key={i} className={s.ap}>{t}</p>)}
       </Part>
-      <Part id="s3" title={S['3'].title} kind={S['3'].name} meta={S['3'].time}
+      <Part phone={phone} id="s3" title={S['3'].title} kind={S['3'].name} meta={S['3'].time}
         prompt={<><p><b>Topic:</b> {S['3'].topic}</p>
           <div className={s.mind}><span className={s.center}>{S['3'].center}</span>{S['3'].ideas.map((x, i) => <span key={i}>{x}</span>)}{S['3'].own_ideas_slot && <span className={s.own}>[your own ideas]</span>}</div>
           <p><b>Follow-up questions</b></p><ol>{S['3'].follow_ups.map((q, i) => <li key={i}>{q}</li>)}</ol></>}
@@ -118,6 +136,7 @@ const TABS = [['w1', 'Writing 1'], ['w2', 'Writing 2'], ['s1', 'Speaking 1'], ['
 export default function Solution() {
   const { examId = '' } = useParams();
   const { hash } = useLocation();
+  const phone = useMedia(PHONE);
   const sol = solutionById[examId];
   useEffect(() => {
     if (hash) requestAnimationFrame(() => document.getElementById(hash.slice(1))?.scrollIntoView());
@@ -133,23 +152,23 @@ export default function Solution() {
         <div>
           <p className="eyebrow"><Link to="/bai-mau">Bài mẫu</Link> · {sol.custom ? 'đề tự tạo · ' : ''}mục tiêu 5–6 điểm</p>
           <h1 className="page-title">{sol.label} · Bài giải tham khảo</h1>
-          <p className="lede">{sol.custom ? `${sol.prompt.note} Bài mẫu dùng câu ngắn, ngữ pháp an toàn, dễ học thuộc. Số từ đếm bằng công cụ.` : 'Đề chép nguyên văn. Bài mẫu dùng câu ngắn, ngữ pháp an toàn, dễ học thuộc. Số từ đếm bằng công cụ.'}</p>
+          {!phone && <p className="lede">{sol.custom ? `${sol.prompt.note} Bài mẫu dùng câu ngắn, ngữ pháp an toàn, dễ học thuộc. Số từ đếm bằng công cụ.` : 'Đề chép nguyên văn. Bài mẫu dùng câu ngắn, ngữ pháp an toàn, dễ học thuộc. Số từ đếm bằng công cụ.'}</p>}
         </div>
         <div className={s.headActs}>
-          {newer && <Link className="btn" to={`/bai-mau/${newer.id}`}><Icon name="left" size={15} /> {newer.label}</Link>}
-          {older && <Link className="btn" to={`/bai-mau/${older.id}`}>{older.label} <Icon name="right" size={15} /></Link>}
-          <button className="btn btn-primary" onClick={() => window.print()}><Icon name="download" size={15} /> In / lưu PDF</button>
+          {newer && <Link className={phone ? 'btn btn-sm' : 'btn'} to={`/bai-mau/${newer.id}`}><Icon name="left" size={15} /> {newer.label}</Link>}
+          {older && <Link className={phone ? 'btn btn-sm' : 'btn'} to={`/bai-mau/${older.id}`}>{older.label} <Icon name="right" size={15} /></Link>}
+          {!phone && <button className="btn btn-primary" onClick={() => window.print()}><Icon name="download" size={15} /> In / lưu PDF</button>}
         </div>
       </div>
       <nav className={s.tabs} aria-label="Các phần">
-        {tabs.map(([id, label]) => <a key={id} href={`#${id}`} onClick={(e) => { e.preventDefault(); document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' }); }}>{label}</a>)}
+        {tabs.map(([id, label]) => <a key={id} href={`#${id}`} onClick={(e) => { e.preventDefault(); document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' }); }}>{phone ? id.toUpperCase() : label}</a>)}
         <span className={s.tabsLinks}>
           <Link to="/bai-mau/khung">Khung mẫu</Link>
           <Link to={`/writing/${sol.id}/test`}>Làm thử Writing</Link>
           {sol.prompt.speaking && <Link to={`/speaking/${sol.id}/test`}>Thi thử Speaking</Link>}
         </span>
       </nav>
-      <SolutionBody sol={sol} />
+      <SolutionBody sol={sol} phone={phone} />
     </div>
   );
 }

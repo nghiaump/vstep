@@ -1,13 +1,13 @@
 .page { max-width: 980px; }
 .headActs { display: flex; gap: 8px; flex-wrap: wrap; }
-.tabs { position: sticky; top: var(--nav-h); z-index: 5; display: flex; gap: 2px; align-items: center; background: var(--paper); border-bottom: 1px solid var(--rule); margin: -8px 0 22px; padding: 6px 0; overflow-x: auto; }
+.tabs { position: sticky; top: var(--top-h); z-index: 5; display: flex; gap: 2px; align-items: center; background: var(--paper); border-bottom: 1px solid var(--rule); margin: -8px 0 22px; padding: 6px 0; overflow-x: auto; }
 .tabs a { padding: 6px 12px; border-radius: var(--r-2); font-size: 13.5px; font-weight: 500; color: var(--ink-2); text-decoration: none; white-space: nowrap; }
 .tabs a:hover { background: var(--sunken); color: var(--ink); }
 .tabsLinks { margin-left: auto; display: flex; gap: 14px; padding-left: 12px; }
 .tabsLinks a { padding: 0; color: var(--accent); font-size: 13px; }
 .tabsLinks a:hover { background: none; text-decoration: underline; }
 
-.part { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--r-3); margin-bottom: 26px; scroll-margin-top: calc(var(--nav-h) + 56px); }
+.part { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--r-3); margin-bottom: 26px; scroll-margin-top: calc(var(--top-h) + 56px); }
 .partHead { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 14px 26px; border-bottom: 1px solid var(--rule); background: var(--surface-2); border-radius: var(--r-3) var(--r-3) 0 0; flex-wrap: wrap; }
 .partHead h2 { font-size: 16px; letter-spacing: .02em; }
 .partHead h2 span { font-weight: 500; color: var(--ink-3); }
@@ -20,7 +20,7 @@
 .step h3 i { font-style: normal; width: 20px; height: 20px; border-radius: 50%; display: grid; place-items: center; background: var(--ink); color: var(--paper); font-size: 11px; letter-spacing: 0; }
 .step:last-child { padding-bottom: 20px; }
 
-.paper { font-family: var(--font-read); font-size: 16px; line-height: 1.65; padding: 16px 20px; border: 1px solid var(--rule); border-left: 3px solid var(--ink-3); border-radius: 4px; background: var(--surface-2); margin-bottom: 14px; }
+.paper { font-family: var(--font-read); font-size: var(--prompt-size); line-height: var(--prompt-lh); padding: 16px 20px; border: 1px solid var(--rule); border-left: 3px solid var(--ink-3); border-radius: 4px; background: var(--surface-2); margin-bottom: 14px; }
 .paper p { margin: 0 0 .6em; }
 .paper p:last-child { margin-bottom: 0; }
 .paper ul, .paper ol { margin: .3em 0 .7em; padding-left: 1.4em; }
@@ -34,8 +34,8 @@
 .mind .center { background: var(--ink); color: var(--paper); border-color: var(--ink); font-weight: 600; }
 .mind .own { border-style: dashed; color: var(--ink-3); font-style: italic; }
 
-.answer { font-family: var(--font-read); font-size: 17px; line-height: 1.75; margin-bottom: 14px; }
-.ap { margin: 0 0 .85em; }
+.answer { font-family: var(--font-read); font-size: var(--read-size); line-height: var(--read-lh); margin-bottom: 14px; text-wrap: pretty; }
+.ap { margin: 0 0 var(--para-gap); }
 .type { font-family: var(--font-ui); font-size: 14px; padding: 8px 12px; background: var(--accent-soft); color: var(--ink); border-radius: 4px; margin-bottom: 14px; }
 .qa { margin-bottom: 14px; }
 .qa p { margin: 0; }
@@ -69,4 +69,54 @@
   .paper { font-size: 10pt; padding: 10px 14px; }
   .table { font-size: 9pt; }
   .table td, .table th { padding: 4px 8px; }
+}
+
+/* Folding steps (3–5). Open on desktop, closed on phones. */
+.fold > summary { list-style: none; cursor: pointer; }
+.fold > summary::-webkit-details-marker { display: none; }
+.fold > summary h3::after { content: ''; width: 7px; height: 7px; margin-left: 2px; border-right: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: rotate(-45deg); transition: transform .15s var(--ease); }
+.fold[open] > summary h3::after { transform: rotate(45deg); }
+.fold:not([open]) { padding-bottom: 4px; }
+
+.olist { list-style: none; margin: 0 0 10px; padding: 0; font-size: 13px; line-height: 1.45; }
+.olist li { padding: 6px 0; border-bottom: 1px solid var(--rule); }
+.olist li:last-child { border-bottom: 0; }
+.olist .reuse { display: block; margin-top: 2px; font-size: 13.5px; }
+
+/* ---------- Phone: dense reading mode ---------- */
+@media (max-width: 720px) {
+  .headActs { gap: 6px; }
+  .tabs { margin: -4px calc(-1 * var(--gutter)) 0; padding: 2px var(--gutter); gap: 0; justify-content: space-between; scrollbar-width: none; }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tabs a { padding: 9px 12px; font-size: 13px; font-weight: 600; }
+
+  .part { margin: 0 calc(-1 * var(--gutter)) 10px; border-left: 0; border-right: 0; border-radius: 0; scroll-margin-top: calc(var(--top-h) + 42px); }
+  .tabs + .part { border-top: 0; }
+  .partHead { padding: 8px var(--gutter); border-radius: 0; gap: 2px 10px; }
+  .partHead h2 { font-size: 14px; }
+  .meta, .tpl { font-size: 12px; }
+  .step { padding: 10px var(--gutter) 2px; }
+  .step:last-child { padding-bottom: 8px; }
+  .step h3 { font-size: 11px; margin-bottom: 7px; gap: 7px; }
+  .step h3 i { width: 17px; height: 17px; font-size: 10px; }
+  .fold:not([open]) > summary h3 { margin-bottom: 4px; }
+
+  .paper { padding: 8px 10px; margin-bottom: 8px; border-left-width: 2px; }
+  .paper p { margin-bottom: .45em; }
+  .paper ul, .paper ol { padding-left: 1.2em; margin: .2em 0 .45em; }
+  .quote { padding: 6px 10px; margin: .3em 0 .5em; }
+  .instr { font-size: 12px; }
+  .topic + .topic { margin-top: 4px; }
+  .mind { font-size: 12.5px; gap: 5px; margin: 6px 0 8px; }
+  .mind span { padding: 3px 8px; }
+
+  .answer { margin-bottom: 8px; }
+  .type { font-size: 12px; padding: 5px 9px; margin-bottom: 8px; }
+  .qa { margin-bottom: 8px; }
+  .q { font-size: 12.5px; margin-bottom: 1px !important; }
+  .fuHead { margin: 12px 0 6px; font-size: 11px; }
+  .count { font-size: 12.5px; margin-bottom: 8px; }
+  .table { font-size: 12.5px; margin-bottom: 10px; }
+  .table td, .table th { padding: 5px 8px; }
+  .table td:first-child, .table th:first-child { width: 38%; }
 }

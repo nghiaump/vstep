@@ -32,5 +32,16 @@
   .mind { grid-template-columns: 1fr; }
   .center, .node { grid-column: 1 !important; grid-row: auto !important; }
   .node::before, .node::after { display: none; }
-  .options li { grid-template-columns: 1fr; gap: 2px; }
+  .options li { grid-template-columns: 1fr; gap: 2px; padding: 8px 10px; font-size: var(--read-size); }
+  /* Dense phone reading: same scale as model answers. */
+  .topic + .topic { margin-top: 12px; padding-top: 10px; }
+  .topicHead, .p3topic { font-size: calc(var(--read-size) + 2px); margin-bottom: 4px; }
+  .qs li { font-size: var(--read-size); line-height: var(--read-lh); grid-template-columns: 24px 1fr; gap: 6px; padding: 3px 0; }
+  .qs li::before { width: 20px; height: 20px; font-size: 11px; line-height: 20px; margin-top: 1px; }
+  .situation { font-size: var(--read-size); line-height: var(--read-lh); }
+  .task { font-size: var(--read-size); margin-top: 10px; }
+  .consider { margin: 10px 0 6px; font-size: 11.5px; }
+  .mind { gap: 6px; margin-bottom: 12px; }
+  .center { padding: 8px; font-size: 14px; }
+  .node { padding: 6px 10px; font-size: 13.5px; }
 }

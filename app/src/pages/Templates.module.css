@@ -1,5 +1,5 @@
 .page { max-width: 980px; }
-.toc { position: sticky; top: var(--nav-h); z-index: 5; display: flex; gap: 4px; flex-wrap: wrap; background: var(--paper); border-bottom: 1px solid var(--rule); margin: -8px 0 22px; padding: 8px 0; }
+.toc { position: sticky; top: var(--top-h); z-index: 5; display: flex; gap: 4px; flex-wrap: wrap; background: var(--paper); border-bottom: 1px solid var(--rule); margin: -8px 0 22px; padding: 8px 0; }
 .toc a { padding: 5px 10px; border-radius: var(--r-2); font-size: 13px; font-weight: 500; color: var(--ink-2); text-decoration: none; white-space: nowrap; }
 .toc a:hover { background: var(--sunken); color: var(--ink); }
 .toc a.on { background: var(--accent-soft); color: var(--accent); }
@@ -9,7 +9,7 @@
 .linkers dl { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 8px 24px; margin: 0; }
 .linkers dt { font-size: 12px; font-weight: 600; color: var(--ink-3); }
 .linkers dd { margin: 2px 0 0; font-family: var(--font-read); font-size: 15px; }
-.card { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--r-3); margin-bottom: 18px; scroll-margin-top: calc(var(--nav-h) + 120px); }
+.card { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--r-3); margin-bottom: 18px; scroll-margin-top: calc(var(--top-h) + 120px); }
 .card.active { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
 .head { display: flex; align-items: baseline; gap: 12px; padding: 14px 22px; border-bottom: 1px solid var(--rule); background: var(--surface-2); border-radius: var(--r-3) var(--r-3) 0 0; flex-wrap: wrap; }
 .head h2 { font-size: 16px; flex: 1; min-width: 200px; }
@@ -26,5 +26,24 @@
 .frame { font-family: var(--font-read); font-size: 16.5px; line-height: 1.6; }
 .frame mark { background: var(--accent-soft); color: var(--accent); padding: 0 3px; border-radius: 3px; font-family: var(--font-ui); font-size: 13.5px; }
 .avoid { margin: 0; padding: 10px 22px 14px; font-size: 13.5px; color: var(--ink-2); border-top: 1px solid var(--rule); }
-@media (max-width: 720px) { .head, .when, .steps, .avoid { padding-left: 16px; padding-right: 16px; } }
+@media (max-width: 720px) {
+  /* One scrollable row instead of a 6-line sticky block. */
+  .toc { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: -4px calc(-1 * var(--gutter)) 12px; padding: 4px var(--gutter); }
+  .toc::-webkit-scrollbar { display: none; }
+  .card { margin: 0 calc(-1 * var(--gutter)) 12px; border-left: 0; border-right: 0; border-radius: 0; scroll-margin-top: calc(var(--top-h) + 48px); }
+  .head { border-radius: 0; padding: 8px var(--gutter); gap: 4px 10px; }
+  .head h2 { font-size: 14.5px; min-width: 0; }
+  .when, .steps, .avoid { padding-left: var(--gutter); padding-right: var(--gutter); }
+  .when { padding-top: 8px; font-size: 13px; }
+  .steps > li { padding: 8px 0; }
+  .stepHead { font-size: 13px; margin-bottom: 3px; }
+  .stepHead span { font-size: 12.5px; }
+  .frame { font-size: var(--read-size); line-height: var(--read-lh); }
+  .frame mark { font-size: 12px; }
+  .avoid { font-size: 12.5px; padding-top: 8px; padding-bottom: 10px; }
+  .linkers { margin: 0 calc(-1 * var(--gutter)); border-left: 0; border-right: 0; border-radius: 0; padding: 10px var(--gutter); }
+  .linkers dl { grid-template-columns: 1fr; gap: 6px; }
+  .linkers dd { font-size: var(--read-size); }
+  .group { margin: 18px 0 8px; }
+}
 @media print { .toc { display: none; } .card { break-inside: avoid; box-shadow: none; } }

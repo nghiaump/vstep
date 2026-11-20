@@ -38,9 +38,10 @@ export function useStored<T>(key: string, fallback: T): [T, (v: T | ((prev: T) =
 
 // ---------- Profile & UI ----------
 export interface Profile { name: string }
-export interface UiPrefs { theme: 'system' | 'light' | 'dark'; split: number }
+export type ReadSize = 's' | 'm' | 'l';
+export interface UiPrefs { theme: 'system' | 'light' | 'dark'; split: number; readSize?: ReadSize }
 export const DEFAULT_PROFILE: Profile = { name: '' };
-export const DEFAULT_UI: UiPrefs = { theme: 'system', split: 0.52 };
+export const DEFAULT_UI: UiPrefs = { theme: 'system', split: 0.52, readSize: 'm' };
 
 export const useProfile = () => useStored<Profile>('profile', DEFAULT_PROFILE);
 export const useUi = () => useStored<UiPrefs>('ui', DEFAULT_UI);

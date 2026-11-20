@@ -3,7 +3,7 @@
 .stats b { font-size: 24px; font-weight: 600; line-height: 1.1; }
 .stats span { font-size: 12.5px; color: var(--ink-3); }
 .layout { display: grid; grid-template-columns: 230px 1fr; gap: 28px; align-items: start; }
-.side { position: sticky; top: calc(var(--nav-h) + 16px); display: flex; flex-direction: column; }
+.side { position: sticky; top: calc(var(--top-h) + 16px); display: flex; flex-direction: column; }
 .sideItem { display: grid; grid-template-columns: 1fr auto; gap: 2px 8px; padding: 9px 10px; border-radius: var(--r-2); color: var(--ink-2); text-decoration: none; font-size: 14px; font-weight: 500; }
 .sideItem:hover { background: var(--sunken); color: var(--ink); }
 .sideOn { background: var(--surface); color: var(--ink); box-shadow: inset 2px 0 0 var(--accent), 0 0 0 1px var(--rule); }

@@ -37,7 +37,8 @@
   .tr { grid-template-columns: 1fr auto; grid-template-areas: 'code score' 'titles titles' 'act act'; gap: 8px; padding: 14px 16px; }
   .code { grid-area: code; } .titles { grid-area: titles; grid-template-columns: 1fr; } .right { grid-area: score; } .act { grid-area: act; justify-content: flex-start; }
   .typeGrid { grid-template-columns: repeat(2, 1fr); }
-  .simpleRow { grid-template-columns: 1fr; gap: 8px; }
+  .simpleRow { grid-template-columns: 1fr; gap: 6px; padding: 10px var(--gutter); }
+  .simpleRow > * { grid-area: auto; }  /* .code's grid-area above is for .tr rows only */
   .rowActs { justify-content: flex-start; }
   .toolbar { flex-direction: column; align-items: stretch; }
   .search { flex: 1; }

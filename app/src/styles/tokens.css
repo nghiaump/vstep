@@ -40,7 +40,37 @@
   --s-1: 4px; --s-2: 8px; --s-3: 12px; --s-4: 16px; --s-5: 24px; --s-6: 32px; --s-7: 48px;
   --header-h: 52px;
   --nav-h: 56px;
+  --tabbar-h: 0px;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --top-h: calc(var(--nav-h) + var(--safe-top));   /* sticky offset under the app bar */
+  --gutter: 24px;
   --ease: cubic-bezier(.2, .7, .2, 1);
+
+  /* Reading typography (model answers, prompts). Scaled by Settings → Cỡ chữ (data-read s|m|l). */
+  --read-size: 17px;
+  --read-lh: 1.75;
+  --prompt-size: 16px;
+  --prompt-lh: 1.65;
+  --para-gap: .85em;
+}
+:root[data-read='s'] { --read-size: 15px; --prompt-size: 14.5px; }
+:root[data-read='l'] { --read-size: 19px; --prompt-size: 17.5px; }
+
+/* Phones (tuned for iPhone 15 Pro, 393×852pt): small, dense text — more words per screen, normal weight. */
+@media (max-width: 720px) {
+  :root {
+    --nav-h: 44px;
+    --tabbar-h: 54px;
+    --gutter: 12px;
+    --read-size: 13.5px;
+    --read-lh: 1.45;
+    --prompt-size: 12.5px;
+    --prompt-lh: 1.42;
+    --para-gap: .5em;
+  }
+  :root[data-read='s'] { --read-size: 12.5px; --prompt-size: 12px; }
+  :root[data-read='l'] { --read-size: 15px; --prompt-size: 14px; --read-lh: 1.5; }
 }
 
 :root[data-theme='dark'] {

@@ -21,7 +21,7 @@ export default function SpeakingView() {
           <p className="eyebrow"><Link to="/speaking">Speaking</Link> · Xem đề</p>
           <h1 className="page-title">{examLabel(exam.id)} · Speaking</h1>
         </div>
-        <div style={{ display: 'flex', gap: 8 }}>
+        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
           <button className="btn" disabled={!newer} onClick={() => nav(`/speaking/${newer.id}`)}><Icon name="left" size={15} /> Đề mới hơn</button>
           <button className="btn" disabled={!older} onClick={() => nav(`/speaking/${older.id}`)}>Đề cũ hơn <Icon name="right" size={15} /></button>
           {hasSolution(exam.id) && <Link className="btn" to={`/bai-mau/${exam.id}#s1`}>Bài mẫu</Link>}

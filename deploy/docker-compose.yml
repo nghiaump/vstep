@@ -1,0 +1,27 @@
+# VSTEP · Phòng luyện — bản web tĩnh, CHỈ phục vụ trong tailnet.
+#
+# http://100.125.162.41:6698  (máy rtx-1, Tailscale)
+#
+# ⛔ Không bind 0.0.0.0, không Tailscale Funnel, không Cloudflare: bản build chứa nguyên văn đề
+#    vstepowl.com, chỉ dùng để tự ôn cá nhân (xem CLAUDE.md → Hard rules).
+# Không mount thẳng app/dist: Vite xoá và tạo lại thư mục đó, bind mount sẽ trỏ vào inode cũ.
+# deploy.sh rsync dist/ → www/.
+services:
+  web:
+    image: nginx:1.27-alpine
+    container_name: vstep-web
+    restart: unless-stopped
+    ports:
+      - "100.125.162.41:6698:80"
+    volumes:
+      - ./www:/usr/share/nginx/html:ro
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    read_only: true
+    tmpfs:
+      - /var/cache/nginx
+      - /var/run
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "/dev/null", "http://127.0.0.1/"]
+      interval: 60s
+      timeout: 5s
+      retries: 3

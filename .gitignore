@@ -20,3 +20,6 @@ __pycache__/
 # scratch files from scraping sessions
 tools/bad.txt
 tools/chunklist.txt
+
+# deploy output (built app copy served by nginx)
+deploy/www/

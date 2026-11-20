@@ -1,28 +1,33 @@
+import { lazy, Suspense } from 'react';
 import { HashRouter, Route, Routes, Navigate } from 'react-router-dom';
 import { AppShell, useThemeSync } from './components/AppShell';
-import Home from './pages/Home';
-import ReadingList from './pages/ReadingList';
-import ReadingTest from './pages/ReadingTest';
-import ReadingResult from './pages/ReadingResult';
-import ReadingByType from './pages/ReadingByType';
-import WritingList from './pages/WritingList';
-import WritingRoom from './pages/WritingRoom';
-import WritingReview from './pages/WritingReview';
-import SpeakingList from './pages/SpeakingList';
-import SpeakingView from './pages/SpeakingView';
-import SpeakingTest from './pages/SpeakingTest';
-import SpeakingReview from './pages/SpeakingReview';
-import History from './pages/History';
-import Settings from './pages/Settings';
-import SolutionsList from './pages/SolutionsList';
-import Templates from './pages/Templates';
-import Solution from './pages/Solution';
-import PrintSolutions from './pages/PrintSolutions';
+
+// Route-level code splitting: a phone opening one model answer loads only the solutions data,
+// not every exam's reading/writing/speaking JSON.
+const Home = lazy(() => import('./pages/Home'));
+const ReadingList = lazy(() => import('./pages/ReadingList'));
+const ReadingTest = lazy(() => import('./pages/ReadingTest'));
+const ReadingResult = lazy(() => import('./pages/ReadingResult'));
+const ReadingByType = lazy(() => import('./pages/ReadingByType'));
+const WritingList = lazy(() => import('./pages/WritingList'));
+const WritingRoom = lazy(() => import('./pages/WritingRoom'));
+const WritingReview = lazy(() => import('./pages/WritingReview'));
+const SpeakingList = lazy(() => import('./pages/SpeakingList'));
+const SpeakingView = lazy(() => import('./pages/SpeakingView'));
+const SpeakingTest = lazy(() => import('./pages/SpeakingTest'));
+const SpeakingReview = lazy(() => import('./pages/SpeakingReview'));
+const History = lazy(() => import('./pages/History'));
+const Settings = lazy(() => import('./pages/Settings'));
+const SolutionsList = lazy(() => import('./pages/SolutionsList'));
+const Templates = lazy(() => import('./pages/Templates'));
+const Solution = lazy(() => import('./pages/Solution'));
+const PrintSolutions = lazy(() => import('./pages/PrintSolutions'));
 
 export default function App() {
   useThemeSync();
   return (
     <HashRouter>
+      <Suspense fallback={<div className="page muted" aria-busy="true">Đang tải…</div>}>
       <Routes>
         <Route element={<AppShell />}>
           <Route index element={<Home />} />
@@ -47,6 +52,7 @@ export default function App() {
         <Route path="in/bai-mau/:examId" element={<PrintSolutions />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
+      </Suspense>
     </HashRouter>
   );
 }

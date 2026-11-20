@@ -49,6 +49,14 @@ export default function Settings() {
           </div>
         </div>
         <div className={s.row}>
+          <div><h2>Cỡ chữ bài đọc</h2><p>Cỡ chữ đề và bài mẫu. Trên điện thoại, mặc định là chữ nhỏ, xếp dày để ít phải cuộn.</p></div>
+          <div className="seg" role="group" aria-label="Cỡ chữ bài đọc">
+            {(['s', 'm', 'l'] as const).map((k) => (
+              <button key={k} aria-pressed={(ui.readSize ?? 'm') === k} onClick={() => setUi({ ...ui, readSize: k })}>{k === 's' ? 'Nhỏ' : k === 'm' ? 'Vừa' : 'Lớn'}</button>
+            ))}
+          </div>
+        </div>
+        <div className={s.row}>
           <div><h2>Sao lưu tiến độ</h2><p>{attempts.length} lượt làm bài. Xuất ra file JSON để chuyển sang máy khác hoặc phòng khi xoá dữ liệu trình duyệt.</p></div>
           <div className={s.btns}>
             <button className="btn" onClick={doExport}>Xuất file</button>
@@ -64,7 +72,7 @@ export default function Settings() {
       {msg && <p className={s.msg} role="status">{msg}</p>}
       <div className={s.about}>
         <h2>Về ứng dụng</h2>
-        <p>Toàn bộ đề, bài làm và bản ghi âm được lưu trên chính máy của bạn (trình duyệt), không gửi đi đâu. Ứng dụng chạy hoàn toàn offline.</p>
+        <p>Bài làm, điểm và bản ghi âm được lưu trong trình duyệt của từng máy, không gửi đi đâu. Điện thoại và máy tính có dữ liệu riêng: dùng Sao lưu tiến độ để chuyển qua lại.</p>
         <p>Đề được lưu từ vstepowl.com (Exam Reviews, Đại học Văn Lang) để tự ôn cá nhân; không chia sẻ lại. Phím tắt trong phòng thi Reading: bấm <kbd>?</kbd>.</p>
       </div>
     </div>

@@ -19,6 +19,7 @@
 
 - [Có gì trong này](#có-gì-trong-này)
 - [Bắt đầu trong 1 phút](#bắt-đầu-trong-1-phút)
+- [Đọc trên điện thoại (qua Tailscale)](#đọc-trên-điện-thoại-qua-tailscale)
 - [Lộ trình ôn gợi ý](#lộ-trình-ôn-gợi-ý)
 - [Bài mẫu và khung mẫu](#bài-mẫu-và-khung-mẫu)
 - [Cấu trúc thư mục](#cấu-trúc-thư-mục)
@@ -65,6 +66,34 @@ npm run app        # build + mở http://localhost:4173
 
 > [!TIP]
 > Không muốn chạy app? Mở trực tiếp các trang tĩnh trong `de-thi/reading/`, `de-thi/writing/`, `de-thi/speaking/`. Bài mẫu có sẵn dạng Markdown trong `de-thi/loi-giai/` và PDF trong `de-thi/loi-giai/pdf/`.
+
+## Đọc trên điện thoại (qua Tailscale)
+
+Bản web chạy trên máy `rtx-1` và **chỉ mở trong tailnet** của bạn: **http://100.125.162.41:6698**
+
+1. Bật Tailscale trên iPhone.
+2. Mở địa chỉ trên bằng Safari.
+3. Bấm Chia sẻ → **Thêm vào MH chính**. App sẽ mở toàn màn hình, có icon "V".
+
+Giao diện điện thoại được tối ưu cho iPhone 15 Pro:
+- **chữ nhỏ, xếp dày**: bài mẫu 13,5px, giãn dòng 1,45, lề 12px;
+- thanh điều hướng ở đáy màn hình;
+- trên trang bài mẫu, các mục Số từ, Dàn ý, Từ vựng gập lại (bấm để mở).
+
+Đổi cỡ chữ Nhỏ/Vừa/Lớn trong **Cài đặt → Cỡ chữ bài đọc**.
+
+```bash
+bash deploy/deploy.sh          # build app → deploy/www → container nginx vstep-web
+bash deploy/deploy.sh status   # kiểm tra
+bash deploy/deploy.sh up       # khởi động lại container (vd. sau reboot nếu Docker lên trước Tailscale)
+```
+
+> [!WARNING]
+> Không đổi cổng sang `0.0.0.0` và không bật Funnel hay Cloudflare. Bản build chứa nguyên văn đề vstepowl.com, chỉ dùng cho riêng bạn.
+
+Lưu ý:
+- Địa chỉ là `http`, không phải HTTPS, nên trên điện thoại **không ghi âm** được. Phần Speaking vẫn xem đề và thi thử bình thường.
+- Bài làm và tiến độ lưu riêng trên từng thiết bị. Muốn chuyển giữa các máy thì dùng Cài đặt → Sao lưu tiến độ.
 
 ## Lộ trình ôn gợi ý
 
@@ -122,6 +151,7 @@ VSTEP/
 │   ├── parse_exam_pdf.py   # PDF → exams/vlu-N.json
 │   ├── build_skill_pages.py
 │   └── solutions/          # check.py · build.py · verify_prompts.py · audit.py · export_pdf.mjs
+├── deploy/                 # nginx + docker compose: phục vụ app trong tailnet (:6698)
 ├── docs/images/            # ảnh chụp màn hình cho README
 └── site/                   # bản lưu cũ các trang public (không dùng cho app)
 ```
@@ -167,12 +197,13 @@ node export_pdf.mjs http://localhost:4173/   # xuất PDF (cần app đang chạ
 cd app
 npm run dev        # http://localhost:5173 (tự chạy sync-data trước)
 npm test           # Vitest: chấm điểm, dữ liệu, bài mẫu, khung
-npm run e2e        # Playwright trên Chrome đã cài sẵn (tự bật dev server :5173)
+npm run e2e        # Playwright trên Chrome đã cài sẵn (tự bật dev server :5173); 2 project: desktop 1440×900 và mobile (iPhone 15 Pro 393×852)
 npm run build      # tsc + vite build → app/dist
 ```
 
 **Công nghệ:**
-- Vite 8, React 19, TypeScript, React Router (HashRouter), CSS Modules.
+- Vite 8, React 19, TypeScript, React Router (HashRouter, tách bundle theo route), CSS Modules.
+- Responsive: điện thoại (≤720px) có layout riêng, render qua `useMedia`. Cỡ chữ đọc là token `--read-size` / `--prompt-size` trong `src/styles/tokens.css`.
 - Font: Be Vietnam Pro và Source Serif 4.
 - Lưu trữ: localStorage và IndexedDB (`idb-keyval`).
 - Ghi âm và đo mức âm thanh: MediaRecorder + WebAudio.

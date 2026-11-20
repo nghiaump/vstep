@@ -7,6 +7,6 @@ export default defineConfig({
   base: './',
   server: { port: 5173 },
   preview: { port: 4173 },
-  build: { chunkSizeWarningLimit: 2500 },
+  build: { chunkSizeWarningLimit: 3500 }, // the lazy-loaded exam data chunk is ~3.2 MB of JSON
   test: { include: ['tests/**/*.test.ts'] },
 });

@@ -3,11 +3,24 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#1a1d21" media="(prefers-color-scheme: dark)" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="VSTEP" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="robots" content="noindex, nofollow" />
     <title>VSTEP · Phòng luyện</title>
     <script>
-      try { var t = JSON.parse(localStorage.getItem('vstep:v1:ui') || '{}').theme; if (t === 'dark' || t === 'light') document.documentElement.dataset.theme = t; } catch (e) {}
+      try {
+        var u = JSON.parse(localStorage.getItem('vstep:v1:ui') || '{}');
+        if (u.theme === 'dark' || u.theme === 'light') document.documentElement.dataset.theme = u.theme;
+        if (u.readSize === 's' || u.readSize === 'l') document.documentElement.dataset.read = u.readSize;
+      } catch (e) {}
     </script>
   </head>
   <body>

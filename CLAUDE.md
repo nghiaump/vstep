@@ -16,6 +16,9 @@ The owner is Vietnamese. **Write UI text, docs and explanations in Vietnamese. W
   - evade its bot detection.
 - **Getting new exams.** Use only the site's official "Tải đề thi" PDF export, clicked at human pace in the user's real Chrome (Claude in Chrome). Then parse the PDF locally.
 - **npm cache is root-owned.** Pass a private cache: `npm install --cache <scratchpad>/npm-cache`.
+- **Deploy is tailnet-only.** `deploy/deploy.sh` serves the app at http://100.125.162.41:6698 from the Docker nginx container `vstep-web`.
+  - Never bind it to 0.0.0.0. Never expose it through Funnel, Cloudflare or any public host.
+  - The build contains verbatim vstepowl content.
 
 ## Layout and source of truth
 
@@ -46,6 +49,10 @@ python3 verify_prompts.py          # prompts in the .md must match the sources v
 python3 build.py [N|id ...]        # render .md + index + KHUNG-MAU.md
 python3 audit.py                   # before/after metrics, answers-v1 vs answers
 node export_pdf.mjs http://localhost:4173/   # per-exam PDFs + combined; preview must be running
+
+# deploy (run at repo root)
+bash deploy/deploy.sh                    # build → rsync to deploy/www → nginx on 100.125.162.41:6698 (tailnet only)
+bash deploy/deploy.sh status|up|down
 ```
 
 ## Model answer rules (enforced by `check.py`)
@@ -101,7 +108,7 @@ node export_pdf.mjs http://localhost:4173/   # per-exam PDFs + combined; preview
 
 ## App notes
 
-- HashRouter.
+- HashRouter. Pages are `React.lazy` route chunks, so the solutions page doesn't load the reading data.
 - Exam rooms are full-screen routes outside `AppShell`.
 - `/bai-mau/khung` (templates page) is a static route next to `/bai-mau/:examId`.
 - Timers derive from `startedAt` (wall clock), so they survive reloads.
@@ -109,5 +116,12 @@ node export_pdf.mjs http://localhost:4173/   # per-exam PDFs + combined; preview
   - `useStored` (useSyncExternalStore) over localStorage keys `vstep:v1:*`;
   - audio goes to IndexedDB via idb-keyval.
 - `useMedia` renders a single layout per breakpoint. Don't render desktop and mobile variants at the same time.
+- Phone layout (`PHONE` = max-width 720px in `AppShell.tsx`), tuned for iPhone 15 Pro (393×852):
+  - bottom tab bar;
+  - dense reading text using the tokens `--read-size`, `--read-lh`, `--prompt-size` and `--gutter` (`tokens.css`), scaled by `data-read` s/m/l from Settings;
+  - on the solutions page, steps 3–5 are `<details>`, closed on phones.
+- Safe areas: use `--safe-top`/`--safe-bottom` and `--top-h` for sticky offsets, not `--nav-h`.
+- `npm run e2e` runs two projects, `desktop` and `mobile` (`tests/e2e/mobile.spec.ts`).
+  - The Speaking-recording smoke test fails on this Linux box because the synthetic mic is denied. That happens even before the mobile work.
 - Headless Chrome on macOS cannot open even a fake mic. The e2e tests inject a synthetic WebAudio stream, and recordings need real time (`waitForTimeout`).
 - To screenshot or check a page, run `npx vite preview --port 4199 --strictPort` and drive it with Playwright (`channel: 'chrome'`). Kill the server afterwards.

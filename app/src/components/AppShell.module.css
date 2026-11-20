@@ -1,6 +1,6 @@
-.shell { min-height: 100vh; display: flex; flex-direction: column; }
-.nav { height: var(--nav-h); border-bottom: 1px solid var(--rule); background: var(--surface); position: sticky; top: 0; z-index: 20; }
-.inner { max-width: 1120px; margin: 0 auto; padding: 0 var(--s-5); height: 100%; display: flex; align-items: center; gap: var(--s-6); }
+.shell { min-height: 100vh; min-height: 100dvh; display: flex; flex-direction: column; }
+.nav { height: var(--top-h); padding-top: var(--safe-top); border-bottom: 1px solid var(--rule); background: var(--surface); position: sticky; top: 0; z-index: 20; }
+.inner { max-width: 1120px; margin: 0 auto; padding: 0 max(var(--gutter), env(safe-area-inset-right)) 0 max(var(--gutter), env(safe-area-inset-left)); height: 100%; display: flex; align-items: center; gap: var(--s-6); }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 15px; color: var(--ink); text-decoration: none; letter-spacing: -0.01em; }
 .brandSub { font-weight: 400; color: var(--ink-3); margin-left: 2px; }
 .mark { width: 26px; height: 26px; border-radius: 5px; background: var(--accent); color: var(--accent-ink); display: grid; place-items: center; font-size: 14px; font-weight: 700; }
@@ -14,11 +14,29 @@
 .iconActive { color: var(--accent); }
 .main { flex: 1; }
 .foot { border-top: 1px solid var(--rule); font-size: 12.5px; color: var(--ink-3); height: 48px; }
-@media (max-width: 720px) {
-  .inner { gap: var(--s-3); padding: 0 var(--s-3); }
-  .brandSub { display: none; }
-  .links a { padding: 0 8px; font-size: 13.5px; }
-  .foot { height: auto; padding: 12px 0; }
-}
+.foot a { color: inherit; }
 
-@media print { .nav, .foot { display: none !important; } .shell { display: block; } }
+/* ---------- Phone layout (rendered only when the PHONE query matches) ---------- */
+.phone { padding-bottom: calc(var(--tabbar-h) + var(--safe-bottom)); }
+.phone .inner { gap: var(--s-3); }
+.phone .brandSub { display: none; }
+.phone .mark { width: 24px; height: 24px; font-size: 13px; }
+.phone .iconBtn { width: 40px; height: 40px; }
+.phone .foot { height: auto; padding: 10px 0; font-size: 11.5px; line-height: 1.45; }
+
+.tabbar {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 30;
+  height: calc(var(--tabbar-h) + var(--safe-bottom)); padding: 0 env(safe-area-inset-right) var(--safe-bottom) env(safe-area-inset-left);
+  display: grid; grid-template-columns: repeat(5, 1fr);
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  -webkit-backdrop-filter: saturate(1.6) blur(14px); backdrop-filter: saturate(1.6) blur(14px);
+  border-top: 1px solid var(--rule);
+}
+.tab {
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px;
+  color: var(--ink-3); text-decoration: none; font-size: 10.5px; font-weight: 500; letter-spacing: .01em;
+}
+.tabActive { color: var(--accent); }
+.tabActive span { font-weight: 600; }
+
+@media print { .nav, .foot, .tabbar { display: none !important; } .shell { display: block; padding: 0; } }

@@ -132,7 +132,7 @@ function Room({ exam }: { exam: SpeakingExam }) {
                     {rec.mic === 'asking' && 'Đang chờ bạn cho phép…'}
                     {rec.mic === 'ready' && 'Sẵn sàng. Thử nói vài câu để xem mức âm.'}
                     {rec.mic === 'denied' && 'Không truy cập được micro. Vẫn thi được nhưng không ghi âm.'}
-                    {rec.mic === 'unsupported' && 'Trình duyệt không hỗ trợ ghi âm. Vẫn thi được nhưng không ghi âm.'}
+                    {rec.mic === 'unsupported' && (window.isSecureContext ? 'Trình duyệt không hỗ trợ ghi âm. Vẫn thi được nhưng không ghi âm.' : 'Ghi âm chỉ chạy trên localhost hoặc HTTPS (mở trên máy tính). Vẫn thi được nhưng không ghi âm.')}
                   </span>
                 </div>
                 {rec.mic === 'idle' && <button className="btn btn-sm" onClick={rec.enable}>Kiểm tra micro</button>}
