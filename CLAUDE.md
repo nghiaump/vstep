@@ -19,6 +19,9 @@ The owner is Vietnamese. **Write UI text, docs and explanations in Vietnamese. W
 - **Deploy is tailnet-only.** `deploy/deploy.sh` serves the app at http://100.125.162.41:6698 from the Docker nginx container `vstep-web`.
   - Never bind it to 0.0.0.0. Never expose it through Funnel, Cloudflare or any public host.
   - The build contains verbatim vstepowl content.
+- **Git: one branch only.** Commit and push straight to `main`.
+  - No feature branches or pull requests.
+  - If one was created, merge it into `main` and delete it locally and on `origin`.
 
 ## Layout and source of truth
 
