@@ -130,20 +130,38 @@ for (const s of speaking) {
 const SOL = join(SRC, 'loi-giai');
 const solutions = existsSync(join(SOL, 'answers'))
   ? readdirSync(join(SOL, 'answers'))
-      .filter((f) => /^vlu-\d+\.json$/.test(f) && existsSync(join(SOL, 'prompts', f)))
+      .filter((f) => f.endsWith('.json') && existsSync(join(SOL, 'prompts', f)))
       .map((f) => {
-        const { guides: _g, ...prompt } = JSON.parse(readFileSync(join(SOL, 'prompts', f), 'utf8'));
+        const prompt = JSON.parse(readFileSync(join(SOL, 'prompts', f), 'utf8'));
         const answer = JSON.parse(readFileSync(join(SOL, 'answers', f), 'utf8'));
-        return { id: prompt.id, number: prompt.number, prompt, answer };
+        return { id: prompt.id, number: prompt.number, label: prompt.label || `VLU ${prompt.number}`, custom: !!prompt.custom, prompt, answer };
       })
-      .sort((a, b) => b.number - a.number)
+      // self-made / recalled exams first (newest date first), then VLU numbers descending
+      .sort((a, b) => (b.custom - a.custom) || (b.custom ? (b.prompt.date || '').localeCompare(a.prompt.date || '') : b.number - a.number))
   : [];
+
+// Self-made / recalled exams (writing only) also become timed Writing rooms, listed first.
+const customWriting = solutions.filter((s) => s.custom && s.prompt.writing).map((s) => ({
+  id: s.id,
+  number: 0,
+  title: s.prompt.title,
+  label: s.label,
+  custom: true,
+  source: '',
+  tasks: ['1', '2'].map((k) => {
+    const p = s.prompt.writing[k];
+    return { task: +k, kind: p.kind, minWords: p.min_words, prompt: [...p.intro, ...p.quote, p.instruction].join('\n'), guide: s.prompt.guides?.[k] || '' };
+  }),
+}));
+writing.unshift(...customWriting);
+for (const s of solutions) delete s.prompt.guides;
 
 const write = (name, data) => writeFileSync(join(OUT, `${name}.json`), JSON.stringify(data));
 write('reading', reading);
 write('writing', writing);
 write('speaking', speaking);
 write('solutions', solutions);
+if (existsSync(join(SOL, 'templates.json'))) writeFileSync(join(OUT, 'templates.json'), readFileSync(join(SOL, 'templates.json'), 'utf8'));
 console.log(`sync-data: reading ${reading.length}, writing ${writing.length}, speaking ${speaking.length}, solutions ${solutions.length}`);
 if (warn.length) console.warn('sync-data warnings:\n  ' + warn.join('\n  '));
 if (!existsSync(join(OUT, 'reading.json'))) process.exit(1);

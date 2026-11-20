@@ -2,112 +2,124 @@
  "id": "vlu-120",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
-     "content": "Chào thân mật theo tên",
+     "content": "Chào thân mật theo tên (bạn tên Minh nên người viết ký tên khác)",
      "reusable": "Hi Minh,"
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn tin nhắn, vui vì bạn đến, lâu rồi chưa gặp",
-     "reusable": "I'm so happy that you are coming to Ho Chi Minh City next month."
+     "content": "Cảm ơn tin nhắn, vui vì bạn đến",
+     "reusable": "Thank you for your message. I am so happy that you are coming."
     },
     {
-     "section": "Ý 1: cuộc sống thành phố gần đây",
-     "content": "Bận nhưng thú vị; tuyến metro đầu tiên đã chạy; trời nóng, chiều hay mưa",
-     "reusable": "Life in my city has been busy but exciting recently."
+     "section": "Ý 1: cuộc sống gần đây",
+     "content": "Bận nhưng thú vị → tuyến metro mới chạy tốt, đi lại dễ hơn → nhưng trời nóng, chiều hay mưa",
+     "reusable": "Regarding my city, life here has been busy but exciting recently."
     },
     {
-     "section": "Ý 2: gặp sáng hay tối + lý do",
-     "content": "Chọn buổi tối: ban ngày làm ở trường đến 5 giờ; tối mát, dễ đi dạo",
-     "reusable": "I'd prefer to meet in the evening."
+     "section": "Ý 2: sáng hay tối, vì sao",
+     "content": "Buổi tối → làm việc đến 5 giờ → tối mát, dễ đi dạo",
+     "reusable": "As for the time, I would prefer to meet in the evening."
     },
     {
      "section": "Ý 3: nơi nên đến + gặp ở đâu, khi nào",
-     "content": "Phố đi bộ Nguyễn Huệ; gặp ở quán cà phê đó tối thứ Sáu 7 giờ; sau đó ăn tối ở chợ đêm Bến Thành",
-     "reusable": "How about meeting at a coffee shop there on Friday at 7 p.m.?"
+     "content": "Phố đi bộ Nguyễn Huệ → quán cà phê ở đó 7 giờ tối thứ Sáu → ăn tối chợ đêm Bến Thành",
+     "reusable": "About a place to visit, you should go to Nguyen Hue Walking Street because it is beautiful at night. How about meeting at a coffee shop there at 7 p.m. on Friday?"
     },
     {
-     "section": "Ý 4: hỏi bạn có cần mang gì từ quê",
-     "content": "Hỏi bạn có cần mang gì cho mình không; nếu còn chỗ thì mua bánh cốm Hà Nội",
-     "reusable": "By the way, do you need to bring anything for me from your hometown?"
+     "section": "Ý 4: hỏi có mang gì từ quê không",
+     "content": "Hỏi → không cần lo nếu bận → nếu còn chỗ thì mang bánh cốm Hà Nội",
+     "reusable": "By the way, do you plan to bring anything from your hometown for me?"
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mong gặp bạn",
-     "reusable": "I can't wait to see you."
+     "content": "Câu kết cố định",
+     "reusable": "I am looking forward to seeing you soon. Best wishes,"
     }
    ],
-   "answer": "Hi Minh,\n\nThanks for your message! I'm so happy that you are coming to Ho Chi Minh City next month. It has been a long time since we last met.\n\nLife in my city has been busy but exciting recently. The first metro line has opened, so travelling around the city is easier now. However, the weather has been very hot, and it often rains in the afternoon.\n\nI'd prefer to meet in the evening. During the day, I work at the university until 5 p.m. Also, the weather is cooler in the evening, so it is more pleasant to walk around.\n\nYou should visit Nguyen Hue Walking Street because it is beautiful at night. How about meeting at a coffee shop there on Friday at 7 p.m.? After that, we can have dinner at Ben Thanh Night Market.\n\nBy the way, do you need to bring anything for me from your hometown? Please don't worry about it. But if you have space in your bag, I would love some green rice cakes from Ha Noi!\n\nI can't wait to see you.\n\nBest wishes,\nNam",
+   "answer": "Hi Minh,\n\nThank you for your message. I am so happy that you are coming.\n\nRegarding my city, life here has been busy but exciting recently. The new metro line is running well, so travelling is easier now. However, it has been very hot, and it often rains in the afternoon.\n\nAs for the time, I would prefer to meet in the evening. This is because I work until 5 p.m. on weekdays. Also, the weather is cooler then, so a walk is more pleasant.\n\nAbout a place to visit, you should go to Nguyen Hue Walking Street because it is beautiful at night. How about meeting at a coffee shop there at 7 p.m. on Friday? Then we can have dinner at Ben Thanh Night Market.\n\nBy the way, do you plan to bring anything from your hometown for me? Do not worry if you are busy. However, if you have space in your bag, I would love some green rice cakes from Hanoi.\n\nI am looking forward to seeing you soon.\n\nBest wishes,\nNam",
    "vocab": [
     {
      "term": "metro line",
-     "meaning": "tuyến tàu điện ngầm / đường sắt đô thị"
-    },
-    {
-     "term": "walking street",
-     "meaning": "phố đi bộ"
+     "meaning": "tuyến tàu điện ngầm"
     },
     {
      "term": "pleasant",
      "meaning": "dễ chịu"
     },
     {
+     "term": "walking street",
+     "meaning": "phố đi bộ"
+    },
+    {
      "term": "night market",
      "meaning": "chợ đêm"
     },
     {
-     "term": "by the way",
-     "meaning": "nhân tiện"
+     "term": "green rice cakes",
+     "meaning": "bánh cốm"
     }
    ]
   },
   "2": {
-   "essay_type": "Causes, problems & solutions (nguyên nhân, vấn đề gây ra và giải pháp: đề nêu \"causes\", câu yêu cầu cuối hỏi \"problems caused by\", nên bài trả lời cả hai)",
+   "essay_type": "Causes, problems & solutions (nguyên nhân, vấn đề gây ra và giải pháp: đề hỏi \"causes\", câu yêu cầu hỏi \"problems caused by\", nên Result của mỗi nguyên nhân là vấn đề nó gây ra)",
+   "type_key": "x_solution",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: thời trang nhanh tạo khoảng 10% khí thải; tác hại khác: tốn nhiều nước, hóa chất làm ô nhiễm sông → bài bàn nguyên nhân, tác hại và giải pháp",
-     "reusable": "This essay will discuss the main causes and problems of fast fashion and suggest some solutions."
+     "content": "Viết lại đề (quần áo rẻ, hợp mốt phổ biến nhưng hại môi trường; thải nhiều khí nhà kính) + câu dẫn",
+     "reusable": "This essay will discuss the main causes of this issue and the problems it creates, and suggest some solutions."
     },
     {
-     "section": "Thân bài 1: nguyên nhân",
-     "content": "(1) quần áo rẻ → mua nhiều, mặc vài lần rồi bỏ (2) mạng xã hội, quảng cáo thúc đẩy chạy theo xu hướng (3) công ty sản xuất ồ ạt, dùng vải polyester từ dầu, khó phân hủy",
-     "reusable": "There are several causes of this problem. Firstly, fast fashion clothes are very cheap."
+     "section": "Thân bài 1 · nguyên nhân 1 → vấn đề ô nhiễm",
+     "content": "P: hãng thời trang sản xuất nhanh, nhiều → E: theo xu hướng, lợi nhuận → Ex: mẫu mới mỗi tuần → R (vấn đề): tốn nước, năng lượng, hoá chất, ô nhiễm sông, không khí",
+     "reusable": "There are two main causes of this problem. Firstly, fashion brands produce huge amounts of cheap clothes very quickly."
     },
     {
-     "section": "Thân bài 2: giải pháp",
-     "content": "(1) chính phủ: luật chặt, đánh thuế công ty gây ô nhiễm (2) công ty: làm đồ bền, nhận tái chế (3) người tiêu dùng: mua ít mà chất lượng, sửa đồ, mua đồ cũ, quyên góp",
-     "reusable": "However, there are some solutions to reduce this problem. Firstly, governments should make stricter laws for fashion companies."
+     "section": "Thân bài 1 · nguyên nhân 2 → vấn đề rác thải dệt may",
+     "content": "P: người mua mua nhiều, vứt nhanh → E: mặc vài lần → Ex: mua áo phông giảm giá trên mạng, bỏ sau một mùa → R (vấn đề): rác dệt may đầy bãi rác",
+     "reusable": "Secondly, many consumers buy too many clothes and throw them away quickly."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 1 (cho nguyên nhân 1)",
+     "content": "Ai: chính phủ → bắt công ty sản xuất sạch → Ex: phạt nhà máy xả thải, giảm thuế cho hãng dùng vật liệu tái chế",
+     "reusable": "However, there are some ways to solve this problem. Firstly, governments should make fashion companies use cleaner production methods."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 2 (cho nguyên nhân 2)",
+     "content": "Ai: người mua → mua ít mà chất lượng, tái sử dụng → Ex: đồ cũ, quyên góp từ thiện → R: ít rác dệt may",
+     "reusable": "Secondly, consumers should buy fewer but better clothes and reuse them."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt tác hại + nguyên nhân + các bên cùng hành động",
-     "reusable": "If everyone buys more carefully, we can protect our planet for future generations."
+     "content": "Tóm tắt nguyên nhân + giải pháp",
+     "reusable": "In conclusion, fast fashion harms the environment mainly because … However, this problem can be reduced if …"
     }
    ],
-   "answer": "Fast fashion is growing very quickly around the world. It reportedly produces about 10% of global carbon emissions. It also causes other serious problems. For example, factories use huge amounts of water and pollute rivers with chemicals. This essay will discuss the main causes and problems of fast fashion and suggest some solutions.\n\nThere are several causes of this problem. Firstly, fast fashion clothes are very cheap. As a result, people buy many new items and throw them away after wearing them only a few times. Every year, millions of tonnes of clothes end up in landfills. Secondly, social media and advertising encourage people to follow trends. For example, young people often want a new outfit for every photo they post online. In addition, fashion companies produce huge amounts of clothes very quickly. They use cheap materials like polyester, which comes from oil and does not break down easily.\n\nHowever, there are some solutions to reduce this problem. Firstly, governments should make stricter laws for fashion companies. For instance, they can tax companies that pollute and support brands that use recycled materials or organic cotton. Secondly, companies should produce clothes that last longer and offer recycling services in their shops. Moreover, consumers can change their shopping habits. They should buy fewer but better clothes, repair old items and buy second-hand clothes. People can also give unwanted clothes to charity instead of throwing them away.\n\nIn conclusion, fast fashion pollutes the air, water and land. This happens because clothes are cheap, trends change quickly and companies produce too much. Governments, companies and consumers all need to take action. If everyone buys more carefully, we can protect our planet for future generations.",
+   "answer": "In recent years, cheap and trendy clothes have become very popular, but making them harms our planet. The fashion industry now produces a large share of the world's greenhouse gases. This essay will discuss the main causes of this issue and the problems it creates, and suggest some solutions.\n\nThere are two main causes of this problem. Firstly, fashion brands produce huge amounts of cheap clothes very quickly. This is because they want to follow new trends and make more profit. For example, some brands bring new designs to their shops every week. As a result, factories use a lot of water, energy and chemicals, which pollute rivers and the air. Secondly, many consumers buy too many clothes and throw them away quickly. This means that clothes are worn only a few times. For instance, many young people buy cheap T-shirts online during sales and stop wearing them after one season. Therefore, huge amounts of textile waste end up in landfills.\n\nHowever, there are some ways to solve this problem. Firstly, governments should make fashion companies use cleaner production methods. For instance, they can fine factories that pour dirty water into rivers and give tax cuts to brands that use recycled materials. Secondly, consumers should buy fewer but better clothes and reuse them. A good example is buying second-hand clothes or giving old clothes to charity instead of throwing them away. Thanks to this, less textile waste is produced.\n\nIn conclusion, fast fashion harms the environment mainly because brands produce too many clothes and consumers throw them away too quickly. However, this problem can be reduced if governments control factories more strictly and people change their shopping habits.",
    "vocab": [
     {
-     "term": "fast fashion",
-     "meaning": "thời trang nhanh"
+     "term": "greenhouse gases",
+     "meaning": "khí nhà kính"
     },
     {
-     "term": "carbon emissions",
-     "meaning": "khí thải các-bon"
+     "term": "textile waste",
+     "meaning": "rác thải dệt may"
     },
     {
-     "term": "end up in landfills",
-     "meaning": "cuối cùng bị đưa ra bãi rác"
+     "term": "landfill",
+     "meaning": "bãi chôn lấp rác"
     },
     {
      "term": "second-hand clothes",
-     "meaning": "quần áo cũ, đồ si"
+     "meaning": "quần áo cũ"
     },
     {
-     "term": "give unwanted clothes to charity",
-     "meaning": "quyên góp quần áo không dùng nữa cho từ thiện"
+     "term": "tax cut",
+     "meaning": "giảm thuế"
     }
    ]
   }
@@ -115,145 +127,141 @@
  "speaking": {
   "1": {
    "answers": [
-    "On a typical day, I get up at six and have breakfast with my family. Then I go to the university and work on my research until five. In the evening, I read books or meet my friends.",
-    "I enjoy the evening the most. I have finished my work by then, so I can relax with a good book or have coffee with my friends.",
-    "Yes, I think it is important. A fixed routine helps me sleep well and manage my time better. However, it is also good to change it sometimes, so life does not become boring.",
-    "I think breakfast is the most important meal of the day. It gives us energy for the whole morning and helps us focus at work or at school.",
-    "For breakfast, I usually eat Vietnamese dishes like pho or broken rice. When I am in a hurry, I just have a banh mi and a glass of milk.",
-    "Yes, eating healthily is very important. It helps us stay strong and avoid diseases like diabetes and heart disease. I have a medical background, so I always try to eat more vegetables and fruit."
+    "On a typical day, I get up at six and have breakfast with my family. Then I go to the university and work on my research until five. In the evening, I read books or meet friends.",
+    "I enjoy the evening the most. This is because I have finished my work by then, so I feel free and relaxed. For example, I often read a good book or have coffee with my friends.",
+    "Yes, I think it is important to have a fixed daily routine. The main reason is that it helps me sleep well and manage my time better. However, it is good to change it sometimes, so life is not boring.",
+    "I think breakfast is the most important meal of the day. This is because it gives us energy for the whole morning. Without breakfast, it is hard to focus at work or at school.",
+    "For breakfast, I usually eat Vietnamese dishes like pho or broken rice. I like them because they are hot, tasty and filling. When I am in a hurry, I just have a banh mi and a glass of milk.",
+    "Yes, eating healthily is very important. It helps us stay strong and avoid diseases like diabetes and heart disease. Because I studied medicine before, I always try to eat more vegetables and fruit."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No hoặc lựa chọn",
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
      "reusable": "I think breakfast is the most important meal of the day."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "I have finished my work by then, so I can relax with a good book or have coffee with my friends."
+     "section": "Câu 2: lý do",
+     "content": "This is because / The main reason is that …",
+     "reusable": "This is because it gives us energy for the whole morning."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 ví dụ cá nhân ngắn",
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân, thời gian, địa điểm",
      "reusable": "When I am in a hurry, I just have a banh mi and a glass of milk."
     }
    ],
    "vocab": [
     {
-     "term": "on a typical day",
-     "meaning": "vào một ngày bình thường"
+     "term": "daily routine",
+     "meaning": "thói quen hằng ngày"
     },
     {
-     "term": "a fixed routine",
-     "meaning": "lịch sinh hoạt cố định"
+     "term": "manage my time",
+     "meaning": "quản lý thời gian"
+    },
+    {
+     "term": "filling",
+     "meaning": "no lâu, chắc bụng"
     },
     {
      "term": "be in a hurry",
      "meaning": "đang vội"
-    },
-    {
-     "term": "diabetes",
-     "meaning": "bệnh tiểu đường"
-    },
-    {
-     "term": "medical background",
-     "meaning": "nền tảng chuyên môn y khoa"
     }
    ]
   },
   "2": {
    "choice": 1,
+   "answer": "In this situation, among the three options, I think having dinner at a Thai restaurant is the best choice for us. I choose it for two main reasons.\n\nThe first reason is that my friend and I both love spicy and sour food. By that, I mean Thai dishes are full of strong flavours, so they are perfect for a special night. For example, we can order tom yum soup, green curry and mango sticky rice to share.\n\nAnother reason is that Thai food is not expensive. In other words, we can enjoy a big meal without spending too much money after the exams. For instance, at a Thai restaurant near our university, two people can eat well for about four hundred thousand dong. Thai restaurants also have a lively atmosphere, which is great for a celebration.\n\nThere are also some reasons why I do not choose the other two options. Regarding a Japanese restaurant, I do not think it is the best choice because good sushi is quite expensive for students. As for a Chinese restaurant, I do not think it is the best option either because Chinese dishes are often oily, and we eat similar food quite often.\n\nTo sum up, out of these three options, I believe a Thai restaurant is the best choice because it is tasty, exciting and affordable.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn ăn tối ở nhà hàng Thái",
-     "reusable": "I think we should have dinner at a Thai restaurant to celebrate finishing our final exams."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: nhà hàng Thái",
+     "reusable": "In this situation, among the three options, I think having dinner at a Thai restaurant is the best choice for us. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) cả hai thích đồ cay, chua; tom yum, cà ri xanh đậm đà (2) giá vừa phải, hợp sinh viên (3) không khí vui, rực rỡ để ăn mừng",
-     "reusable": "First, my friend and I both love spicy and sour food."
+     "section": "Lý do 1",
+     "content": "Cả hai thích món chua cay → By that, I mean (đậm vị, hợp dịp đặc biệt) → For example: lẩu Thái, cà ri xanh, xôi xoài",
+     "reusable": "The first reason is that my friend and I both love spicy and sour food. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn nhà hàng Nhật",
-     "content": "Thường đắt, sushi ngon tốn tiền, phần ăn nhỏ",
-     "reusable": "I don't choose a Japanese restaurant because it is usually quite expensive."
+     "section": "Lý do 2",
+     "content": "Không đắt → In other words (ăn no mà không tốn nhiều) → For instance: 2 người khoảng 400 nghìn; không khí sôi động",
+     "reusable": "Another reason is that Thai food is not expensive. In other words, …"
     },
     {
-     "section": "Vì sao không chọn nhà hàng Trung Quốc",
-     "content": "Món thường to, hợp nhóm đông, gia đình hơn là hai người",
-     "reusable": "I also don't choose a Chinese restaurant. Chinese food is delicious, but the dishes are usually big."
+     "section": "Loại 2 phương án",
+     "content": "Nhật: sushi ngon thì đắt với sinh viên; Trung Hoa: nhiều dầu mỡ, hay ăn món tương tự",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding a Japanese restaurant, I do not think it is the best choice because … As for a Chinese restaurant, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: ngon, giá hợp lý, vui",
-     "reusable": "In conclusion, a Thai restaurant is the best choice for our celebration dinner because the food is tasty, the prices are reasonable and the atmosphere is fun."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe a Thai restaurant is the best choice because it is tasty, exciting and affordable."
     }
    ],
-   "answer": "I think we should have dinner at a Thai restaurant to celebrate finishing our final exams. Let me explain why.\n\nFirst, my friend and I both love spicy and sour food. Thai dishes like tom yum soup and green curry are full of flavour, so they are perfect for a special night. Second, Thai food is not expensive. As students, we do not have much money, but we can still order many dishes to share. Third, Thai restaurants often have a lively and colourful atmosphere. After months of hard study, we want a fun place to relax and celebrate.\n\nI don't choose a Japanese restaurant because it is usually quite expensive. Good sushi costs a lot of money, and the portions are often small. I also don't choose a Chinese restaurant. Chinese food is delicious, but the dishes are usually big. They are better for a large group or a family, not for two people.\n\nIn conclusion, a Thai restaurant is the best choice for our celebration dinner because the food is tasty, the prices are reasonable and the atmosphere is fun.",
    "vocab": [
     {
-     "term": "celebrate",
-     "meaning": "ăn mừng"
+     "term": "spicy and sour",
+     "meaning": "chua cay"
     },
     {
-     "term": "full of flavour",
-     "meaning": "đậm đà hương vị"
+     "term": "strong flavours",
+     "meaning": "hương vị đậm đà"
     },
     {
-     "term": "a lively and colourful atmosphere",
-     "meaning": "không khí sôi động, rực rỡ"
+     "term": "lively atmosphere",
+     "meaning": "không khí sôi động"
     },
     {
-     "term": "portion",
-     "meaning": "khẩu phần, suất ăn"
+     "term": "oily",
+     "meaning": "nhiều dầu mỡ"
     },
     {
-     "term": "the prices are reasonable",
-     "meaning": "giá cả hợp lý"
+     "term": "affordable",
+     "meaning": "giá phải chăng"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the factors contributing to childhood obesity in modern society. In my opinion, this problem has several causes, and most of them come from our modern lifestyle.\n\nFirstly, unhealthy eating habits are a major cause. Many children eat fast food, sweets and soft drinks almost every day. For example, many students buy fried chicken and bubble tea after school instead of eating fruit.\n\nSecondly, a lack of physical activity and too much screen time make the problem worse. Children spend hours on phones, tablets and TV instead of playing outside. For instance, my nephew plays video games for about three hours every evening, so he rarely moves.\n\nThirdly, the family and social environment also play an important role. If parents eat unhealthily and do not exercise, their children usually copy them. A good example is a busy family that often orders takeaway food because nobody has time to cook.\n\nAnother important point is that a lack of sleep can lead to obesity. Children who stay up late often feel hungry and eat more snacks. For example, with my medical background, I know that poor sleep can increase appetite.\n\nTo sum up, childhood obesity is caused by unhealthy eating, little exercise, too much screen time, the family environment and poor sleep. Parents and schools should work together to solve this problem.",
    "own_idea": "Lack of sleep",
+   "follow_ups": [
+    "Parents can cook healthy meals at home and keep less junk food in the house. The main reason is that children usually eat what is available. For example, they can put fruit on the table instead of sweets. They should also limit screen time and take their children swimming at weekends.",
+    "Yes, I think schools should play a bigger role in promoting healthy eating. The main reason is that children eat lunch at school almost every day. For example, schools can serve more vegetables and stop selling soft drinks. They can also teach students about nutrition in class.",
+    "Childhood obesity can cause serious health problems later in life. The main reason is that overweight children often become overweight adults. For example, they are more likely to have diabetes, high blood pressure and heart disease. They may also have low confidence and feel stressed."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 yếu tố chính",
-     "reusable": "Today I would like to talk about the factors that contribute to childhood obesity in modern society."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the factors contributing to childhood obesity in modern society."
     },
     {
-     "section": "Ý 1: Unhealthy eating habits",
-     "content": "Đồ ăn nhanh, đồ chiên, đồ ngọt, trà sữa, nước ngọt → nhiều đường, mỡ",
-     "reusable": "First, many children have unhealthy eating habits."
+     "section": "Ý 1: thói quen ăn uống không lành mạnh",
+     "content": "Ý → đồ ăn nhanh, kẹo, nước ngọt hằng ngày → ví dụ gà rán, trà sữa sau giờ học",
+     "reusable": "Firstly, unhealthy eating habits are a major cause."
     },
     {
-     "section": "Ý 2: Lack of physical activity and screen time",
-     "content": "Không chơi ngoài trời, xem video, chơi game hàng giờ → đốt ít calo",
-     "reusable": "Second, children today have a lack of physical activity and too much screen time."
+     "section": "Ý 2: ít vận động, nhiều thời gian màn hình",
+     "content": "Ý → điện thoại, máy tính bảng, TV thay vì chơi ngoài trời → ví dụ cháu chơi game 3 tiếng mỗi tối",
+     "reusable": "Secondly, a lack of physical activity and too much screen time make the problem worse."
     },
     {
-     "section": "Ý 3: Family and social environment",
-     "content": "Con bắt chước thói quen ăn của bố mẹ; đồ ăn nhanh, cửa hàng tiện lợi ở khắp nơi",
-     "reusable": "Third, the family and social environment also plays a big role."
+     "section": "Ý 3: môi trường gia đình, xã hội",
+     "content": "Ý → con bắt chước bố mẹ → ví dụ gia đình bận hay gọi đồ ăn mang về",
+     "reusable": "Thirdly, the family and social environment also play an important role."
     },
     {
-     "section": "Ý riêng: Lack of sleep",
-     "content": "Thức khuya làm bài, dùng điện thoại → mệt, đói, thèm đồ ngọt",
-     "reusable": "Finally, I think a lack of sleep is another factor."
+     "section": "Ý riêng: thiếu ngủ",
+     "content": "Ý → thức khuya, đói, ăn vặt → ví dụ (kiến thức y khoa) ngủ kém làm tăng cảm giác thèm ăn",
+     "reusable": "Another important point is that a lack of sleep can lead to obesity."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt các yếu tố + bố mẹ, nhà trường giúp trẻ xây thói quen lành mạnh",
-     "reusable": "Parents and schools should help children build healthy habits from an early age."
+     "section": "Kết",
+     "content": "Tóm tắt các yếu tố + bố mẹ và nhà trường cùng giải quyết",
+     "reusable": "To sum up, childhood obesity is caused by unhealthy eating, little exercise, too much screen time, the family environment and poor sleep."
     }
-   ],
-   "answer": "Today I would like to talk about the factors that contribute to childhood obesity in modern society. In my opinion, there are four main factors.\n\nFirst, many children have unhealthy eating habits. They often eat fast food, fried snacks and sweets, and they drink a lot of bubble tea and soft drinks. These foods contain too much sugar and fat.\n\nSecond, children today have a lack of physical activity and too much screen time. Instead of playing outside, they spend hours watching videos or playing games on tablets. As a result, they burn very few calories.\n\nThird, the family and social environment also plays a big role. If parents eat unhealthy food, their children usually copy them. In addition, fast food restaurants and convenience stores are everywhere in big cities, so it is very easy to buy junk food.\n\nFinally, I think a lack of sleep is another factor. Many children stay up late to do homework or use their phones. When they are tired, they feel hungry and want to eat more sugary food.\n\nIn conclusion, unhealthy eating, a lack of exercise, too much screen time, the family environment and a lack of sleep all lead to childhood obesity. Parents and schools should help children build healthy habits from an early age.",
-   "follow_ups": [
-    "Parents can cook healthy meals at home and keep less junk food in the house. They should also limit screen time and encourage their children to play sports. For example, they can take their children swimming at weekends.",
-    "Yes, I think so. Children eat lunch at school almost every day, so schools can serve healthy meals. They can also teach students about nutrition and organise more sports activities.",
-    "Childhood obesity can cause serious health problems later in life. Obese children are more likely to have diabetes, high blood pressure and heart disease when they grow up. They may also have low confidence and feel stressed."
    ],
    "vocab": [
     {
@@ -261,20 +269,20 @@
      "meaning": "béo phì ở trẻ em"
     },
     {
-     "term": "junk food",
-     "meaning": "đồ ăn vặt không lành mạnh"
+     "term": "physical activity",
+     "meaning": "hoạt động thể chất"
     },
     {
-     "term": "burn calories",
-     "meaning": "đốt cháy calo"
+     "term": "takeaway food",
+     "meaning": "đồ ăn mang về"
     },
     {
-     "term": "stay up late",
-     "meaning": "thức khuya"
+     "term": "increase appetite",
+     "meaning": "làm tăng cảm giác thèm ăn"
     },
     {
-     "term": "nutrition",
-     "meaning": "dinh dưỡng"
+     "term": "high blood pressure",
+     "meaning": "huyết áp cao"
     }
    ]
   }

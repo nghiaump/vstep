@@ -122,7 +122,8 @@ export default function WritingReview() {
           </section>
         );
       })}
-      <p className={s.source}>Nguồn đề: <a href={exam.source} target="_blank" rel="noreferrer">vstepowl.com</a></p>
+      {exam.source ? <p className={s.source}>Nguồn đề: <a href={exam.source} target="_blank" rel="noreferrer">vstepowl.com</a></p>
+        : <p className={s.source}>Đề tự tạo theo nội dung thí sinh nhớ lại.</p>}
     </div>
   );
 }

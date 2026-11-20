@@ -2,107 +2,119 @@
  "id": "vlu-100",
  "writing": {
   "1": {
+   "template": "w1_formal",
    "outline": [
     {
      "section": "Lời chào",
-     "content": "Chào trang trọng khi không biết tên người nhận",
+     "content": "Không biết tên người nhận → Dear Sir or Madam",
      "reusable": "Dear Sir or Madam,"
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, sẵn lòng cung cấp thông tin",
-     "reusable": "Thank you for your email. I am happy to give you more details about my reservation."
+     "content": "Nêu mục đích: trả lời email về việc đặt bàn",
+     "reusable": "I am writing in response to your email about my reservation."
     },
     {
      "section": "Ý 1: dịp gì + giờ đặt bàn",
-     "content": "Kỷ niệm 30 năm ngày cưới của bố mẹ; tối thứ Bảy 12/12 lúc 6:30; muốn bàn gần cửa sổ",
-     "reusable": "The occasion is my parents' 30th wedding anniversary."
+     "content": "Kỷ niệm 30 năm ngày cưới bố mẹ → 6:30 tối thứ Bảy 12/12 → xin bàn cạnh cửa sổ nhìn ra sông",
+     "reusable": "Concerning the occasion, it is my parents' 30th wedding anniversary."
     },
     {
      "section": "Ý 2: số khách",
-     "content": "12 người gồm ông bà và 2 trẻ em; xin 2 ghế cao cho trẻ, bà đi lại khó",
-     "reusable": "There will be twelve guests, including my grandparents and two young children."
+     "content": "12 người gồm ông bà, 2 trẻ nhỏ → xin 2 ghế em bé → bàn tầng trệt cho bà",
+     "reusable": "With regard to the number of guests, there will be twelve people … I would be grateful if you could prepare two high chairs for the children."
     },
     {
-     "section": "Ý 3: lý do chọn nhà hàng",
-     "content": "Bố mẹ hẹn hò lần đầu ở đây; món Việt ngon, phục vụ thân thiện, đánh giá tốt",
-     "reusable": "We chose your restaurant for two reasons."
+     "section": "Ý 3: vì sao chọn nhà hàng",
+     "content": "Nơi bố mẹ hẹn hò lần đầu → món Việt ngon, nhân viên thân thiện",
+     "reusable": "Regarding my choice, your restaurant is a very special place for my family."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mong được xác nhận, cảm ơn; Yours faithfully",
-     "reusable": "I look forward to receiving your confirmation."
+     "content": "Câu kết cố định trang trọng; Sir or Madam → Yours faithfully",
+     "reusable": "If you require any further information, please do not hesitate to contact me. I look forward to hearing from you. Yours faithfully,"
     }
    ],
-   "answer": "Dear Sir or Madam,\n\nThank you for your email. I am happy to give you more details about my reservation.\n\nThe occasion is my parents' 30th wedding anniversary. I would like to book a table for dinner on Saturday, 12th December, at 6:30 p.m. If possible, we would like a table near the window with a view of the river.\n\nThere will be twelve guests, including my grandparents and two young children. Could you please prepare two high chairs for the children? My grandmother cannot walk very well, so a table on the ground floor would be great.\n\nWe chose your restaurant for two reasons. Firstly, my parents had their first date at your restaurant more than thirty years ago, so it is a very special place for them. Secondly, your Vietnamese food is delicious, and your staff are always friendly. Many of my friends have also given your restaurant very good reviews.\n\nI look forward to receiving your confirmation. Thank you for your help.\n\nYours faithfully,\nMinh",
+   "answer": "Dear Sir or Madam,\n\nI am writing in response to your email about my reservation.\n\nConcerning the occasion, it is my parents' 30th wedding anniversary. I would like to reserve a table for dinner at 6:30 p.m. on Saturday, 12th December. If possible, we would prefer a table near the window with a view of the river.\n\nWith regard to the number of guests, there will be twelve people, including my grandparents and two young children. I would be grateful if you could prepare two high chairs for the children. My grandmother cannot walk well, so a table on the ground floor would be ideal.\n\nRegarding my choice, your restaurant is a very special place for my family. My parents had their first date there more than thirty years ago. In addition, your Vietnamese dishes are delicious, and many of my friends have praised your friendly staff.\n\nIf you require any further information, please do not hesitate to contact me. I look forward to hearing from you.\n\nYours faithfully,\nNguyen Minh",
    "vocab": [
     {
-     "term": "make a reservation / book a table",
-     "meaning": "đặt chỗ / đặt bàn"
+     "term": "wedding anniversary",
+     "meaning": "lễ kỷ niệm ngày cưới"
     },
     {
-     "term": "wedding anniversary",
-     "meaning": "kỷ niệm ngày cưới"
+     "term": "reserve a table",
+     "meaning": "đặt bàn"
     },
     {
      "term": "high chair",
-     "meaning": "ghế cao cho trẻ em"
+     "meaning": "ghế cao cho em bé"
     },
     {
-     "term": "give good reviews",
-     "meaning": "đánh giá tốt"
+     "term": "ground floor",
+     "meaning": "tầng trệt"
     },
     {
-     "term": "confirmation",
-     "meaning": "sự xác nhận"
+     "term": "praise",
+     "meaning": "khen ngợi"
     }
    ]
   },
   "2": {
-   "essay_type": "Problem & solution (nêu vấn đề và đề xuất giải pháp)",
+   "essay_type": "Problems & solutions (vấn đề và giải pháp)",
+   "type_key": "x_solution",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: trẻ em ăn nhiều đồ ăn nhanh, đồ ngọt, nước có ga → bài nêu vấn đề và giải pháp",
-     "reusable": "This essay will discuss the main problems caused by this habit and suggest some possible solutions."
+     "content": "Viết lại đề (trẻ ăn nhiều đồ ăn vặt, nước ngọt; cha mẹ, bác sĩ lo) + câu dẫn",
+     "reusable": "This essay will discuss the main problems of this issue and suggest some solutions."
     },
     {
-     "section": "Thân bài 1: vấn đề",
-     "content": "(1) béo phì, tiểu đường, sâu răng (2) khó tập trung, mệt mỏi ở trường (3) tự ti, bị trêu chọc → ảnh hưởng tinh thần",
-     "reusable": "Unhealthy eating habits cause several serious problems for children."
+     "section": "Thân bài 1 · vấn đề 1",
+     "content": "P: hại sức khoẻ thể chất → E: nhiều mỡ, đường → thừa cân → Ex: học sinh tiểu học sâu răng, tiểu đường",
+     "reusable": "There are two main problems of unhealthy eating among children. Firstly, it harms their physical health."
     },
     {
-     "section": "Thân bài 2: giải pháp",
-     "content": "(1) bố mẹ nấu ăn ở nhà, hạn chế đồ ăn vặt (2) trường học có bữa trưa lành mạnh, dạy dinh dưỡng (3) nhà nước đánh thuế đồ uống có đường, hạn chế quảng cáo",
-     "reusable": "There are several ways to solve this problem. Firstly, parents should …"
+     "section": "Thân bài 1 · vấn đề 2",
+     "content": "P: ảnh hưởng học tập, tâm trạng → E: đồ ngọt cho năng lượng nhanh rồi mệt → Ex: uống cola thay bữa sáng, buồn ngủ trong lớp → R: điểm kém",
+     "reusable": "Secondly, a poor diet can affect children's studies and mood."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 1 (cho vấn đề 1)",
+     "content": "Ai: cha mẹ → nấu bữa lành mạnh, hạn chế đồ ăn nhanh → Ex: cơm, cá, rau; để trái cây trong tủ lạnh",
+     "reusable": "However, there are some ways to solve this problem. Firstly, parents should cook healthy meals at home and limit junk food."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 2 (cho vấn đề 2)",
+     "content": "Ai: nhà trường → dạy về dinh dưỡng, ngừng bán nước ngọt → Ex: căng tin bán trái cây, sữa → R: đủ năng lượng tập trung",
+     "reusable": "Secondly, schools should teach children about healthy food and stop selling sugary drinks."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt vấn đề + giải pháp; gia đình, nhà trường và nhà nước cùng hợp tác",
-     "reusable": "In conclusion, … If families, schools and the government work together, …"
+     "content": "Tóm tắt vấn đề + giải pháp",
+     "reusable": "In conclusion, unhealthy eating harms children's health and their school results. However, these problems can be reduced if …"
     }
    ],
-   "answer": "In recent years, more and more children have developed unhealthy eating habits. They eat a lot of fast food, sugary snacks and fizzy drinks. This growing problem worries many parents, teachers and health experts. This essay will discuss the main problems caused by this habit and suggest some possible solutions.\n\nUnhealthy eating habits cause several serious problems for children. Firstly, they harm children's physical health. Fast food and soft drinks contain a lot of fat and sugar, so many children become overweight. Some of them may get diabetes or tooth decay at a young age. These health problems can continue when they grow up. Secondly, a poor diet can affect children's studies. Children who eat junk food often feel tired, and they find it hard to concentrate in class. Moreover, unhealthy eating can also affect their mental health. For example, some overweight children are teased by their classmates, so they feel sad and lose confidence.\n\nThere are several ways to solve this problem. Firstly, parents should cook healthy meals at home and limit snacks and soft drinks. They should also eat with their children and set a good example. Secondly, schools should serve healthy lunches with more vegetables and fruit. They can also teach students about nutrition in a fun way and stop selling soft drinks in their canteens. In addition, the government should take action. For instance, it can put a higher tax on sugary drinks and limit fast food advertisements for children.\n\nIn conclusion, unhealthy eating habits can damage children's bodies, their studies and their mental health. If families, schools and the government work together, children will eat better and grow up healthier.",
+   "answer": "In recent years, more and more children have started eating too much junk food, sweets and fizzy drinks. Parents and doctors are worried because this habit can harm children's bodies and minds. This essay will discuss the main problems of this issue and suggest some solutions.\n\nThere are two main problems of unhealthy eating among children. Firstly, it harms their physical health. Fast food and soft drinks contain a lot of fat and sugar, so many children become overweight. For example, many primary school pupils in big cities now have tooth decay, and some even have diabetes. Secondly, a poor diet can affect children's studies and mood. This is because sugary snacks give quick energy, but children soon feel tired and cannot focus. For instance, a child who drinks cola instead of eating breakfast may feel sleepy in class. As a result, his school results may go down.\n\nHowever, there are some ways to solve this problem. Firstly, parents should cook healthy meals at home and limit junk food. For instance, they can prepare rice, fish and vegetables for dinner and keep fruit instead of sweets in the fridge. Children usually copy their parents' eating habits, so they will learn to enjoy healthy food. Secondly, schools should teach children about healthy food and stop selling sugary drinks. A good example is a school canteen that sells fresh fruit and milk instead of soft drinks. Thanks to this, children can get enough energy to concentrate in class.\n\nIn conclusion, unhealthy eating harms children's health and their school results. However, these problems can be reduced if parents cook healthy meals at home and schools offer healthier food and drinks.",
    "vocab": [
     {
-     "term": "unhealthy eating habits",
-     "meaning": "thói quen ăn uống không lành mạnh"
+     "term": "junk food",
+     "meaning": "đồ ăn vặt, đồ ăn không lành mạnh"
     },
     {
-     "term": "overweight",
-     "meaning": "thừa cân"
+     "term": "fizzy drinks / soft drinks",
+     "meaning": "nước ngọt có ga"
     },
     {
      "term": "tooth decay",
      "meaning": "sâu răng"
     },
     {
-     "term": "lose confidence",
-     "meaning": "mất tự tin"
+     "term": "school canteen",
+     "meaning": "căng tin trường"
     },
     {
-     "term": "nutrition",
-     "meaning": "dinh dưỡng"
+     "term": "concentrate",
+     "meaning": "tập trung"
     }
    ]
   }
@@ -110,79 +122,83 @@
  "speaking": {
   "1": {
    "answers": [
-    "Yes, I enjoy shopping, especially for books. I often go to Book Street in District 1 at the weekend. It helps me relax after a busy week.",
-    "I prefer shopping online. It saves time, and the prices are often cheaper. However, I still buy clothes at physical stores because I want to try them on first.",
-    "I go shopping about once a week. I usually buy food, drinks and things for my home. Sometimes I also buy books or a new shirt.",
-    "Yes, I do. I live with my parents, so we have dinner together every evening. At weekends, we spend even more time together.",
-    "We usually cook and eat dinner together. On Sunday mornings, we often go to a coffee shop near our home. Sometimes we visit my grandparents or go to Vung Tau beach.",
-    "Yes, I think family is very important. Our family always loves and supports us, especially in difficult times. They also teach us good values when we are young."
+    "Yes, I enjoy shopping, especially for books. This is because looking at new books helps me relax after a busy week. For example, I often go to Book Street in District 1 on Sunday mornings.",
+    "I prefer shopping online. The main reason is that it saves time, and the prices are often cheaper. However, I still buy clothes at physical stores because I want to try them on first.",
+    "I go shopping about once a week, usually on Saturday mornings. I mainly buy food, drinks and things for my home because I am too busy on weekdays. Sometimes I also buy a new book or a shirt.",
+    "Yes, I spend time with my family every day. The main reason is that I live with my parents, so we have dinner together every evening. At weekends, we spend even more time together.",
+    "We usually cook and eat dinner together. This is because cooking together is a nice way to talk about our day. On Saturday evenings, we also go to a coffee shop near our home or visit my grandparents.",
+    "Yes, I think family plays a very important role in a person's life. This is because our family always loves and supports us, especially in difficult times. For example, my parents encouraged me a lot when I failed my first job interview."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No, lựa chọn hoặc tần suất",
-     "reusable": "I go shopping about once a week."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
+     "reusable": "I prefer shopping online."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1–2 lý do ngắn",
-     "reusable": "It saves time, and the prices are often cheaper."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do (This is because / The main reason is that)",
+     "reusable": "The main reason is that I live with my parents, so we have dinner together every evening."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm hoạt động hoặc nơi chốn cụ thể",
-     "reusable": "On Sunday mornings, we often go to a coffee shop near our home."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn: thời gian, địa điểm",
+     "reusable": "For example, I often go to Book Street in District 1 on Sunday mornings."
     }
    ],
    "vocab": [
     {
-     "term": "physical store",
-     "meaning": "cửa hàng truyền thống (không phải online)"
+     "term": "physical stores",
+     "meaning": "cửa hàng truyền thống"
     },
     {
      "term": "try something on",
      "meaning": "mặc thử"
     },
     {
-     "term": "support someone",
-     "meaning": "ủng hộ, giúp đỡ ai"
+     "term": "Book Street",
+     "meaning": "Đường sách"
     },
     {
-     "term": "good values",
-     "meaning": "những giá trị tốt đẹp"
+     "term": "support someone",
+     "meaning": "ủng hộ, nâng đỡ ai"
+    },
+    {
+     "term": "job interview",
+     "meaning": "buổi phỏng vấn xin việc"
     }
    ]
   },
   "2": {
    "choice": 1,
+   "answer": "In this situation, among the three options, I think a wristwatch is the best choice for my best friend. I choose it for two main reasons.\n\nThe first reason is that my friend is going to start her first job soon. By that, I mean she will need to be on time for meetings and appointments every day. For example, a watch can help her check the time quickly without taking out her phone during a meeting with her boss.\n\nAnother reason is that a nice watch makes her look professional, and it can last for many years. In other words, it is both useful and meaningful. For instance, she can wear it to work every day. Every time she looks at it, she will remember her graduation day and our friendship.\n\nThere are also some reasons why I do not choose the other two options. Regarding a pair of headphones, I do not think it is the best choice because she already has good headphones for listening to music. As for a framed photograph of our friendship, I do not think it is the best option either because it is lovely but not very useful. She cannot take it with her to work every day.\n\nTo sum up, out of these three options, I believe a wristwatch is the best choice because it is useful, stylish and long-lasting.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn đồng hồ đeo tay làm quà tốt nghiệp",
-     "reusable": "I think the best graduation gift for my best friend is a wristwatch."
+     "section": "Chọn",
+     "content": "Câu khung + đồng hồ đeo tay",
+     "reusable": "In this situation, among the three options, I think a wristwatch is the best choice for my best friend. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) sắp đi làm, cần đúng giờ (2) trông chuyên nghiệp khi phỏng vấn (3) dùng lâu, nhìn là nhớ đến mình",
-     "reusable": "First, my friend is going to start her first job soon. … Second, a nice watch makes her look professional."
+     "section": "Lý do 1",
+     "content": "Sắp đi làm → By that, I mean … cần đúng giờ → For example: xem giờ không cần lấy điện thoại khi họp",
+     "reusable": "The first reason is that my friend is going to start her first job soon. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn tai nghe",
-     "content": "Bạn đã có tai nghe tốt; chỉ để giải trí",
-     "reusable": "I don't choose a pair of headphones because she already has a good pair."
+     "section": "Lý do 2",
+     "content": "Trông chuyên nghiệp, dùng lâu → In other words … → For instance: đeo đi làm mỗi ngày, nhớ ngày tốt nghiệp",
+     "reusable": "Another reason is that a nice watch makes her look professional, and it can last for many years. In other words, …"
     },
     {
-     "section": "Vì sao không chọn ảnh lồng khung",
-     "content": "Đẹp nhưng chúng tôi có nhiều ảnh trên điện thoại; không hữu ích cho công việc",
-     "reusable": "I also don't choose a framed photograph of our friendship."
+     "section": "Loại 2 phương án",
+     "content": "Tai nghe: bạn đã có; ảnh lồng khung: đẹp nhưng không thiết thực",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding a pair of headphones, I do not think it is the best choice because … As for a framed photograph of our friendship, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: hữu ích + ý nghĩa",
-     "reusable": "In conclusion, a wristwatch is the best choice because it is both useful and meaningful."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe a wristwatch is the best choice because it is useful, stylish and long-lasting."
     }
    ],
-   "answer": "I think the best graduation gift for my best friend is a wristwatch. Let me explain why.\n\nFirst, my friend is going to start her first job soon. At work, she needs to be on time for meetings every day. A watch can help her manage her time well. Second, a nice watch makes her look professional. She can wear it to job interviews and important meetings. In addition, a good watch can last for many years. Every time she looks at it, she will remember me and her graduation day.\n\nI don't choose a pair of headphones because she already has a good pair. Also, headphones are mostly for entertainment, such as listening to music. They are not very useful for her new job. I also don't choose a framed photograph of our friendship. It is a sweet idea, but we already have hundreds of photos together on our phones. Moreover, a photo cannot help her in her working life.\n\nIn conclusion, a wristwatch is the best choice because it is both useful and meaningful. It will be with her on the first day of her career.",
    "vocab": [
     {
      "term": "graduation gift",
@@ -197,75 +213,75 @@
      "meaning": "trông chuyên nghiệp"
     },
     {
-     "term": "last for many years",
-     "meaning": "dùng được nhiều năm, bền"
+     "term": "framed photograph",
+     "meaning": "ảnh lồng khung"
     },
     {
-     "term": "meaningful",
-     "meaning": "có ý nghĩa"
+     "term": "long-lasting",
+     "meaning": "bền, dùng lâu"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the importance of teamwork skills for students. In my opinion, teamwork is one of the most useful skills that students can learn.\n\nFirstly, a good leader plays an important role in guiding a team. The leader divides the work fairly and makes sure everyone knows their tasks. For example, in my university group project, our leader made a clear plan, so we finished the report one week early.\n\nSecondly, sharing and combining ideas leads to better results. Each member has different knowledge and experience, so the team can see a problem from many sides. For instance, when my classmates and I prepared a presentation, one person found the data and another designed beautiful slides.\n\nThirdly, teamwork brings many benefits to studying and future careers. Students who can work in a team learn faster and find jobs more easily. A good example is my research job, where I work with doctors and engineers every day.\n\nAnother important point is that teamwork helps students make friends and build good relationships. When they work hard together, they get to know each other better. For example, some of my best friends today were my teammates at university.\n\nTo sum up, teamwork skills are important because of good leadership, shared ideas, future benefits and friendship.",
    "own_idea": "Making friends and building good relationships",
+   "follow_ups": [
+    "I think a good team leader should be confident and fair. The main reason is that team members need someone they can trust and follow. For example, a good leader listens to every member before making a decision. He or she also encourages the team when things are difficult.",
+    "No, I do not think working in a team is always better. The main reason is that some tasks are faster when we do them alone. For example, I write short reports by myself because discussing them takes too long. However, for big projects, teamwork is usually better.",
+    "Students can improve their teamwork skills by joining group projects and student clubs. The main reason is that they learn best through real practice. For example, in a volunteer club, they must share tasks and solve problems together. They should also practise listening and respecting different opinions."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 lý do",
-     "reusable": "Today I am going to talk about why teamwork skills are important for students."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the importance of teamwork skills for students."
     },
     {
-     "section": "Ý 1: vai trò người trưởng nhóm",
-     "content": "Định hướng, chia việc theo thế mạnh, giải quyết bất đồng",
-     "reusable": "First, a leader plays a key role in guiding a team."
+     "section": "Ý 1: vai trò người lãnh đạo",
+     "content": "Ý → chia việc công bằng → ví dụ trưởng nhóm lập kế hoạch, xong sớm 1 tuần",
+     "reusable": "Firstly, a good leader plays an important role in guiding a team."
     },
     {
      "section": "Ý 2: chia sẻ, kết hợp ý tưởng",
-     "content": "Ví dụ dự án môn Marketing: mỗi bạn một ý → ý tưởng hay hơn",
-     "reusable": "Second, sharing and combining ideas leads to better results."
+     "content": "Ý → nhìn vấn đề nhiều phía → ví dụ người tìm số liệu, người làm slide",
+     "reusable": "Secondly, sharing and combining ideas leads to better results."
     },
     {
-     "section": "Ý 3: lợi ích cho học tập và nghề nghiệp",
-     "content": "Học tốt hơn; nhà tuyển dụng muốn người biết làm nhóm",
-     "reusable": "Third, teamwork brings many benefits to studying and future careers."
+     "section": "Ý 3: lợi ích cho học tập, nghề nghiệp",
+     "content": "Ý → học nhanh, dễ xin việc → ví dụ làm việc với bác sĩ, kỹ sư",
+     "reusable": "Thirdly, teamwork brings many benefits to studying and future careers."
     },
     {
-     "section": "Ý riêng: kết bạn, xây dựng quan hệ",
-     "content": "Làm nhóm giúp kết bạn; bạn thân từ nhóm đại học",
-     "reusable": "Finally, teamwork helps students make friends and build good relationships."
+     "section": "Ý riêng: kết bạn",
+     "content": "Ý → hiểu nhau hơn → ví dụ bạn thân từng là đồng đội",
+     "reusable": "Another important point is that teamwork helps students make friends and build good relationships."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt + nhà trường nên giao nhiều dự án nhóm",
-     "reusable": "In conclusion, teamwork skills are very important for students."
+     "section": "Kết",
+     "content": "Tóm tắt 4 ý",
+     "reusable": "To sum up, teamwork skills are important because of good leadership, shared ideas, future benefits and friendship."
     }
-   ],
-   "answer": "Today I am going to talk about why teamwork skills are important for students. I would like to mention four points.\n\nFirst, a leader plays a key role in guiding a team. A good leader gives the team a clear goal. He or she also gives each member a task that suits their strengths. When there is a disagreement, the leader helps the team solve it calmly.\n\nSecond, sharing and combining ideas leads to better results. For example, in my public health class at university, my group had to plan a health campaign. One friend was good at design, and another was good at writing. When we combined our ideas, our project got the highest mark in the class.\n\nThird, teamwork brings many benefits to studying and future careers. Students who study in groups can explain difficult lessons to each other. Later, when they look for a job, they will have an advantage, because most employers want people who can work well in a team.\n\nFinally, teamwork helps students make friends and build good relationships. When they work together for a long time, they get to know each other well. In fact, my best friend today was a member of my first project group at university.\n\nIn conclusion, teamwork skills are very important for students. Therefore, schools and universities should give students more group projects.",
-   "follow_ups": [
-    "I think a good team leader should be confident and fair. He or she should listen to every member and make quick decisions. A good leader also encourages the team when things are difficult.",
-    "Not always. Some tasks, such as writing a short report, are faster when I work alone. However, for big and difficult projects, working in a team is usually better because we can share the work.",
-    "Students can improve their teamwork skills by joining group projects and student clubs. They should practise listening to others and respecting different opinions. Taking part in volunteer activities is also very helpful."
    ],
    "vocab": [
     {
-     "term": "play a key role in",
-     "meaning": "đóng vai trò quan trọng trong"
+     "term": "teamwork skills",
+     "meaning": "kỹ năng làm việc nhóm"
     },
     {
-     "term": "suit someone's strengths",
-     "meaning": "phù hợp với thế mạnh của ai"
+     "term": "divide the work fairly",
+     "meaning": "chia việc công bằng"
     },
     {
-     "term": "disagreement",
-     "meaning": "sự bất đồng"
+     "term": "combine ideas",
+     "meaning": "kết hợp ý tưởng"
     },
     {
-     "term": "have an advantage",
-     "meaning": "có lợi thế"
+     "term": "teammate",
+     "meaning": "đồng đội"
     },
     {
-     "term": "employer",
-     "meaning": "nhà tuyển dụng, người sử dụng lao động"
+     "term": "respect different opinions",
+     "meaning": "tôn trọng ý kiến khác nhau"
     }
    ]
   }

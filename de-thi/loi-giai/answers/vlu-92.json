@@ -2,6 +2,7 @@
  "id": "vlu-92",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -10,99 +11,105 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, hỏi thăm",
-     "reusable": "Thanks for your email. It is great to hear from you, and I hope you are well."
+     "content": "Cảm ơn thư, vui khi nhận tin",
+     "reusable": "Thank you for your email. It is great to hear from you again."
     },
     {
-     "section": "Ý 1: ở đâu dịp hè",
-     "content": "Về quê Đà Nẵng tháng 7, ở nhà bố mẹ gần biển Mỹ Khê + lý do",
-     "reusable": "During my summer holiday, I usually go back to my hometown, Da Nang, in July."
+     "section": "Ý 1: ở đâu trong kỳ nghỉ hè",
+     "content": "Về quê Đà Nẵng 2 tuần tháng 7 → nhà bố mẹ gần biển Mỹ Khê → lý do: ở bên gia đình, không khí biển",
+     "reusable": "Regarding where I stay, I usually go back to my hometown, Da Nang, for two weeks in July."
     },
     {
-     "section": "Ý 2: làm gì",
-     "content": "Sáng bơi biển với em trai; chiều đọc sách, cà phê với bạn cũ; cuối tuần đi Hội An, Bà Nà",
-     "reusable": "In the morning, I often go swimming in the sea with my younger sister."
+     "section": "Ý 2: làm gì trong kỳ nghỉ",
+     "content": "Sáng bơi biển → chiều đọc sách, cà phê với bạn cũ → đi Hội An trong ngày",
+     "reusable": "As for the break, I do a lot of relaxing things."
     },
     {
      "section": "Ý 3: lớp học thêm",
-     "content": "Có; chọn lớp guitar (âm nhạc) thay vì thể thao vì đã bơi nhiều; tối thứ Ba, thứ Năm ở trung tâm âm nhạc",
-     "reusable": "This year, I would choose a guitar class instead of a sports class."
+     "content": "Có → chọn lớp guitar thay vì thể thao → lý do: đã bơi nhiều, muốn thử mới → lịch học + địa điểm",
+     "reusable": "About extra classes, yes, I usually take one short class every summer. This year, I would choose a guitar class instead of a sports class."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Hỏi lại kế hoạch hè của Harry",
-     "reusable": "What about you? Please tell me about your summer plans."
+     "content": "Hỏi lại kế hoạch hè của bạn, chào cuối thư",
+     "reusable": "What about you? Please tell me about your summer plans. Best wishes,"
     }
    ],
-   "answer": "Hi Harry,\n\nThanks for your email. It is great to hear from you, and I hope you are well.\n\nDuring my summer holiday, I usually go back to my hometown, Da Nang, in July. I stay at my parents' house, which is only ten minutes from My Khe Beach. I love staying there because I can spend time with my family and enjoy the fresh sea air.\n\nDuring the break, I do a lot of relaxing things. In the morning, I often go swimming in the sea with my younger sister. In the afternoon, I read books or meet my old friends at a coffee shop. At weekends, my family sometimes takes a day trip to Hoi An or Ba Na Hills.\n\nYes, I usually take an extra class in the summer. This year, I would choose a guitar class instead of a sports class. I already swim a lot, so I want to try something new. The class is on Tuesday and Thursday evenings at a music centre near my parents' house.\n\nWhat about you? Please tell me about your summer plans.\n\nBest wishes,\nMinh",
+   "answer": "Hi Harry,\n\nThank you for your email. It is great to hear from you again.\n\nRegarding where I stay, I usually go back to my hometown, Da Nang, for two weeks in July. I stay at my parents' house, which is only ten minutes from My Khe Beach. I love it there because I can spend time with my family and enjoy the fresh sea air.\n\nAs for the break, I do a lot of relaxing things. In the morning, I often swim in the sea with my younger sister. In the afternoon, I read books or meet my old friends at a coffee shop. Sometimes my family also takes a day trip to Hoi An.\n\nAbout extra classes, yes, I usually take one short class every summer. This year, I would choose a guitar class instead of a sports class. I already swim a lot, so I want to try something new. The class is on Tuesday evenings at a music centre near my office.\n\nWhat about you? Please tell me about your summer plans.\n\nBest wishes,\nMinh",
    "vocab": [
-    {
-     "term": "summer holiday",
-     "meaning": "kỳ nghỉ hè"
-    },
     {
      "term": "go back to my hometown",
      "meaning": "về quê"
     },
     {
-     "term": "fresh sea air",
+     "term": "the fresh sea air",
      "meaning": "không khí biển trong lành"
     },
     {
-     "term": "take a day trip to",
-     "meaning": "đi chơi trong ngày tới"
+     "term": "take a day trip",
+     "meaning": "đi chơi trong ngày"
     },
     {
-     "term": "extra class",
-     "meaning": "lớp học thêm"
+     "term": "instead of",
+     "meaning": "thay vì"
+    },
+    {
+     "term": "try something new",
+     "meaning": "thử điều gì mới"
     }
    ]
   },
   "2": {
    "essay_type": "Discuss both views + opinion (thảo luận hai quan điểm và nêu ý kiến cá nhân)",
+   "type_key": "discussion",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: nhiều học sinh học thêm, số khác không; hai quan điểm → ý kiến: có ích nhưng không nên học quá nhiều",
-     "reusable": "In my opinion, extra classes can be useful, but students should not take too many."
+     "content": "Viết lại đề (học thêm: có ích hay gánh nặng) + quan điểm: học quá nhiều thì hại nhiều hơn lợi",
+     "reusable": "This essay will discuss both views, but I believe that too many extra classes do more harm than good."
     },
     {
-     "section": "Thân bài 1: lợi ích của học thêm",
-     "content": "(1) hiểu môn khó hơn, ví dụ yếu toán (2) học kỹ năng trường không dạy: nhạc, vẽ, bơi (3) ôn thi → vào đại học tốt",
-     "reusable": "On the one hand, extra classes bring several benefits."
+     "section": "Thân bài 1 · PEER quan điểm A",
+     "content": "P: học thêm giúp tăng kiến thức, kỹ năng → E: giảng lại bài khó, luyện thêm → Ex: học sinh yếu toán tiến bộ → R: tự tin, điểm cao hơn",
+     "reusable": "On the one hand, some people believe that extra classes help students improve their knowledge and skills. This is because …"
     },
     {
-     "section": "Thân bài 2: tác hại",
-     "content": "(1) áp lực, học tới khuya → mệt (2) mất thời gian rảnh, thể thao, gia đình (3) tốn tiền",
-     "reusable": "On the other hand, many people argue that extra classes are harmful to young learners."
+     "section": "Thân bài 2 · PEER 1 (quan điểm của mình)",
+     "content": "P: mệt mỏi, căng thẳng → E: học cả ngày rồi học thêm đến 9 giờ tối → Ex: con hàng xóm học mỗi tối, kiệt sức; thiếu ngủ hại sức khoẻ, trí nhớ",
+     "reusable": "On the other hand, I agree with those who think that extra classes put unnecessary pressure on young learners. Firstly, too many classes make students tired and stressed."
+    },
+    {
+     "section": "Thân bài 2 · PEER 2 (quan điểm của mình)",
+     "content": "P: mất thời gian rảnh quý giá → E: cần chơi thể thao, sở thích, gia đình → Ex: bé chơi bóng đá cuối tuần → R: thời gian rảnh quan trọng như học thêm",
+     "reusable": "Secondly, extra classes take away valuable free time."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt + nhắc lại ý kiến: chỉ học 1–2 lớp cần thiết hoặc yêu thích",
-     "reusable": "I believe students should only join one or two classes that they really need or enjoy."
+     "content": "Nhắc lại quan điểm + 2 lý do",
+     "reusable": "In conclusion, although extra classes can help weak students, I believe that too many of them do more harm than good because …"
     }
    ],
-   "answer": "Today, many students go to extra classes after school, while others do not join any extra classes at all. Some people think these classes help students improve their knowledge and skills, but others believe they create pressure and take away free time. In my opinion, extra classes can be useful, but students should not take too many.\n\nOn the one hand, extra classes bring several benefits. Firstly, they help students understand difficult subjects better. For example, a student who is weak at maths can get extra help from a teacher in a small class. Secondly, students can learn new skills that schools do not teach, such as music, art or swimming. These skills make them more confident and creative. In addition, extra classes can help students prepare for important exams. As a result, they have a better chance of entering a good university.\n\nOn the other hand, many people argue that extra classes are harmful to young learners. Firstly, they put a lot of pressure on students. Many children study at school all day and then go to extra classes until late at night, so they feel tired and stressed. Secondly, students lose their free time. They do not have enough time to play sports, relax or spend time with their families. Moreover, extra classes are often expensive, so they can be a heavy burden for many families.\n\nIn conclusion, extra classes can improve students' knowledge and skills, but too many classes can cause stress and take away their free time. I believe students should only join one or two classes that they really need or enjoy. Parents should also make sure that their children have enough time to rest and play.",
+   "answer": "People have different opinions on whether students should attend extra lessons after school. Some think these lessons are useful, while others see them as a heavy burden. This essay will discuss both views, but I believe that too many extra classes do more harm than good.\n\nOn the one hand, some people believe that extra classes help students improve their knowledge and skills. This is because teachers in these classes can explain difficult lessons again and give students more practice. For example, a student who is weak at maths can understand the lessons much better after a few months of extra classes. As a result, he may feel more confident and get higher marks in his exams.\n\nOn the other hand, I agree with those who think that extra classes put unnecessary pressure on young learners. Firstly, too many classes make students tired and stressed. Many children study at school all day and then go to extra classes until nine o'clock at night. For instance, my neighbour's son has classes every evening, and he often looks exhausted. Lack of sleep can also harm his health and his memory. Secondly, extra classes take away valuable free time. Children need time to play sports, enjoy their hobbies and talk with their families. A good example is a child who plays football at weekends. This helps him stay healthy and make friends. Therefore, free time is just as important as extra lessons for children's development.\n\nIn conclusion, although extra classes can help weak students, I believe that too many of them do more harm than good because they cause stress and take away free time. Students should choose only the classes that they really need.",
    "vocab": [
     {
-     "term": "take away free time",
-     "meaning": "lấy mất thời gian rảnh"
-    },
-    {
-     "term": "be weak at (a subject)",
-     "meaning": "học yếu (môn nào)"
-    },
-    {
-     "term": "put pressure on someone",
-     "meaning": "gây áp lực lên ai"
-    },
-    {
      "term": "a heavy burden",
-     "meaning": "gánh nặng lớn"
+     "meaning": "gánh nặng"
     },
     {
-     "term": "have a better chance of",
-     "meaning": "có nhiều cơ hội hơn để"
+     "term": "do more harm than good",
+     "meaning": "hại nhiều hơn lợi"
+    },
+    {
+     "term": "unnecessary pressure",
+     "meaning": "áp lực không cần thiết"
+    },
+    {
+     "term": "exhausted",
+     "meaning": "kiệt sức"
+    },
+    {
+     "term": "lack of sleep",
+     "meaning": "thiếu ngủ"
     }
    ]
   }
@@ -110,28 +117,28 @@
  "speaking": {
   "1": {
    "answers": [
-    "There are four people in my family: my parents, my younger sister and me. My parents are retired, and my sister is a university student.",
-    "Yes, we do, but not very often because my family lives in Da Nang. When I go home, we have dinner together every evening and talk about our day. At weekends, we sometimes go to the beach or visit our grandparents.",
-    "My father usually makes the important decisions in my family. However, he always asks my mother and us for our opinions first. So I think the decisions are quite fair.",
-    "I use technology every day, almost all the time. I use my laptop at work, and I use my phone to read the news, chat and pay for things.",
-    "I rely on my smartphone and my laptop the most. For apps, I use Zalo to chat with my family and Google Maps to find my way. I also use a banking app to pay for almost everything.",
-    "I think technology has brought more benefits to family life. Family members can call and see each other easily, even when they live far apart. However, people should put their phones away during family meals."
+    "There are four people in my family: my parents, my younger sister and me. My parents are retired, and my sister is a university student. We are very close, although I live far away from them.",
+    "Yes, we do, but not very often because my family lives in Da Nang. When I go home, we have dinner together every evening. At weekends, we sometimes go to the beach or visit our grandparents.",
+    "My father usually makes the important decisions in my family. However, he always asks my mother and us for our opinions first. For example, when we repaired our house last year, we all discussed the plan together.",
+    "I use technology every day, almost all the time. This is because my job is about using AI in health care. I also use my phone to read the news, chat with friends and pay for things.",
+    "I rely on my smartphone and my laptop the most. The main reason is that I need them for both work and daily life. For example, I use Zalo to chat with my family and a banking app to pay for things.",
+    "I think technology has brought more benefits to family life. The main reason is that family members can talk to each other easily, even from far away. For example, I make a video call to my parents in Da Nang every Sunday."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No hoặc nêu thông tin chính",
-     "reusable": "There are four people in my family."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi",
+     "reusable": "There are four people in my family: my parents, my younger sister and me."
     },
     {
-     "section": "Chi tiết / ví dụ",
-     "content": "Thêm hoạt động, thiết bị, ứng dụng cụ thể",
-     "reusable": "I use Zalo to chat with my family and Google Maps to find my way."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "The main reason is that I need them for both work and daily life."
     },
     {
-     "section": "Ý cân bằng",
-     "content": "Thêm 1 ý ngược lại bằng However",
-     "reusable": "However, people should put their phones away during family meals."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn",
+     "reusable": "For example, I make a video call to my parents in Da Nang every Sunday."
     }
    ],
    "vocab": [
@@ -145,131 +152,131 @@
     },
     {
      "term": "rely on",
-     "meaning": "dựa vào, phụ thuộc vào"
+     "meaning": "phụ thuộc vào, dựa vào"
     },
     {
-     "term": "live far apart",
-     "meaning": "sống xa nhau"
+     "term": "a banking app",
+     "meaning": "ứng dụng ngân hàng"
     },
     {
-     "term": "put something away",
-     "meaning": "cất cái gì đi"
+     "term": "make a video call",
+     "meaning": "gọi video"
     }
    ]
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think the job with good opportunities for career growth is the best choice for me. I choose it for two main reasons.\n\nThe first reason is that I am still young, so learning is more important than money now. By that, I mean this job will help me gain new skills and experience quickly. For example, I can join big projects, attend training courses and learn from experienced colleagues.\n\nAnother reason is that career growth will bring a better salary in the future. In other words, a heavy workload now is an investment for later. For instance, if I work hard for three years, I may become a team leader with a much higher income.\n\nThere are also some reasons why I do not choose the other two options. Regarding the job with a high salary but long working hours, I do not think it is the best choice because I would have no time for my family. As for the job with a flexible schedule, I do not think it is the best option either because the average salary and slow progress may make me feel bored.\n\nTo sum up, out of these three options, I believe the job with good opportunities for career growth is the best choice because it is challenging, useful and good for my future.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn công việc có cơ hội thăng tiến dù khối lượng công việc nặng",
-     "reusable": "I would choose the job with good opportunities for career growth."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: công việc có cơ hội thăng tiến",
+     "reusable": "In this situation, among the three options, I think the job with good opportunities for career growth is the best choice for me. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) còn trẻ, thời điểm tốt để học: khoá đào tạo, dự án lớn (2) tương lai: thăng chức, lương cao hơn",
-     "reusable": "First, I am still young, so this is the best time to learn and develop."
+     "section": "Lý do 1",
+     "content": "Còn trẻ, học quan trọng hơn tiền → By that, I mean … → For example: dự án lớn, khoá đào tạo, học đồng nghiệp",
+     "reusable": "The first reason is that I am still young, so learning is more important than money now. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn lương cao",
-     "content": "Giờ làm dài hại sức khoẻ, không có thời gian cho gia đình, sở thích",
-     "reusable": "I don't choose the job with a high salary but long, demanding working hours."
+     "section": "Lý do 2",
+     "content": "Thăng tiến → lương cao hơn sau này → In other words … → For instance: 3 năm lên trưởng nhóm",
+     "reusable": "Another reason is that career growth will bring a better salary in the future. In other words, …"
     },
     {
-     "section": "Vì sao không chọn lịch linh hoạt",
-     "content": "Thoải mái nhưng lương trung bình, ít học hỏi; hợp với người lớn tuổi, bố mẹ con nhỏ",
-     "reusable": "I also don't choose the job with a flexible working schedule but an average salary."
+     "section": "Loại 2 phương án",
+     "content": "Lương cao giờ dài: không có thời gian cho gia đình; giờ linh hoạt: lương trung bình, chậm tiến bộ",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding the job with a high salary but long working hours, I do not think it is the best choice because … As for the job with a flexible schedule, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn + xây dựng sự nghiệp lâu dài",
-     "reusable": "In conclusion, … is the best choice for me because it helps me build a successful career."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe the job with good opportunities for career growth is the best choice because it is challenging, useful and good for my future."
     }
    ],
-   "answer": "I would choose the job with good opportunities for career growth, although it has a heavy workload. Let me explain why.\n\nFirst, I am still young, so this is the best time to learn and develop. A job with career growth often gives training courses and chances to work on big projects. I can learn many new skills from experienced colleagues. Second, career growth brings a better future. If I work hard now, I can get a promotion in a few years. Then I will have a higher salary and a better position. A heavy workload is tiring, but it also helps me become stronger and more professional.\n\nI don't choose the job with a high salary but long, demanding working hours. The money is attractive, but long hours can hurt my health. I would also have no time for my family, my friends or my hobbies. I also don't choose the job with a flexible working schedule but an average salary. It is comfortable, but I may not learn much. I think a flexible job is better for older people or parents with small children.\n\nIn conclusion, the job with good career growth is the best choice for me because it helps me build a successful career in the long term.",
    "vocab": [
     {
      "term": "career growth",
      "meaning": "sự phát triển sự nghiệp"
     },
     {
-     "term": "heavy workload",
+     "term": "gain new skills and experience",
+     "meaning": "có thêm kỹ năng và kinh nghiệm mới"
+    },
+    {
+     "term": "a heavy workload",
      "meaning": "khối lượng công việc nặng"
     },
     {
-     "term": "get a promotion",
-     "meaning": "được thăng chức"
+     "term": "an investment",
+     "meaning": "một sự đầu tư"
     },
     {
-     "term": "demanding",
-     "meaning": "đòi hỏi cao, vất vả"
-    },
-    {
-     "term": "in the long term",
-     "meaning": "về lâu dài"
+     "term": "a flexible schedule",
+     "meaning": "lịch làm việc linh hoạt"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the reasons why young people nowadays prefer eating out. In my opinion, eating out is popular because it is convenient and fun.\n\nFirstly, many young people have busy lifestyles and lack time to cook. They work or study all day, and they feel too tired to cook in the evening. For example, many of my colleagues buy dinner on their way home from work.\n\nSecondly, eating out is a way to socialize with friends. Young people like to meet and chat over a meal or a drink. For instance, my friends and I often have hotpot together on Friday evenings.\n\nThirdly, there is a wide variety of food choices available. In big cities, people can find Vietnamese, Korean, Japanese and Western food on the same street. A good example is District 1 in Ho Chi Minh City, where I can try a new dish every week.\n\nAnother important point is that eating out is cheap in Vietnam. A bowl of pho or a plate of broken rice costs only about fifty thousand dong. Therefore, many students can afford to eat out every day.\n\nTo sum up, young people prefer eating out because of their busy lifestyles, their social lives and the wide variety of food. The affordable prices also make it easy for them.",
    "own_idea": "Affordable prices of food",
+   "follow_ups": [
+    "I think young people choose to eat out mainly because it saves time. Many of them are busy with work or study, so they do not want to cook and wash the dishes. For example, my younger sister eats lunch at a small restaurant near her university every day.",
+    "Yes, I eat out about three times a week. This is because I am busy at work, and there are many cheap restaurants near my office. For example, I usually have broken rice for lunch with my colleagues. At weekends, I sometimes have dinner with my friends.",
+    "Yes, I have a few simple tips. I always read online reviews before I go to a new restaurant because they show the real quality of the food and service. For example, I check the photos and ratings on Google Maps. I also choose places that look clean."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 lý do chính",
-     "reusable": "Today I would like to talk about the reasons why young people nowadays prefer eating out."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the reasons why young people nowadays prefer eating out. In my opinion, eating out is popular because it is convenient and fun."
     },
     {
-     "section": "Ý 1: Busy lifestyles",
-     "content": "Học, làm cả ngày, về muộn; nấu ăn, rửa bát mất thời gian",
-     "reusable": "First, young people have busy lifestyles and lack time to cook."
+     "section": "Ý 1: bận rộn, không có thời gian nấu",
+     "content": "Ý → làm, học cả ngày, mệt → ví dụ đồng nghiệp mua bữa tối trên đường về",
+     "reusable": "Firstly, many young people have busy lifestyles and lack time to cook."
     },
     {
-     "section": "Ý 2: Socialize with friends",
-     "content": "Gặp nhau mừng sinh nhật, trò chuyện; ví dụ ăn lẩu tối thứ Sáu",
-     "reusable": "Second, eating out is a good way to socialize with friends."
+     "section": "Ý 2: giao lưu với bạn bè",
+     "content": "Ý → gặp gỡ, trò chuyện bên bữa ăn → ví dụ ăn lẩu tối thứ Sáu",
+     "reusable": "Secondly, eating out is a way to socialize with friends."
     },
     {
-     "section": "Ý 3: Variety of food",
-     "content": "Món Việt, Hàn, Nhật, Ý trên cùng một con phố; thích thử món mới",
-     "reusable": "Third, there is a wide variety of food choices available."
+     "section": "Ý 3: nhiều lựa chọn món ăn",
+     "content": "Ý → món Việt, Hàn, Nhật, Âu trên cùng một con phố → ví dụ Quận 1",
+     "reusable": "Thirdly, there is a wide variety of food choices available."
     },
     {
      "section": "Ý riêng: giá cả phải chăng",
-     "content": "Tô phở, dĩa cơm tấm 30–40 nghìn; đôi khi rẻ hơn tự nấu",
-     "reusable": "Finally, I think the affordable prices of food are another reason."
+     "content": "Ý → tô phở, dĩa cơm tấm khoảng 50 nghìn → sinh viên ăn ngoài mỗi ngày được",
+     "reusable": "Another important point is that eating out is cheap in Vietnam."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt + nên tự nấu đôi khi để khoẻ mạnh",
-     "reusable": "However, they should also cook at home sometimes to stay healthy."
+     "section": "Kết",
+     "content": "Tóm tắt các ý",
+     "reusable": "To sum up, young people prefer eating out because of their busy lifestyles, their social lives and the wide variety of food."
     }
-   ],
-   "answer": "Today I would like to talk about the reasons why young people nowadays prefer eating out. I think there are four main reasons.\n\nFirst, young people have busy lifestyles and lack time to cook. Many of them study or work all day and come home late. Cooking and washing dishes take a lot of time, so they prefer to eat at a restaurant near their office or school.\n\nSecond, eating out is a good way to socialize with friends. Young people often meet at a restaurant to celebrate birthdays or just to chat after work. For example, my friends and I have dinner together every Friday evening at a hotpot restaurant.\n\nThird, there is a wide variety of food choices available. In big cities like Ho Chi Minh City, you can find Vietnamese, Korean, Japanese and Italian food on the same street. Young people love trying new dishes, so eating out is exciting for them.\n\nFinally, I think the affordable prices of food are another reason. In Vietnam, a bowl of noodles or a plate of broken rice costs only about thirty or forty thousand dong. Sometimes it is even cheaper than cooking at home, especially for people who live alone.\n\nIn conclusion, young people eat out because they are busy, they want to meet friends, they enjoy many kinds of food and the prices are reasonable. However, they should also cook at home sometimes to stay healthy.",
-   "follow_ups": [
-    "I think young people choose to eat out mainly because they are busy. They work or study long hours and do not have time to cook. Also, eating out is a fun way to meet friends.",
-    "Yes, I eat out quite often, about three or four times a week. I usually have lunch with my colleagues near my university. At weekends, I sometimes try a new restaurant with my friends.",
-    "Yes, I do. First, I read online reviews on Google Maps or in food groups on Facebook. Second, I choose a clean place with reasonable prices."
    ],
    "vocab": [
     {
-     "term": "eat out",
-     "meaning": "ăn ở ngoài, ăn nhà hàng"
-    },
-    {
-     "term": "busy lifestyle",
+     "term": "busy lifestyles",
      "meaning": "lối sống bận rộn"
     },
     {
-     "term": "socialize with",
-     "meaning": "giao lưu với"
+     "term": "socialize with friends",
+     "meaning": "giao lưu với bạn bè"
     },
     {
      "term": "a wide variety of",
      "meaning": "nhiều loại, đa dạng"
     },
     {
-     "term": "affordable",
+     "term": "affordable prices",
      "meaning": "giá cả phải chăng"
+    },
+    {
+     "term": "online reviews",
+     "meaning": "đánh giá trên mạng"
     }
    ]
   }

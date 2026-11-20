@@ -2,6 +2,7 @@
  "id": "vlu-135",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -15,26 +16,26 @@
     },
     {
      "section": "Ý 1: bản thân, công việc, quê",
-     "content": "Nghiên cứu viên ứng dụng AI cho bác sĩ; quê TP.HCM nhộn nhịp, đồ ăn ngon",
-     "reusable": "I am now a researcher at a university in Ho Chi Minh City."
+     "content": "Trả lời thẳng (nghề) → lý do hợp (học y) → chi tiết quê TP.HCM",
+     "reusable": "Regarding my life, I am now a researcher at a university in Ho Chi Minh City."
     },
     {
      "section": "Ý 2: thời gian rảnh",
-     "content": "Đọc sách, cà phê với bạn, bơi cuối tuần + lý do",
-     "reusable": "In my free time, I enjoy reading books and going to coffee shops with my friends."
+     "content": "Trả lời thẳng (đọc sách, cà phê) → chi tiết (bơi cuối tuần) → lý do (thư giãn)",
+     "reusable": "As for my free time, I enjoy reading books and going to coffee shops with my friends."
     },
     {
      "section": "Ý 3: sắp xếp cuộc gặp",
-     "content": "Thời gian + địa điểm + làm gì; xin báo nếu không hợp",
-     "reusable": "How about meeting on the first Saturday of your trip at 9 a.m.?"
+     "content": "Đồng ý → giờ + địa điểm cụ thể → làm gì → xin báo nếu không hợp",
+     "reusable": "How about meeting at Ben Thanh Market at 9 a.m. on the first Saturday of your trip? … If this time does not suit you, just let me know."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mong gặp, chào cuối thư",
-     "reusable": "I am looking forward to seeing you soon. Best wishes,"
+     "content": "Câu kết cố định, chào cuối thư",
+     "reusable": "That's all for now. Write back soon! Best wishes,"
     }
    ],
-   "answer": "Dear Steve,\n\nThank you for your email. It was great to hear from you after such a long time.\n\nI am now a researcher at a university in Ho Chi Minh City. My team uses AI to help doctors and patients. For example, we build tools that help doctors read medical tests faster. I studied medicine before, so this job really suits me. Ho Chi Minh City is also my hometown. It is a busy and modern city with a lot of delicious street food.\n\nIn my free time, I enjoy reading books and going to coffee shops with my friends. At weekends, I usually go swimming. It helps me relax after a long week at work.\n\nI would love to meet you when you visit Vietnam. Please tell me your travel dates. How about meeting on the first Saturday of your trip at 9 a.m.? We can have breakfast at Ben Thanh Market and then visit the War Remnants Museum. If this time does not suit you, just let me know.\n\nI am looking forward to seeing you soon.\n\nBest wishes,\nMinh",
+   "answer": "Dear Steve,\n\nThank you for your email. It was great to hear from you after such a long time.\n\nRegarding my life, I am now a researcher at a university in Ho Chi Minh City. My team uses AI to help doctors read medical tests faster. I studied medicine before, so this job really suits me. Ho Chi Minh City is also my hometown, and it is a busy city with delicious street food.\n\nAs for my free time, I enjoy reading books and going to coffee shops with my friends. At weekends, I usually go swimming at a pool near my house. It helps me relax after a long week at work.\n\nAbout your visit, I would love to meet you in Vietnam. How about meeting at Ben Thanh Market at 9 a.m. on the first Saturday of your trip? We can have breakfast there and then visit the War Remnants Museum. If this time does not suit you, just let me know.\n\nThat's all for now. Write back soon!\n\nBest wishes,\nMinh",
    "vocab": [
     {
      "term": "medical tests",
@@ -49,8 +50,8 @@
      "meaning": "đồ ăn đường phố"
     },
     {
-     "term": "travel dates",
-     "meaning": "ngày đi và ngày về của chuyến đi"
+     "term": "hear from someone",
+     "meaning": "nhận được tin của ai"
     },
     {
      "term": "let me know",
@@ -60,29 +61,35 @@
   },
   "2": {
    "essay_type": "Advantages & disadvantages (thảo luận ưu điểm và nhược điểm)",
+   "type_key": "adv_disadv",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: ai cũng có điện thoại, công ty cho phép hoặc cấm → bài sẽ bàn cả hai mặt",
-     "reusable": "In my opinion, using personal phones at work has both advantages and disadvantages, and this essay will discuss both sides."
+     "content": "Viết lại đề bằng lời khác (ai cũng mang điện thoại, công ty có luật khác nhau) + câu dẫn",
+     "reusable": "This essay will discuss both the advantages and disadvantages of this habit."
     },
     {
-     "section": "Thân bài 1: ưu điểm",
-     "content": "(1) liên lạc nhanh với đồng nghiệp, khách hàng (2) ứng dụng hữu ích giúp tiết kiệm thời gian (3) giữ liên lạc với gia đình → yên tâm làm việc",
-     "reusable": "On the one hand, mobile phones bring several benefits at work. Firstly, … For example, …"
+     "section": "Thân bài 1 · PEER: nhược điểm",
+     "content": "P: gây xao nhãng → E: lướt mạng xã hội trong giờ làm → Ex: 10 phút Facebook mỗi giờ → R: làm chậm, chất lượng giảm",
+     "reusable": "On the one hand, using personal phones at work has one main drawback. The biggest problem is that …"
     },
     {
-     "section": "Thân bài 2: nhược điểm",
-     "content": "(1) gây xao nhãng, lãng phí thời gian (2) nguy hiểm trong một số nghề (3) rủi ro lộ thông tin công ty",
-     "reusable": "On the other hand, using personal phones at work also causes some problems. Firstly, …"
+     "section": "Thân bài 2 · PEER 1: ưu điểm",
+     "content": "P: liên lạc nhanh → E: trả lời đồng nghiệp, khách mọi lúc → Ex: nhân viên bán hàng trả lời tin nhắn khách",
+     "reusable": "On the other hand, personal phones bring two important benefits at work. Firstly, …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 2: ưu điểm",
+     "content": "P: giữ liên lạc với gia đình → E: bớt lo lắng → Ex: cha mẹ hỏi thăm con ốm giờ nghỉ trưa → R: tập trung hơn",
+     "reusable": "Secondly, phones allow workers to stay in touch with their families."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt hai mặt + ý kiến: không cấm hẳn, nên có quy định rõ",
-     "reusable": "In conclusion, … I believe companies should not ban phones completely. Instead, they should make clear rules about when and how their staff can use them."
+     "content": "Tóm tắt hai phía + gợi ý quy định rõ ràng thay vì cấm",
+     "reusable": "In conclusion, using personal phones at work has both advantages and disadvantages."
     }
    ],
-   "answer": "Nowadays, almost every employee has a smartphone, and many people bring it to work every day. Some companies allow their staff to use phones during working hours, while others ban them. In my opinion, using personal phones at work has both advantages and disadvantages, and this essay will discuss both sides.\n\nOn the one hand, mobile phones bring several benefits at work. Firstly, employees can contact colleagues and customers quickly. For example, a salesperson can answer a customer's question by message at any time. Secondly, smartphones have many useful apps, such as calendars, maps and translation tools. These apps help workers save time and work more effectively. In addition, staff can stay in touch with their families. As a result, they feel less worried, especially when their children are sick at home.\n\nOn the other hand, using personal phones at work also causes some problems. Firstly, phones can distract employees from their tasks. Many people check social media or play games, so they waste a lot of time. Secondly, using a phone in some jobs can be dangerous. For instance, a driver or a factory worker may have an accident if they look at their phone. Moreover, personal phones can put company information at risk. Some workers send important files through apps that are not safe.\n\nIn conclusion, personal mobile phones can help employees communicate and work faster, but they can also reduce productivity and cause safety problems. I believe companies should not ban phones completely. Instead, they should make clear rules about when and how their staff can use them.",
+   "answer": "Today, most workers carry a smartphone with them all day, and companies have very different rules about using it in the office. Some managers see phones as a useful tool, while others see them as a problem. This essay will discuss both the advantages and disadvantages of this habit.\n\nOn the one hand, using personal phones at work has one main drawback. The biggest problem is that phones can easily distract employees from their tasks. This is because many people keep checking social media and messages during working hours. For example, an office worker may spend ten minutes on Facebook every hour without noticing it. As a result, they finish their work more slowly, and the quality of their work may also go down.\n\nOn the other hand, personal phones bring two important benefits at work. Firstly, they help employees communicate quickly. The reason is that staff can answer colleagues and customers at any time, even when they are away from their desks. They do not need to wait until they are back at their computers. For instance, a salesperson can reply to a customer's question by message in just a few minutes. Secondly, phones allow workers to stay in touch with their families. This means that they feel less worried about problems at home. A good example is a parent who can check on a sick child during the lunch break. Thanks to this, they can focus better on their work.\n\nIn conclusion, using personal phones at work has both advantages and disadvantages. Phones may distract workers, but they also help them communicate quickly and stay in touch with their families. Therefore, companies should make clear rules instead of banning phones completely.",
    "vocab": [
     {
      "term": "distract someone from something",
@@ -93,16 +100,16 @@
      "meaning": "giữ liên lạc với"
     },
     {
-     "term": "work effectively",
-     "meaning": "làm việc hiệu quả"
+     "term": "away from their desks",
+     "meaning": "không ngồi ở bàn làm việc"
     },
     {
-     "term": "put something at risk",
-     "meaning": "khiến cái gì gặp rủi ro"
+     "term": "check on someone",
+     "meaning": "hỏi thăm, xem tình hình của ai"
     },
     {
-     "term": "productivity",
-     "meaning": "năng suất làm việc"
+     "term": "make clear rules",
+     "meaning": "đặt ra quy định rõ ràng"
     }
    ]
   }
@@ -113,24 +120,24 @@
     "I eat out about two or three times a week. I usually have lunch near my office because I am busy at work. At weekends, I sometimes eat out with my friends.",
     "I prefer eating at home. Home-cooked food is healthier and cheaper than restaurant food. Also, I can relax and talk with my family during dinner.",
     "I prefer Vietnamese food. It is fresh and tasty, and it has a lot of vegetables. My favourite dish is pho, and I eat it almost every week.",
-    "Yes, I do. My idol is Bill Gates, the founder of Microsoft.",
-    "I admire him because he is very smart and hard-working. He also gives a lot of money to help poor people, especially in health care.",
-    "No, I don't want to become famous. Famous people have very little privacy, and they are always under pressure. I just want a peaceful life and a useful job."
+    "Yes, I do. My idol is Bill Gates, the co-founder of Microsoft. I have read many books and articles about his life.",
+    "I admire him because he is very smart and hard-working. He also gives a lot of money to help poor people, especially in health care. For example, his foundation has helped millions of children get vaccines.",
+    "No, I do not want to become famous. Famous people have very little privacy, and they are always under pressure. I just want a peaceful life and a useful job."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
+     "section": "Câu 1: trả lời thẳng",
      "content": "Trả lời ngay Yes/No hoặc tần suất",
      "reusable": "I eat out about two or three times a week."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "I prefer eating at home. Home-cooked food is healthier and cheaper than restaurant food."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "I usually have lunch near my office because I am busy at work."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 ví dụ cá nhân ngắn",
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn",
      "reusable": "My favourite dish is pho, and I eat it almost every week."
     }
    ],
@@ -161,32 +168,32 @@
    "choice": 3,
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn khoá kỹ năng giao tiếp hiệu quả",
-     "reusable": "I think my brother should take the effective communication skills course."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: khoá giao tiếp hiệu quả",
+     "reusable": "In this situation, among the three options, I think the effective communication skills course is the best choice for my brother. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) dùng được hằng ngày, mọi công việc (2) là nền tảng cho thuyết trình và quản lý",
-     "reusable": "First, communication is useful in every job and in every situation. … Second, good communication is the foundation of other skills."
+     "section": "Lý do 1",
+     "content": "Dùng trong mọi công việc → By that, I mean … → For example: giải thích ý trong cuộc họp",
+     "reusable": "The first reason is that communication skills are useful in every job. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn quản lý",
-     "content": "Anh còn là nhân viên mới, chưa quản lý nhóm",
-     "reusable": "I don't choose the management skills course because my brother is still a junior employee."
+     "section": "Lý do 2",
+     "content": "Nền tảng của kỹ năng khác → In other words … → For instance: học thuyết trình, quản lý dễ hơn",
+     "reusable": "Another reason is that communication is the foundation of other skills. In other words, …"
     },
     {
-     "section": "Vì sao không chọn thuyết trình",
-     "content": "Chỉ thuyết trình vài lần mỗi năm",
-     "reusable": "I also don't choose the presentation skills course. It is helpful, but he only gives presentations a few times a year."
+     "section": "Loại 2 phương án",
+     "content": "Quản lý: còn là nhân viên mới; thuyết trình: chỉ vài lần mỗi năm",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding the management skills course, I do not think it is the best choice because … As for the presentation skills course, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn + lợi ích lâu dài",
-     "reusable": "In conclusion, … is the best choice for my brother because it is practical"
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe the effective communication skills course is the best choice because it is practical, useful and good for his whole career."
     }
    ],
-   "answer": "I think my brother should take the effective communication skills course. Let me explain why.\n\nFirst, communication is useful in every job and in every situation. My brother works in an office, so he talks to his boss, his colleagues and his customers every day. If he communicates clearly, he will avoid misunderstandings and build good relationships. Second, good communication is the foundation of other skills. For example, a good presenter and a good manager must be good communicators first. So this course will help him in many ways.\n\nI don't choose the management skills course because my brother is still a junior employee. He does not manage a team now, so this course is not very useful for him at the moment. He can take it in a few years. I also don't choose the presentation skills course. It is helpful, but he only gives presentations a few times a year. In contrast, he needs communication skills every day.\n\nIn conclusion, the effective communication skills course is the best choice for my brother because it is practical and it can help him in his whole career.",
+   "answer": "In this situation, among the three options, I think the effective communication skills course is the best choice for my brother. I choose it for two main reasons.\n\nThe first reason is that communication skills are useful in every job. By that, I mean my brother needs them every day when he talks to his boss, his colleagues and his customers. For example, if he can explain his ideas clearly in meetings, he will avoid misunderstandings and build good relationships at work.\n\nAnother reason is that communication is the foundation of other skills. In other words, a good presenter and a good manager must be good communicators first. For instance, after this course, he will find it much easier to learn presentation or management skills later.\n\nThere are also some reasons why I do not choose the other two options. Regarding the management skills course, I do not think it is the best choice because my brother is still a junior employee. He does not manage a team at the moment, so he cannot use these skills yet. As for the presentation skills course, I do not think it is the best option either because he only gives presentations a few times a year.\n\nTo sum up, out of these three options, I believe the effective communication skills course is the best choice because it is practical, useful and good for his whole career.",
    "vocab": [
     {
      "term": "avoid misunderstandings",
@@ -214,41 +221,41 @@
    "own_idea": "Learning and getting information",
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 công dụng chính",
-     "reusable": "Today I would like to talk about the uses of social media."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the uses of social media. In my opinion, social media is very useful in our daily lives."
     },
     {
      "section": "Ý 1: Entertainment",
-     "content": "Xem video, nghe nhạc trên TikTok, YouTube → giảm stress",
-     "reusable": "First, social media is a good source of entertainment."
+     "content": "Ý → giải tỏa căng thẳng → ví dụ xem video, nghe nhạc trên YouTube",
+     "reusable": "Firstly, social media is a good source of entertainment."
     },
     {
      "section": "Ý 2: Doing business",
-     "content": "Shop nhỏ bán hàng trên Facebook, không cần thuê mặt bằng; ví dụ cô bán cà phê Đắk Lắk",
-     "reusable": "Second, social media is very useful for doing business."
+     "content": "Ý → không cần thuê cửa hàng → ví dụ dì bán cà phê Đắk Lắk trên Facebook",
+     "reusable": "Secondly, social media is very useful for doing business."
     },
     {
      "section": "Ý 3: Keeping in touch",
-     "content": "Zalo, Facebook; gọi miễn phí cho người thân ở nước ngoài",
-     "reusable": "Third, people use social media to keep in touch with others."
+     "content": "Ý → nhanh, rẻ → ví dụ gọi Zalo cho anh họ ở Úc",
+     "reusable": "Thirdly, people use social media to keep in touch with others."
     },
     {
      "section": "Ý riêng: Learning",
-     "content": "Theo dõi trang sức khoẻ, công nghệ; nhóm học tập online",
-     "reusable": "Finally, I think social media is also a great place for learning and getting information."
+     "content": "Ý → nhiều trang chia sẻ kiến thức → ví dụ đọc trang sức khoẻ, công nghệ",
+     "reusable": "Another important point is that social media is a great place for learning and getting information."
     },
     {
-     "section": "Kết luận",
+     "section": "Kết",
      "content": "Tóm tắt 4 công dụng + dùng có chừng mực",
-     "reusable": "In conclusion, … However, we should use it wisely and not spend too much time on it."
+     "reusable": "To sum up, … However, we should use it wisely and not spend too much time on it."
     }
    ],
-   "answer": "Today I would like to talk about the uses of social media. In my opinion, social media has four main uses.\n\nFirst, social media is a good source of entertainment. After work, many people watch funny videos or listen to music on TikTok or YouTube. It helps them relax and reduce stress.\n\nSecond, social media is very useful for doing business. Many small shops sell clothes and food on Facebook. They can reach a lot of customers without renting a shop, so they save money. For example, my aunt sells coffee from Dak Lak online, and she has customers all over Vietnam.\n\nThird, people use social media to keep in touch with others. I often use Zalo and Facebook to chat with my friends and family. My cousin lives in Australia, but we can still call each other every week for free.\n\nFinally, I think social media is also a great place for learning and getting information. I follow many pages about health and technology, and I read the news there every morning. In addition, students can join online groups to share study materials.\n\nIn conclusion, social media helps us relax, earn money, stay connected and learn new things. However, we should use it wisely and not spend too much time on it.",
+   "answer": "Today I would like to talk about the uses of social media. In my opinion, social media is very useful in our daily lives.\n\nFirstly, social media is a good source of entertainment. After a long day, many people want to relax and reduce stress. For example, I often watch funny videos or listen to music on YouTube in the evening.\n\nSecondly, social media is very useful for doing business. Small sellers can reach a lot of customers without renting a shop, so they save money. For instance, my aunt sells coffee from Dak Lak on Facebook, and she has customers all over Vietnam.\n\nThirdly, people use social media to keep in touch with others. It is fast, cheap and easy to use. A good example is my cousin, who lives in Australia. We still call each other on Zalo every week for free.\n\nAnother important point is that social media is a great place for learning and getting information. Many pages share useful news and knowledge. For example, I follow several pages about health and technology, and I read them every morning.\n\nTo sum up, social media is useful for entertainment, business, keeping in touch and learning. However, we should use it wisely and not spend too much time on it.",
    "follow_ups": [
-    "Yes, I think many people spend too much time on social media. Some people check their phones every few minutes, even during meals. This can hurt their health and their relationships.",
-    "The biggest disadvantage is fake news. Many people believe wrong information about health. In addition, social media can make people feel lonely and stressed.",
-    "I think social media is more useful for young people. They use it to study, find jobs and make friends. However, older people can also use it to keep in touch with their children."
+    "Yes, I think many people spend too much time on social media. The main reason is that these apps are designed to keep us watching. For example, some of my friends check their phones every few minutes, even during meals. This can hurt their health and their relationships.",
+    "In my opinion, the biggest disadvantage is fake news. Many people believe wrong information without checking it. For instance, during the COVID-19 pandemic, a lot of fake health advice spread on Facebook. In addition, social media can make people feel lonely and stressed.",
+    "I think social media is more useful for young people. They use it to study, find jobs and make friends. For example, many students join online groups to share study materials. However, older people can also use it to keep in touch with their children."
    ],
    "vocab": [
     {

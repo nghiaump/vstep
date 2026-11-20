@@ -2,6 +2,7 @@
  "id": "vlu-99",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -10,31 +11,31 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, vui được kể về chuyến cắm trại",
-     "reusable": "Thanks for your email. I am happy to tell you about my camping trip."
+     "content": "Cảm ơn thư + vui được kể về chuyến cắm trại",
+     "reusable": "Thank you for your email. I am happy to tell you all about my camping trip."
     },
     {
-     "section": "Ý 1: đi đâu, với ai",
-     "content": "Bãi biển Hồ Cốc (cách trung tâm TP.HCM 3 tiếng), đi cùng 3 đồng nghiệp ở trường đại học",
-     "reusable": "Last weekend, I went camping at Ho Coc Beach. … I went with three colleagues from my university."
+     "section": "Ý 1: ở đâu, đi với ai",
+     "content": "Biển Hồ Cốc cuối tuần trước → cách TP.HCM 3 giờ → đi với 3 đồng nghiệp vì cần nghỉ ngơi",
+     "reusable": "Regarding the place, I went camping at Ho Coc Beach last weekend."
     },
     {
      "section": "Ý 2: hoạt động",
-     "content": "Dựng lều, bơi, nướng BBQ, đốt lửa trại hát hò, ngắm sao, ngắm bình minh",
-     "reusable": "On the first day, we set up our tents near the beach and went swimming."
+     "content": "Dựng lều, tắm biển → tối nướng hải sản, hát quanh lửa trại → sáng ngắm bình minh",
+     "reusable": "As for our activities, we set up our tents near the beach and went swimming on the first day."
     },
     {
-     "section": "Ý 3: có nên đi không + vì sao",
-     "content": "Có: gần thiên nhiên, rời xa điện thoại; lời khuyên mang xịt chống muỗi; rủ đi cùng tháng sau",
-     "reusable": "Yes, I would definitely recommend camping to you."
+     "section": "Ý 3: có nên đi không",
+     "content": "Nên đi → thư giãn, gần thiên nhiên → nhớ mang thuốc chống muỗi → rủ đi cùng thứ Bảy 12/12",
+     "reusable": "About your last question, I would definitely recommend camping to you. … If you like, we can go to Ho Coc together on Saturday, 12th December."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Hỏi ý kiến bạn, chào cuối thư",
-     "reusable": "Let me know what you think."
+     "content": "Câu kết cố định, chào cuối thư",
+     "reusable": "That's all for now. Write back soon! Best wishes,"
     }
    ],
-   "answer": "Hi Anna,\n\nThanks for your email. I am happy to tell you about my camping trip.\n\nLast weekend, I went camping at Ho Coc Beach. It is about three hours from the centre of Ho Chi Minh City by car. I went with three colleagues from my university, and we had a wonderful time.\n\nWe did a lot of fun activities during the trip. On the first day, we set up our tents near the beach and went swimming. In the evening, we had a barbecue with fresh seafood. After dinner, we sat around a campfire, sang songs and looked at the stars. The next morning, we got up early to watch the sunrise.\n\nYes, I would definitely recommend camping to you. It is a great way to relax and enjoy nature. You can also forget about your phone and work for a few days. However, you should bring insect spray because there are a lot of mosquitoes at night. If you like, we can go camping together at Ho Coc next month.\n\nLet me know what you think.\n\nBest wishes,\nMinh",
+   "answer": "Hi Anna,\n\nThank you for your email. I am happy to tell you all about my camping trip.\n\nRegarding the place, I went camping at Ho Coc Beach last weekend. It is about three hours from Ho Chi Minh City by car. I went with three colleagues from my university because we all needed a break after a busy month.\n\nAs for our activities, we set up our tents near the beach and went swimming on the first day. In the evening, we had a barbecue with fresh seafood and sang songs around a campfire. The next morning, we got up early to watch the sunrise over the sea.\n\nAbout your last question, I would definitely recommend camping to you. It is a great way to relax and enjoy nature, and you can forget about work for a while. Just remember to bring insect spray because there are many mosquitoes at night. If you like, we can go to Ho Coc together on Saturday, 12th December.\n\nThat's all for now. Write back soon!\n\nBest wishes,\nMinh",
    "vocab": [
     {
      "term": "go camping",
@@ -49,40 +50,46 @@
      "meaning": "lửa trại"
     },
     {
-     "term": "watch the sunrise",
-     "meaning": "ngắm bình minh"
+     "term": "insect spray",
+     "meaning": "thuốc xịt côn trùng"
     },
     {
-     "term": "insect spray",
-     "meaning": "thuốc xịt côn trùng, xịt muỗi"
+     "term": "recommend something to someone",
+     "meaning": "giới thiệu, khuyên ai nên thử cái gì"
     }
    ]
   },
   "2": {
-   "essay_type": "Discuss both views + opinion (thảo luận hai quan điểm và nêu ý kiến cá nhân)",
+   "essay_type": "Discussion – discuss both views (thảo luận hai quan điểm và nêu ý kiến)",
+   "type_key": "discussion",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: làm việc tại nhà phổ biến sau đại dịch; hai quan điểm → ý kiến của tôi: gắn kết hơn nếu bố mẹ đặt ranh giới rõ ràng",
-     "reusable": "In my opinion, working from home can make family bonds stronger, but only if parents set clear limits."
+     "content": "Viết lại đề (từ sau COVID-19 nhiều người làm ở nhà) + hai quan điểm + ý kiến: gắn kết gia đình hơn",
+     "reusable": "This essay will discuss both views, but I believe that it makes family bonds stronger."
     },
     {
-     "section": "Thân bài 1: gắn kết gia đình",
-     "content": "(1) có thêm thời gian: ăn cơm cùng, đưa đón con (2) không mất thời gian đi lại → ít mệt, kiên nhẫn hơn (3) dễ nhận ra vấn đề của con",
-     "reusable": "On the one hand, working from home can help parents spend more time with their children."
+     "section": "Thân bài 1 · PEER quan điểm A",
+     "content": "P: làm ở nhà làm hại quan hệ cha mẹ – con → E: công việc và gia đình lẫn vào nhau → Ex: mẹ trả lời email trong bữa tối, bắt con im lặng → R: con thấy cha mẹ luôn bận",
+     "reusable": "On the one hand, some people believe that working from home harms the relationship between parents and children. This is because …"
     },
     {
-     "section": "Thân bài 2: xoá nhoà ranh giới",
-     "content": "(1) trẻ làm gián đoạn → bố mẹ căng thẳng, la mắng (2) làm việc đến tối khuya (3) có mặt nhưng không thật sự quan tâm → con thấy bị bỏ rơi",
-     "reusable": "On the other hand, other people argue that working from home blurs the line between work and family life."
+     "section": "Thân bài 2 · PEER 1 (ý của mình)",
+     "content": "P: nhiều thời gian bên con → E: không phải đi làm, đỡ mệt → Ex: bố đưa con đi học, ăn trưa cùng con",
+     "reusable": "On the other hand, I agree with those who think that working from home makes family bonds stronger. Firstly, parents can spend more time with their children every day."
+    },
+    {
+     "section": "Thân bài 2 · PEER 2 (ý của mình)",
+     "content": "P: theo sát cuộc sống của con → E: phát hiện vấn đề sớm → Ex: mẹ thấy con buồn, nói chuyện ngay → R: con thấy được yêu thương",
+     "reusable": "Secondly, parents can follow their children's daily lives more closely."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt hai quan điểm + nhắc lại ý kiến: có giờ làm việc và phòng làm việc riêng",
-     "reusable": "In conclusion, … I believe that … if parents have clear working hours."
+     "content": "Nhắc lại hai phía + ý kiến + 2 lý do",
+     "reusable": "In conclusion, although working from home can mix work and family life, I believe that it brings parents and children closer because …"
     }
    ],
-   "answer": "Since the pandemic, many employees around the world have started working from home. Some people believe that this helps parents build closer relationships with their children. However, others think that it mixes work and family life and harms these relationships. In my opinion, working from home can make family bonds stronger, but only if parents set clear limits.\n\nOn the one hand, working from home can help parents spend more time with their children. Firstly, they can have lunch with their children and take them to school every day. These small moments help families feel closer. Secondly, parents do not have to travel to work, so they save time and feel less tired. As a result, they have more energy to play with their children in the evening. In addition, parents can notice their children's problems more quickly. For example, a mother at home can see if her son is sad after school and talk to him.\n\nOn the other hand, other people argue that working from home blurs the line between work and family life. Firstly, children often interrupt their parents during online meetings. This makes parents stressed, and they may shout at their children. Secondly, many people work late at night because their office is always next to them. Moreover, some parents are at home, but they are always busy with their laptops. Their children may feel ignored and lonely, even though their parents are in the next room.\n\nIn conclusion, working from home can give parents more time with their children, but it can also cause stress and confusion at home. I believe that it has a positive effect if parents have clear working hours and a separate place to work.",
+   "answer": "Since COVID-19, many people have worked from home instead of going to the office. People have different opinions on whether this change brings parents and children closer or pushes them apart. This essay will discuss both views, but I believe that it makes family bonds stronger.\n\nOn the one hand, some people believe that working from home harms the relationship between parents and children. This is because work and family life get mixed together in the same place. For example, a mother may answer work emails during dinner or ask her child to keep quiet because of an online meeting. As a result, children may feel that their parents are always busy, even when they are at home.\n\nOn the other hand, I agree with those who think that working from home makes family bonds stronger. Firstly, parents can spend more time with their children every day. They do not have to travel to work, so they save time and feel less tired. For instance, a father can take his son to school in the morning and have lunch with him at home. Secondly, parents can follow their children's daily lives more closely. This means that they notice problems early and can help in time. A good example is a mother who sees that her daughter looks sad after school and talks with her immediately. Therefore, children feel loved and supported.\n\nIn conclusion, although working from home can mix work and family life, I believe that it brings parents and children closer because they spend more time together. Parents can also notice their children's problems early. However, they should set clear working hours to protect family time.",
    "vocab": [
     {
      "term": "work from home",
@@ -93,16 +100,16 @@
      "meaning": "sự gắn kết gia đình"
     },
     {
-     "term": "blur the line between A and B",
-     "meaning": "xoá nhoà ranh giới giữa A và B"
+     "term": "get mixed together",
+     "meaning": "bị lẫn vào nhau"
     },
     {
-     "term": "interrupt someone",
-     "meaning": "làm gián đoạn, cắt ngang ai"
+     "term": "follow someone's daily life",
+     "meaning": "theo sát cuộc sống hằng ngày của ai"
     },
     {
-     "term": "feel ignored",
-     "meaning": "cảm thấy bị phớt lờ, bị bỏ rơi"
+     "term": "set clear working hours",
+     "meaning": "đặt giờ làm việc rõ ràng"
     }
    ]
   }
@@ -111,27 +118,27 @@
   "1": {
    "answers": [
     "My hometown is Ho Chi Minh City, and it is hot and sunny for most of the year. There are only two seasons, the dry season and the rainy season. In the rainy season, it often rains heavily in the afternoon.",
-    "My favourite season is the dry season, especially December and January. The weather is cooler, and there is very little rain. It is perfect for going out with friends.",
-    "Yes, it does. When it rains heavily, some streets in my city are flooded, so I sometimes get to work late. I also cannot go swimming on rainy weekends.",
-    "In my free time, I like reading books and going to coffee shops with my friends. At weekends, I usually go swimming. These activities help me relax after work.",
-    "My father taught me to swim when I was eight years old. He took me to a swimming pool near our home every Sunday. Since then, swimming has become my favourite sport.",
-    "Yes, I think hobbies are very important. They help us reduce stress and stay healthy. We can also make new friends who have the same interests."
+    "My favourite season is the dry season, especially December and January. This is because the weather is cooler and there is very little rain. It is perfect for going to coffee shops or walking in the park with my friends.",
+    "Yes, bad weather sometimes affects my daily activities. When it rains heavily, some streets in my city are flooded, so I sometimes get to work late. Also, I cannot go swimming on rainy weekends, so I stay at home and read.",
+    "In my free time, I like reading books and going to coffee shops with my friends. The main reason is that these activities help me relax after work. At weekends, I also go swimming at a pool near my house.",
+    "I discovered swimming when I was eight years old. My father wanted me to be strong and safe near water, so he taught me to swim. He took me to a swimming pool near our home every Sunday.",
+    "Yes, I think hobbies are very important for a person's life. This is because they help us reduce stress and stay healthy. For example, I always feel calmer after reading a good book or swimming at the weekend."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay câu hỏi: thời tiết, mùa yêu thích, sở thích",
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
      "reusable": "My favourite season is the dry season, especially December and January."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do ngắn",
-     "reusable": "They help us reduce stress and stay healthy."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do (This is because / The main reason is that)",
+     "reusable": "This is because they help us reduce stress and stay healthy."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 kỷ niệm hoặc tình huống cá nhân (quá khứ đơn)",
-     "reusable": "My father taught me to swim when I was eight years old."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn: thời gian, địa điểm",
+     "reusable": "He took me to a swimming pool near our home every Sunday."
     }
    ],
    "vocab": [
@@ -148,116 +155,116 @@
      "meaning": "bị ngập"
     },
     {
-     "term": "the same interests",
-     "meaning": "cùng sở thích"
+     "term": "discover a hobby",
+     "meaning": "tìm ra một sở thích"
+    },
+    {
+     "term": "feel calmer",
+     "meaning": "cảm thấy bình tĩnh hơn"
     }
    ]
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think holding a science quiz and game competition is the best choice. I choose it for two main reasons.\n\nThe first reason is that a competition is fun and exciting, so it can attract a lot of students. By that, I mean many students think science is difficult and boring, but almost everyone loves games. For example, students can play in teams and answer quick questions about the human body, space or technology.\n\nAnother reason is that students can learn science in an easy and active way. In other words, they learn new things while they are laughing and talking with friends, so they do not feel stressed. For instance, the club can give small prizes, like books or T-shirts, to the winning teams. After the event, many players may want to join the club to play again.\n\nThere are also some reasons why I do not choose the other two options. Regarding inviting a well-known scientist to give a guest talk, I do not think it is the best choice because it can be expensive and hard to arrange. Also, a long talk may be boring for first-year students. As for organizing a science book donation drive, I do not think it is the best option either because it does not show how fun science can be.\n\nTo sum up, out of these three options, I believe a science quiz and game competition is the best choice because it is fun, cheap and educational.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn tổ chức cuộc thi đố vui và trò chơi khoa học",
-     "reusable": "I think the Science Club should hold a science quiz and game competition."
+     "section": "Chọn",
+     "content": "Câu khung + cuộc thi đố vui và trò chơi khoa học",
+     "reusable": "In this situation, among the three options, I think holding a science quiz and game competition is the best choice. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) vui, thu hút nhiều sinh viên (2) học khoa học một cách thú vị, chơi theo đội (3) có quà, quen người mới → dễ tham gia CLB",
-     "reusable": "First, a competition is fun and exciting. … Second, students can learn science in an easy way."
+     "section": "Lý do 1",
+     "content": "Vui, hấp dẫn → By that, I mean … ai cũng thích trò chơi → For example: chơi theo đội, trả lời câu hỏi nhanh",
+     "reusable": "The first reason is that a competition is fun and exciting, so it can attract a lot of students. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn mời nhà khoa học",
-     "content": "Khó mời, tốn kém; nghe nói một chiều, dễ chán",
-     "reusable": "I don't choose to invite a well-known scientist to give a guest talk. Famous scientists are very busy, so it is difficult and expensive to invite them."
+     "section": "Lý do 2",
+     "content": "Học khoa học nhẹ nhàng → In other words … → For instance: quà nhỏ cho đội thắng → muốn vào câu lạc bộ",
+     "reusable": "Another reason is that students can learn science in an easy and active way. In other words, …"
     },
     {
-     "section": "Vì sao không chọn quyên góp sách",
-     "content": "Việc tốt nhưng không làm sinh viên hứng thú, không thu hút thành viên",
-     "reusable": "I also don't choose to organize a science book donation drive."
+     "section": "Loại 2 phương án",
+     "content": "Mời nhà khoa học: đắt, khó sắp xếp, nghe lâu chán; quyên góp sách: tốt nhưng không cho thấy khoa học vui",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding inviting a well-known scientist to give a guest talk, I do not think it is the best choice because … As for organizing a science book donation drive, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: vui, rẻ, thu hút",
-     "reusable": "In conclusion, … is the best choice because it is fun, cheap and attractive."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe a science quiz and game competition is the best choice because it is fun, cheap and educational."
     }
    ],
-   "answer": "I think the Science Club should hold a science quiz and game competition. Let me explain why.\n\nFirst, a competition is fun and exciting, so it can attract a lot of students. Many students think science is difficult and boring, but everyone loves games. Second, students can learn science in an easy way. They can play in teams and answer questions about the human body, space or technology. In this way, they learn new things without feeling stressed. In addition, the club can give small prizes to the winners. After the event, many students will want to join the club because they had a good time and made new friends.\n\nI don't choose to invite a well-known scientist to give a guest talk. Famous scientists are very busy, so it is difficult and expensive to invite them. Also, some students may feel bored if they only sit and listen for two hours. I also don't choose to organize a science book donation drive. It is a kind activity, but it does not make students more interested in science. It cannot attract many new members either.\n\nIn conclusion, a science quiz and game competition is the best choice because it is fun, cheap and attractive to students.",
    "vocab": [
     {
      "term": "attract students",
      "meaning": "thu hút sinh viên"
     },
     {
+     "term": "play in teams",
+     "meaning": "chơi theo đội"
+    },
+    {
+     "term": "winning team",
+     "meaning": "đội thắng"
+    },
+    {
      "term": "guest talk",
      "meaning": "buổi nói chuyện của khách mời"
     },
     {
-     "term": "book donation drive",
-     "meaning": "đợt quyên góp sách"
-    },
-    {
-     "term": "without feeling stressed",
-     "meaning": "mà không cảm thấy căng thẳng"
-    },
-    {
-     "term": "the winners",
-     "meaning": "những người / đội chiến thắng"
+     "term": "donation drive",
+     "meaning": "đợt quyên góp"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about why face-to-face communication is more beneficial than other types of communication. In my opinion, meeting people in person is still the best way to communicate.\n\nFirstly, face-to-face communication helps us convey emotions and body language clearly. We can see a person's smile, eyes and gestures, not only hear their words. For example, when I show a new AI tool to doctors, they can see that I am really excited about it.\n\nSecondly, it reduces misunderstandings compared to text-based communication. A short text message can sound cold or rude, even when the writer does not mean it. For instance, my colleague once replied to my long message with just one word, and I thought she was angry, but she was only busy.\n\nThirdly, talking in person builds stronger and more trusting relationships. People feel closer when they share a meal or a cup of coffee together. A good example is my team, which has lunch together every Friday, so we trust each other more.\n\nAnother important point is that face-to-face meetings help us solve problems faster. We can ask questions and get answers immediately. For example, a ten-minute meeting can solve a problem that takes a whole day of emails.\n\nTo sum up, face-to-face communication is more beneficial because it shows emotions, reduces misunderstandings, builds trust and saves time.",
    "own_idea": "Solving problems faster",
+   "follow_ups": [
+    "Yes, I think technology has weakened these skills, especially among young people. The main reason is that many of them prefer chatting on their phones to talking in person. For example, some students feel very nervous when they have to speak at a job interview. They are not used to making eye contact.",
+    "I think online communication is more suitable when people live far away from each other. The main reason is that it is fast and cheap. For example, I have online meetings with research partners in other countries every month. It is also useful for sending quick messages to colleagues.",
+    "People can improve these skills by practising them in real life. The main reason is that communication is a skill, so we get better with practice. For example, we can put our phones away, make eye contact and listen carefully to others. Joining clubs or giving presentations is also good practice."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + đồng ý, có 4 lý do",
-     "reusable": "Today I would like to explain why face-to-face communication is more beneficial than other types of communication."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about why face-to-face communication is more beneficial than other types of communication."
     },
     {
-     "section": "Ý 1: cảm xúc và ngôn ngữ cơ thể",
-     "content": "Thấy nụ cười, ánh mắt, giọng nói; ví dụ bác sĩ nói chuyện với bệnh nhân",
-     "reusable": "First, when we talk face to face, we can convey our emotions and body language clearly."
+     "section": "Ý 1: cảm xúc, ngôn ngữ cơ thể",
+     "content": "Ý → thấy nụ cười, ánh mắt → ví dụ giới thiệu công cụ AI cho bác sĩ",
+     "reusable": "Firstly, face-to-face communication helps us convey emotions and body language clearly."
     },
     {
-     "section": "Ý 2: giảm hiểu lầm",
-     "content": "Tin nhắn ngắn dễ bị hiểu sai; gặp mặt có thể hỏi lại ngay",
-     "reusable": "Second, face-to-face communication reduces misunderstandings compared to text-based communication."
+     "section": "Ý 2: ít hiểu lầm hơn tin nhắn",
+     "content": "Ý → tin nhắn ngắn nghe lạnh lùng → ví dụ đồng nghiệp trả lời một chữ",
+     "reusable": "Secondly, it reduces misunderstandings compared to text-based communication."
     },
     {
-     "section": "Ý 3: quan hệ bền chặt, tin tưởng",
-     "content": "Gặp nhau ở quán cà phê → hiểu nhau hơn, tin nhau hơn",
-     "reusable": "Third, meeting in person builds stronger and more trusting relationships."
+     "section": "Ý 3: quan hệ bền, tin tưởng",
+     "content": "Ý → ăn uống cùng nhau thấy gần gũi → ví dụ nhóm ăn trưa thứ Sáu",
+     "reusable": "Thirdly, talking in person builds stronger and more trusting relationships."
     },
     {
-     "section": "Ý riêng: giải quyết vấn đề nhanh hơn",
-     "content": "Họp nhóm trực tiếp 30 phút thay vì email cả ngày",
-     "reusable": "Finally, I think face-to-face communication helps us solve problems faster."
+     "section": "Ý riêng: giải quyết vấn đề nhanh",
+     "content": "Ý → hỏi đáp ngay → ví dụ họp 10 phút thay cả ngày email",
+     "reusable": "Another important point is that face-to-face meetings help us solve problems faster."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt + vẫn nên dùng công nghệ khi cần",
-     "reusable": "In conclusion, … However, online communication is still useful when we are far away."
+     "section": "Kết",
+     "content": "Tóm tắt 4 lợi ích",
+     "reusable": "To sum up, face-to-face communication is more beneficial because it shows emotions, reduces misunderstandings, builds trust and saves time."
     }
-   ],
-   "answer": "Today I would like to explain why face-to-face communication is more beneficial than other types of communication. I have four main reasons.\n\nFirst, when we talk face to face, we can convey our emotions and body language clearly. The other person can see our smile, our eyes and our gestures, and they can hear our tone of voice. For example, when a doctor talks to a worried patient in person, the patient can see that the doctor really cares.\n\nSecond, face-to-face communication reduces misunderstandings compared to text-based communication. A short text message can easily be misunderstood. When we meet, we can ask questions and explain our ideas immediately.\n\nThird, meeting in person builds stronger and more trusting relationships. When I have coffee with my friends, we talk and laugh together for hours. As a result, we understand each other better and trust each other more.\n\nFinally, I think face-to-face communication helps us solve problems faster. At work, my team sometimes sends emails all day about one small problem. But when we sit together for thirty minutes, we can usually find a solution.\n\nIn conclusion, face-to-face communication helps us show emotions, avoid misunderstandings, build trust and solve problems quickly. However, online communication is still useful when we are far away from each other.",
-   "follow_ups": [
-    "Yes, I think so. Many young people prefer chatting on their phones to talking in person. As a result, some of them feel nervous when they have to speak face to face.",
-    "Online communication is more suitable when people live far away from each other. It is also useful for quick messages or for online meetings with partners in other countries. During the pandemic, it was the safest way to communicate.",
-    "First, people should put their phones away and listen carefully to others. They should also make eye contact and smile when they speak. Joining clubs or giving presentations is good practice too."
    ],
    "vocab": [
     {
      "term": "face-to-face communication",
-     "meaning": "giao tiếp trực tiếp, mặt đối mặt"
+     "meaning": "giao tiếp trực tiếp"
     },
     {
      "term": "body language",
      "meaning": "ngôn ngữ cơ thể"
-    },
-    {
-     "term": "tone of voice",
-     "meaning": "giọng điệu"
     },
     {
      "term": "misunderstanding",
@@ -265,7 +272,11 @@
     },
     {
      "term": "make eye contact",
-     "meaning": "giao tiếp bằng mắt, nhìn vào mắt người đối diện"
+     "meaning": "giao tiếp bằng mắt"
+    },
+    {
+     "term": "in person",
+     "meaning": "gặp trực tiếp"
     }
    ]
   }

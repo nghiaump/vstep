@@ -6,6 +6,8 @@
 
 **Thời gian:** 20 phút · **Số từ tối thiểu:** 120
 
+*Khung: [Thư thân mật](KHUNG-MAU.md#w1_informal) · 150–180 từ · 20 phút*
+
 ### 1. Đề bài
 
 You should spend about 20 minutes on this task. You received an email from your friend Claire, who is planning a trip to Bali and would like some advice from you.
@@ -24,47 +26,49 @@ Read part of her email below.
 
 Hi Claire,
 
-Thanks for your email. I am so happy that you are going to Bali soon!
+Thank you for your email. I am so happy that you are going to Bali soon.
 
-I stayed at Green Garden Hotel in Ubud, and I really liked it. The price was about 40 dollars a night, and it included a delicious breakfast. The rooms were clean and quiet. The hotel also had good facilities, such as a swimming pool, free Wi-Fi and a free shuttle bus to the airport.
+Regarding the hotel, I stayed at Green Garden Hotel in Ubud, and I really liked it. The price was about 40 dollars a night, including a delicious breakfast. The rooms were clean and quiet. It also had good facilities, such as a swimming pool, free Wi-Fi and an airport shuttle bus.
 
-There are many places worth visiting in Bali. First, you should go to the Tegallalang Rice Terraces early in the morning. The view is amazing, and it is not crowded then. You should also visit the Monkey Forest, but be careful with your bag. Finally, don't miss Uluwatu Temple at sunset.
+As for places to visit, I suggest the Tegallalang Rice Terraces. You should go there early in the morning, when the view is beautiful and it is not crowded. You should also visit the Monkey Forest, but be careful with your bag. Finally, do not miss Uluwatu Temple at sunset.
 
-As for activities, I would recommend that you try a surfing lesson at Kuta Beach. The teachers are friendly, and the waves are good for beginners. You can also join a Balinese cooking class. In the evening, you should watch the Kecak fire dance at Uluwatu.
+About activities, I would recommend a surfing lesson at Kuta Beach. The teachers are friendly, and the waves are good for beginners. You can also join a Balinese cooking class to learn how to make local dishes.
 
-Have a wonderful trip, and don't forget to send me some photos!
+Have a wonderful trip, and send me some photos!
 
 Best wishes,  
 Minh
 
 ### 3. Số từ
 
-**183 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
+**168 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
 | Lời chào | Chào thân mật theo tên | *Hi Claire,* |
-| Mở đầu | Cảm ơn thư, vui vì bạn sắp đi Bali | *Thanks for your email. I am so happy that you are going to Bali soon!* |
-| Ý 1: giá cả và tiện nghi khách sạn | Khách sạn ở Ubud, khoảng 40 đô/đêm gồm bữa sáng; hồ bơi, Wi-Fi miễn phí, phòng sạch, xe đưa đón sân bay | *I stayed at Green Garden Hotel in Ubud, and I really liked it.* |
-| Ý 2: địa điểm nên đến | Ruộng bậc thang Tegallalang buổi sáng, rừng khỉ Ubud, đền Uluwatu lúc hoàng hôn | *There are many places worth visiting in Bali.* |
-| Ý 3: hoạt động nên thử | Học lướt sóng ở bãi Kuta, lớp nấu ăn Bali, xem múa lửa Kecak buổi tối | *I would recommend that you try a surfing lesson at Kuta Beach.* |
-| Kết thư + ký tên | Chúc chuyến đi vui, nhờ gửi ảnh | *Have a wonderful trip, and don't forget to send me some photos!* |
+| Mở đầu | Cảm ơn thư, vui vì bạn sắp đi Bali | *Thank you for your email. I am so happy that you are going to Bali soon.* |
+| Ý 1: giá và tiện nghi khách sạn | Green Garden Hotel ở Ubud → 40 đô/đêm có bữa sáng → phòng sạch, yên tĩnh → hồ bơi, Wi-Fi, xe đưa đón sân bay | *Regarding the hotel, I stayed at Green Garden Hotel in Ubud, and I really liked it.* |
+| Ý 2: nơi nên đến | Ruộng bậc thang Tegallalang lúc sáng sớm → Rừng Khỉ (giữ túi) → đền Uluwatu lúc hoàng hôn | *As for places to visit, I suggest the Tegallalang Rice Terraces.* |
+| Ý 3: hoạt động nên thử | Học lướt sóng ở bãi Kuta → thầy thân thiện, sóng hợp người mới → lớp nấu ăn Bali | *About activities, I would recommend a surfing lesson at Kuta Beach.* |
+| Kết thư + ký tên | Chúc chuyến đi vui, xin ảnh, chào cuối thư | *Have a wonderful trip, and send me some photos! Best wishes,* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **facilities** | tiện nghi, cơ sở vật chất |
-| **shuttle bus** | xe đưa đón |
-| **worth visiting** | đáng để tham quan |
+| **facilities** | cơ sở vật chất, tiện nghi |
+| **an airport shuttle bus** | xe buýt đưa đón sân bay |
 | **rice terraces** | ruộng bậc thang |
-| **good for beginners** | phù hợp cho người mới bắt đầu |
+| **at sunset** | lúc hoàng hôn |
+| **beginners** | người mới bắt đầu |
 
 ## WRITING — PART 2 · Essay
 
 **Thời gian:** 40 phút · **Số từ tối thiểu:** 250
+
+*Khung: [Advantages & disadvantages: lợi ích và bất lợi](KHUNG-MAU.md#w2_adv_disadv) · 270–300 từ · 4 đoạn · 40 phút*
 
 ### 1. Đề bài
 
@@ -82,40 +86,43 @@ You should spend about 40 minutes on this task.
 
 **Dạng đề:** Advantages & disadvantages (thảo luận ưu điểm và nhược điểm)
 
-Nowadays, advertising is everywhere in our lives. We can see advertisements on television, on social media, on websites and even on the streets. Advertising gives people useful information, but it also has some bad effects on consumers and society. This essay will discuss both the advantages and disadvantages of advertising.
+Nowadays, adverts are everywhere, from TV screens and social media to buses and city streets. Advertising is useful for businesses and customers, but it can also cause problems. This essay will discuss both its advantages and disadvantages.
 
-On the one hand, advertising brings several benefits. Firstly, it gives consumers useful information about new products, prices and special offers. For example, when a supermarket advertises a sale, customers can save money. Secondly, advertising helps businesses grow. When a company advertises well, it sells more products and can create more jobs. This supports the growth of the economy. In addition, advertising pays for a lot of free services. We can watch videos on YouTube or read online newspapers for free because companies pay for the ads.
+On the one hand, advertising has one main drawback. The biggest problem is that it often persuades people to buy things they do not need. Adverts usually show products as perfect, and they make people believe they will be happier if they buy them. Some adverts also use famous singers or footballers to attract young people. For example, many children ask their parents for sweet snacks or new toys after watching adverts on YouTube. As a result, families may waste money, and children may develop unhealthy eating habits.
 
-On the other hand, advertising also has some negative effects. Firstly, it often persuades people to buy things that they do not really need. As a result, some people spend too much money and get into debt. Secondly, some advertisements give false information. For instance, many ads on Facebook say that a health product can cure serious diseases, and some people believe them. Moreover, advertising can have a bad influence on children. Many ads for fast food and soft drinks target young children, and this can lead to unhealthy eating habits.
+On the other hand, advertising brings two important benefits. Firstly, it gives customers useful information about products and services. People can learn about prices, new products and special offers quickly, so they can make better choices. For instance, an advert for a new health app can show people how to book a doctor's appointment online. As a result, people can save a lot of time. Secondly, advertising supports economic growth. When companies advertise, they sell more products, so they can hire more workers. This is especially important for small and new businesses. A good example is a small coffee shop that becomes famous after a few adverts on Facebook. Thanks to this, it can open more branches and create new jobs for local people.
 
-In conclusion, advertising has both advantages and disadvantages. It provides information, supports businesses and pays for free media, but it can also lead to overspending, false information and bad habits in children. Therefore, consumers should think carefully before they buy, and the government should control advertising more strictly.
+In conclusion, advertising has both advantages and disadvantages. It may encourage people to buy things they do not need, but it also gives useful information and helps the economy grow.
 
 ### 3. Số từ
 
-**276 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
+**279 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở bài | Viết lại đề: quảng cáo có mặt khắp nơi (TV, mạng xã hội, đường phố) → bài bàn cả lợi và hại | *This essay will discuss both the advantages and disadvantages of advertising.* |
-| Thân bài 1: ưu điểm | (1) cung cấp thông tin sản phẩm, giá, khuyến mãi (2) giúp doanh nghiệp phát triển, tạo việc làm (3) tài trợ cho nội dung miễn phí: YouTube, báo mạng | *On the one hand, advertising brings several benefits. Firstly, it gives consumers useful information.* |
-| Thân bài 2: nhược điểm | (1) khiến người ta mua đồ không cần thiết (2) quảng cáo sai sự thật, nhất là thực phẩm chức năng (3) ảnh hưởng xấu đến trẻ em: đồ ăn nhanh, nước ngọt | *On the other hand, advertising also has some negative effects.* |
-| Kết bài | Tóm tắt hai mặt + người tiêu dùng cần tỉnh táo, nhà nước kiểm soát | *In conclusion, advertising has both advantages and disadvantages. …* |
+| Mở bài | Viết lại đề (quảng cáo ở khắp nơi; có ích nhưng gây vấn đề) + câu dẫn | *This essay will discuss both its advantages and disadvantages.* |
+| Thân bài 1 · PEER: nhược điểm | P: thuyết phục mua thứ không cần → E: sản phẩm luôn hoàn hảo → Ex: trẻ đòi bánh kẹo, đồ chơi sau khi xem quảng cáo YouTube → R: phí tiền, thói quen ăn uống kém | *On the one hand, advertising has one main drawback. The biggest problem is that it often persuades people to buy things they do not need.* |
+| Thân bài 2 · PEER 1: ưu điểm | P: cung cấp thông tin → E: giá, sản phẩm mới, khuyến mãi → Ex: quảng cáo app y tế chỉ cách đặt lịch khám | *On the other hand, advertising brings two important benefits. Firstly, it gives customers useful information about products and services.* |
+| Thân bài 2 · PEER 2: ưu điểm | P: thúc đẩy kinh tế → E: bán nhiều hơn, thuê thêm người → Ex: quán cà phê nổi tiếng nhờ quảng cáo Facebook → R: mở chi nhánh, tạo việc làm | *Secondly, advertising supports economic growth.* |
+| Kết bài | Tóm tắt hai phía (đề không hỏi ý kiến nên không nói phía nào nặng hơn) | *In conclusion, advertising has both advantages and disadvantages.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **consumer** | người tiêu dùng |
-| **special offer** | ưu đãi đặc biệt, khuyến mãi |
 | **persuade someone to do something** | thuyết phục ai làm gì |
-| **get into debt** | mắc nợ |
-| **have a bad influence on** | có ảnh hưởng xấu đến |
+| **special offers** | chương trình khuyến mãi |
+| **make better choices** | lựa chọn tốt hơn |
+| **economic growth** | tăng trưởng kinh tế |
+| **open more branches** | mở thêm chi nhánh |
 
 ## SPEAKING — PART 1 · Social Interaction
 
 **Thời gian:** 3 phút
+
+*Khung: [Speaking Part 1: Social Interaction](KHUNG-MAU.md#s1) · Mỗi câu hỏi 3 câu, khoảng 30–40 từ*
 
 ### 1. Đề bài
 
@@ -138,47 +145,50 @@ In conclusion, advertising has both advantages and disadvantages. It provides in
 ### 2. Bài mẫu
 
 **1. Do you often visit farms?**  
-No, I don't visit farms very often because I live in a big city. However, last year I visited a strawberry farm in Da Lat with my friends. We picked fresh strawberries, and it was a lot of fun.
+No, I do not visit farms very often because I live in a big city. However, last year I visited a strawberry farm in Da Lat with my friends. We picked fresh strawberries, and it was a lot of fun.
 
 **2. What can usually be found on a farm?**  
-On a farm, you can usually see animals such as cows, pigs and chickens. There are also fields of rice, vegetables and fruit trees. Some big farms also have tractors and other machines.
+On a farm, you can usually see animals such as cows, pigs and chickens. There are also fields of rice, vegetables and fruit trees. Some big farms also have tractors and other machines to help the farmers.
 
 **3. Do you think farms play an important role in your country?**  
-Yes, I think farms play a very important role in Vietnam. They produce food for the whole country, and Vietnam also exports a lot of rice and coffee. Moreover, farms give jobs to millions of people.
+Yes, I think farms play a very important role in Vietnam. This is because they produce food for the whole country, and Vietnam also exports a lot of rice and coffee. Farms also give jobs to many people in the countryside.
 
 **4. Do you often carry a bag with you when you go out?**  
-Yes, I always carry a bag when I go out. I usually use a backpack because it is comfortable. It can hold all the things I need for the day.
+Yes, I always carry a bag when I go out. I usually use a backpack because it is comfortable. It can hold all the things I need for the day, such as my laptop and a book.
 
 **5. What do you usually carry in your bag?**  
-I usually carry my laptop, my wallet and a bottle of water. I also bring a book to read at coffee shops. In the rainy season, I always keep a raincoat in my bag.
+I usually carry my laptop, my wallet and a bottle of water. This is because I often work at coffee shops after office hours. In the rainy season, I also keep a raincoat in my bag.
 
 **6. Do you prefer using canvas bags or plastic bags? Why?**  
-I prefer using canvas bags. They are strong, and I can use them many times. Plastic bags are bad for the environment because they take hundreds of years to break down.
+I prefer using canvas bags. The main reason is that they are strong, and I can use them many times. Plastic bags are bad for the environment because they take hundreds of years to break down.
 
 ### 3. Số từ
 
-**203 từ** · khoảng 1 phút 42 giây nói (tốc độ 120 từ/phút).
+**227 từ** · khoảng 1 phút 54 giây nói (tốc độ 120 từ/phút).
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Câu trả lời trực tiếp | Trả lời ngay Yes/No hoặc liệt kê | *Yes, I always carry a bag when I go out.* |
-| Lý do | Thêm 1 lý do bằng because | *I usually use a backpack because it is comfortable.* |
-| Ví dụ / chi tiết | Thêm 1 trải nghiệm hoặc thông tin về Việt Nam | *However, last year I visited a strawberry farm in Da Lat with my friends.* |
+| Câu 1: trả lời thẳng | Trả lời ngay Yes/No hoặc lựa chọn | *Yes, I always carry a bag when I go out.* |
+| Câu 2: lý do | Thêm 1 lý do | *This is because I often work at coffee shops after office hours.* |
+| Câu 3: chi tiết | Ví dụ cá nhân ngắn | *However, last year I visited a strawberry farm in Da Lat with my friends.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
+| **a strawberry farm** | trang trại dâu tây |
 | **export** | xuất khẩu |
-| **canvas bag** | túi vải canvas |
-| **raincoat** | áo mưa |
+| **the countryside** | vùng nông thôn |
+| **canvas bags** | túi vải |
 | **break down** | phân huỷ |
 
 ## SPEAKING — PART 2 · Solution Discussion
 
 **Thời gian:** 4 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 2: Solution Discussion](KHUNG-MAU.md#s2) · 220–260 từ*
 
 ### 1. Đề bài
 
@@ -196,40 +206,45 @@ I prefer using canvas bags. They are strong, and I can use them many times. Plas
 
 **Lựa chọn:** Option 3: Some healthy snacks
 
-I think the best gift for my sick friend is some healthy snacks. Let me explain why.
+In this situation, among the three options, I think buying some healthy snacks is the best choice for my sick friend. I choose it for two main reasons.
 
-First, healthy snacks can help her get better faster. I will buy some fresh fruit like oranges and kiwis because they have a lot of vitamin C. I will also bring some yogurt and nuts. These foods give her energy and make her body stronger. Second, when people are sick, they often feel too tired to cook or go out. Healthy snacks are ready to eat, so she can have them at any time. In addition, everybody needs to eat, so this gift is always useful.
+The first reason is that healthy snacks can help my friend recover faster. By that, I mean a sick person needs vitamins and energy to fight the illness. For example, I can buy fresh fruit such as oranges and bananas, some yogurt and a small box of nuts. A nice basket of fruit can also cheer him up.
 
-I don't choose a pot of flowers. Flowers are beautiful, but some people are allergic to pollen. Also, my friend has to water the plant and take care of it while she is sick. I also don't choose the colored pencils and drawing book. When people are sick, they usually want to rest, not draw. Moreover, my friend is not very interested in drawing, so she may never use them.
+Another reason is that snacks are useful and easy to share. In other words, my friend can eat them whenever he feels hungry, or share them with his family. For instance, if he is too tired to cook, he can have a banana and some yogurt instead. This is much better than eating instant noodles.
 
-In conclusion, healthy snacks are the best choice because they are useful and they help my friend recover quickly. They will also cheer her up and show that I care about her health.
+There are also some reasons why I do not choose the other two options. Regarding a pot of flowers, I do not think it is the best choice because some people are allergic to pollen. Flowers also need care, and my friend is too weak to water them. As for coloured pencils and a drawing book, I do not think it is the best option either because my friend may feel too tired to draw.
+
+To sum up, out of these three options, I believe buying some healthy snacks is the best choice because it is useful, healthy and thoughtful.
 
 ### 3. Số từ
 
-**206 từ** · khoảng 1 phút 43 giây nói.
+**241 từ** · khoảng 2 phút 00 giây nói.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Nêu lựa chọn | Chọn đồ ăn vặt tốt cho sức khoẻ | *I think the best gift for my sick friend is some healthy snacks.* |
-| Lý do chọn | (1) giúp nhanh khoẻ: trái cây nhiều vitamin, sữa chua, hạt (2) người ốm lười nấu ăn, dễ ăn (3) ai cũng dùng được | *First, healthy snacks can help her get better faster.* |
-| Vì sao không chọn chậu hoa | Có người dị ứng phấn hoa; phải tưới nước, chăm sóc khi đang mệt | *I don't choose a pot of flowers. Flowers are beautiful, but some people are allergic to pollen.* |
-| Vì sao không chọn bút màu và sổ vẽ | Khi ốm thấy mệt, không muốn vẽ; bạn không thích vẽ | *I also don't choose the colored pencils and drawing book.* |
-| Kết luận | Nhắc lại lựa chọn: thiết thực, giúp hồi phục | *In conclusion, healthy snacks are the best choice because they are useful and they help my friend recover quickly.* |
+| Chọn | Câu khung + lựa chọn: đồ ăn vặt lành mạnh | *In this situation, among the three options, I think buying some healthy snacks is the best choice for my sick friend. I choose it for two main reasons.* |
+| Lý do 1 | Giúp mau khỏi → By that, I mean … → For example: cam, chuối, sữa chua, hạt | *The first reason is that healthy snacks can help my friend recover faster. By that, I mean …* |
+| Lý do 2 | Hữu ích, dễ chia sẻ → In other words … → For instance: mệt không nấu được thì ăn chuối, sữa chua | *Another reason is that snacks are useful and easy to share. In other words, …* |
+| Loại 2 phương án | Chậu hoa: dị ứng phấn hoa, phải chăm; bút chì màu: quá mệt để vẽ | *There are also some reasons why I do not choose the other two options. Regarding a pot of flowers, I do not think it is the best choice because … As for coloured pencils and a drawing book, I do not think it is the best option either because …* |
+| Kết | Câu khung + 3 tính từ | *To sum up, out of these three options, I believe buying some healthy snacks is the best choice because it is useful, healthy and thoughtful.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
 | **cheer someone up** | làm ai vui lên |
-| **get better / recover** | khỏi bệnh, hồi phục |
+| **recover** | hồi phục |
+| **fight the illness** | chống lại bệnh |
 | **be allergic to pollen** | dị ứng phấn hoa |
-| **ready to eat** | ăn liền, ăn được ngay |
+| **thoughtful** | chu đáo |
 
 ## SPEAKING — PART 3 · Topic Development
 
 **Thời gian:** 5 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 3: Topic Development](KHUNG-MAU.md#s3) · Bài nói chính 200–260 từ · mỗi câu follow-up 3–4 câu (35–55 từ)*
 
 ### 1. Đề bài
 
@@ -254,50 +269,50 @@ In conclusion, healthy snacks are the best choice because they are useful and th
 
 **Ý riêng (your own idea):** Helping team members develop their skills
 
-Today I would like to talk about the importance of leadership. In my opinion, a good leader is important for four main reasons.
+Today I would like to talk about the importance of leadership. In my opinion, a good leader can make a big difference to any team.
 
-First, a good leader guides and motivates team members towards common goals. The leader explains the goal clearly, so everyone knows what to do. He or she also praises team members when they do a good job. For example, my supervisor at the university always encourages us, so we work harder.
+Firstly, a leader guides and motivates team members towards common goals. Without a leader, people may work in different directions. For example, my research team has a clear plan every month because our team leader explains our goals in meetings.
 
-Second, leaders need to make effective decisions in difficult situations. When there is a problem, the team often feels worried. A good leader stays calm, listens to everyone and then makes a quick decision. During the COVID-19 pandemic, hospital leaders had to make many hard decisions every day to protect patients.
+Secondly, a leader makes effective decisions in difficult situations. When there is a problem, the team needs someone to decide quickly and calmly. For instance, during the COVID-19 pandemic, many hospital directors had to change their plans almost every day.
 
-Third, a leader builds trust and maintains team cohesion. If the leader is honest and fair, team members will trust him or her. As a result, they work well together and help each other.
+Thirdly, a good leader builds trust and keeps the team united. When members trust their leader, they share ideas and help each other more. A good example is my former manager, who always listened to everyone and kept her promises.
 
-Finally, I think a good leader helps team members develop their skills. The leader gives them new tasks, gives useful feedback and shares his or her experience. Because of this, team members grow and become better at their jobs.
+Another important point is that a leader helps team members develop their skills. Good leaders give useful feedback and new challenges. For example, my professor often lets young researchers present at conferences to gain experience.
 
-In conclusion, leadership is very important for any team. A good leader sets goals, makes good decisions, builds trust and helps people grow.
+To sum up, leadership is important because good leaders guide and motivate the team, make wise decisions and build trust. They also help members develop their skills.
 
 **Trả lời câu hỏi follow-up**
 
 **1. Do you think leadership skills can be learned, or are they innate?**  
-I think leadership skills can be learned. Some people are born confident, but everyone can learn to plan, listen and make decisions. For example, students can practise leadership in clubs and group projects.
+I think leadership skills can be learned. The main reason is that skills such as communication and decision-making improve with practice. For example, many people become good leaders after taking training courses and getting experience at work. However, some people are naturally more confident than others.
 
 **2. What qualities make a good leader?**  
-A good leader should be responsible, honest and fair. He or she should also be a good listener. Most importantly, a good leader always sets a good example for the team.
+In my opinion, a good leader should be honest, fair and a good listener. This is because team members only follow a leader they trust. For example, a leader who listens to everyone's ideas makes people feel respected. A good leader should also stay calm under pressure.
 
 **3. Can you think of a leader you admire and explain why?**  
-I admire my supervisor, Professor Lan. She leads our AI research team at the university, and she is very kind and smart. She always listens to our ideas and helps us when we have problems.
+Yes, I admire my former professor at medical school. She was strict, but she was always fair and kind to her students. For example, she spent extra time helping weak students before exams. Thanks to her, I learnt that a good leader cares about people, not only results.
 
 ### 3. Số từ
 
-**Bài nói chính: 221 từ** (khoảng 1 phút 50 giây) · follow-up: 99 từ.
+**Bài nói chính: 207 từ** (khoảng 1 phút 44 giây) · follow-up: 141 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở đầu | Giới thiệu chủ đề + có 4 lý do | *Today I would like to talk about the importance of leadership.* |
-| Ý 1: dẫn dắt, tạo động lực hướng tới mục tiêu chung | Đặt mục tiêu rõ ràng, khen ngợi, động viên; ví dụ giáo sư hướng dẫn | *First, a good leader guides and motivates team members towards common goals.* |
-| Ý 2: quyết định hiệu quả trong tình huống khó | Bình tĩnh, nghe ý kiến rồi quyết định nhanh; ví dụ bệnh viện mùa dịch | *Second, leaders need to make effective decisions in difficult situations.* |
-| Ý 3: xây dựng niềm tin, gắn kết | Trung thực, công bằng, giữ lời hứa → nhóm đoàn kết | *Third, a leader builds trust and maintains team cohesion.* |
-| Ý riêng: giúp thành viên phát triển kỹ năng | Giao việc mới, góp ý, chia sẻ kinh nghiệm | *Finally, I think a good leader helps team members develop their skills.* |
-| Kết luận | Tóm tắt + nhóm nào cũng cần lãnh đạo giỏi | *In conclusion, leadership is very important for any team.* |
+| Mở | Giới thiệu chủ đề + ý chính | *Today I would like to talk about the importance of leadership. In my opinion, a good leader can make a big difference to any team.* |
+| Ý 1: định hướng, tạo động lực | Ý → không có lãnh đạo thì mỗi người một hướng → ví dụ trưởng nhóm nghiên cứu giải thích mục tiêu mỗi tháng | *Firstly, a leader guides and motivates team members towards common goals.* |
+| Ý 2: quyết định trong tình huống khó | Ý → cần người quyết nhanh, bình tĩnh → ví dụ giám đốc bệnh viện mùa COVID-19 | *Secondly, a leader makes effective decisions in difficult situations.* |
+| Ý 3: xây dựng lòng tin, gắn kết | Ý → tin nhau thì chia sẻ, giúp nhau → ví dụ sếp cũ lắng nghe, giữ lời hứa | *Thirdly, a good leader builds trust and keeps the team united.* |
+| Ý riêng: giúp thành viên phát triển kỹ năng | Ý → góp ý, giao thử thách → ví dụ giáo sư cho nghiên cứu viên trẻ trình bày ở hội nghị | *Another important point is that a leader helps team members develop their skills.* |
+| Kết | Tóm tắt các ý | *To sum up, leadership is important because good leaders guide and motivate the team, make wise decisions and build trust.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **motivate someone** | tạo động lực cho ai |
-| **common goal** | mục tiêu chung |
+| **common goals** | mục tiêu chung |
 | **make effective decisions** | đưa ra quyết định hiệu quả |
-| **team cohesion** | sự gắn kết của nhóm |
-| **give feedback** | góp ý, nhận xét |
+| **build trust** | xây dựng lòng tin |
+| **keep promises** | giữ lời hứa |
+| **stay calm under pressure** | bình tĩnh trước áp lực |

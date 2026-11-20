@@ -2,6 +2,7 @@
  "id": "vlu-126",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -10,79 +11,85 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, vui vì bạn sang; đồng ý cho bạn đến sớm từ tuần sau",
-     "reusable": "Of course I don't mind. You can come next week. I can't wait to see you too."
+     "content": "Cảm ơn thư + đồng ý cho bạn đến sớm hơn",
+     "reusable": "Thank you for your email. Of course I do not mind if you come earlier than planned."
     },
     {
-     "section": "Ý 1: địa điểm và hoạt động",
-     "content": "TP.HCM (ăn vặt, chợ Bến Thành), Hội An (phố cổ, đi thuyền), Vịnh Hạ Long (chèo kayak)",
-     "reusable": "Firstly, you should visit Ho Chi Minh City, Hoi An and Ha Long Bay."
+     "section": "Ý 1: nơi đến, hoạt động",
+     "content": "TP.HCM, Hội An, vịnh Hạ Long → mỗi nơi một hoạt động (ăn đồ đường phố, dạo phố cổ đêm, chèo thuyền kayak)",
+     "reusable": "Regarding places and activities, I think you should visit Ho Chi Minh City, Hoi An and Ha Long Bay."
     },
     {
-     "section": "Ý 2: quần áo và đồ dùng mùa hè",
-     "content": "Tháng 8 nóng, hay mưa → đồ mỏng, áo mưa, kính râm, kem chống nắng, mũ, giày thoải mái",
-     "reusable": "You should bring light clothes, such as T-shirts and shorts."
+     "section": "Ý 2: quần áo, đồ mang theo",
+     "content": "Đồ mỏng nhẹ → lý do (nóng, mưa chiều) → áo mưa, kính râm, kem chống nắng, giày thoải mái",
+     "reusable": "As for clothes and items, you should bring light clothes such as T-shirts and shorts."
     },
     {
-     "section": "Ý 3: phương tiện đi lại",
-     "content": "Giữa các thành phố: máy bay (nhanh, rẻ); trong thành phố: Grab",
-     "reusable": "Finally, the best means of transport between cities is the plane because it is fast and cheap."
+     "section": "Ý 3: phương tiện",
+     "content": "Máy bay giữa các thành phố (nhanh, rẻ) → Grab trong thành phố → an toàn, dễ dùng",
+     "reusable": "About your question on transport, the best way to travel between cities is by plane because it is fast and cheap."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Hẹn báo ngày đến, chào cuối thư",
-     "reusable": "Let me know your travel dates soon. I will meet you at the airport."
+     "content": "Câu kết, hỏi giờ bay, chào cuối thư",
+     "reusable": "That's all for now. Write back soon and tell me your flight time! … Best wishes,"
     }
    ],
-   "answer": "Hi Chris,\n\nThank you for your email. I am so happy you are coming to Vietnam! Of course I don't mind. You can come next week. I can't wait to see you too.\n\nFirstly, you should visit Ho Chi Minh City, Hoi An and Ha Long Bay. In Ho Chi Minh City, you can try street food and visit Ben Thanh Market. In Hoi An, you can walk around the old town at night and take a boat trip. In Ha Long Bay, you can go kayaking and see beautiful islands.\n\nSecondly, August is very hot in Vietnam, and it often rains. You should bring light clothes, such as T-shirts and shorts. Don't forget a raincoat, sunglasses, sunscreen and a hat. You should also bring comfortable shoes because you will walk a lot.\n\nFinally, the best means of transport between cities is the plane because it is fast and cheap. In the city, you can use Grab. It is an app for taxis and motorbike taxis, and it is easy to use.\n\nLet me know your travel dates soon. I will meet you at the airport.\n\nBest wishes,\nMinh",
+   "answer": "Hi Chris,\n\nThank you for your email. Of course I do not mind if you come earlier than planned.\n\nRegarding places and activities, I think you should visit Ho Chi Minh City, Hoi An and Ha Long Bay. In Ho Chi Minh City, you can try street food at Ben Thanh Market. In Hoi An, you can walk around the old town at night. In Ha Long Bay, you can go kayaking between beautiful islands.\n\nAs for clothes and items, you should bring light clothes such as T-shirts and shorts. This is because it is very hot in summer, and it often rains in the afternoon. Do not forget a raincoat, sunglasses, sunscreen and comfortable shoes.\n\nAbout your question on transport, the best way to travel between cities is by plane because it is fast and cheap. In the cities, you can use Grab, an app for taxis and motorbike taxis. It is safe and very easy to use.\n\nThat's all for now. Write back soon and tell me your flight time!\n\nBest wishes,\nMinh",
    "vocab": [
     {
-     "term": "street food",
-     "meaning": "đồ ăn đường phố"
-    },
-    {
-     "term": "take a boat trip",
-     "meaning": "đi một chuyến thuyền"
+     "term": "go kayaking",
+     "meaning": "chèo thuyền kayak"
     },
     {
      "term": "light clothes",
-     "meaning": "quần áo mỏng, nhẹ"
+     "meaning": "quần áo mỏng nhẹ"
     },
     {
      "term": "sunscreen",
      "meaning": "kem chống nắng"
     },
     {
-     "term": "means of transport",
-     "meaning": "phương tiện đi lại"
+     "term": "motorbike taxi",
+     "meaning": "xe ôm"
+    },
+    {
+     "term": "flight time",
+     "meaning": "giờ bay"
     }
    ]
   },
   "2": {
-   "essay_type": "Advantages & disadvantages (thảo luận lợi ích và nguy cơ của thanh toán không tiền mặt)",
+   "essay_type": "Advantages & disadvantages – benefits and dangers (lợi ích và nguy cơ)",
+   "type_key": "adv_disadv",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: Internet, điện thoại phổ biến → nhiều người trả tiền bằng app, ví điện tử, mã QR → bài bàn cả lợi ích và nguy cơ",
-     "reusable": "This trend brings many benefits, but it also has some potential dangers. This essay will discuss both sides."
+     "content": "Viết lại đề (điện thoại, Internet phổ biến → trả bằng QR, ví điện tử, app ngân hàng) + câu dẫn",
+     "reusable": "This essay will discuss both its advantages and disadvantages."
     },
     {
-     "section": "Thân bài 1: lợi ích",
-     "content": "(1) nhanh, tiện (quét QR vài giây) (2) không phải mang nhiều tiền mặt → ít bị mất, bị cướp (3) quản lý chi tiêu tốt hơn nhờ app ghi lại",
-     "reusable": "On the one hand, cashless payment has several benefits. Firstly, it is fast and convenient."
+     "section": "Thân bài 1 · PEER nguy cơ",
+     "content": "P: dễ bị lừa đảo online → E: tin nhắn, đường link giả lấy mật khẩu → Ex: cụ ông nhập mã OTP vào tin nhắn giả ngân hàng → R: mất tiền trong vài phút",
+     "reusable": "On the one hand, cashless payment has one main drawback. The biggest problem is that it can make people easy targets for online fraud."
     },
     {
-     "section": "Thân bài 2: nguy cơ",
-     "content": "(1) lừa đảo trực tuyến, tin nhắn giả (2) người lớn tuổi khó dùng (3) phụ thuộc công nghệ: hết pin, mất mạng là không trả được",
-     "reusable": "On the other hand, cashless payment also has some dangers. Firstly, online fraud is a serious problem."
+     "section": "Thân bài 2 · PEER lợi ích 1",
+     "content": "P: nhanh, tiện → E: chỉ cần điện thoại, không mang ví dày → Ex: quét QR trả cà phê, Grab, vé gửi xe",
+     "reusable": "On the other hand, cashless payment brings two important benefits. Firstly, it is very fast and convenient."
+    },
+    {
+     "section": "Thân bài 2 · PEER lợi ích 2",
+     "content": "P: quản lý tiền tốt hơn → E: app ghi lại mọi giao dịch → Ex: sinh viên thấy tiêu nhiều cho trà sữa → R: lên kế hoạch chi tiêu, tiết kiệm",
+     "reusable": "Secondly, cashless payment helps people manage their money better."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt hai mặt + ý kiến: lợi nhiều hơn hại; người dùng bảo vệ thông tin, ngân hàng làm app an toàn hơn",
-     "reusable": "In my opinion, the benefits are greater than the dangers."
+     "content": "Tóm tắt hai phía (đề không hỏi ý kiến)",
+     "reusable": "In conclusion, cashless payment has both advantages and disadvantages."
     }
    ],
-   "answer": "Nowadays, the Internet and smartphones are very popular around the world. As a result, many people now pay with mobile banking apps, e-wallets and QR codes instead of cash. This trend brings many benefits, but it also has some potential dangers. This essay will discuss both sides.\n\nOn the one hand, cashless payment has several benefits. Firstly, it is fast and convenient. For example, people can pay for a coffee or a taxi by scanning a QR code in a few seconds. Secondly, people do not need to carry a lot of cash, so they are less likely to lose money or be robbed in the street. In addition, cashless payment helps people manage their money better. Most banking apps record every payment, so users can see how much they spend each month.\n\nOn the other hand, cashless payment also has some dangers. Firstly, online fraud is a serious problem. Criminals can send fake messages or links to steal passwords and money from bank accounts. Secondly, some people, especially elderly people, find these apps difficult to use. As a result, they may make mistakes or feel left behind. Moreover, cashless payment depends on technology. If the phone battery dies or the Internet connection is weak, people cannot pay for anything.\n\nIn conclusion, cashless payment makes our lives faster and easier, but it can also bring risks such as fraud and technical problems. In my opinion, the benefits are greater than the dangers. However, users should protect their personal information carefully, and banks should make their apps safer and easier to use.",
+   "answer": "Nowadays, smartphones and the Internet are everywhere, so many people pay by QR code, e-wallet or banking app rather than with notes and coins. This change makes daily life easier, but it also worries some people. This essay will discuss both its advantages and disadvantages.\n\nOn the one hand, cashless payment has one main drawback. The biggest problem is that it can make people easy targets for online fraud. This is because criminals send fake messages and links to steal passwords and money from bank accounts. For example, an elderly man may receive a message that looks like it comes from his bank and type in his OTP code. As a result, he can lose a lot of money in a few minutes and may never get it back.\n\nOn the other hand, cashless payment brings two important benefits. Firstly, it is very fast and convenient. People only need their phones to pay for almost anything, so they do not have to carry a thick wallet. For instance, I can pay for a coffee, a Grab ride or a parking ticket by scanning a QR code in just a few seconds. Secondly, cashless payment helps people manage their money better. The reason is that banking apps record every payment automatically. A good example is a student who checks her app each month and sees that she spends too much on milk tea. Thanks to this, users can plan their spending and save more money.\n\nIn conclusion, cashless payment has both advantages and disadvantages. It is fast and helps people manage their money, but users must be careful because of online fraud.",
    "vocab": [
     {
      "term": "cashless payment",
@@ -97,12 +104,12 @@
      "meaning": "lừa đảo trực tuyến"
     },
     {
-     "term": "be robbed",
-     "meaning": "bị cướp"
+     "term": "manage their money",
+     "meaning": "quản lý tiền bạc"
     },
     {
-     "term": "feel left behind",
-     "meaning": "cảm thấy bị bỏ lại phía sau"
+     "term": "plan their spending",
+     "meaning": "lên kế hoạch chi tiêu"
     }
    ]
   }
@@ -110,28 +117,28 @@
  "speaking": {
   "1": {
    "answers": [
-    "I read books almost every day. I usually read for about thirty minutes before I go to bed. It helps me relax after work.",
-    "I like books about science and health because they are useful for my job. I also enjoy detective novels. They are exciting and easy to read.",
-    "I usually read at home in the evening. At weekends, I sometimes read in a quiet coffee shop near my house.",
-    "I prefer living in the city. There are many jobs, good hospitals and modern services. Life there is also more exciting than in the countryside.",
-    "I live in Ho Chi Minh City, and I like the food most. There is delicious street food on every corner, and many shops are open late at night.",
-    "Yes, I would like to live in Da Nang in the future. It is near the sea, and the air is cleaner than in Ho Chi Minh City. I could go swimming in the sea every weekend."
+    "I read books almost every day. This is because reading helps me relax after a long day at work. I usually read for about thirty minutes before I go to bed.",
+    "I like books about science and health. The main reason is that they are useful for my job in medical research. I also enjoy detective novels because they are exciting and easy to read.",
+    "I usually read at home in the evening. This is because my bedroom is quiet, and I can focus well there. At weekends, I sometimes read in a small coffee shop near my house.",
+    "I prefer living in the city. The main reason is that there are many jobs, good hospitals and modern services. Life in Ho Chi Minh City is also more exciting than in the countryside.",
+    "What I like most is the food. This is because there is delicious street food on almost every corner. For example, I can buy a hot bowl of pho or a banh mi near my house even late at night.",
+    "Yes, I would like to live in Da Nang in the future. The main reason is that it is near the sea, and the air is cleaner. I could go swimming in the sea every weekend."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay tần suất / lựa chọn",
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay tần suất hoặc lựa chọn",
      "reusable": "I read books almost every day."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "I like books about science and health because they are useful for my job."
+     "section": "Câu 2: lý do",
+     "content": "This is because / The main reason is that …",
+     "reusable": "The main reason is that there are many jobs, good hospitals and modern services."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 chi tiết cá nhân ngắn",
-     "reusable": "At weekends, I sometimes read in a quiet coffee shop near my house."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân, thời gian, địa điểm",
+     "reusable": "For example, I can buy a hot bowl of pho or a banh mi near my house even late at night."
     }
    ],
    "vocab": [
@@ -140,8 +147,8 @@
      "meaning": "tiểu thuyết trinh thám"
     },
     {
-     "term": "the countryside",
-     "meaning": "nông thôn, vùng quê"
+     "term": "focus well",
+     "meaning": "tập trung tốt"
     },
     {
      "term": "modern services",
@@ -149,41 +156,49 @@
     },
     {
      "term": "on every corner",
-     "meaning": "ở khắp mọi góc phố"
+     "meaning": "ở khắp các góc phố"
+    },
+    {
+     "term": "the countryside",
+     "meaning": "vùng nông thôn"
     }
    ]
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think organising minigames for the children is the best choice. I choose it for two main reasons.\n\nThe first reason is that young children love games. By that, I mean games are fun and active, so every student can join in and enjoy the party. For example, they can play musical chairs, a balloon race or a simple quiz about the school year.\n\nAnother reason is that minigames help children work in teams. In other words, they learn to share, help each other and make new friends. For instance, in a balloon race, each team must work together to carry a balloon without using their hands.\n\nThere are also some reasons why I do not choose the other two options. Regarding a cooking workshop, I do not think it is the best choice because it can be dangerous for young children. They may cut their fingers or touch hot pans. As for a music and fashion show, I do not think it is the best option either because only confident students will want to perform. Shy children will just sit and watch, so they may feel left out.\n\nTo sum up, out of these three options, I believe organising minigames for the children is the best choice because it is fun, safe and friendly.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn trò chơi nhỏ (minigames) cho các bé",
-     "reusable": "I think my friend should choose minigames for the children"
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: trò chơi nhỏ cho các bé",
+     "reusable": "In this situation, among the three options, I think organising minigames for the children is the best choice. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) trẻ nhỏ thích chơi, ai cũng vui (2) học làm việc nhóm, kết bạn (3) rẻ, dễ tổ chức",
-     "reusable": "First, young children love games. … Second, minigames help children work in teams."
+     "section": "Lý do 1",
+     "content": "Trẻ nhỏ thích trò chơi → By that, I mean vui, năng động, bé nào cũng tham gia → For example: ghế âm nhạc, đua bóng bay, đố vui",
+     "reusable": "The first reason is that young children love games. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn lớp nấu ăn",
-     "content": "Nguy hiểm với trẻ nhỏ (dao, chảo nóng), tốn kém",
-     "reusable": "I don't choose a cooking workshop because it can be dangerous for young children."
+     "section": "Lý do 2",
+     "content": "Học làm việc nhóm → In other words biết chia sẻ, giúp nhau → For instance: đội chuyển bóng bay không dùng tay",
+     "reusable": "Another reason is that minigames help children work in teams. In other words, …"
     },
     {
-     "section": "Vì sao không chọn biểu diễn ca nhạc, thời trang",
-     "content": "Chỉ vài bé tự tin tham gia, bé nhút nhát thấy chán; tốn công chuẩn bị",
-     "reusable": "I also don't choose a music and fashion show. Only some confident students can sing or walk on the stage."
+     "section": "Loại 2 phương án",
+     "content": "Lớp nấu ăn: nguy hiểm (dao, chảo nóng); diễn văn nghệ, thời trang: chỉ bé tự tin tham gia, bé nhút nhát bị lẻ loi",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding a cooking workshop, I do not think it is the best choice because … As for a music and fashion show, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: vui, an toàn, rẻ, bé nào cũng tham gia được",
-     "reusable": "In conclusion, minigames for the children are the best choice for the Year End Party because they are fun, safe and cheap"
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe organising minigames for the children is the best choice because it is fun, safe and friendly."
     }
    ],
-   "answer": "I think my friend should choose minigames for the children at her Year End Party. Let me explain why.\n\nFirst, young children love games. Games are fun and active, so all the students will enjoy the party. For example, they can play musical chairs, a balloon race or a quiz game. Second, minigames help children work in teams. They can learn to share, help each other and make new friends. Third, minigames are cheap and easy to organise. My friend only needs some balloons, small gifts and a big room.\n\nI don't choose a cooking workshop because it can be dangerous for young children. They may cut their fingers or touch hot pans. It also needs a lot of food and equipment, so it is expensive. I also don't choose a music and fashion show. Only some confident students can sing or walk on the stage. Shy children will just sit and watch, so they may feel bored. Also, the teacher needs a lot of time to prepare costumes and practise with the children.\n\nIn conclusion, minigames for the children are the best choice for the Year End Party because they are fun, safe and cheap, and every child can join in.",
    "vocab": [
+    {
+     "term": "join in",
+     "meaning": "tham gia cùng"
+    },
     {
      "term": "musical chairs",
      "meaning": "trò chơi giành ghế theo nhạc"
@@ -193,79 +208,75 @@
      "meaning": "làm việc theo nhóm"
     },
     {
-     "term": "equipment",
-     "meaning": "dụng cụ, thiết bị"
+     "term": "perform",
+     "meaning": "biểu diễn"
     },
     {
-     "term": "shy",
-     "meaning": "nhút nhát"
-    },
-    {
-     "term": "join in",
-     "meaning": "tham gia (hoạt động chung)"
+     "term": "feel left out",
+     "meaning": "cảm thấy bị bỏ rơi, lẻ loi"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the reasons why young people lose their jobs. In my opinion, most of these reasons come from their attitude and their preparation.\n\nFirstly, some young people have a bad attitude at work. They come to work late, complain a lot or do not respect their colleagues. For example, a new employee who often refuses extra tasks may soon lose the manager's trust.\n\nSecondly, many young people lack the skills that companies need. At university, they learn a lot of theory but get little practical experience. For instance, some graduates cannot write a clear email or work well in a team.\n\nThirdly, some young people have unrealistic salary expectations. They want a high salary from the first day, even though they do not have enough experience. A good example is a graduate who stops trying because the company does not give him a pay rise after three months.\n\nAnother important point is that poor time management can also cause job loss. Some young employees spend too much time on their phones and miss deadlines. For example, if a worker is late with reports many times, the company may decide to let him go.\n\nTo sum up, young people lose their jobs because of a bad attitude, a lack of skills, unrealistic salary expectations and poor time management.",
    "own_idea": "Poor time management",
+   "follow_ups": [
+    "Young people can avoid losing their jobs by having a positive attitude and always being on time. The main reason is that managers value reliable and hard-working staff. For example, a worker who finishes tasks on time and helps colleagues is rarely let go. They should also take short online courses to learn new skills.",
+    "No, I do not think so. The main reason is that many schools focus too much on theory and exams. For example, many students graduate without ever writing a CV or doing an internship. Schools should offer more practical training, such as group projects and work experience.",
+    "Employers can give young employees clear goals and regular feedback. The reason is that new staff often do not know exactly what their managers expect. For example, a company can give each new employee a mentor, who is an experienced colleague. Short training courses can also help them improve quickly."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 lý do chính",
-     "reusable": "Today I would like to talk about the reasons why young people lose their jobs."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the reasons why young people lose their jobs. In my opinion, most of these reasons come from their attitude and their preparation."
     },
     {
      "section": "Ý 1: Bad attitude",
-     "content": "Đi muộn, hay than phiền, không tôn trọng đồng nghiệp",
-     "reusable": "First, some young people have a bad attitude at work."
+     "content": "Ý → đi trễ, than phiền, thiếu tôn trọng → ví dụ hay từ chối việc thêm, mất lòng tin của sếp",
+     "reusable": "Firstly, some young people have a bad attitude at work."
     },
     {
      "section": "Ý 2: Lack of skills",
-     "content": "Học lý thuyết nhiều, thiếu kinh nghiệm thực tế, kỹ năng mềm yếu",
-     "reusable": "Second, many young people lack the skills that companies need."
+     "content": "Ý → học lý thuyết, ít thực hành → ví dụ không viết nổi email rõ ràng",
+     "reusable": "Secondly, many young people lack the skills that companies need."
     },
     {
      "section": "Ý 3: Unrealistic salary expectations",
-     "content": "Muốn lương cao ngay → không được thì mất động lực, làm kém",
-     "reusable": "Third, some young people have unrealistic salary expectations."
+     "content": "Ý → muốn lương cao ngay → ví dụ không được tăng lương sau 3 tháng thì bỏ cố gắng",
+     "reusable": "Thirdly, some young people have unrealistic salary expectations."
     },
     {
      "section": "Ý riêng: Poor time management",
-     "content": "Dùng điện thoại nhiều, trễ hạn → sếp mất niềm tin",
-     "reusable": "Finally, I think poor time management is another reason."
+     "content": "Ý → dùng điện thoại nhiều, trễ hạn → ví dụ nộp báo cáo trễ nhiều lần bị cho nghỉ",
+     "reusable": "Another important point is that poor time management can also cause job loss."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt 4 lý do + lời khuyên",
-     "reusable": "They should work hard, keep learning and be patient."
+     "section": "Kết",
+     "content": "Tóm tắt 4 lý do",
+     "reusable": "To sum up, young people lose their jobs because of a bad attitude, a lack of skills, unrealistic salary expectations and poor time management."
     }
-   ],
-   "answer": "Today I would like to talk about the reasons why young people lose their jobs. In my opinion, there are four main reasons.\n\nFirst, some young people have a bad attitude at work. They come to work late, complain a lot or do not respect their colleagues. Managers do not want to keep staff like this, even if they are smart.\n\nSecond, many young people lack the skills that companies need. At university, they learn a lot of theory, but they have little practical experience. For example, some graduates cannot write a clear email or use basic office software. In addition, many of them have weak soft skills, such as teamwork and communication.\n\nThird, some young people have unrealistic salary expectations. They want a high salary from the first day, but they do not have enough experience. When the company cannot pay them more, they lose motivation and work badly. As a result, they may lose their jobs.\n\nFinally, I think poor time management is another reason. Some young employees spend too much time on their phones and miss deadlines. If this happens many times, the manager will lose trust in them.\n\nIn conclusion, young people lose their jobs because of a bad attitude, a lack of skills, unrealistic salary expectations and poor time management. They should work hard, keep learning and be patient.",
-   "follow_ups": [
-    "They should have a positive attitude and always be on time. They should also keep learning new skills, for example by taking short online courses. Most importantly, they should be patient and not expect too much too soon.",
-    "No, I don't think so. Many schools focus too much on theory and exams. Students need more practical training, such as internships and group projects.",
-    "Employers can give young employees clear goals and regular feedback. They can also give each new employee a mentor, who is an experienced colleague. In addition, short training courses can help them improve quickly."
    ],
    "vocab": [
     {
-     "term": "attitude",
-     "meaning": "thái độ"
+     "term": "a bad attitude",
+     "meaning": "thái độ không tốt"
     },
     {
-     "term": "soft skills",
-     "meaning": "kỹ năng mềm"
+     "term": "practical experience",
+     "meaning": "kinh nghiệm thực tế"
     },
     {
-     "term": "salary expectations",
-     "meaning": "mức lương mong muốn"
+     "term": "unrealistic salary expectations",
+     "meaning": "kỳ vọng lương không thực tế"
     },
     {
      "term": "miss deadlines",
-     "meaning": "trễ hạn công việc"
+     "meaning": "trễ hạn"
     },
     {
-     "term": "lose trust in someone",
-     "meaning": "mất niềm tin vào ai"
+     "term": "let someone go",
+     "meaning": "cho ai nghỉ việc"
     }
    ]
   }

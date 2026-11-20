@@ -15,6 +15,7 @@ import SpeakingReview from './pages/SpeakingReview';
 import History from './pages/History';
 import Settings from './pages/Settings';
 import SolutionsList from './pages/SolutionsList';
+import Templates from './pages/Templates';
 import Solution from './pages/Solution';
 import PrintSolutions from './pages/PrintSolutions';
 
@@ -36,6 +37,7 @@ export default function App() {
           <Route path="history" element={<History />} />
           <Route path="settings" element={<Settings />} />
           <Route path="bai-mau" element={<SolutionsList />} />
+          <Route path="bai-mau/khung" element={<Templates />} />
           <Route path="bai-mau/:examId" element={<Solution />} />
         </Route>
         {/* Full-screen exam rooms (no app chrome) */}

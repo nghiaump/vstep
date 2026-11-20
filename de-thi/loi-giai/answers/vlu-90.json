@@ -2,6 +2,7 @@
  "id": "vlu-90",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -10,99 +11,110 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, rất vui vì bạn muốn ghé thăm",
-     "reusable": "Thanks for your email. I am so excited that you want to visit my new house!"
+     "content": "Cảm ơn thư, mới chuyển nhà tháng trước, vui vì bạn muốn đến thăm",
+     "reusable": "Thank you for your email. I moved into my new house last month, and I am so happy that you want to visit."
     },
     {
-     "section": "Ý 1: vị trí nhà",
-     "content": "Quận 7, số 25 đường Nguyễn Thị Thập; yên tĩnh, nhiều cây; 5 phút tới Lotte Mart",
-     "reusable": "My new house is in District 7, Ho Chi Minh City."
+     "section": "Ý 1: nhà ở đâu",
+     "content": "Trả lời thẳng (Quận 7) → gần đường lớn → lý do chọn (yên tĩnh, nhiều cây) → gần Lotte Mart",
+     "reusable": "Regarding the location, my new house is in District 7, Ho Chi Minh City."
     },
     {
-     "section": "Ý 2: cách đến",
-     "content": "Từ trung tâm đi xe buýt hoặc Grab, 30 phút; thấy nhà thuốc ở góc đường thì rẽ trái; nhà thứ ba bên phải, cổng xanh",
-     "reusable": "Getting there is quite easy. From the city centre, you can take a bus or book a Grab car."
+     "section": "Ý 2: cách đi đến",
+     "content": "Đặt Grab từ trung tâm → 30 phút, không đắt → chỉ đường: nhà thuốc, rẽ trái, cổng xanh",
+     "reusable": "As for getting there, the easiest way is to book a Grab car from the city centre."
     },
     {
-     "section": "Ý 3: kế hoạch trang trí",
-     "content": "Phong cách đơn giản, hiện đại: sơn tường trắng, nhiều cây xanh, góc đọc sách",
-     "reusable": "I am planning to decorate my house in a simple and modern style."
+     "section": "Ý 3: dự định trang trí",
+     "content": "Phong cách đơn giản, hiện đại → lý do (thích phòng sáng, gọn) → sơn trắng, cây xanh, góc đọc sách",
+     "reusable": "About your question on decoration, I am planning to use a simple and modern style."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mời đến Chủ nhật 10 giờ sáng, nấu bữa trưa; hỏi lại có tiện không",
-     "reusable": "Why don't you come on Sunday at 10 a.m.? I will cook lunch for you."
+     "content": "Mời đến nhà: giờ + ngày → chào cuối thư",
+     "reusable": "How about coming to my house at 10 a.m. on Sunday? … Write back soon! Best wishes,"
     }
    ],
-   "answer": "Hi Linh,\n\nThanks for your email. I am so excited that you want to visit my new house!\n\nMy new house is in District 7, Ho Chi Minh City. The house is in a small street near Nguyen Thi Thap Street. It is a quiet area with many trees, and it is only five minutes from Lotte Mart.\n\nGetting there is quite easy. From the city centre, you can take a bus or book a Grab car. The trip takes about thirty minutes. When you see a big pharmacy on Nguyen Thi Thap Street, turn left into the small street there. My house is the third one on the right, and it has a blue gate.\n\nI am planning to decorate my house in a simple and modern style. I will paint the walls white and put a lot of green plants in the living room. I also want to make a small reading corner with a bookshelf because I love reading.\n\nWhy don't you come on Sunday at 10 a.m.? I will cook lunch for you. Let me know if that time works for you.\n\nBest wishes,\nMinh",
+   "answer": "Hi Linh,\n\nThank you for your email. I moved into my new house last month, and I am so happy that you want to visit.\n\nRegarding the location, my new house is in District 7, Ho Chi Minh City. It is on a small street near Nguyen Thi Thap Street. I like this area because it is quiet and green, and Lotte Mart is only five minutes away.\n\nAs for getting there, the easiest way is to book a Grab car from the city centre. The trip takes about thirty minutes. When you see a big pharmacy on Nguyen Thi Thap Street, turn left. My house is the third one on the right, with a blue gate.\n\nAbout your question on decoration, I am planning to use a simple and modern style. I like bright and tidy rooms, so I will paint the walls white. I will also put green plants in the living room and make a small reading corner.\n\nHow about coming to my house at 10 a.m. on Sunday? Write back soon!\n\nBest wishes,\nMinh",
    "vocab": [
     {
-     "term": "a quiet area",
-     "meaning": "khu vực yên tĩnh"
+     "term": "move into a new house",
+     "meaning": "chuyển đến nhà mới"
     },
     {
      "term": "book a Grab car",
      "meaning": "đặt xe Grab"
     },
     {
-     "term": "turn left into",
-     "meaning": "rẽ trái vào"
+     "term": "turn left",
+     "meaning": "rẽ trái"
     },
     {
-     "term": "decorate",
-     "meaning": "trang trí"
+     "term": "a simple and modern style",
+     "meaning": "phong cách đơn giản và hiện đại"
     },
     {
-     "term": "reading corner",
+     "term": "a reading corner",
      "meaning": "góc đọc sách"
     }
    ]
   },
   "2": {
-   "essay_type": "Reasons (phân tích nguyên nhân / lý do)",
+   "essay_type": "Reasons – one side (phân tích nguyên nhân / lý do)",
+   "type_key": "one_side",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: mua sắm online ngày càng phổ biến, ví dụ Shopee, Lazada → bài phân tích các lý do chính",
-     "reusable": "This essay will discuss the main reasons for this change."
+     "content": "Viết lại đề (mua trên web, app thay vì ra cửa hàng; thay đổi nhanh) + câu dẫn",
+     "reusable": "This essay will discuss the main reasons for this trend."
     },
     {
-     "section": "Thân bài 1: nhóm lý do về sự tiện lợi",
-     "content": "(1) tiết kiệm thời gian, mua bất cứ lúc nào (2) giao hàng nhanh, rẻ: 1–2 ngày (3) thanh toán không tiền mặt dễ, an toàn",
-     "reusable": "The first group of reasons is about convenience."
+     "section": "Thân bài 1 · PEER 1: với người mua",
+     "content": "P: tiết kiệm thời gian, công sức → E: đặt hàng mọi lúc, không cần ra khỏi nhà → Ex: nhân viên văn phòng mua đồ ăn giờ nghỉ trưa",
+     "reusable": "To begin with, online shopping helps individual customers in two ways. Firstly, it saves a lot of time and effort."
     },
     {
-     "section": "Thân bài 2: nhóm lý do về giá và lựa chọn",
-     "content": "(1) giá rẻ hơn vì không thuê mặt bằng, nhiều giảm giá (2) nhiều lựa chọn, so sánh giá, đọc đánh giá (3) điện thoại và Internet phổ biến",
-     "reusable": "Another group of reasons is about price and choice."
+     "section": "Thân bài 1 · PEER 2: với người mua",
+     "content": "P: giá rẻ hơn → E: người bán không trả tiền thuê mặt bằng → Ex: đôi giày trên Shopee rẻ hơn ở trung tâm thương mại → R: sinh viên, gia đình trẻ thích mua online",
+     "reusable": "Secondly, prices online are often lower than in shops. This is because …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 1: công nghệ, doanh nghiệp",
+     "content": "P: nhiều lựa chọn hơn → E: so sánh, đọc đánh giá → Ex: mẹ so sánh 5 nồi cơm điện trên app",
+     "reusable": "In addition, technology and businesses have also made online shopping more popular. One important point is that there is a much wider choice of products online."
+    },
+    {
+     "section": "Thân bài 2 · PEER 2: công nghệ, doanh nghiệp",
+     "content": "P: thanh toán, giao hàng nhanh và an toàn → E: app ngân hàng, giao 1–2 ngày → Ex: đặt sách buổi sáng, hôm sau nhận → R: khách tin tưởng hơn",
+     "reusable": "Another point is that payment and delivery are now fast and safe. … Thanks to this, customers trust online shopping more than before."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt lý do + dự đoán: mua sắm online tiếp tục tăng, cửa hàng truyền thống vẫn quan trọng",
-     "reusable": "I believe that online shopping will continue to grow in the future."
+     "content": "Tóm tắt 2 nhóm lý do, không thêm ý mới",
+     "reusable": "In conclusion, online shopping has become popular for several reasons."
     }
    ],
-   "answer": "In recent years, online shopping has become very popular all over the world. Instead of going to traditional shops, many people now buy goods through websites and mobile apps such as Shopee or Lazada. This essay will discuss the main reasons for this change.\n\nThe first group of reasons is about convenience. Firstly, online shopping saves a lot of time. People can buy things at any time of the day without leaving their homes, so it is very useful for busy workers. Secondly, delivery services have become fast and cheap. For example, in big cities in Vietnam, customers can receive their orders in only one or two days. In addition, cashless payment makes online shopping easy and safe. People can pay by e-wallet or bank card with just a few clicks.\n\nAnother group of reasons is about price and choice. Firstly, products online are often cheaper than in shops. Online sellers do not need to rent a shop, so they can offer lower prices and many discounts. Secondly, customers can choose from a huge variety of products. They can compare prices and read reviews from other buyers before they decide. Moreover, smartphones and the internet have helped online shopping develop. Today, almost everyone has a phone, so people can shop anywhere, even on the bus.\n\nIn conclusion, online shopping has become popular because it is convenient, fast and cheap, and it offers many choices. Technology has also made it easier than ever before. I believe that online shopping will continue to grow in the future, but traditional shops will still be important for some people.",
+   "answer": "Nowadays, more and more people buy things on websites and apps instead of going to shops. This change has happened very quickly in many countries, including Vietnam. This essay will discuss the main reasons for this trend.\n\nTo begin with, online shopping helps individual customers in two ways. Firstly, it saves a lot of time and effort. People can order products at any time without leaving their homes. For example, an office worker can buy groceries on her phone during her lunch break. Secondly, prices online are often lower than in shops. This is because online sellers do not need to pay high rent for a shop. For instance, a pair of shoes on Shopee is often cheaper than the same pair in a shopping mall. As a result, many students and young families prefer to shop online.\n\nIn addition, technology and businesses have also made online shopping more popular. One important point is that there is a much wider choice of products online. Customers can compare many items and read reviews from other buyers before they decide. A good example is my mother, who compared five rice cookers on an app before she bought one. Another point is that payment and delivery are now fast and safe. People can pay with banking apps, and many orders arrive within one or two days. For example, I often order books in the morning and receive them the next day. Thanks to this, customers trust online shopping more than before.\n\nIn conclusion, online shopping has become popular for several reasons. It saves time and money for individuals, and it offers more choices, easy payment and fast delivery. That is why so many people now prefer to shop online.",
    "vocab": [
     {
-     "term": "delivery service",
-     "meaning": "dịch vụ giao hàng"
+     "term": "instead of + V-ing",
+     "meaning": "thay vì làm gì"
     },
     {
-     "term": "e-wallet",
-     "meaning": "ví điện tử"
+     "term": "save time and effort",
+     "meaning": "tiết kiệm thời gian và công sức"
     },
     {
-     "term": "offer discounts",
-     "meaning": "giảm giá, khuyến mãi"
-    },
-    {
-     "term": "a huge variety of",
-     "meaning": "rất nhiều loại"
+     "term": "a wider choice of products",
+     "meaning": "nhiều lựa chọn sản phẩm hơn"
     },
     {
      "term": "read reviews",
      "meaning": "đọc đánh giá"
+    },
+    {
+     "term": "delivery",
+     "meaning": "việc giao hàng"
     }
    ]
   }
@@ -110,46 +122,46 @@
  "speaking": {
   "1": {
    "answers": [
-    "My hobbies are reading and swimming. I also enjoy going to coffee shops with my friends at weekends.",
-    "I became interested in reading when I was a child. My mother often bought me storybooks and read them to me before bed. Since then, I have loved books.",
-    "Yes, I think they are very important. Hobbies help us relax and reduce stress after work. They can also help us make new friends.",
-    "My favourite season is the dry season in Ho Chi Minh City, from December to April. The weather is sunny, and there is no heavy rain, so I can go out easily.",
-    "During the dry season, I often go swimming at weekends. I also travel to the beach in Vung Tau with my friends. Sometimes we have a picnic in the park in the evening.",
-    "Not really. In the south of Vietnam, it is hot all year round, and the rainy season brings a lot of floods. In the north, the winter can be very cold."
+    "My hobbies are reading and swimming. I enjoy them because they help me relax after work. For example, I read a novel every evening, and I go swimming at a pool near my house at weekends.",
+    "I became interested in reading when I was a child. This is because my mother often read storybooks to me before bed. Since then, I have always kept a book in my bag.",
+    "Yes, I think hobbies are very important. The main reason is that they help us reduce stress after work or study. For example, after a long day at work, swimming always makes me feel fresh again.",
+    "My favourite season is the dry season in Ho Chi Minh City, from December to April. This is because the weather is sunny and there is almost no rain. So I can go out easily without a raincoat.",
+    "During the dry season, I often go swimming and have picnics with my friends. The main reason is that the sunny weather is perfect for outdoor activities. Last April, for example, we swam in the sea in Vung Tau all day.",
+    "Not really, because the weather is very different in each region. In the south, it is hot all year round, and the rainy season often brings floods. In the north, the winter can be very cold and wet."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No hoặc nêu thông tin chính",
-     "reusable": "My favourite season is the dry season in Ho Chi Minh City."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp từ khoá",
+     "reusable": "My hobbies are reading and swimming."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "The weather is sunny, and there is no heavy rain, so I can go out easily."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "This is because the weather is sunny and there is almost no rain."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 kỷ niệm hoặc hoạt động cụ thể",
-     "reusable": "My mother often bought me storybooks and read them to me before bed."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân: thời gian, địa điểm",
+     "reusable": "Last April, for example, we swam in the sea in Vung Tau all day."
     }
    ],
    "vocab": [
     {
-     "term": "become interested in",
-     "meaning": "bắt đầu thích, quan tâm đến"
-    },
-    {
      "term": "reduce stress",
      "meaning": "giảm căng thẳng"
+    },
+    {
+     "term": "feel fresh",
+     "meaning": "cảm thấy sảng khoái"
     },
     {
      "term": "the dry season",
      "meaning": "mùa khô"
     },
     {
-     "term": "the rainy season",
-     "meaning": "mùa mưa"
+     "term": "outdoor activities",
+     "meaning": "hoạt động ngoài trời"
     },
     {
      "term": "all year round",
@@ -159,117 +171,117 @@
   },
   "2": {
    "choice": 2,
+   "answer": "In this situation, among the three options, I think using a phone while driving is the best choice for the campaign. I choose it for two main reasons.\n\nThe first reason is that this behaviour can kill people in just a few seconds. By that, I mean a driver who looks at a phone cannot watch the road carefully. For example, if a motorbike rider reads a message at a busy crossroads, he may hit a child who is crossing the street.\n\nAnother reason is that many people do it every day without thinking it is dangerous. In other words, they believe a short call or a quick message is not a big problem. For instance, in Ho Chi Minh City, I often see delivery drivers checking their phones while they are riding. A campaign can help them understand the real danger.\n\nThere are also some reasons why I do not choose the other two options. Regarding smoking in public places, I do not think it is the best choice because its harm is slower and many places already ban it. As for making noise in public areas, I do not think it is the best option either because noise is annoying, but it rarely kills anyone.\n\nTo sum up, out of these three options, I believe using a phone while driving is the best choice because it is urgent, common and life-threatening.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn chiến dịch về việc dùng điện thoại khi lái xe",
-     "reusable": "I think the campaign should focus on using a phone while driving first."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: dùng điện thoại khi lái xe",
+     "reusable": "In this situation, among the three options, I think using a phone while driving is the best choice for the campaign. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) rất nguy hiểm, vài giây không nhìn đường (2) gây chết người vô tội, nhiều tai nạn xe máy (3) phổ biến ở giới trẻ",
-     "reusable": "First, this behaviour is very dangerous."
+     "section": "Lý do 1",
+     "content": "Gây chết người trong vài giây → By that, I mean … → For example: đọc tin nhắn ở ngã tư, đâm trẻ em",
+     "reusable": "The first reason is that this behaviour can kill people in just a few seconds. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn hút thuốc nơi công cộng",
-     "content": "Hại nhưng chậm, qua nhiều năm; đã có luật cấm ở bệnh viện, trường học",
-     "reusable": "I don't choose smoking in public places."
+     "section": "Lý do 2",
+     "content": "Nhiều người làm hằng ngày, không nghĩ là nguy hiểm → In other words … → For instance: tài xế giao hàng xem điện thoại",
+     "reusable": "Another reason is that many people do it every day without thinking it is dangerous. In other words, …"
     },
     {
-     "section": "Vì sao không chọn gây ồn nơi công cộng",
-     "content": "Khó chịu, gây căng thẳng nhưng hiếm khi chết người",
-     "reusable": "I also don't choose making noise in public areas."
+     "section": "Loại 2 phương án",
+     "content": "Hút thuốc: tác hại chậm, nhiều nơi đã cấm; gây ồn: khó chịu nhưng hiếm khi gây chết người",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding smoking in public places, I do not think it is the best choice because … As for making noise in public areas, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn + có thể gây tai nạn chết người chỉ trong vài giây",
-     "reusable": "In conclusion, using a phone while driving is the most harmful behaviour."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe using a phone while driving is the best choice because it is urgent, common and life-threatening."
     }
    ],
-   "answer": "I think the campaign should focus on using a phone while driving first. Let me explain why.\n\nFirst, this behaviour is very dangerous. When drivers look at their phones, they do not see the road for a few seconds. In that short time, they can hit another vehicle or a person. Second, it can kill not only the driver but also innocent people. For example, many traffic accidents in Vietnam happen because motorbike riders read messages while riding. In addition, this problem is very common, especially among young people. So a campaign can save many lives quickly.\n\nI don't choose smoking in public places as the first target. Smoking is harmful to health, but it causes damage slowly over many years. Also, Vietnam already has a law that bans smoking in many public places, such as hospitals and schools. I also don't choose making noise in public areas. Noise is annoying, and it can make people stressed, but it rarely kills anyone.\n\nIn conclusion, using a phone while driving is the most harmful behaviour because it can cause deadly accidents in seconds. That is why the campaign should target it first.",
    "vocab": [
     {
-     "term": "focus on",
-     "meaning": "tập trung vào"
+     "term": "a public awareness campaign",
+     "meaning": "chiến dịch nâng cao nhận thức cộng đồng"
     },
     {
-     "term": "innocent people",
-     "meaning": "người vô tội"
-    },
-    {
-     "term": "traffic accident",
-     "meaning": "tai nạn giao thông"
+     "term": "a busy crossroads",
+     "meaning": "ngã tư đông đúc"
     },
     {
      "term": "ban something",
      "meaning": "cấm cái gì"
     },
     {
-     "term": "deadly",
-     "meaning": "gây chết người"
+     "term": "annoying",
+     "meaning": "gây khó chịu"
+    },
+    {
+     "term": "life-threatening",
+     "meaning": "đe doạ tính mạng"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about how communication has changed compared to the past. In my opinion, communication today is much faster and easier, but it also has some problems.\n\nFirstly, modern tools bring great speed and convenience. In the past, people often waited for days to receive a letter. Now, for example, I can send a long report to my colleagues in a few seconds.\n\nSecondly, digital communication is replacing face-to-face communication. Many people now chat online more than they talk in person. For instance, my friends and I sometimes sit in a coffee shop but look at our phones most of the time.\n\nThirdly, smartphones and social media play a big role in our lives. With a smartphone, we can call, send photos and share news anywhere. A good example is my family, who share photos in a Zalo group every day.\n\nAnother important point is that talking to people abroad is much cheaper now. In the past, international phone calls were very expensive. Today, I can make a video call to my cousin in Australia for free.\n\nTo sum up, communication today is faster and more digital, and smartphones and social media play a central role in it. It is also much cheaper than before. However, we should still spend time talking face to face.",
    "own_idea": "Cheaper communication with people abroad",
+   "follow_ups": [
+    "I think modern tools have made us closer to people far away, but more distant from people nearby. The main reason is that we can contact anyone at any time. For example, I talk to my cousin in Australia every week. However, at family dinners, many people look at their phones instead of talking.",
+    "I use Zalo and email most often. Zalo is fast and free, so I use it to chat with my family and friends. For example, my family has a group chat where we share photos and news every day. I use email for my work with doctors and colleagues.",
+    "I think communication will become even faster and more realistic in the future. The main reason is that AI and virtual reality are developing very quickly. For example, people may meet in a virtual room and feel like they are sitting together. AI may also translate different languages immediately."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + 4 thay đổi chính",
-     "reusable": "Today I would like to talk about how communication has changed compared to the past."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính: nhanh, dễ hơn nhưng có vấn đề",
+     "reusable": "Today I would like to talk about how communication has changed compared to the past. In my opinion, communication today is much faster and easier, but it also has some problems."
     },
     {
-     "section": "Ý 1: Speed and convenience",
-     "content": "Trước viết thư mất nhiều ngày; nay nhắn tin, email trong 1 giây, gọi video mọi nơi",
-     "reusable": "First, modern tools are fast and convenient."
+     "section": "Ý 1: tốc độ và tiện lợi",
+     "content": "Ý → trước đây chờ thư nhiều ngày → ví dụ gửi báo cáo cho đồng nghiệp trong vài giây",
+     "reusable": "Firstly, modern tools bring great speed and convenience."
     },
     {
-     "section": "Ý 2: Face-to-face vs digital",
-     "content": "Trước gặp trực tiếp; nay chat online, dễ hiểu lầm vì không thấy cảm xúc",
-     "reusable": "Second, digital communication has replaced a lot of face-to-face communication."
+     "section": "Ý 2: trực tiếp và trực tuyến",
+     "content": "Ý → chat nhiều hơn nói chuyện → ví dụ ngồi quán cà phê nhưng nhìn điện thoại",
+     "reusable": "Secondly, digital communication is replacing face-to-face communication."
     },
     {
-     "section": "Ý 3: Smartphones and social media",
-     "content": "Ai cũng có smartphone, dùng Zalo, Facebook chia sẻ với hàng trăm người",
-     "reusable": "Third, smartphones and social media play a very important role."
+     "section": "Ý 3: điện thoại thông minh, mạng xã hội",
+     "content": "Ý → gọi, gửi ảnh mọi nơi → ví dụ nhóm Zalo gia đình",
+     "reusable": "Thirdly, smartphones and social media play a big role in our lives."
     },
     {
-     "section": "Ý riêng: rẻ hơn khi liên lạc ra nước ngoài",
-     "content": "Trước gọi quốc tế đắt; nay gọi miễn phí cho em họ ở Úc",
-     "reusable": "Finally, I think communication with people abroad is much cheaper now."
+     "section": "Ý riêng: liên lạc nước ngoài rẻ hơn",
+     "content": "Ý → trước đây gọi quốc tế đắt → ví dụ gọi video cho anh họ ở Úc miễn phí",
+     "reusable": "Another important point is that talking to people abroad is much cheaper now."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt + vẫn nên gặp mặt trực tiếp",
-     "reusable": "However, I believe we should still meet our family and friends face to face."
+     "section": "Kết",
+     "content": "Tóm tắt các ý + vẫn nên nói chuyện trực tiếp",
+     "reusable": "To sum up, communication today is faster and more digital … However, we should still spend time talking face to face."
     }
-   ],
-   "answer": "Today I would like to talk about how communication has changed compared to the past. I think there are four main changes.\n\nFirst, modern tools are fast and convenient. In the past, people wrote letters, and a letter took many days or even weeks to arrive. Now we can send a message or an email in one second. We can also make video calls from anywhere.\n\nSecond, digital communication has replaced a lot of face-to-face communication. In the past, people usually met in person to talk and share news. Today, many people prefer to chat online. Digital communication is easy, but sometimes we cannot see the feelings of the other person, so misunderstandings happen.\n\nThird, smartphones and social media play a very important role. Almost everyone has a smartphone, and we use apps like Zalo and Facebook every day. We can share photos, news and our feelings with hundreds of people at the same time.\n\nFinally, I think communication with people abroad is much cheaper now. In the past, international phone calls were very expensive, so people only called abroad on special days. Now I can call my cousin in Australia for free over the internet.\n\nIn conclusion, communication today is faster, cheaper and easier than in the past. However, I believe we should still meet our family and friends face to face.",
-   "follow_ups": [
-    "I think they have made people both closer and more distant. We can easily contact people who live far away. However, many families sit together but look at their own phones instead of talking.",
-    "I use Zalo most often because my family, friends and colleagues all use it. It is free and easy to use. For work, I also use email because it is more formal.",
-    "I think AI will play a bigger role in communication. For example, AI tools will translate languages instantly, so people from different countries can talk easily. We may also use virtual reality to meet each other online."
    ],
    "vocab": [
     {
-     "term": "make video calls",
+     "term": "speed and convenience",
+     "meaning": "tốc độ và sự tiện lợi"
+    },
+    {
+     "term": "face-to-face communication",
+     "meaning": "giao tiếp trực tiếp"
+    },
+    {
+     "term": "in person",
+     "meaning": "gặp mặt trực tiếp"
+    },
+    {
+     "term": "make a video call",
      "meaning": "gọi video"
     },
     {
-     "term": "face to face",
-     "meaning": "trực tiếp, mặt đối mặt"
-    },
-    {
-     "term": "misunderstanding",
-     "meaning": "sự hiểu lầm"
-    },
-    {
-     "term": "play an important role",
-     "meaning": "đóng vai trò quan trọng"
-    },
-    {
-     "term": "international phone call",
-     "meaning": "cuộc gọi quốc tế"
+     "term": "virtual reality",
+     "meaning": "thực tế ảo"
     }
    ]
   }

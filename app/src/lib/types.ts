@@ -19,7 +19,11 @@ export interface ReadingPart {
 export interface ReadingExam { id: string; number: number; title: string; source: string; parts: ReadingPart[] }
 
 export interface WritingTask { task: 1 | 2; kind: string; minWords: number; prompt: string; guide: string }
-export interface WritingExam { id: string; number: number; title: string; source: string; tasks: WritingTask[] }
+export interface WritingExam {
+  id: string; number: number; title: string; source: string; tasks: WritingTask[];
+  /** Self-made / recalled exam (not from vstepowl), with its own display label. */
+  custom?: boolean; label?: string;
+}
 
 export interface SpeakingExam {
   id: string; number: number; title: string; source: string;

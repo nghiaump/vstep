@@ -36,9 +36,10 @@ export const readingById = byId(READING);
 export const writingById = byId(WRITING);
 export const speakingById = byId(SPEAKING);
 
-const NUMS = SPEAKING.map((e) => e.number);
+const NUMS = SPEAKING.map((e) => e.number).filter((n) => n > 0);
 /** e.g. "VLU 90–135", computed from the data so new exams need no code change. */
 export const RANGE_LABEL = `VLU ${Math.min(...NUMS)}–${Math.max(...NUMS)}`;
-export const TOTAL_EXAMS = new Set([...READING, ...WRITING, ...SPEAKING].map((e) => e.id)).size;
+export const TOTAL_EXAMS = new Set([...READING, ...WRITING.filter((e) => !e.custom), ...SPEAKING].map((e) => e.id)).size;
 
-export const examLabel = (id: string) => 'VLU ' + id.replace('vlu-', '');
+const LABELS: Record<string, string> = Object.fromEntries(WRITING.filter((e) => e.label).map((e) => [e.id, e.label!]));
+export const examLabel = (id: string) => LABELS[id] ?? 'VLU ' + id.replace('vlu-', '');

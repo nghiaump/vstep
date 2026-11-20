@@ -2,107 +2,114 @@
  "id": "vlu-102",
  "writing": {
   "1": {
+   "template": "w1_formal",
    "outline": [
     {
      "section": "Lời chào",
-     "content": "Chào trang trọng: Dear Professor + họ",
+     "content": "Biết tên người nhận → Dear Professor + họ",
      "reusable": "Dear Professor Tran,"
     },
     {
      "section": "Mở đầu",
-     "content": "Hỏi thăm, giới thiệu mình là ai, nêu mục đích viết thư",
-     "reusable": "I am writing to you about my final assignment."
+     "content": "Nêu mục đích: xin lỗi nộp bài trễ + giới thiệu bản thân",
+     "reusable": "I am writing to apologise for my late final assignment."
     },
     {
      "section": "Ý 1: xin lỗi",
-     "content": "Xin lỗi chân thành vì nộp trễ, nhận lỗi về mình",
-     "reusable": "First of all, I am very sorry that I did not submit my final assignment on time."
+     "content": "Xin lỗi nộp trễ → hiểu là gây phiền cho việc chấm bài → nhận trách nhiệm",
+     "reusable": "Concerning the assignment, I am very sorry that I did not submit it on time."
     },
     {
      "section": "Ý 2: lý do",
-     "content": "Bị sốt cao, nằm viện 4 ngày, bác sĩ bảo nghỉ ngơi; có giấy xác nhận của bệnh viện",
-     "reusable": "The main reason for the delay is my health."
+     "content": "Ốm nặng → sốt cao, nằm viện 4 ngày → bác sĩ bắt nghỉ → gửi kèm giấy xác nhận",
+     "reusable": "With regard to the reason, I was seriously ill last week."
     },
     {
-     "section": "Ý 3: hạn nộp mới",
-     "content": "Đề xuất ngày + giờ cụ thể, cách nộp (email + bản in tại văn phòng); xin thầy báo nếu không phù hợp",
-     "reusable": "Could I submit it by Friday, 27th November, at 5 p.m.?"
+     "section": "Ý 3: đề xuất hạn mới",
+     "content": "5 giờ chiều thứ Sáu 27/11 → đã làm gần xong → mang bản in đến văn phòng nhà A",
+     "reusable": "Regarding a new deadline, I would be grateful if you could allow me to submit it by 5 p.m. on Friday, 27th November."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Cảm ơn sự thông cảm, mong hồi âm; Yours sincerely",
-     "reusable": "Thank you very much for your understanding. I look forward to hearing from you."
+     "content": "Câu kết cố định; biết tên → Yours sincerely",
+     "reusable": "If you require any further information, please do not hesitate to contact me. I look forward to hearing from you. Yours sincerely,"
     }
    ],
-   "answer": "Dear Professor Tran,\n\nI hope you are well. My name is Minh, and I am a student in your Health Data Analysis class. I am writing to you about my final assignment.\n\nFirst of all, I am very sorry that I did not submit my final assignment on time. The deadline was last Friday, but I have not finished it yet. I know this is my fault.\n\nThe main reason for the delay is my health. Last week, I had a high fever, and I had to stay in hospital for four days. The doctor told me to rest, so I could not use my computer. I have attached a medical certificate to this email.\n\nI feel much better now, and I have already finished most of the work. Could I submit it by Friday, 27th November, at 5 p.m.? I will send it to you by email and also bring a printed copy to your office in Building A. If this date is not suitable, please let me know.\n\nThank you very much for your understanding. I look forward to hearing from you.\n\nYours sincerely,\nMinh",
+   "answer": "Dear Professor Tran,\n\nI am writing to apologise for my late final assignment. I am Nguyen Minh, a student in your Health Data Analysis class.\n\nConcerning the assignment, I am very sorry that I did not submit it on time. I understand that this may cause problems for your marking. I take full responsibility for this delay.\n\nWith regard to the reason, I was seriously ill last week. I had a high fever and had to stay in hospital for four days. The doctor told me to rest completely, so I could not work on my computer. I have attached a medical certificate to this email.\n\nRegarding a new deadline, I would be grateful if you could allow me to submit it by 5 p.m. on Friday, 27th November. I have already finished most of the work. I will also bring a printed copy to your office in Building A.\n\nIf you require any further information, please do not hesitate to contact me. I look forward to hearing from you.\n\nYours sincerely,\nNguyen Minh",
    "vocab": [
     {
-     "term": "submit (an assignment)",
-     "meaning": "nộp (bài tập)"
+     "term": "submit an assignment",
+     "meaning": "nộp bài"
     },
     {
-     "term": "on time",
-     "meaning": "đúng hạn, đúng giờ"
+     "term": "take full responsibility",
+     "meaning": "nhận hoàn toàn trách nhiệm"
     },
     {
-     "term": "the reason for the delay",
-     "meaning": "lý do của việc chậm trễ"
+     "term": "a high fever",
+     "meaning": "sốt cao"
     },
     {
      "term": "medical certificate",
-     "meaning": "giấy xác nhận của bệnh viện / bác sĩ"
+     "meaning": "giấy xác nhận của bác sĩ"
     },
     {
-     "term": "Thank you for your understanding.",
-     "meaning": "Cảm ơn thầy/cô đã thông cảm."
+     "term": "a printed copy",
+     "meaning": "bản in"
     }
    ]
   },
   "2": {
-   "essay_type": "Discuss both views + opinion (thảo luận hai quan điểm và nêu ý kiến cá nhân)",
+   "essay_type": "Discussion – discuss both views (thảo luận hai quan điểm và nêu ý kiến)",
+   "type_key": "discussion",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: ngày càng nhiều học sinh, kể cả cấp 2, mang điện thoại đến trường; có hai luồng ý kiến → ý kiến của tôi: nên cho mang nhưng phải có quy định rõ",
-     "reusable": "In my opinion, students should be allowed to bring phones to school, but schools need clear rules."
+     "content": "Viết lại đề (nhiều học sinh, cả THCS, mang điện thoại) + hai quan điểm + ý kiến: nên cho phép kèm quy định",
+     "reusable": "This essay will discuss both views, but I believe that phones should be allowed at school with clear rules."
     },
     {
-     "section": "Thân bài 1: quan điểm ủng hộ",
-     "content": "(1) giữ liên lạc với bố mẹ, an toàn (2) công cụ học tập: từ điển, tra cứu (3) giáo viên dùng ứng dụng như Quizlet, Kahoot",
-     "reusable": "On the one hand, there are several reasons why phones can be useful for students. Firstly, …"
+     "section": "Thân bài 1 · PEER quan điểm A",
+     "content": "P: hại nhiều hơn lợi → E: dễ xao nhãng vì game, mạng xã hội → Ex: lén xem TikTok trong giờ toán → R: không theo kịp bài, điểm giảm",
+     "reusable": "On the one hand, some people believe that phones cause more problems than benefits at school. This is because …"
     },
     {
-     "section": "Thân bài 2: quan điểm giáo viên phản đối",
-     "content": "(1) xao nhãng trong giờ học (2) gian lận khi kiểm tra (3) ít nói chuyện với bạn → cô đơn, kỹ năng xã hội kém",
-     "reusable": "On the other hand, many teachers argue that phones cause serious problems at school."
+     "section": "Thân bài 2 · PEER 1 (ý của mình)",
+     "content": "P: giữ liên lạc với bố mẹ → E: bố mẹ yên tâm → Ex: gọi về khi xe buýt trễ hoặc bị ốm",
+     "reusable": "On the other hand, I agree with those who think that students should be allowed to bring phones. Firstly, phones help students stay in touch with their parents."
+    },
+    {
+     "section": "Thân bài 2 · PEER 2 (ý của mình)",
+     "content": "P: công cụ học tập → E: tra cứu, dùng ứng dụng học → Ex: dùng từ điển trong giờ tiếng Anh → R: hỗ trợ học nếu có quy định",
+     "reusable": "Secondly, phones can be useful learning tools."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt hai quan điểm + nhắc lại ý kiến: không cấm hẳn, cất điện thoại trong giờ học",
-     "reusable": "I believe schools should not ban phones completely. Instead, …"
+     "content": "Nhắc lại hai phía + ý kiến + 2 lý do",
+     "reusable": "In conclusion, although phones can distract students, I believe that they should be allowed at school because …"
     }
    ],
-   "answer": "Nowadays, more and more students bring mobile phones to school, and even many secondary school pupils have their own phones. Some people think this is a good idea, but many teachers believe that phones do more harm than good. In my opinion, students should be allowed to bring phones to school, but schools need clear rules.\n\nOn the one hand, there are several reasons why phones can be useful for students. Firstly, phones help students stay in touch with their parents. For example, a child can call his mother if he feels sick or if school finishes late. Secondly, phones are useful learning tools. Students can look up new words in an online dictionary or search for information for a project. In addition, many teachers now use apps such as Quizlet or Kahoot. These apps make lessons more interesting and help students remember new information.\n\nOn the other hand, many teachers argue that phones cause serious problems at school. Firstly, phones distract students during lessons. Many pupils play games or check social media instead of listening to the teacher. Secondly, some students use their phones to cheat in tests, and this is unfair to other students. Moreover, students who spend a lot of time on their phones talk less with their classmates. As a result, they may feel lonely and have weaker social skills.\n\nIn conclusion, mobile phones can help students stay safe and learn better, but they can also distract them and lead to cheating. I believe schools should not ban phones completely. Instead, students should keep their phones in their bags during lessons and use them only when their teachers allow it.",
+   "answer": "Today, many students carry a mobile phone to school, even in lower secondary schools. People have different opinions on whether this habit is useful or harmful. This essay will discuss both views, but I believe that phones should be allowed at school with clear rules.\n\nOn the one hand, some people believe that phones cause more problems than benefits at school. This is because students can easily get distracted by games, social media and messages, and teachers cannot check every screen. For example, a pupil may secretly watch TikTok videos under the desk during a maths lesson. As a result, he cannot follow the lesson, and his marks may go down. This is why many teachers want to ban phones in the classroom.\n\nOn the other hand, I agree with those who think that students should be allowed to bring phones. Firstly, phones help students stay in touch with their parents. Parents feel safer when they can call their children at any time during the day. For instance, a child can call home if the school bus is late or if he feels sick. Secondly, phones can be useful learning tools. This means that students can look up information and use learning apps in class. A good example is a teacher who asks students to use a dictionary app during an English lesson. Therefore, phones can support learning if schools have clear rules about when to use them.\n\nIn conclusion, although phones can distract students, I believe that they should be allowed at school because they keep children in touch with their parents and support learning. However, schools need clear rules so that students use phones properly.",
    "vocab": [
     {
-     "term": "do more harm than good",
-     "meaning": "có hại nhiều hơn có lợi"
+     "term": "get distracted",
+     "meaning": "bị xao nhãng"
     },
     {
      "term": "stay in touch with",
      "meaning": "giữ liên lạc với"
     },
     {
-     "term": "look up (a word)",
-     "meaning": "tra (từ)"
+     "term": "look up information",
+     "meaning": "tra cứu thông tin"
     },
     {
-     "term": "distract someone",
-     "meaning": "làm ai xao nhãng"
+     "term": "learning apps",
+     "meaning": "ứng dụng học tập"
     },
     {
-     "term": "cheat in tests",
-     "meaning": "gian lận khi làm bài kiểm tra"
+     "term": "use something properly",
+     "meaning": "sử dụng cái gì đúng cách"
     }
    ]
   }
@@ -110,158 +117,162 @@
  "speaking": {
   "1": {
    "answers": [
-    "Yes, I do, but I don't go shopping very often. I usually shop when I need something, such as clothes or books. It is also a nice way to relax at the weekend.",
-    "I usually go to a supermarket near my home, such as Co.opmart. Sometimes I go to Vincom Center in District 1 with my friends. I also buy many things online because it saves time.",
-    "I usually buy food and things for my home. I also like buying books because reading is my hobby. Sometimes I buy new clothes when there is a sale.",
-    "My family usually goes to the beach in Vung Tau. It is only about two hours from Ho Chi Minh City by car. We swim, eat seafood and relax together.",
-    "I prefer talking to my family. They know me very well, and they always give me honest advice. However, I also enjoy chatting with my friends at coffee shops.",
-    "I talk with my family every day, usually during dinner. We share stories about our work and studies. At weekends, we have more time to talk together."
+    "Yes, I enjoy shopping, but I do not go very often. This is because I only shop when I really need something, such as clothes or books. For me, it is also a nice way to relax at the weekend.",
+    "I usually go to a supermarket near my home, such as Co.opmart. The main reason is that it is close and the prices are reasonable. Sometimes I also go to Vincom Center in District 1 with my friends.",
+    "I usually buy food and things for my home. I also like buying books because reading is my hobby. For example, last month I bought two novels and a new shirt during a sale.",
+    "For our family outings, we usually go to the beach in Vung Tau. The main reason is that it is only about two hours from Ho Chi Minh City by car. We swim, eat seafood and relax together there.",
+    "I prefer talking to my family. This is because they know me very well, and they always give me honest advice. However, I also enjoy chatting with my friends at coffee shops at weekends.",
+    "I talk with my family every day, usually during dinner. This is because it is the only time when everyone is at home. We share stories about our work and studies, and at weekends we talk even more."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No, địa điểm hoặc tần suất",
-     "reusable": "I talk with my family every day, usually during dinner."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
+     "reusable": "I prefer talking to my family."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because",
-     "reusable": "I also buy many things online because it saves time."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do (This is because / The main reason is that)",
+     "reusable": "This is because they know me very well, and they always give me honest advice."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 chi tiết cá nhân: tên nơi chốn, hoạt động cụ thể",
-     "reusable": "We swim, eat seafood and relax together."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn: thời gian, địa điểm",
+     "reusable": "For example, last month I bought two novels and a new shirt during a sale."
     }
    ],
    "vocab": [
     {
-     "term": "go shopping",
-     "meaning": "đi mua sắm"
+     "term": "reasonable prices",
+     "meaning": "giá cả hợp lý"
     },
     {
-     "term": "when there is a sale",
-     "meaning": "khi có đợt giảm giá"
-    },
-    {
-     "term": "save time",
-     "meaning": "tiết kiệm thời gian"
+     "term": "during a sale",
+     "meaning": "trong đợt giảm giá"
     },
     {
      "term": "honest advice",
      "meaning": "lời khuyên thật lòng"
+    },
+    {
+     "term": "share stories",
+     "meaning": "chia sẻ chuyện"
+    },
+    {
+     "term": "family outing",
+     "meaning": "chuyến đi chơi của gia đình"
     }
    ]
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think a framed photograph is the best choice for my friend. I choose it for two main reasons.\n\nThe first reason is that a photo is full of memories. By that, I mean it can remind my friend of the happy times we had together in Vietnam. For example, I will choose a photo of our group of friends on a trip to Da Lat. We laughed and took pictures together all day, so this photo will be a perfect farewell gift.\n\nAnother reason is that it can help her feel less homesick. In other words, settling in a new country is not easy, and she may feel lonely at first. For instance, when she puts the photo on her desk in her new home, she will feel that her friends are still with her. It will also remind her to call us when she has free time.\n\nThere are also some reasons why I do not choose the other two options. Regarding a wristwatch, I do not think it is the best choice because she can easily buy a good watch in the United States. As for a pair of headphones, I do not think it is the best option either because they are useful but not very personal.\n\nTo sum up, out of these three options, I believe a framed photograph is the best choice because it is meaningful, personal and memorable.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn ảnh lồng khung làm quà chia tay",
-     "reusable": "I think the best farewell gift for my friend is a framed photograph."
+     "section": "Chọn",
+     "content": "Câu khung + ảnh lồng khung",
+     "reusable": "In this situation, among the three options, I think a framed photograph is the best choice for my friend. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) chứa đầy kỷ niệm (ảnh chuyến đi Đà Lạt) (2) giúp bạn bớt nhớ nhà (3) món quà mang tính cá nhân, độc nhất",
-     "reusable": "First, a photo is full of memories. … Second, it can help her feel less homesick."
+     "section": "Lý do 1",
+     "content": "Đầy kỷ niệm → By that, I mean … → For example: ảnh cả nhóm đi Đà Lạt",
+     "reusable": "The first reason is that a photo is full of memories. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn đồng hồ",
-     "content": "Khá đắt, mọi người xem giờ bằng điện thoại, mua ở Mỹ cũng dễ",
-     "reusable": "I don't choose a wristwatch because it is quite expensive."
+     "section": "Lý do 2",
+     "content": "Bớt nhớ nhà → In other words … → For instance: đặt ảnh trên bàn ở nhà mới",
+     "reusable": "Another reason is that it can help her feel less homesick. In other words, …"
     },
     {
-     "section": "Vì sao không chọn tai nghe",
-     "content": "Đồ phổ biến, không có ý nghĩa đặc biệt, dễ hỏng",
-     "reusable": "I also don't choose a pair of headphones. … They do not have any special meaning."
+     "section": "Loại 2 phương án",
+     "content": "Đồng hồ: ở Mỹ dễ mua; tai nghe: hữu ích nhưng không mang tính cá nhân",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding a wristwatch, I do not think it is the best choice because … As for a pair of headphones, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn + giữ kỷ niệm, thể hiện sự quan tâm",
-     "reusable": "In conclusion, … is the best choice because it keeps our memories."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe a framed photograph is the best choice because it is meaningful, personal and memorable."
     }
    ],
-   "answer": "I think the best farewell gift for my friend is a framed photograph. Let me explain why.\n\nFirst, a photo is full of memories. I will choose a photo of our group of friends on a trip to Da Lat. When my friend looks at it, she will remember our happy time together. Second, it can help her feel less homesick. Living in a new country is not easy, and she may feel lonely at first. A photo of her friends on her desk will make her feel warm and loved. In addition, a framed photograph is a very personal gift. Nobody else can give her the same one.\n\nI don't choose a wristwatch because it is quite expensive. Also, many people now check the time on their phones. My friend can easily buy a nice watch in the United States if she needs one. I also don't choose a pair of headphones. They are useful, but they are a very common item. They do not have any special meaning, and they may break after one or two years.\n\nIn conclusion, a framed photograph is the best choice because it keeps our memories and shows how much I care about my friend.",
    "vocab": [
     {
      "term": "farewell gift",
      "meaning": "quà chia tay"
     },
     {
-     "term": "be full of memories",
-     "meaning": "chứa đầy kỷ niệm"
+     "term": "settle in a new country",
+     "meaning": "định cư ở nước mới"
     },
     {
      "term": "feel homesick",
      "meaning": "nhớ nhà"
     },
     {
-     "term": "a personal gift",
-     "meaning": "món quà mang dấu ấn riêng"
+     "term": "remind someone of",
+     "meaning": "gợi cho ai nhớ đến"
     },
     {
-     "term": "a common item",
-     "meaning": "món đồ phổ biến, bình thường"
+     "term": "personal",
+     "meaning": "mang tính cá nhân"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the importance of teamwork skills for students. In my opinion, students who can work well in a team will be more successful in the future.\n\nFirstly, a leader plays a key role in guiding a team. A good leader sets clear goals and helps members when they have problems. For example, in my English class, our group leader gave each person one part of the presentation, so nobody felt confused.\n\nSecondly, sharing and combining ideas leads to better results. One person may have a good idea, but a group can make it even better. For instance, when we planned a charity event at university, my friends added many creative ideas to my first plan.\n\nThirdly, teamwork brings benefits to studying and future careers. Students can learn from each other and finish big projects faster. A good example is my job now. My team includes doctors, engineers and data experts, and we learn a lot from each other.\n\nAnother important point is that teamwork improves communication skills. Students have to explain their ideas clearly and listen to others. For example, a shy student may become more confident after many group discussions.\n\nTo sum up, teamwork skills are important because of good leaders, shared ideas, future benefits and better communication.",
    "own_idea": "Improving communication skills",
+   "follow_ups": [
+    "A good team leader should be responsible and fair. The main reason is that members will only follow a leader they respect. For example, a good leader gives clear instructions and shares the work equally. Most importantly, he or she sets a good example for the team.",
+    "No, I do not think teamwork is always better. The main reason is that simple tasks are often faster when we work alone. For example, I can check a short document by myself in ten minutes. However, big projects usually need teamwork because one person cannot do everything.",
+    "Students can improve their teamwork skills by joining group projects, clubs and volunteer activities. The main reason is that they need real practice with other people. For example, playing team sports like football teaches them to support each other. They should also practise listening and sharing ideas."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 ý chính",
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
      "reusable": "Today I would like to talk about the importance of teamwork skills for students."
     },
     {
-     "section": "Ý 1: vai trò người trưởng nhóm",
-     "content": "Dẫn dắt, giao việc rõ ràng, lên kế hoạch, kiểm tra tiến độ",
-     "reusable": "First, a good team needs a leader. The leader guides the team and gives each member a clear task."
+     "section": "Ý 1: vai trò người lãnh đạo",
+     "content": "Ý → đặt mục tiêu rõ, giúp thành viên → ví dụ trưởng nhóm lớp tiếng Anh chia phần thuyết trình",
+     "reusable": "Firstly, a leader plays a key role in guiding a team."
     },
     {
-     "section": "Ý 2: chia sẻ và kết hợp ý tưởng",
-     "content": "Mỗi người một thế mạnh → giải pháp tốt hơn; 'hai cái đầu hơn một'",
-     "reusable": "Second, sharing and combining ideas leads to better results."
+     "section": "Ý 2: chia sẻ, kết hợp ý tưởng",
+     "content": "Ý → nhóm làm ý tưởng tốt hơn → ví dụ lên kế hoạch sự kiện từ thiện",
+     "reusable": "Secondly, sharing and combining ideas leads to better results."
     },
     {
-     "section": "Ý 3: lợi ích cho học tập và nghề nghiệp",
-     "content": "Học nhóm nhanh hơn; công việc nào cũng cần làm nhóm (ví dụ nhóm AI + bác sĩ)",
-     "reusable": "Third, teamwork brings many benefits to studying and future careers."
+     "section": "Ý 3: lợi ích cho học tập, nghề nghiệp",
+     "content": "Ý → học lẫn nhau, làm dự án nhanh → ví dụ nhóm có bác sĩ, kỹ sư, chuyên gia dữ liệu",
+     "reusable": "Thirdly, teamwork brings benefits to studying and future careers."
     },
     {
      "section": "Ý riêng: kỹ năng giao tiếp",
-     "content": "Biết lắng nghe, trình bày rõ ràng, giải quyết vấn đề lịch sự",
-     "reusable": "Finally, I think teamwork helps students improve their communication skills."
+     "content": "Ý → giải thích rõ, biết lắng nghe → ví dụ bạn nhút nhát tự tin hơn",
+     "reusable": "Another important point is that teamwork improves communication skills."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt 4 ý + nên luyện tập sớm",
-     "reusable": "In conclusion, … Therefore, students should practise teamwork as early as possible."
+     "section": "Kết",
+     "content": "Tóm tắt 4 ý",
+     "reusable": "To sum up, teamwork skills are important because of good leaders, shared ideas, future benefits and better communication."
     }
-   ],
-   "answer": "Today I would like to talk about the importance of teamwork skills for students. I think there are four main points.\n\nFirst, a good team needs a leader. The leader guides the team and gives each member a clear task. For example, in a group project, the leader makes a plan and checks that everyone finishes on time. Without a leader, the team may waste a lot of time.\n\nSecond, sharing and combining ideas leads to better results. Each student has different strengths and different ideas. When they share and combine their ideas, they can find a better solution. As people often say, two heads are better than one.\n\nThird, teamwork brings many benefits to studying and future careers. At university, students learn faster when they study in groups and help each other. Later, almost every job needs teamwork. In my job, I work with doctors and engineers to build AI tools for hospitals. Nobody can do this kind of work alone.\n\nFinally, I think teamwork helps students improve their communication skills. They learn how to listen to others, explain their ideas clearly and solve problems politely. These skills are very useful in daily life.\n\nIn conclusion, teamwork skills help students follow a good leader, create better ideas, study well and communicate well. Therefore, students should practise teamwork as early as possible.",
-   "follow_ups": [
-    "A good team leader should be responsible and fair. He or she should also listen to every member and give clear instructions. Most importantly, a good leader sets a good example for the team.",
-    "No, I don't think teamwork is always better. For simple tasks, working alone is often faster because we don't need to discuss anything. However, for big projects, teamwork usually gives better results.",
-    "Students can join group projects, clubs and volunteer activities. They should also practise listening to others and sharing their own ideas. Playing team sports like football is a fun way to learn teamwork too."
    ],
    "vocab": [
     {
-     "term": "guide a team",
-     "meaning": "dẫn dắt một nhóm"
+     "term": "set clear goals",
+     "meaning": "đặt mục tiêu rõ ràng"
     },
     {
-     "term": "combine ideas",
-     "meaning": "kết hợp ý tưởng"
+     "term": "charity event",
+     "meaning": "sự kiện từ thiện"
     },
     {
-     "term": "Two heads are better than one.",
-     "meaning": "Hai cái đầu tốt hơn một (nhiều người cùng nghĩ thì tốt hơn)"
+     "term": "group discussion",
+     "meaning": "thảo luận nhóm"
     },
     {
-     "term": "communication skills",
-     "meaning": "kỹ năng giao tiếp"
+     "term": "give clear instructions",
+     "meaning": "đưa ra hướng dẫn rõ ràng"
     },
     {
      "term": "set a good example",

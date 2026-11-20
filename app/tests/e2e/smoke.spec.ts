@@ -117,4 +117,8 @@ test('Model answers: list, detail with verbatim prompt and word count, print vie
   await expect(page).toHaveURL(/bai-mau\/vlu-135/);
   await page.goto('/#/in/bai-mau/vlu-135');
   await expect(page.locator('article')).toContainText('SPEAKING — PART 3');
+  await page.goto('/#/bai-mau/vlu-135');
+  await page.getByRole('link', { name: /Khung: Advantages/ }).click();
+  await expect(page.getByRole('heading', { name: 'Khung mẫu' })).toBeVisible();
+  await expect(page.locator('#w2_adv_disadv')).toContainText('On the one hand, [topic] has one main drawback.');
 });

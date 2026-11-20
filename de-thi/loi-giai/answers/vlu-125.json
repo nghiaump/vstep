@@ -2,6 +2,7 @@
  "id": "vlu-125",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -10,31 +11,31 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, động viên, sẵn lòng giúp",
-     "reusable": "Many students have the same problem, and I am happy to help."
+     "content": "Cảm ơn thư, trấn an bạn + sẵn lòng giúp",
+     "reusable": "Thank you for your email. Do not worry, because many students have the same problem, and I am happy to help."
     },
     {
-     "section": "Ý 1: việc cần làm ngay",
-     "content": "Tập thể dục ngay: đi bộ 30 phút mỗi tối, bơi 2 lần/tuần, đi thang bộ",
-     "reusable": "Firstly, you should start exercising right now."
+     "section": "Ý 1: làm gì ngay",
+     "content": "Trả lời thẳng (tập mỗi ngày một ít) → không cần nhiều lúc đầu → ví dụ đi bộ buổi tối, bơi ở hồ bơi trường → đi thang bộ",
+     "reusable": "Regarding what to do right now, you should start exercising a little every day."
     },
     {
-     "section": "Ý 2: thói quen nên tránh",
-     "content": "Tránh ăn ngoài mỗi ngày, nước ngọt, ăn khuya, ngồi máy tính quá lâu",
-     "reusable": "Try not to eat out every day because restaurant food often has a lot of oil, salt and sugar."
+     "section": "Ý 2: thói quen cần tránh",
+     "content": "Không ăn ngoài mỗi ngày → lý do (dầu, muối, đường) → bỏ nước ngọt, ăn khuya",
+     "reusable": "As for habits to avoid, try not to eat out every day."
     },
     {
-     "section": "Ý 3: gợi ý chế độ ăn",
-     "content": "Sáng: trứng, bánh mì, chuối; trưa/tối: gạo lứt, rau, cá, gà; đói thì ăn trái cây; nấu sẵn chiều Chủ nhật",
-     "reusable": "Finally, I recommend a simple and cheap diet."
+     "section": "Ý 3: chế độ ăn cho sinh viên",
+     "content": "Đơn giản, rẻ → bữa sáng trứng, bánh mì, chuối → trưa/tối gạo lứt, rau, cá, gà → nấu chiều Chủ nhật mang đi học",
+     "reusable": "About your question on diet, I recommend a simple and cheap one. … You can cook at home on Sunday afternoons and take your lunch to class."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Chúc may mắn, tin bạn sẽ lấy lại vóc dáng",
-     "reusable": "Good luck! I'm sure you will get back in shape soon."
+     "content": "Câu kết, chào cuối thư",
+     "reusable": "That's all for now. I am sure you will get back in shape soon. … Best wishes,"
     }
    ],
-   "answer": "Hi Alex,\n\nThanks for your email. I am sorry to hear about your weight, but don't worry. Many students have the same problem, and I am happy to help.\n\nFirstly, you should start exercising right now. You don't need to do too much at the beginning. For example, you can walk for thirty minutes every evening or go swimming twice a week. You should also take the stairs instead of the lift.\n\nSecondly, there are some habits you should avoid. Try not to eat out every day because restaurant food often has a lot of oil, salt and sugar. You should also stop drinking soft drinks and eating late at night. Moreover, don't sit in front of your computer for too long.\n\nFinally, I recommend a simple and cheap diet. For breakfast, you can have eggs, bread and a banana. For lunch and dinner, eat brown rice, vegetables, fish or chicken. If you feel hungry, have some fruit instead of snacks. You can cook at home on Sunday afternoon and take your lunch to university.\n\nGood luck! I'm sure you will get back in shape soon.\n\nBest wishes,\nMinh",
+   "answer": "Hi Alex,\n\nThank you for your email. Do not worry, because many students have the same problem, and I am happy to help.\n\nRegarding what to do right now, you should start exercising a little every day. You do not need to do too much at the beginning. For example, you can walk for thirty minutes every evening or go swimming at the university pool twice a week. You should also take the stairs instead of the lift.\n\nAs for habits to avoid, try not to eat out every day. This is because restaurant food often has a lot of oil, salt and sugar. You should also stop drinking soft drinks and eating late at night.\n\nAbout your question on diet, I recommend a simple and cheap one. For breakfast, you can have eggs, bread and a banana. For lunch and dinner, eat brown rice, vegetables, fish or chicken. You can cook at home on Sunday afternoons and take your lunch to class.\n\nThat's all for now. I am sure you will get back in shape soon.\n\nBest wishes,\nMinh",
    "vocab": [
     {
      "term": "get back in shape",
@@ -53,56 +54,62 @@
      "meaning": "gạo lứt"
     },
     {
-     "term": "diet",
-     "meaning": "chế độ ăn uống"
+     "term": "eat out",
+     "meaning": "ăn ở ngoài"
     }
    ]
   },
   "2": {
-   "essay_type": "Advantages & disadvantages (thảo luận ưu điểm và nhược điểm của làm việc ở nơi công cộng)",
+   "essay_type": "Advantages & disadvantages (thảo luận ưu điểm và nhược điểm)",
+   "type_key": "adv_disadv",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: nhiều người làm việc ở quán cà phê, công viên → bài bàn cả ưu và nhược điểm",
-     "reusable": "This essay will discuss both the advantages and disadvantages of this trend."
+     "content": "Viết lại đề (mang laptop ra quán cà phê, công viên làm việc) + câu dẫn",
+     "reusable": "This essay will discuss both its advantages and disadvantages."
     },
     {
-     "section": "Thân bài 1: ưu điểm",
-     "content": "(1) môi trường mới → sáng tạo hơn (2) đỡ cô đơn hơn ở nhà (3) Wi-Fi miễn phí, ghế thoải mái, đồ uống ngon",
-     "reusable": "On the one hand, working in public places has several advantages. Firstly, a new environment can make people feel more creative."
+     "section": "Thân bài 1 · PEER nhược điểm",
+     "content": "P: ồn, nhiều thứ gây xao nhãng → E: nhạc to, khách nói chuyện, gọi điện → Ex: sinh viên viết luận đọc đi đọc lại một đoạn → R: làm chậm, nhiều lỗi",
+     "reusable": "On the one hand, working in public places has one main drawback. The biggest problem is that these places are often noisy and full of distractions."
     },
     {
-     "section": "Thân bài 2: nhược điểm",
-     "content": "(1) ồn ào, khó tập trung (2) Wi-Fi công cộng không an toàn (3) tốn tiền đồ uống mỗi ngày",
-     "reusable": "On the other hand, working in public places also has some disadvantages. Firstly, these places are often noisy."
+     "section": "Thân bài 2 · PEER ưu điểm 1",
+     "content": "P: môi trường mới giúp sáng tạo → E: ngồi một chỗ mãi thấy chán → Ex: nhà thiết kế có ý tưởng khi ngồi công viên",
+     "reusable": "On the other hand, working in public places brings two important benefits. Firstly, a new environment can make people feel more creative and motivated."
+    },
+    {
+     "section": "Thân bài 2 · PEER ưu điểm 2",
+     "content": "P: bớt cô đơn → E: người làm ở nhà vẫn gặp người, trò chuyện → Ex: biên dịch viên tự do ra quán mỗi chiều → R: vui hơn, hiệu quả hơn",
+     "reusable": "Secondly, people feel less lonely when they work around others."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt + ý kiến: hợp với việc đơn giản, ngắn; việc quan trọng nên ở văn phòng hoặc phòng yên tĩnh",
-     "reusable": "In my opinion, it is a good choice for simple tasks or short periods."
+     "content": "Tóm tắt hai phía (đề không hỏi ý kiến)",
+     "reusable": "In conclusion, working in public places has both advantages and disadvantages."
     }
    ],
-   "answer": "Nowadays, more and more people work or study in public places, such as coffee shops and parks, instead of in an office or at home. Some people think this is a pleasant and productive way to work, while others believe it causes problems. This essay will discuss both the advantages and disadvantages of this trend.\n\nOn the one hand, working in public places has several advantages. Firstly, a new environment can make people feel more creative. For example, a writer may get new ideas when he sits in a park and looks at the trees. Secondly, people feel less lonely in a coffee shop than at home. They can see other people and sometimes meet friends after work. In addition, many coffee shops have free Wi-Fi, comfortable chairs and good drinks. As a result, people can work there for many hours.\n\nOn the other hand, working in public places also has some disadvantages. Firstly, these places are often noisy. Loud music and people's conversations can make it hard to focus on difficult tasks. Secondly, public Wi-Fi is not always safe. Hackers may steal personal information or company documents. Moreover, working in coffee shops can be expensive. If a person buys two drinks every day, he will spend a lot of money each month.\n\nIn conclusion, working in public places can make people more creative and less lonely, but it also has problems with noise, safety and cost. In my opinion, it is a good choice for simple tasks or short periods. However, for important work, an office or a quiet room at home is still better.",
+   "answer": "Nowadays, many people take their laptops to coffee shops or parks to work and study, rather than staying at the office or at home. Some find this relaxing and effective, while others see problems. This essay will discuss both its advantages and disadvantages.\n\nOn the one hand, working in public places has one main drawback. The biggest problem is that these places are often noisy and full of distractions. This is because there is loud music, and other customers talk or make phone calls. For example, a student who is writing an essay in a busy coffee shop may have to read the same paragraph many times. As a result, it takes longer to finish difficult tasks, and the work may contain more mistakes.\n\nOn the other hand, working in public places brings two important benefits. Firstly, a new environment can make people feel more creative and motivated. The reason is that sitting in the same office or bedroom every day can feel boring. For instance, a designer may get fresh ideas when she sits in a park and looks at the trees. Secondly, people feel less lonely when they work around others. This means that people who work from home can still see other faces and have small conversations during the day. A good example is a freelance translator who goes to a coffee shop every afternoon to feel more connected. Thanks to this, such workers stay happier and more productive.\n\nIn conclusion, working in public places has both advantages and disadvantages. Noise can make it hard to focus, but a new environment can help people feel more creative and less lonely.",
    "vocab": [
     {
+     "term": "distraction",
+     "meaning": "sự xao nhãng"
+    },
+    {
+     "term": "creative and motivated",
+     "meaning": "sáng tạo và có động lực"
+    },
+    {
+     "term": "freelance translator",
+     "meaning": "biên dịch viên tự do"
+    },
+    {
+     "term": "feel connected",
+     "meaning": "cảm thấy gắn kết"
+    },
+    {
      "term": "productive",
-     "meaning": "hiệu quả, năng suất"
-    },
-    {
-     "term": "creative",
-     "meaning": "sáng tạo"
-    },
-    {
-     "term": "focus on",
-     "meaning": "tập trung vào"
-    },
-    {
-     "term": "public Wi-Fi",
-     "meaning": "mạng Wi-Fi công cộng"
-    },
-    {
-     "term": "hacker",
-     "meaning": "tin tặc"
+     "meaning": "làm việc hiệu quả"
     }
    ]
   }
@@ -110,28 +117,28 @@
  "speaking": {
   "1": {
    "answers": [
-    "I like mountain scenery the most. I love the fresh air, the green forests and the cool weather. My favourite place is Da Lat.",
-    "I live in the centre of Ho Chi Minh City, so the scenery around my home is busy. There are tall buildings, small shops and a lot of motorbikes. However, there is also a small park with many trees near my house.",
-    "Yes, I do. When I travel, I often take photos of beautiful landscapes, such as mountains and beaches. These photos help me remember my beautiful trips.",
-    "Not really. I am not very good at drawing, so I rarely do it. I prefer reading or swimming in my free time.",
-    "I don't draw very often, but sometimes I draw simple things. For example, I draw flowers or cats for my little niece. It helps me relax for a few minutes.",
-    "Yes, I think so. Drawing helps children become more creative and patient. It also helps them show their feelings when they cannot explain them in words."
+    "I like mountain scenery the most. This is because I love the fresh air, the green forests and the cool weather. My favourite place is Da Lat, and I go there almost every year.",
+    "The scenery around my home is quite busy because I live in the centre of Ho Chi Minh City. There are tall buildings, small shops and a lot of motorbikes. However, there is also a small green park near my house.",
+    "Yes, I do. The main reason is that landscape photos help me remember my beautiful trips. For example, I took many photos of the sunrise on the beach in Nha Trang last summer.",
+    "Not really. This is because I am not very good at drawing, so I rarely do it. I prefer reading or swimming in my free time, but I sometimes draw for my little niece.",
+    "I usually draw very simple things, such as flowers or cats. This is because I mostly draw for my little niece, and she loves animals. For example, last weekend I drew a cat for her, and she coloured it in.",
+    "Yes, I think so. The main reason is that drawing helps children become more creative and patient. It also helps them show their feelings when they cannot explain them in words."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
+     "section": "Câu 1: trả lời thẳng",
      "content": "Trả lời ngay Yes/No hoặc lựa chọn",
      "reusable": "I like mountain scenery the most."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "I am not very good at drawing, so I rarely do it."
+     "section": "Câu 2: lý do",
+     "content": "This is because / The main reason is that …",
+     "reusable": "The main reason is that drawing helps children become more creative and patient."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 ví dụ cá nhân ngắn",
-     "reusable": "My favourite place is Da Lat."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân, thời gian, địa điểm",
+     "reusable": "For example, I took many photos of the sunrise on the beach in Nha Trang last summer."
     }
    ],
    "vocab": [
@@ -141,56 +148,60 @@
     },
     {
      "term": "landscape",
-     "meaning": "cảnh quan thiên nhiên"
+     "meaning": "cảnh quan, phong cảnh"
     },
     {
-     "term": "creative",
-     "meaning": "sáng tạo"
+     "term": "sunrise",
+     "meaning": "bình minh"
     },
     {
-     "term": "patient",
-     "meaning": "kiên nhẫn"
+     "term": "colour something in",
+     "meaning": "tô màu"
+    },
+    {
+     "term": "creative and patient",
+     "meaning": "sáng tạo và kiên nhẫn"
     }
    ]
   },
   "2": {
    "choice": 1,
+   "answer": "In this situation, among the three options, I think a foreign company is the best choice. I choose it for two main reasons.\n\nThe first reason is that a foreign company usually has a clear training programme. By that, I mean new graduates can learn professional skills step by step. For example, many foreign companies give new staff a mentor and short courses in their first few months.\n\nAnother reason is that I can improve my English every day. In other words, I will use English in meetings and emails with colleagues from other countries. For instance, I may join online meetings with a team in Singapore or Japan, and this will help my career a lot.\n\nThere are also some reasons why I do not choose the other two options. Regarding a family-owned company, I do not think it is the best choice because important positions often go to family members. It may be hard for me to get a promotion there. As for a start-up company, I do not think it is the best option either because it can be risky. Many start-ups close after one or two years, and as a new graduate, I want a stable job first.\n\nTo sum up, out of these three options, I believe a foreign company is the best choice because it is professional, stable and good for my future.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn làm cho công ty nước ngoài",
-     "reusable": "I think I should choose to work for a foreign company."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: công ty nước ngoài",
+     "reusable": "In this situation, among the three options, I think a foreign company is the best choice. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) lương và phúc lợi tốt (2) dùng tiếng Anh hằng ngày (3) đào tạo rõ ràng, môi trường chuyên nghiệp",
-     "reusable": "First, a foreign company usually offers a good salary and many benefits"
+     "section": "Lý do 1",
+     "content": "Chương trình đào tạo rõ ràng → By that, I mean học kỹ năng từng bước → For example: có người hướng dẫn, khoá học ngắn",
+     "reusable": "The first reason is that a foreign company usually has a clear training programme. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn công ty gia đình",
-     "content": "Vị trí quan trọng dành cho người nhà, khó thăng tiến; cách làm truyền thống",
-     "reusable": "I don't choose a family-owned company because the important jobs often go to family members."
+     "section": "Lý do 2",
+     "content": "Luyện tiếng Anh mỗi ngày → In other words họp, email bằng tiếng Anh → For instance: họp online với nhóm ở Singapore, Nhật",
+     "reusable": "Another reason is that I can improve my English every day. In other words, …"
     },
     {
-     "section": "Vì sao không chọn công ty khởi nghiệp",
-     "content": "Rủi ro, dễ đóng cửa, giờ làm dài; mới ra trường cần ổn định",
-     "reusable": "I also don't choose a start-up company. Start-ups are exciting, but they are risky."
+     "section": "Loại 2 phương án",
+     "content": "Công ty gia đình: vị trí quan trọng cho người nhà, khó thăng tiến; start-up: rủi ro, dễ đóng cửa",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding a family-owned company, I do not think it is the best choice because … As for a start-up company, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn + 3 lợi ích",
-     "reusable": "In conclusion, a foreign company is the best choice for me"
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe a foreign company is the best choice because it is professional, stable and good for my future."
     }
    ],
-   "answer": "I think I should choose to work for a foreign company. Let me explain why.\n\nFirst, a foreign company usually offers a good salary and many benefits, such as health insurance and paid holidays. This helps me feel safe about money. Second, I can improve my English every day. I will use English in meetings and emails with colleagues from other countries. Third, foreign companies often have a clear training programme and a professional working environment. As a result, I can learn a lot and build a strong career.\n\nI don't choose a family-owned company because the important jobs often go to family members. It may be hard for me to get a promotion there. In addition, the owners sometimes make decisions in a traditional way, so new ideas may not be welcome. I also don't choose a start-up company. Start-ups are exciting, but they are risky. Many of them close after one or two years, and the working hours are often very long. As a new graduate, I want a stable job first.\n\nIn conclusion, a foreign company is the best choice for me because it offers a good salary, a chance to use English and a clear career path.",
    "vocab": [
     {
-     "term": "job offer",
-     "meaning": "lời mời làm việc"
+     "term": "training programme",
+     "meaning": "chương trình đào tạo"
     },
     {
-     "term": "health insurance",
-     "meaning": "bảo hiểm y tế"
+     "term": "mentor",
+     "meaning": "người hướng dẫn, kèm cặp"
     },
     {
      "term": "get a promotion",
@@ -207,65 +218,65 @@
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the advantages of electric vehicles. In my opinion, electric vehicles are a smart choice for the future, especially in big cities.\n\nFirstly, electric vehicles help to protect the environment. They do not produce exhaust fumes, so the air in big cities becomes cleaner. For example, if more people in Ho Chi Minh City used electric motorbikes, there would be less smoke on busy roads.\n\nSecondly, electric vehicles have lower running costs. Charging a battery is much cheaper than buying petrol, and the motor needs fewer repairs. For instance, my friend has an electric car, and he says he spends much less on fuel than before.\n\nThirdly, drivers can gain a better driving experience. Electric cars speed up quickly and run very smoothly. A good example is my first ride in an electric car, which felt quiet and comfortable even in heavy traffic.\n\nAnother important point is that electric vehicles help to reduce noise pollution. Their motors are very quiet, so the streets become more peaceful. For example, people who live near busy roads can sleep and work better.\n\nTo sum up, electric vehicles are useful because they protect the environment, save money, give a better driving experience and reduce noise.",
    "own_idea": "Reducing noise pollution",
+   "follow_ups": [
+    "Yes, I think they are better in many ways. The main reason is that they are cleaner, quieter and cheaper to run. For example, charging an electric motorbike costs much less than filling it with petrol. However, gasoline vehicles are still better for long trips because petrol stations are everywhere.",
+    "The biggest disadvantage is that electric vehicles are usually more expensive to buy. Another problem is that there are not many charging stations in some areas. For example, if you drive from Ho Chi Minh City to a small town, you may not find a place to charge. Charging also takes a long time.",
+    "Governments can reduce taxes on electric vehicles, so they become cheaper. The main reason is that high prices stop many people from buying them. Governments should also build more charging stations in cities and on highways. For example, every petrol station could have a few charging points."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 ưu điểm chính",
-     "reusable": "Today I would like to talk about the advantages of electric vehicles."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the advantages of electric vehicles. In my opinion, electric vehicles are a smart choice for the future, especially in big cities."
     },
     {
      "section": "Ý 1: Protecting the environment",
-     "content": "Không thải khói → không khí sạch hơn, quan trọng với TP.HCM",
-     "reusable": "First, electric vehicles help to protect the environment."
+     "content": "Ý → không khí thải → ví dụ xe máy điện ở TP.HCM, ít khói",
+     "reusable": "Firstly, electric vehicles help to protect the environment."
     },
     {
      "section": "Ý 2: Lower running costs",
-     "content": "Sạc pin rẻ hơn xăng; ví dụ bạn tiết kiệm 2 triệu/tháng; ít bảo dưỡng",
-     "reusable": "Second, electric vehicles have lower running costs."
+     "content": "Ý → sạc rẻ hơn xăng, ít sửa → ví dụ bạn có xe điện tốn ít tiền nhiên liệu",
+     "reusable": "Secondly, electric vehicles have lower running costs."
     },
     {
      "section": "Ý 3: Better driving experience",
-     "content": "Tăng tốc nhanh, chạy êm, công nghệ hiện đại",
-     "reusable": "Third, drivers can gain a better driving experience."
+     "content": "Ý → tăng tốc nhanh, chạy êm → ví dụ lần đầu đi xe điện",
+     "reusable": "Thirdly, drivers can gain a better driving experience."
     },
     {
-     "section": "Ý riêng: Reducing noise pollution",
-     "content": "Động cơ êm → phố yên tĩnh, người dân ngủ và làm việc tốt hơn",
-     "reusable": "Finally, I think electric vehicles help to reduce noise pollution."
+     "section": "Ý riêng: Reducing noise",
+     "content": "Ý → động cơ êm → ví dụ người ở gần đường lớn ngủ ngon hơn",
+     "reusable": "Another important point is that electric vehicles help to reduce noise pollution."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt 4 ưu điểm + dự đoán tương lai",
-     "reusable": "I believe more people will use them in the future."
+     "section": "Kết",
+     "content": "Tóm tắt 4 ý",
+     "reusable": "To sum up, electric vehicles are useful because they protect the environment, save money, give a better driving experience and reduce noise."
     }
-   ],
-   "answer": "Today I would like to talk about the advantages of electric vehicles. In my opinion, they have four main advantages.\n\nFirst, electric vehicles help to protect the environment. They do not produce exhaust fumes, so the air in big cities becomes cleaner. This is very important in Ho Chi Minh City, where air pollution is a serious problem.\n\nSecond, electric vehicles have lower running costs. Charging a battery is much cheaper than buying petrol. For example, my friend has an electric car, and he saves about two million dong a month on fuel. In addition, electric vehicles need less maintenance because they have fewer parts.\n\nThird, drivers can gain a better driving experience. Electric cars start quickly and run very smoothly. Many of them also have modern technology, such as large screens and smart safety systems.\n\nFinally, I think electric vehicles help to reduce noise pollution. Their engines are very quiet, so the streets become more peaceful. People who live near busy roads can sleep and work better.\n\nIn conclusion, electric vehicles protect the environment, save money, give a better driving experience and reduce noise. I believe more people will use them in the future.",
-   "follow_ups": [
-    "Yes, I think they are better in many ways. They are cleaner, quieter and cheaper to run. However, gasoline vehicles are still better for long trips because it is easier to find a petrol station.",
-    "First, electric vehicles are usually more expensive to buy. Second, there are not many charging stations in some areas. Charging a battery also takes much longer than filling a tank with petrol.",
-    "Governments can reduce taxes on electric vehicles, so they will be cheaper. They can also build more charging stations in cities and on highways. In addition, they can offer free parking for electric cars."
    ],
    "vocab": [
     {
      "term": "exhaust fumes",
-     "meaning": "khói thải từ xe"
+     "meaning": "khí thải"
     },
     {
      "term": "running costs",
      "meaning": "chi phí vận hành"
     },
     {
-     "term": "maintenance",
-     "meaning": "việc bảo dưỡng"
+     "term": "charging station",
+     "meaning": "trạm sạc"
     },
     {
      "term": "noise pollution",
      "meaning": "ô nhiễm tiếng ồn"
     },
     {
-     "term": "charging station",
-     "meaning": "trạm sạc"
+     "term": "reduce taxes",
+     "meaning": "giảm thuế"
     }
    ]
   }

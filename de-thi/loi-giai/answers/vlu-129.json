@@ -2,43 +2,44 @@
  "id": "vlu-129",
  "writing": {
   "1": {
+   "template": "w1_formal",
    "outline": [
     {
      "section": "Lời chào",
-     "content": "Chào trang trọng theo tên ứng viên",
+     "content": "Thư trang trọng, biết tên người nhận (ứng viên)",
      "reusable": "Dear John,"
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư và sự quan tâm đến vị trí đầu bếp",
-     "reusable": "Thank you for your email and your interest in the full-time cook position at our restaurant."
+     "content": "Nêu mục đích: trả lời thư về vị trí đầu bếp",
+     "reusable": "I am writing in response to your email about the full-time cook position at our restaurant."
     },
     {
      "section": "Ý 1: nhiệm vụ + giờ làm",
-     "content": "Nấu món Việt (phở, cơm sườn), giữ bếp sạch, kiểm tra chất lượng; 10 giờ sáng – 7 giờ tối, 5 ngày/tuần, nghỉ giữa ca 1 tiếng",
-     "reusable": "As a cook, you will prepare the Vietnamese dishes on our menu … The working hours are from 10 a.m. to 7 p.m., five days a week"
+     "content": "Trả lời thẳng (nấu món Việt) → giữ bếp sạch, kiểm tra chất lượng → giờ làm 10h–19h, 5 ngày/tuần",
+     "reusable": "Concerning the responsibilities, you will cook Vietnamese dishes such as pho and grilled pork with rice."
     },
     {
-     "section": "Ý 2: làm ở chi nhánh nào",
-     "content": "3 chi nhánh; làm ở chi nhánh chính 25 Lê Lợi, Quận 1, gần chợ Bến Thành, dễ đi xe buýt",
-     "reusable": "You will work at our main branch at 25 Le Loi Street in District 1."
+     "section": "Ý 2: chi nhánh",
+     "content": "Trả lời thẳng (chi nhánh chính, 25 Lê Lợi, Q.1) → lý do (đông nhất, cần thêm người) → gần chợ Bến Thành, đi xe buýt",
+     "reusable": "With regard to the branch, you will work at our main branch at 25 Le Loi Street in District 1."
     },
     {
      "section": "Ý 3: lương + phúc lợi",
-     "content": "Lương khởi điểm 12 triệu/tháng; phúc lợi: bảo hiểm y tế, bữa ăn miễn phí, 12 ngày phép, thưởng Tết",
-     "reusable": "The starting salary is 12 million dong per month. As for benefits, you will get health insurance and free meals during your shift."
+     "content": "Lương khởi điểm 12 triệu → bảo hiểm y tế, bữa ăn miễn phí → 12 ngày phép, thưởng Tết",
+     "reusable": "Regarding the pay and benefits, the starting salary is 12 million dong per month."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mời liên hệ thêm, mong nhận hồ sơ; Yours sincerely",
-     "reusable": "If you have any further questions, please feel free to contact me."
+     "content": "Câu kết cố định trang trọng; Dear + tên → Yours sincerely",
+     "reusable": "If you require any further information, please do not hesitate to contact me. I look forward to hearing from you. Yours sincerely,"
     }
    ],
-   "answer": "Dear John,\n\nThank you for your email and your interest in the full-time cook position at our restaurant. I am happy to answer your questions.\n\nAs a cook, you will prepare the Vietnamese dishes on our menu, such as pho and grilled pork with rice. You will also keep the kitchen clean and check the quality of the food every day. The working hours are from 10 a.m. to 7 p.m., five days a week, with a one-hour break.\n\nWe have three branches in Ho Chi Minh City. You will work at our main branch at 25 Le Loi Street in District 1. It is close to Ben Thanh Market, so it is easy to get there by bus.\n\nThe starting salary is 12 million dong per month. As for benefits, you will get health insurance and free meals during your shift. In addition, you will have twelve days of paid holiday each year and a bonus at Tet.\n\nIf you have any further questions, please feel free to contact me. I look forward to receiving your application.\n\nYours sincerely,\nNguyen Minh\nOwner, Saigon Kitchen Restaurant",
+   "answer": "Dear John,\n\nI am writing in response to your email about the full-time cook position at our restaurant.\n\nConcerning the responsibilities, you will cook Vietnamese dishes such as pho and grilled pork with rice. You will also keep the kitchen clean and check the food quality every day. The working hours are from 10 a.m. to 7 p.m., five days a week.\n\nWith regard to the branch, you will work at our main branch at 25 Le Loi Street in District 1. This branch is the busiest, so we need an extra cook there. It is near Ben Thanh Market, so it is easy to get there by bus.\n\nRegarding the pay and benefits, the starting salary is 12 million dong per month. You will also get health insurance and free meals during your shift. In addition, you will have twelve days of paid holiday and a bonus at Tet.\n\nIf you require any further information, please do not hesitate to contact me. I look forward to hearing from you.\n\nYours sincerely,\nNguyen Minh",
    "vocab": [
     {
-     "term": "shift",
-     "meaning": "ca làm việc"
+     "term": "responsibilities",
+     "meaning": "nhiệm vụ, trách nhiệm"
     },
     {
      "term": "branch",
@@ -60,49 +61,55 @@
   },
   "2": {
    "essay_type": "Advantages & disadvantages (thảo luận ưu điểm và nhược điểm)",
+   "type_key": "adv_disadv",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: hàng tỷ người dùng Facebook, TikTok; thay đổi cách giao tiếp nhưng có vấn đề → bàn hai mặt",
-     "reusable": "This essay will discuss the advantages and disadvantages of social media."
+     "content": "Viết lại đề (mạng xã hội là một phần cuộc sống, thay đổi cách nói chuyện, học, giải trí) + câu dẫn",
+     "reusable": "This essay will discuss both the advantages and disadvantages of social media."
     },
     {
-     "section": "Thân bài 1: ưu điểm",
-     "content": "(1) giữ liên lạc với người thân (2) học tập, cập nhật tin tức (3) giúp kinh doanh nhỏ",
-     "reusable": "On the one hand, social media has many advantages. Firstly, it helps people stay in touch with friends and family."
+     "section": "Thân bài 1 · PEER: nhược điểm",
+     "content": "P: gây nghiện → E: ứng dụng được thiết kế để lướt mãi → Ex: thiếu niên xem TikTok tới nửa đêm trước kỳ thi → R: ngủ kém, ít thời gian học và bạn bè thật",
+     "reusable": "On the one hand, social media has one main drawback. The biggest problem is that …"
     },
     {
-     "section": "Thân bài 2: nhược điểm",
-     "content": "(1) gây nghiện, mất thời gian học, ngủ (2) tin giả (3) so sánh bản thân → buồn, căng thẳng",
-     "reusable": "On the other hand, social media also has some serious disadvantages. Firstly, it can be addictive."
+     "section": "Thân bài 2 · PEER 1: giữ liên lạc",
+     "content": "P: giữ liên lạc với người ở xa → E: gọi video, nhắn tin nhanh, miễn phí → Ex: gọi anh họ ở Úc mỗi cuối tuần",
+     "reusable": "On the other hand, social media brings two important benefits. Firstly, …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 2: học điều mới",
+     "content": "P: nơi học điều mới → E: học mọi lúc mọi nơi → Ex: bác sĩ chia sẻ video ăn uống, sơ cứu → R: chăm sóc sức khoẻ tốt hơn",
+     "reusable": "Secondly, social media is a useful place to learn new things."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt hai mặt + ý kiến: công cụ hữu ích nếu dùng khôn ngoan, giới hạn thời gian",
-     "reusable": "In my opinion, social media is a useful tool if we use it wisely."
+     "content": "Tóm tắt hai phía + dùng khôn ngoan, giới hạn thời gian",
+     "reusable": "In conclusion, social media has both advantages and disadvantages."
     }
    ],
-   "answer": "Nowadays, billions of people use social media platforms such as Facebook, Instagram and TikTok every day. These platforms have changed the way we communicate, learn and have fun. However, they also cause some problems. This essay will discuss the advantages and disadvantages of social media.\n\nOn the one hand, social media has many advantages. Firstly, it helps people stay in touch with friends and family. For example, I can video call my cousin in Australia on Facebook for free. Secondly, social media is a useful place to learn and get news. Many doctors and teachers share useful videos about health and studying, and people can watch them at any time. In addition, social media helps small businesses. Many shop owners sell clothes and food online, so they can reach more customers without renting a shop.\n\nOn the other hand, social media also has some serious disadvantages. Firstly, it can be addictive. Many young people spend hours scrolling on their phones, so they have less time for studying and sleeping. Secondly, there is a lot of fake news on social media. Some people believe wrong information about health, and this can be dangerous. Moreover, social media can cause mental health problems. People often compare their lives with the perfect photos of others, and they feel sad or stressed.\n\nIn conclusion, social media helps people communicate, learn and do business, but it can also waste time, spread fake news and harm mental health. In my opinion, social media is a useful tool if we use it wisely. We should limit our screen time and always check information carefully.",
+   "answer": "Nowadays, social networks such as Facebook and TikTok are part of daily life for a huge number of people. These apps have changed how we talk, study and relax, but they also cause some worries. This essay will discuss both the advantages and disadvantages of social media.\n\nOn the one hand, social media has one main drawback. The biggest problem is that it can be very addictive. This is because these apps are designed to keep users scrolling for as long as possible. For example, many teenagers watch short videos on TikTok until midnight, even before an important exam. As a result, they sleep badly, feel tired in class and have less time for studying and for their real friends.\n\nOn the other hand, social media brings two important benefits. Firstly, it helps people stay in touch with friends and family who live far away. The reason is that video calls and messages on these apps are fast and free. For instance, I can call my cousin in Australia on Facebook every weekend without paying anything. This makes us feel close to each other even though we live far apart. Secondly, social media is a useful place to learn new things. This means that people can get knowledge at any time and in any place. A good example is doctors who share short videos about healthy eating and first aid. Thanks to this, many people can learn how to take better care of their health.\n\nIn conclusion, social media has both advantages and disadvantages. It can make people addicted, but it also helps them keep in touch with others and learn new things. Therefore, we should use it wisely and limit our screen time.",
    "vocab": [
-    {
-     "term": "stay in touch with",
-     "meaning": "giữ liên lạc với"
-    },
-    {
-     "term": "reach customers",
-     "meaning": "tiếp cận khách hàng"
-    },
     {
      "term": "addictive",
      "meaning": "gây nghiện"
     },
     {
-     "term": "fake news",
-     "meaning": "tin giả"
+     "term": "keep scrolling",
+     "meaning": "lướt mãi không dừng"
+    },
+    {
+     "term": "stay in touch with",
+     "meaning": "giữ liên lạc với"
+    },
+    {
+     "term": "first aid",
+     "meaning": "sơ cứu"
     },
     {
      "term": "screen time",
-     "meaning": "thời gian dùng thiết bị điện tử"
+     "meaning": "thời gian dùng màn hình"
     }
    ]
   }
@@ -110,42 +117,38 @@
  "speaking": {
   "1": {
    "answers": [
-    "No, I don't often get sick. I eat healthy food and go swimming every weekend. I only catch a cold once or twice a year.",
-    "I have a health check-up once a year. My university offers free check-ups for all staff. It helps me find health problems early.",
-    "No, I don't think people pay enough attention to their health. Many people are too busy with work, so they eat fast food and sleep late. They only see a doctor when they feel very sick.",
-    "Yes, I think I am quite good at saving money. I write down everything I spend every month. I also try not to buy things I don't need.",
-    "I usually save money for travelling and emergencies. Next year, I want to take my parents on a trip to Japan.",
-    "Yes, it is very important. If young people learn to save money early, they will have fewer money problems in the future. They can also be ready for emergencies."
+    "No, I do not often get sick. This is because I eat healthy food and go swimming every weekend. I only catch a cold once or twice a year, usually when the weather changes.",
+    "I have a health check-up once a year. The main reason is that my university offers free check-ups for all staff. Last year, the doctor said my cholesterol was a bit high, so I changed my diet.",
+    "No, I do not think people pay enough attention to their health. Many people are too busy with work, so they eat fast food and sleep late. For example, some of my friends only see a doctor when they feel very sick.",
+    "Yes, I think I am quite good at saving money. This is because I write down everything I spend every month. I also try not to buy things that I do not really need.",
+    "I usually save money for travelling and emergencies. Travelling helps me relax, and emergency money makes me feel safe. For example, next year I want to take my parents on a trip to Japan.",
+    "Yes, I think it is very important. If young people learn to save money early, they will have fewer money problems in the future. For example, a student who saves a little every month can pay for an English course later."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No hoặc tần suất",
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Yes/No hoặc tần suất, lặp lại từ khoá",
      "reusable": "I have a health check-up once a year."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "Many people are too busy with work, so they eat fast food and sleep late."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do bằng This is because / The main reason is that",
+     "reusable": "The main reason is that my university offers free check-ups for all staff."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 chi tiết cá nhân ngắn",
-     "reusable": "Next year, I want to take my parents on a trip to Japan."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân, thời gian cụ thể",
+     "reusable": "For example, next year I want to take my parents on a trip to Japan."
     }
    ],
    "vocab": [
-    {
-     "term": "get sick",
-     "meaning": "bị ốm"
-    },
     {
      "term": "catch a cold",
      "meaning": "bị cảm lạnh"
     },
     {
      "term": "health check-up",
-     "meaning": "khám sức khoẻ định kỳ"
+     "meaning": "khám sức khoẻ"
     },
     {
      "term": "pay attention to",
@@ -154,101 +157,105 @@
     {
      "term": "emergency",
      "meaning": "trường hợp khẩn cấp"
+    },
+    {
+     "term": "save money",
+     "meaning": "tiết kiệm tiền"
     }
    ]
   },
   "2": {
    "choice": 2,
+   "answer": "In this situation, among the three options, I think a small school in her hometown is the best choice for my friend. I choose it for two main reasons.\n\nThe first reason is that a small school is a good place for a new teacher to start. By that, I mean the classes are smaller and the pressure is lower, so she can learn step by step. For example, older teachers in a small school often have time to watch her lessons and give her useful advice.\n\nAnother reason is that she can live with her family and save money. In other words, she does not need to pay rent or spend a lot on food. For instance, her mother can cook for her, so she can save most of her first salary. She can also help children in her hometown get a better education.\n\nThere are also some reasons why I do not choose the other two options. Regarding a big school in a big city, I do not think it is the best choice because the classes are large and the workload is heavy. Living costs in the city are also high. As for an international school in a big city, I do not think it is the best option either because these schools usually want teachers with many years of experience.\n\nTo sum up, out of these three options, I believe a small school in her hometown is the best choice because it is comfortable, cheap and meaningful.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn trường nhỏ ở quê",
-     "reusable": "I think my friend should work at a small school in her hometown."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: trường nhỏ ở quê",
+     "reusable": "In this situation, among the three options, I think a small school in her hometown is the best choice for my friend. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) nơi tốt để giáo viên mới bắt đầu: lớp nhỏ, ít áp lực, được hướng dẫn (2) ở với gia đình, tiết kiệm; giúp trẻ em quê nhà",
-     "reusable": "First, a small school is a good place for a new teacher to start. … Second, she can live with her family in her hometown."
+     "section": "Lý do 1",
+     "content": "Nơi tốt để giáo viên mới bắt đầu → By that, I mean … lớp nhỏ, ít áp lực → For example: giáo viên lớn tuổi dự giờ, góp ý",
+     "reusable": "The first reason is that a small school is a good place for a new teacher to start. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn trường lớn ở thành phố",
-     "content": "Lớp đông khoảng 45 em, khối lượng việc nặng, chi phí sống cao",
-     "reusable": "I don't choose a big school in a big city because the classes are often very large"
+     "section": "Lý do 2",
+     "content": "Sống với gia đình, tiết kiệm → In other words … không tốn tiền nhà → For instance: mẹ nấu cơm, để dành lương",
+     "reusable": "Another reason is that she can live with her family and save money. In other words, …"
     },
     {
-     "section": "Vì sao không chọn trường quốc tế",
-     "content": "Lương cao nhưng đòi tiếng Anh giỏi + nhiều năm kinh nghiệm",
-     "reusable": "I also don't choose an international school in a big city."
+     "section": "Loại 2 phương án",
+     "content": "Trường lớn ở thành phố: lớp đông, việc nặng, chi phí cao; trường quốc tế: cần nhiều năm kinh nghiệm",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding a big school in a big city, I do not think it is the best choice because … As for an international school in a big city, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: học hỏi ít áp lực, tiết kiệm, giúp cộng đồng",
-     "reusable": "In conclusion, a small school in her hometown is the best choice for her."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe a small school in her hometown is the best choice because it is comfortable, cheap and meaningful."
     }
    ],
-   "answer": "I think my friend should work at a small school in her hometown. Let me explain why.\n\nFirst, a small school is a good place for a new teacher to start. The classes are usually small, so she can get to know every student well. She will also have less pressure, and the older teachers can guide her. As a result, she can build her confidence and improve her teaching skills step by step. Second, she can live with her family in her hometown. She doesn't need to pay rent, so she can save money. In addition, she can help children in her hometown get a good education. I think this is very meaningful.\n\nI don't choose a big school in a big city because the classes are often very large, with about forty-five students. The workload is heavy, and living costs in the city are high. I also don't choose an international school in a big city. The salary is high, but these schools usually want teachers with excellent English and many years of experience. As a new graduate, she may find it hard to get a job there.\n\nIn conclusion, a small school in her hometown is the best choice for her. She can learn with less pressure, save money and help her community.",
    "vocab": [
-    {
-     "term": "build confidence",
-     "meaning": "xây dựng sự tự tin"
-    },
     {
      "term": "step by step",
      "meaning": "từng bước một"
+    },
+    {
+     "term": "pay rent",
+     "meaning": "trả tiền thuê nhà"
     },
     {
      "term": "workload",
      "meaning": "khối lượng công việc"
     },
     {
-     "term": "new graduate",
-     "meaning": "người mới tốt nghiệp"
+     "term": "living costs",
+     "meaning": "chi phí sinh hoạt"
     },
     {
-     "term": "community",
-     "meaning": "cộng đồng"
+     "term": "meaningful",
+     "meaning": "có ý nghĩa"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the reasons why misbehavior among young people is increasing. In my opinion, there are several main reasons for this problem.\n\nFirstly, family background plays an important role. Many parents are very busy with work, so they do not spend enough time with their children. For example, some children are left alone with a phone all evening, and nobody teaches them right from wrong.\n\nSecondly, school discipline is sometimes not strict enough. In some schools, the rules are not clear, and bad behavior is not punished. For instance, if a student skips class and nothing happens, other students may do the same.\n\nThirdly, the Internet has strong effects on young people. Many teenagers watch violent videos or play violent games online, and some of them copy what they see. A good example is students who copy dangerous challenges from TikTok and hurt themselves or others.\n\nAnother important point is that peer pressure can push young people to behave badly. Teenagers want to be accepted by their friends. For example, if a group of friends smokes or fights, a teenager may do the same things to fit in.\n\nTo sum up, family background, weak school discipline, the effects of the Internet and peer pressure all lead to more misbehavior. Parents, schools and society should work together to guide young people.",
    "own_idea": "Peer pressure",
+   "follow_ups": [
+    "Parents can help by spending more time talking with their children. When children feel loved and listened to, they are less likely to behave badly. For example, parents can have dinner together every evening and ask about their day at school. They should also set clear rules at home.",
+    "Yes, I think schools should punish students who misbehave, but the punishment should be fair and not violent. The main reason is that students need to learn to take responsibility for their actions. For example, a student can clean the classroom or write a letter of apology.",
+    "I think the government should play an important role. It should make strict laws against harmful content and ask social media companies to remove violent videos quickly. For example, it can fine companies that do not delete dangerous challenges. It can also teach young people how to use the Internet safely."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + 4 nguyên nhân chính",
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
      "reusable": "Today I would like to talk about the reasons why misbehavior among young people is increasing."
     },
     {
-     "section": "Ý 1: Family background",
-     "content": "Bố mẹ bận, ít thời gian; gia đình cãi vã, bạo lực → trẻ bắt chước",
-     "reusable": "First, family background plays an important role."
+     "section": "Ý 1: hoàn cảnh gia đình",
+     "content": "Ý → cha mẹ bận, ít thời gian → ví dụ trẻ ở một mình với điện thoại",
+     "reusable": "Firstly, family background plays an important role."
     },
     {
-     "section": "Ý 2: School discipline",
-     "content": "Nội quy chưa nghiêm, không xử lý vi phạm; lớp đông khó quản lý",
-     "reusable": "Second, school discipline is sometimes not strict enough."
+     "section": "Ý 2: kỷ luật nhà trường",
+     "content": "Ý → nội quy không rõ, không bị phạt → ví dụ trốn học không sao, bạn khác bắt chước",
+     "reusable": "Secondly, school discipline is sometimes not strict enough."
     },
     {
-     "section": "Ý 3: Effects of the Internet",
-     "content": "Video, game bạo lực → bắt chước; gặp người xấu trên mạng",
-     "reusable": "Third, the Internet has strong effects on young people."
+     "section": "Ý 3: ảnh hưởng của Internet",
+     "content": "Ý → video, game bạo lực → ví dụ thử thách nguy hiểm trên TikTok",
+     "reusable": "Thirdly, the Internet has strong effects on young people."
     },
     {
-     "section": "Ý riêng: Peer pressure",
-     "content": "Muốn được bạn chấp nhận → hút thuốc, trốn học, đánh nhau theo bạn",
-     "reusable": "Finally, I think peer pressure is another reason."
+     "section": "Ý riêng: áp lực bạn bè",
+     "content": "Ý → muốn được bạn chấp nhận → ví dụ bạn hút thuốc, đánh nhau thì làm theo",
+     "reusable": "Another important point is that peer pressure can push young people to behave badly."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt 4 nguyên nhân + gia đình, nhà trường, xã hội cùng định hướng",
-     "reusable": "Parents, schools and society should work together to guide young people."
+     "section": "Kết",
+     "content": "Tóm tắt 4 nguyên nhân + cùng hướng dẫn giới trẻ",
+     "reusable": "To sum up, family background, weak school discipline, the effects of the Internet and peer pressure all lead to more misbehavior."
     }
-   ],
-   "answer": "Today I would like to talk about the reasons why misbehavior among young people is increasing. In my opinion, there are four main reasons.\n\nFirst, family background plays an important role. Many parents are very busy with work, so they do not spend enough time with their children. Some children grow up in families with a lot of arguments or violence. As a result, they may copy this bad behavior.\n\nSecond, school discipline is sometimes not strict enough. In some schools, the rules are not clear, and bad behavior is not punished. So students think they can do anything they want. In addition, large classes make it hard for teachers to watch every student.\n\nThird, the Internet has strong effects on young people. Many teenagers watch violent videos or play violent games online. Some of them copy what they see. Moreover, they can easily meet bad people on social media.\n\nFinally, I think peer pressure is another reason. Teenagers want to be accepted by their friends. If their friends smoke, skip school or fight, they may do the same things to fit in.\n\nIn conclusion, family background, weak school discipline, the Internet and peer pressure all lead to more misbehavior. Parents, schools and society should work together to guide young people.",
-   "follow_ups": [
-    "Parents should spend more time talking with their children. They should also set clear rules at home and be good examples. In addition, they should know who their children's friends are.",
-    "Yes, but the punishment should be fair and not violent. For example, students can clean the classroom or write a letter of apology. The main aim is to help them learn from their mistakes.",
-    "The government should make strict laws against harmful content. It should also ask social media companies to remove violent videos quickly. In addition, it can teach young people how to use the Internet safely."
    ],
    "vocab": [
     {
@@ -256,20 +263,20 @@
      "meaning": "hành vi sai trái"
     },
     {
-     "term": "family background",
-     "meaning": "hoàn cảnh gia đình"
+     "term": "discipline",
+     "meaning": "kỷ luật"
     },
     {
-     "term": "school discipline",
-     "meaning": "kỷ luật nhà trường"
+     "term": "right from wrong",
+     "meaning": "đúng và sai"
     },
     {
      "term": "peer pressure",
-     "meaning": "áp lực từ bạn bè đồng trang lứa"
+     "meaning": "áp lực từ bạn bè"
     },
     {
      "term": "fit in",
-     "meaning": "hoà nhập, được nhóm chấp nhận"
+     "meaning": "hoà nhập, được chấp nhận"
     }
    ]
   }

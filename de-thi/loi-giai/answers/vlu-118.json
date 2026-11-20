@@ -2,6 +2,7 @@
  "id": "vlu-118",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -10,99 +11,105 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, chào mừng bạn đến khu phố",
-     "reusable": "Thank you for your email. Welcome to my neighbourhood!"
+     "content": "Cảm ơn thư + chào mừng hàng xóm mới",
+     "reusable": "Thank you for your email. Welcome to my neighbourhood."
     },
     {
-     "section": "Ý 1: có đi chạy bộ cùng không",
-     "content": "Đồng ý + hẹn giờ, địa điểm cụ thể (6 giờ sáng, cổng công viên Gia Định)",
-     "reusable": "How about meeting at the main gate of Gia Dinh Park at 6 a.m. tomorrow?"
+     "section": "Ý 1: có tham gia chạy bộ không",
+     "content": "Đồng ý → lý do (muốn tập thêm ngày thường) → hẹn cổng chính công viên Gia Định, 6 giờ sáng mai → chạy 30 phút",
+     "reusable": "Regarding jogging, I would love to join you in the park. … How about meeting at the main gate of Gia Dinh Park at 6 a.m. tomorrow?"
     },
     {
      "section": "Ý 2: phòng gym gần đây",
-     "content": "Giới thiệu 1 phòng gym: tên, đường, ưu điểm, giờ mở cửa",
-     "reusable": "My favourite one is Fit Life Gym on Phan Dang Luu Street."
+     "content": "Có → vị trí (đường Phan Đăng Lưu, gần công viên) → sạch, hiện đại, huấn luyện viên thân thiện, không đắt",
+     "reusable": "As for gyms, yes, there is a good one near here."
     },
     {
      "section": "Ý 3: tập gym 2 buổi/tuần có đủ không",
-     "content": "Là khởi đầu tốt nhưng chưa đủ; người lớn cần 150 phút/tuần; kết hợp chạy bộ",
-     "reusable": "In my opinion, going to the gym twice a week is a good start, but it is not enough."
+     "content": "Khởi đầu tốt nhưng chưa đủ → bác sĩ khuyên 150 phút/tuần → chạy mỗi sáng + gym 2 buổi",
+     "reusable": "About your question on exercise, I think going to the gym twice a week is a good start, but it is not enough."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mong buổi chạy đầu tiên, chào cuối thư",
+     "content": "Mong buổi chạy đầu tiên",
      "reusable": "I am looking forward to our first run together. Best wishes,"
     }
    ],
-   "answer": "Hi Sarah,\n\nThank you for your email. Welcome to my neighbourhood! I am so happy that we live close to each other now.\n\nI would love to join you for a jog in the park. I usually swim at weekends, but I want to exercise more on weekdays. How about meeting at the main gate of Gia Dinh Park at 6 a.m. tomorrow? We can run for about thirty minutes before work.\n\nYes, there are some good gyms around here. My favourite one is Fit Life Gym on Phan Dang Luu Street. It is clean and modern, and the trainers are very friendly. It is not expensive, and it opens from 5 a.m. to 10 p.m.\n\nIn my opinion, going to the gym twice a week is a good start, but it is not enough. Doctors usually say that adults need about 150 minutes of exercise every week. If we jog every morning and go to the gym twice a week, we will be really fit.\n\nI am looking forward to our first run together.\n\nBest wishes,\nMinh",
+   "answer": "Hi Sarah,\n\nThank you for your email. Welcome to my neighbourhood. I am so happy that we live close to each other now.\n\nRegarding jogging, I would love to join you in the park. I usually swim at weekends, but I want to exercise more on weekdays. How about meeting at the main gate of Gia Dinh Park at 6 a.m. tomorrow? We can run for about thirty minutes before work.\n\nAs for gyms, yes, there is a good one near here. My favourite is a small gym on Phan Dang Luu Street, near the park. It is clean and modern, and the trainers are very friendly. It is also not expensive.\n\nAbout your question on exercise, I think going to the gym twice a week is a good start, but it is not enough. Doctors usually advise adults to do about 150 minutes of exercise every week. If we jog every morning and go to the gym twice a week, we will be really fit.\n\nI am looking forward to our first run together.\n\nBest wishes,\nMinh",
    "vocab": [
     {
      "term": "neighbourhood",
      "meaning": "khu phố, khu dân cư"
     },
     {
-     "term": "join someone for a jog",
-     "meaning": "đi chạy bộ cùng ai"
+     "term": "main gate",
+     "meaning": "cổng chính"
     },
     {
      "term": "trainer",
-     "meaning": "huấn luyện viên (phòng gym)"
+     "meaning": "huấn luyện viên"
     },
     {
      "term": "a good start",
      "meaning": "một khởi đầu tốt"
     },
     {
-     "term": "be fit",
-     "meaning": "khoẻ mạnh, cân đối"
+     "term": "advise someone to do something",
+     "meaning": "khuyên ai làm gì"
     }
    ]
   },
   "2": {
-   "essay_type": "Opinion (nêu ý kiến: yếu tố quan trọng nhất khi chọn nghề)",
+   "essay_type": "Opinion – most important factor (nêu ý kiến: yếu tố quan trọng nhất khi chọn nghề)",
+   "type_key": "opinion",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: nhiều yếu tố khi chọn việc, hai luồng ý kiến → nêu quan điểm: sự hài lòng/yêu thích công việc quan trọng nhất",
-     "reusable": "In my opinion, job satisfaction is the most important factor when choosing a job."
+     "content": "Viết lại đề (chọn việc cân nhắc lương, đồng nghiệp, sở thích) + nhượng bộ + quan điểm: sự hài lòng với công việc quan trọng nhất",
+     "reusable": "Although some people believe that money matters most, I believe that job satisfaction is the most important factor."
     },
     {
-     "section": "Thân bài 1: vì sao yêu thích công việc quan trọng",
-     "content": "(1) 8 tiếng/ngày ở chỗ làm → vui, ít căng thẳng; ví dụ cô giáo Lan (2) làm chăm hơn, học nhanh hơn → thăng tiến (3) tốt cho sức khoẻ",
-     "reusable": "Firstly, people spend about eight hours a day at work, so they should enjoy what they do."
+     "section": "Thân bài 1 · PEER phía đối lập",
+     "content": "P: lương quan trọng nhất → E: cần tiền nhà, ăn, học cho con → Ex: người trẻ ở TP.HCM chọn việc bán hàng lương cao để nuôi bố mẹ → R: cuộc sống thoải mái, an toàn",
+     "reusable": "Admittedly, some people argue that salary is the most important factor. This is because …"
     },
     {
-     "section": "Thân bài 2: vì sao lương không phải số 1",
-     "content": "Thừa nhận tiền cần thiết → nhưng lương cao không mang lại hạnh phúc nếu ghét việc; ví dụ nhân viên ngân hàng; giỏi việc mình thích thì lương sẽ tăng",
-     "reusable": "It is true that money is important because we need to pay for food, housing and our children's education. However, a high salary cannot make people happy if they hate their job."
+     "section": "Thân bài 2 · PEER 1",
+     "content": "P: thích việc thì vui, khoẻ hơn → E: 8 tiếng/ngày ở chỗ làm, việc chán gây căng thẳng → Ex: bạn bỏ việc ngân hàng lương cao đi dạy, vui hơn",
+     "reusable": "However, I firmly believe that job satisfaction matters more for two main reasons. Firstly, …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 2",
+     "content": "P: yêu việc thì làm chăm, tiến bộ nhanh → E: được thăng chức, lương cao sau này → Ex: công việc nghiên cứu AI của mình → R: vừa hạnh phúc vừa thành công",
+     "reusable": "Secondly, people who love their jobs usually work harder and improve faster."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt + nhắc lại quan điểm + lời khuyên cho người trẻ",
-     "reusable": "However, I believe job satisfaction is the most important factor because it brings happiness, good results and good health."
+     "content": "Nhắc lại quan điểm + 2 lý do",
+     "reusable": "In conclusion, although a good salary is important, I believe that job satisfaction is the most important factor."
     }
    ],
-   "answer": "When people choose a job, they think about many things, such as salary, working environment and career growth. Some people believe that salary is the most important factor, while others think job satisfaction matters more. In my opinion, job satisfaction is the most important factor when choosing a job.\n\nFirstly, people spend about eight hours a day at work, so they should enjoy what they do. If they like their job, they feel happy and less stressed every day. For example, my friend Lan is a primary school teacher. Her salary is not high, but she loves children and always comes home with a smile. Secondly, people who enjoy their work usually work harder and learn faster. As a result, they often do their job well and get promoted. In addition, a satisfying job is good for health because people do not feel tired or worried all the time.\n\nOn the other hand, many people think that salary should come first. It is true that money is important because we need to pay for food, housing and our children's education. However, a high salary cannot make people happy if they hate their job. For instance, some bank staff earn a lot of money, but they work under great pressure and often feel exhausted. Moreover, if people are good at a job that they enjoy, their salary will usually increase over time.\n\nIn conclusion, salary, working environment and career growth are all important when people choose a job. However, I believe job satisfaction is the most important factor because it brings happiness, good results and good health. Young people should choose a job that they really enjoy.",
+   "answer": "When people look for a job, they think about many things, such as pay, colleagues and their own interests. Although some people believe that money matters most, I believe that job satisfaction is the most important factor.\n\nAdmittedly, some people argue that salary is the most important factor. This is because people need money to pay for housing, food and their children's education. Prices in big cities also keep going up every year. For example, a young worker in Ho Chi Minh City may choose a well-paid sales job to support his parents. As a result, a high salary can give people a more comfortable and secure life.\n\nHowever, I firmly believe that job satisfaction matters more for two main reasons. Firstly, people who enjoy their work feel happier and healthier. The reason is that we spend about eight hours a day at work, so a boring job can make us stressed. For instance, a friend of mine left a well-paid bank job to become a teacher, and she is much happier now. Secondly, people who love their jobs usually work harder and improve faster. This means that they often get promoted and earn more money later. A good example is my own job as a researcher. I enjoy using AI to help doctors, so I want to learn something new every day. As a result, job satisfaction can lead to both happiness and success.\n\nIn conclusion, although a good salary is important, I believe that job satisfaction is the most important factor. It makes people happier, and it helps them develop in their careers. Therefore, young people should choose a job they love, not only a job that pays well.",
    "vocab": [
     {
      "term": "job satisfaction",
      "meaning": "sự hài lòng với công việc"
     },
     {
-     "term": "career growth",
-     "meaning": "sự phát triển sự nghiệp"
+     "term": "well-paid",
+     "meaning": "được trả lương cao"
+    },
+    {
+     "term": "secure life",
+     "meaning": "cuộc sống ổn định, an toàn"
     },
     {
      "term": "get promoted",
      "meaning": "được thăng chức"
     },
     {
-     "term": "work under great pressure",
-     "meaning": "làm việc dưới áp lực"
-    },
-    {
-     "term": "exhausted",
-     "meaning": "kiệt sức"
+     "term": "develop in one's career",
+     "meaning": "phát triển sự nghiệp"
     }
    ]
   }
@@ -110,150 +117,142 @@
  "speaking": {
   "1": {
    "answers": [
-    "Yes, I do. I eat a lot of vegetables, fish and fruit because they are good for my health. With my medical background, I know that healthy food can prevent many diseases.",
-    "Yes, I would like to try the Mediterranean diet. It has a lot of vegetables, fish and olive oil, so it is good for the heart. However, olive oil is quite expensive in Vietnam, so I may not follow it every day.",
-    "I would like to share fresh spring rolls and sour fish soup. These dishes are healthy and easy to make. My friends can also roll the spring rolls together, so it is fun.",
-    "My favourite park is Tao Dan Park in District 1. I like it because it has a lot of big old trees, so the air is fresh and cool. It is a quiet place in the middle of a busy city.",
-    "I go there about once a week, usually on Sunday morning. I often walk there for half an hour and then have coffee with my friends nearby.",
-    "I like the fresh air and the green trees most. Spending time in parks helps me relax and forget about work. I also enjoy watching people do exercise there."
+    "Yes, I enjoy eating healthy food. This is because it gives me energy and keeps me fit. With my medical background, I know that vegetables, fish and fruit can prevent many diseases.",
+    "Yes, I would like to try the Mediterranean diet. The main reason is that it has lots of vegetables, fish and olive oil, which are good for the heart. However, olive oil is quite expensive in Vietnam.",
+    "I would like to share fresh spring rolls and sour fish soup. This is because these dishes are healthy and easy to make. My friends can also roll the spring rolls together, so it is fun.",
+    "My favourite park is Tao Dan Park in the city centre. I like it because it has many big old trees, so the air is fresh and cool. It is a quiet place in the middle of a busy city.",
+    "I go to Tao Dan Park about once a week, usually on Sunday mornings. This is because I am busy at work on weekdays. I often walk there for half an hour and then have coffee with my friends nearby.",
+    "I like the fresh air and the green trees most. Spending time in parks helps me relax and forget about work. I also enjoy watching people do exercise there, such as tai chi and badminton."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No, tên công viên hoặc tần suất",
-     "reusable": "My favourite park is Tao Dan Park in District 1."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
+     "reusable": "My favourite park is Tao Dan Park in the city centre."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "I like it because it has a lot of big old trees, so the air is fresh and cool."
+     "section": "Câu 2: lý do",
+     "content": "This is because / The main reason is that …",
+     "reusable": "This is because it gives me energy and keeps me fit."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 chi tiết cá nhân ngắn",
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân, thời gian, địa điểm",
      "reusable": "I often walk there for half an hour and then have coffee with my friends nearby."
     }
    ],
    "vocab": [
     {
-     "term": "Mediterranean diet",
-     "meaning": "chế độ ăn Địa Trung Hải (nhiều rau, cá, dầu ô liu)"
+     "term": "medical background",
+     "meaning": "nền tảng y khoa"
     },
     {
-     "term": "prevent diseases",
-     "meaning": "phòng bệnh"
+     "term": "Mediterranean diet",
+     "meaning": "chế độ ăn Địa Trung Hải"
     },
     {
      "term": "fresh spring rolls",
      "meaning": "gỏi cuốn"
     },
     {
-     "term": "in the middle of",
-     "meaning": "ở giữa"
-    },
-    {
-     "term": "forget about work",
-     "meaning": "quên đi công việc"
+     "term": "sour fish soup",
+     "meaning": "canh chua cá"
     }
    ]
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think practising in front of a small group of friends is the best choice for her. I choose it for two main reasons.\n\nThe first reason is that this option is the most similar to the real presentation. By that, I mean she will feel a little nervous in front of real people, just like on the big day. For example, she can practise looking at the audience and speaking loudly, so she will be calmer when she presents.\n\nAnother reason is that her friends can give her useful feedback. In other words, they can tell her what is good and what she needs to change. For instance, they can tell her if she speaks too fast or if a slide is difficult to understand. They can also ask questions, so she can prepare her answers.\n\nThere are also some reasons why I do not choose the other two options. Regarding practising in front of a mirror, I do not think it is the best choice because a mirror cannot give her any feedback or questions. As for recording herself, I do not think it is the best option either because she cannot see her body language. It also takes a lot of time.\n\nTo sum up, out of these three options, I believe practising in front of a small group of friends is the best choice because it is realistic, helpful and effective.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn tập nói trước một nhóm bạn nhỏ",
-     "reusable": "I think my friend should practise speaking in front of a small group of friends."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: tập trước một nhóm bạn nhỏ",
+     "reusable": "In this situation, among the three options, I think practising in front of a small group of friends is the best choice for her. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) giống buổi thuyết trình thật → học cách kiểm soát hồi hộp (2) bạn bè góp ý, đặt câu hỏi",
-     "reusable": "Second, her friends can give her useful feedback."
+     "section": "Lý do 1",
+     "content": "Giống buổi thuyết trình thật → By that, I mean (hơi run như hôm thật) → For example: tập nhìn khán giả, nói to",
+     "reusable": "The first reason is that this option is the most similar to the real presentation. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn tập trước gương",
-     "content": "Không ai góp ý; nhìn mình lâu thấy kỳ",
-     "reusable": "I don't choose practising in front of a mirror."
+     "section": "Lý do 2",
+     "content": "Bạn bè góp ý → In other words (điểm tốt, điểm cần sửa) → For instance: nói nhanh quá, slide khó hiểu; đặt câu hỏi",
+     "reusable": "Another reason is that her friends can give her useful feedback. In other words, …"
     },
     {
-     "section": "Vì sao không chọn ghi âm rồi nghe lại",
-     "content": "Mất thời gian; không có khán giả nên không có áp lực thật",
-     "reusable": "I also don't choose recording herself and listening back to the recording."
+     "section": "Loại 2 phương án",
+     "content": "Gương: không góp ý, không hỏi; ghi âm: mất thời gian, không thấy ngôn ngữ cơ thể",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding practising in front of a mirror, I do not think it is the best choice because … As for recording herself, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn + lý do ngắn",
-     "reusable": "In conclusion, practising in front of a small group of friends is the best choice because it is realistic and she can get honest feedback."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe practising in front of a small group of friends is the best choice because it is realistic, helpful and effective."
     }
    ],
-   "answer": "I think my friend should practise speaking in front of a small group of friends. Let me explain why.\n\nFirst, this option is the most similar to the real presentation. When she speaks in front of real people, she will feel a little nervous, just like on the big day. So she can learn how to control her nerves. Second, her friends can give her useful feedback. For example, they can tell her if she speaks too fast or if a slide is difficult to understand. They can also ask questions, so she can prepare her answers.\n\nI don't choose practising in front of a mirror. It can help her check her body language, but nobody can give her feedback. Also, many people feel strange when they look at themselves for a long time. I also don't choose recording herself and listening back to the recording. This is useful for checking her voice, but it takes a lot of time. Moreover, there is no audience, so she will not feel the real pressure.\n\nIn conclusion, practising in front of a small group of friends is the best choice because it is realistic and she can get honest feedback.",
    "vocab": [
     {
-     "term": "control your nerves",
-     "meaning": "kiểm soát sự hồi hộp"
+     "term": "presentation",
+     "meaning": "bài thuyết trình"
     },
     {
-     "term": "give feedback",
-     "meaning": "góp ý, nhận xét"
-    },
-    {
-     "term": "body language",
-     "meaning": "ngôn ngữ cơ thể"
+     "term": "feedback",
+     "meaning": "lời góp ý, nhận xét"
     },
     {
      "term": "audience",
      "meaning": "khán giả, người nghe"
     },
     {
-     "term": "realistic",
-     "meaning": "sát với thực tế"
+     "term": "body language",
+     "meaning": "ngôn ngữ cơ thể"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the impact of technology on learning. In my opinion, technology is useful, but it also has some negative effects on students.\n\nFirstly, many students show over-reliance on technology. They use phones and computers for everything, even for simple tasks. For example, some students cannot do easy maths without a calculator app.\n\nSecondly, technology can lead to reduced critical thinking. When students can find answers online in seconds, they do not think deeply by themselves. For instance, many students copy answers from the internet or AI tools without checking them.\n\nThirdly, students often face information overload. There is too much information online, and much of it is not reliable. A good example is a student who searches for a health topic and finds hundreds of articles with different opinions, so he feels confused.\n\nAnother important point is that too much screen time can cause health problems. Students who study on screens for many hours may have eye problems and poor sleep. For example, many students get headaches and dry eyes after studying online all day.\n\nTo sum up, technology in learning can cause over-reliance, reduced critical thinking, information overload and health problems. Therefore, students should use it wisely.",
    "own_idea": "Health problems",
+   "follow_ups": [
+    "No, I do not think technology will completely replace traditional teaching methods. The main reason is that students still need teachers to guide and encourage them. For example, a computer cannot notice when a student feels sad or confused. Technology can support teachers, but it cannot replace them.",
+    "People should set limits on their screen time. The main reason is that they need to practise thinking by themselves. For example, they can try to solve a problem on their own first before they search online. They should also read paper books more often.",
+    "Students need digital skills, such as searching for information quickly. They also need critical thinking skills to check if the information is true. For example, they should compare several reliable websites before they believe something. Good time management is also important, so they do not waste time online."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + sẽ nói về 4 vấn đề",
-     "reusable": "Today I would like to talk about the impact of technology on learning."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the impact of technology on learning. In my opinion, technology is useful, but it also has some negative effects on students."
     },
     {
-     "section": "Ý 1: Over-reliance on technology",
-     "content": "Dùng app, AI cho mọi việc; mất mạng là bó tay",
-     "reusable": "First, many students have an over-reliance on technology."
+     "section": "Ý 1: quá phụ thuộc công nghệ",
+     "content": "Ý → dùng máy cho mọi việc → ví dụ không tính nhẩm được nếu thiếu ứng dụng máy tính",
+     "reusable": "Firstly, many students show over-reliance on technology."
     },
     {
-     "section": "Ý 2: Reduced critical thinking",
-     "content": "Tra Google vài giây → không suy nghĩ sâu; ví dụ nhà nghiên cứu trẻ tin mọi thứ trên màn hình",
-     "reusable": "Second, technology can lead to reduced critical thinking."
+     "section": "Ý 2: giảm tư duy phản biện",
+     "content": "Ý → tìm đáp án trong vài giây, không suy nghĩ sâu → ví dụ chép đáp án từ mạng, AI không kiểm tra",
+     "reusable": "Secondly, technology can lead to reduced critical thinking."
     },
     {
-     "section": "Ý 3: Information overload",
-     "content": "Quá nhiều thông tin, có cái sai → rối, không biết tin nguồn nào",
-     "reusable": "Third, there is a problem of information overload."
+     "section": "Ý 3: quá tải thông tin",
+     "content": "Ý → nhiều thông tin, không đáng tin → ví dụ tìm chủ đề sức khoẻ ra hàng trăm bài trái ngược",
+     "reusable": "Thirdly, students often face information overload."
     },
     {
-     "section": "Ý riêng: Health problems",
-     "content": "Nhìn màn hình nhiều giờ → hại mắt, khó ngủ",
-     "reusable": "Finally, I think technology can cause health problems."
+     "section": "Ý riêng: vấn đề sức khoẻ",
+     "content": "Ý → nhìn màn hình lâu, mắt kém, ngủ kém → ví dụ đau đầu, khô mắt",
+     "reusable": "Another important point is that too much screen time can cause health problems."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt + dùng công nghệ khôn ngoan",
-     "reusable": "We should use it wisely."
+     "section": "Kết",
+     "content": "Tóm tắt 4 tác động + dùng hợp lý",
+     "reusable": "To sum up, technology in learning can cause over-reliance, reduced critical thinking, information overload and health problems."
     }
-   ],
-   "answer": "Today I would like to talk about the impact of technology on learning. Technology brings many benefits, but in this talk I will focus on four problems.\n\nFirst, many students have an over-reliance on technology. They use apps and AI tools for almost every task. For example, some students use AI to write their essays, so they do not really learn. When the internet is down, they cannot do anything.\n\nSecond, technology can lead to reduced critical thinking. Students can find answers on Google in a few seconds. As a result, they do not think deeply or ask why. In my job, I see that some young researchers believe everything on the screen without checking it.\n\nThird, there is a problem of information overload. There is too much information online, and some of it is wrong. Students often feel confused and tired because they do not know which source to trust.\n\nFinally, I think technology can cause health problems. Students look at screens for many hours every day. This can hurt their eyes and make it hard for them to sleep well.\n\nIn conclusion, technology is a useful tool for learning, but it can make students too dependent, reduce their critical thinking and cause stress and health problems. We should use it wisely.",
-   "follow_ups": [
-    "No, I don't think so. Technology can support teachers, but it cannot replace them. Students still need teachers to guide them, encourage them and answer their questions.",
-    "People should set limits on their screen time. For example, they can try to solve a problem by themselves first before they search online. They should also read paper books more often.",
-    "Students need digital skills, such as searching for information quickly. They also need critical thinking skills to check if the information is true. In addition, they need good time management so they do not waste time online."
    ],
    "vocab": [
     {
      "term": "over-reliance on",
-     "meaning": "sự phụ thuộc quá mức vào"
+     "meaning": "sự quá phụ thuộc vào"
     },
     {
      "term": "critical thinking",
@@ -264,12 +263,12 @@
      "meaning": "quá tải thông tin"
     },
     {
-     "term": "screen time",
-     "meaning": "thời gian dùng màn hình (điện thoại, máy tính)"
+     "term": "reliable",
+     "meaning": "đáng tin cậy"
     },
     {
-     "term": "too dependent",
-     "meaning": "quá phụ thuộc"
+     "term": "screen time",
+     "meaning": "thời gian dùng màn hình"
     }
    ]
   }

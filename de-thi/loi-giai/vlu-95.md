@@ -6,6 +6,8 @@
 
 **Thời gian:** 20 phút · **Số từ tối thiểu:** 120
 
+*Khung: [Thư trang trọng](KHUNG-MAU.md#w1_formal) · 150–180 từ · 20 phút*
+
 ### 1. Đề bài
 
 You should spend about 20 minutes on this task. You recently applied for a job at a company, and they have emailed you requesting some additional information.
@@ -22,49 +24,51 @@ Read part of their email below.
 
 ### 2. Bài mẫu
 
-Dear Hiring Manager,
+Dear Sir or Madam,
 
-Thank you for your email and for considering my application for the position of AI Research Assistant. I am happy to provide the information you requested.
+I am writing in response to your email about my application for the AI Research Assistant position.
 
-First, I have five years of relevant work experience. I am currently a researcher at a university in Ho Chi Minh City. My team builds AI tools that help doctors and patients. For example, I helped to create an app that reads X-ray images and finds problems quickly. Before that, I worked as a doctor at Cho Ray Hospital for two years, so I understand the needs of doctors well.
+Concerning my relevant work experience, I have five years of experience in medical AI. I am currently a researcher at a university in Ho Chi Minh City, where my team builds AI tools for doctors. For example, I helped to build an app that reads X-ray images. Before that, I was a doctor at Cho Ray Hospital for two years.
 
-Secondly, I have several qualifications related to this position. I have a degree in medicine and a master's degree in data science. I also have a certificate in machine learning from an online course. In addition, I have a B2 English certificate.
+With regard to qualifications, I have several related degrees and certificates. I hold a degree in medicine and a master's degree in data science. I also have an online certificate in machine learning and a B2 English certificate.
 
-Finally, if I am offered the position, I can start on Monday, 4th January. I need one month to finish my current project and hand over my work.
+Regarding my start date, I would be available to start on Monday, 4th January. This is because I need one month to finish my current project. During that time, I will also hand over my work.
 
-I look forward to hearing from you. Thank you for your time.
+If you require any further information, please do not hesitate to contact me. I look forward to hearing from you.
 
-Yours sincerely,  
+Yours faithfully,  
 Nguyen Minh
 
 ### 3. Số từ
 
-**185 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
+**179 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Lời chào | Chào trang trọng người tuyển dụng | *Dear Hiring Manager,* |
-| Mở đầu | Cảm ơn thư, nêu mục đích: cung cấp thông tin bổ sung | *Thank you for your email and for considering my application.* |
-| Ý 1: kinh nghiệm | 5 năm: 3 năm nghiên cứu AI y tế + 2 năm bác sĩ; ví dụ ứng dụng đọc phim X-quang | *I have five years of relevant work experience.* |
-| Ý 2: bằng cấp, chứng chỉ | Bằng y khoa, thạc sĩ khoa học dữ liệu, chứng chỉ machine learning, IELTS 7.0 | *I have several qualifications related to this position.* |
-| Ý 3: ngày bắt đầu | Bắt đầu thứ Hai 5/1; cần 1 tháng để xong dự án và bàn giao | *Finally, if I am offered the position, I can start on Monday, 4th January.* |
-| Kết thư + ký tên | Mong hồi âm, cảm ơn; Yours sincerely + họ tên | *I look forward to hearing from you. … Yours sincerely,* |
+| Lời chào | Không biết tên người nhận → Dear Sir or Madam | *Dear Sir or Madam,* |
+| Mở đầu | Nêu mục đích: trả lời email về hồ sơ ứng tuyển | *I am writing in response to your email about my application for the AI Research Assistant position.* |
+| Ý 1: kinh nghiệm làm việc | 5 năm AI y tế → hiện là nghiên cứu viên → ví dụ app đọc ảnh X-quang → trước đó làm bác sĩ ở Chợ Rẫy | *Concerning my relevant work experience, I have five years of experience in medical AI.* |
+| Ý 2: bằng cấp, chứng chỉ | Bằng y, thạc sĩ khoa học dữ liệu → chứng chỉ học máy → chứng chỉ tiếng Anh B2 | *With regard to qualifications, I have several related degrees and certificates.* |
+| Ý 3: thời gian bắt đầu | Thứ Hai 4/1 → lý do: cần 1 tháng hoàn thành dự án → bàn giao công việc | *Regarding my start date, I would be available to start on Monday, 4th January. This is because …* |
+| Kết thư + ký tên | Câu kết cố định; Sir or Madam → Yours faithfully | *If you require any further information, please do not hesitate to contact me. I look forward to hearing from you. Yours faithfully,* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
+| **in response to** | để trả lời, phản hồi |
 | **relevant work experience** | kinh nghiệm làm việc liên quan |
-| **qualification** | bằng cấp, trình độ chuyên môn |
+| **hold a degree in** | có bằng (ngành gì) |
+| **be available to start** | có thể bắt đầu làm |
 | **hand over my work** | bàn giao công việc |
-| **be offered the position** | được nhận vào vị trí |
-| **look forward to hearing from you** | mong nhận được hồi âm của anh/chị |
 
 ## WRITING — PART 2 · Essay
 
 **Thời gian:** 40 phút · **Số từ tối thiểu:** 250
+
+*Khung: [Advantages & disadvantages: lợi ích và bất lợi](KHUNG-MAU.md#w2_adv_disadv) · 270–300 từ · 4 đoạn · 40 phút*
 
 ### 1. Đề bài
 
@@ -82,40 +86,43 @@ You should spend about 40 minutes on this task.
 
 **Dạng đề:** Advantages & disadvantages (thảo luận ưu điểm và nhược điểm)
 
-In recent years, the number of tourists has risen sharply in many popular places around the world. For example, Ha Long Bay and Hoi An in Vietnam welcome millions of visitors every year. This growth brings both advantages and disadvantages, and this essay will discuss both sides.
+Nowadays, many famous places welcome more and more visitors every year. This growth helps local people earn money, but it also causes problems for nature and for residents. This essay will discuss both its advantages and disadvantages.
 
-On the one hand, more tourists bring several benefits. Firstly, tourism creates many jobs for local people. Hotels, restaurants and shops need more staff, so people can earn a better income. Secondly, the government can collect more money from tourism. This money can be used to build better roads, hospitals and schools for the local community. In addition, tourism helps to protect local culture. Many tourists want to see traditional festivals and buy handmade products, so local people keep their traditions alive.
+On the one hand, the rise in tourist numbers brings one main benefit. The biggest benefit is that it helps the local economy grow. Tourists spend money on hotels, food, transport and souvenirs, so many new jobs are created. For example, in Hoi An, many families earn a good living by running small homestays, restaurants or tailor shops. As a result, local people have higher incomes, and the government can spend more money on roads and schools.
 
-On the other hand, the rise in tourist numbers also causes serious problems. Firstly, it harms the environment. Tourists leave a lot of rubbish on beaches and in the mountains, and more flights and cars cause air pollution. Secondly, the quality of life for residents can become worse. Streets become crowded and noisy, and traffic jams happen more often. Moreover, the prices of houses and food usually go up in tourist areas. As a result, many local people cannot afford to live in their own hometown.
+On the other hand, too many tourists cause two serious problems. Firstly, they can damage the environment. This is because more visitors mean more rubbish, more water use and more pollution. For instance, some beaches in Vietnam become dirty after busy holidays because people leave plastic bottles and food bags on the sand. Local authorities then have to spend a lot of money on cleaning them. Secondly, mass tourism can lower the quality of life for local people. Streets become crowded and noisy, and the prices of food and housing often go up. A good example is Da Lat, where traffic jams are now common at weekends and during holidays. As a result, some local people feel that their city no longer belongs to them.
 
-In conclusion, more tourists can bring jobs, money and cultural benefits to popular destinations. However, they can also damage the environment and make life harder for local people. In my opinion, governments should control the number of visitors and ask tourists to pay a small fee to protect these places.
+In conclusion, the increase in tourist numbers has both advantages and disadvantages. It brings money and jobs to local communities, but it can also harm the environment and make life harder for residents. That is why tourism needs to be managed carefully.
 
 ### 3. Số từ
 
-**265 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
+**281 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở bài | Viết lại đề: lượng khách du lịch tăng mạnh, ví dụ Hạ Long, Hội An → bài bàn cả hai mặt | *This growth brings both advantages and disadvantages, and this essay will discuss both sides.* |
-| Thân bài 1: ưu điểm | (1) tạo việc làm, tăng thu nhập (2) nhà nước thu thêm tiền → xây đường, bệnh viện (3) giữ gìn văn hoá truyền thống | *On the one hand, more tourists bring several benefits. Firstly, tourism creates many jobs for local people.* |
-| Thân bài 2: nhược điểm | (1) hại môi trường: rác, ô nhiễm (2) chất lượng sống giảm: đông, ồn, kẹt xe (3) giá nhà, giá đồ ăn tăng | *On the other hand, the rise in tourist numbers also causes serious problems.* |
-| Kết bài | Tóm tắt hai mặt + ý kiến: kiểm soát lượng khách, thu phí bảo vệ | *In my opinion, governments should control the number of visitors.* |
+| Mở bài | Viết lại đề (nơi nổi tiếng đón ngày càng nhiều khách; có tiền nhưng hại thiên nhiên, người dân) + câu dẫn | *This essay will discuss both its advantages and disadvantages.* |
+| Thân bài 1 · PEER: ưu điểm | P: kinh tế địa phương phát triển → E: khách chi tiền khách sạn, ăn uống, quà → Ex: Hội An: homestay, nhà hàng, tiệm may → R: thu nhập cao hơn, có tiền làm đường, trường | *On the one hand, the rise in tourist numbers brings one main benefit. The biggest benefit is that it helps the local economy grow.* |
+| Thân bài 2 · PEER 1: nhược điểm | P: hại môi trường → E: nhiều rác, nước, ô nhiễm → Ex: bãi biển bẩn sau kỳ nghỉ | *On the other hand, too many tourists cause two serious problems. Firstly, they can damage the environment.* |
+| Thân bài 2 · PEER 2: nhược điểm | P: chất lượng sống của người dân giảm → E: đông, ồn, giá tăng → Ex: Đà Lạt kẹt xe cuối tuần → R: người dân thấy thành phố không còn của mình | *Secondly, mass tourism can lower the quality of life for local people.* |
+| Kết bài | Tóm tắt hai phía (đề không hỏi ý kiến nên không nói phía nào nặng hơn) | *In conclusion, the increase in tourist numbers has both advantages and disadvantages.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **rise sharply** | tăng mạnh |
-| **the local community** | cộng đồng địa phương |
-| **keep traditions alive** | giữ gìn truyền thống |
-| **quality of life** | chất lượng cuộc sống |
-| **cannot afford to** | không đủ khả năng (chi trả) để |
+| **the local economy** | kinh tế địa phương |
+| **earn a good living** | kiếm sống khá |
+| **mass tourism** | du lịch đại trà |
+| **the quality of life** | chất lượng cuộc sống |
+| **traffic jams** | kẹt xe |
 
 ## SPEAKING — PART 1 · Social Interaction
 
 **Thời gian:** 3 phút
+
+*Khung: [Speaking Part 1: Social Interaction](KHUNG-MAU.md#s1) · Mỗi câu hỏi 3 câu, khoảng 30–40 từ*
 
 ### 1. Đề bài
 
@@ -138,48 +145,50 @@ In conclusion, more tourists can bring jobs, money and cultural benefits to popu
 ### 2. Bài mẫu
 
 **1. Do you enjoy watching cartoons?**  
-Yes, I do. I sometimes watch cartoons in the evening to relax after work. They are funny, and they make me feel like a child again.
+Yes, I do. I sometimes watch cartoons in the evening because they help me relax after work. They are funny, and they make me feel like a child again.
 
 **2. What kind of cartoons do you usually watch?**  
-I usually watch animated films from Disney and Pixar. My favourite one is Inside Out because it is funny and meaningful. I also like Doraemon, which I watched as a child.
+I usually watch animated films from Disney and Pixar. I like them because the stories are funny and meaningful. My favourite one is Inside Out, which is about the feelings inside a girl's mind.
 
 **3. Do you think cartoons are only for children? Why or why not?**  
-No, I don't think so. Many cartoons have deep messages about family, friendship and life. That is why adults can enjoy them too.
+No, I do not think so. This is because many cartoons have deep messages about family, friendship and life. For example, Toy Story makes many adults cry because it is about growing up.
 
 **4. Have you ever been to a live singing performance?**  
-Yes, I have. Last year, I went to a concert by My Tam in Ho Chi Minh City. It was amazing, and everyone sang along with her.
+Yes, I have. Last year, I went to a concert by My Tam in Ho Chi Minh City. It was amazing because everyone in the crowd sang along with her.
 
 **5. What kind of music do you enjoy watching live?**  
-I enjoy watching pop and acoustic music live. I often go to small coffee shops in District 3 where young singers perform at weekends. The atmosphere there is relaxing and friendly.
+I enjoy watching pop and acoustic music live. This is because the atmosphere is relaxing and friendly. I often go to small coffee shops in District 3 where young singers perform at weekends.
 
 **6. Do you think watching a live performance is more enjoyable than listening to recorded music?**  
-Yes, I think so. At a live show, you can feel the energy of the singer and the crowd. However, recorded music is cheaper, and you can listen to it at any time.
+Yes, I think so. The main reason is that at a live show, you can feel the energy of the singer and the crowd. However, recorded music is cheaper, and you can listen to it at any time.
 
 ### 3. Số từ
 
-**171 từ** · khoảng 1 phút 26 giây nói (tốc độ 120 từ/phút).
+**197 từ** · khoảng 1 phút 38 giây nói (tốc độ 120 từ/phút).
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Câu trả lời trực tiếp | Trả lời ngay Yes/No hoặc nêu thông tin chính | *Yes, I have. Last year, I went to a concert by My Tam.* |
-| Lý do | Thêm 1 lý do bằng because / so / That is why | *My favourite one is Inside Out because it is funny and meaningful.* |
-| Ví dụ / chi tiết | Thêm 1 ví dụ cá nhân hoặc 1 ý ngược lại bằng However | *However, recorded music is cheaper, and you can listen to it at any time.* |
+| Câu 1: trả lời thẳng | Trả lời ngay Yes/No | *Yes, I have. Last year, I went to a concert by My Tam in Ho Chi Minh City.* |
+| Câu 2: lý do | Thêm 1 lý do | *This is because many cartoons have deep messages about family, friendship and life.* |
+| Câu 3: chi tiết | Ví dụ cá nhân ngắn | *I often go to small coffee shops in District 3 where young singers perform at weekends.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **animated film** | phim hoạt hình |
+| **animated films** | phim hoạt hình |
 | **meaningful** | ý nghĩa |
 | **sing along with** | hát theo |
-| **atmosphere** | bầu không khí |
-| **recorded music** | nhạc thu âm sẵn |
+| **acoustic music** | nhạc mộc |
+| **recorded music** | nhạc thu sẵn |
 
 ## SPEAKING — PART 2 · Solution Discussion
 
 **Thời gian:** 4 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 2: Solution Discussion](KHUNG-MAU.md#s2) · 220–260 từ*
 
 ### 1. Đề bài
 
@@ -197,41 +206,45 @@ Yes, I think so. At a live show, you can feel the energy of the singer and the c
 
 **Lựa chọn:** Option 2: Da Lat
 
-I think our company should choose Da Lat for the annual trip. Let me explain why.
+In this situation, among the three options, I think Da Lat is the best choice for our annual company trip. I choose it for two main reasons.
 
-First, Da Lat has cool and fresh weather all year round. Ho Chi Minh City is very hot, so everyone will enjoy a break in the mountains. Second, Da Lat has many beautiful places, such as Xuan Huong Lake, flower gardens and pine forests. We can do team-building activities in the forest and have a barbecue party at night. In addition, it is easy to get there. We can fly from Tan Son Nhat Airport in only one hour.
+The first reason is that Da Lat has cool weather all year round. By that, I mean the staff can escape the heat of Ho Chi Minh City and feel really relaxed. For example, we can walk around Xuan Huong Lake in the morning and drink hot coffee together in the evening.
 
-I don't choose Vung Tau because it is too close to Ho Chi Minh City. Most of my colleagues have been there many times, so the trip will not be exciting. Also, the beaches are very crowded at weekends. I also don't choose Can Tho because there are not many activities for a big group. The floating market is interesting, but we can see it in one morning. Moreover, the weather there is hot, like in our city.
+Another reason is that Da Lat has many activities for team building. In other words, it is easy to organize group games and outdoor trips there. For instance, we can visit flower gardens, go camping in a pine forest or have a barbecue party together. These activities help colleagues become closer and work better together.
 
-In conclusion, Da Lat is the best choice because of its cool weather, beautiful places and fun activities. I believe everyone will come back relaxed and happy.
+There are also some reasons why I do not choose the other two options. Regarding Vung Tau, I do not think it is the best choice because many of us have already been there several times, so it is not exciting. As for Can Tho, I do not think it is the best option either because it is very hot, and there are fewer activities for a large group.
+
+To sum up, out of these three options, I believe Da Lat is the best choice because it is cool, beautiful and good for team building.
 
 ### 3. Số từ
 
-**200 từ** · khoảng 1 phút 40 giây nói.
+**229 từ** · khoảng 1 phút 54 giây nói.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Nêu lựa chọn | Chọn Đà Lạt cho chuyến du lịch công ty | *I think our company should choose Da Lat for the annual trip.* |
-| Lý do chọn | (1) khí hậu mát quanh năm (2) nhiều cảnh đẹp + hoạt động team-building, barbecue (3) bay 1 tiếng là tới | *First, Da Lat has cool and fresh weather all year round.* |
-| Vì sao không chọn Vũng Tàu | Quá gần, ai cũng đi nhiều lần; biển đông cuối tuần | *I don't choose Vung Tau because it is too close to Ho Chi Minh City.* |
-| Vì sao không chọn Cần Thơ | Chợ nổi hay nhưng ít hoạt động cho nhóm lớn; trời nóng | *I also don't choose Can Tho because there are not many activities for a big group.* |
-| Kết luận | Nhắc lại lựa chọn + lợi ích | *In conclusion, Da Lat is the best choice because of its cool weather.* |
+| Chọn | Câu khung + lựa chọn: Đà Lạt | *In this situation, among the three options, I think Da Lat is the best choice for our annual company trip. I choose it for two main reasons.* |
+| Lý do 1 | Mát quanh năm → By that, I mean … → For example: dạo hồ Xuân Hương, uống cà phê nóng | *The first reason is that Da Lat has cool weather all year round. By that, I mean …* |
+| Lý do 2 | Nhiều hoạt động gắn kết → In other words … → For instance: vườn hoa, cắm trại rừng thông, tiệc nướng | *Another reason is that Da Lat has many activities for team building. In other words, …* |
+| Loại 2 phương án | Vũng Tàu: nhiều người đi rồi; Cần Thơ: nóng, ít hoạt động cho nhóm đông | *There are also some reasons why I do not choose the other two options. Regarding Vung Tau, I do not think it is the best choice because … As for Can Tho, I do not think it is the best option either because …* |
+| Kết | Câu khung + 3 tính từ | *To sum up, out of these three options, I believe Da Lat is the best choice because it is cool, beautiful and good for team building.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **annual trip** | chuyến du lịch hằng năm |
-| **all year round** | quanh năm |
-| **team-building activities** | hoạt động gắn kết đội nhóm |
-| **pine forest** | rừng thông |
-| **floating market** | chợ nổi |
+| **an annual company trip** | chuyến du lịch công ty hằng năm |
+| **escape the heat** | tránh nóng |
+| **team building** | gắn kết đội nhóm |
+| **a pine forest** | rừng thông |
+| **a barbecue party** | tiệc nướng |
 
 ## SPEAKING — PART 3 · Topic Development
 
 **Thời gian:** 5 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 3: Topic Development](KHUNG-MAU.md#s3) · Bài nói chính 200–260 từ · mỗi câu follow-up 3–4 câu (35–55 từ)*
 
 ### 1. Đề bài
 
@@ -256,50 +269,50 @@ In conclusion, Da Lat is the best choice because of its cool weather, beautiful 
 
 **Ý riêng (your own idea):** Poor sleep and less time for study
 
-Today I would like to talk about the negative effects of social media on young people. In my opinion, there are four main effects.
+Today I would like to talk about the negative effects of social media on young people. In my opinion, social media can harm young people in several ways.
 
-First, social media can increase the risk of anxiety and depression. Many teenagers worry about the number of likes and comments on their posts. If they do not get enough likes, they feel sad and lonely. Some of them also face online bullying.
+Firstly, it increases the risk of anxiety and depression. Young people often worry about how many likes and comments they get. For example, a teenager may feel sad for days if a photo receives only a few likes.
 
-Second, social media reduces face-to-face social interaction. Young people spend hours chatting online, but they rarely meet their friends in person. For example, I often see a group of friends in a coffee shop who look at their phones and do not talk to each other.
+Secondly, social media reduces face-to-face social interaction. Many young people chat online for hours but rarely meet their friends in person. For instance, I often see groups of students in coffee shops where everyone is looking at their phones.
 
-Third, young people are exposed to misinformation and unrealistic comparisons. There is a lot of fake news online, especially about health. In addition, people usually post only perfect photos of their lives. When teenagers compare themselves with these photos, they feel unhappy about their bodies and their lives.
+Thirdly, young people are exposed to misinformation and unrealistic comparisons. They may believe fake news, or compare themselves with perfect pictures of other people. A good example is fake health advice on TikTok, which some students follow without checking.
 
-Finally, I think social media causes poor sleep and less time for study. Many students use their phones late at night, so they feel tired in class the next day. As a result, their grades may go down.
+Another important point is that social media leads to poor sleep and less time for study. Many teenagers scroll through their phones late at night instead of sleeping or doing homework. For example, my cousin used to watch videos until one o'clock in the morning, so she often fell asleep in class.
 
-In conclusion, social media can hurt the mental health, relationships and studies of young people. Therefore, they should use it carefully and limit their screen time.
+To sum up, social media can cause anxiety, less face-to-face contact, misinformation, poor sleep and less study time. Young people should use it wisely.
 
 **Trả lời câu hỏi follow-up**
 
 **1. Why do you think young people are more vulnerable to the negative effects of social media?**  
-I think young people are more vulnerable because they do not have much life experience. They easily believe what they see online. They also care a lot about what their friends think of them.
+Yes, I think young people are more vulnerable than adults. The main reason is that they care a lot about what their friends think of them. For example, a teenager may feel worthless if classmates leave bad comments on a photo. They also have less experience in checking information.
 
 **2. What can parents do to help their children use social media responsibly?**  
-Parents should set clear rules, such as no phones during meals or after 10 p.m. They should also talk to their children about fake news and online safety. Most importantly, parents should be good examples.
+Parents can do several things to help. First, they should set clear rules about screen time. For example, phones can be banned during meals and after ten o'clock at night. Parents should also talk with their children about fake news and online safety.
 
 **3. Do you think social media platforms should take more responsibility for protecting young users?**  
-Yes, I think they should. They should remove harmful content and fake news quickly. They should also check users' ages and limit the time that children can spend on their apps.
+Yes, I think they should take more responsibility. This is because these companies earn a lot of money from young users. For example, they could limit the time children spend on the app and remove harmful content faster. They should also check users' ages more carefully.
 
 ### 3. Số từ
 
-**Bài nói chính: 225 từ** (khoảng 1 phút 52 giây) · follow-up: 101 từ.
+**Bài nói chính: 220 từ** (khoảng 1 phút 50 giây) · follow-up: 138 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở đầu | Giới thiệu chủ đề + có 4 tác hại chính | *Today I would like to talk about the negative effects of social media on young people.* |
-| Ý 1: Anxiety and depression | Lo lắng vì lượt like, buồn, cô đơn; bị bắt nạt trên mạng | *First, social media can increase the risk of anxiety and depression.* |
-| Ý 2: Less face-to-face interaction | Chat online nhiều, ít gặp trực tiếp; ví dụ nhóm bạn ở quán cà phê chỉ nhìn điện thoại | *Second, social media reduces face-to-face social interaction.* |
-| Ý 3: Misinformation and comparisons | Tin giả về sức khoẻ; so sánh với ảnh 'hoàn hảo' → buồn về bản thân | *Third, young people are exposed to misinformation and unrealistic comparisons.* |
-| Ý riêng: thiếu ngủ, ít học | Dùng điện thoại khuya → mệt trên lớp → điểm giảm | *Finally, I think social media causes poor sleep and less time for study.* |
-| Kết luận | Tóm tắt + nên giới hạn thời gian dùng | *Therefore, they should use it carefully and limit their screen time.* |
+| Mở | Giới thiệu chủ đề + ý chính | *Today I would like to talk about the negative effects of social media on young people. In my opinion, social media can harm young people in several ways.* |
+| Ý 1: lo âu, trầm cảm | Ý → lo về lượt thích, bình luận → ví dụ buồn nhiều ngày vì ảnh ít like | *Firstly, it increases the risk of anxiety and depression.* |
+| Ý 2: ít giao tiếp trực tiếp | Ý → chat online hàng giờ, ít gặp mặt → ví dụ ngồi quán cà phê ai cũng nhìn điện thoại | *Secondly, social media reduces face-to-face social interaction.* |
+| Ý 3: tin sai, so sánh không thực tế | Ý → tin tin giả, so với ảnh hoàn hảo → ví dụ mẹo sức khoẻ sai trên TikTok | *Thirdly, young people are exposed to misinformation and unrealistic comparisons.* |
+| Ý riêng: ngủ kém, ít thời gian học | Ý → lướt điện thoại khuya → ví dụ em họ xem video tới 1 giờ sáng, ngủ gật trong lớp | *Another important point is that social media leads to poor sleep and less time for study.* |
+| Kết | Tóm tắt các ý + dùng có chừng mực | *To sum up, social media can cause … Young people should use it wisely.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
 | **anxiety and depression** | lo âu và trầm cảm |
-| **online bullying** | bắt nạt trên mạng |
-| **in person** | trực tiếp, gặp mặt |
-| **be exposed to** | tiếp xúc với, bị phơi nhiễm với |
-| **screen time** | thời gian dùng thiết bị điện tử |
+| **face-to-face interaction** | giao tiếp trực tiếp |
+| **misinformation** | thông tin sai lệch |
+| **scroll through** | lướt (điện thoại, mạng) |
+| **vulnerable** | dễ bị tổn thương |

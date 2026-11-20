@@ -28,7 +28,7 @@ for (const s of sols) {
 await p.goto(`${base}#/in/bai-mau/all`);
 await p.waitForSelector('article');
 await p.evaluate(() => document.fonts.ready);
-const nums = sols.map((s) => s.number);
+const nums = sols.filter((s) => !s.custom).map((s) => s.number);
 const combined = `VSTEP-VLU-${Math.min(...nums)}-${Math.max(...nums)}-bai-mau.pdf`;
 await p.pdf({ path: join(out, combined), ...pdfOpts, timeout: 0 });
 await b.close();

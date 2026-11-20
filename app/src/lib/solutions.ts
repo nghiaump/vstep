@@ -10,8 +10,10 @@ export interface WritingPrompt {
 }
 export interface SolutionPrompt {
   id: string; number: number; title: string;
+  /** Self-made / recalled exam: writing only, prompt wording is ours. */
+  custom?: boolean; label?: string; note?: string; date?: string;
   writing: Record<'1' | '2', WritingPrompt>;
-  speaking: {
+  speaking?: {
     '1': { title: string; name: string; time: string; topics: { lead: string; title: string; questions: string[] }[] };
     '2': { title: string; name: string; time: string; situation: string; options: string[]; task: string };
     '3': { title: string; name: string; time: string; topic: string; center: string; ideas: string[]; own_ideas_slot: boolean; follow_ups: string[] };
@@ -19,14 +21,14 @@ export interface SolutionPrompt {
 }
 export interface SolutionAnswer {
   id: string;
-  writing: { '1': Sec & { answer: string }; '2': Sec & { answer: string; essay_type: string } };
-  speaking: {
+  writing: { '1': Sec & { answer: string; template?: 'w1_informal' | 'w1_formal' }; '2': Sec & { answer: string; essay_type: string; type_key?: string } };
+  speaking?: {
     '1': Sec & { answers: string[] };
     '2': Sec & { choice: number; answer: string };
     '3': Sec & { answer: string; own_idea: string; follow_ups: string[] };
   };
 }
-export interface Solution { id: string; number: number; prompt: SolutionPrompt; answer: SolutionAnswer }
+export interface Solution { id: string; number: number; label: string; custom: boolean; prompt: SolutionPrompt; answer: SolutionAnswer }
 
 export const SOLUTIONS = solutionsJson as unknown as Solution[];
 export const solutionById: Record<string, Solution> = Object.fromEntries(SOLUTIONS.map((s) => [s.id, s]));

@@ -2,104 +2,282 @@
  "id": "vlu-105",
  "writing": {
   "1": {
+   "template": "w1_formal",
    "outline": [
-    {"section": "Lời chào", "content": "Chào trang trọng, danh xưng + tên giáo viên", "reusable": "Dear Ms Lan,"},
-    {"section": "Mở đầu", "content": "Giới thiệu là phụ huynh của Bảo lớp 4A, cảm ơn thông báo, muốn hỏi vài câu", "reusable": "I am the father of Tran Gia Bao in Class 4A."},
-    {"section": "Ý 1: hỏi cần mang gì", "content": "Mũ, áo mưa, chai nước? Có được mang tiền tiêu vặt, điện thoại không?", "reusable": "Firstly, could you tell me what items my son should bring?"},
-    {"section": "Ý 2: hỏi vì sao tự mang cơm trưa", "content": "Hỏi lý do trường không cung cấp bữa trưa; muốn chuẩn bị đồ ăn phù hợp, an toàn", "reusable": "Could you please explain why the school is not providing lunch this time?"},
-    {"section": "Ý 3: hỏi hoạt động", "content": "Tham quan bảo tàng, chơi trò chơi ngoài trời hay thể thao? → chuẩn bị quần áo phù hợp", "reusable": "Finally, I would like to know what activities the children will take part in during the trip."},
-    {"section": "Kết thư + ký tên", "content": "Cảm ơn, mong hồi âm, chào trang trọng + họ tên", "reusable": "Thank you for your time. I look forward to your reply. Yours sincerely,"}
+    {
+     "section": "Lời chào",
+     "content": "Thư trang trọng gửi cô giáo, biết tên → Dear Ms + họ",
+     "reusable": "Dear Ms Tran,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Giới thiệu là phụ huynh của bé Bảo lớp 4A + mục đích viết thư",
+     "reusable": "I am writing to ask about next week's field trip."
+    },
+    {
+     "section": "Ý 1: cần mang gì",
+     "content": "Hỏi thẳng → lý do (muốn chuẩn bị kỹ) → chi tiết (mũ, áo mưa, bình nước)",
+     "reusable": "Concerning the things to take, could you tell me what my son should bring?"
+    },
+    {
+     "section": "Ý 2: vì sao tự mang cơm trưa",
+     "content": "Hỏi lý do lịch sự → trước đây trường lo → sẵn lòng chuẩn bị nhưng muốn hiểu lý do",
+     "reusable": "With regard to lunch, I would be grateful if you could explain why the school will not provide meals this time."
+    },
+    {
+     "section": "Ý 3: hoạt động",
+     "content": "Hỏi thẳng → lý do (bé bị hen nhẹ) → sẽ chuẩn bị quần áo, thuốc",
+     "reusable": "Regarding the programme, could you tell me what activities the children will take part in?"
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Câu kết cố định + Yours sincerely (vì biết tên)",
+     "reusable": "If you require any further information, please do not hesitate to contact me. I look forward to hearing from you. … Yours sincerely,"
+    }
    ],
-   "answer": "Dear Ms Lan,\n\nI am the father of Tran Gia Bao in Class 4A. Thank you for the notice about next week's field trip. Bao is very excited about it, and I would like to ask a few questions before the trip.\n\nFirstly, could you tell me what items my son should bring? For example, does he need a hat, a raincoat or a bottle of water? I would also like to know if he can bring some pocket money or a mobile phone.\n\nSecondly, I noticed that students need to bring their own packed lunch. Could you please explain why the school is not providing lunch this time? I want to make sure that the food I prepare is suitable for the trip.\n\nFinally, I would like to know what activities the children will take part in during the trip. Will they visit a museum, play games outdoors or do any sports? If there are outdoor activities, I will prepare suitable clothes for him.\n\nThank you for your time. I look forward to your reply.\n\nYours sincerely,\nTran Minh",
+   "answer": "Dear Ms Tran,\n\nI am the father of Nguyen Gia Bao in Class 4A. I am writing to ask about next week's field trip.\n\nConcerning the things to take, could you tell me what my son should bring? I want to prepare everything carefully the night before. For example, I am not sure if he needs a hat, a raincoat or a water bottle.\n\nWith regard to lunch, I would be grateful if you could explain why the school will not provide meals this time. In the past, the school always prepared lunch for the children. I am happy to prepare a packed lunch for Bao, but I would like to understand the reason.\n\nRegarding the programme, could you tell me what activities the children will take part in? Bao has mild asthma, so he cannot run for a long time. If there are outdoor games or sports, I will prepare suitable clothes and his medicine.\n\nIf you require any further information, please do not hesitate to contact me. I look forward to hearing from you.\n\nYours sincerely,\nNguyen Minh",
    "vocab": [
-    {"term": "field trip", "meaning": "chuyến đi thực tế, dã ngoại của trường"},
-    {"term": "packed lunch", "meaning": "cơm hộp, bữa trưa mang theo"},
-    {"term": "pocket money", "meaning": "tiền tiêu vặt"},
-    {"term": "take part in", "meaning": "tham gia"},
-    {"term": "make sure that", "meaning": "đảm bảo rằng"}
+    {
+     "term": "field trip",
+     "meaning": "chuyến đi dã ngoại, tham quan của trường"
+    },
+    {
+     "term": "packed lunch",
+     "meaning": "cơm trưa mang theo"
+    },
+    {
+     "term": "I would be grateful if you could …",
+     "meaning": "Tôi rất biết ơn nếu thầy/cô có thể …"
+    },
+    {
+     "term": "take part in",
+     "meaning": "tham gia"
+    },
+    {
+     "term": "mild asthma",
+     "meaning": "hen suyễn nhẹ"
+    }
    ]
   },
   "2": {
-   "essay_type": "Agree or disagree (nêu ý kiến đồng ý hay không đồng ý)",
+   "essay_type": "Opinion – agree or disagree (nêu quan điểm đồng ý / không đồng ý)",
+   "type_key": "opinion",
    "outline": [
-    {"section": "Mở bài", "content": "Viết lại đề: triển lãm lịch sử cho xem hiện vật, câu chuyện quá khứ → hoàn toàn đồng ý vì giúp học hỏi và có lợi cho xã hội", "reusable": "I completely agree with this view because historical exhibitions help us learn and also bring benefits to society."},
-    {"section": "Thân bài 1: lợi ích về kiến thức", "content": "(1) mở rộng hiểu biết lịch sử, hiện vật thật dễ nhớ hơn sách (2) hiểu văn hóa, ví dụ Bảo tàng Lịch sử TP.HCM → tự hào (3) bài học từ quá khứ, Bảo tàng Chứng tích Chiến tranh", "reusable": "Firstly, historical exhibitions broaden our knowledge of history."},
-    {"section": "Thân bài 2: lợi ích cho gia đình, xã hội", "content": "(1) hoạt động lành mạnh cho gia đình cuối tuần (2) thu hút du khách, giúp kinh tế địa phương (3) bảo tồn lịch sử cho thế hệ sau", "reusable": "Moreover, historical exhibitions are good for families and society."},
-    {"section": "Kết bài", "content": "Khẳng định lại ý kiến + mọi người nên đi triển lãm thường xuyên hơn", "reusable": "In conclusion, I strongly believe that visiting historical exhibitions is beneficial."}
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (bảo tàng mở triển lãm về quá khứ) + nhượng bộ + quan điểm: đồng ý là có ích",
+     "reusable": "Although some people believe that these visits are boring and unnecessary, I agree that they are very useful for everyone."
+    },
+    {
+     "section": "Thân bài 1 · PEER phía đối lập",
+     "content": "P: tốn thời gian, tiền → E: thông tin có miễn phí trên mạng → Ex: xem video lịch sử trên YouTube → R: giới trẻ thấy lỗi thời",
+     "reusable": "Admittedly, some people argue that visiting exhibitions is a waste of time and money. This is because …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 1",
+     "content": "P: học lịch sử thật, dễ nhớ → E: hiện vật thật hay hơn sách → Ex: Bảo tàng Chứng tích Chiến tranh → R: hiểu giá trị hoà bình",
+     "reusable": "However, I firmly believe that visiting historical exhibitions is beneficial for two main reasons. Firstly, …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 2",
+     "content": "P: hiểu và tự hào về văn hoá → E: trưng bày trang phục, phong tục → Ex: Bảo tàng Dân tộc học, 54 dân tộc → R: giới trẻ quan tâm truyền thống",
+     "reusable": "Secondly, exhibitions help people understand their culture and feel proud of it."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Nhắc lại quan điểm + 2 lý do",
+     "reusable": "In conclusion, although some people think exhibitions are boring, I believe that visiting them is beneficial because …"
+    }
    ],
-   "answer": "Historical exhibitions show visitors objects, documents and stories from the past. Some people believe that visiting these exhibitions brings many benefits. I completely agree with this view because historical exhibitions help us learn and also bring benefits to society.\n\nFirstly, historical exhibitions broaden our knowledge of history. Visitors can see real objects, such as old weapons, clothes and tools. This makes history more real and easier to remember than a textbook. Secondly, exhibitions help us understand our culture. For example, at the Museum of Vietnamese History in Ho Chi Minh City, I learned about the traditional clothes and customs of many ethnic groups. As a result, I felt proud of my country. In addition, exhibitions teach us important lessons from the past. After visiting the War Remnants Museum, many people understand the terrible effects of war and the value of peace.\n\nMoreover, historical exhibitions are good for families and society. Firstly, they are a healthy and educational activity for families at weekends. Parents can take their children there instead of letting them play games on their phones all day. Secondly, exhibitions attract tourists. Foreign visitors want to learn about the history of the places they visit, so they spend money on tickets, food and souvenirs. This helps the local economy. Finally, exhibitions help to protect history for future generations. When many people visit, the government has more money to look after old objects.\n\nIn conclusion, I strongly believe that visiting historical exhibitions is beneficial. They help people learn about history and culture, and they also support families and the economy. Therefore, everyone should visit historical exhibitions more often.",
+   "answer": "Nowadays, many museums hold exhibitions about the past, where people can see old objects and learn their stories. Although some people believe that these visits are boring and unnecessary, I agree that they are very useful for everyone.\n\nAdmittedly, some people argue that visiting exhibitions is a waste of time and money. This is because people can now find the same information on the internet for free. For example, a student can watch a video about Vietnamese history on YouTube at home. As a result, many young people think that exhibitions are old-fashioned and boring, so they rarely visit them.\n\nHowever, I firmly believe that visiting historical exhibitions is beneficial for two main reasons. Firstly, they help visitors learn about history in a real and memorable way. Seeing real objects is much more interesting than reading a textbook, so the lessons stay in our minds longer. For instance, at the War Remnants Museum in Ho Chi Minh City, visitors can see old weapons and photos from the war. These things help them understand the cost of war and the value of peace. Secondly, exhibitions help people understand their culture and feel proud of it. The reason is that many exhibitions show traditional clothes, tools and customs. A good example is the Museum of Ethnology in Hanoi, where visitors can learn about the 54 ethnic groups of Vietnam. Therefore, young people become more interested in their own traditions.\n\nIn conclusion, although some people think exhibitions are boring, I believe that visiting them is beneficial because it makes history easier to remember and helps people understand their culture. Schools and families should visit them more often.",
    "vocab": [
-    {"term": "historical exhibition", "meaning": "triển lãm lịch sử"},
-    {"term": "broaden one's knowledge", "meaning": "mở rộng kiến thức"},
-    {"term": "customs", "meaning": "phong tục"},
-    {"term": "the local economy", "meaning": "kinh tế địa phương"},
-    {"term": "future generations", "meaning": "các thế hệ tương lai"}
+    {
+     "term": "a waste of time and money",
+     "meaning": "sự lãng phí thời gian và tiền bạc"
+    },
+    {
+     "term": "old-fashioned",
+     "meaning": "lỗi thời"
+    },
+    {
+     "term": "memorable",
+     "meaning": "dễ nhớ, đáng nhớ"
+    },
+    {
+     "term": "the value of peace",
+     "meaning": "giá trị của hoà bình"
+    },
+    {
+     "term": "ethnic groups",
+     "meaning": "các dân tộc"
+    }
    ]
   }
  },
  "speaking": {
   "1": {
    "answers": [
-    "My favourite thing to do in my free time is reading books. I usually read in a quiet coffee shop near my house on Sunday mornings.",
-    "I enjoy reading because it helps me relax and learn new things at the same time. It is also cheap, and I can do it anywhere.",
-    "Yes, it has. When I was a child, I loved playing computer games. Now I prefer reading because it is more useful for my work and my mind.",
-    "My favourite sport is swimming. I also enjoy watching football, especially when the Vietnamese team plays.",
-    "I go swimming every weekend, usually on Saturday mornings. Sometimes I also play badminton with my colleagues after work.",
-    "Yes, definitely. Sports help young people stay healthy and reduce stress from studying. They also teach important skills, such as teamwork and discipline."
+    "My favourite thing to do in my free time is reading books. It helps me relax after a long day at work. I usually read in a quiet coffee shop near my house on Sunday mornings.",
+    "I enjoy reading more because I can relax and learn new things at the same time. It is also cheap, and I can do it anywhere. For example, last month I read a book about the history of medicine.",
+    "Yes, it has changed a lot. When I was a child, I loved playing computer games with my cousins. Now I prefer reading because it is more useful for my work and my mind.",
+    "My favourite sport is swimming, but I also enjoy watching football. Swimming keeps me fit, and it is gentle on my body. When the Vietnamese team plays, I often watch the match with my friends at a coffee shop.",
+    "I take part in sports activities about twice a week. I go swimming every Saturday morning at a pool near my house. Sometimes I also play badminton with my colleagues after work on Wednesdays.",
+    "Yes, I think sports are very important for young people nowadays. The main reason is that many teenagers spend too much time on their phones and do not move much. Sports help them stay healthy, reduce stress and learn teamwork."
    ],
    "outline": [
-    {"section": "Câu trả lời trực tiếp", "content": "Nêu ngay sở thích / môn thể thao / tần suất", "reusable": "My favourite thing to do in my free time is reading books."},
-    {"section": "Lý do", "content": "Thêm 1 lý do bằng because", "reusable": "I enjoy reading because it helps me relax and learn new things at the same time."},
-    {"section": "So sánh quá khứ – hiện tại", "content": "When I was a child, … Now …", "reusable": "When I was a child, I loved playing computer games. Now I prefer reading."}
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Lặp lại từ khoá câu hỏi và trả lời ngay",
+     "reusable": "My favourite thing to do in my free time is reading books."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "Nói vì sao",
+     "reusable": "I enjoy reading more because I can relax and learn new things at the same time."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân: thời gian, địa điểm",
+     "reusable": "I go swimming every Saturday morning at a pool near my house."
+    }
    ],
    "vocab": [
-    {"term": "free time", "meaning": "thời gian rảnh"},
-    {"term": "at the same time", "meaning": "cùng lúc"},
-    {"term": "badminton", "meaning": "cầu lông"},
-    {"term": "reduce stress", "meaning": "giảm căng thẳng"},
-    {"term": "discipline", "meaning": "tính kỷ luật"}
+    {
+     "term": "in my free time",
+     "meaning": "trong thời gian rảnh"
+    },
+    {
+     "term": "keep me fit",
+     "meaning": "giúp tôi giữ dáng, khoẻ mạnh"
+    },
+    {
+     "term": "gentle on my body",
+     "meaning": "nhẹ nhàng với cơ thể"
+    },
+    {
+     "term": "take part in",
+     "meaning": "tham gia"
+    },
+    {
+     "term": "reduce stress",
+     "meaning": "giảm căng thẳng"
+    }
    ]
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think arranging outdoor team-building activities is the best choice. I choose it for two main reasons.\n\nThe first reason is that these activities improve skills and well-being at the same time. By that, I mean employees can practise teamwork and communication while they enjoy fresh air and exercise. For example, in a treasure hunt game, each team must plan together, share tasks and support each other.\n\nAnother reason is that outdoor activities help colleagues build closer relationships. In other words, people from different departments can get to know each other outside the office. For instance, after a team-building trip to Vung Tau, my colleagues and I started to have lunch together and help each other more at work.\n\nThere are also some reasons why I do not choose the other two options. Regarding organising skill-building workshops, I do not think it is the best choice because this option only focuses on skills, not on well-being. Employees may also feel tired if they have to sit in another long session after work. As for providing online learning courses, I do not think it is the best option either because employees already spend many hours in front of a computer. These courses also give them very little chance to talk with their colleagues.\n\nTo sum up, out of these three options, I believe arranging outdoor team-building activities is the best choice because it is healthy, fun and useful for teamwork.",
    "outline": [
-    {"section": "Nêu lựa chọn", "content": "Chọn hoạt động team-building ngoài trời", "reusable": "I think the company should arrange outdoor team-building activities."},
-    {"section": "Lý do chọn", "content": "(1) vừa rèn kỹ năng mềm vừa tốt cho sức khỏe tinh thần (2) không khí trong lành, vận động → bớt căng thẳng (3) đồng nghiệp gắn bó hơn", "reusable": "First, these activities can improve both skills and well-being at the same time."},
-    {"section": "Vì sao không chọn workshop kỹ năng", "content": "Tốt cho kỹ năng nhưng ít giúp sức khỏe; ngồi thêm buổi dài sau giờ làm → mệt", "reusable": "I don't choose skill-building workshops. They are useful for skills, but they do not help much with well-being."},
-    {"section": "Vì sao không chọn khóa học online", "content": "Linh hoạt, rẻ nhưng nhân viên đã ngồi máy tính nhiều giờ; ít tương tác", "reusable": "I also don't choose online learning courses."},
-    {"section": "Kết luận", "content": "Nhắc lại lựa chọn: vừa học kỹ năng vừa khỏe và vui hơn", "reusable": "In conclusion, … are the best choice because they help employees learn new skills and feel healthier and happier."}
+    {
+     "section": "Chọn",
+     "content": "Câu khung + hoạt động team-building ngoài trời",
+     "reusable": "In this situation, among the three options, I think arranging outdoor team-building activities is the best choice. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Vừa rèn kỹ năng vừa khoẻ → By that, I mean … → For example: trò chơi truy tìm kho báu",
+     "reusable": "The first reason is that these activities improve skills and well-being at the same time. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "Gắn kết đồng nghiệp → In other words … → For instance: chuyến đi Vũng Tàu",
+     "reusable": "Another reason is that outdoor activities help colleagues build closer relationships. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "Workshop: chỉ lo kỹ năng, ngồi thêm buổi dài; khoá online: đã ngồi máy tính nhiều, ít giao lưu",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding organising skill-building workshops, I do not think it is the best choice because … As for providing online learning courses, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe arranging outdoor team-building activities is the best choice because it is healthy, fun and useful for teamwork."
+    }
    ],
-   "answer": "I think the company should arrange outdoor team-building activities. Let me explain why.\n\nFirst, these activities can improve both skills and well-being at the same time. Staff can learn important soft skills, such as teamwork, communication and leadership. For example, in a group game, they must plan together and support each other. Second, outdoor activities are good for health. Employees can enjoy fresh air, move their bodies and forget about work for a while. As a result, they feel less stressed and more energetic. In addition, team-building helps colleagues become closer. After the event, they will work together more easily.\n\nI don't choose skill-building workshops. They are useful for skills, but they do not help much with well-being. Employees may also feel tired if they have to sit in another long session after work. I also don't choose online learning courses. They are flexible and cheap, but employees already spend many hours in front of a computer. Online courses can make them more tired, and there is little interaction with colleagues.\n\nIn conclusion, outdoor team-building activities are the best choice because they help employees learn new skills and feel healthier and happier.",
    "vocab": [
-    {"term": "well-being", "meaning": "sức khỏe thể chất và tinh thần, sự hạnh phúc"},
-    {"term": "soft skills", "meaning": "kỹ năng mềm"},
-    {"term": "energetic", "meaning": "tràn đầy năng lượng"},
-    {"term": "flexible", "meaning": "linh hoạt"},
-    {"term": "interaction", "meaning": "sự tương tác"}
+    {
+     "term": "well-being",
+     "meaning": "sức khoẻ thể chất và tinh thần"
+    },
+    {
+     "term": "team-building activities",
+     "meaning": "hoạt động gắn kết đội nhóm"
+    },
+    {
+     "term": "treasure hunt",
+     "meaning": "trò truy tìm kho báu"
+    },
+    {
+     "term": "build closer relationships",
+     "meaning": "xây dựng quan hệ gần gũi hơn"
+    },
+    {
+     "term": "department",
+     "meaning": "phòng ban"
+    }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about what companies should consider when hiring new employees. In my opinion, a good hiring decision depends on several important factors.\n\nFirstly, companies should check qualifications and technical skills. A new employee needs the right knowledge to do the job well from the first day. For example, a hospital must hire nurses who have a nursing degree and a licence.\n\nSecondly, soft skills and attitude are very important. Skills like communication and teamwork help people work well with others, and a good attitude means they are willing to learn. For instance, in my research team, a friendly and hard-working person is more useful than a clever person who never listens.\n\nThirdly, companies should think about cultural fit within the company. Every company has its own values and working style. A good example is a start-up where people work very fast, so a person who likes a slow pace may feel uncomfortable there.\n\nAnother important point is that companies should consider work experience. Experienced people can start working quickly and need less training. For example, a nurse with five years of experience can work in the emergency room after only one week.\n\nTo sum up, companies should consider qualifications, soft skills, cultural fit and experience before they choose a new employee.",
    "own_idea": "Work experience",
-   "outline": [
-    {"section": "Mở đầu", "content": "Giới thiệu chủ đề + có 4 điều quan trọng", "reusable": "Today I would like to talk about what companies should consider when hiring new employees."},
-    {"section": "Ý 1: Qualifications and technical skills", "content": "Bằng cấp, kiến thức đúng chuyên môn; ví dụ bệnh viện cần bác sĩ có bằng và giấy phép", "reusable": "First, companies should look at qualifications and technical skills."},
-    {"section": "Ý 2: Soft skills and attitude", "content": "Giao tiếp, làm việc nhóm, giải quyết vấn đề; chăm chỉ, trung thực; kỹ năng dạy được, thái độ khó đổi", "reusable": "Technical skills can be taught, but a bad attitude is very difficult to change."},
-    {"section": "Ý 3: Cultural fit", "content": "Mỗi công ty có giá trị, phong cách riêng → hợp thì thoải mái, gắn bó lâu", "reusable": "Third, companies should think about cultural fit within the company."},
-    {"section": "Ý riêng: Work experience", "content": "Có kinh nghiệm → bắt tay vào việc nhanh, ít cần đào tạo; vẫn nên cho người mới cơ hội", "reusable": "Finally, I think work experience also matters."},
-    {"section": "Kết luận", "content": "Tóm tắt 4 yếu tố + cân nhắc tất cả", "reusable": "A good company should consider all of them before choosing a new employee."}
-   ],
-   "answer": "Today I would like to talk about what companies should consider when hiring new employees. In my opinion, there are four important things.\n\nFirst, companies should look at qualifications and technical skills. A candidate needs the right degree and knowledge to do the job well. For example, a hospital must hire doctors with a medical degree and a licence. In my research team, we need people who can use AI and data software.\n\nSecond, soft skills and attitude are very important. Soft skills include communication, teamwork and problem-solving. A good attitude means the person is hard-working, honest and willing to learn. Technical skills can be taught, but a bad attitude is very difficult to change.\n\nThird, companies should think about cultural fit within the company. Every company has its own values and working style. If a new employee shares these values, he or she will feel comfortable and stay longer.\n\nFinally, I think work experience also matters. Experienced candidates can start working quickly and need less training. However, companies should also give young graduates a chance.\n\nIn conclusion, qualifications, soft skills, cultural fit and work experience are all important. A good company should consider all of them before choosing a new employee.",
    "follow_ups": [
-    "I think confidence and good preparation make a candidate stand out. A good candidate knows a lot about the company and answers questions clearly. A friendly smile also leaves a good impression.",
-    "In my opinion, companies should prioritize potential for most positions. Young people with potential can learn fast and bring new ideas. However, for senior jobs, experience is more important.",
-    "The hiring process has changed a lot because of technology. Many companies now post jobs online and do interviews on Zoom. Some companies even use AI to read CVs."
+    "I think good preparation and confidence make a candidate stand out. The main reason is that interviewers like people who know a lot about the company. For example, a candidate who can talk about the company's recent projects shows real interest. A friendly smile and clear answers also leave a good impression.",
+    "In my opinion, companies should prioritise potential for most junior positions. The main reason is that young people with potential learn fast and bring new ideas. For example, many fresh graduates in my team learnt to use AI tools in just a few months. However, for senior jobs, experience is more important.",
+    "The hiring process has changed a lot in recent years because of technology. Most companies now post jobs online and do the first interview on Zoom or Google Meet. For example, I had my last job interview online from home. Some big companies even use AI to read CVs and choose candidates."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about what companies should consider when hiring new employees."
+    },
+    {
+     "section": "Ý 1: bằng cấp, kỹ năng chuyên môn",
+     "content": "Ý → cần kiến thức đúng → ví dụ bệnh viện tuyển y tá có bằng, chứng chỉ",
+     "reusable": "Firstly, companies should check qualifications and technical skills."
+    },
+    {
+     "section": "Ý 2: kỹ năng mềm, thái độ",
+     "content": "Ý → giao tiếp, làm nhóm, ham học → ví dụ nhóm nghiên cứu của mình",
+     "reusable": "Secondly, soft skills and attitude are very important."
+    },
+    {
+     "section": "Ý 3: hợp văn hoá công ty",
+     "content": "Ý → mỗi công ty có giá trị riêng → ví dụ start-up làm nhanh",
+     "reusable": "Thirdly, companies should think about cultural fit within the company."
+    },
+    {
+     "section": "Ý riêng: kinh nghiệm",
+     "content": "Ý → bắt đầu nhanh, ít đào tạo → ví dụ y tá 5 năm kinh nghiệm",
+     "reusable": "Another important point is that companies should consider work experience."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt 4 yếu tố",
+     "reusable": "To sum up, companies should consider qualifications, soft skills, cultural fit and experience before they choose a new employee."
+    }
    ],
    "vocab": [
-    {"term": "qualifications", "meaning": "bằng cấp, trình độ chuyên môn"},
-    {"term": "attitude", "meaning": "thái độ"},
-    {"term": "cultural fit", "meaning": "sự phù hợp với văn hóa công ty"},
-    {"term": "willing to learn", "meaning": "sẵn lòng học hỏi"},
-    {"term": "stand out", "meaning": "nổi bật"}
+    {
+     "term": "qualifications",
+     "meaning": "bằng cấp, trình độ"
+    },
+    {
+     "term": "attitude",
+     "meaning": "thái độ"
+    },
+    {
+     "term": "cultural fit",
+     "meaning": "sự phù hợp với văn hoá công ty"
+    },
+    {
+     "term": "stand out",
+     "meaning": "nổi bật"
+    },
+    {
+     "term": "prioritise",
+     "meaning": "ưu tiên"
+    }
    ]
   }
  }

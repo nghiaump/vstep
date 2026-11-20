@@ -2,6 +2,7 @@
  "id": "vlu-128",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -11,98 +12,104 @@
     {
      "section": "Mở đầu",
      "content": "Cảm ơn thư, vui được làm bạn qua thư",
-     "reusable": "Thank you for your email. I am very happy to be your pen friend too."
+     "reusable": "Thank you for your email. I am very happy to be your new pen friend."
     },
     {
      "section": "Ý 1: giới thiệu bản thân",
-     "content": "Tên, tuổi, nghiên cứu viên ứng dụng AI cho bác sĩ, học y; sống với em gái ở Quận 3",
-     "reusable": "Let me tell you a bit about myself. My name is Minh, and I am 28 years old."
+     "content": "Trả lời thẳng (tên, tuổi, nghề) → lý do làm nghề (học y) → chi tiết (thích vì giúp người bệnh, hẹn kể thêm)",
+     "reusable": "Regarding myself, I am Minh, a 28-year-old researcher at a university in Ho Chi Minh City."
     },
     {
      "section": "Ý 2: quê hương",
-     "content": "Đà Nẵng ở miền Trung: biển Mỹ Khê, cầu Rồng phun lửa cuối tuần, người thân thiện, hải sản tươi rẻ",
-     "reusable": "My hometown is Da Nang, a beautiful city in central Vietnam."
+     "content": "Trả lời thẳng (Đà Nẵng) → biển Mỹ Khê → người thân thiện, hải sản tươi rẻ",
+     "reusable": "As for my hometown, I come from Da Nang, a beautiful city in central Vietnam."
     },
     {
-     "section": "Ý 3: thời gian rảnh",
-     "content": "Đọc sách, cà phê với bạn, bơi cuối tuần; về quê thì bơi biển",
-     "reusable": "In my free time, I enjoy reading books and going to coffee shops with my friends."
+     "section": "Ý 3: sở thích lúc rảnh",
+     "content": "Trả lời thẳng (đọc sách, cà phê) → chi tiết (bơi cuối tuần) → lý do (thư giãn)",
+     "reusable": "About your question on my free time, I enjoy reading books and going to coffee shops with my friends."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Hỏi lại về bạn ấy, chào cuối thư",
-     "reusable": "What about you? Please tell me about your life and your country."
+     "content": "Hỏi lại về bạn, câu kết cố định, chào cuối thư",
+     "reusable": "That's all for now. … Write back soon! Best wishes,"
     }
    ],
-   "answer": "Hi Emily,\n\nThank you for your email. I am very happy to be your pen friend too.\n\nLet me tell you a bit about myself. My name is Minh, and I am 28 years old. I am a researcher at a university in Ho Chi Minh City. I studied medicine, and now my team uses AI to help doctors and patients. I live with my younger sister in a small flat in District 3.\n\nMy hometown is Da Nang, a beautiful city in central Vietnam. It is famous for its long, clean beaches, such as My Khe Beach. There are also many bridges, like the Dragon Bridge, which breathes fire at weekends. The people there are friendly, and the seafood is fresh and cheap.\n\nIn my free time, I enjoy reading books and going to coffee shops with my friends. At weekends, I usually go swimming. When I visit my hometown, I always swim in the sea.\n\nWhat about you? Please tell me about your life and your country. I hope to hear from you soon.\n\nBest wishes,\nMinh",
+   "answer": "Hi Emily,\n\nThank you for your email. I am very happy to be your new pen friend.\n\nRegarding myself, I am Minh, a 28-year-old researcher at a university in Ho Chi Minh City. I studied medicine, and now my team uses AI to help doctors and patients. I really love this job because it can help many sick people, and I can tell you more about it in my next email.\n\nAs for my hometown, I come from Da Nang, a beautiful city in central Vietnam. It is famous for its long and clean beaches, such as My Khe Beach. The people there are friendly, and the seafood is fresh and cheap.\n\nAbout your question on my free time, I enjoy reading books and going to coffee shops with my friends. At weekends, I usually go swimming at a pool near my flat. It helps me relax after a busy week at work.\n\nThat's all for now. Please tell me about your life and your country. Write back soon!\n\nBest wishes,\nMinh",
    "vocab": [
     {
      "term": "pen friend",
      "meaning": "bạn qua thư"
     },
     {
-     "term": "hometown",
-     "meaning": "quê hương"
+     "term": "central Vietnam",
+     "meaning": "miền Trung Việt Nam"
     },
     {
      "term": "be famous for",
      "meaning": "nổi tiếng về"
     },
     {
-     "term": "breathe fire",
-     "meaning": "phun lửa"
+     "term": "seafood",
+     "meaning": "hải sản"
     },
     {
-     "term": "in my free time",
-     "meaning": "trong thời gian rảnh"
+     "term": "relax after a busy week",
+     "meaning": "thư giãn sau một tuần bận rộn"
     }
    ]
   },
   "2": {
    "essay_type": "Discuss both views + opinion (thảo luận hai quan điểm và nêu ý kiến cá nhân)",
+   "type_key": "discussion",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: cách chọn bạn đời thay đổi; hai quan điểm → ý kiến: hôn nhân vì tình yêu tốt hơn nhưng nên nghe lời khuyên của cha mẹ",
-     "reusable": "In my opinion, love marriage is better, but young people should still listen to their parents' advice."
+     "content": "Viết lại đề (tự chọn bạn đời hay để gia đình chọn) + câu dẫn + quan điểm: hôn nhân vì tình yêu tốt hơn",
+     "reusable": "This essay will discuss both views, but I believe that a marriage based on love is a better choice."
     },
     {
-     "section": "Thân bài 1: quan điểm ủng hộ tự chọn",
-     "content": "(1) hôn nhân cần tình yêu, hiểu tính cách nhau (2) quyền quyết định cuộc đời mình (3) vợ chồng như bạn bè, dễ chia sẻ",
-     "reusable": "On the one hand, many people support love marriage. Firstly, a marriage needs love and understanding."
+     "section": "Thân bài 1 · PEER quan điểm A: hôn nhân sắp đặt",
+     "content": "P: bền hơn → E: cha mẹ nhiều kinh nghiệm, đánh giá người → Ex: thế hệ ông bà được gia đình giới thiệu → R: tránh lựa chọn sai",
+     "reusable": "On the one hand, some people believe that arranged marriages are more likely to last. This is because …"
     },
     {
-     "section": "Thân bài 2: quan điểm ủng hộ sắp đặt",
-     "content": "(1) cha mẹ nhiều kinh nghiệm, đánh giá được người (2) cùng hoàn cảnh → ít mâu thuẫn (3) hai gia đình hỗ trợ",
-     "reusable": "On the other hand, some people believe arranged marriages are more likely to succeed."
+     "section": "Thân bài 2 · PEER 1: cần tình yêu, thấu hiểu",
+     "content": "P: hôn nhân cần tình yêu → E: hiểu tính cách, thói quen trước cưới → Ex: chị họ hẹn hò 3 năm",
+     "reusable": "On the other hand, I agree with those who think that young people should choose their own partners. Firstly, …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 2: quyền tự quyết",
+     "content": "P: quyết định cả đời, phải do cặp đôi → E: cha mẹ không sống thay con → Ex: cưới người giàu để chiều cha mẹ, không hạnh phúc → R: tự chọn hạnh phúc hơn",
+     "reusable": "Secondly, marriage is a lifelong decision, so the couple should have the right to make it."
     },
     {
      "section": "Kết bài",
-     "content": "Hai bên đều có điểm mạnh + nhắc lại ý kiến: tình yêu là nền tảng, nhưng nghe lời khuyên cha mẹ",
-     "reusable": "However, I believe love is the most important foundation for a happy marriage."
+     "content": "Nhắc lại quan điểm + 2 lý do; vẫn nên nghe lời khuyên gia đình",
+     "reusable": "In conclusion, although parents' experience can be helpful, I believe that young people should choose their own partners because …"
     }
    ],
-   "answer": "In many countries, the way people choose a husband or wife is changing. Some people think that young people should choose their own partners based on love. Others believe that arranged marriages, in which parents help to choose a partner, are more successful. In my opinion, love marriage is better, but young people should still listen to their parents' advice.\n\nOn the one hand, many people support love marriage. Firstly, a marriage needs love and understanding. When two people choose each other, they usually know each other's personalities and habits well before the wedding. Secondly, people have the right to decide their own lives. Marriage is a lifelong decision, so the couple should make it themselves. In addition, couples in love marriages often feel happier. They see each other as friends and partners, so they can share their problems easily.\n\nOn the other hand, some people believe arranged marriages are more likely to succeed. Firstly, parents have more life experience. They can judge whether a person is honest, responsible and hard-working. Secondly, families often choose a partner with a similar background, such as the same culture, religion or income level. As a result, the couple may have fewer conflicts. Moreover, in an arranged marriage, both families usually support the couple. For example, they help with money or look after the grandchildren.\n\nIn conclusion, both love marriage and arranged marriage have their own strengths. However, I believe love is the most important foundation for a happy marriage. Young people should choose their own partners, but they should also listen to their parents' advice before they make the final decision.",
+   "answer": "People have different opinions on whether young people should find their own husband or wife or let their families choose for them. This essay will discuss both views, but I believe that a marriage based on love is a better choice.\n\nOn the one hand, some people believe that arranged marriages are more likely to last. This is because parents and relatives have more life experience than young people. They can judge whether a person is honest, hard-working and responsible. For example, in my grandparents' generation, many couples in Vietnam were introduced by their families, and they lived happily together for fifty years. As a result, these people think that family help can protect young people from bad choices.\n\nOn the other hand, I agree with those who think that young people should choose their own partners. Firstly, a happy marriage needs love and understanding. When two people choose each other, they usually know each other's personalities and habits well before the wedding. For instance, my cousin dated her husband for three years, so they already knew how to solve problems together. Secondly, marriage is a lifelong decision, so the couple should have the right to make it. In other words, parents cannot live their children's lives for them. A good example is a woman who marries a rich man only to please her parents and later feels unhappy every day. Therefore, a love marriage usually brings more happiness to the couple.\n\nIn conclusion, although parents' experience can be helpful, I believe that young people should choose their own partners because marriage needs love and it is their own life. However, it is still wise to listen to their families' advice before the final decision.",
    "vocab": [
     {
      "term": "arranged marriage",
      "meaning": "hôn nhân sắp đặt"
     },
     {
-     "term": "partner",
-     "meaning": "bạn đời"
+     "term": "life experience",
+     "meaning": "kinh nghiệm sống"
     },
     {
-     "term": "lifelong decision",
+     "term": "a lifelong decision",
      "meaning": "quyết định cả đời"
     },
     {
-     "term": "similar background",
-     "meaning": "hoàn cảnh tương đồng"
+     "term": "please someone",
+     "meaning": "làm vừa lòng ai"
     },
     {
-     "term": "conflict",
-     "meaning": "mâu thuẫn, xung đột"
+     "term": "personality",
+     "meaning": "tính cách"
     }
    ]
   }
@@ -110,154 +117,150 @@
  "speaking": {
   "1": {
    "answers": [
-    "Yes, I do. I like reading blogs about health and technology. I sometimes read travel blogs to plan my holidays.",
-    "I read blogs about three or four times a week. I usually read them on my phone when I am on the bus or at a coffee shop.",
-    "Yes, I have thought about it. I would like to write a blog about how AI can help people stay healthy. However, I am too busy at the moment.",
-    "I spend about two hours on social media every day. I usually check it in the evening after work. I try not to use it before I go to bed.",
-    "I use Facebook the most. Most of my friends and family use it, so it is easy to stay in touch. I also follow many useful pages about health and science there.",
-    "I think it has both positive and negative effects. Young people can learn many new things on social media. However, many of them spend too much time on it, and this can affect their studies and sleep."
+    "Yes, I do, and I like blogs about health and technology the most. This is because they give me useful ideas for my job. I also read travel blogs when I plan my holidays with my friends.",
+    "I read blogs about three or four times a week, usually on my phone. The main reason is that my phone is small and easy to carry. For example, I often read a blog on the bus on my way to work.",
+    "Yes, I have thought about writing a blog about AI and health. I think it would be useful because many people do not understand AI well. However, I am too busy with my research at the moment.",
+    "I spend about two hours on social media every day. This is because I use it to chat with friends and read the news. I usually check it in the evening, but I try not to use it before bed.",
+    "I use Facebook the most. The main reason is that most of my friends and family use it, so it is easy to stay in touch with them. I also follow many useful pages about health and science there.",
+    "I think social media has both positive and negative effects on young people. They can learn many new things and make friends online. However, many of them spend too much time on it, and this hurts their studies and sleep."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No hoặc tần suất, thời lượng",
-     "reusable": "I spend about two hours on social media every day."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
+     "reusable": "I read blogs about three or four times a week, usually on my phone."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "Most of my friends and family use it, so it is easy to stay in touch."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do bằng This is because / The main reason is that",
+     "reusable": "The main reason is that most of my friends and family use it, so it is easy to stay in touch with them."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 chi tiết cá nhân ngắn",
-     "reusable": "I usually read them on my phone when I am on the bus or at a coffee shop."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân: nơi chốn, thời gian",
+     "reusable": "For example, I often read a blog on the bus on my way to work."
     }
    ],
    "vocab": [
     {
      "term": "blog",
-     "meaning": "trang nhật ký cá nhân trên mạng"
+     "meaning": "trang nhật ký / bài viết cá nhân trên mạng"
+    },
+    {
+     "term": "on my way to work",
+     "meaning": "trên đường đi làm"
     },
     {
      "term": "at the moment",
      "meaning": "hiện tại, lúc này"
     },
     {
-     "term": "follow a page",
-     "meaning": "theo dõi một trang"
+     "term": "stay in touch with",
+     "meaning": "giữ liên lạc với"
     },
     {
-     "term": "stay in touch",
-     "meaning": "giữ liên lạc"
-    },
-    {
-     "term": "positive / negative effect",
-     "meaning": "ảnh hưởng tích cực / tiêu cực"
+     "term": "have both positive and negative effects",
+     "meaning": "có cả ảnh hưởng tích cực lẫn tiêu cực"
     }
    ]
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think taking her out for dinner at a restaurant is the best choice. I choose it for two main reasons.\n\nThe first reason is that a dinner gives us quality time together. By that, I mean my friend and I are both busy with work, so we rarely have time to meet and talk. For example, at a nice restaurant, we can sit for two hours, enjoy good food and share our happy memories.\n\nAnother reason is that my friend really loves food, especially Japanese food. In other words, a dinner at her favourite place will make her feel special and loved. For instance, I can book a table at a sushi restaurant in District 1 and ask the staff to bring out a small birthday cake. She will remember this evening for a long time.\n\nThere are also some reasons why I do not choose the other two options. Regarding a handmade card, I do not think it is the best choice because I am not good at drawing or making things. My card may not look nice, and it is quite a small gift. As for a photo of the two of us together, I do not think it is the best option either because we already have hundreds of photos on our phones.\n\nTo sum up, out of these three options, I believe taking her out for dinner at a restaurant is the best choice because it is special, enjoyable and memorable.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn mời bạn đi ăn tối ở nhà hàng",
-     "reusable": "I think the best gift is taking her out for dinner at a restaurant."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: đưa bạn đi ăn tối ở nhà hàng",
+     "reusable": "In this situation, among the three options, I think taking her out for dinner at a restaurant is the best choice. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) có thời gian bên nhau trò chuyện (2) bạn thích đồ Nhật: đặt bàn quán sushi Quận 1 + bánh kem → kỷ niệm đáng nhớ",
-     "reusable": "First, a dinner gives us time together. … Second, my friend loves food, especially Japanese food."
+     "section": "Lý do 1",
+     "content": "Thời gian bên nhau → By that, I mean … cả hai bận → For example: ngồi 2 tiếng, ôn kỷ niệm",
+     "reusable": "The first reason is that a dinner gives us quality time together. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn thiệp tự làm",
-     "content": "Món quà nhỏ; mình vẽ, làm thủ công không đẹp",
-     "reusable": "I don't choose a handmade card because it is quite a small gift."
+     "section": "Lý do 2",
+     "content": "Bạn mê đồ ăn Nhật → In other words … thấy mình đặc biệt → For instance: đặt bàn nhà hàng sushi Q.1, bánh sinh nhật",
+     "reusable": "Another reason is that my friend really loves food, especially Japanese food. In other words, …"
     },
     {
-     "section": "Vì sao không chọn ảnh chụp chung",
-     "content": "Ý nghĩa nhưng đã có hàng trăm ảnh chung trên điện thoại, Facebook",
-     "reusable": "I also don't choose a photo of the two of us together."
+     "section": "Loại 2 phương án",
+     "content": "Thiệp tự làm: vẽ không đẹp, quà nhỏ; ảnh chụp chung: đã có hàng trăm ảnh trong điện thoại",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding a handmade card, I do not think it is the best choice because … As for a photo of the two of us together, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: trải nghiệm đặc biệt + thời gian bên nhau",
-     "reusable": "In conclusion, taking her out for dinner at a restaurant is the best choice."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe taking her out for dinner at a restaurant is the best choice because it is special, enjoyable and memorable."
     }
    ],
-   "answer": "I think the best gift is taking her out for dinner at a restaurant. Let me explain why.\n\nFirst, a dinner gives us time together. My friend and I are both busy with work, so we rarely have time to meet. At a nice restaurant, we can sit, eat and talk about our happy memories. I think time together is the most valuable gift. Second, my friend loves food, especially Japanese food. I will book a table at her favourite sushi restaurant in District 1 and order a small birthday cake. She will feel special and loved. In addition, a dinner is a great experience that she will remember for a long time.\n\nI don't choose a handmade card because it is quite a small gift. Also, I am not good at drawing or making things, so my card may not look nice. I also don't choose a photo of the two of us together. It is meaningful, but we already have hundreds of photos together on our phones and on Facebook. So it is not very special.\n\nIn conclusion, taking her out for dinner at a restaurant is the best choice. It is a special experience, and it gives us quality time together.",
    "vocab": [
     {
-     "term": "take someone out for dinner",
-     "meaning": "mời ai đi ăn tối"
-    },
-    {
-     "term": "handmade card",
-     "meaning": "thiệp tự làm"
-    },
-    {
-     "term": "valuable",
-     "meaning": "quý giá"
+     "term": "quality time",
+     "meaning": "thời gian chất lượng bên nhau"
     },
     {
      "term": "book a table",
      "meaning": "đặt bàn"
     },
     {
-     "term": "quality time",
-     "meaning": "thời gian ý nghĩa bên nhau"
+     "term": "handmade card",
+     "meaning": "thiệp tự làm"
+    },
+    {
+     "term": "share happy memories",
+     "meaning": "chia sẻ kỷ niệm vui"
+    },
+    {
+     "term": "memorable",
+     "meaning": "đáng nhớ"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about some solutions to reduce obesity. In my opinion, small changes in our daily habits can help us keep a healthy weight.\n\nFirstly, people should eat less fast food. Fast food, such as fried chicken, burgers and sugary drinks, has a lot of fat, sugar and salt. For example, instead of eating chips after school, students can eat fresh fruit or nuts as healthy snacks.\n\nSecondly, cooking meals at home is a good idea. When we cook at home, we can choose fresh ingredients and use less oil and sugar. For instance, my family usually cooks rice, fish and vegetables for dinner, and this meal is both healthy and cheap.\n\nThirdly, people should do more exercise. Exercise helps us burn calories and keeps our hearts strong. For example, I go swimming every weekend, and it helps me stay fit and relaxed after a long week.\n\nAnother important point is that people should get enough sleep. When we are tired, we often feel hungry and want to eat sweet snacks. A good example is office workers who stay up late and eat instant noodles at midnight.\n\nTo sum up, eating less fast food, cooking meals at home, doing more exercise and getting enough sleep can help reduce obesity. These changes are simple, but they can make a big difference to our health.",
    "own_idea": "Getting enough sleep",
+   "follow_ups": [
+    "I think obesity is becoming more common because our lifestyle has changed. Fast food and sugary drinks are cheap and easy to buy everywhere. In addition, many people sit in offices all day and spend their free time on their phones. For example, my colleagues and I often sit for hours without moving.",
+    "I think individuals should be more responsible because they choose what to eat every day. However, the government can also help a lot. For example, it can build more parks and teach children about healthy eating at school. Both sides need to work together.",
+    "Yes, I think a tax would help a little. The main reason is that people usually buy less when things are more expensive. For example, if a bottle of soft drink costs more, students may choose water instead. However, the government should also make healthy food cheaper."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + 4 giải pháp chính",
-     "reusable": "Today I would like to talk about some solutions to reduce obesity."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about some solutions to reduce obesity. In my opinion, small changes in our daily habits can help us keep a healthy weight."
     },
     {
-     "section": "Ý 1: Eating less fast food",
-     "content": "Đồ ăn nhanh nhiều mỡ, đường, muối → tăng cân; thay bằng trái cây, hạt",
-     "reusable": "First, people should eat less fast food."
+     "section": "Ý 1: ăn ít đồ ăn nhanh",
+     "content": "Ý → nhiều mỡ, đường, muối → ví dụ ăn trái cây, hạt thay khoai chiên",
+     "reusable": "Firstly, people should eat less fast food."
     },
     {
-     "section": "Ý 2: Cooking meals at home",
-     "content": "Chọn nguyên liệu tươi, ít dầu, đường; rẻ hơn; ví dụ bữa tối cơm, cá, rau",
-     "reusable": "Second, cooking meals at home is a good idea."
+     "section": "Ý 2: nấu ăn ở nhà",
+     "content": "Ý → chọn nguyên liệu tươi, ít dầu đường → ví dụ cơm, cá, rau mỗi tối",
+     "reusable": "Secondly, cooking meals at home is a good idea."
     },
     {
-     "section": "Ý 3: Doing more exercise",
-     "content": "Ít nhất 30 phút/ngày: đi bộ, đạp xe, bơi; tôi bơi mỗi cuối tuần",
-     "reusable": "Third, people should do more exercise."
+     "section": "Ý 3: tập thể dục nhiều hơn",
+     "content": "Ý → đốt calo, tim khoẻ → ví dụ bơi mỗi cuối tuần",
+     "reusable": "Thirdly, people should do more exercise."
     },
     {
-     "section": "Ý riêng: Getting enough sleep",
-     "content": "Ngủ dưới 6 tiếng → đói hơn, ăn vặt đêm; nên ngủ 7–8 tiếng",
-     "reusable": "Finally, I think getting enough sleep is also important."
+     "section": "Ý riêng: ngủ đủ giấc",
+     "content": "Ý → mệt thì đói, thèm ngọt → ví dụ thức khuya ăn mì gói",
+     "reusable": "Another important point is that people should get enough sleep."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt 4 giải pháp + thay đổi nhỏ tạo khác biệt lớn",
-     "reusable": "Small changes in our daily habits can make a big difference to our health."
+     "section": "Kết",
+     "content": "Tóm tắt 4 giải pháp",
+     "reusable": "To sum up, eating less fast food, cooking meals at home, doing more exercise and getting enough sleep can help reduce obesity."
     }
-   ],
-   "answer": "Today I would like to talk about some solutions to reduce obesity. In my opinion, there are four main solutions.\n\nFirst, people should eat less fast food. Fast food, such as fried chicken, burgers and sugary drinks, has a lot of fat, sugar and salt. If people eat it often, they will gain weight quickly. We can eat fresh fruit or nuts as healthy snacks instead.\n\nSecond, cooking meals at home is a good idea. When we cook at home, we can choose fresh ingredients and use less oil and sugar. Home-cooked meals are also cheaper than restaurant meals. For example, my family usually cooks rice, fish and vegetables for dinner.\n\nThird, people should do more exercise. Adults should exercise for at least thirty minutes a day. They can walk, ride a bike or swim. I go swimming every weekend, and it helps me stay fit and relaxed.\n\nFinally, I think getting enough sleep is also important. Research shows that people who sleep less than six hours a night often feel hungrier. They tend to eat more snacks late at night. So adults should sleep about seven to eight hours every night.\n\nIn conclusion, eating less fast food, cooking at home, doing more exercise and getting enough sleep can help reduce obesity. Small changes in our daily habits can make a big difference to our health.",
-   "follow_ups": [
-    "Obesity is becoming more common because people eat more fast food and sugary drinks. In addition, many people work in offices and sit all day. They also spend a lot of free time on their phones instead of moving.",
-    "I think individuals should be more responsible because they choose what to eat every day. However, the government can help too. For example, it can build more parks and teach people about healthy eating.",
-    "Yes, I think it would help a little. If fast food and sugary drinks are more expensive, people will buy less. However, the government should also make healthy food cheaper."
    ],
    "vocab": [
     {
      "term": "obesity",
      "meaning": "bệnh béo phì"
-    },
-    {
-     "term": "gain weight",
-     "meaning": "tăng cân"
     },
     {
      "term": "sugary drinks",
@@ -268,8 +271,12 @@
      "meaning": "nguyên liệu tươi"
     },
     {
-     "term": "make a big difference",
-     "meaning": "tạo ra khác biệt lớn"
+     "term": "burn calories",
+     "meaning": "đốt cháy calo"
+    },
+    {
+     "term": "stay up late",
+     "meaning": "thức khuya"
     }
    ]
   }

@@ -77,7 +77,7 @@ describe('highlights', () => {
 describe('synced data', () => {
   it('covers VLU 90–135: 30 reading, 46 writing, 46 speaking exams', () => {
     expect(R).toHaveLength(30);
-    expect(writing).toHaveLength(46);
+    expect(writing.filter((e) => !e.custom)).toHaveLength(46);
     expect(S).toHaveLength(46);
     expect(S.map((e) => e.number).sort((a, b) => a - b)).toEqual(Array.from({ length: 46 }, (_, i) => 90 + i));
   });
@@ -120,16 +120,35 @@ import type { Solution } from '../src/lib/solutions';
 describe('model answers', () => {
   const SOL = solutions as unknown as Solution[];
   it('every exam VLU 90–135 has a model answer', () => {
-    expect(SOL.map((s) => s.number).sort((a, b) => a - b)).toEqual(Array.from({ length: 46 }, (_, i) => 90 + i));
+    expect(SOL.filter((s) => !s.custom).map((s) => s.number).sort((a, b) => a - b)).toEqual(Array.from({ length: 46 }, (_, i) => 90 + i));
+  });
+  it('every W2 answer names a known essay template, and every template exists', async () => {
+    const { templateByKey, w2TemplateKey } = await import('../src/lib/templates');
+    for (const s of SOL) {
+      const w2 = s.answer.writing['2'] as { type_key?: string };
+      expect(templateByKey[w2TemplateKey(w2.type_key) ?? '']).toBeDefined();
+      expect(['w1_informal', 'w1_formal']).toContain((s.answer.writing['1'] as { template?: string }).template);
+    }
+    for (const k of ['s1', 's2', 's3']) expect(templateByKey[k]).toBeDefined();
+  });
+  it('self-made exams are writing-only, labelled, and also available as Writing rooms', () => {
+    const custom = SOL.filter((s) => s.custom);
+    expect(custom.length).toBeGreaterThanOrEqual(1);
+    for (const s of custom) {
+      expect(s.label).toBeTruthy();
+      expect(s.prompt.speaking).toBeUndefined();
+      expect(writing.find((e) => e.id === s.id)?.tasks).toHaveLength(2);
+    }
   });
   it('word counts meet VSTEP minimums and the brief', () => {
     for (const s of SOL) {
       expect(countWords(s.answer.writing['1'].answer)).toBeGreaterThanOrEqual(120);
       expect(countWords(s.answer.writing['2'].answer)).toBeGreaterThanOrEqual(250);
       expect(s.answer.writing['2'].answer.split(/\n\s*\n/).filter((p) => p.trim())).toHaveLength(4);
+      for (const k of ['1', '2'] as const) expect(s.answer.writing[k].vocab.length).toBeGreaterThanOrEqual(3);
+      if (!s.answer.speaking || !s.prompt.speaking) continue;
       expect(s.answer.speaking['1'].answers).toHaveLength(s.prompt.speaking['1'].topics.flatMap((t) => t.questions).length);
       expect(s.answer.speaking['3'].follow_ups).toHaveLength(s.prompt.speaking['3'].follow_ups.length);
-      for (const k of ['1', '2'] as const) expect(s.answer.writing[k].vocab.length).toBeGreaterThanOrEqual(3);
     }
   });
 });

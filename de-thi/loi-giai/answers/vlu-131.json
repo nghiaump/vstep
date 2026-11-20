@@ -2,43 +2,44 @@
  "id": "vlu-131",
  "writing": {
   "1": {
+   "template": "w1_formal",
    "outline": [
     {
      "section": "Lời chào",
-     "content": "Chào trang trọng: Dear + Ms + họ",
+     "content": "Thư trang trọng, biết họ người nhận → Dear Ms + họ",
      "reusable": "Dear Ms Taylor,"
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư và sự quan tâm đến vị trí, sẵn lòng trả lời",
-     "reusable": "Thank you for your email and your interest in the English teaching position at our language center."
+     "content": "Nêu mục đích: trả lời thư về vị trí giáo viên tiếng Anh",
+     "reusable": "I am writing in response to your email about the English teaching position at our center."
     },
     {
      "section": "Ý 1: bằng cấp",
-     "content": "Cử nhân tiếng Anh / sư phạm Anh + chứng chỉ CELTA hoặc TESOL; ưu tiên ≥1 năm kinh nghiệm",
-     "reusable": "Firstly, you need a bachelor's degree in English or English language teaching."
+     "content": "Trả lời thẳng (cử nhân tiếng Anh) → chứng chỉ CELTA/TESOL → ưu tiên 1 năm kinh nghiệm",
+     "reusable": "Concerning the qualifications, you need a bachelor's degree in English or English language teaching."
     },
     {
      "section": "Ý 2: dạy trẻ em hay người lớn",
-     "content": "Chủ yếu trẻ 7–12 tuổi; có thể thêm 1 lớp người lớn sáng thứ Bảy; lớp khoảng 15 học viên",
-     "reusable": "Secondly, you will mainly teach children between the ages of seven and twelve."
+     "content": "Trả lời thẳng (chủ yếu trẻ 7–12 tuổi) → lý do (đa số học viên tiểu học) → có thể thêm 1 lớp người lớn sáng thứ Bảy",
+     "reusable": "With regard to your students, you will mainly teach children between the ages of seven and twelve."
     },
     {
-     "section": "Ý 3: số tiết/tuần + hoạt động ngoài trời",
-     "content": "Khoảng 20 tiết/tuần, mỗi tiết 90 phút; hoạt động ngoài trời mỗi tháng một lần (công viên, bảo tàng)",
-     "reusable": "Thirdly, you will teach about twenty lessons per week. … As for outdoor activities, we organize them once a month."
+     "section": "Ý 3: số tiết + hoạt động ngoài trời",
+     "content": "Khoảng 20 tiết/tuần, 90 phút/tiết → hoạt động ngoài trời mỗi tháng 1 lần → ví dụ công viên, bảo tàng",
+     "reusable": "Regarding your timetable, you will teach about twenty lessons per week, and each lesson lasts ninety minutes."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mời liên hệ nếu có câu hỏi, mong nhận hồ sơ; Yours sincerely",
-     "reusable": "If you have any further questions, please do not hesitate to contact me."
+     "content": "Câu kết cố định; Dear Ms + họ → Yours sincerely",
+     "reusable": "If you require any further information, please do not hesitate to contact me. I look forward to hearing from you. Yours sincerely,"
     }
    ],
-   "answer": "Dear Ms Taylor,\n\nThank you for your email and your interest in the English teaching position at our language center. I am happy to answer your questions.\n\nFirstly, you need a bachelor's degree in English or English language teaching. You also need a teaching certificate, such as CELTA or TESOL. In addition, we prefer candidates who have at least one year of teaching experience.\n\nSecondly, you will mainly teach children between the ages of seven and twelve. However, you may also teach one adult class on Saturday mornings. Our classes are small, with about fifteen students in each class.\n\nThirdly, you will teach about twenty lessons per week. Each lesson lasts ninety minutes. As for outdoor activities, we organize them once a month. For example, students visit a park or a museum and practise English with their teachers.\n\nIf you have any further questions, please do not hesitate to contact me. I look forward to receiving your full application.\n\nYours sincerely,\nNguyen Minh\nDirector, Sunshine Language Center",
+   "answer": "Dear Ms Taylor,\n\nI am writing in response to your email about the English teaching position at our center.\n\nConcerning the qualifications, you need a bachelor's degree in English or English language teaching. You also need a teaching certificate, such as CELTA or TESOL. In addition, we prefer candidates with at least one year of teaching experience.\n\nWith regard to your students, you will mainly teach children between the ages of seven and twelve. This is because most of our learners are primary school pupils. However, you may also teach one adult class on Saturday mornings.\n\nRegarding your timetable, you will teach about twenty lessons per week, and each lesson lasts ninety minutes. As for outdoor activities, we organise them once a month. For example, students visit a park or a museum and practise English with their teachers there.\n\nIf you require any further information, please do not hesitate to contact me. I look forward to hearing from you.\n\nYours sincerely,\nNguyen Minh",
    "vocab": [
     {
-     "term": "teaching experience",
-     "meaning": "kinh nghiệm giảng dạy"
+     "term": "qualifications",
+     "meaning": "bằng cấp, trình độ chuyên môn"
     },
     {
      "term": "bachelor's degree",
@@ -49,60 +50,71 @@
      "meaning": "chứng chỉ giảng dạy"
     },
     {
-     "term": "candidate",
-     "meaning": "ứng viên"
+     "term": "primary school pupils",
+     "meaning": "học sinh tiểu học"
     },
     {
-     "term": "do not hesitate to contact me",
-     "meaning": "đừng ngần ngại liên hệ với tôi"
+     "term": "timetable",
+     "meaning": "thời khoá biểu"
     }
    ]
   },
   "2": {
-   "essay_type": "Causes & effects (phân tích nguyên nhân và hậu quả)",
+   "essay_type": "Causes & effects (phân tích nguyên nhân và ảnh hưởng)",
+   "type_key": "cause_effect",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: nhảy việc phổ biến ở người trẻ → bài bàn nguyên nhân và ảnh hưởng tới cá nhân, công ty",
-     "reusable": "This essay will discuss the main causes of job hopping and its effects on individuals and companies."
+     "content": "Viết lại đề (người trẻ chuyển công ty sau thời gian ngắn, gọi là nhảy việc) + câu dẫn",
+     "reusable": "This essay will discuss the main causes of this trend and its effects on both workers and companies."
     },
     {
-     "section": "Thân bài 1: nguyên nhân",
-     "content": "(1) muốn lương cao hơn (2) muốn học kỹ năng mới, tìm nghề phù hợp (3) môi trường làm việc tệ, không thăng tiến",
-     "reusable": "There are several reasons why people change jobs frequently. Firstly, many workers want a higher salary."
+     "section": "Thân bài 1 · nguyên nhân 1",
+     "content": "P: muốn lương cao hơn → E: chuyển việc là cách tăng lương nhanh nhất → Ex: kỹ sư phần mềm nhận lời mời tốt hơn sau 1 năm",
+     "reusable": "There are two main causes of job hopping. Firstly, many young employees want a higher salary."
     },
     {
-     "section": "Thân bài 2: ảnh hưởng",
-     "content": "Cá nhân: (+) thu nhập, kinh nghiệm, mối quan hệ; (−) CV xấu, bị cho là thiếu gắn bó. Công ty: tốn tiền tuyển, đào tạo; chất lượng giảm",
-     "reusable": "Job hopping has effects on both individuals and companies."
+     "section": "Thân bài 1 · nguyên nhân 2",
+     "content": "P: học kỹ năng, tìm đúng nghề → E: thử nhiều việc → Ex: bạn làm bán hàng, marketing rồi mới thành giáo viên",
+     "reusable": "Secondly, young people want to learn new skills and find the right career."
+    },
+    {
+     "section": "Thân bài 2 · ảnh hưởng 1 (cá nhân)",
+     "content": "P: hại sự nghiệp lâu dài → E: bị cho là không trung thành → Ex: CV 5 việc trong 4 năm",
+     "reusable": "This trend has two serious effects. The first effect is that job hopping can hurt workers' careers in the long term."
+    },
+    {
+     "section": "Thân bài 2 · ảnh hưởng 2 (công ty)",
+     "content": "P: công ty mất thời gian, tiền → E: tuyển, đào tạo người mới → Ex: nhà hàng nhỏ mất vài tuần dạy đầu bếp mới → R: chất lượng giảm",
+     "reusable": "Another effect is that companies lose time and money."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt + ý kiến: công ty nên trả lương công bằng, có lộ trình thăng tiến rõ ràng",
-     "reusable": "I believe companies should offer fair pay and clear career paths to keep their staff."
+     "content": "Tóm tắt 2 nguyên nhân + 2 ảnh hưởng",
+     "reusable": "In conclusion, job hopping is mainly caused by the wish for higher pay and the need to find the right career."
     }
    ],
-   "answer": "Nowadays, job hopping, which means changing jobs often, is very common, especially among young workers. Many people stay with one company for only one or two years and then move to another one. This essay will discuss the main causes of job hopping and its effects on individuals and companies.\n\nThere are several reasons why people change jobs frequently. Firstly, many workers want a higher salary. Often, the easiest way to get a big pay rise is to move to a new company. Secondly, young people want to learn new skills and find the right career. They try different jobs to discover what they really enjoy. In addition, some employees leave because of a bad working environment. For example, they may have a strict boss or no chance of promotion.\n\nJob hopping has effects on both individuals and companies. For individuals, it has some good points. They can earn more money, gain different experiences and build a large network. However, frequent job changes can also look bad on a CV. Some employers think job hoppers are not loyal, so they may not hire them. For companies, job hopping is mostly negative. They lose time and money when they find and train new staff. Moreover, when experienced workers leave, the quality of work may go down.\n\nIn conclusion, people change jobs often because they want better pay, new skills and a good working environment. Job hopping can help individuals grow, but it can harm their reputation and cost companies a lot. I believe companies should offer fair pay and clear career paths to keep their staff.",
+   "answer": "In recent years, more and more young workers are moving from one company to another after a short time. This trend, called job hopping, is now very common in many countries. This essay will discuss the main causes of this trend and its effects on both workers and companies.\n\nThere are two main causes of job hopping. Firstly, many young employees want a higher salary. Often, the quickest way to get a big pay rise is to move to a new company. For example, a software engineer may get a much better offer from another firm after only one year. Secondly, young people want to learn new skills and find the right career. They try different jobs to discover what they really enjoy. For instance, my friend worked in sales and marketing before she finally chose to become a teacher.\n\nThis trend has two serious effects. The first effect is that job hopping can hurt workers' careers in the long term. Some employers think that job hoppers are not loyal, so they may not hire them for senior positions. A good example is a CV with five jobs in four years, which may worry a manager. Another effect is that companies lose time and money. When an experienced worker leaves, the company has to find and train a new person. For example, a small restaurant may need several weeks to train a new cook. As a result, the quality of work may go down for a while.\n\nIn conclusion, job hopping is mainly caused by the wish for higher pay and the need to find the right career. It can hurt workers' careers and cost companies a lot of time and money.",
    "vocab": [
     {
      "term": "job hopping",
      "meaning": "nhảy việc"
     },
     {
-     "term": "pay rise",
+     "term": "a pay rise",
      "meaning": "sự tăng lương"
     },
     {
-     "term": "chance of promotion",
-     "meaning": "cơ hội thăng tiến"
-    },
-    {
      "term": "loyal",
-     "meaning": "trung thành, gắn bó"
+     "meaning": "trung thành"
     },
     {
-     "term": "career path",
-     "meaning": "lộ trình phát triển nghề nghiệp"
+     "term": "senior position",
+     "meaning": "vị trí cấp cao"
+    },
+    {
+     "term": "in the long term",
+     "meaning": "về lâu dài"
     }
    ]
   }
@@ -110,34 +122,34 @@
  "speaking": {
   "1": {
    "answers": [
-    "I like traditional Vietnamese dance the most. It is graceful, and it shows our culture. I often watch it on TV during Tet.",
-    "No, I have never taken any dance lessons. I am quite busy with my work. Also, I prefer swimming because it is more relaxing for me.",
-    "Yes, I think dancing is a great way to stay fit. It is good for the heart, and it helps people burn calories. Moreover, it is fun, so people do not get bored easily.",
-    "I try to eat healthy food and get enough sleep. I also drink a lot of water every day. In addition, I have a health check-up once a year.",
-    "Yes, I do. I go swimming every weekend at a pool near my house. On weekdays, I sometimes jog in the park for thirty minutes.",
-    "I think the most important thing is a healthy diet. We should eat a lot of vegetables and fruit and avoid fast food. I studied medicine, so I know that food affects our health a lot."
+    "I like traditional Vietnamese dance the most. This is because it is graceful and it shows our culture. For example, I often watch fan dances on TV during Tet with my family.",
+    "No, I have never taken any dance lessons. The main reason is that I am quite busy with my research. Also, I prefer swimming because it is more relaxing for me.",
+    "Yes, I think dancing is a great way to stay fit. It is good for the heart, and it burns calories in a fun way. For example, my mother dances in the park every morning, and she is very healthy.",
+    "I try to eat healthy food and get enough sleep. This is because I studied medicine, so I know these habits keep our bodies healthy. I also drink a lot of water and have a health check-up once a year.",
+    "Yes, I do. I go swimming every weekend at a pool near my house because it keeps me fit. On weekdays, I sometimes jog in the park for thirty minutes after work.",
+    "I think the most important thing for a healthy body is a healthy diet. This is because the food we eat affects our health every day. For example, we should eat a lot of vegetables and fruit and avoid fast food."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No hoặc nêu điều mình thích",
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
      "reusable": "I like traditional Vietnamese dance the most."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "I prefer swimming because it is more relaxing for me."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do bằng This is because / The main reason is that",
+     "reusable": "This is because the food we eat affects our health every day."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 chi tiết cá nhân ngắn",
-     "reusable": "I go swimming every weekend at a pool near my house."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân: người thân, thời gian, địa điểm",
+     "reusable": "For example, my mother dances in the park every morning, and she is very healthy."
     }
    ],
    "vocab": [
     {
      "term": "graceful",
-     "meaning": "uyển chuyển, duyên dáng"
+     "meaning": "duyên dáng, uyển chuyển"
     },
     {
      "term": "stay fit",
@@ -149,7 +161,7 @@
     },
     {
      "term": "health check-up",
-     "meaning": "khám sức khoẻ định kỳ"
+     "meaning": "khám sức khoẻ"
     },
     {
      "term": "a healthy diet",
@@ -159,46 +171,46 @@
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think going to a children's museum is the best choice for my friend and her daughter. I choose it for two main reasons.\n\nThe first reason is that a children's museum is fun and educational at the same time. By that, I mean children can touch things, play games and do simple science activities. For example, the little girl can learn how plants grow or how the human body works while she plays.\n\nAnother reason is that a museum is indoors, so it is comfortable and safe. In other words, they do not need to worry about the hot sun or sudden rain in Ho Chi Minh City. For instance, if it rains in the afternoon, they can still enjoy their day without getting wet. Museums also have staff who look after children carefully.\n\nThere are also some reasons why I do not choose the other two options. Regarding going to the zoo, I do not think it is the best choice because it is usually very hot and crowded at weekends. A young child may also get tired after walking for a long time. As for going to a local park, I do not think it is the best option either because they can go there on any day. It is not special enough for a weekend.\n\nTo sum up, out of these three options, I believe going to a children's museum is the best choice because it is fun, safe and educational.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn bảo tàng dành cho trẻ em",
-     "reusable": "I think my friend should take her daughter to a children's museum."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: bảo tàng thiếu nhi",
+     "reusable": "In this situation, among the three options, I think going to a children's museum is the best choice for my friend and her daughter. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) vừa vui vừa học: chạm, chơi, làm thí nghiệm (2) trong nhà: mát, an toàn, có nhân viên trông trẻ",
-     "reusable": "First, a children's museum is fun and educational at the same time. … Second, a museum is indoors, so it is comfortable and safe."
+     "section": "Lý do 1",
+     "content": "Vừa vui vừa học → By that, I mean … chạm, chơi, làm thí nghiệm → For example: học cây lớn, cơ thể người",
+     "reusable": "The first reason is that a children's museum is fun and educational at the same time. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn sở thú",
-     "content": "Nóng, đông cuối tuần; rộng, bé đi bộ nhiều dễ mệt",
-     "reusable": "I don't choose going to the zoo because it is usually very hot and crowded at weekends."
+     "section": "Lý do 2",
+     "content": "Trong nhà, an toàn → In other words … không lo nắng mưa → For instance: mưa chiều vẫn chơi được",
+     "reusable": "Another reason is that a museum is indoors, so it is comfortable and safe. In other words, …"
     },
     {
-     "section": "Vì sao không chọn công viên",
-     "content": "Miễn phí nhưng ngày nào cũng đi được, không đặc biệt",
-     "reusable": "I also don't choose going to a local park."
+     "section": "Loại 2 phương án",
+     "content": "Sở thú: nóng, đông, bé mệt; công viên: ngày nào cũng đi được, không đặc biệt",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding going to the zoo, I do not think it is the best choice because … As for going to a local park, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: vui, an toàn, giúp bé học",
-     "reusable": "In conclusion, going to a children's museum is the best choice because it is fun and safe, and it helps the child learn."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe going to a children's museum is the best choice because it is fun, safe and educational."
     }
    ],
-   "answer": "I think my friend should take her daughter to a children's museum. Let me explain why.\n\nFirst, a children's museum is fun and educational at the same time. Children can touch things, play games and do simple science experiments. For example, they can learn how the human body works or how plants grow. In this way, the little girl can learn new things while she plays. Second, a museum is indoors, so it is comfortable and safe. Ho Chi Minh City is very hot, and it often rains in the afternoon. In a museum, they do not need to worry about the weather. In addition, museums usually have staff who look after children carefully.\n\nI don't choose going to the zoo because it is usually very hot and crowded at weekends. The zoo is also big, so a young child may get tired after walking for a long time. I also don't choose going to a local park. A park is nice and free, but they can go there on any day after school. It is not very special for a weekend trip.\n\nIn conclusion, going to a children's museum is the best choice because it is fun and safe, and it helps the child learn.",
    "vocab": [
     {
      "term": "educational",
      "meaning": "mang tính giáo dục"
     },
     {
-     "term": "science experiment",
-     "meaning": "thí nghiệm khoa học"
-    },
-    {
      "term": "indoors",
      "meaning": "trong nhà"
+    },
+    {
+     "term": "sudden rain",
+     "meaning": "mưa bất chợt"
     },
     {
      "term": "look after",
@@ -211,44 +223,44 @@
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the benefits of keeping pets. In my opinion, pets can make our lives happier and healthier.\n\nFirstly, pets give us companionship. People who live alone, such as old people or students, often feel lonely, and a pet can be a good friend for them. For example, my grandmother lives alone in Da Nang, and her cat keeps her company all day.\n\nSecondly, pets give us emotional support. They love us without judging us, so they help us feel calm when we are sad or stressed. For instance, when I come home after a stressful day, my dog, Lucky, runs to me and wags his tail, and I feel happy again.\n\nThirdly, keeping pets has health benefits. Dog owners have to walk their dogs every day, so they get more exercise. A good example is my neighbour, who walks his dog in the park every morning and has lost some weight.\n\nAnother important point is that pets can teach children responsibility. When children feed and clean their pets, they learn to take care of others. For example, my nephew has to feed his fish every day before school.\n\nTo sum up, pets give us companionship, emotional support, health benefits and important lessons for children. However, before we get a pet, we should make sure we have enough time to look after it.",
    "own_idea": "Teaching children responsibility",
+   "follow_ups": [
+    "In Ho Chi Minh City, most people keep dogs and cats. The main reason is that dogs can protect the house and cats can catch mice. For example, my neighbours have a big dog that barks when strangers come. People who live in small flats often keep fish or birds because they need less space.",
+    "Keeping a pet can cause several problems for its owner. The biggest problem is that pets need a lot of money, time and care. For example, food and vet bills can be expensive, especially when a pet gets sick. In addition, some pets make noise or make the house dirty.",
+    "Yes, I think children should have pets. The main reason is that pets teach them to be responsible and kind. For example, a child who walks a dog every day learns to keep a routine. However, parents should help them and choose a safe and gentle pet."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + 4 lợi ích chính",
-     "reusable": "Today I would like to talk about the benefits of keeping pets."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the benefits of keeping pets. In my opinion, pets can make our lives happier and healthier."
     },
     {
-     "section": "Ý 1: Companionship",
-     "content": "Người sống một mình đỡ cô đơn; ví dụ mèo bầu bạn với bà",
-     "reusable": "First, pets give us companionship."
+     "section": "Ý 1: bầu bạn",
+     "content": "Ý → người sống một mình hay cô đơn → ví dụ bà nuôi mèo ở Đà Nẵng",
+     "reusable": "Firstly, pets give us companionship."
     },
     {
-     "section": "Ý 2: Emotional support",
-     "content": "Chó vẫy đuôi chào khi về nhà → vui, thư giãn; giảm stress",
-     "reusable": "Second, pets give us emotional support."
+     "section": "Ý 2: chỗ dựa tinh thần",
+     "content": "Ý → thương mình không phán xét → ví dụ chó Lucky vẫy đuôi khi đi làm về",
+     "reusable": "Secondly, pets give us emotional support."
     },
     {
-     "section": "Ý 3: Health benefits",
-     "content": "Dắt chó đi dạo → vận động nhiều, tim khoẻ; thú cưng thăm bệnh nhân",
-     "reusable": "Third, keeping pets has health benefits."
+     "section": "Ý 3: lợi ích sức khoẻ",
+     "content": "Ý → dắt chó đi dạo, vận động nhiều hơn → ví dụ hàng xóm dắt chó, giảm cân",
+     "reusable": "Thirdly, keeping pets has health benefits."
     },
     {
-     "section": "Ý riêng: Teaching children responsibility",
-     "content": "Cho ăn, tắm rửa thú cưng → trẻ biết chăm sóc, tử tế, kiên nhẫn",
-     "reusable": "Finally, I think pets can teach children responsibility."
+     "section": "Ý riêng: dạy trẻ trách nhiệm",
+     "content": "Ý → cho ăn, dọn dẹp, biết chăm sóc → ví dụ cháu cho cá ăn mỗi sáng",
+     "reusable": "Another important point is that pets can teach children responsibility."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt + cần đủ thời gian chăm sóc trước khi nuôi",
-     "reusable": "However, before we get a pet, we should make sure we have enough time to look after it."
+     "section": "Kết",
+     "content": "Tóm tắt 4 lợi ích + cần đủ thời gian chăm",
+     "reusable": "To sum up, pets give us companionship, emotional support, health benefits and important lessons for children."
     }
-   ],
-   "answer": "Today I would like to talk about the benefits of keeping pets. In my opinion, pets bring us four main benefits.\n\nFirst, pets give us companionship. People who live alone, such as old people or students, often feel lonely. A dog or a cat can be a good friend for them. For example, my grandmother lives alone, and her cat keeps her company all day.\n\nSecond, pets give us emotional support. When I come home after a stressful day, my dog, Lucky, runs to me and wags his tail. This makes me feel happy and relaxed. Some studies show that playing with pets can reduce stress and sadness.\n\nThird, keeping pets has health benefits. Dog owners have to walk their dogs every day, so they get more exercise. As a result, their hearts are healthier, and they can keep a healthy weight. In some hospitals, animals even visit patients to help them feel better.\n\nFinally, I think pets can teach children responsibility. When children feed and clean their pets, they learn to take care of others. They also learn to be kind and patient.\n\nIn conclusion, pets give us companionship, emotional support, better health and important life lessons. However, before we get a pet, we should make sure we have enough time to look after it.",
-   "follow_ups": [
-    "In Ho Chi Minh City, most people keep dogs and cats. Dogs can protect the house, and cats can catch mice. Some people who live in small flats keep fish or birds because they need less space.",
-    "Pets can cost a lot of money for food and vet bills. They also need a lot of time and care. In addition, some pets make noise or make the house dirty.",
-    "Yes, I think children should have pets. Pets teach them to be responsible and kind. However, parents should help them and choose a safe and gentle pet."
    ],
    "vocab": [
     {
@@ -257,11 +269,11 @@
     },
     {
      "term": "keep someone company",
-     "meaning": "ở bên, bầu bạn với ai"
+     "meaning": "bầu bạn với ai"
     },
     {
      "term": "emotional support",
-     "meaning": "sự hỗ trợ về tinh thần"
+     "meaning": "chỗ dựa tinh thần"
     },
     {
      "term": "wag its tail",
@@ -269,7 +281,7 @@
     },
     {
      "term": "vet bills",
-     "meaning": "chi phí khám chữa bệnh thú y"
+     "meaning": "hoá đơn thú y"
     }
    ]
   }

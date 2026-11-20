@@ -14,6 +14,7 @@ export default function PrintSolutions() {
     document.documentElement.dataset.theme = 'light';
     return () => { delete document.documentElement.dataset.print; if (prev) document.documentElement.dataset.theme = prev; else delete document.documentElement.dataset.theme; };
   }, []);
+  const nums = list.filter((x) => !x.custom).map((x) => x.number);
   if (!list.length) return <Navigate to="/bai-mau" replace />;
   return (
     <div className={s.doc}>
@@ -21,13 +22,13 @@ export default function PrintSolutions() {
         <section className={s.cover}>
           <p className={s.kicker}>VSTEP · Đề Văn Lang</p>
           <h1>Bài giải tham khảo Writing &amp; Speaking</h1>
-          <p className={s.sub}>VLU {Math.min(...list.map((x) => x.number))}–{Math.max(...list.map((x) => x.number))} · {list.length} đề · mục tiêu 5–6 điểm</p>
-          <ol className={s.toc}>{list.map((x) => <li key={x.id}>VLU {x.number}: {x.prompt.writing['2'].quote.slice(-1)[0]}</li>)}</ol>
+          <p className={s.sub}>VLU {Math.min(...nums)}–{Math.max(...nums)}{list.length > nums.length ? ' + đề tự tạo' : ''} · {list.length} đề · mục tiêu 5–6 điểm</p>
+          <ol className={s.toc}>{list.map((x) => <li key={x.id}>{x.label}: {x.prompt.writing['2'].quote.slice(-1)[0]}</li>)}</ol>
         </section>
       )}
       {list.map((x) => (
         <article key={x.id} className={s.exam}>
-          <header className={s.examHead}><span>VLU {x.number}</span><span>Bài giải tham khảo · mục tiêu 5–6 điểm</span></header>
+          <header className={s.examHead}><span>{x.label}</span><span>Bài giải tham khảo · mục tiêu 5–6 điểm</span></header>
           <SolutionBody sol={x} />
         </article>
       ))}

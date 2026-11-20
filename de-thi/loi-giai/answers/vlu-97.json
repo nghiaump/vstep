@@ -2,6 +2,7 @@
  "id": "vlu-97",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -11,98 +12,104 @@
     {
      "section": "Mở đầu",
      "content": "Cảm ơn thư, vui vì bạn sắp đi Bali",
-     "reusable": "Thanks for your email. I am so happy that you are going to Bali soon!"
+     "reusable": "Thank you for your email. I am so happy that you are going to Bali soon."
     },
     {
-     "section": "Ý 1: giá cả và tiện nghi khách sạn",
-     "content": "Khách sạn ở Ubud, khoảng 40 đô/đêm gồm bữa sáng; hồ bơi, Wi-Fi miễn phí, phòng sạch, xe đưa đón sân bay",
-     "reusable": "I stayed at Green Garden Hotel in Ubud, and I really liked it."
+     "section": "Ý 1: giá và tiện nghi khách sạn",
+     "content": "Green Garden Hotel ở Ubud → 40 đô/đêm có bữa sáng → phòng sạch, yên tĩnh → hồ bơi, Wi-Fi, xe đưa đón sân bay",
+     "reusable": "Regarding the hotel, I stayed at Green Garden Hotel in Ubud, and I really liked it."
     },
     {
-     "section": "Ý 2: địa điểm nên đến",
-     "content": "Ruộng bậc thang Tegallalang buổi sáng, rừng khỉ Ubud, đền Uluwatu lúc hoàng hôn",
-     "reusable": "There are many places worth visiting in Bali."
+     "section": "Ý 2: nơi nên đến",
+     "content": "Ruộng bậc thang Tegallalang lúc sáng sớm → Rừng Khỉ (giữ túi) → đền Uluwatu lúc hoàng hôn",
+     "reusable": "As for places to visit, I suggest the Tegallalang Rice Terraces."
     },
     {
      "section": "Ý 3: hoạt động nên thử",
-     "content": "Học lướt sóng ở bãi Kuta, lớp nấu ăn Bali, xem múa lửa Kecak buổi tối",
-     "reusable": "I would recommend that you try a surfing lesson at Kuta Beach."
+     "content": "Học lướt sóng ở bãi Kuta → thầy thân thiện, sóng hợp người mới → lớp nấu ăn Bali",
+     "reusable": "About activities, I would recommend a surfing lesson at Kuta Beach."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Chúc chuyến đi vui, nhờ gửi ảnh",
-     "reusable": "Have a wonderful trip, and don't forget to send me some photos!"
+     "content": "Chúc chuyến đi vui, xin ảnh, chào cuối thư",
+     "reusable": "Have a wonderful trip, and send me some photos! Best wishes,"
     }
    ],
-   "answer": "Hi Claire,\n\nThanks for your email. I am so happy that you are going to Bali soon!\n\nI stayed at Green Garden Hotel in Ubud, and I really liked it. The price was about 40 dollars a night, and it included a delicious breakfast. The rooms were clean and quiet. The hotel also had good facilities, such as a swimming pool, free Wi-Fi and a free shuttle bus to the airport.\n\nThere are many places worth visiting in Bali. First, you should go to the Tegallalang Rice Terraces early in the morning. The view is amazing, and it is not crowded then. You should also visit the Monkey Forest, but be careful with your bag. Finally, don't miss Uluwatu Temple at sunset.\n\nAs for activities, I would recommend that you try a surfing lesson at Kuta Beach. The teachers are friendly, and the waves are good for beginners. You can also join a Balinese cooking class. In the evening, you should watch the Kecak fire dance at Uluwatu.\n\nHave a wonderful trip, and don't forget to send me some photos!\n\nBest wishes,\nMinh",
+   "answer": "Hi Claire,\n\nThank you for your email. I am so happy that you are going to Bali soon.\n\nRegarding the hotel, I stayed at Green Garden Hotel in Ubud, and I really liked it. The price was about 40 dollars a night, including a delicious breakfast. The rooms were clean and quiet. It also had good facilities, such as a swimming pool, free Wi-Fi and an airport shuttle bus.\n\nAs for places to visit, I suggest the Tegallalang Rice Terraces. You should go there early in the morning, when the view is beautiful and it is not crowded. You should also visit the Monkey Forest, but be careful with your bag. Finally, do not miss Uluwatu Temple at sunset.\n\nAbout activities, I would recommend a surfing lesson at Kuta Beach. The teachers are friendly, and the waves are good for beginners. You can also join a Balinese cooking class to learn how to make local dishes.\n\nHave a wonderful trip, and send me some photos!\n\nBest wishes,\nMinh",
    "vocab": [
     {
      "term": "facilities",
-     "meaning": "tiện nghi, cơ sở vật chất"
+     "meaning": "cơ sở vật chất, tiện nghi"
     },
     {
-     "term": "shuttle bus",
-     "meaning": "xe đưa đón"
-    },
-    {
-     "term": "worth visiting",
-     "meaning": "đáng để tham quan"
+     "term": "an airport shuttle bus",
+     "meaning": "xe buýt đưa đón sân bay"
     },
     {
      "term": "rice terraces",
      "meaning": "ruộng bậc thang"
     },
     {
-     "term": "good for beginners",
-     "meaning": "phù hợp cho người mới bắt đầu"
+     "term": "at sunset",
+     "meaning": "lúc hoàng hôn"
+    },
+    {
+     "term": "beginners",
+     "meaning": "người mới bắt đầu"
     }
    ]
   },
   "2": {
    "essay_type": "Advantages & disadvantages (thảo luận ưu điểm và nhược điểm)",
+   "type_key": "adv_disadv",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: quảng cáo có mặt khắp nơi (TV, mạng xã hội, đường phố) → bài bàn cả lợi và hại",
-     "reusable": "This essay will discuss both the advantages and disadvantages of advertising."
+     "content": "Viết lại đề (quảng cáo ở khắp nơi; có ích nhưng gây vấn đề) + câu dẫn",
+     "reusable": "This essay will discuss both its advantages and disadvantages."
     },
     {
-     "section": "Thân bài 1: ưu điểm",
-     "content": "(1) cung cấp thông tin sản phẩm, giá, khuyến mãi (2) giúp doanh nghiệp phát triển, tạo việc làm (3) tài trợ cho nội dung miễn phí: YouTube, báo mạng",
-     "reusable": "On the one hand, advertising brings several benefits. Firstly, it gives consumers useful information."
+     "section": "Thân bài 1 · PEER: nhược điểm",
+     "content": "P: thuyết phục mua thứ không cần → E: sản phẩm luôn hoàn hảo → Ex: trẻ đòi bánh kẹo, đồ chơi sau khi xem quảng cáo YouTube → R: phí tiền, thói quen ăn uống kém",
+     "reusable": "On the one hand, advertising has one main drawback. The biggest problem is that it often persuades people to buy things they do not need."
     },
     {
-     "section": "Thân bài 2: nhược điểm",
-     "content": "(1) khiến người ta mua đồ không cần thiết (2) quảng cáo sai sự thật, nhất là thực phẩm chức năng (3) ảnh hưởng xấu đến trẻ em: đồ ăn nhanh, nước ngọt",
-     "reusable": "On the other hand, advertising also has some negative effects."
+     "section": "Thân bài 2 · PEER 1: ưu điểm",
+     "content": "P: cung cấp thông tin → E: giá, sản phẩm mới, khuyến mãi → Ex: quảng cáo app y tế chỉ cách đặt lịch khám",
+     "reusable": "On the other hand, advertising brings two important benefits. Firstly, it gives customers useful information about products and services."
+    },
+    {
+     "section": "Thân bài 2 · PEER 2: ưu điểm",
+     "content": "P: thúc đẩy kinh tế → E: bán nhiều hơn, thuê thêm người → Ex: quán cà phê nổi tiếng nhờ quảng cáo Facebook → R: mở chi nhánh, tạo việc làm",
+     "reusable": "Secondly, advertising supports economic growth."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt hai mặt + người tiêu dùng cần tỉnh táo, nhà nước kiểm soát",
-     "reusable": "In conclusion, advertising has both advantages and disadvantages. …"
+     "content": "Tóm tắt hai phía (đề không hỏi ý kiến nên không nói phía nào nặng hơn)",
+     "reusable": "In conclusion, advertising has both advantages and disadvantages."
     }
    ],
-   "answer": "Nowadays, advertising is everywhere in our lives. We can see advertisements on television, on social media, on websites and even on the streets. Advertising gives people useful information, but it also has some bad effects on consumers and society. This essay will discuss both the advantages and disadvantages of advertising.\n\nOn the one hand, advertising brings several benefits. Firstly, it gives consumers useful information about new products, prices and special offers. For example, when a supermarket advertises a sale, customers can save money. Secondly, advertising helps businesses grow. When a company advertises well, it sells more products and can create more jobs. This supports the growth of the economy. In addition, advertising pays for a lot of free services. We can watch videos on YouTube or read online newspapers for free because companies pay for the ads.\n\nOn the other hand, advertising also has some negative effects. Firstly, it often persuades people to buy things that they do not really need. As a result, some people spend too much money and get into debt. Secondly, some advertisements give false information. For instance, many ads on Facebook say that a health product can cure serious diseases, and some people believe them. Moreover, advertising can have a bad influence on children. Many ads for fast food and soft drinks target young children, and this can lead to unhealthy eating habits.\n\nIn conclusion, advertising has both advantages and disadvantages. It provides information, supports businesses and pays for free media, but it can also lead to overspending, false information and bad habits in children. Therefore, consumers should think carefully before they buy, and the government should control advertising more strictly.",
+   "answer": "Nowadays, adverts are everywhere, from TV screens and social media to buses and city streets. Advertising is useful for businesses and customers, but it can also cause problems. This essay will discuss both its advantages and disadvantages.\n\nOn the one hand, advertising has one main drawback. The biggest problem is that it often persuades people to buy things they do not need. Adverts usually show products as perfect, and they make people believe they will be happier if they buy them. Some adverts also use famous singers or footballers to attract young people. For example, many children ask their parents for sweet snacks or new toys after watching adverts on YouTube. As a result, families may waste money, and children may develop unhealthy eating habits.\n\nOn the other hand, advertising brings two important benefits. Firstly, it gives customers useful information about products and services. People can learn about prices, new products and special offers quickly, so they can make better choices. For instance, an advert for a new health app can show people how to book a doctor's appointment online. As a result, people can save a lot of time. Secondly, advertising supports economic growth. When companies advertise, they sell more products, so they can hire more workers. This is especially important for small and new businesses. A good example is a small coffee shop that becomes famous after a few adverts on Facebook. Thanks to this, it can open more branches and create new jobs for local people.\n\nIn conclusion, advertising has both advantages and disadvantages. It may encourage people to buy things they do not need, but it also gives useful information and helps the economy grow.",
    "vocab": [
-    {
-     "term": "consumer",
-     "meaning": "người tiêu dùng"
-    },
-    {
-     "term": "special offer",
-     "meaning": "ưu đãi đặc biệt, khuyến mãi"
-    },
     {
      "term": "persuade someone to do something",
      "meaning": "thuyết phục ai làm gì"
     },
     {
-     "term": "get into debt",
-     "meaning": "mắc nợ"
+     "term": "special offers",
+     "meaning": "chương trình khuyến mãi"
     },
     {
-     "term": "have a bad influence on",
-     "meaning": "có ảnh hưởng xấu đến"
+     "term": "make better choices",
+     "meaning": "lựa chọn tốt hơn"
+    },
+    {
+     "term": "economic growth",
+     "meaning": "tăng trưởng kinh tế"
+    },
+    {
+     "term": "open more branches",
+     "meaning": "mở thêm chi nhánh"
     }
    ]
   }
@@ -110,42 +117,46 @@
  "speaking": {
   "1": {
    "answers": [
-    "No, I don't visit farms very often because I live in a big city. However, last year I visited a strawberry farm in Da Lat with my friends. We picked fresh strawberries, and it was a lot of fun.",
-    "On a farm, you can usually see animals such as cows, pigs and chickens. There are also fields of rice, vegetables and fruit trees. Some big farms also have tractors and other machines.",
-    "Yes, I think farms play a very important role in Vietnam. They produce food for the whole country, and Vietnam also exports a lot of rice and coffee. Moreover, farms give jobs to millions of people.",
-    "Yes, I always carry a bag when I go out. I usually use a backpack because it is comfortable. It can hold all the things I need for the day.",
-    "I usually carry my laptop, my wallet and a bottle of water. I also bring a book to read at coffee shops. In the rainy season, I always keep a raincoat in my bag.",
-    "I prefer using canvas bags. They are strong, and I can use them many times. Plastic bags are bad for the environment because they take hundreds of years to break down."
+    "No, I do not visit farms very often because I live in a big city. However, last year I visited a strawberry farm in Da Lat with my friends. We picked fresh strawberries, and it was a lot of fun.",
+    "On a farm, you can usually see animals such as cows, pigs and chickens. There are also fields of rice, vegetables and fruit trees. Some big farms also have tractors and other machines to help the farmers.",
+    "Yes, I think farms play a very important role in Vietnam. This is because they produce food for the whole country, and Vietnam also exports a lot of rice and coffee. Farms also give jobs to many people in the countryside.",
+    "Yes, I always carry a bag when I go out. I usually use a backpack because it is comfortable. It can hold all the things I need for the day, such as my laptop and a book.",
+    "I usually carry my laptop, my wallet and a bottle of water. This is because I often work at coffee shops after office hours. In the rainy season, I also keep a raincoat in my bag.",
+    "I prefer using canvas bags. The main reason is that they are strong, and I can use them many times. Plastic bags are bad for the environment because they take hundreds of years to break down."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No hoặc liệt kê",
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay Yes/No hoặc lựa chọn",
      "reusable": "Yes, I always carry a bag when I go out."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because",
-     "reusable": "I usually use a backpack because it is comfortable."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "This is because I often work at coffee shops after office hours."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 trải nghiệm hoặc thông tin về Việt Nam",
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn",
      "reusable": "However, last year I visited a strawberry farm in Da Lat with my friends."
     }
    ],
    "vocab": [
     {
+     "term": "a strawberry farm",
+     "meaning": "trang trại dâu tây"
+    },
+    {
      "term": "export",
      "meaning": "xuất khẩu"
     },
     {
-     "term": "canvas bag",
-     "meaning": "túi vải canvas"
+     "term": "the countryside",
+     "meaning": "vùng nông thôn"
     },
     {
-     "term": "raincoat",
-     "meaning": "áo mưa"
+     "term": "canvas bags",
+     "meaning": "túi vải"
     },
     {
      "term": "break down",
@@ -155,100 +166,100 @@
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think buying some healthy snacks is the best choice for my sick friend. I choose it for two main reasons.\n\nThe first reason is that healthy snacks can help my friend recover faster. By that, I mean a sick person needs vitamins and energy to fight the illness. For example, I can buy fresh fruit such as oranges and bananas, some yogurt and a small box of nuts. A nice basket of fruit can also cheer him up.\n\nAnother reason is that snacks are useful and easy to share. In other words, my friend can eat them whenever he feels hungry, or share them with his family. For instance, if he is too tired to cook, he can have a banana and some yogurt instead. This is much better than eating instant noodles.\n\nThere are also some reasons why I do not choose the other two options. Regarding a pot of flowers, I do not think it is the best choice because some people are allergic to pollen. Flowers also need care, and my friend is too weak to water them. As for coloured pencils and a drawing book, I do not think it is the best option either because my friend may feel too tired to draw.\n\nTo sum up, out of these three options, I believe buying some healthy snacks is the best choice because it is useful, healthy and thoughtful.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn đồ ăn vặt tốt cho sức khoẻ",
-     "reusable": "I think the best gift for my sick friend is some healthy snacks."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: đồ ăn vặt lành mạnh",
+     "reusable": "In this situation, among the three options, I think buying some healthy snacks is the best choice for my sick friend. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) giúp nhanh khoẻ: trái cây nhiều vitamin, sữa chua, hạt (2) người ốm lười nấu ăn, dễ ăn (3) ai cũng dùng được",
-     "reusable": "First, healthy snacks can help her get better faster."
+     "section": "Lý do 1",
+     "content": "Giúp mau khỏi → By that, I mean … → For example: cam, chuối, sữa chua, hạt",
+     "reusable": "The first reason is that healthy snacks can help my friend recover faster. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn chậu hoa",
-     "content": "Có người dị ứng phấn hoa; phải tưới nước, chăm sóc khi đang mệt",
-     "reusable": "I don't choose a pot of flowers. Flowers are beautiful, but some people are allergic to pollen."
+     "section": "Lý do 2",
+     "content": "Hữu ích, dễ chia sẻ → In other words … → For instance: mệt không nấu được thì ăn chuối, sữa chua",
+     "reusable": "Another reason is that snacks are useful and easy to share. In other words, …"
     },
     {
-     "section": "Vì sao không chọn bút màu và sổ vẽ",
-     "content": "Khi ốm thấy mệt, không muốn vẽ; bạn không thích vẽ",
-     "reusable": "I also don't choose the colored pencils and drawing book."
+     "section": "Loại 2 phương án",
+     "content": "Chậu hoa: dị ứng phấn hoa, phải chăm; bút chì màu: quá mệt để vẽ",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding a pot of flowers, I do not think it is the best choice because … As for coloured pencils and a drawing book, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: thiết thực, giúp hồi phục",
-     "reusable": "In conclusion, healthy snacks are the best choice because they are useful and they help my friend recover quickly."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe buying some healthy snacks is the best choice because it is useful, healthy and thoughtful."
     }
    ],
-   "answer": "I think the best gift for my sick friend is some healthy snacks. Let me explain why.\n\nFirst, healthy snacks can help her get better faster. I will buy some fresh fruit like oranges and kiwis because they have a lot of vitamin C. I will also bring some yogurt and nuts. These foods give her energy and make her body stronger. Second, when people are sick, they often feel too tired to cook or go out. Healthy snacks are ready to eat, so she can have them at any time. In addition, everybody needs to eat, so this gift is always useful.\n\nI don't choose a pot of flowers. Flowers are beautiful, but some people are allergic to pollen. Also, my friend has to water the plant and take care of it while she is sick. I also don't choose the colored pencils and drawing book. When people are sick, they usually want to rest, not draw. Moreover, my friend is not very interested in drawing, so she may never use them.\n\nIn conclusion, healthy snacks are the best choice because they are useful and they help my friend recover quickly. They will also cheer her up and show that I care about her health.",
    "vocab": [
     {
      "term": "cheer someone up",
      "meaning": "làm ai vui lên"
     },
     {
-     "term": "get better / recover",
-     "meaning": "khỏi bệnh, hồi phục"
+     "term": "recover",
+     "meaning": "hồi phục"
+    },
+    {
+     "term": "fight the illness",
+     "meaning": "chống lại bệnh"
     },
     {
      "term": "be allergic to pollen",
      "meaning": "dị ứng phấn hoa"
     },
     {
-     "term": "ready to eat",
-     "meaning": "ăn liền, ăn được ngay"
+     "term": "thoughtful",
+     "meaning": "chu đáo"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the importance of leadership. In my opinion, a good leader can make a big difference to any team.\n\nFirstly, a leader guides and motivates team members towards common goals. Without a leader, people may work in different directions. For example, my research team has a clear plan every month because our team leader explains our goals in meetings.\n\nSecondly, a leader makes effective decisions in difficult situations. When there is a problem, the team needs someone to decide quickly and calmly. For instance, during the COVID-19 pandemic, many hospital directors had to change their plans almost every day.\n\nThirdly, a good leader builds trust and keeps the team united. When members trust their leader, they share ideas and help each other more. A good example is my former manager, who always listened to everyone and kept her promises.\n\nAnother important point is that a leader helps team members develop their skills. Good leaders give useful feedback and new challenges. For example, my professor often lets young researchers present at conferences to gain experience.\n\nTo sum up, leadership is important because good leaders guide and motivate the team, make wise decisions and build trust. They also help members develop their skills.",
    "own_idea": "Helping team members develop their skills",
+   "follow_ups": [
+    "I think leadership skills can be learned. The main reason is that skills such as communication and decision-making improve with practice. For example, many people become good leaders after taking training courses and getting experience at work. However, some people are naturally more confident than others.",
+    "In my opinion, a good leader should be honest, fair and a good listener. This is because team members only follow a leader they trust. For example, a leader who listens to everyone's ideas makes people feel respected. A good leader should also stay calm under pressure.",
+    "Yes, I admire my former professor at medical school. She was strict, but she was always fair and kind to her students. For example, she spent extra time helping weak students before exams. Thanks to her, I learnt that a good leader cares about people, not only results."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 lý do",
-     "reusable": "Today I would like to talk about the importance of leadership."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the importance of leadership. In my opinion, a good leader can make a big difference to any team."
     },
     {
-     "section": "Ý 1: dẫn dắt, tạo động lực hướng tới mục tiêu chung",
-     "content": "Đặt mục tiêu rõ ràng, khen ngợi, động viên; ví dụ giáo sư hướng dẫn",
-     "reusable": "First, a good leader guides and motivates team members towards common goals."
+     "section": "Ý 1: định hướng, tạo động lực",
+     "content": "Ý → không có lãnh đạo thì mỗi người một hướng → ví dụ trưởng nhóm nghiên cứu giải thích mục tiêu mỗi tháng",
+     "reusable": "Firstly, a leader guides and motivates team members towards common goals."
     },
     {
-     "section": "Ý 2: quyết định hiệu quả trong tình huống khó",
-     "content": "Bình tĩnh, nghe ý kiến rồi quyết định nhanh; ví dụ bệnh viện mùa dịch",
-     "reusable": "Second, leaders need to make effective decisions in difficult situations."
+     "section": "Ý 2: quyết định trong tình huống khó",
+     "content": "Ý → cần người quyết nhanh, bình tĩnh → ví dụ giám đốc bệnh viện mùa COVID-19",
+     "reusable": "Secondly, a leader makes effective decisions in difficult situations."
     },
     {
-     "section": "Ý 3: xây dựng niềm tin, gắn kết",
-     "content": "Trung thực, công bằng, giữ lời hứa → nhóm đoàn kết",
-     "reusable": "Third, a leader builds trust and maintains team cohesion."
+     "section": "Ý 3: xây dựng lòng tin, gắn kết",
+     "content": "Ý → tin nhau thì chia sẻ, giúp nhau → ví dụ sếp cũ lắng nghe, giữ lời hứa",
+     "reusable": "Thirdly, a good leader builds trust and keeps the team united."
     },
     {
      "section": "Ý riêng: giúp thành viên phát triển kỹ năng",
-     "content": "Giao việc mới, góp ý, chia sẻ kinh nghiệm",
-     "reusable": "Finally, I think a good leader helps team members develop their skills."
+     "content": "Ý → góp ý, giao thử thách → ví dụ giáo sư cho nghiên cứu viên trẻ trình bày ở hội nghị",
+     "reusable": "Another important point is that a leader helps team members develop their skills."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt + nhóm nào cũng cần lãnh đạo giỏi",
-     "reusable": "In conclusion, leadership is very important for any team."
+     "section": "Kết",
+     "content": "Tóm tắt các ý",
+     "reusable": "To sum up, leadership is important because good leaders guide and motivate the team, make wise decisions and build trust."
     }
-   ],
-   "answer": "Today I would like to talk about the importance of leadership. In my opinion, a good leader is important for four main reasons.\n\nFirst, a good leader guides and motivates team members towards common goals. The leader explains the goal clearly, so everyone knows what to do. He or she also praises team members when they do a good job. For example, my supervisor at the university always encourages us, so we work harder.\n\nSecond, leaders need to make effective decisions in difficult situations. When there is a problem, the team often feels worried. A good leader stays calm, listens to everyone and then makes a quick decision. During the COVID-19 pandemic, hospital leaders had to make many hard decisions every day to protect patients.\n\nThird, a leader builds trust and maintains team cohesion. If the leader is honest and fair, team members will trust him or her. As a result, they work well together and help each other.\n\nFinally, I think a good leader helps team members develop their skills. The leader gives them new tasks, gives useful feedback and shares his or her experience. Because of this, team members grow and become better at their jobs.\n\nIn conclusion, leadership is very important for any team. A good leader sets goals, makes good decisions, builds trust and helps people grow.",
-   "follow_ups": [
-    "I think leadership skills can be learned. Some people are born confident, but everyone can learn to plan, listen and make decisions. For example, students can practise leadership in clubs and group projects.",
-    "A good leader should be responsible, honest and fair. He or she should also be a good listener. Most importantly, a good leader always sets a good example for the team.",
-    "I admire my supervisor, Professor Lan. She leads our AI research team at the university, and she is very kind and smart. She always listens to our ideas and helps us when we have problems."
    ],
    "vocab": [
     {
-     "term": "motivate someone",
-     "meaning": "tạo động lực cho ai"
-    },
-    {
-     "term": "common goal",
+     "term": "common goals",
      "meaning": "mục tiêu chung"
     },
     {
@@ -256,12 +267,16 @@
      "meaning": "đưa ra quyết định hiệu quả"
     },
     {
-     "term": "team cohesion",
-     "meaning": "sự gắn kết của nhóm"
+     "term": "build trust",
+     "meaning": "xây dựng lòng tin"
     },
     {
-     "term": "give feedback",
-     "meaning": "góp ý, nhận xét"
+     "term": "keep promises",
+     "meaning": "giữ lời hứa"
+    },
+    {
+     "term": "stay calm under pressure",
+     "meaning": "bình tĩnh trước áp lực"
     }
    ]
   }

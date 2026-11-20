@@ -6,6 +6,8 @@
 
 **Thời gian:** 20 phút · **Số từ tối thiểu:** 120
 
+*Khung: [Thư thân mật](KHUNG-MAU.md#w1_informal) · 150–180 từ · 20 phút*
+
 ### 1. Đề bài
 
 You should spend about 20 minutes on this task. You received an email from your friend, who is planning to visit your new house soon.
@@ -24,47 +26,49 @@ Read part of their email below.
 
 Hi Linh,
 
-Thanks for your email. I am so excited that you want to visit my new house!
+Thank you for your email. I moved into my new house last month, and I am so happy that you want to visit.
 
-My new house is in District 7, Ho Chi Minh City. The house is in a small street near Nguyen Thi Thap Street. It is a quiet area with many trees, and it is only five minutes from Lotte Mart.
+Regarding the location, my new house is in District 7, Ho Chi Minh City. It is on a small street near Nguyen Thi Thap Street. I like this area because it is quiet and green, and Lotte Mart is only five minutes away.
 
-Getting there is quite easy. From the city centre, you can take a bus or book a Grab car. The trip takes about thirty minutes. When you see a big pharmacy on Nguyen Thi Thap Street, turn left into the small street there. My house is the third one on the right, and it has a blue gate.
+As for getting there, the easiest way is to book a Grab car from the city centre. The trip takes about thirty minutes. When you see a big pharmacy on Nguyen Thi Thap Street, turn left. My house is the third one on the right, with a blue gate.
 
-I am planning to decorate my house in a simple and modern style. I will paint the walls white and put a lot of green plants in the living room. I also want to make a small reading corner with a bookshelf because I love reading.
+About your question on decoration, I am planning to use a simple and modern style. I like bright and tidy rooms, so I will paint the walls white. I will also put green plants in the living room and make a small reading corner.
 
-Why don't you come on Sunday at 10 a.m.? I will cook lunch for you. Let me know if that time works for you.
+How about coming to my house at 10 a.m. on Sunday? Write back soon!
 
 Best wishes,  
 Minh
 
 ### 3. Số từ
 
-**190 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
+**179 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
 | Lời chào | Chào thân mật theo tên | *Hi Linh,* |
-| Mở đầu | Cảm ơn thư, rất vui vì bạn muốn ghé thăm | *Thanks for your email. I am so excited that you want to visit my new house!* |
-| Ý 1: vị trí nhà | Quận 7, số 25 đường Nguyễn Thị Thập; yên tĩnh, nhiều cây; 5 phút tới Lotte Mart | *My new house is in District 7, Ho Chi Minh City.* |
-| Ý 2: cách đến | Từ trung tâm đi xe buýt hoặc Grab, 30 phút; thấy nhà thuốc ở góc đường thì rẽ trái; nhà thứ ba bên phải, cổng xanh | *Getting there is quite easy. From the city centre, you can take a bus or book a Grab car.* |
-| Ý 3: kế hoạch trang trí | Phong cách đơn giản, hiện đại: sơn tường trắng, nhiều cây xanh, góc đọc sách | *I am planning to decorate my house in a simple and modern style.* |
-| Kết thư + ký tên | Mời đến Chủ nhật 10 giờ sáng, nấu bữa trưa; hỏi lại có tiện không | *Why don't you come on Sunday at 10 a.m.? I will cook lunch for you.* |
+| Mở đầu | Cảm ơn thư, mới chuyển nhà tháng trước, vui vì bạn muốn đến thăm | *Thank you for your email. I moved into my new house last month, and I am so happy that you want to visit.* |
+| Ý 1: nhà ở đâu | Trả lời thẳng (Quận 7) → gần đường lớn → lý do chọn (yên tĩnh, nhiều cây) → gần Lotte Mart | *Regarding the location, my new house is in District 7, Ho Chi Minh City.* |
+| Ý 2: cách đi đến | Đặt Grab từ trung tâm → 30 phút, không đắt → chỉ đường: nhà thuốc, rẽ trái, cổng xanh | *As for getting there, the easiest way is to book a Grab car from the city centre.* |
+| Ý 3: dự định trang trí | Phong cách đơn giản, hiện đại → lý do (thích phòng sáng, gọn) → sơn trắng, cây xanh, góc đọc sách | *About your question on decoration, I am planning to use a simple and modern style.* |
+| Kết thư + ký tên | Mời đến nhà: giờ + ngày → chào cuối thư | *How about coming to my house at 10 a.m. on Sunday? … Write back soon! Best wishes,* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **a quiet area** | khu vực yên tĩnh |
+| **move into a new house** | chuyển đến nhà mới |
 | **book a Grab car** | đặt xe Grab |
-| **turn left into** | rẽ trái vào |
-| **decorate** | trang trí |
-| **reading corner** | góc đọc sách |
+| **turn left** | rẽ trái |
+| **a simple and modern style** | phong cách đơn giản và hiện đại |
+| **a reading corner** | góc đọc sách |
 
 ## WRITING — PART 2 · Essay
 
 **Thời gian:** 40 phút · **Số từ tối thiểu:** 250
+
+*Khung: [One-sided: chỉ hỏi một vế (lợi ích / nguyên nhân / ảnh hưởng / giải pháp)](KHUNG-MAU.md#w2_one_side) · 270–300 từ · 4 đoạn · 40 phút*
 
 ### 1. Đề bài
 
@@ -80,42 +84,46 @@ You should spend about 40 minutes on this task.
 
 ### 2. Bài mẫu
 
-**Dạng đề:** Reasons (phân tích nguyên nhân / lý do)
+**Dạng đề:** Reasons – one side (phân tích nguyên nhân / lý do)
 
-In recent years, online shopping has become very popular all over the world. Instead of going to traditional shops, many people now buy goods through websites and mobile apps such as Shopee or Lazada. This essay will discuss the main reasons for this change.
+Nowadays, more and more people buy things on websites and apps instead of going to shops. This change has happened very quickly in many countries, including Vietnam. This essay will discuss the main reasons for this trend.
 
-The first group of reasons is about convenience. Firstly, online shopping saves a lot of time. People can buy things at any time of the day without leaving their homes, so it is very useful for busy workers. Secondly, delivery services have become fast and cheap. For example, in big cities in Vietnam, customers can receive their orders in only one or two days. In addition, cashless payment makes online shopping easy and safe. People can pay by e-wallet or bank card with just a few clicks.
+To begin with, online shopping helps individual customers in two ways. Firstly, it saves a lot of time and effort. People can order products at any time without leaving their homes. For example, an office worker can buy groceries on her phone during her lunch break. Secondly, prices online are often lower than in shops. This is because online sellers do not need to pay high rent for a shop. For instance, a pair of shoes on Shopee is often cheaper than the same pair in a shopping mall. As a result, many students and young families prefer to shop online.
 
-Another group of reasons is about price and choice. Firstly, products online are often cheaper than in shops. Online sellers do not need to rent a shop, so they can offer lower prices and many discounts. Secondly, customers can choose from a huge variety of products. They can compare prices and read reviews from other buyers before they decide. Moreover, smartphones and the internet have helped online shopping develop. Today, almost everyone has a phone, so people can shop anywhere, even on the bus.
+In addition, technology and businesses have also made online shopping more popular. One important point is that there is a much wider choice of products online. Customers can compare many items and read reviews from other buyers before they decide. A good example is my mother, who compared five rice cookers on an app before she bought one. Another point is that payment and delivery are now fast and safe. People can pay with banking apps, and many orders arrive within one or two days. For example, I often order books in the morning and receive them the next day. Thanks to this, customers trust online shopping more than before.
 
-In conclusion, online shopping has become popular because it is convenient, fast and cheap, and it offers many choices. Technology has also made it easier than ever before. I believe that online shopping will continue to grow in the future, but traditional shops will still be important for some people.
+In conclusion, online shopping has become popular for several reasons. It saves time and money for individuals, and it offers more choices, easy payment and fast delivery. That is why so many people now prefer to shop online.
 
 ### 3. Số từ
 
-**265 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
+**286 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở bài | Viết lại đề: mua sắm online ngày càng phổ biến, ví dụ Shopee, Lazada → bài phân tích các lý do chính | *This essay will discuss the main reasons for this change.* |
-| Thân bài 1: nhóm lý do về sự tiện lợi | (1) tiết kiệm thời gian, mua bất cứ lúc nào (2) giao hàng nhanh, rẻ: 1–2 ngày (3) thanh toán không tiền mặt dễ, an toàn | *The first group of reasons is about convenience.* |
-| Thân bài 2: nhóm lý do về giá và lựa chọn | (1) giá rẻ hơn vì không thuê mặt bằng, nhiều giảm giá (2) nhiều lựa chọn, so sánh giá, đọc đánh giá (3) điện thoại và Internet phổ biến | *Another group of reasons is about price and choice.* |
-| Kết bài | Tóm tắt lý do + dự đoán: mua sắm online tiếp tục tăng, cửa hàng truyền thống vẫn quan trọng | *I believe that online shopping will continue to grow in the future.* |
+| Mở bài | Viết lại đề (mua trên web, app thay vì ra cửa hàng; thay đổi nhanh) + câu dẫn | *This essay will discuss the main reasons for this trend.* |
+| Thân bài 1 · PEER 1: với người mua | P: tiết kiệm thời gian, công sức → E: đặt hàng mọi lúc, không cần ra khỏi nhà → Ex: nhân viên văn phòng mua đồ ăn giờ nghỉ trưa | *To begin with, online shopping helps individual customers in two ways. Firstly, it saves a lot of time and effort.* |
+| Thân bài 1 · PEER 2: với người mua | P: giá rẻ hơn → E: người bán không trả tiền thuê mặt bằng → Ex: đôi giày trên Shopee rẻ hơn ở trung tâm thương mại → R: sinh viên, gia đình trẻ thích mua online | *Secondly, prices online are often lower than in shops. This is because …* |
+| Thân bài 2 · PEER 1: công nghệ, doanh nghiệp | P: nhiều lựa chọn hơn → E: so sánh, đọc đánh giá → Ex: mẹ so sánh 5 nồi cơm điện trên app | *In addition, technology and businesses have also made online shopping more popular. One important point is that there is a much wider choice of products online.* |
+| Thân bài 2 · PEER 2: công nghệ, doanh nghiệp | P: thanh toán, giao hàng nhanh và an toàn → E: app ngân hàng, giao 1–2 ngày → Ex: đặt sách buổi sáng, hôm sau nhận → R: khách tin tưởng hơn | *Another point is that payment and delivery are now fast and safe. … Thanks to this, customers trust online shopping more than before.* |
+| Kết bài | Tóm tắt 2 nhóm lý do, không thêm ý mới | *In conclusion, online shopping has become popular for several reasons.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **delivery service** | dịch vụ giao hàng |
-| **e-wallet** | ví điện tử |
-| **offer discounts** | giảm giá, khuyến mãi |
-| **a huge variety of** | rất nhiều loại |
+| **instead of + V-ing** | thay vì làm gì |
+| **save time and effort** | tiết kiệm thời gian và công sức |
+| **a wider choice of products** | nhiều lựa chọn sản phẩm hơn |
 | **read reviews** | đọc đánh giá |
+| **delivery** | việc giao hàng |
 
 ## SPEAKING — PART 1 · Social Interaction
 
 **Thời gian:** 3 phút
+
+*Khung: [Speaking Part 1: Social Interaction](KHUNG-MAU.md#s1) · Mỗi câu hỏi 3 câu, khoảng 30–40 từ*
 
 ### 1. Đề bài
 
@@ -138,48 +146,50 @@ In conclusion, online shopping has become popular because it is convenient, fast
 ### 2. Bài mẫu
 
 **1. What are your hobbies?**  
-My hobbies are reading and swimming. I also enjoy going to coffee shops with my friends at weekends.
+My hobbies are reading and swimming. I enjoy them because they help me relax after work. For example, I read a novel every evening, and I go swimming at a pool near my house at weekends.
 
 **2. How did you become interested in this hobby?**  
-I became interested in reading when I was a child. My mother often bought me storybooks and read them to me before bed. Since then, I have loved books.
+I became interested in reading when I was a child. This is because my mother often read storybooks to me before bed. Since then, I have always kept a book in my bag.
 
 **3. Do you think hobbies are important in life? Why?**  
-Yes, I think they are very important. Hobbies help us relax and reduce stress after work. They can also help us make new friends.
+Yes, I think hobbies are very important. The main reason is that they help us reduce stress after work or study. For example, after a long day at work, swimming always makes me feel fresh again.
 
 **4. What is your favorite season of the year?**  
-My favourite season is the dry season in Ho Chi Minh City, from December to April. The weather is sunny, and there is no heavy rain, so I can go out easily.
+My favourite season is the dry season in Ho Chi Minh City, from December to April. This is because the weather is sunny and there is almost no rain. So I can go out easily without a raincoat.
 
 **5. What do you usually do during that season?**  
-During the dry season, I often go swimming at weekends. I also travel to the beach in Vung Tau with my friends. Sometimes we have a picnic in the park in the evening.
+During the dry season, I often go swimming and have picnics with my friends. The main reason is that the sunny weather is perfect for outdoor activities. Last April, for example, we swam in the sea in Vung Tau all day.
 
 **6. Is the weather in your country pleasant all year round?**  
-Not really. In the south of Vietnam, it is hot all year round, and the rainy season brings a lot of floods. In the north, the winter can be very cold.
+Not really, because the weather is very different in each region. In the south, it is hot all year round, and the rainy season often brings floods. In the north, the winter can be very cold and wet.
 
 ### 3. Số từ
 
-**167 từ** · khoảng 1 phút 24 giây nói (tốc độ 120 từ/phút).
+**222 từ** · khoảng 1 phút 51 giây nói (tốc độ 120 từ/phút).
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Câu trả lời trực tiếp | Trả lời ngay Yes/No hoặc nêu thông tin chính | *My favourite season is the dry season in Ho Chi Minh City.* |
-| Lý do | Thêm 1 lý do bằng because / so | *The weather is sunny, and there is no heavy rain, so I can go out easily.* |
-| Ví dụ / chi tiết | Thêm 1 kỷ niệm hoặc hoạt động cụ thể | *My mother often bought me storybooks and read them to me before bed.* |
+| Câu 1: trả lời thẳng | Trả lời ngay câu hỏi, lặp từ khoá | *My hobbies are reading and swimming.* |
+| Câu 2: lý do | Thêm 1 lý do | *This is because the weather is sunny and there is almost no rain.* |
+| Câu 3: chi tiết | Ví dụ cá nhân: thời gian, địa điểm | *Last April, for example, we swam in the sea in Vung Tau all day.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **become interested in** | bắt đầu thích, quan tâm đến |
 | **reduce stress** | giảm căng thẳng |
+| **feel fresh** | cảm thấy sảng khoái |
 | **the dry season** | mùa khô |
-| **the rainy season** | mùa mưa |
+| **outdoor activities** | hoạt động ngoài trời |
 | **all year round** | quanh năm |
 
 ## SPEAKING — PART 2 · Solution Discussion
 
 **Thời gian:** 4 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 2: Solution Discussion](KHUNG-MAU.md#s2) · 220–260 từ*
 
 ### 1. Đề bài
 
@@ -197,41 +207,45 @@ Not really. In the south of Vietnam, it is hot all year round, and the rainy sea
 
 **Lựa chọn:** Option 2: Using a phone while driving
 
-I think the campaign should focus on using a phone while driving first. Let me explain why.
+In this situation, among the three options, I think using a phone while driving is the best choice for the campaign. I choose it for two main reasons.
 
-First, this behaviour is very dangerous. When drivers look at their phones, they do not see the road for a few seconds. In that short time, they can hit another vehicle or a person. Second, it can kill not only the driver but also innocent people. For example, many traffic accidents in Vietnam happen because motorbike riders read messages while riding. In addition, this problem is very common, especially among young people. So a campaign can save many lives quickly.
+The first reason is that this behaviour can kill people in just a few seconds. By that, I mean a driver who looks at a phone cannot watch the road carefully. For example, if a motorbike rider reads a message at a busy crossroads, he may hit a child who is crossing the street.
 
-I don't choose smoking in public places as the first target. Smoking is harmful to health, but it causes damage slowly over many years. Also, Vietnam already has a law that bans smoking in many public places, such as hospitals and schools. I also don't choose making noise in public areas. Noise is annoying, and it can make people stressed, but it rarely kills anyone.
+Another reason is that many people do it every day without thinking it is dangerous. In other words, they believe a short call or a quick message is not a big problem. For instance, in Ho Chi Minh City, I often see delivery drivers checking their phones while they are riding. A campaign can help them understand the real danger.
 
-In conclusion, using a phone while driving is the most harmful behaviour because it can cause deadly accidents in seconds. That is why the campaign should target it first.
+There are also some reasons why I do not choose the other two options. Regarding smoking in public places, I do not think it is the best choice because its harm is slower and many places already ban it. As for making noise in public areas, I do not think it is the best option either because noise is annoying, but it rarely kills anyone.
+
+To sum up, out of these three options, I believe using a phone while driving is the best choice because it is urgent, common and life-threatening.
 
 ### 3. Số từ
 
-**191 từ** · khoảng 1 phút 36 giây nói.
+**233 từ** · khoảng 1 phút 56 giây nói.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Nêu lựa chọn | Chọn chiến dịch về việc dùng điện thoại khi lái xe | *I think the campaign should focus on using a phone while driving first.* |
-| Lý do chọn | (1) rất nguy hiểm, vài giây không nhìn đường (2) gây chết người vô tội, nhiều tai nạn xe máy (3) phổ biến ở giới trẻ | *First, this behaviour is very dangerous.* |
-| Vì sao không chọn hút thuốc nơi công cộng | Hại nhưng chậm, qua nhiều năm; đã có luật cấm ở bệnh viện, trường học | *I don't choose smoking in public places.* |
-| Vì sao không chọn gây ồn nơi công cộng | Khó chịu, gây căng thẳng nhưng hiếm khi chết người | *I also don't choose making noise in public areas.* |
-| Kết luận | Nhắc lại lựa chọn + có thể gây tai nạn chết người chỉ trong vài giây | *In conclusion, using a phone while driving is the most harmful behaviour.* |
+| Chọn | Câu khung + lựa chọn: dùng điện thoại khi lái xe | *In this situation, among the three options, I think using a phone while driving is the best choice for the campaign. I choose it for two main reasons.* |
+| Lý do 1 | Gây chết người trong vài giây → By that, I mean … → For example: đọc tin nhắn ở ngã tư, đâm trẻ em | *The first reason is that this behaviour can kill people in just a few seconds. By that, I mean …* |
+| Lý do 2 | Nhiều người làm hằng ngày, không nghĩ là nguy hiểm → In other words … → For instance: tài xế giao hàng xem điện thoại | *Another reason is that many people do it every day without thinking it is dangerous. In other words, …* |
+| Loại 2 phương án | Hút thuốc: tác hại chậm, nhiều nơi đã cấm; gây ồn: khó chịu nhưng hiếm khi gây chết người | *There are also some reasons why I do not choose the other two options. Regarding smoking in public places, I do not think it is the best choice because … As for making noise in public areas, I do not think it is the best option either because …* |
+| Kết | Câu khung + 3 tính từ | *To sum up, out of these three options, I believe using a phone while driving is the best choice because it is urgent, common and life-threatening.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **focus on** | tập trung vào |
-| **innocent people** | người vô tội |
-| **traffic accident** | tai nạn giao thông |
+| **a public awareness campaign** | chiến dịch nâng cao nhận thức cộng đồng |
+| **a busy crossroads** | ngã tư đông đúc |
 | **ban something** | cấm cái gì |
-| **deadly** | gây chết người |
+| **annoying** | gây khó chịu |
+| **life-threatening** | đe doạ tính mạng |
 
 ## SPEAKING — PART 3 · Topic Development
 
 **Thời gian:** 5 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 3: Topic Development](KHUNG-MAU.md#s3) · Bài nói chính 200–260 từ · mỗi câu follow-up 3–4 câu (35–55 từ)*
 
 ### 1. Đề bài
 
@@ -256,50 +270,50 @@ In conclusion, using a phone while driving is the most harmful behaviour because
 
 **Ý riêng (your own idea):** Cheaper communication with people abroad
 
-Today I would like to talk about how communication has changed compared to the past. I think there are four main changes.
+Today I would like to talk about how communication has changed compared to the past. In my opinion, communication today is much faster and easier, but it also has some problems.
 
-First, modern tools are fast and convenient. In the past, people wrote letters, and a letter took many days or even weeks to arrive. Now we can send a message or an email in one second. We can also make video calls from anywhere.
+Firstly, modern tools bring great speed and convenience. In the past, people often waited for days to receive a letter. Now, for example, I can send a long report to my colleagues in a few seconds.
 
-Second, digital communication has replaced a lot of face-to-face communication. In the past, people usually met in person to talk and share news. Today, many people prefer to chat online. Digital communication is easy, but sometimes we cannot see the feelings of the other person, so misunderstandings happen.
+Secondly, digital communication is replacing face-to-face communication. Many people now chat online more than they talk in person. For instance, my friends and I sometimes sit in a coffee shop but look at our phones most of the time.
 
-Third, smartphones and social media play a very important role. Almost everyone has a smartphone, and we use apps like Zalo and Facebook every day. We can share photos, news and our feelings with hundreds of people at the same time.
+Thirdly, smartphones and social media play a big role in our lives. With a smartphone, we can call, send photos and share news anywhere. A good example is my family, who share photos in a Zalo group every day.
 
-Finally, I think communication with people abroad is much cheaper now. In the past, international phone calls were very expensive, so people only called abroad on special days. Now I can call my cousin in Australia for free over the internet.
+Another important point is that talking to people abroad is much cheaper now. In the past, international phone calls were very expensive. Today, I can make a video call to my cousin in Australia for free.
 
-In conclusion, communication today is faster, cheaper and easier than in the past. However, I believe we should still meet our family and friends face to face.
+To sum up, communication today is faster and more digital, and smartphones and social media play a central role in it. It is also much cheaper than before. However, we should still spend time talking face to face.
 
 **Trả lời câu hỏi follow-up**
 
 **1. Do you think modern communication tools have made people closer or more distant?**  
-I think they have made people both closer and more distant. We can easily contact people who live far away. However, many families sit together but look at their own phones instead of talking.
+I think modern tools have made us closer to people far away, but more distant from people nearby. The main reason is that we can contact anyone at any time. For example, I talk to my cousin in Australia every week. However, at family dinners, many people look at their phones instead of talking.
 
 **2. What communication tools do you use most often, and why?**  
-I use Zalo most often because my family, friends and colleagues all use it. It is free and easy to use. For work, I also use email because it is more formal.
+I use Zalo and email most often. Zalo is fast and free, so I use it to chat with my family and friends. For example, my family has a group chat where we share photos and news every day. I use email for my work with doctors and colleagues.
 
 **3. How do you think communication will change in the future?**  
-I think AI will play a bigger role in communication. For example, AI tools will translate languages instantly, so people from different countries can talk easily. We may also use virtual reality to meet each other online.
+I think communication will become even faster and more realistic in the future. The main reason is that AI and virtual reality are developing very quickly. For example, people may meet in a virtual room and feel like they are sitting together. AI may also translate different languages immediately.
 
 ### 3. Số từ
 
-**Bài nói chính: 223 từ** (khoảng 1 phút 52 giây) · follow-up: 103 từ.
+**Bài nói chính: 219 từ** (khoảng 1 phút 50 giây) · follow-up: 152 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở đầu | Giới thiệu chủ đề + 4 thay đổi chính | *Today I would like to talk about how communication has changed compared to the past.* |
-| Ý 1: Speed and convenience | Trước viết thư mất nhiều ngày; nay nhắn tin, email trong 1 giây, gọi video mọi nơi | *First, modern tools are fast and convenient.* |
-| Ý 2: Face-to-face vs digital | Trước gặp trực tiếp; nay chat online, dễ hiểu lầm vì không thấy cảm xúc | *Second, digital communication has replaced a lot of face-to-face communication.* |
-| Ý 3: Smartphones and social media | Ai cũng có smartphone, dùng Zalo, Facebook chia sẻ với hàng trăm người | *Third, smartphones and social media play a very important role.* |
-| Ý riêng: rẻ hơn khi liên lạc ra nước ngoài | Trước gọi quốc tế đắt; nay gọi miễn phí cho em họ ở Úc | *Finally, I think communication with people abroad is much cheaper now.* |
-| Kết luận | Tóm tắt + vẫn nên gặp mặt trực tiếp | *However, I believe we should still meet our family and friends face to face.* |
+| Mở | Giới thiệu chủ đề + ý chính: nhanh, dễ hơn nhưng có vấn đề | *Today I would like to talk about how communication has changed compared to the past. In my opinion, communication today is much faster and easier, but it also has some problems.* |
+| Ý 1: tốc độ và tiện lợi | Ý → trước đây chờ thư nhiều ngày → ví dụ gửi báo cáo cho đồng nghiệp trong vài giây | *Firstly, modern tools bring great speed and convenience.* |
+| Ý 2: trực tiếp và trực tuyến | Ý → chat nhiều hơn nói chuyện → ví dụ ngồi quán cà phê nhưng nhìn điện thoại | *Secondly, digital communication is replacing face-to-face communication.* |
+| Ý 3: điện thoại thông minh, mạng xã hội | Ý → gọi, gửi ảnh mọi nơi → ví dụ nhóm Zalo gia đình | *Thirdly, smartphones and social media play a big role in our lives.* |
+| Ý riêng: liên lạc nước ngoài rẻ hơn | Ý → trước đây gọi quốc tế đắt → ví dụ gọi video cho anh họ ở Úc miễn phí | *Another important point is that talking to people abroad is much cheaper now.* |
+| Kết | Tóm tắt các ý + vẫn nên nói chuyện trực tiếp | *To sum up, communication today is faster and more digital … However, we should still spend time talking face to face.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **make video calls** | gọi video |
-| **face to face** | trực tiếp, mặt đối mặt |
-| **misunderstanding** | sự hiểu lầm |
-| **play an important role** | đóng vai trò quan trọng |
-| **international phone call** | cuộc gọi quốc tế |
+| **speed and convenience** | tốc độ và sự tiện lợi |
+| **face-to-face communication** | giao tiếp trực tiếp |
+| **in person** | gặp mặt trực tiếp |
+| **make a video call** | gọi video |
+| **virtual reality** | thực tế ảo |

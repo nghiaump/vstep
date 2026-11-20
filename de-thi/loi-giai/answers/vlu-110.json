@@ -2,104 +2,282 @@
  "id": "vlu-110",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
-    {"section": "Lời chào", "content": "Chào thân mật theo tên", "reusable": "Dear Alex,"},
-    {"section": "Mở đầu", "content": "Cảm ơn thư, nhờ cảm ơn chú của Alex, bày tỏ háo hức", "reusable": "Please say thank you to your uncle for his kind offer."},
-    {"section": "Ý 1: khi nào đến", "content": "Giữa tháng 7, bay đến Edinburgh thứ Bảy 12/7, ở 2 tuần", "reusable": "I am planning to come in the middle of July, after my project at work finishes."},
-    {"section": "Ý 2: phương tiện đi lại", "content": "Tàu và xe buýt giữa các thị trấn; ở vùng quê thì thuê xe đạp; không tự lái vì xe chạy bên trái", "reusable": "To get around, I will mostly travel by train and bus."},
-    {"section": "Ý 3: gợi ý hoạt động", "content": "Sáng leo núi + picnic; chiều câu cá ở hồ hoặc đạp xe; tối nấu món Việt", "reusable": "Since your uncle's house is surrounded by mountains, I suggest we go hiking in the morning."},
-    {"section": "Kết thư + ký tên", "content": "Mong gặp, chào cuối thư", "reusable": "I can't wait to see you this summer! Best wishes,"}
+    {
+     "section": "Lời chào",
+     "content": "Chào thân mật theo tên",
+     "reusable": "Dear Alex,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Cảm ơn thư + nhờ cảm ơn chú của bạn",
+     "reusable": "Thank you for your email. Please thank your uncle for his kind offer."
+    },
+    {
+     "section": "Ý 1: khi nào đến",
+     "content": "Trả lời thẳng (giữa tháng 7) → lý do (xong dự án) → chi tiết: 3 giờ chiều thứ Bảy 10/7 ở sân bay Edinburgh, ở 2 tuần",
+     "reusable": "Regarding the time, I am planning to come in the middle of July, after my work project finishes."
+    },
+    {
+     "section": "Ý 2: phương tiện",
+     "content": "Tàu và xe buýt → rẻ, ngắm cảnh → thuê xe đạp vì không quen lái bên trái",
+     "reusable": "As for transport, I will mostly travel by train and bus."
+    },
+    {
+     "section": "Ý 3: gợi ý hoạt động",
+     "content": "Sáng leo núi, picnic → chiều câu cá, đạp xe → tối nấu món Việt",
+     "reusable": "About activities, I suggest we go hiking in the mountains in the morning."
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Câu kết cố định",
+     "reusable": "That's all for now. Write back soon. … Best wishes,"
+    }
    ],
-   "answer": "Dear Alex,\n\nThank you for your email. Please say thank you to your uncle for his kind offer. I am really excited about this trip!\n\nI am planning to come in the middle of July, after my project at work finishes. I will fly from Ho Chi Minh City to Edinburgh on Saturday, 10th July, and I will stay for about two weeks.\n\nTo get around, I will mostly travel by train and bus. They are cheap and I can enjoy the beautiful views from the window. In the countryside, I think we can rent bikes. I don't want to drive a car because I am not used to driving on the left.\n\nSince your uncle's house is surrounded by mountains, I suggest we go hiking in the morning. We can climb a small mountain and have a picnic at the top. In the afternoon, we can go fishing in a lake or ride bikes around the villages. In the evening, I would love to cook a Vietnamese dinner for you and your uncle.\n\nI can't wait to see you this summer!\n\nBest wishes,\nMinh",
+   "answer": "Dear Alex,\n\nThank you for your email. Please thank your uncle for his kind offer. I am really excited about this trip!\n\nRegarding the time, I am planning to come in the middle of July, after my work project finishes. I will land at Edinburgh Airport at 3 p.m. on Saturday, 10th July. I will stay for two weeks, so we will have plenty of time together.\n\nAs for transport, I will mostly travel by train and bus. They are cheap, and I can enjoy the beautiful views from the window. In the countryside, I think we can rent bikes because I am not used to driving on the left.\n\nAbout activities, I suggest we go hiking in the mountains in the morning. We can climb a small hill and have a picnic at the top. In the afternoon, we can go fishing in a lake or ride bikes around the villages. In the evening, I would love to cook a Vietnamese dinner for you and your uncle.\n\nThat's all for now. Write back soon.\n\nBest wishes,\nMinh",
    "vocab": [
-    {"term": "kind offer", "meaning": "lời đề nghị tử tế"},
-    {"term": "get around", "meaning": "đi lại, di chuyển quanh một nơi"},
-    {"term": "be used to doing something", "meaning": "quen với việc làm gì"},
-    {"term": "go hiking", "meaning": "đi bộ đường dài, leo núi"},
-    {"term": "have a picnic", "meaning": "đi dã ngoại, ăn ngoài trời"}
+    {
+     "term": "kind offer",
+     "meaning": "lời đề nghị tốt bụng"
+    },
+    {
+     "term": "get around",
+     "meaning": "đi lại"
+    },
+    {
+     "term": "be used to + V-ing",
+     "meaning": "quen với việc gì"
+    },
+    {
+     "term": "go hiking",
+     "meaning": "đi bộ đường dài, leo núi"
+    },
+    {
+     "term": "have a picnic",
+     "meaning": "đi dã ngoại, ăn ngoài trời"
+    }
    ]
   },
   "2": {
    "essay_type": "Advantages & disadvantages (thảo luận ưu điểm và nhược điểm)",
+   "type_key": "adv_disadv",
    "outline": [
-    {"section": "Mở bài", "content": "Viết lại đề: nhiều người dành thời gian rảnh trò chuyện online → có hàng trăm bạn online; bài bàn cả hai mặt", "reusable": "In my opinion, having lots of online friends has both advantages and disadvantages, and this essay will discuss both sides."},
-    {"section": "Thân bài 1: ưu điểm", "content": "(1) học hỏi điều mới từ người khác (2) hỗ trợ học tập, công việc, cơ hội việc làm (3) rẻ, tiện, giữ liên lạc với bạn ở xa", "reusable": "On the one hand, having many online friends brings several benefits."},
-    {"section": "Thân bài 2: nhược điểm", "content": "(1) tình bạn hời hợt, không thật sự quan tâm (2) ít thời gian cho bạn thật và gia đình → cô đơn (3) không an toàn, bị lừa đảo", "reusable": "On the other hand, having too many online friends also causes some problems."},
-    {"section": "Kết bài", "content": "Tóm tắt hai mặt + ý kiến: dùng mạng xã hội khôn ngoan, dành thời gian cho bạn thân thật sự", "reusable": "I believe we should use social media wisely."}
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (nhiều bạn trên mạng, dành thời gian rảnh chat thay vì gặp bạn thân) + câu dẫn",
+     "reusable": "This essay will discuss both the advantages and disadvantages of this trend."
+    },
+    {
+     "section": "Thân bài 1 · PEER: nhược điểm",
+     "content": "P: ít thời gian cho bạn thật, gia đình → E: chat dễ, tốn thời gian → Ex: nhân viên trẻ trả lời tin nhắn nhưng không gặp bạn thân → R: quan hệ yếu đi, cô đơn",
+     "reusable": "On the one hand, having lots of online friends has one main drawback. The biggest problem is that …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 1: ưu điểm",
+     "content": "P: giữ liên lạc dễ, rẻ → E: khoảng cách không còn là vấn đề → Ex: gọi bạn cũ ở Úc, Nhật mỗi tuần",
+     "reusable": "On the other hand, having many online friends brings two important benefits. Firstly, …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 2: ưu điểm",
+     "content": "P: thông tin, cơ hội → E: mạng lưới nhiều ngành nghề → Ex: sinh viên tìm việc làm thêm qua bài chia sẻ → R: học hỏi, phát triển sự nghiệp",
+     "reusable": "Secondly, online friends can bring useful information and opportunities."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Tóm tắt hai phía + nên cân bằng (đề không hỏi ý kiến nên không nói bên nào hơn)",
+     "reusable": "In conclusion, having lots of online friends has both advantages and disadvantages."
+    }
    ],
-   "answer": "Nowadays, many people spend their free time chatting with colleagues and classmates on social media instead of meeting their close friends. As a result, some people have hundreds of online friends. In my opinion, having lots of online friends has both advantages and disadvantages, and this essay will discuss both sides.\n\nOn the one hand, having many online friends brings several benefits. Firstly, people can learn new things from others. For example, I follow many doctors and researchers online, and they often share useful articles. Secondly, online friends can help us with work and study. Students can ask their classmates about homework, and employees can find job opportunities through their contacts. In addition, social media is cheap and convenient. People can keep in touch with friends in other cities or countries without spending much money.\n\nOn the other hand, having too many online friends also causes some problems. Firstly, online friendships are often not deep. People only click 'like' or send short messages, so they do not really care for each other. Secondly, people may spend less time with their real friends and family. As a result, they can feel lonely even when they have hundreds of friends online. Moreover, it can be unsafe to share personal information with strangers. Some people pretend to be friends, but they want to cheat others or steal their money.\n\nIn conclusion, having lots of online friends can help us learn, work and stay connected. However, it can also make our relationships shallow and put our safety at risk. I believe we should use social media wisely. We should spend more time with the close friends who truly matter to us.",
+   "answer": "Nowadays, many people have a large number of friends on social media. They often spend their free time chatting with these online friends instead of meeting their real, close friends. This essay will discuss both the advantages and disadvantages of this trend.\n\nOn the one hand, having lots of online friends has one main drawback. The biggest problem is that people may spend less time with their real friends and family. This is because chatting online is easy and takes up much of their free time. For example, a young office worker may reply to dozens of messages every evening but rarely meet his best friend for coffee. As a result, his close relationships can become weak, and he may feel lonely even with hundreds of online contacts.\n\nOn the other hand, having many online friends brings two important benefits. Firstly, it helps people keep in touch with others easily and cheaply. Distance is no longer a problem when friends can chat and make video calls for free. For instance, I can still talk to my old classmates who now live in Australia and Japan every week. Secondly, online friends can bring useful information and opportunities. The reason is that a large network includes people from many different jobs and places. A good example is a student who finds a part-time job through a post shared by an online friend. Thanks to this, people can learn new things and develop their careers.\n\nIn conclusion, having lots of online friends has both advantages and disadvantages. It helps people stay in touch and find opportunities, but it may also take time away from their close friends. Therefore, people should balance their online and offline relationships.",
    "vocab": [
-    {"term": "keep in touch with", "meaning": "giữ liên lạc với"},
-    {"term": "job opportunities", "meaning": "cơ hội việc làm"},
-    {"term": "care for each other", "meaning": "quan tâm, chăm sóc nhau"},
-    {"term": "make our relationships shallow", "meaning": "làm các mối quan hệ trở nên hời hợt"},
-    {"term": "pretend to be", "meaning": "giả vờ là"}
+    {
+     "term": "take up time",
+     "meaning": "chiếm thời gian"
+    },
+    {
+     "term": "online contacts",
+     "meaning": "danh bạ, bạn bè trên mạng"
+    },
+    {
+     "term": "keep in touch with",
+     "meaning": "giữ liên lạc với"
+    },
+    {
+     "term": "network",
+     "meaning": "mạng lưới quan hệ"
+    },
+    {
+     "term": "balance",
+     "meaning": "cân bằng"
+    }
    ]
   }
  },
  "speaking": {
   "1": {
    "answers": [
-    "No, I don't get sick very often. I swim every weekend and I try to eat healthy food. I usually catch a cold only once or twice a year.",
+    "No, I do not get sick very often. I swim every weekend, and I try to eat healthy food. As a result, I usually catch a cold only once or twice a year.",
     "Yes, I do. I have a health check-up once a year at a hospital near my university. I have a medical background, so I know that check-ups can find problems early.",
     "I think more people consider them important now, especially in big cities. However, many people still only see a doctor when they feel sick. Some of them are too busy, and some think check-ups are too expensive.",
-    "Yes, I do. I try to save about twenty percent of my salary every month. It makes me feel safe about the future.",
-    "I usually cook at home and bring my lunch to work. I also make a shopping list before I go to the supermarket, so I don't buy things I don't need.",
+    "Yes, I do. I try to save about twenty percent of my salary every month. Having savings makes me feel safe because I can deal with sudden problems, such as illness.",
+    "I usually cook at home and bring lunch to work. I also make a shopping list, so I do not buy things I do not need. As a result, I spend much less on food each month.",
     "I use my savings for travelling and for emergencies. For example, last year I paid for a trip to Da Lat with my family. I also want to save money for a master's course abroad."
    ],
    "outline": [
-    {"section": "Câu trả lời trực tiếp", "content": "Trả lời ngay Yes/No hoặc tần suất", "reusable": "No, I don't get sick very often."},
-    {"section": "Lý do", "content": "Thêm 1 lý do bằng because / so", "reusable": "I have a medical background, so I know that check-ups can find problems early."},
-    {"section": "Ví dụ / chi tiết", "content": "Thêm 1 ví dụ cá nhân ngắn", "reusable": "For example, last year I paid for a trip to Da Lat with my family."}
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay Yes/No",
+     "reusable": "No, I do not get sick very often."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "Nói vì sao",
+     "reusable": "I have a medical background, so I know that check-ups can find problems early."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân cụ thể",
+     "reusable": "For example, last year I paid for a trip to Da Lat with my family."
+    }
    ],
    "vocab": [
-    {"term": "health check-up", "meaning": "khám sức khỏe định kỳ"},
-    {"term": "catch a cold", "meaning": "bị cảm lạnh"},
-    {"term": "savings", "meaning": "tiền tiết kiệm"},
-    {"term": "emergency", "meaning": "trường hợp khẩn cấp"},
-    {"term": "shopping list", "meaning": "danh sách đồ cần mua"}
+    {
+     "term": "catch a cold",
+     "meaning": "bị cảm lạnh"
+    },
+    {
+     "term": "health check-up",
+     "meaning": "khám sức khoẻ"
+    },
+    {
+     "term": "medical background",
+     "meaning": "nền tảng y khoa"
+    },
+    {
+     "term": "savings",
+     "meaning": "tiền tiết kiệm"
+    },
+    {
+     "term": "emergencies",
+     "meaning": "trường hợp khẩn cấp"
+    }
    ]
   },
   "2": {
    "choice": 1,
+   "answer": "In this situation, among the three options, I think teaching at a public school in her hometown is the best choice. I choose it for two main reasons.\n\nThe first reason is that she can live a cheaper and more comfortable life. By that, I mean she can stay with her family, so she does not need to pay rent or cook every meal herself. For example, a new teacher's salary is often not enough for rent and food in a big city. In her hometown, she can even save money.\n\nAnother reason is that she can help children in her own community. In other words, her work will be meaningful because she understands the local students and their families. For instance, my cousin teaches English at a public school in Dak Lak, and she feels proud when her students win local English contests.\n\nThere are also some reasons why I do not choose the other two options. Regarding teaching at a public school in a big city, I do not think it is the best choice because the salary is low but living costs are very high. As for teaching at an international school in a big city, I do not think it is the best option either because these schools usually want experienced teachers. The pressure from parents is also very high.\n\nTo sum up, out of these three options, I believe teaching at a public school in her hometown is the best choice because it is affordable, stable and meaningful.",
    "outline": [
-    {"section": "Nêu lựa chọn", "content": "Chọn dạy trường công ở quê", "reusable": "I think my friend should teach at a public school in her hometown."},
-    {"section": "Lý do chọn", "content": "(1) sống cùng gia đình, không tốn tiền thuê nhà, tiết kiệm (2) ít căng thẳng, không kẹt xe (3) giúp trẻ em ở quê", "reusable": "First, she can live with her family."},
-    {"section": "Vì sao không chọn trường công ở thành phố lớn", "content": "Lương gần như nhau nhưng sống ở thành phố rất đắt", "reusable": "I don't choose teaching at a public school in a big city because life in a big city is very expensive."},
-    {"section": "Vì sao không chọn trường quốc tế", "content": "Lương cao nhưng áp lực; cần tiếng Anh xuất sắc và kinh nghiệm", "reusable": "I also don't choose teaching at an international school in a big city. The salary is high, but the job is very demanding."},
-    {"section": "Kết luận", "content": "Nhắc lại lựa chọn + 3 lý do ngắn", "reusable": "In conclusion, teaching at a public school in her hometown is the best choice for her because it is cheap, comfortable and meaningful."}
+    {
+     "section": "Chọn",
+     "content": "Câu khung + dạy trường công ở quê",
+     "reusable": "In this situation, among the three options, I think teaching at a public school in her hometown is the best choice. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Sống rẻ, thoải mái → By that, I mean … → For example: lương giáo viên mới không đủ ở thành phố",
+     "reusable": "The first reason is that she can live a cheaper and more comfortable life. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "Giúp trẻ em quê mình → In other words … → For instance: chị họ dạy tiếng Anh ở Đắk Lắk",
+     "reusable": "Another reason is that she can help children in her own community. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "Trường công thành phố: lương thấp, chi phí cao; trường quốc tế: cần kinh nghiệm, áp lực phụ huynh",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding teaching at a public school in a big city, I do not think it is the best choice because … As for teaching at an international school in a big city, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe teaching at a public school in her hometown is the best choice because it is affordable, stable and meaningful."
+    }
    ],
-   "answer": "I think my friend should teach at a public school in her hometown. Let me explain why.\n\nFirst, she can live with her family. She does not need to pay rent, and the cost of living in her hometown is much lower. As a result, she can save money from her first salary. Second, she will feel less stress. Her hometown is quiet and there are no traffic jams, so she will have more time to prepare her lessons. In addition, she can help the children in her hometown. Many schools in small towns need good young teachers, and she knows the local people well.\n\nI don't choose teaching at a public school in a big city because life in a big city is very expensive. The salary at a public school is almost the same everywhere, but she will spend a lot of money on rent and transport. I also don't choose teaching at an international school in a big city. The salary is high, but the job is very demanding. These schools usually want teachers with excellent English and some years of experience. She has just graduated, so she may feel a lot of pressure there.\n\nIn conclusion, teaching at a public school in her hometown is the best choice for her because it is cheap, comfortable and meaningful.",
    "vocab": [
-    {"term": "cost of living", "meaning": "chi phí sinh hoạt"},
-    {"term": "pay rent", "meaning": "trả tiền thuê nhà"},
-    {"term": "demanding", "meaning": "đòi hỏi cao, vất vả"},
-    {"term": "local people", "meaning": "người dân địa phương"},
-    {"term": "graduate", "meaning": "tốt nghiệp"}
+    {
+     "term": "pay rent",
+     "meaning": "trả tiền thuê nhà"
+    },
+    {
+     "term": "community",
+     "meaning": "cộng đồng"
+    },
+    {
+     "term": "living costs",
+     "meaning": "chi phí sinh hoạt"
+    },
+    {
+     "term": "experienced",
+     "meaning": "có kinh nghiệm"
+    },
+    {
+     "term": "affordable",
+     "meaning": "vừa túi tiền"
+    }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about why misbehaviour is becoming more common in some schools. In my opinion, there are several causes, and schools, families and society all play a part.\n\nFirstly, school discipline is sometimes not strong enough. When rules are not clear or teachers do not apply them fairly, students think they can break them easily. For example, if a student uses his phone in class and nobody says anything, other students will copy him.\n\nSecondly, family background has a big influence on children's behaviour. Children whose parents argue a lot or are always busy often lack care and guidance. For instance, a child whose parents work late every night may join a bad group to get attention.\n\nThirdly, the internet has a strong effect on students. Many videos and games show violence or rude language as something cool. A good example is the trend of filming fights at school and posting them on TikTok.\n\nAnother important point is that peer pressure can push students to misbehave. Teenagers want to be accepted by their friends, so they may do things they know are wrong. For example, a quiet boy may start skipping classes because his friends call him boring.\n\nTo sum up, weak school discipline, family problems, the internet and peer pressure are the main causes of misbehaviour in schools.",
    "own_idea": "Peer pressure",
-   "outline": [
-    {"section": "Mở đầu", "content": "Giới thiệu chủ đề + có 4 nguyên nhân chính", "reusable": "Today I would like to talk about student misbehavior."},
-    {"section": "Ý 1: School discipline", "content": "Kỷ luật chưa nghiêm, giáo viên bận không để ý → học sinh tái phạm", "reusable": "First, school discipline is not strict enough in some schools."},
-    {"section": "Ý 2: Family background", "content": "Bố mẹ bận, gia đình hay cãi nhau → trẻ tức giận, cư xử xấu", "reusable": "Second, family background plays an important role."},
-    {"section": "Ý 3: Effect of the internet", "content": "Video, game bạo lực → bắt chước; bình luận xấu trên mạng", "reusable": "Third, the internet has a strong effect on students."},
-    {"section": "Ý riêng: Peer pressure", "content": "Muốn được bạn bè chấp nhận → làm theo bạn trốn học, hút thuốc", "reusable": "Finally, I think peer pressure is another reason."},
-    {"section": "Kết luận", "content": "Tóm tắt 4 nguyên nhân + nhà trường và cha mẹ cùng hợp tác", "reusable": "Schools and parents should work together to solve this problem."}
-   ],
-   "answer": "Today I would like to talk about student misbehavior. These days, more students break school rules, fight or bully their classmates. In my opinion, there are four main reasons for this problem.\n\nFirst, school discipline is not strict enough in some schools. Some teachers are too busy, so they do not notice bad behavior. When students break the rules and nothing happens, they will do it again.\n\nSecond, family background plays an important role. Many parents work long hours and have little time for their children. Some children live in families with a lot of arguments. As a result, they may feel angry and behave badly at school.\n\nThird, the internet has a strong effect on students. Many teenagers watch violent videos or play violent games online. They may copy this behavior in real life. Moreover, some students use social media to post bad comments about their classmates.\n\nFinally, I think peer pressure is another reason. Teenagers want to be accepted by their friends. If their friends skip classes or smoke, they may do the same thing to fit in.\n\nIn conclusion, student misbehavior comes from the school, the family, the internet and friends. Schools and parents should work together to solve this problem.",
    "follow_ups": [
-    "There are many sorts of misbehavior, such as talking in class, cheating in exams and skipping classes. More serious types are fighting and bullying other students. Some students also use their phones during lessons.",
-    "I think parents are the most responsible. Children learn their first lessons about behavior at home. However, teachers also need to guide students at school.",
-    "Schools should have clear rules and fair punishments. They can also organize more sports and clubs, so students can use their energy in a positive way. In addition, schools should have counsellors to help students with problems."
+    "There are many kinds of misbehaviour among children. The common ones are talking in class, being late and not doing homework. More serious kinds are bullying, cheating in exams and fighting. For example, some students make fun of a classmate online, and this can hurt him deeply.",
+    "I think parents are most responsible for preventing student misbehaviour. The main reason is that children learn their values and habits at home first. For example, children whose parents talk to them every day usually behave better at school. However, teachers also need to work closely with parents.",
+    "Schools can reduce misbehaviour by setting clear rules and applying them fairly. The main reason is that students behave better when they know the results of their actions. For example, schools can hold regular meetings with parents and invite counsellors to talk with students. More clubs and sports can also keep students busy."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about why misbehaviour is becoming more common in some schools."
+    },
+    {
+     "section": "Ý 1: kỷ luật nhà trường",
+     "content": "Ý → luật không rõ, không công bằng → ví dụ dùng điện thoại trong lớp không ai nhắc",
+     "reusable": "Firstly, school discipline is sometimes not strong enough."
+    },
+    {
+     "section": "Ý 2: hoàn cảnh gia đình",
+     "content": "Ý → thiếu quan tâm, dạy dỗ → ví dụ bố mẹ đi làm khuya, con theo nhóm xấu",
+     "reusable": "Secondly, family background has a big influence on children's behaviour."
+    },
+    {
+     "section": "Ý 3: ảnh hưởng của internet",
+     "content": "Ý → video, game coi bạo lực là \"ngầu\" → ví dụ quay clip đánh nhau đăng TikTok",
+     "reusable": "Thirdly, the internet has a strong effect on students."
+    },
+    {
+     "section": "Ý riêng: áp lực bạn bè",
+     "content": "Ý → muốn được bạn chấp nhận → ví dụ trốn học vì bị chê nhàm chán",
+     "reusable": "Another important point is that peer pressure can push students to misbehave."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt 4 nguyên nhân",
+     "reusable": "To sum up, weak school discipline, family problems, the internet and peer pressure are the main causes of misbehaviour in schools."
+    }
    ],
    "vocab": [
-    {"term": "school discipline", "meaning": "kỷ luật học đường"},
-    {"term": "bully someone", "meaning": "bắt nạt ai"},
-    {"term": "family background", "meaning": "hoàn cảnh gia đình"},
-    {"term": "peer pressure", "meaning": "áp lực từ bạn bè đồng trang lứa"},
-    {"term": "fit in", "meaning": "hòa nhập, được nhóm chấp nhận"}
+    {
+     "term": "misbehaviour",
+     "meaning": "hành vi sai trái, không ngoan"
+    },
+    {
+     "term": "school discipline",
+     "meaning": "kỷ luật nhà trường"
+    },
+    {
+     "term": "guidance",
+     "meaning": "sự hướng dẫn, dạy dỗ"
+    },
+    {
+     "term": "peer pressure",
+     "meaning": "áp lực từ bạn bè"
+    },
+    {
+     "term": "bullying",
+     "meaning": "bắt nạt"
+    }
    ]
   }
  }

@@ -28,10 +28,20 @@ def all_numbers():
     return sorted(int(p.stem.split('-')[1]) for p in (DE / 'exams').glob('vlu-*.json'))
 
 
-def load_prompt(n: int):
-    return json.loads((PROMPTS / f'vlu-{n}.json').read_text())
+def exam_id(n) -> str:
+    """VLU number (int or digit string) -> 'vlu-N'; any other string is a custom exam id, e.g. 'nho-2026-11-20-sang'."""
+    return f'vlu-{n}' if str(n).isdigit() else str(n)
 
 
-def load_answer(n: int):
-    p = ANSWERS / f'vlu-{n}.json'
+def custom_ids():
+    """Self-made / recalled exams: prompt packs whose id is not vlu-N (marked "custom": true)."""
+    return sorted((p.stem for p in PROMPTS.glob('*.json') if not re.fullmatch(r'vlu-\d+', p.stem)), reverse=True)
+
+
+def load_prompt(n):
+    return json.loads((PROMPTS / f'{exam_id(n)}.json').read_text())
+
+
+def load_answer(n):
+    p = ANSWERS / f'{exam_id(n)}.json'
     return json.loads(p.read_text()) if p.exists() else None

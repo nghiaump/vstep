@@ -2,54 +2,63 @@
 
 Writing Part 1 + 2 và Speaking Part 1–3 cho từng đề, mục tiêu 5–6 điểm. Đề chép nguyên văn; số từ đếm bằng công cụ.
 
+- **Khung mẫu để học thuộc:** [KHUNG-MAU.md](KHUNG-MAU.md) (mọi bài mẫu cùng dạng dùng chung khung câu này)
 - PDF từng đề: `pdf/vlu-N.pdf` · PDF gộp: `pdf/VSTEP-VLU-90-135-bai-mau.pdf`
 - Dữ liệu: `prompts/` (đề nguyên văn), `answers/` (bài giải, JSON)
 
 | Đề | W1 (từ) | W2 (từ) | Dạng đề W2 | Kiểm tra |
 |---|---|---|---|---|
-| [VLU 135](vlu-135.md) | 184 | 261 | Advantages & disadvantages | đạt |
-| [VLU 134](vlu-134.md) | 177 | 265 | Causes & effects | đạt |
-| [VLU 133](vlu-133.md) | 187 | 266 | Advantages & disadvantages + opinion | đạt |
-| [VLU 132](vlu-132.md) | 173 | 271 | Advantages & disadvantages | đạt |
-| [VLU 131](vlu-131.md) | 167 | 265 | Causes & effects | đạt |
-| [VLU 130](vlu-130.md) | 175 | 269 | Effects & solutions | đạt |
-| [VLU 129](vlu-129.md) | 188 | 266 | Advantages & disadvantages | đạt |
-| [VLU 128](vlu-128.md) | 179 | 268 | Discuss both views + opinion | đạt |
-| [VLU 127](vlu-127.md) | 188 | 263 | Advantages & disadvantages | đạt |
-| [VLU 126](vlu-126.md) | 189 | 261 | Advantages & disadvantages | đạt |
-| [VLU 125](vlu-125.md) | 189 | 266 | Advantages & disadvantages | đạt |
-| [VLU 124](vlu-124.md) | 188 | 260 | Effects + solutions | đạt |
-| [VLU 123](vlu-123.md) | 178 | 269 | Solutions | đạt |
-| [VLU 122](vlu-122.md) | 188 | 260 | Discuss both views + opinion | đạt |
-| [VLU 121](vlu-121.md) | 189 | 290 | Causes, problems & solutions | đạt |
-| [VLU 120](vlu-120.md) | 187 | 280 | Causes, problems & solutions | đạt |
-| [VLU 119](vlu-119.md) | 182 | 275 | Discuss both views + opinion | đạt |
-| [VLU 118](vlu-118.md) | 181 | 276 | Opinion | đạt |
-| [VLU 117](vlu-117.md) | 188 | 289 | Causes, problems & solutions | đạt |
-| [VLU 116](vlu-116.md) | 171 | 270 | Causes & effects | đạt |
-| [VLU 115](vlu-115.md) | 175 | 271 | Opinion – agree | đạt |
-| [VLU 114](vlu-114.md) | 186 | 260 | Problem – solution | đạt |
-| [VLU 113](vlu-113.md) | 187 | 268 | Advantages & disadvantages | đạt |
-| [VLU 112](vlu-112.md) | 183 | 266 | Opinion – agree or disagree | đạt |
-| [VLU 111](vlu-111.md) | 186 | 274 | Effects | đạt |
-| [VLU 110](vlu-110.md) | 185 | 277 | Advantages & disadvantages | đạt |
-| [VLU 109](vlu-109.md) | 186 | 270 | Opinion: positive or negative development | đạt |
-| [VLU 108](vlu-108.md) | 186 | 275 | Advantages only | đạt |
-| [VLU 107](vlu-107.md) | 170 | 280 | Discuss both views + opinion | đạt |
-| [VLU 106](vlu-106.md) | 184 | 294 | Causes, problems & solutions | đạt |
-| [VLU 105](vlu-105.md) | 180 | 268 | Agree or disagree | đạt |
-| [VLU 104](vlu-104.md) | 190 | 267 | Advantages & disadvantages | đạt |
-| [VLU 103](vlu-103.md) | 174 | 273 | Advantages & disadvantages | đạt |
-| [VLU 102](vlu-102.md) | 188 | 274 | Discuss both views + opinion | đạt |
-| [VLU 101](vlu-101.md) | 189 | 274 | Causes & effects | đạt |
-| [VLU 100](vlu-100.md) | 170 | 275 | Problem & solution | đạt |
-| [VLU 99](vlu-99.md) | 182 | 284 | Discuss both views + opinion | đạt |
-| [VLU 98](vlu-98.md) | 183 | 277 | Causes & effects | đạt |
-| [VLU 97](vlu-97.md) | 183 | 276 | Advantages & disadvantages | đạt |
-| [VLU 96](vlu-96.md) | 187 | 269 | Advantages & disadvantages | đạt |
-| [VLU 95](vlu-95.md) | 185 | 265 | Advantages & disadvantages | đạt |
-| [VLU 94](vlu-94.md) | 189 | 284 | Discuss both views + opinion | đạt |
-| [VLU 93](vlu-93.md) | 189 | 273 | Discuss both views + opinion | đạt |
-| [VLU 92](vlu-92.md) | 186 | 282 | Discuss both views + opinion | đạt |
-| [VLU 91](vlu-91.md) | 184 | 262 | Effects & solutions | đạt |
-| [VLU 90](vlu-90.md) | 190 | 265 | Reasons | đạt |
+| [VLU 135](vlu-135.md) | 175 | 283 | Advantages & disadvantages | đạt |
+| [VLU 134](vlu-134.md) | 159 | 278 | Causes & effects | đạt |
+| [VLU 133](vlu-133.md) | 177 | 274 | Advantages & disadvantages + opinion | đạt |
+| [VLU 132](vlu-132.md) | 175 | 276 | Advantages & disadvantages | đạt |
+| [VLU 131](vlu-131.md) | 163 | 282 | Causes & effects | đạt |
+| [VLU 130](vlu-130.md) | 178 | 282 | Effects & solutions | đạt |
+| [VLU 129](vlu-129.md) | 176 | 284 | Advantages & disadvantages | đạt |
+| [VLU 128](vlu-128.md) | 172 | 285 | Discuss both views + opinion | đạt |
+| [VLU 127](vlu-127.md) | 177 | 272 | Advantages & disadvantages – positive and negative effects | đạt |
+| [VLU 126](vlu-126.md) | 175 | 271 | Advantages & disadvantages – benefits and dangers | đạt |
+| [VLU 125](vlu-125.md) | 180 | 273 | Advantages & disadvantages | đạt |
+| [VLU 124](vlu-124.md) | 178 | 300 | Problems & solutions | đạt |
+| [VLU 123](vlu-123.md) | 159 | 298 | One-sided – solutions | đạt |
+| [VLU 122](vlu-122.md) | 178 | 277 | Discussion – discuss both views and give your opinion | đạt |
+| [VLU 121](vlu-121.md) | 174 | 298 | Causes & solutions | đạt |
+| [VLU 120](vlu-120.md) | 178 | 278 | Causes, problems & solutions | đạt |
+| [VLU 119](vlu-119.md) | 178 | 282 | Discussion – both views + opinion | đạt |
+| [VLU 118](vlu-118.md) | 179 | 281 | Opinion – most important factor | đạt |
+| [VLU 117](vlu-117.md) | 177 | 294 | Causes & solutions | đạt |
+| [VLU 116](vlu-116.md) | 168 | 274 | Causes & effects | đạt |
+| [VLU 115](vlu-115.md) | 175 | 273 | Opinion – give your opinion | đạt |
+| [VLU 114](vlu-114.md) | 178 | 294 | Problems & solutions | đạt |
+| [VLU 113](vlu-113.md) | 173 | 270 | Advantages & disadvantages | đạt |
+| [VLU 112](vlu-112.md) | 168 | 273 | Opinion – agree or disagree | đạt |
+| [VLU 111](vlu-111.md) | 178 | 289 | One-sided – effects only | đạt |
+| [VLU 110](vlu-110.md) | 179 | 283 | Advantages & disadvantages | đạt |
+| [VLU 109](vlu-109.md) | 180 | 272 | Opinion – positive or negative development | đạt |
+| [VLU 108](vlu-108.md) | 177 | 278 | One-sided – advantages only | đạt |
+| [VLU 107](vlu-107.md) | 178 | 273 | Discussion – discuss this view and give your opinion | đạt |
+| [VLU 106](vlu-106.md) | 175 | 298 | Causes & solutions | đạt |
+| [VLU 105](vlu-105.md) | 180 | 274 | Opinion – agree or disagree | đạt |
+| [VLU 104](vlu-104.md) | 178 | 277 | Advantages & disadvantages | đạt |
+| [VLU 103](vlu-103.md) | 170 | 273 | Advantages & disadvantages | đạt |
+| [VLU 102](vlu-102.md) | 175 | 277 | Discussion – discuss both views | đạt |
+| [VLU 101](vlu-101.md) | 177 | 273 | Causes & effects | đạt |
+| [VLU 100](vlu-100.md) | 173 | 277 | Problems & solutions | đạt |
+| [VLU 99](vlu-99.md) | 176 | 277 | Discussion – discuss both views | đạt |
+| [VLU 98](vlu-98.md) | 176 | 299 | Causes & effects | đạt |
+| [VLU 97](vlu-97.md) | 168 | 279 | Advantages & disadvantages | đạt |
+| [VLU 96](vlu-96.md) | 176 | 280 | Advantages & disadvantages | đạt |
+| [VLU 95](vlu-95.md) | 179 | 281 | Advantages & disadvantages | đạt |
+| [VLU 94](vlu-94.md) | 171 | 281 | Discuss both views + opinion | đạt |
+| [VLU 93](vlu-93.md) | 176 | 275 | Discuss both views + opinion | đạt |
+| [VLU 92](vlu-92.md) | 179 | 282 | Discuss both views + opinion | đạt |
+| [VLU 91](vlu-91.md) | 179 | 296 | Problems & solutions | đạt |
+| [VLU 90](vlu-90.md) | 179 | 286 | Reasons – one side | đạt |
+
+## Đề tự tạo (theo đề thí sinh nhớ lại)
+
+Câu chữ đề do mình soạn lại theo nội dung nhớ được, không phải nguyên văn đề thật.
+
+| Đề | W1 (từ) | W2 (từ) | Dạng đề W2 | Kiểm tra |
+|---|---|---|---|---|
+| [VLU sáng 20/11](nho-2026-11-20-sang.md) | 178 | 274 | Advantages & disadvantages | đạt |

@@ -6,6 +6,8 @@
 
 **Thời gian:** 20 phút · **Số từ tối thiểu:** 120
 
+*Khung: [Thư thân mật](KHUNG-MAU.md#w1_informal) · 150–180 từ · 20 phút*
+
 ### 1. Đề bài
 
 You should spend about 20 minutes on this task. You received an email from your friend, who is preparing to attend a conference in another city and needs some advice.
@@ -24,13 +26,13 @@ Read part of their email below.
 
 Hi Nam,
 
-Thanks for your email. It is great news that you are coming to Ho Chi Minh City for the conference.
+Thank you for your email. It is great news that you are coming to Ho Chi Minh City for the conference.
 
-The conference venue is SECC in District 7, so I recommend Riverside Hotel. It is a good place to stay because it is only a ten-minute walk from the venue. The rooms are clean and quiet, and there is a nice restaurant. If you tell me your flight time, I can pick you up at the airport on the evening you arrive.
+Regarding a place to stay, I recommend a small hotel on Nguyen Luong Bang Street. The conference venue is SECC in District 7, and this hotel is only a ten-minute walk from there. The rooms are clean and quiet, and there is a nice restaurant downstairs. If you arrive on Sunday, I can meet you there at 7 p.m. for dinner.
 
-I think the accommodation will cost about 900,000 dong a night for a standard room. This price includes breakfast. It is not too expensive for a hotel near the venue. However, prices may go up during the conference, so you should book soon.
+As for the price, I think a standard room costs about 900,000 dong a night. This price also includes breakfast. However, prices may go up during the conference, so you should book soon.
 
-Yes, it is possible to pay for the accommodation online in advance. You can pay on the hotel's website or on Agoda with your credit card. I suggest that you choose a room with free cancellation. Then you can get your money back if your plans change.
+About paying online, yes, you can pay for the room in advance. You can pay on the hotel's website or on Agoda with your credit card. I suggest choosing a room with free cancellation, so you can get your money back if your plans change.
 
 I am looking forward to seeing you next month.
 
@@ -39,32 +41,34 @@ Minh
 
 ### 3. Số từ
 
-**187 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
+**176 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
 | Lời chào | Chào thân mật theo tên | *Hi Nam,* |
-| Mở đầu | Cảm ơn thư, chúc mừng đăng ký hội nghị, vui vì bạn đến thành phố mình | *Thanks for your email. It is great news that you are coming to Ho Chi Minh City for the conference.* |
-| Ý 1: chỗ ở gần hội nghị | Hội nghị ở SECC Quận 7; gợi ý khách sạn Riverside, đi bộ 10 phút; sạch, yên tĩnh, có bữa sáng; hẹn đón ở sân bay | *The conference venue is SECC in District 7, so I recommend Riverside Hotel. … it is only a ten-minute walk from the venue.* |
-| Ý 2: giá mỗi đêm | Khoảng 900.000 đồng (~35 đô)/đêm gồm bữa sáng; đặt sớm rẻ hơn | *I think the accommodation will cost about 900,000 dong a night for a standard room. This price includes breakfast.* |
-| Ý 3: thanh toán online trước | Có thể trả trước trên website hoặc Agoda bằng thẻ; chọn phòng huỷ miễn phí | *Yes, it is possible to pay for the accommodation online in advance.* |
-| Kết thư + ký tên | Mong gặp, báo ngày đến | *I am looking forward to seeing you next month.* |
+| Mở đầu | Cảm ơn thư, vui vì bạn đến TP.HCM dự hội nghị | *Thank you for your email. It is great news that you are coming to Ho Chi Minh City for the conference.* |
+| Ý 1: nơi ở gần hội nghị | Gợi ý khách sạn nhỏ trên đường Nguyễn Lương Bằng → cách SECC Quận 7 10 phút đi bộ → phòng sạch, yên tĩnh → hẹn ăn tối 7 giờ tối Chủ nhật | *Regarding a place to stay, I recommend a small hotel on Nguyen Luong Bang Street.* |
+| Ý 2: giá mỗi đêm | Khoảng 900.000 đồng/đêm → có bữa sáng → giá có thể tăng, nên đặt sớm | *As for the price, I think a standard room costs about 900,000 dong a night.* |
+| Ý 3: trả tiền online trước | Được → trang của khách sạn hoặc Agoda bằng thẻ → chọn phòng huỷ miễn phí | *About paying online, yes, you can pay for the room in advance.* |
+| Kết thư + ký tên | Mong gặp tháng sau, chào cuối thư | *I am looking forward to seeing you next month. Best wishes,* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **conference venue** | địa điểm tổ chức hội nghị |
-| **accommodation** | chỗ ở |
-| **a ten-minute walk** | đi bộ mười phút |
-| **pay in advance** | thanh toán trước |
-| **free cancellation** | huỷ phòng miễn phí |
+| **the conference venue** | địa điểm tổ chức hội nghị |
+| **a ten-minute walk** | 10 phút đi bộ |
+| **a standard room** | phòng tiêu chuẩn |
+| **pay in advance** | trả tiền trước |
+| **free cancellation** | huỷ miễn phí |
 
 ## WRITING — PART 2 · Essay
 
 **Thời gian:** 40 phút · **Số từ tối thiểu:** 250
+
+*Khung: [Advantages & disadvantages: lợi ích và bất lợi](KHUNG-MAU.md#w2_adv_disadv) · 270–300 từ · 4 đoạn · 40 phút*
 
 ### 1. Đề bài
 
@@ -82,40 +86,43 @@ You should spend about 40 minutes on this task.
 
 **Dạng đề:** Advantages & disadvantages (thảo luận ưu điểm và nhược điểm)
 
-Nowadays, more and more people spend their time and money on travelling. They visit new places and learn about new cultures, both in their own country and abroad. Travelling brings many benefits, but it also has some drawbacks. This essay will discuss the main advantages and disadvantages of tourism and travel.
+Nowadays, more and more people spend their holidays exploring new places, both in their own country and overseas. This hobby has clear benefits, but it also has some disadvantages. This essay will discuss both its advantages and disadvantages.
 
-On the one hand, travelling brings many benefits. Firstly, it helps people learn about new cultures. When we visit another country, we can try local food, see traditional festivals and talk to local people. As a result, we become more open-minded. Secondly, travelling helps people relax. After months of hard work, a short trip to the beach or the mountains can reduce stress. In addition, tourism is good for the economy. For example, Hoi An earns a lot of money from tourists, and many local people work in hotels, restaurants and shops.
+On the one hand, travelling has one main drawback. The biggest problem is that it can be very expensive. Travellers have to pay for flights, hotels, food and tickets, and these costs add up quickly. For example, a one-week trip to Japan can cost a young office worker several months of savings. As a result, some people spend too much money and have less left for important things such as health care or their children's education.
 
-On the other hand, tourism and travel also have some drawbacks. Firstly, tourism can damage the environment. Many tourists leave rubbish on beaches, and the water in places like Ha Long Bay becomes polluted. Secondly, popular places can become too crowded. Prices for food and housing also go up, so life becomes harder for local people. Moreover, local culture may change in a bad way. Some traditional festivals become shows for tourists, and they lose their real meaning.
+On the other hand, travelling brings two important benefits. Firstly, it helps people learn about new cultures. When we visit a new place, we can see how local people live, eat and celebrate their festivals. For instance, a visit to Hue helps young Vietnamese people understand the history of the Nguyen Dynasty much better than a textbook. As a result, they become more open-minded and respect people who are different from them. Secondly, travelling helps people relax and reduce stress. This means that they can forget about work for a while and enjoy new experiences. A good example is a family who spends a weekend at the beach in Nha Trang after a busy month. Thanks to this, they come back home healthier and happier, and they can work better.
 
-In conclusion, travelling helps people learn, relax and support the economy, but it can also cause pollution, overcrowding and the loss of local culture. I believe that we should still travel, but we need to travel responsibly. For example, we should keep places clean and respect local people.
+In conclusion, tourism and travel have both advantages and disadvantages. Travelling can be costly, but it also helps people learn about other cultures and relax. Therefore, people should plan their trips carefully to enjoy the benefits.
 
 ### 3. Số từ
 
-**269 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
+**280 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở bài | Viết lại đề: du lịch trong và ngoài nước ngày càng phổ biến → bài bàn cả lợi và hại | *This essay will discuss the main advantages and disadvantages of tourism and travel.* |
-| Thân bài 1: ưu điểm | (1) mở mang hiểu biết về văn hoá (2) thư giãn, giảm căng thẳng (3) phát triển kinh tế, tạo việc làm (ví dụ Hội An) | *On the one hand, travelling brings many benefits. Firstly, it helps people learn about new cultures.* |
-| Thân bài 2: nhược điểm | (1) ô nhiễm môi trường: rác ở vịnh Hạ Long (2) quá tải, giá cả tăng với người dân (3) văn hoá địa phương bị thương mại hoá | *On the other hand, tourism and travel also have some drawbacks.* |
-| Kết bài | Tóm tắt hai mặt + đi du lịch có trách nhiệm | *In conclusion, … I believe that we should still travel, but we need to travel responsibly.* |
+| Mở bài | Viết lại đề (ngày càng nhiều người đi du lịch trong và ngoài nước; có lợi, có hại) + câu dẫn | *This essay will discuss both its advantages and disadvantages.* |
+| Thân bài 1 · PEER: nhược điểm | P: tốn kém → E: vé máy bay, khách sạn, ăn uống cộng lại nhanh → Ex: 1 tuần ở Nhật tốn mấy tháng tiết kiệm → R: còn ít tiền cho việc quan trọng | *On the one hand, travelling has one main drawback. The biggest problem is that it can be very expensive.* |
+| Thân bài 2 · PEER 1: ưu điểm | P: hiểu văn hoá mới → E: thấy người dân sống, ăn, đón lễ hội → Ex: đi Huế hiểu lịch sử nhà Nguyễn hơn sách | *On the other hand, travelling brings two important benefits. Firstly, it helps people learn about new cultures.* |
+| Thân bài 2 · PEER 2: ưu điểm | P: thư giãn, giảm căng thẳng → E: quên công việc, trải nghiệm mới → Ex: gia đình đi biển Nha Trang cuối tuần → R: khoẻ, vui, làm việc tốt hơn | *Secondly, travelling helps people relax and reduce stress. … Thanks to this, they come back home healthier and happier* |
+| Kết bài | Tóm tắt hai phía (đề không hỏi ý kiến nên không nói phía nào nặng hơn) | *In conclusion, tourism and travel have both advantages and disadvantages.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **drawback** | nhược điểm, mặt hạn chế |
-| **open-minded** | cởi mở, có đầu óc thoáng |
-| **overcrowding** | tình trạng quá đông đúc |
-| **lose their real meaning** | mất đi ý nghĩa thật sự |
-| **travel responsibly** | du lịch có trách nhiệm |
+| **add up** | cộng dồn lại |
+| **savings** | tiền tiết kiệm |
+| **learn about new cultures** | tìm hiểu văn hoá mới |
+| **reduce stress** | giảm căng thẳng |
+| **costly** | tốn kém |
 
 ## SPEAKING — PART 1 · Social Interaction
 
 **Thời gian:** 3 phút
+
+*Khung: [Speaking Part 1: Social Interaction](KHUNG-MAU.md#s1) · Mỗi câu hỏi 3 câu, khoảng 30–40 từ*
 
 ### 1. Đề bài
 
@@ -138,48 +145,50 @@ In conclusion, travelling helps people learn, relax and support the economy, but
 ### 2. Bài mẫu
 
 **1. Do you often go to parties?**  
-No, I don't go to parties very often. I usually go to a few birthday parties a year. I prefer quiet evenings at coffee shops with my close friends.
+No, I do not go to parties very often. This is because I prefer quiet evenings at coffee shops with my close friends. I usually go to only a few birthday parties a year.
 
 **2. What kind of parties do you enjoy the most?**  
-I enjoy small parties at home the most. We cook together, eat and talk for hours. I feel more relaxed there than at big, noisy parties.
+I enjoy small parties at home the most. The main reason is that I feel more relaxed there than at big, noisy parties. For example, my friends and I often cook together, eat and talk for hours.
 
 **3. What do you usually do to prepare for a party?**  
-First, I buy a small gift for the host. Then I choose some nice clothes to wear. Sometimes I also go early to help with the cooking.
+First, I buy a small gift for the host. This is because I want to thank them for inviting me. Then I choose some nice clothes, and sometimes I go early to help with the cooking.
 
 **4. Do you often recycle things at home?**  
-Yes, I recycle things at home every week. My family separates our rubbish into different bags. We give the recyclable things to a local collector.
+Yes, I recycle things at home every week. This is because I want to reduce the amount of rubbish we throw away. My family separates our rubbish and gives the recyclable things to a local collector.
 
 **5. What kinds of items do you usually recycle?**  
-I usually recycle plastic bottles, cans and old newspapers. I also keep cardboard boxes from online shopping. Sometimes I reuse glass jars to store food.
+I usually recycle plastic bottles, cans and old newspapers. I also keep cardboard boxes because I often shop online. Sometimes I reuse glass jars to store coffee and sugar.
 
 **6. Do you think recycling is important for protecting the environment?**  
-Yes, I think recycling is very important. It reduces the amount of rubbish in landfills and saves natural resources. If everyone recycles, our city will be cleaner and greener.
+Yes, I think recycling is very important. The main reason is that it reduces the amount of rubbish in landfills and saves natural resources. For example, recycling paper means that fewer trees are cut down.
 
 ### 3. Số từ
 
-**161 từ** · khoảng 1 phút 20 giây nói (tốc độ 120 từ/phút).
+**207 từ** · khoảng 1 phút 44 giây nói (tốc độ 120 từ/phút).
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Câu trả lời trực tiếp | Trả lời ngay Yes/No hoặc liệt kê | *Yes, I recycle things at home every week.* |
-| Lý do | Thêm 1 lý do ngắn | *It reduces the amount of rubbish in landfills and saves natural resources.* |
-| Ví dụ / chi tiết | Thêm các bước cụ thể bằng First / Then | *First, I buy a small gift for the host. Then I choose some nice clothes to wear.* |
+| Câu 1: trả lời thẳng | Trả lời ngay Yes/No hoặc lựa chọn | *I enjoy small parties at home the most.* |
+| Câu 2: lý do | Thêm 1 lý do | *This is because I want to reduce the amount of rubbish we throw away.* |
+| Câu 3: chi tiết | Ví dụ cá nhân ngắn | *Sometimes I reuse glass jars to store coffee and sugar.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **the host** | chủ nhà, người tổ chức tiệc |
+| **the host** | chủ nhà, người tổ chức |
 | **separate rubbish** | phân loại rác |
 | **recyclable** | có thể tái chế |
-| **landfill** | bãi chôn lấp rác |
+| **landfills** | bãi chôn lấp rác |
 | **natural resources** | tài nguyên thiên nhiên |
 
 ## SPEAKING — PART 2 · Solution Discussion
 
 **Thời gian:** 4 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 2: Solution Discussion](KHUNG-MAU.md#s2) · 220–260 từ*
 
 ### 1. Đề bài
 
@@ -197,41 +206,45 @@ Yes, I think recycling is very important. It reduces the amount of rubbish in la
 
 **Lựa chọn:** Option 2: Design
 
-I think my friend Nam should choose the design position. Let me explain why.
+In this situation, among the three options, I think the design position is the best choice for my friend. I choose it for two main reasons.
 
-First, this job matches his degree. Nam studied graphic design at university, so he already has the right knowledge and skills. He can start working well from the first day. Second, he loves drawing and creating new things. When people enjoy their work, they work harder and feel happier. In addition, design is a growing field in Vietnam. Many companies need designers for their websites, logos and advertisements. If he works hard, he can get a promotion and a higher salary in the future.
+The first reason is that design matches his skills and interests. By that, I mean he studied graphic design at university, and he loves drawing. For example, he often designs posters and logos for his friends' small businesses in his free time. His friends always say his designs are beautiful and modern.
 
-I don't choose IT support because Nam does not have much technical knowledge about computers and networks. Also, IT support staff sometimes have to work at night, and the work can be repetitive. I also don't choose content creation. Nam is creative, but he is not very good at writing. Moreover, content creators are often under pressure to get more views and likes every day.
+Another reason is that a design job gives him good chances to develop. In other words, he can build a strong portfolio and find better jobs later. For instance, after a few years, he may become an art director or open his own design studio. Design skills are also needed in many industries today.
 
-In conclusion, design is the best choice for Nam because it suits his skills and his interests. I believe he will be successful in this job.
+There are also some reasons why I do not choose the other two options. Regarding IT support, I do not think it is the best choice because he is not very interested in fixing computers. The work may also feel repetitive to him. As for content creation, I do not think it is the best option either because he is not good at writing, and he does not enjoy making videos.
+
+To sum up, out of these three options, I believe the design position is the best choice because it is suitable, creative and good for his future.
 
 ### 3. Số từ
 
-**189 từ** · khoảng 1 phút 34 giây nói.
+**230 từ** · khoảng 1 phút 55 giây nói.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Nêu lựa chọn | Khuyên bạn Nam chọn vị trí thiết kế (Design) | *I think my friend Nam should choose the design position.* |
-| Lý do chọn | (1) đúng ngành học thiết kế đồ hoạ (2) đam mê, sáng tạo → làm việc vui (3) cơ hội thăng tiến, lương cao về sau | *First, this job matches his degree. … Second, he loves drawing and creating new things.* |
-| Vì sao không chọn IT support | Cần kiến thức kỹ thuật, trực ca đêm, việc lặp lại | *I don't choose IT support because Nam does not have much technical knowledge about computers and networks.* |
-| Vì sao không chọn content creation | Không giỏi viết, áp lực lượt xem | *I also don't choose content creation. Nam is creative, but he is not very good at writing.* |
-| Kết luận | Nhắc lại lựa chọn: phù hợp năng lực và sở thích | *In conclusion, design is the best choice for Nam because it suits his skills and his interests.* |
+| Chọn | Câu khung + lựa chọn: vị trí thiết kế | *In this situation, among the three options, I think the design position is the best choice for my friend. I choose it for two main reasons.* |
+| Lý do 1 | Hợp kỹ năng, sở thích → By that, I mean … → For example: thiết kế poster, logo cho bạn bè | *The first reason is that design matches his skills and interests. By that, I mean …* |
+| Lý do 2 | Cơ hội phát triển → In other words … → For instance: thành giám đốc nghệ thuật, mở studio | *Another reason is that a design job gives him good chances to develop. In other words, …* |
+| Loại 2 phương án | IT support: không thích sửa máy, lặp lại; sáng tạo nội dung: viết chưa tốt, không thích làm video | *There are also some reasons why I do not choose the other two options. Regarding IT support, I do not think it is the best choice because … As for content creation, I do not think it is the best option either because …* |
+| Kết | Câu khung + 3 tính từ | *To sum up, out of these three options, I believe the design position is the best choice because it is suitable, creative and good for his future.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **match someone's degree** | phù hợp với bằng cấp / ngành học của ai |
 | **graphic design** | thiết kế đồ hoạ |
-| **a growing field** | lĩnh vực đang phát triển |
-| **repetitive** | lặp đi lặp lại, nhàm chán |
-| **be under pressure** | chịu áp lực |
+| **a portfolio** | hồ sơ năng lực, bộ sưu tập tác phẩm |
+| **an art director** | giám đốc nghệ thuật |
+| **repetitive** | lặp đi lặp lại |
+| **content creation** | sáng tạo nội dung |
 
 ## SPEAKING — PART 3 · Topic Development
 
 **Thời gian:** 5 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 3: Topic Development](KHUNG-MAU.md#s3) · Bài nói chính 200–260 từ · mỗi câu follow-up 3–4 câu (35–55 từ)*
 
 ### 1. Đề bài
 
@@ -256,50 +269,50 @@ In conclusion, design is the best choice for Nam because it suits his skills and
 
 **Ý riêng (your own idea):** Training pets to behave well
 
-Today I would like to talk about the responsibilities of keeping pets. In my opinion, pet owners have four main responsibilities.
+Today I would like to talk about the responsibilities of keeping pets. In my opinion, keeping a pet is fun, but it also means a lot of work.
 
-First, owners must provide proper food, shelter and healthcare. Pets need healthy food and clean water every day. They also need a safe and clean place to sleep. In addition, owners should take their pets to the vet for vaccinations and check-ups.
+Firstly, owners must provide proper food, shelter and healthcare. Pets need healthy meals, a safe place to sleep and regular visits to the vet. For example, I take my cat to the vet for her vaccinations every year.
 
-Second, owners should ensure regular exercise and attention. For example, dogs need a walk every day to stay healthy. Cats also need their owners to play with them. Pets can feel sad and lonely if they stay alone all day.
+Secondly, owners need to ensure regular exercise and attention. Pets can become sad or unhealthy if they stay alone all day. For instance, dogs need a walk every day, and cats need someone to play with.
 
-Third, keeping a pet means being financially and emotionally committed long-term. A dog or a cat can live for ten to fifteen years. During this time, owners have to pay for food, medicine and other things. They must also love their pets even when they are old or sick. Sadly, some people leave their pets on the street when they get bored.
+Thirdly, owners must be financially and emotionally committed in the long term. A dog or a cat can live for more than ten years, and food and vet bills can be expensive. A good example is my neighbour, who still looks after his old dog even though it is sick now.
 
-Finally, I think owners have to train their pets to behave well. Dogs should not bark all night or bite strangers. If pets behave well, the neighbours will not be disturbed, and everyone will be safe.
+Another important point is that owners should train their pets to behave well. A well-trained pet does not disturb neighbours or hurt other people. For example, a dog should learn not to bark at night or bite strangers.
 
-In conclusion, pet owners must give their pets good care, exercise, love and training for many years. So before we get a pet, we should think carefully.
+To sum up, pet owners must provide food, shelter and healthcare, give regular exercise and attention, and make a long-term commitment. Owners should also train their pets well.
 
 **Trả lời câu hỏi follow-up**
 
 **1. What kinds of pets are most popular in Vietnam?**  
-In Vietnam, dogs and cats are the most popular pets. Dogs are loyal and can protect the house, and cats can catch mice. Some people also keep fish or birds because they are easy to look after.
+Dogs and cats are the most popular pets in Vietnam. This is because they are friendly and easy to find. For example, many families keep a dog to protect their house and a cat to catch mice. Some people also keep fish or birds because they need less space.
 
 **2. What are the benefits of keeping a pet?**  
-Pets can make us happy and reduce stress. They also give us company, so we feel less lonely. In addition, walking a dog every day helps the owner stay fit.
+Keeping a pet has many benefits. The main one is that pets reduce stress and make us feel less lonely. For example, when I come home after a long day, my cat always runs to the door to greet me. Walking a dog also helps owners stay active.
 
 **3. What problems can pets bring to their owners?**  
-Pets can be expensive because owners have to pay for food and medical care. They can also be noisy and damage furniture. Some people are allergic to pet hair, and some pets can carry diseases.
+Pets can bring some problems to their owners. The main problem is that they need a lot of time and money. For example, owners must pay for food and vet bills, and they cannot travel easily. Pets can also make noise or damage furniture.
 
 ### 3. Số từ
 
-**Bài nói chính: 228 từ** (khoảng 1 phút 54 giây) · follow-up: 102 từ.
+**Bài nói chính: 219 từ** (khoảng 1 phút 50 giây) · follow-up: 141 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở đầu | Giới thiệu chủ đề + có 4 trách nhiệm | *Today I would like to talk about the responsibilities of keeping pets.* |
-| Ý 1: thức ăn, chỗ ở, chăm sóc sức khoẻ | Thức ăn phù hợp, chỗ ở sạch, tiêm phòng, đưa đi thú y | *First, owners must provide proper food, shelter and healthcare.* |
-| Ý 2: vận động và quan tâm | Dắt chó đi dạo hằng ngày, chơi với mèo; không để một mình cả ngày | *Second, owners should ensure regular exercise and attention.* |
-| Ý 3: cam kết lâu dài về tài chính và tình cảm | Nuôi 10–15 năm, tốn tiền; không bỏ rơi khi chán | *Third, keeping a pet means being financially and emotionally committed long-term.* |
-| Ý riêng: huấn luyện thú cưng | Dạy đi vệ sinh đúng chỗ, không sủa, không cắn → không làm phiền hàng xóm | *Finally, I think owners have to train their pets to behave well.* |
-| Kết luận | Tóm tắt + suy nghĩ kỹ trước khi nuôi | *In conclusion, … So before we get a pet, we should think carefully.* |
+| Mở | Giới thiệu chủ đề + ý chính | *Today I would like to talk about the responsibilities of keeping pets. In my opinion, keeping a pet is fun, but it also means a lot of work.* |
+| Ý 1: thức ăn, chỗ ở, chăm sóc y tế | Ý → bữa ăn tốt, chỗ ngủ an toàn, khám thú y → ví dụ tiêm phòng cho mèo mỗi năm | *Firstly, owners must provide proper food, shelter and healthcare.* |
+| Ý 2: vận động, quan tâm | Ý → ở một mình cả ngày thì buồn, yếu → ví dụ chó cần đi dạo, mèo cần người chơi | *Secondly, owners need to ensure regular exercise and attention.* |
+| Ý 3: cam kết lâu dài về tiền và tình cảm | Ý → sống hơn 10 năm, chi phí cao → ví dụ hàng xóm vẫn chăm chó già bị bệnh | *Thirdly, owners must be financially and emotionally committed in the long term.* |
+| Ý riêng: huấn luyện thú cưng | Ý → không làm phiền hàng xóm, không làm hại người → ví dụ chó không sủa đêm, không cắn người lạ | *Another important point is that owners should train their pets to behave well.* |
+| Kết | Tóm tắt các ý | *To sum up, pet owners must provide food, shelter and healthcare, give regular exercise and attention, and make a long-term commitment.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **shelter** | chỗ ở, nơi trú ẩn |
-| **vaccination** | việc tiêm phòng |
-| **be committed long-term** | cam kết lâu dài |
-| **behave well** | cư xử ngoan, đúng mực |
-| **disturb the neighbours** | làm phiền hàng xóm |
+| **shelter** | chỗ ở |
+| **vaccinations** | tiêm phòng |
+| **be committed** | cam kết, gắn bó |
+| **vet bills** | chi phí thú y |
+| **well-trained** | được huấn luyện tốt |

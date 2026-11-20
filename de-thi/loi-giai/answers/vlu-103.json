@@ -2,104 +2,282 @@
  "id": "vlu-103",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
-    {"section": "Lời chào", "content": "Chào thân mật theo tên", "reusable": "Dear Linh,"},
-    {"section": "Mở đầu", "content": "Cảm ơn lời mời, chúc mừng anh trai", "reusable": "Thank you so much for your invitation. Congratulations to your brother!"},
-    {"section": "Ý 1: có đến được không", "content": "Có, đã xem lịch, xin nghỉ một ngày để đến sớm, ở đến cuối tiệc", "reusable": "I am glad to tell you that I can attend the wedding."},
-    {"section": "Ý 2: đi một mình hay cùng gia đình", "content": "Đi cùng mẹ vì mẹ quen gia đình Linh lâu năm; bố đi công tác", "reusable": "I will come with my mother because she has known your family for many years."},
-    {"section": "Ý 3: hỏi thêm + đề nghị giúp", "content": "Hỏi giờ bắt đầu, địa điểm, quy định trang phục; đến nhà giúp trang trí, gói quà vào thứ Bảy trước đám cưới", "reusable": "I would also love to help with the preparations."},
-    {"section": "Kết thư + ký tên", "content": "Mong được ăn mừng cùng gia đình, chào cuối thư", "reusable": "I can't wait to celebrate with your family! Best wishes,"}
+    {
+     "section": "Lời chào",
+     "content": "Chào thân mật theo tên",
+     "reusable": "Dear Linh,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Cảm ơn lời mời + chúc mừng anh trai",
+     "reusable": "Thank you for your lovely invitation. Congratulations to your brother and his future wife!"
+    },
+    {
+     "section": "Ý 1: có đến dự được không",
+     "content": "Đến được → đã xem lịch, rảnh → xin nghỉ làm để đến sớm, ở đến cuối",
+     "reusable": "Regarding the wedding, I am very happy to tell you that I can attend."
+    },
+    {
+     "section": "Ý 2: đi một mình hay với gia đình",
+     "content": "Đi với mẹ → mẹ quen gia đình bạn lâu năm → bố đi công tác",
+     "reusable": "As for the guests, I will come with my mother."
+    },
+    {
+     "section": "Ý 3: hỏi + đề nghị giúp",
+     "content": "Hỏi giờ bắt đầu, quy định trang phục → đến nhà bạn 9 giờ sáng thứ Bảy trước đám cưới để trang trí",
+     "reusable": "About the wedding, I have a few questions and an offer. What time does the party start, and is there a dress code?"
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Câu kết cố định, chào cuối thư",
+     "reusable": "That's all for now. I am looking forward to seeing you soon. Best wishes,"
+    }
    ],
-   "answer": "Dear Linh,\n\nThank you so much for your invitation. Congratulations to your brother! I am really happy for him and his future wife.\n\nI am glad to tell you that I can attend the wedding. I have checked my calendar, and I am free on that day. I will ask for a day off work, so I can come early and stay until the end of the party.\n\nI will come with my mother because she has known your family for many years. She was very excited when I told her the news. My father cannot come because he will be on a business trip that week.\n\nI also have a few questions. What time does the party start, and is it at a restaurant or at your house? Is there a dress code? I would also love to help with the preparations. I can come to your house on the Saturday before the wedding to help you decorate and wrap the gifts.\n\nI can't wait to celebrate with your family!\n\nBest wishes,\nMinh",
+   "answer": "Dear Linh,\n\nThank you for your lovely invitation. Congratulations to your brother and his future wife!\n\nRegarding the wedding, I am very happy to tell you that I can attend. I have checked my calendar, and I am free on that day. I will ask for a day off work, so I can come early and stay until the end.\n\nAs for the guests, I will come with my mother. She has known your family for many years, and she was very excited when I told her the news. My father cannot come because he will be on a business trip that week.\n\nAbout the wedding, I have a few questions and an offer. What time does the party start, and is there a dress code? I would also love to help with the preparations. I can come to your house at 9 a.m. on the Saturday before the wedding to help you decorate.\n\nThat's all for now. I am looking forward to seeing you soon.\n\nBest wishes,\nMinh",
    "vocab": [
-    {"term": "attend the wedding", "meaning": "dự đám cưới"},
-    {"term": "ask for a day off", "meaning": "xin nghỉ một ngày"},
-    {"term": "business trip", "meaning": "chuyến công tác"},
-    {"term": "dress code", "meaning": "quy định về trang phục"},
-    {"term": "help with the preparations", "meaning": "giúp chuẩn bị"}
+    {
+     "term": "attend a wedding",
+     "meaning": "dự đám cưới"
+    },
+    {
+     "term": "ask for a day off",
+     "meaning": "xin nghỉ một ngày"
+    },
+    {
+     "term": "be on a business trip",
+     "meaning": "đang đi công tác"
+    },
+    {
+     "term": "dress code",
+     "meaning": "quy định trang phục"
+    },
+    {
+     "term": "help with the preparations",
+     "meaning": "giúp chuẩn bị"
+    }
    ]
   },
   "2": {
    "essay_type": "Advantages & disadvantages (thảo luận ưu điểm và nhược điểm)",
+   "type_key": "adv_disadv",
    "outline": [
-    {"section": "Mở bài", "content": "Viết lại đề: xe buýt, tàu, metro quan trọng ở thành phố nhưng có hạn chế → bàn cả hai mặt", "reusable": "This essay will discuss both the advantages and disadvantages of public transport."},
-    {"section": "Thân bài 1: ưu điểm", "content": "(1) giảm kẹt xe: 1 xe buýt chở 50 người (2) tốt cho môi trường, ít khói (3) rẻ, có thể đọc sách, nghỉ ngơi trên đường", "reusable": "On the one hand, public transport has many benefits. Firstly, it helps to reduce traffic jams."},
-    {"section": "Thân bài 2: nhược điểm", "content": "(1) quá đông giờ cao điểm (2) hay trễ vì kẹt xe (3) không phủ hết các khu vực ngoại thành, nông thôn", "reusable": "On the other hand, public transport has some disadvantages."},
-    {"section": "Kết bài", "content": "Tóm tắt hai mặt + ý kiến: lợi nhiều hơn hại, chính phủ nên đầu tư thêm", "reusable": "In my opinion, its benefits are greater."}
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (giao thông công cộng chở hàng triệu người, thay xe riêng, chưa hoàn hảo) + câu dẫn",
+     "reusable": "This essay will discuss both its advantages and disadvantages."
+    },
+    {
+     "section": "Thân bài 1 · PEER: nhược điểm",
+     "content": "P: đông, hay trễ → E: thiếu xe giờ cao điểm → Ex: xe buýt TP.HCM kín chỗ lúc 7 giờ sáng → R: nhiều người vẫn đi xe máy",
+     "reusable": "On the one hand, public transport has one main drawback. The biggest problem is that …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 1: giảm kẹt xe",
+     "content": "P: giảm kẹt xe → E: 1 xe buýt chở khoảng 50 người → Ex: nhân viên văn phòng đi metro thay xe máy",
+     "reusable": "On the other hand, public transport brings two important benefits. Firstly, it helps to reduce traffic jams."
+    },
+    {
+     "section": "Thân bài 2 · PEER 2: tốt cho môi trường",
+     "content": "P: tốt cho môi trường → E: ít khói, ít ồn → Ex: Singapore → R: sống khoẻ hơn",
+     "reusable": "Secondly, public transport is better for the environment."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Tóm tắt hai phía + nên đầu tư thêm xe buýt, metro",
+     "reusable": "In conclusion, public transport has both advantages and disadvantages."
+    }
    ],
-   "answer": "Public transport, such as buses, trains and subways, plays an important role in modern cities. Millions of people use it every day instead of private vehicles. However, it also has some limitations. This essay will discuss both the advantages and disadvantages of public transport.\n\nOn the one hand, public transport has many benefits. Firstly, it helps to reduce traffic jams. One bus can carry fifty people, while fifty people on motorbikes take up a lot of road space. Secondly, it is better for the environment. When fewer private vehicles are on the road, there is less smoke, so the air becomes cleaner. In addition, public transport is cheap. For example, a bus ticket in Ho Chi Minh City costs only a few thousand dong. This is much cheaper than petrol and parking fees. Passengers can also read or rest during the trip instead of driving.\n\nOn the other hand, public transport has some disadvantages. Firstly, buses and trains are often overcrowded, especially during rush hour. Passengers may have to stand for a long time in a hot and noisy space. Secondly, there are often delays. Buses can get stuck in traffic, so people may be late for work or school. Moreover, public transport does not cover all areas. In many suburbs and rural areas, there are no bus stops near people's homes, so they still need a motorbike.\n\nIn conclusion, public transport can reduce traffic, protect the environment and save money, but it can be crowded, slow and limited. In my opinion, its benefits are greater. The government should invest more in buses and metro lines to make them more comfortable and reliable.",
+   "answer": "Nowadays, public transport carries millions of people to work and school in big cities every day. It is a popular choice instead of cars and motorbikes, but it is not perfect. This essay will discuss both its advantages and disadvantages.\n\nOn the one hand, public transport has one main drawback. The biggest problem is that it is often crowded and not always on time. This is because there are not enough buses and trains during rush hour. Traffic jams also slow buses down. For example, many buses in Ho Chi Minh City are full at 7 a.m., so passengers have to stand for a long time. As a result, some people still prefer their own motorbikes because they want to be comfortable and arrive on time.\n\nOn the other hand, public transport brings two important benefits. Firstly, it helps to reduce traffic jams. One bus can carry about fifty people, while fifty motorbikes take up a lot of road space. For instance, many office workers now take the new metro line in Ho Chi Minh City instead of riding motorbikes. Secondly, public transport is better for the environment. This means that cities have less smoke and noise when fewer people use private vehicles. A good example is Singapore, where many people take the metro every day and the air is quite clean. Thanks to this, people in the city can live healthier lives.\n\nIn conclusion, public transport has both advantages and disadvantages. It can be crowded and late, but it reduces traffic jams and protects the environment. Therefore, cities should invest in more buses and metro lines to make the service better.",
    "vocab": [
-    {"term": "private vehicles", "meaning": "phương tiện cá nhân"},
-    {"term": "take up space", "meaning": "chiếm chỗ"},
-    {"term": "overcrowded", "meaning": "quá đông đúc"},
-    {"term": "delay", "meaning": "sự chậm trễ"},
-    {"term": "reliable", "meaning": "đáng tin cậy, đúng giờ"}
+    {
+     "term": "public transport",
+     "meaning": "giao thông công cộng"
+    },
+    {
+     "term": "rush hour",
+     "meaning": "giờ cao điểm"
+    },
+    {
+     "term": "take up road space",
+     "meaning": "chiếm chỗ trên đường"
+    },
+    {
+     "term": "private vehicles",
+     "meaning": "phương tiện cá nhân"
+    },
+    {
+     "term": "invest in",
+     "meaning": "đầu tư vào"
+    }
    ]
   }
  },
  "speaking": {
   "1": {
    "answers": [
-    "I usually have a bowl of pho or a banh mi for breakfast. On busy days, I just have a glass of milk and some bread at home.",
-    "Yes, I think so. Breakfast gives us energy for the whole morning. If I skip breakfast, I feel tired and I cannot focus on my work.",
-    "Yes, it has. When I was a child, my mother cooked breakfast for me every day. Now I am busier, so I often buy breakfast on my way to work.",
-    "I use my mobile phone for about five or six hours a day. I use it a lot for work, especially for emails and online meetings.",
-    "I mainly use my phone to contact people and to read the news. I also use it to listen to music when I relax at home.",
-    "Yes, I think people rely on them too much. Many people check their phones all the time, even during meals with their family. They also find it hard to read a map without a phone."
+    "I usually have a bowl of pho or a banh mi for breakfast. This is because they are tasty, cheap and easy to find near my office. On busy days, I just have a glass of milk and some bread at home.",
+    "Yes, I think breakfast is the most important meal of the day. The main reason is that it gives us energy for the whole morning. For example, if I skip breakfast, I feel tired and cannot focus on my work.",
+    "Yes, my breakfast routine has changed a lot. When I was a child, my mother cooked breakfast for me every day. Now I am busier, so I often buy breakfast on my way to work.",
+    "I use my mobile phone for about five or six hours a day. This is because I need it a lot for my work. For example, I check emails, join online meetings and reply to my colleagues on Zalo.",
+    "I mainly use my phone to contact people and read the news. The main reason is that it is the fastest way to stay connected. In the evening, I also use it to listen to music when I relax at home.",
+    "Yes, I think people rely too much on mobile phones nowadays. This is because many people check their phones all the time, even during family meals. For example, some of my friends cannot find their way without Google Maps."
    ],
    "outline": [
-    {"section": "Câu trả lời trực tiếp", "content": "Trả lời ngay món ăn / thời lượng / Yes-No", "reusable": "I usually have a bowl of pho or a banh mi for breakfast."},
-    {"section": "Lý do", "content": "Giải thích bằng câu điều kiện hoặc so", "reusable": "If I skip breakfast, I feel tired and I cannot focus on my work."},
-    {"section": "So sánh quá khứ – hiện tại", "content": "When I was a child, … Now …", "reusable": "When I was a child, my mother cooked breakfast for me every day."}
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
+     "reusable": "I usually have a bowl of pho or a banh mi for breakfast."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do (This is because / The main reason is that)",
+     "reusable": "The main reason is that it gives us energy for the whole morning."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn: thời gian, địa điểm",
+     "reusable": "For example, I check emails, join online meetings and reply to my colleagues on Zalo."
+    }
    ],
    "vocab": [
-    {"term": "skip breakfast", "meaning": "bỏ bữa sáng"},
-    {"term": "on my way to work", "meaning": "trên đường đi làm"},
-    {"term": "online meeting", "meaning": "cuộc họp trực tuyến"},
-    {"term": "rely on", "meaning": "phụ thuộc vào"},
-    {"term": "focus on", "meaning": "tập trung vào"}
+    {
+     "term": "skip breakfast",
+     "meaning": "bỏ bữa sáng"
+    },
+    {
+     "term": "focus on",
+     "meaning": "tập trung vào"
+    },
+    {
+     "term": "on my way to work",
+     "meaning": "trên đường đi làm"
+    },
+    {
+     "term": "stay connected",
+     "meaning": "giữ liên lạc"
+    },
+    {
+     "term": "rely on",
+     "meaning": "phụ thuộc vào"
+    }
    ]
   },
   "2": {
    "choice": 2,
+   "answer": "In this situation, among the three options, I think visiting a museum and relaxing in a park is the best choice. I choose it for two main reasons.\n\nThe first reason is that this plan is easy and cheap. By that, I mean there are many museums and parks in Ho Chi Minh City. We do not need to travel far or spend much money. For example, we can visit the War Remnants Museum in the morning and have a picnic in Tao Dan Park in the afternoon.\n\nAnother reason is that this activity is both interesting and relaxing. In other words, we can learn something new and still have time to rest and chat. For instance, after walking around the museum, we can sit under the trees, eat some snacks and talk about what we saw. Everyone in the group can enjoy it, even people who are not very fit.\n\nThere are also some reasons why I do not choose the other two options. Regarding going on a hiking adventure in the mountains, I do not think it is the best choice because it is tiring and the mountains are far from the city. As for spending the day relaxing at a spa, I do not think it is the best option either because it is quite expensive.\n\nTo sum up, out of these three options, I believe visiting a museum and relaxing in a park is the best choice because it is cheap, interesting and relaxing.",
    "outline": [
-    {"section": "Nêu lựa chọn", "content": "Chọn đi bảo tàng và thư giãn ở công viên", "reusable": "I think we should visit a museum and relax in a park."},
-    {"section": "Lý do chọn", "content": "(1) dễ, rẻ, không phải đi xa: sáng Bảo tàng Chứng tích Chiến tranh, chiều picnic ở công viên Tao Đàn (2) vừa học vừa thư giãn (3) hợp với mọi người", "reusable": "First, this plan is easy and cheap."},
-    {"section": "Vì sao không chọn leo núi", "content": "Thú vị nhưng xa, mất nhiều thời gian; mệt và nguy hiểm khi thời tiết xấu", "reusable": "I don't choose a hiking adventure in the mountains."},
-    {"section": "Vì sao không chọn spa", "content": "Thư giãn nhưng đắt; chỉ nằm im, ít nói chuyện với nhau", "reusable": "I also don't choose a day at a spa. It is relaxing, but it is quite expensive."},
-    {"section": "Kết luận", "content": "Nhắc lại lựa chọn: rẻ, vui, hợp với mọi người", "reusable": "In conclusion, … is the best choice because it is cheap, fun and good for everyone."}
+    {
+     "section": "Chọn",
+     "content": "Câu khung + đi bảo tàng và nghỉ ở công viên",
+     "reusable": "In this situation, among the three options, I think visiting a museum and relaxing in a park is the best choice. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Dễ, rẻ → By that, I mean … gần, ít tốn tiền → For example: Bảo tàng Chứng tích Chiến tranh + picnic công viên Tao Đàn",
+     "reusable": "The first reason is that this plan is easy and cheap. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "Vừa thú vị vừa thư giãn → In other words … → For instance: ngồi dưới cây ăn vặt, trò chuyện",
+     "reusable": "Another reason is that this activity is both interesting and relaxing. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "Leo núi: mệt, xa; spa: khá đắt",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding going on a hiking adventure in the mountains, I do not think it is the best choice because … As for spending the day relaxing at a spa, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe visiting a museum and relaxing in a park is the best choice because it is cheap, interesting and relaxing."
+    }
    ],
-   "answer": "I think we should visit a museum and relax in a park. Let me explain why.\n\nFirst, this plan is easy and cheap. There are many museums and parks in Ho Chi Minh City, so we do not need to travel far. For example, we can visit the War Remnants Museum in the morning and then have a picnic in Tao Dan Park in the afternoon. The tickets cost very little. Second, this activity is both interesting and relaxing. In the museum, we can learn about the history of our country. After that, we can sit under the trees, chat and play games in the park. In addition, it is suitable for everyone in the group, even friends who are not very fit.\n\nI don't choose a hiking adventure in the mountains. It is exciting, but the mountains are far from the city, so we need to spend a lot of time travelling. Hiking is also very tiring, and it can be dangerous if the weather is bad. I also don't choose a day at a spa. It is relaxing, but it is quite expensive. Moreover, we will just lie quietly, so we will not have much time to talk with each other.\n\nIn conclusion, visiting a museum and relaxing in a park is the best choice because it is cheap, fun and good for everyone.",
    "vocab": [
-    {"term": "have a picnic", "meaning": "đi dã ngoại, ăn ngoài trời"},
-    {"term": "fit", "meaning": "khỏe mạnh, cân đối"},
-    {"term": "hiking adventure", "meaning": "chuyến phiêu lưu đi bộ đường dài"},
-    {"term": "tiring", "meaning": "mệt mỏi, gây mệt"},
-    {"term": "suitable for", "meaning": "phù hợp với"}
+    {
+     "term": "have a picnic",
+     "meaning": "đi dã ngoại, ăn ngoài trời"
+    },
+    {
+     "term": "not very fit",
+     "meaning": "không khoẻ lắm"
+    },
+    {
+     "term": "hiking adventure",
+     "meaning": "chuyến leo núi mạo hiểm"
+    },
+    {
+     "term": "tiring",
+     "meaning": "mệt mỏi"
+    },
+    {
+     "term": "spa",
+     "meaning": "khu chăm sóc sức khoẻ, thư giãn"
+    }
    ]
   },
   "3": {
-   "own_idea": "Helping young people with their careers",
-   "outline": [
-    {"section": "Mở đầu", "content": "Giới thiệu chủ đề + có 4 ý chính", "reusable": "Today I would like to talk about the positive effects of volunteering on young people's personal development."},
-    {"section": "Ý 1: Types of volunteer activities", "content": "Dạy trẻ nghèo, dọn bãi biển, trồng cây, giúp ở bệnh viện; ví dụ bản thân tình nguyện ở bệnh viện", "reusable": "First, there are many types of volunteer activities for young people."},
-    {"section": "Ý 2: Personal skills and growth", "content": "Làm việc nhóm, giao tiếp, giải quyết vấn đề; tự tin, có trách nhiệm, hiểu bản thân hơn", "reusable": "Second, young people gain many personal skills and grow as people."},
-    {"section": "Ý 3: Benefits for community and society", "content": "Giúp người khó khăn, bảo vệ môi trường → xã hội tử tế hơn", "reusable": "Third, volunteering brings benefits for the community and society."},
-    {"section": "Ý riêng: Helping with careers", "content": "Nhà tuyển dụng thích CV có kinh nghiệm tình nguyện; gặp người mới, tìm cơ hội việc làm", "reusable": "Finally, I think volunteering can help young people with their careers."},
-    {"section": "Kết luận", "content": "Tóm tắt + mọi bạn trẻ nên thử ít nhất một lần", "reusable": "Therefore, I think every young person should try volunteering at least once."}
-   ],
-   "answer": "Today I would like to talk about the positive effects of volunteering on young people's personal development. In my opinion, there are four main points.\n\nFirst, there are many types of volunteer activities for young people. They can teach poor children, clean beaches, plant trees or help at hospitals. For example, when I was a student, I volunteered at a hospital in Ho Chi Minh City. I helped old patients fill in forms and find the right rooms.\n\nSecond, young people gain many personal skills and grow as people. They learn teamwork, communication and problem-solving. They also become more confident and responsible. Many volunteers say that they understand themselves better after a volunteer trip.\n\nThird, volunteering brings benefits for the community and society. Volunteers help people in need, such as poor families, old people and sick children. They also help to protect the environment. As a result, society becomes kinder and better.\n\nFinally, I think volunteering can help young people with their careers. Employers like candidates who have volunteer experience on their CV. In addition, volunteers can meet new people and find job opportunities.\n\nIn conclusion, volunteering gives young people useful skills and better career chances. It also helps the community and society. Therefore, I think every young person should try volunteering at least once.",
+   "answer": "Today I would like to talk about the positive effects of volunteering on young people's personal development. In my opinion, volunteering is one of the best ways for young people to grow up.\n\nFirstly, there are many types of volunteer activities for young people. They can teach poor children, clean beaches, or help at hospitals and old people's homes. For example, during the Green Summer campaign, many students go to rural areas to build roads and teach children.\n\nSecondly, volunteers gain many personal skills and grow as people. They learn to communicate, work in a team and solve problems in difficult situations. For instance, when I helped at a free health check-up event, I learnt to stay calm and talk kindly to elderly patients.\n\nThirdly, volunteering brings benefits for the community and society. Volunteers help people in need, and they also make society kinder. A good example is a group of students who collect old books and send them to schools in the mountains.\n\nAnother important point is that volunteering can help young people with their future careers. Employers like candidates who have volunteer experience. For example, a student who volunteers at a hospital may find it easier to get a job in healthcare later.\n\nTo sum up, volunteering offers many activities, builds personal skills, helps society and supports young people's careers.",
+   "own_idea": "Helping young people with their future careers",
    "follow_ups": [
-    "Young people should volunteer because it helps them grow. They can learn new skills and understand the difficulties of other people. It is also a good way to use their free time.",
-    "Volunteers may have problems with time and money. Some activities are in remote areas, so the trips can be tiring. In addition, volunteers sometimes feel sad when they see people in difficult situations.",
-    "I think schools should encourage volunteer work, but not require it. If students are forced to volunteer, they may not enjoy it. However, schools can offer many activities and give small rewards."
+    "I think young people should get involved because volunteering helps them grow. Firstly, they learn new skills and understand the difficulties of other people. For example, a student who teaches poor children can become more patient and grateful. It is also a good way to use free time.",
+    "Volunteers may have problems with time and money. The main reason is that many activities take place in remote areas, so the trips can be long and tiring. For example, a volunteer may have to travel for ten hours by bus to reach a mountain village. Some volunteers also feel sad when they see poverty.",
+    "No, I think schools should encourage volunteer work, but not require it. The main reason is that students may not enjoy it if they are forced to do it. For example, some students only volunteer to get a certificate. Instead, schools can offer many activities and give small rewards."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the positive effects of volunteering on young people's personal development."
+    },
+    {
+     "section": "Ý 1: các loại hoạt động tình nguyện",
+     "content": "Ý → dạy trẻ, dọn bãi biển, giúp ở bệnh viện → ví dụ chiến dịch Mùa hè xanh",
+     "reusable": "Firstly, there are many types of volunteer activities for young people."
+    },
+    {
+     "section": "Ý 2: kỹ năng, trưởng thành",
+     "content": "Ý → giao tiếp, làm nhóm, giải quyết vấn đề → ví dụ khám sức khoẻ miễn phí, nói chuyện với người già",
+     "reusable": "Secondly, volunteers gain many personal skills and grow as people."
+    },
+    {
+     "section": "Ý 3: lợi ích cho cộng đồng",
+     "content": "Ý → giúp người khó khăn, xã hội tử tế hơn → ví dụ quyên góp sách cho trường vùng núi",
+     "reusable": "Thirdly, volunteering brings benefits for the community and society."
+    },
+    {
+     "section": "Ý riêng: hỗ trợ nghề nghiệp",
+     "content": "Ý → nhà tuyển dụng thích → ví dụ tình nguyện ở bệnh viện dễ xin việc ngành y",
+     "reusable": "Another important point is that volunteering can help young people with their future careers."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt 4 ý",
+     "reusable": "To sum up, volunteering offers many activities, builds personal skills, helps society and supports young people's careers."
+    }
    ],
    "vocab": [
-    {"term": "volunteer / volunteering", "meaning": "tình nguyện viên / hoạt động tình nguyện"},
-    {"term": "personal development", "meaning": "sự phát triển bản thân"},
-    {"term": "people in need", "meaning": "người gặp khó khăn"},
-    {"term": "job opportunities", "meaning": "cơ hội việc làm"},
-    {"term": "remote areas", "meaning": "vùng sâu vùng xa"}
+    {
+     "term": "volunteer activities",
+     "meaning": "hoạt động tình nguyện"
+    },
+    {
+     "term": "rural areas",
+     "meaning": "vùng nông thôn"
+    },
+    {
+     "term": "people in need",
+     "meaning": "người gặp khó khăn"
+    },
+    {
+     "term": "remote areas",
+     "meaning": "vùng xa xôi"
+    },
+    {
+     "term": "get involved in",
+     "meaning": "tham gia vào"
+    }
    ]
   }
  }

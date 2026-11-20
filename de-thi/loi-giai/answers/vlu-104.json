@@ -2,104 +2,282 @@
  "id": "vlu-104",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
-    {"section": "Lời chào", "content": "Chào thân mật theo tên", "reusable": "Hi Mark,"},
-    {"section": "Mở đầu", "content": "Cảm ơn thư, vui vì bạn sắp đến quê mình Buôn Ma Thuột", "reusable": "I am really happy that you are coming to my hometown, Buon Ma Thuot, next month!"},
-    {"section": "Ý 1: nơi mua sắm", "content": "Trung tâm thương mại ở trung tâm (quần áo, siêu thị, rạp phim); chợ trung tâm: trái cây, quà lưu niệm, cà phê Đắk Lắk", "reusable": "There are many places to go shopping here."},
-    {"section": "Ý 2: dân số và thị trấn như thế nào", "content": "Thủ phủ Đắk Lắk ở Tây Nguyên, khoảng 400.000 dân, không đông như TP.HCM; xanh, yên bình, mát quanh năm; đồi, thác, rẫy cà phê", "reusable": "About 400,000 people live here, so it is not as crowded as Ho Chi Minh City."},
-    {"section": "Ý 3: trải nghiệm cá nhân", "content": "Sống ở đây đến 18 tuổi; người thân thiện, nhịp sống chậm; thích uống cà phê buổi sáng; điểm trừ: ít hoạt động về đêm", "reusable": "I lived here until I was eighteen, and living here was a great experience."},
-    {"section": "Kết thư + ký tên", "content": "Mong dẫn bạn đi tham quan, chào cuối thư", "reusable": "I can't wait to show you around! Best wishes,"}
+    {
+     "section": "Lời chào",
+     "content": "Chào thân mật theo tên",
+     "reusable": "Hi Mark,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Cảm ơn thư + vui vì bạn sắp đến quê mình",
+     "reusable": "I am really happy that you are coming to my hometown, Buon Ma Thuot, next month."
+    },
+    {
+     "section": "Ý 1: nơi mua sắm",
+     "content": "Nhiều chỗ → trung tâm thương mại có quần áo, siêu thị, rạp phim → chợ trung tâm: trái cây, quà lưu niệm, cà phê Đắk Lắk",
+     "reusable": "Regarding shopping, there are many good places here."
+    },
+    {
+     "section": "Ý 2: dân số, thành phố ra sao",
+     "content": "Thủ phủ Đắk Lắk ở Tây Nguyên → khoảng 400.000 dân, ít đông hơn TP.HCM → xanh, yên bình, có đồi cà phê, thác nước",
+     "reusable": "As for the town itself, Buon Ma Thuot is the capital of Dak Lak province in the Central Highlands."
+    },
+    {
+     "section": "Ý 3: trải nghiệm bản thân",
+     "content": "Sống đến 18 tuổi, rất thích → người thân thiện, nhịp sống chậm → buổi tối hơi yên tĩnh",
+     "reusable": "About my own experience, I lived here until I was eighteen, and I really loved it."
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Mong được dẫn bạn đi chơi, chào cuối thư",
+     "reusable": "That's all for now. I can't wait to show you around! Best wishes,"
+    }
    ],
-   "answer": "Hi Mark,\n\nThanks for your email. I am really happy that you are coming to my hometown, Buon Ma Thuot, next month!\n\nThere are many places to go shopping here. In the city centre, there is a big shopping mall with clothes shops, a supermarket and a cinema. If you want something more local, you should visit the central market. You can buy fresh fruit, souvenirs and, of course, the famous Dak Lak coffee at good prices.\n\nBuon Ma Thuot is the capital of Dak Lak province in the Central Highlands. About 400,000 people live here, so it is not as crowded as Ho Chi Minh City. The town is green and peaceful, and the weather is cool all year round. It is surrounded by coffee farms, waterfalls and hills.\n\nI lived here until I was eighteen, and living here was a great experience. People are friendly, and life is slow and relaxing. My favourite thing is drinking coffee with my friends in the morning. However, there is not much nightlife, so the evenings can be a bit quiet.\n\nI can't wait to show you around!\n\nBest wishes,\nMinh",
+   "answer": "Hi Mark,\n\nThank you for your email. I am really happy that you are coming to my hometown, Buon Ma Thuot, next month.\n\nRegarding shopping, there are many good places here. In the city centre, there is a big shopping mall with clothes shops, a supermarket and a cinema. If you want something more local, you should visit the central market, where you can buy fresh fruit, souvenirs and the famous Dak Lak coffee.\n\nAs for the town itself, Buon Ma Thuot is the capital of Dak Lak province in the Central Highlands. About 400,000 people live here, so it is much less crowded than Ho Chi Minh City. The town is green and peaceful, and it is surrounded by coffee farms and waterfalls.\n\nAbout my own experience, I lived here until I was eighteen, and I really loved it. People are friendly, and life is slow and relaxing. However, there is not much nightlife, so the evenings can be a bit quiet.\n\nThat's all for now. I can't wait to show you around!\n\nBest wishes,\nMinh",
    "vocab": [
-    {"term": "shopping mall", "meaning": "trung tâm thương mại"},
-    {"term": "souvenir", "meaning": "quà lưu niệm"},
-    {"term": "all year round", "meaning": "quanh năm"},
-    {"term": "nightlife", "meaning": "hoạt động giải trí về đêm"},
-    {"term": "show someone around", "meaning": "dẫn ai đi tham quan"}
+    {
+     "term": "shopping mall",
+     "meaning": "trung tâm thương mại"
+    },
+    {
+     "term": "souvenirs",
+     "meaning": "quà lưu niệm"
+    },
+    {
+     "term": "the Central Highlands",
+     "meaning": "Tây Nguyên"
+    },
+    {
+     "term": "be surrounded by",
+     "meaning": "được bao quanh bởi"
+    },
+    {
+     "term": "show someone around",
+     "meaning": "dẫn ai đi tham quan"
+    }
    ]
   },
   "2": {
    "essay_type": "Advantages & disadvantages (thảo luận ưu điểm và nhược điểm)",
+   "type_key": "adv_disadv",
    "outline": [
-    {"section": "Mở bài", "content": "Viết lại đề: xe máy phổ biến ở thành phố đông đúc, tiện nhưng lo ngại an toàn, môi trường → bàn cả hai mặt", "reusable": "This essay will discuss both the advantages and disadvantages of riding motorbikes."},
-    {"section": "Thân bài 1: ưu điểm", "content": "(1) rẻ, tốn ít xăng (2) tiện, linh hoạt, đi hẻm nhỏ, ví dụ 20 phút đến cơ quan (3) đỡ tốn thời gian khi kẹt xe", "reusable": "On the one hand, motorbikes bring several benefits. Firstly, they are cheap to buy and to use."},
-    {"section": "Thân bài 2: nhược điểm", "content": "(1) không an toàn, tai nạn nghiêm trọng (2) khói, tiếng ồn → ô nhiễm, hen suyễn (3) chịu nắng, mưa, bụi", "reusable": "On the other hand, riding motorbikes also has some disadvantages."},
-    {"section": "Kết bài", "content": "Tóm tắt hai mặt + ý kiến: đi cẩn thận, đội mũ bảo hiểm; khuyến khích xe điện, giao thông công cộng", "reusable": "In my opinion, people should ride carefully and always wear a good helmet."}
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (xe máy phổ biến ở thành phố đông đúc, tiện nhưng lo an toàn và ô nhiễm) + câu dẫn",
+     "reusable": "This essay will discuss both its advantages and disadvantages."
+    },
+    {
+     "section": "Thân bài 1 · PEER: ưu điểm (phía yếu hơn)",
+     "content": "P: tiện, linh hoạt → E: rẻ, ít xăng, đi được đường hẹp → Ex: nhân viên đi hẻm tránh kẹt xe → R: tiết kiệm thời gian và tiền",
+     "reusable": "On the one hand, riding motorbikes has one main advantage. The biggest benefit is that …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 1: không an toàn",
+     "content": "P: kém an toàn hơn ô tô → E: không có gì che chắn → Ex: nhiều bệnh nhân chấn thương đầu do tai nạn xe máy",
+     "reusable": "On the other hand, riding motorbikes brings two serious problems. Firstly, motorbikes are less safe than cars."
+    },
+    {
+     "section": "Thân bài 2 · PEER 2: ô nhiễm",
+     "content": "P: ô nhiễm không khí, tiếng ồn → E: hàng triệu xe → Ex: Hà Nội giờ cao điểm mùa đông → R: bệnh hô hấp",
+     "reusable": "Secondly, motorbikes cause air pollution and noise."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Tóm tắt hai phía + đội mũ bảo hiểm, cải thiện giao thông công cộng",
+     "reusable": "In conclusion, riding motorbikes has both advantages and disadvantages."
+    }
    ],
-   "answer": "Motorbikes are one of the most popular means of transport in many countries, especially in crowded cities like Ho Chi Minh City. They are convenient for daily travel, but they also cause some worries about safety and the environment. This essay will discuss both the advantages and disadvantages of riding motorbikes.\n\nOn the one hand, motorbikes bring several benefits. Firstly, they are cheap to buy and to use. A new motorbike costs much less than a car, and it uses very little fuel. As a result, most families can afford one. Secondly, motorbikes are very convenient and flexible. Riders can go through small streets and park almost anywhere. For example, I can ride my motorbike from home to my office in only twenty minutes, even during rush hour. In addition, motorbikes save time in traffic jams. They can move between cars, so riders often arrive earlier than car drivers.\n\nOn the other hand, riding motorbikes also has some disadvantages. Firstly, it is not very safe. Motorbike riders are not protected like car drivers, so accidents can cause serious injuries. Secondly, millions of motorbikes produce a lot of smoke and noise. This makes the air in big cities dirty and causes health problems, such as asthma. Moreover, riding a motorbike can be uncomfortable. Riders have to deal with hot sun, heavy rain and dust every day.\n\nIn conclusion, motorbikes are cheap, convenient and fast, but they can be dangerous and harmful to the environment. In my opinion, people should ride carefully and always wear a good helmet. The government should also encourage electric motorbikes and better public transport.",
+   "answer": "Nowadays, motorbikes are a common way to travel in many countries, especially in busy cities such as Ho Chi Minh City. Riding a motorbike is quick and easy, but many people worry about road safety and air pollution. This essay will discuss both its advantages and disadvantages.\n\nOn the one hand, riding motorbikes has one main advantage. The biggest benefit is that motorbikes are convenient and flexible for daily travel. This is because they are cheap to buy, use little fuel and can move easily through narrow streets. Parking is also easy, even in crowded city centres. For example, an office worker can ride through small alleys to avoid traffic jams and still reach work on time. As a result, motorbikes save people both time and money every day.\n\nOn the other hand, riding motorbikes brings two serious problems. Firstly, motorbikes are less safe than cars. Riders have no protection around them, so even a small accident at low speed can cause serious injuries. For instance, many patients in city hospitals are motorbike riders with head injuries after road accidents. As a result, riders and their families may suffer for a long time. Secondly, motorbikes cause air pollution and noise. This means that busy cities with millions of motorbikes often have dirty air and loud streets. A good example is Hanoi, where the air is often unhealthy during rush hour in winter. Therefore, more people may suffer from breathing problems.\n\nIn conclusion, riding motorbikes has both advantages and disadvantages. Motorbikes are cheap and convenient, but they are dangerous and cause pollution. Therefore, riders should always wear good helmets, and cities should improve public transport to reduce pollution.",
    "vocab": [
-    {"term": "means of transport", "meaning": "phương tiện giao thông"},
-    {"term": "afford", "meaning": "có đủ tiền mua"},
-    {"term": "serious injuries", "meaning": "chấn thương nghiêm trọng"},
-    {"term": "harmful to the environment", "meaning": "có hại cho môi trường"},
-    {"term": "wear a helmet", "meaning": "đội mũ bảo hiểm"}
+    {
+     "term": "convenient and flexible",
+     "meaning": "tiện lợi và linh hoạt"
+    },
+    {
+     "term": "narrow streets / small alleys",
+     "meaning": "đường hẹp / hẻm nhỏ"
+    },
+    {
+     "term": "head injuries",
+     "meaning": "chấn thương đầu"
+    },
+    {
+     "term": "air pollution",
+     "meaning": "ô nhiễm không khí"
+    },
+    {
+     "term": "breathing problems",
+     "meaning": "bệnh về hô hấp"
+    }
    ]
   }
  },
  "speaking": {
   "1": {
    "answers": [
-    "I usually take a short walk or make a cup of coffee. Sometimes I chat with my colleagues for a few minutes. It helps me feel fresh again.",
-    "Breaks help students rest their brains and focus better. If they study for many hours without a break, they will feel tired and remember less.",
-    "I prefer short frequent breaks. For example, I take a five-minute break after every hour of work. Long breaks make me lose my focus.",
-    "Yes, I do. I write down all my spending in an app on my phone. I also try not to buy things I don't really need.",
-    "I usually save money for travelling and for my future. Right now, I am saving for a trip to Japan with my family next year.",
-    "Yes, I think it is very important. If young people learn to save money early, they will not get into debt later. They will also be ready for emergencies."
+    "I usually take a short walk or make a cup of coffee. This is because moving around helps me feel fresh again. Sometimes I also chat with my colleagues for a few minutes in the break room.",
+    "I think taking breaks helps students rest their brains and focus better. If they study for many hours without a break, they will feel tired and remember less. For example, a ten-minute break after each hour can make studying much more effective.",
+    "I prefer short frequent breaks. The main reason is that long breaks make me lose my focus. For example, I take a five-minute break after every hour of work, and then I feel ready to continue.",
+    "Yes, I do. I write down all my spending in an app on my phone because it helps me see where my money goes. I also try not to buy things that I do not really need.",
+    "I usually save money for travelling and for my future. This is because I want to see new places and be ready for emergencies. Right now, I am saving for a trip to Japan with my family next year.",
+    "Yes, I think it is very important for young people. The main reason is that they will not get into debt later. For example, a student who saves a little every month can pay for an English course by himself."
    ],
    "outline": [
-    {"section": "Câu trả lời trực tiếp", "content": "Trả lời ngay thói quen / lựa chọn", "reusable": "I prefer short frequent breaks."},
-    {"section": "Ví dụ cụ thể", "content": "For example + con số cụ thể", "reusable": "For example, I take a five-minute break after every hour of work."},
-    {"section": "Điều kiện / kết quả", "content": "Câu điều kiện loại 1 để giải thích", "reusable": "If young people learn to save money early, they will not get into debt later."}
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
+     "reusable": "I prefer short frequent breaks."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do (This is because / The main reason is that)",
+     "reusable": "The main reason is that long breaks make me lose my focus."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn: thời gian, địa điểm",
+     "reusable": "Right now, I am saving for a trip to Japan with my family next year."
+    }
    ],
    "vocab": [
-    {"term": "take a break", "meaning": "nghỉ giải lao"},
-    {"term": "feel fresh", "meaning": "cảm thấy sảng khoái"},
-    {"term": "lose focus", "meaning": "mất tập trung"},
-    {"term": "spending", "meaning": "khoản chi tiêu"},
-    {"term": "get into debt", "meaning": "mắc nợ"}
+    {
+     "term": "take a break",
+     "meaning": "nghỉ giải lao"
+    },
+    {
+     "term": "break room",
+     "meaning": "phòng nghỉ"
+    },
+    {
+     "term": "lose my focus",
+     "meaning": "mất tập trung"
+    },
+    {
+     "term": "get into debt",
+     "meaning": "mắc nợ"
+    },
+    {
+     "term": "emergencies",
+     "meaning": "trường hợp khẩn cấp"
+    }
    ]
   },
   "2": {
    "choice": 2,
+   "answer": "In this situation, among the three options, I think a public school is the best choice for the child. I choose it for two main reasons.\n\nThe first reason is that public schools are much cheaper. By that, I mean the family can save a lot of money on school fees. For example, if they enrol their child in a public school, they can spend the money on English classes, books or swimming lessons.\n\nAnother reason is that there is usually a public school near home. In other words, the child does not need to travel far every day. For instance, a sixth-grade student can ride a bike to school in ten minutes, so he can sleep more and have more time for homework. He can also go to school with his friends from the neighbourhood.\n\nThere are also some reasons why I do not choose the other two options. Regarding an international school, I do not think it is the best choice because the fees are very high. The child may also spend less time learning about Vietnamese culture. As for a private school, I do not think it is the best option either because it is also expensive. It is not always better than a good public school.\n\nTo sum up, out of these three options, I believe a public school is the best choice because it is cheap, convenient and good for the child's development.",
    "outline": [
-    {"section": "Nêu lựa chọn", "content": "Chọn trường công lập", "reusable": "I think the family should enroll their child in a public school."},
-    {"section": "Lý do chọn", "content": "(1) rẻ, dành tiền cho học thêm (2) gần nhà, đi xe đạp (3) giáo viên giỏi, bạn bè đa dạng; ví dụ em họ học trường công ở Quận 3", "reusable": "First, public schools are much cheaper."},
-    {"section": "Vì sao không chọn trường quốc tế", "content": "Cơ sở hiện đại nhưng học phí rất cao; trẻ có thể ít hiểu văn hóa, tiếng Việt", "reusable": "I don't choose an international school. It has modern facilities and a lot of English, but the school fees are extremely high."},
-    {"section": "Vì sao không chọn trường tư", "content": "Lớp ít học sinh nhưng vẫn đắt; chất lượng không đồng đều", "reusable": "I also don't choose a private school. Private schools have smaller classes, but they are still quite expensive."},
-    {"section": "Kết luận", "content": "Nhắc lại lựa chọn: rẻ, tiện, giáo dục tốt", "reusable": "In conclusion, a public school is the best choice because it is cheap and convenient."}
+    {
+     "section": "Chọn",
+     "content": "Câu khung + trường công lập",
+     "reusable": "In this situation, among the three options, I think a public school is the best choice for the child. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Rẻ hơn nhiều → By that, I mean … tiết kiệm học phí → For example: dùng tiền học tiếng Anh, bơi",
+     "reusable": "The first reason is that public schools are much cheaper. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "Gần nhà → In other words … → For instance: đạp xe 10 phút, ngủ thêm, đi học cùng bạn hàng xóm",
+     "reusable": "Another reason is that there is usually a public school near home. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "Quốc tế: học phí rất cao, ít học văn hoá Việt; tư thục: cũng đắt, không chắc tốt hơn",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding an international school, I do not think it is the best choice because … As for a private school, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe a public school is the best choice because it is cheap, convenient and good for the child's development."
+    }
    ],
-   "answer": "I think the family should enroll their child in a public school. Let me explain why.\n\nFirst, public schools are much cheaper. The family can save a lot of money and use it for other things, such as English classes, books or sports. Second, there is usually a public school near home. The child can go to school by bike, so the family saves time every day. In addition, many public schools in big cities have very good teachers. Students also make friends with children from many different backgrounds, so they learn how to get along with different people. For example, my cousin studies at a public secondary school in District 3, and she is one of the best students in the city.\n\nI don't choose an international school. It has modern facilities and a lot of English, but the school fees are extremely high. Moreover, the child may not learn enough about Vietnamese culture and language. I also don't choose a private school. Private schools have smaller classes, but they are still quite expensive. The quality of private schools is also different from school to school, so it is hard to choose a good one.\n\nIn conclusion, a public school is the best choice because it is cheap and convenient, and it gives the child a good education.",
    "vocab": [
-    {"term": "enroll someone in", "meaning": "cho ai nhập học vào"},
-    {"term": "get along with", "meaning": "hòa hợp với"},
-    {"term": "school fees", "meaning": "học phí"},
-    {"term": "modern facilities", "meaning": "cơ sở vật chất hiện đại"},
-    {"term": "background", "meaning": "hoàn cảnh, xuất thân"}
+    {
+     "term": "enrol a child in a school",
+     "meaning": "cho con nhập học ở một trường"
+    },
+    {
+     "term": "school fees",
+     "meaning": "học phí"
+    },
+    {
+     "term": "public school / private school",
+     "meaning": "trường công lập / trường tư thục"
+    },
+    {
+     "term": "neighbourhood",
+     "meaning": "khu phố"
+    },
+    {
+     "term": "development",
+     "meaning": "sự phát triển"
+    }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the benefits of investing in art. In my opinion, art is not only beautiful but also a good investment for people and society.\n\nFirstly, art has economic value and can bring long-term financial returns. The price of a good painting often goes up over time, especially when the artist becomes famous. For example, some paintings by famous Vietnamese artists now sell for much more money than they did many years ago.\n\nSecondly, investing in art helps to preserve culture and history. Paintings, statues and traditional crafts show how people lived and thought in the past. For instance, Dong Ho folk paintings help young Vietnamese people learn about old village life.\n\nThirdly, buying art supports artists and creative industries. When people buy their work, artists can earn a living and continue to create. A good example is Hoi An, where many young local painters sell their work to tourists in small galleries.\n\nAnother important point is that art can improve our mental health. Looking at beautiful paintings makes people feel calm and happy. For example, many hospitals hang paintings on the walls to help patients relax.\n\nTo sum up, investing in art brings money, protects culture, supports artists and makes people happier.",
    "own_idea": "Improving mental health",
-   "outline": [
-    {"section": "Mở đầu", "content": "Giới thiệu chủ đề + có 4 lợi ích chính", "reusable": "Today I would like to talk about the benefits of investing in art."},
-    {"section": "Ý 1: Economic value and financial returns", "content": "Giá tranh tăng theo thời gian; tranh họa sĩ Việt bán giá triệu đô ở đấu giá quốc tế", "reusable": "First, art has economic value and can bring long-term financial returns."},
-    {"section": "Ý 2: Preserving culture and history", "content": "Tranh, tượng, đồ thủ công cho thấy cuộc sống xưa → giữ lại cho thế hệ sau", "reusable": "Second, investing in art helps to preserve culture and history."},
-    {"section": "Ý 3: Supporting artists and creative industries", "content": "Nghệ sĩ trẻ khó kiếm sống; mua tác phẩm giúp họ sáng tác; tạo việc làm ở phòng tranh, thiết kế, du lịch", "reusable": "Third, investing in art supports artists and creative industries."},
-    {"section": "Ý riêng: Improving mental health", "content": "Ngắm tranh → bình tĩnh, vui; bệnh viện dùng nghệ thuật giúp bệnh nhân giảm stress", "reusable": "Finally, I think art can improve people's mental health."},
-    {"section": "Kết luận", "content": "Tóm tắt 4 lợi ích + cá nhân và chính phủ nên đầu tư", "reusable": "Therefore, both individuals and governments should invest more in art."}
-   ],
-   "answer": "Today I would like to talk about the benefits of investing in art. In my opinion, there are four main benefits.\n\nFirst, art has economic value and can bring long-term financial returns. The price of a good painting often increases over time. For example, some paintings by famous Vietnamese artists now sell for millions of dollars at international auctions. So buying art can be a good way to save money for the future.\n\nSecond, investing in art helps to preserve culture and history. Paintings, statues and traditional crafts show how people lived in the past. When people buy and look after these works, they keep them for future generations.\n\nThird, investing in art supports artists and creative industries. Many young artists find it difficult to earn a living. When people buy their works, artists can continue to create. In addition, the art industry creates jobs in galleries, design and tourism.\n\nFinally, I think art can improve people's mental health. Looking at beautiful paintings makes people feel calm and happy. With my medical background, I know that some hospitals now use art to help patients reduce stress.\n\nIn conclusion, investing in art brings money, protects culture, supports artists and improves our mental health. Therefore, both individuals and governments should invest more in art.",
    "follow_ups": [
-    "I think most people prefer going to museums. Buying real art is very expensive, while museum tickets are cheap. However, rich people often like to buy art for their homes.",
-    "Yes, I think they will change a lot. In the next 30 years, many museums will use virtual reality and AI. People may visit museums online from their homes.",
-    "Yes, I think governments should spend more money on the arts. Art helps to protect our culture and attracts tourists. However, they should not cut money from health care or education."
+    "I think most people prefer going to museums. The main reason is that buying real art is very expensive, while museum tickets are cheap. For example, students can visit the Fine Arts Museum in Ho Chi Minh City for a small fee. However, rich people often like to buy art for their homes.",
+    "Yes, I think they will change a lot in the next 30 years. The main reason is that technology is developing very fast. For example, many museums will use virtual reality, so people can visit them online from home. Artists may also use AI to create new kinds of art.",
+    "Yes, I think governments should spend more money supporting the arts. The main reason is that art protects our culture and attracts tourists. For example, a government can repair old theatres and give small grants to young artists. However, they should not cut money from health care or education."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the benefits of investing in art."
+    },
+    {
+     "section": "Ý 1: giá trị kinh tế, lợi nhuận dài hạn",
+     "content": "Ý → giá tranh tăng theo thời gian → ví dụ tranh hoạ sĩ Việt nổi tiếng",
+     "reusable": "Firstly, art has economic value and can bring long-term financial returns."
+    },
+    {
+     "section": "Ý 2: giữ gìn văn hoá, lịch sử",
+     "content": "Ý → cho thấy cuộc sống xưa → ví dụ tranh Đông Hồ",
+     "reusable": "Secondly, investing in art helps to preserve culture and history."
+    },
+    {
+     "section": "Ý 3: hỗ trợ nghệ sĩ, ngành sáng tạo",
+     "content": "Ý → nghệ sĩ có thu nhập → ví dụ phòng tranh nhỏ ở Hội An",
+     "reusable": "Thirdly, buying art supports artists and creative industries."
+    },
+    {
+     "section": "Ý riêng: sức khoẻ tinh thần",
+     "content": "Ý → tranh đẹp làm bình tĩnh, vui → ví dụ bệnh viện treo tranh",
+     "reusable": "Another important point is that art can improve our mental health."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt 4 lợi ích",
+     "reusable": "To sum up, investing in art brings money, protects culture, supports artists and makes people happier."
+    }
    ],
    "vocab": [
-    {"term": "financial returns", "meaning": "lợi nhuận tài chính"},
-    {"term": "auction", "meaning": "cuộc đấu giá"},
-    {"term": "preserve culture", "meaning": "bảo tồn văn hóa"},
-    {"term": "earn a living", "meaning": "kiếm sống"},
-    {"term": "creative industries", "meaning": "các ngành công nghiệp sáng tạo"}
+    {
+     "term": "financial returns",
+     "meaning": "lợi nhuận tài chính"
+    },
+    {
+     "term": "preserve culture",
+     "meaning": "giữ gìn văn hoá"
+    },
+    {
+     "term": "folk paintings",
+     "meaning": "tranh dân gian"
+    },
+    {
+     "term": "earn a living",
+     "meaning": "kiếm sống"
+    },
+    {
+     "term": "creative industries",
+     "meaning": "các ngành công nghiệp sáng tạo"
+    }
    ]
   }
  }

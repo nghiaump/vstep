@@ -2,6 +2,7 @@
  "id": "vlu-94",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -11,98 +12,104 @@
     {
      "section": "Mở đầu",
      "content": "Cảm ơn thư, vui vì bạn sắp chuyển nhà",
-     "reusable": "Thanks for your email. I am so happy to hear that you are moving to a new place next week!"
+     "reusable": "Thank you for your email. I am so happy to hear that you are moving next week."
     },
     {
      "section": "Ý 1: dịch vụ chuyển nhà",
-     "content": "Giới thiệu công ty Fast Move đã dùng: nhân viên cẩn thận, giá rẻ, có thùng và băng keo",
-     "reusable": "I know a good moving service called Fast Move."
+     "content": "Giới thiệu Fast Move → đã dùng năm ngoái → nhân viên cẩn thận, giá hợp lý → mang thùng, băng keo",
+     "reusable": "Regarding moving services, I know a good company called Fast Move."
     },
     {
      "section": "Ý 2: giúp đóng đồ",
-     "content": "Đồng ý; thứ Bảy 9 giờ sáng, mang túi lớn, gói sách vở, quần áo, rồi ăn trưa",
-     "reusable": "Of course, I would be happy to help you pack your things. How about this Saturday at 9 a.m.?"
+     "content": "Đồng ý → hẹn ở căn hộ của bạn, 9 giờ sáng thứ Bảy → mang túi, đóng sách và quần áo trước → báo nếu không hợp",
+     "reusable": "As for packing, of course I would be happy to help you. How about meeting at your flat at 9 a.m. this Saturday? … If this time does not suit you, just let me know."
     },
     {
-     "section": "Ý 3: khu vực quanh trường",
-     "content": "Yên tĩnh, an toàn, nhiều quán ăn, cà phê rẻ; có siêu thị và công viên; buổi sáng kẹt xe",
-     "reusable": "The neighbourhood around the university is great."
+     "section": "Ý 3: khu phố quanh trường",
+     "content": "Yên tĩnh, an toàn → quán ăn, cà phê rẻ → siêu thị, công viên → sáng kẹt xe, nên đi sớm",
+     "reusable": "About the neighbourhood, I think you will love it."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Hỏi lại thứ Bảy có tiện không, hẹn gặp",
-     "reusable": "Let me know if Saturday works for you. See you soon!"
+     "content": "Chúc chuyển nhà suôn sẻ, hẹn thứ Bảy, chào cuối thư",
+     "reusable": "Good luck with the move. See you on Saturday! Best wishes,"
     }
    ],
-   "answer": "Hi Lan,\n\nThanks for your email. I am so happy to hear that you are moving to a new place next week!\n\nFirst, I know a good moving service called Fast Move. I used it when I moved house last year. The staff were careful, and the price was quite low. They also bring boxes and tape for you. You can call them or book a truck on their website.\n\nOf course, I would be happy to help you pack your things. How about this Saturday at 9 a.m.? I will come to your flat and bring some big bags. We can pack your books and clothes first. Then we can have lunch at the noodle shop near your home.\n\nThe neighbourhood around the university is great. It is quiet and safe, and there are many cheap restaurants and coffee shops. There is also a big supermarket and a small park where you can go jogging in the evening. However, the streets are often busy in the morning, so you should leave home early.\n\nLet me know if Saturday works for you. See you soon!\n\nBest wishes,\nMinh",
+   "answer": "Hi Lan,\n\nThank you for your email. I am so happy to hear that you are moving next week.\n\nRegarding moving services, I know a good company called Fast Move. I used it when I moved house last year. The staff were careful, and the price was quite reasonable. They also bring boxes and tape for you.\n\nAs for packing, of course I would be happy to help you. How about meeting at your flat at 9 a.m. this Saturday? I will bring some big bags, and we can pack your books and clothes first. If this time does not suit you, just let me know.\n\nAbout the neighbourhood, I think you will love it. It is quiet and safe, and there are many cheap restaurants and coffee shops. There is also a big supermarket and a small park where you can go jogging. However, the streets are busy in the morning, so you should leave home early.\n\nGood luck with the move. See you on Saturday!\n\nBest wishes,\nMinh",
    "vocab": [
-    {
-     "term": "moving service",
-     "meaning": "dịch vụ chuyển nhà"
-    },
     {
      "term": "move house",
      "meaning": "chuyển nhà"
     },
     {
-     "term": "pack (your things)",
-     "meaning": "đóng gói, xếp đồ đạc"
+     "term": "a moving service",
+     "meaning": "dịch vụ chuyển nhà"
+    },
+    {
+     "term": "reasonable",
+     "meaning": "(giá) hợp lý"
+    },
+    {
+     "term": "pack your things",
+     "meaning": "đóng gói đồ đạc"
     },
     {
      "term": "neighbourhood",
-     "meaning": "khu vực lân cận, khu phố"
-    },
-    {
-     "term": "go jogging",
-     "meaning": "đi chạy bộ"
+     "meaning": "khu phố, khu dân cư"
     }
    ]
   },
   "2": {
    "essay_type": "Discuss both views + opinion (thảo luận hai quan điểm và nêu ý kiến cá nhân)",
+   "type_key": "discussion",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: nhiều người chia sẻ cuộc sống lên mạng; hai quan điểm → ý kiến: có ích nhưng cần cẩn thận",
-     "reusable": "In my opinion, sharing online is useful, but people should do it carefully."
+     "content": "Viết lại đề (đăng cuộc sống hằng ngày lên mạng: gần gũi hay rủi ro) + quan điểm: chia sẻ quá nhiều thì hại nhiều hơn lợi",
+     "reusable": "This essay will discuss both views, but I believe that sharing too much online does more harm than good."
     },
     {
-     "section": "Thân bài 1: quan điểm ủng hộ",
-     "content": "(1) giữ liên lạc với bạn bè, gia đình (2) lưu giữ kỷ niệm như nhật ký online (3) tìm người cùng sở thích",
-     "reusable": "On the one hand, there are good reasons why people share their lives online."
+     "section": "Thân bài 1 · PEER quan điểm A",
+     "content": "P: kết nối, lưu kỷ niệm → E: bạn bè, người thân theo dõi dễ → Ex: mẹ đăng ảnh em bé cho ông bà ở xa → R: gần gũi hơn, có album online",
+     "reusable": "On the one hand, some people believe that sharing personal experiences online helps them connect with others and keep memories. This is because …"
     },
     {
-     "section": "Thân bài 2: quan điểm phản đối",
-     "content": "(1) xâm phạm quyền riêng tư, người lạ biết địa chỉ (2) áp lực phải tỏ ra hoàn hảo, so sánh → buồn",
-     "reusable": "On the other hand, many people argue that sharing their lives online causes serious problems."
+     "section": "Thân bài 2 · PEER 1 (quan điểm của mình)",
+     "content": "P: nguy hiểm cho quyền riêng tư, an toàn → E: người lạ biết nơi ở, làm việc → Ex: đăng ảnh du lịch, kẻ trộm biết nhà trống",
+     "reusable": "On the other hand, I agree with those who think that sharing too much is harmful. Firstly, it can put our privacy and safety at risk."
+    },
+    {
+     "section": "Thân bài 2 · PEER 2 (quan điểm của mình)",
+     "content": "P: áp lực phải hoàn hảo → E: chỉ đăng khoảnh khắc đẹp, người khác tự ti → Ex: thiếu niên chỉnh ảnh nhiều lần → R: lo âu, không hài lòng về ngoại hình",
+     "reusable": "Secondly, social media creates pressure to show a perfect life."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt hai quan điểm + nhắc lại ý kiến: suy nghĩ trước khi đăng, không đăng thông tin riêng tư",
-     "reusable": "I believe people can continue to share, but they should think carefully before they post."
+     "content": "Nhắc lại quan điểm + 2 lý do + suy nghĩ trước khi đăng",
+     "reusable": "In conclusion, although sharing our lives online helps us connect and save memories, I believe that it does more harm than good because …"
     }
    ],
-   "answer": "Nowadays, many people of all ages share details of their daily lives on social media. Some people think this habit helps them connect with others and keep their memories, while others believe it harms their privacy and creates pressure. In my opinion, sharing online is useful, but people should do it carefully.\n\nOn the one hand, there are good reasons why people share their lives online. Firstly, it helps them stay connected with friends and family. For example, my cousin lives in Canada, but I can see photos of her children on Facebook every week. Secondly, sharing posts helps people preserve their memories. Social media works like an online diary, and many apps remind users of what they did years ago. In addition, people can find others with the same interests. When someone posts about a hobby, such as cooking or travelling, they can make new friends.\n\nOn the other hand, many people argue that sharing their lives online causes serious problems. Firstly, it can invade people's privacy. When someone posts their address, their school or their daily plans, strangers can find them easily. As a result, they may become victims of crime. Secondly, social media creates pressure to show a perfect life. Many users only post beautiful photos, and they often edit these photos carefully. Other people compare themselves with these images and feel unhappy about their own lives.\n\nIn conclusion, sharing daily life on social media can help people connect and keep memories, but it can also cause privacy problems and stress. I believe people can continue to share, but they should think carefully before they post. They should also never share private information, such as their home address or bank details.",
+   "answer": "People have different opinions on whether we should post details of our daily lives online. Some see it as a way to stay close to others, while others see many risks. This essay will discuss both views, but I believe that sharing too much online does more harm than good.\n\nOn the one hand, some people believe that sharing personal experiences online helps them connect with others and keep memories. This is because social media lets friends and relatives follow each other's lives easily. For example, a mother can post photos of her baby, so grandparents who live far away can watch the child grow up. As a result, families feel closer, and they also have an online album of special moments.\n\nOn the other hand, I agree with those who think that sharing too much is harmful. Firstly, it can put our privacy and safety at risk. Strangers can learn where we live, work and travel from our posts. For instance, a person who posts holiday photos while away may tell thieves that the house is empty. As a result, the family may lose valuable things while they are on holiday. Secondly, social media creates pressure to show a perfect life. People often post only their best moments, so others feel that their own lives are not good enough. A good example is teenagers who edit their photos many times before posting them. Therefore, many of them feel anxious and unhappy with their appearance.\n\nIn conclusion, although sharing our lives online helps us connect and save memories, I believe that it does more harm than good because it threatens privacy and creates pressure. We should think carefully before we post.",
    "vocab": [
     {
-     "term": "preserve memories",
-     "meaning": "lưu giữ kỷ niệm"
+     "term": "do more harm than good",
+     "meaning": "hại nhiều hơn lợi"
     },
     {
-     "term": "invade someone's privacy",
-     "meaning": "xâm phạm quyền riêng tư của ai"
+     "term": "put something at risk",
+     "meaning": "khiến cái gì gặp rủi ro"
     },
     {
-     "term": "victim of crime",
-     "meaning": "nạn nhân của tội phạm"
+     "term": "privacy",
+     "meaning": "quyền riêng tư"
     },
     {
-     "term": "compare oneself with",
-     "meaning": "so sánh bản thân với"
+     "term": "a perfect life",
+     "meaning": "cuộc sống hoàn hảo"
     },
     {
-     "term": "stay connected with",
-     "meaning": "giữ kết nối với"
+     "term": "anxious",
+     "meaning": "lo âu"
     }
    ]
   }
@@ -110,38 +117,38 @@
  "speaking": {
   "1": {
    "answers": [
-    "Not really. I live in District 3 in Ho Chi Minh City, and there are only a few small parks near my home. The biggest one is Le Van Tam Park.",
-    "I visit the park about twice a week. I usually go there early in the morning to walk and breathe fresh air. Sometimes I also read a book there at weekends.",
-    "Yes, definitely. Green spaces make the air cleaner and keep the city cooler. Parks also give people a place to exercise and relax after work.",
-    "I enjoy Vietnamese food the most, especially broken rice and pho. These dishes are tasty and cheap, and they are easy to find in Ho Chi Minh City.",
-    "I prefer home-cooked food. It is healthier because I know what is in it. However, I eat at restaurants when I meet my friends at weekends.",
-    "Yes, they have changed a lot. In the past, most families cooked and ate dinner together at home. Now many people are busy, so they often order food through apps."
+    "Not really. There are only a few small parks in my area. This is because District 3 in Ho Chi Minh City is very crowded with houses and shops. The biggest green space near me is Le Van Tam Park.",
+    "I visit the park about twice a week. I usually go there early in the morning because the air is fresh and cool. At weekends, I sometimes read a book there under the trees.",
+    "Yes, I think cities should have more green spaces. The main reason is that trees make the air cleaner and keep the city cooler. Parks also give people a free place to exercise and relax after work.",
+    "I enjoy Vietnamese food the most, especially broken rice and pho. This is because these dishes are tasty and cheap. I usually have broken rice for lunch at a small restaurant near my office.",
+    "I prefer home-cooked food. The main reason is that it is healthier, and I know exactly what is in it. However, I eat at restaurants when I meet my friends at weekends.",
+    "Yes, they have changed a lot. In the past, most families cooked and ate dinner together at home. Now many people are busy, so they often order food through apps like GrabFood."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No hoặc nêu thông tin chính",
-     "reusable": "I visit the park about twice a week."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi",
+     "reusable": "I enjoy Vietnamese food the most, especially broken rice and pho."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "It is healthier because I know what is in it."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "The main reason is that trees make the air cleaner and keep the city cooler."
     },
     {
-     "section": "Ví dụ / so sánh",
-     "content": "Thêm 1 ví dụ cá nhân hoặc so sánh In the past … Now …",
-     "reusable": "In the past, most families cooked and ate dinner together at home."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn",
+     "reusable": "At weekends, I sometimes read a book there under the trees."
     }
    ],
    "vocab": [
     {
-     "term": "green space",
+     "term": "green spaces",
      "meaning": "không gian xanh"
     },
     {
-     "term": "breathe fresh air",
-     "meaning": "hít thở không khí trong lành"
+     "term": "crowded",
+     "meaning": "đông đúc"
     },
     {
      "term": "broken rice",
@@ -159,96 +166,96 @@
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think talking directly to my friend is the best choice. I choose it for two main reasons.\n\nThe first reason is that it gives my friend a chance to correct his mistake himself. By that, I mean he can go to the teacher and tell the truth before anyone reports him. For example, he may say sorry and ask to take the exam again, so his punishment may be lighter.\n\nAnother reason is that it keeps our friendship and still shows that cheating is wrong. In other words, I am honest with him, and I do not go behind his back. For instance, I can meet him after the exam and explain calmly that cheating is unfair to other students.\n\nThere are also some reasons why I do not choose the other two options. Regarding ignoring what I saw and saying nothing, I do not think it is the best choice because it is unfair to the students who studied hard. As for reporting the incident to the teacher, I do not think it is the best option either because it may end our friendship before he can explain.\n\nTo sum up, out of these three options, I believe talking directly to my friend is the best choice because it is honest, fair and kind.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn nói chuyện trực tiếp với bạn",
-     "reusable": "If I saw my friend cheating during an exam, I would talk directly to my friend about it."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: nói chuyện trực tiếp với bạn",
+     "reusable": "In this situation, among the three options, I think talking directly to my friend is the best choice. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) vừa trung thực vừa tử tế, nói riêng sau giờ thi (2) cho bạn cơ hội sửa sai; rủ học chung",
-     "reusable": "First, talking to my friend is honest and kind at the same time."
+     "section": "Lý do 1",
+     "content": "Cho bạn cơ hội tự sửa sai → By that, I mean … → For example: xin lỗi, xin thi lại, bị phạt nhẹ hơn",
+     "reusable": "The first reason is that it gives my friend a chance to correct his mistake himself. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn làm ngơ",
-     "content": "Bạn nghĩ gian lận là bình thường; bất công với người học chăm",
-     "reusable": "I don't choose to ignore what I saw and say nothing."
+     "section": "Lý do 2",
+     "content": "Giữ tình bạn nhưng vẫn cho thấy gian lận là sai → In other words … → For instance: gặp sau giờ thi, giải thích bình tĩnh",
+     "reusable": "Another reason is that it keeps our friendship and still shows that cheating is wrong. In other words, …"
     },
     {
-     "section": "Vì sao không chọn báo giáo viên",
-     "content": "Bạn có thể bị đánh rớt, bị phạt, mất tình bạn; chỉ báo nếu bạn tái phạm",
-     "reusable": "I also don't choose to report the incident to the teacher straight away."
+     "section": "Loại 2 phương án",
+     "content": "Làm ngơ: bất công với người học chăm; báo giáo viên: có thể mất tình bạn trước khi bạn kịp giải thích",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding ignoring what I saw and saying nothing, I do not think it is the best choice because … As for reporting the incident to the teacher, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn + giữ được tình bạn",
-     "reusable": "In conclusion, talking directly to my friend is the best choice."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe talking directly to my friend is the best choice because it is honest, fair and kind."
     }
    ],
-   "answer": "If I saw my friend cheating during an exam, I would talk directly to my friend about it. Let me explain why.\n\nFirst, talking to my friend is honest and kind at the same time. After the exam, I would meet him in private and tell him what I saw. I would explain that cheating is wrong and unfair to other students. Second, this way gives my friend a chance to change. He may feel ashamed and promise not to do it again. I could also offer to study with him for the next exam, so he would not need to cheat.\n\nI don't choose to ignore what I saw and say nothing. If I say nothing, my friend will think that cheating is acceptable, and he may do it again. It is also unfair to the students who study hard. I also don't choose to report the incident to the teacher straight away. My friend might fail the exam or get a serious punishment from the school, and our friendship might end. However, if he continues to cheat, I will report it.\n\nIn conclusion, talking directly to my friend is the best choice because it solves the problem and keeps our friendship.",
    "vocab": [
     {
      "term": "cheat in an exam",
-     "meaning": "gian lận trong kỳ thi"
+     "meaning": "gian lận trong thi cử"
     },
     {
-     "term": "in private",
-     "meaning": "nói riêng, kín đáo"
+     "term": "correct a mistake",
+     "meaning": "sửa lỗi"
     },
     {
-     "term": "feel ashamed",
-     "meaning": "cảm thấy xấu hổ"
+     "term": "punishment",
+     "meaning": "hình phạt"
     },
     {
-     "term": "report the incident",
-     "meaning": "báo cáo sự việc"
+     "term": "behind someone's back",
+     "meaning": "sau lưng ai"
     },
     {
-     "term": "straight away",
-     "meaning": "ngay lập tức"
+     "term": "unfair",
+     "meaning": "bất công"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the benefits of cashless payment. In my opinion, paying without cash makes our daily lives much easier.\n\nFirstly, cashless payment brings convenience in daily transactions. We only need a phone to pay for almost everything. For example, I pay for my coffee, my groceries and my Grab rides with a banking app.\n\nSecondly, it offers better safety and security for our money. We do not need to carry a lot of cash, so we worry less about losing it. For instance, if someone steals my phone, they still cannot open my banking app without my password.\n\nThirdly, cashless payment improves the speed and efficiency of payment processes. Scanning a QR code takes only a few seconds, and there is no need to count change. A good example is the supermarket near my house, where the queues are much shorter now.\n\nAnother important point is that it is easy to track spending. Every payment is saved in the app, so we can see where our money goes. For example, I check my banking app at the end of each month to plan my budget.\n\nTo sum up, cashless payment is convenient, safe and fast. It also makes it easy to track our spending.",
    "own_idea": "Easy to track spending",
+   "follow_ups": [
+    "No, I do not think cash will disappear completely. The main reason is that many older people and people in the countryside still prefer cash. For example, my grandmother only uses cash when she goes to the local market. However, cash will probably become much less common.",
+    "The biggest risk is online fraud. Criminals can send fake messages or links to steal people's bank information. For example, one of my colleagues lost money after she clicked a fake link that looked like a bank message. Another risk is that we may spend too much because paying is so easy.",
+    "Cashless payment has made shopping in Vietnam faster and more convenient. People now pay by QR code, even at small street stalls. For example, the woman who sells bread near my office has a QR code on her cart. As a result, many people carry very little cash now."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + ở Việt Nam ngày càng nhiều người trả bằng điện thoại, thẻ",
-     "reusable": "Today I would like to talk about the benefits of cashless payment."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the benefits of cashless payment. In my opinion, paying without cash makes our daily lives much easier."
     },
     {
-     "section": "Ý 1: Convenience",
-     "content": "Chỉ cần điện thoại để mua cà phê, trả taxi, tiền điện; không cần ví, tiền lẻ",
-     "reusable": "First, cashless payment brings convenience in daily transactions."
+     "section": "Ý 1: tiện lợi trong giao dịch hằng ngày",
+     "content": "Ý → chỉ cần điện thoại → ví dụ trả tiền cà phê, đi chợ, Grab bằng app ngân hàng",
+     "reusable": "Firstly, cashless payment brings convenience in daily transactions."
     },
     {
-     "section": "Ý 2: Safety and security",
-     "content": "Mất ví là mất tiền; mất điện thoại thì người khác không mở được app ngân hàng",
-     "reusable": "Second, it gives better safety and security for our money."
+     "section": "Ý 2: an toàn cho tiền bạc",
+     "content": "Ý → không mang nhiều tiền mặt → ví dụ mất điện thoại vẫn không mở được app",
+     "reusable": "Secondly, it offers better safety and security for our money."
     },
     {
-     "section": "Ý 3: Speed and efficiency",
-     "content": "Quét mã QR vài giây; cửa hàng phục vụ nhiều khách, hàng chờ ngắn",
-     "reusable": "Third, cashless payment is fast and efficient."
+     "section": "Ý 3: nhanh, hiệu quả",
+     "content": "Ý → quét QR vài giây, không thối tiền → ví dụ hàng chờ siêu thị ngắn hơn",
+     "reusable": "Thirdly, cashless payment improves the speed and efficiency of payment processes."
     },
     {
      "section": "Ý riêng: dễ theo dõi chi tiêu",
-     "content": "Mọi giao dịch lưu trong app → cuối tháng kiểm tra, tiết kiệm",
-     "reusable": "Finally, I think cashless payment makes it easy to track our spending."
+     "content": "Ý → mọi khoản lưu trong app → ví dụ cuối tháng xem lại để lập ngân sách",
+     "reusable": "Another important point is that it is easy to track spending."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt 4 lợi ích",
-     "reusable": "In conclusion, cashless payment is convenient, safe, fast and helpful for managing money."
+     "section": "Kết",
+     "content": "Tóm tắt các ý",
+     "reusable": "To sum up, cashless payment is convenient, safe and fast. It also makes it easy to track our spending."
     }
-   ],
-   "answer": "Today I would like to talk about the benefits of cashless payment. In Vietnam, more and more people pay by phone or by card. I think there are four main benefits.\n\nFirst, cashless payment brings convenience in daily transactions. I only need my phone to buy coffee, pay for a taxi or pay my electricity bill. I do not need to carry a heavy wallet or look for small change.\n\nSecond, it gives better safety and security for our money. If I lose my wallet, I lose all my cash. But if I lose my phone, nobody can use my bank app without my password or my face.\n\nThird, cashless payment is fast and efficient. At the supermarket, I just scan a QR code, and the payment is done in a few seconds. As a result, shops can serve more customers, and the queues are shorter.\n\nFinally, I think cashless payment makes it easy to track our spending. Every payment is saved in the bank app. At the end of the month, I can check how much money I spent on food and shopping. This helps me save money.\n\nIn conclusion, cashless payment is convenient, safe, fast and helpful for managing money. That is why I almost never use cash now.",
-   "follow_ups": [
-    "I don't think it will replace cash completely, at least not soon. Many old people and people in the countryside still prefer cash. However, I believe cash will become less common.",
-    "The biggest risk is online fraud. Some criminals send fake messages to steal bank passwords. In addition, if the internet or the bank system stops working, people cannot pay.",
-    "It has changed shopping habits a lot in Vietnam. Now people even pay by QR code at street food stalls and local markets. People also shop online more often because payment is so easy."
    ],
    "vocab": [
     {
@@ -260,8 +267,8 @@
      "meaning": "giao dịch hằng ngày"
     },
     {
-     "term": "small change",
-     "meaning": "tiền lẻ"
+     "term": "scan a QR code",
+     "meaning": "quét mã QR"
     },
     {
      "term": "track spending",

@@ -2,107 +2,119 @@
  "id": "vlu-101",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
-     "content": "Chào thân mật theo tên bạn cùng lớp",
+     "content": "Chào thân mật theo tên",
      "reusable": "Hi Lan,"
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, khen bạn tổ chức tiệc, sẵn sàng góp ý",
-     "reusable": "Thanks for your email. It is great that you are organising our end-term party."
+     "content": "Cảm ơn thư + vui vì bạn tổ chức tiệc, sẵn lòng góp ý",
+     "reusable": "It is great that you are organising our end-term party, and I am happy to help."
     },
     {
-     "section": "Ý 1: mời thêm bạn bè",
-     "content": "Đồng ý nhưng mỗi người chỉ 1 bạn; phòng nhỏ, tốn tiền; gửi tên trước thứ Sáu",
-     "reusable": "I think we can allow people to invite additional friends, but each person should bring only one."
+     "section": "Ý 1: có cho mời thêm bạn không",
+     "content": "Có, mỗi người 1 bạn → phòng ở nhà hàng Hoa Sen nhỏ, tốn tiền → gửi tên trước thứ Sáu để đặt đồ ăn",
+     "reusable": "Regarding extra guests, I think each person can invite one friend, but not more."
     },
     {
-     "section": "Ý 2: trò chơi, nhảy, thi đấu",
-     "content": "Nên có trò chơi + cuộc thi đố vui về lớp, có quà nhỏ; nhảy để cuối tiệc vì có bạn ngại",
-     "reusable": "I think we should organise some games and a small competition, such as a quiz about our class."
+     "section": "Ý 2: trò chơi, nhảy hay thi đấu",
+     "content": "Trò chơi + thi đố vui về lớp → ai cũng tham gia được → nhảy vào cuối tiệc",
+     "reusable": "As for the activities, I think we should organise some games and a small competition, such as a quiz about our class."
     },
     {
-     "section": "Ý 3: trang phục trang trọng",
-     "content": "Không nên: khó chơi trò chơi, có bạn không có đồ; gợi ý chủ đề màu xanh",
-     "reusable": "I don't think we should ask everyone to dress formally."
+     "section": "Ý 3: có mặc trang trọng không",
+     "content": "Không → không thoải mái khi chơi, có người không có → thay bằng mặc màu xanh",
+     "reusable": "About the dress code, I do not think we should ask everyone to dress formally."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mong giúp được, hẹn gặp ở tiệc tối thứ Bảy",
-     "reusable": "I hope this helps. See you at the party on Saturday evening!"
+     "content": "Hẹn gặp ở tiệc 6 giờ tối thứ Bảy, chào cuối thư",
+     "reusable": "That's all for now. See you at the party at 6 p.m. on Saturday! Best wishes,"
     }
    ],
-   "answer": "Hi Lan,\n\nThanks for your email. It is great that you are organising our end-term party. I am happy to give you some advice.\n\nFirst, I think we can allow people to invite additional friends, but each person should bring only one. Our room at Hoa Sen Restaurant is quite small, and more guests will cost more money. Please ask everyone to send you their friend's name before Friday. Then you can order enough food.\n\nSecondly, I think we should organise some games and a small competition, such as a quiz about our class. Games are fun, and everyone can join in. We can give small prizes to the winners. Dancing is a good idea too, but only at the end of the party. Some classmates are shy, so they may not want to dance.\n\nFinally, I don't think we should ask everyone to dress formally. Formal clothes are not comfortable for games, and some people do not have them. I suggest a simple colour theme instead. For example, everyone can wear something blue.\n\nI hope this helps. See you at the party on Saturday evening!\n\nBest wishes,\nMinh",
+   "answer": "Hi Lan,\n\nThank you for your email. It is great that you are organising our end-term party, and I am happy to help.\n\nRegarding extra guests, I think each person can invite one friend, but not more. Our room at Hoa Sen Restaurant is quite small, and more guests will cost more money. Please ask everyone to send you their friend's name before Friday so that you can order enough food.\n\nAs for the activities, I think we should organise some games and a small competition, such as a quiz about our class. Games are fun, and even shy classmates can join in easily. We can also have some dancing at the end for people who enjoy it.\n\nAbout the dress code, I do not think we should ask everyone to dress formally. Formal clothes are not comfortable for games, and some people do not have them. Instead, everyone can wear something blue to make our photos look nice.\n\nThat's all for now. See you at the party at 6 p.m. on Saturday!\n\nBest wishes,\nMinh",
    "vocab": [
     {
      "term": "end-term party",
      "meaning": "tiệc cuối kỳ"
     },
     {
-     "term": "invite additional friends",
-     "meaning": "mời thêm bạn bè"
+     "term": "invite a friend",
+     "meaning": "mời một người bạn"
     },
     {
      "term": "join in",
-     "meaning": "tham gia (hoạt động chung)"
+     "meaning": "tham gia cùng"
+    },
+    {
+     "term": "dress code",
+     "meaning": "quy định trang phục"
     },
     {
      "term": "dress formally",
      "meaning": "ăn mặc trang trọng"
-    },
-    {
-     "term": "colour theme",
-     "meaning": "chủ đề màu sắc (trang phục)"
     }
    ]
   },
   "2": {
-   "essay_type": "Causes & effects (phân tích nguyên nhân và ảnh hưởng)",
+   "essay_type": "Causes & effects (nguyên nhân và ảnh hưởng)",
+   "type_key": "cause_effect",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: giới trẻ ngày càng thích tham quan công trình cổ, bảo tàng, di tích → bài sẽ nêu nguyên nhân và ảnh hưởng",
-     "reusable": "This trend has several causes, and it has both positive and negative effects on society."
+     "content": "Viết lại đề (giới trẻ dành cuối tuần ở bảo tàng, phố cổ, di tích) + câu dẫn",
+     "reusable": "This essay will discuss the main causes of this trend and its effects."
     },
     {
-     "section": "Thân bài 1: nguyên nhân",
-     "content": "(1) mạng xã hội: chụp ảnh đẹp ở Hội An (2) bảo tàng hiện đại hơn, dùng VR, màn hình tương tác (3) tò mò về cội nguồn, văn hoá",
-     "reusable": "There are three main causes of this trend. Firstly, social media plays an important role."
+     "section": "Thân bài 1 · nguyên nhân 1",
+     "content": "P: mạng xã hội → E: muốn chụp ảnh đẹp đăng lên mạng → Ex: phố cổ Hội An đầy bạn trẻ đăng TikTok, Instagram",
+     "reusable": "There are two main causes of this new interest. Firstly, social media encourages young people to visit old places."
     },
     {
-     "section": "Thân bài 2: ảnh hưởng",
-     "content": "Tích cực: (1) học lịch sử ngoài lớp → tự hào dân tộc (2) doanh nghiệp địa phương có thêm thu nhập. Tiêu cực: (3) quá đông khách → hư hại di tích",
-     "reusable": "On the positive side, … On the negative side, too many visitors can damage old buildings."
+     "section": "Thân bài 1 · nguyên nhân 2",
+     "content": "P: bảo tàng hiện đại, thú vị hơn → E: học lịch sử vui, chủ động → Ex: kính VR, màn hình cảm ứng",
+     "reusable": "Secondly, many museums have become more modern and interesting."
+    },
+    {
+     "section": "Thân bài 2 · ảnh hưởng 1",
+     "content": "P: hiểu lịch sử, văn hoá hơn → E: thấy hiện vật thật → Ex: sinh viên đến Đại Nội Huế, thích tìm hiểu nhà Nguyễn",
+     "reusable": "This trend has two important effects. The first effect is that young people understand their history and culture better."
+    },
+    {
+     "section": "Thân bài 2 · ảnh hưởng 2",
+     "content": "P: di tích có thêm tiền du lịch → E: tu sửa, bảo vệ công trình → R: thêm việc làm cho người dân",
+     "reusable": "Another effect is that historical sites earn more money from tourism."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt nguyên nhân + ảnh hưởng; đề xuất nhà nước có quy định bảo vệ",
-     "reusable": "In conclusion, … Therefore, the government should make clear rules to protect these places."
+     "content": "Tóm tắt 2 nguyên nhân + 2 ảnh hưởng",
+     "reusable": "In conclusion, this trend is mainly caused by social media and more modern museums."
     }
    ],
-   "answer": "In recent years, more and more young people have become interested in visiting old buildings, museums and historical sites. Many sociologists and educators are interested in this change. This trend has several causes, and it has both positive and negative effects on society.\n\nThere are three main causes of this trend. Firstly, social media plays an important role. Many young people want to take beautiful photos at old places, such as Hoi An Ancient Town, and share them on Instagram or TikTok. Secondly, many museums have become more modern and interesting. For example, some museums now use VR technology and interactive screens, so visitors can learn history in a fun way. In addition, young people today are curious about their roots. They want to understand the history and culture of their country.\n\nThis trend also has several effects. On the positive side, young people learn a lot about history outside the classroom. As a result, they feel prouder of their country and want to protect its heritage. Moreover, local businesses earn more money from tourism. For instance, hotels, restaurants and souvenir shops near historical sites have more customers. On the negative side, too many visitors can damage old buildings. Some people touch old objects or write on walls, and this causes serious harm. In addition, popular places become very crowded at weekends, so visitors cannot enjoy them.\n\nIn conclusion, young people's interest in historical places comes from social media, modern museums and curiosity about their culture. This trend helps them learn and supports the local economy, but it can also damage heritage sites. Therefore, the government should make clear rules to protect these places.",
+   "answer": "In recent years, more and more young people have started to spend their weekends at museums, ancient towns and other historic places. Experts want to know why this is happening. This essay will discuss the main causes of this trend and its effects.\n\nThere are two main causes of this new interest. Firstly, social media encourages young people to visit old places. Many of them want to take beautiful photos and share them online. For example, Hoi An Ancient Town is full of young visitors who post pictures on TikTok and Instagram every day. Secondly, many museums have become more modern and interesting. This means that visitors can learn history in a fun and active way. For instance, some museums now use VR glasses and touch screens, so young people can see how people lived hundreds of years ago.\n\nThis trend has two important effects. The first effect is that young people understand their history and culture better. They learn about the past by seeing real objects, not only by reading textbooks. A good example is a student who visits the Imperial City in Hue and becomes interested in the Nguyen Dynasty. Another effect is that historical sites earn more money from tourism. Local governments can use this money to repair old buildings and protect them. As a result, local people also have more jobs in restaurants, hotels and souvenir shops.\n\nIn conclusion, this trend is mainly caused by social media and more modern museums. It helps young people learn about their history, and it brings money to protect old places and create local jobs. Therefore, it is a good sign for society.",
    "vocab": [
     {
-     "term": "historical site",
+     "term": "historic places / historical sites",
      "meaning": "di tích lịch sử"
     },
     {
-     "term": "be curious about their roots",
-     "meaning": "tò mò về cội nguồn"
+     "term": "ancient town",
+     "meaning": "phố cổ"
     },
     {
-     "term": "heritage",
-     "meaning": "di sản"
+     "term": "touch screen",
+     "meaning": "màn hình cảm ứng"
+    },
+    {
+     "term": "repair old buildings",
+     "meaning": "tu sửa công trình cũ"
     },
     {
      "term": "souvenir shop",
-     "meaning": "cửa hàng đồ lưu niệm"
-    },
-    {
-     "term": "cause serious harm",
-     "meaning": "gây hại nghiêm trọng"
+     "meaning": "cửa hàng lưu niệm"
     }
    ]
   }
@@ -110,158 +122,166 @@
  "speaking": {
   "1": {
    "answers": [
-    "I like Zumba the most. It is a kind of dance exercise with fast Latin music. It is fun, and it helps me stay fit.",
-    "I prefer dancing in a group. I feel less shy when I dance with other people. It is also more fun, and we can learn from each other.",
-    "First, people should join a dance class with a good teacher. Then they should practise a little every day, for example for twenty minutes. Watching videos on YouTube can also help a lot.",
-    "Yes, I do. I drink a glass of water right after I wake up. I also go swimming every weekend, and I try to go to bed before 11 p.m.",
-    "I usually get up at 6:30 and have breakfast with my family. Then I work at the university from 8 a.m. to 5 p.m. In the evening, I read books or go to a coffee shop with my friends.",
-    "I would like to try yoga in the morning. I think it can help me feel calm before a busy day at work. My friend does yoga every day, and she looks very healthy."
+    "I like Zumba the most. The main reason is that it is fun and it is also good exercise. I go to a Zumba class with fast Latin music at a gym near my house twice a week.",
+    "I prefer dancing in a group. This is because I feel less shy when I dance with other people. It is also more fun, and we can learn new moves from each other.",
+    "I think people should join a dance class with a good teacher first. The main reason is that a teacher can correct their mistakes from the beginning. After that, they should practise for about twenty minutes every day with videos on YouTube.",
+    "Yes, I do. I drink a glass of water right after I wake up and go to bed before 11 p.m. These habits help me feel fresh, and I also go swimming every weekend to stay fit.",
+    "My daily routine starts at 6:30, when I get up and have breakfast with my family. Then I work at the university from 8 a.m. to 5 p.m. In the evening, I read books or go to a coffee shop with my friends.",
+    "I would like to try yoga in the morning. The main reason is that it can help me feel calm before a busy day at work. My friend does yoga every day, and she looks very healthy and relaxed."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay: điệu nhảy thích nhất, Yes/No, thói quen",
-     "reusable": "I like Zumba the most."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
+     "reusable": "I prefer dancing in a group."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do ngắn",
-     "reusable": "I feel less shy when I dance with other people."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do (This is because / The main reason is that)",
+     "reusable": "This is because I feel less shy when I dance with other people."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm giờ giấc, hoạt động cụ thể hoặc ví dụ về người quen",
-     "reusable": "I try to go to bed before 11 p.m."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn: thời gian, địa điểm",
+     "reusable": "In the evening, I read books or go to a coffee shop with my friends."
     }
    ],
    "vocab": [
     {
-     "term": "stay fit",
-     "meaning": "giữ dáng, giữ sức khoẻ"
+     "term": "Latin music",
+     "meaning": "nhạc Latin"
     },
     {
-     "term": "join a dance class",
-     "meaning": "tham gia lớp học nhảy"
+     "term": "learn new moves",
+     "meaning": "học động tác mới"
     },
     {
-     "term": "look healthy",
-     "meaning": "trông khỏe mạnh"
+     "term": "correct mistakes",
+     "meaning": "sửa lỗi"
     },
     {
-     "term": "feel calm",
-     "meaning": "cảm thấy bình tĩnh, thư thái"
+     "term": "daily routine",
+     "meaning": "thói quen hằng ngày"
+    },
+    {
+     "term": "feel fresh",
+     "meaning": "cảm thấy sảng khoái"
     }
    ]
   },
   "2": {
    "choice": 1,
+   "answer": "In this situation, among the three options, I think going to the zoo is the best choice for my best friend's child. I choose it for two main reasons.\n\nThe first reason is that most children love animals. By that, I mean they become very excited when they see animals in real life, not just in books or on TV. For example, at Saigon Zoo, my friend's six-year-old daughter can see elephants, tigers, monkeys and giraffes in one day.\n\nAnother reason is that the zoo is a great place to learn. In other words, the child can have fun and learn new things at the same time. For instance, there is a sign with information about every animal, so I can read it and tell her some interesting facts. The zoo also has big gardens and a playground where she can run around.\n\nThere are also some reasons why I do not choose the other two options. Regarding going to an aquarium, I do not think it is the best choice because the nearest big aquarium is far from my home. We would spend too much time travelling. As for going to the park, I do not think it is the best option either because she often plays in the park, so it is not special.\n\nTo sum up, out of these three options, I believe going to the zoo is the best choice because it is fun, educational and memorable.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn đưa bé đi sở thú (Thảo Cầm Viên)",
-     "reusable": "If I take my best friend's six-year-old daughter out for a fun day, I will choose to go to the zoo."
+     "section": "Chọn",
+     "content": "Câu khung + đi sở thú",
+     "reusable": "In this situation, among the three options, I think going to the zoo is the best choice for my best friend's child. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) nhiều loài động vật, trẻ con rất thích (2) học được điều mới (3) vừa có công viên, vé rẻ",
-     "reusable": "First, most children love animals. … Second, the zoo is a great place to learn."
+     "section": "Lý do 1",
+     "content": "Trẻ con thích động vật → By that, I mean … → For example: Thảo Cầm Viên có voi, hổ, khỉ, hươu cao cổ",
+     "reusable": "The first reason is that most children love animals. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn thuỷ cung",
-     "content": "Nhỏ, chủ yếu là cá, vé đắt, đi nhanh hết",
-     "reusable": "I don't choose to go to an aquarium. It is interesting, but it is quite small, and most of the animals are fish."
+     "section": "Lý do 2",
+     "content": "Nơi học hỏi → In other words … → For instance: bảng thông tin mỗi con vật, có sân chơi",
+     "reusable": "Another reason is that the zoo is a great place to learn. In other words, …"
     },
     {
-     "section": "Vì sao không chọn công viên",
-     "content": "Bé đi công viên gần nhà hằng ngày, không đặc biệt",
-     "reusable": "I also don't choose to go to the park. There is a park near her home, and she goes there almost every day."
+     "section": "Loại 2 phương án",
+     "content": "Thuỷ cung: xa nhà, mất thời gian đi lại; công viên: bé hay đi rồi, không đặc biệt",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding going to an aquarium, I do not think it is the best choice because … As for going to the park, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: vui + học hỏi",
-     "reusable": "In conclusion, the zoo is the best choice because it is fun, educational and not expensive."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe going to the zoo is the best choice because it is fun, educational and memorable."
     }
    ],
-   "answer": "If I take my best friend's six-year-old daughter out for a fun day, I will choose to go to the zoo. Let me explain why.\n\nFirst, most children love animals. At Saigon Zoo, she can see elephants, tigers, monkeys and giraffes. She will be very excited to see these animals in real life, not only on TV. Second, the zoo is a great place to learn. There is a sign with information about every animal, so I can read it and teach her new things. In addition, the zoo also has big gardens and a playground. After we see the animals, she can play and have an ice cream under the trees. The tickets are also quite cheap.\n\nI don't choose to go to an aquarium. It is interesting, but it is quite small, and most of the animals are fish. The tickets are also more expensive, and we can see everything in about one hour. I also don't choose to go to the park. There is a park near her home, and she goes there almost every day. So it is not a special day out for her.\n\nIn conclusion, the zoo is the best choice because it is fun, educational and not expensive.",
    "vocab": [
-    {
-     "term": "a special day out",
-     "meaning": "một ngày đi chơi đặc biệt"
-    },
     {
      "term": "in real life",
      "meaning": "ngoài đời thật"
+    },
+    {
+     "term": "interesting facts",
+     "meaning": "những điều thú vị"
     },
     {
      "term": "playground",
      "meaning": "sân chơi"
     },
     {
-     "term": "educational",
-     "meaning": "mang tính giáo dục"
+     "term": "aquarium",
+     "meaning": "thuỷ cung"
+    },
+    {
+     "term": "memorable",
+     "meaning": "đáng nhớ"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the benefits of young people keeping pets. In my opinion, a pet can make a young person's life happier and healthier.\n\nFirstly, pets provide emotional support. When young people feel stressed or sad, a pet can make them feel calm. For example, my younger cousin always plays with her cat after a difficult day at school, and she feels much better.\n\nSecondly, pets encourage a healthier daily routine. Dog owners have to wake up early and take their dogs outside every day. For instance, my friend Nam walks his dog in the park every morning, so he gets more exercise than before.\n\nThirdly, pets give companionship and reduce feelings of loneliness. Many young people live alone in a big city, far from their families. A good example is a student from Da Nang who studies in Ho Chi Minh City and keeps a small cat in her room. She says she never feels alone now.\n\nAnother important point is that keeping a pet teaches young people responsibility. They must feed, clean and take care of an animal every day. For example, a teenager who looks after a dog learns to plan his time and keep his promises.\n\nTo sum up, pets bring emotional support, a healthier routine, companionship and a sense of responsibility to young people.",
    "own_idea": "Learning responsibility",
+   "follow_ups": [
+    "The most common pets in my area are dogs and cats. The main reason is that they are useful and easy to look after. For example, dogs can protect the house, and cats can catch mice. They are also cheap and easy to find in pet shops.",
+    "Yes, I think parents should encourage their kids to keep a pet. The main reason is that a pet can teach children to be kind and responsible. For example, a child can feed the fish every morning before school. However, parents should help them at first.",
+    "I think many people choose not to keep pets because they are too busy. A pet needs food, exercise and attention every day. For example, people who work long hours cannot walk a dog twice a day. Others live in small apartments or worry about the cost."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 lợi ích",
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
      "reusable": "Today I would like to talk about the benefits of young people keeping pets."
     },
     {
-     "section": "Ý 1: Emotional support",
-     "content": "Thú cưng giúp vui lên khi buồn, căng thẳng; ví dụ con mèo Mochi",
-     "reusable": "First, pets provide a lot of emotional support."
+     "section": "Ý 1: chỗ dựa tinh thần",
+     "content": "Ý → làm dịu khi buồn, căng thẳng → ví dụ em họ chơi với mèo sau giờ học",
+     "reusable": "Firstly, pets provide emotional support."
     },
     {
-     "section": "Ý 2: Healthier daily routine",
-     "content": "Dắt chó đi dạo sáng tối → vận động, dậy sớm, ít ngồi máy tính",
-     "reusable": "Second, keeping a pet can encourage a healthier daily routine."
+     "section": "Ý 2: nếp sống lành mạnh",
+     "content": "Ý → dậy sớm dắt chó đi dạo → ví dụ bạn Nam dắt chó ra công viên mỗi sáng",
+     "reusable": "Secondly, pets encourage a healthier daily routine."
     },
     {
-     "section": "Ý 3: Companionship, bớt cô đơn",
-     "content": "Người trẻ sống một mình ở thành phố lớn, có bạn đồng hành khi về nhà",
-     "reusable": "Third, pets give companionship and reduce feelings of loneliness."
+     "section": "Ý 3: bầu bạn, bớt cô đơn",
+     "content": "Ý → sống một mình xa nhà → ví dụ sinh viên Đà Nẵng nuôi mèo ở TP.HCM",
+     "reusable": "Thirdly, pets give companionship and reduce feelings of loneliness."
     },
     {
-     "section": "Ý riêng: Learning responsibility",
-     "content": "Cho ăn, tắm, đưa đi thú y → học tính trách nhiệm",
-     "reusable": "Finally, I think keeping a pet helps young people learn responsibility."
+     "section": "Ý riêng: tinh thần trách nhiệm",
+     "content": "Ý → cho ăn, vệ sinh mỗi ngày → ví dụ thiếu niên nuôi chó biết sắp xếp thời gian",
+     "reusable": "Another important point is that keeping a pet teaches young people responsibility."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt 4 lợi ích + chỉ nuôi khi có đủ thời gian",
-     "reusable": "In conclusion, … However, young people should only keep a pet if they have enough time to care for it."
+     "section": "Kết",
+     "content": "Tóm tắt 4 lợi ích",
+     "reusable": "To sum up, pets bring emotional support, a healthier routine, companionship and a sense of responsibility to young people."
     }
-   ],
-   "answer": "Today I would like to talk about the benefits of young people keeping pets. I think there are four main benefits.\n\nFirst, pets provide a lot of emotional support. When young people feel sad or stressed, a pet can make them feel better. For example, my sister has a cat called Mochi. After a hard day at school, she plays with Mochi, and she feels happy again.\n\nSecond, keeping a pet can encourage a healthier daily routine. Dog owners have to walk their dogs every morning and evening. As a result, they get up earlier, exercise more and spend less time in front of their computers.\n\nThird, pets give companionship and reduce feelings of loneliness. Many young people move to big cities like Ho Chi Minh City to study or work. They often live alone and miss their families. A pet is always there when they come home, so they feel less lonely.\n\nFinally, I think keeping a pet helps young people learn responsibility. They have to feed the pet, wash it and take it to the vet when it is sick. These tasks teach them to care for others.\n\nIn conclusion, pets give young people emotional support, a healthier routine, companionship and a sense of responsibility. However, young people should only keep a pet if they have enough time to care for it.",
-   "follow_ups": [
-    "The most common pets in my area are dogs and cats. Dogs can protect the house, and cats can catch mice. They are also cheap and easy to find.",
-    "Yes, I think parents should encourage their kids to keep a pet. A pet can teach children to be kind and responsible. However, parents should help them at first because young children cannot do everything alone.",
-    "Many people are too busy to take care of a pet. Some people live in small apartments, so there is not enough space. Others are worried about the cost or about allergies."
    ],
    "vocab": [
     {
      "term": "emotional support",
-     "meaning": "sự hỗ trợ về mặt tinh thần"
+     "meaning": "chỗ dựa tinh thần"
     },
     {
      "term": "companionship",
-     "meaning": "sự bầu bạn, đồng hành"
+     "meaning": "sự bầu bạn"
     },
     {
-     "term": "feelings of loneliness",
-     "meaning": "cảm giác cô đơn"
+     "term": "loneliness",
+     "meaning": "sự cô đơn"
     },
     {
-     "term": "take someone/something to the vet",
-     "meaning": "đưa (thú cưng) đến bác sĩ thú y"
+     "term": "look after",
+     "meaning": "chăm sóc"
     },
     {
-     "term": "allergy",
-     "meaning": "dị ứng"
+     "term": "keep a promise",
+     "meaning": "giữ lời hứa"
     }
    ]
   }

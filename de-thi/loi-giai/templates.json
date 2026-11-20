@@ -1,0 +1,602 @@
+{
+  "intro": "Khung câu cố định cho mục tiêu 5–6 điểm. Mọi bài mẫu cùng dạng dùng đúng các câu khung này ở cùng vị trí, chỉ thay phần trong [ngoặc vuông]. Học thuộc khung trước, sau đó chỉ cần chuẩn bị ý và ví dụ cho từng đề. Nguồn: Sổ tay VSTEP B2 30 ngày, TEMPLATE, part 2 (VSTEP SV), FORM SPEAKING + WRITING; đối chiếu chi tiết ở doi-chieu/.",
+  "linkers": {
+    "Nêu ý": [
+      "Firstly,",
+      "Secondly,",
+      "Another reason is that",
+      "The first reason is that"
+    ],
+    "Giải thích": [
+      "This is because",
+      "The reason is that",
+      "This means that",
+      "In other words,"
+    ],
+    "Ví dụ": [
+      "For example,",
+      "For instance,",
+      "A good example is"
+    ],
+    "Kết quả": [
+      "As a result,",
+      "Therefore,",
+      "Thanks to this,"
+    ],
+    "Đối lập / nhượng bộ": [
+      "However,",
+      "Admittedly,",
+      "On the other hand,",
+      "Although …,"
+    ],
+    "Kết luận": [
+      "In conclusion,",
+      "To sum up,"
+    ]
+  },
+  "templates": [
+    {
+      "key": "w1_informal",
+      "part": "W1",
+      "name": "Thư thân mật",
+      "when": "Người nhận là bạn bè, người thân, bạn qua thư (gọi bằng tên riêng).",
+      "length": "150–180 từ · 20 phút",
+      "structure": [
+        {
+          "section": "Lời chào",
+          "how": "Hi/Dear + tên riêng, dấu phẩy.",
+          "frames": [
+            "Hi [Name],",
+            "Dear [Name],"
+          ]
+        },
+        {
+          "section": "Mở đầu",
+          "how": "Cảm ơn thư + 1 câu nói lý do viết (viết lại bằng lời của mình, không chép đề).",
+          "frames": [
+            "Thank you for your email. It was great to hear from you.",
+            "I am happy to answer your questions about [topic]."
+          ]
+        },
+        {
+          "section": "Mỗi ý một đoạn",
+          "how": "3–4 câu: trả lời thẳng → lý do → chi tiết cụ thể. Ý hẹn / mời / gợi ý: có thứ, ngày, giờ và địa điểm.",
+          "frames": [
+            "Regarding [question 1], …",
+            "As for [question 2], …",
+            "About your question on [question 3], …",
+            "How about meeting at [place] at [time] on [day]?",
+            "If this time does not suit you, just let me know."
+          ]
+        },
+        {
+          "section": "Kết thư",
+          "how": "1–2 câu ngắn.",
+          "frames": [
+            "That's all for now. Write back soon!",
+            "I am looking forward to seeing you soon."
+          ]
+        },
+        {
+          "section": "Ký tên",
+          "how": "Lời chào cuối + tên.",
+          "frames": [
+            "Best wishes,",
+            "[Your name]"
+          ]
+        }
+      ],
+      "avoid": [
+        "Chép nguyên câu trong thư của đề",
+        "Gộp nhiều câu hỏi vào một đoạn",
+        "Hơn 1 dấu chấm than",
+        "Mở thư bằng \"It has been a long time…\" khi đề không nói vậy"
+      ]
+    },
+    {
+      "key": "w1_formal",
+      "part": "W1",
+      "name": "Thư trang trọng",
+      "when": "Người nhận là công ty, quản lý, giáo viên, khách hàng, người lạ (Mr/Ms/Dr + họ, hoặc không biết tên).",
+      "length": "150–180 từ · 20 phút",
+      "structure": [
+        {
+          "section": "Lời chào",
+          "how": "Biết tên → Dear Mr/Ms/Dr + họ. Không biết tên → Dear Sir or Madam.",
+          "frames": [
+            "Dear Mr/Ms [Surname],",
+            "Dear Sir or Madam,"
+          ]
+        },
+        {
+          "section": "Mở đầu",
+          "how": "Nêu mục đích viết thư trong 1–2 câu.",
+          "frames": [
+            "I am writing in response to your email about [topic].",
+            "I am writing to [inform you that / ask about / apologise for] [topic]."
+          ]
+        },
+        {
+          "section": "Mỗi ý một đoạn",
+          "how": "3–4 câu: trả lời thẳng → lý do → chi tiết cụ thể. Mỗi đoạn mở bằng một cụm khác nhau.",
+          "frames": [
+            "Concerning [question 1], …",
+            "With regard to [question 2], …",
+            "Regarding [question 3], …",
+            "I would be grateful if you could [request]."
+          ]
+        },
+        {
+          "section": "Kết thư",
+          "how": "Câu kết cố định.",
+          "frames": [
+            "If you require any further information, please do not hesitate to contact me.",
+            "I look forward to hearing from you."
+          ]
+        },
+        {
+          "section": "Ký tên",
+          "how": "Biết tên người nhận → Yours sincerely. Dear Sir or Madam → Yours faithfully.",
+          "frames": [
+            "Yours sincerely,",
+            "Yours faithfully,",
+            "[Your full name]"
+          ]
+        }
+      ],
+      "avoid": [
+        "Viết tắt (I'm, don't, can't…)",
+        "Hi / Best wishes / dấu chấm than",
+        "Dear Mr [Name] … Yours faithfully (sai cặp)"
+      ]
+    },
+    {
+      "key": "w2_opinion",
+      "part": "W2",
+      "name": "Opinion: đồng ý / không đồng ý, tích cực / tiêu cực, yếu tố quan trọng nhất",
+      "when": "Do you agree or disagree…? · Is this a positive or negative development? · What is the most important…? · Give your opinion on…",
+      "length": "270–300 từ · 4 đoạn · 40 phút",
+      "structure": [
+        {
+          "section": "Mở bài",
+          "how": "2–3 câu, 35–50 từ: viết lại đề bằng lời khác + nhượng bộ + quan điểm.",
+          "frames": [
+            "Nowadays, [paraphrase of the topic].",
+            "Although some people believe that [opposite view], I [agree / disagree] that [my view]."
+          ]
+        },
+        {
+          "section": "Thân bài 1 (1 PEER)",
+          "how": "Thừa nhận phía đối lập: ý → giải thích → ví dụ → kết quả.",
+          "frames": [
+            "Admittedly, some people argue that [opposite view].",
+            "This is because …",
+            "For example, …",
+            "As a result, …"
+          ]
+        },
+        {
+          "section": "Thân bài 2 (2 PEER)",
+          "how": "Hai lý do cho quan điểm của mình, mỗi lý do có giải thích + ví dụ.",
+          "frames": [
+            "However, I firmly believe that [my view] for two main reasons.",
+            "Firstly, …",
+            "For instance, …",
+            "Secondly, …",
+            "A good example is …",
+            "Therefore, …"
+          ]
+        },
+        {
+          "section": "Kết bài",
+          "how": "Nhắc lại quan điểm + tóm tắt 2 lý do. Không thêm ý mới.",
+          "frames": [
+            "In conclusion, although [opposite view], I believe that [my view] because [reason 1] and [reason 2]."
+          ]
+        }
+      ],
+      "avoid": [
+        "Chép nguyên câu đề vào mở bài",
+        "Đổi quan điểm giữa bài",
+        "Thêm ý mới ở kết bài"
+      ]
+    },
+    {
+      "key": "w2_discussion",
+      "part": "W2",
+      "name": "Discussion: bàn hai quan điểm + ý kiến riêng",
+      "when": "Discuss both views and give your own opinion.",
+      "length": "270–300 từ · 4 đoạn · 40 phút",
+      "structure": [
+        {
+          "section": "Mở bài",
+          "how": "2–3 câu, 35–50 từ: viết lại đề + nêu hai quan điểm + ý kiến của mình.",
+          "frames": [
+            "People have different opinions on whether [topic].",
+            "This essay will discuss both views, but I believe that [my view]."
+          ]
+        },
+        {
+          "section": "Thân bài 1 (1 PEER)",
+          "how": "Quan điểm A (không phải của mình).",
+          "frames": [
+            "On the one hand, some people believe that [view A].",
+            "This is because …",
+            "For example, …",
+            "As a result, …"
+          ]
+        },
+        {
+          "section": "Thân bài 2 (2 PEER)",
+          "how": "Quan điểm B (của mình): hai lý do, mỗi lý do có ví dụ.",
+          "frames": [
+            "On the other hand, I agree with those who think that [view B].",
+            "Firstly, …",
+            "For instance, …",
+            "Secondly, …",
+            "A good example is …",
+            "Therefore, …"
+          ]
+        },
+        {
+          "section": "Kết bài",
+          "how": "Tóm tắt hai phía + nhắc lại ý kiến.",
+          "frames": [
+            "In conclusion, although [view A], I believe that [view B] because [reason 1] and [reason 2]."
+          ]
+        }
+      ],
+      "avoid": [
+        "Chỉ bàn một phía",
+        "Quên nêu ý kiến riêng ở mở bài và kết bài"
+      ]
+    },
+    {
+      "key": "w2_adv_disadv",
+      "part": "W2",
+      "name": "Advantages & disadvantages: lợi ích và bất lợi",
+      "when": "Discuss the advantages and disadvantages of … (có thể kèm: Do the advantages outweigh…? / Give your opinion).",
+      "length": "270–300 từ · 4 đoạn · 40 phút",
+      "structure": [
+        {
+          "section": "Mở bài",
+          "how": "2–3 câu, 35–50 từ: viết lại đề + câu dẫn. Đề hỏi ý kiến/outweigh → nêu phía nào nặng hơn.",
+          "frames": [
+            "Nowadays, [paraphrase of the topic].",
+            "This essay will discuss both its advantages and disadvantages."
+          ]
+        },
+        {
+          "section": "Thân bài 1 (1 PEER)",
+          "how": "Phía yếu hơn (thường là bất lợi; nếu đề nhấn mạnh tác hại thì đảo lại: lợi ích 1 PEER, tác hại 2 PEER).",
+          "frames": [
+            "On the one hand, [topic] has one main drawback.",
+            "The biggest problem is that …",
+            "For example, …",
+            "As a result, …"
+          ]
+        },
+        {
+          "section": "Thân bài 2 (2 PEER)",
+          "how": "Phía mạnh hơn (thường là lợi ích): hai ý, mỗi ý có ví dụ.",
+          "frames": [
+            "On the other hand, [topic] brings two important benefits.",
+            "Firstly, …",
+            "For instance, …",
+            "Secondly, …",
+            "A good example is …",
+            "Thanks to this, …"
+          ]
+        },
+        {
+          "section": "Kết bài",
+          "how": "Tóm tắt hai phía. Chỉ khẳng định phía nào nặng hơn khi đề hỏi ý kiến.",
+          "frames": [
+            "In conclusion, [topic] has both advantages and disadvantages.",
+            "[Đề hỏi ý kiến:] In my opinion, its benefits outweigh its drawbacks."
+          ]
+        }
+      ],
+      "avoid": [
+        "Thân bài chỉ liệt kê, không có ví dụ",
+        "Bỏ mất một phía (lợi hoặc hại)"
+      ]
+    },
+    {
+      "key": "w2_cause_effect",
+      "part": "W2",
+      "name": "Causes & effects: nguyên nhân và ảnh hưởng",
+      "when": "What are the causes of … and what are its effects?",
+      "length": "270–300 từ · 4 đoạn · 40 phút",
+      "structure": [
+        {
+          "section": "Mở bài",
+          "how": "2–3 câu, 35–50 từ: viết lại đề + câu dẫn.",
+          "frames": [
+            "In recent years, [paraphrase of the problem].",
+            "This essay will discuss the main causes of this trend and its effects."
+          ]
+        },
+        {
+          "section": "Thân bài 1 (2 PEER gọn)",
+          "how": "Hai nguyên nhân, mỗi nguyên nhân: ý → giải thích → ví dụ.",
+          "frames": [
+            "There are two main causes of [problem].",
+            "Firstly, …",
+            "For example, …",
+            "Secondly, …",
+            "For instance, …"
+          ]
+        },
+        {
+          "section": "Thân bài 2 (2 PEER gọn)",
+          "how": "Hai ảnh hưởng, mỗi ảnh hưởng: ý → giải thích → ví dụ.",
+          "frames": [
+            "This trend has two [serious / important] effects.",
+            "The first effect is that …",
+            "A good example is …",
+            "Another effect is that …",
+            "As a result, …"
+          ]
+        },
+        {
+          "section": "Kết bài",
+          "how": "Tóm tắt nguyên nhân + ảnh hưởng.",
+          "frames": [
+            "In conclusion, [problem] is mainly caused by [cause 1] and [cause 2], and it leads to [effect 1] and [effect 2]."
+          ]
+        }
+      ],
+      "avoid": [
+        "Viết lẫn nguyên nhân và ảnh hưởng trong cùng một đoạn"
+      ]
+    },
+    {
+      "key": "w2_x_solution",
+      "part": "W2",
+      "name": "Causes / problems + solutions: nguyên nhân hoặc vấn đề và giải pháp",
+      "when": "What are the causes/problems of … and what can be done? · Discuss the effects and suggest solutions. · Đề 3 vế (causes, problems, solutions): Result của mỗi nguyên nhân chính là vấn đề nó gây ra.",
+      "length": "270–300 từ · 4 đoạn · 40 phút",
+      "structure": [
+        {
+          "section": "Mở bài",
+          "how": "2–3 câu, 35–50 từ: viết lại đề + câu dẫn.",
+          "frames": [
+            "In recent years, [paraphrase of the problem].",
+            "This essay will discuss the main [causes / problems] of this issue and suggest some solutions."
+          ]
+        },
+        {
+          "section": "Thân bài 1 (2 PEER gọn)",
+          "how": "Hai nguyên nhân (hoặc vấn đề / ảnh hưởng): ý → giải thích → ví dụ (→ hậu quả nếu đề hỏi).",
+          "frames": [
+            "There are two main [causes / problems] of [issue].",
+            "Firstly, …",
+            "For example, …",
+            "Secondly, …",
+            "As a result, …"
+          ]
+        },
+        {
+          "section": "Thân bài 2 (2 PEER gọn)",
+          "how": "Hai giải pháp khớp với hai nguyên nhân: ai làm + làm gì + kết quả.",
+          "frames": [
+            "However, there are some ways to solve this problem.",
+            "Firstly, [governments / schools / parents / companies] should …",
+            "For instance, …",
+            "Secondly, [who] should …",
+            "Thanks to this, …"
+          ]
+        },
+        {
+          "section": "Kết bài",
+          "how": "Tóm tắt nguyên nhân + giải pháp.",
+          "frames": [
+            "In conclusion, [issue] is mainly caused by [cause 1] and [cause 2], but it can be reduced if [solution 1] and [solution 2]."
+          ]
+        }
+      ],
+      "avoid": [
+        "Giải pháp không khớp nguyên nhân",
+        "Giải pháp chung chung không nói ai làm"
+      ]
+    },
+    {
+      "key": "w2_one_side",
+      "part": "W2",
+      "name": "One-sided: chỉ hỏi một vế (lợi ích / nguyên nhân / ảnh hưởng / giải pháp)",
+      "when": "What are the benefits of …? · Why do people …? · What effects …? · What can governments do …?",
+      "length": "270–300 từ · 4 đoạn · 40 phút",
+      "structure": [
+        {
+          "section": "Mở bài",
+          "how": "2–3 câu, 35–50 từ: viết lại đề + câu dẫn.",
+          "frames": [
+            "Nowadays, [paraphrase of the topic].",
+            "This essay will discuss the main [benefits / reasons / effects / solutions] of this."
+          ]
+        },
+        {
+          "section": "Thân bài 1 (2 PEER gọn)",
+          "how": "Nhóm 1 (ví dụ: với cá nhân): hai ý, mỗi ý có ví dụ.",
+          "frames": [
+            "To begin with, [topic] [affects / helps] individuals in two ways.",
+            "Firstly, …",
+            "For example, …",
+            "Secondly, …",
+            "As a result, …"
+          ]
+        },
+        {
+          "section": "Thân bài 2 (2 PEER gọn)",
+          "how": "Nhóm 2 (ví dụ: với xã hội / gia đình / công ty): hai ý, mỗi ý có ví dụ.",
+          "frames": [
+            "In addition, [topic] also [affects / helps] society.",
+            "One important point is that …",
+            "For instance, …",
+            "Another point is that …",
+            "Thanks to this, …"
+          ]
+        },
+        {
+          "section": "Kết bài",
+          "how": "Tóm tắt 2 nhóm.",
+          "frames": [
+            "In conclusion, [topic] [benefits / affects] both individuals and society in many ways."
+          ]
+        }
+      ],
+      "avoid": [
+        "Viết lan sang vế đề không hỏi"
+      ]
+    },
+    {
+      "key": "s1",
+      "part": "S1",
+      "name": "Speaking Part 1: Social Interaction",
+      "when": "2 chủ đề × 3 câu hỏi, khoảng 3 phút.",
+      "length": "Mỗi câu hỏi 3 câu, khoảng 30–40 từ",
+      "structure": [
+        {
+          "section": "Câu 1: trả lời thẳng",
+          "how": "Yes/No hoặc câu trả lời trực tiếp, lặp lại từ khoá của câu hỏi.",
+          "frames": [
+            "Yes, I do. I [verb] …",
+            "I usually [verb] about [twice a week].",
+            "I prefer [A] to [B]."
+          ]
+        },
+        {
+          "section": "Câu 2: lý do",
+          "how": "Vì sao.",
+          "frames": [
+            "This is because …",
+            "The main reason is that …"
+          ]
+        },
+        {
+          "section": "Câu 3: chi tiết",
+          "how": "Ví dụ cá nhân, thời gian, địa điểm.",
+          "frames": [
+            "For example, …",
+            "Last weekend, I …"
+          ]
+        }
+      ],
+      "avoid": [
+        "Chỉ nói \"Yes, I do.\" rồi dừng",
+        "Biến câu trả lời thành bài luận dài"
+      ]
+    },
+    {
+      "key": "s2",
+      "part": "S2",
+      "name": "Speaking Part 2: Solution Discussion",
+      "when": "Chọn 1 trong 3 phương án, 1 phút chuẩn bị + khoảng 2 phút nói.",
+      "length": "220–260 từ",
+      "structure": [
+        {
+          "section": "Chọn",
+          "how": "Nêu lựa chọn ngay câu đầu.",
+          "frames": [
+            "In this situation, among the three options, I think [A] is the best choice.",
+            "I choose it for two main reasons."
+          ]
+        },
+        {
+          "section": "Lý do 1",
+          "how": "Lý do → giải thích → ví dụ.",
+          "frames": [
+            "The first reason is that …",
+            "By that, I mean …",
+            "For example, …"
+          ]
+        },
+        {
+          "section": "Lý do 2",
+          "how": "Lý do → giải thích → ví dụ.",
+          "frames": [
+            "Another reason is that …",
+            "In other words, …",
+            "For instance, …"
+          ]
+        },
+        {
+          "section": "Loại 2 phương án còn lại",
+          "how": "Mỗi phương án 1–2 câu, có because.",
+          "frames": [
+            "There are also some reasons why I do not choose the other two options.",
+            "Regarding [B], I do not think it is the best choice because …",
+            "As for [C], I do not think it is the best option either because …"
+          ]
+        },
+        {
+          "section": "Kết",
+          "how": "Nhắc lại lựa chọn + 3 tính từ.",
+          "frames": [
+            "To sum up, out of these three options, I believe [A] is the best choice because it is [adj], [adj] and [adj]."
+          ]
+        }
+      ],
+      "avoid": [
+        "Không nói vì sao loại 2 phương án kia",
+        "Lý do chung chung không có ví dụ"
+      ]
+    },
+    {
+      "key": "s3",
+      "part": "S3",
+      "name": "Speaking Part 3: Topic Development",
+      "when": "Sơ đồ ý (mind map) 3 ý gợi ý + [your own ideas], 1 phút chuẩn bị, khoảng 2 phút nói, sau đó trả lời câu hỏi follow-up.",
+      "length": "Bài nói chính 200–260 từ · mỗi câu follow-up 3–4 câu (35–55 từ)",
+      "structure": [
+        {
+          "section": "Mở",
+          "how": "Giới thiệu chủ đề + ý chính.",
+          "frames": [
+            "Today I would like to talk about [topic].",
+            "In my opinion, [main idea]."
+          ]
+        },
+        {
+          "section": "Các ý gợi ý",
+          "how": "Mỗi ý 3 câu: ý → giải thích → ví dụ.",
+          "frames": [
+            "Firstly, …",
+            "Secondly, …",
+            "Thirdly, …",
+            "For example, …"
+          ]
+        },
+        {
+          "section": "Ý riêng",
+          "how": "Thêm 1 ý không có trong sơ đồ.",
+          "frames": [
+            "Another important point is that …"
+          ]
+        },
+        {
+          "section": "Kết",
+          "how": "Tóm tắt các ý.",
+          "frames": [
+            "To sum up, [topic] [is important / has many benefits] because of [idea 1], [idea 2] and [idea 3]."
+          ]
+        },
+        {
+          "section": "Follow-up",
+          "how": "3–4 câu: trả lời → lý do → ví dụ.",
+          "frames": [
+            "Yes, I think so. / No, I do not think so.",
+            "The main reason is that …",
+            "For example, …"
+          ]
+        }
+      ],
+      "avoid": [
+        "Bỏ sót một nhánh của sơ đồ",
+        "Quên ý riêng",
+        "Trả lời follow-up chỉ 1 câu"
+      ]
+    }
+  ]
+}

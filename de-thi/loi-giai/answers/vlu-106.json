@@ -2,6 +2,7 @@
  "id": "vlu-106",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -10,99 +11,110 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, vui vì bạn muốn đi trại hè",
-     "reusable": "I am so happy that you want to join a summer camp this year."
+     "content": "Cảm ơn thư, vui vì bạn muốn đi trại hè, sẵn lòng chia sẻ",
+     "reusable": "Thank you for your email. I am really happy that you want to join a summer camp this year"
     },
     {
-     "section": "Ý 1: kinh nghiệm nộp đơn",
-     "content": "Trại tiếng Anh và công nghệ 2 tuần ở Đà Nẵng: điền đơn online → viết bài luận ngắn → phỏng vấn online → được nhận",
-     "reusable": "First, I filled in an online form on their website."
+     "section": "Ý 1: kinh nghiệm đăng ký",
+     "content": "Trả lời thẳng (dễ) → trại khoa học 2 tuần ở Đà Nẵng → các bước: đơn online, bài luận, phỏng vấn",
+     "reusable": "Regarding my application, the process was quite easy."
     },
     {
-     "section": "Ý 2: giấy tờ cần chuẩn bị",
-     "content": "Bản sao CCCD/hộ chiếu, CV, thư giới thiệu của thầy cô, có nơi cần giấy khám sức khỏe",
-     "reusable": "Firstly, you need a copy of your ID card or passport."
+     "section": "Ý 2: giấy tờ",
+     "content": "Chỉ vài thứ → CCCD/hộ chiếu, CV → thư giới thiệu, xin sớm",
+     "reusable": "As for documents, you only need to prepare a few things."
     },
     {
      "section": "Ý 3: chuẩn bị khác",
-     "content": "Quần áo thoải mái, giày thể thao, thuốc; luyện tiếng Anh; cởi mở, sẵn sàng kết bạn",
-     "reusable": "Most importantly, be open and ready to make new friends!"
+     "content": "Quần áo, giày thể thao, thuốc → mũ, kem chống nắng vì hoạt động ngoài trời → luyện tiếng Anh",
+     "reusable": "About your question on other preparations, you should pack comfortable clothes, sports shoes and some basic medicine."
     },
     {
      "section": "Kết thư + ký tên",
      "content": "Chúc may mắn, chào cuối thư",
-     "reusable": "Good luck with your application! Best wishes,"
+     "reusable": "That's all for now. Good luck with your application! … Best wishes,"
     }
    ],
-   "answer": "Hi Anna,\n\nThanks for your email. I am so happy that you want to join a summer camp this year. It was one of the best experiences of my life!\n\nApplying for the camp was quite easy. Last year, I applied for a two-week English and technology camp in Da Nang. First, I filled in an online form on their website. Then I wrote a short essay about why I wanted to join. About two weeks later, I had a short online interview, and they accepted me.\n\nYou will need to prepare a few documents. Firstly, you need a copy of your ID card or passport. Secondly, they usually ask for a CV and a letter of recommendation from a teacher. Some camps also want a health certificate, so check their website carefully.\n\nBefore you go, you should prepare some other things too. Pack comfortable clothes, sports shoes and some medicine. You should also practise your English because you will talk with students from many countries. Most importantly, be open and ready to make new friends!\n\nGood luck with your application!\n\nBest wishes,\nMinh",
+   "answer": "Hi Anna,\n\nThank you for your email. I am really happy that you want to join a summer camp this year.\n\nRegarding my application, the process was quite easy. Last year, I applied for a two-week science camp in Da Nang through its website. First, I filled in an online form and wrote a short essay about why I wanted to join. Two weeks later, I had a short online interview, and they accepted me.\n\nAs for documents, you only need to prepare a few things. You need a copy of your ID card or passport and a short CV. Most camps also ask for a letter from a teacher or a manager, so ask for it early.\n\nAbout your question on other preparations, you should pack comfortable clothes, sports shoes and some basic medicine. The camp has many outdoor activities, so a hat and sunscreen are very useful. You should also practise your English because you will meet people from many countries.\n\nThat's all for now. Good luck with your application!\n\nBest wishes,\nMinh",
    "vocab": [
     {
-     "term": "apply for",
-     "meaning": "nộp đơn xin, đăng ký"
+     "term": "fill in an online form",
+     "meaning": "điền đơn trực tuyến"
     },
     {
-     "term": "fill in a form",
-     "meaning": "điền vào mẫu đơn"
+     "term": "accept someone",
+     "meaning": "nhận, chấp nhận ai"
     },
     {
-     "term": "letter of recommendation",
-     "meaning": "thư giới thiệu"
+     "term": "ID card",
+     "meaning": "căn cước công dân"
     },
     {
-     "term": "health certificate",
-     "meaning": "giấy chứng nhận sức khỏe"
+     "term": "basic medicine",
+     "meaning": "thuốc cơ bản"
     },
     {
-     "term": "make new friends",
-     "meaning": "kết bạn mới"
+     "term": "sunscreen",
+     "meaning": "kem chống nắng"
     }
    ]
   },
   "2": {
-   "essay_type": "Causes, problems & solutions (nguyên nhân, vấn đề gây ra và giải pháp: đề nêu \"causes\", câu yêu cầu cuối hỏi \"problems caused by\", nên bài trả lời cả hai)",
+   "essay_type": "Causes & solutions (nguyên nhân và giải pháp)",
+   "type_key": "x_solution",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: mâu thuẫn cha mẹ – con tuổi teen ngày càng phổ biến; tác hại: con cô đơn, căng thẳng, học kém, quan hệ gia đình yếu đi → bài bàn nguyên nhân và giải pháp",
-     "reusable": "This essay will discuss the main causes of these conflicts and suggest some possible solutions."
+     "content": "Viết lại đề (cha mẹ và con tuổi teen hay cãi nhau, quan hệ có thể xấu đi) + câu dẫn",
+     "reusable": "This essay will discuss the main causes of this issue and suggest some solutions."
     },
     {
-     "section": "Thân bài 1: nguyên nhân",
-     "content": "(1) khoảng cách thế hệ (2) cha mẹ kỳ vọng quá cao → con căng thẳng (3) thiếu giao tiếp: cha mẹ bận, con dùng điện thoại",
-     "reusable": "Firstly, there is a generation gap between parents and teenagers."
+     "section": "Thân bài 1 · nguyên nhân 1 → vấn đề",
+     "content": "P: khác thế hệ, khác giá trị → E: cha mẹ muốn học, con muốn tự do → Ex: game online → R (vấn đề): cãi nhau, con thấy không ai hiểu",
+     "reusable": "There are two main causes of these conflicts. Firstly, parents and teenagers grow up in very different times"
     },
     {
-     "section": "Thân bài 2: giải pháp",
-     "content": "(1) dành thời gian nói chuyện, bữa tối không điện thoại (2) tôn trọng riêng tư, đặt quy tắc rõ ràng (3) con hiểu cho cha mẹ (4) trường tổ chức buổi hội thảo",
-     "reusable": "However, there are some effective solutions. Firstly, parents and children should spend more time talking and listening to each other."
+     "section": "Thân bài 1 · nguyên nhân 2 → vấn đề",
+     "content": "P: ít nói chuyện → E: cha mẹ bận, con dùng điện thoại → Ex: ăn tối mà ai cũng nhìn màn hình → R (vấn đề): con giấu chuyện",
+     "reusable": "Secondly, family members do not talk to each other enough."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 1 (cho nguyên nhân 1)",
+     "content": "Ai: cha mẹ → lắng nghe, giải thích luật → Ex: thoả thuận 1 giờ chơi game sau bài tập",
+     "reusable": "However, there are some ways to solve this problem. Firstly, parents should listen to their children and respect their opinions."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 2 (cho nguyên nhân 2)",
+     "content": "Ai: cả gia đình → nói chuyện không điện thoại → Ex: bữa tối hằng tuần → R: hiểu nhau, giải quyết sớm",
+     "reusable": "Secondly, families should spend regular time talking without phones."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt nguyên nhân + giải pháp; gia đình hạnh phúc cần nỗ lực của mọi người",
-     "reusable": "A happy family needs effort from everyone."
+     "content": "Tóm tắt nguyên nhân + giải pháp",
+     "reusable": "In conclusion, family conflicts are mainly caused by different values and poor communication, but they can be reduced if …"
     }
    ],
-   "answer": "Nowadays, conflicts between parents and their teenage children are becoming more common. These conflicts cause serious problems. Teenagers may feel lonely and stressed, and some of them do badly at school. Family relationships can also become very weak. This essay will discuss the main causes of these conflicts and suggest some possible solutions.\n\nThere are several causes of this problem. Firstly, there is a generation gap between parents and teenagers. Parents grew up without smartphones and social media, so they often do not understand their children's lifestyle. Secondly, many parents have very high expectations. They want their children to get high marks and enter a famous university. As a result, teenagers feel stressed and argue with their parents. In addition, poor communication is a big cause. Parents are often busy with work, while teenagers spend most of their free time on their phones. They rarely talk to each other, so small problems become big arguments.\n\nHowever, there are some effective solutions. Firstly, parents and children should spend more time talking and listening to each other. For example, families can have dinner together every evening without phones. Secondly, parents should respect their children's privacy and give them some freedom. They can agree on clear rules, such as coming home before 10 p.m. Moreover, teenagers should also try to understand their parents, who work hard and want the best for them. Finally, schools can organize workshops to teach parents and students how to communicate better.\n\nIn conclusion, conflicts between parents and teenagers are caused by the generation gap, high expectations and poor communication. These conflicts hurt both teenagers and parents, but they can be solved if both sides talk more, respect each other and agree on clear rules. A happy family needs effort from everyone.",
+   "answer": "Today, arguments between parents and teenagers happen in many homes. If families ignore these arguments, their relationships can become weak and cold. This essay will discuss the main causes of this issue and suggest some solutions.\n\nThere are two main causes of these conflicts. Firstly, parents and teenagers grow up in very different times, so they have different values. Parents often want their children to study hard, while teenagers want more freedom. For example, a mother may think that online games are a waste of time, but her son sees them as a way to make friends. As a result, they argue often, and the teenager may feel that nobody understands him. Secondly, family members do not talk to each other enough. This is because parents are busy with work and teenagers spend a lot of time on their phones. For instance, many families eat dinner together, but everyone looks at a screen. Therefore, small problems are not discussed, and teenagers start to hide things from their parents.\n\nHowever, there are some ways to solve this problem. Firstly, parents should listen to their children and respect their opinions. This means that they should explain their rules instead of just giving orders. For instance, parents and their son can agree on one hour of gaming after he finishes his homework. Secondly, families should spend regular time talking without phones. A good example is a weekly family dinner where nobody uses a phone and everyone shares their news. Thanks to this, parents and teenagers can understand each other better and solve problems early.\n\nIn conclusion, family conflicts are mainly caused by different values and poor communication, but they can be reduced if parents listen and families talk more. With patience from both sides, homes can become happier and more peaceful.",
    "vocab": [
     {
-     "term": "generation gap",
-     "meaning": "khoảng cách thế hệ"
+     "term": "values",
+     "meaning": "giá trị, quan niệm sống"
     },
     {
-     "term": "high expectations",
-     "meaning": "kỳ vọng cao"
+     "term": "a waste of time",
+     "meaning": "sự lãng phí thời gian"
     },
     {
-     "term": "poor communication",
-     "meaning": "giao tiếp kém, thiếu giao tiếp"
+     "term": "hide things from someone",
+     "meaning": "giấu chuyện với ai"
     },
     {
-     "term": "respect someone's privacy",
-     "meaning": "tôn trọng sự riêng tư của ai"
+     "term": "give orders",
+     "meaning": "ra lệnh"
     },
     {
-     "term": "agree on",
-     "meaning": "thống nhất về"
+     "term": "respect someone's opinions",
+     "meaning": "tôn trọng ý kiến của ai"
     }
    ]
   }
@@ -110,28 +122,28 @@
  "speaking": {
   "1": {
    "answers": [
-    "When I was young, I went to a public primary school near my house in Ho Chi Minh City. It was a small school, but the teachers were very kind.",
-    "I prefer public schools. They are much cheaper, and students come from many different backgrounds. In my opinion, they also have good teachers.",
-    "The main difference is the cost. Private schools are more expensive, but they usually have smaller classes and better facilities. Public schools are cheaper, but their classes are often crowded.",
-    "Yes, I do. I live in Ho Chi Minh City, so I get stuck in traffic almost every day. Sometimes a 20-minute trip takes me one hour.",
-    "Traffic jams usually happen during rush hours, from 7 to 8 a.m. and from 5 to 7 p.m. They are also very bad when it rains heavily.",
-    "I think the city should build more metro lines and improve the bus service. Companies can also let staff work from home a few days a week. As a result, there will be fewer vehicles on the roads."
+    "When I was young, I attended a public primary school near my house. My parents chose it because it was cheap and close to home. It was small, but the teachers were very kind and caring.",
+    "I prefer public schools. The main reason is that they are much cheaper, and students come from many different backgrounds. For example, at my old school, I had classmates from both rich and poor families.",
+    "I think the main difference is the cost. Private schools are more expensive, but they usually have smaller classes and better facilities. In contrast, public schools are cheaper, but their classes are often crowded.",
+    "Yes, I do. I live in Ho Chi Minh City, so I get stuck in traffic almost every day. For example, my 20-minute trip to work sometimes takes one hour in the rain.",
+    "Traffic jams usually happen during rush hours, from 7 to 8 a.m. and from 5 to 7 p.m. This is because everyone goes to work or school at the same time. They are also bad on rainy days.",
+    "I think the city should build more metro lines and improve the bus service. If public transport is good, fewer people will use motorbikes and cars. Companies can also let staff work from home a few days a week."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay loại trường / Yes-No / thời điểm",
-     "reusable": "I prefer public schools."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi",
+     "reusable": "When I was young, I attended a public primary school near my house."
     },
     {
-     "section": "Lý do / so sánh",
-     "content": "So sánh bằng more … / -er … but …",
-     "reusable": "Private schools are more expensive, but they usually have smaller classes and better facilities."
+     "section": "Câu 2: lý do",
+     "content": "Nói vì sao",
+     "reusable": "The main reason is that they are much cheaper, and students come from many different backgrounds."
     },
     {
-     "section": "Ví dụ / giải pháp",
-     "content": "Thêm ví dụ cá nhân hoặc giải pháp cụ thể",
-     "reusable": "I think the city should build more metro lines and improve the bus service."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân cụ thể",
+     "reusable": "For example, my 20-minute trip to work sometimes takes one hour in the rain."
     }
    ],
    "vocab": [
@@ -140,16 +152,16 @@
      "meaning": "cơ sở vật chất"
     },
     {
+     "term": "crowded",
+     "meaning": "đông đúc"
+    },
+    {
      "term": "get stuck in traffic",
      "meaning": "bị kẹt xe"
     },
     {
-     "term": "rush hour",
+     "term": "rush hours",
      "meaning": "giờ cao điểm"
-    },
-    {
-     "term": "fewer vehicles on the roads",
-     "meaning": "ít xe cộ trên đường hơn"
     },
     {
      "term": "work from home",
@@ -159,117 +171,117 @@
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think promoting the city through social media is the best choice. I choose it for two main reasons.\n\nThe first reason is that social media can reach a huge number of people at a low cost. By that, I mean the city can post photos and videos on Facebook, TikTok and Instagram with a small budget. For example, a short video of the Dragon Bridge in Da Nang breathing fire can get many views in just a few days.\n\nAnother reason is that social media lets tourists share their own experiences. In other words, visitors become free advertisers for the city. For instance, when my friends post beautiful photos of Da Lat, many people comment and ask how to get there. Real photos from real people are also easier to trust than adverts.\n\nThere are also some reasons why I do not choose the other two options. Regarding advertising through TV and radio, I do not think it is the best choice because it is very expensive and young people rarely watch TV now. As for writing travel blogs and articles, I do not think it is the best option either because good articles take a long time to write. Also, fewer people read long texts these days.\n\nTo sum up, out of these three options, I believe promoting the city through social media is the best choice because it is cheap, fast and popular.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn quảng bá qua mạng xã hội",
-     "reusable": "I think the best way is to promote the city through social media."
+     "section": "Chọn",
+     "content": "Câu khung + quảng bá qua mạng xã hội",
+     "reusable": "In this situation, among the three options, I think promoting the city through social media is the best choice. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) tiếp cận hàng triệu người, khách trẻ (2) rẻ, gần như miễn phí (3) lan truyền nhanh; ví dụ quán cà phê ở Đà Lạt nổi tiếng nhờ TikTok",
-     "reusable": "First, social media can reach millions of people around the world."
+     "section": "Lý do 1",
+     "content": "Tiếp cận nhiều người, chi phí thấp → By that, I mean … → For example: video cầu Rồng phun lửa",
+     "reusable": "The first reason is that social media can reach a huge number of people at a low cost. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn TV và radio",
-     "content": "Quảng cáo TV đắt, giới trẻ ít xem TV; radio không có hình ảnh",
-     "reusable": "I don't choose advertising through TV and radio."
+     "section": "Lý do 2",
+     "content": "Du khách tự chia sẻ → In other words … → For instance: bạn bè đăng ảnh Đà Lạt",
+     "reusable": "Another reason is that social media lets tourists share their own experiences. In other words, …"
     },
     {
-     "section": "Vì sao không chọn blog, bài viết",
-     "content": "Có thông tin chi tiết nhưng tốn thời gian viết và đọc; người ta thích video ngắn",
-     "reusable": "Many people today prefer short videos to long articles."
+     "section": "Loại 2 phương án",
+     "content": "TV, radio: đắt, giới trẻ ít xem; blog, bài viết: viết lâu, ít người đọc bài dài",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding advertising through TV and radio, I do not think it is the best choice because … As for writing travel blogs and articles, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: rẻ, nhanh, tiếp cận nhiều người",
-     "reusable": "In conclusion, promoting the city through social media is the best choice because it is cheap and fast, and it can reach a lot of people."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe promoting the city through social media is the best choice because it is cheap, fast and popular."
     }
    ],
-   "answer": "I think the best way is to promote the city through social media. Let me explain why.\n\nFirst, social media can reach millions of people around the world. Today, most young travellers use Facebook, Instagram and TikTok to find new places to visit. Second, it is cheap. The city can create its own pages and post photos and short videos almost for free. In addition, social media content spreads very quickly. If a video about our street food or our beaches is interesting, people will share it with their friends. For example, many tourists visited a small café in Da Lat after it became famous on TikTok.\n\nI don't choose advertising through TV and radio. TV adverts are very expensive, and fewer young people watch TV nowadays. Radio is even worse because listeners cannot see the beautiful pictures of the city. I also don't choose writing engaging content such as travel blogs and articles. They give useful details, but they take a long time to write and to read. Many people today prefer short videos to long articles.\n\nIn conclusion, promoting the city through social media is the best choice because it is cheap and fast, and it can reach a lot of people.",
    "vocab": [
     {
-     "term": "promote",
-     "meaning": "quảng bá"
+     "term": "reach people",
+     "meaning": "tiếp cận mọi người"
     },
     {
-     "term": "reach a lot of people",
-     "meaning": "tiếp cận nhiều người"
+     "term": "at a low cost",
+     "meaning": "với chi phí thấp"
     },
     {
-     "term": "spread very quickly",
-     "meaning": "lan truyền nhanh"
+     "term": "advertiser",
+     "meaning": "người quảng cáo"
     },
     {
-     "term": "advert / advertisement",
+     "term": "advert",
      "meaning": "quảng cáo"
     },
     {
-     "term": "engaging content",
-     "meaning": "nội dung hấp dẫn"
+     "term": "rarely",
+     "meaning": "hiếm khi"
     }
    ]
   },
   "3": {
-   "own_idea": "Creating more jobs",
+   "answer": "Today I would like to talk about effective ways to reduce crime rates in society. In my opinion, we need to combine several methods to make our cities safer.\n\nFirstly, the government should install security cameras in public areas. Criminals are less likely to break the law when they know someone is watching. For example, many streets in Ho Chi Minh City now have cameras, and the police use them to find motorbike thieves quickly.\n\nSecondly, building more prisons and giving stricter punishment can stop some people from committing crimes. When the punishment is serious, people think carefully before they do something wrong. For instance, heavy fines for drunk driving have made many drivers in Vietnam more careful.\n\nThirdly, improving education and awareness is the long-term solution. When young people understand the law and the harm of crime, they are less likely to become criminals. A good example is the talks about drugs and online scams that the police give at many high schools.\n\nAnother important point is that young people need jobs and useful activities. Some people commit crimes because they are poor or bored. For example, free job training courses can help young people earn money in an honest way.\n\nTo sum up, cameras, strict punishment, education and job opportunities can all help to reduce crime and make our society safer.",
+   "own_idea": "Creating jobs and useful activities for young people",
+   "follow_ups": [
+    "Yes, I have, but it was not very serious. Two years ago, a man on a motorbike grabbed my phone while I was waiting at a traffic light. He rode away very fast, so I could not do anything. Since then, I always keep my phone in my bag on the street.",
+    "I think theft is the most common crime in my country, especially in big cities. The main reason is that phones and motorbikes are easy to steal and sell. Online scams are also becoming common. For example, my aunt once got a fake call from a man who pretended to be a police officer.",
+    "Yes, I think Vietnam is quite safe, especially for tourists. The main reason is that violent crime is rare, and people are usually friendly and helpful. For example, I can walk around my neighbourhood at night without feeling worried. However, people should still watch their bags in crowded places."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 cách chính",
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
      "reusable": "Today I would like to talk about effective ways to reduce crime rates in society."
     },
     {
-     "section": "Ý 1: Security cameras in public areas",
-     "content": "Camera ở đường phố, công viên, bến xe → cảnh sát theo dõi; tội phạm sợ bị ghi hình",
-     "reusable": "First, the government should install security cameras in public areas."
+     "section": "Ý 1: camera an ninh",
+     "content": "Ý → tội phạm sợ bị nhìn thấy → ví dụ camera ở TP.HCM bắt trộm xe",
+     "reusable": "Firstly, the government should install security cameras in public areas."
     },
     {
-     "section": "Ý 2: More prisons and stricter punishment",
-     "content": "Phạt nặng → suy nghĩ kỹ trước khi phạm luật; nhưng nhà tù không giải quyết hết vì tái phạm",
-     "reusable": "If punishments are serious, people will think twice before they break the law."
+     "section": "Ý 2: thêm nhà tù, phạt nặng",
+     "content": "Ý → người ta suy nghĩ trước khi làm sai → ví dụ phạt nặng lái xe say rượu",
+     "reusable": "Secondly, building more prisons and giving stricter punishment can stop some people from committing crimes."
     },
     {
-     "section": "Ý 3: Education and awareness",
-     "content": "Dạy trẻ về pháp luật, đúng sai; truyền thông cảnh báo lừa đảo online",
-     "reusable": "Third, improving education and awareness is very important."
+     "section": "Ý 3: giáo dục, nâng cao nhận thức",
+     "content": "Ý → hiểu luật thì ít phạm tội → ví dụ công an nói chuyện về ma tuý, lừa đảo ở trường",
+     "reusable": "Thirdly, improving education and awareness is the long-term solution."
     },
     {
-     "section": "Ý riêng: Creating more jobs",
-     "content": "Nghèo, thất nghiệp → trộm cắp; đào tạo nghề, tạo việc làm",
-     "reusable": "Finally, I think creating more jobs can reduce crime."
+     "section": "Ý riêng: việc làm cho người trẻ",
+     "content": "Ý → nghèo, buồn chán dễ phạm tội → ví dụ khoá học nghề miễn phí",
+     "reusable": "Another important point is that young people need jobs and useful activities."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt 4 cách + kết hợp tất cả",
-     "reusable": "The best result will come when we use all of these ways together."
+     "section": "Kết",
+     "content": "Tóm tắt 4 cách",
+     "reusable": "To sum up, cameras, strict punishment, education and job opportunities can all help to reduce crime"
     }
-   ],
-   "answer": "Today I would like to talk about effective ways to reduce crime rates in society. In my opinion, there are four main ways.\n\nFirst, the government should install security cameras in public areas. Cameras in streets, parks and bus stations help the police watch these places all the time. Criminals are also afraid of being recorded, so they commit fewer crimes.\n\nSecond, some people think we need more prisons and stricter punishment. If punishments are serious, people will think twice before they break the law. However, prisons alone cannot solve the problem, because some prisoners commit crimes again after they leave.\n\nThird, improving education and awareness is very important. Schools should teach children about the law and about right and wrong. In addition, TV and social media can warn people about common tricks, such as online scams.\n\nFinally, I think creating more jobs can reduce crime. Many people steal because they are poor and have no job. If the government offers job training and more jobs, fewer people will turn to crime.\n\nIn conclusion, security cameras, stricter punishment, education and more jobs can all help to reduce crime. The best result will come when we use all of these ways together.",
-   "follow_ups": [
-    "Yes, I have. Two years ago, someone stole my phone while I was waiting at a traffic light. I was shocked, but luckily I was not hurt.",
-    "In my country, the most common crimes are theft and online scams. Many people lose money because of fake messages and phone calls.",
-    "Yes, I think my country is quite safe. People can walk in the city centre at night without much worry. However, we should still be careful with our phones and bags in crowded places."
    ],
    "vocab": [
     {
-     "term": "install security cameras",
-     "meaning": "lắp camera an ninh"
+     "term": "security cameras",
+     "meaning": "camera an ninh"
     },
     {
-     "term": "commit crimes",
+     "term": "stricter punishment",
+     "meaning": "hình phạt nghiêm khắc hơn"
+    },
+    {
+     "term": "commit a crime",
      "meaning": "phạm tội"
     },
     {
-     "term": "think twice",
-     "meaning": "suy nghĩ kỹ"
-    },
-    {
-     "term": "online scam",
+     "term": "online scams",
      "meaning": "lừa đảo trực tuyến"
     },
     {
-     "term": "turn to crime",
-     "meaning": "sa vào con đường phạm tội"
+     "term": "theft",
+     "meaning": "trộm cắp"
     }
    ]
   }

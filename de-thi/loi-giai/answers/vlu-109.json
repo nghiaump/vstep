@@ -2,104 +2,282 @@
  "id": "vlu-109",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
-    {"section": "Lời chào", "content": "Chào thân mật theo tên", "reusable": "Dear Sarah,"},
-    {"section": "Mở đầu", "content": "Cảm ơn thư, vui vì bạn sang Việt Nam cả tháng", "reusable": "I am so happy that you are coming to Vietnam for a whole month!"},
-    {"section": "Ý 1: nên mang gì", "content": "Quần áo mỏng (miền Nam nóng), áo khoác (miền Bắc mát), kem chống nắng, mũ, thuốc đau bụng, giày thoải mái", "reusable": "First, you should bring light clothes because it is hot in the south."},
-    {"section": "Ý 2: nơi nên đến", "content": "Vịnh Hạ Long, phố cổ Hội An về đêm, TP.HCM", "reusable": "I recommend Ha Long Bay in the north because of its amazing islands."},
-    {"section": "Ý 3: hoạt động nên tham gia", "content": "Lớp nấu ăn (gỏi cuốn) ở Hội An, đi thuyền ở miền Tây, tour ẩm thực đường phố ở TP.HCM tối thứ Bảy, đón lúc 6 giờ", "reusable": "As for activities, you could take a cooking class in Hoi An and learn to make spring rolls."},
-    {"section": "Kết thư + ký tên", "content": "Mời hỏi thêm, chào cuối thư", "reusable": "Let me know if you have any other questions. Best wishes,"}
+    {
+     "section": "Lời chào",
+     "content": "Chào thân mật theo tên",
+     "reusable": "Dear Sarah,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Cảm ơn thư, vui vì bạn sang Việt Nam cả tháng",
+     "reusable": "Thank you for your email. I am so happy that you are coming to Vietnam for a whole month!"
+    },
+    {
+     "section": "Ý 1: nên mang gì",
+     "content": "Trả lời thẳng (đồ mỏng vì miền Nam nóng) → miền Bắc lạnh nên mang áo khoác → kem chống nắng, mũ, thuốc",
+     "reusable": "Regarding what to bring, you should pack light clothes because it is hot in the south."
+    },
+    {
+     "section": "Ý 2: nơi nên đến",
+     "content": "Vịnh Hạ Long (đảo đẹp) → Hội An (đèn lồng) → TP.HCM, quê mình",
+     "reusable": "As for places to visit, I recommend Ha Long Bay in the north because of its amazing islands."
+    },
+    {
+     "section": "Ý 3: hoạt động",
+     "content": "Lớp nấu ăn Hội An → đi thuyền miền Tây → hẹn tour ăn vặt: 6 giờ tối thứ Bảy, gặp ở khách sạn",
+     "reusable": "About activities, you could take a cooking class in Hoi An and learn to make spring rolls. … How about meeting at your hotel at 6 p.m. on your first Saturday here?"
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Xin báo nếu giờ không hợp + chào cuối thư",
+     "reusable": "If this time does not suit you, just let me know. Write back soon. … Best wishes,"
+    }
    ],
-   "answer": "Dear Sarah,\n\nThank you for your email. I am so happy that you are coming to Vietnam for a whole month!\n\nFirst, you should bring light clothes because it is hot in the south. However, the north can be cool, so pack a jacket too. Don't forget sunscreen, a hat and some medicine for stomach problems. You should also bring comfortable shoes for walking.\n\nThere are many beautiful places to visit. I recommend Ha Long Bay in the north because of its amazing islands. Hoi An is also a must-see place, especially at night with its colourful lanterns. Of course, you should spend a few days in Ho Chi Minh City, my hometown.\n\nAs for activities, you could take a cooking class in Hoi An and learn to make spring rolls. You could also go on a boat trip in the Mekong Delta. When you are in Ho Chi Minh City, let's go on a street food tour together on Saturday evening. I will pick you up at your hotel at 6 p.m.\n\nLet me know if you have any other questions.\n\nBest wishes,\nMinh",
+   "answer": "Dear Sarah,\n\nThank you for your email. I am so happy that you are coming to Vietnam for a whole month!\n\nRegarding what to bring, you should pack light clothes because it is hot in the south. However, the north can be cool, so bring a jacket too. Don't forget sunscreen, a hat and some medicine for stomach problems.\n\nAs for places to visit, I recommend Ha Long Bay in the north because of its amazing islands. Hoi An is also a must-see place, especially at night with its colourful lanterns. Of course, you should spend a few days in Ho Chi Minh City, my hometown.\n\nAbout activities, you could take a cooking class in Hoi An and learn to make spring rolls. You could also go on a boat trip in the Mekong Delta. In Ho Chi Minh City, let's go on a street food tour together. How about meeting at your hotel at 6 p.m. on your first Saturday here?\n\nIf this time does not suit you, just let me know. Write back soon.\n\nBest wishes,\nMinh",
    "vocab": [
-    {"term": "light clothes", "meaning": "quần áo mỏng, nhẹ"},
-    {"term": "sunscreen", "meaning": "kem chống nắng"},
-    {"term": "a must-see place", "meaning": "nơi nhất định phải đến"},
-    {"term": "take a cooking class", "meaning": "tham gia một lớp học nấu ăn"},
-    {"term": "pick someone up", "meaning": "đón ai"}
+    {
+     "term": "light clothes",
+     "meaning": "quần áo mỏng nhẹ"
+    },
+    {
+     "term": "sunscreen",
+     "meaning": "kem chống nắng"
+    },
+    {
+     "term": "a must-see place",
+     "meaning": "nơi nhất định phải đến"
+    },
+    {
+     "term": "lanterns",
+     "meaning": "đèn lồng"
+    },
+    {
+     "term": "street food tour",
+     "meaning": "tour ăn vặt đường phố"
+    }
    ]
   },
   "2": {
-   "essay_type": "Opinion: positive or negative development (nêu ý kiến: xu hướng tích cực hay tiêu cực)",
+   "essay_type": "Opinion – positive or negative development (nêu quan điểm tích cực / tiêu cực)",
+   "type_key": "opinion",
    "outline": [
-    {"section": "Mở bài", "content": "Viết lại đề: nhiều nước đầu tư năng lượng thay thế; một số người nói có mặt trái → ý kiến: tích cực dù có vài vấn đề", "reusable": "In my opinion, the increasing use of alternative energy is a positive development, although it has some problems."},
-    {"section": "Thân bài 1: vì sao tích cực", "content": "(1) tốt cho môi trường, không khói, không CO2 (2) không bao giờ cạn kiệt (3) tạo việc làm, ví dụ điện mặt trời Ninh Thuận", "reusable": "Firstly, alternative energy is much better for the environment."},
-    {"section": "Thân bài 2: nhược điểm nhưng có thể khắc phục", "content": "(1) chi phí ban đầu cao nhưng đang giảm (2) phụ thuộc thời tiết → pin lưu trữ tốt hơn (3) đập thủy điện hại sông, người dân phải di dời → quy hoạch cẩn thận", "reusable": "On the other hand, I agree that alternative energy has some drawbacks."},
-    {"section": "Kết bài", "content": "Lợi ích lớn hơn tác hại → tích cực, chính phủ nên tiếp tục đầu tư", "reusable": "Therefore, I believe it is a positive development, and governments should continue to invest in it."}
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (nhiều nước đầu tư điện mặt trời, gió, nước) + nhượng bộ + quan điểm: tích cực",
+     "reusable": "Although some people believe that this trend has serious problems, I think it is a positive change."
+    },
+    {
+     "section": "Thân bài 1 · PEER phía đối lập",
+     "content": "P: có nhược điểm → E: đắt, có thể hại thiên nhiên → Ex: đập thuỷ điện làm ngập rừng, dời làng → R: người dân mất đất, động vật mất nơi sống",
+     "reusable": "Admittedly, some people argue that alternative energy has some drawbacks. This is because …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 1",
+     "content": "P: không khí sạch, bảo vệ sức khoẻ → E: không khói như nhiệt điện than → Ex: bệnh hen, bệnh phổi ở thành phố → R: ít bệnh nhân hơn",
+     "reusable": "However, I firmly believe that the growing use of alternative energy is a positive development for two main reasons. Firstly, …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 2",
+     "content": "P: tự chủ năng lượng, tạo việc làm → E: không phải mua than, dầu → Ex: Ninh Thuận → R: tốt cho môi trường và kinh tế",
+     "reusable": "Secondly, alternative energy helps countries become more independent and creates jobs."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Nhắc lại quan điểm + 2 lý do",
+     "reusable": "In conclusion, although alternative energy has some drawbacks, I believe that its growing use is a positive development because …"
+    }
    ],
-   "answer": "In recent years, many countries have spent a lot of money on alternative energy, such as solar, wind and hydroelectric power. However, some people say that this trend also has drawbacks. In my opinion, the increasing use of alternative energy is a positive development, although it has some problems.\n\nFirstly, alternative energy is much better for the environment. Solar panels and wind turbines do not produce smoke or carbon dioxide. As a result, the air becomes cleaner and climate change slows down. Secondly, these energy sources will never run out. Coal and oil will be used up one day, but the sun and the wind are always there. In addition, alternative energy creates new jobs. For example, in Vietnam, many workers now build and repair solar farms in Ninh Thuan province.\n\nOn the other hand, I agree that alternative energy has some drawbacks. Firstly, building solar farms and wind farms is very expensive at the beginning. However, the cost is falling every year, and the energy from the sun and wind is free. Secondly, solar and wind power depend on the weather. There is no solar power at night and very little on cloudy days, but scientists are solving this problem with better batteries. Moreover, large dams for hydroelectric power can damage rivers and force people to move. Governments should plan these projects carefully to protect local people.\n\nIn conclusion, alternative energy has some disadvantages, such as high costs and weather problems. However, its benefits for the environment and the economy are much greater. Therefore, I believe it is a positive development, and governments should continue to invest in it.",
+   "answer": "In recent years, many countries have spent a lot of money on clean power from the sun, wind and water. Although some people believe that this trend has serious problems, I think it is a positive change.\n\nAdmittedly, some people argue that alternative energy has some drawbacks. This is because it can be expensive and may harm nature in some cases. For example, large hydroelectric dams in Vietnam have flooded forests and forced some villages to move. As a result, local people may lose their land, and wild animals may lose their homes.\n\nHowever, I firmly believe that the growing use of alternative energy is a positive development for two main reasons. Firstly, it makes the air cleaner and protects people's health. Solar and wind power do not produce smoke like coal power plants. For instance, many people in big cities like Hanoi suffer from asthma and lung disease because of polluted air. With more clean energy, the number of these patients can go down. Secondly, alternative energy helps countries become more independent and creates jobs. This means that countries do not need to buy so much coal and oil from abroad, because sunlight and wind are free. A good example is Ninh Thuan, where many solar and wind farms have created new jobs for local people. Therefore, alternative energy is good for both the environment and the economy.\n\nIn conclusion, although alternative energy has some drawbacks, I believe that its growing use is a positive development because it protects our health and supports the economy. Governments should continue to invest in it, but they should also plan carefully to protect nature.",
    "vocab": [
-    {"term": "alternative energy", "meaning": "năng lượng thay thế"},
-    {"term": "solar panel / wind turbine", "meaning": "tấm pin mặt trời / tua-bin gió"},
-    {"term": "run out", "meaning": "cạn kiệt, hết"},
-    {"term": "climate change", "meaning": "biến đổi khí hậu"},
-    {"term": "invest in", "meaning": "đầu tư vào"}
+    {
+     "term": "alternative energy",
+     "meaning": "năng lượng thay thế"
+    },
+    {
+     "term": "hydroelectric dam",
+     "meaning": "đập thuỷ điện"
+    },
+    {
+     "term": "coal power plant",
+     "meaning": "nhà máy nhiệt điện than"
+    },
+    {
+     "term": "polluted air",
+     "meaning": "không khí ô nhiễm"
+    },
+    {
+     "term": "invest in",
+     "meaning": "đầu tư vào"
+    }
    ]
   }
  },
  "speaking": {
   "1": {
    "answers": [
-    "I enjoy watching comedies and science fiction movies. Comedies help me relax after work, and science fiction movies make me think about the future.",
-    "I watch movies at home about twice a week, usually on Netflix. I only go to the cinema once a month because the tickets are quite expensive.",
-    "I usually watch movies with my younger sister. We like the same kind of movies, and we can talk about them afterwards.",
-    "I don't have any pets now, but I would like to have a cat one day. Cats are quiet and clean, so they are suitable for a small apartment.",
-    "Pets can make people feel happy and less lonely. In addition, walking a dog every day helps the owner stay healthy.",
-    "Yes, I think so. Owners have to feed their pets, clean up after them and take them to the vet. This takes a lot of time and money."
+    "I enjoy watching comedies and science fiction movies. Comedies help me relax after work, and science fiction movies make me think about the future. My favourite film is Interstellar because it is about space and family.",
+    "I watch movies at home about twice a week, usually on Netflix. I only go to the cinema once a month because the tickets are quite expensive. Last month, I saw a new Vietnamese comedy there with my friends.",
+    "I usually watch movies with my younger sister. We like the same kind of movies, so we never argue about what to watch. After the film, we often talk about it over a cup of tea.",
+    "I do not have any pets now, but I would like to have a cat one day. Cats are quiet and clean, so they are suitable for a small apartment. Also, a cat does not need a walk every day.",
+    "I think pets can make people feel happy and less lonely. The reason is that they always welcome you when you come home. In addition, walking a dog every day helps the owner stay healthy.",
+    "Yes, I think keeping pets requires a lot of responsibility. Owners have to feed their pets, clean up after them and take them to the vet. This takes a lot of time and money, so people should think carefully first."
    ],
    "outline": [
-    {"section": "Câu trả lời trực tiếp", "content": "Trả lời ngay thể loại / tần suất / Yes-No", "reusable": "I watch movies at home about twice a week, usually on Netflix."},
-    {"section": "Lý do", "content": "Thêm 1 lý do bằng because / so", "reusable": "Cats are quiet and clean, so they are suitable for a small apartment."},
-    {"section": "Ví dụ / chi tiết", "content": "Thêm 1 chi tiết cụ thể", "reusable": "Owners have to feed their pets, clean up after them and take them to the vet."}
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi",
+     "reusable": "I enjoy watching comedies and science fiction movies."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "Nói vì sao",
+     "reusable": "Cats are quiet and clean, so they are suitable for a small apartment."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân cụ thể",
+     "reusable": "Last month, I saw a new Vietnamese comedy there with my friends."
+    }
    ],
    "vocab": [
-    {"term": "comedy / science fiction movie", "meaning": "phim hài / phim khoa học viễn tưởng"},
-    {"term": "afterwards", "meaning": "sau đó"},
-    {"term": "lonely", "meaning": "cô đơn"},
-    {"term": "feed", "meaning": "cho ăn"},
-    {"term": "the vet", "meaning": "bác sĩ thú y, phòng khám thú y"}
+    {
+     "term": "science fiction",
+     "meaning": "khoa học viễn tưởng"
+    },
+    {
+     "term": "comedy",
+     "meaning": "phim hài"
+    },
+    {
+     "term": "lonely",
+     "meaning": "cô đơn"
+    },
+    {
+     "term": "take them to the vet",
+     "meaning": "đưa chúng đi bác sĩ thú y"
+    },
+    {
+     "term": "responsibility",
+     "meaning": "trách nhiệm"
+    }
    ]
   },
   "2": {
-   "choice": 2,
+   "choice": 1,
+   "answer": "In this situation, among the three options, I think a handmade gift is the best choice for our retiring colleague. I choose it for two main reasons.\n\nThe first reason is that a handmade gift is very personal and meaningful. By that, I mean it shows that the whole team spent time and effort to make something special for him. For example, we can make a photo album with pictures from his years at the company and a short message from each team member.\n\nAnother reason is that he can keep it for the rest of his life. In other words, it will remind him of his colleagues whenever he looks at it. For instance, my father still keeps a handmade card from his students on his desk, although he retired five years ago.\n\nThere are also some reasons why I do not choose the other two options. Regarding the tickets to a show or event, I do not think it is the best choice because we do not know which shows he likes. Also, the gift is over after just one evening. As for a book, I do not think it is the best option either because it is quite common and not very personal. He may also have read it already.\n\nTo sum up, out of these three options, I believe a handmade gift is the best choice because it is personal, meaningful and long-lasting.",
    "outline": [
-    {"section": "Nêu lựa chọn", "content": "Chọn cặp vé xem biểu diễn / sự kiện", "reusable": "I think our team should give our retiring colleague a pair of tickets to a show or event."},
-    {"section": "Lý do chọn", "content": "(1) nghỉ hưu có nhiều thời gian rảnh (2) vé đôi, đi cùng vợ (3) trải nghiệm đáng nhớ", "reusable": "First, after he retires, he will have a lot of free time."},
-    {"section": "Vì sao không chọn quà tự làm", "content": "Ý nghĩa nhưng nhóm bận, không khéo tay; quà xấu thì ngại", "reusable": "I don't choose a handmade gift."},
-    {"section": "Vì sao không chọn sách", "content": "Rẻ, dễ mua nhưng đơn giản quá; không biết sở thích, có thể đã có", "reusable": "I also don't choose a book. A book is cheap and easy to buy, but it is quite simple for such an important day."},
-    {"section": "Kết luận", "content": "Nhắc lại lựa chọn: vui, hữu ích, đáng nhớ", "reusable": "In conclusion, a pair of tickets to a show or event is the best farewell gift because it is fun, useful and memorable."}
+    {
+     "section": "Chọn",
+     "content": "Câu khung + quà tự làm",
+     "reusable": "In this situation, among the three options, I think a handmade gift is the best choice for our retiring colleague. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Mang tính cá nhân, ý nghĩa → By that, I mean … → For example: album ảnh + lời nhắn của cả nhóm",
+     "reusable": "The first reason is that a handmade gift is very personal and meaningful. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "Giữ được cả đời → In other words … → For instance: bố vẫn giữ thiệp học trò tặng",
+     "reusable": "Another reason is that he can keep it for the rest of his life. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "Vé xem show: không biết sở thích, chỉ một buổi tối; sách: phổ biến, ít cá nhân, có thể đã đọc",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding the tickets to a show or event, I do not think it is the best choice because … As for a book, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe a handmade gift is the best choice because it is personal, meaningful and long-lasting."
+    }
    ],
-   "answer": "I think our team should give our retiring colleague a pair of tickets to a show or event. Let me explain why.\n\nFirst, after he retires, he will have a lot of free time. A pair of tickets will give him a chance to enjoy this free time. For example, he can go to a music show or a water puppet show in the city centre. Second, the tickets are for two people, so he can go with his wife. They have worked hard for many years, and now they can relax together. In addition, an experience is very memorable. He will remember the show and our team for a long time.\n\nI don't choose a handmade gift. It is meaningful, but our team is very busy and none of us is good at making things. If the gift does not look nice, we may feel embarrassed. I also don't choose a book. A book is cheap and easy to buy, but it is quite simple for such an important day. Moreover, we don't know what kind of books he likes, and he may already have the book we choose.\n\nIn conclusion, a pair of tickets to a show or event is the best farewell gift because it is fun, useful and memorable.",
    "vocab": [
-    {"term": "retire / retiring colleague", "meaning": "nghỉ hưu / đồng nghiệp sắp nghỉ hưu"},
-    {"term": "farewell gift", "meaning": "quà chia tay"},
-    {"term": "memorable", "meaning": "đáng nhớ"},
-    {"term": "be good at", "meaning": "giỏi về"},
-    {"term": "embarrassed", "meaning": "ngại, xấu hổ"}
+    {
+     "term": "retiring colleague",
+     "meaning": "đồng nghiệp sắp nghỉ hưu"
+    },
+    {
+     "term": "personal",
+     "meaning": "mang tính cá nhân"
+    },
+    {
+     "term": "time and effort",
+     "meaning": "thời gian và công sức"
+    },
+    {
+     "term": "remind someone of",
+     "meaning": "gợi cho ai nhớ về"
+    },
+    {
+     "term": "long-lasting",
+     "meaning": "lâu bền"
+    }
    ]
   },
   "3": {
-   "own_idea": "Getting enough sleep",
-   "outline": [
-    {"section": "Mở đầu", "content": "Giới thiệu chủ đề + có 4 cách đơn giản", "reusable": "Today I would like to talk about effective ways to stay healthy in daily life."},
-    {"section": "Ý 1: Regular exercise", "content": "Không cần phòng gym đắt; ví dụ bơi cuối tuần, đi bộ → tim và cơ khỏe", "reusable": "First, we should do regular exercise."},
-    {"section": "Ý 2: Eating healthy food", "content": "Nhiều rau, trái cây, cá; ít đồ ăn nhanh, đường; nhiều người bị tiểu đường vì ăn uống sai", "reusable": "Second, eating healthy food is very important."},
-    {"section": "Ý 3: Managing stress effectively", "content": "Stress gây đau đầu, mất ngủ; giảm bằng đọc sách, nghe nhạc, gặp bạn ở quán cà phê", "reusable": "Third, we need to manage stress effectively."},
-    {"section": "Ý riêng: Getting enough sleep", "content": "Ngủ 7–8 tiếng → cơ thể hồi phục, não làm việc tốt hơn", "reusable": "Finally, I think getting enough sleep is also necessary."},
-    {"section": "Kết luận", "content": "Tóm tắt 4 cách + phải làm mỗi ngày", "reusable": "These habits are simple, but we must follow them every day."}
-   ],
-   "answer": "Today I would like to talk about effective ways to stay healthy in daily life. In my opinion, there are four simple ways.\n\nFirst, we should do regular exercise. We do not need to go to an expensive gym. For example, I go swimming every weekend, and I often walk to the coffee shop near my house. Exercise makes our heart and muscles stronger.\n\nSecond, eating healthy food is very important. We should eat more vegetables, fruit and fish, and less fast food and sugar. With my medical background, I know that many people get diabetes because of bad eating habits.\n\nThird, we need to manage stress effectively. Too much stress can cause headaches and sleeping problems. We can reduce stress by reading books, listening to music or talking with friends. I usually meet my friends at a coffee shop at the weekend, and it helps me relax.\n\nFinally, I think getting enough sleep is also necessary. Adults should sleep seven to eight hours every night. When we sleep well, our body can recover and our brain works better.\n\nIn conclusion, regular exercise, healthy food, less stress and enough sleep can help us stay healthy. These habits are simple, but we must follow them every day.",
+   "answer": "Today I would like to talk about effective ways to stay healthy in daily life. In my opinion, good health comes from simple habits that we follow every day.\n\nFirstly, regular exercise is very important. It makes our heart and muscles stronger and helps us keep a healthy weight. For example, I go swimming every weekend, and I rarely get sick.\n\nSecondly, eating healthy food gives our body the energy it needs. We should eat more vegetables, fruit and fish, and less fried or sweet food. For instance, my family usually has a simple dinner with rice, vegetable soup and fish.\n\nThirdly, managing stress effectively helps both our mind and our body. Too much stress can cause headaches and poor sleep. A good example is my habit of reading a book or meeting friends at a coffee shop after a busy week.\n\nAnother important point is that people should have regular health check-ups. Many serious diseases have no signs at first, so doctors need to find them early. For example, a simple blood test once a year can show high blood sugar before it becomes diabetes.\n\nTo sum up, regular exercise, healthy food, low stress and regular check-ups can help us stay healthy every day.",
+   "own_idea": "Regular health check-ups",
    "follow_ups": [
-    "I think swimming is one of the most effective types of exercise. It uses all the muscles in the body, and it is good for the heart. Besides, it does not hurt your knees like running.",
-    "Stress affects both the body and the mind. People under stress often have headaches, high blood pressure and sleeping problems. They may also feel sad and tired all the time.",
-    "No, I don't think most young people pay enough attention to their health. Many of them stay up late, eat fast food and sit in front of screens all day. However, some young people now go to the gym and eat more healthily."
+    "I think swimming is one of the most effective types of exercise for staying healthy. The main reason is that it works the whole body but is gentle on the joints. For example, my grandfather has knee pain, but he can still swim twice a week. Walking and cycling are also good choices.",
+    "Stress can affect a person's health in many ways. The main reason is that the body stays tense for a long time. For example, stressed people often have headaches, stomach problems and trouble sleeping. Over time, stress can also lead to high blood pressure and heart disease.",
+    "No, I do not think most young people pay enough attention to their health. The main reason is that they are busy and often feel strong. For example, many students stay up late, skip breakfast and drink milk tea every day. However, some young people now go to the gym regularly."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about effective ways to stay healthy in daily life."
+    },
+    {
+     "section": "Ý 1: tập thể dục đều đặn",
+     "content": "Ý → tim, cơ khoẻ, giữ cân nặng → ví dụ bơi cuối tuần, ít ốm",
+     "reusable": "Firstly, regular exercise is very important."
+    },
+    {
+     "section": "Ý 2: ăn uống lành mạnh",
+     "content": "Ý → nhiều rau, cá, ít đồ chiên → ví dụ bữa tối gia đình",
+     "reusable": "Secondly, eating healthy food gives our body the energy it needs."
+    },
+    {
+     "section": "Ý 3: kiểm soát căng thẳng",
+     "content": "Ý → stress gây đau đầu, mất ngủ → ví dụ đọc sách, cà phê với bạn",
+     "reusable": "Thirdly, managing stress effectively helps both our mind and our body."
+    },
+    {
+     "section": "Ý riêng: khám sức khoẻ định kỳ",
+     "content": "Ý → nhiều bệnh không có dấu hiệu sớm → ví dụ xét nghiệm máu mỗi năm",
+     "reusable": "Another important point is that people should have regular health check-ups."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt 4 cách",
+     "reusable": "To sum up, regular exercise, healthy food, low stress and regular check-ups can help us stay healthy every day."
+    }
    ],
    "vocab": [
-    {"term": "regular exercise", "meaning": "tập thể dục đều đặn"},
-    {"term": "eating habits", "meaning": "thói quen ăn uống"},
-    {"term": "manage stress", "meaning": "kiểm soát căng thẳng"},
-    {"term": "recover", "meaning": "hồi phục"},
-    {"term": "stay up late", "meaning": "thức khuya"}
+    {
+     "term": "keep a healthy weight",
+     "meaning": "giữ cân nặng hợp lý"
+    },
+    {
+     "term": "manage stress",
+     "meaning": "kiểm soát căng thẳng"
+    },
+    {
+     "term": "health check-up",
+     "meaning": "khám sức khoẻ"
+    },
+    {
+     "term": "gentle on the joints",
+     "meaning": "nhẹ nhàng với các khớp"
+    },
+    {
+     "term": "skip breakfast",
+     "meaning": "bỏ bữa sáng"
+    }
    ]
   }
  }

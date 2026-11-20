@@ -6,6 +6,8 @@
 
 **Thời gian:** 20 phút · **Số từ tối thiểu:** 120
 
+*Khung: [Thư thân mật](KHUNG-MAU.md#w1_informal) · 150–180 từ · 20 phút*
+
 ### 1. Đề bài
 
 You should spend about 20 minutes on this task. You received an email from your friend Kate, who is organizing a school trip for her class and needs your advice.
@@ -24,13 +26,13 @@ Read part of her email below.
 
 Hi Kate,
 
-Thanks for your email. It sounds like a great trip, and I am happy to help.
+Thank you for your email. A class trip sounds like a great idea, and I am happy to help.
 
-First, I think you should take the students to a museum. A museum is educational, and the students can learn about history and science in a fun way. It is also safer because all the students stay in one building. In addition, it may rain next month, so an indoor place is a better choice.
+Regarding the place, I think you should take the students to a museum. It is educational, and the students can learn about history in a fun way. It is also safer because everyone stays in one building. Besides, it may rain next month, so an indoor place is better.
 
-Secondly, I suggest that the students bring packed lunches. It is cheaper and quicker than ordering food from a restaurant. Parents can also prepare healthy food for their children. You can all have lunch together in the museum garden at 12 o'clock.
+As for lunch, I suggest that the students bring packed lunches. This is cheaper and quicker than ordering from a restaurant. Parents can also prepare healthy food that their children like. You could all eat together in the museum garden at 12 o'clock.
 
-Finally, I think the students should write a short review after the trip. Recording a video is fun, but the students may spend too much time on their phones. They may also forget to look at the exhibits. A short review helps them think about what they learnt and practise their writing skills.
+About the last question, I think the students should write a short review after the trip. If they record a video, they may spend too much time on their phones. A short review helps them remember what they learnt. It is also a good chance to practise their writing skills.
 
 I hope my advice is helpful. Let me know how the trip goes!
 
@@ -39,32 +41,34 @@ Minh
 
 ### 3. Số từ
 
-**184 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
+**179 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
 | Lời chào | Chào thân mật theo tên | *Hi Kate,* |
-| Mở đầu | Cảm ơn thư, vui lòng giúp | *Thanks for your email. It sounds like a great trip, and I am happy to help.* |
-| Ý 1: bảo tàng hay công viên | Chọn bảo tàng: học lịch sử, khoa học; an toàn vì ở trong một toà nhà; tháng sau có thể mưa | *First, I think you should take the students to a museum.* |
-| Ý 2: mang cơm hay đặt nhà hàng | Mang cơm hộp: rẻ, nhanh, phụ huynh chuẩn bị đồ lành mạnh; ăn trưa 12 giờ ở vườn bảo tàng | *Secondly, I suggest that the students bring packed lunches.* |
-| Ý 3: quay video hay viết bài | Viết bài cảm nhận ngắn: quay video dễ mải điện thoại; viết giúp suy nghĩ, luyện kỹ năng viết | *Finally, I think the students should write a short review after the trip.* |
-| Kết thư + ký tên | Mong lời khuyên có ích, hỏi kết quả chuyến đi | *I hope my advice is helpful. Let me know how the trip goes!* |
+| Mở đầu | Cảm ơn thư, sẵn lòng giúp | *Thank you for your email. A class trip sounds like a great idea, and I am happy to help.* |
+| Ý 1: bảo tàng hay công viên | Chọn bảo tàng → lý do: học lịch sử vui, an toàn → chi tiết: có thể mưa, nên chọn trong nhà | *Regarding the place, I think you should take the students to a museum.* |
+| Ý 2: mang cơm hay đặt nhà hàng | Mang cơm hộp → rẻ, nhanh → phụ huynh chuẩn bị đồ ăn lành mạnh → ăn trong vườn bảo tàng lúc 12 giờ | *As for lunch, I suggest that the students bring packed lunches.* |
+| Ý 3: quay video hay viết cảm nhận | Viết cảm nhận ngắn → quay video dễ dùng điện thoại quá nhiều → nhớ bài học, luyện viết | *About the last question, I think the students should write a short review after the trip.* |
+| Kết thư + ký tên | Mong lời khuyên hữu ích, kể lại chuyến đi, chào cuối thư | *I hope my advice is helpful. Let me know how the trip goes! Best wishes,* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
 | **educational** | mang tính giáo dục |
-| **indoor place** | địa điểm trong nhà |
-| **packed lunch** | cơm hộp, bữa trưa mang theo |
-| **exhibit** | hiện vật trưng bày |
-| **write a review** | viết bài nhận xét, cảm nhận |
+| **an indoor place** | địa điểm trong nhà |
+| **packed lunches** | cơm hộp mang theo |
+| **write a short review** | viết một bài cảm nhận ngắn |
+| **practise writing skills** | luyện kỹ năng viết |
 
 ## WRITING — PART 2 · Essay
 
 **Thời gian:** 40 phút · **Số từ tối thiểu:** 250
+
+*Khung: [Causes / problems + solutions: nguyên nhân hoặc vấn đề và giải pháp](KHUNG-MAU.md#w2_x_solution) · 270–300 từ · 4 đoạn · 40 phút*
 
 ### 1. Đề bài
 
@@ -80,42 +84,46 @@ You should spend about 40 minutes on this task.
 
 ### 2. Bài mẫu
 
-**Dạng đề:** Effects & solutions (nêu hậu quả và đề xuất giải pháp)
+**Dạng đề:** Problems & solutions (nêu vấn đề và đề xuất giải pháp)
 
-In the digital age, fewer and fewer people read books in their free time. Instead, they spend hours on smartphones and social media, and this is especially true for young people. This essay will discuss the problems caused by this decline and suggest some solutions.
+In recent years, many people, especially teenagers, have chosen to spend their free time on phones and social media instead of books. Many teachers are worried that this change will harm society in the long run. This essay will discuss the main problems of this issue and suggest some solutions.
 
-The decline in reading habits has several negative effects. Firstly, people's language skills become weaker. When young people do not read books, they learn fewer new words and make more mistakes in their writing. Secondly, people may lose the ability to focus for a long time. Many videos on TikTok last only a few seconds, so teenagers find it hard to finish a long text. In addition, people may lose their critical thinking skills. Those who only read short posts online often believe fake news without checking it.
+There are two main problems caused by this trend. Firstly, young people who read less often have weaker language and thinking skills. This is because books teach new words and help readers follow long ideas. For example, many teachers say that their students now find it hard to write a long essay. As a result, the country may have fewer good writers and thinkers in the future. Secondly, people who rarely read find it difficult to focus for a long time. This is because short videos make them want something new every few seconds. For instance, a teenager may stop reading a novel after only two or three pages.
 
-However, there are several solutions to this problem. Firstly, parents should be good examples for their children. If parents read books at home every evening, their children will copy this habit. Secondly, schools should make reading more fun. For example, they can organise reading clubs, book fairs and reading competitions with small prizes. Moreover, the government should build more modern libraries and support e-books. Young people love technology, so reading on tablets or listening to audiobooks can be a good start.
+However, there are some ways to solve this problem. Firstly, schools should make reading a regular part of school life. Teachers can give students fifteen minutes every day to read a book of their choice. A good example is a school reading club, where students talk about their favourite books every month. Secondly, parents should limit their children's screen time and read with them at home. When parents read, children usually copy them. For example, a family can turn off their phones for thirty minutes every evening and read together. Thanks to this, children can slowly learn to focus and enjoy books again.
 
-In conclusion, the decline in reading can weaken people's language skills, their focus and their critical thinking. However, families, schools and the government can work together to solve this problem. I believe that if we make books fun and easy to access, more people will return to reading.
+In conclusion, the decline in reading weakens young people's language skills and their ability to focus. However, this problem can be reduced if schools encourage daily reading and parents limit screen time at home.
 
 ### 3. Số từ
 
-**262 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
+**296 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở bài | Viết lại đề: ít người đọc sách, dùng điện thoại nhiều, nhất là giới trẻ → bài bàn hậu quả và giải pháp | *This essay will discuss the problems caused by this decline and suggest some solutions.* |
-| Thân bài 1: hậu quả | (1) kỹ năng ngôn ngữ yếu, ít từ vựng (2) khó tập trung lâu vì video ngắn (3) thiếu tư duy phản biện, tin tin giả | *The decline in reading habits has several negative effects.* |
-| Thân bài 2: giải pháp | (1) bố mẹ làm gương (2) trường tổ chức câu lạc bộ đọc sách, hội sách, cuộc thi (3) nhà nước xây thư viện hiện đại, hỗ trợ sách điện tử, sách nói | *However, there are several solutions to this problem.* |
-| Kết bài | Tóm tắt + gia đình, nhà trường, nhà nước cùng hành động; ý kiến: sách vui và dễ tiếp cận thì người ta sẽ đọc lại | *I believe that if we make books fun and easy to access, more people will return to reading.* |
+| Mở bài | Viết lại đề (giới trẻ chọn điện thoại, mạng xã hội thay vì sách; giáo viên lo lắng) + câu dẫn | *This essay will discuss the main problems of this issue and suggest some solutions.* |
+| Thân bài 1 · vấn đề 1 | P: kỹ năng ngôn ngữ, tư duy yếu đi → E: sách dạy từ mới, theo dõi ý dài → Ex: học sinh khó viết bài luận dài → R: ít người viết, người suy nghĩ giỏi | *There are two main problems caused by this trend. Firstly, young people who read less often have weaker language and thinking skills.* |
+| Thân bài 1 · vấn đề 2 | P: khó tập trung lâu → E: video ngắn khiến muốn cái mới liên tục → Ex: đọc 2–3 trang là bỏ | *Secondly, people who rarely read find it difficult to focus for a long time.* |
+| Thân bài 2 · giải pháp 1 (cho vấn đề 1) | Ai: nhà trường → 15 phút đọc mỗi ngày → Ex: câu lạc bộ đọc sách hằng tháng | *However, there are some ways to solve this problem. Firstly, schools should make reading a regular part of school life.* |
+| Thân bài 2 · giải pháp 2 (cho vấn đề 2) | Ai: phụ huynh → giới hạn giờ dùng màn hình, đọc cùng con → Ex: tắt điện thoại 30 phút mỗi tối → R: tập trung, thích sách lại | *Secondly, parents should limit their children's screen time and read with them at home.* |
+| Kết bài | Tóm tắt vấn đề + giải pháp | *In conclusion, the decline in reading weakens young people's language skills and their ability to focus. However, this problem can be reduced if …* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **the decline in** | sự suy giảm của |
-| **reading habits** | thói quen đọc sách |
-| **critical thinking** | tư duy phản biện |
-| **be a good example for** | làm gương cho |
-| **audiobook** | sách nói |
+| **instead of** | thay vì |
+| **in the long run** | về lâu dài |
+| **focus for a long time** | tập trung lâu |
+| **screen time** | thời gian dùng màn hình |
+| **a reading club** | câu lạc bộ đọc sách |
 
 ## SPEAKING — PART 1 · Social Interaction
 
 **Thời gian:** 3 phút
+
+*Khung: [Speaking Part 1: Social Interaction](KHUNG-MAU.md#s1) · Mỗi câu hỏi 3 câu, khoảng 30–40 từ*
 
 ### 1. Đề bài
 
@@ -138,48 +146,50 @@ In conclusion, the decline in reading can weaken people's language skills, their
 ### 2. Bài mẫu
 
 **1. Have you ever learned how to dance?**  
-Yes, I have. I learned salsa dancing for three months when I was a university student. It was difficult at first, but it was a lot of fun.
+Yes, I have. I learned salsa for three months when I was a university student because my best friend asked me to join her class. It was difficult at first, but we had a lot of fun.
 
 **2. Do you prefer dancing in a group or by yourself? Why?**  
-I prefer dancing in a group. It is more fun, and I feel less shy when I dance with other people. We can also help each other learn new moves.
+I prefer dancing in a group. This is because I feel less shy when I dance with other people. For example, in my salsa class, my classmates often helped me learn new moves.
 
 **3. What do you do to improve your dancing skills?**  
-To be honest, I don't dance much now. When I was learning, I watched videos on YouTube and practised at home every evening. I also asked my teacher for feedback.
+To be honest, I do not dance much now, but I used to practise a lot. The main reason was that I wanted to keep up with my class. For example, I watched YouTube videos and practised in my room every evening.
 
 **4. Do you often take care of yourself?**  
-Yes, I do. My job is quite stressful, so I try to look after my body and my mind. I think health is the most important thing in life.
+Yes, I do. My job is quite stressful, so I try to look after my body and my mind. For example, I always take a short walk after lunch to clear my head.
 
 **5. What do you usually do to take care of yourself?**  
-I usually go swimming at weekends, and I try to sleep for seven hours every night. I also read books or meet my friends at a coffee shop to relax.
+I usually go swimming at weekends, and I try to sleep for seven hours every night. This is because exercise and sleep keep my body healthy. I also read books or meet my friends at a coffee shop to relax.
 
 **6. Do you think having a proper self-care routine is important nowadays? Why?**  
-Yes, I think it is very important. Modern life is busy and stressful, so many people get sick or feel tired. A good self-care routine helps them stay healthy and happy.
+Yes, I think it is very important nowadays. The main reason is that modern life is busy and stressful, so many people feel tired or get sick. For example, a simple habit like going to bed early can make a big difference.
 
 ### 3. Số từ
 
-**178 từ** · khoảng 1 phút 29 giây nói (tốc độ 120 từ/phút).
+**227 từ** · khoảng 1 phút 54 giây nói (tốc độ 120 từ/phút).
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Câu trả lời trực tiếp | Trả lời ngay Yes/No hoặc nêu thông tin chính | *Yes, I have. I learned salsa dancing for three months.* |
-| Lý do | Thêm 1 lý do bằng because / so | *My job is quite stressful, so I try to look after my body and my mind.* |
-| Ví dụ / chi tiết | Thêm 1 hoạt động cụ thể | *I usually go swimming at weekends.* |
+| Câu 1: trả lời thẳng | Trả lời ngay Yes/No hoặc lựa chọn | *I prefer dancing in a group.* |
+| Câu 2: lý do | Thêm 1 lý do | *This is because I feel less shy when I dance with other people.* |
+| Câu 3: chi tiết | Ví dụ cá nhân ngắn | *For example, I always take a short walk after lunch to clear my head.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **feel shy** | cảm thấy ngại, rụt rè |
-| **learn new moves** | học động tác mới |
+| **feel shy** | cảm thấy ngại |
+| **keep up with** | theo kịp |
 | **look after** | chăm sóc |
-| **self-care routine** | thói quen chăm sóc bản thân |
-| **stressful** | căng thẳng |
+| **clear my head** | làm đầu óc thư thái |
+| **a self-care routine** | thói quen chăm sóc bản thân |
 
 ## SPEAKING — PART 2 · Solution Discussion
 
 **Thời gian:** 4 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 2: Solution Discussion](KHUNG-MAU.md#s2) · 220–260 từ*
 
 ### 1. Đề bài
 
@@ -197,41 +207,45 @@ Yes, I think it is very important. Modern life is busy and stressful, so many pe
 
 **Lựa chọn:** Option 1: Visit the zoo
 
-I think my friend should take the children to visit the zoo. Let me explain why.
+In this situation, among the three options, I think visiting the zoo is the best choice for my friend and his children. I choose it for two main reasons.
 
-First, the zoo is both fun and educational. Children can see many kinds of animals, such as elephants, tigers and giraffes, in real life. They can learn about where these animals live and what they eat. Second, there are many activities at the zoo for a whole day. For example, at Saigon Zoo in Ho Chi Minh City, children can feed some animals, ride a small train and play in the playground. The zoo also has a lot of trees, so the family can have a picnic in the shade.
+The first reason is that a zoo is both fun and educational. By that, I mean the children can see many real animals and learn about them at the same time. For example, they can watch elephants, tigers and giraffes, and read short notes about where these animals live.
 
-I don't choose to visit the aquarium because the tickets are usually quite expensive. Also, an aquarium is often smaller, so the children may finish the visit in only one or two hours. I also don't choose to visit the park. A park is relaxing, but children can go there almost every day. It is not very special for a fun day out.
+Another reason is that a zoo has enough activities for a whole day. In other words, the children will not get bored easily. For instance, after seeing the animals, they can play in the playground or have a picnic under the big trees. The tickets are also cheap, so the day does not cost much for a family.
 
-In conclusion, the zoo is the best choice because the children can have fun, learn about animals and spend a full day outdoors with their parents.
+There are also some reasons why I do not choose the other two options. Regarding visiting the aquarium, I do not think it is the best choice because it is usually small and the tickets are quite expensive. Young children may see everything in one hour. As for visiting the park, I do not think it is the best option either because it is too ordinary. The children can go there any weekend, so it does not feel like a special day out.
+
+To sum up, out of these three options, I believe visiting the zoo is the best choice because it is fun, educational and affordable.
 
 ### 3. Số từ
 
-**195 từ** · khoảng 1 phút 38 giây nói.
+**243 từ** · khoảng 2 phút 02 giây nói.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Nêu lựa chọn | Chọn đi sở thú | *I think my friend should take the children to visit the zoo.* |
-| Lý do chọn | (1) vừa vui vừa học: thấy voi, hổ, hươu cao cổ (2) nhiều hoạt động cả ngày: cho thú ăn, đi tàu nhỏ, picnic dưới bóng cây ở Thảo Cầm Viên | *First, the zoo is both fun and educational.* |
-| Vì sao không chọn thuỷ cung | Vé đắt; nhỏ, tham quan 1–2 tiếng là xong | *I don't choose to visit the aquarium because the tickets are usually quite expensive.* |
-| Vì sao không chọn công viên | Thư giãn nhưng ngày nào cũng đi được, không đặc biệt | *I also don't choose to visit the park.* |
-| Kết luận | Nhắc lại lựa chọn + vui, học, ngoài trời cả ngày | *In conclusion, the zoo is the best choice because the children can have fun, learn about animals and spend a full day outdoors with their parents.* |
+| Chọn | Câu khung + lựa chọn: sở thú | *In this situation, among the three options, I think visiting the zoo is the best choice for my friend and his children. I choose it for two main reasons.* |
+| Lý do 1 | Vừa vui vừa học → By that, I mean … → For example: xem voi, hổ, hươu cao cổ, đọc bảng thông tin | *The first reason is that a zoo is both fun and educational. By that, I mean …* |
+| Lý do 2 | Đủ hoạt động cả ngày → In other words … → For instance: sân chơi, picnic; vé rẻ | *Another reason is that a zoo has enough activities for a whole day. In other words, …* |
+| Loại 2 phương án | Thuỷ cung: nhỏ, vé đắt, một giờ là xem hết; công viên: quá bình thường, cuối tuần nào cũng đi được | *There are also some reasons why I do not choose the other two options. Regarding visiting the aquarium, I do not think it is the best choice because … As for visiting the park, I do not think it is the best option either because …* |
+| Kết | Câu khung + 3 tính từ | *To sum up, out of these three options, I believe visiting the zoo is the best choice because it is fun, educational and affordable.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **a fun day out** | một ngày đi chơi vui vẻ |
-| **in real life** | ngoài đời thật |
-| **feed the animals** | cho thú ăn |
-| **in the shade** | dưới bóng râm |
-| **aquarium** | thuỷ cung |
+| **a day out** | một ngày đi chơi |
+| **educational** | mang tính giáo dục |
+| **get bored** | thấy chán |
+| **ordinary** | bình thường |
+| **affordable** | giá phải chăng |
 
 ## SPEAKING — PART 3 · Topic Development
 
 **Thời gian:** 5 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 3: Topic Development](KHUNG-MAU.md#s3) · Bài nói chính 200–260 từ · mỗi câu follow-up 3–4 câu (35–55 từ)*
 
 ### 1. Đề bài
 
@@ -256,50 +270,50 @@ In conclusion, the zoo is the best choice because the children can have fun, lea
 
 **Ý riêng (your own idea):** Teaching children responsibility
 
-Today I would like to talk about the benefits of keeping pets. I think pets bring four main benefits to their owners.
+Today I would like to talk about the benefits of keeping pets. In my opinion, pets bring many good things to our lives.
 
-First, pets help improve physical health through daily activities. For example, dog owners need to walk their dogs every morning and evening. As a result, they exercise more and become healthier. My neighbour, Mr Hai, walks his dog for thirty minutes every day, and he is very fit for his age.
+Firstly, pets can improve our physical health through daily activities. Dog owners need to walk their dogs every morning and evening. For example, my neighbour walks his dog in the park for thirty minutes every day, so he is very fit.
 
-Second, pets provide emotional support and reduce stress. After a long day at work, playing with a cat or a dog makes people feel calm and happy. Pets are also good friends for old people and people who live alone, so they feel less lonely.
+Secondly, pets provide emotional support and reduce stress. They are always happy to see us, and they love us without judging us. For instance, when I come home tired after work, playing with my cat makes me feel calm.
 
-Third, pets help strengthen bonds within the family. Family members often take care of the pet together, such as feeding it or taking it to the vet. They also play with it and talk about it, so they spend more time together.
+Thirdly, pets help strengthen bonds within the family. Family members often take care of a pet together and talk about it. A good example is my cousin's family, who take their dog to the beach every weekend.
 
-Finally, I think keeping pets teaches children responsibility. When children feed their pet and clean its home every day, they learn to care for others. They also learn to keep promises and follow a daily routine.
+Another important point is that pets teach children responsibility. Children learn that a pet needs food, water and love every day. For example, my niece feeds her goldfish every morning before school.
 
-In conclusion, pets are good for our bodies, our minds, our families and our children. However, before buying a pet, people should make sure they have enough time and money to look after it.
+To sum up, keeping pets is good for our physical health, our emotions and our family bonds. Pets also teach children responsibility, so I think many families should consider having one.
 
 **Trả lời câu hỏi follow-up**
 
 **1. What kinds of pets are most commonly kept in your area?**  
-In my area, dogs and cats are the most common pets. Some people also keep fish or birds. Dogs are popular because they can protect the house.
+In my area, dogs and cats are the most common pets. Dogs are popular because they can protect the house, while cats are easy to look after in small flats. For example, my neighbours keep a small dog and two cats. Some families also keep fish or birds.
 
 **2. Do you think it is suitable for children to keep pets?**  
-Yes, I think it is suitable, but parents should help them. Keeping a pet teaches children to be responsible and kind. However, young children should not keep dangerous animals.
+Yes, I think it is suitable, but parents should help them. The main reason is that pets teach children to be kind and responsible. For example, a child can feed a cat or clean a fish tank every day. However, young children should not look after a big dog alone.
 
 **3. Why do many people dislike keeping pets?**  
-Many people dislike keeping pets because pets need a lot of time and care. Pets can also make the house dirty and noisy. In addition, some people are allergic to animal hair.
+Many people dislike keeping pets because pets need a lot of time and money. They must be fed, cleaned and taken to the vet regularly. For example, my friends who work long hours cannot leave a dog alone all day. Some people are also allergic to cat or dog hair.
 
 ### 3. Số từ
 
-**Bài nói chính: 230 từ** (khoảng 1 phút 55 giây) · follow-up: 88 từ.
+**Bài nói chính: 203 từ** (khoảng 1 phút 42 giây) · follow-up: 148 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở đầu | Giới thiệu chủ đề + 4 lợi ích chính | *Today I would like to talk about the benefits of keeping pets.* |
-| Ý 1: Physical health | Dắt chó đi dạo sáng tối → vận động nhiều; ví dụ chú Hải hàng xóm | *First, pets help improve physical health through daily activities.* |
-| Ý 2: Emotional support | Chơi với chó mèo sau giờ làm → bình tĩnh, vui; bạn của người già, người sống một mình | *Second, pets provide emotional support and reduce stress.* |
-| Ý 3: Family bonds | Cả nhà cùng cho ăn, đưa đi thú y, chơi cùng → nhiều thời gian bên nhau | *Third, pets help strengthen bonds within the family.* |
-| Ý riêng: dạy trẻ trách nhiệm | Cho ăn, dọn chỗ ở mỗi ngày → biết quan tâm, giữ lời hứa | *Finally, I think keeping pets teaches children responsibility.* |
-| Kết luận | Tóm tắt + cần đủ thời gian và tiền trước khi nuôi | *However, before buying a pet, people should make sure they have enough time and money.* |
+| Mở | Giới thiệu chủ đề + ý chính | *Today I would like to talk about the benefits of keeping pets. In my opinion, pets bring many good things to our lives.* |
+| Ý 1: sức khoẻ thể chất | Ý → dắt chó đi dạo sáng tối → ví dụ hàng xóm dắt chó 30 phút mỗi ngày | *Firstly, pets can improve our physical health through daily activities.* |
+| Ý 2: chỗ dựa tinh thần, giảm căng thẳng | Ý → luôn vui khi gặp mình → ví dụ chơi với mèo sau giờ làm | *Secondly, pets provide emotional support and reduce stress.* |
+| Ý 3: gắn kết gia đình | Ý → cùng chăm sóc, cùng nói chuyện → ví dụ nhà anh họ đưa chó ra biển | *Thirdly, pets help strengthen bonds within the family.* |
+| Ý riêng: dạy trẻ trách nhiệm | Ý → thú cưng cần ăn, uống, yêu thương mỗi ngày → ví dụ cháu cho cá ăn mỗi sáng | *Another important point is that pets teach children responsibility.* |
+| Kết | Tóm tắt các ý | *To sum up, keeping pets is good for our physical health, our emotions and our family bonds.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **emotional support** | sự hỗ trợ về tinh thần |
-| **strengthen bonds within the family** | thắt chặt tình cảm gia đình |
-| **take a pet to the vet** | đưa thú cưng đi khám thú y |
-| **responsibility** | tinh thần trách nhiệm |
+| **emotional support** | chỗ dựa tinh thần |
+| **strengthen bonds** | thắt chặt tình cảm |
+| **judge someone** | phán xét ai |
+| **take something to the vet** | đưa đi bác sĩ thú y |
 | **be allergic to** | bị dị ứng với |

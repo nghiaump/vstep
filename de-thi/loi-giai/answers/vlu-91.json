@@ -2,6 +2,7 @@
  "id": "vlu-91",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -10,99 +11,110 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, vui lòng giúp",
-     "reusable": "Thanks for your email. It sounds like a great trip, and I am happy to help."
+     "content": "Cảm ơn thư, sẵn lòng giúp",
+     "reusable": "Thank you for your email. A class trip sounds like a great idea, and I am happy to help."
     },
     {
      "section": "Ý 1: bảo tàng hay công viên",
-     "content": "Chọn bảo tàng: học lịch sử, khoa học; an toàn vì ở trong một toà nhà; tháng sau có thể mưa",
-     "reusable": "First, I think you should take the students to a museum."
+     "content": "Chọn bảo tàng → lý do: học lịch sử vui, an toàn → chi tiết: có thể mưa, nên chọn trong nhà",
+     "reusable": "Regarding the place, I think you should take the students to a museum."
     },
     {
      "section": "Ý 2: mang cơm hay đặt nhà hàng",
-     "content": "Mang cơm hộp: rẻ, nhanh, phụ huynh chuẩn bị đồ lành mạnh; ăn trưa 12 giờ ở vườn bảo tàng",
-     "reusable": "Secondly, I suggest that the students bring packed lunches."
+     "content": "Mang cơm hộp → rẻ, nhanh → phụ huynh chuẩn bị đồ ăn lành mạnh → ăn trong vườn bảo tàng lúc 12 giờ",
+     "reusable": "As for lunch, I suggest that the students bring packed lunches."
     },
     {
-     "section": "Ý 3: quay video hay viết bài",
-     "content": "Viết bài cảm nhận ngắn: quay video dễ mải điện thoại; viết giúp suy nghĩ, luyện kỹ năng viết",
-     "reusable": "Finally, I think the students should write a short review after the trip."
+     "section": "Ý 3: quay video hay viết cảm nhận",
+     "content": "Viết cảm nhận ngắn → quay video dễ dùng điện thoại quá nhiều → nhớ bài học, luyện viết",
+     "reusable": "About the last question, I think the students should write a short review after the trip."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mong lời khuyên có ích, hỏi kết quả chuyến đi",
-     "reusable": "I hope my advice is helpful. Let me know how the trip goes!"
+     "content": "Mong lời khuyên hữu ích, kể lại chuyến đi, chào cuối thư",
+     "reusable": "I hope my advice is helpful. Let me know how the trip goes! Best wishes,"
     }
    ],
-   "answer": "Hi Kate,\n\nThanks for your email. It sounds like a great trip, and I am happy to help.\n\nFirst, I think you should take the students to a museum. A museum is educational, and the students can learn about history and science in a fun way. It is also safer because all the students stay in one building. In addition, it may rain next month, so an indoor place is a better choice.\n\nSecondly, I suggest that the students bring packed lunches. It is cheaper and quicker than ordering food from a restaurant. Parents can also prepare healthy food for their children. You can all have lunch together in the museum garden at 12 o'clock.\n\nFinally, I think the students should write a short review after the trip. Recording a video is fun, but the students may spend too much time on their phones. They may also forget to look at the exhibits. A short review helps them think about what they learnt and practise their writing skills.\n\nI hope my advice is helpful. Let me know how the trip goes!\n\nBest wishes,\nMinh",
+   "answer": "Hi Kate,\n\nThank you for your email. A class trip sounds like a great idea, and I am happy to help.\n\nRegarding the place, I think you should take the students to a museum. It is educational, and the students can learn about history in a fun way. It is also safer because everyone stays in one building. Besides, it may rain next month, so an indoor place is better.\n\nAs for lunch, I suggest that the students bring packed lunches. This is cheaper and quicker than ordering from a restaurant. Parents can also prepare healthy food that their children like. You could all eat together in the museum garden at 12 o'clock.\n\nAbout the last question, I think the students should write a short review after the trip. If they record a video, they may spend too much time on their phones. A short review helps them remember what they learnt. It is also a good chance to practise their writing skills.\n\nI hope my advice is helpful. Let me know how the trip goes!\n\nBest wishes,\nMinh",
    "vocab": [
     {
      "term": "educational",
      "meaning": "mang tính giáo dục"
     },
     {
-     "term": "indoor place",
+     "term": "an indoor place",
      "meaning": "địa điểm trong nhà"
     },
     {
-     "term": "packed lunch",
-     "meaning": "cơm hộp, bữa trưa mang theo"
+     "term": "packed lunches",
+     "meaning": "cơm hộp mang theo"
     },
     {
-     "term": "exhibit",
-     "meaning": "hiện vật trưng bày"
+     "term": "write a short review",
+     "meaning": "viết một bài cảm nhận ngắn"
     },
     {
-     "term": "write a review",
-     "meaning": "viết bài nhận xét, cảm nhận"
+     "term": "practise writing skills",
+     "meaning": "luyện kỹ năng viết"
     }
    ]
   },
   "2": {
-   "essay_type": "Effects & solutions (nêu hậu quả và đề xuất giải pháp)",
+   "essay_type": "Problems & solutions (nêu vấn đề và đề xuất giải pháp)",
+   "type_key": "x_solution",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: ít người đọc sách, dùng điện thoại nhiều, nhất là giới trẻ → bài bàn hậu quả và giải pháp",
-     "reusable": "This essay will discuss the problems caused by this decline and suggest some solutions."
+     "content": "Viết lại đề (giới trẻ chọn điện thoại, mạng xã hội thay vì sách; giáo viên lo lắng) + câu dẫn",
+     "reusable": "This essay will discuss the main problems of this issue and suggest some solutions."
     },
     {
-     "section": "Thân bài 1: hậu quả",
-     "content": "(1) kỹ năng ngôn ngữ yếu, ít từ vựng (2) khó tập trung lâu vì video ngắn (3) thiếu tư duy phản biện, tin tin giả",
-     "reusable": "The decline in reading habits has several negative effects."
+     "section": "Thân bài 1 · vấn đề 1",
+     "content": "P: kỹ năng ngôn ngữ, tư duy yếu đi → E: sách dạy từ mới, theo dõi ý dài → Ex: học sinh khó viết bài luận dài → R: ít người viết, người suy nghĩ giỏi",
+     "reusable": "There are two main problems caused by this trend. Firstly, young people who read less often have weaker language and thinking skills."
     },
     {
-     "section": "Thân bài 2: giải pháp",
-     "content": "(1) bố mẹ làm gương (2) trường tổ chức câu lạc bộ đọc sách, hội sách, cuộc thi (3) nhà nước xây thư viện hiện đại, hỗ trợ sách điện tử, sách nói",
-     "reusable": "However, there are several solutions to this problem."
+     "section": "Thân bài 1 · vấn đề 2",
+     "content": "P: khó tập trung lâu → E: video ngắn khiến muốn cái mới liên tục → Ex: đọc 2–3 trang là bỏ",
+     "reusable": "Secondly, people who rarely read find it difficult to focus for a long time."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 1 (cho vấn đề 1)",
+     "content": "Ai: nhà trường → 15 phút đọc mỗi ngày → Ex: câu lạc bộ đọc sách hằng tháng",
+     "reusable": "However, there are some ways to solve this problem. Firstly, schools should make reading a regular part of school life."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 2 (cho vấn đề 2)",
+     "content": "Ai: phụ huynh → giới hạn giờ dùng màn hình, đọc cùng con → Ex: tắt điện thoại 30 phút mỗi tối → R: tập trung, thích sách lại",
+     "reusable": "Secondly, parents should limit their children's screen time and read with them at home."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt + gia đình, nhà trường, nhà nước cùng hành động; ý kiến: sách vui và dễ tiếp cận thì người ta sẽ đọc lại",
-     "reusable": "I believe that if we make books fun and easy to access, more people will return to reading."
+     "content": "Tóm tắt vấn đề + giải pháp",
+     "reusable": "In conclusion, the decline in reading weakens young people's language skills and their ability to focus. However, this problem can be reduced if …"
     }
    ],
-   "answer": "In the digital age, fewer and fewer people read books in their free time. Instead, they spend hours on smartphones and social media, and this is especially true for young people. This essay will discuss the problems caused by this decline and suggest some solutions.\n\nThe decline in reading habits has several negative effects. Firstly, people's language skills become weaker. When young people do not read books, they learn fewer new words and make more mistakes in their writing. Secondly, people may lose the ability to focus for a long time. Many videos on TikTok last only a few seconds, so teenagers find it hard to finish a long text. In addition, people may lose their critical thinking skills. Those who only read short posts online often believe fake news without checking it.\n\nHowever, there are several solutions to this problem. Firstly, parents should be good examples for their children. If parents read books at home every evening, their children will copy this habit. Secondly, schools should make reading more fun. For example, they can organise reading clubs, book fairs and reading competitions with small prizes. Moreover, the government should build more modern libraries and support e-books. Young people love technology, so reading on tablets or listening to audiobooks can be a good start.\n\nIn conclusion, the decline in reading can weaken people's language skills, their focus and their critical thinking. However, families, schools and the government can work together to solve this problem. I believe that if we make books fun and easy to access, more people will return to reading.",
+   "answer": "In recent years, many people, especially teenagers, have chosen to spend their free time on phones and social media instead of books. Many teachers are worried that this change will harm society in the long run. This essay will discuss the main problems of this issue and suggest some solutions.\n\nThere are two main problems caused by this trend. Firstly, young people who read less often have weaker language and thinking skills. This is because books teach new words and help readers follow long ideas. For example, many teachers say that their students now find it hard to write a long essay. As a result, the country may have fewer good writers and thinkers in the future. Secondly, people who rarely read find it difficult to focus for a long time. This is because short videos make them want something new every few seconds. For instance, a teenager may stop reading a novel after only two or three pages.\n\nHowever, there are some ways to solve this problem. Firstly, schools should make reading a regular part of school life. Teachers can give students fifteen minutes every day to read a book of their choice. A good example is a school reading club, where students talk about their favourite books every month. Secondly, parents should limit their children's screen time and read with them at home. When parents read, children usually copy them. For example, a family can turn off their phones for thirty minutes every evening and read together. Thanks to this, children can slowly learn to focus and enjoy books again.\n\nIn conclusion, the decline in reading weakens young people's language skills and their ability to focus. However, this problem can be reduced if schools encourage daily reading and parents limit screen time at home.",
    "vocab": [
     {
-     "term": "the decline in",
-     "meaning": "sự suy giảm của"
+     "term": "instead of",
+     "meaning": "thay vì"
     },
     {
-     "term": "reading habits",
-     "meaning": "thói quen đọc sách"
+     "term": "in the long run",
+     "meaning": "về lâu dài"
     },
     {
-     "term": "critical thinking",
-     "meaning": "tư duy phản biện"
+     "term": "focus for a long time",
+     "meaning": "tập trung lâu"
     },
     {
-     "term": "be a good example for",
-     "meaning": "làm gương cho"
+     "term": "screen time",
+     "meaning": "thời gian dùng màn hình"
     },
     {
-     "term": "audiobook",
-     "meaning": "sách nói"
+     "term": "a reading club",
+     "meaning": "câu lạc bộ đọc sách"
     }
    ]
   }
@@ -110,162 +122,162 @@
  "speaking": {
   "1": {
    "answers": [
-    "Yes, I have. I learned salsa dancing for three months when I was a university student. It was difficult at first, but it was a lot of fun.",
-    "I prefer dancing in a group. It is more fun, and I feel less shy when I dance with other people. We can also help each other learn new moves.",
-    "To be honest, I don't dance much now. When I was learning, I watched videos on YouTube and practised at home every evening. I also asked my teacher for feedback.",
-    "Yes, I do. My job is quite stressful, so I try to look after my body and my mind. I think health is the most important thing in life.",
-    "I usually go swimming at weekends, and I try to sleep for seven hours every night. I also read books or meet my friends at a coffee shop to relax.",
-    "Yes, I think it is very important. Modern life is busy and stressful, so many people get sick or feel tired. A good self-care routine helps them stay healthy and happy."
+    "Yes, I have. I learned salsa for three months when I was a university student because my best friend asked me to join her class. It was difficult at first, but we had a lot of fun.",
+    "I prefer dancing in a group. This is because I feel less shy when I dance with other people. For example, in my salsa class, my classmates often helped me learn new moves.",
+    "To be honest, I do not dance much now, but I used to practise a lot. The main reason was that I wanted to keep up with my class. For example, I watched YouTube videos and practised in my room every evening.",
+    "Yes, I do. My job is quite stressful, so I try to look after my body and my mind. For example, I always take a short walk after lunch to clear my head.",
+    "I usually go swimming at weekends, and I try to sleep for seven hours every night. This is because exercise and sleep keep my body healthy. I also read books or meet my friends at a coffee shop to relax.",
+    "Yes, I think it is very important nowadays. The main reason is that modern life is busy and stressful, so many people feel tired or get sick. For example, a simple habit like going to bed early can make a big difference."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No hoặc nêu thông tin chính",
-     "reusable": "Yes, I have. I learned salsa dancing for three months."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay Yes/No hoặc lựa chọn",
+     "reusable": "I prefer dancing in a group."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "My job is quite stressful, so I try to look after my body and my mind."
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "This is because I feel less shy when I dance with other people."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 hoạt động cụ thể",
-     "reusable": "I usually go swimming at weekends."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn",
+     "reusable": "For example, I always take a short walk after lunch to clear my head."
     }
    ],
    "vocab": [
     {
      "term": "feel shy",
-     "meaning": "cảm thấy ngại, rụt rè"
+     "meaning": "cảm thấy ngại"
     },
     {
-     "term": "learn new moves",
-     "meaning": "học động tác mới"
+     "term": "keep up with",
+     "meaning": "theo kịp"
     },
     {
      "term": "look after",
      "meaning": "chăm sóc"
     },
     {
-     "term": "self-care routine",
-     "meaning": "thói quen chăm sóc bản thân"
+     "term": "clear my head",
+     "meaning": "làm đầu óc thư thái"
     },
     {
-     "term": "stressful",
-     "meaning": "căng thẳng"
+     "term": "a self-care routine",
+     "meaning": "thói quen chăm sóc bản thân"
     }
    ]
   },
   "2": {
    "choice": 1,
+   "answer": "In this situation, among the three options, I think visiting the zoo is the best choice for my friend and his children. I choose it for two main reasons.\n\nThe first reason is that a zoo is both fun and educational. By that, I mean the children can see many real animals and learn about them at the same time. For example, they can watch elephants, tigers and giraffes, and read short notes about where these animals live.\n\nAnother reason is that a zoo has enough activities for a whole day. In other words, the children will not get bored easily. For instance, after seeing the animals, they can play in the playground or have a picnic under the big trees. The tickets are also cheap, so the day does not cost much for a family.\n\nThere are also some reasons why I do not choose the other two options. Regarding visiting the aquarium, I do not think it is the best choice because it is usually small and the tickets are quite expensive. Young children may see everything in one hour. As for visiting the park, I do not think it is the best option either because it is too ordinary. The children can go there any weekend, so it does not feel like a special day out.\n\nTo sum up, out of these three options, I believe visiting the zoo is the best choice because it is fun, educational and affordable.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn đi sở thú",
-     "reusable": "I think my friend should take the children to visit the zoo."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: sở thú",
+     "reusable": "In this situation, among the three options, I think visiting the zoo is the best choice for my friend and his children. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) vừa vui vừa học: thấy voi, hổ, hươu cao cổ (2) nhiều hoạt động cả ngày: cho thú ăn, đi tàu nhỏ, picnic dưới bóng cây ở Thảo Cầm Viên",
-     "reusable": "First, the zoo is both fun and educational."
+     "section": "Lý do 1",
+     "content": "Vừa vui vừa học → By that, I mean … → For example: xem voi, hổ, hươu cao cổ, đọc bảng thông tin",
+     "reusable": "The first reason is that a zoo is both fun and educational. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn thuỷ cung",
-     "content": "Vé đắt; nhỏ, tham quan 1–2 tiếng là xong",
-     "reusable": "I don't choose to visit the aquarium because the tickets are usually quite expensive."
+     "section": "Lý do 2",
+     "content": "Đủ hoạt động cả ngày → In other words … → For instance: sân chơi, picnic; vé rẻ",
+     "reusable": "Another reason is that a zoo has enough activities for a whole day. In other words, …"
     },
     {
-     "section": "Vì sao không chọn công viên",
-     "content": "Thư giãn nhưng ngày nào cũng đi được, không đặc biệt",
-     "reusable": "I also don't choose to visit the park."
+     "section": "Loại 2 phương án",
+     "content": "Thuỷ cung: nhỏ, vé đắt, một giờ là xem hết; công viên: quá bình thường, cuối tuần nào cũng đi được",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding visiting the aquarium, I do not think it is the best choice because … As for visiting the park, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn + vui, học, ngoài trời cả ngày",
-     "reusable": "In conclusion, the zoo is the best choice because the children can have fun, learn about animals and spend a full day outdoors with their parents."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe visiting the zoo is the best choice because it is fun, educational and affordable."
     }
    ],
-   "answer": "I think my friend should take the children to visit the zoo. Let me explain why.\n\nFirst, the zoo is both fun and educational. Children can see many kinds of animals, such as elephants, tigers and giraffes, in real life. They can learn about where these animals live and what they eat. Second, there are many activities at the zoo for a whole day. For example, at Saigon Zoo in Ho Chi Minh City, children can feed some animals, ride a small train and play in the playground. The zoo also has a lot of trees, so the family can have a picnic in the shade.\n\nI don't choose to visit the aquarium because the tickets are usually quite expensive. Also, an aquarium is often smaller, so the children may finish the visit in only one or two hours. I also don't choose to visit the park. A park is relaxing, but children can go there almost every day. It is not very special for a fun day out.\n\nIn conclusion, the zoo is the best choice because the children can have fun, learn about animals and spend a full day outdoors with their parents.",
    "vocab": [
     {
-     "term": "a fun day out",
-     "meaning": "một ngày đi chơi vui vẻ"
+     "term": "a day out",
+     "meaning": "một ngày đi chơi"
     },
     {
-     "term": "in real life",
-     "meaning": "ngoài đời thật"
+     "term": "educational",
+     "meaning": "mang tính giáo dục"
     },
     {
-     "term": "feed the animals",
-     "meaning": "cho thú ăn"
+     "term": "get bored",
+     "meaning": "thấy chán"
     },
     {
-     "term": "in the shade",
-     "meaning": "dưới bóng râm"
+     "term": "ordinary",
+     "meaning": "bình thường"
     },
     {
-     "term": "aquarium",
-     "meaning": "thuỷ cung"
+     "term": "affordable",
+     "meaning": "giá phải chăng"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the benefits of keeping pets. In my opinion, pets bring many good things to our lives.\n\nFirstly, pets can improve our physical health through daily activities. Dog owners need to walk their dogs every morning and evening. For example, my neighbour walks his dog in the park for thirty minutes every day, so he is very fit.\n\nSecondly, pets provide emotional support and reduce stress. They are always happy to see us, and they love us without judging us. For instance, when I come home tired after work, playing with my cat makes me feel calm.\n\nThirdly, pets help strengthen bonds within the family. Family members often take care of a pet together and talk about it. A good example is my cousin's family, who take their dog to the beach every weekend.\n\nAnother important point is that pets teach children responsibility. Children learn that a pet needs food, water and love every day. For example, my niece feeds her goldfish every morning before school.\n\nTo sum up, keeping pets is good for our physical health, our emotions and our family bonds. Pets also teach children responsibility, so I think many families should consider having one.",
    "own_idea": "Teaching children responsibility",
+   "follow_ups": [
+    "In my area, dogs and cats are the most common pets. Dogs are popular because they can protect the house, while cats are easy to look after in small flats. For example, my neighbours keep a small dog and two cats. Some families also keep fish or birds.",
+    "Yes, I think it is suitable, but parents should help them. The main reason is that pets teach children to be kind and responsible. For example, a child can feed a cat or clean a fish tank every day. However, young children should not look after a big dog alone.",
+    "Many people dislike keeping pets because pets need a lot of time and money. They must be fed, cleaned and taken to the vet regularly. For example, my friends who work long hours cannot leave a dog alone all day. Some people are also allergic to cat or dog hair."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + 4 lợi ích chính",
-     "reusable": "Today I would like to talk about the benefits of keeping pets."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the benefits of keeping pets. In my opinion, pets bring many good things to our lives."
     },
     {
-     "section": "Ý 1: Physical health",
-     "content": "Dắt chó đi dạo sáng tối → vận động nhiều; ví dụ chú Hải hàng xóm",
-     "reusable": "First, pets help improve physical health through daily activities."
+     "section": "Ý 1: sức khoẻ thể chất",
+     "content": "Ý → dắt chó đi dạo sáng tối → ví dụ hàng xóm dắt chó 30 phút mỗi ngày",
+     "reusable": "Firstly, pets can improve our physical health through daily activities."
     },
     {
-     "section": "Ý 2: Emotional support",
-     "content": "Chơi với chó mèo sau giờ làm → bình tĩnh, vui; bạn của người già, người sống một mình",
-     "reusable": "Second, pets provide emotional support and reduce stress."
+     "section": "Ý 2: chỗ dựa tinh thần, giảm căng thẳng",
+     "content": "Ý → luôn vui khi gặp mình → ví dụ chơi với mèo sau giờ làm",
+     "reusable": "Secondly, pets provide emotional support and reduce stress."
     },
     {
-     "section": "Ý 3: Family bonds",
-     "content": "Cả nhà cùng cho ăn, đưa đi thú y, chơi cùng → nhiều thời gian bên nhau",
-     "reusable": "Third, pets help strengthen bonds within the family."
+     "section": "Ý 3: gắn kết gia đình",
+     "content": "Ý → cùng chăm sóc, cùng nói chuyện → ví dụ nhà anh họ đưa chó ra biển",
+     "reusable": "Thirdly, pets help strengthen bonds within the family."
     },
     {
      "section": "Ý riêng: dạy trẻ trách nhiệm",
-     "content": "Cho ăn, dọn chỗ ở mỗi ngày → biết quan tâm, giữ lời hứa",
-     "reusable": "Finally, I think keeping pets teaches children responsibility."
+     "content": "Ý → thú cưng cần ăn, uống, yêu thương mỗi ngày → ví dụ cháu cho cá ăn mỗi sáng",
+     "reusable": "Another important point is that pets teach children responsibility."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt + cần đủ thời gian và tiền trước khi nuôi",
-     "reusable": "However, before buying a pet, people should make sure they have enough time and money."
+     "section": "Kết",
+     "content": "Tóm tắt các ý",
+     "reusable": "To sum up, keeping pets is good for our physical health, our emotions and our family bonds."
     }
-   ],
-   "answer": "Today I would like to talk about the benefits of keeping pets. I think pets bring four main benefits to their owners.\n\nFirst, pets help improve physical health through daily activities. For example, dog owners need to walk their dogs every morning and evening. As a result, they exercise more and become healthier. My neighbour, Mr Hai, walks his dog for thirty minutes every day, and he is very fit for his age.\n\nSecond, pets provide emotional support and reduce stress. After a long day at work, playing with a cat or a dog makes people feel calm and happy. Pets are also good friends for old people and people who live alone, so they feel less lonely.\n\nThird, pets help strengthen bonds within the family. Family members often take care of the pet together, such as feeding it or taking it to the vet. They also play with it and talk about it, so they spend more time together.\n\nFinally, I think keeping pets teaches children responsibility. When children feed their pet and clean its home every day, they learn to care for others. They also learn to keep promises and follow a daily routine.\n\nIn conclusion, pets are good for our bodies, our minds, our families and our children. However, before buying a pet, people should make sure they have enough time and money to look after it.",
-   "follow_ups": [
-    "In my area, dogs and cats are the most common pets. Some people also keep fish or birds. Dogs are popular because they can protect the house.",
-    "Yes, I think it is suitable, but parents should help them. Keeping a pet teaches children to be responsible and kind. However, young children should not keep dangerous animals.",
-    "Many people dislike keeping pets because pets need a lot of time and care. Pets can also make the house dirty and noisy. In addition, some people are allergic to animal hair."
    ],
    "vocab": [
     {
      "term": "emotional support",
-     "meaning": "sự hỗ trợ về tinh thần"
+     "meaning": "chỗ dựa tinh thần"
     },
     {
-     "term": "strengthen bonds within the family",
-     "meaning": "thắt chặt tình cảm gia đình"
+     "term": "strengthen bonds",
+     "meaning": "thắt chặt tình cảm"
     },
     {
-     "term": "take a pet to the vet",
-     "meaning": "đưa thú cưng đi khám thú y"
+     "term": "judge someone",
+     "meaning": "phán xét ai"
     },
     {
-     "term": "responsibility",
-     "meaning": "tinh thần trách nhiệm"
+     "term": "take something to the vet",
+     "meaning": "đưa đi bác sĩ thú y"
     },
     {
      "term": "be allergic to",

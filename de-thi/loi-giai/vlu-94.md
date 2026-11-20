@@ -6,6 +6,8 @@
 
 **Thời gian:** 20 phút · **Số từ tối thiểu:** 120
 
+*Khung: [Thư thân mật](KHUNG-MAU.md#w1_informal) · 150–180 từ · 20 phút*
+
 ### 1. Đề bài
 
 You should spend about 20 minutes on this task. You received an email from your friend, who is about to move to a new place near the university.
@@ -24,47 +26,49 @@ Read part of their email below.
 
 Hi Lan,
 
-Thanks for your email. I am so happy to hear that you are moving to a new place next week!
+Thank you for your email. I am so happy to hear that you are moving next week.
 
-First, I know a good moving service called Fast Move. I used it when I moved house last year. The staff were careful, and the price was quite low. They also bring boxes and tape for you. You can call them or book a truck on their website.
+Regarding moving services, I know a good company called Fast Move. I used it when I moved house last year. The staff were careful, and the price was quite reasonable. They also bring boxes and tape for you.
 
-Of course, I would be happy to help you pack your things. How about this Saturday at 9 a.m.? I will come to your flat and bring some big bags. We can pack your books and clothes first. Then we can have lunch at the noodle shop near your home.
+As for packing, of course I would be happy to help you. How about meeting at your flat at 9 a.m. this Saturday? I will bring some big bags, and we can pack your books and clothes first. If this time does not suit you, just let me know.
 
-The neighbourhood around the university is great. It is quiet and safe, and there are many cheap restaurants and coffee shops. There is also a big supermarket and a small park where you can go jogging in the evening. However, the streets are often busy in the morning, so you should leave home early.
+About the neighbourhood, I think you will love it. It is quiet and safe, and there are many cheap restaurants and coffee shops. There is also a big supermarket and a small park where you can go jogging. However, the streets are busy in the morning, so you should leave home early.
 
-Let me know if Saturday works for you. See you soon!
+Good luck with the move. See you on Saturday!
 
 Best wishes,  
 Minh
 
 ### 3. Số từ
 
-**189 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
+**171 từ** (đếm bằng công cụ) · đạt mức tối thiểu 120 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
 | Lời chào | Chào thân mật theo tên | *Hi Lan,* |
-| Mở đầu | Cảm ơn thư, vui vì bạn sắp chuyển nhà | *Thanks for your email. I am so happy to hear that you are moving to a new place next week!* |
-| Ý 1: dịch vụ chuyển nhà | Giới thiệu công ty Fast Move đã dùng: nhân viên cẩn thận, giá rẻ, có thùng và băng keo | *I know a good moving service called Fast Move.* |
-| Ý 2: giúp đóng đồ | Đồng ý; thứ Bảy 9 giờ sáng, mang túi lớn, gói sách vở, quần áo, rồi ăn trưa | *Of course, I would be happy to help you pack your things. How about this Saturday at 9 a.m.?* |
-| Ý 3: khu vực quanh trường | Yên tĩnh, an toàn, nhiều quán ăn, cà phê rẻ; có siêu thị và công viên; buổi sáng kẹt xe | *The neighbourhood around the university is great.* |
-| Kết thư + ký tên | Hỏi lại thứ Bảy có tiện không, hẹn gặp | *Let me know if Saturday works for you. See you soon!* |
+| Mở đầu | Cảm ơn thư, vui vì bạn sắp chuyển nhà | *Thank you for your email. I am so happy to hear that you are moving next week.* |
+| Ý 1: dịch vụ chuyển nhà | Giới thiệu Fast Move → đã dùng năm ngoái → nhân viên cẩn thận, giá hợp lý → mang thùng, băng keo | *Regarding moving services, I know a good company called Fast Move.* |
+| Ý 2: giúp đóng đồ | Đồng ý → hẹn ở căn hộ của bạn, 9 giờ sáng thứ Bảy → mang túi, đóng sách và quần áo trước → báo nếu không hợp | *As for packing, of course I would be happy to help you. How about meeting at your flat at 9 a.m. this Saturday? … If this time does not suit you, just let me know.* |
+| Ý 3: khu phố quanh trường | Yên tĩnh, an toàn → quán ăn, cà phê rẻ → siêu thị, công viên → sáng kẹt xe, nên đi sớm | *About the neighbourhood, I think you will love it.* |
+| Kết thư + ký tên | Chúc chuyển nhà suôn sẻ, hẹn thứ Bảy, chào cuối thư | *Good luck with the move. See you on Saturday! Best wishes,* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **moving service** | dịch vụ chuyển nhà |
 | **move house** | chuyển nhà |
-| **pack (your things)** | đóng gói, xếp đồ đạc |
-| **neighbourhood** | khu vực lân cận, khu phố |
-| **go jogging** | đi chạy bộ |
+| **a moving service** | dịch vụ chuyển nhà |
+| **reasonable** | (giá) hợp lý |
+| **pack your things** | đóng gói đồ đạc |
+| **neighbourhood** | khu phố, khu dân cư |
 
 ## WRITING — PART 2 · Essay
 
 **Thời gian:** 40 phút · **Số từ tối thiểu:** 250
+
+*Khung: [Discussion: bàn hai quan điểm + ý kiến riêng](KHUNG-MAU.md#w2_discussion) · 270–300 từ · 4 đoạn · 40 phút*
 
 ### 1. Đề bài
 
@@ -82,40 +86,43 @@ You should spend about 40 minutes on this task.
 
 **Dạng đề:** Discuss both views + opinion (thảo luận hai quan điểm và nêu ý kiến cá nhân)
 
-Nowadays, many people of all ages share details of their daily lives on social media. Some people think this habit helps them connect with others and keep their memories, while others believe it harms their privacy and creates pressure. In my opinion, sharing online is useful, but people should do it carefully.
+People have different opinions on whether we should post details of our daily lives online. Some see it as a way to stay close to others, while others see many risks. This essay will discuss both views, but I believe that sharing too much online does more harm than good.
 
-On the one hand, there are good reasons why people share their lives online. Firstly, it helps them stay connected with friends and family. For example, my cousin lives in Canada, but I can see photos of her children on Facebook every week. Secondly, sharing posts helps people preserve their memories. Social media works like an online diary, and many apps remind users of what they did years ago. In addition, people can find others with the same interests. When someone posts about a hobby, such as cooking or travelling, they can make new friends.
+On the one hand, some people believe that sharing personal experiences online helps them connect with others and keep memories. This is because social media lets friends and relatives follow each other's lives easily. For example, a mother can post photos of her baby, so grandparents who live far away can watch the child grow up. As a result, families feel closer, and they also have an online album of special moments.
 
-On the other hand, many people argue that sharing their lives online causes serious problems. Firstly, it can invade people's privacy. When someone posts their address, their school or their daily plans, strangers can find them easily. As a result, they may become victims of crime. Secondly, social media creates pressure to show a perfect life. Many users only post beautiful photos, and they often edit these photos carefully. Other people compare themselves with these images and feel unhappy about their own lives.
+On the other hand, I agree with those who think that sharing too much is harmful. Firstly, it can put our privacy and safety at risk. Strangers can learn where we live, work and travel from our posts. For instance, a person who posts holiday photos while away may tell thieves that the house is empty. As a result, the family may lose valuable things while they are on holiday. Secondly, social media creates pressure to show a perfect life. People often post only their best moments, so others feel that their own lives are not good enough. A good example is teenagers who edit their photos many times before posting them. Therefore, many of them feel anxious and unhappy with their appearance.
 
-In conclusion, sharing daily life on social media can help people connect and keep memories, but it can also cause privacy problems and stress. I believe people can continue to share, but they should think carefully before they post. They should also never share private information, such as their home address or bank details.
+In conclusion, although sharing our lives online helps us connect and save memories, I believe that it does more harm than good because it threatens privacy and creates pressure. We should think carefully before we post.
 
 ### 3. Số từ
 
-**284 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
+**281 từ** (đếm bằng công cụ) · đạt mức tối thiểu 250 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở bài | Viết lại đề: nhiều người chia sẻ cuộc sống lên mạng; hai quan điểm → ý kiến: có ích nhưng cần cẩn thận | *In my opinion, sharing online is useful, but people should do it carefully.* |
-| Thân bài 1: quan điểm ủng hộ | (1) giữ liên lạc với bạn bè, gia đình (2) lưu giữ kỷ niệm như nhật ký online (3) tìm người cùng sở thích | *On the one hand, there are good reasons why people share their lives online.* |
-| Thân bài 2: quan điểm phản đối | (1) xâm phạm quyền riêng tư, người lạ biết địa chỉ (2) áp lực phải tỏ ra hoàn hảo, so sánh → buồn | *On the other hand, many people argue that sharing their lives online causes serious problems.* |
-| Kết bài | Tóm tắt hai quan điểm + nhắc lại ý kiến: suy nghĩ trước khi đăng, không đăng thông tin riêng tư | *I believe people can continue to share, but they should think carefully before they post.* |
+| Mở bài | Viết lại đề (đăng cuộc sống hằng ngày lên mạng: gần gũi hay rủi ro) + quan điểm: chia sẻ quá nhiều thì hại nhiều hơn lợi | *This essay will discuss both views, but I believe that sharing too much online does more harm than good.* |
+| Thân bài 1 · PEER quan điểm A | P: kết nối, lưu kỷ niệm → E: bạn bè, người thân theo dõi dễ → Ex: mẹ đăng ảnh em bé cho ông bà ở xa → R: gần gũi hơn, có album online | *On the one hand, some people believe that sharing personal experiences online helps them connect with others and keep memories. This is because …* |
+| Thân bài 2 · PEER 1 (quan điểm của mình) | P: nguy hiểm cho quyền riêng tư, an toàn → E: người lạ biết nơi ở, làm việc → Ex: đăng ảnh du lịch, kẻ trộm biết nhà trống | *On the other hand, I agree with those who think that sharing too much is harmful. Firstly, it can put our privacy and safety at risk.* |
+| Thân bài 2 · PEER 2 (quan điểm của mình) | P: áp lực phải hoàn hảo → E: chỉ đăng khoảnh khắc đẹp, người khác tự ti → Ex: thiếu niên chỉnh ảnh nhiều lần → R: lo âu, không hài lòng về ngoại hình | *Secondly, social media creates pressure to show a perfect life.* |
+| Kết bài | Nhắc lại quan điểm + 2 lý do + suy nghĩ trước khi đăng | *In conclusion, although sharing our lives online helps us connect and save memories, I believe that it does more harm than good because …* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **preserve memories** | lưu giữ kỷ niệm |
-| **invade someone's privacy** | xâm phạm quyền riêng tư của ai |
-| **victim of crime** | nạn nhân của tội phạm |
-| **compare oneself with** | so sánh bản thân với |
-| **stay connected with** | giữ kết nối với |
+| **do more harm than good** | hại nhiều hơn lợi |
+| **put something at risk** | khiến cái gì gặp rủi ro |
+| **privacy** | quyền riêng tư |
+| **a perfect life** | cuộc sống hoàn hảo |
+| **anxious** | lo âu |
 
 ## SPEAKING — PART 1 · Social Interaction
 
 **Thời gian:** 3 phút
+
+*Khung: [Speaking Part 1: Social Interaction](KHUNG-MAU.md#s1) · Mỗi câu hỏi 3 câu, khoảng 30–40 từ*
 
 ### 1. Đề bài
 
@@ -138,41 +145,41 @@ In conclusion, sharing daily life on social media can help people connect and ke
 ### 2. Bài mẫu
 
 **1. Are there many green spaces, such as parks or gardens, in the area where you live?**  
-Not really. I live in District 3 in Ho Chi Minh City, and there are only a few small parks near my home. The biggest one is Le Van Tam Park.
+Not really. There are only a few small parks in my area. This is because District 3 in Ho Chi Minh City is very crowded with houses and shops. The biggest green space near me is Le Van Tam Park.
 
 **2. How often do you visit green spaces near your home?**  
-I visit the park about twice a week. I usually go there early in the morning to walk and breathe fresh air. Sometimes I also read a book there at weekends.
+I visit the park about twice a week. I usually go there early in the morning because the air is fresh and cool. At weekends, I sometimes read a book there under the trees.
 
 **3. Do you think cities should have more green spaces? Why?**  
-Yes, definitely. Green spaces make the air cleaner and keep the city cooler. Parks also give people a place to exercise and relax after work.
+Yes, I think cities should have more green spaces. The main reason is that trees make the air cleaner and keep the city cooler. Parks also give people a free place to exercise and relax after work.
 
 **4. What kind of food do you enjoy eating the most?**  
-I enjoy Vietnamese food the most, especially broken rice and pho. These dishes are tasty and cheap, and they are easy to find in Ho Chi Minh City.
+I enjoy Vietnamese food the most, especially broken rice and pho. This is because these dishes are tasty and cheap. I usually have broken rice for lunch at a small restaurant near my office.
 
 **5. Do you prefer home-cooked food or food from restaurants?**  
-I prefer home-cooked food. It is healthier because I know what is in it. However, I eat at restaurants when I meet my friends at weekends.
+I prefer home-cooked food. The main reason is that it is healthier, and I know exactly what is in it. However, I eat at restaurants when I meet my friends at weekends.
 
 **6. Do you think eating habits have changed a lot compared to the past?**  
-Yes, they have changed a lot. In the past, most families cooked and ate dinner together at home. Now many people are busy, so they often order food through apps.
+Yes, they have changed a lot. In the past, most families cooked and ate dinner together at home. Now many people are busy, so they often order food through apps like GrabFood.
 
 ### 3. Số từ
 
-**171 từ** · khoảng 1 phút 26 giây nói (tốc độ 120 từ/phút).
+**209 từ** · khoảng 1 phút 44 giây nói (tốc độ 120 từ/phút).
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Câu trả lời trực tiếp | Trả lời ngay Yes/No hoặc nêu thông tin chính | *I visit the park about twice a week.* |
-| Lý do | Thêm 1 lý do bằng because / so | *It is healthier because I know what is in it.* |
-| Ví dụ / so sánh | Thêm 1 ví dụ cá nhân hoặc so sánh In the past … Now … | *In the past, most families cooked and ate dinner together at home.* |
+| Câu 1: trả lời thẳng | Trả lời ngay câu hỏi | *I enjoy Vietnamese food the most, especially broken rice and pho.* |
+| Câu 2: lý do | Thêm 1 lý do | *The main reason is that trees make the air cleaner and keep the city cooler.* |
+| Câu 3: chi tiết | Ví dụ cá nhân ngắn | *At weekends, I sometimes read a book there under the trees.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **green space** | không gian xanh |
-| **breathe fresh air** | hít thở không khí trong lành |
+| **green spaces** | không gian xanh |
+| **crowded** | đông đúc |
 | **broken rice** | cơm tấm |
 | **home-cooked food** | đồ ăn nấu ở nhà |
 | **order food through apps** | đặt đồ ăn qua ứng dụng |
@@ -180,6 +187,8 @@ Yes, they have changed a lot. In the past, most families cooked and ate dinner t
 ## SPEAKING — PART 2 · Solution Discussion
 
 **Thời gian:** 4 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 2: Solution Discussion](KHUNG-MAU.md#s2) · 220–260 từ*
 
 ### 1. Đề bài
 
@@ -197,41 +206,45 @@ Yes, they have changed a lot. In the past, most families cooked and ate dinner t
 
 **Lựa chọn:** Option 3: Talk directly to your friend about it
 
-If I saw my friend cheating during an exam, I would talk directly to my friend about it. Let me explain why.
+In this situation, among the three options, I think talking directly to my friend is the best choice. I choose it for two main reasons.
 
-First, talking to my friend is honest and kind at the same time. After the exam, I would meet him in private and tell him what I saw. I would explain that cheating is wrong and unfair to other students. Second, this way gives my friend a chance to change. He may feel ashamed and promise not to do it again. I could also offer to study with him for the next exam, so he would not need to cheat.
+The first reason is that it gives my friend a chance to correct his mistake himself. By that, I mean he can go to the teacher and tell the truth before anyone reports him. For example, he may say sorry and ask to take the exam again, so his punishment may be lighter.
 
-I don't choose to ignore what I saw and say nothing. If I say nothing, my friend will think that cheating is acceptable, and he may do it again. It is also unfair to the students who study hard. I also don't choose to report the incident to the teacher straight away. My friend might fail the exam or get a serious punishment from the school, and our friendship might end. However, if he continues to cheat, I will report it.
+Another reason is that it keeps our friendship and still shows that cheating is wrong. In other words, I am honest with him, and I do not go behind his back. For instance, I can meet him after the exam and explain calmly that cheating is unfair to other students.
 
-In conclusion, talking directly to my friend is the best choice because it solves the problem and keeps our friendship.
+There are also some reasons why I do not choose the other two options. Regarding ignoring what I saw and saying nothing, I do not think it is the best choice because it is unfair to the students who studied hard. As for reporting the incident to the teacher, I do not think it is the best option either because it may end our friendship before he can explain.
+
+To sum up, out of these three options, I believe talking directly to my friend is the best choice because it is honest, fair and kind.
 
 ### 3. Số từ
 
-**203 từ** · khoảng 1 phút 42 giây nói.
+**223 từ** · khoảng 1 phút 52 giây nói.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Nêu lựa chọn | Chọn nói chuyện trực tiếp với bạn | *If I saw my friend cheating during an exam, I would talk directly to my friend about it.* |
-| Lý do chọn | (1) vừa trung thực vừa tử tế, nói riêng sau giờ thi (2) cho bạn cơ hội sửa sai; rủ học chung | *First, talking to my friend is honest and kind at the same time.* |
-| Vì sao không chọn làm ngơ | Bạn nghĩ gian lận là bình thường; bất công với người học chăm | *I don't choose to ignore what I saw and say nothing.* |
-| Vì sao không chọn báo giáo viên | Bạn có thể bị đánh rớt, bị phạt, mất tình bạn; chỉ báo nếu bạn tái phạm | *I also don't choose to report the incident to the teacher straight away.* |
-| Kết luận | Nhắc lại lựa chọn + giữ được tình bạn | *In conclusion, talking directly to my friend is the best choice.* |
+| Chọn | Câu khung + lựa chọn: nói chuyện trực tiếp với bạn | *In this situation, among the three options, I think talking directly to my friend is the best choice. I choose it for two main reasons.* |
+| Lý do 1 | Cho bạn cơ hội tự sửa sai → By that, I mean … → For example: xin lỗi, xin thi lại, bị phạt nhẹ hơn | *The first reason is that it gives my friend a chance to correct his mistake himself. By that, I mean …* |
+| Lý do 2 | Giữ tình bạn nhưng vẫn cho thấy gian lận là sai → In other words … → For instance: gặp sau giờ thi, giải thích bình tĩnh | *Another reason is that it keeps our friendship and still shows that cheating is wrong. In other words, …* |
+| Loại 2 phương án | Làm ngơ: bất công với người học chăm; báo giáo viên: có thể mất tình bạn trước khi bạn kịp giải thích | *There are also some reasons why I do not choose the other two options. Regarding ignoring what I saw and saying nothing, I do not think it is the best choice because … As for reporting the incident to the teacher, I do not think it is the best option either because …* |
+| Kết | Câu khung + 3 tính từ | *To sum up, out of these three options, I believe talking directly to my friend is the best choice because it is honest, fair and kind.* |
 
 ### 5. Từ vựng đáng học
 
 | Từ / cụm từ | Nghĩa |
 |---|---|
-| **cheat in an exam** | gian lận trong kỳ thi |
-| **in private** | nói riêng, kín đáo |
-| **feel ashamed** | cảm thấy xấu hổ |
-| **report the incident** | báo cáo sự việc |
-| **straight away** | ngay lập tức |
+| **cheat in an exam** | gian lận trong thi cử |
+| **correct a mistake** | sửa lỗi |
+| **punishment** | hình phạt |
+| **behind someone's back** | sau lưng ai |
+| **unfair** | bất công |
 
 ## SPEAKING — PART 3 · Topic Development
 
 **Thời gian:** 5 phút (1 phút chuẩn bị)
+
+*Khung: [Speaking Part 3: Topic Development](KHUNG-MAU.md#s3) · Bài nói chính 200–260 từ · mỗi câu follow-up 3–4 câu (35–55 từ)*
 
 ### 1. Đề bài
 
@@ -256,43 +269,43 @@ In conclusion, talking directly to my friend is the best choice because it solve
 
 **Ý riêng (your own idea):** Easy to track spending
 
-Today I would like to talk about the benefits of cashless payment. In Vietnam, more and more people pay by phone or by card. I think there are four main benefits.
+Today I would like to talk about the benefits of cashless payment. In my opinion, paying without cash makes our daily lives much easier.
 
-First, cashless payment brings convenience in daily transactions. I only need my phone to buy coffee, pay for a taxi or pay my electricity bill. I do not need to carry a heavy wallet or look for small change.
+Firstly, cashless payment brings convenience in daily transactions. We only need a phone to pay for almost everything. For example, I pay for my coffee, my groceries and my Grab rides with a banking app.
 
-Second, it gives better safety and security for our money. If I lose my wallet, I lose all my cash. But if I lose my phone, nobody can use my bank app without my password or my face.
+Secondly, it offers better safety and security for our money. We do not need to carry a lot of cash, so we worry less about losing it. For instance, if someone steals my phone, they still cannot open my banking app without my password.
 
-Third, cashless payment is fast and efficient. At the supermarket, I just scan a QR code, and the payment is done in a few seconds. As a result, shops can serve more customers, and the queues are shorter.
+Thirdly, cashless payment improves the speed and efficiency of payment processes. Scanning a QR code takes only a few seconds, and there is no need to count change. A good example is the supermarket near my house, where the queues are much shorter now.
 
-Finally, I think cashless payment makes it easy to track our spending. Every payment is saved in the bank app. At the end of the month, I can check how much money I spent on food and shopping. This helps me save money.
+Another important point is that it is easy to track spending. Every payment is saved in the app, so we can see where our money goes. For example, I check my banking app at the end of each month to plan my budget.
 
-In conclusion, cashless payment is convenient, safe, fast and helpful for managing money. That is why I almost never use cash now.
+To sum up, cashless payment is convenient, safe and fast. It also makes it easy to track our spending.
 
 **Trả lời câu hỏi follow-up**
 
 **1. Do you think cashless payment will completely replace cash in the future?**  
-I don't think it will replace cash completely, at least not soon. Many old people and people in the countryside still prefer cash. However, I believe cash will become less common.
+No, I do not think cash will disappear completely. The main reason is that many older people and people in the countryside still prefer cash. For example, my grandmother only uses cash when she goes to the local market. However, cash will probably become much less common.
 
 **2. What are some risks associated with cashless payment methods?**  
-The biggest risk is online fraud. Some criminals send fake messages to steal bank passwords. In addition, if the internet or the bank system stops working, people cannot pay.
+The biggest risk is online fraud. Criminals can send fake messages or links to steal people's bank information. For example, one of my colleagues lost money after she clicked a fake link that looked like a bank message. Another risk is that we may spend too much because paying is so easy.
 
 **3. How has cashless payment changed shopping habits in your country?**  
-It has changed shopping habits a lot in Vietnam. Now people even pay by QR code at street food stalls and local markets. People also shop online more often because payment is so easy.
+Cashless payment has made shopping in Vietnam faster and more convenient. People now pay by QR code, even at small street stalls. For example, the woman who sells bread near my office has a QR code on her cart. As a result, many people carry very little cash now.
 
 ### 3. Số từ
 
-**Bài nói chính: 211 từ** (khoảng 1 phút 46 giây) · follow-up: 94 từ.
+**Bài nói chính: 209 từ** (khoảng 1 phút 44 giây) · follow-up: 148 từ.
 
 ### 4. Khung dàn ý
 
 | Đoạn | Nội dung | Câu mẫu dùng lại |
 |---|---|---|
-| Mở đầu | Giới thiệu chủ đề + ở Việt Nam ngày càng nhiều người trả bằng điện thoại, thẻ | *Today I would like to talk about the benefits of cashless payment.* |
-| Ý 1: Convenience | Chỉ cần điện thoại để mua cà phê, trả taxi, tiền điện; không cần ví, tiền lẻ | *First, cashless payment brings convenience in daily transactions.* |
-| Ý 2: Safety and security | Mất ví là mất tiền; mất điện thoại thì người khác không mở được app ngân hàng | *Second, it gives better safety and security for our money.* |
-| Ý 3: Speed and efficiency | Quét mã QR vài giây; cửa hàng phục vụ nhiều khách, hàng chờ ngắn | *Third, cashless payment is fast and efficient.* |
-| Ý riêng: dễ theo dõi chi tiêu | Mọi giao dịch lưu trong app → cuối tháng kiểm tra, tiết kiệm | *Finally, I think cashless payment makes it easy to track our spending.* |
-| Kết luận | Tóm tắt 4 lợi ích | *In conclusion, cashless payment is convenient, safe, fast and helpful for managing money.* |
+| Mở | Giới thiệu chủ đề + ý chính | *Today I would like to talk about the benefits of cashless payment. In my opinion, paying without cash makes our daily lives much easier.* |
+| Ý 1: tiện lợi trong giao dịch hằng ngày | Ý → chỉ cần điện thoại → ví dụ trả tiền cà phê, đi chợ, Grab bằng app ngân hàng | *Firstly, cashless payment brings convenience in daily transactions.* |
+| Ý 2: an toàn cho tiền bạc | Ý → không mang nhiều tiền mặt → ví dụ mất điện thoại vẫn không mở được app | *Secondly, it offers better safety and security for our money.* |
+| Ý 3: nhanh, hiệu quả | Ý → quét QR vài giây, không thối tiền → ví dụ hàng chờ siêu thị ngắn hơn | *Thirdly, cashless payment improves the speed and efficiency of payment processes.* |
+| Ý riêng: dễ theo dõi chi tiêu | Ý → mọi khoản lưu trong app → ví dụ cuối tháng xem lại để lập ngân sách | *Another important point is that it is easy to track spending.* |
+| Kết | Tóm tắt các ý | *To sum up, cashless payment is convenient, safe and fast. It also makes it easy to track our spending.* |
 
 ### 5. Từ vựng đáng học
 
@@ -300,6 +313,6 @@ It has changed shopping habits a lot in Vietnam. Now people even pay by QR code 
 |---|---|
 | **cashless payment** | thanh toán không dùng tiền mặt |
 | **daily transactions** | giao dịch hằng ngày |
-| **small change** | tiền lẻ |
+| **scan a QR code** | quét mã QR |
 | **track spending** | theo dõi chi tiêu |
 | **online fraud** | lừa đảo trực tuyến |

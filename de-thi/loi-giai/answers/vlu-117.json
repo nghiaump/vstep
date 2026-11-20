@@ -10,36 +10,36 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Hỏi thăm + vừa đi chơi về, muốn kể",
+     "content": "Hỏi thăm + lý do viết thư",
      "reusable": "I have just come back from a great trip, and I want to tell you all about it."
     },
     {
      "section": "Ý 1: đi đâu, khi nào, với ai",
-     "content": "Phan Thiết, cuối tuần trước, với chị gái và 2 đồng nghiệp, đi tàu hoả",
-     "reusable": "Last weekend, I went to Phan Thiet with my sister and two of my colleagues."
+     "content": "Phan Thiết, cuối tuần trước, với chị gái và 2 đồng nghiệp, đi tàu",
+     "reusable": "Regarding the trip, I went to Phan Thiet last weekend."
     },
     {
-     "section": "Ý 2: các hoạt động",
-     "content": "Ngày 1 tắm biển Mũi Né; ngày 2 đồi cát đỏ, đồi cát trắng; tối ăn hải sản",
-     "reusable": "On the first day, we swam in the sea at Mui Ne Beach."
+     "section": "Ý 2: hoạt động",
+     "content": "Tắm biển Mũi Né, đồi cát đỏ/trắng, hải sản",
+     "reusable": "As for our activities, we swam in the sea at Mui Ne Beach on the first day."
     },
     {
      "section": "Ý 3: cảm nhận + ấn tượng nhất",
-     "content": "Thư giãn, vui; ấn tượng nhất đồi cát trắng lúc bình minh",
+     "content": "Thư giãn, vui; ấn tượng nhất là đồi cát trắng lúc bình minh",
      "reusable": "What impressed me most was the White Sand Dunes."
     },
     {
-     "section": "Ý 4: có nên đi không + lý do",
-     "content": "Nên đi: gần, khách sạn rẻ, Lan thích biển; thời điểm đẹp tháng 12–4",
+     "section": "Ý 4: có nên đi không",
+     "content": "Nên đi + 2 lý do (gần, rẻ, hợp sở thích)",
      "reusable": "I think you should visit Phan Thiet too."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mong hồi âm, chào cuối thư",
-     "reusable": "Write back soon and tell me your news. Best wishes,"
+     "content": "Câu kết cố định",
+     "reusable": "That's all for now. Write back soon! Best wishes,"
     }
    ],
-   "answer": "Hi Lan,\n\nHow are you? I have just come back from a great trip, and I want to tell you all about it.\n\nLast weekend, I went to Phan Thiet with my sister and two of my colleagues. We went there by train.\n\nWe did a lot of fun things there. On the first day, we swam in the sea at Mui Ne Beach. On the second day, we visited the Red Sand Dunes and the White Sand Dunes. In the evening, we ate fresh seafood at a small restaurant near the beach.\n\nI felt very relaxed and happy during the trip. What impressed me most was the White Sand Dunes. They looked like a desert, and the sunrise there was beautiful.\n\nI think you should visit Phan Thiet too. It is only about four hours from Ho Chi Minh City, and the hotels are not expensive. You love the sea and seafood, so you will enjoy it a lot. The best time to go is from December to April because the weather is dry and sunny.\n\nWrite back soon and tell me your news.\n\nBest wishes,\nMinh",
+   "answer": "Hi Lan,\n\nHow are you? I have just come back from a great trip, and I want to tell you all about it.\n\nRegarding the trip, I went to Phan Thiet last weekend. I went with my sister and two of my colleagues. We travelled there by train from Ho Chi Minh City.\n\nAs for our activities, we swam in the sea at Mui Ne Beach on the first day. On the second day, we visited the Red Sand Dunes and the White Sand Dunes. In the evening, we ate fresh seafood at a small restaurant near the beach.\n\nI felt very relaxed and happy during the trip. What impressed me most was the White Sand Dunes. They looked like a desert, and the sunrise there was beautiful.\n\nI think you should visit Phan Thiet too. It is only about four hours by train from Ho Chi Minh City, and the hotels are cheap. You love the sea and seafood, so you will enjoy it a lot.\n\nThat's all for now. Write back soon!\n\nBest wishes,\nMinh",
    "vocab": [
     {
      "term": "sand dunes",
@@ -58,56 +58,68 @@
      "meaning": "bình minh"
     },
     {
-     "term": "dry and sunny",
-     "meaning": "khô ráo và nắng"
+     "term": "relaxed",
+     "meaning": "thư giãn"
     }
-   ]
+   ],
+   "template": "w1_informal"
   },
   "2": {
-   "essay_type": "Causes, problems & solutions (nguyên nhân, vấn đề gây ra và giải pháp: đề nêu \"causes\", câu yêu cầu cuối hỏi \"problems caused by\", nên bài trả lời cả hai)",
+   "essay_type": "Causes & solutions (nguyên nhân và giải pháp)",
+   "type_key": "x_solution",
+   "answer": "Today, many children spend several hours a day on phones, tablets and computers. Parents and teachers are worried because this habit can harm children's health, behaviour and school results. This essay will discuss the main causes of this problem and suggest some solutions.\n\nThere are two main causes of this problem. Firstly, many parents are very busy with work, so they give their children a phone to keep them quiet. For example, it is common to see young children watching cartoons on a phone during family meals. As a result, children get used to screens very early, and many of them have eye problems. Secondly, games and video apps are designed to be very attractive. This means that children find it hard to stop playing or watching. For instance, many apps play the next video automatically, so a child can watch for hours. Therefore, he may go to bed late and feel tired at school.\n\nHowever, there are some ways to solve this problem. Firstly, parents should set clear rules about screen time and follow these rules themselves. For instance, children can use devices for only one hour a day after they finish their homework. Parents should also put away their own phones during meals. Secondly, schools and local governments should give children more interesting things to do offline. A good example is free football, music or art clubs after school. Thanks to this, children can make friends, stay active and spend less time in front of screens.\n\nIn conclusion, children use electronic devices too much mainly because their parents are busy and apps are very attractive. However, this problem can be reduced if parents set clear rules and schools offer more offline activities. With their help, children can grow up healthier and happier.",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: trẻ dùng thiết bị điện tử nhiều giờ; tác hại: hại mắt, ngủ kém, ít vận động, dễ cáu, học kém → bài nêu nguyên nhân + giải pháp",
-     "reusable": "This essay will discuss the main causes of this problem and suggest some possible solutions."
+     "content": "Viết lại đề (trẻ dùng thiết bị nhiều giờ, phụ huynh lo) + câu dẫn",
+     "reusable": "This essay will discuss the main causes of this problem and suggest some solutions."
     },
     {
-     "section": "Thân bài 1: nguyên nhân",
-     "content": "(1) bố mẹ bận, đưa điện thoại cho con ngồi yên (2) game, mạng xã hội được thiết kế hấp dẫn (3) thành phố thiếu chỗ chơi ngoài trời",
-     "reusable": "There are several reasons why children use electronic devices too much."
+     "section": "Thân bài 1 · nguyên nhân 1",
+     "content": "P: bố mẹ bận, đưa điện thoại cho con → Ex: xem hoạt hình trong bữa ăn → R (vấn đề): quen màn hình từ nhỏ, hại mắt",
+     "reusable": "There are two main causes of this problem. Firstly, …"
     },
     {
-     "section": "Thân bài 2: giải pháp",
-     "content": "(1) bố mẹ đặt quy định giờ dùng máy, làm gương (2) trường tổ chức hoạt động ngoài trời, câu lạc bộ (3) chính quyền xây thêm công viên, sân chơi",
-     "reusable": "Fortunately, there are some ways to reduce this problem. First, parents should set clear rules about screen time."
+     "section": "Thân bài 1 · nguyên nhân 2",
+     "content": "P: game, ứng dụng video hấp dẫn → E: khó dừng → Ex: tự phát video tiếp theo → R (vấn đề): ngủ muộn, mệt ở trường",
+     "reusable": "Secondly, games and video apps are designed to be very attractive."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 1 (cho nguyên nhân 1)",
+     "content": "Ai: phụ huynh → đặt quy định giờ dùng, làm gương → Ex: 1 giờ/ngày sau bài tập",
+     "reusable": "However, there are some ways to solve this problem. Firstly, parents should set clear rules about screen time"
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 2 (cho nguyên nhân 2)",
+     "content": "Ai: trường học, chính quyền → hoạt động ngoài màn hình → Ex: câu lạc bộ bóng đá, nhạc, vẽ",
+     "reusable": "Secondly, schools and local governments should give children more interesting things to do offline."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt nguyên nhân + gia đình, nhà trường, chính quyền cùng chung tay",
-     "reusable": "Parents, schools and governments should work together to solve this problem."
+     "content": "Tóm tắt nguyên nhân + giải pháp",
+     "reusable": "In conclusion, children use electronic devices too much mainly because … However, this problem can be reduced if …"
     }
    ],
-   "answer": "Nowadays, many children spend hours every day on smartphones, tablets and computers. This habit causes serious problems. Children may have poor eyesight and sleep badly. They may also become less active, get angry easily and do worse at school. This essay will discuss the main causes of this problem and suggest some possible solutions.\n\nThere are several reasons why children use electronic devices too much. Firstly, many parents are very busy with work. They give their children a phone or a tablet to keep them quiet. For example, it is common to see young children watching cartoons on a phone during meals. Secondly, games and social media apps are designed to be very attractive. As a result, children find it hard to stop playing or watching. In addition, many children have few places to play outside, especially in big cities. Therefore, a screen becomes their main form of entertainment.\n\nFortunately, there are some ways to reduce this problem. First, parents should set clear rules about screen time. For instance, children can use devices for only one hour a day after they finish their homework. Parents should also be good role models and put away their own phones at home. Second, schools should organise more outdoor activities and clubs, such as football, music and art. These activities help children make friends and stay active. Moreover, local governments should build more parks and playgrounds. When children have safe places to play, they will spend less time indoors.\n\nIn conclusion, children use electronic devices too much because their parents are busy, apps are attractive and there are few places to play. Parents, schools and governments should work together to solve this problem. With their help, children can grow up healthier and happier.",
    "vocab": [
     {
-     "term": "electronic devices",
-     "meaning": "thiết bị điện tử"
-    },
-    {
      "term": "screen time",
-     "meaning": "thời gian dùng màn hình"
+     "meaning": "thời gian dùng thiết bị màn hình"
     },
     {
-     "term": "role model",
-     "meaning": "tấm gương"
+     "term": "keep someone quiet",
+     "meaning": "giữ cho ai ngồi yên"
     },
     {
-     "term": "outdoor activities",
-     "meaning": "hoạt động ngoài trời"
+     "term": "get used to",
+     "meaning": "quen với"
     },
     {
-     "term": "form of entertainment",
-     "meaning": "hình thức giải trí"
+     "term": "set clear rules",
+     "meaning": "đặt quy định rõ ràng"
+    },
+    {
+     "term": "offline activities",
+     "meaning": "hoạt động ngoài đời thực, không dùng thiết bị"
     }
    ]
   }
@@ -115,28 +127,28 @@
  "speaking": {
   "1": {
    "answers": [
-    "I think my main responsibility is to take care of my parents. I also help with the family's expenses because I have a stable job now.",
-    "I usually do some housework, such as cooking and cleaning, at weekends. I also take my parents for health check-ups. Because I have a medical background, I can explain the results to them.",
+    "I think my main responsibility is to take care of my parents. I also help with the family's expenses because I have a stable job now. For example, I pay for my parents' health insurance every year.",
+    "I usually do some housework, such as cooking and cleaning, at weekends. I also take my parents for health check-ups. Because I studied medicine before, I can explain the results to them in simple words.",
     "Yes, I think they change. When we are young, our parents take care of us. When we grow older, we have to take care of them and our own children.",
-    "Making money is important because we need it for food, housing and health care. Money also gives us the freedom to travel and learn new things.",
-    "Many young people do part-time jobs, such as working in coffee shops or teaching English. Others sell things online or make videos on TikTok and YouTube.",
-    "I think money can bring some happiness, but not all. It helps us live comfortably, but it cannot buy true friends or good health."
+    "Making money is important because we need it for food, housing and health care. Money also gives us the freedom to travel and learn new things. For example, I saved money last year to take an English course.",
+    "Many young people do part-time jobs, such as working in coffee shops or teaching English. Others sell things online or make videos on TikTok and YouTube. My younger cousin, for example, sells handmade bracelets on Facebook.",
+    "I think money can bring some happiness, but not all. It helps us live comfortably, but it cannot buy true friends or good health. For example, many rich people still feel lonely and stressed."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay ý chính hoặc Yes/No",
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi",
      "reusable": "I think my main responsibility is to take care of my parents."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because",
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
      "reusable": "Making money is important because we need it for food, housing and health care."
     },
     {
-     "section": "Ví dụ / chi tiết",
-     "content": "Thêm 1 ví dụ cụ thể (such as …)",
-     "reusable": "Many young people do part-time jobs, such as working in coffee shops or teaching English."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn",
+     "reusable": "For example, many rich people still feel lonely and stressed."
     }
    ],
    "vocab": [
@@ -164,34 +176,34 @@
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think a job that I am truly passionate about is the best choice. I choose it for two main reasons.\n\nThe first reason is that passion makes people happy at work. By that, I mean I will feel excited every day, even when I have to work long hours. For example, I am passionate about using AI to help doctors and patients, so I would really enjoy a research job in this field.\n\nAnother reason is that passion helps people work harder and learn faster. In other words, when I love my job, I will want to improve my skills all the time. For instance, I may read new articles or take online courses in my free time. As a result, my salary will probably increase in the future.\n\nThere are also some reasons why I do not choose the other two options. Regarding the job with a high salary, I do not think it is the best choice because high pay often comes with a lot of pressure. As for the job with a good working environment, I do not think it is the best option either because friendly colleagues cannot make boring work interesting.\n\nTo sum up, out of these three options, I believe a job that I am truly passionate about is the best choice because it is enjoyable, motivating and good for my future.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn công việc mình thực sự đam mê",
-     "reusable": "I would choose the job that I am truly passionate about."
+     "section": "Chọn",
+     "content": "Câu khung + công việc mình đam mê",
+     "reusable": "In this situation, among the three options, I think a job that I am truly passionate about is the best choice. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) vui, hào hứng mỗi ngày; ví dụ nghiên cứu AI y tế (2) làm chăm, học nhanh → giỏi → lương tăng sau",
-     "reusable": "First, when I love my job, I feel happy and excited every day."
+     "section": "Lý do 1",
+     "content": "Đam mê làm vui → By that, I mean … → For example: nghiên cứu AI y tế",
+     "reusable": "The first reason is that passion makes people happy at work. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn lương cao",
-     "content": "Áp lực lớn, không thích thì dễ bỏ việc",
-     "reusable": "I don't choose the job with a high salary."
+     "section": "Lý do 2",
+     "content": "Làm chăm, học nhanh → In other words … → For instance: tự học khoá online → lương tăng",
+     "reusable": "Another reason is that passion helps people work harder and learn faster. In other words, …"
     },
     {
-     "section": "Vì sao không chọn môi trường tốt",
-     "content": "Đồng nghiệp tốt nhưng việc nhàm chán vẫn mất động lực",
-     "reusable": "I also don't choose the job with a good working environment."
+     "section": "Loại 2 phương án",
+     "content": "Lương cao: áp lực; môi trường tốt: không làm việc nhàm chán thành thú vị",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding the job with a high salary, I do not think it is the best choice because … As for the job with a good working environment, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn + lợi ích lâu dài",
-     "reusable": "In conclusion, a job that I am truly passionate about is the best choice for a new graduate like me."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe a job that I am truly passionate about is the best choice because it is enjoyable, motivating and good for my future."
     }
    ],
-   "answer": "I would choose the job that I am truly passionate about. There are two main reasons.\n\nFirst, when I love my job, I feel happy and excited every day. I will not feel bored or tired, even when I have to work long hours. For example, I am passionate about using AI to help doctors and patients, so I would really enjoy a research job in this field. Second, passion helps people work harder and learn faster. As a result, I can become very good at my job, and my salary will increase in the future.\n\nI don't choose the job with a high salary. Money is important, but a job with high pay often brings a lot of pressure. If I do not like the work, I will feel stressed and I may quit soon. I also don't choose the job with a good working environment. Friendly colleagues and a nice office are great, but they cannot make boring work interesting. After a few months, I may lose my motivation.\n\nIn conclusion, a job that I am truly passionate about is the best choice for a new graduate like me. It will make me happy and help me grow in my career.",
    "vocab": [
     {
      "term": "be passionate about",
@@ -202,58 +214,58 @@
      "meaning": "làm việc nhiều giờ"
     },
     {
-     "term": "quit (a job)",
-     "meaning": "nghỉ việc"
+     "term": "improve my skills",
+     "meaning": "nâng cao kỹ năng"
     },
     {
-     "term": "lose motivation",
-     "meaning": "mất động lực"
+     "term": "high pay",
+     "meaning": "lương cao"
     },
     {
-     "term": "new graduate",
-     "meaning": "sinh viên mới tốt nghiệp"
+     "term": "motivating",
+     "meaning": "tạo động lực"
     }
    ]
   },
   "3": {
    "own_idea": "Understanding other people better",
+   "answer": "Today I would like to talk about the benefits of failure in personal growth. In my opinion, failure is not always bad, and it can help us in many ways.\n\nFirstly, failure helps us learn valuable lessons from our mistakes. When we fail, we can see clearly what we did wrong. For example, I failed my first driving test because I was too nervous, so I practised more and passed the second time.\n\nSecondly, failure helps us build resilience and character. Each time we fail and stand up again, we become stronger and more patient. For instance, many students who fail the university entrance exam study for one more year and become much more mature.\n\nThirdly, failure can be a motivation for future success. It pushes us to try harder next time. A good example is Thomas Edison, who failed many times before he made a working light bulb.\n\nAnother important point is that failure helps us understand other people better. When we have experienced failure, we know how others feel when they fail. Therefore, we can encourage them and give them useful advice.\n\nTo sum up, failure teaches us lessons, makes us stronger, motivates us and helps us understand others. We should not be afraid of failure, and we should learn from it.",
+   "follow_ups": [
+    "Yes, I think schools should teach students how to handle failure. Many students feel very sad and lose confidence when they fail an exam. For example, teachers can share stories of people who failed and then succeeded. This helps students learn to try again.",
+    "People can stay motivated by setting small goals after a failure. Each small success makes them feel more confident. For instance, a person who failed a job interview can practise with a friend every week. They can also talk to their family for support.",
+    "No, failure is not always a bad thing. It can teach us important lessons and make us stronger. For example, my first research project failed, but I learnt how to plan my work better. However, failure is bad if we give up after it."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề: thất bại giúp ta trưởng thành",
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
      "reusable": "Today I would like to talk about the benefits of failure in personal growth."
     },
     {
-     "section": "Ý 1: Learning valuable lessons from mistakes",
-     "content": "Biết mình sai ở đâu; ví dụ trượt thi bằng lái lần đầu",
-     "reusable": "First, failure helps us learn valuable lessons from our mistakes."
+     "section": "Ý 1: bài học từ sai lầm",
+     "content": "Ý → thấy mình sai ở đâu → ví dụ trượt thi bằng lái lần đầu",
+     "reusable": "Firstly, failure helps us learn valuable lessons from our mistakes."
     },
     {
-     "section": "Ý 2: Building resilience and character",
-     "content": "Mỗi lần ngã rồi đứng dậy → mạnh mẽ, kiên nhẫn hơn",
-     "reusable": "Second, failure helps us build resilience and character."
+     "section": "Ý 2: bản lĩnh, tính cách",
+     "content": "Ý → đứng dậy sau thất bại → ví dụ thi lại đại học",
+     "reusable": "Secondly, failure helps us build resilience and character."
     },
     {
-     "section": "Ý 3: Motivation for future success",
-     "content": "Ví dụ Thomas Edison thất bại hàng nghìn lần",
-     "reusable": "Third, failure can be a motivation for future success."
+     "section": "Ý 3: động lực thành công",
+     "content": "Ý → thúc đẩy cố gắng → ví dụ Thomas Edison",
+     "reusable": "Thirdly, failure can be a motivation for future success."
     },
     {
-     "section": "Ý riêng: Understanding other people",
-     "content": "Từng thất bại → hiểu và động viên người khác",
-     "reusable": "Finally, I think failure helps us understand other people better."
+     "section": "Ý riêng: thấu hiểu người khác",
+     "content": "Ý → biết người khác cảm thấy gì → động viên họ",
+     "reusable": "Another important point is that failure helps us understand other people better."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt + đừng sợ thất bại, hãy học từ nó",
-     "reusable": "We should not be afraid of failure. Instead, we should learn from it."
+     "section": "Kết",
+     "content": "Tóm tắt 4 lợi ích",
+     "reusable": "To sum up, failure teaches us lessons, makes us stronger, motivates us and helps us understand others."
     }
-   ],
-   "answer": "Today I would like to talk about the benefits of failure in personal growth. Most people are afraid of failure, but I believe it can help us in many ways.\n\nFirst, failure helps us learn valuable lessons from our mistakes. When we fail, we can see what we did wrong. For example, I failed my first driving test because I was too nervous. After that, I practised more and passed the second time.\n\nSecond, failure helps us build resilience and character. Life is not always easy, so we need to be strong. Each time we fail and stand up again, we become braver and more patient.\n\nThird, failure can be a motivation for future success. Many famous people failed many times before they succeeded. For example, Thomas Edison failed thousands of times before he made a working light bulb. His failures pushed him to try harder.\n\nFinally, I think failure helps us understand other people better. When we have experienced failure, we know how others feel when they fail. So we can encourage them and give them useful advice.\n\nIn conclusion, failure teaches us lessons, makes us stronger, motivates us and helps us understand others. We should not be afraid of failure. Instead, we should learn from it.",
-   "follow_ups": [
-    "Yes, I think they should. Many students feel very sad when they fail an exam. Schools can teach them how to deal with these feelings and try again.",
-    "They should set small goals and celebrate each small success. They can also talk to their family and friends for support. Reading stories about successful people is helpful too.",
-    "No, it is not always a bad thing. Failure can teach us important lessons and make us stronger. However, it is bad if we give up after we fail."
    ],
    "vocab": [
     {
@@ -269,8 +281,8 @@
      "meaning": "bài học quý giá"
     },
     {
-     "term": "deal with",
-     "meaning": "đối mặt, xử lý"
+     "term": "handle failure",
+     "meaning": "đối mặt với thất bại"
     },
     {
      "term": "give up",

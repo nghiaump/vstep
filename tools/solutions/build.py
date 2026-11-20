@@ -1,10 +1,30 @@
 """Render de-thi/loi-giai/vlu-N.md (+ README index) from verbatim prompts + answer JSON.
 Usage: python3 build.py [N ...]   (default: every exam that has an answer file)"""
-import sys
-from common import OUT, count_words, all_numbers, load_prompt, load_answer, paragraphs
+import json, re, sys
+from common import OUT, count_words, all_numbers, custom_ids, exam_id, load_prompt, load_answer, paragraphs
 from check import check
 
 WPM = 120  # speaking pace used for duration estimates
+TEMPLATES = json.loads((OUT / 'templates.json').read_text())
+TPL = {t['key']: t for t in TEMPLATES['templates']}
+
+
+def tpl_line(key):
+    t = TPL.get(key)
+    return [f"*Khung: [{t['name']}](KHUNG-MAU.md#{key}) · {t['length']}*", ''] if t else []
+
+
+def khung_md():
+    md = ['# Khung mẫu để học thuộc · VSTEP Writing & Speaking', '', TEMPLATES['intro'], '', '## Từ nối dùng luân phiên', '',
+          table(['Chức năng', 'Từ nối'], [(g, ' · '.join(xs)) for g, xs in TEMPLATES['linkers'].items()]), '']
+    for t in TEMPLATES['templates']:
+        md += [f'<a id="{t["key"]}"></a>', '', f"## {t['part']} · {t['name']}", '', f"**Khi nào dùng:** {t['when']}  ", f"**Độ dài:** {t['length']}", '']
+        for i, st in enumerate(t['structure'], 1):
+            md += [f"{i}. **{st['section']}**: {st['how']}"] + [f"   - *{f}*" for f in st['frames']]
+        if t['avoid']:
+            md += ['', '**Tránh:** ' + ' · '.join(t['avoid'])]
+        md += ['']
+    (OUT / 'KHUNG-MAU.md').write_text('\n'.join(md))
 
 
 def esc(s):
@@ -48,10 +68,14 @@ def mins(words):
 
 def render(n):
     P, A = load_prompt(n), load_answer(n)
-    md = [f"# VLU {n} · Bài giải tham khảo Writing & Speaking",
-          '',
-          '*Mục tiêu 5–6 điểm: câu ngắn, ngữ pháp an toàn, dễ học thuộc. Đề được chép nguyên văn từ đề thi; số từ đếm bằng công cụ.*',
-          '']
+    if P.get('custom'):
+        md = [f"# {P['label']} · Đề tự tạo + bài giải Writing", '',
+              f"*{P['note']} Mục tiêu 5–6 điểm: câu ngắn, ngữ pháp an toàn, dễ học thuộc; số từ đếm bằng công cụ.*", '']
+    else:
+        md = [f"# VLU {n} · Bài giải tham khảo Writing & Speaking",
+              '',
+              '*Mục tiêu 5–6 điểm: câu ngắn, ngữ pháp an toàn, dễ học thuộc. Đề được chép nguyên văn từ đề thi; số từ đếm bằng công cụ.*',
+              '']
     # ---------------- Writing
     for k in ('1', '2'):
         p, a = P['writing'][k], A['writing'][k]
@@ -59,6 +83,7 @@ def render(n):
         md += [f"## {p['title']} · {p['kind']}", '',
                f"**Thời gian:** {p['time']} · **Số từ tối thiểu:** {p['min_words']}", '',
                '### 1. Đề bài', '']
+        md = md[:-2] + tpl_line(a.get('template') if k == '1' else (f"w2_{a['type_key']}" if a.get('type_key') else None)) + md[-2:]
         md += ['\n\n'.join(p['intro']), '', quote(p['quote']), '', f"**{p['instruction']}**", '']
         md += ['### 2. Bài mẫu', '']
         if k == '2':
@@ -68,6 +93,10 @@ def render(n):
                f"**{wc} từ** (đếm bằng công cụ) · {'đạt' if wc >= p['min_words'] else 'CHƯA ĐẠT'} mức tối thiểu {p['min_words']} từ.", '',
                '### 4. Khung dàn ý', '', outline_tbl(a), '',
                '### 5. Từ vựng đáng học', '', vocab_tbl(a), '']
+        if P.get('guides', {}).get(k):
+            md += ['### Ghi chú: phân tích đề', '', P['guides'][k], '']
+    if 'speaking' not in P:
+        return finish(n, md)
     # ---------------- Speaking
     S, SA = P['speaking'], A['speaking']
     # Part 1
@@ -79,7 +108,7 @@ def render(n):
         for q in t['questions']:
             i += 1; lines.append(f"{i}. {q}")
     wc = count_words(' '.join(a['answers']))
-    md += [f"## {p['title']} · {p['name']}", '', f"**Thời gian:** {p['time']}", '', '### 1. Đề bài', '', quote(lines), '',
+    md += [f"## {p['title']} · {p['name']}", '', f"**Thời gian:** {p['time']}", ''] + tpl_line('s1') + ['### 1. Đề bài', '', quote(lines), '',
            '### 2. Bài mẫu', '']
     for j, (q, ans) in enumerate(zip(qs, a['answers']), 1):
         md += [f"**{j}. {q}**  ", ans, '']
@@ -89,7 +118,7 @@ def render(n):
     p, a = S['2'], SA['2']
     wc = count_words(a['answer'])
     lines = [p['situation'], 'You are considering the following options:'] + [f"- Option {k}: {o}" for k, o in enumerate(p['options'], 1)] + [p['task']]
-    md += [f"## {p['title']} · {p['name']}", '', f"**Thời gian:** {p['time']}", '', '### 1. Đề bài', '', quote(lines), '',
+    md += [f"## {p['title']} · {p['name']}", '', f"**Thời gian:** {p['time']}", ''] + tpl_line('s2') + ['### 1. Đề bài', '', quote(lines), '',
            '### 2. Bài mẫu', '', f"**Lựa chọn:** Option {a['choice']}: {p['options'][a['choice'] - 1]}", '',
            essay(a['answer']), '',
            '### 3. Số từ', '', f"**{wc} từ** · khoảng {mins(wc)} nói.", '',
@@ -100,15 +129,19 @@ def render(n):
     wf = count_words(' '.join(a['follow_ups']))
     lines = [f"Topic: {p['topic']}", f"Mind map, {p['center']}:"] + [f"- {x}" for x in p['ideas']] + (['- [your own ideas]'] if p['own_ideas_slot'] else []) + \
             ['Follow-up questions:'] + [f"{k}. {q}" for k, q in enumerate(p['follow_ups'], 1)]
-    md += [f"## {p['title']} · {p['name']}", '', f"**Thời gian:** {p['time']}", '', '### 1. Đề bài', '', quote(lines), '',
+    md += [f"## {p['title']} · {p['name']}", '', f"**Thời gian:** {p['time']}", ''] + tpl_line('s3') + ['### 1. Đề bài', '', quote(lines), '',
            '### 2. Bài mẫu', '', f"**Ý riêng (your own idea):** {a['own_idea']}", '', essay(a['answer']), '',
            '**Trả lời câu hỏi follow-up**', '']
     for k, (q, ans) in enumerate(zip(p['follow_ups'], a['follow_ups']), 1):
         md += [f"**{k}. {q}**  ", ans, '']
     md += ['### 3. Số từ', '', f"**Bài nói chính: {wc} từ** (khoảng {mins(wc)}) · follow-up: {wf} từ.", '',
            '### 4. Khung dàn ý', '', outline_tbl(a), '', '### 5. Từ vựng đáng học', '', vocab_tbl(a), '']
+    return finish(n, md)
+
+
+def finish(n, md):
     text = '\n'.join(md).rstrip() + '\n'
-    (OUT / f'vlu-{n}.md').write_text(text)
+    (OUT / f'{exam_id(n)}.md').write_text(text)
     return text
 
 
@@ -122,15 +155,29 @@ def index(nums):
         rows.append((f'[VLU {n}](vlu-{n}.md)', str(w1), str(w2), A['writing']['2'].get('essay_type', '').split(' (')[0], st))
     md = ['# Bài giải tham khảo VSTEP · Đề Văn Lang', '',
           'Writing Part 1 + 2 và Speaking Part 1–3 cho từng đề, mục tiêu 5–6 điểm. Đề chép nguyên văn; số từ đếm bằng công cụ.', '',
+          '- **Khung mẫu để học thuộc:** [KHUNG-MAU.md](KHUNG-MAU.md) (mọi bài mẫu cùng dạng dùng chung khung câu này)',
           f'- PDF từng đề: `pdf/vlu-N.pdf` · PDF gộp: `pdf/VSTEP-VLU-{min(nums)}-{max(nums)}-bai-mau.pdf`',
           '- Dữ liệu: `prompts/` (đề nguyên văn), `answers/` (bài giải, JSON)', '',
           table(['Đề', 'W1 (từ)', 'W2 (từ)', 'Dạng đề W2', 'Kiểm tra'], rows), '']
+    cust = []
+    for cid in custom_ids():
+        A = load_answer(cid)
+        if not A:
+            continue
+        P, r = load_prompt(cid), check(cid)
+        st = 'lỗi' if r.errors else ('lưu ý' if r.warns else 'đạt')
+        cust.append((f"[{P['label']}]({cid}.md)", str(count_words(A['writing']['1']['answer'])), str(count_words(A['writing']['2']['answer'])),
+                     A['writing']['2'].get('essay_type', '').split(' (')[0], st))
+    if cust:
+        md += ['## Đề tự tạo (theo đề thí sinh nhớ lại)', '', 'Câu chữ đề do mình soạn lại theo nội dung nhớ được, không phải nguyên văn đề thật.', '',
+               table(['Đề', 'W1 (từ)', 'W2 (từ)', 'Dạng đề W2', 'Kiểm tra'], cust), '']
     (OUT / 'README.md').write_text('\n'.join(md))
 
 
 if __name__ == '__main__':
-    nums = [int(x) for x in sys.argv[1:]] or [n for n in all_numbers() if load_answer(n)]
+    nums = sys.argv[1:] or [n for n in all_numbers() + custom_ids() if load_answer(n)]
     for n in nums:
         render(n)
     index([n for n in all_numbers() if load_answer(n)])
+    khung_md()
     print('rendered', len(nums))

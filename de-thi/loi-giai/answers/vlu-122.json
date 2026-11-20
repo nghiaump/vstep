@@ -2,6 +2,7 @@
  "id": "vlu-122",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -10,99 +11,105 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn thư, vui vì bạn sắp sang Việt Nam",
-     "reusable": "I'm so excited that you are finally coming to Vietnam! Here is some advice for your trip."
+     "content": "Cảm ơn thư, vui vì bạn sắp đến",
+     "reusable": "Thank you for your email. I am really happy that you are finally coming to Vietnam."
     },
     {
-     "section": "Ý 1: nên đi đâu, làm gì",
-     "content": "Hà Nội + đi thuyền vịnh Hạ Long → Hội An dạo phố cổ ban đêm → TP.HCM, mình chở đi chơi bằng xe máy",
-     "reusable": "Firstly, I think you should visit three places."
+     "section": "Ý 1: đi đâu, làm gì",
+     "content": "Lộ trình Hà Nội → bay vào Đà Nẵng thăm Hội An → TP.HCM; mỗi nơi một hoạt động (vịnh Hạ Long, phố cổ đêm ngắm đèn lồng, đi xe máy)",
+     "reusable": "Regarding places to visit, I think you should start in Ha Noi and then fly to Da Nang to visit Hoi An."
     },
     {
      "section": "Ý 2: gợi ý bảo tàng",
-     "content": "Bảo tàng Chứng tích Chiến tranh (Q.3): ảnh, hiện vật thật; giờ mở cửa; rủ đi sáng thứ Bảy",
-     "reusable": "Secondly, I recommend the War Remnants Museum in District 3 of Ho Chi Minh City."
+     "content": "Bảo tàng Chứng tích Chiến tranh, Q.3 → lý do (ảnh, hiện vật) → hẹn 9 giờ sáng thứ Bảy + xin báo nếu không hợp",
+     "reusable": "As for a museum, I recommend the War Remnants Museum in District 3. … How about going there together at 9 a.m. on Saturday? If this time does not suit you, just let me know."
     },
     {
      "section": "Ý 3: món ăn nên thử",
-     "content": "Phở, bánh mì, cơm tấm + giải thích món; cà phê sữa đá",
-     "reusable": "Finally, you should definitely try pho, banh mi and broken rice."
+     "content": "Phở, bánh mì → giải thích món → rẻ, ngon, dễ tìm",
+     "reusable": "About your question on local food, you should try pho and banh mi."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Xin ngày đi để giúp lên kế hoạch",
-     "reusable": "Let me know your travel dates, and I will help you plan more."
+     "content": "Câu kết cố định, chào cuối thư",
+     "reusable": "That's all for now. Write back soon! … Best wishes,"
     }
    ],
-   "answer": "Hi Alex,\n\nThanks for your email. I'm so excited that you are finally coming to Vietnam! Here is some advice for your trip.\n\nFirstly, I think you should visit three places. Start in Ha Noi and take a boat trip in Ha Long Bay. Then fly to Hoi An and walk around the old town at night. After that, come to Ho Chi Minh City, where I live. We can explore the city together on my motorbike.\n\nSecondly, I recommend the War Remnants Museum in District 3 of Ho Chi Minh City. It shows the history of the Vietnam War with many photos and real objects. It is really worth visiting. It is open every day from 7:30 a.m. to 5:30 p.m. How about going there together on Saturday morning?\n\nFinally, you should definitely try pho, banh mi and broken rice. Pho is a noodle soup with beef, and banh mi is a Vietnamese sandwich. They are cheap and delicious. Don't forget to try iced milk coffee too!\n\nLet me know your travel dates, and I will help you plan more.\n\nBest wishes,\nMinh",
+   "answer": "Hi Alex,\n\nThank you for your email. I am really happy that you are finally coming to Vietnam.\n\nRegarding places to visit, I think you should start in Ha Noi and then fly to Da Nang to visit Hoi An. From Ha Noi, you can take a day trip to Ha Long Bay. In Hoi An, you can walk around the old town at night and see the lanterns. Finally, come to Ho Chi Minh City, and we can explore the city by motorbike.\n\nAs for a museum, I recommend the War Remnants Museum in District 3. It shows the history of the Vietnam War with many photos and real objects. How about going there together at 9 a.m. on Saturday? If this time does not suit you, just let me know.\n\nAbout your question on local food, you should try pho and banh mi. Pho is a noodle soup with beef, and banh mi is a Vietnamese sandwich. They are cheap, tasty and easy to find.\n\nThat's all for now. Write back soon!\n\nBest wishes,\nMinh",
    "vocab": [
     {
-     "term": "take a boat trip",
-     "meaning": "đi một chuyến thuyền"
+     "term": "take a day trip",
+     "meaning": "đi chơi trong ngày"
+    },
+    {
+     "term": "lantern",
+     "meaning": "đèn lồng"
     },
     {
      "term": "explore the city",
      "meaning": "khám phá thành phố"
     },
     {
-     "term": "worth visiting",
-     "meaning": "đáng ghé thăm"
+     "term": "real objects",
+     "meaning": "hiện vật thật"
     },
     {
-     "term": "broken rice",
-     "meaning": "cơm tấm"
-    },
-    {
-     "term": "iced milk coffee",
-     "meaning": "cà phê sữa đá"
+     "term": "noodle soup",
+     "meaning": "món nước có sợi (bún, phở)"
     }
    ]
   },
   "2": {
-   "essay_type": "Discuss both views + opinion (thảo luận hai quan điểm và nêu ý kiến cá nhân)",
+   "essay_type": "Discussion – discuss both views and give your opinion (bàn hai quan điểm + ý kiến riêng)",
+   "type_key": "discussion",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề + nêu ý kiến: không nên thay hoàn toàn, nên dùng cả hai",
-     "reusable": "In my opinion, schools should not replace printed textbooks completely, but they should use both types."
+     "content": "Viết lại đề (giữ sách giấy hay chuyển sang máy tính bảng) + hai quan điểm + ý kiến: giữ sách in",
+     "reusable": "This essay will discuss both views, but I believe that printed textbooks should stay."
     },
     {
-     "section": "Thân bài 1: giữ sách in",
-     "content": "(1) tốt cho mắt (2) giúp tập trung, không bị game, mạng xã hội cám dỗ (3) không cần điện, Internet → công bằng cho học sinh nghèo, vùng nông thôn",
-     "reusable": "On the one hand, there are good reasons to keep printed textbooks."
+     "section": "Thân bài 1 · PEER quan điểm A",
+     "content": "P: sách số nên thay hoàn toàn → E: một máy chứa nhiều sách, có video, bài tập → Ex: bài sinh học có video về tim → R: bài học thú vị, cặp nhẹ",
+     "reusable": "On the one hand, some people believe that digital textbooks should completely replace printed ones. This is because …"
     },
     {
-     "section": "Thân bài 2: dùng sách số",
-     "content": "(1) một máy tính bảng chứa hàng trăm cuốn → cặp nhẹ (2) có video, hình ảnh, ví dụ bài học về tim (3) dễ cập nhật",
-     "reusable": "On the other hand, many people support digital textbooks for several reasons."
+     "section": "Thân bài 2 · PEER 1 (ý của mình)",
+     "content": "P: sách giấy tốt cho sức khoẻ → E: nhìn màn hình lâu mỏi mắt, đau đầu → Ex: học online mùa COVID-19, trẻ kêu đau mắt",
+     "reusable": "On the other hand, I agree with those who think that printed textbooks are still necessary. Firstly, paper books are better for students' health."
+    },
+    {
+     "section": "Thân bài 2 · PEER 2 (ý của mình)",
+     "content": "P: sách giấy giúp tập trung → E: máy tính bảng dễ mở game, mạng xã hội → Ex: học sinh giả vờ đọc nhưng đang nhắn tin → R: sách giấy an toàn hơn",
+     "reusable": "Secondly, printed books help students focus on the lesson."
     },
     {
      "section": "Kết bài",
-     "content": "Nhắc lại ý kiến: sách in vẫn cần, sách số làm tài liệu bổ trợ",
-     "reusable": "I believe printed textbooks are still necessary because they are healthier and help students focus."
+     "content": "Nhắc lại hai phía + ý kiến + 2 lý do",
+     "reusable": "In conclusion, although digital textbooks are light and interesting, I believe that schools should keep printed textbooks because …"
     }
    ],
-   "answer": "With the fast development of technology, many schools are thinking about replacing printed textbooks with tablets and e-readers. Some people believe that schools should keep traditional printed books, while others think digital textbooks should replace them completely. In my opinion, schools should not replace printed textbooks completely, but they should use both types.\n\nOn the one hand, there are good reasons to keep printed textbooks. Firstly, paper books are better for students' eyes. Looking at a screen for many hours can cause eye problems and headaches. Secondly, printed books help students focus. With a tablet, students can easily open games or social media during the lesson. In addition, printed books do not need electricity or an Internet connection. This is important for poor students and schools in rural areas.\n\nOn the other hand, many people support digital textbooks for several reasons. Firstly, one tablet can store hundreds of books. As a result, students do not need to carry heavy school bags every day. Secondly, digital textbooks can include videos, pictures and games. For example, a science lesson can show a short video about the human heart, so students understand it more easily. Moreover, digital books are easy to update, while printed books can quickly become out of date.\n\nIn conclusion, both printed and digital textbooks have their own strengths. I believe printed textbooks are still necessary because they are healthier and help students focus. However, schools should also use digital textbooks for extra materials, such as videos and online exercises. This combination is the best way to help students learn.",
+   "answer": "People have different opinions on whether schools should keep paper textbooks or switch to tablets and e-readers. Some want to keep the old books, while others prefer a fully digital classroom. This essay will discuss both views, but I believe that printed textbooks should stay.\n\nOn the one hand, some people believe that digital textbooks should completely replace printed ones. This is because one tablet can store hundreds of books and also include videos and exercises. Digital books are also easy to update when new information appears. For example, a biology lesson on a tablet can show a short video about how the heart works. As a result, students may find lessons more interesting, and their school bags become much lighter.\n\nOn the other hand, I agree with those who think that printed textbooks are still necessary. Firstly, paper books are better for students' health. Looking at a screen for many hours can cause tired eyes and headaches. For instance, during the COVID-19 pandemic, many children studied online all day and often complained about eye pain. Paper books, in contrast, do not cause this problem. Secondly, printed books help students focus on the lesson. The reason is that a tablet makes it very easy to open games or social media. A good example is a student who seems to be reading on his tablet but is actually chatting with friends. Therefore, paper books are a safer choice for learning in class.\n\nIn conclusion, although digital textbooks are light and interesting, I believe that schools should keep printed textbooks because they protect students' eyes and help them focus. Tablets can still be used for extra videos at home.",
    "vocab": [
     {
      "term": "printed textbook",
      "meaning": "sách giáo khoa in"
     },
     {
-     "term": "digital textbook",
-     "meaning": "sách giáo khoa điện tử"
+     "term": "replace",
+     "meaning": "thay thế"
     },
     {
-     "term": "rural areas",
-     "meaning": "vùng nông thôn"
+     "term": "tired eyes",
+     "meaning": "mỏi mắt"
     },
     {
-     "term": "out of date",
-     "meaning": "lỗi thời, cũ"
+     "term": "focus on",
+     "meaning": "tập trung vào"
     },
     {
-     "term": "combination",
-     "meaning": "sự kết hợp"
+     "term": "complain about",
+     "meaning": "than phiền về"
     }
    ]
   }
@@ -110,79 +117,83 @@
  "speaking": {
   "1": {
    "answers": [
-    "Yes, I often play sports. I go swimming every weekend, and I sometimes watch football on TV with my friends.",
-    "My favourite sport is swimming. It is good for my whole body, and it helps me relax after a long week at work.",
-    "Yes, I think sports are very important for our health. They make our hearts and muscles stronger. They also help us reduce stress and sleep better.",
-    "Not very often. I only watch TV at weekends, for about an hour in the evening. I spend more time reading books.",
-    "I enjoy watching documentaries the most, especially programmes about science and nature. They are interesting, and I can learn a lot from them.",
-    "I prefer watching TV with my family. We can talk about the programme and laugh together. It is a nice way to spend time with each other after a busy day."
+    "Yes, I often play sports. I go swimming every weekend because it keeps me fit and healthy. I also watch football on TV with my friends on some Saturday evenings.",
+    "My favourite sport is swimming. This is because it is good for my whole body and helps me relax. I usually swim for about one hour at a pool near my house on Sunday mornings.",
+    "Yes, I think sports are very important for our health. The main reason is that they make our hearts and muscles stronger. With my medical background, I know that regular exercise also helps people sleep better.",
+    "Not very often, only for about an hour at weekends. The main reason is that I prefer reading books in my free time. On weekdays, I am usually too busy with my research work.",
+    "I enjoy watching documentaries the most, especially programmes about science and nature. This is because they are interesting, and I can learn a lot from them. For example, I recently watched a great series about the ocean.",
+    "I prefer watching TV with my family. This is because we can talk about the programme and laugh together. For example, we often watch a game show together after dinner on Saturdays."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
+     "section": "Câu 1: trả lời thẳng",
      "content": "Trả lời ngay Yes/No hoặc lựa chọn",
      "reusable": "My favourite sport is swimming."
     },
     {
-     "section": "Lý do",
-     "content": "Thêm 1 lý do bằng because / and",
-     "reusable": "It is good for my whole body, and it helps me relax after a long week at work."
+     "section": "Câu 2: lý do",
+     "content": "This is because / The main reason is that …",
+     "reusable": "This is because they are interesting, and I can learn a lot from them."
     },
     {
-     "section": "Chi tiết thêm",
-     "content": "Thêm 1 câu ví dụ hoặc cảm xúc",
-     "reusable": "It is a nice way to spend time with each other after a busy day."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân, thời gian, địa điểm",
+     "reusable": "For example, we often watch a game show together after dinner on Saturdays."
     }
    ],
    "vocab": [
+    {
+     "term": "keep me fit",
+     "meaning": "giúp tôi giữ dáng, khoẻ mạnh"
+    },
     {
      "term": "muscles",
      "meaning": "cơ bắp"
     },
     {
-     "term": "reduce stress",
-     "meaning": "giảm căng thẳng"
+     "term": "regular exercise",
+     "meaning": "tập thể dục đều đặn"
     },
     {
      "term": "documentary",
      "meaning": "phim tài liệu"
     },
     {
-     "term": "TV programme",
-     "meaning": "chương trình truyền hình"
+     "term": "game show",
+     "meaning": "chương trình trò chơi truyền hình"
     }
    ]
   },
   "2": {
    "choice": 2,
+   "answer": "In this situation, among the three options, I think fried rice is the best choice for our potluck party. I choose it for two main reasons.\n\nThe first reason is that fried rice is easy for the whole class to cook together. By that, I mean we only need simple ingredients like rice, eggs, carrots and sausage, and every student can help. For example, some students can cut the vegetables, some can beat the eggs, and the good cooks can fry the rice.\n\nAnother reason is that fried rice is cheap and easy to share. In other words, each student only needs to pay a little money, and we can serve it in big boxes. For instance, we can make enough for thirty students with a few kilos of rice and some eggs.\n\nThere are also some reasons why I do not choose the other two options. Regarding fried spring rolls, I do not think it is the best choice because this dish takes a long time to prepare. We have to roll each one by hand, and frying them in hot oil can be dangerous. As for beef noodles, I do not think it is the best option either because the broth needs many hours to cook. It is also hard to carry hot soup and many bowls to the party.\n\nTo sum up, out of these three options, I believe fried rice is the best choice because it is simple, cheap and convenient.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn cơm chiên",
-     "reusable": "I think our class should choose fried rice for the potluck party."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: cơm chiên",
+     "reusable": "In this situation, among the three options, I think fried rice is the best choice for our potluck party. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) dễ nấu, ai cũng phụ được (2) rẻ, nguyên liệu dễ mua (3) dễ mang, dễ chia, ai cũng thích",
-     "reusable": "First, fried rice is easy to cook. … Second, it is cheap. … Third, fried rice is easy to carry and serve."
+     "section": "Lý do 1",
+     "content": "Dễ nấu cùng nhau → By that, I mean nguyên liệu đơn giản, ai cũng giúp được → For example: chia việc cắt rau, đánh trứng, chiên",
+     "reusable": "The first reason is that fried rice is easy for the whole class to cook together. By that, I mean …"
     },
     {
-     "section": "Vì sao không chọn chả giò chiên",
-     "content": "Cuốn từng cái mất thời gian, chiên dầu nóng nguy hiểm",
-     "reusable": "I don't choose fried spring rolls because they take a long time to prepare."
+     "section": "Lý do 2",
+     "content": "Rẻ, dễ chia → In other words mỗi người góp ít tiền → For instance: vài ký gạo đủ cho 30 bạn",
+     "reusable": "Another reason is that fried rice is cheap and easy to share. In other words, …"
     },
     {
-     "section": "Vì sao không chọn phở bò / bún bò",
-     "content": "Nấu nước dùng nhiều giờ, khó mang canh nóng, cần nhiều bát",
-     "reusable": "I also don't choose beef noodles. To make good beef noodles, we need to cook the broth for many hours."
+     "section": "Loại 2 phương án",
+     "content": "Chả giò: cuốn lâu, chiên dầu nguy hiểm; bún/phở bò: nấu nước dùng lâu, khó mang súp nóng",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding fried spring rolls, I do not think it is the best choice because … As for beef noodles, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn: dễ, rẻ, tiện",
-     "reusable": "In conclusion, fried rice is the best dish for our class because it is easy, cheap and convenient."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe fried rice is the best choice because it is simple, cheap and convenient."
     }
    ],
-   "answer": "I think our class should choose fried rice for the potluck party. Let me explain why.\n\nFirst, fried rice is easy to cook. We only need rice, eggs, carrots, peas and some sausage. Even students who cannot cook well can help to cut vegetables or mix the rice. Second, it is cheap. The ingredients are easy to buy at any market, so each student only needs to pay a little money. Third, fried rice is easy to carry and serve. We can put it in big boxes and share it with everyone. Almost everyone likes fried rice, so nobody will go hungry.\n\nI don't choose fried spring rolls because they take a long time to prepare. We have to roll each one by hand, and frying them in hot oil can be dangerous. I also don't choose beef noodles. To make good beef noodles, we need to cook the broth for many hours. It is also difficult to bring hot soup to the party, and we will need a lot of bowls.\n\nIn conclusion, fried rice is the best dish for our class because it is easy, cheap and convenient.",
    "vocab": [
     {
      "term": "potluck party",
@@ -193,79 +204,79 @@
      "meaning": "nguyên liệu"
     },
     {
-     "term": "spring rolls",
-     "meaning": "chả giò, nem rán"
+     "term": "beat the eggs",
+     "meaning": "đánh trứng"
     },
     {
      "term": "broth",
      "meaning": "nước dùng"
     },
     {
-     "term": "go hungry",
-     "meaning": "bị đói"
+     "term": "hot oil",
+     "meaning": "dầu nóng"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the benefits of traveling in a group. In my opinion, group travel is cheaper, safer and more fun than traveling alone.\n\nFirstly, traveling in a group helps us share costs and reduce travel expenses. We can share a hotel room, a taxi or a big meal. For example, last year I went to Da Lat with four friends, and we rented a whole house for a very good price.\n\nSecondly, we feel safer and more supported during the trip. If someone gets lost or sick, the others can help right away. For instance, when my friend had a stomachache in Hoi An, we took him to a clinic quickly.\n\nThirdly, group travel creates shared memories and stronger friendships. We eat, play and solve problems together. A good example is our trip to Phu Quoc, which we still talk about every time we meet.\n\nAnother important point is that we can learn from each other on the trip. Each person has different knowledge and skills. For example, one friend may be good at planning, and another may know a lot about local food and history.\n\nTo sum up, traveling in a group is a great choice because of lower costs, more safety, stronger friendships and learning from each other.",
    "own_idea": "Learning from each other",
+   "follow_ups": [
+    "I think the main advantage is that group travel is cheaper. The reason is that we can share the costs of hotels, taxis and food. For example, a room for four people costs much less per person than a single room. It is also safer and more fun.",
+    "Yes, there are some disadvantages. The main reason is that it can be hard to agree on where to go and what to do. For example, on one trip, half of my group wanted to go shopping, but the others wanted to go hiking. We wasted a lot of time arguing.",
+    "I think group traveling is more suitable for young people. The main reason is that they usually have less money, so sharing costs is very helpful. For example, many students travel in big groups to save money on transport and hotels. They also enjoy making new friends."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề + có 4 lợi ích chính",
-     "reusable": "Today I would like to talk about the benefits of traveling in a group."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the benefits of traveling in a group. In my opinion, group travel is cheaper, safer and more fun than traveling alone."
     },
     {
      "section": "Ý 1: Sharing costs",
-     "content": "Chia tiền phòng, taxi, bữa ăn; ví dụ thuê nguyên căn nhà ở Đà Lạt",
-     "reusable": "First, traveling in a group helps us share costs and reduce travel expenses."
+     "content": "Ý → chia phòng, taxi, bữa ăn → ví dụ thuê nguyên căn nhà ở Đà Lạt",
+     "reusable": "Firstly, traveling in a group helps us share costs and reduce travel expenses."
     },
     {
-     "section": "Ý 2: Feeling safer and supported",
-     "content": "Bị lạc, bị ốm có người giúp; quan trọng khi không biết tiếng địa phương",
-     "reusable": "Second, we feel safer and more supported during the trip."
+     "section": "Ý 2: Feeling safer",
+     "content": "Ý → lạc, ốm có người giúp → ví dụ bạn đau bụng ở Hội An, đưa đi phòng khám",
+     "reusable": "Secondly, we feel safer and more supported during the trip."
     },
     {
-     "section": "Ý 3: Shared memories, stronger friendships",
-     "content": "Cùng ăn, chơi, giải quyết vấn đề; xem lại ảnh và cười",
-     "reusable": "Third, group travel creates shared memories and stronger friendships."
+     "section": "Ý 3: Shared memories",
+     "content": "Ý → cùng ăn, chơi, giải quyết vấn đề → ví dụ chuyến Phú Quốc vẫn kể mãi",
+     "reusable": "Thirdly, group travel creates shared memories and stronger friendships."
     },
     {
      "section": "Ý riêng: Learning from each other",
-     "content": "Bạn giỏi lên kế hoạch, bạn biết lịch sử, ẩm thực → chuyến đi thú vị hơn",
-     "reusable": "Finally, I think group travel is also good for learning. We can learn from each other on the trip."
+     "content": "Ý → mỗi người một thế mạnh → ví dụ bạn giỏi lên kế hoạch, bạn rành ẩm thực",
+     "reusable": "Another important point is that we can learn from each other on the trip."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt 4 lợi ích + bản thân hay đi cùng bạn",
-     "reusable": "That is why I usually travel with my friends."
+     "section": "Kết",
+     "content": "Tóm tắt 4 ý",
+     "reusable": "To sum up, traveling in a group is a great choice because of lower costs, more safety, stronger friendships and learning from each other."
     }
-   ],
-   "answer": "Today I would like to talk about the benefits of traveling in a group. In my opinion, there are four main benefits.\n\nFirst, traveling in a group helps us share costs and reduce travel expenses. We can share a hotel room, a taxi or a big meal. For example, last year I went to Da Lat with four friends, and we rented a whole house for a very good price.\n\nSecond, we feel safer and more supported during the trip. If someone gets lost or sick, the others can help. This is very important when we visit a new place where we don't speak the language.\n\nThird, group travel creates shared memories and stronger friendships. We eat, play and solve problems together. After the trip, we often look at our photos and laugh about the funny moments.\n\nFinally, I think group travel is also good for learning. We can learn from each other on the trip. One friend may be good at planning, and another may know a lot about history or food. As a result, the trip becomes more interesting.\n\nIn conclusion, traveling in a group saves money, makes us feel safe, builds friendships and helps us learn new things. That is why I usually travel with my friends.",
-   "follow_ups": [
-    "The main advantage is that it is cheaper because we can share costs. It is also safer and more fun. We always have someone to talk to and help us.",
-    "Yes, there are some disadvantages. It can be hard to agree on where to go and what to do. Sometimes people argue because they have different habits.",
-    "I think group traveling is more suitable for young people. They usually have less money, so sharing costs is very helpful. They also enjoy making new friends and having fun together."
    ],
    "vocab": [
     {
-     "term": "travel expenses",
-     "meaning": "chi phí du lịch"
+     "term": "share costs",
+     "meaning": "chia sẻ chi phí"
     },
     {
-     "term": "get lost",
-     "meaning": "bị lạc đường"
+     "term": "travel expenses",
+     "meaning": "chi phí đi lại, du lịch"
+    },
+    {
+     "term": "feel supported",
+     "meaning": "cảm thấy được hỗ trợ"
     },
     {
      "term": "shared memories",
      "meaning": "kỷ niệm chung"
     },
     {
-     "term": "stronger friendships",
-     "meaning": "tình bạn bền chặt hơn"
-    },
-    {
-     "term": "agree on something",
-     "meaning": "thống nhất về việc gì"
+     "term": "agree on",
+     "meaning": "thống nhất về"
     }
    ]
   }

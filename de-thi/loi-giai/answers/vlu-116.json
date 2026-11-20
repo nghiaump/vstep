@@ -2,6 +2,7 @@
  "id": "vlu-116",
  "writing": {
   "1": {
+   "template": "w1_informal",
    "outline": [
     {
      "section": "Lời chào",
@@ -10,31 +11,31 @@
     },
     {
      "section": "Mở đầu",
-     "content": "Cảm ơn lời mời + chúc mừng anh trai",
-     "reusable": "Thank you so much for your invitation. Congratulations to your brother and his future wife!"
+     "content": "Cảm ơn lời mời + chúc mừng",
+     "reusable": "Thank you for your invitation. Congratulations to your brother and his future wife."
     },
     {
-     "section": "Ý 1: có đến được không + lý do",
-     "content": "Có; đã xem lịch, cuối tuần đó rảnh; gia đình bạn tốt với mình",
-     "reusable": "Yes, I will be able to attend the wedding."
+     "section": "Ý 1: có đi được không, vì sao",
+     "content": "Đi được → đã xem lịch, rảnh cuối tuần đó → gia đình bạn luôn tốt với mình",
+     "reusable": "Regarding the wedding, yes, I will be able to attend."
     },
     {
-     "section": "Ý 2: gợi ý quà",
-     "content": "Quà hữu ích: máy pha cà phê, bộ đĩa; hoặc chuyến đi Đà Lạt; góp tiền với bạn bè",
-     "reusable": "About the gift, I think a useful present is a good idea."
+     "section": "Ý 2: gợi ý quà cưới",
+     "content": "Đồ dùng cho nhà mới (máy pha cà phê, bộ đĩa) → chuyến đi Đà Lạt → bạn bè góp tiền",
+     "reusable": "As for the gift, I think something useful for their new home is a good idea."
     },
     {
-     "section": "Ý 3: muốn hỏi gì",
-     "content": "Mấy giờ, ở đâu; có quy định trang phục không; dẫn em gái theo được không",
-     "reusable": "What time does the wedding start, and where exactly will it be held?"
+     "section": "Ý 3: điều muốn biết",
+     "content": "Mấy giờ, ở đâu → quy định trang phục → dẫn em gái theo được không",
+     "reusable": "About the wedding, I have a few questions."
     },
     {
      "section": "Kết thư + ký tên",
-     "content": "Mong được cùng chung vui, chào cuối thư",
+     "content": "Mong được cùng chung vui",
      "reusable": "I am looking forward to celebrating with you all. Best wishes,"
     }
    ],
-   "answer": "Hi Sandra,\n\nThank you so much for your invitation. Congratulations to your brother and his future wife! I am really happy for your family.\n\nYes, I will be able to attend the wedding. I have checked my work schedule, and I am free that weekend. I would not miss this special day because your family has always been so kind to me.\n\nAbout the gift, I think a useful present is a good idea. For example, we could buy them a coffee machine or a set of nice plates for their new home. Another idea is a weekend trip to Da Lat, so they can relax after the wedding. Some of our friends can share the cost with me.\n\nI also have a few questions. What time does the wedding start, and where exactly will it be held? Is there a dress code for guests? Finally, can I bring my sister with me? She has met your brother before.\n\nI am looking forward to celebrating with you all.\n\nBest wishes,\nMinh",
+   "answer": "Hi Sandra,\n\nThank you for your invitation. Congratulations to your brother and his future wife. I am really happy for your family.\n\nRegarding the wedding, yes, I will be able to attend. I have checked my work schedule, and I am free that weekend. I would not miss this special day because your family has always been so kind to me.\n\nAs for the gift, I think something useful for their new home is a good idea. For example, we could buy them a coffee machine or a set of nice plates. Another idea is a weekend trip to Da Lat, so they can relax after the wedding. Some of our friends can share the cost with me.\n\nAbout the wedding, I have a few questions. What time does it start, and where exactly will it be held? Is there a dress code for guests? Finally, could I bring my sister? She knows your brother too.\n\nI am looking forward to celebrating with you all.\n\nBest wishes,\nMinh",
    "vocab": [
     {
      "term": "attend the wedding",
@@ -46,63 +47,70 @@
     },
     {
      "term": "share the cost",
-     "meaning": "chia tiền, góp tiền"
+     "meaning": "góp tiền, chia chi phí"
     },
     {
      "term": "dress code",
-     "meaning": "quy định về trang phục"
-    },
-    {
-     "term": "celebrate",
-     "meaning": "ăn mừng, chung vui"
+     "meaning": "quy định trang phục"
     }
    ]
   },
   "2": {
    "essay_type": "Causes & effects (phân tích nguyên nhân và ảnh hưởng)",
+   "type_key": "cause_effect",
    "outline": [
     {
      "section": "Mở bài",
-     "content": "Viết lại đề: giới trẻ ngày càng thích đến di tích → bài phân tích nguyên nhân + ảnh hưởng",
-     "reusable": "This essay will discuss the main causes of this trend and its effects on society and the younger generation."
+     "content": "Viết lại đề (giới trẻ đi thăm chùa cổ, bảo tàng, phố cổ ngày càng nhiều) + câu dẫn",
+     "reusable": "This essay will discuss the main causes of this trend and its effects."
     },
     {
-     "section": "Thân bài 1: nguyên nhân",
-     "content": "(1) mạng xã hội, chụp ảnh check-in Hội An (2) phim, game, video lịch sử hấp dẫn (3) đi lại rẻ và dễ hơn",
-     "reusable": "There are several reasons for this trend. Firstly, social media plays a big role."
+     "section": "Thân bài 1 · nguyên nhân 1",
+     "content": "P: mạng xã hội làm di tích hấp dẫn → E: thích chụp ảnh đẹp, đăng lên mạng → Ex: mặc áo dài ở Hội An, Huế, đăng TikTok",
+     "reusable": "There are two main causes of this trend. Firstly, social media makes historical sites look attractive and exciting."
     },
     {
-     "section": "Thân bài 2: ảnh hưởng",
-     "content": "Tích cực: (1) hiểu lịch sử, tự hào dân tộc (2) mang tiền cho cộng đồng địa phương. Tiêu cực: đông khách làm hư hại công trình, xả rác",
-     "reusable": "This trend has both positive and negative effects."
+     "section": "Thân bài 1 · nguyên nhân 2",
+     "content": "P: di tích hiện đại, thú vị hơn → E: trình diễn ánh sáng, màn hình, tour đêm → Ex: tour đêm nhà tù Hoả Lò",
+     "reusable": "Secondly, many historical sites have become more modern and interesting."
+    },
+    {
+     "section": "Thân bài 2 · ảnh hưởng 1 (giới trẻ)",
+     "content": "P: hiểu lịch sử hơn → Ex: thăm địa đạo Củ Chi, biết đời sống thời chiến → R: tự hào về đất nước",
+     "reusable": "This trend has two important effects. The first effect is that young people understand their country's history better."
+    },
+    {
+     "section": "Thân bài 2 · ảnh hưởng 2 (xã hội)",
+     "content": "P: địa phương có thêm thu nhập → E: vé, ăn uống, khách sạn, quà lưu niệm → Ex: gia đình ở Hội An mở quán ăn, cửa hàng quà → R: có tiền trùng tu di tích",
+     "reusable": "Another effect is that local communities can earn more money."
     },
     {
      "section": "Kết bài",
-     "content": "Tóm tắt nguyên nhân, ảnh hưởng + chính quyền cần quản lý du khách",
-     "reusable": "However, the government should manage visitors carefully to protect these special places."
+     "content": "Tóm tắt 2 nguyên nhân + 2 ảnh hưởng",
+     "reusable": "In conclusion, more young people visit historical sites mainly because of social media and more modern museums."
     }
    ],
-   "answer": "In recent years, more and more young people have visited historical sites, such as old temples, museums and ancient towns. This essay will discuss the main causes of this trend and its effects on society and the younger generation.\n\nThere are several reasons for this trend. Firstly, social media plays a big role. Many young people want to take beautiful photos at famous places like Hoi An Ancient Town and share them online. Secondly, history has become more interesting to young people. For example, films, games and TikTok videos about Vietnamese history are very popular nowadays. These stories make the past feel close and exciting. In addition, travelling has become cheaper and easier. Low-cost flights and buses now connect many cities. Students can find information and book tickets on their phones in a few minutes.\n\nThis trend has both positive and negative effects. On the positive side, young people learn more about the history and culture of their country. As a result, they feel proud of their nation and want to protect its heritage. Moreover, the trend brings money to local communities. Hotels, restaurants and souvenir shops near historical sites have more customers, so local people have more jobs. On the negative side, too many visitors can damage old buildings. Some tourists also leave rubbish or write on the walls. As a result, these sites may lose their original beauty.\n\nIn conclusion, young people visit historical sites because of social media, interesting history content and cheaper travel. This trend helps them understand their culture and supports local economies. However, the government should manage visitors carefully to protect these special places.",
+   "answer": "In recent years, more and more young people have started to visit old temples, museums and ancient towns. Many of them even travel far to see these places during their holidays. This essay will discuss the main causes of this trend and its effects.\n\nThere are two main causes of this trend. Firstly, social media makes historical sites look attractive and exciting. Young people love to take beautiful photos and share them online. For example, many students visit Hoi An Ancient Town or Hue Imperial City in ao dai and post their photos on TikTok. Secondly, many historical sites have become more modern and interesting. This is because museums now use light shows, screens and night tours to attract visitors. For instance, the night tour at Hoa Lo Prison in Hanoi is very popular with young people.\n\nThis trend has two important effects. The first effect is that young people understand their country's history better. A good example is a student who visits the Cu Chi Tunnels and learns how hard life was during the war. Thanks to this, young people feel prouder of their country. Another effect is that local communities can earn more money. Visitors spend money on tickets, food, hotels and souvenirs, so many new jobs are created. For example, in Hoi An, many local families run small restaurants and gift shops for tourists. As a result, local governments have more money to repair and protect old buildings.\n\nIn conclusion, more young people visit historical sites mainly because of social media and more modern museums. This trend helps them understand their history better, and it also brings money to local communities.",
    "vocab": [
     {
      "term": "historical site",
      "meaning": "di tích lịch sử"
     },
     {
-     "term": "heritage",
-     "meaning": "di sản"
+     "term": "ancient town",
+     "meaning": "phố cổ"
     },
     {
-     "term": "local community",
-     "meaning": "cộng đồng địa phương"
+     "term": "light show",
+     "meaning": "chương trình trình diễn ánh sáng"
     },
     {
-     "term": "souvenir shop",
-     "meaning": "cửa hàng đồ lưu niệm"
+     "term": "feel proud of",
+     "meaning": "cảm thấy tự hào về"
     },
     {
-     "term": "damage",
-     "meaning": "làm hư hại"
+     "term": "souvenir",
+     "meaning": "quà lưu niệm"
     }
    ]
   }
@@ -110,38 +118,42 @@
  "speaking": {
   "1": {
    "answers": [
-    "Yes, I did, but only a little. I liked learning new words, but the lessons were often about grammar and tests. So sometimes they were quite boring.",
-    "The most difficult part was speaking. We rarely had a chance to practise speaking because the classes were very big. So I felt shy and nervous when I had to speak.",
-    "I think schools should focus more on speaking and listening. Teachers can use songs, films and games to make lessons more interesting. Classes should also be smaller, so every student can practise.",
-    "My favourite traditional dish is banh xeo, a Vietnamese crispy pancake. It is filled with shrimp, pork and bean sprouts, and we eat it with fresh herbs and fish sauce.",
-    "First, people mix rice flour with water and turmeric. Then they pour the mixture into a hot pan and add shrimp, pork and bean sprouts. Finally, they fold it in half and serve it with vegetables.",
-    "Yes, I think they are still popular. Many young people love eating pho, banh mi and banh xeo. However, they eat fast food more often than in the past."
+    "Yes, I enjoyed learning English in high school, but only a little. This is because the lessons were often about grammar and tests. For example, we spent most of the time doing grammar exercises, so it was sometimes boring.",
+    "The most difficult part was speaking. This is because we rarely had a chance to practise in our big classes. As a result, I felt shy and nervous when the teacher asked me to speak.",
+    "I think high schools should focus more on speaking and listening. The main reason is that students need these skills in real life. For example, teachers can use songs, films and games, and classes should be smaller.",
+    "My favourite traditional dish is banh xeo, a Vietnamese crispy pancake. I love it because it is crispy and tasty. It is filled with shrimp, pork and bean sprouts, and we eat it with fresh herbs.",
+    "First, people mix rice flour with water and turmeric. Then they pour the mixture into a hot pan and add shrimp, pork and bean sprouts. Finally, they fold it in half and serve it with vegetables and fish sauce.",
+    "Yes, I think traditional dishes are still popular among young people today. This is because they are tasty, cheap and easy to find. For example, my younger colleagues often have pho or banh mi for breakfast."
    ],
    "outline": [
     {
-     "section": "Câu trả lời trực tiếp",
-     "content": "Trả lời ngay Yes/No hoặc tên món",
-     "reusable": "My favourite traditional dish is banh xeo, a Vietnamese crispy pancake."
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi, lặp lại từ khoá",
+     "reusable": "The most difficult part was speaking."
     },
     {
-     "section": "Lý do / giải thích",
-     "content": "Thêm 1 lý do bằng because / so",
-     "reusable": "We rarely had a chance to practise speaking because the classes were very big."
+     "section": "Câu 2: lý do",
+     "content": "This is because / The main reason is that …",
+     "reusable": "This is because the lessons were often about grammar and tests."
     },
     {
-     "section": "Chi tiết / các bước",
-     "content": "Dùng First, Then, Finally để tả cách làm",
-     "reusable": "First, people mix rice flour with water and turmeric."
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân hoặc các bước cụ thể",
+     "reusable": "Finally, they fold it in half and serve it with vegetables and fish sauce."
     }
    ],
    "vocab": [
     {
-     "term": "focus on",
-     "meaning": "tập trung vào"
+     "term": "grammar exercises",
+     "meaning": "bài tập ngữ pháp"
+    },
+    {
+     "term": "feel shy and nervous",
+     "meaning": "thấy ngại và lo lắng"
     },
     {
      "term": "crispy pancake",
-     "meaning": "bánh xèo, bánh chiên giòn"
+     "meaning": "bánh xèo giòn"
     },
     {
      "term": "bean sprouts",
@@ -150,43 +162,39 @@
     {
      "term": "turmeric",
      "meaning": "nghệ"
-    },
-    {
-     "term": "fold it in half",
-     "meaning": "gấp đôi lại"
     }
    ]
   },
   "2": {
    "choice": 3,
+   "answer": "In this situation, among the three options, I think eating at a local restaurant is the best choice for us tonight. I choose it for two main reasons.\n\nThe first reason is that local restaurants serve delicious and fresh food at a reasonable price. By that, I mean we can enjoy a good meal without spending too much money. For example, near my house there is a small restaurant that sells broken rice and hot pot. Each person only pays about one hundred thousand dong there.\n\nAnother reason is that eating at a local restaurant is relaxing. In other words, nobody has to cook or wash the dishes, so we can spend all our time talking and having fun. For instance, after a long day at work, my friends and I just want to sit down and chat.\n\nThere are also some reasons why I do not choose the other two options. Regarding cooking a meal at home, I do not think it is the best choice because it takes a lot of time to go shopping, cook and clean up. As for eating at a fast food restaurant, I do not think it is the best option either because fast food is unhealthy and quite boring.\n\nTo sum up, out of these three options, I believe eating at a local restaurant is the best choice because it is tasty, cheap and relaxing.",
    "outline": [
     {
-     "section": "Nêu lựa chọn",
-     "content": "Chọn ăn ở quán ăn địa phương",
-     "reusable": "I think we should eat at a local restaurant tonight."
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: quán ăn địa phương",
+     "reusable": "In this situation, among the three options, I think eating at a local restaurant is the best choice for us tonight. I choose it for two main reasons."
     },
     {
-     "section": "Lý do chọn",
-     "content": "(1) đồ ăn ngon, tươi, giá hợp lý; ví dụ quán cơm tấm, lẩu gần nhà (2) thư giãn, không ai phải nấu, rửa bát",
-     "reusable": "First, local restaurants serve delicious and fresh food at a reasonable price."
+     "section": "Lý do 1",
+     "content": "Ngon, tươi, giá hợp lý → By that, I mean (không tốn nhiều tiền) → For example: quán cơm tấm, lẩu gần nhà, 100 nghìn/người",
+     "reusable": "The first reason is that local restaurants serve delicious and fresh food at a reasonable price. By that, I mean …"
     },
     {
-     "section": "Vì sao không nấu ở nhà",
-     "content": "Mất thời gian đi chợ, nấu, dọn; mệt sau giờ làm",
-     "reusable": "I don't choose cooking a meal at home."
+     "section": "Lý do 2",
+     "content": "Thư giãn → In other words (không ai phải nấu, rửa bát) → For instance: sau giờ làm chỉ muốn ngồi trò chuyện",
+     "reusable": "Another reason is that eating at a local restaurant is relaxing. In other words, …"
     },
     {
-     "section": "Vì sao không ăn đồ ăn nhanh",
-     "content": "Nhiều mỡ, đường; quán ồn, khó nói chuyện",
-     "reusable": "I also don't choose eating at a fast food restaurant."
+     "section": "Loại 2 phương án",
+     "content": "Nấu ở nhà: mất thời gian đi chợ, nấu, dọn; đồ ăn nhanh: không tốt cho sức khoẻ, nhàm chán",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding cooking a meal at home, I do not think it is the best choice because … As for eating at a fast food restaurant, I do not think it is the best option either because …"
     },
     {
-     "section": "Kết luận",
-     "content": "Nhắc lại lựa chọn + đồ ngon, giá hợp lý, thư giãn",
-     "reusable": "In conclusion, eating at a local restaurant is the best choice for us tonight."
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe eating at a local restaurant is the best choice because it is tasty, cheap and relaxing."
     }
    ],
-   "answer": "I think we should eat at a local restaurant tonight. Here are my reasons.\n\nFirst, local restaurants serve delicious and fresh food at a reasonable price. For example, near my house there is a small restaurant that sells broken rice and hot pot. The food is tasty, and each person only pays about one hundred thousand dong. Second, eating at a local restaurant is relaxing. Nobody has to cook or wash the dishes, so we can spend all our time talking and having fun.\n\nI don't choose cooking a meal at home. It can be cheaper and healthier, but it takes a lot of time. We have to go shopping, cook and clean the kitchen after dinner. We may feel tired after a long day at work. I also don't choose eating at a fast food restaurant. Fast food is quick, but it is not very healthy because it has a lot of fat and sugar. Moreover, fast food restaurants are often noisy, so it is hard to have a long conversation.\n\nIn conclusion, eating at a local restaurant is the best choice for us tonight. The food is good, the price is fair and we can relax together.",
    "vocab": [
     {
      "term": "at a reasonable price",
@@ -201,75 +209,71 @@
      "meaning": "rửa bát"
     },
     {
-     "term": "have a conversation",
-     "meaning": "trò chuyện"
-    },
-    {
-     "term": "the price is fair",
-     "meaning": "giá phải chăng"
+     "term": "clean up",
+     "meaning": "dọn dẹp"
     }
    ]
   },
   "3": {
+   "answer": "Today I would like to talk about the disadvantages of doing exercise. In my opinion, exercise is good for us, but it also has some drawbacks.\n\nFirstly, exercise can be a waste of time for busy people. Going to the gym or a pool often takes one or two hours, including travel time. For example, I need about an hour and a half to swim, shower and go home on a weekend morning.\n\nSecondly, doing exercise can be a waste of money. Gym memberships, sports clothes and equipment are quite expensive. For instance, a good pair of running shoes can cost more than two million dong.\n\nThirdly, there is a risk of getting injuries. If people do not warm up or they train too hard, they can hurt their muscles or joints. A good example is my colleague, who hurt his knee while playing football last month.\n\nAnother important point is that exercise can make people feel tired and sore. After a hard workout, our muscles may hurt for a few days. For example, after my first gym class, I could hardly walk up the stairs the next day.\n\nTo sum up, exercise can waste our time and money, cause injuries and make us tired. However, if we exercise wisely, its benefits are still much bigger.",
    "own_idea": "Feeling tired and sore",
+   "follow_ups": [
+    "People can avoid getting injured by warming up before exercising and cooling down afterwards. The main reason is that warm muscles are less likely to get hurt. For example, I always stretch for five minutes before swimming. People should also start slowly and stop if they feel pain.",
+    "Yes, I think the benefits of exercise outweigh the disadvantages. The main reason is that exercise helps us prevent many diseases, such as heart disease and diabetes. For example, my father walks every morning, and his blood pressure is much better now. The disadvantages are small if we exercise carefully.",
+    "I would tell them to do short exercises at home. The main reason is that they do not need to travel or pay for a gym. For example, they can do ten minutes of push-ups or skipping before work. They can also walk or cycle to work and take the stairs."
+   ],
    "outline": [
     {
-     "section": "Mở đầu",
-     "content": "Giới thiệu chủ đề: tập thể dục tốt nhưng cũng có mặt trái",
-     "reusable": "Today I would like to talk about the disadvantages of doing exercise."
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the disadvantages of doing exercise. In my opinion, exercise is good for us, but it also has some drawbacks."
     },
     {
-     "section": "Ý 1: Wasting time",
-     "content": "Đi gym mất khoảng 2 tiếng kể cả đi lại; người bận rộn mất thời gian cho việc khác",
-     "reusable": "First, exercise can mean wasting time for busy people."
+     "section": "Ý 1: tốn thời gian",
+     "content": "Ý → đi gym, đi bơi mất 1–2 tiếng → ví dụ bơi, tắm, về nhà mất 1 tiếng rưỡi",
+     "reusable": "Firstly, exercise can be a waste of time for busy people."
     },
     {
-     "section": "Ý 2: Wasting money",
-     "content": "Phí gym, lớp yoga, hồ bơi đắt; mua quần áo, giày, dụng cụ",
-     "reusable": "Second, doing exercise can mean wasting money."
+     "section": "Ý 2: tốn tiền",
+     "content": "Ý → thẻ gym, quần áo, dụng cụ đắt → ví dụ giày chạy hơn 2 triệu",
+     "reusable": "Secondly, doing exercise can be a waste of money."
     },
     {
-     "section": "Ý 3: Risk of getting injuries",
-     "content": "Tập quá sức, sai kỹ thuật → đau gối, lưng, cổ chân; ví dụ chấn thương khi đá bóng",
-     "reusable": "Third, there is a risk of getting injuries."
+     "section": "Ý 3: nguy cơ chấn thương",
+     "content": "Ý → không khởi động, tập quá sức → ví dụ đồng nghiệp đau đầu gối khi đá bóng",
+     "reusable": "Thirdly, there is a risk of getting injuries."
     },
     {
-     "section": "Ý riêng: Feeling tired and sore",
-     "content": "Tập nặng → mệt, đau cơ, khó tập trung hôm sau",
-     "reusable": "Finally, I think exercise can make people feel very tired and sore."
+     "section": "Ý riêng: mệt mỏi, đau cơ",
+     "content": "Ý → cơ đau vài ngày sau buổi tập nặng → ví dụ buổi gym đầu tiên, hôm sau khó leo cầu thang",
+     "reusable": "Another important point is that exercise can make people feel tired and sore."
     },
     {
-     "section": "Kết luận",
-     "content": "Tóm tắt + vấn đề nhỏ nếu tập đúng cách",
-     "reusable": "However, these problems are small if we exercise in the right way."
+     "section": "Kết",
+     "content": "Tóm tắt 4 bất lợi + tập đúng cách thì lợi vẫn lớn hơn",
+     "reusable": "To sum up, exercise can waste our time and money, cause injuries and make us tired."
     }
-   ],
-   "answer": "Today I would like to talk about the disadvantages of doing exercise. Exercise is good for our health, but it also has some disadvantages.\n\nFirst, exercise can mean wasting time for busy people. For example, going to the gym can take about two hours, including travel time. Many office workers and students do not have that much free time, so they have less time for work, study or family.\n\nSecond, doing exercise can mean wasting money. Gym memberships, yoga classes and swimming pools are quite expensive in big cities. People also need to buy sports clothes, shoes and equipment. For instance, a good pair of running shoes can cost two million dong.\n\nThird, there is a risk of getting injuries. If people exercise too hard or use the wrong technique, they can hurt their knees, backs or ankles. When I studied medicine, I saw many young people with knee injuries from playing football.\n\nFinally, I think exercise can make people feel very tired and sore. After a hard workout, some people cannot concentrate at work the next day. This is especially true for beginners.\n\nIn conclusion, exercise can waste time and money, cause injuries and make people tired. However, these problems are small if we exercise in the right way.",
-   "follow_ups": [
-    "They should warm up before exercising and cool down afterwards. They should also start slowly and wear suitable shoes. If they feel pain, they should stop immediately.",
-    "Yes, I think so. Exercise helps us prevent many diseases, such as heart disease and diabetes. The disadvantages are small if we exercise carefully.",
-    "I would tell them to do short exercises at home, for example ten minutes of push-ups or skipping. They can also walk or cycle to work. Small changes like taking the stairs are helpful too."
    ],
    "vocab": [
     {
+     "term": "a waste of time / money",
+     "meaning": "sự lãng phí thời gian / tiền bạc"
+    },
+    {
      "term": "gym membership",
-     "meaning": "thẻ hội viên phòng gym"
+     "meaning": "thẻ tập gym"
     },
     {
-     "term": "get injured / injury",
-     "meaning": "bị chấn thương / chấn thương"
+     "term": "warm up / cool down",
+     "meaning": "khởi động / thả lỏng"
     },
     {
-     "term": "wrong technique",
-     "meaning": "sai kỹ thuật"
+     "term": "feel sore",
+     "meaning": "bị đau mỏi cơ"
     },
     {
-     "term": "sore",
-     "meaning": "đau nhức (cơ)"
-    },
-    {
-     "term": "warm up",
-     "meaning": "khởi động"
+     "term": "outweigh",
+     "meaning": "lớn hơn, nặng hơn"
     }
    ]
   }
