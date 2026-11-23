@@ -1,9 +1,9 @@
-# VSTEP · Phòng luyện — bản web tĩnh, CHỈ phục vụ trong tailnet.
+# VSTEP · Phòng luyện — bản web tĩnh, public tại https://vstep.pentium.ink qua Cloudflare Tunnel.
 #
-# http://100.125.162.41:6698  (máy rtx-1, Tailscale)
+#   web     nginx phục vụ app. Chỉ bind 127.0.0.1:6698 để kiểm tra cục bộ, không ra LAN hay tailnet.
+#   tunnel  cloudflared đẩy lưu lượng của tunnel `vstep` vào http://web:80 (cấu hình: ./cloudflared/config.yml).
 #
-# ⛔ Không bind 0.0.0.0, không Tailscale Funnel, không Cloudflare: bản build chứa nguyên văn đề
-#    vstepowl.com, chỉ dùng để tự ôn cá nhân (xem CLAUDE.md → Hard rules).
+# Tunnel `vstep` là tunnel RIÊNG, không dùng chung với `homelab` (tunnel đó chạy ssh.pentium.ink).
 # Không mount thẳng app/dist: Vite xoá và tạo lại thư mục đó, bind mount sẽ trỏ vào inode cũ.
 # deploy.sh rsync dist/ → www/.
 services:
@@ -12,7 +12,7 @@ services:
     container_name: vstep-web
     restart: unless-stopped
     ports:
-      - "100.125.162.41:6698:80"
+      - "127.0.0.1:6698:80"
     volumes:
       - ./www:/usr/share/nginx/html:ro
       - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
@@ -25,3 +25,25 @@ services:
       interval: 60s
       timeout: 5s
       retries: 3
+    logging:
+      driver: json-file
+      options: { max-size: "10m", max-file: "3" }
+
+  tunnel:
+    image: cloudflare/cloudflared:2026.11.2
+    container_name: vstep-tunnel
+    restart: unless-stopped
+    # uid 1000 = user chủ máy, để đọc được credential 0400 trong ~/.cloudflared.
+    user: "1000:1000"
+    command: ["tunnel", "--no-autoupdate", "--config", "/etc/cloudflared/config.yml", "run"]
+    volumes:
+      - ./cloudflared/config.yml:/etc/cloudflared/config.yml:ro
+      - ${HOME}/.cloudflared/db0e3d35-219f-47d9-bc68-fde8ee73b098.json:/etc/cloudflared/db0e3d35-219f-47d9-bc68-fde8ee73b098.json:ro
+    depends_on:
+      - web
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    mem_limit: 256m
+    logging:
+      driver: json-file
+      options: { max-size: "10m", max-file: "3" }

@@ -1,40 +1,47 @@
 #!/usr/bin/env bash
-# Build app → deploy/www → nginx container vstep-web, chỉ trong tailnet.
+# Build app → deploy/www → nginx container vstep-web (127.0.0.1:6698) → tunnel `vstep` → https://vstep.pentium.ink
 #
 #   bash deploy/deploy.sh          # build + đồng bộ + (re)start + kiểm tra
-#   bash deploy/deploy.sh up       # chỉ khởi động lại container (vd. sau reboot, khi Docker lên trước Tailscale)
-#   bash deploy/deploy.sh status   # trạng thái + kiểm tra HTTP
+#   bash deploy/deploy.sh up       # chỉ khởi động lại container (vd. sau reboot)
+#   bash deploy/deploy.sh status   # trạng thái + kiểm tra HTTP (cục bộ và public)
 #   bash deploy/deploy.sh down     # dừng và gỡ container
 #
-# ⛔ Không đổi cổng sang 0.0.0.0, không bật Funnel: xem CLAUDE.md → Hard rules.
+# ⛔ Không đổi cổng nginx sang 0.0.0.0 hay IP LAN/tailnet: chỉ 127.0.0.1, public đi qua tunnel.
+# ⛔ Không dùng chung tunnel `homelab` (có ssh.pentium.ink): app dùng tunnel `vstep` riêng.
 set -euo pipefail
 
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ROOT="$(dirname "$HERE")"
 APP="$ROOT/app"
-TS_IP="100.125.162.41"
 PORT=6698
-URL="http://$TS_IP:$PORT/"
+LOCAL_URL="http://127.0.0.1:$PORT/"
+PUBLIC_URL="https://vstep.pentium.ink/"
 NPM_CACHE="${NPM_CACHE:-${TMPDIR:-/tmp}/vstep-npm-cache}"   # npm cache hệ thống thuộc root
 
 compose() { docker compose -f "$HERE/docker-compose.yml" -p vstep "$@"; }
 
 check() {
-  if ! ip -4 addr show | grep -q "inet $TS_IP/"; then
-    echo "⛔ Máy chưa có IP Tailscale $TS_IP (tailscale chưa lên?)." >&2; return 1
-  fi
-  local code
-  for _ in 1 2 3 4 5; do
-    code="$(curl -s -o /dev/null -w '%{http_code}' "$URL" || true)"
+  local code i
+  for i in 1 2 3 4 5; do
+    code="$(curl -s -o /dev/null -w '%{http_code}' "$LOCAL_URL" || true)"
     [ "$code" = 200 ] && break
     sleep 1
   done
-  if [ "$code" != 200 ]; then echo "✗ $URL trả $code" >&2; return 1; fi
-  echo "✓ $URL → 200"
+  if [ "$code" != 200 ]; then echo "✗ $LOCAL_URL trả $code" >&2; return 1; fi
+  echo "✓ $LOCAL_URL → 200"
   if ss -ltnH | awk '{print $4}' | grep -qE "^(0\.0\.0\.0|\*|\[::\]):$PORT$"; then
     echo "⛔ Cổng $PORT đang mở trên mọi interface!" >&2; return 1
   fi
-  echo "✓ Chỉ lắng nghe trên $TS_IP:$PORT (tailnet)"
+  echo "✓ Chỉ lắng nghe trên 127.0.0.1:$PORT"
+
+  # Tunnel cần vài giây để nối lại sau khi container khởi động.
+  for i in $(seq 1 20); do
+    code="$(curl -s -o /dev/null -m 10 -w '%{http_code}' "$PUBLIC_URL" || true)"
+    [ "$code" = 200 ] && break
+    sleep 3
+  done
+  if [ "$code" != 200 ]; then echo "✗ $PUBLIC_URL trả $code (tunnel vstep chưa nối? xem: docker logs vstep-tunnel)" >&2; return 1; fi
+  echo "✓ $PUBLIC_URL → 200"
 }
 
 up() {
@@ -56,6 +63,6 @@ case "${1:-deploy}" in
   up) up ;;
   status) compose ps; check ;;
   down) compose down ;;
-  -h|--help) sed -n '2,9p' "$0" ;;
+  -h|--help) sed -n '2,8p' "$0" ;;
   *) echo "⛔ lệnh lạ: $1" >&2; exit 2 ;;
 esac

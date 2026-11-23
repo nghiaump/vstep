@@ -1,14 +1,12 @@
 # CLAUDE.md
 
-Offline VSTEP (B1–B2) self-study kit: 46 Van Lang University exams (VLU 90–135) from vstepowl.com, a practice web app, and model answers at band 5–6.
+VSTEP (B1–B2) self-study kit: 46 Van Lang University exams (VLU 90–135) from vstepowl.com, a practice web app (public at https://vstep.pentium.ink), and model answers at band 5–6.
 
 The owner is Vietnamese. **Write UI text, docs and explanations in Vietnamese. Write model answers in English.**
 
 ## Hard rules
 
-- **vstepowl.com content is for personal study only.**
-  - Never redistribute it, and never publish it or put it in an artifact.
-  - The repo must stay private.
+- **vstepowl.com exams are public for exam practice.** The site owner has allowed the exams to be published for study. The project owner confirmed this on 2026-11-24.
 - **Never weaken vstepowl's protections.** The site encrypts exam data in its JS, has a domain lock (redirects off-domain or localhost) and blocks headless or automated browsers. Do NOT:
   - decrypt the bundles;
   - patch the domain lock;
@@ -16,9 +14,10 @@ The owner is Vietnamese. **Write UI text, docs and explanations in Vietnamese. W
   - evade its bot detection.
 - **Getting new exams.** Use only the site's official "Tải đề thi" PDF export, clicked at human pace in the user's real Chrome (Claude in Chrome). Then parse the PDF locally.
 - **npm cache is root-owned.** Pass a private cache: `npm install --cache <scratchpad>/npm-cache`.
-- **Deploy is tailnet-only.** `deploy/deploy.sh` serves the app at http://100.125.162.41:6698 from the Docker nginx container `vstep-web`.
-  - Never bind it to 0.0.0.0. Never expose it through Funnel, Cloudflare or any public host.
-  - The build contains verbatim vstepowl content.
+- **Deploy is public at https://vstep.pentium.ink through Cloudflare Tunnel.** `deploy/deploy.sh` runs two containers: `vstep-web` (nginx, bound to 127.0.0.1:6698 only) and `vstep-tunnel` (cloudflared, tunnel `vstep`, config in `deploy/cloudflared/config.yml`).
+  - Never bind nginx to 0.0.0.0 or to a LAN or tailnet IP. Public traffic goes only through the `vstep` tunnel.
+  - Never route this app through the `homelab` tunnel. It also serves ssh.pentium.ink.
+  - The tunnel credential lives in `~/.cloudflared/` and must never enter the repo.
 - **Git: one branch only.** Commit and push straight to `main`.
   - No feature branches or pull requests.
   - If one was created, merge it into `main` and delete it locally and on `origin`.
@@ -34,6 +33,7 @@ The owner is Vietnamese. **Write UI text, docs and explanations in Vietnamese. W
 | `de-thi/loi-giai/vlu-N.md`, `README.md`, `KHUNG-MAU.md`, `pdf/` | **Generated.** Never hand-edit; run `build.py` / `export_pdf.mjs`. | No |
 | `app/src/data/*.json` | **Generated** by `app/scripts/sync-data.mjs`, which runs before dev and build. | No |
 | `de-thi/loi-giai/doi-chieu/` | Audit of answers against the user's study materials (`~/Desktop/VSTEP`): rulebooks A–F + README. | Docs |
+| `deploy/` | `docker-compose.yml` (`vstep-web` nginx on 127.0.0.1:6698 + `vstep-tunnel` cloudflared), `cloudflared/config.yml` (tunnel `vstep`), `deploy.sh`, `nginx.conf`. `www/` is generated. | Yes, carefully |
 | `site/` | Old mirror of the public pages. The app does not use it. | No |
 
 ## Commands
@@ -54,7 +54,7 @@ python3 audit.py                   # before/after metrics, answers-v1 vs answers
 node export_pdf.mjs http://localhost:4173/   # per-exam PDFs + combined; preview must be running
 
 # deploy (run at repo root)
-bash deploy/deploy.sh                    # build → rsync to deploy/www → nginx on 100.125.162.41:6698 (tailnet only)
+bash deploy/deploy.sh                    # build → rsync to deploy/www → vstep-web (127.0.0.1:6698) + tunnel → https://vstep.pentium.ink
 bash deploy/deploy.sh status|up|down
 ```
 

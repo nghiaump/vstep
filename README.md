@@ -11,7 +11,7 @@
 </div>
 
 > [!IMPORTANT]
-> Đề thi lấy từ [vstepowl.com](https://vstepowl.com) (Exam Reviews). Bản này chỉ để **tự học cá nhân** và **không được chia sẻ lại hay dùng vào mục đích thương mại**, theo điều khoản của trang. Giữ repo ở chế độ **private**.
+> Đề thi lấy từ [vstepowl.com](https://vstepowl.com) (Exam Reviews). Chủ trang đã cho phép dùng đề để tự học công khai. Bản này **không dùng cho mục đích thương mại**.
 
 ---
 
@@ -19,7 +19,7 @@
 
 - [Có gì trong này](#có-gì-trong-này)
 - [Bắt đầu trong 1 phút](#bắt-đầu-trong-1-phút)
-- [Đọc trên điện thoại (qua Tailscale)](#đọc-trên-điện-thoại-qua-tailscale)
+- [Đọc trên điện thoại và deploy](#đọc-trên-điện-thoại-và-deploy)
 - [Lộ trình ôn gợi ý](#lộ-trình-ôn-gợi-ý)
 - [Bài mẫu và khung mẫu](#bài-mẫu-và-khung-mẫu)
 - [Cấu trúc thư mục](#cấu-trúc-thư-mục)
@@ -67,13 +67,12 @@ npm run app        # build + mở http://localhost:4173
 > [!TIP]
 > Không muốn chạy app? Mở trực tiếp các trang tĩnh trong `de-thi/reading/`, `de-thi/writing/`, `de-thi/speaking/`. Bài mẫu có sẵn dạng Markdown trong `de-thi/loi-giai/` và PDF trong `de-thi/loi-giai/pdf/`.
 
-## Đọc trên điện thoại (qua Tailscale)
+## Đọc trên điện thoại và deploy
 
-Bản web chạy trên máy `rtx-1` và **chỉ mở trong tailnet** của bạn: **http://100.125.162.41:6698**
+Bản web công khai tại **https://vstep.pentium.ink** (HTTPS, không cần VPN). Trang chạy trên máy `rtx-1` và đi ra Internet qua Cloudflare Tunnel.
 
-1. Bật Tailscale trên iPhone.
-2. Mở địa chỉ trên bằng Safari.
-3. Bấm Chia sẻ → **Thêm vào MH chính**. App sẽ mở toàn màn hình, có icon "V".
+1. Mở địa chỉ trên bằng Safari.
+2. Bấm Chia sẻ → **Thêm vào MH chính**. App sẽ mở toàn màn hình, có icon "V".
 
 Giao diện điện thoại được tối ưu cho iPhone 15 Pro:
 - **chữ nhỏ, xếp dày**: bài mẫu 13,5px, giãn dòng 1,45, lề 12px;
@@ -83,16 +82,16 @@ Giao diện điện thoại được tối ưu cho iPhone 15 Pro:
 Đổi cỡ chữ Nhỏ/Vừa/Lớn trong **Cài đặt → Cỡ chữ bài đọc**.
 
 ```bash
-bash deploy/deploy.sh          # build app → deploy/www → container nginx vstep-web
-bash deploy/deploy.sh status   # kiểm tra
-bash deploy/deploy.sh up       # khởi động lại container (vd. sau reboot nếu Docker lên trước Tailscale)
+bash deploy/deploy.sh          # build app → deploy/www → container vstep-web (127.0.0.1:6698) + tunnel vstep
+bash deploy/deploy.sh status   # kiểm tra cục bộ và https://vstep.pentium.ink
+bash deploy/deploy.sh up       # khởi động lại container (vd. sau reboot)
 ```
 
 > [!WARNING]
-> Không đổi cổng sang `0.0.0.0` và không bật Funnel hay Cloudflare. Bản build chứa nguyên văn đề vstepowl.com, chỉ dùng cho riêng bạn.
+> Nginx chỉ bind `127.0.0.1:6698`. Không đổi sang `0.0.0.0` hay IP LAN/tailnet, và không đưa app lên tunnel `homelab` (tunnel đó chạy ssh.pentium.ink). Public chỉ đi qua tunnel `vstep`. Credential tunnel nằm ở `~/.cloudflared/`, không đưa vào repo.
 
 Lưu ý:
-- Địa chỉ là `http`, không phải HTTPS, nên trên điện thoại **không ghi âm** được. Phần Speaking vẫn xem đề và thi thử bình thường.
+- Trang dùng HTTPS nên có thể ghi âm Speaking. Trình duyệt sẽ hỏi quyền micro lần đầu.
 - Bài làm và tiến độ lưu riêng trên từng thiết bị. Muốn chuyển giữa các máy thì dùng Cài đặt → Sao lưu tiến độ.
 
 ## Lộ trình ôn gợi ý
@@ -151,7 +150,7 @@ VSTEP/
 │   ├── parse_exam_pdf.py   # PDF → exams/vlu-N.json
 │   ├── build_skill_pages.py
 │   └── solutions/          # check.py · build.py · verify_prompts.py · audit.py · export_pdf.mjs
-├── deploy/                 # nginx + docker compose: phục vụ app trong tailnet (:6698)
+├── deploy/                 # nginx + cloudflared (tunnel vstep): phục vụ app tại vstep.pentium.ink
 ├── docs/images/            # ảnh chụp màn hình cho README
 └── site/                   # bản lưu cũ các trang public (không dùng cho app)
 ```
@@ -210,4 +209,4 @@ npm run build      # tsc + vite build → app/dist
 
 ---
 
-<sub>Dữ liệu đề © vstepowl.com, chỉ dùng để tự học. Bài mẫu, khung mẫu và mã nguồn app được viết riêng cho bộ tự học này.</sub>
+<sub>Đề thi thuộc vstepowl.com, dùng với sự cho phép của chủ trang để ôn luyện. Bài mẫu, khung mẫu và mã nguồn app được viết riêng cho bộ tự học này.</sub>

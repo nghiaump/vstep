@@ -73,7 +73,7 @@ export default function Settings() {
       <div className={s.about}>
         <h2>Về ứng dụng</h2>
         <p>Bài làm, điểm và bản ghi âm được lưu trong trình duyệt của từng máy, không gửi đi đâu. Điện thoại và máy tính có dữ liệu riêng: dùng Sao lưu tiến độ để chuyển qua lại.</p>
-        <p>Đề được lưu từ vstepowl.com (Exam Reviews, Đại học Văn Lang) để tự ôn cá nhân; không chia sẻ lại. Phím tắt trong phòng thi Reading: bấm <kbd>?</kbd>.</p>
+        <p>Đề lấy từ vstepowl.com (Exam Reviews, Đại học Văn Lang) với sự cho phép của chủ trang, dùng để ôn luyện. Phím tắt trong phòng thi Reading: bấm <kbd>?</kbd>.</p>
       </div>
     </div>
   );

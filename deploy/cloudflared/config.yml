@@ -1,0 +1,8 @@
+# Tunnel `vstep` (riêng, KHÔNG dùng chung với `homelab` — tunnel đó chạy ssh.pentium.ink).
+# Credential nằm ở ~/.cloudflared/<id>.json trên máy deploy, KHÔNG vào repo.
+tunnel: db0e3d35-219f-47d9-bc68-fde8ee73b098
+credentials-file: /etc/cloudflared/db0e3d35-219f-47d9-bc68-fde8ee73b098.json
+ingress:
+  - hostname: vstep.pentium.ink
+    service: http://web:80
+  - service: http_status:404

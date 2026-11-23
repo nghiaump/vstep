@@ -1,6 +1,6 @@
 # Đề VSTEP Văn Lang (VLU 90–135): bản lưu offline để tự ôn
 
-Nguồn: vstepowl.com (Exam Reviews). Chỉ dùng cho tự học cá nhân, **không chia sẻ lại** (theo điều khoản của trang).
+Nguồn: vstepowl.com (Exam Reviews), dùng để ôn luyện với sự cho phép của chủ trang. **Không dùng cho mục đích thương mại.**
 
 ## Mở để ôn (nhấp đúp, chạy offline)
 | Trang | Nội dung |

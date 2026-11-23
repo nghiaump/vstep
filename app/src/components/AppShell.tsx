@@ -66,7 +66,7 @@ export function AppShell() {
       <main className={s.main}><Suspense fallback={<div className="page muted" aria-busy="true">Đang tải…</div>}><Outlet /></Suspense></main>
       <footer className={s.foot}>
         <div className={s.inner}>
-          <span>Nguồn đề: <a href="https://vstepowl.com" target="_blank" rel="noopener noreferrer">vstepowl.com</a> (Exam Reviews, Đại học Văn Lang) · bản lưu để tự ôn cá nhân, không chia sẻ lại.</span>
+          <span>Nguồn đề: <a href="https://vstepowl.com" target="_blank" rel="noopener noreferrer">vstepowl.com</a> (Exam Reviews, Đại học Văn Lang) · dùng để ôn luyện với sự cho phép của chủ trang.</span>
         </div>
       </footer>
       {phone && (
