@@ -26,6 +26,7 @@
 - [Dữ liệu](#dữ-liệu)
 - [Thêm đề hoặc sửa bài mẫu](#thêm-đề-hoặc-sửa-bài-mẫu)
 - [Phát triển](#phát-triển)
+- [Nhật ký cập nhật](#nhật-ký-cập-nhật)
 
 ---
 
@@ -206,6 +207,15 @@ npm run build      # tsc + vite build → app/dist
 - Font: Be Vietnam Pro và Source Serif 4.
 - Lưu trữ: localStorage và IndexedDB (`idb-keyval`).
 - Ghi âm và đo mức âm thanh: MediaRecorder + WebAudio.
+
+
+## Nhật ký cập nhật
+
+| Ngày | Thay đổi |
+|---|---|
+| 25/11/2026 | Thêm **VLU 50–89** (40 đề): 22 đề Reading (880 câu), Writing + Speaking đủ 40 đề, cùng 40 bộ bài mẫu đã rà soát. Tổng cộng: 86 đề, 87 bộ bài mẫu. |
+| 20/11/2026 | Viết lại toàn bộ bài mẫu theo 11 khung cố định (PEER, khung S2/S3) sau khi đối chiếu tài liệu luyện thi. Thêm trang Khung mẫu và đề tự tạo VLU sáng 20/11. |
+| 19/11/2026 | Bổ sung VLU 123–135. Ra mắt app luyện thi và bài mẫu 5–6 điểm cho VLU 90–135. |
 
 ---
 

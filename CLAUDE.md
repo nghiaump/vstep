@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-VSTEP (B1–B2) self-study kit: 46 Van Lang University exams (VLU 90–135) from vstepowl.com, a practice web app (public at https://vstep.pentium.ink), and model answers at band 5–6.
+VSTEP (B1–B2) self-study kit: 86 Van Lang University exams (VLU 50–135) from vstepowl.com, a practice web app (public at https://vstep.pentium.ink), and model answers at band 5–6.
 
 The owner is Vietnamese. **Write UI text, docs and explanations in Vietnamese. Write model answers in English.**
 
@@ -48,7 +48,7 @@ npm run build        # tsc -b && vite build
 
 # model answers (run inside tools/solutions/)
 python3 check.py [-q] [N|id ...]   # validator; must report 0 errors for every exam
-python3 verify_prompts.py          # prompts in the .md must match the sources verbatim (46/46)
+python3 verify_prompts.py          # prompts in the .md must match the sources verbatim (86/86)
 python3 build.py [N|id ...]        # render .md + index + KHUNG-MAU.md
 python3 audit.py                   # before/after metrics, answers-v1 vs answers
 node export_pdf.mjs http://localhost:4173/   # per-exam PDFs + combined; preview must be running
