@@ -75,11 +75,11 @@ describe('highlights', () => {
 });
 
 describe('synced data', () => {
-  it('covers VLU 90–135: 30 reading, 46 writing, 46 speaking exams', () => {
-    expect(R).toHaveLength(30);
-    expect(writing.filter((e) => !e.custom)).toHaveLength(46);
-    expect(S).toHaveLength(46);
-    expect(S.map((e) => e.number).sort((a, b) => a - b)).toEqual(Array.from({ length: 46 }, (_, i) => 90 + i));
+  it('covers VLU 50–135: 54 reading, 86 writing, 86 speaking exams', () => {
+    expect(R).toHaveLength(54);
+    expect(writing.filter((e) => !e.custom)).toHaveLength(86);
+    expect(S).toHaveLength(86);
+    expect(S.map((e) => e.number).sort((a, b) => a - b)).toEqual(Array.from({ length: 86 }, (_, i) => 50 + i));
   });
   it('speaking guides come from the PDF export for every exam', () => {
     for (const s of S) expect(s.guides.filter((g) => g.length > 200)).toHaveLength(3);
@@ -119,8 +119,8 @@ import type { Solution } from '../src/lib/solutions';
 
 describe('model answers', () => {
   const SOL = solutions as unknown as Solution[];
-  it('every exam VLU 90–135 has a model answer', () => {
-    expect(SOL.filter((s) => !s.custom).map((s) => s.number).sort((a, b) => a - b)).toEqual(Array.from({ length: 46 }, (_, i) => 90 + i));
+  it('every exam VLU 50–135 has a model answer', () => {
+    expect(SOL.filter((s) => !s.custom).map((s) => s.number).sort((a, b) => a - b)).toEqual(Array.from({ length: 86 }, (_, i) => 50 + i));
   });
   it('every W2 answer names a known essay template, and every template exists', async () => {
     const { templateByKey, w2TemplateKey } = await import('../src/lib/templates');

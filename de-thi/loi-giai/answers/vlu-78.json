@@ -1,0 +1,289 @@
+{
+ "id": "vlu-78",
+ "writing": {
+  "1": {
+   "template": "w1_formal",
+   "outline": [
+    {
+     "section": "Lời chào",
+     "content": "Không biết tên người nhận → Dear Sir or Madam",
+     "reusable": "Dear Sir or Madam,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Nêu mục đích viết thư",
+     "reusable": "I am writing in response to your email about my application for the Assistant position."
+    },
+    {
+     "section": "Ý 1: kinh nghiệm liên quan",
+     "content": "2 năm làm trợ lý nghiên cứu ở trường đại học → tổ chức họp, viết báo cáo, quản lý dữ liệu → học y nên hỗ trợ bác sĩ dùng AI",
+     "reusable": "Concerning my work experience, I have worked as a research assistant at a university in Ho Chi Minh City for two years."
+    },
+    {
+     "section": "Ý 2: mức lương mong muốn",
+     "content": "Khoảng 15 triệu đồng/tháng → hợp lý với kinh nghiệm → sẵn sàng trao đổi khi phỏng vấn",
+     "reusable": "With regard to salary, I would expect around 15 million dong per month."
+    },
+    {
+     "section": "Ý 3: khi nào bắt đầu",
+     "content": "Thứ Hai, 4/1 → cần 1 tháng hoàn thành dự án hiện tại → có thể phỏng vấn sáng các ngày trong tuần",
+     "reusable": "Regarding my start date, I can start working on Monday, 4 January."
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Câu kết cố định, Dear Sir or Madam → Yours faithfully",
+     "reusable": "If you require any further information, please do not hesitate to contact me. I look forward to hearing from you. … Yours faithfully,"
+    }
+   ],
+   "answer": "Dear Sir or Madam,\n\nI am writing in response to your email about my application for the Assistant position.\n\nConcerning my work experience, I have worked as a research assistant at a university in Ho Chi Minh City for two years. My main tasks are organising meetings, writing reports and managing data. Because I studied medicine, I also help doctors use our new AI tools. This job has taught me to work carefully and finish tasks on time.\n\nWith regard to salary, I would expect around 15 million dong per month. I believe this is a fair amount for my experience and skills. However, I am happy to discuss it at the interview.\n\nRegarding my start date, I can start working on Monday, 4 January. This is because I need one month to finish my current project at the university. I am also available for an interview at your office on any weekday morning.\n\nIf you require any further information, please do not hesitate to contact me. I look forward to hearing from you.\n\nYours faithfully,\nNguyen Minh",
+   "vocab": [
+    {
+     "term": "research assistant",
+     "meaning": "trợ lý nghiên cứu"
+    },
+    {
+     "term": "manage data",
+     "meaning": "quản lý dữ liệu"
+    },
+    {
+     "term": "a fair amount",
+     "meaning": "một mức hợp lý"
+    },
+    {
+     "term": "start date",
+     "meaning": "ngày bắt đầu làm việc"
+    },
+    {
+     "term": "be available for an interview",
+     "meaning": "có thể tham gia phỏng vấn"
+    }
+   ]
+  },
+  "2": {
+   "essay_type": "Effects & solutions (phân tích ảnh hưởng tới giáo viên và đề xuất giải pháp)",
+   "type_key": "x_solution",
+   "outline": [
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (phụ huynh than phiền chuyện trường trên Facebook, chỉ kể một phía, gây áp lực cho giáo viên) + câu dẫn",
+     "reusable": "This essay will discuss the main problems of this issue and suggest some solutions."
+    },
+    {
+     "section": "Thân bài 1 · Ảnh hưởng 1: căng thẳng, mất uy tín",
+     "content": "P: giáo viên căng thẳng, mất danh tiếng → E: bài đăng lan nhanh, người khác phán xét khi chưa biết đủ → Ex: phụ huynh viết cô giáo bất công dù con vi phạm nội quy → R: bị bình luận gay gắt, sợ đi làm",
+     "reusable": "There are two main problems of this trend for teachers. Firstly, teachers feel great stress and may lose their good name."
+    },
+    {
+     "section": "Thân bài 1 · Ảnh hưởng 2: mất niềm tin",
+     "content": "P: niềm tin giáo viên – phụ huynh bị tổn hại → E: giáo viên dè dặt, không góp ý thật → Ex: không báo hành vi xấu của học sinh vì sợ bị tấn công online → R: vấn đề không được giải quyết, học sinh chịu thiệt",
+     "reusable": "Secondly, trust between teachers and parents is damaged."
+    },
+    {
+     "section": "Thân bài 2 · Giải pháp 1",
+     "content": "Ai: nhà trường → nhóm online chính thức, trả lời trong 1 ngày → Ex: họp phụ huynh hằng tháng, nói chuyện trực tiếp",
+     "reusable": "However, there are some ways to solve this problem. Firstly, schools should create clear and fast ways for parents to contact teachers."
+    },
+    {
+     "section": "Thân bài 2 · Giải pháp 2",
+     "content": "Ai: phụ huynh (+ trường tổ chức hội thảo) → nói với giáo viên trước khi đăng → Ex: hội thảo giải thích một bài đăng có thể hại sự nghiệp giáo viên → R: giải quyết bình tĩnh, hợp tác",
+     "reusable": "Secondly, parents should talk to teachers directly before they post anything online."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Tóm tắt 2 ảnh hưởng + 2 giải pháp",
+     "reusable": "In conclusion, one-sided posts by parents put teachers under great stress and damage trust between home and school."
+    }
+   ],
+   "answer": "Today, some parents complain about school problems on Facebook instead of talking to teachers first. These posts often tell only one side of the story, and they put great stress on teachers. This essay will discuss the main problems of this issue and suggest some solutions.\n\nThere are two main problems of this trend for teachers. Firstly, teachers feel great stress and may lose their good name. A one-sided post spreads quickly, and people judge the teacher without knowing the full story. For example, a parent may write that a teacher was unfair, although the child had broken a class rule. As a result, the teacher may receive angry comments and feel afraid to go to work. Secondly, trust between teachers and parents is damaged. Teachers become very careful, so they avoid giving honest feedback about students. For instance, a teacher may stop telling parents about a child's bad behaviour because she fears online attacks. Therefore, problems stay unsolved, and students suffer.\n\nHowever, there are some ways to solve this problem. Firstly, schools should create clear and fast ways for parents to contact teachers. They can set up an official online group where teachers reply within a day. A good example is a monthly parent-teacher meeting where both sides can discuss problems face to face. Secondly, parents should talk to teachers directly before they post anything online. Schools can run short workshops to show parents how to use social media responsibly. For example, a workshop can explain how one angry post may hurt a teacher's career. Thanks to this, both sides can solve problems calmly.\n\nIn conclusion, one-sided posts by parents put teachers under great stress and damage trust between home and school. However, this can be reduced if schools offer better communication channels and parents talk to teachers first.",
+   "vocab": [
+    {
+     "term": "one side of the story",
+     "meaning": "một phía của câu chuyện"
+    },
+    {
+     "term": "lose their good name",
+     "meaning": "mất danh tiếng"
+    },
+    {
+     "term": "honest feedback",
+     "meaning": "nhận xét thẳng thắn"
+    },
+    {
+     "term": "parent-teacher meeting",
+     "meaning": "buổi họp phụ huynh"
+    },
+    {
+     "term": "responsibly",
+     "meaning": "một cách có trách nhiệm"
+    }
+   ]
+  }
+ },
+ "speaking": {
+  "1": {
+   "answers": [
+    "When I was at school, my favourite subject was biology. This is because I was curious about how the human body works. That interest later led me to study medicine at university.",
+    "I prefer studying with friends. The main reason is that we can explain difficult ideas to each other. For example, before exams at medical school, my friends and I often studied together in the library.",
+    "I prefer traditional face-to-face classes. This is because I can ask questions and get answers from the teacher immediately. For example, in my English course last year, I learned much more in class than in online lessons.",
+    "No, I do not go to the bank very often, maybe only twice a year. The main reason is that I can do most things on my phone. I only go there when I need to open a new account or update my documents.",
+    "Yes, banking services in Ho Chi Minh City are quite good. There are many banks and ATMs on almost every main street. The staff are usually friendly, and some banks are even open on Saturday mornings.",
+    "Yes, e-banking is very popular in my hometown. This is because it is fast, free and very convenient for busy people. For example, I pay for coffee, electricity bills and online shopping by scanning QR codes on my phone."
+   ],
+   "outline": [
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay, lặp lại từ khoá của câu hỏi",
+     "reusable": "When I was at school, my favourite subject was biology."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "This is because / The main reason is that …",
+     "reusable": "The main reason is that we can explain difficult ideas to each other."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân, thời gian, địa điểm",
+     "reusable": "For example, I pay for coffee, electricity bills and online shopping by scanning QR codes on my phone."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "be curious about",
+     "meaning": "tò mò về"
+    },
+    {
+     "term": "face-to-face classes",
+     "meaning": "lớp học trực tiếp"
+    },
+    {
+     "term": "open a new account",
+     "meaning": "mở tài khoản mới"
+    },
+    {
+     "term": "electricity bills",
+     "meaning": "hoá đơn tiền điện"
+    },
+    {
+     "term": "scan QR codes",
+     "meaning": "quét mã QR"
+    }
+   ]
+  },
+  "2": {
+   "choice": 3,
+   "answer": "In this situation, among the three options, I think organising educational activities for the child is the best choice. I choose it for two main reasons.\n\nThe first reason is that educational activities help the child learn while having fun. By that, I mean children can learn new things through games, stories and simple experiments. For example, I could read a picture book about animals with my nephew and then ask him to draw his favourite one.\n\nAnother reason is that these activities are safe and cheap. In other words, I can do them at home or in a park nearby without spending much money. For instance, we could plant some flowers together on the balcony or build a model car with old boxes. My sister would also be happy that her son spent the day in a useful way.\n\nThere are also some reasons why I do not choose the other two options. Regarding taking the child to a game centre, I do not think it is the best choice because it is noisy, expensive and bad for his eyes. As for letting the child stay indoors, I do not think it is the best option either because he may get bored and watch TV all day.\n\nTo sum up, out of these three options, I believe organising educational activities is the best choice because it is useful, safe and fun.",
+   "outline": [
+    {
+     "section": "Chọn",
+     "content": "Câu khung + tổ chức hoạt động giáo dục",
+     "reusable": "In this situation, among the three options, I think organising educational activities for the child is the best choice. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Vừa học vừa chơi → By that, I mean … trò chơi, truyện, thí nghiệm → For example: đọc sách tranh động vật rồi vẽ",
+     "reusable": "The first reason is that educational activities help the child learn while having fun. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "An toàn, rẻ → In other words … ở nhà hoặc công viên → For instance: trồng hoa ngoài ban công, làm ô tô bằng hộp cũ",
+     "reusable": "Another reason is that these activities are safe and cheap. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "Trung tâm trò chơi: ồn, đắt, hại mắt; ở trong nhà: chán, xem TV cả ngày",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding taking the child to a game centre, I do not think it is the best choice because … As for letting the child stay indoors, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe organising educational activities is the best choice because it is useful, safe and fun."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "educational activities",
+     "meaning": "hoạt động mang tính giáo dục"
+    },
+    {
+     "term": "simple experiments",
+     "meaning": "thí nghiệm đơn giản"
+    },
+    {
+     "term": "picture book",
+     "meaning": "sách tranh"
+    },
+    {
+     "term": "game centre",
+     "meaning": "trung tâm trò chơi"
+    },
+    {
+     "term": "get bored",
+     "meaning": "thấy chán"
+    }
+   ]
+  },
+  "3": {
+   "answer": "Today I would like to talk about the advantages of hiring housemaids. In my opinion, a housemaid can make life much easier for busy families.\n\nFirstly, a housemaid can keep the house cleaner and tidier. She has time to clean every room, wash the clothes and take out the rubbish every day. For example, my aunt works long hours, but her house always looks neat because her housemaid cleans it carefully.\n\nSecondly, people have more opportunities to socialise. Instead of doing housework all weekend, they can meet friends and visit relatives. For instance, since my cousin hired a housemaid, she has joined a book club and meets her friends every Sunday.\n\nThirdly, people have more time to relax after work. They can read, exercise or simply rest, so they feel less stressed. A good example is my colleague, who now goes swimming in the evening instead of cooking and washing dishes.\n\nAnother important point is that a housemaid can help to look after children and elderly people. Many young parents are very busy, and their own parents may need care at home. For example, my neighbour's housemaid takes her son to school and reminds her grandmother to take her medicine.\n\nTo sum up, hiring a housemaid has many benefits because of a cleaner home, a better social life, more free time and extra care.",
+   "own_idea": "Looking after children and elderly people",
+   "follow_ups": [
+    "I would consider three main factors: honesty, experience and cost. The main reason is that a housemaid will work in my home every day. For example, I would choose someone recommended by my friends, and I would ask whether she has cared for children or elderly people before.",
+    "Yes, I think both men and women work as housemaids nowadays, but most of them are still women. The main reason is that many people think housework is a woman's job. However, some men now work as cleaners or cooks for families, and their clients are happy with their work.",
+    "Yes, I would choose it for a short time. The main reason is that it is honest work, and it can give me a stable income. For example, I could work as a housemaid in the morning and look for a research job in the afternoon."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the advantages of hiring housemaids. In my opinion, a housemaid can make life much easier for busy families."
+    },
+    {
+     "section": "Ý 1: nhà sạch, gọn hơn",
+     "content": "Ý → dọn phòng, giặt đồ, đổ rác mỗi ngày → ví dụ nhà dì luôn gọn gàng",
+     "reusable": "Firstly, a housemaid can keep the house cleaner and tidier."
+    },
+    {
+     "section": "Ý 2: nhiều cơ hội giao lưu",
+     "content": "Ý → không phải làm việc nhà cả cuối tuần → ví dụ chị họ tham gia câu lạc bộ sách",
+     "reusable": "Secondly, people have more opportunities to socialise."
+    },
+    {
+     "section": "Ý 3: nhiều thời gian nghỉ ngơi",
+     "content": "Ý → đọc sách, tập thể dục, đỡ căng thẳng → ví dụ đồng nghiệp đi bơi buổi tối",
+     "reusable": "Thirdly, people have more time to relax after work."
+    },
+    {
+     "section": "Ý riêng: chăm trẻ và người già",
+     "content": "Ý → bố mẹ trẻ bận, ông bà cần chăm sóc → ví dụ người giúp việc đưa con hàng xóm đi học, nhắc bà uống thuốc",
+     "reusable": "Another important point is that a housemaid can help to look after children and elderly people."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt 4 lợi ích",
+     "reusable": "To sum up, hiring a housemaid has many benefits because of a cleaner home, a better social life, more free time and extra care."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "housemaid",
+     "meaning": "người giúp việc nhà"
+    },
+    {
+     "term": "socialise",
+     "meaning": "giao lưu, gặp gỡ mọi người"
+    },
+    {
+     "term": "look after",
+     "meaning": "chăm sóc"
+    },
+    {
+     "term": "elderly people",
+     "meaning": "người cao tuổi"
+    },
+    {
+     "term": "stable income",
+     "meaning": "thu nhập ổn định"
+    }
+   ]
+  }
+ }
+}

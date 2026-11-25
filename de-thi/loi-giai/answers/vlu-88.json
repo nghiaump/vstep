@@ -1,0 +1,289 @@
+{
+ "id": "vlu-88",
+ "writing": {
+  "1": {
+   "template": "w1_informal",
+   "answer": "Hi Harry,\n\nThank you for your email and for thinking of me. Your plan for the weekend sounds really exciting.\n\nRegarding the dance competition, I would love to come and watch it with you. I have never seen a live dance competition before, so I am really looking forward to it. Shall we meet at the main entrance of the theatre at 6:30 p.m. on Saturday?\n\nAs for afterwards, how about having dinner at a street food area near the theatre? We could try some grilled seafood and talk about our favourite dancers. Then we could walk along the river and enjoy the cool evening air.\n\nAbout Sunday, I am free, and a river trip sounds wonderful. I usually go swimming on Sunday mornings, so an afternoon trip would suit me better. We could take the Saigon Waterbus from Bach Dang Pier at 3 p.m. and watch the sunset on the way back.\n\nI am looking forward to seeing you soon.\n\nBest wishes,\nMinh",
+   "outline": [
+    {
+     "section": "Lời chào",
+     "content": "Chào thân mật theo tên",
+     "reusable": "Hi Harry,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Cảm ơn thư và lời mời",
+     "reusable": "Thank you for your email and for thinking of me."
+    },
+    {
+     "section": "Ý 1: có đi xem không",
+     "content": "Đồng ý → chưa xem trực tiếp bao giờ → hẹn 6:30 tối thứ Bảy ở cổng chính nhà hát",
+     "reusable": "Regarding the dance competition, I would love to come and watch it with you."
+    },
+    {
+     "section": "Ý 2: sau đó làm gì",
+     "content": "Ăn tối khu ẩm thực đường phố gần nhà hát → hải sản nướng → dạo bờ sông",
+     "reusable": "As for afterwards, how about having dinner at a street food area near the theatre?"
+    },
+    {
+     "section": "Ý 3: Chủ nhật đi sông",
+     "content": "Rảnh, đồng ý → sáng đi bơi nên chọn buổi chiều → buýt đường sông từ bến Bạch Đằng lúc 3 giờ chiều",
+     "reusable": "About Sunday, I am free, and a river trip sounds wonderful."
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Câu kết, chào cuối thư",
+     "reusable": "I am looking forward to seeing you soon. … Best wishes,"
+    }
+   ],
+   "vocab": [
+    {
+     "term": "main entrance",
+     "meaning": "cổng chính"
+    },
+    {
+     "term": "street food",
+     "meaning": "đồ ăn đường phố"
+    },
+    {
+     "term": "grilled seafood",
+     "meaning": "hải sản nướng"
+    },
+    {
+     "term": "suit me better",
+     "meaning": "hợp với mình hơn"
+    },
+    {
+     "term": "sunset",
+     "meaning": "hoàng hôn"
+    }
+   ]
+  },
+  "2": {
+   "essay_type": "Causes & effects (nguyên nhân và ảnh hưởng)",
+   "type_key": "cause_effect",
+   "answer": "In recent years, the Earth has become warmer, and storms, floods and heatwaves have become more common in many parts of the world. Scientists and governments are now very worried about this problem. This essay will discuss the main causes of this trend and its effects.\n\nThere are two main causes of climate change. Firstly, people burn a lot of fossil fuels such as coal, oil and gas. Power plants, factories and vehicles release carbon dioxide, which traps heat in the air. For example, millions of motorbikes and cars in big cities produce exhaust fumes every day. Secondly, many forests are being cut down for farmland and new buildings. This is because people need more land for food and housing. For instance, large areas of forest in the Central Highlands have been cleared to grow coffee and other crops. As a result, there are fewer trees to absorb carbon dioxide.\n\nThis trend has two serious effects. The first effect is that extreme weather happens more often. Storms and floods destroy houses, roads and crops. A good example is the Mekong Delta, where long droughts and rising sea levels bring salt water into rice fields. Many farmers there have lost part of their harvest. Another effect is that climate change harms people's health. Long heatwaves can cause heatstroke, especially in old people and young children. For example, hospitals often receive more patients with heat-related illnesses during very hot summers. Therefore, doctors and nurses face more pressure.\n\nIn conclusion, climate change is mainly caused by burning fossil fuels and cutting down forests. It leads to more extreme weather and serious health problems. Therefore, governments and individuals must act now to protect our planet.",
+   "outline": [
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (Trái Đất nóng lên, bão lũ, nắng nóng nhiều hơn) + câu dẫn",
+     "reusable": "This essay will discuss the main causes of this trend and its effects."
+    },
+    {
+     "section": "Thân bài 1 · nguyên nhân 1",
+     "content": "P: đốt nhiên liệu hoá thạch → E: nhà máy, xe cộ thải CO2 giữ nhiệt → Ex: hàng triệu xe máy, ô tô ở thành phố lớn",
+     "reusable": "There are two main causes of climate change. Firstly, …"
+    },
+    {
+     "section": "Thân bài 1 · nguyên nhân 2",
+     "content": "P: phá rừng → E: cần đất trồng trọt, xây nhà → Ex: rừng Tây Nguyên bị chặt để trồng cà phê → R: ít cây hấp thụ CO2",
+     "reusable": "Secondly, many forests are being cut down for farmland and new buildings."
+    },
+    {
+     "section": "Thân bài 2 · ảnh hưởng 1",
+     "content": "P: thời tiết cực đoan → E: bão lũ phá nhà, đường, mùa màng → Ex: Đồng bằng sông Cửu Long hạn hán, xâm nhập mặn",
+     "reusable": "This trend has two serious effects. The first effect is that extreme weather happens more often."
+    },
+    {
+     "section": "Thân bài 2 · ảnh hưởng 2",
+     "content": "P: hại sức khoẻ → E: nắng nóng gây say nắng → Ex: bệnh viện đông bệnh nhân mùa nóng → R: áp lực cho y bác sĩ",
+     "reusable": "Another effect is that climate change harms people's health."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Tóm tắt 2 nguyên nhân + 2 ảnh hưởng + lời kêu gọi",
+     "reusable": "In conclusion, climate change is mainly caused by burning fossil fuels and cutting down forests."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "fossil fuels",
+     "meaning": "nhiên liệu hoá thạch"
+    },
+    {
+     "term": "exhaust fumes",
+     "meaning": "khói thải xe cộ"
+    },
+    {
+     "term": "absorb carbon dioxide",
+     "meaning": "hấp thụ khí CO2"
+    },
+    {
+     "term": "extreme weather",
+     "meaning": "thời tiết cực đoan"
+    },
+    {
+     "term": "heatstroke",
+     "meaning": "say nắng, sốc nhiệt"
+    }
+   ]
+  }
+ },
+ "speaking": {
+  "1": {
+   "answers": [
+    "Yes, I do. I enjoy playing sports more than watching them. I go swimming every weekend, and I sometimes play badminton with my colleagues after work.",
+    "I swim most often, usually every Saturday morning. It keeps me fit and helps me forget about work stress. I also follow Vietnamese football, especially when the national team plays.",
+    "Yes, I think it is very important. Regular exercise keeps young people's bodies strong and their minds healthy. As someone who studied medicine, I know that exercise can reduce stress and help students sleep better.",
+    "Yes, I do, but mostly at weekends. On weekdays, I am too busy, so I often eat at the canteen at work. On Sundays, I enjoy cooking a big meal for my family.",
+    "I usually cook simple Vietnamese dishes at home. My favourite ones are braised fish, stir-fried vegetables and sour soup. They are healthy, cheap and quick to make.",
+    "Yes, I once tried cooking spaghetti, an Italian dish. I followed a recipe on YouTube step by step. It turned out quite well, but the sauce was a little too salty."
+   ],
+   "outline": [
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi",
+     "reusable": "I swim most often, usually every Saturday morning."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "Regular exercise keeps young people's bodies strong and their minds healthy."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn",
+     "reusable": "It turned out quite well, but the sauce was a little too salty."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "keeps me fit",
+     "meaning": "giúp mình giữ sức khoẻ, cân đối"
+    },
+    {
+     "term": "work stress",
+     "meaning": "căng thẳng trong công việc"
+    },
+    {
+     "term": "braised fish",
+     "meaning": "cá kho"
+    },
+    {
+     "term": "stir-fried vegetables",
+     "meaning": "rau xào"
+    },
+    {
+     "term": "turned out",
+     "meaning": "hoá ra, kết quả là"
+    }
+   ]
+  },
+  "2": {
+   "choice": 1,
+   "answer": "In this situation, among the three options, I think beef noodles, or pho bo, is the best choice. I choose it for two main reasons.\n\nThe first reason is that pho is the most famous dish of Hanoi. By that, I mean it is a symbol of Vietnamese food, and many foreigners know its name before they come. For example, my friend can try pho at an old family restaurant in the Old Quarter, which has served it for many years.\n\nAnother reason is that pho is delicious and healthy. In other words, it has a rich broth, soft noodles, tender beef and fresh herbs, but it is not too oily. For instance, my friend can have it for breakfast like local people, and it will give her energy for a long day of sightseeing.\n\nThere are also some reasons why I do not choose the other two options. Regarding fried rice, I do not think it is the best choice because it is common in many countries, so it is not special. As for spring rolls, I do not think it is the best option either because they are fried and quite oily, and people usually eat them as a side dish.\n\nTo sum up, out of these three options, I believe pho bo is the best choice because it is famous, tasty and healthy.",
+   "outline": [
+    {
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: phở bò",
+     "reusable": "In this situation, among the three options, I think beef noodles, or pho bo, is the best choice. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Món nổi tiếng nhất Hà Nội → By that, I mean … → For example: quán phở gia truyền ở phố cổ",
+     "reusable": "The first reason is that pho is the most famous dish of Hanoi. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "Ngon và lành → In other words … → For instance: ăn sáng như người địa phương, đủ sức đi tham quan",
+     "reusable": "Another reason is that pho is delicious and healthy. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "Cơm chiên: nước nào cũng có; nem rán: nhiều dầu, thường là món phụ",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding fried rice, I do not think it is the best choice because … As for spring rolls, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe pho bo is the best choice because it is famous, tasty and healthy."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "a symbol of",
+     "meaning": "biểu tượng của"
+    },
+    {
+     "term": "rich broth",
+     "meaning": "nước dùng đậm đà"
+    },
+    {
+     "term": "tender beef",
+     "meaning": "thịt bò mềm"
+    },
+    {
+     "term": "sightseeing",
+     "meaning": "tham quan"
+    },
+    {
+     "term": "side dish",
+     "meaning": "món phụ, món ăn kèm"
+    }
+   ]
+  },
+  "3": {
+   "own_idea": "Learning new things from other group members",
+   "answer": "Today I would like to talk about the benefits of travelling in a group. In my opinion, travelling with other people makes a trip cheaper, safer and more enjoyable.\n\nFirstly, group members can share costs such as accommodation and transportation. A big room or a private car is much cheaper when four or five people pay for it. For example, last year my friends and I rented a homestay in Da Lat, and each of us paid very little.\n\nSecondly, people feel safer and more secure during the trip. If someone gets lost or has a problem, other members can help immediately. For instance, when one of my friends lost her phone in Hoi An, we called the hotel and found it quickly.\n\nThirdly, group trips create shared memories and strengthen friendships. People spend whole days together, so they learn more about each other. A good example is my group of high school friends, who still share our old holiday photos in a group chat.\n\nAnother important point is that we can learn new things from other group members. Each person has different knowledge and skills. For example, one friend may know a lot about history, while another is good at finding local food.\n\nTo sum up, travelling in a group helps us save money, stay safe, build friendships and learn from each other.",
+   "follow_ups": [
+    "I prefer travelling in a group. The main reason is that I enjoy sharing new experiences with my friends. For example, eating local food together is more fun than eating alone. Group trips are also cheaper because we can share hotel rooms.",
+    "Some difficulties may arise when travelling with a large group. Members may disagree about the schedule, the food or the budget. For example, some people like to wake up early, while others want to sleep late. It is also hard to book tables for a big group.",
+    "Group members can avoid disagreements by planning together before the trip. They should agree on the budget and the main activities early. For example, one person can make a simple plan and share it in a group chat. Being flexible and patient also helps a lot."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the benefits of travelling in a group."
+    },
+    {
+     "section": "Ý 1: chia sẻ chi phí",
+     "content": "Ý → phòng lớn, xe riêng rẻ khi chia nhiều người → ví dụ thuê homestay ở Đà Lạt",
+     "reusable": "Firstly, group members can share costs such as accommodation and transportation."
+    },
+    {
+     "section": "Ý 2: an toàn hơn",
+     "content": "Ý → lạc hay gặp sự cố có người giúp → ví dụ bạn mất điện thoại ở Hội An",
+     "reusable": "Secondly, people feel safer and more secure during the trip."
+    },
+    {
+     "section": "Ý 3: kỷ niệm chung, tình bạn bền hơn",
+     "content": "Ý → ở cạnh nhau cả ngày, hiểu nhau hơn → ví dụ bạn cấp 3 vẫn chia sẻ ảnh cũ",
+     "reusable": "Thirdly, group trips create shared memories and strengthen friendships."
+    },
+    {
+     "section": "Ý riêng: học hỏi từ thành viên khác",
+     "content": "Ý → mỗi người một kiến thức, kỹ năng → ví dụ người giỏi lịch sử, người giỏi tìm quán ngon",
+     "reusable": "Another important point is that we can learn new things from other group members."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt 4 lợi ích",
+     "reusable": "To sum up, travelling in a group helps us save money, stay safe, build friendships and learn from each other."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "accommodation",
+     "meaning": "chỗ ở"
+    },
+    {
+     "term": "transportation",
+     "meaning": "phương tiện đi lại"
+    },
+    {
+     "term": "strengthen friendships",
+     "meaning": "thắt chặt tình bạn"
+    },
+    {
+     "term": "disagreements",
+     "meaning": "sự bất đồng"
+    },
+    {
+     "term": "flexible",
+     "meaning": "linh hoạt"
+    }
+   ]
+  }
+ }
+}

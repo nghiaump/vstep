@@ -1,0 +1,285 @@
+{
+ "id": "vlu-84",
+ "writing": {
+  "1": {
+   "template": "w1_informal",
+   "answer": "Hi Anna,\n\nThank you for your email. Please do not worry about the change of plan, and I am really glad that you arrived safely.\n\nRegarding food, I would like to take you to Ben Thanh Market. There are many small food stalls there, so you can try lots of Vietnamese dishes in one place. I think you will love the broken rice and the fresh spring rolls.\n\nAs for the evening, how about walking along Nguyen Hue Walking Street? It is very lively at night, with music, street performers and lots of young people. After that, we can have a drink at a rooftop coffee shop and enjoy the view of the city.\n\nAbout the time, I think 5 p.m. on Saturday is best because the weather is cooler then. How about meeting in front of the Opera House on Dong Khoi Street? It is easy to find, and it is close to both places. If this time does not suit you, just let me know.\n\nI am looking forward to seeing you soon.\n\nBest wishes,\nMinh",
+   "outline": [
+    {
+     "section": "Lời chào",
+     "content": "Chào thân mật theo tên",
+     "reusable": "Hi Anna,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Cảm ơn thư, không sao vì đổi lịch, mừng bạn đến nơi an toàn",
+     "reusable": "Please do not worry about the change of plan, and I am really glad that you arrived safely."
+    },
+    {
+     "section": "Ý 1: ăn ở đâu",
+     "content": "Chợ Bến Thành → nhiều quầy ăn, thử nhiều món → cơm tấm, gỏi cuốn",
+     "reusable": "Regarding food, I would like to take you to Ben Thanh Market."
+    },
+    {
+     "section": "Ý 2: buổi tối làm gì",
+     "content": "Dạo phố đi bộ Nguyễn Huệ → nhạc, biểu diễn đường phố → cà phê sân thượng ngắm thành phố",
+     "reusable": "As for the evening, how about walking along Nguyen Hue Walking Street?"
+    },
+    {
+     "section": "Ý 3: mấy giờ gặp",
+     "content": "5 giờ chiều thứ Bảy (trời mát) → trước Nhà hát Thành phố, đường Đồng Khởi → gần cả hai nơi",
+     "reusable": "About the time, I think 5 p.m. on Saturday is best because the weather is cooler then."
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Câu kết, chào cuối thư",
+     "reusable": "I am looking forward to seeing you soon. … Best wishes,"
+    }
+   ],
+   "vocab": [
+    {
+     "term": "change of plan",
+     "meaning": "sự thay đổi kế hoạch"
+    },
+    {
+     "term": "food stalls",
+     "meaning": "quầy hàng ăn"
+    },
+    {
+     "term": "lively",
+     "meaning": "sôi động, nhộn nhịp"
+    },
+    {
+     "term": "street performers",
+     "meaning": "nghệ sĩ biểu diễn đường phố"
+    },
+    {
+     "term": "suit",
+     "meaning": "phù hợp, tiện cho ai"
+    }
+   ]
+  },
+  "2": {
+   "essay_type": "Causes & effects (nguyên nhân và ảnh hưởng)",
+   "type_key": "cause_effect",
+   "answer": "In recent years, many people around the world have continued to smoke, although they know that cigarettes are bad for them. This habit is still a serious problem for public health. This essay will discuss the main causes of this trend and its effects.\n\nThere are two main causes of smoking. Firstly, the nicotine in cigarettes is very addictive. Once people start smoking, it is very hard for them to stop. For example, many patients I met during my medical training wanted to quit, but they started again after a few weeks. Secondly, social pressure plays a big role. This is because smoking is often seen as a way to relax and make friends. For instance, young men may start smoking because their friends or colleagues offer them cigarettes at parties. They worry that saying no will seem unfriendly.\n\nThis trend has two serious effects. The first effect is that smoking causes many dangerous diseases. Smokers have a much higher risk of lung cancer, heart disease and stroke. A good example is a long-term smoker who often coughs and feels tired after climbing the stairs. Many of these diseases are difficult and expensive to treat. Another effect is that smoking harms the people around smokers. Family members breathe in the smoke at home, even if they do not smoke themselves. For example, children of smokers often suffer from more coughs and asthma. As a result, families have to spend more money on medical care.\n\nIn conclusion, smoking is mainly caused by addiction to nicotine and social pressure. It leads to serious diseases for smokers and health problems for the people around them. Therefore, governments and families should work together to help smokers quit.",
+   "outline": [
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (nhiều người vẫn hút dù biết hại) + câu dẫn",
+     "reusable": "This essay will discuss the main causes of this trend and its effects."
+    },
+    {
+     "section": "Thân bài 1 · nguyên nhân 1",
+     "content": "P: nicotine gây nghiện → E: đã hút thì khó bỏ → Ex: bệnh nhân bỏ được vài tuần rồi hút lại",
+     "reusable": "There are two main causes of smoking. Firstly, the nicotine in cigarettes is very addictive."
+    },
+    {
+     "section": "Thân bài 1 · nguyên nhân 2",
+     "content": "P: áp lực xã hội → E: hút thuốc để thư giãn, kết bạn → Ex: bạn bè, đồng nghiệp mời thuốc ở tiệc",
+     "reusable": "Secondly, social pressure plays a big role."
+    },
+    {
+     "section": "Thân bài 2 · ảnh hưởng 1",
+     "content": "P: gây bệnh nguy hiểm → E: ung thư phổi, tim mạch, đột quỵ → Ex: người hút lâu năm ho, mệt khi leo cầu thang",
+     "reusable": "This trend has two serious effects. The first effect is that smoking causes many dangerous diseases."
+    },
+    {
+     "section": "Thân bài 2 · ảnh hưởng 2",
+     "content": "P: hại người xung quanh → E: hít khói thuốc ở nhà → Ex: con của người hút hay ho, hen suyễn → R: tốn tiền chữa bệnh",
+     "reusable": "Another effect is that smoking harms the people around smokers."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Tóm tắt 2 nguyên nhân + 2 ảnh hưởng + lời kêu gọi",
+     "reusable": "In conclusion, smoking is mainly caused by addiction to nicotine and social pressure."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "addictive",
+     "meaning": "gây nghiện"
+    },
+    {
+     "term": "quit",
+     "meaning": "bỏ (thuốc lá)"
+    },
+    {
+     "term": "social pressure",
+     "meaning": "áp lực xã hội"
+    },
+    {
+     "term": "lung cancer",
+     "meaning": "ung thư phổi"
+    },
+    {
+     "term": "breathe in",
+     "meaning": "hít vào"
+    }
+   ]
+  }
+ },
+ "speaking": {
+  "1": {
+   "answers": [
+    "Yes, I do. Reading is one of my favourite hobbies, and it helps me relax after work. I usually read for about thirty minutes before I go to bed, often with a cup of tea.",
+    "I usually read books about science and health. This is because I studied medicine and now work on AI tools for doctors. I also enjoy novels, especially stories about family life.",
+    "Yes, I think reading books is still very important. Books give us deep knowledge, while short videos online are often too simple. Reading also helps us focus for a long time, which many people find difficult today.",
+    "Yes, I do. I opened my first bank account when I was a university student, so my parents could send me money. Now I use an account at a big bank near my office.",
+    "I mainly use my bank account to receive my salary and pay bills. I also use it to transfer money and pay by QR code. For example, I pay for my coffee and my electricity bill with my phone.",
+    "Yes, I think it is very important. A bank account helps young people learn how to manage their money. For example, they can save a small amount every month and watch their savings grow."
+   ],
+   "outline": [
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay câu hỏi",
+     "reusable": "Yes, I do. Reading is one of my favourite hobbies."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "A bank account helps young people learn how to manage their money."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn",
+     "reusable": "For example, I pay for my coffee and my electricity bill with my phone."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "deep knowledge",
+     "meaning": "kiến thức sâu"
+    },
+    {
+     "term": "receive my salary",
+     "meaning": "nhận lương"
+    },
+    {
+     "term": "transfer money",
+     "meaning": "chuyển tiền"
+    },
+    {
+     "term": "pay bills",
+     "meaning": "thanh toán hoá đơn"
+    },
+    {
+     "term": "manage their money",
+     "meaning": "quản lý tiền bạc"
+    }
+   ]
+  },
+  "2": {
+   "choice": 2,
+   "answer": "In this situation, among the three options, I think going to talk to the neighbour directly is the best choice. I choose it for two main reasons.\n\nThe first reason is that the neighbour may not know about the problem. By that, I mean many people do not realise how loud they are. For example, they may play music or watch TV late at night without thinking about the people next door. If I explain the problem politely, they will probably try to be quieter.\n\nAnother reason is that talking directly keeps a good relationship between us. In other words, we can solve the problem in a friendly way without anger. For instance, I could bring some fruit, introduce myself and ask them to keep the noise down after 10 p.m. This way, we can still help each other in the future.\n\nThere are also some reasons why I do not choose the other two options. Regarding moving to another place, I do not think it is the best choice because it is expensive and takes a lot of time. As for reporting the issue to the police, I do not think it is the best option either because it can make the neighbour angry and create a bigger conflict.\n\nTo sum up, out of these three options, I believe talking to the neighbour directly is the best choice because it is simple, cheap and friendly.",
+   "outline": [
+    {
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: sang nói chuyện trực tiếp",
+     "reusable": "In this situation, among the three options, I think going to talk to the neighbour directly is the best choice. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Hàng xóm có thể không biết mình ồn → By that, I mean … → For example: mở nhạc, xem TV khuya",
+     "reusable": "The first reason is that the neighbour may not know about the problem. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "Giữ quan hệ tốt → In other words … → For instance: mang trái cây sang, nhờ giữ yên sau 10 giờ tối",
+     "reusable": "Another reason is that talking directly keeps a good relationship between us. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "Chuyển nhà: tốn tiền, mất thời gian; báo công an: làm hàng xóm giận, mâu thuẫn lớn hơn",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding moving to another place, I do not think it is the best choice because … As for reporting the issue to the police, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe talking to the neighbour directly is the best choice because it is simple, cheap and friendly."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "realise",
+     "meaning": "nhận ra"
+    },
+    {
+     "term": "politely",
+     "meaning": "một cách lịch sự"
+    },
+    {
+     "term": "keep the noise down",
+     "meaning": "giữ yên lặng, bớt ồn"
+    },
+    {
+     "term": "conflict",
+     "meaning": "mâu thuẫn, xung đột"
+    }
+   ]
+  },
+  "3": {
+   "own_idea": "Busy working lives",
+   "answer": "Today I would like to talk about the causes and effects of divorce in modern society. In my opinion, divorce is becoming more common, and it affects everyone in the family.\n\nFirstly, there are some common causes such as financial difficulties and a lack of communication. When couples worry about money, they often argue and stop listening to each other. For example, a husband and wife may fight about rent or loans, and then they stop talking for days.\n\nSecondly, divorce has strong effects on children's psychological development. Children may feel sad, lonely or even guilty. For instance, some children of divorced parents become very quiet at school and find it hard to trust people.\n\nThirdly, divorce affects the individuals involved, both emotionally and financially. Many people feel stressed and lonely after a divorce. For example, a divorced mother may have to pay rent and raise her children on one income.\n\nAnother important point is that busy working lives can also lead to divorce. When both partners work long hours, they have little time for each other. A good example is a couple who only meet late at night and slowly feel like strangers.\n\nTo sum up, divorce is caused by money problems, poor communication and busy working lives. It also hurts children and the couple themselves.",
+   "follow_ups": [
+    "Yes, I think divorce rates are increasing in modern society. The main reason is that many women are now more independent and can support themselves. People also accept divorce more than in the past. For example, my grandparents' generation rarely talked about divorce, but it is common now.",
+    "Couples can reduce the risk of divorce by talking openly and often. They should share their feelings before small problems become big ones. For example, they can have dinner together without phones every evening. Planning their money together also helps them avoid arguments.",
+    "No, I do not think so. The main reason is that children can feel the stress in an unhappy home. For example, children who hear their parents fight every day may feel more anxious. However, parents should still try their best before they decide to divorce."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the causes and effects of divorce in modern society."
+    },
+    {
+     "section": "Ý 1: nguyên nhân (tiền bạc, thiếu giao tiếp)",
+     "content": "Ý → lo tiền thì cãi nhau → ví dụ cãi về tiền nhà, khoản vay rồi không nói chuyện",
+     "reusable": "Firstly, there are some common causes such as financial difficulties and a lack of communication."
+    },
+    {
+     "section": "Ý 2: ảnh hưởng tâm lý trẻ em",
+     "content": "Ý → buồn, cô đơn, tự trách → ví dụ trẻ trầm lặng, khó tin người",
+     "reusable": "Secondly, divorce has strong effects on children's psychological development."
+    },
+    {
+     "section": "Ý 3: ảnh hưởng tới vợ chồng (tình cảm, tài chính)",
+     "content": "Ý → căng thẳng, cô đơn → ví dụ mẹ đơn thân trả tiền nhà, nuôi con bằng một nguồn thu nhập",
+     "reusable": "Thirdly, divorce affects the individuals involved, both emotionally and financially."
+    },
+    {
+     "section": "Ý riêng: công việc bận rộn",
+     "content": "Ý → ít thời gian cho nhau → ví dụ chỉ gặp nhau lúc khuya, dần như người lạ",
+     "reusable": "Another important point is that busy working lives can also lead to divorce."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt nguyên nhân + ảnh hưởng",
+     "reusable": "To sum up, divorce is caused by money problems, poor communication and busy working lives."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "financial difficulties",
+     "meaning": "khó khăn tài chính"
+    },
+    {
+     "term": "a lack of communication",
+     "meaning": "sự thiếu giao tiếp"
+    },
+    {
+     "term": "psychological development",
+     "meaning": "sự phát triển tâm lý"
+    },
+    {
+     "term": "guilty",
+     "meaning": "cảm thấy có lỗi"
+    },
+    {
+     "term": "independent",
+     "meaning": "độc lập"
+    }
+   ]
+  }
+ }
+}

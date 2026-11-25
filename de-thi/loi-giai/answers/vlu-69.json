@@ -1,0 +1,289 @@
+{
+ "id": "vlu-69",
+ "writing": {
+  "1": {
+   "template": "w1_formal",
+   "outline": [
+    {
+     "section": "Lời chào",
+     "content": "Thư trang trọng gửi John (đề cho tên) → Dear John",
+     "reusable": "Dear John,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Nêu mục đích viết thư: kế hoạch hội thảo về AI trong y tế",
+     "reusable": "I am writing in response to your email about our workshop on AI in health care."
+    },
+    {
+     "section": "Ý 1: nội dung và hoạt động",
+     "content": "AI hỗ trợ bác sĩ → sáng: 2 bài nói ngắn → chiều: thực hành công cụ AI, thảo luận nhóm",
+     "reusable": "Concerning the content, I think the workshop should show how AI can support doctors in their daily work."
+    },
+    {
+     "section": "Ý 2: làm một mình hay theo nhóm",
+     "content": "Thích làm nhóm → nhiều việc (phòng, diễn giả, tài liệu) → hẹn họp thứ Hai, 2 giờ chiều, phòng họp tầng 3",
+     "reusable": "With regard to the organisation, I prefer working as a team rather than alone."
+    },
+    {
+     "section": "Ý 3: diễn giả và ý tưởng khác",
+     "content": "Bác sĩ ở BV Chợ Rẫy dùng AI → kỹ sư công ty công nghệ → khảo sát online sau hội thảo",
+     "reusable": "Regarding guest speakers, I would suggest a senior doctor from Cho Ray Hospital who uses AI in her work."
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Câu kết cố định, biết tên → Yours sincerely",
+     "reusable": "If you require any further information, please do not hesitate to contact me. … Yours sincerely,"
+    }
+   ],
+   "answer": "Dear John,\n\nI am writing in response to your email about our workshop on AI in health care.\n\nConcerning the content, I think the workshop should show how AI can support doctors in their daily work. In the morning, we could have two short talks about real AI tools in hospitals. In the afternoon, medical students could try a simple AI program and discuss its benefits and risks in groups.\n\nWith regard to the organisation, I prefer working as a team rather than alone. There are many tasks, such as booking rooms, inviting speakers and preparing materials. Could we meet in the meeting room on the third floor at 2 p.m. on Monday to divide the tasks?\n\nRegarding guest speakers, I would suggest a senior doctor from Cho Ray Hospital who uses AI in her work. We could also invite an engineer from a technology company. Finally, I would be grateful if you could design a short online survey for students afterwards.\n\nIf you require any further information, please do not hesitate to contact me.\n\nYours sincerely,\nNguyen Minh",
+   "vocab": [
+    {
+     "term": "materials",
+     "meaning": "tài liệu"
+    },
+    {
+     "term": "benefits and risks",
+     "meaning": "lợi ích và rủi ro"
+    },
+    {
+     "term": "divide the tasks",
+     "meaning": "phân chia công việc"
+    },
+    {
+     "term": "guest speakers",
+     "meaning": "diễn giả khách mời"
+    },
+    {
+     "term": "survey",
+     "meaning": "bản khảo sát"
+    }
+   ]
+  },
+  "2": {
+   "essay_type": "Problems & solutions (ảnh hưởng/vấn đề và giải pháp)",
+   "type_key": "x_solution",
+   "outline": [
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (đồ ăn nhanh rẻ, phổ biến nhưng hại sức khoẻ) + câu dẫn",
+     "reusable": "This essay will discuss the main problems of this issue and suggest some solutions."
+    },
+    {
+     "section": "Thân bài 1 · ảnh hưởng 1",
+     "content": "Béo phì và bệnh nặng → nhiều mỡ, muối, đường, ít vitamin → Ex: suất combo nhiều calo → R: tiểu đường, bệnh tim",
+     "reusable": "Firstly, it can lead to obesity and serious diseases."
+    },
+    {
+     "section": "Thân bài 1 · ảnh hưởng 2",
+     "content": "Thói quen ăn uống xấu ở trẻ → bỏ rau, cơm nhà → Ex: trẻ đòi gà rán mỗi cuối tuần",
+     "reusable": "Secondly, fast food creates unhealthy eating habits, especially in children."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 1",
+     "content": "Chính phủ: bắt buộc ghi calo trên thực đơn, hạn chế quảng cáo trên chương trình thiếu nhi",
+     "reusable": "Firstly, governments should help people make healthier choices."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 2",
+     "content": "Trường học và phụ huynh: bữa trưa cân bằng, dạy đọc nhãn thực phẩm, nấu ăn cùng con → R: đồ ăn nhanh chỉ là món thỉnh thoảng",
+     "reusable": "Secondly, schools and parents should teach children how to eat well."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Tóm tắt ảnh hưởng + giải pháp",
+     "reusable": "In conclusion, eating too much fast food can cause obesity, diseases and bad eating habits."
+    }
+   ],
+   "answer": "In recent years, quick and cheap meals such as burgers and fried chicken have become part of daily life for many people. However, eating them too often can damage our health. This essay will discuss the main problems of this issue and suggest some solutions.\n\nThere are two main problems caused by eating too much fast food. Firstly, it can lead to obesity and serious diseases. Fast food usually contains a lot of fat, salt and sugar but few vitamins. For example, a large combo meal with a soft drink may have more calories than an adult needs for lunch and dinner together. As a result, regular customers have a higher risk of diabetes and heart disease. Secondly, fast food creates unhealthy eating habits, especially in children. This means that children who often eat fast food may refuse vegetables and home-cooked meals. For instance, some children cry for fried chicken every weekend and do not want to eat rice and fish at home.\n\nHowever, there are some ways to solve this problem. Firstly, governments should help people make healthier choices. They can require fast food restaurants to show clear calorie information on their menus. They can also limit fast food advertisements on children's TV programmes. Secondly, schools and parents should teach children how to eat well. A good example is a school that serves balanced lunches and teaches pupils to read food labels. Parents can also cook simple, healthy meals with their children at weekends. Thanks to this, children will learn to enjoy fast food only as an occasional treat.\n\nIn conclusion, eating too much fast food can cause obesity, diseases and bad eating habits. However, these problems can be reduced if governments give clear information and schools and parents teach children to eat healthily.",
+   "vocab": [
+    {
+     "term": "obesity",
+     "meaning": "bệnh béo phì"
+    },
+    {
+     "term": "calorie information",
+     "meaning": "thông tin lượng calo"
+    },
+    {
+     "term": "balanced lunches",
+     "meaning": "bữa trưa cân bằng dinh dưỡng"
+    },
+    {
+     "term": "food labels",
+     "meaning": "nhãn thực phẩm"
+    },
+    {
+     "term": "an occasional treat",
+     "meaning": "món ăn thỉnh thoảng mới dùng"
+    }
+   ]
+  }
+ },
+ "speaking": {
+  "1": {
+   "answers": [
+    "My favourite colour for decorating my room is light blue. I chose it for my bedroom walls last year. I also have some light blue cushions on my sofa.",
+    "I like light blue because it makes me feel calm and relaxed. It also makes a small room look bigger and brighter. After a long day at work, my blue bedroom helps me rest well.",
+    "When I decorate a place, I usually think about space, light and cost. I want the room to be bright and not too crowded. For example, I put a mirror opposite the window to make my living room brighter.",
+    "No, I do not often pay attention to advertisements. This is because I see too many of them on my phone every day. I usually skip video ads on YouTube after five seconds.",
+    "I like short and funny advertisements with a clear message. However, I dislike ads that appear suddenly while I am reading or watching a video. For example, pop-up ads on news websites really annoy me.",
+    "Advertisements can strongly influence what people buy. They show products in an attractive way and often offer discounts. For example, many young people buy a new skincare product after seeing a famous influencer use it."
+   ],
+   "outline": [
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay, lặp từ khoá câu hỏi",
+     "reusable": "My favourite colour for decorating my room is light blue."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "This is because I see too many of them on my phone every day."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn",
+     "reusable": "For example, I put a mirror opposite the window to make my living room brighter."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "cushions",
+     "meaning": "gối tựa"
+    },
+    {
+     "term": "calm and relaxed",
+     "meaning": "bình tĩnh và thư thái"
+    },
+    {
+     "term": "skip video ads",
+     "meaning": "bỏ qua quảng cáo video"
+    },
+    {
+     "term": "pop-up ads",
+     "meaning": "quảng cáo bật lên"
+    },
+    {
+     "term": "influencer",
+     "meaning": "người có sức ảnh hưởng trên mạng"
+    }
+   ]
+  },
+  "2": {
+   "choice": 1,
+   "answer": "In this situation, among the three options, I think going to a water park is the best choice for my family's day trip. I choose it for two main reasons.\n\nThe first reason is that a water park is suitable for every member of my family. By that, I mean there are activities for both adults and children. For example, my little nephew can play in the shallow pool, while my parents can relax in the lazy river.\n\nAnother reason is that it is a great way to stay cool and healthy. In other words, the weather in Ho Chi Minh City is very hot, so playing in the water is refreshing. For instance, my family and I love swimming, and we can spend the whole day in the pools and on the slides.\n\nThere are also some reasons why I do not choose the other two options. Regarding visiting an amusement park, I do not think it is the best choice because many rides are too scary for my parents. The tickets are also expensive, and people often wait in long queues. As for visiting a museum, I do not think it is the best option either because my nephew would get bored quickly. A museum is better for a short visit, not a whole family day.\n\nTo sum up, out of these three options, I believe going to a water park is the best choice because it is fun, healthy and suitable for everyone.",
+   "outline": [
+    {
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: công viên nước",
+     "reusable": "In this situation, among the three options, I think going to a water park is the best choice for my family's day trip. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Hợp mọi thành viên → By that, I mean … → For example: cháu chơi hồ cạn, bố mẹ thả trôi sông lười",
+     "reusable": "The first reason is that a water park is suitable for every member of my family. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "Mát và khoẻ → In other words … → For instance: cả nhà thích bơi, trượt máng",
+     "reusable": "Another reason is that it is a great way to stay cool and healthy. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "Công viên giải trí: trò chơi đáng sợ với bố mẹ, vé đắt, xếp hàng; bảo tàng: cháu chán nhanh",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding visiting an amusement park, I do not think it is the best choice because … As for visiting a museum, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe going to a water park is the best choice because it is fun, healthy and suitable for everyone."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "shallow pool",
+     "meaning": "hồ bơi cạn"
+    },
+    {
+     "term": "lazy river",
+     "meaning": "sông lười (dòng nước chảy chậm)"
+    },
+    {
+     "term": "refreshing",
+     "meaning": "sảng khoái, mát mẻ"
+    },
+    {
+     "term": "rides",
+     "meaning": "trò chơi cảm giác"
+    },
+    {
+     "term": "long queues",
+     "meaning": "hàng dài chờ đợi"
+    }
+   ]
+  },
+  "3": {
+   "answer": "Today I would like to talk about the disadvantages of living in an apartment. In my opinion, apartments are convenient, but they also have some serious problems.\n\nFirstly, the living space in apartments is often limited. Many apartments have only one or two small bedrooms, so big families feel crowded. For example, my friend's family of five lives in a small apartment, and his children have to share one room.\n\nSecondly, there are often problems related to neighbours. People live very close to each other, so noise can easily cause conflicts. For instance, my neighbour sometimes sings karaoke late at night, and I cannot sleep.\n\nThirdly, it is difficult to keep pets in apartments. Many buildings do not allow dogs, and there is no garden for pets to run around. A good example is my colleague, who had to give his dog to his parents after he moved into an apartment.\n\nAnother important point is that apartment owners have to pay monthly service fees. These fees pay for security, cleaning and lifts. For example, my friend pays a few hundred thousand dong every month, even when his family is away.\n\nTo sum up, living in an apartment has several disadvantages because of limited space, problems with neighbours, difficulties with pets and extra fees.",
+   "own_idea": "Apartment owners have to pay monthly service fees",
+   "follow_ups": [
+    "In Vietnam, many people still prefer living in houses, especially older people. They like having more space and their own land. However, more and more young people in big cities choose apartments. This is because apartments are cheaper and closer to their workplaces.",
+    "Living in an apartment also has many advantages. The biggest one is security, because most buildings have guards and cameras. In addition, many apartments have useful facilities. For example, my friend's building has a swimming pool, a gym and a small supermarket.",
+    "I think people need to plan early if they want to live in their dream places in fifty years. They should save money and choose cities with good jobs and clean environments. Governments should also build more affordable homes and green cities for the future."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the disadvantages of living in an apartment. In my opinion, apartments are convenient, but they also have some serious problems."
+    },
+    {
+     "section": "Ý 1: không gian hẹp",
+     "content": "Ít phòng ngủ → gia đình đông thấy chật → ví dụ nhà 5 người, con ở chung phòng",
+     "reusable": "Firstly, the living space in apartments is often limited."
+    },
+    {
+     "section": "Ý 2: vấn đề hàng xóm",
+     "content": "Sống sát nhau → tiếng ồn gây mâu thuẫn → ví dụ hát karaoke khuya",
+     "reusable": "Secondly, there are often problems related to neighbours."
+    },
+    {
+     "section": "Ý 3: khó nuôi thú cưng",
+     "content": "Nhiều toà nhà cấm chó, không có vườn → ví dụ đồng nghiệp gửi chó về bố mẹ",
+     "reusable": "Thirdly, it is difficult to keep pets in apartments."
+    },
+    {
+     "section": "Ý riêng: phí dịch vụ hằng tháng",
+     "content": "Trả cho bảo vệ, vệ sinh, thang máy → ví dụ vài trăm nghìn mỗi tháng",
+     "reusable": "Another important point is that apartment owners have to pay monthly service fees."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt các ý",
+     "reusable": "To sum up, living in an apartment has several disadvantages because"
+    }
+   ],
+   "vocab": [
+    {
+     "term": "limited living space",
+     "meaning": "không gian sống hạn chế"
+    },
+    {
+     "term": "cause conflicts",
+     "meaning": "gây mâu thuẫn"
+    },
+    {
+     "term": "service fees",
+     "meaning": "phí dịch vụ"
+    },
+    {
+     "term": "facilities",
+     "meaning": "tiện ích"
+    },
+    {
+     "term": "affordable homes",
+     "meaning": "nhà ở giá phải chăng"
+    }
+   ]
+  }
+ }
+}
