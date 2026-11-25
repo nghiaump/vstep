@@ -1,0 +1,717 @@
+{
+ "id": "vlu-57",
+ "number": 57,
+ "title": "Đề thi VLU 57",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-57",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Simple Habits for Keeping Your Brain Healthy",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Many people worry about their memory as they get older, but the brain is not a machine that simply wears out, and it can keep changing and adapting throughout life. Experts often describe this ability to adapt as plasticity, and they believe that it continues, to some degree, well into old age. Scientists say that daily choices can help the brain stay active and strong for many years. This passage describes four simple habits that need no expensive equipment.",
+     "The first habit is regular physical activity. Walking, cycling, and swimming raise your heart rate and send more blood to the brain, and several studies link an active lifestyle with a lower risk of dementia. Exercise may also improve mood and reduce stress, both of which are good for thinking and memory. However, the evidence is mixed, so doctors usually describe exercise as helpful rather than a guaranteed shield. Even a brisk 30-minute walk on most days is a **realistic** goal for many adults.",
+     "The second habit is to keep learning. Reading, playing games, learning a language, and doing a challenging job can all build what researchers call cognitive reserve, which means the brain can work well even when it is damaged. People with more years of education are reportedly less likely to show serious symptoms of dementia. Even simple tasks, such as learning ten new words a week or trying a new route to work, ask the brain to form fresh connections. Being social also seems to help, because talking to friends, volunteering, and joining clubs keep the mind busy and reduce loneliness.",
+     "The third habit is good sleep. Most adults need about seven to nine hours each night, and during deep sleep the brain is thought to sort memories and clear away waste. Keeping a **consistent** bedtime, a dark and quiet room, and less screen time in the evening can all improve the quality of rest. Many people also find that a short walk in daylight leaves people feeling more awake in the day and sleepy at night. Poor sleepers often find it harder to concentrate, and over time this may affect memory as well.",
+     "The final habit is a balanced diet. Vegetables, fruit, nuts, whole grains, and oily fish are often recommended, but experts warn people not to treat **them** as miracle cures. One review reportedly found that oily fish was the only food clearly linked to lower dementia risk, and the evidence for other foods was weaker. Finally, doctors advise people to drink little alcohol and to avoid smoking. Anyone whose memory problems begin to affect daily life should see a doctor soon. These small changes cost little, and together they give the brain the best chance to stay healthy."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Memory loss is certain for everyone and nothing can be done",
+       "B": "Simple daily habits can help keep the brain healthy as people age",
+       "C": "Expensive brain training games are the only way to stay sharp",
+       "D": "Doctors say that sleeping for ten hours each night cures dementia"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what do doctors say about exercise?",
+      "options": {
+       "A": "It can replace sleep and good food completely",
+       "B": "Walking harms the heart of most older adults",
+       "C": "Only young people should ever try any exercise",
+       "D": "It helps, but it cannot guarantee protection"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 về việc tập luyện thể chất (bằng chứng còn hỗn hợp nên bác sĩ mô tả tập luyện là hữu ích chứ không phải là chiếc khiên bảo vệ tuyệt đối - helps, but cannot guarantee protection)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"realistic\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "possible to achieve",
+       "B": "hard to explain",
+       "C": "easy to forget",
+       "D": "quick to finish"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"realistic\" ở đoạn 2 đi kèm với việc đi bộ nhanh 30 phút trong hầu hết các ngày là mục tiêu phù hợp với nhiều người trưởng thành, mang nghĩa có thể đạt được (possible to achieve)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what does cognitive reserve mean?",
+      "options": {
+       "A": "People need to spend a lot of money on brain games",
+       "B": "The size of the brain decides how quickly people think",
+       "C": "The brain can work well even when it is damaged",
+       "D": "Everyone is born with the same amount of mental ability"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét định nghĩa \"cognitive reserve\" ở đoạn 3 (bộ não có thể hoạt động tốt ngay cả khi bị tổn thương)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"consistent\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "new and unusual",
+       "B": "regular and steady",
+       "C": "slow and painful",
+       "D": "bright and noisy"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"consistent\" ở đoạn 4 đi kèm với việc duy trì giờ đi ngủ đều đặn mỗi đêm để cải thiện chất lượng nghỉ ngơi, mang nghĩa đều đặn và ổn định (regular and steady)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"them\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "the experts",
+       "B": "the people",
+       "C": "the cures",
+       "D": "the foods"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ \"them\" trong cụm \"...experts warn people not to treat *them* as miracle cures\" ở đoạn 5. Áp dụng quy tắc đối chiếu danh từ chỉ thực phẩm được khuyến nghị ngay trước đó (vegetables, fruit, nuts, whole grains, and oily fish) để thấy đây là từ thay thế cho các loại thực phẩm này (the foods)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what did one review reportedly find?",
+      "options": {
+       "A": "Fruit and nuts removed the risk of memory problems completely",
+       "B": "Whole grains protected most people better than any other food",
+       "C": "Only oily fish was clearly linked to lower risk",
+       "D": "Sweet snacks improved memory in nearly every person tested"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ vòng đánh giá \"one review\" ở đoạn 5 để xác định chỉ có cá béo (oily fish) là thực phẩm rõ ràng liên quan đến việc giảm nguy cơ sa sút trí tuệ."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to improve sleep?",
+      "options": {
+       "A": "Drinking strong coffee late at night",
+       "B": "Using screens less during the evening hours",
+       "C": "Keeping a regular bedtime on most nights",
+       "D": "Making the bedroom both dark and quiet"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 4 and 5 about brain health?",
+      "options": {
+       "A": "Brain health depends only on how many hours people sleep",
+       "B": "Older people should stop exercising to protect their memory better",
+       "C": "Doctors agree that one special food prevents every memory problem",
+       "D": "Several small habits together matter more than any single miracle food"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4 và 5 về việc không có một thực phẩm thần kỳ nào ngăn chặn hoàn toàn mọi vấn đề, thay vào đó nhiều thói quen nhỏ kết hợp lại với nhau đóng vai trò quan trọng hơn bất kỳ loại thực phẩm đơn lẻ nào."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To compare the best brain training apps sold in shops",
+       "B": "To give practical advice for keeping the brain healthy",
+       "C": "To explain how doctors perform surgery on damaged brains",
+       "D": "To persuade readers to buy vitamins from a particular company Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu khả năng thích ứng (plasticity) của bộ não và 4 thói quen đơn giản; đoạn 2 nói về vận động thể chất đều đặn; đoạn 3 bàn về việc tiếp tục học hỏi và duy trì kết nối xã hội; đoạn 4 đề cập đến giấc ngủ chất lượng; đoạn 5 trình bày về chế độ ăn uống cân bằng, hạn chế rượu bia và thuốc lá; đoạn cuối tổng kết các thay đổi nhỏ kết hợp lại mang lại cơ hội tốt nhất cho bộ não. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện việc các thói quen sinh hoạt đơn giản hàng ngày giúp giữ cho bộ não khỏe mạnh.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R1Q2**, tìm thông tin ở đoạn 2 về việc tập luyện thể chất (bằng chứng còn hỗn hợp nên bác sĩ mô tả tập luyện là hữu ích chứ không phải là chiếc khiên bảo vệ tuyệt đối - helps, but cannot guarantee protection).\n  - Với **R1Q4**, quét định nghĩa \"cognitive reserve\" ở đoạn 3 (bộ não có thể hoạt động tốt ngay cả khi bị tổn thương).\n  - Với **R1Q7**, quét từ vòng đánh giá \"one review\" ở đoạn 5 để xác định chỉ có cá béo (oily fish) là thực phẩm rõ ràng liên quan đến việc giảm nguy cơ sa sút trí tuệ.\n  - Với câu phủ định **R1Q8**, đối soát kỹ các phương án tại đoạn 4 (ít dùng màn hình, giữ giờ đi ngủ đều đặn, phòng tối và yên tĩnh) để loại trừ chi tiết hoàn toàn không xuất hiện hoặc trái ngược như việc \"uống cà phê đậm đặc vào tối muộn\".\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"realistic\"** ở đoạn 2 đi kèm với việc đi bộ nhanh 30 phút trong hầu hết các ngày là mục tiêu phù hợp với nhiều người trưởng thành, mang nghĩa có thể đạt được (possible to achieve).\n  - Với **R1Q5**, từ **\"consistent\"** ở đoạn 4 đi kèm với việc duy trì giờ đi ngủ đều đặn mỗi đêm để cải thiện chất lượng nghỉ ngơi, mang nghĩa đều đặn và ổn định (regular and steady).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Xác định đại từ **\"them\"** trong cụm \"...experts warn people not to treat *them* as miracle cures\" ở đoạn 5. Áp dụng quy tắc đối chiếu danh từ chỉ thực phẩm được khuyến nghị ngay trước đó (vegetables, fruit, nuts, whole grains, and oily fish) để thấy đây là từ thay thế cho các loại thực phẩm này (the foods).\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ các đoạn 4 và 5 về việc không có một thực phẩm thần kỳ nào ngăn chặn hoàn toàn mọi vấn đề, thay vào đó nhiều thói quen nhỏ kết hợp lại với nhau đóng vai trò quan trọng hơn bất kỳ loại thực phẩm đơn lẻ nào.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R1Q2, R1Q4, R1Q7, R1Q8) và từ vựng, quy chiếu (**R1Q3, R1Q5, R1Q6**). Tiếp theo, giải quyết câu hỏi suy luận (**R1Q9**). Cuối cùng, hoàn thành các câu hỏi khái quát về ý chính và mục đích tác giả (**R1Q1, R1Q10**) để đạt kết quả xuất sắc nhất."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "From Soil to Harvest: The Fundamentals of Successful Farming",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Successful farming depends on far more than planting seeds and waiting for rain. Soil, water, climate, markets, and labour all influence what a farmer can grow, and the choices made in one season shape the opportunities and risks of the next. This passage explains how soil health, crop rotation, pest control, and careful planning work together to produce reliable harvests.",
+     "Healthy soil is the foundation of every farm, and it is best understood as a living system rather than simply a growing medium. Organic matter improves its structure, holds water, and feeds the organisms that release nutrients to plants. Growing the same crop in the same field year after year, known as monocropping, may **deplete** particular nutrients and encourage pests and weeds that specialise in that crop.",
+     "Crop rotation offers a practical and well-tested answer to the problem of declining soil fertility. By growing different crops in sequence on the same land, farmers reduce their dependence on one set of nutrients and interrupt the life cycles of pests. Legumes such as clover and alfalfa are especially valuable because bacteria in their root nodules fix nitrogen from the air, and the residue releases it for later crops, so legumes often precede nitrogen-hungry plants.",
+     "The idea is far from new, since farmers in many regions have alternated crops for centuries. Medieval Europe gradually moved from a two-field to a three-field system between the ninth and eleventh centuries, so that two-thirds of the land was planted each year instead of half. In the eighteenth century, Charles Townshend popularised a four-crop sequence of wheat, turnips, barley, and clover, which fed livestock throughout the year and is often seen as central to the British Agricultural Revolution. During the Green Revolution, however, richer countries relied more on chemical fertilisers than on rotation.",
+     "Rotation also protects crops from disease and reduces the chance that resistant pests will develop. Plants in the same family tend to share pests, so a sensible sequence avoids planting close relatives in successive seasons. Cover crops and grasses help to **suppress** weeds by competing with them for light and water, and their roots and residues also protect the surface from erosion. In one decade-long study, a fall rye cover crop planted after a potato harvest reportedly reduced runoff by as much as 43 per cent.",
+     "Rotation is not free of difficulty. Vegetables are often the most profitable row crops, but **they** have shallow roots and little biomass, which speeds the breakdown of organic matter in the soil. Poor planning can unbalance nutrients or allow pathogens to accumulate, and these problems may take years to appear and years to correct. Farmers must therefore plan carefully around soil, climate, markets, and the labour available to them.",
+     "Despite these demands, the economic case is strong. Rotated crops often yield more than the same crops grown repeatedly, a result known as the rotation effect, and spreading production across several crops also spreads financial risk. Over time, purchases of fertiliser and herbicide can fall, and different planting and harvest dates let farmers use the same machinery and workers across more land. In erratic climates, some growers even practise opportunity cropping, planting only when soil moisture and timing are favourable."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Chemical fertilisers have made crop rotation unnecessary on modern farms",
+       "B": "Medieval farmers understood soil science better than any scientist today",
+       "C": "Reliable harvests depend on healthy soil, rotated crops, and careful planning",
+       "D": "Growing a single profitable crop is the safest farming strategy"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what may happen when the same crop is grown repeatedly?",
+      "options": {
+       "A": "Certain nutrients may run low and specialist pests may increase",
+       "B": "Organic matter increases quickly and fills the soil with useful bacteria",
+       "C": "The crop yields rise steadily because weeds no longer grow nearby",
+       "D": "Rainfall is absorbed so well that irrigation becomes entirely unnecessary later"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 về việc trồng cùng một loại cây lặp đi lặp lại khiến dinh dưỡng cạn kiệt và sâu bệnh chuyên biệt gia tăng (certain nutrients may run low and specialist pests may increase)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"deplete\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "quickly fill up",
+       "B": "carefully save up",
+       "C": "gently spread out",
+       "D": "slowly use up"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"deplete\" ở đoạn 2 đi kèm với việc trồng liên tục một loại cây làm cạn kiệt các chất dinh dưỡng cụ thể, mang nghĩa dần cạn kiệt / sử dụng dần cạn kiệt (slowly use up)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why are legumes especially valuable?",
+      "options": {
+       "A": "Their deep roots break up the hard layers of clay soil",
+       "B": "Bacteria in their roots fix nitrogen that later crops can use",
+       "C": "They grow so quickly that weeds have almost no time to appear",
+       "D": "Their leaves provide shade that keeps the soil cool and moist"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"legumes\" ở đoạn 3 để xác định vi khuẩn trong rễ cây họ đậu cố định nitơ cho các vụ mùa sau."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"suppress\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "grow faster",
+       "B": "bring in",
+       "C": "hold back",
+       "D": "spread out"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"suppress\" ở đoạn 5 đi kèm với việc cây phủ (cover crops) cạnh tranh ánh sáng và nước để kìm hãm cỏ dại, mang nghĩa kìm hãm / ngăn chặn (hold back)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"they\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Vegetables",
+       "B": "Farmers",
+       "C": "Pathogens",
+       "D": "Nutrients"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ \"they\" trong mệnh đề \"...profitable row crops, but *they* have shallow roots...\" ở đoạn 6. Áp dụng quy tắc đối chiếu danh từ số nhiều đứng ngay trước đó trong câu (\"Vegetables are often the most profitable row crops...\") để thấy đây là từ thay thế cho các loại rau củ (Vegetables)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what changed under the three-field system?",
+      "options": {
+       "A": "Livestock were removed from farms and replaced by wheat only",
+       "B": "Farmers began using chemical fertilisers on almost every single field",
+       "C": "Half of all farms were abandoned within a single decade",
+       "D": "A significantly larger share of land was planted annually"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về hệ thống ba đồng ruộng ở đoạn 4 để thấy tỷ lệ đất được gieo trồng hằng năm tăng lên so với trước đó (từ một nửa lên hai phần ba - a significantly larger share of land was planted annually)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Plants in one family often sharing the same pests",
+       "B": "Rotation making irrigation unnecessary in all dry regions",
+       "C": "A fall rye cover crop reducing runoff after potatoes",
+       "D": "Cover crops competing with weeds for light and water"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about crop rotation?",
+      "options": {
+       "A": "It was abandoned entirely once chemical fertilisers became widely available",
+       "B": "It produces higher profits only for farmers who grow vegetables",
+       "C": "It has long proved useful but requires careful and informed planning",
+       "D": "It is a recent invention originating during the Green Revolution"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc luân canh đã chứng minh được tính hữu ích qua nhiều thế kỷ nhưng đòi hỏi phải lập kế hoạch thông minh, kỹ lưỡng và có hiểu biết."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To explain how healthy soil and crop rotation support successful farming",
+       "B": "To argue that chemical fertilisers should be banned from all farms worldwide",
+       "C": "To describe the daily routine of a medieval farmer in rural England",
+       "D": "To compare the profits of vegetable growers in many different countries Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu vai trò của đất, nước, khí hậu và luân canh trong việc tạo ra các vụ mùa đáng tin cậy; đoạn 2 định nghĩa sức khỏe đất và tác hại của việc trồng một loại cây liên tục (monocropping); đoạn 3 giải thích lợi ích của luân canh và cây họ đậu (legumes) cố định đạm; đoạn 4 điểm lại lịch sử từ hệ thống canh tác ba đồng ruộng thời Trung cổ đến Cách mạng Nông nghiệp Anh; đoạn 5 bàn về việc luân canh bảo vệ cây trồng khỏi sâu bệnh và chống xói mòn; đoạn 6 nhắc đến những khó khăn khi trồng rau và yêu cầu lập kế hoạch cẩn trọng; đoạn cuối khẳng định lợi ích kinh tế mạnh mẽ và sự đa dạng hóa rủi ro. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện việc đất khỏe và luân canh hỗ trợ canh tác thành công.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R2Q2**, tìm thông tin ở đoạn 2 về việc trồng cùng một loại cây lặp đi lặp lại khiến dinh dưỡng cạn kiệt và sâu bệnh chuyên biệt gia tăng (certain nutrients may run low and specialist pests may increase).\n  - Với **R2Q4**, quét từ khóa \"legumes\" ở đoạn 3 để xác định vi khuẩn trong rễ cây họ đậu cố định nitơ cho các vụ mùa sau.\n  - Với **R2Q7**, quét thông tin về hệ thống ba đồng ruộng ở đoạn 4 để thấy tỷ lệ đất được gieo trồng hằng năm tăng lên so với trước đó (từ một nửa lên hai phần ba - a significantly larger share of land was planted annually).\n  - Với câu phủ định **R2Q8**, đối soát kỹ các chi tiết tại đoạn 5 (cây cùng họ chung sâu bệnh, cây vụ đông giảm dòng chảy sau khoai tây, cây phủ cạnh tranh ánh sáng và nước với cỏ dại) để loại trừ chi tiết sai lệch hoàn toàn không xuất hiện như việc \"luân canh làm cho việc tưới tiêu trở nên hoàn toàn không cần thiết ở mọi vùng hạn hán\".\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"deplete\"** ở đoạn 2 đi kèm với việc trồng liên tục một loại cây làm cạn kiệt các chất dinh dưỡng cụ thể, mang nghĩa dần cạn kiệt / sử dụng dần cạn kiệt (slowly use up).\n  - Với **R2Q5**, từ **\"suppress\"** ở đoạn 5 đi kèm với việc cây phủ (cover crops) cạnh tranh ánh sáng và nước để kìm hãm cỏ dại, mang nghĩa kìm hãm / ngăn chặn (hold back).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Xác định đại từ **\"they\"** trong mệnh đề \"...profitable row crops, but *they* have shallow roots...\" ở đoạn 6. Áp dụng quy tắc đối chiếu danh từ số nhiều đứng ngay trước đó trong câu (\"Vegetables are often the most profitable row crops...\") để thấy đây là từ thay thế cho các loại rau củ (Vegetables).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc luân canh đã chứng minh được tính hữu ích qua nhiều thế kỷ nhưng đòi hỏi phải lập kế hoạch thông minh, kỹ lưỡng và có hiểu biết.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R2Q2, R2Q4, R2Q7, R2Q8) và từ vựng, quy chiếu (**R2Q3, R2Q5, R2Q6**). Tiếp theo, giải quyết câu hỏi suy luận (**R2Q9**). Cuối cùng, hoàn thành các câu hỏi khái quát về ý chính và mục đích tác giả (**R2Q1, R2Q10**) để đạt kết quả hoàn hảo."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Octopus: An Alien Intelligence in the Ocean",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few animals provoke as much wonder as the octopus, a soft-bodied mollusc that lives for only a few years yet solves problems that baffle many vertebrates. Scientists have long been fascinated by this creature because its nervous system, body plan, and behaviour differ so greatly from our own. This passage examines how octopuses are built, how they hide, and what their behaviour reveals about intelligence.",
+     "An octopus has more than 500 million neurons, a number roughly comparable to that of a dog. Remarkably, about two-thirds of these neurons lie in the arms rather than in the central brain, which allows each arm to act with a degree of independence. A severed arm can reportedly continue to move and respond to stimuli for a time.",
+     "The body of an octopus is equally unusual. It has three hearts, one that pumps blood around the body and two that serve the gills, and its blood is bluish because it relies on a copper-based protein rather than iron. The animal's soft, **pliable** body has no skeleton or hard shell, so it can squeeze through gaps about 2.5 centimetres wide. When it swims, the main heart is said to stop beating, which explains why octopuses mostly crawl.",
+     "Camouflage is the most famous skill of the octopus, and it depends entirely on the skin. Its skin contains many chromatophores, small sacs of yellow, orange, red, brown, or black pigment, and these cells work with reflective iridophores and white leucophores to change colour and pattern within moments. This display is costly, however, because fully activating the system uses energy nearly equal to the animal's resting metabolic rate. Defences also include ink, jet propulsion, mimicry, and in some species the shedding of an arm that later regrows.",
+     "Behaviour provides the strongest evidence of intelligence. Veined octopuses have been seen collecting discarded coconut shells and carrying them across the seabed to build shelters, which is often cited as an example of tool use. In laboratory mazes and puzzles, octopuses appear to form both short-term and long-term memories, and they can be trained to distinguish shapes and patterns. Most species are solitary, so learning from other animals is probably rare.",
+     "Yet octopus intelligence raises a puzzle, because most species live for only a few years. **[1]** Males die soon after mating, and females die after their eggs hatch. **[2]** That solitude may help explain why octopuses seem to depend on individual trial and error rather than on teaching. **[3]** Some researchers have interpreted behavioural evidence as suggesting that octopuses are sentient and may feel pain in ways that deserve careful ethical consideration, although the question remains scientifically contested and difficult to test. **[4]** Claims that octopuses learn by watching one another remain disputed, so researchers continue to design new experiments.",
+     "Octopus brains are organised very differently from **those** of mammals, yet they support learning, memory, and problem solving, and this suggests that intelligence can evolve along more than one path. Their evolutionary line separated from ours very long ago, so the octopus is often described as an independent experiment in building a mind. Even so, the octopus remains an **enigmatic** creature whose inner life we can only infer."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Octopuses are intelligent mainly because they live in large social groups",
+       "B": "Scientists have proved that octopuses feel exactly the same emotions as dogs",
+       "C": "Colour change is the only evidence that octopuses can think and learn",
+       "D": "The octopus shows that complex intelligence can evolve in a body unlike ours"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, where are most of an octopus's neurons located?",
+      "options": {
+       "A": "Mostly in the eyes and the surrounding soft tissue",
+       "B": "Within the three hearts that pump blue blood",
+       "C": "In the arms, not the central brain",
+       "D": "Spread evenly across the mantle and the beak"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 để xác định phần lớn nơ-ron của bạch tuộc nằm ở các xúc tu thay vì bộ não trung tâm (In the arms, not the central brain)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"pliable\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "easy to bend",
+       "B": "hard to see",
+       "C": "slow to heal",
+       "D": "quick to tire"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"pliable\" ở đoạn 3 đi kèm với việc bạch tuộc không có xương hay vỏ cứng và có thể chui qua các khe hẹp khoảng 2.5 cm, mang nghĩa mềm dẻo, dễ uốn cong (easy to bend)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a cycle leaves no chance for parents to teach their young, so each animal must learn alone.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào chỗ trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc các vị trí [1], [2], [3], [4] ở đoạn 6. Câu cần điền là: 'Such a cycle leaves no chance for parents to teach their young, so each animal must learn alone.' (Chu kỳ sống như vậy không để lại cơ hội nào cho bố mẹ dạy dỗ con cái, vì vậy mỗi con vật phải tự học một mình). Vị trí [2] nằm ngay sau câu nói về việc con đực chết sau khi giao phối và con cái chết sau khi trứng nở ('[1] Males die soon after mating, and females die after their eggs hatch. [2] That solitude may help explain...'). Rất logic khi cụm từ 'Such a cycle' liên kết trực tiếp ngay sau vòng đời kết thúc sớm của bố mẹ, dẫn dắt đến sự cô độc và việc con non phải tự học ở câu tiếp theo."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what are veined octopuses seen doing with coconut shells?",
+      "options": {
+       "A": "Cracking them open to reach the food hidden inside",
+       "B": "Hiding eggs inside them until the young emerge",
+       "C": "Using them as weapons against hungry sharks",
+       "D": "Carrying them across the seabed to build shelters"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"coconut shells\" ở đoạn 5 để ghi nhận hành vi bạch tuộc dừa thu thập các mảnh vỏ dừa vứt đi và mang chúng qua đáy biển để xây dựng nơi trú ẩn (carrying them across the seabed to build shelters)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"those\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "the brains",
+       "B": "the mammals",
+       "C": "the neurons",
+       "D": "the animals"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ sở hữu \"those\" trong cụm \"Octopus brains are organised very differently from *those* of mammals...\" ở đoạn 7. Áp dụng quy tắc đối chiếu danh từ tương đương trong cấu trúc so sánh song song để thấy từ này thay thế cho bộ não của động vật có vú (the brains)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"enigmatic\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "easy to predict",
+       "B": "quick to react",
+       "C": "hard to understand",
+       "D": "simple to describe"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"enigmatic\" ở đoạn 7 đi kèm với việc đời sống nội tâm của loài này chúng ta chỉ có thể suy luận, mang nghĩa bí ẩn, khó hiểu (hard to understand)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Three hearts, two of which serve the gills",
+       "B": "A thick shell protecting the soft body",
+       "C": "Blue blood coloured by a protein containing copper",
+       "D": "The ability to pass through very narrow gaps"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 5, 6, and 7 about octopus intelligence?",
+      "options": {
+       "A": "It depends entirely on a hard skeleton and a large social group",
+       "B": "It is identical to mammal intelligence because both animals share brains",
+       "C": "Only species that live for many decades can show real intelligence",
+       "D": "It probably evolved independently, showing that minds can arise in quite different ways"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5, 6 và 7 về việc trí tuệ của bạch tuộc tiến hóa theo một hướng độc lập hoàn toàn so với động vật có vú, cho thấy tư duy có thể hình thành theo những cách thức vô cùng khác biệt."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To examine how octopus anatomy and behaviour reveal an unusual intelligence",
+       "B": "To persuade readers that octopuses should never be kept in public aquariums",
+       "C": "To explain how fishermen catch octopuses using traps and clay pots",
+       "D": "To describe the diet and breeding habits of all cephalopods Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự tò mò về loài bạch tuộc với hệ thần kinh và hành vi khác biệt; đoạn 2 nói về hơn 500 triệu nơ-ron phân bố chủ yếu ở các xúc tu; đoạn 3 mô tả cấu trúc cơ thể đặc biệt (3 trái tim, máu xanh chứa đồng, cơ thể mềm dẻo không xương); đoạn 4 bàn về khả năng ngụy trang tinh vi bằng tế bào sắc tố (chromatophores); đoạn 5 phân tích hành vi thể hiện trí thông minh (thu thập vỏ dừa làm nơi trú ẩn, học tập qua thử và sai); đoạn 6 đề cập đến vòng đời ngắn ngủi và câu hỏi về cảm giác đau đớn; và đoạn cuối tổng kết rằng sự tiến hóa của trí tuộc bạch tuộc là một minh chứng cho thấy trí tuệ có thể phát triển theo những hướng hoàn toàn khác biệt. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện cấu trúc giải phẫu và hành vi tiết lộ trí thông minh bất thường của loài vật này.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R3Q2**, tìm thông tin ở đoạn 2 để xác định phần lớn nơ-ron của bạch tuộc nằm ở các xúc tu thay vì bộ não trung tâm (In the arms, not the central brain).\n  - Với **R3Q5**, quét từ khóa \"coconut shells\" ở đoạn 5 để ghi nhận hành vi bạch tuộc dừa thu thập các mảnh vỏ dừa vứt đi và mang chúng qua đáy biển để xây dựng nơi trú ẩn (carrying them across the seabed to build shelters).\n  - Với câu phủ định **R3Q8**, đối soát kỹ các chi tiết tại đoạn 3 (3 trái tim với 2 tim phục vụ mang, máu xanh chứa đồng, khả năng chui qua khe hẹp) để loại trừ chi tiết sai lệch hoàn toàn trái ngược với thực tế bài viết: \"A thick shell protecting the soft body\" (trong bài khẳng định bạch tuộc có cơ thể mềm, không có xương hay lớp vỏ cứng bảo vệ).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"pliable\"** ở đoạn 3 đi kèm với việc bạch tuộc không có xương hay vỏ cứng và có thể chui qua các khe hẹp khoảng 2.5 cm, mang nghĩa mềm dẻo, dễ uốn cong (easy to bend).\n  - Với **R3Q7**, từ **\"enigmatic\"** ở đoạn 7 đi kèm với việc đời sống nội tâm của loài này chúng ta chỉ có thể suy luận, mang nghĩa bí ẩn, khó hiểu (hard to understand).\n- **Dạng câu hỏi Điền câu vào chỗ trống (R3Q4):** Đọc các vị trí [1], [2], [3], [4] ở đoạn 6. Câu cần điền là: 'Such a cycle leaves no chance for parents to teach their young, so each animal must learn alone.' (Chu kỳ sống như vậy không để lại cơ hội nào cho bố mẹ dạy dỗ con cái, vì vậy mỗi con vật phải tự học một mình). Vị trí [2] nằm ngay sau câu nói về việc con đực chết sau khi giao phối và con cái chết sau khi trứng nở ('[1] Males die soon after mating, and females die after their eggs hatch. [2] That solitude may help explain...'). Rất logic khi cụm từ 'Such a cycle' liên kết trực tiếp ngay sau vòng đời kết thúc sớm của bố mẹ, dẫn dắt đến sự cô độc và việc con non phải tự học ở câu tiếp theo.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Xác định đại từ sở hữu **\"those\"** trong cụm \"Octopus brains are organised very differently from *those* of mammals...\" ở đoạn 7. Áp dụng quy tắc đối chiếu danh từ tương đương trong cấu trúc so sánh song song để thấy từ này thay thế cho bộ não của động vật có vú (the brains).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 5, 6 và 7 về việc trí tuệ của bạch tuộc tiến hóa theo một hướng độc lập hoàn toàn so với động vật có vú, cho thấy tư duy có thể hình thành theo những cách thức vô cùng khác biệt.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R3Q2, R3Q5, R3Q8) và từ vựng, quy chiếu (R3Q3, R3Q6, R3Q7). Tiếp theo, giải quyết câu hỏi điền vị trí đoạn văn đòi hỏi tư duy liên kết logic (R3Q4). Cuối cùng, hoàn thành các câu hỏi suy luận và ý chính tổng quan (**R3Q1, R3Q9, R3Q10**) để đạt kết quả tối đa."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Boun Bang Fai: Ritual, Rain, and the Politics of Tradition in the Mekong Basin",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Every year, as the dry season gives way to the first rains, villages across northeastern Thailand and Laos fill with the noise of homemade rockets. The festival, known in Lao as Boun Bang Fai, is a merit-making ceremony that blends Buddhist ritual, music, dance, and fierce competition. This passage examines its origins, its rituals, and the politics that now surround it.",
+     "The festival is traditionally held by ethnic Lao people at the start of the wet season, in the sixth lunar month, which usually falls in May or June. It combines temple rituals with processions, floats, and the competitive firing of bamboo rockets. Yasothon in Thailand, for example, has held its festival every mid-May since the province separated from Ubon Ratchathani in 1972, whereas other towns choose the first weekend of June.",
+     "The festival is presumed to have evolved from pre-Buddhist fertility rites intended to encourage rain, and it probably predates the arrival of black powder in the ninth century. Folk tales describe rockets fired skyward to send messages to Phaya Thaen, the god of rain. In the version told in Yasothon and Nong Khai, Phaya Thaen **withheld** the rains for seven years, seven months, and seven days, until King Toad led an army of small creatures against him. The god eventually sued for peace, so the rains are said to bring on the rockets.",
+     "Rockets are classified by size, with the names of the larger classes taken from the Lao words for 10,000, 100,000, and 1,000,000. **[1]** The largest rockets are reportedly about nine metres long and carry around 120 kilograms of black powder, and they can climb to altitudes measured in kilometres. **[2]** Judges score each launch on apparent height, distance travelled, and the beauty of the vapour trail left behind. **[3]** A rocket that fails brings humiliation to its builders, who are reportedly thrown into a muddy pond and made to drink the local rice spirit. **[4]** That seriousness has a darker side, because in 1999 a 120-kilogram rocket reportedly exploded about two seconds after launch, killing four people and wounding eleven.",
+     "The launch itself is only the climax of a much longer and noisier celebration. Villagers carry decorated money trees around the ordination hall and present them to monks, while street parades feature pickup trucks carrying rockets, accompanied by khene pipes, cymbals, and long drums. Contestants chant and dance, and many floats illustrate the legend of Phadaeng and Nang Ai, a tale **whose** source poem is reportedly full of sexual innuendo, puns, and double meanings.",
+     "Because the festival is so visible, it has become **entangled** with politics. The Tourism Authority of Thailand has promoted it in recent years, especially in Yasothon and Nong Khai, and village floats may carry government messages. The anthropologist Charles Keyes has argued that postcolonial rulers in mainland Southeast Asia incorporated indigenous symbols into national cultures, yet he noted that the festival remains far more elaborate in villages than in cities. During the political protests of April 2010, Red Shirt demonstrators reportedly fired bang fai rockets in central Bangkok, turning a rural ritual into a symbol of dissent.",
+     "Safety and urbanisation have also reshaped the festival. In Laos, the event once centred on the Mekong riverbank in Vientiane but has moved to nearby villages, partly because of urban growth and safety measures. Among Lao communities in France and the United States, only small handmade rockets are reportedly fired. Even so, the ritual endures because it serves several purposes at once, offering villagers merit, entertainment, competition, and a way to appeal to the sky for rain."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Rocket festivals exist only in Laos and have never spread elsewhere",
+       "B": "The festival was invented recently by tourism officials to attract visitors",
+       "C": "The rocket festival blends faith and rivalry but also carries political meaning today",
+       "D": "Safety rules have completely ended the firing of rockets across Southeast Asia"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, when does the festival traditionally take place?",
+      "options": {
+       "A": "During the coldest weeks of the northern winter",
+       "B": "At the start of the wet season",
+       "C": "Immediately after the main rice harvest has ended",
+       "D": "On the final weekend of every calendar year"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 để xác định lễ hội diễn ra vào đầu mùa mưa (at the start of the wet season)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"withheld\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "refused to give",
+       "B": "agreed to share",
+       "C": "began to measure",
+       "D": "promised to send"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"withheld\" ở đoạn 3 đi kèm với việc Phaya Thaen không cho mưa rơi trong 7 năm 7 tháng 7 ngày, mang nghĩa từ chối cho / từ chối ban phát (refused to give)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a penalty is meant playfully, yet it shows how seriously villages take the contest.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào chỗ trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc các vị trí [1], [2], [3], [4] ở đoạn 4. Câu cần điền là: 'Such a penalty is meant playfully, yet it shows how seriously villages take the contest.' (Hình phạt như vậy mang tính trêu đùa, nhưng nó cho thấy các ngôi làng coi trọng cuộc thi này đến mức nào). Vị trí [4] nằm ngay sau câu nói về hình phạt ném đội làm pháo hỏng xuống ao bùn và bắt uống rượu gạo địa phương, và đứng trước câu 'That seriousness has a darker side...'. Rất logic khi cụm từ 'Such a penalty' liên kết trực tiếp ngay sau mô tả về hình phạt ở câu trước."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, how are rockets judged?",
+      "options": {
+       "A": "On the loudness of the bang and the colour of smoke",
+       "B": "On height, distance, and the beauty of the vapour trail",
+       "C": "By the number of villagers who help to carry them",
+       "D": "Only on how quickly the builders finish their work"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin chấm điểm ở đoạn 4 để ghi nhận các tiêu chí: chiều cao rõ, khoảng cách bay và vẻ đẹp của vệt khói (height, distance, and the beauty of the vapour trail)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"whose\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "the monks",
+       "B": "the floats",
+       "C": "the legend",
+       "D": "the drums"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ sở hữu \"whose\" trong mệnh đề \"...a tale *whose* source poem is reportedly full of sexual innuendo...\" ở đoạn 5. Áp dụng quy tắc đối chiếu danh từ chỉ tác phẩm/truyền thuyết đứng ngay trước đó (\"the legend of Phadaeng and Nang Ai\") để thấy đây là từ thay thế cho câu chuyện/truyền thuyết này (the legend)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"entangled\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "kept far apart",
+       "B": "quickly cut off",
+       "C": "freely open to",
+       "D": "closely mixed up"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"entangled\" ở đoạn 6 đi kèm với việc lễ hội bị lôi kéo, gắn chặt vào các hoạt động chính trị và thông điệp của chính phủ, mang nghĩa hòa lẫn vào nhau / gắn kết chặt chẽ (closely mixed up)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "A national law forbidding every village festival",
+       "B": "Promotion of the festival by the Tourism Authority",
+       "C": "Government messages carried on some of the village floats",
+       "D": "Rockets fired by protesters in Bangkok in 2010"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 5, 6, and 7 about the festival?",
+      "options": {
+       "A": "Foreign visitors, rather than villagers, now control every aspect of the festival",
+       "B": "Its religious meaning disappeared as soon as the government became involved",
+       "C": "Its meaning is shaped by villagers, officials, and safety concerns, not just tradition",
+       "D": "Only Thailand permits rockets, so Laos has abandoned the ritual completely"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5, 6 và 7 về việc lễ hội không chỉ giữ gìn truyền thống mà còn chịu sự chi phối và định hình bởi người dân, các nhà quản lý, yếu tố chính trị và các mối quan ngại về an toàn. Lời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R4Q2, R4Q5, R4Q8) và từ vựng, quy chiếu (R4Q3, R4Q6, R4Q7). Tiếp theo, giải quyết câu hỏi điền vị trí đoạn văn đòi hỏi tư duy liên kết logic (R4Q4). Cuối cùng, hoàn thành các câu hỏi suy luận và ý chính tổng quan (R4Q1, R4Q9, R4Q10) để đạt kết quả xuất sắc nhất."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To warn tourists about the dangers of attending rocket launches in Isan",
+       "B": "To examine the origins, rituals, and political uses of a festival",
+       "C": "To compare how Buddhist temples in Laos and Thailand raise money",
+       "D": "To teach readers how to build a safe bamboo rocket"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu lễ hội pháo thăng thiên kết hợp nghi lễ Phật giáo, âm nhạc và sự cạnh tranh; đoạn 2 nói về thời gian tổ chức vào đầu mùa mưa (tháng 5 hoặc tháng 6); đoạn 3 bàn về nguồn gốc tiền Phật giáo và truyền thuyết Phaya Thaen; đoạn 4 mô tả kích thước pháo, tiêu chí chấm thi và hình phạt vui nhộn cho đội thua; đoạn 5 đề cập đến các hoạt động rước tiền, múa hát và tích truyện Phadaeng và Nang Ai; đoạn 6 trình bày sự gắn kết của lễ hội với chính trị và các cuộc biểu tình; đoạn cuối nói về vấn đề an toàn, đô thị hóa và sự thay đổi trong cách tổ chức. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện việc lễ hội hòa quyện giữa niềm tin, sự cạnh tranh và ý nghĩa chính trị cũng như khám phá nguồn gốc và các nghi thức của nó.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, tìm thông tin ở đoạn 2 để xác định lễ hội diễn ra vào đầu mùa mưa (at the start of the wet season).\n  - Với **R4Q5**, quét thông tin chấm điểm ở đoạn 4 để ghi nhận các tiêu chí: chiều cao rõ, khoảng cách bay và vẻ đẹp của vệt khói (height, distance, and the beauty of the vapour trail).\n  - Với câu phủ định **R4Q8**, đối soát kỹ các chi tiết tại đoạn 6 (sự quảng bá của Tổng cục Du lịch, thông tin chính phủ trên xe hoa, pháo được bắn bởi người biểu tình ở Bangkok năm 2010) để loại trừ chi tiết hoàn toàn không xuất hiện như \"lệnh cấm quốc gia đối với mọi lễ hội làng\".\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"withheld\"** ở đoạn 3 đi kèm với việc Phaya Thaen không cho mưa rơi trong 7 năm 7 tháng 7 ngày, mang nghĩa từ chối cho / từ chối ban phát (refused to give).\n  - Với **R4Q7**, từ **\"entangled\"** ở đoạn 6 đi kèm với việc lễ hội bị lôi kéo, gắn chặt vào các hoạt động chính trị và thông điệp của chính phủ, mang nghĩa hòa lẫn vào nhau / gắn kết chặt chẽ (closely mixed up).\n- **Dạng câu hỏi Điền câu vào chỗ trống (R4Q4):** Đọc các vị trí [1], [2], [3], [4] ở đoạn 4. Câu cần điền là: 'Such a penalty is meant playfully, yet it shows how seriously villages take the contest.' (Hình phạt như vậy mang tính trêu đùa, nhưng nó cho thấy các ngôi làng coi trọng cuộc thi này đến mức nào). Vị trí [4] nằm ngay sau câu nói về hình phạt ném đội làm pháo hỏng xuống ao bùn và bắt uống rượu gạo địa phương, và đứng trước câu 'That seriousness has a darker side...'. Rất logic khi cụm từ 'Such a penalty' liên kết trực tiếp ngay sau mô tả về hình phạt ở câu trước.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Xác định đại từ sở hữu **\"whose\"** trong mệnh đề \"...a tale *whose* source poem is reportedly full of sexual innuendo...\" ở đoạn 5. Áp dụng quy tắc đối chiếu danh từ chỉ tác phẩm/truyền thuyết đứng ngay trước đó (\"the legend of Phadaeng and Nang Ai\") để thấy đây là từ thay thế cho câu chuyện/truyền thuyết này (the legend).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 5, 6 và 7 về việc lễ hội không chỉ giữ gìn truyền thống mà còn chịu sự chi phối và định hình bởi người dân, các nhà quản lý, yếu tố chính trị và các mối quan ngại về an toàn. Lời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R4Q2, R4Q5, R4Q8) và từ vựng, quy chiếu (R4Q3, R4Q6, R4Q7). Tiếp theo, giải quyết câu hỏi điền vị trí đoạn văn đòi hỏi tư duy liên kết logic (R4Q4). Cuối cùng, hoàn thành các câu hỏi suy luận và ý chính tổng quan (**R4Q1, R4Q9, R4Q10**) để đạt kết quả xuất sắc nhất."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. Your foreign friend is planning to visit your country and has asked you for some travel advice.\nYour friend wants to know which places to visit and what outdoor activities they can try during the trip.\nWrite an email to your friend giving suggestions for their visit to your country.\n- Recommend some interesting places they should visit.\n- Suggest outdoor activities they can participate in.\n- Give some useful advice to help them prepare for the trip.\nWrite an email responding to your friend. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. Your foreign friend is planning to visit your country and has asked you for some travel advice.",
+      "Your friend wants to know which places to visit and what outdoor activities they can try during the trip."
+     ],
+     "quote": [
+      "Write an email to your friend giving suggestions for their visit to your country.",
+      "- Recommend some interesting places they should visit.",
+      "- Suggest outdoor activities they can participate in.",
+      "- Give some useful advice to help them prepare for the trip."
+     ],
+     "instruction": "Write an email responding to your friend. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (email thân mật) gửi cho bạn bè nên cần sử dụng giọng văn gần gũi, tự nhiên.\n- Bạn cần trả lời 3 yêu cầu chính: giới thiệu địa điểm tham quan, đề xuất hoạt động ngoài trời và đưa ra lời khuyên chuẩn bị.\n- Cần đảm bảo bài viết tối thiểu 120 từ và phát triển đầy đủ các ý trong đề.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Mở đầu bằng lời chào thân mật. Ví dụ: Dear Anna,\n- **Opening:** Thể hiện sự vui mừng khi bạn đến thăm đất nước của mình. Ví dụ: I am so excited to hear that you are going to visit my country.\n- **Body:** Đoạn 1 giới thiệu địa điểm nổi bật; đoạn 2 nói về hoạt động ngoài trời và các chuẩn bị cần thiết.\n- **Closing:** Thể hiện mong muốn bạn có chuyến đi vui vẻ. Ví dụ: I hope you will have an amazing trip.\n- **Sign-off:** Kết thúc bằng Best wishes hoặc See you soon.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì hiện tại đơn để giới thiệu địa điểm và cấu trúc should/can để đưa lời khuyên.\n- Thêm lý do giải thích tại sao địa điểm hoặc hoạt động đó đáng trải nghiệm.\n- Tránh chỉ liệt kê danh sách địa điểm mà không có mô tả.\nTừ vựng quan trọng:\n- **Tourist destination:** Điểm đến du lịch\n- **Natural landscape:** Cảnh quan thiên nhiên\n- **Outdoor activities:** Hoạt động ngoài trời\n- **Local culture:** Văn hóa địa phương\n- **Travel preparation:** Chuẩn bị cho chuyến đi\n- **Explore new places:** Khám phá địa điểm mới\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Besides:** Bên cạnh đó\n- **Moreover:** Hơn nữa\n- **For example:** Ví dụ\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am delighted to hear that:** Tôi rất vui khi nghe rằng\n- **You will definitely enjoy:** Bạn chắc chắn sẽ thích\n- **I highly recommend:** Tôi rất khuyến khích\n\n**4. Các lỗi thường gặp:**\n- Viết như một bài giới thiệu du lịch thay vì email cho bạn.\n- Không đưa ra lời khuyên chuẩn bị cho chuyến đi.\n- Dùng quá nhiều từ khó nhưng thiếu ý tưởng cụ thể.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã trả lời đủ ba yêu cầu chưa.\n- Đảm bảo email có mở đầu và kết thúc phù hợp.\n- Kiểm tra lỗi ngữ pháp, chính tả và số lượng từ.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang tư vấn cho một người bạn thật sự chuẩn bị đến thăm quê hương mình.\n- Tập trung vào thông tin hữu ích, rõ ràng và cách diễn đạt tự nhiên.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nNowadays, many people use the Internet and social media platforms to make new friends and communicate with others.\nSome people believe that making friends online brings many benefits, while others argue that it can create several problems.\nDiscuss the advantages and disadvantages of making friends online.\nWrite an essay to an educated reader to discuss the advantages and disadvantages of making friends online. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Nowadays, many people use the Internet and social media platforms to make new friends and communicate with others.",
+      "Some people believe that making friends online brings many benefits, while others argue that it can create several problems.",
+      "Discuss the advantages and disadvantages of making friends online."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages and disadvantages of making friends online. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng **Advantages and Disadvantages Essay**, yêu cầu phân tích cả lợi ích và hạn chế của việc kết bạn trên mạng.\n- Bạn cần trình bày cân bằng hai mặt, không chỉ tập trung vào ưu điểm hoặc nhược điểm.\n- Cần đạt tối thiểu 250 từ và có lý do, ví dụ để hỗ trợ các luận điểm.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu sự phổ biến của việc kết bạn online và nêu rằng nó có cả lợi ích lẫn bất lợi. Ví dụ: Making friends online has become a common activity in the digital age.\n- **Body 1:** Trình bày advantages như mở rộng mối quan hệ, kết nối với người ở nhiều nơi và trao đổi văn hóa.\n- **Body 2:** Trình bày disadvantages như thiếu tương tác trực tiếp, thông tin giả và rủi ro về quyền riêng tư.\n- **Conclusion:** Tóm tắt hai mặt và đưa ra nhận xét chung về việc sử dụng mạng xã hội hợp lý.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng hiện tại đơn để mô tả xu hướng xã hội và hiện tại hoàn thành để nói về sự phát triển của công nghệ.\n- Mỗi đoạn thân bài cần có câu chủ đề, giải thích và ví dụ cụ thể.\n- Dùng từ nối để thể hiện sự so sánh giữa hai mặt của vấn đề.\nTừ vựng quan trọng:\n- **Social media platforms:** Nền tảng mạng xã hội\n- **Online friendship:** Tình bạn trực tuyến\n- **Communication skills:** Kỹ năng giao tiếp\n- **Personal information:** Thông tin cá nhân\n- **Privacy risk:** Rủi ro về quyền riêng tư\n- **Global connection:** Kết nối toàn cầu\nTừ nối (Linking words):\n- **On the one hand:** Một mặt\n- **On the other hand:** Mặt khác\n- **Furthermore:** Hơn nữa\n- **However:** Tuy nhiên\n- **For instance:** Ví dụ\n- **In conclusion:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Building relationships through the Internet:** Cách diễn đạt khác cho making friends online.\n- **Digital communication:** Cách nói học thuật hơn cho online communication.\n- **Face-to-face interaction:** Tương tác trực tiếp ngoài đời.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **One major advantage is that:** Một lợi ích lớn là.\n- **A possible drawback is that:** Một hạn chế có thể là.\n- **It is important to use social media responsibly:** Điều quan trọng là sử dụng mạng xã hội có trách nhiệm.\n\n**4. Các lỗi thường gặp:**\n- Chỉ liệt kê ưu điểm và nhược điểm mà không giải thích.\n- Không đưa ví dụ thực tế để hỗ trợ ý tưởng.\n- Lặp lại quá nhiều từ friend hoặc online.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra đã đề cập cả advantages và disadvantages chưa.\n- Đảm bảo bài viết đủ 250 từ.\n- Rà soát lỗi ngữ pháp, từ nối và sự liên kết giữa các đoạn.\n\n**6. Tư duy làm bài:**\n- Hãy nhìn vấn đề từ hai góc độ để bài viết có tính phân tích.\n- Ưu tiên lập luận rõ ràng và ví dụ phù hợp hơn là sử dụng quá nhiều từ vựng khó."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about cooking\n\n1\nDo you often cook at home?\n2\nWhat kind of food do you usually cook?\n3\nWhen did you cook for the first time?\n\nNow, let’s talk about social events\n\n4\nHow often do you join social events?\n5\nWhat kinds of social events do you enjoy?\n6\nDo you prefer small gatherings or big events? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 là phần tương tác xã hội gồm **6 câu hỏi trong khoảng 3 phút**. Bạn cần trả lời tự nhiên về những chủ đề quen thuộc trong cuộc sống.\n- **Topic A (Cooking):** Ba câu hỏi đầu tập trung vào thói quen nấu ăn, món ăn thường nấu và trải nghiệm lần đầu nấu ăn.\n- **Topic B (Social Events):** Ba câu hỏi sau nói về việc tham gia sự kiện xã hội, sở thích về các loại sự kiện và lựa chọn giữa buổi gặp mặt nhỏ hoặc sự kiện lớn.\n- Tiêu chí đánh giá gồm **Fluency, Vocabulary, Grammar và Pronunciation**. Bạn nên mở rộng câu trả lời bằng lý do và ví dụ cá nhân.\n- Nên dành khoảng **25–35 giây cho mỗi câu hỏi** để thể hiện khả năng phát triển ý.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **ARE (Answer – Reason – Example)**: trả lời câu hỏi, giải thích lý do và đưa ví dụ.\n- **Ví dụ Topic A:** Yes, I often cook at home because it is healthier and I can choose the ingredients by myself. For example, I usually cook simple dishes like fried rice or noodles.\n- **Ví dụ Topic B:** I prefer small gatherings because they allow me to have deeper conversations with my friends.\n- Luôn tự hỏi thêm **Why?** và **How?** để kéo dài câu trả lời.\n- Khi chuyển từ cooking sang social events, có thể dùng câu: Besides my daily activities, I also enjoy joining social events with other people.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định, sử dụng từ đệm như well, actually, I think để tránh khoảng lặng.\n- Dùng hiện tại đơn để nói về thói quen và quá khứ đơn khi kể về lần đầu trải nghiệm.\n- Nếu quên từ vựng, hãy mô tả ý nghĩa bằng từ đơn giản hơn.\n- **Topic A:** prepare meals (chuẩn bị bữa ăn), cooking skills (kỹ năng nấu ăn), homemade food (đồ ăn tự nấu).\n- **Topic B:** social gathering (buổi gặp mặt), build relationships (xây dựng mối quan hệ), create memories (tạo kỷ niệm). Cụm từ quan trọng nên dùng:\n- cook from scratch: tự nấu ăn từ nguyên liệu ban đầu\n- try new recipes: thử công thức nấu ăn mới\n- save money by cooking at home: tiết kiệm tiền bằng cách nấu ở nhà\n- attend social events: tham gia sự kiện xã hội\n- spend quality time with others: dành thời gian ý nghĩa với người khác\n- make new friends: kết bạn mới\nTừ nối khi nói (Linking Words):\n- First of all: trước hết\n- Besides: bên cạnh đó\n- For example: ví dụ như\n- However: tuy nhiên\n- Therefore: vì vậy\nCách thể hiện quan điểm tự nhiên:\n- I personally think cooking is useful because it helps people become more independent. (Tôi nghĩ nấu ăn hữu ích vì giúp con người tự lập hơn)\n- In my opinion, social events are important because they help people connect with each other. (Theo tôi, sự kiện xã hội quan trọng vì giúp mọi người kết nối)\n- I believe small gatherings are better because people can communicate more comfortably. (Tôi tin các buổi gặp nhỏ tốt hơn vì mọi người giao tiếp thoải mái hơn)\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn như Yes hoặc No mà không giải thích.\n- Ở Topic A, tránh chỉ kể tên món ăn mà cần nói thêm cảm xúc hoặc lý do.\n- Ở Topic B, tránh chỉ nói events are fun mà không giải thích lợi ích.\n- Dùng sai thì khi kể về lần đầu nấu ăn.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu: That is an interesting question, let me think for a second.\n- Nếu quên từ về cooking, hãy nói về food, ingredients hoặc daily routines.\n- Nếu bí ở social events, hãy chuyển sang nói về friends, communication hoặc relationships.\n\n**6. Tư duy làm bài nói:**\n- Xem đây là một cuộc trò chuyện tự nhiên với giám khảo.\n- Chuyển chủ đề linh hoạt và tránh học thuộc câu trả lời cứng nhắc.\n- Sự tự nhiên và khả năng phát triển ý quan trọng hơn từ vựng khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour family wants to plan a trip together and needs to choose the best way to prepare for it.\n\nYou are considering the following options:\n\nOption 1: Make the plan by yourself\nOption 2: Hire a travel agent to make the plan\nOption 3: Ask a friend who has had a similar trip for advice\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**, yêu cầu bạn so sánh ba cách chuẩn bị cho chuyến đi gia đình.\n- Bạn cần đánh giá dựa trên các yếu tố như chi phí, sự tiện lợi, kinh nghiệm và mức độ phù hợp.\n- Tiêu chí chấm điểm gồm khả năng phân tích, so sánh và đưa ra lựa chọn cuối cùng.\n- Thời gian khoảng **4 phút**, nên phân tích từng lựa chọn trước khi kết luận.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **State opinion – Give reason – Compare – Conclude**.\n- Option 1: Planning by yourself gives more freedom, but it can take a lot of time and effort.\n- Option 2: A travel agent is convenient and professional, but it may cost more money.\n- Option 3: Asking an experienced friend provides useful advice, but the information may not cover everything.\n- Hãy liên hệ với nhu cầu thực tế của gia đình như ngân sách, thời gian và sở thích.\n- Dùng từ nối như however, while, although để so sánh ưu nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn thay vì nói riêng từng phương án.\n- Dùng hiện tại đơn để nói về lợi ích chung và cấu trúc so sánh khi đánh giá.\n- Nếu quên từ trip planning, có thể dùng travel preparation hoặc organize a trip.\nCụm từ quan trọng nên dùng:\n- plan a family trip: lên kế hoạch chuyến đi gia đình\n- save time and effort: tiết kiệm thời gian và công sức\n- provide useful advice: cung cấp lời khuyên hữu ích\n- have personal experience: có kinh nghiệm cá nhân\n- fit the family's needs: phù hợp với nhu cầu gia đình\n- make a wise decision: đưa ra quyết định sáng suốt\nTừ nối khi nói (Linking Words):\n- On the one hand: một mặt\n- On the other hand: mặt khác\n- Compared with: so với\n- Although: mặc dù\n- In conclusion: kết luận\nCách thể hiện quan điểm tự nhiên:\n- I would choose Option 3 because personal experience can provide practical information. (Tôi chọn phương án 3 vì kinh nghiệm thực tế rất hữu ích)\n- Compared with the other options, this choice is more balanced. (So với các lựa chọn khác, lựa chọn này cân bằng hơn)\n- From my perspective, the best plan should save time and meet everyone's expectations. (Theo tôi, kế hoạch tốt nên tiết kiệm thời gian và đáp ứng mong đợi của mọi người)\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói ưu điểm của lựa chọn mình chọn mà không phân tích các lựa chọn khác.\n- Lặp lại good hoặc convenient quá nhiều.\n- Không đưa ra quyết định rõ ràng ở cuối bài.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Quay về các yếu tố quen thuộc như cost, time, experience và convenience.\n- Dùng câu: Let's evaluate this option from a different perspective.\n- Nếu bị kẹt ở một phương án, hãy chuyển sang phương án tiếp theo.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người tổ chức chuyến đi thực tế.\n- Một lựa chọn tốt không chỉ thuận tiện mà còn phù hợp với nhiều thành viên trong gia đình.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of doing sports\n\nBenefits of Sports\nImproving physical health and maintaining a healthy lifestyle\nReducing stress and improving mental well-being\nDeveloping teamwork and social skills\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat sports are popular in your country?\n2\nWhy do many people find it difficult to play sports?\n3\nWhat can motivate people to do sports regularly?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Topic Development**, yêu cầu bạn trình bày về lợi ích của việc chơi thể thao dựa trên sơ đồ tư duy.\n- Các ý chính gồm sức khỏe thể chất, giảm căng thẳng, kỹ năng xã hội và thêm ý cá nhân.\n- Tiêu chí đánh giá gồm khả năng phát triển ý, dùng từ phù hợp và trình bày logic.\n- Thời gian khoảng **5 phút**, nên dành phần lớn thời gian cho bài nói chính và chuẩn bị follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction – Detail – Example – Add)**.\n- **Ví dụ 1:** Doing sports brings many benefits because it helps people stay healthy and improve their quality of life.\n- **Ví dụ 2:** Besides physical benefits, sports also help people build relationships and work better with others.\n- Đi theo mindmap để tránh lặp ý và đảm bảo bài nói đầy đủ.\n- Thêm ví dụ về môn thể thao phổ biến như football, badminton hoặc swimming.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng câu chuyển ý như Another important benefit is... để liên kết các ý.\n- Dùng hiện tại đơn để nói về lợi ích chung và hiện tại hoàn thành khi nói về trải nghiệm.\n- Có thể thay thế do sports bằng take part in physical activities.\nCụm từ quan trọng nên dùng:\n- maintain physical health: duy trì sức khỏe thể chất\n- reduce stress levels: giảm mức độ căng thẳng\n- stay physically active: duy trì hoạt động thể chất\n- develop teamwork skills: phát triển kỹ năng làm việc nhóm\n- build self-confidence: xây dựng sự tự tin\n- lead a healthier lifestyle: có lối sống lành mạnh hơn\nTừ nối khi nói (Linking Words):\n- Firstly: đầu tiên\n- Moreover: hơn nữa\n- For instance: ví dụ\n- However: tuy nhiên\n- Overall: nhìn chung\nCách thể hiện quan điểm tự nhiên:\n- I believe sports are important because they benefit both the body and the mind. (Tôi tin thể thao quan trọng vì tốt cho cả cơ thể và tinh thần)\n- In my opinion, reducing stress is one of the biggest benefits of sports. (Theo tôi, giảm căng thẳng là lợi ích lớn của thể thao)\n- From my perspective, people should make time for exercise despite their busy schedules. (Theo tôi, mọi người nên dành thời gian tập luyện dù bận rộn)\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **What sports are popular in your country?** – Football and badminton are very popular because they are enjoyable and easy to play.\n- **Why do many people find it difficult to play sports?** – Many people are busy with work or study and do not have enough time.\n- **What can motivate people to do sports regularly?** – Setting clear goals and exercising with friends can help people stay motivated.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ.\n- Quên trả lời các ý trong mindmap.\n- Dành quá nhiều thời gian cho một ý duy nhất.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Liên hệ với trải nghiệm tập luyện của bản thân.\n- Dùng câu: That is a complex issue. If we evaluate it from a societal viewpoint...\n- Nếu quên từ chuyên ngành, hãy mô tả bằng cách đơn giản hơn.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn thể thao không chỉ là hoạt động giải trí mà còn là cách phát triển bản thân.\n- Sự logic và mạch lạc quan trọng hơn việc dùng từ quá khó.\n- Luôn thêm ví dụ thực tế để bài nói thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about cooking.\n1.\nDo you often cook at home?\n2.\nWhat kind of food do you usually cook?\n3.\nWhen did you cook for the first time?\nNow, let’s talk about social events.\n4.\nHow often do you join social events?\n5.\nWhat kinds of social events do you enjoy?\n6.\nDo you prefer small gatherings or big events? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 là phần tương tác xã hội gồm 6 câu hỏi trong khoảng 3 phút. Bạn cần trả lời tự nhiên về những chủ đề quen\nthuộc trong cuộc sống.\n• Topic A (Cooking): Ba câu hỏi đầu tập trung vào thói quen nấu ăn, món ăn thường nấu và trải nghiệm lần đầu nấu ăn.\n• Topic B (Social Events): Ba câu hỏi sau nói về việc tham gia sự kiện xã hội, sở thích về các loại sự kiện và lựa chọn\ngiữa buổi gặp mặt nhỏ hoặc sự kiện lớn.\n• Tiêu chí đánh giá gồm Fluency, Vocabulary, Grammar và Pronunciation. Bạn nên mở rộng câu trả lời bằng lý do và\nví dụ cá nhân.\n• Nên dành khoảng 25–35 giây cho mỗi câu hỏi để thể hiện khả năng phát triển ý.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE (Answer – Reason – Example): trả lời câu hỏi, giải thích lý do và đưa ví dụ.\n• Ví dụ Topic A: Yes, I often cook at home because it is healthier and I can choose the ingredients by myself. For\nexample, I usually cook simple dishes like fried rice or noodles.\n• Ví dụ Topic B: I prefer small gatherings because they allow me to have deeper conversations with my friends.\n• Luôn tự hỏi thêm Why? và How? để kéo dài câu trả lời.\n• Khi chuyển từ cooking sang social events, có thể dùng câu: Besides my daily activities, I also enjoy joining social\nevents with other people.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định, sử dụng từ đệm như well, actually, I think để tránh khoảng lặng.\n• Dùng hiện tại đơn để nói về thói quen và quá khứ đơn khi kể về lần đầu trải nghiệm.\n• Nếu quên từ vựng, hãy mô tả ý nghĩa bằng từ đơn giản hơn.\n• Topic A: prepare meals (chuẩn bị bữa ăn), cooking skills (kỹ năng nấu ăn), homemade food (đồ ăn tự nấu).\n• Topic B: social gathering (buổi gặp mặt), build relationships (xây dựng mối quan hệ), create memories (tạo kỷ niệm).\nCụm từ quan trọng nên dùng:\n• cook from scratch: tự nấu ăn từ nguyên liệu ban đầu\n• try new recipes: thử công thức nấu ăn mới\n• save money by cooking at home: tiết kiệm tiền bằng cách nấu ở nhà\n• attend social events: tham gia sự kiện xã hội\n• spend quality time with others: dành thời gian ý nghĩa với người khác\n• make new friends: kết bạn mới\nTừ nối khi nói (Linking Words):\n• First of all: trước hết\n• Besides: bên cạnh đó\n• For example: ví dụ như\n• However: tuy nhiên\n• Therefore: vì vậy\nCách thể hiện quan điểm tự nhiên:\n• I personally think cooking is useful because it helps people become more independent. (Tôi nghĩ nấu ăn hữu ích vì\ngiúp con người tự lập hơn)\n• In my opinion, social events are important because they help people connect with each other. (Theo tôi, sự kiện xã\nhội quan trọng vì giúp mọi người kết nối)\n• I believe small gatherings are better because people can communicate more comfortably. (Tôi tin các buổi gặp nhỏ\ntốt hơn vì mọi người giao tiếp thoải mái hơn)\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn như Yes hoặc No mà không giải thích.\n• Ở Topic A, tránh chỉ kể tên món ăn mà cần nói thêm cảm xúc hoặc lý do.\n• Ở Topic B, tránh chỉ nói events are fun mà không giải thích lợi ích.\n• Dùng sai thì khi kể về lần đầu nấu ăn.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu: That is an interesting question, let me think for a second.\n• Nếu quên từ về cooking, hãy nói về food, ingredients hoặc daily routines.\n• Nếu bí ở social events, hãy chuyển sang nói về friends, communication hoặc relationships.\n6. Tư duy làm bài nói:\n• Xem đây là một cuộc trò chuyện tự nhiên với giám khảo.\n• Chuyển chủ đề linh hoạt và tránh học thuộc câu trả lời cứng nhắc.\n• Sự tự nhiên và khả năng phát triển ý quan trọng hơn từ vựng khó.\nSolution Discussion\nPART 2\n4 phút\nYour family wants to plan a trip together and needs to choose the best way to prepare for it.\nYou are considering the following options:\n• Option 1: Make the plan by yourself\n• Option 2: Hire a travel agent to make the plan\n• Option 3: Ask a friend who has had a similar trip for advice\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion, yêu cầu bạn so sánh ba cách chuẩn bị cho chuyến đi gia đình.\n• Bạn cần đánh giá dựa trên các yếu tố như chi phí, sự tiện lợi, kinh nghiệm và mức độ phù hợp.\n• Tiêu chí chấm điểm gồm khả năng phân tích, so sánh và đưa ra lựa chọn cuối cùng.\n• Thời gian khoảng 4 phút, nên phân tích từng lựa chọn trước khi kết luận.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc State opinion – Give reason – Compare – Conclude.\n• Option 1: Planning by yourself gives more freedom, but it can take a lot of time and effort.\n• Option 2: A travel agent is convenient and professional, but it may cost more money.\n• Option 3: Asking an experienced friend provides useful advice, but the information may not cover everything.\n• Hãy liên hệ với nhu cầu thực tế của gia đình như ngân sách, thời gian và sở thích.\n• Dùng từ nối như however, while, although để so sánh ưu nhược điểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn thay vì nói riêng từng phương án.\n• Dùng hiện tại đơn để nói về lợi ích chung và cấu trúc so sánh khi đánh giá.\n• Nếu quên từ trip planning, có thể dùng travel preparation hoặc organize a trip.\nCụm từ quan trọng nên dùng:\n• plan a family trip: lên kế hoạch chuyến đi gia đình\n• save time and effort: tiết kiệm thời gian và công sức\n• provide useful advice: cung cấp lời khuyên hữu ích\n• have personal experience: có kinh nghiệm cá nhân\n• fit the family's needs: phù hợp với nhu cầu gia đình\n• make a wise decision: đưa ra quyết định sáng suốt\nTừ nối khi nói (Linking Words):\n• On the one hand: một mặt\n• On the other hand: mặt khác\n• Compared with: so với\n• Although: mặc dù\n• In conclusion: kết luận\nCách thể hiện quan điểm tự nhiên:\n• I would choose Option 3 because personal experience can provide practical information. (Tôi chọn phương án 3 vì\nkinh nghiệm thực tế rất hữu ích)\n• Compared with the other options, this choice is more balanced. (So với các lựa chọn khác, lựa chọn này cân bằng\nhơn)\n• From my perspective, the best plan should save time and meet everyone's expectations. (Theo tôi, kế hoạch tốt nên\ntiết kiệm thời gian và đáp ứng mong đợi của mọi người)\n4. Các lỗi thường gặp:\n• Chỉ nói ưu điểm của lựa chọn mình chọn mà không phân tích các lựa chọn khác.\n• Lặp lại good hoặc convenient quá nhiều.\n• Không đưa ra quyết định rõ ràng ở cuối bài.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Quay về các yếu tố quen thuộc như cost, time, experience và convenience.\n• Dùng câu: Let's evaluate this option from a different perspective.\n• Nếu bị kẹt ở một phương án, hãy chuyển sang phương án tiếp theo.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người tổ chức chuyến đi thực tế.\n• Một lựa chọn tốt không chỉ thuận tiện mà còn phù hợp với nhiều thành viên trong gia đình.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of doing sports\nImproving physical health and\nReducing stress and improving mental\nmaintaining a healthy lifestyle\nwell-being\nBenefits of Sports\nÝ tưởng của bạn\nDeveloping teamwork and social skills\nFOLLOW-UP QUESTIONS\n1.\nWhat sports are popular in your country?\n2.\nWhy do many people find it difficult to play sports?\n3.\nWhat can motivate people to do sports regularly?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Topic Development, yêu cầu bạn trình bày về lợi ích của việc chơi thể thao dựa trên sơ đồ tư duy.\n• Các ý chính gồm sức khỏe thể chất, giảm căng thẳng, kỹ năng xã hội và thêm ý cá nhân.\n• Tiêu chí đánh giá gồm khả năng phát triển ý, dùng từ phù hợp và trình bày logic.\n• Thời gian khoảng 5 phút, nên dành phần lớn thời gian cho bài nói chính và chuẩn bị follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction – Detail – Example – Add).\n• Ví dụ 1: Doing sports brings many benefits because it helps people stay healthy and improve their quality of life.\n• Ví dụ 2: Besides physical benefits, sports also help people build relationships and work better with others.\n• Đi theo mindmap để tránh lặp ý và đảm bảo bài nói đầy đủ.\n• Thêm ví dụ về môn thể thao phổ biến như football, badminton hoặc swimming.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng câu chuyển ý như Another important benefit is... để liên kết các ý.\n• Dùng hiện tại đơn để nói về lợi ích chung và hiện tại hoàn thành khi nói về trải nghiệm.\n• Có thể thay thế do sports bằng take part in physical activities.\nCụm từ quan trọng nên dùng:\n• maintain physical health: duy trì sức khỏe thể chất\n• reduce stress levels: giảm mức độ căng thẳng\n• stay physically active: duy trì hoạt động thể chất\n• develop teamwork skills: phát triển kỹ năng làm việc nhóm\n• build self-confidence: xây dựng sự tự tin\n• lead a healthier lifestyle: có lối sống lành mạnh hơn\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên\n• Moreover: hơn nữa\n• For instance: ví dụ\n• However: tuy nhiên\n• Overall: nhìn chung\nCách thể hiện quan điểm tự nhiên:\n• I believe sports are important because they benefit both the body and the mind. (Tôi tin thể thao quan trọng vì tốt\ncho cả cơ thể và tinh thần)\n• In my opinion, reducing stress is one of the biggest benefits of sports. (Theo tôi, giảm căng thẳng là lợi ích lớn của\nthể thao)\n• From my perspective, people should make time for exercise despite their busy schedules. (Theo tôi, mọi người nên\ndành thời gian tập luyện dù bận rộn)\n4. Gợi ý trả lời câu hỏi follow-up:\n• What sports are popular in your country? – Football and badminton are very popular because they are enjoyable and\neasy to play.\n• Why do many people find it difficult to play sports? – Many people are busy with work or study and do not have\nenough time.\n• What can motivate people to do sports regularly? – Setting clear goals and exercising with friends can help people\nstay motivated.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ.\n• Quên trả lời các ý trong mindmap.\n• Dành quá nhiều thời gian cho một ý duy nhất.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Liên hệ với trải nghiệm tập luyện của bản thân.\n• Dùng câu: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ chuyên ngành, hãy mô tả bằng cách đơn giản hơn.\n7. Tư duy làm bài nói:\n• Hãy nhìn thể thao không chỉ là hoạt động giải trí mà còn là cách phát triển bản thân.\n• Sự logic và mạch lạc quan trọng hơn việc dùng từ quá khó.\n• Luôn thêm ví dụ thực tế để bài nói thuyết phục hơn."
+}

@@ -1,0 +1,717 @@
+{
+ "id": "vlu-89",
+ "number": 89,
+ "title": "Đề thi VLU 89",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-89",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Tying the Knot: Wedding Customs in Modern Japan",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Modern Japanese weddings often combine several different traditions rather than following just one. A couple might hold a small Shinto ceremony at a shrine, then change into Western-style formal wear for a reception at a hotel banquet hall. This mixing surprises some visitors who expect a single, unified tradition, but for many Japanese couples it feels completely natural, since each element is chosen separately rather than inherited as a single fixed package.",
+     "Legally, a marriage in Japan becomes official the moment a couple submits a signed form to their local government office, a step known as todoke. **This** paperwork alone is enough; no ceremony, priest, or witness is legally required. Because of this, some couples choose to submit the form quietly and skip a formal ceremony altogether, especially if they want to save money or avoid a large, stressful event. Others delay the paperwork until after a ceremony has already taken place, treating the celebration as the emotional milestone and the form as a separate administrative step.",
+     "Couples who do hold a traditional ceremony often choose a Shinto shrine, where a priest performs purification rituals and the couple shares three sips of sake each from three different cups, a custom called san-san-kudo. The bride traditionally wears a white kimono for the ceremony itself, then often changes into a colorful kimono or a Western-style white dress for photographs and the reception afterward. Grooms, for their part, typically wear a formal black kimono with a family crest, or a Western-style suit if the couple has chosen a more modern arrangement. Close relatives on both sides are usually invited to witness the shrine ceremony itself, even when the later reception welcomes a much wider circle of guests.",
+     "Traditional or not, Japanese weddings have a reputation for being expensive, with guests **customarily** giving cash gifts in special envelopes to help cover costs. In recent years, however, many younger couples have pushed back against this expectation, choosing smaller, less formal celebrations or skipping a public ceremony entirely. Wedding industry surveys have tracked a steady decline in average spending over the past two decades as a result, with some couples opting instead for a simple family dinner or a small trip abroad.",
+     "Taken together, these shifts suggest that Japanese couples increasingly treat wedding customs as a menu of options rather than a fixed script. Some elements, like the shrine ceremony, remain popular for their symbolism; others, like a **lavish** reception, are increasingly seen as optional. What stays constant is the simple legal paperwork that, regardless of any ceremony chosen, makes a marriage official, leaving everything else, from the venue to the outfits to the guest list, to be arranged however each couple sees fit."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Shinto ceremonies have completely replaced Western-style wedding receptions.",
+       "B": "Japanese couples often blend different traditions rather than following just one.",
+       "C": "Every Japanese couple follows a single, identical wedding tradition.",
+       "D": "Legal paperwork is the least important part of a Japanese wedding."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu đầu tiên của đoạn 1: \"Modern Japanese weddings often combine several different traditions rather than following just one.\" (Đám cưới Nhật Bản hiện đại thường kết hợp nhiều truyền thống khác nhau thay vì chỉ làm theo một truyền thống). Ý chính bao trùm là các cặp đôi Nhật Bản thường pha trộn nhiều truyền thống khác nhau."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what actually makes a marriage legally official in Japan?",
+      "options": {
+       "A": "Couples must hold a shrine ceremony before submitting any paperwork.",
+       "B": "A ceremony, priest, and witness are all legally required for marriage.",
+       "C": "Submitting a signed form to the government office makes a marriage official.",
+       "D": "The todoke form is optional and rarely submitted by couples."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"legally official\", \"submits a signed form\" ở đoạn 2 để thấy việc nộp đơn đăng ký kết hôn đã ký lên chính quyền địa phương giúp hôn nhân chính thức về mặt pháp lý."
+     },
+     {
+      "number": 3,
+      "stem": "Based on the passage, what happens during the san-san-kudo custom at a Shinto wedding ceremony?",
+      "options": {
+       "A": "A priest performs purification rituals only during the reception.",
+       "B": "The couple shares three sips of sake from three different cups.",
+       "C": "Grooms are required to wear a Western-style suit at every shrine wedding.",
+       "D": "Brides always wear a Western-style dress throughout the entire ceremony."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"san-san-kudo\" ở đoạn 3 để tìm chi tiết nghi lễ (cặp đôi cùng uống ba ngụm rượu sake từ ba chiếc cốc khác nhau)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how have younger couples responded to the traditionally high cost of Japanese weddings?",
+      "options": {
+       "A": "Guests are no longer expected to give any kind of cash gift.",
+       "B": "Average wedding spending has steadily increased over the past two decades.",
+       "C": "Younger couples have increasingly pushed back against expensive wedding customs.",
+       "D": "Smaller, informal celebrations have become illegal under current regulations."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"younger couples\", \"pushed back\" ở đoạn 4 để xác định phản ứng trước chi phí đắt đỏ (các cặp đôi trẻ ngày càng phản đối các phong tục cưới hỏi tốn kém)."
+     },
+     {
+      "number": 5,
+      "stem": "According to the passage, which of the following is NOT mentioned as part of a traditional wedding?",
+      "options": {
+       "A": "Cash gifts given by guests in special envelopes.",
+       "B": "A legally required public announcement at city hall.",
+       "C": "A colorful kimono worn for photographs after the ceremony.",
+       "D": "A small Shinto ceremony held at a shrine."
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc lướt các đoạn 2, 3 và 4 để đối soát các chi tiết: quà mừng bằng tiền mặt (đoạn 4), kimono nhiều màu sắc (đoạn 3), lễ nghi Shinto tại đền (đoạn 3). Thông báo công khai bắt buộc về mặt pháp lý tại tòa thị chính (a legally required public announcement at city hall) là chi tiết không hề xuất hiện."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"customarily\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "rarely",
+       "B": "accidentally",
+       "C": "traditionally",
+       "D": "secretly"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"customarily\" ở đoạn 4 đi kèm thói quen khách mừng tiền cưới theo truyền thống. Từ này đồng nghĩa với theo phong tục, truyền thống (traditionally)."
+     },
+     {
+      "number": 7,
+      "stem": "The word \"lavish\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "modest",
+       "B": "extravagant",
+       "C": "affordable",
+       "D": "quiet"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"lavish\" ở đoạn 5 nằm trong ngữ cảnh đối lập với các đám cưới nhỏ, tiết kiệm chi phí. Từ này mang nghĩa xa hoa, đắt đỏ (extravagant)."
+     },
+     {
+      "number": 8,
+      "stem": "The word \"This\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "a shrine ceremony",
+       "B": "a hotel reception",
+       "C": "a signed form",
+       "D": "a family crest"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị đại từ \"This\" ở câu thứ hai đoạn 2: \"submits a signed form to their local government office, a step known as todoke. This paperwork alone is enough...\" Đại từ \"This\" quy chiếu trực tiếp đến tờ đơn đã ký (a signed form)."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about a couple who wants to marry without holding any ceremony?",
+      "options": {
+       "A": "Every couple in Japan must hold a shrine ceremony to marry legally.",
+       "B": "Skipping the paperwork has no effect on a couple's marital status.",
+       "C": "A ceremony alone is always sufficient to make a marriage valid.",
+       "D": "A couple could marry legally without any ceremony."
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích logic ở đoạn 2: chỉ cần nộp đơn ký tên là đủ điều kiện pháp lý mà không bắt buộc phải tổ chức bất kỳ buổi lễ nào. Từ đó suy luận được rằng một cặp đôi hoàn toàn có thể kết hôn hợp pháp mà không cần tổ chức lễ cưới."
+     },
+     {
+      "number": 10,
+      "stem": "What is the author's overall attitude toward modern Japanese wedding customs?",
+      "options": {
+       "A": "Strongly critical of the cost associated with Japanese weddings.",
+       "B": "Dismissive of couples who choose smaller, less traditional weddings.",
+       "C": "Descriptive, presenting wedding customs as a flexible set of options.",
+       "D": "Certain that traditional Shinto ceremonies will disappear entirely soon. Reading"
+      },
+      "answer": "C",
+      "type_hint": "Thái độ của tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Phân tích sắc thái toàn bài. Tác giả trình bày các khía cạnh của đám cưới Nhật Bản một cách khách quan, cung cấp thông tin như một tập hợp các lựa chọn linh hoạt của các cặp đôi. Thái độ này mang tính mô tả/khách quan (descriptive)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính toàn bài (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu đầu tiên của đoạn 1: \"Modern Japanese weddings often combine several different traditions rather than following just one.\" (Đám cưới Nhật Bản hiện đại thường kết hợp nhiều truyền thống khác nhau thay vì chỉ làm theo một truyền thống). Ý chính bao trùm là các cặp đôi Nhật Bản thường pha trộn nhiều truyền thống khác nhau.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q3, R1Q4):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa) để tìm dữ kiện trực tiếp trong bài đọc.\n  - Với **R1Q2**, quét các từ khóa \"legally official\", \"submits a signed form\" ở đoạn 2 để thấy việc nộp đơn đăng ký kết hôn đã ký lên chính quyền địa phương giúp hôn nhân chính thức về mặt pháp lý.\n  - Với **R1Q3**, quét từ khóa \"san-san-kudo\" ở đoạn 3 để tìm chi tiết nghi lễ (cặp đôi cùng uống ba ngụm rượu sake từ ba chiếc cốc khác nhau).\n  - Với **R1Q4**, quét các từ khóa \"younger couples\", \"pushed back\" ở đoạn 4 để xác định phản ứng trước chi phí đắt đỏ (các cặp đôi trẻ ngày càng phản đối các phong tục cưới hỏi tốn kém).\n- **Dạng câu hỏi Loại trừ NOT (R1Q5):** Đọc lướt các đoạn 2, 3 và 4 để đối soát các chi tiết: quà mừng bằng tiền mặt (đoạn 4), kimono nhiều màu sắc (đoạn 3), lễ nghi Shinto tại đền (đoạn 3). Thông báo công khai bắt buộc về mặt pháp lý tại tòa thị chính (a legally required public announcement at city hall) là chi tiết không hề xuất hiện.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q6, R1Q7):** Áp dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q6**, từ **\"customarily\"** ở đoạn 4 đi kèm thói quen khách mừng tiền cưới theo truyền thống. Từ này đồng nghĩa với theo phong tục, truyền thống (traditionally).\n  - Với **R1Q7**, từ **\"lavish\"** ở đoạn 5 nằm trong ngữ cảnh đối lập với các đám cưới nhỏ, tiết kiệm chi phí. Từ này mang nghĩa xa hoa, đắt đỏ (extravagant).\n- **Dạng câu hỏi Quy chiếu (R1Q8):** Định vị đại từ **\"This\"** ở câu thứ hai đoạn 2: \"submits a signed form to their local government office, a step known as todoke. This paperwork alone is enough...\" Đại từ \"This\" quy chiếu trực tiếp đến tờ đơn đã ký (a signed form).\n- **Dạng câu hỏi Suy luận (R1Q9):** Phân tích logic ở đoạn 2: chỉ cần nộp đơn ký tên là đủ điều kiện pháp lý mà không bắt buộc phải tổ chức bất kỳ buổi lễ nào. Từ đó suy luận được rằng một cặp đôi hoàn toàn có thể kết hôn hợp pháp mà không cần tổ chức lễ cưới.\n- **Dạng câu hỏi Thái độ của tác giả (R1Q10):** Phân tích sắc thái toàn bài. Tác giả trình bày các khía cạnh của đám cưới Nhật Bản một cách khách quan, cung cấp thông tin như một tập hợp các lựa chọn linh hoạt của các cặp đôi. Thái độ này mang tính mô tả/khách quan (descriptive).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi có vị trí định vị rõ ràng như Từ vựng (R1Q6, R1Q7) và Quy chiếu (R1Q8). Kế tiếp, tận dụng kỹ thuật đọc quét từ khóa để giải quyết nhanh nhóm câu **Chi tiết** (R1Q2, R1Q3, R1Q4) và câu **Loại trừ** (R1Q5). Cuối cùng, tổng hợp logic toàn bài để hoàn thành chính xác các câu hỏi phân tích như **Ý chính** (R1Q1), **Suy luận** (R1Q9) và **Thái độ tác giả** (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Collagen and the Architecture of Skin",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Collagen is often mentioned in skincare advertising, but its actual biological role has little to do with any product marketed to consumers. It is the most abundant protein in the human body, forming a structural scaffold that gives tissues, including skin, tendons, and bone, much of their mechanical strength. Roughly a quarter to a third of all protein in the body, by mass, is thought to be some form of collagen.",
+     "Within skin specifically, collagen is concentrated in the dermis, the thicker layer beneath the visible outer surface, where it is arranged in interwoven bundles rather than a single uniform sheet. Each collagen molecule itself has a distinctive triple-helix structure, three protein chains wound tightly around one another, which gives individual fibers considerable tensile strength while still allowing some flexibility. This arrangement is not static; the bundles shift and reorganize gradually as skin stretches, ages, and repairs itself over time.",
+     "Specialized cells called fibroblasts continuously produce and remodel this collagen network throughout life, breaking down older fibers and synthesizing replacements in an ongoing cycle. The rate of this turnover, however, is not constant; it appears to slow gradually over time, and the newly produced fibers tend to become somewhat less organized than the dense, tightly packed bundles typical of younger skin. Researchers studying this process are still working out exactly which signals control the pace of renewal.",
+     "Skin's visible firmness depends less on the sheer quantity of collagen present than on how well-organized the existing network is; two samples containing a similar total amount of collagen can behave quite differently depending on fiber alignment and cross-linking density. **This** distinction matters because it means simply adding more collagen to a system, whether synthesized internally or applied externally, does not automatically translate into equivalent structural improvement.",
+     "Whether collagen consumed as a supplement or applied topically actually reaches the dermis intact remains a genuinely **contested** question among researchers. Digestive enzymes break dietary collagen down into smaller peptides and amino acids before absorption, and whether those fragments subsequently reassemble into functional dermal collagen, rather than simply being used as generic building blocks elsewhere in the body, is not yet settled by the existing evidence. Topically applied collagen faces a related obstacle, since its molecules are generally considered too large to cross the outer skin barrier intact.",
+     "Collagen does not work alone within the dermis; elastin, a separate structural protein arranged in a looser network, contributes the capacity to stretch and spring back to shape, a property collagen's dense bundles do not provide on their own. The two proteins, working together rather than independently, are what give skin its combined resistance to tearing and its capacity to recover its shape afterward, a partnership that neither protein could replicate alone.",
+     "Taken together, current research paints collagen less as a single quantity to be topped up and more as part of an intricate, actively maintained structural system, one whose behavior depends heavily on organization, cross-linking, and its interaction with neighboring proteins, and whose full complexity researchers are still in the process of mapping."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Collagen's biological role is fully explained by skincare advertising.",
+       "B": "Collagen is a structural protein that gives many tissues mechanical strength.",
+       "C": "Elastin is more abundant in the body than collagen is.",
+       "D": "Collagen is best understood as a marketed skincare ingredient first."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc đoạn 1: bài viết khẳng định vai trò sinh học thực sự của collagen khác với quảng cáo mỹ phẩm - nó là một protein cấu trúc tạo nên sức bền cơ học cho các mô. Ý chính bao trùm là Collagen là một protein cấu trúc mang lại sức bền cơ học cho nhiều mô."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, how is collagen arranged within the dermis?",
+      "options": {
+       "A": "The dermis is the thin, outermost visible layer of skin.",
+       "B": "Collagen molecules lack any consistent internal structure at all.",
+       "C": "Collagen in the dermis is arranged in interwoven bundles of fibers.",
+       "D": "Collagen is arranged in the dermis as a single uniform sheet."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"arranged\", \"dermis\" ở đoạn 2 để thấy cách sắp xếp của collagen (được sắp xếp thành các bó sợi đan xen / interwoven bundles of fibers)."
+     },
+     {
+      "number": 13,
+      "stem": "Based on the passage, what role do fibroblasts play in the skin's collagen network?",
+      "options": {
+       "A": "Newly produced collagen fibers are always more organized than older ones.",
+       "B": "Fibroblasts produce and remodel collagen fibers throughout a person's life.",
+       "C": "Fibroblasts stop producing new collagen entirely after early adulthood.",
+       "D": "Collagen turnover happens at a constant, unchanging rate throughout life."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"fibroblasts\" ở đoạn 3 để tìm vai trò của tế bào sợi (liên tục sản xuất và tái cấu trúc mạng lưới collagen suốt đời)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what factor most affects how firm skin appears, beyond the total amount of collagen present?",
+      "options": {
+       "A": "Two samples with identical collagen amounts always behave identically.",
+       "B": "Adding more collagen always produces an equivalent structural improvement.",
+       "C": "Skin firmness depends only on the total quantity of collagen present.",
+       "D": "Fiber alignment and cross-linking density can affect how organized collagen is."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"fiber alignment\", \"cross-linking density\" ở đoạn 4 để thấy yếu tố ảnh hưởng đến độ săn chắc của da (sự căn chỉnh sợi và mật độ liên kết chéo)."
+     },
+     {
+      "number": 15,
+      "stem": "According to the passage, which of the following is NOT mentioned as a feature of collagen?",
+      "options": {
+       "A": "A triple-helix structure made of three protein chains.",
+       "B": "A guaranteed ability to fully reverse skin aging.",
+       "C": "A location primarily within the dermis layer of skin.",
+       "D": "Production and remodeling by specialized fibroblast cells."
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc lướt bài để đối soát các đặc điểm của collagen: cấu trúc xoắn ba (đoạn 2), nằm ở lớp trung bì (đoạn 2), và được sản xuất bởi tế bào sợi (đoạn 3). Khả năng đảm bảo đảo ngược hoàn toàn sự lão hóa da (A guaranteed ability to fully reverse skin aging) là chi tiết không hề được đề cập."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"scaffold\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "container",
+       "B": "liquid",
+       "C": "framework",
+       "D": "membrane"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"scaffold\" ở đoạn 1 đi cùng cụm \"structural scaffold that gives tissues... mechanical strength\", chỉ một khung đỡ tạo ra sức bền cơ học cho mô. Từ này đồng nghĩa với khung, bộ khung (framework)."
+     },
+     {
+      "number": 17,
+      "stem": "The word \"contested\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "settled",
+       "B": "irrelevant",
+       "C": "obvious",
+       "D": "disputed"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"contested\" ở đoạn 5 nằm trong ngữ cảnh vấn đề collagen bổ sung hay thoa ngoài da có thực sự đến được lớp trung bì hay không vẫn là một câu hỏi tranh cãi giữa các nhà nghiên cứu (\"contested question\"). Từ này đồng nghĩa với gây tranh cãi, chưa ngã ngũ (disputed)."
+     },
+     {
+      "number": 18,
+      "stem": "The phrase \"This distinction\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "fiber alignment",
+       "B": "cross-linking density",
+       "C": "organization versus quantity",
+       "D": "total quantity alone"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị cụm từ \"This distinction\" ở đoạn 4. Áp dụng quy tắc đọc ngược lại câu phía trước: \"Skin's visible firmness depends less on the sheer quantity... than on how well-organized the existing network is...\" Cụm từ này quy chiếu trực tiếp đến sự phân biệt giữa tính tổ chức (cấu trúc) và số lượng collagen (organization versus quantity)."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from the passage about simply increasing the amount of collagen in skin?",
+      "options": {
+       "A": "Topical collagen definitely penetrates the dermis fully intact.",
+       "B": "Simply increasing collagen quantity may not automatically improve skin structure.",
+       "C": "Oral collagen supplements are proven to reorganize dermal fiber networks.",
+       "D": "Collagen quantity is the only factor that determines skin firmness."
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích logic câu cuối đoạn 4: việc chỉ đơn thuần gia tăng lượng collagen không đồng nghĩa với việc cải thiện cấu trúc da một cách tự động. Từ đó suy luận rằng việc chỉ tăng số lượng collagen có thể không tự động làm tăng chất lượng/cấu trúc da."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's overall attitude toward claims about collagen supplements and skincare products?",
+      "options": {
+       "A": "Fully convinced that collagen supplements reliably improve skin firmness.",
+       "B": "Dismissive of collagen's biological importance to skin structure.",
+       "C": "Certain that topical collagen products are scientifically ineffective.",
+       "D": "Measured, presenting collagen's role as complex and still being researched. Reading"
+      },
+      "answer": "D",
+      "type_hint": "Thái độ của tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Phân tích sắc thái ngôn từ ở đoạn 4 và 5. Tác giả không bác bỏ hoàn toàn cũng không tâng bốc vai trò của các sản phẩm bổ sung collagen mà trình bày thông tin một cách khách quan, cho thấy vai trò của collagen rất phức tạp và vẫn đang tiếp tục được nghiên cứu. Thái độ này mang tính cẩn trọng, chừng mực (measured)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q6, R2Q7):** Áp dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q6**, từ **\"scaffold\"** ở đoạn 1 đi cùng cụm \"structural scaffold that gives tissues... mechanical strength\", chỉ một khung đỡ tạo ra sức bền cơ học cho mô. Từ này đồng nghĩa với khung, bộ khung (framework).\n  - Với **R2Q7**, từ **\"contested\"** ở đoạn 5 nằm trong ngữ cảnh vấn đề collagen bổ sung hay thoa ngoài da có thực sự đến được lớp trung bì hay không vẫn là một câu hỏi tranh cãi giữa các nhà nghiên cứu (\"contested question\"). Từ này đồng nghĩa với gây tranh cãi, chưa ngã ngũ (disputed).\n- **Dạng câu hỏi Quy chiếu (R2Q8):** Định vị cụm từ **\"This distinction\"** ở đoạn 4. Áp dụng quy tắc đọc ngược lại câu phía trước: \"Skin's visible firmness depends less on the sheer quantity... than on how well-organized the existing network is...\" Cụm từ này quy chiếu trực tiếp đến sự phân biệt giữa tính tổ chức (cấu trúc) và số lượng collagen (organization versus quantity).\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q3, R2Q4):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa) để tìm dữ kiện trực tiếp trong bài đọc.\n  - Với **R2Q2**, quét các từ khóa \"arranged\", \"dermis\" ở đoạn 2 để thấy cách sắp xếp của collagen (được sắp xếp thành các bó sợi đan xen / interwoven bundles of fibers).\n  - Với **R2Q3**, quét từ khóa \"fibroblasts\" ở đoạn 3 để tìm vai trò của tế bào sợi (liên tục sản xuất và tái cấu trúc mạng lưới collagen suốt đời).\n  - Với **R2Q4**, quét từ khóa \"fiber alignment\", \"cross-linking density\" ở đoạn 4 để thấy yếu tố ảnh hưởng đến độ săn chắc của da (sự căn chỉnh sợi và mật độ liên kết chéo).\n- **Dạng câu hỏi Loại trừ NOT (R2Q5):** Đọc lướt bài để đối soát các đặc điểm của collagen: cấu trúc xoắn ba (đoạn 2), nằm ở lớp trung bì (đoạn 2), và được sản xuất bởi tế bào sợi (đoạn 3). Khả năng đảm bảo đảo ngược hoàn toàn sự lão hóa da (A guaranteed ability to fully reverse skin aging) là chi tiết không hề được đề cập.\n- **Dạng câu hỏi Ý chính toàn bài (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn 1: bài viết khẳng định vai trò sinh học thực sự của collagen khác với quảng cáo mỹ phẩm - nó là một protein cấu trúc tạo nên sức bền cơ học cho các mô. Ý chính bao trùm là Collagen là một protein cấu trúc mang lại sức bền cơ học cho nhiều mô.\n- **Dạng câu hỏi Suy luận (R2Q9):** Phân tích logic câu cuối đoạn 4: việc chỉ đơn thuần gia tăng lượng collagen không đồng nghĩa với việc cải thiện cấu trúc da một cách tự động. Từ đó suy luận rằng việc chỉ tăng số lượng collagen có thể không tự động làm tăng chất lượng/cấu trúc da.\n- **Dạng câu hỏi Thái độ của tác giả (R2Q10):** Phân tích sắc thái ngôn từ ở đoạn 4 và 5. Tác giả không bác bỏ hoàn toàn cũng không tâng bốc vai trò của các sản phẩm bổ sung collagen mà trình bày thông tin một cách khách quan, cho thấy vai trò của collagen rất phức tạp và vẫn đang tiếp tục được nghiên cứu. Thái độ này mang tính cẩn trọng, chừng mực (measured).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị thông tin nhanh như Từ vựng (R2Q6, R2Q7) và Quy chiếu (R2Q8). Tiếp theo, tận dụng kỹ thuật đọc quét từ khóa để hoàn thành các câu **Chi tiết** (R2Q2, R2Q3, R2Q4) và câu **Loại** trừ (R2Q5). Cuối cùng, tổng hợp logic toàn bài để chọn chính xác đáp án cho các câu tư duy phân tích như Ý chính (R2Q1), **Suy luận** (R2Q9) và **Thái độ tác giả** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Adaptive Learning: Promise and Peril in AI-Driven Classrooms",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Although adaptive learning software is often marketed as a straightforward upgrade over one-size-fits-all instruction, adjusting pace, difficulty, and content in real time based on how a student performs, the technology's actual classroom record is considerably more mixed than the marketing suggests, complicated by questions the software itself cannot answer. Whether that complexity gets acknowledged in a given school's rollout often depends more on district budget pressure than on careful evaluation.",
+     "At a mechanical level, these systems work by treating every student interaction, a correct answer, a hesitation, a repeated mistake, as a data point feeding into an algorithm that continuously reestimates what the student does and does not understand. The system then selects the next question or lesson segment accordingly, in principle keeping each learner working at the edge of their current ability rather than repeating material already mastered or struggling with material far beyond their reach. This constant recalibration is the feature vendors most often highlight when marketing these tools to school administrators.",
+     "The strongest evidence for these systems comes from large-scale studies showing modest but measurable gains in specific, well-defined skills, arithmetic fluency and vocabulary recall being frequent examples, particularly for students who previously received little individualized attention. Personalization at this scale would be logistically impossible for a single teacher managing dozens of students simultaneously, which is precisely the gap adaptive systems are designed to fill.",
+     "These gains, however, cluster overwhelmingly around skills that are easy to measure with discrete, gradable questions, which raises an uncomfortable possibility: that adaptive systems may be optimizing for whatever happens to be measurable rather than for what actually matters most in a given subject. Skills requiring open-ended reasoning, extended writing, or genuine argument construction resist the kind of **granular**, immediate feedback loop these systems depend on, and evidence for gains in those areas remains considerably thinner.",
+     "A second concern involves the data these systems accumulate. Continuous, fine-grained behavioral data on a child's academic performance is valuable, sensitive, and, in many jurisdictions, subject to only loosely defined privacy protections; parents and even teachers frequently have limited visibility into exactly how a given system's algorithm weighs different signals when deciding what a student sees next. **This lack of visibility** makes it genuinely difficult to audit a system for bias, such as whether it systematically underestimates certain groups of students based on patterns in the training data rather than genuine ability.",
+     "A third, less discussed concern is the effect on teachers themselves. Educators who lean heavily on adaptive software for daily instructional decisions may gradually lose the fine-grained, **intuitive** sense of student understanding that comes from direct, sustained observation, a skill that is difficult to rebuild quickly if the software becomes unavailable or is later judged to be flawed.",
+     "None of this amounts to a case against adaptive learning as such; the measurable gains in specific skills are real, not illusory. It does suggest, however, that the technology is best treated as one instructional tool among several rather than as a wholesale replacement for teacher judgment, and that its adoption should be accompanied by exactly the kind of scrutiny, over privacy, bias, and long-term skill development, that enthusiastic marketing tends to leave out."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Every adaptive learning system produces identical results regardless of design.",
+       "B": "Adaptive learning's classroom record is more mixed than its marketing suggests.",
+       "C": "Adaptive learning software has already fully replaced traditional classroom instruction.",
+       "D": "Teachers no longer play any meaningful role once adaptive software is adopted."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Ngay đoạn 1, tác giả đã nêu vấn đề: \"...the technology's actual classroom record is considerably more mixed than the marketing suggests...\". Ý chính bao trùm là thực tế sử dụng phần mềm học tập thích ứng phức tạp/đa chiều hơn quảng cáo."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, how does an adaptive learning system decide what a student sees next?",
+      "options": {
+       "A": "The algorithm only updates its estimate once per school term.",
+       "B": "The system ignores hesitations and only records fully correct answers.",
+       "C": "Teachers manually select every question presented to each student.",
+       "D": "The system selects each next question based on the student's prior responses."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"selects the next question\" ở đoạn 2 để thấy hệ thống đưa ra câu hỏi tiếp theo dựa trên phản ứng/tương tác trước đó của học sinh (based on the student's prior responses)."
+     },
+     {
+      "number": 23,
+      "stem": "Based on the passage, what pattern do the measurable gains from adaptive learning systems tend to show?",
+      "options": {
+       "A": "Measurable gains occur equally across all types of academic skills.",
+       "B": "Measurable gains cluster mainly around skills that are easy to grade discretely.",
+       "C": "Extended writing skills are the easiest skills for these systems to measure.",
+       "D": "Open-ended reasoning skills show the strongest measured gains so far."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"cluster overwhelmingly\" ở đoạn 4 để thấy các kết quả đo lường được tập trung chủ yếu ở các kỹ năng dễ chấm điểm/đánh giá rời rạc (easy to measure with discrete, gradable questions)."
+     },
+     {
+      "number": 24,
+      "stem": "According to the passage, what risk do teachers face from relying heavily on adaptive software?",
+      "options": {
+       "A": "Software removes any need for teachers to observe students directly.",
+       "B": "Teachers automatically improve their instructional skill by using adaptive software.",
+       "C": "Teachers may gradually lose their intuitive sense of student understanding.",
+       "D": "Adaptive software has no measurable effect on teachers themselves."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"teachers\", \"risk\" ở đoạn 6 để tìm nguy cơ giáo viên có thể dần mất đi cảm nhận bản năng/trực giác về mức độ hiểu bài của học sinh (lose their intuitive sense of student understanding)."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, which of the following is NOT mentioned as a concern about adaptive learning systems?",
+      "options": {
+       "A": "A guarantee that all algorithmic bias has been fully eliminated.",
+       "B": "Modest gains in arithmetic fluency and vocabulary recall.",
+       "C": "Difficulty auditing a system for bias in its recommendations.",
+       "D": "Limited visibility into how an algorithm weighs different signals."
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc lướt các đoạn 3, 4, 5 để đối soát các mối lo ngại/đặc điểm được đề cập: sự cải thiện vừa phải ở kỹ năng tính toán và từ vựng (đoạn 3), khó khăn trong việc kiểm toán định kiến thuật toán (đoạn 5), và tính minh bạch hạn chế của thuật toán (đoạn 5). Sự bảo đảm rằng định kiến thuật toán đã bị loại bỏ hoàn toàn (A guarantee that all algorithmic bias has been fully eliminated) là chi tiết không hề xuất hiện."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"granular\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "broad",
+       "B": "vague",
+       "C": "detailed",
+       "D": "random"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"granular\" ở đoạn 4 đi cùng cụm \"granular, immediate feedback loop\", chỉ phản hồi chi tiết/tỉ mỉ ngay lập tức. Từ này đồng nghĩa với chi tiết, cụ thể (detailed)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"intuitive\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "mechanical",
+       "B": "instinctive",
+       "C": "documented",
+       "D": "delayed"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"intuitive\" ở đoạn 6 đi cùng cụm \"intuitive sense of student understanding\", chỉ cảm nhận mang tính trực giác/bản năng. Từ này đồng nghĩa với theo bản năng/trực giác (instinctive)."
+     },
+     {
+      "number": 28,
+      "stem": "The phrase \"This lack of visibility\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "algorithmic bias",
+       "B": "training data patterns",
+       "C": "limited algorithm visibility",
+       "D": "student performance data"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị cụm từ \"This lack of visibility\" ở đoạn 5. Áp dụng quy tắc đọc ngược lại câu phía trước để tìm đối tượng được nhắc tới (sự hạn chế trong việc nhìn nhận/minh bạch cách thuật toán hoạt động / limited algorithm visibility)."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from the passage about subjects requiring open-ended reasoning or extended writing?",
+      "options": {
+       "A": "Arithmetic fluency gains prove that all subject areas benefit equally.",
+       "B": "Teachers using these systems always improve their intuitive judgment.",
+       "C": "Adaptive systems have already solved the challenge of measuring reasoning skills.",
+       "D": "Adaptive systems may struggle with open-ended reasoning gains."
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích logic ở đoạn 4: hệ thống thích ứng phụ thuộc vào phản hồi tức thì nên bằng chứng về sự tiến bộ ở các môn đòi hỏi lập luận mở hay viết luận vẫn còn rất mỏng. Từ đó suy luận rằng các hệ thống này gặp khó khăn trong việc cải thiện/đánh giá các kỹ năng lập luận mở."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's overall attitude toward adaptive learning technology?",
+      "options": {
+       "A": "Certain that adaptive learning should completely replace teachers.",
+       "B": "Balanced, acknowledging real gains alongside genuine unresolved concerns.",
+       "C": "Dismissive of any evidence supporting adaptive learning technology.",
+       "D": "Convinced that privacy concerns make these systems entirely unusable. Reading"
+      },
+      "answer": "B",
+      "type_hint": "Thái độ của tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Phân tích sắc thái toàn bài. Tác giả vừa ghi nhận những lợi ích đo lường được (đoạn 3) vừa chỉ ra những hạn chế và mối lo ngại thực tế (đoạn 4, 5, 6). Thái độ của tác giả là cân bằng, nhìn nhận cả điểm tích cực lẫn những lo ngại chưa được giải quyết (balanced)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính toàn bài (R3Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Ngay đoạn 1, tác giả đã nêu vấn đề: \"...the technology's actual classroom record is considerably more mixed than the marketing suggests...\". Ý chính bao trùm là thực tế sử dụng phần mềm học tập thích ứng phức tạp/đa chiều hơn quảng cáo.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q3, R3Q4):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa) để tìm dữ kiện trực tiếp trong bài đọc.\n  - Với **R3Q2**, quét các từ khóa \"selects the next question\" ở đoạn 2 để thấy hệ thống đưa ra câu hỏi tiếp theo dựa trên phản ứng/tương tác trước đó của học sinh (based on the student's prior responses).\n  - Với **R3Q3**, quét từ khóa \"cluster overwhelmingly\" ở đoạn 4 để thấy các kết quả đo lường được tập trung chủ yếu ở các kỹ năng dễ chấm điểm/đánh giá rời rạc (easy to measure with discrete, gradable questions).\n  - Với **R3Q4**, quét từ khóa \"teachers\", \"risk\" ở đoạn 6 để tìm nguy cơ giáo viên có thể dần mất đi cảm nhận bản năng/trực giác về mức độ hiểu bài của học sinh (lose their intuitive sense of student understanding).\n- **Dạng câu hỏi Loại trừ NOT (R3Q5):** Đọc lướt các đoạn 3, 4, 5 để đối soát các mối lo ngại/đặc điểm được đề cập: sự cải thiện vừa phải ở kỹ năng tính toán và từ vựng (đoạn 3), khó khăn trong việc kiểm toán định kiến thuật toán (đoạn 5), và tính minh bạch hạn chế của thuật toán (đoạn 5). Sự bảo đảm rằng định kiến thuật toán đã bị loại bỏ hoàn toàn (A guarantee that all algorithmic bias has been fully eliminated) là chi tiết không hề xuất hiện.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q6, R3Q7):** Áp dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q6**, từ **\"granular\"** ở đoạn 4 đi cùng cụm \"granular, immediate feedback loop\", chỉ phản hồi chi tiết/tỉ mỉ ngay lập tức. Từ này đồng nghĩa với chi tiết, cụ thể (detailed).\n  - Với **R3Q7**, từ **\"intuitive\"** ở đoạn 6 đi cùng cụm \"intuitive sense of student understanding\", chỉ cảm nhận mang tính trực giác/bản năng. Từ này đồng nghĩa với theo bản năng/trực giác (instinctive).\n- **Dạng câu hỏi Quy chiếu (R3Q8):** Định vị cụm từ **\"This lack of visibility\"** ở đoạn 5. Áp dụng quy tắc đọc ngược lại câu phía trước để tìm đối tượng được nhắc tới (sự hạn chế trong việc nhìn nhận/minh bạch cách thuật toán hoạt động / limited algorithm visibility).\n- **Dạng câu hỏi Suy luận (R3Q9):** Phân tích logic ở đoạn 4: hệ thống thích ứng phụ thuộc vào phản hồi tức thì nên bằng chứng về sự tiến bộ ở các môn đòi hỏi lập luận mở hay viết luận vẫn còn rất mỏng. Từ đó suy luận rằng các hệ thống này gặp khó khăn trong việc cải thiện/đánh giá các kỹ năng lập luận mở.\n- **Dạng câu hỏi Thái độ của tác giả (R3Q10):** Phân tích sắc thái toàn bài. Tác giả vừa ghi nhận những lợi ích đo lường được (đoạn 3) vừa chỉ ra những hạn chế và mối lo ngại thực tế (đoạn 4, 5, 6). Thái độ của tác giả là cân bằng, nhìn nhận cả điểm tích cực lẫn những lo ngại chưa được giải quyết (balanced).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi có vị trí định vị rõ ràng như Từ vựng (R3Q6, R3Q7) và Quy chiếu (R3Q8). Tiếp theo, sử dụng kỹ thuật đọc quét từ khóa để trả lời nhanh các câu **Chi tiết** (R3Q2, R3Q3, R3Q4) và câu **Loại trừ** (R3Q5). Cuối cùng, xâu chuỗi lập luận toàn bài để hoàn thành chính xác các câu đòi hỏi phân tích tổng hợp như **Ý chính** (R3Q1), **Suy luận** (R3Q9) và **Thái độ tác giả** (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Beyond the Sequence: Interpreting Genetic Research in an Era of Polygenic Complexity",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Seldom does a scientific finding get compressed into public understanding as badly as the discovery of a 'gene for' any given trait, and seldom is the resulting oversimplification more consequential than in the case of complex human traits shaped not by one gene but by thousands acting in concert. That gap between scientific nuance and popular explanation has only widened as genetic testing has become cheaper and more widely available to ordinary consumers.",
+     "Genome-wide association studies, the primary tool for mapping genetic contributions to complex traits, work by scanning the genomes of very large populations for statistical associations between specific genetic variants and a given trait or condition. For traits such as height, educational attainment, or susceptibility to common diseases, these studies typically identify not one or two influential variants but hundreds or even thousands, each contributing an almost vanishingly small individual effect. No single variant, on its own, comes remotely close to determining the outcome.",
+     "This polygenic architecture stands in sharp contrast to the small number of well-known conditions, certain forms of cystic fibrosis or Huntington's disease among them, caused primarily by variation in a single gene, where inheritance follows comparatively predictable patterns. Public understanding of genetics, however, still leans heavily on this monogenic model, partly because it is simpler to explain and partly because it was the model available when genetics first entered mainstream science education.",
+     "Polygenic scores, which **aggregate** the small effects of many variants into a single composite number, have become an increasingly common tool for estimating genetic predisposition to a given trait. **[1]** These scores carry substantial uncertainty, however, and their predictive accuracy varies considerably depending on the trait in question and, critically, on the ancestry of the population in which the underlying study was originally conducted. **[2]** A score built primarily from data on one ancestral population routinely performs worse, sometimes substantially worse, when applied to individuals from a different ancestral background. **[3]** **This disparity** reflects a genuine and well-documented limitation of current genomic databases, most of which remain heavily **skewed** toward populations of European ancestry, rather than any inherent property of the traits being studied. **[4]** Addressing this imbalance is now widely regarded within the field as a methodological priority rather than an optional refinement.",
+     "Even a well-validated polygenic score, moreover, estimates only a statistical tendency, not a fixed outcome; environmental factors, chance developmental variation, and gene-environment interactions that current models capture only imperfectly all continue to shape how, and whether, a given genetic predisposition is ultimately expressed in an individual life. Two people carrying an identical score can, for this reason, end up with meaningfully different outcomes.",
+     "Historically, oversimplified genetic narratives have been mobilized to justify discriminatory policy, and contemporary researchers in the field are, for the most part, acutely aware of this history, which is part of why professional genetics organizations have increasingly emphasized the probabilistic, population-level nature of polygenic findings whenever such findings are communicated to the public or used in any applied context. Journal editors and funding bodies have, in recent years, begun requiring more explicit statements of this uncertainty as a condition of publication.",
+     "What emerges from this body of research, then, is not a simple genetic blueprint waiting to be decoded but a probabilistic, population-dependent, and still substantially incomplete picture, one that resists exactly the kind of tidy, single-gene narrative that public discussion of genetics continues to favor."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Genome-wide association studies have proven monogenic inheritance is most common.",
+       "B": "Complex human traits are typically shaped by thousands of genes acting together.",
+       "C": "A single 'gene for' any trait fully explains most human characteristics.",
+       "D": "Public understanding of genetics already reflects its true polygenic complexity."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc các đoạn đầu tiên để nắm nội dung cốt lõi: sự đơn giản hóa khái niệm \"gen quyết định tính trạng\" trái ngược với thực tế là các đặc tính phức tạp của con người được tạo thành từ hàng ngàn gen phối hợp với nhau. Ý chính là các tính trạng phức tạp ở người được định hình bởi hàng ngàn gen cùng tương tác."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what do genome-wide association studies typically find for complex traits?",
+      "options": {
+       "A": "GWAS studies work only for rare, single-gene conditions.",
+       "B": "GWAS studies typically identify a single influential variant per trait.",
+       "C": "GWAS studies typically identify hundreds or thousands of small-effect variants.",
+       "D": "GWAS studies cannot detect any statistical associations at all."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"genome-wide association studies\" ở đoạn 2 để thấy kết quả nghiên cứu GWAS thường phát hiện hàng trăm hoặc hàng ngàn biến thể có hiệu ứng nhỏ (hundreds or thousands of small-effect variants)."
+     },
+     {
+      "number": 33,
+      "stem": "Based on the passage, how can the accuracy of a polygenic score vary?",
+      "options": {
+       "A": "Cystic fibrosis and Huntington's disease are examples of polygenic conditions.",
+       "B": "Polygenic score accuracy can vary depending on the study population's ancestry.",
+       "C": "Polygenic scores are guaranteed to predict outcomes with perfect accuracy.",
+       "D": "Environmental factors play no role in how a genetic predisposition is expressed."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét các từ khóa \"polygenic score\", \"accuracy\" ở đoạn 4 để thấy độ chính xác của điểm đa gen phụ thuộc/thay đổi theo nguồn gốc tổ tiên của quần thể nghiên cứu (study population's ancestry)."
+     },
+     {
+      "number": 34,
+      "stem": "According to the passage, which of the following is NOT mentioned in the passage?",
+      "options": {
+       "A": "A guarantee that current genomic databases represent all populations equally.",
+       "B": "A well-documented history of oversimplified genetic narratives justifying policy.",
+       "C": "Variation in accuracy depending on a study population's ancestry.",
+       "D": "A tool for aggregating many small genetic effects into one number."
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đọc lướt đoạn 4 để kiểm tra các thông tin: lịch sử đơn giản hóa gen, biến đổi độ chính xác theo tổ tiên, và công cụ gộp các hiệu ứng gen. Sự bảo đảm rằng các cơ sở dữ liệu di truyền hiện tại đại diện bình đẳng cho mọi quần thể (A guarantee that current genomic databases represent all populations equally) là thông tin hoàn toàn sai so với bài (bài nói cơ sở dữ liệu bị lệch/skewed)."
+     },
+     {
+      "number": 35,
+      "stem": "The word \"aggregate\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "scattered",
+       "B": "separate",
+       "C": "discard",
+       "D": "combine"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"aggregate\" ở đoạn 4 đi cùng ngữ cảnh gộp các hiệu ứng nhỏ thành một con số tổng hợp. Từ này đồng nghĩa với kết hợp, gộp lại (combine)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"skewed\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "distorted",
+       "B": "balanced",
+       "C": "expanded",
+       "D": "confirmed"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"skewed\" ở đoạn 4 mang nghĩa cơ sở dữ liệu bị lệch nghiêng về một nhóm dân số. Từ này đồng nghĩa với bị bóp méo, lệch lạc (distorted)."
+     },
+     {
+      "number": 37,
+      "stem": "The phrase \"This disparity\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "a score's low accuracy",
+       "B": "a study's original population",
+       "C": "score performance across ancestries",
+       "D": "an inherent trait property"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị cụm từ \"This disparity\" ở vị trí [3] đoạn 4. Áp dụng quy tắc đọc câu ngay phía trước [3]: sự khác biệt về hiệu suất của điểm di truyền khi áp dụng giữa các nhóm dân số có nguồn gốc tổ tiên khác nhau (score performance across ancestries)."
+     },
+     {
+      "number": 38,
+      "stem": "What can be inferred from the passage about applying a polygenic score to a population different from the one it was built on?",
+      "options": {
+       "A": "Every polygenic score performs identically regardless of population.",
+       "B": "A polygenic score may perform quite differently depending on ancestry.",
+       "C": "Environmental factors have been fully removed from polygenic predictions.",
+       "D": "GWAS methodology no longer requires any large study populations."
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích logic đoạn 4 về việc áp dụng điểm đa gen cho một quần thể khác với quần thể gốc. Suy luận được rằng kết quả/hiệu suất dự đoán có thể rất khác nhau tùy thuộc vào nguồn gốc tổ tiên (ancestry)."
+     },
+     {
+      "number": 39,
+      "stem": "What is the author's overall attitude toward current polygenic research findings?",
+      "options": {
+       "A": "Dismissive of genetics research as inherently unreliable and unscientific.",
+       "B": "Convinced that a single-gene model best explains most human traits.",
+       "C": "Certain that polygenic scores will soon replace all other diagnostic tools.",
+       "D": "Cautious, emphasizing the probabilistic and incomplete nature of current findings."
+      },
+      "answer": "D",
+      "type_hint": "Thái độ của tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Phân tích sắc thái ngôn từ xuyên suốt bài đọc. Tác giả liên tục nhấn mạnh tính bất định, sự lệch lạc dữ liệu và hạn chế của công cụ hiện tại. Thái độ của tác giả là thận trọng, nhấn mạnh tính xác suất và chưa hoàn thiện của các kết quả nghiên cứu (cautious, emphasizing the probabilistic and incomplete nature)."
+     },
+     {
+      "number": 40,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? \"This is not a minor caveat: the resulting gap in accuracy can be large enough to make a score practically meaningless for underrepresented groups.\"",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Phân tích vị trí logic. Câu cần chèn giải thích chi tiết hơn cho việc điểm số hoạt động kém hơn khi áp dụng cho người từ nguồn gốc tổ tiên khác nhau (vừa được nêu ở trước vị trí [2]). Do đó, chèn vào vị trí [2] là hợp lý nhất để làm rõ ngay lập tức tác hại/mức độ của sự chênh lệch này."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính toàn bài (R4Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc các đoạn đầu tiên để nắm nội dung cốt lõi: sự đơn giản hóa khái niệm \"gen quyết định tính trạng\" trái ngược với thực tế là các đặc tính phức tạp của con người được tạo thành từ hàng ngàn gen phối hợp với nhau. Ý chính là các tính trạng phức tạp ở người được định hình bởi hàng ngàn gen cùng tương tác.\n- **Dạng câu hỏi Chi tiết (R4Q2, R3Q3):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa) để tìm dữ kiện trực tiếp trong bài đọc.\n  - Với **R4Q2**, quét các từ khóa \"genome-wide association studies\" ở đoạn 2 để thấy kết quả nghiên cứu GWAS thường phát hiện hàng trăm hoặc hàng ngàn biến thể có hiệu ứng nhỏ (hundreds or thousands of small-effect variants).\n  - Với **R4Q3**, quét các từ khóa \"polygenic score\", \"accuracy\" ở đoạn 4 để thấy độ chính xác của điểm đa gen phụ thuộc/thay đổi theo nguồn gốc tổ tiên của quần thể nghiên cứu (study population's ancestry).\n- **Dạng câu hỏi Loại trừ NOT (R4Q4):** Đọc lướt đoạn 4 để kiểm tra các thông tin: lịch sử đơn giản hóa gen, biến đổi độ chính xác theo tổ tiên, và công cụ gộp các hiệu ứng gen. Sự bảo đảm rằng các cơ sở dữ liệu di truyền hiện tại đại diện bình đẳng cho mọi quần thể (A guarantee that current genomic databases represent all populations equally) là thông tin hoàn toàn sai so với bài (bài nói cơ sở dữ liệu bị lệch/skewed).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q5, R4Q6):** Áp dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q5**, từ **\"aggregate\"** ở đoạn 4 đi cùng ngữ cảnh gộp các hiệu ứng nhỏ thành một con số tổng hợp. Từ này đồng nghĩa với kết hợp, gộp lại (combine).\n  - Với **R4Q6**, từ **\"skewed\"** ở đoạn 4 mang nghĩa cơ sở dữ liệu bị lệch nghiêng về một nhóm dân số. Từ này đồng nghĩa với bị bóp méo, lệch lạc (distorted).\n- **Dạng câu hỏi Quy chiếu (R4Q7):** Định vị cụm từ **\"This disparity\"** ở vị trí [3] đoạn 4. Áp dụng quy tắc đọc câu ngay phía trước [3]: sự khác biệt về hiệu suất của điểm di truyền khi áp dụng giữa các nhóm dân số có nguồn gốc tổ tiên khác nhau (score performance across ancestries).\n- **Dạng câu hỏi Suy luận (R4Q8):** Phân tích logic đoạn 4 về việc áp dụng điểm đa gen cho một quần thể khác với quần thể gốc. Suy luận được rằng kết quả/hiệu suất dự đoán có thể rất khác nhau tùy thuộc vào nguồn gốc tổ tiên (ancestry).\n- **Dạng câu hỏi Thái độ của tác giả (R4Q9):** Phân tích sắc thái ngôn từ xuyên suốt bài đọc. Tác giả liên tục nhấn mạnh tính bất định, sự lệch lạc dữ liệu và hạn chế của công cụ hiện tại. Thái độ của tác giả là thận trọng, nhấn mạnh tính xác suất và chưa hoàn thiện của các kết quả nghiên cứu (cautious, emphasizing the probabilistic and incomplete nature).\n- **Dạng câu hỏi Chèn câu (R4Q10):** Phân tích vị trí logic. Câu cần chèn giải thích chi tiết hơn cho việc điểm số hoạt động kém hơn khi áp dụng cho người từ nguồn gốc tổ tiên khác nhau (vừa được nêu ở trước vị trí [2]). Do đó, chèn vào vị trí **[2]** là hợp lý nhất để làm rõ ngay lập tức tác hại/mức độ của sự chênh lệch này.\nLời khuyên: Tận dụng thời gian làm trước các câu hỏi từ vựng (R4Q5, R4Q6) và quy chiếu (R4Q7). Sau đó dùng kỹ thuật quét từ khóa cho các câu chi tiết (R4Q2, R4Q3, R4Q4). Cuối cùng mới xâu chuỗi lập luận để xử lý các câu ý chính (R4Q1), suy luận (R4Q8), thái độ tác giả (R4Q9) và chèn câu (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You recently enrolled in a course at a language centre, and the school has emailed asking for your feedback.\nRead part of their email below.\nThank you for enrolling in our course. As we are always looking to improve our services, we would be grateful if you could share your feedback with us.\n- What are your overall impressions of the course so far?\n- Why did you choose this particular course?\n- Do you have any suggestions for how the course could be improved?\nWrite an email responding to the school. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You recently enrolled in a course at a language centre, and the school has emailed asking for your feedback.",
+      "Read part of their email below."
+     ],
+     "quote": [
+      "Thank you for enrolling in our course. As we are always looking to improve our services, we would be grateful if you could share your feedback with us.",
+      "- What are your overall impressions of the course so far?",
+      "- Why did you choose this particular course?",
+      "- Do you have any suggestions for how the course could be improved?"
+     ],
+     "instruction": "Write an email responding to the school. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Formal Email** (Thư trang trọng) phản hồi nhà trường về trải nghiệm khóa học đã đăng ký.\n- Đề bài có **3 yêu cầu chính** cần trả lời đầy đủ: (1) cảm nhận chung về khóa học cho đến hiện tại, (2) lý do chọn khóa học này, (3) đề xuất cải thiện nếu có.\n- Bài viết cần đạt tối thiểu **120 từ**, giọng văn trang trọng, lịch sự, tránh dùng ngôn ngữ suồng sã như trong thư gửi bạn bè.\n- Cần đưa ra nhận xét cụ thể, có lý do rõ ràng, thể hiện thái độ xây dựng và chuyên nghiệp.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi trang trọng. Ví dụ: Dear Sir/Madam,\n- **Opening:** Nêu mục đích viết thư. Ví dụ: I am writing in response to your request for feedback regarding the course I recently enrolled in.\n- **Body 1 (Cảm nhận):** Chia sẻ cảm nhận chung. Ví dụ: Overall, I have found the course to be both informative and well-structured, with lessons that are engaging and easy to follow.\n- **Body 2 (Lý do chọn):** Giải thích lý do lựa chọn khóa học. Ví dụ: I chose this course because it was highly recommended by former students and offered a flexible schedule that suited my needs.\n- **Body 3 (Đề xuất):** Đưa ra góp ý xây dựng. Ví dụ: However, I believe the course could be further improved by providing more opportunities for speaking practice.\n- **Closing & Sign-off:** Kết thúc lịch sự. Ví dụ: I hope this feedback proves helpful. Yours faithfully, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng **ngôn ngữ trang trọng**, tránh viết tắt (don't, I'm) và các cụm từ quá thân mật.\n- Tránh lặp từ \"course\" nhiều lần, hãy đa dạng hóa cách diễn đạt.\n- Nên đưa ra lý do cụ thể cho từng nhận xét để bài viết thuyết phục và chuyên nghiệp hơn.\n- Sử dụng thì **hiện tại hoàn thành** khi nói về trải nghiệm tính đến thời điểm hiện tại.\nTừ vựng quan trọng:\n- **Enrol in a course:** Đăng ký một khóa học\n- **Well-structured:** Có cấu trúc tốt\n- **Flexible schedule:** Lịch trình linh hoạt\n- **Constructive feedback:** Phản hồi mang tính xây dựng\n- **Speaking practice:** Luyện tập nói\n- **Highly recommended:** Được đánh giá cao, được giới thiệu nhiệt tình\n- **Meet one's needs:** Đáp ứng nhu cầu của ai đó\nTừ nối (Linking words):\n- **Overall:** Nhìn chung\n- **However:** Tuy nhiên\n- **In addition:** Thêm vào đó\n- **Furthermore:** Hơn nữa\n- **With regard to:** Về vấn đề\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am writing in response to...:** Tôi viết thư này để phản hồi về...\n- **I have found the course to be...:** Tôi nhận thấy khóa học này...\n- **I hope this feedback proves helpful:** Tôi hy vọng phản hồi này sẽ hữu ích\n\n**4. Các lỗi thường gặp:**\n- Sử dụng ngôn ngữ quá thân mật, không phù hợp với thư trang trọng gửi nhà trường.\n- Chỉ nêu cảm nhận chung mà quên giải thích lý do lựa chọn khóa học.\n- Không đưa ra đề xuất cải thiện nào, khiến bài viết thiếu tính xây dựng.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã trả lời đủ 3 câu hỏi: cảm nhận, lý do chọn, đề xuất cải thiện.\n- Đếm số từ để đảm bảo đạt tối thiểu 120 từ.\n- Kiểm tra giọng văn đã đủ trang trọng, không dùng từ viết tắt hay ngôn ngữ suồng sã.\n\n**6. Tư duy làm bài:**\nHãy tưởng tượng bạn đang viết thư phản hồi chính thức cho nhà trường với thái độ lịch sự và chuyên nghiệp. Sự rõ ràng, có lý do cụ thể và mang tính xây dựng sẽ giúp bài viết đạt điểm cao.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nFashion plays a very different role in people's lives depending on their personal attitudes and priorities.\nSome people claim that they have no interest in fashion at all, while others carefully choose what to wear every single day before leaving the house.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about people's differing attitudes towards fashion. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Fashion plays a very different role in people's lives depending on their personal attitudes and priorities.",
+      "Some people claim that they have no interest in fashion at all, while others carefully choose what to wear every single day before leaving the house.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about people's differing attitudes towards fashion. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Discussion Essay**, yêu cầu thảo luận cả hai quan điểm trái ngược về thái độ đối với thời trang trước khi đưa ra ý kiến cá nhân.\n- Bạn cần trình bày rõ quan điểm của những người không quan tâm đến thời trang và quan điểm của những người coi trọng việc lựa chọn trang phục hàng ngày.\n- Yêu cầu tối thiểu là **250 từ**, cần có sự cân bằng giữa hai quan điểm trước khi đưa ra ý kiến riêng ở phần kết luận.\n- Tránh chỉ trình bày một phía hoặc nghiêng hẳn về một quan điểm ngay từ đầu bài, vì đây là lỗi nghiêm trọng trong dạng bài Discussion.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu hai quan điểm trái ngược về thời trang. Ví dụ: While some people regard fashion as an unnecessary concern, others consider it an essential part of their daily routine.\n- **Body 1 (Quan điểm không quan tâm):** Topic sentence, giải thích, ví dụ. Ví dụ: On the one hand, those who are indifferent to fashion often argue that clothing should serve a purely practical purpose, and that focusing too much on appearance is a waste of time and money.\n- **Body 2 (Quan điểm coi trọng):** Topic sentence, giải thích, ví dụ. Ví dụ: On the other hand, many people believe that choosing their outfits carefully allows them to express their personality and boosts their confidence in social and professional settings.\n- **Conclusion:** Đưa ra quan điểm cá nhân, tóm tắt. Ví dụ: In conclusion, while I understand the practical reasoning behind not prioritizing fashion, I believe that personal style plays a meaningful role in how individuals present themselves to the world.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì **hiện tại đơn** cho sự thật chung và quan điểm phổ biến của mọi người.\n- Phát triển ý theo cấu trúc: câu chủ đề - giải thích - ví dụ - mini kết luận cho mỗi đoạn thân bài.\n- Cần có **thesis statement** rõ ràng ở mở bài nêu rằng bài sẽ thảo luận cả hai quan điểm về thời trang.\n- Tránh lặp từ \"fashion\" liên tục, hãy thay bằng các cách diễn đạt khác.\nTừ vựng quan trọng:\n- **Personal style:** Phong cách cá nhân\n- **Practical purpose:** Mục đích thực tế\n- **Self-expression:** Sự thể hiện bản thân\n- **Indifferent to something:** Thờ ơ với điều gì đó\n- **Boost confidence:** Tăng cường sự tự tin\n- **Superficial:** Hời hợt, bề ngoài\n- **First impression:** Ấn tượng đầu tiên\nTừ nối (Linking words):\n- **Contrast - On the one hand/On the other hand:** Một mặt/Mặt khác\n- **Contrast - However/Nevertheless:** Tuy nhiên\n- **Adding - In addition/Moreover:** Thêm vào đó\n- **Example - For instance/Such as:** Ví dụ như\n- **Conclusion - In conclusion/Overall:** Tóm lại/Nhìn chung\n- **Personal opinion - As far as I am concerned:** Theo quan điểm của tôi\nDiễn đạt lại ý (Paraphrasing):\n- **Attitudes towards clothing:** Thay cho \"fashion\" ở một số câu.\n- **Sartorial choices:** Cách diễn đạt khác cho việc \"choosing what to wear\".\n- **Being unconcerned with appearance:** Thay cho \"not caring about fashion\".\nCách diễn đạt ý kiến / so sánh:\n- **While I acknowledge that..., I believe...:** Mặc dù tôi thừa nhận rằng..., tôi tin rằng...\n- **Unlike those who..., I feel that...:** Không giống như những người..., tôi cảm thấy rằng...\n- **From my perspective, ...:** Theo quan điểm của tôi, ...\n\n**4. Các lỗi thường gặp:**\n- Chỉ trình bày một quan điểm mà bỏ qua quan điểm còn lại.\n- Đưa ra ý kiến cá nhân ngay từ đầu bài thay vì thảo luận khách quan trước.\n- Thiếu ví dụ cụ thể để minh họa cho mỗi quan điểm.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã có Thesis Statement rõ ràng ở mở bài chưa.\n- Đảm bảo đã thảo luận đầy đủ cả hai quan điểm trước khi nêu ý kiến cá nhân.\n- Đếm số từ để chắc chắn đạt tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\nHãy tư duy theo trình tự logic: trước tiên trình bày quan điểm của những người không quan tâm đến thời trang, sau đó trình bày quan điểm của những người coi trọng nó, và cuối cùng đưa ra ý kiến cá nhân có lý lẽ rõ ràng."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about your childhood\n\n1\nWhat is your happiest memory from childhood?\n2\nDid you grow up in the countryside or in a big city?\n3\nDo you think childhood today is different from childhood in the past? How?\n\nNow, let’s talk about your health\n\n4\nDo you consider yourself a healthy person?\n5\nWhat do you usually do to stay healthy?\n6\nDo you think diet or exercise is more important for good health? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này có **2 chủ đề nhỏ**: **Topic A (Childhood)** và **Topic B (Health)**.\n- **Topic A (Childhood):** Ba câu hỏi đầu kiểm tra khả năng kể lại kỷ niệm tuổi thơ, môi trường lớn lên, và so sánh tuổi thơ ngày nay với ngày xưa.\n- **Topic B (Health):** Ba câu hỏi sau kiểm tra khả năng nói về thói quen giữ gìn sức khỏe và quan điểm về vai trò của chế độ ăn uống so với tập luyện thể thao.\n- Tiêu chí đánh giá gồm **Fluency, Vocabulary, Grammar và Pronunciation**.\n- Thời gian Part 1 là **3 phút**, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)** để trả lời đầy đủ và có chiều sâu.\n- **Ví dụ Topic A:** \"One of my happiest memories was going fishing with my grandfather every summer. For example, I still remember the excitement of catching my first fish by the riverside.\"\n- **Ví dụ Topic B:** \"Yes, I consider myself a fairly healthy person because I try to exercise regularly and avoid junk food as much as possible.\"\n- Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n- Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Now, moving away from childhood memories, I'd like to talk a bit about how I take care of my health.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định, dùng câu đệm để tránh khoảng lặng dài khi suy nghĩ.\n- Dùng **quá khứ đơn** khi kể về tuổi thơ, dùng **hiện tại đơn** khi nói về thói quen sức khỏe hiện tại.\n- Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n- Từ vựng cho Topic A: cherished memories, grow up in the countryside, a carefree childhood, reminisce about the past.\n- Từ vựng cho Topic B: maintain a healthy lifestyle, a balanced diet, boost the immune system, work out regularly. Cụm từ quan trọng nên dùng:\n- **cherished memories** (những kỷ niệm trân quý)\n- **a carefree childhood** (tuổi thơ vô lo vô nghĩ)\n- **reminisce about the past** (hồi tưởng về quá khứ)\n- **maintain a healthy lifestyle** (duy trì lối sống lành mạnh)\n- **a balanced diet** (chế độ ăn cân bằng)\n- **boost the immune system** (tăng cường hệ miễn dịch)\nTừ nối khi nói (Linking Words):\n- **Firstly** - trước hết, dùng để mở đầu ý.\n- **Besides** - bên cạnh đó, dùng để bổ sung ý.\n- **For example** - ví dụ như, dùng khi minh họa.\n- **However** - tuy nhiên, dùng khi đối chiếu ý kiến.\n- **Therefore** - vì vậy, dùng để nêu kết quả.\nCách thể hiện quan điểm tự nhiên:\n- **Personally, I think...** Ví dụ: \"Personally, I think children today have less freedom to play outside than in the past.\"\n- **Looking back...** Ví dụ: \"Looking back, I realize how carefree my childhood really was.\"\n- **In my opinion...** Ví dụ: \"In my opinion, a healthy diet matters just as much as regular exercise.\"\n- **I would say that...** Ví dụ: \"I would say that staying active has really improved my overall well-being.\"\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n- Ở Topic A, chỉ nêu một sự việc mà không mô tả cảm xúc hay ý nghĩa của kỷ niệm đó.\n- Ở Topic B, nói chung chung \"I eat healthy\" mà không nêu cụ thể thói quen ăn uống hay tập luyện.\n- Dùng sai thì khi chuyển từ kể chuyện quá khứ sang mô tả thói quen hiện tại.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n- Với Topic A, nếu bí ý, hãy kể một sự kiện cụ thể như một chuyến đi chơi hay một trò chơi tuổi thơ.\n- Với Topic B, nếu bí ý, hãy liên hệ đến một hoạt động thể thao cụ thể mà bạn thường làm.\n\n**6. Tư duy làm bài nói:**\n- Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend is coming to visit Vietnam for the first time and asks you to suggest a place to explore.\n\nYou are considering the following options:\n\nOption 1: Ha Long Bay\nOption 2: Hoi An Ancient Town\nOption 3: Sapa\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần gợi ý địa điểm phù hợp nhất cho một người bạn lần đầu đến Việt Nam, trong ba lựa chọn: Vịnh Hạ Long, Phố cổ Hội An, và Sapa.\n- Ba lựa chọn khác biệt về loại hình trải nghiệm: thiên nhiên biển đảo, văn hóa - kiến trúc cổ, và núi rừng - dân tộc thiểu số.\n- Thời gian là **4 phút**; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Introduction – Comparison – Conclusion** để trình bày mạch lạc.\n- **Option 1 (Ha Long Bay):** \"Ha Long Bay offers breathtaking natural scenery with thousands of limestone islands, though it can get quite crowded with tourists, especially during peak season.\"\n- **Option 2 (Hoi An):** \"Hoi An Ancient Town provides a charming glimpse into Vietnam's cultural heritage with its lantern-lit streets, but it might feel too quiet for someone seeking more adventurous activities.\"\n- **Option 3 (Sapa):** \"Sapa is ideal for those who enjoy mountain trekking and experiencing ethnic minority cultures, although the winding roads and cold weather can be challenging for some travelers.\"\n- Nên neo lập luận vào sở thích của người bạn (thích thiên nhiên, văn hóa, hay khám phá mạo hiểm).\n- Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike Sapa, Hoi An offers a more relaxed pace, which might suit a first-time visitor better.\"\n- Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n- Paraphrase \"beautiful\" bằng \"breathtaking\" hoặc \"picturesque\"; paraphrase \"crowded\" bằng \"packed with tourists\". Cụm từ quan trọng nên dùng:\n- **breathtaking natural scenery** (cảnh quan thiên nhiên ngoạn mục)\n- **a UNESCO World Heritage site** (một di sản thế giới được UNESCO công nhận)\n- **cultural heritage** (di sản văn hóa)\n- **ethnic minority culture** (văn hóa dân tộc thiểu số)\n- **a laid-back atmosphere** (không khí thư thái, chậm rãi)\n- **an off-the-beaten-track destination** (một điểm đến ít người biết đến)\nTừ nối khi nói (Linking Words):\n- **Compared with** - so với, dùng khi so sánh hai lựa chọn.\n- **Whereas** - trong khi đó, dùng để đối lập.\n- **Nevertheless** - tuy nhiên, dùng để chuyển ý ngược lại.\n- **Taking everything into account** - xét tất cả các yếu tố, dùng trước kết luận.\n- **In terms of** - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n- **If I had to choose, I would go with...** Ví dụ: \"If I had to choose, I would go with Ha Long Bay because it's one of the most iconic sights in Vietnam.\"\n- **I'm more inclined towards...** Ví dụ: \"I'm more inclined towards Hoi An since it offers a rich cultural experience.\"\n- **All things considered...** Ví dụ: \"All things considered, Ha Long Bay would leave the most lasting impression on a first-time visitor.\"\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ \"good\"/\"beautiful\" quá nhiều thay vì dùng tính từ đa dạng hơn.\n- Không có kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng liên quan đến một địa điểm, chuyển hướng sang mô tả cảnh quan hoặc hoạt động có thể trải nghiệm ở đó.\n- Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n\n**6. Tư duy làm bài nói:**\n- Đặt mình vào vị trí người đang tư vấn du lịch cho bạn bè - địa điểm nào vừa ấn tượng, vừa phù hợp với thời gian và sở thích của họ?\n- Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ có thể kết hợp ghé thăm hai địa điểm nếu có đủ thời gian, để thể hiện tư duy chu đáo.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nWomen can be excellent leaders\n\nWomen as Leaders\nStrong communication and empathy skills\nExamples of successful female leaders in business and politics\nAbility to balance decisiveness with collaboration\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy do you think there are still fewer women in leadership positions than men?\n2\nWhat can be done to encourage more women to become leaders?\n3\nDo you think male and female leaders have different leadership styles?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển bài nói về việc phụ nữ có thể trở thành những nhà lãnh đạo giỏi, dựa trên ba nhánh chính và một nhánh ý kiến cá nhân.\n- Ba nhánh chính gồm: kỹ năng giao tiếp và sự thấu cảm mạnh mẽ, những ví dụ về các nữ lãnh đạo thành công trong kinh doanh và chính trị, và khả năng cân bằng giữa sự quyết đoán và tinh thần hợp tác.\n- **Gợi ý cho nhánh thứ 4 (ý kiến cá nhân):** có thể phát triển theo hướng những rào cản xã hội mà phụ nữ vẫn phải đối mặt khi theo đuổi vị trí lãnh đạo.\n- Thời gian là **5 phút**: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction – Detail – Example – Add/wrap up)** để trình bày từng nhánh của sơ đồ tư duy.\n- **Ví dụ mở bài:** \"Today, I'd like to talk about why women can be excellent leaders.\"\n- **Ví dụ cho nhánh ý kiến cá nhân:** \"Another point I'd like to add is that despite their capabilities, women still face social barriers such as gender bias when pursuing leadership roles.\"\n- Nên đưa ví dụ thực tế như những nữ lãnh đạo nổi tiếng trong lịch sử hoặc trong doanh nghiệp hiện đại.\n- Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n- Về thì: dùng **hiện tại đơn** cho sự thật chung, dùng **hiện tại hoàn thành** khi nói về những thành tựu mà các nữ lãnh đạo đã đạt được.\n- Paraphrase \"leader\" bằng \"figurehead\" hoặc \"person in charge\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- **empathetic leadership** (phong cách lãnh đạo giàu sự thấu cảm)\n- **break the glass ceiling** (phá vỡ rào cản vô hình đối với phụ nữ)\n- **a role model** (một hình mẫu để noi theo)\n- **decisive yet collaborative** (quyết đoán nhưng vẫn biết hợp tác)\n- **gender bias** (định kiến giới)\n- **leadership potential** (tiềm năng lãnh đạo)\nTừ nối khi nói (Linking Words):\n- **To begin with** - trước hết, dùng để mở đầu nhánh đầu tiên.\n- **Moving on to** - chuyển sang, dùng khi chuyển nhánh ý.\n- **Furthermore** - hơn nữa, dùng để bổ sung ý.\n- **In addition to that** - thêm vào đó, dùng để mở rộng ý.\n- **To sum up** - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **I firmly believe that...** Ví dụ: \"I firmly believe that women bring a unique perspective to leadership that benefits any organization.\"\n- **It seems to me that...** Ví dụ: \"It seems to me that empathy is an underrated but essential leadership quality.\"\n- **What strikes me most is...** Ví dụ: \"What strikes me most is how many successful female leaders have overcome significant obstacles to reach their positions.\"\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"Why do you think there are still fewer women in leadership positions than men?\"** - Vì những định kiến xã hội lâu đời và thiếu cơ hội thăng tiến công bằng vẫn còn tồn tại ở nhiều nơi làm việc.\n- **\"What can be done to encourage more women to become leaders?\"** - Các tổ chức nên tạo ra chính sách hỗ trợ công bằng, như chế độ nghỉ thai sản linh hoạt và chương trình đào tạo lãnh đạo dành riêng cho nữ giới.\n- **\"Do you think male and female leaders have different leadership styles?\"** - Có thể có một số khác biệt, nhưng phong cách lãnh đạo phụ thuộc nhiều vào tính cách cá nhân hơn là giới tính.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê ý mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n- Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n- Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Neo vào ví dụ thực tế từ những nhân vật nữ lãnh đạo nổi tiếng mà bạn biết khi bí ý.\n- Câu chờ ý học thuật: \"That is a thought-provoking issue. If we look at it from a societal perspective...\"\n- Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n\n**7. Tư duy làm bài nói:**\n- Suy nghĩ khách quan và cân bằng, tránh đưa ra phán xét cực đoan về vấn đề giới tính này.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n- Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about your childhood.\n1.\nWhat is your happiest memory from childhood?\n2.\nDid you grow up in the countryside or in a big city?\n3.\nDo you think childhood today is different from childhood in the past? How?\nNow, let’s talk about your health.\n4.\nDo you consider yourself a healthy person?\n5.\nWhat do you usually do to stay healthy?\n6.\nDo you think diet or exercise is more important for good health? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này có 2 chủ đề nhỏ: Topic A (Childhood) và Topic B (Health).\n• Topic A (Childhood): Ba câu hỏi đầu kiểm tra khả năng kể lại kỷ niệm tuổi thơ, môi trường lớn lên, và so sánh tuổi thơ\nngày nay với ngày xưa.\n• Topic B (Health): Ba câu hỏi sau kiểm tra khả năng nói về thói quen giữ gìn sức khỏe và quan điểm về vai trò của chế\nđộ ăn uống so với tập luyện thể thao.\n• Tiêu chí đánh giá gồm Fluency, Vocabulary, Grammar và Pronunciation.\n• Thời gian Part 1 là 3 phút, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE) để trả lời đầy đủ và có chiều sâu.\n• Ví dụ Topic A: \"One of my happiest memories was going fishing with my grandfather every summer. For example, I\nstill remember the excitement of catching my first fish by the riverside.\"\n• Ví dụ Topic B: \"Yes, I consider myself a fairly healthy person because I try to exercise regularly and avoid junk food\nas much as possible.\"\n• Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n• Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Now, moving away from childhood memories,\nI'd like to talk a bit about how I take care of my health.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định, dùng câu đệm để tránh khoảng lặng dài khi suy nghĩ.\n• Dùng quá khứ đơn khi kể về tuổi thơ, dùng hiện tại đơn khi nói về thói quen sức khỏe hiện tại.\n• Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n• Từ vựng cho Topic A: cherished memories, grow up in the countryside, a carefree childhood, reminisce about the\npast.\n• Từ vựng cho Topic B: maintain a healthy lifestyle, a balanced diet, boost the immune system, work out regularly.\nCụm từ quan trọng nên dùng:\n• cherished memories (những kỷ niệm trân quý)\n• a carefree childhood (tuổi thơ vô lo vô nghĩ)\n• reminisce about the past (hồi tưởng về quá khứ)\n• maintain a healthy lifestyle (duy trì lối sống lành mạnh)\n• a balanced diet (chế độ ăn cân bằng)\n• boost the immune system (tăng cường hệ miễn dịch)\nTừ nối khi nói (Linking Words):\n• Firstly - trước hết, dùng để mở đầu ý.\n• Besides - bên cạnh đó, dùng để bổ sung ý.\n• For example - ví dụ như, dùng khi minh họa.\n• However - tuy nhiên, dùng khi đối chiếu ý kiến.\n• Therefore - vì vậy, dùng để nêu kết quả.\nCách thể hiện quan điểm tự nhiên:\n• Personally, I think... Ví dụ: \"Personally, I think children today have less freedom to play outside than in the past.\"\n• Looking back... Ví dụ: \"Looking back, I realize how carefree my childhood really was.\"\n• In my opinion... Ví dụ: \"In my opinion, a healthy diet matters just as much as regular exercise.\"\n• I would say that... Ví dụ: \"I would say that staying active has really improved my overall well-being.\"\n4. Các lỗi thường gặp:\n• Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n• Ở Topic A, chỉ nêu một sự việc mà không mô tả cảm xúc hay ý nghĩa của kỷ niệm đó.\n• Ở Topic B, nói chung chung \"I eat healthy\" mà không nêu cụ thể thói quen ăn uống hay tập luyện.\n• Dùng sai thì khi chuyển từ kể chuyện quá khứ sang mô tả thói quen hiện tại.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n• Với Topic A, nếu bí ý, hãy kể một sự kiện cụ thể như một chuyến đi chơi hay một trò chơi tuổi thơ.\n• Với Topic B, nếu bí ý, hãy liên hệ đến một hoạt động thể thao cụ thể mà bạn thường làm.\n6. Tư duy làm bài nói:\n• Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYour friend is coming to visit Vietnam for the first time and asks you to suggest a place to explore.\nYou are considering the following options:\n• Option 1: Ha Long Bay\n• Option 2: Hoi An Ancient Town\n• Option 3: Sapa\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần gợi ý địa điểm phù hợp nhất cho một người bạn lần đầu đến Việt Nam,\ntrong ba lựa chọn: Vịnh Hạ Long, Phố cổ Hội An, và Sapa.\n• Ba lựa chọn khác biệt về loại hình trải nghiệm: thiên nhiên biển đảo, văn hóa - kiến trúc cổ, và núi rừng - dân tộc thiểu\nsố.\n• Thời gian là 4 phút; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Introduction – Comparison – Conclusion để trình bày mạch lạc.\n• Option 1 (Ha Long Bay): \"Ha Long Bay offers breathtaking natural scenery with thousands of limestone islands,\nthough it can get quite crowded with tourists, especially during peak season.\"\n• Option 2 (Hoi An): \"Hoi An Ancient Town provides a charming glimpse into Vietnam's cultural heritage with its\nlantern-lit streets, but it might feel too quiet for someone seeking more adventurous activities.\"\n• Option 3 (Sapa): \"Sapa is ideal for those who enjoy mountain trekking and experiencing ethnic minority cultures,\nalthough the winding roads and cold weather can be challenging for some travelers.\"\n• Nên neo lập luận vào sở thích của người bạn (thích thiên nhiên, văn hóa, hay khám phá mạo hiểm).\n• Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike Sapa, Hoi An offers a more relaxed pace, which might\nsuit a first-time visitor better.\"\n• Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n• Paraphrase \"beautiful\" bằng \"breathtaking\" hoặc \"picturesque\"; paraphrase \"crowded\" bằng \"packed with tourists\".\nCụm từ quan trọng nên dùng:\n• breathtaking natural scenery (cảnh quan thiên nhiên ngoạn mục)\n• a UNESCO World Heritage site (một di sản thế giới được UNESCO công nhận)\n• cultural heritage (di sản văn hóa)\n• ethnic minority culture (văn hóa dân tộc thiểu số)\n• a laid-back atmosphere (không khí thư thái, chậm rãi)\n• an off-the-beaten-track destination (một điểm đến ít người biết đến)\nTừ nối khi nói (Linking Words):\n• Compared with - so với, dùng khi so sánh hai lựa chọn.\n• Whereas - trong khi đó, dùng để đối lập.\n• Nevertheless - tuy nhiên, dùng để chuyển ý ngược lại.\n• Taking everything into account - xét tất cả các yếu tố, dùng trước kết luận.\n• In terms of - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n• If I had to choose, I would go with... Ví dụ: \"If I had to choose, I would go with Ha Long Bay because it's one of the\nmost iconic sights in Vietnam.\"\n• I'm more inclined towards... Ví dụ: \"I'm more inclined towards Hoi An since it offers a rich cultural experience.\"\n• All things considered... Ví dụ: \"All things considered, Ha Long Bay would leave the most lasting impression on a\nfirst-time visitor.\"\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ \"good\"/\"beautiful\" quá nhiều thay vì dùng tính từ đa dạng hơn.\n• Không có kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng liên quan đến một địa điểm, chuyển hướng sang mô tả cảnh quan hoặc hoạt động có thể trải\nnghiệm ở đó.\n• Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n6. Tư duy làm bài nói:\n• Đặt mình vào vị trí người đang tư vấn du lịch cho bạn bè - địa điểm nào vừa ấn tượng, vừa phù hợp với thời gian và\nsở thích của họ?\n• Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ có thể kết hợp ghé thăm hai địa điểm nếu có đủ thời\ngian, để thể hiện tư duy chu đáo.\nTopic Development\nPART 3\n5 phút\nTopic: Women can be excellent leaders\nStrong communication and empathy\nExamples of successful female leaders\nskills\nin business and politics\nWomen as Leaders\nÝ tưởng của bạn\nAbility to balance decisiveness with\ncollaboration\nFOLLOW-UP QUESTIONS\n1.\nWhy do you think there are still fewer women in leadership positions than men?\n2.\nWhat can be done to encourage more women to become leaders?\n3.\nDo you think male and female leaders have different leadership styles?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển bài nói về việc phụ nữ có thể trở thành những nhà lãnh đạo giỏi, dựa trên ba nhánh\nchính và một nhánh ý kiến cá nhân.\n• Ba nhánh chính gồm: kỹ năng giao tiếp và sự thấu cảm mạnh mẽ, những ví dụ về các nữ lãnh đạo thành công trong\nkinh doanh và chính trị, và khả năng cân bằng giữa sự quyết đoán và tinh thần hợp tác.\n• Gợi ý cho nhánh thứ 4 (ý kiến cá nhân): có thể phát triển theo hướng những rào cản xã hội mà phụ nữ vẫn phải đối\nmặt khi theo đuổi vị trí lãnh đạo.\n• Thời gian là 5 phút: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction – Detail – Example – Add/wrap up) để trình bày từng nhánh của sơ đồ tư duy.\n• Ví dụ mở bài: \"Today, I'd like to talk about why women can be excellent leaders.\"\n• Ví dụ cho nhánh ý kiến cá nhân: \"Another point I'd like to add is that despite their capabilities, women still face social\nbarriers such as gender bias when pursuing leadership roles.\"\n• Nên đưa ví dụ thực tế như những nữ lãnh đạo nổi tiếng trong lịch sử hoặc trong doanh nghiệp hiện đại.\n• Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n• Về thì: dùng hiện tại đơn cho sự thật chung, dùng hiện tại hoàn thành khi nói về những thành tựu mà các nữ lãnh\nđạo đã đạt được.\n• Paraphrase \"leader\" bằng \"figurehead\" hoặc \"person in charge\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• empathetic leadership (phong cách lãnh đạo giàu sự thấu cảm)\n• break the glass ceiling (phá vỡ rào cản vô hình đối với phụ nữ)\n• a role model (một hình mẫu để noi theo)\n• decisive yet collaborative (quyết đoán nhưng vẫn biết hợp tác)\n• gender bias (định kiến giới)\n• leadership potential (tiềm năng lãnh đạo)\nTừ nối khi nói (Linking Words):\n• To begin with - trước hết, dùng để mở đầu nhánh đầu tiên.\n• Moving on to - chuyển sang, dùng khi chuyển nhánh ý.\n• Furthermore - hơn nữa, dùng để bổ sung ý.\n• In addition to that - thêm vào đó, dùng để mở rộng ý.\n• To sum up - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n• I firmly believe that... Ví dụ: \"I firmly believe that women bring a unique perspective to leadership that benefits any\norganization.\"\n• It seems to me that... Ví dụ: \"It seems to me that empathy is an underrated but essential leadership quality.\"\n• What strikes me most is... Ví dụ: \"What strikes me most is how many successful female leaders have overcome\nsignificant obstacles to reach their positions.\"\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"Why do you think there are still fewer women in leadership positions than men?\" - Vì những định kiến xã hội lâu đời\nvà thiếu cơ hội thăng tiến công bằng vẫn còn tồn tại ở nhiều nơi làm việc.\n• \"What can be done to encourage more women to become leaders?\" - Các tổ chức nên tạo ra chính sách hỗ trợ công\nbằng, như chế độ nghỉ thai sản linh hoạt và chương trình đào tạo lãnh đạo dành riêng cho nữ giới.\n• \"Do you think male and female leaders have different leadership styles?\" - Có thể có một số khác biệt, nhưng phong\ncách lãnh đạo phụ thuộc nhiều vào tính cách cá nhân hơn là giới tính.\n5. Các lỗi thường gặp:\n• Liệt kê ý mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n• Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n• Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Neo vào ví dụ thực tế từ những nhân vật nữ lãnh đạo nổi tiếng mà bạn biết khi bí ý.\n• Câu chờ ý học thuật: \"That is a thought-provoking issue. If we look at it from a societal perspective...\"\n• Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n7. Tư duy làm bài nói:\n• Suy nghĩ khách quan và cân bằng, tránh đưa ra phán xét cực đoan về vấn đề giới tính này.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n• Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+}

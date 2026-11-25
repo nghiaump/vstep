@@ -1,0 +1,717 @@
+{
+ "id": "vlu-59",
+ "number": 59,
+ "title": "Đề thi VLU 59",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-59",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Online Learning: Opportunities, Challenges, and the Future of Education",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Online learning means studying through the internet instead of sitting in a classroom. Today, students can watch lessons on video, join live classes on platforms such as Zoom or Microsoft Teams, and send their homework to teachers by email within seconds. Many universities, language centres, and companies now use the same tools to train their students and workers around the world. This passage describes the history of distance study, its main benefits, and the problems that learners and teachers still face.",
+     "Studying at a distance is much older than the internet. In 1728, a newspaper in Boston advertised shorthand lessons that were sent to students by post every week. In the 1840s, Isaac Pitman taught shorthand by postcard, and the University of London began allowing anyone who passed its exams to earn a degree in 1858. Later, schools used radio, and in 1971 the UK Open University accepted its first 25,000 students. Computers and the internet then made it possible to send lessons instantly to learners in any country.",
+     "The biggest advantage of online study is that it is very **flexible** for busy people. Learners can choose when and where to study, so people with jobs or young children can fit lessons into their day. Students also save money on travel, and electronic textbooks are often cheaper than printed ones. People who live far from a school, or who are ill or have a disability, can join classes from home without moving to a big city. Learners can also repeat a recorded lesson as often as needed until the idea is clear. One study found that online students can perform about as well as students in normal classrooms.",
+     "Online learning also has serious weaknesses. Many learners feel isolated, because contact with teachers and classmates is limited, and nobody can see when a student is struggling with the lessons or losing motivation. Dropout rates are usually higher than in classroom courses, and self-paced courses can lead to delay and non-completion. Exams taken at home also raise worries about cheating, since teachers cannot easily check who is doing the work. Even students with good computers can feel tired after many hours in front of a screen.",
+     "The COVID-19 pandemic showed both sides of online learning. When most schools closed, millions of students moved to platforms such as Zoom and Google Classroom, but those without a stable internet connection or a suitable device were left behind. Many schools have since chosen blended learning, where students study online and also attend classes in person. Teachers say that the best results come when students use both methods, because **they** need the freedom of technology and the support of a real person. With better devices and cheaper connections, more people will probably be able to learn online in the future."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Schools should stop using computers and return to printed books",
+       "B": "Online courses are always cheaper and better than classroom lessons",
+       "C": "Only young children can learn well through the internet today",
+       "D": "Online learning has many clear benefits but also causes serious problems"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what did a Boston newspaper advertise in 1728?",
+      "options": {
+       "A": "Shorthand lessons sent to students by post",
+       "B": "Radio lessons broadcast to schools across the country",
+       "C": "A new university open to every adult student",
+       "D": "Free computers for children living in remote villages"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 về năm 1728 khi tờ báo ở Boston quảng cáo các bài học tốc ký được gửi qua đường bưu điện (shorthand lessons sent to students by post)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"flexible\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "hard to learn",
+       "B": "free of cost",
+       "C": "easy to adapt",
+       "D": "slow to improve"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"flexible\" ở đoạn 3 đi kèm với việc người học có thể chọn thời gian và địa điểm học tập linh hoạt cho người bận rộn, mang nghĩa dễ thích ứng / linh hoạt (easy to adapt)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how can online learning save students money?",
+      "options": {
+       "A": "They can avoid paying fees for all school exams",
+       "B": "They spend less on travel and on textbooks",
+       "C": "Teachers give free laptops to every enrolled student",
+       "D": "Schools share a single classroom among many students"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về tiết kiệm tiền ở đoạn 3 để xác định sinh viên tiết kiệm tiền đi lại và sách giáo khoa (spend less on travel and on textbooks)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"isolated\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "happy and relaxed",
+       "B": "busy and stressed",
+       "C": "proud and strong",
+       "D": "alone and apart"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"isolated\" ở đoạn 4 đi kèm với việc liên lạc với giáo viên và bạn bè bị hạn chế, mang nghĩa cô độc và xa cách (alone and apart)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"they\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "students",
+       "B": "teachers",
+       "C": "schools",
+       "D": "devices"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ \"they\" trong mệnh đề \"Teachers say that the best results come when students use both methods, because *they* need the freedom...\" ở đoạn 5. Đọc ngược lại danh từ chỉ người ở vế trước (\"students use both methods\") để thấy đây là từ thay thế cho học sinh/sinh viên (students)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what do teachers say gives the best results?",
+      "options": {
+       "A": "Replacing every teacher with a recorded video lesson",
+       "B": "Giving all students the same textbook every year",
+       "C": "Combining online study with classes in person",
+       "D": "Closing schools whenever the weather becomes very bad"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"teachers say\" ở đoạn 5 để ghi nhận kết quả tốt nhất đến từ việc kết hợp học trực tuyến với các lớp học trực tiếp (Combining online study with classes in person)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a problem?",
+      "options": {
+       "A": "Not much contact with teachers or other learners",
+       "B": "Extremely high prices for every online course",
+       "C": "Higher dropout rates than in normal classroom courses",
+       "D": "Worries about cheating in exams taken at home"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 3 and 4 about online learning?",
+      "options": {
+       "A": "It costs less than classrooms, so schools need no teachers",
+       "B": "It works equally well for all learners, whatever their situation",
+       "C": "It always produces worse results than lessons held in classrooms",
+       "D": "It works best for organised learners and also needs strong support"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3 và 4 về việc học trực tuyến mang lại sự linh hoạt và tiết kiệm nhưng đồng thời đòi hỏi sự tự giác cao độ từ người học cũng như sự hỗ trợ và quản lý chặt chẽ để tránh các cạm bẫy như sự cô lập hay chậm trễ."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To describe the benefits and problems of learning online",
+       "B": "To advise parents which laptop to purchase for schoolwork",
+       "C": "To prove that classroom teaching will vanish in ten years",
+       "D": "To tell the story of the first university in Europe Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 định nghĩa học trực tuyến và nêu khái quát nội dung bài viết về lịch sử, lợi ích và thách thức; đoạn 2 điểm qua lịch sử học từ xa từ thế kỷ 18 đến nay; đoạn 3 trình bày các ưu điểm vượt trội (tính linh hoạt, tiết kiệm chi phí đi lại và sách giáo khoa); đoạn 4 chỉ ra các điểm yếu nghiêm trọng (cảm giác cô lập, tỷ lệ bỏ học cao, gian lận thi cử); đoạn 5 phân tích tác động từ đại dịch COVID-19 và mô hình học kết hợp (blended learning); đoạn cuối khẳng định xu hướng phát triển trong tương lai nhờ thiết bị tốt hơn. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện việc học trực tuyến mang lại nhiều lợi ích rõ ràng nhưng cũng gây ra những vấn đề nghiêm trọng.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R1Q2**, tìm thông tin ở đoạn 2 về năm 1728 khi tờ báo ở Boston quảng cáo các bài học tốc ký được gửi qua đường bưu điện (shorthand lessons sent to students by post).\n  - Với **R1Q4**, quét thông tin về tiết kiệm tiền ở đoạn 3 để xác định sinh viên tiết kiệm tiền đi lại và sách giáo khoa (spend less on travel and on textbooks).\n  - Với **R1Q7**, quét từ khóa \"teachers say\" ở đoạn 5 để ghi nhận kết quả tốt nhất đến từ việc kết hợp học trực tuyến với các lớp học trực tiếp (Combining online study with classes in person).\n  - Với câu phủ định **R1Q8**, đối soát kỹ các chi tiết tại đoạn 4 (ít liên lạc với giáo viên/bạn học, tỷ lệ bỏ học cao, lo ngại gian lận thi cử) để loại trừ chi tiết sai lệch hoàn toàn không xuất hiện như \"giá cực kỳ cao cho mọi khóa học trực tuyến\".\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"flexible\"** ở đoạn 3 đi kèm với việc người học có thể chọn thời gian và địa điểm học tập linh hoạt cho người bận rộn, mang nghĩa dễ thích ứng / linh hoạt (easy to adapt).\n  - Với **R1Q5**, từ **\"isolated\"** ở đoạn 4 đi kèm với việc liên lạc với giáo viên và bạn bè bị hạn chế, mang nghĩa cô độc và xa cách (alone and apart).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Xác định đại từ **\"they\"** trong mệnh đề \"Teachers say that the best results come when students use both methods, because *they* need the freedom...\" ở đoạn 5. Đọc ngược lại danh từ chỉ người ở vế trước (\"students use both methods\") để thấy đây là từ thay thế cho học sinh/sinh viên (students).\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ các đoạn 3 và 4 về việc học trực tuyến mang lại sự linh hoạt và tiết kiệm nhưng đồng thời đòi hỏi sự tự giác cao độ từ người học cũng như sự hỗ trợ và quản lý chặt chẽ để tránh các cạm bẫy như sự cô lập hay chậm trễ.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R1Q2, R1Q4, R1Q7, R1Q8) và từ vựng, quy chiếu (**R1Q3, R1Q5, R1Q6**). Tiếp theo, giải quyết câu hỏi suy luận (**R1Q9**). Cuối cùng, hoàn thành các câu hỏi khái quát về ý chính và mục đích tác giả (**R1Q1, R1Q10**) để đạt kết quả xuất sắc nhất."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Air Pollution in India: Causes, Consequences, and the Search for Solutions",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "India now faces one of the most serious air quality crises in the world. According to the World Air Quality Report 2023, 83 of the 100 most polluted cities were in India, and IQAir ranked the country as the third most polluted, after Bangladesh and Pakistan. The problem is no longer confined to a few large cities, and it affects both urban and rural communities in different ways.",
+     "Pollution in India comes from many different sources at the same time. Millions of vehicles crowd Indian roads, and in congested city traffic moving at under 20 kilometres an hour, engines reportedly release four to eight times more pollutants than in free-flowing conditions. Industry, thermal power stations, and construction dust add further particles, while in the countryside about three-quarters of households reportedly rely on solid biomass such as wood and dung for cooking and heating.",
+     "The problem varies sharply with the seasons. Winter weather tends to exacerbate it, because cooler air and calm conditions keep pollutants close to the ground, whereas the monsoon rains usually bring some relief. In autumn and spring, the burning of crop residues on farmland adds thick smoke to the air, and Diwali fireworks make matters worse. In November 2024, IQAir reportedly recorded an air quality index above 1,000 in Delhi, a level labelled hazardous.",
+     "A 2023 study in the BMJ linked about two million premature deaths a year in India to air pollution. The Lancet estimated about 1.67 million deaths in 2019 and an economic loss of 28.8 billion dollars. A 2024 study in The Lancet Planetary Health found that around 7.2 per cent of daily deaths in ten major cities could be attributed to fine particles above World Health Organization guidelines. Indoor smoke from cooking fires is also blamed for hundreds of thousands of deaths each year.",
+     "Delhi, the capital, has tried a series of emergency measures to reduce the worst smog. In November 2017 it introduced an odd-even rule that restricted private cars on alternate days according to the last digit of their number plates. Since 2016 the city has also used a Graded Response Action Plan, approved by the Supreme Court, which imposes progressively tougher restrictions as pollution rises. Early stages ban waste burning and diesel generators, while the most severe stages can close schools and cut office attendance by half.",
+     "At national level, the government launched the National Clean Air Programme in 2019, which aims to cut concentrations of fine particles by 20 to 30 per cent by 2024 in 102 cities. Vehicle emission rules have also become more **stringent**, with a national move to the Bharat Stage VI standard. Plans have also been announced to add electric buses and to cut the number of households that cook with solid fuels. Farmers are being encouraged to use machines such as the Happy Seeder instead of burning crop residues.",
+     "Experts argue that lasting progress will require action on several fronts at once, because emergency measures treat the symptoms rather than the causes. Cleaner power, public transport, better fuels for rural kitchens, and stronger enforcement of existing laws are all widely recommended, and the Air Act of 1981 is often criticised for weak enforcement. Ultimately, the burden falls most heavily on young children, who breathe more air for their size."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "India's air pollution has many causes, serious effects, and no simple solution",
+       "B": "Farmers burning crop residues are the sole cause of the problem",
+       "C": "Strict laws have already solved the problem in every major city",
+       "D": "Indoor cooking smoke is harmless, so only traffic matters for health"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what happens to vehicle emissions in slow, congested traffic?",
+      "options": {
+       "A": "They fall sharply because engines use much less fuel",
+       "B": "Nothing changes, since cars always release the same pollutants",
+       "C": "Emissions vanish once the traffic slows below twenty kilometres",
+       "D": "Engines release several times more harmful pollutants overall"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 về việc lưu lượng giao thông ùn tắc di chuyển dưới 20 km/h khiến động cơ thải ra lượng chất ô nhiễm cao hơn gấp nhiều lần (Engines release several times more harmful pollutants overall)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"exacerbate\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "make cleaner",
+       "B": "make worse",
+       "C": "make faster",
+       "D": "make lighter"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"exacerbate\" ở đoạn 3 đi kèm với thời tiết mùa đông làm tình hình ô nhiễm trở nên tồi tệ hơn do không khí lạnh giữ khói bụi gần mặt đất, mang nghĩa làm trầm trọng thêm / làm tệ hơn (make worse)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why does winter make pollution worse?",
+      "options": {
+       "A": "Heavy winter rain pushes smoke higher into the atmosphere",
+       "B": "Farmers burn more residue during the colder months",
+       "C": "Cool, calm air keeps pollutants near the ground",
+       "D": "Strong winds carry desert dust into the cities"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin mùa đông ở đoạn 3 để xác định không khí lạnh và điều kiện lặng gió giữ các chất ô nhiễm bám sát mặt đất (Cool, calm air keeps pollutants near the ground)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"stringent\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "very strict",
+       "B": "fairly cheap",
+       "C": "newly printed",
+       "D": "rather lenient"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"stringent\" ở đoạn 6 đi kèm với các quy định về khí thải xe cộ trở nên khắt khe hơn theo tiêu chuẩn Bharat Stage VI, mang nghĩa rất nghiêm ngặt (very strict)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"who\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "urban workers",
+       "B": "young children",
+       "C": "local farmers",
+       "D": "city doctors"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ quan hệ \"who\" trong mệnh đề \"...burden falls most heavily on young children, *who* breathe more air for their size\" ở đoạn 7. Áp dụng quy tắc đối chiếu danh từ chỉ người đứng ngay trước đó (\"young children\") để thấy đây là từ thay thế cho trẻ em (young children)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what is the Graded Response Action Plan?",
+      "options": {
+       "A": "A permanent ban on every private car in Delhi",
+       "B": "A scheme that pays farmers to grow winter crops",
+       "C": "An annual festival that urges people to avoid fireworks",
+       "D": "A system of tougher restrictions as pollution rises"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Graded Response Action Plan\" ở đoạn 5 để ghi nhận đây là hệ thống áp dụng các hạn chế nghiêm ngặt hơn khi mức độ ô nhiễm gia tăng (A system of tougher restrictions as pollution rises)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "A decline in deaths once cooking fuels improved",
+       "B": "An estimate of around two million premature deaths yearly",
+       "C": "An economic loss of billions of dollars in 2019",
+       "D": "Many deaths linked to smoke from indoor cooking fires"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about air pollution in India?",
+      "options": {
+       "A": "Festival fireworks alone explain why the capital has dirty air",
+       "B": "Poor air quality only affects people during the monsoon months",
+       "C": "Effective action must tackle several sources and also protect public health",
+       "D": "New vehicle standards will remove the need for further action"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc tình trạng ô nhiễm xuất phát từ nhiều nguồn khác nhau (giao thông, thời tiết, đốt rơm rạ, đun nấu) và các hành động hiệu quả đòi hỏi phải giải quyết đồng thời nhiều nguồn đồng thời bảo vệ sức khỏe cộng đồng."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To compare the air quality of Indian cities with cities in Europe",
+       "B": "To explain the causes, effects, and responses to India's air pollution",
+       "C": "To argue that India should ban all cars from its cities",
+       "D": "To advise tourists on which seasons are best for visiting Indian cities Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu cuộc khủng hoảng chất lượng không khí nghiêm trọng tại Ấn Độ ảnh hưởng cả thành thị lẫn nông thôn; đoạn 2 liệt kê nhiều nguồn gây ô nhiễm đồng thời (xe cộ, công nghiệp, đốt rơm rạ, đun nấu bằng nhiên liệu rắn); đoạn 3 bàn về sự biến động theo mùa (mùa đông giữ ô nhiễm sát mặt đất, đốt rơm rạ mùa thu/xuân); đoạn 4 nêu các số liệu nghiên cứu về tác động tử vong sớm và thiệt hại kinh tế; đoạn 5 trình bày các biện pháp ứng phó khẩn cấp của thủ đô Delhi (luật chẵn-lẻ, kế hoạch GRAP); đoạn 6 đề cập đến Chương trình Không khí Sạch Quốc gia (NCAP), tiêu chuẩn khí thải BS VI và xe buýt điện; đoạn cuối kết luận rằng tiến trình bền vững đòi hỏi hành động đồng bộ trên nhiều mặt và bảo vệ nhóm dễ bị tổn thương như trẻ em. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện các nguyên nhân, tác động và phản ứng đối với tình trạng ô nhiễm không khí ở Ấn Độ.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R2Q2**, tìm thông tin ở đoạn 2 về việc lưu lượng giao thông ùn tắc di chuyển dưới 20 km/h khiến động cơ thải ra lượng chất ô nhiễm cao hơn gấp nhiều lần (Engines release several times more harmful pollutants overall).\n  - Với **R2Q4**, quét thông tin mùa đông ở đoạn 3 để xác định không khí lạnh và điều kiện lặng gió giữ các chất ô nhiễm bám sát mặt đất (Cool, calm air keeps pollutants near the ground).\n  - Với **R2Q7**, quét từ khóa \"Graded Response Action Plan\" ở đoạn 5 để ghi nhận đây là hệ thống áp dụng các hạn chế nghiêm ngặt hơn khi mức độ ô nhiễm gia tăng (A system of tougher restrictions as pollution rises).\n  - Với câu phủ định **R2Q8**, đối soát kỹ các thông tin tại đoạn 4 (ước tính khoảng 2 triệu ca tử vong sớm hàng năm, tổn thất kinh tế hàng tỷ USD năm 2019, nhiều ca tử vong liên quan đến khói đun nấu trong nhà) để loại trừ chi tiết hoàn toàn không xuất hiện như \"sự sụt giảm số ca tử vong một khi nhiên liệu nấu ăn được cải thiện\".\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"exacerbate\"** ở đoạn 3 đi kèm với thời tiết mùa đông làm tình hình ô nhiễm trở nên tồi tệ hơn do không khí lạnh giữ khói bụi gần mặt đất, mang nghĩa làm trầm trọng thêm / làm tệ hơn (make worse).\n  - Với **R2Q5**, từ **\"stringent\"** ở đoạn 6 đi kèm với các quy định về khí thải xe cộ trở nên khắt khe hơn theo tiêu chuẩn Bharat Stage VI, mang nghĩa rất nghiêm ngặt (very strict).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Xác định đại từ quan hệ **\"who\"** trong mệnh đề \"...burden falls most heavily on young children, *who* breathe more air for their size\" ở đoạn 7. Áp dụng quy tắc đối chiếu danh từ chỉ người đứng ngay trước đó (\"young children\") để thấy đây là từ thay thế cho trẻ em (young children).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc tình trạng ô nhiễm xuất phát từ nhiều nguồn khác nhau (giao thông, thời tiết, đốt rơm rạ, đun nấu) và các hành động hiệu quả đòi hỏi phải giải quyết đồng thời nhiều nguồn đồng thời bảo vệ sức khỏe cộng đồng.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R2Q2, R2Q4, R2Q7, R2Q8) và từ vựng, quy chiếu (**R2Q3, R2Q5, R2Q6**). Tiếp theo, giải quyết câu hỏi suy luận (**R2Q9**). Cuối cùng, hoàn thành các câu hỏi khái quát về ý chính và mục đích tác giả (**R2Q1, R2Q10**) để đạt kết quả xuất sắc nhất."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Tobacco Consumption in China: Scale, Culture, and the Struggle for Reform",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "China is the largest tobacco market, and the scale of its smoking habit is difficult to overstate. About 300 million people smoked there in 2022, and roughly 2.4 trillion cigarettes were sold, around 46 per cent of the world total. Smoking is overwhelmingly a male habit, and in 2020 nearly half of Chinese men smoked, compared with fewer than two per cent of women, according to World Bank data.",
+     "Smoking is also woven deeply into the fabric of everyday social life in China. Cigarettes are a common gift and a sign of respect or hospitality, particularly outside the big cities, and etiquette often dictates that they are offered first to elders or superiors in order of rank. These customs mean that declining a cigarette can feel like a rejection of friendship, so the habit remains **entrenched** even among people who know the risks.",
+     "The industry behind the habit is dominated by a single state enterprise. The China National Tobacco Corporation holds a monopoly in the mainland, is the largest tobacco manufacturer in the world, and reported revenue of nearly 213 billion dollars in 2022. Over the past decade, the industry has reportedly contributed between 7 and 10 per cent of annual central government revenue, so the same state that wishes to reduce smoking also profits from its continuation.",
+     "Smoking was estimated to have caused about one million deaths in China in 2010, among them roughly 840,000 men and 130,000 women. [1] That tension is visible in tax policy, because only five per cent of smokers in one survey cited price as a reason to quit, a result seen as evidence that prices are too low. **[2]** Tax rules on tobacco are described as limited and inconsistent across the country. **[3]** Smoke-free regulation has advanced unevenly, with Shanghai passing its first smoking control law in March 2010 and Beijing extending its ban to indoor public areas, yet enforcement remains weak outside the largest cities. **[4]** China formally committed to global standards when it ratified the WHO Framework Convention on Tobacco Control in 2005.",
+     "Local governments depend even more directly on tobacco taxes, so public health goals often collide with economic interests. In 2009, Gongan County required local officials to buy a set quota of local cigarettes, a policy **which** was reversed after public outcry. By contrast, organisers of the Shanghai Expo refused a donation of 200 million yuan from the Shanghai Tobacco Company. Physicians, who might be expected to set an example, are often smokers themselves, since a 2004 study of 3,500 doctors found that 23 per cent smoked regularly, including 41 per cent of the men.",
+     "Reform advocates therefore argue that change must come from several directions at once. Higher and more uniform taxes, comprehensive smoke-free laws, and stronger enforcement outside the largest cities would all reduce consumption, they say, although such measures would also reduce a source of public revenue. Changing the gift culture may prove harder still, because social habits shift more slowly than laws, and the example set by doctors and officials will matter.",
+     "In the end, reducing tobacco use in China is as much a political and cultural challenge as a medical one, and success will depend on whether public health can outweigh revenue. The obstacles are **formidable-** , because they combine a state monopoly, powerful social customs, and local financial incentives. Yet the sheer number of smokers means that even modest progress could save many lives."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Chinese smoking rates have fallen sharply since the monopoly was abolished",
+       "B": "Women now smoke as often as men in most Chinese cities",
+       "C": "China's huge smoking population is sustained by culture and revenue, making reform difficult",
+       "D": "Strict national laws have already made public smoking rare everywhere in China"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why is declining a cigarette sometimes difficult?",
+      "options": {
+       "A": "Cigarettes are legally required at all formal meetings",
+       "B": "Elders become offended whenever younger people drink tea",
+       "C": "Refusal is punished by law in rural areas",
+       "D": "It can feel like rejecting friendship"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 về việc từ chối thuốc lá có thể cảm thấy như một sự từ chối tình bạn (It can feel like rejecting friendship)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"entrenched\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "gradually fading",
+       "B": "firmly established",
+       "C": "recently invented",
+       "D": "openly banned"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"entrenched\" ở đoạn 2 đi kèm với các phong tục xã hội khiến thói quen hút thuốc vẫn tiếp tục ngay cả khi người hút biết rõ rủi ro, mang nghĩa bám rễ sâu / được thiết lập vững chắc (firmly established)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a toll makes tobacco control a public health priority, yet economic arguments have often prevailed.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Điền câu vào chỗ trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc các vị trí [1], [2], [3], [4] ở đoạn 4. Câu cần điền là: 'Such a toll makes tobacco control a public health priority, yet economic arguments have often prevailed.' (Cái giá phải trả như vậy làm cho việc kiểm soát thuốc lá trở thành ưu tiên y tế công cộng, nhưng các lập luận kinh tế thường chiếm ưu thế). Vị trí [1] nằm ngay sau câu nói về ước tính khoảng một triệu ca tử vong do thuốc lá gây ra ở Trung Quốc vào năm 2010 ('[1] Smoking was estimated to have caused about one million deaths in China in 2010... [2] That tension is visible in tax policy...'). Rất logic khi cụm từ 'Such a toll' quy chiếu trực tiếp ngay sau số liệu tử vong vừa được nêu ở câu trước."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what happened to the 2009 Gongan County policy?",
+      "options": {
+       "A": "Nearby counties soon adopted the same rule too",
+       "B": "Officials praised it as a national model",
+       "C": "Extra funding rewarded the county's leaders",
+       "D": "It was withdrawn after strong public protest"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về chính sách huyện Công An năm 2009 ở đoạn 5 để ghi nhận chính sách này đã bị thu hồi sau làn sóng phản đối mạnh mẽ từ công chúng (It was withdrawn after strong public protest)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "local officials",
+       "B": "a policy",
+       "C": "a quota",
+       "D": "public outcry"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ quan hệ \"which\" trong mệnh đề \"...Gongan County required local officials to buy a set quota of local cigarettes, a policy *which* was reversed after public outcry.\" ở đoạn 5. Áp dụng quy tắc đối chiếu danh từ đứng ngay trước đó (\"a policy\") để thấy đây là từ thay thế cho chính sách này (a policy)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"formidable\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "easy to ignore",
+       "B": "simple to explain",
+       "C": "hard to overcome",
+       "D": "quick to finish"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"formidable\" ở đoạn 7 đi kèm với các trở ngại bao gồm độc quyền nhà nước, phong tục xã hội mạnh mẽ và động lực tài chính địa phương, mang nghĩa khó vượt qua / đáng gờm (hard to overcome)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "A nationwide ban on smoking in workplaces",
+       "B": "Weak enforcement of smoking rules outside the biggest cities",
+       "C": "China's ratification of a global tobacco control treaty",
+       "D": "Estimates of about one million tobacco deaths in 2010"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 3, 5, and 6 about tobacco control in China?",
+      "options": {
+       "A": "Local officials are all strongly committed to cutting tobacco sales quickly",
+       "B": "Doctors have almost completely stopped smoking because of new hospital regulations",
+       "C": "Tobacco taxes are already so high that smokers have started quitting",
+       "D": "State revenue interests complicate reform, so progress needs more than simple health arguments"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc lợi ích doanh thu từ nhà nước làm phức tạp hóa quá trình cải cách, do đó tiến trình đòi hỏi nhiều hơn là chỉ các lập luận y tế đơn thuần."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers that all cigarette companies should be banned worldwide today",
+       "B": "To analyse why smoking persists in China and what blocks reform",
+       "C": "To compare the cost of cigarettes in China with other countries",
+       "D": "To explain how tobacco leaves are grown, dried, and processed Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu quy mô tiêu thụ thuốc lá khổng lồ ở Trung Quốc; đoạn 2 nói về văn hóa xã hội tặng thuốc và xem việc từ chối là từ chối tình bạn; đoạn 3 bàn về ngành công nghiệp độc quyền nhà nước (China National Tobacco Corporation) mang lại nguồn thu lớn cho ngân sách; đoạn 4 đề cập đến số lượng ca tử vong và các chính sách thuế, quy định còn hạn chế; đoạn 5 trình bày sự xung đột lợi ích ở cấp địa phương (chính sách hạn ngạch ở huyện Công An bị phản đối); đoạn 6 nhấn mạnh ý kiến của các nhà cải cách về việc cần thay đổi toàn diện; đoạn cuối tổng kết rằng việc giảm hút thuốc gặp trở ngại lớn từ sự kết hợp giữa độc quyền nhà nước, văn hóa và tài chính. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện việc lượng người hút thuốc khổng lồ được duy trì bởi văn hóa và doanh thu, khiến cải cách trở nên khó khăn.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R3Q2**, tìm thông tin ở đoạn 2 về việc từ chối thuốc lá có thể cảm thấy như một sự từ chối tình bạn (It can feel like rejecting friendship).\n  - Với **R3Q5**, quét thông tin về chính sách huyện Công An năm 2009 ở đoạn 5 để ghi nhận chính sách này đã bị thu hồi sau làn sóng phản đối mạnh mẽ từ công chúng (It was withdrawn after strong public protest).\n  - Với câu phủ định **R3Q8**, đối soát kỹ các chi tiết tại đoạn 4 (việc thực thi yếu kém ngoài các thành phố lớn, Trung Quốc phê chuẩn công ước kiểm soát thuốc lá toàn cầu, ước tính khoảng một triệu ca tử vong do thuốc lá năm 2010) để loại trừ chi tiết hoàn toàn không xuất hiện như \"lệnh cấm toàn quốc đối với việc hút thuốc tại nơi làm việc\".\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"entrenched\"** ở đoạn 2 đi kèm với các phong tục xã hội khiến thói quen hút thuốc vẫn tiếp tục ngay cả khi người hút biết rõ rủi ro, mang nghĩa bám rễ sâu / được thiết lập vững chắc (firmly established).\n  - Với **R3Q7**, từ **\"formidable\"** ở đoạn 7 đi kèm với các trở ngại bao gồm độc quyền nhà nước, phong tục xã hội mạnh mẽ và động lực tài chính địa phương, mang nghĩa khó vượt qua / đáng gờm (hard to overcome).\n- **Dạng câu hỏi Điền câu vào chỗ trống (R3Q4):** Đọc các vị trí [1], [2], [3], [4] ở đoạn 4. Câu cần điền là: 'Such a toll makes tobacco control a public health priority, yet economic arguments have often prevailed.' (Cái giá phải trả như vậy làm cho việc kiểm soát thuốc lá trở thành ưu tiên y tế công cộng, nhưng các lập luận kinh tế thường chiếm ưu thế). Vị trí [1] nằm ngay sau câu nói về ước tính khoảng một triệu ca tử vong do thuốc lá gây ra ở Trung Quốc vào năm 2010 ('[1] Smoking was estimated to have caused about one million deaths in China in 2010... [2] That tension is visible in tax policy...'). Rất logic khi cụm từ 'Such a toll' quy chiếu trực tiếp ngay sau số liệu tử vong vừa được nêu ở câu trước.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Xác định đại từ quan hệ **\"which\"** trong mệnh đề \"...Gongan County required local officials to buy a set quota of local cigarettes, a policy *which* was reversed after public outcry.\" ở đoạn 5. Áp dụng quy tắc đối chiếu danh từ đứng ngay trước đó (\"a policy\") để thấy đây là từ thay thế cho chính sách này (a policy).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc lợi ích doanh thu từ nhà nước làm phức tạp hóa quá trình cải cách, do đó tiến trình đòi hỏi nhiều hơn là chỉ các lập luận y tế đơn thuần.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R3Q2, R3Q5, R3Q8) và từ vựng, quy chiếu (R3Q3, R3Q6, R3Q7). Tiếp theo, giải quyết câu hỏi điền vị trí đoạn văn đòi hỏi tư duy liên kết logic (R3Q4). Cuối cùng, hoàn thành các câu hỏi suy luận và ý chính tổng quan (**R3Q1, R3Q9, R3Q10**) để đạt kết quả xuất sắc nhất."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Africa's Development Paradox: Resources, Institutions, and the Contested Path to Prosperity",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Africa reportedly holds a large share of the world's mineral and energy resources, yet many of its countries remain among the poorest on earth, and their wealth underground has rarely become wealth above it. Economists call this puzzle the resource curse, or the paradox of plenty, and have debated it for decades. This passage examines how resource wealth may weaken growth, how institutions shape outcomes, and why the evidence remains contested.",
+     "The idea of a resource curse has a surprisingly short but influential history. The term was coined by Richard Auty in 1993, and an influential 1995 study by Sachs and Warner found a strong link between resource abundance and weak economic growth. The hypothesis holds that countries rich in natural resources often grow more slowly, become less democratic, or develop less than resource-poor countries, although most experts now regard it as conditional rather than inevitable.",
+     "One mechanism, known as Dutch disease, takes its name from the Netherlands' gas boom after 1959, when a stronger currency made other exports less competitive and pushed the economy into recession. Angola and the Democratic Republic of the Congo are among the countries cited as examples. Dependence on one commodity also exposes governments to **volatile** prices, since oil rose from about 10 dollars a barrel in 1998 to 145 dollars in 2008 before falling to 60 dollars within months. In 2005, oil and diamonds reportedly supplied 99.3 per cent of Angola's exports.",
+     "Institutions matter at least as much as economics in shaping the outcome. Because resource rents let rulers fund themselves without taxing citizens, ordinary people have less reason to demand accountability, and Michael Ross found that petroleum is the one resource consistently linked to weaker democracy. A study of African mining found that people living within 50 kilometres of a newly opened mine were 33 per cent more likely to have paid a bribe in the previous year.",
+     "Boom-and-bust cycles have also encouraged heavy borrowing by many resource exporters over the years. Nigeria and Venezuela borrowed heavily during the oil boom of the 1970s, and their debts ballooned when prices collapsed in the 1980s. Conflict is also suspected, and one estimate puts the risk at about 6 per cent when primary commodity exports equal 5 per cent of GDP, rising to 33 per cent at 25 per cent. However, a 2019 meta-analysis of 69 studies found no overall relationship between natural resources and conflict, whereas a 2021 analysis of natural experiments found that higher oil and lootable mineral prices increased conflict.",
+     "The resource curse is therefore a contested idea rather than an iron law. **[1]** A 2016 meta-study found negative, null, and positive effects in roughly 40, 40, and 20 per cent of studies respectively, with weak support once publication bias was considered. **[2]** That conditionality helps to explain why resource-poor economies such as Singapore, Taiwan, and South Korea prospered while many resource-rich states stagnated. **[3]** Some scholars go further and argue that resource rents can fund social welfare and even encourage democratisation, as Thad Dunning has suggested for Venezuela in the 1970s. **[4]** Critics dispute the methods behind such claims, and the debate remains unresolved.",
+     "Proposed remedies include making transparent, universal payments of resource revenue to citizens and then reclaiming the money through taxes, so that citizens become taxpayers and **they** acquire a stake in how government spends. Financial hedges can also help governments manage the price swings that make planning so difficult. Yet no single reform is a **panacea**, and lasting prosperity will probably depend on diversified economies, accountable institutions, and investment in people."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Oil discoveries inevitably cause war and poverty in every African country",
+       "B": "African governments have deliberately avoided developing their mineral resources for decades",
+       "C": "Countries without natural resources always grow faster than countries with them",
+       "D": "Resource wealth does not guarantee prosperity, because institutions and policies shape the outcome"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what did Sachs and Warner's 1995 study find?",
+      "options": {
+       "A": "Strong links between resource wealth and weak growth",
+       "B": "Resource wealth always doubles national income within a single decade",
+       "C": "Most mineral exporters become democracies shortly after discovering new reserves",
+       "D": "Currency values always fall after natural resources are discovered nearby"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin nghiên cứu năm 1995 của Sachs và Warner ở đoạn 2 để xác định mối liên hệ mạnh mẽ giữa sự giàu có tài nguyên và tăng trưởng yếu (Strong links between resource wealth and weak growth)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"volatile\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "slow to rise",
+       "B": "easy to measure",
+       "C": "quick to change",
+       "D": "simple to explain"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"volatile\" ở đoạn 3 đi kèm với sự biến động mạnh của giá dầu từ 10 USD lên 145 USD rồi rơi xuống 60 USD, mang nghĩa biến động nhanh / nhanh chóng thay đổi (quick to change)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a spread of results suggests that the curse is conditional rather than inevitable.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào chỗ trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc các vị trí [1], [2], [3], [4] ở đoạn 6. Câu cần điền là: 'Such a spread of results suggests that the curse is conditional rather than inevitable.' (Sự phân tán kết quả như vậy cho thấy lời nguyền mang tính có điều kiện hơn là tất yếu). Vị trí [2] nằm ngay sau câu trích dẫn kết quả phân tích tổng meta-study tìm thấy hiệu ứng âm tính, trung tính và dương tính ở tỷ lệ tương ứng khoảng 40%, 40% và 20% ('[1] A 2016 meta-study found... [2] That conditionality helps to explain...'). Rất logic khi cụm từ 'Such a spread of results' quy chiếu trực tiếp ngay sau các kết quả đa dạng vừa được liệt kê ở câu trước."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what happened to Nigeria's debts in the 1980s?",
+      "options": {
+       "A": "Foreign banks agreed to forgive every outstanding loan in full",
+       "B": "They stayed low as export earnings remained very strong",
+       "C": "Early repayment came from new mining profits abroad",
+       "D": "They ballooned when oil prices collapsed during the 1980s"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về nợ của Nigeria ở đoạn 5 để ghi nhận các khoản nợ đã phình to khi giá dầu sụp đổ trong thập niên 1980 (They ballooned when oil prices collapsed during the 1980s)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"they\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "rulers",
+       "B": "payments",
+       "C": "citizens",
+       "D": "hedges"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ \"they\" trong mệnh đề \"...so that citizens become taxpayers and *they* acquire a stake in how government spends.\" ở đoạn 7. Áp dụng quy tắc đối chiếu danh từ chỉ người đứng ngay trước đó trong câu (\"citizens become taxpayers\") để thấy đây là từ thay thế cho người dân (citizens)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"panacea\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "a universal cure",
+       "B": "a minor setback",
+       "C": "a heavy cost",
+       "D": "a clear warning"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"panacea\" ở đoạn 7 đi kèm với việc không có cải cách đơn lẻ nào là giải pháp toàn diện cho mọi vấn đề, mang nghĩa liều thuốc vạn năng / cách chữa trị cho mọi vấn đề (a universal cure)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Rulers funding themselves without taxing their own citizens",
+       "B": "A rise in school attendance near mines",
+       "C": "Petroleum being linked to weaker democracy and institutions",
+       "D": "Greater bribery among people living near new mines"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about the resource curse?",
+      "options": {
+       "A": "It proves that African countries should never export any raw minerals",
+       "B": "It has been completely rejected by every economist since the 1990s",
+       "C": "It is a conditional tendency, shaped by institutions, rather than an unavoidable fate",
+       "D": "It affects only countries that discover oil, never those mining minerals"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc lời nguyền tài nguyên không phải là định mệnh không thể tránh khỏi, mà là một xu hướng có điều kiện chịu sự định hình của các thể chế, chính sách và quản trị."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To urge African governments to nationalise all mines within a decade",
+       "B": "To describe the history of colonial rule across southern Africa",
+       "C": "To explain how diamonds are mined, cut, and sold",
+       "D": "To weigh the evidence for and against Africa's resource curse"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu nghịch lý tài nguyên (resource curse/paradox of plenty) khi nhiều quốc gia giàu khoáng sản nhưng vẫn nghèo; đoạn 2 nói về lịch sử khái niệm và nghiên cứu của Sachs và Warner; đoạn 3 bàn về hội chứng Hà Lan (Dutch disease) và sự biến động giá cả; đoạn 4 đề cập đến vai trò của các thể chế và sự suy yếu dân chủ; đoạn 5 trình bày chu kỳ bùng nổ - sụp đổ và nợ công; đoạn 6 phân tích việc lời nguyền tài nguyên có điều kiện (conditional) qua các nghiên cứu tổng hợp; đoạn cuối nêu các giải pháp đề xuất như thanh toán minh bạch và đa dạng hóa kinh tế. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện việc sự giàu có về tài nguyên không đảm bảo sự thịnh vượng, vì các thể chế và chính sách quyết định kết quả.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, tìm thông tin nghiên cứu năm 1995 của Sachs và Warner ở đoạn 2 để xác định mối liên hệ mạnh mẽ giữa sự giàu có tài nguyên và tăng trưởng yếu (Strong links between resource wealth and weak growth).\n  - Với **R4Q5**, quét thông tin về nợ của Nigeria ở đoạn 5 để ghi nhận các khoản nợ đã phình to khi giá dầu sụp đổ trong thập niên 1980 (They ballooned when oil prices collapsed during the 1980s).\n  - Với câu phủ định **R4Q8**, đối soát kỹ các chi tiết tại đoạn 4 (chính khách tự tài trợ mà không đánh thuế người dân, dầu mỏ liên kết với nền dân chủ yếu hơn, gia tăng tham nhũng/hối lộ quanh mỏ mới) để loại trừ chi tiết hoàn toàn không xuất hiện như \"sự gia tăng tỷ lệ đi học gần các mỏ\".\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"volatile\"** ở đoạn 3 đi kèm với sự biến động mạnh của giá dầu từ 10 USD lên 145 USD rồi rơi xuống 60 USD, mang nghĩa biến động nhanh / nhanh chóng thay đổi (quick to change).\n  - Với **R4Q7**, từ **\"panacea\"** ở đoạn 7 đi kèm với việc không có cải cách đơn lẻ nào là giải pháp toàn diện cho mọi vấn đề, mang nghĩa liều thuốc vạn năng / cách chữa trị cho mọi vấn đề (a universal cure).\n- **Dạng câu hỏi Điền câu vào chỗ trống (R4Q4):** Đọc các vị trí [1], [2], [3], [4] ở đoạn 6. Câu cần điền là: 'Such a spread of results suggests that the curse is conditional rather than inevitable.' (Sự phân tán kết quả như vậy cho thấy lời nguyền mang tính có điều kiện hơn là tất yếu). Vị trí [2] nằm ngay sau câu trích dẫn kết quả phân tích tổng meta-study tìm thấy hiệu ứng âm tính, trung tính và dương tính ở tỷ lệ tương ứng khoảng 40%, 40% và 20% ('[1] A 2016 meta-study found... [2] That conditionality helps to explain...'). Rất logic khi cụm từ 'Such a spread of results' quy chiếu trực tiếp ngay sau các kết quả đa dạng vừa được liệt kê ở câu trước.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Xác định đại từ **\"they\"** trong mệnh đề \"...so that citizens become taxpayers and *they* acquire a stake in how government spends.\" ở đoạn 7. Áp dụng quy tắc đối chiếu danh từ chỉ người đứng ngay trước đó trong câu (\"citizens become taxpayers\") để thấy đây là từ thay thế cho người dân (citizens).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc lời nguyền tài nguyên không phải là định mệnh không thể tránh khỏi, mà là một xu hướng có điều kiện chịu sự định hình của các thể chế, chính sách và quản trị.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R4Q2, R4Q5, R4Q8) và từ vựng, quy chiếu (R4Q3, R4Q6, R4Q7). Tiếp theo, giải quyết câu hỏi điền vị trí đoạn văn đòi hỏi tư duy liên kết logic (R4Q4). Cuối cùng, hoàn thành các câu hỏi suy luận và ý chính tổng quan (**R4Q1, R4Q9, R4Q10**) để đạt kết quả xuất sắc nhất."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You are interested in an international internship program and want to get more information from the organization.\nWrite an email asking for details about the internship opportunity.\nYou have found information about an international internship program and would like to apply. Write an email to the program organizer to ask for more details.\n- Ask about the internship position, requirements and application process.\n- Ask about the duration, location and daily responsibilities of the internship.\n- Ask about benefits, accommodation or financial support provided by the program.\nWrite an email responding to the internship organization. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You are interested in an international internship program and want to get more information from the organization.",
+      "Write an email asking for details about the internship opportunity."
+     ],
+     "quote": [
+      "You have found information about an international internship program and would like to apply. Write an email to the program organizer to ask for more details.",
+      "- Ask about the internship position, requirements and application process.",
+      "- Ask about the duration, location and daily responsibilities of the internship.",
+      "- Ask about benefits, accommodation or financial support provided by the program."
+     ],
+     "instruction": "Write an email responding to the internship organization. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Formal Email** vì người nhận là tổ chức hoặc người phụ trách chương trình thực tập.\n- Bạn cần sử dụng giọng văn lịch sự, chuyên nghiệp và thể hiện sự quan tâm đến cơ hội thực tập quốc tế.\n- Cần trả lời đủ 3 yêu cầu chính: hỏi về vị trí và điều kiện tham gia, thời gian và nhiệm vụ, quyền lợi và hỗ trợ.\n- Bài viết cần đạt tối thiểu **120 từ**, nên thêm lý do bạn quan tâm đến chương trình.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Sử dụng lời chào trang trọng. Ví dụ: Dear Internship Program Coordinator,\n- **Opening:** Nêu mục đích viết email. Ví dụ: I am writing to ask for more information about your international internship program.\n- **Body paragraph(s):** Chia câu hỏi theo nhóm: thông tin chương trình, yêu cầu ứng tuyển, công việc và quyền lợi.\n- **Closing:** Cảm ơn người nhận và thể hiện mong muốn nhận được phản hồi. Ví dụ: I would appreciate your reply at your earliest convenience.\n- **Sign-off:** Kết thúc bằng cụm lịch sự như Kind regards.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để hỏi về thông tin chương trình.\n- Dùng cấu trúc câu hỏi lịch sự như Could you please provide more information about... hoặc I would like to know...\n- Tránh dùng câu hỏi quá trực tiếp, nên thể hiện sự tôn trọng trong môi trường học thuật và công việc.\nTừ vựng quan trọng:\n- **International internship:** Thực tập quốc tế\n- **Internship program:** Chương trình thực tập\n- **Application process:** Quy trình đăng ký\n- **Eligibility requirements:** Điều kiện tham gia\n- **Work responsibilities:** Nhiệm vụ công việc\n- **Financial support:** Hỗ trợ tài chính\nTừ nối (Linking words):\n- **Firstly:** Trước tiên\n- **In addition:** Ngoài ra\n- **Regarding:** Về vấn đề\n- **Moreover:** Hơn nữa\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am very interested in this opportunity:** Tôi rất quan tâm đến cơ hội này\n- **I would be grateful for your information:** Tôi rất biết ơn nếu nhận được thông tin\n- **I am looking forward to joining this program:** Tôi mong muốn được tham gia chương trình\n\n**4. Các lỗi thường gặp:**\n- Viết email quá thân mật như gửi bạn bè.\n- Chỉ hỏi một vài thông tin mà bỏ qua các yêu cầu còn lại.\n- Sử dụng từ vựng không phù hợp với bối cảnh thực tập và công việc.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã hỏi đủ về vị trí, thời gian, nhiệm vụ và quyền lợi chưa.\n- Đảm bảo có mở đầu và kết thúc email lịch sự.\n- Kiểm tra lỗi ngữ pháp, chính tả và số lượng từ.\n\n**6. Tư duy làm bài:**\nHãy coi đây là một email thật gửi đến tổ chức quốc tế. Sự lịch sự, rõ ràng và đầy đủ thông tin quan trọng hơn việc sử dụng từ quá phức tạp.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nMany university students decide to take part-time jobs while they are studying. Some people believe that working during university years can provide valuable experience, while others think it may negatively affect students' academic performance.\nPart-time employment has become a common topic of discussion among students, parents and educators. Do you agree or disagree that university students should do part-time jobs?\nWrite an essay to an educated reader to give your opinion on whether university students should do part-time jobs. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Many university students decide to take part-time jobs while they are studying. Some people believe that working during university years can provide valuable experience, while others think it may negatively affect students' academic performance.",
+      "Part-time employment has become a common topic of discussion among students, parents and educators.",
+      "Do you agree or disagree that university students should do part-time jobs?"
+     ],
+     "instruction": "Write an essay to an educated reader to give your opinion on whether university students should do part-time jobs. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng **Opinion Essay**, yêu cầu bạn đưa ra quan điểm đồng ý hoặc không đồng ý về việc sinh viên đại học nên làm thêm.\n- Cần xác định rõ lập trường ngay từ mở bài và duy trì quan điểm nhất quán trong toàn bài.\n- Từ khóa chính gồm university students, part-time jobs, benefits và possible drawbacks.\n- Bài viết cần tối thiểu **250 từ**, cần có lý do và ví dụ để bảo vệ quan điểm.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vấn đề và nêu quan điểm. Ví dụ: I believe that part-time jobs can bring many benefits to university students.\n- **Body 1:** Trình bày lý do thứ nhất. Cấu trúc: Topic sentence -> Explanation -> Example -> Mini-conclusion. Ví dụ: Part-time work helps students develop practical skills.\n- **Body 2:** Trình bày lý do thứ hai hoặc phản biện ý kiến ngược lại. Ví dụ: Although working may reduce study time, students can learn how to manage their schedules.\n- **Body 3:** Có thể mở rộng thêm về kỹ năng tài chính hoặc kinh nghiệm nghề nghiệp.\n- **Conclusion:** Nhắc lại quan điểm và tóm tắt các lý do chính.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để nói về lợi ích và xu hướng chung.\n- Dùng câu điều kiện hoặc cấu trúc nhượng bộ để thể hiện lập luận sâu hơn.\n- Cần có Thesis Statement rõ ràng trong mở bài để thể hiện quan điểm.\nTừ vựng quan trọng:\n- **Part-time job:** Công việc bán thời gian\n- **Work experience:** Kinh nghiệm làm việc\n- **Time management skills:** Kỹ năng quản lý thời gian\n- **Financial independence:** Sự độc lập tài chính\n- **Academic performance:** Kết quả học tập\n- **Career preparation:** Chuẩn bị nghề nghiệp\nTừ nối (Linking words):\n- **Firstly:** Thứ nhất\n- **Furthermore:** Hơn nữa\n- **However:** Tuy nhiên\n- **For example:** Ví dụ\n- **Therefore:** Vì vậy\n- **In conclusion:** Kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- **University students:** Có thể thay bằng college students hoặc higher education learners.\n- **Part-time jobs:** Có thể thay bằng part-time employment hoặc temporary work.\n- **Improve skills:** Có thể thay bằng develop abilities hoặc enhance competencies.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **I strongly believe that...** Dùng để thể hiện quan điểm cá nhân.\n- **One of the main reasons is that...** Dùng để phát triển lý do.\n- **Despite this concern, I believe that...** Dùng để phản hồi ý kiến trái chiều.\n\n**4. Các lỗi thường gặp:**\n- Không nêu rõ quan điểm đồng ý hay không đồng ý.\n- Chỉ kể lợi ích mà không giải thích hoặc đưa ví dụ.\n- Viết quá cực đoan, không xem xét mặt hạn chế của vấn đề.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra mở bài đã có quan điểm rõ ràng chưa.\n- Đảm bảo mỗi đoạn thân bài có lý do và ví dụ.\n- Kiểm tra lỗi ngữ pháp, từ nối và số lượng từ.\n\n**6. Tư duy làm bài:**\nTrong bài Opinion, điều quan trọng nhất là bảo vệ quan điểm bằng lập luận logic. Không cần chọn ý tưởng quá phức tạp, chỉ cần trình bày rõ ràng và nhất quán."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about difficulties\n\n1\nWhat difficulties do you usually face in your daily life?\n2\nHow do you deal with problems or difficulties when they happen?\n3\nWhat is the most challenging experience you have ever had?\n\nNow, let’s talk about cancelling plans\n\n4\nDo you often cancel meetings or appointments with other people?\n5\nWhy do some people cancel their plans with friends?\n6\nHow do you feel when someone cancels a meeting with you? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này có **2 chủ đề nhỏ**: **Topic A (Difficulties and Challenges)** và **Topic B (Meetings and Social Plans)**.\n- **Topic A (Difficulties and Challenges):** Các câu hỏi 1–3 tập trung vào những khó khăn trong cuộc sống, cách giải quyết vấn đề và trải nghiệm thử thách của bạn.\n- **Topic B (Meetings and Social Plans):** Các câu hỏi 4–6 xoay quanh việc hủy cuộc hẹn, lý do mọi người thay đổi kế hoạch và cảm xúc trong các tình huống giao tiếp.\n- Tiêu chí chấm điểm gồm **Fluency, Vocabulary, Grammar, Pronunciation**. Bạn cần trả lời tự nhiên, có lý do và ví dụ cụ thể.\n- Thời gian Part 1 khoảng **3 phút**, nên dành khoảng 25–35 giây cho mỗi câu hỏi và cân bằng giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)**: trả lời trực tiếp, giải thích nguyên nhân và thêm ví dụ.\n- **Ví dụ Topic A:** \"One difficulty I often face is managing my time because I have many tasks to complete. For example, I sometimes need to make a schedule to organize my work better.\"\n- **Ví dụ Topic B:** \"I rarely cancel meetings because I think respecting other people's time is important. However, I may change my plan if I have an unexpected problem.\"\n- Luôn tự hỏi thêm **Why?** hoặc **How?** để phát triển câu trả lời.\n- Khi chuyển chủ đề, có thể dùng câu nối: **\"Apart from personal challenges, maintaining good relationships is also** important in daily life.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định, sử dụng từ nối để tránh khoảng dừng dài.\n- Dùng **hiện tại đơn** cho thói quen và **quá khứ đơn** khi kể về trải nghiệm khó khăn.\n- Nếu quên từ, hãy mô tả ý nghĩa thay vì dừng lại.\n- **Vocabulary Topic A:** face challenges (đối mặt thử thách), solve problems (giải quyết vấn đề), overcome difficulties (vượt qua khó khăn), stressful situation (tình huống căng thẳng).\n- **Vocabulary Topic B:** cancel a plan (hủy kế hoạch), make an appointment (đặt lịch hẹn), keep a promise (giữ lời hứa), social relationship (mối quan hệ xã hội).\nCụm từ quan trọng nên dùng:\n- **Topic A:** \"deal with pressure\" - đối phó với áp lực.\n- **Topic A:** \"learn from experience\" - học hỏi từ trải nghiệm.\n- **Topic A:** \"find a solution\" - tìm giải pháp.\n- **Topic B:** \"change my schedule\" - thay đổi lịch trình.\n- **Topic B:** \"respect someone's time\" - tôn trọng thời gian của ai đó.\n- **Topic B:** \"keep in touch with friends\" - giữ liên lạc với bạn bè.\nTừ nối khi nói (Linking Words):\n- **First of all:** trước hết, mở đầu câu trả lời.\n- **Besides:** bên cạnh đó, thêm ý.\n- **However:** tuy nhiên, thể hiện sự đối lập.\n- **For example:** ví dụ, minh họa.\n- **As a result:** vì vậy, nói về kết quả.\nCách thể hiện quan điểm tự nhiên:\n- **\"I think that...\"** - Tôi nghĩ rằng... Ví dụ: I think everyone faces difficulties in life.\n- **\"In my opinion...\"** - Theo ý kiến của tôi... Ví dụ: In my opinion, communication is important when changing plans.\n- **\"Personally, I believe...\"** - Cá nhân tôi tin rằng... Ví dụ: Personally, I believe we should respect other people's time.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn như \"Yes\" hoặc \"No\" mà không giải thích.\n- Topic A: Chỉ kể khó khăn mà không nói cách giải quyết.\n- Topic B: Chỉ nói việc hủy cuộc hẹn là xấu mà không phân tích trường hợp cụ thể.\n- Sử dụng sai thì khi kể trải nghiệm trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: \"That is an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy giải thích bằng từ đơn giản hơn.\n- Topic A: Có thể chuyển sang nói về áp lực học tập, công việc hoặc quản lý thời gian.\n- Topic B: Có thể chuyển sang nói về sự tôn trọng, giao tiếp và kế hoạch cá nhân.\n\n**6. Tư duy làm bài nói:**\n- Coi Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n- Khi chuyển từ Difficulties sang Meetings, hãy thay đổi cách triển khai ý.\n- Sự mạch lạc và tự nhiên quan trọng hơn việc dùng từ quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou are visiting Singapore and want to choose an activity to make your trip more meaningful.\n\nYou are considering the following options:\n\nOption 1: Read books in a library\nOption 2: Explore information and places through the Internet\nOption 3: Meet and talk with friends to learn more about local life\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần lựa chọn hoạt động phù hợp nhất trong chuyến đi Singapore và phân tích ba phương án.\n- Tiêu chí chấm điểm gồm khả năng so sánh, lập luận, sử dụng từ vựng phù hợp và đưa ra kết luận rõ ràng.\n- Thời gian Part 2 là **4 phút**, khoảng 1 phút chuẩn bị và 3 phút nói.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E (Introduction - Comparison/Body - End)**: giới thiệu mục tiêu chuyến đi, phân tích từng lựa chọn và kết luận.\n- Option 1 giúp thư giãn và mở rộng kiến thức nhưng có thể không mang lại nhiều trải nghiệm địa phương.\n- Option 2 thuận tiện để tìm thông tin nhanh nhưng thiếu sự tương tác thực tế.\n- Option 3 giúp hiểu văn hóa và kết nối với mọi người nhưng cần có thời gian sắp xếp.\n- Liên hệ với mục tiêu du lịch để bài nói thuyết phục hơn.\n- Dùng từ nối thể hiện so sánh như while, compared with, however.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói từng ý riêng biệt.\n- Dùng hiện tại đơn để mô tả lợi ích và cấu trúc điều kiện khi nói về kết quả.\n- Nếu quên từ liên quan đến du lịch, có thể chuyển sang nói về trải nghiệm, kiến thức và giao tiếp.\nCụm từ quan trọng nên dùng:\n- **meaningful experience:** trải nghiệm ý nghĩa.\n- **explore local culture:** khám phá văn hóa địa phương.\n- **gain knowledge:** tiếp thu kiến thức.\n- **build relationships:** xây dựng mối quan hệ.\n- **make unforgettable memories:** tạo kỷ niệm đáng nhớ.\n- **travel experience:** trải nghiệm du lịch.\nTừ nối khi nói (Linking Words):\n- **On the one hand:** một mặt.\n- **On the other hand:** mặt khác.\n- **Compared with:** so với.\n- **Therefore:** vì vậy.\n- **In conclusion:** kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **\"I would choose Option 3 because...\"** - Tôi chọn phương án 3 vì...\n- **\"The main reason is that...\"** - Lý do chính là...\n- **\"Although this option has some benefits...\"** - Mặc dù phương án này có lợi ích...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói ưu điểm của lựa chọn mình chọn mà bỏ qua hai lựa chọn còn lại.\n- Lặp lại các từ đơn giản như good hoặc interesting.\n- Không đưa ra quyết định cuối cùng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Chuyển sang các yếu tố chung như chi phí, thời gian, sự tiện lợi.\n- Dùng câu: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí một lựa chọn, hãy chuyển sang lựa chọn tiếp theo.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người lập kế hoạch chuyến đi.\n- Chọn phương án phù hợp nhất với mục tiêu tạo trải nghiệm đáng nhớ.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of becoming a young leader\n\nYoung Leadership\nQualities of a good young leader\nBenefits of young leadership in society\nWays to develop leadership skills\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy are leadership skills important for young people?\n2\nCan everyone become a good leader? Why or why not?\n3\nHow can young people develop leadership skills?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Topic Development**. Bạn cần phát triển chủ đề về nhà lãnh đạo trẻ dựa trên các nhánh ý trong sơ đồ tư duy và thêm một ý tưởng cá nhân.\n- Tiêu chí chấm điểm gồm khả năng phát triển ý, tính logic, từ vựng, ngữ pháp và phát âm.\n- Thời gian Part 3 là **5 phút**, khoảng 3–3,5 phút cho bài nói chính và thời gian còn lại cho follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction - Detail - Example - Add/wrap up)**: giới thiệu, giải thích, đưa ví dụ và mở rộng.\n- **Ví dụ 1:** \"Today, I would like to talk about the importance of young leaders and why leadership skills are necessary for young people.\"\n- **Ví dụ 2:** \"Another personal idea is that young leaders can inspire others because they often bring fresh ideas and new perspectives.\"\n- **Nhánh 4 – Ý tưởng cá nhân:** Bạn có thể phát triển thêm ý về **vai trò của lãnh đạo trẻ trong việc tạo ra sự đổi mới**. Ví dụ: \"Young leaders can create positive changes because they are willing to try new ideas and adapt to changes.\"\n- Bám sát sơ đồ tư duy để bài nói có trình tự rõ ràng và tránh lặp ý.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm chuyển ý để kết nối các phần trong bài nói.\n- Dùng **Present Simple** để nói về đặc điểm chung và **Present Perfect** khi nói về sự phát triển của lãnh đạo trẻ.\n- Có thể thay thế young leader bằng emerging leader hoặc future leader.\nCụm từ quan trọng nên dùng:\n- **leadership skills:** kỹ năng lãnh đạo.\n- **make decisions:** đưa ra quyết định.\n- **inspire others:** truyền cảm hứng cho người khác.\n- **take responsibility:** chịu trách nhiệm.\n- **creative ideas:** ý tưởng sáng tạo.\n- **team management:** quản lý đội nhóm.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên.\n- **Furthermore:** hơn nữa.\n- **For instance:** ví dụ.\n- **However:** tuy nhiên.\n- **To sum up:** tóm lại.\nCách thể hiện quan điểm tự nhiên:\n- **\"I strongly believe that...\"** - Tôi tin rằng... Ví dụ: I strongly believe young leaders can create positive changes.\n- **\"From my perspective...\"** - Theo quan điểm của tôi... Ví dụ: From my perspective, leadership skills can be learned.\n- **\"It is important to note that...\"** - Điều quan trọng cần lưu ý là...\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"Why are leadership skills important?\"** – They help young people communicate effectively, solve problems and work well with others.\n- **\"Can everyone become a leader?\"** – Yes, because leadership skills can be developed through experience and practice.\n- **\"How can young people develop leadership skills?\"** – They can join clubs, work in teams and take responsibility for different projects.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê phẩm chất lãnh đạo mà không giải thích.\n- Quên ý tưởng cá nhân và chỉ nói theo sơ đồ.\n- Dành quá nhiều thời gian cho bài chính và không đủ thời gian trả lời câu hỏi phụ.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Liên hệ với kinh nghiệm học tập, làm việc nhóm hoặc hoạt động cá nhân.\n- Dùng câu: \"That is a complex issue. If we evaluate it from a societal viewpoint...\"\n- Nếu quên từ chuyên môn, hãy giải thích bằng từ đơn giản hơn.\n\n**7. Tư duy làm bài nói:**\n- Nhìn chủ đề từ góc độ thực tế: lãnh đạo không chỉ là quản lý mà còn là tạo ảnh hưởng tích cực.\n- Logic và khả năng phát triển ý là yếu tố quan trọng.\n- Hãy đưa ví dụ cụ thể để thể hiện khả năng suy nghĩ sâu hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about difficulties.\n1.\nWhat difficulties do you usually face in your daily life?\n2.\nHow do you deal with problems or difficulties when they happen?\n3.\nWhat is the most challenging experience you have ever had?\nNow, let’s talk about cancelling plans.\n4.\nDo you often cancel meetings or appointments with other people?\n5.\nWhy do some people cancel their plans with friends?\n6.\nHow do you feel when someone cancels a meeting with you? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này có 2 chủ đề nhỏ: Topic A (Difficulties and Challenges) và Topic B (Meetings and Social Plans).\n• Topic A (Difficulties and Challenges): Các câu hỏi 1–3 tập trung vào những khó khăn trong cuộc sống, cách giải quyết\nvấn đề và trải nghiệm thử thách của bạn.\n• Topic B (Meetings and Social Plans): Các câu hỏi 4–6 xoay quanh việc hủy cuộc hẹn, lý do mọi người thay đổi kế\nhoạch và cảm xúc trong các tình huống giao tiếp.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar, Pronunciation. Bạn cần trả lời tự nhiên, có lý do và ví dụ cụ\nthể.\n• Thời gian Part 1 khoảng 3 phút, nên dành khoảng 25–35 giây cho mỗi câu hỏi và cân bằng giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE): trả lời trực tiếp, giải thích nguyên nhân và thêm ví dụ.\n• Ví dụ Topic A: \"One difficulty I often face is managing my time because I have many tasks to complete. For example,\nI sometimes need to make a schedule to organize my work better.\"\n• Ví dụ Topic B: \"I rarely cancel meetings because I think respecting other people's time is important. However, I may\nchange my plan if I have an unexpected problem.\"\n• Luôn tự hỏi thêm Why? hoặc How? để phát triển câu trả lời.\n• Khi chuyển chủ đề, có thể dùng câu nối: \"Apart from personal challenges, maintaining good relationships is also\nimportant in daily life.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định, sử dụng từ nối để tránh khoảng dừng dài.\n• Dùng hiện tại đơn cho thói quen và quá khứ đơn khi kể về trải nghiệm khó khăn.\n• Nếu quên từ, hãy mô tả ý nghĩa thay vì dừng lại.\n• Vocabulary Topic A: face challenges (đối mặt thử thách), solve problems (giải quyết vấn đề), overcome difficulties\n(vượt qua khó khăn), stressful situation (tình huống căng thẳng).\n• Vocabulary Topic B: cancel a plan (hủy kế hoạch), make an appointment (đặt lịch hẹn), keep a promise (giữ lời hứa),\nsocial relationship (mối quan hệ xã hội).\nCụm từ quan trọng nên dùng:\n• Topic A: \"deal with pressure\" - đối phó với áp lực.\n• Topic A: \"learn from experience\" - học hỏi từ trải nghiệm.\n• Topic A: \"find a solution\" - tìm giải pháp.\n• Topic B: \"change my schedule\" - thay đổi lịch trình.\n• Topic B: \"respect someone's time\" - tôn trọng thời gian của ai đó.\n• Topic B: \"keep in touch with friends\" - giữ liên lạc với bạn bè.\nTừ nối khi nói (Linking Words):\n• First of all: trước hết, mở đầu câu trả lời.\n• Besides: bên cạnh đó, thêm ý.\n• However: tuy nhiên, thể hiện sự đối lập.\n• For example: ví dụ, minh họa.\n• As a result: vì vậy, nói về kết quả.\nCách thể hiện quan điểm tự nhiên:\n• \"I think that...\" - Tôi nghĩ rằng... Ví dụ: I think everyone faces difficulties in life.\n• \"In my opinion...\" - Theo ý kiến của tôi... Ví dụ: In my opinion, communication is important when changing plans.\n• \"Personally, I believe...\" - Cá nhân tôi tin rằng... Ví dụ: Personally, I believe we should respect other people's time.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn như \"Yes\" hoặc \"No\" mà không giải thích.\n• Topic A: Chỉ kể khó khăn mà không nói cách giải quyết.\n• Topic B: Chỉ nói việc hủy cuộc hẹn là xấu mà không phân tích trường hợp cụ thể.\n• Sử dụng sai thì khi kể trải nghiệm trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: \"That is an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy giải thích bằng từ đơn giản hơn.\n• Topic A: Có thể chuyển sang nói về áp lực học tập, công việc hoặc quản lý thời gian.\n• Topic B: Có thể chuyển sang nói về sự tôn trọng, giao tiếp và kế hoạch cá nhân.\n6. Tư duy làm bài nói:\n• Coi Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n• Khi chuyển từ Difficulties sang Meetings, hãy thay đổi cách triển khai ý.\n• Sự mạch lạc và tự nhiên quan trọng hơn việc dùng từ quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYou are visiting Singapore and want to choose an activity to make your trip more meaningful.\nYou are considering the following options:\n• Option 1: Read books in a library\n• Option 2: Explore information and places through the Internet\n• Option 3: Meet and talk with friends to learn more about local life\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần lựa chọn hoạt động phù hợp nhất trong chuyến đi Singapore và phân tích\nba phương án.\n• Tiêu chí chấm điểm gồm khả năng so sánh, lập luận, sử dụng từ vựng phù hợp và đưa ra kết luận rõ ràng.\n• Thời gian Part 2 là 4 phút, khoảng 1 phút chuẩn bị và 3 phút nói.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu mục tiêu chuyến đi, phân tích từng lựa\nchọn và kết luận.\n• Option 1 giúp thư giãn và mở rộng kiến thức nhưng có thể không mang lại nhiều trải nghiệm địa phương.\n• Option 2 thuận tiện để tìm thông tin nhanh nhưng thiếu sự tương tác thực tế.\n• Option 3 giúp hiểu văn hóa và kết nối với mọi người nhưng cần có thời gian sắp xếp.\n• Liên hệ với mục tiêu du lịch để bài nói thuyết phục hơn.\n• Dùng từ nối thể hiện so sánh như while, compared with, however.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói từng ý riêng biệt.\n• Dùng hiện tại đơn để mô tả lợi ích và cấu trúc điều kiện khi nói về kết quả.\n• Nếu quên từ liên quan đến du lịch, có thể chuyển sang nói về trải nghiệm, kiến thức và giao tiếp.\nCụm từ quan trọng nên dùng:\n• meaningful experience: trải nghiệm ý nghĩa.\n• explore local culture: khám phá văn hóa địa phương.\n• gain knowledge: tiếp thu kiến thức.\n• build relationships: xây dựng mối quan hệ.\n• make unforgettable memories: tạo kỷ niệm đáng nhớ.\n• travel experience: trải nghiệm du lịch.\nTừ nối khi nói (Linking Words):\n• On the one hand: một mặt.\n• On the other hand: mặt khác.\n• Compared with: so với.\n• Therefore: vì vậy.\n• In conclusion: kết luận.\nCách thể hiện quan điểm tự nhiên:\n• \"I would choose Option 3 because...\" - Tôi chọn phương án 3 vì...\n• \"The main reason is that...\" - Lý do chính là...\n• \"Although this option has some benefits...\" - Mặc dù phương án này có lợi ích...\n4. Các lỗi thường gặp:\n• Chỉ nói ưu điểm của lựa chọn mình chọn mà bỏ qua hai lựa chọn còn lại.\n• Lặp lại các từ đơn giản như good hoặc interesting.\n• Không đưa ra quyết định cuối cùng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Chuyển sang các yếu tố chung như chi phí, thời gian, sự tiện lợi.\n• Dùng câu: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí một lựa chọn, hãy chuyển sang lựa chọn tiếp theo.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người lập kế hoạch chuyến đi.\n• Chọn phương án phù hợp nhất với mục tiêu tạo trải nghiệm đáng nhớ.\nTopic Development\nPART 3\n5 phút\nTopic: The importance of becoming a young leader\nQualities of a good young leader\nBenefits of young leadership in society\nYoung Leadership\nÝ tưởng của bạn\nWays to develop leadership skills\nFOLLOW-UP QUESTIONS\n1.\nWhy are leadership skills important for young people?\n2.\nCan everyone become a good leader? Why or why not?\n3.\nHow can young people develop leadership skills?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Topic Development. Bạn cần phát triển chủ đề về nhà lãnh đạo trẻ dựa trên các nhánh ý trong sơ đồ tư\nduy và thêm một ý tưởng cá nhân.\n• Tiêu chí chấm điểm gồm khả năng phát triển ý, tính logic, từ vựng, ngữ pháp và phát âm.\n• Thời gian Part 3 là 5 phút, khoảng 3–3,5 phút cho bài nói chính và thời gian còn lại cho follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction - Detail - Example - Add/wrap up): giới thiệu, giải thích, đưa ví dụ và mở rộng.\n• Ví dụ 1: \"Today, I would like to talk about the importance of young leaders and why leadership skills are necessary\nfor young people.\"\n• Ví dụ 2: \"Another personal idea is that young leaders can inspire others because they often bring fresh ideas and new\nperspectives.\"\n• Nhánh 4 – Ý tưởng cá nhân: Bạn có thể phát triển thêm ý về vai trò của lãnh đạo trẻ trong việc tạo ra sự đổi mới. Ví\ndụ: \"Young leaders can create positive changes because they are willing to try new ideas and adapt to changes.\"\n• Bám sát sơ đồ tư duy để bài nói có trình tự rõ ràng và tránh lặp ý.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm chuyển ý để kết nối các phần trong bài nói.\n• Dùng Present Simple để nói về đặc điểm chung và Present Perfect khi nói về sự phát triển của lãnh đạo trẻ.\n• Có thể thay thế young leader bằng emerging leader hoặc future leader.\nCụm từ quan trọng nên dùng:\n• leadership skills: kỹ năng lãnh đạo.\n• make decisions: đưa ra quyết định.\n• inspire others: truyền cảm hứng cho người khác.\n• take responsibility: chịu trách nhiệm.\n• creative ideas: ý tưởng sáng tạo.\n• team management: quản lý đội nhóm.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên.\n• Furthermore: hơn nữa.\n• For instance: ví dụ.\n• However: tuy nhiên.\n• To sum up: tóm lại.\nCách thể hiện quan điểm tự nhiên:\n• \"I strongly believe that...\" - Tôi tin rằng... Ví dụ: I strongly believe young leaders can create positive changes.\n• \"From my perspective...\" - Theo quan điểm của tôi... Ví dụ: From my perspective, leadership skills can be learned.\n• \"It is important to note that...\" - Điều quan trọng cần lưu ý là...\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"Why are leadership skills important?\" – They help young people communicate effectively, solve problems and work\nwell with others.\n• \"Can everyone become a leader?\" – Yes, because leadership skills can be developed through experience and practice.\n• \"How can young people develop leadership skills?\" – They can join clubs, work in teams and take responsibility for\ndifferent projects.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê phẩm chất lãnh đạo mà không giải thích.\n• Quên ý tưởng cá nhân và chỉ nói theo sơ đồ.\n• Dành quá nhiều thời gian cho bài chính và không đủ thời gian trả lời câu hỏi phụ.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Liên hệ với kinh nghiệm học tập, làm việc nhóm hoặc hoạt động cá nhân.\n• Dùng câu: \"That is a complex issue. If we evaluate it from a societal viewpoint...\"\n• Nếu quên từ chuyên môn, hãy giải thích bằng từ đơn giản hơn.\n7. Tư duy làm bài nói:\n• Nhìn chủ đề từ góc độ thực tế: lãnh đạo không chỉ là quản lý mà còn là tạo ảnh hưởng tích cực.\n• Logic và khả năng phát triển ý là yếu tố quan trọng.\n• Hãy đưa ví dụ cụ thể để thể hiện khả năng suy nghĩ sâu hơn."
+}

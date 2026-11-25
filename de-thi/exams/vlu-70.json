@@ -1,0 +1,715 @@
+{
+ "id": "vlu-70",
+ "number": 70,
+ "title": "Đề thi VLU 70",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-70",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Leaving the Nest Early: Britain's Changing Youth Housing Trend",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Leaving home was once seen as an important step toward adult life. Years ago, many young people in Britain moved out in their early twenties and started an **independent** life of their own, often before they had saved much money. Today the picture is different, because more young adults stay with their parents for longer than they did in the past. This text looks at the numbers, the differences between men and women, and the reasons behind the change.",
+     "The figures come from the Labour Force Survey, which asks about 40,000 households every quarter. In 2023, about 3.6 million people aged 20 to 34 lived with a parent, which was 28 per cent of that age group. Ten years earlier the figure was 26 per cent, so the rise has been **gradual**, and in 1996 it was only 21 per cent. The number of men and women who live at home is also affected by the survey rules, because students in halls of residence are counted as living in their parents' home. Most communal homes are left out of the survey.",
+     "The trend is stronger for men than for women. In 2023, about 33 per cent of men aged 20 to 34 lived with their parents, compared with 22 per cent of women, and the numbers were about 2.2 million and 1.4 million. In other words, about one in three young men and about one in five young women live at home. By the age of 25, fewer than half of men still live at home, and for women the age is 22. Both ages are one year higher than those recorded in 2013, so leaving home is happening later.",
+     "The Office for National Statistics suggests several possible reasons for the change, although it has not tested them. Young people now stay in education and training for longer, and they also form long-term relationships and have children at older ages. Another reason is cost, because renting or buying a home has become more expensive, so some young adults may find living with their parents easier. These explanations fit the figures, because the age of leaving home has risen for both men and women. In 2021, during the lockdowns, the share of young men at home reached 34 per cent, because many people moved back to their parents.",
+     "Living with parents has both advantages and disadvantages. Young adults can share bills, eat family meals and receive help from people they trust, but they may also feel that they have less privacy and freedom than they would like. The figures show only where people live, not how they feel about it. Whatever the reasons, the trend shows that the old pattern of leaving home early is changing, and that housing, work and study all play a part."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Most British parents now force children to leave home at eighteen",
+       "B": "Young women in Britain stay at home much longer than men",
+       "C": "More young adults in Britain now live with their parents for longer",
+       "D": "House prices in Britain have fallen so young people buy earlier"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, where do the figures come from?",
+      "options": {
+       "A": "A regular survey of thousands of households",
+       "B": "A census taken by every school in Britain",
+       "C": "Reports written by parents about their grown children",
+       "D": "Records kept by estate agents in large cities"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"figures come from\" ở đoạn 2 để xác định số liệu đến từ Khảo sát Lực lượng Lao động (Labour Force Survey) hỏi ý kiến khoảng 40.000 hộ gia đình mỗi quý (A regular survey of thousands of households)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"independent\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "very expensive",
+       "B": "quite boring",
+       "C": "always crowded",
+       "D": "free from control"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"independent\" ở đoạn 1 miêu tả cuộc sống tự lập của người trẻ khi dọn ra ở riêng, mang nghĩa tự do, không bị kiểm soát hay phụ thuộc (free from control)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how do men and women compare?",
+      "options": {
+       "A": "Men and women live with their parents in equal numbers",
+       "B": "A higher share of men than women live at home",
+       "C": "Women are twice as likely as men to stay at home",
+       "D": "Only men over thirty still live with their parents today"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"men and women compare\" ở đoạn 3 để thấy tỷ lệ nam giới sống ở nhà cao hơn nữ giới ( khoảng 33% so với 22%)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"gradual\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "quite sudden",
+       "B": "fully stopped",
+       "C": "slow and steady",
+       "D": "rather noisy"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"gradual\" ở đoạn 2 đi kèm với số liệu tăng từ 21% năm 1996 lên 26% rồi 28% vào năm 2023, mang nghĩa tăng chậm và đều đặn (slow and steady)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"those\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "the ages",
+       "B": "the men",
+       "C": "the women",
+       "D": "the years"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định số nhiều \"those\" ở đoạn 3 trong câu so sánh độ tuổi rời nhà hiện tại với các độ tuổi được ghi nhận trong quá khứ. Lần ngược lại danh từ số nhiều đứng trước đó trong câu văn (\"By the age of 25... and for women the age is 22. Both ages are one year higher than those recorded...\"), cho thấy từ này quy chiếu về độ tuổi (the ages)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, which of the following is a possible reason for the change?",
+      "options": {
+       "A": "Free housing offered by the government to graduates",
+       "B": "Longer periods spent in education and training",
+       "C": "A fall in the number of British students",
+       "D": "Cheaper rents in the largest British cities today"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"reason for the change\" ở đoạn 4 để xác định thời gian học tập và đào tạo kéo dài hơn (Longer periods spent in education and training)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Relationships formed and children born at older ages",
+       "B": "Young men moving back home during the lockdowns",
+       "C": "Higher costs of renting or buying a home",
+       "D": "A fall in unemployment among young adults"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát thông tin ở đoạn 4 để loại trừ các ý có thật (mối quan hệ và sinh con muộn hơn, nam giới dọn về nhà trong thời gian phong tỏa, chi phí thuê/mua nhà cao), từ đó chọn ý về sự sụt giảm thất nghiệp ở thanh thiếu niên (không hề được nhắc đến trong bài)."
+     },
+     {
+      "number": 9,
+      "stem": "Which of the following can be inferred from paragraphs 3 and 4?",
+      "options": {
+       "A": "Young women dislike their parents and leave home as early as possible",
+       "B": "Lockdowns changed the law so that all adults must live with relatives",
+       "C": "Later study and higher housing costs may keep many young people at home",
+       "D": "Parents in Britain are now richer and enjoy having children at home"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 3 và 4 về việc học tập kéo dài, lập gia đình muộn và chi phí nhà ở đắt đỏ, qua đó suy ra việc học tập muộn hơn và chi phí nhà ở cao có thể giữ nhiều người trẻ ở lại nhà bố mẹ lâu hơn (Later study and higher housing costs may keep many young people at home)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To explain why more young adults in Britain live with their parents",
+       "B": "To advise parents on how to teach their grown children to cook",
+       "C": "To persuade the government to build cheaper houses for young adults in cities",
+       "D": "To compare the cost of university courses in Britain and several other countries Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu kết luận của đoạn 1 và đoạn cuối để nắm mạch thông tin chủ đạo: bài viết thảo luận về việc ngày càng có nhiều người trưởng thành ở Anh sống cùng bố mẹ trong thời gian dài hơn, số liệu thống kê giữa nam và nữ, cùng các nguyên nhân đằng sau sự thay đổi này. Do đó, phương án đúng phải phản ánh đúng việc nhiều người trẻ sống với bố mẹ lâu hơn (cho R1Q1) và giải thích lý do vì sao họ sống cùng bố mẹ (cho R1Q10), tránh các nhận định sai lệch hoặc cực đoan.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R1Q2**, tìm từ khóa \"figures come from\" ở đoạn 2 để xác định số liệu đến từ Khảo sát Lực lượng Lao động (Labour Force Survey) hỏi ý kiến khoảng 40.000 hộ gia đình mỗi quý (A regular survey of thousands of households).\n  - Với **R1Q4**, quét từ khóa \"men and women compare\" ở đoạn 3 để thấy tỷ lệ nam giới sống ở nhà cao hơn nữ giới ( khoảng 33% so với 22%).\n  - Với **R1Q7**, quét từ khóa \"reason for the change\" ở đoạn 4 để xác định thời gian học tập và đào tạo kéo dài hơn (Longer periods spent in education and training).\n  - Với **R1Q8**, đối soát thông tin ở đoạn 4 để loại trừ các ý có thật (mối quan hệ và sinh con muộn hơn, nam giới dọn về nhà trong thời gian phong tỏa, chi phí thuê/mua nhà cao), từ đó chọn ý về sự sụt giảm thất nghiệp ở thanh thiếu niên (không hề được nhắc đến trong bài).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - Với **R1Q3**, từ **\"independent\"** ở đoạn 1 miêu tả cuộc sống tự lập của người trẻ khi dọn ra ở riêng, mang nghĩa tự do, không bị kiểm soát hay phụ thuộc (free from control).\n  - Với **R1Q5**, từ **\"gradual\"** ở đoạn 2 đi kèm với số liệu tăng từ 21% năm 1996 lên 26% rồi 28% vào năm 2023, mang nghĩa tăng chậm và đều đặn (slow and steady).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ chỉ định số nhiều **\"those\"** ở đoạn 3 trong câu so sánh độ tuổi rời nhà hiện tại với các độ tuổi được ghi nhận trong quá khứ. Lần ngược lại danh từ số nhiều đứng trước đó trong câu văn (\"By the age of 25... and for women the age is 22. Both ages are one year higher than those recorded...\"), cho thấy từ này quy chiếu về độ tuổi (the ages).\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp dữ liệu từ đoạn 3 và 4 về việc học tập kéo dài, lập gia đình muộn và chi phí nhà ở đắt đỏ, qua đó suy ra việc học tập muộn hơn và chi phí nhà ở cao có thể giữ nhiều người trẻ ở lại nhà bố mẹ lâu hơn (Later study and higher housing costs may keep many young people at home).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R1Q2, R1Q4, R1Q7, R1Q8) và từ vựng (R1Q3, R1Q5) để tích lũy điểm chắc chắn. Sau đó, xử lý câu hỏi quy chiếu (R1Q6). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R1Q9), ý chính (R1Q1) và mục đích tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Humble Potato: A Global Staple Facing New Challenges",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few crops have shaped human history as profoundly as the potato, a plant of the Andes that is now grown across the world. Cultivated potatoes appear to have a single origin in present-day southern Peru and extreme north-western Bolivia, around Lake Titicaca, where they were domesticated about 7,000 to 10,000 years ago. The earliest verified tuber remains, found at Ancon in central Peru, date to about 2500 BC. This passage traces the potato's spread around the world and the new challenges that now threaten its future.",
+     "The Andes remain the centre of potato diversity, holding roughly 3,000 of the world's estimated 5,000 varieties, and the International Potato Center in Lima stores 4,870 types of germplasm. The Spanish brought the potato to Europe in the late sixteenth century. European farmers were slow to adopt it, but after 1750 it became an important staple and played a major role in nineteenth-century population growth.",
+     "The crop's success carried a hidden risk that only became clear in the nineteenth century. In 1845, late blight spread rapidly through poorer communities in western Ireland and parts of the Scottish Highlands, and the resulting crop failures led to the Great Irish Famine. Because only a few varieties had been introduced, genetic diversity was limited and the crop was **vulnerable** to a single pathogen, Phytophthora infestans.",
+     "Today the potato is grown almost everywhere, and the UN's FAOSTAT database puts world production in 2023 at 383 million tonnes. China produced 93.4 million tonnes, about a quarter of the total, followed by India with 60.1 million, Ukraine with 21.4 million, the United States with 20.0 million and Russia with 19.4 million. That year the world grew potatoes on 18.6 million hectares. Yields show a clear **disparity**: 17.4 tonnes per hectare worldwide in 2010, against 44.3 in the United States. Nutritionally, a boiled potato eaten with its skin supplies about 87 calories per 100 grams, a moderate share of vitamin C and potassium, and almost no fat. Raw potato starch is poorly digested, so potatoes are rarely eaten raw.",
+     "Climate change adds a second threat. One 2003 estimate projected that worldwide yields in 2040 to 2069 could be 18 to 32 per cent lower than at the time. Temperatures above 30 degrees Celsius harm the crop by reducing both the number and the weight of tubers. Heat stress is therefore a concern even in regions where the crop is already grown. Late blight may become a greater threat in Finland but a lesser one in the United Kingdom, and production may shift towards cooler regions such as Canada and Russia.",
+     "Pests and diseases add to the pressure. Late blight remains a problem in Europe and the United States, the Colorado potato beetle is considered the most important insect defoliator, and the potato cyst nematode feeds on the roots. Farmers are advised to use crop rotation, **which** helps to limit the nematode, but no single measure removes the risks. The potato's story therefore shows how a crop can feed growing populations and still be fragile. The United Nations has held an International Day of Potato on 30 May since 2024."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "The Irish famine proved that farmers should never have adopted the potato",
+       "B": "The potato became a global staple from Andean roots but faces growing threats",
+       "C": "China now grows more potatoes than any other crop in the world",
+       "D": "Climate change will soon make potato farming impossible in every major country"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, where were cultivated potatoes first domesticated?",
+      "options": {
+       "A": "On the dry high plains of northern Chile",
+       "B": "At Ancon on the coast of central Peru",
+       "C": "In Spain well before the Inca Empire fell",
+       "D": "Near Lake Titicaca in Peru and Bolivia"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"domesticated\" ở đoạn 1 để xác định khoai tây được thuần hóa lần đầu quanh hồ Titicaca ở Peru và Bolivia (Near Lake Titicaca in Peru and Bolivia)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"vulnerable\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "open to damage",
+       "B": "well protected",
+       "C": "fully immune",
+       "D": "highly profitable"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"vulnerable\" ở đoạn 3 đi kèm với sự thiếu đa dạng di truyền và dịch bệnh mốc sương, mang nghĩa dễ bị tổn thương, dễ gặp rủi ro (open to damage)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what happened to the potato in Europe after 1750?",
+      "options": {
+       "A": "It was banned from most royal kitchens",
+       "B": "Farmers replaced it with imported rice",
+       "C": "It became an important staple food",
+       "D": "Its price rose beyond most families"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Europe after 1750\" ở đoạn 2 để thấy khoai tây đã trở thành một loại lương thực chủ lực quan trọng (It became an important staple food)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"disparity\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "perfect balance",
+       "B": "steady growth",
+       "C": "sudden decline",
+       "D": "a large difference"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"disparity\" ở đoạn 4 đi kèm với sự chênh lệch năng suất giữa thế giới (17.4 tấn/ha) và Mỹ (44.3 tấn/ha), mang nghĩa sự khác biệt lớn (a large difference)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "the farmers",
+       "B": "crop rotation",
+       "C": "the nematode",
+       "D": "the roots"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đoạn 6 trong mệnh đề miêu tả biện pháp luân canh cây trồng giúp hạn chế tuyến trùng. Lần ngược lại danh từ chỉ hành động/biện pháp được nhắc đến ngay trước đó trong câu văn (\"Farmers are advised to use crop rotation, which helps...\"), cho thấy từ này quy chiếu về việc luân canh cây trồng (crop rotation)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, why was the crop vulnerable to late blight?",
+      "options": {
+       "A": "Farmers had left the fields unploughed in Ireland",
+       "B": "The Highlands lacked decent roads for the harvest",
+       "C": "Only a few varieties had been introduced",
+       "D": "Spanish traders had sold infected tubers to Europe"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"vulnerable to late blight\" ở đoạn 3 để xác định nguyên nhân do chỉ có một số ít các giống khoai tây được đưa vào châu Âu, dẫn đến đa dạng di truyền bị hạn chế (Only a few varieties had been introduced)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "A government subsidy for Ukrainian potato farmers",
+       "B": "China producing about a quarter of world output",
+       "C": "Raw starch being poorly digested by the body",
+       "D": "American farmers reaching very high yields per hectare"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát thông tin ở đoạn 4 để loại trừ các ý có thật (Trung Quốc sản xuất khoảng một phần tư tổng sản lượng thế giới, tinh bột sống khó tiêu hóa, nông dân Mỹ đạt năng suất rất cao), từ đó chọn ý về trợ cấp chính phủ cho nông dân trồng khoai tây Ukraine (không hề được nhắc đến)."
+     },
+     {
+      "number": 19,
+      "stem": "Which of the following can be inferred from paragraphs 3, 5, and 6?",
+      "options": {
+       "A": "Climate change will end late blight everywhere so farmers can safely relax",
+       "B": "The Irish famine proves that growing local varieties always prevents crop disease",
+       "C": "Spanish settlers caused the blight by carrying infected tubers across the Atlantic",
+       "D": "Genetic uniformity plus warming and disease could make future potato supplies more fragile"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về việc tính đồng nhất di truyền (ít giống), thời tiết ấm lên do biến đổi khí hậu và áp lực sâu bệnh, qua đó suy ra sự đồng nhất di truyền kết hợp với sự ấm lên và dịch bệnh có thể làm cho nguồn cung cấp khoai tây trong tương lai trở nên mong manh hơn (Genetic uniformity plus warming and disease could make future potato supplies more fragile)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote potatoes as a healthier food than rice or bread",
+       "B": "To trace the history of the potato and its modern challenges",
+       "C": "To explain how farmers in Ireland should prepare for future blight attacks",
+       "D": "To argue that China should reduce its share of world potato production Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu kết luận của đoạn 1 và đoạn cuối để nắm mạch thông tin chủ đạo: bài viết tái hiện nguồn gốc từ dãy Andes, sự lan tỏa thành lương thực toàn cầu và các thách thức mới đe dọa tương lai của khoai tây (như biến đổi khí hậu, dịch bệnh, sâu hại). Do đó, phương án đúng phải bao quát được nguồn gốc Andes, hành trình toàn cầu và các mối đe dọa hiện tại (cho R2Q1) cùng mục đích theo dõi lịch sử và các thách thức hiện đại (cho R2Q10), tránh các nhận định quá hẹp hay sai lệch.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R2Q2**, tìm từ khóa \"domesticated\" ở đoạn 1 để xác định khoai tây được thuần hóa lần đầu quanh hồ Titicaca ở Peru và Bolivia (Near Lake Titicaca in Peru and Bolivia).\n  - Với **R2Q4**, quét từ khóa \"Europe after 1750\" ở đoạn 2 để thấy khoai tây đã trở thành một loại lương thực chủ lực quan trọng (It became an important staple food).\n  - Với **R2Q7**, quét từ khóa \"vulnerable to late blight\" ở đoạn 3 để xác định nguyên nhân do chỉ có một số ít các giống khoai tây được đưa vào châu Âu, dẫn đến đa dạng di truyền bị hạn chế (Only a few varieties had been introduced).\n  - Với **R2Q8**, đối soát thông tin ở đoạn 4 để loại trừ các ý có thật (Trung Quốc sản xuất khoảng một phần tư tổng sản lượng thế giới, tinh bột sống khó tiêu hóa, nông dân Mỹ đạt năng suất rất cao), từ đó chọn ý về trợ cấp chính phủ cho nông dân trồng khoai tây Ukraine (không hề được nhắc đến).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - Với **R2Q3**, từ **\"vulnerable\"** ở đoạn 3 đi kèm với sự thiếu đa dạng di truyền và dịch bệnh mốc sương, mang nghĩa dễ bị tổn thương, dễ gặp rủi ro (open to damage).\n  - Với **R2Q5**, từ **\"disparity\"** ở đoạn 4 đi kèm với sự chênh lệch năng suất giữa thế giới (17.4 tấn/ha) và Mỹ (44.3 tấn/ha), mang nghĩa sự khác biệt lớn (a large difference).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đoạn 6 trong mệnh đề miêu tả biện pháp luân canh cây trồng giúp hạn chế tuyến trùng. Lần ngược lại danh từ chỉ hành động/biện pháp được nhắc đến ngay trước đó trong câu văn (\"Farmers are advised to use crop rotation, which helps...\"), cho thấy từ này quy chiếu về việc luân canh cây trồng (crop rotation).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về việc tính đồng nhất di truyền (ít giống), thời tiết ấm lên do biến đổi khí hậu và áp lực sâu bệnh, qua đó suy ra sự đồng nhất di truyền kết hợp với sự ấm lên và dịch bệnh có thể làm cho nguồn cung cấp khoai tây trong tương lai trở nên mong manh hơn (Genetic uniformity plus warming and disease could make future potato supplies more fragile).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R2Q2, R2Q4, R2Q7, R2Q8) và từ vựng (R2Q3, R2Q5) để tích lũy điểm chắc chắn. Sau đó, xử lý câu hỏi quy chiếu đại từ (R2Q6). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R2Q9), ý chính (R2Q1) và mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Global Expansion of Disneyland: Ownership, Culture, and Adaptation",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "When Walt Disney opened Disneyland in Anaheim in 1955, the park was a single American attraction, yet within decades the model had travelled to Asia and Europe. The company's four overseas resorts, in Tokyo, Paris, Hong Kong and Shanghai, did not follow a single formula, since the owners and the audiences differed in every case. The sections below compare who owns these resorts and how far they bend to local taste.",
+     "Tokyo Disneyland opened in 1983 as the first Disney park outside the United States, and its ownership structure was **unorthodox** for a company known for tight control. The Oriental Land Company owns and operates the resort and licenses Disney's characters. Construction reportedly cost 180 billion yen against a first projection of 100 billion, but the park drew about 17.9 million visitors in 2019.",
+     "Euro Disney Resort opened in April 1992 near Paris under a very different arrangement, with Disney initially holding a minority stake of 49 per cent in the operating company. Early attendance fell short of forecasts, and debts reached about three billion dollars by 1994. The 1994 rescue cut Disney's stake to 39 per cent, while the investor Alwaleed reportedly paid 345 million dollars for 24 per cent. Disney finally took full control in June 2017.",
+     "Culture proved harder to export than ownership, and Paris showed the cost of underestimating it. **[1]** Critics denounced the project as cultural imperialism, and the director Ariane Mnouchkine reportedly called it a cultural Chernobyl. **[2]** Farmers blockaded the resort in June 1992, and employees faced an appearance code that French unions protested. [3] That assumption extended to language, since American managers reportedly required English at all meetings. **[4]** Alcohol offers a more telling example, because Disney, which had not served drinks in its parks, began serving alcohol with meals in June 1993 in response to presumed European demand.",
+     "Hong Kong Disneyland opened in September 2005 as a joint venture in which the Hong Kong government holds 52 per cent and Disney 48 per cent. Shanghai Disney Resort followed in June 2016, with Shanghai Shendi Group holding 57 per cent and Disney 43 per cent after a reported final cost of about 5.5 billion dollars. The two Chinese resorts therefore share a feature, since **each** leaves the public partner with the larger stake.",
+     "Adaptation in Hong Kong was more visible, yet it did not solve every problem. Planners reportedly bent a walkway near the entrance to follow feng shui, and the Plaza Inn on Main Street imitates a classical Chinese eatery. Opening crowds nevertheless exceeded the park's limited capacity, and at Lunar New Year 2006 visitors with valid tickets were refused entry because the gates had to close. Management tried to mitigate the problem with date-specific tickets and revised pricing, and the park reported about 7.9 million visitors in 2024.",
+     "Taken together, the four resorts suggest that ownership shapes how far a park bends to its audience. Licensing in Tokyo, a rescue in Paris and public majorities in China all point to one lesson: a brand travels best when local partners share the risk and the authority to adapt it. Much about profitability remains undisclosed, so firm conclusions would be premature."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Tokyo proved that Disney should always license its characters rather than invest",
+       "B": "The overseas Disney resorts show that ownership and cultural adaptation shaped different outcomes",
+       "C": "French resistance ended the Paris resort and forced Disney to leave Europe",
+       "D": "Chinese partners now control every Disney park and decide all rides worldwide"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, how is Tokyo Disneyland owned and operated?",
+      "options": {
+       "A": "Through a joint venture with the Japanese government",
+       "B": "By Disney after buying the land from farmers",
+       "C": "Under a French rescue plan led by banks",
+       "D": "By a Japanese firm licensing Disney characters"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"Tokyo Disneyland\" ở đoạn 2 để xác định công ty Oriental Land sở hữu và vận hành khu nghỉ dưỡng này, đồng thời cấp phép các nhân vật của Disney (By a Japanese firm licensing Disney characters)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"unorthodox\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "out of the ordinary",
+       "B": "perfectly traditional",
+       "C": "widely copied",
+       "D": "quite temporary"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a code, drawn up in California, treated French employees as if they shared American habits.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc câu cần chèn nói về quy tắc ứng xử soạn thảo ở California đối với nhân viên Pháp như thể họ có thói quen giống người Mỹ. Vị trí [3] ngay trước câu mở đầu bằng \"That assumption extended to language...\" là điểm khớp nối logic hoàn hảo nhất để minh họa cho từ \"assumption\" (giả định) ở câu sau."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, why were visitors with valid tickets refused entry at Lunar New Year 2006?",
+      "options": {
+       "A": "Officials closed the gates after a typhoon warning was issued",
+       "B": "The park was already full to its limited capacity",
+       "C": "Tickets had been sold only to local government staff",
+       "D": "Cultural rules forbade crowds during the festival season"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Lunar New Year 2006\" ở đoạn 6 để xác định nguyên nhân từ chối khách có vé hợp lệ do lượng khách vượt quá giới hạn sức chứa của công viên (The park was already full to its limited capacity)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"each\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "the larger stake",
+       "B": "the public partner",
+       "C": "the Disney side",
+       "D": "the two resorts"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào từ chỉ định \"each\" ở đoạn 5 trong câu nói về việc hai khu nghỉ dưỡng ở Trung Quốc có điểm chung là đối tác công giữ cổ phần lớn hơn. Lần ngược lại danh từ chỉ hai khu nghỉ dưỡng được nhắc đến ngay trước đó trong câu văn (\"The two Chinese resorts therefore share a feature, since each leaves...\"), cho thấy từ này quy chiếu về hai khu nghỉ dưỡng (the two resorts)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"mitigate\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "fully ignore",
+       "B": "slightly worsen",
+       "C": "lessen the harm",
+       "D": "loudly celebrate"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"mitigate\" ở đoạn 6 đi kèm với các biện pháp phát hành vé theo ngày cụ thể và điều chỉnh giá để giảm bớt vấn đề quá tải, mang nghĩa làm giảm nhẹ tác hại (lessen the harm)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "A strike by French theme-park chefs",
+       "B": "Farmers blockading the resort in June 1992",
+       "C": "American managers requiring English at all meetings",
+       "D": "Alcohol being served with meals from June 1993"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát thông tin ở đoạn 4 để loại trừ các ý có thật (nông dân phong tỏa khu nghỉ dưỡng vào tháng 6 năm 1992, quản lý Mỹ yêu cầu tiếng Anh trong mọi cuộc họp, phục vụ đồ uống có cồn từ tháng 6 năm 1993), từ đó chọn ý về cuộc đình công của các đầu bếp công viên giải trí Pháp (không hề được nhắc đến trong bài)."
+     },
+     {
+      "number": 29,
+      "stem": "Which of the following can be inferred from paragraphs 3, 5, and 6 about Disney's overseas parks?",
+      "options": {
+       "A": "Government partners always protect a park from the losses suffered in Paris",
+       "B": "Adapting culturally and sharing ownership cannot replace realistic forecasts of likely visitor demand",
+       "C": "Hong Kong planners wasted money on feng shui because visitors disliked it",
+       "D": "Tokyo's licensing model failed because the Oriental Land Company lacked capital"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về việc Paris gặp khủng hoảng do đánh giá thấp văn hóa và Hong Kong gặp vấn đề sức chứa dù có thiết kế phong thủy, qua đó suy ra việc thích ứng văn hóa và chia sẻ quyền sở hữu không thể thay thế cho các dự báo thực tế về nhu cầu khách tham quan (Adapting culturally and sharing ownership cannot replace realistic forecasts of likely visitor demand)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that Disney should close every park outside the United States",
+       "B": "To describe the construction costs of the largest Asian theme parks",
+       "C": "To warn tourists about long queues at crowded European resorts",
+       "D": "To compare how ownership and adaptation shaped the overseas Disney resorts Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu kết luận của đoạn 1 và đoạn cuối để nắm mạch thông tin chủ đạo: bài viết so sánh mô hình sở hữu và sự thích ứng văn hóa tại các khu nghỉ dưỡng nước ngoài của Disney (Tokyo, Paris, Hong Kong, Thượng Hải), qua đó chỉ ra cơ cấu sở hữu và mức độ thích ứng văn hóa đã định hình những kết quả khác biệt. Do đó, phương án đúng phải bao quát được mô hình sở hữu và thích ứng văn hóa (cho R3Q1) và mục đích so sánh cách cấu trúc sở hữu và sự thích ứng định hình các khu nghỉ dưỡng (cho R3Q10), tránh các nhận định cực đoan hay sai lệch.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R3Q2**, tìm từ khóa \"Tokyo Disneyland\" ở đoạn 2 để xác định công ty Oriental Land sở hữu và vận hành khu nghỉ dưỡng này, đồng thời cấp phép các nhân vật của Disney (By a Japanese firm licensing Disney characters).\n  - Với **R3Q5**, quét từ khóa \"Lunar New Year 2006\" ở đoạn 6 để xác định nguyên nhân từ chối khách có vé hợp lệ do lượng khách vượt quá giới hạn sức chứa của công viên (The park was already full to its limited capacity).\n  - Với **R3Q8**, đối soát thông tin ở đoạn 4 để loại trừ các ý có thật (nông dân phong tỏa khu nghỉ dưỡng vào tháng 6 năm 1992, quản lý Mỹ yêu cầu tiếng Anh trong mọi cuộc họp, phục vụ đồ uống có cồn từ tháng 6 năm 1993), từ đó chọn ý về cuộc đình công của các đầu bếp công viên giải trí Pháp (không hề được nhắc đến trong bài).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - With **R3Q3**, từ **\"unorthodox\"** ở đoạn 2 đi kèm với việc công ty Oriental Land sở hữu và điều hành thay vì sự kiểm soát chặt chẽ thông thường của Disney, mang nghĩa khác thường, không theo lối mòn (out of the ordinary).\n  - Với **R3Q7**, từ **\"mitigate\"** ở đoạn 6 đi kèm với các biện pháp phát hành vé theo ngày cụ thể và điều chỉnh giá để giảm bớt vấn đề quá tải, mang nghĩa làm giảm nhẹ tác hại (lessen the harm).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R3Q4):** Đọc câu cần chèn nói về quy tắc ứng xử soạn thảo ở California đối với nhân viên Pháp như thể họ có thói quen giống người Mỹ. Vị trí **[3]** ngay trước câu mở đầu bằng \"That assumption extended to language...\" là điểm khớp nối logic hoàn hảo nhất để minh họa cho từ \"assumption\" (giả định) ở câu sau.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào từ chỉ định **\"each\"** ở đoạn 5 trong câu nói về việc hai khu nghỉ dưỡng ở Trung Quốc có điểm chung là đối tác công giữ cổ phần lớn hơn. Lần ngược lại danh từ chỉ hai khu nghỉ dưỡng được nhắc đến ngay trước đó trong câu văn (\"The two Chinese resorts therefore share a feature, since each leaves...\"), cho thấy từ này quy chiếu về hai khu nghỉ dưỡng (the two resorts).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về việc Paris gặp khủng hoảng do đánh giá thấp văn hóa và Hong Kong gặp vấn đề sức chứa dù có thiết kế phong thủy, qua đó suy ra việc thích ứng văn hóa và chia sẻ quyền sở hữu không thể thay thế cho các dự báo thực tế về nhu cầu khách tham quan (Adapting culturally and sharing ownership cannot replace realistic forecasts of likely visitor demand).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R3Q2, R3Q5, R3Q8) và từ vựng (R3Q3, R3Q7) để tích lũy điểm chắc chắn. Sau đó, xử lý câu hỏi vị trí câu (R3Q4) và quy chiếu đại từ (R3Q6). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R3Q9), ý chính (R3Q1) và mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Advances in Tomato Research: Genetics, Resilience, and Trade-offs",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few vegetables are as familiar as the tomato, yet few have attracted such intensive scientific attention. The UN's FAOSTAT database puts world production in 2023 at about 192 million tonnes, with China supplying 36 per cent of the total, followed by India, Turkey and the United States. Research now spans genetics, disease resistance and heat tolerance, and every gain seems to carry a cost elsewhere in the fruit.",
+     "An international consortium from ten countries began sequencing the tomato genome in 2004, and the reference sequence for the cultivar Heinz 1706 appeared in Nature on 31 May 2012. A newer reference genome, published in 2021, reportedly spans 12 chromosomes and encodes 34,384 predicted proteins. The crop's origins are less clear, but its likely wild ancestor is the red-fruited Solanum pimpinellifolium of Chile, Peru and Ecuador. Genomic analysis dates domestication to roughly 7,000 years ago, although the estimate is **provisional** and carries substantial uncertainty.",
+     "Breeders have long treated wild relatives as a reservoir of useful alleles. Wild species have supplied resistance to early blight and higher fruit solids, and modern hybrids are bred largely for disease resistance, a priority heirloom plants rarely reflect. Resistance, however, is not free: selecting for it can reduce fruit production, and a process called linkage drag can carry unwanted changes in metabolism, nutrition and flavour along with the desired gene.",
+     "The list of tomato diseases is long, and it includes viruses, bacteria and fungus-like pathogens. **[1]** Curly top, for example, travels with the beet leafhopper, which acts as a vector, so controlling the insect matters as much as controlling the virus. **[2]** That speed shapes breeding priorities, because researchers now search wild relatives for resistance genes before outbreaks spread. **[3]** A 2019 study reported that phage combination therapies could reduce the impact of bacterial wilt. **[4]** Genetic modification offered another route, but the Flavr Savr, the first commercially available genetically modified food, engineered for longer shelf life, was sold only until 1997.",
+     "Resilience to climate stress is the second front, and it has more than one dimension. Tomato plants are vulnerable to frost and need heat and a long growing season, which is why Florida and California became major producing regions. Direct sunlight at high temperatures can also cause oxidative stress in the dark-green shoulders of fruit with the U phenotype, leaving green or cracked yellow shoulders. In California, some growers practise dry-farming, especially with Early Girl tomatoes, which encourages deep roots to find existing moisture.",
+     "The sharpest trade-off concerns flavour and the carbon economy of the fruit. In the mid-twentieth century breeders cross-bred the u mutant widely because it ripens fruit uniformly, and **this** is blamed for the poor taste and low sugar of many modern tomatoes. The mutation reduces sugar in ripe fruit by 10 to 15 per cent, while photosynthesis in the fruit of the normal U phenotype contributes 10 to 20 per cent of its carbon. A commercial variety combining the advantages of both types may be feasible, but it would require careful fine-tuning.",
+     "The tomato therefore shows how crop improvement trades one virtue against another. Genomes now allow breeders to locate useful alleles in wild relatives, yet linkage drag, disease pressure and climate stress keep shifting the balance between yield, resilience and taste. Progress is likely to be **incremental** rather than dramatic, and each gain will need testing against the flavour consumers actually notice. Much of the evidence cited here comes from reviews, so individual claims about future varieties remain uncertain."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Tomato research combines genetic advances with disease and climate resilience but faces trade-offs",
+       "B": "Genetic modification has solved every tomato disease and made breeding trade-offs irrelevant",
+       "C": "China leads tomato research because it grows the largest share of output",
+       "D": "Heirloom varieties beat modern hybrids on every measure of flavour and resilience"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, which species is the likely wild ancestor of the tomato?",
+      "options": {
+       "A": "A large-fruited hybrid first bred in southern Europe long ago",
+       "B": "A cherry-sized relative found only in the Pacific islands",
+       "C": "A red-fruited species native to western South America",
+       "D": "A bitter wild plant from the central African highlands"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"wild ancestor\" ở đoạn 2 để xác định tổ tiên hoang dã của cà chua là loài Solanum pimpinellifolium quả đỏ có nguồn gốc từ miền tây Nam Mỹ (A red-fruited species native to western South America)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"provisional\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "firmly settled",
+       "B": "clearly proven",
+       "C": "widely mocked",
+       "D": "open to change"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"provisional\" ở đoạn 2 đi kèm với việc ước tính thời điểm thuần hóa có sự bất định đáng kể, mang nghĩa tạm thời, có thể thay đổi (open to change)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a vector can carry a virus from one field to the next faster than growers can respond.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc câu cần chèn nói về việc vật trung gian truyền bệnh (vector) có thể mang virus từ đồng ruộng này sang đồng ruộng khác nhanh hơn tốc độ phản ứng của người trồng. Vị trí [2] ngay sau câu giới thiệu về bệnh xoăn lá (Curly top) do rầy lá củ cải truyền (beet leafhopper) và trước câu giải thích về tốc độ lây lan định hình ưu tiên chọn giống là điểm khớp nối logic hoàn hảo nhất để giải thích cho từ \"vector\" được nhắc đến ở câu trước."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what can happen when breeders select for pathogen resistance?",
+      "options": {
+       "A": "Fruit production can fall as a side effect",
+       "B": "Wild alleles are lost from the cultivated tomato genome",
+       "C": "Plants become unable to survive in cooler climates",
+       "D": "Fruit skins turn bitter during early ripening"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"select for pathogen resistance\" ở đoạn 3 để thấy việc chọn giống kháng mầm bệnh có thể làm giảm sản lượng quả như một tác dụng phụ (Fruit production can fall as a side effect)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"this\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "low sugar",
+       "B": "modern fruit",
+       "C": "wide cross-breeding",
+       "D": "fruit photosynthesis"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định \"this\" ở đoạn 6 trong câu giải thích nguyên nhân gây ra vị kém và ít đường ở nhiều loại cà chua hiện đại. Lần ngược lại cụm hành động lai tạo rộng (wide cross-breeding) nhằm nhân giống đột biến u được nhắc đến ở câu trước đó, cho thấy từ này quy chiếu về việc lai tạo chéo rộng (wide cross-breeding)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"incremental\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "entirely accidental",
+       "B": "in small steps",
+       "C": "extremely rapid",
+       "D": "fully reversible"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"incremental\" ở đoạn 7 đi kèm với việc cân bằng liên tục giữa năng suất, khả năng chống chịu và hương vị, mang nghĩa diễn ra theo từng bước nhỏ (in small steps)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Tomato plants being vulnerable to frost damage",
+       "B": "Dry-farming used to encourage deeper root growth",
+       "C": "Sunlight causing oxidative stress in some fruit shoulders",
+       "D": "Irrigation systems powered by solar panels"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát thông tin ở đoạn 5 để loại trừ các ý có thật (cây cà chua dễ bị tổn thương do sương giá, phương pháp canh tác khô dry-farming kích thích rễ sâu, ánh sáng mặt trời gây căng thẳng oxy hóa ở vai quả), từ đó chọn ý về hệ thống tưới tiêu năng lượng mặt trời (không hề được nhắc đến trong bài)."
+     },
+     {
+      "number": 39,
+      "stem": "Which of the following can be inferred from paragraphs 3, 5, and 6 about tomato breeding?",
+      "options": {
+       "A": "Breeding for one trait can quietly sacrifice others unless programmes balance several goals",
+       "B": "Wild relatives should be abandoned because they always reduce fruit production",
+       "C": "Climate tolerance and flavour are controlled by the same single gene",
+       "D": "Higher sugar levels will certainly follow once the u mutation is removed"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về việc chọn giống kháng bệnh làm giảm sản lượng, đột biến u làm giảm đường, qua đó suy ra việc chọn giống cho một tính trạng có thể vô tình đánh đổi các tính trạng khác trừ khi các chương trình cân bằng nhiều mục tiêu (Breeding for one trait can quietly sacrifice others unless programmes balance several goals)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade commercial growers to replace heirloom varieties with genetically modified hybrids",
+       "B": "To report the history of tomato trade between Europe and America",
+       "C": "To examine how tomato research balances genetic gains against hidden costs",
+       "D": "To explain how supermarkets choose tomatoes for long distance transport"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu kết luận của đoạn 1 và đoạn cuối để nắm mạch thông tin chủ đạo: bài viết xem xét quá trình nghiên cứu cà chua kết hợp các tiến bộ di truyền với khả năng kháng bệnh và chống chịu khí hậu, nhưng luôn vấp phải các sự đánh đổi (trade-offs) giữa năng suất, khả năng chống chịu và hương vị. Do đó, phương án đúng phải phản ánh đúng sự kết hợp tiến bộ di truyền và khả năng chống chịu nhưng đối mặt với sự đánh đổi (cho R4Q1) và việc kiểm tra cách nghiên cứu cà chua cân bằng lợi ích di truyền với các chi phí ẩn (cho R4Q10), tránh các nhận định cực đoan hay sai lệch.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R4Q2**, tìm từ khóa \"wild ancestor\" ở đoạn 2 để xác định tổ tiên hoang dã của cà chua là loài Solanum pimpinellifolium quả đỏ có nguồn gốc từ miền tây Nam Mỹ (A red-fruited species native to western South America).\n  - Với **R4Q5**, quét từ khóa \"select for pathogen resistance\" ở đoạn 3 để thấy việc chọn giống kháng mầm bệnh có thể làm giảm sản lượng quả như một tác dụng phụ (Fruit production can fall as a side effect).\n  - Với **R4Q8**, đối soát thông tin ở đoạn 5 để loại trừ các ý có thật (cây cà chua dễ bị tổn thương do sương giá, phương pháp canh tác khô dry-farming kích thích rễ sâu, ánh sáng mặt trời gây căng thẳng oxy hóa ở vai quả), từ đó chọn ý về hệ thống tưới tiêu năng lượng mặt trời (không hề được nhắc đến trong bài).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - Với **R4Q3**, từ **\"provisional\"** ở đoạn 2 đi kèm với việc ước tính thời điểm thuần hóa có sự bất định đáng kể, mang nghĩa tạm thời, có thể thay đổi (open to change).\n  - Với **R4Q7**, từ **\"incremental\"** ở đoạn 7 đi kèm với việc cân bằng liên tục giữa năng suất, khả năng chống chịu và hương vị, mang nghĩa diễn ra theo từng bước nhỏ (in small steps).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R4Q4):** Đọc câu cần chèn nói về việc vật trung gian truyền bệnh (vector) có thể mang virus từ đồng ruộng này sang đồng ruộng khác nhanh hơn tốc độ phản ứng của người trồng. Vị trí **[2]** ngay sau câu giới thiệu về bệnh xoăn lá (Curly top) do rầy lá củ cải truyền (beet leafhopper) và trước câu giải thích về tốc độ lây lan định hình ưu tiên chọn giống là điểm khớp nối logic hoàn hảo nhất để giải thích cho từ \"vector\" được nhắc đến ở câu trước.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ chỉ định **\"this\"** ở đoạn 6 trong câu giải thích nguyên nhân gây ra vị kém và ít đường ở nhiều loại cà chua hiện đại. Lần ngược lại cụm hành động lai tạo rộng (wide cross-breeding) nhằm nhân giống đột biến u được nhắc đến ở câu trước đó, cho thấy từ này quy chiếu về việc lai tạo chéo rộng (wide cross-breeding).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về việc chọn giống kháng bệnh làm giảm sản lượng, đột biến u làm giảm đường, qua đó suy ra việc chọn giống cho một tính trạng có thể vô tình đánh đổi các tính trạng khác trừ khi các chương trình cân bằng nhiều mục tiêu (Breeding for one trait can quietly sacrifice others unless programmes balance several goals).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R4Q2, R4Q5, R4Q8) và từ vựng (R4Q3, R4Q7) để tích lũy điểm chắc chắn. Sau đó, xử lý câu hỏi vị trí câu (R4Q4) và quy chiếu đại từ (R4Q6). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R4Q9), ý chính (R4Q1) và mục đích tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend who is taking a drawing class. Your friend has been asked by the teacher to draw a person in their home or garden and hopes that you can become the model for the painting.\nWrite an informal email to your friend to answer their request and share your ideas about the place where you would like to be drawn.\n- Choose a place in your house or garden where you would like to be drawn and explain why.\n- Describe the special memories or impressions you have about that place.\n- Give any other information or suggestions related to the drawing.\nWrite an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend who is taking a drawing class. Your friend has been asked by the teacher to draw a person in their home or garden and hopes that you can become the model for the painting."
+     ],
+     "quote": [
+      "Write an informal email to your friend to answer their request and share your ideas about the place where you would like to be drawn.",
+      "- Choose a place in your house or garden where you would like to be drawn and explain why.",
+      "- Describe the special memories or impressions you have about that place.",
+      "- Give any other information or suggestions related to the drawing."
+     ],
+     "instruction": "Write an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (thư thân mật) vì người nhận là bạn bè. Bạn có thể sử dụng cách diễn đạt gần gũi và chia sẻ cảm xúc cá nhân.\n- Đề yêu cầu trả lời 3 ý chính: chọn địa điểm trong nhà hoặc vườn để làm bối cảnh bức tranh, giải thích lý do lựa chọn và chia sẻ kỷ niệm liên quan đến nơi đó.\n- Bài viết cần tối thiểu **120 từ**. Vì đây là thư cá nhân, nên cần kết hợp mô tả địa điểm với cảm xúc và trải nghiệm.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Mở đầu bằng lời chào thân mật. Ví dụ: Dear Lisa,\n- **Opening:** Cảm ơn bạn đã viết thư và thể hiện sự vui vẻ khi được làm mẫu. Ví dụ: I am happy to help you with your drawing project.\n- **Body:** Đoạn đầu chọn nơi muốn vẽ và giải thích lý do. Đoạn sau mô tả kỷ niệm hoặc cảm xúc đặc biệt về nơi đó.\n- **Closing:** Kết thúc bằng lời động viên. Ví dụ: I hope your painting will be successful.\n- **Sign-off:** Sử dụng cách kết thúc thân mật như Best wishes hoặc See you soon.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng hiện tại đơn để mô tả đặc điểm của địa điểm, sử dụng quá khứ đơn để kể về những kỷ niệm trong quá khứ.\n- Nên dùng tính từ miêu tả không gian và cảm xúc để bài viết sinh động hơn.\n- Khi giải thích lựa chọn, cần thêm lý do thay vì chỉ nói I like this place.\nTừ vựng quan trọng:\n- **Living room:** Phòng khách\n- **Garden corner:** Góc vườn\n- **Childhood memories:** Kỷ niệm tuổi thơ\n- **Peaceful atmosphere:** Không khí yên bình\n- **Favorite place:** Nơi yêu thích\n- **Meaningful moment:** Khoảnh khắc ý nghĩa\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Because:** Bởi vì\n- **For example:** Ví dụ\n- **Besides:** Bên cạnh đó\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I have a special connection with:** Tôi có sự gắn bó đặc biệt với\n- **This place reminds me of:** Nơi này khiến tôi nhớ về\n- **I feel comfortable and happy when:** Tôi cảm thấy thoải mái và vui vẻ khi\n\n**4. Các lỗi thường gặp:**\n- Chỉ mô tả địa điểm mà không nói về cảm xúc hoặc kỷ niệm.\n- Dùng quá nhiều câu đơn khiến bài viết thiếu tự nhiên.\n- Quên thể hiện sự phản hồi với lời đề nghị làm mẫu của bạn.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã trả lời đủ các yêu cầu trong đề chưa.\n- Đảm bảo có phần mở đầu và kết thúc thư.\n- Kiểm tra lỗi thì, giới từ và số lượng từ.\n\n**6. Tư duy làm bài:**\nHãy coi đây là một lá thư chia sẻ với bạn thân. Tập trung vào việc kể một câu chuyện nhỏ có cảm xúc thay vì chỉ liệt kê thông tin về địa điểm.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nNowadays, conflicts between parents and children have become a common issue in many families.\nSome people believe that these conflicts happen because parents still treat their children as young kids and do not fully trust their ability to make decisions.\nDiscuss this opinion and suggest possible solutions to reduce conflicts between parents and children.\nWrite an essay to an educated reader to discuss the problems caused by conflicts between parents and children and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Nowadays, conflicts between parents and children have become a common issue in many families.",
+      "Some people believe that these conflicts happen because parents still treat their children as young kids and do not fully trust their ability to make decisions.",
+      "Discuss this opinion and suggest possible solutions to reduce conflicts between parents and children."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by conflicts between parents and children and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng **Problem–Solution Essay**. Bạn cần thảo luận nguyên nhân của mâu thuẫn giữa cha mẹ và con cái, sau đó đề xuất cách giải quyết.\n- Từ khóa quan trọng là **conflicts between parents and children**, **lack of trust** và **solutions**. Cần tập trung vào mối quan hệ gia đình và sự khác biệt thế hệ.\n- Bài viết cần tối thiểu **250 từ**. Cần có quan điểm rõ ràng và phát triển ý bằng giải thích, ví dụ cụ thể.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vấn đề mâu thuẫn gia đình. Ví dụ: Conflicts between parents and children have become increasingly common in modern families.\n- **Body 1:** Phân tích nguyên nhân như khoảng cách thế hệ, cha mẹ kiểm soát quá nhiều hoặc thiếu sự tin tưởng. Ví dụ: One major cause of family conflicts is the difference in opinions between generations.\n- **Body 2:** Đưa ra giải pháp như giao tiếp cởi mở, tôn trọng ý kiến và xây dựng sự tin tưởng. Ví dụ: Open communication can help parents and children understand each other better.\n- **Body 3 (nếu cần):** Có thể mở rộng về vai trò của cả hai bên trong việc cải thiện mối quan hệ.\n- **Conclusion:** Tóm tắt vấn đề và giải pháp. Ví dụ: In conclusion, mutual understanding and trust are essential for reducing family conflicts.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng hiện tại đơn để phân tích các vấn đề xã hội và gia đình.\n- Phát triển ý theo cấu trúc Problem -> Explanation -> Example -> Solution.\n- Sử dụng các cụm từ học thuật để tránh lặp lại từ parents và children.\nTừ vựng quan trọng:\n- **Generation gap:** Khoảng cách thế hệ\n- **Family conflict:** Mâu thuẫn gia đình\n- **Mutual understanding:** Sự thấu hiểu lẫn nhau\n- **Trust and respect:** Sự tin tưởng và tôn trọng\n- **Parenting style:** Phong cách nuôi dạy con\n- **Open communication:** Giao tiếp cởi mở\nTừ nối (Linking words):\n- **One possible reason is:** Một lý do có thể là\n- **In addition:** Ngoài ra\n- **However:** Tuy nhiên\n- **As a result:** Kết quả là\n- **For instance:** Ví dụ\n- **In conclusion:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Family disagreements:** Sự bất đồng trong gia đình, thay cho conflicts.\n- **Different perspectives:** Những góc nhìn khác nhau, thay cho different opinions.\n- **Emotional connection:** Sự kết nối cảm xúc, thay cho relationship.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is often argued that:** Người ta thường cho rằng, dùng để giới thiệu quan điểm.\n- **A practical solution is to:** Một giải pháp thực tế là, dùng khi đề xuất cách giải quyết.\n- **Both parents and children should:** Cả cha mẹ và con cái nên, dùng để đưa ra trách nhiệm hai phía.\n\n**4. Các lỗi thường gặp:**\n- Chỉ đổ lỗi cho cha mẹ mà không phân tích vai trò của con cái.\n- Nêu giải pháp quá chung chung như understand each other nhiều lần.\n- Thiếu ví dụ thực tế khiến lập luận không thuyết phục.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra đã có cả nguyên nhân và giải pháp chưa.\n- Đảm bảo bài viết thể hiện quan điểm cân bằng.\n- Kiểm tra lỗi ngữ pháp, chính tả và số lượng từ tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\nHãy nhìn vấn đề từ cả hai phía cha mẹ và con cái. Một bài viết có sự cân bằng, lập luận hợp lý và giải pháp thực tế sẽ dễ đạt điểm cao hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about a trip with someone close to you\n\n1\nHave you ever travelled with someone close to you? Where did you go?\n2\nDid you try local food at that place? Why or why not?\n3\nHow did that trip help you?\n\nNow, let’s talk about your travel habits\n\n4\nWho do you usually travel with?\n5\nWhat do you usually prepare before a trip?\n6\nDo you think travelling is important for people's lives? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 là phần tương tác cá nhân trong khoảng **3 phút** gồm 6 câu hỏi thuộc 2 chủ đề quen thuộc.\n- **Topic A (Travelling Experience):** Các câu hỏi 1–3 tập trung vào trải nghiệm du lịch với người thân thiết, thử món ăn địa phương và lợi ích của việc đi du lịch.\n- **Topic B (Travel Habits):** Các câu hỏi 4–6 tập trung vào thói quen đi du lịch, sự chuẩn bị và quan điểm cá nhân về vai trò của du lịch.\n- Tiêu chí chấm điểm gồm **Fluency, Vocabulary, Grammar và Pronunciation**. Bạn cần thể hiện khả năng kể lại trải nghiệm và đưa ra lý do.\n- Nên dành khoảng **25–35 giây cho mỗi câu hỏi** để đảm bảo có đủ thời gian phát triển ý.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)**: trả lời -> giải thích -> ví dụ cụ thể.\n- **Ví dụ Topic A:** I travelled to Da Nang with my family last summer. I tried local food because I wanted to experience the culture of that place.\n- **Ví dụ Topic B:** I usually travel with my friends because travelling together is more enjoyable and safer.\n- Luôn tự hỏi thêm **Why?** hoặc **How?** để kéo dài câu trả lời.\n- Khi chuyển từ trải nghiệm cá nhân sang thói quen, có thể dùng: Apart from my past trips, I also have some travel habits.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói tự nhiên và sử dụng từ đệm như actually, well, I think khi cần thời gian suy nghĩ.\n- Dùng quá khứ đơn khi kể trải nghiệm: I visited..., I tried..., I enjoyed...\n- Dùng hiện tại đơn khi nói về thói quen: I usually travel..., I often prepare...\n- **Vocabulary Topic A:** travel experience (trải nghiệm du lịch), local cuisine (ẩm thực địa phương), memorable trip (chuyến đi đáng nhớ).\n- **Vocabulary Topic B:** travel plan (kế hoạch du lịch), prepare luggage (chuẩn bị hành lý), travel companion (người đồng hành).\nCụm từ quan trọng nên dùng:\n- **Go on a trip:** đi một chuyến du lịch.\n- **Spend quality time with:** dành thời gian ý nghĩa với ai đó.\n- **Try local specialties:** thử đặc sản địa phương.\n- **Broaden my horizons:** mở rộng hiểu biết.\n- **Create unforgettable memories:** tạo những kỷ niệm khó quên.\n- **Travel preparation:** sự chuẩn bị cho chuyến đi.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên, dùng để bắt đầu ý.\n- **Because:** bởi vì, dùng để giải thích.\n- **For example:** ví dụ như, dùng để mở rộng ý.\n- **Besides:** bên cạnh đó.\n- **In my opinion:** theo quan điểm của tôi.\nCách thể hiện quan điểm tự nhiên:\n- **I personally think...** Ví dụ: I personally think travelling helps people relax and learn new things.\n- **I believe that...** Ví dụ: I believe trying local food is an important part of travelling.\n- **From my point of view...** Ví dụ: From my point of view, travelling with family creates strong relationships.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn như Yes, I have mà không kể thêm địa điểm hoặc trải nghiệm.\n- Với Topic A, tránh chỉ kể nơi đến mà không nói cảm xúc hoặc bài học.\n- Với Topic B, tránh chỉ liệt kê hoạt động mà không giải thích lý do.\n- Dùng sai thì khi kể về chuyến đi trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: That is an interesting question, let me think for a second.\n- Nếu quên từ về du lịch, hãy mô tả bằng hoạt động, địa điểm hoặc cảm xúc.\n- Với Topic A, có thể chuyển sang nói về người đi cùng, món ăn hoặc kỷ niệm.\n- Với Topic B, có thể chuyển sang nói về kế hoạch, chi phí hoặc sự tiện lợi.\n\n**6. Tư duy làm bài nói:**\n- Coi Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n- Tập trung kể trải nghiệm thật thay vì cố dùng câu quá phức tạp.\n- Sự trôi chảy và khả năng phát triển ý quan trọng hơn việc dùng nhiều từ khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou are planning to buy a house and need to decide which factor is the most important.\n\nYou are considering the following options:\n\nOption 1: Location\nOption 2: Size\nOption 3: Cost\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần lựa chọn yếu tố quan trọng nhất khi mua nhà.\n- Ba lựa chọn cần được so sánh gồm vị trí, diện tích và chi phí.\n- Tiêu chí chấm điểm tập trung vào khả năng phân tích ưu nhược điểm, sử dụng từ vựng phù hợp và đưa ra quyết định.\n- Thời gian khoảng **4 phút**, nên dành thời gian phân tích cả 3 lựa chọn trước khi kết luận.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **State opinion - Give reason - Compare - Conclude**: nêu lựa chọn -> giải thích -> so sánh -> kết luận.\n- Option 1: Location quan trọng vì ảnh hưởng đến việc đi làm, học tập và sự tiện lợi trong cuộc sống.\n- Option 2: Size mang lại sự thoải mái nhưng nhà lớn thường có chi phí cao hơn.\n- Option 3: Cost giúp kiểm soát tài chính nhưng nhà rẻ có thể có hạn chế về vị trí hoặc chất lượng.\n- Liên hệ với nhu cầu thực tế như công việc, gia đình và ngân sách.\n- Dùng từ nối đối lập để chuyển giữa ưu điểm và hạn chế của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Không chỉ nói lựa chọn nào tốt mà cần giải thích vì sao nó phù hợp hơn.\n- Dùng hiện tại đơn để nói về các yếu tố mua nhà: Location affects...\n- Dùng cấu trúc điều kiện: If I buy a house, I will consider...\n- Có thể diễn đạt lại buying a house bằng purchasing a property hoặc choosing a home.\nCụm từ quan trọng nên dùng:\n- **Prime location:** vị trí đắc địa.\n- **Living convenience:** sự thuận tiện trong cuộc sống.\n- **Affordable price:** mức giá hợp lý.\n- **Financial situation:** tình hình tài chính.\n- **Living space:** không gian sống.\n- **Long-term investment:** khoản đầu tư dài hạn.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên.\n- **However:** tuy nhiên.\n- **On the other hand:** mặt khác.\n- **Compared with:** so với.\n- **Therefore:** vì vậy.\nCách thể hiện quan điểm tự nhiên:\n- **I would choose...** Ví dụ: I would choose location because it affects my daily life.\n- **The main reason is that...** Ví dụ: The main reason is that a good location saves travel time.\n- **I think this option is more practical because...** Ví dụ: I think cost is more practical for people with a limited budget.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói ưu điểm của lựa chọn mình chọn mà bỏ qua hai lựa chọn còn lại.\n- Lặp lại các từ đơn giản như good, important quá nhiều.\n- Không đưa ra kết luận rõ ràng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Có thể phân tích theo các yếu tố quen thuộc như tiền bạc, sự tiện lợi và chất lượng cuộc sống.\n- Dùng câu chuyển ý: Let's evaluate this option from a different perspective.\n- Nếu bí một yếu tố, hãy chuyển sang yếu tố khác để giữ mạch nói.\n\n**6. Tư duy làm bài nói:**\n- Suy nghĩ như một người đang đưa ra quyết định quan trọng trong cuộc sống.\n- Một lựa chọn tốt cần phù hợp với hoàn cảnh và nhu cầu lâu dài.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nHow to make a person successful and responsible\n\nSuccess and Responsibility\nQualities that help people become successful\nReasons why responsible people are respected\nSolutions to develop responsibility in students\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy is a person considered responsible?\n2\nWhat lessons can help students become more responsible?\n3\nWhat qualities are necessary for success in modern society?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Topic Development**. Bạn cần phát triển chủ đề về cách giúp một người trở nên thành công và có trách nhiệm.\n- Các ý chính gồm phẩm chất tạo nên thành công, lý do một người được xem là có trách nhiệm và giải pháp giáo dục học sinh.\n- Bạn cần thêm một ý tưởng cá nhân để hoàn thiện bài nói.\n- Thời gian khoảng **5 phút**, nên dành phần lớn thời gian cho bài nói chính và chuẩn bị câu trả lời follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction - Detail - Example - Add/wrap up)**: mở đầu -> phát triển ý -> ví dụ -> kết luận.\n- **Ví dụ 1:** To become successful, people need clear goals, hard work and a positive attitude because these qualities help them overcome challenges.\n- **Ví dụ 2:** For my own idea, I think young people should learn responsibility through real-life experiences and teamwork activities.\n- Đi theo mindmap để tránh lặp ý hoặc đi xa chủ đề.\n- Khi nói về trách nhiệm, nên liên hệ với học tập, công việc và cuộc sống hàng ngày.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng câu chuyển ý để kết nối các phẩm chất và giải pháp.\n- Dùng hiện tại đơn cho sự thật chung và hiện tại hoàn thành khi nói về quá trình phát triển.\n- Có thể thay thế successful person bằng high-achieving individual hoặc responsible citizen.\nCụm từ quan trọng nên dùng:\n- **Set clear goals:** đặt mục tiêu rõ ràng.\n- **Take responsibility:** chịu trách nhiệm.\n- **Develop good habits:** phát triển thói quen tốt.\n- **Self-discipline:** tính kỷ luật.\n- **Critical thinking:** tư duy phản biện.\n- **Personal development:** phát triển bản thân.\nTừ nối khi nói (Linking Words):\n- **First of all:** trước hết.\n- **Moreover:** hơn nữa.\n- **For instance:** ví dụ.\n- **As a result:** kết quả là.\n- **In conclusion:** kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n- **I strongly believe that...** Ví dụ: I strongly believe responsibility is important for success.\n- **In my opinion...** Ví dụ: In my opinion, students should learn responsibility early.\n- **From my perspective...** Ví dụ: From my perspective, success requires both skills and attitude.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Why is a person considered responsible?** -> A person is responsible when they keep promises, complete tasks and accept the results of their actions.\n- **What lessons help students become responsible?** -> Students should learn time management, teamwork and problem-solving skills.\n- **What qualities are necessary for success?** -> Hard work, confidence, adaptability and a positive mindset are important qualities.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê phẩm chất mà không giải thích ý nghĩa.\n- Quên đưa ra giải pháp cho phần học sinh.\n- Không đưa ví dụ thực tế để chứng minh.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Liên hệ với trải nghiệm học tập, công việc hoặc cuộc sống hàng ngày.\n- Dùng câu trì hoãn: That is a complex issue. If we evaluate it from a societal viewpoint...\n- Nếu quên từ khó, hãy dùng từ đơn giản hơn để diễn đạt ý tương tự.\n\n**7. Tư duy làm bài nói:**\n- Nhìn chủ đề từ góc độ thực tế: thành công không chỉ là tiền bạc mà còn là thái độ sống.\n- Sự logic và cách phát triển ý là yếu tố quan trọng để đạt điểm cao.\n- Luôn kết hợp ý kiến cá nhân với ví dụ cụ thể để bài nói tự nhiên hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about a trip with someone close to you.\n1.\nHave you ever travelled with someone close to you? Where did you go?\n2.\nDid you try local food at that place? Why or why not?\n3.\nHow did that trip help you?\nNow, let’s talk about your travel habits.\n4.\nWho do you usually travel with?\n5.\nWhat do you usually prepare before a trip?\n6.\nDo you think travelling is important for people's lives? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 là phần tương tác cá nhân trong khoảng 3 phút gồm 6 câu hỏi thuộc 2 chủ đề quen thuộc.\n• Topic A (Travelling Experience): Các câu hỏi 1–3 tập trung vào trải nghiệm du lịch với người thân thiết, thử món ăn\nđịa phương và lợi ích của việc đi du lịch.\n• Topic B (Travel Habits): Các câu hỏi 4–6 tập trung vào thói quen đi du lịch, sự chuẩn bị và quan điểm cá nhân về vai\ntrò của du lịch.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và Pronunciation. Bạn cần thể hiện khả năng kể lại trải\nnghiệm và đưa ra lý do.\n• Nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo có đủ thời gian phát triển ý.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE): trả lời -> giải thích -> ví dụ cụ thể.\n• Ví dụ Topic A: I travelled to Da Nang with my family last summer. I tried local food because I wanted to experience\nthe culture of that place.\n• Ví dụ Topic B: I usually travel with my friends because travelling together is more enjoyable and safer.\n• Luôn tự hỏi thêm Why? hoặc How? để kéo dài câu trả lời.\n• Khi chuyển từ trải nghiệm cá nhân sang thói quen, có thể dùng: Apart from my past trips, I also have some travel\nhabits.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói tự nhiên và sử dụng từ đệm như actually, well, I think khi cần thời gian suy nghĩ.\n• Dùng quá khứ đơn khi kể trải nghiệm: I visited..., I tried..., I enjoyed...\n• Dùng hiện tại đơn khi nói về thói quen: I usually travel..., I often prepare...\n• Vocabulary Topic A: travel experience (trải nghiệm du lịch), local cuisine (ẩm thực địa phương), memorable trip\n(chuyến đi đáng nhớ).\n• Vocabulary Topic B: travel plan (kế hoạch du lịch), prepare luggage (chuẩn bị hành lý), travel companion (người đồng\nhành).\nCụm từ quan trọng nên dùng:\n• Go on a trip: đi một chuyến du lịch.\n• Spend quality time with: dành thời gian ý nghĩa với ai đó.\n• Try local specialties: thử đặc sản địa phương.\n• Broaden my horizons: mở rộng hiểu biết.\n• Create unforgettable memories: tạo những kỷ niệm khó quên.\n• Travel preparation: sự chuẩn bị cho chuyến đi.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên, dùng để bắt đầu ý.\n• Because: bởi vì, dùng để giải thích.\n• For example: ví dụ như, dùng để mở rộng ý.\n• Besides: bên cạnh đó.\n• In my opinion: theo quan điểm của tôi.\nCách thể hiện quan điểm tự nhiên:\n• I personally think... Ví dụ: I personally think travelling helps people relax and learn new things.\n• I believe that... Ví dụ: I believe trying local food is an important part of travelling.\n• From my point of view... Ví dụ: From my point of view, travelling with family creates strong relationships.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn như Yes, I have mà không kể thêm địa điểm hoặc trải nghiệm.\n• Với Topic A, tránh chỉ kể nơi đến mà không nói cảm xúc hoặc bài học.\n• Với Topic B, tránh chỉ liệt kê hoạt động mà không giải thích lý do.\n• Dùng sai thì khi kể về chuyến đi trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: That is an interesting question, let me think for a second.\n• Nếu quên từ về du lịch, hãy mô tả bằng hoạt động, địa điểm hoặc cảm xúc.\n• Với Topic A, có thể chuyển sang nói về người đi cùng, món ăn hoặc kỷ niệm.\n• Với Topic B, có thể chuyển sang nói về kế hoạch, chi phí hoặc sự tiện lợi.\n6. Tư duy làm bài nói:\n• Coi Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n• Tập trung kể trải nghiệm thật thay vì cố dùng câu quá phức tạp.\n• Sự trôi chảy và khả năng phát triển ý quan trọng hơn việc dùng nhiều từ khó.\nSolution Discussion\nPART 2\n4 phút\nYou are planning to buy a house and need to decide which factor is the most important.\nYou are considering the following options:\n• Option 1: Location\n• Option 2: Size\n• Option 3: Cost\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần lựa chọn yếu tố quan trọng nhất khi mua nhà.\n• Ba lựa chọn cần được so sánh gồm vị trí, diện tích và chi phí.\n• Tiêu chí chấm điểm tập trung vào khả năng phân tích ưu nhược điểm, sử dụng từ vựng phù hợp và đưa ra quyết định.\n• Thời gian khoảng 4 phút, nên dành thời gian phân tích cả 3 lựa chọn trước khi kết luận.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc State opinion - Give reason - Compare - Conclude: nêu lựa chọn -> giải thích -> so sánh -> kết luận.\n• Option 1: Location quan trọng vì ảnh hưởng đến việc đi làm, học tập và sự tiện lợi trong cuộc sống.\n• Option 2: Size mang lại sự thoải mái nhưng nhà lớn thường có chi phí cao hơn.\n• Option 3: Cost giúp kiểm soát tài chính nhưng nhà rẻ có thể có hạn chế về vị trí hoặc chất lượng.\n• Liên hệ với nhu cầu thực tế như công việc, gia đình và ngân sách.\n• Dùng từ nối đối lập để chuyển giữa ưu điểm và hạn chế của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Không chỉ nói lựa chọn nào tốt mà cần giải thích vì sao nó phù hợp hơn.\n• Dùng hiện tại đơn để nói về các yếu tố mua nhà: Location affects...\n• Dùng cấu trúc điều kiện: If I buy a house, I will consider...\n• Có thể diễn đạt lại buying a house bằng purchasing a property hoặc choosing a home.\nCụm từ quan trọng nên dùng:\n• Prime location: vị trí đắc địa.\n• Living convenience: sự thuận tiện trong cuộc sống.\n• Affordable price: mức giá hợp lý.\n• Financial situation: tình hình tài chính.\n• Living space: không gian sống.\n• Long-term investment: khoản đầu tư dài hạn.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên.\n• However: tuy nhiên.\n• On the other hand: mặt khác.\n• Compared with: so với.\n• Therefore: vì vậy.\nCách thể hiện quan điểm tự nhiên:\n• I would choose... Ví dụ: I would choose location because it affects my daily life.\n• The main reason is that... Ví dụ: The main reason is that a good location saves travel time.\n• I think this option is more practical because... Ví dụ: I think cost is more practical for people with a limited budget.\n4. Các lỗi thường gặp:\n• Chỉ nói ưu điểm của lựa chọn mình chọn mà bỏ qua hai lựa chọn còn lại.\n• Lặp lại các từ đơn giản như good, important quá nhiều.\n• Không đưa ra kết luận rõ ràng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Có thể phân tích theo các yếu tố quen thuộc như tiền bạc, sự tiện lợi và chất lượng cuộc sống.\n• Dùng câu chuyển ý: Let's evaluate this option from a different perspective.\n• Nếu bí một yếu tố, hãy chuyển sang yếu tố khác để giữ mạch nói.\n6. Tư duy làm bài nói:\n• Suy nghĩ như một người đang đưa ra quyết định quan trọng trong cuộc sống.\n• Một lựa chọn tốt cần phù hợp với hoàn cảnh và nhu cầu lâu dài.\nTopic Development\nPART 3\n5 phút\nTopic: How to make a person successful and responsible\nQualities that help people become\nReasons why responsible people are\nsuccessful\nrespected\nSuccess and Responsibility\nÝ tưởng của bạn\nSolutions to develop responsibility in\nstudents\nFOLLOW-UP QUESTIONS\n1.\nWhy is a person considered responsible?\n2.\nWhat lessons can help students become more responsible?\n3.\nWhat qualities are necessary for success in modern society?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Topic Development. Bạn cần phát triển chủ đề về cách giúp một người trở nên thành công và có trách\nnhiệm.\n• Các ý chính gồm phẩm chất tạo nên thành công, lý do một người được xem là có trách nhiệm và giải pháp giáo dục\nhọc sinh.\n• Bạn cần thêm một ý tưởng cá nhân để hoàn thiện bài nói.\n• Thời gian khoảng 5 phút, nên dành phần lớn thời gian cho bài nói chính và chuẩn bị câu trả lời follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction - Detail - Example - Add/wrap up): mở đầu -> phát triển ý -> ví dụ -> kết luận.\n• Ví dụ 1: To become successful, people need clear goals, hard work and a positive attitude because these qualities\nhelp them overcome challenges.\n• Ví dụ 2: For my own idea, I think young people should learn responsibility through real-life experiences and teamwork\nactivities.\n• Đi theo mindmap để tránh lặp ý hoặc đi xa chủ đề.\n• Khi nói về trách nhiệm, nên liên hệ với học tập, công việc và cuộc sống hàng ngày.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng câu chuyển ý để kết nối các phẩm chất và giải pháp.\n• Dùng hiện tại đơn cho sự thật chung và hiện tại hoàn thành khi nói về quá trình phát triển.\n• Có thể thay thế successful person bằng high-achieving individual hoặc responsible citizen.\nCụm từ quan trọng nên dùng:\n• Set clear goals: đặt mục tiêu rõ ràng.\n• Take responsibility: chịu trách nhiệm.\n• Develop good habits: phát triển thói quen tốt.\n• Self-discipline: tính kỷ luật.\n• Critical thinking: tư duy phản biện.\n• Personal development: phát triển bản thân.\nTừ nối khi nói (Linking Words):\n• First of all: trước hết.\n• Moreover: hơn nữa.\n• For instance: ví dụ.\n• As a result: kết quả là.\n• In conclusion: kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that... Ví dụ: I strongly believe responsibility is important for success.\n• In my opinion... Ví dụ: In my opinion, students should learn responsibility early.\n• From my perspective... Ví dụ: From my perspective, success requires both skills and attitude.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Why is a person considered responsible? -> A person is responsible when they keep promises, complete tasks and\naccept the results of their actions.\n• What lessons help students become responsible? -> Students should learn time management, teamwork and\nproblem-solving skills.\n• What qualities are necessary for success? -> Hard work, confidence, adaptability and a positive mindset are\nimportant qualities.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê phẩm chất mà không giải thích ý nghĩa.\n• Quên đưa ra giải pháp cho phần học sinh.\n• Không đưa ví dụ thực tế để chứng minh.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Liên hệ với trải nghiệm học tập, công việc hoặc cuộc sống hàng ngày.\n• Dùng câu trì hoãn: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ khó, hãy dùng từ đơn giản hơn để diễn đạt ý tương tự.\n7. Tư duy làm bài nói:\n• Nhìn chủ đề từ góc độ thực tế: thành công không chỉ là tiền bạc mà còn là thái độ sống.\n• Sự logic và cách phát triển ý là yếu tố quan trọng để đạt điểm cao.\n• Luôn kết hợp ý kiến cá nhân với ví dụ cụ thể để bài nói tự nhiên hơn."
+}

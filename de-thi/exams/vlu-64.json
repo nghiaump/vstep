@@ -1,0 +1,716 @@
+{
+ "id": "vlu-64",
+ "number": 64,
+ "title": "Đề thi VLU 64",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-64",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Science and Importance of Sunscreen",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Many people enjoy sunny days at the beach, in the park or on the football field, but the same sunlight that lifts our mood can also damage our skin. Too much ultraviolet light, or UV, can cause painful burns and may lead to skin cancer over many years. For this reason, sunscreen is a **vital** part of staying safe outdoors. Millions of people use it every summer, yet many still make simple mistakes. This passage explains how it works and how to use it well.",
+     "Sunlight contains two main types of UV that reach the ground, called UVA and UVB. UVB is the main cause of sunburn, while UVA goes deeper into the skin and is reportedly linked to ageing and to DNA damage that may increase the risk of melanoma. The number on a bottle, called the sun protection factor or SPF, mainly measures protection against UVB. As a rough guide, SPF 15 blocks about 93 per cent of burning rays, SPF 30 about 97 per cent and SPF 50 about 98 per cent. A higher number therefore gives only a small extra benefit, and it does not last longer. The SPF rating itself was reportedly introduced by Franz Greiter in 1974.",
+     "There are two main kinds of sunscreen, and they work in different ways. Mineral sunscreens contain zinc oxide or titanium dioxide, which sit on top of the skin and mainly absorb UV, although they also **reflect** and scatter some of it. Chemical sunscreens absorb UV and release the energy as heat, and many people find these products lighter and easier to rub in. Mineral products are often preferred by people with sensitive skin, although they can leave a pale film. Some chemicals have caused concern for the oceans, and Hawaii banned sunscreens containing oxybenzone and octinoxate in 2018 to protect its coral reefs.",
+     "Using sunscreen correctly matters as much as choosing a good one in the first place. An average adult needs about 35 millilitres, or roughly six teaspoons, to cover the whole body, but studies suggest that people usually apply only a quarter to a half of that amount. Look for a broad-spectrum product, which protects against both UVA and UVB, and reapply it every two hours. Parents should take extra care with their children, and it is wise to protect **them** with shade, hats and sunscreen.",
+     "Sunscreen is not magic, and it works best together with other habits. Staying in the shade at midday, wearing a hat and light clothing, and avoiding long periods in strong sun all reduce the amount of UV reaching the skin. Some people worry that sunscreen reduces vitamin D, but typical use usually does not cause a deficiency, and fatty fish and supplements are other sources. In short, a few minutes of care before going outside can protect the skin for life."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Time in the sun is dangerous and should always be avoided",
+       "B": "Mineral sunscreens are much safer for the ocean than chemical ones",
+       "C": "Sunscreen protects the skin from harmful UV but only when used correctly",
+       "D": "A higher SPF number lets most people stay outdoors far longer"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đoạn 1 đặt vấn đề về việc ánh nắng có thể gây hại cho da và khẳng định kem chống nắng đóng vai trò quan trọng, nhưng nhiều người vẫn mắc sai lầm; các đoạn tiếp theo lần lượt giải thích cơ chế tia UV, loại kem chống nắng, cách sử dụng chuẩn và các biện pháp bổ trợ. Do đó, phương án đúng phải bao quát được việc kem chống nắng bảo vệ da khỏi tia cực độc hại nhưng chỉ thực sự hiệu quả khi được sử dụng đúng cách."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what does SPF mainly measure?",
+      "options": {
+       "A": "Protection against the UVB rays that cause sunburn",
+       "B": "How long the sunscreen stays on skin in water",
+       "C": "The amount of UVA that reaches deeper skin layers",
+       "D": "Whether the product contains zinc oxide or other minerals"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"SPF\" ở đoạn 2 để thấy nó chủ yếu đo lường khả năng bảo vệ chống lại các tia UVB gây cháy nắng (Protection against the UVB rays that cause sunburn)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"vital\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "rather boring",
+       "B": "very important",
+       "C": "slightly useful",
+       "D": "fairly expensive"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"vital\" ở đoạn 1 dùng để chỉ một phần cực kỳ cần thiết, quan trọng trong việc giữ an toàn ngoài trời (very important)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how much sunscreen does an average adult need for the whole body?",
+      "options": {
+       "A": "Only one teaspoon, as more would feel sticky and heavy",
+       "B": "Two full bottles, since the skin absorbs it quickly",
+       "C": "Approximately one drop comparable in size to a coin",
+       "D": "Around 35 millilitres, or roughly six teaspoons in total"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị đoạn 4 về lượng kem chống nắng cần thiết cho người lớn (Around 35 millilitres, or roughly six teaspoons in total)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"reflect\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "send back",
+       "B": "pull inside",
+       "C": "let through",
+       "D": "break apart"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"reflect\" ở đoạn 3 nằm trong ngữ cảnh miêu tả khoáng chất trong kem chống nắng phản xạ và tán xạ một phần tia UV (send back)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"them\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "parents",
+       "B": "adults",
+       "C": "children",
+       "D": "studies"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"them\" ở đoạn 4 trong câu \"Parents should take extra care with their children, and it is wise to protect them with shade...\". Chiếu ngược lại danh từ chỉ đối tượng vừa được nhắc đến ngay trước đó, xác định \"them\" thay thế cho trẻ em (children)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what is said about vitamin D?",
+      "options": {
+       "A": "Sunscreen blocks all vitamin D, so everyone then needs supplements",
+       "B": "Fatty fish contains none, so people should avoid eating it",
+       "C": "Only mineral products reduce it, while chemical ones change nothing",
+       "D": "Typical sunscreen use usually does not cause a deficiency"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 để xác định thông tin về vitamin D, khẳng định việc sử dụng kem chống nắng thông thường thường không gây ra sự thiếu hụt (Typical sunscreen use usually does not cause a deficiency)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to reduce UV exposure?",
+      "options": {
+       "A": "Staying in shaded areas during the midday hours",
+       "B": "Using a sunbed before going on holiday",
+       "C": "Wearing a hat and some loose light clothing",
+       "D": "Avoiding very long periods in the strong sun"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với đoạn 5: việc ở trong bóng râm (đoạn 5), đội mũ và mặc quần áo sáng màu (đoạn 5), tránh tiếp xúc lâu dưới nắng gắt (đoạn 5) đều được đề cập; trong khi việc sử dụng giường tắm nắng (sunbed) trước kỳ nghỉ hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "Which of the following can be inferred from paragraphs 4 and 5?",
+      "options": {
+       "A": "Sunscreen works best when used freely and reapplied often with extra shade",
+       "B": "Anyone wearing SPF 50 never needs to reapply throughout the day",
+       "C": "Children should stay indoors whenever the sun is shining very strongly",
+       "D": "Hats and shade make sunscreen completely unnecessary for most adults today"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4 và 5 – nơi tác giả nhấn mạnh việc dùng đủ lượng kem, thoa lại mỗi hai giờ kết hợp cùng mũ, bóng râm và các thói quen tránh nắng – từ đó suy luận rằng kem chống nắng hoạt động hiệu quả nhất khi được sử dụng rộng rãi, thoa lại thường xuyên kèm theo các biện pháp che chắn phụ trợ."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To advertise a particular brand of sunscreen to beach holiday customers",
+       "B": "To argue that governments should ban every chemical sunscreen in the world",
+       "C": "To compare the long history of tanning fashions in Europe and America",
+       "D": "To explain how sunscreen works and how people should use it Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": "Đánh giá toàn mạch văn bản từ đoạn mở đầu đến kết luận, tác giả giải thích các loại tia UV, phân loại kem chống nắng, hướng dẫn liều lượng bôi và các cách bảo vệ da bổ sung. Do đó, mục đích chính là giải thích cách hoạt động của kem chống nắng và cách mọi người nên sử dụng chúng (To explain how sunscreen works and how people should use it)."
+     }
+    ],
+    "tips_md": "Để làm tốt bài đọc về này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 đặt vấn đề về việc ánh nắng có thể gây hại cho da và khẳng định kem chống nắng đóng vai trò quan trọng, nhưng nhiều người vẫn mắc sai lầm; các đoạn tiếp theo lần lượt giải thích cơ chế tia UV, loại kem chống nắng, cách sử dụng chuẩn và các biện pháp bổ trợ. Do đó, phương án đúng phải bao quát được việc kem chống nắng bảo vệ da khỏi tia cực độc hại nhưng chỉ thực sự hiệu quả khi được sử dụng đúng cách.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R1Q2**, tìm từ khóa \"SPF\" ở đoạn 2 để thấy nó chủ yếu đo lường khả năng bảo vệ chống lại các tia UVB gây cháy nắng (Protection against the UVB rays that cause sunburn).\n  - Với **R1Q4**, định vị đoạn 4 về lượng kem chống nắng cần thiết cho người lớn (Around 35 millilitres, or roughly six teaspoons in total).\n  - Với **R1Q7**, quét đoạn 5 để xác định thông tin về vitamin D, khẳng định việc sử dụng kem chống nắng thông thường thường không gây ra sự thiếu hụt (Typical sunscreen use usually does not cause a deficiency).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):**\n  - Với **R1Q3**, từ **\"vital\"** ở đoạn 1 dùng để chỉ một phần cực kỳ cần thiết, quan trọng trong việc giữ an toàn ngoài trời (very important).\n  - Với **R1Q5**, từ **\"reflect\"** ở đoạn 3 nằm trong ngữ cảnh miêu tả khoáng chất trong kem chống nắng phản xạ và tán xạ một phần tia UV (send back).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ **\"them\"** ở đoạn 4 trong câu \"Parents should take extra care with their children, and it is wise to protect them with shade...\". Chiếu ngược lại danh từ chỉ đối tượng vừa được nhắc đến ngay trước đó, xác định \"them\" thay thế cho trẻ em (children).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối chiếu từng phương án với đoạn 5: việc ở trong bóng râm (đoạn 5), đội mũ và mặc quần áo sáng màu (đoạn 5), tránh tiếp xúc lâu dưới nắng gắt (đoạn 5) đều được đề cập; trong khi việc sử dụng giường tắm nắng (sunbed) trước kỳ nghỉ hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ các đoạn 4 và 5 – nơi tác giả nhấn mạnh việc dùng đủ lượng kem, thoa lại mỗi hai giờ kết hợp cùng mũ, bóng râm và các thói quen tránh nắng – từ đó suy luận rằng kem chống nắng hoạt động hiệu quả nhất khi được sử dụng rộng rãi, thoa lại thường xuyên kèm theo các biện pháp che chắn phụ trợ.\n- **Dạng câu hỏi Mục đích tác giả (R1Q10):** Đánh giá toàn mạch văn bản từ đoạn mở đầu đến kết luận, tác giả giải thích các loại tia UV, phân loại kem chống nắng, hướng dẫn liều lượng bôi và các cách bảo vệ da bổ sung. Do đó, mục đích chính là giải thích cách hoạt động của kem chống nắng và cách mọi người nên sử dụng chúng (To explain how sunscreen works and how people should use it).\nLời khuyên: Hãy ưu tiên giải quyết nhanh các câu hỏi tra cứu thông tin trực tiếp (R1Q2, R1Q4, R1Q7, R1Q8) và các câu hỏi từ vựng - quy chiếu (R1Q3, R1Q5, R1Q6). Sau đó, dựa trên cơ sở dữ liệu đó để hoàn thành các câu hỏi suy luận, tìm ý chính và mục đích tác giả (R1Q1, R1Q9, R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Electronic Waste and Its Toxic Legacy in Tiger Shark Populations",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "The world now produces a **staggering** quantity of electronic waste, with an estimated 62 million tonnes generated in 2022, reportedly 82 per cent more than in 2010. Forecasts suggest that the figure could reach 82 million tonnes by 2030. Only about 22 per cent of the total was formally collected and recycled, so much of the rest may end up in landfill, in storage or in informal recycling. This growing pile is more than an inconvenience, because many of its components are poisonous.",
+     "Electronic devices contain lead, mercury, cadmium and brominated flame retardants, substances that are harmless while sealed inside a working phone but dangerous once casings are crushed or burned. E-waste reportedly makes up about three per cent of landfill waste but around 70 per cent of its toxic material. When rain washes leaked metals and chemicals from dumps into rivers, they can eventually travel to the sea. Once there, persistent compounds can enter the food chain, where concentrations tend to increase at each step.",
+     "Few animals illustrate this problem better than the tiger shark, a large tropical predator. Adults typically measure between three and a half and almost five metres, and the species has the widest diet of any shark, eating fish, seabirds, turtles, rays and even other sharks. Its habit of swallowing almost anything has earned it the nickname garbage can of the sea, and licence plates and tyres have reportedly been found in stomachs. As an apex predator, it sits at the top of the food chain and may collect contaminants carried by everything beneath it.",
+     "Researchers have reportedly detected flame retardants and heavy metals in several shark species, although direct evidence linking tiger shark decline to electronic waste remains limited. Their biology nevertheless makes the problem plausible, since tiger sharks reportedly live beyond twelve years, mature slowly and carry pups for up to sixteen months. Females mate only about once every three years, so any harm to reproduction could leave a population in a **precarious** position for decades. The species is already listed as near threatened, mainly because of fishing and finning.",
+     "The same dumps that may threaten marine life also endanger the people who work in them. Informal recycling sites rely on workers, many of **whom** handle toxic materials with little protective equipment. At Agbogbloshie in Ghana, soil samples reportedly contained lead at up to 18,125 parts per million, far above the 400 considered acceptable for play areas by the United States environmental agency. In Guiyu in China, a study found that children's average blood lead level was 15.3 micrograms per decilitre, compared with 9.9 at a control site.",
+     "Solving the problem requires action at several levels, beginning with the design of devices that last longer, contain fewer hazardous substances and can be repaired or recycled easily. The Basel Convention of 1989 regulates the movement of hazardous waste between countries, and the European Union has reportedly restricted lead, mercury and cadmium in new products since 2003. Consumers can help by keeping devices longer and returning old ones to certified collectors. Whether such measures arrive in time to protect long-lived predators such as the tiger shark remains uncertain, but the evidence for action is already strong."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Recycling programmes have already solved the problem of electronic waste disposal",
+       "B": "Discarded electronics release toxins that may harm marine predators and informal workers",
+       "C": "Tiger sharks have become extinct because of fishing and finning worldwide",
+       "D": "Wealthy countries have stopped exporting electronic waste to developing nations entirely"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đoạn 1 nêu lên sự gia tăng chóng mặt của rác thải điện tử và nguy cơ độc hại; các đoạn tiếp theo lần lượt phân tích độc tố ảnh hưởng đến sinh vật biển (như cá mập hổ) và những người lao động tại các bãi tái chế thủ công; đoạn cuối đưa ra các giải pháp quản lý. Do đó, phương án đúng phải khái quát được việc các thiết bị điện tử bị vứt bỏ giải phóng chất độc gây hại cho động vật ăn thịt biển và người lao động thủ công."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, how much of the e-waste was formally collected and recycled?",
+      "options": {
+       "A": "Over half, thanks to strict new laws in Europe",
+       "B": "Hardly any, because most devices are still in use",
+       "C": "About half, though most of it was then exported",
+       "D": "Just over one fifth of the global total"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm dữ liệu ở đoạn 1 về tỷ lệ thu gom và tái chế chính thức chỉ khoảng 22% (Just over one fifth of the global total)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"staggering\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "extremely large",
+       "B": "rather modest",
+       "C": "slowly rising",
+       "D": "carefully planned"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"staggering\" ở đoạn 1 diễn tả khối lượng rác thải điện tử khổng lồ, cực kỳ lớn (extremely large)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why are the substances in electronic devices dangerous?",
+      "options": {
+       "A": "Plastic casings react badly with water inside landfill sites",
+       "B": "Rare metals explode whenever old batteries touch household rubbish",
+       "C": "They become hazardous when casings are crushed or burned",
+       "D": "Manufacturers add extra poisons so that devices cannot be copied"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ đoạn 2 để xác định lý do chất độc hại bùng phát khi lớp vỏ bị nghiền nát hoặc đốt cháy (They become hazardous when casings are crushed or burned)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"precarious\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "secure and stable",
+       "B": "unstable and risky",
+       "C": "famous and admired",
+       "D": "large and growing"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"precarious\" ở đoạn 4 mô tả tình trạng dễ bị tổn thương, không ổn định và rủi ro của quần thể cá mập (unstable and risky)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"whom\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "materials",
+       "B": "devices",
+       "C": "countries",
+       "D": "workers"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"whom\" trong mệnh đề \"...workers, many of whom handle toxic materials...\". Chiếu ngược lại danh từ chỉ người đứng ngay trước đó, xác định \"whom\" thay thế cho những công nhân (workers)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what is the diet of the tiger shark like?",
+      "options": {
+       "A": "Mostly small fish caught near coastal coral reefs every single day",
+       "B": "Seabirds and sea snakes only, because larger prey avoids warm water",
+       "C": "It is unusually wide, including turtles and even other sharks",
+       "D": "Almost entirely marine mammals, which it hunts in large cooperative groups"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"diet\" hoặc \"tiger shark\" ở đoạn 3 để thấy khẩu phần cực kỳ đa dạng, bao gồm cả rùa và các loài cá mập khác."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned about tiger sharks?",
+      "options": {
+       "A": "Regular migration towards remote Arctic breeding grounds",
+       "B": "Slow maturity that limits how quickly numbers recover",
+       "C": "Pregnancies that can last up to sixteen months",
+       "D": "A near threatened conservation status linked to fishing"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu thông tin ở đoạn 4: việc di cư đến vùng sinh sản Bắc Cực hoàn toàn không được đề cập (Regular migration towards remote Arctic breeding grounds)."
+     },
+     {
+      "number": 19,
+      "stem": "Which of the following can be inferred from paragraphs 4, 5, and 6?",
+      "options": {
+       "A": "Recycling plants across Europe are the main cause of shark deaths",
+       "B": "Slow breeding and long lives leave sharks very exposed to toxic pollution",
+       "C": "Informal workers earn enough to buy protective equipment without outside help",
+       "D": "Fishing bans alone would fully protect every large shark population worldwide"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ các đoạn 4, 5 và 6 – nơi chỉ ra vòng đời sinh sản chậm, thời gian mang thai dài của cá mập hổ cũng như việc tiếp xúc với chất độc từ rác thải – từ đó suy luận rằng tốc độ sinh sản chậm và tuổi thọ kéo dài khiến loài cá mập này vô cùng dễ bị tổn thương trước ô nhiễm độc hại."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote the sale of long lasting electronic devices to consumers",
+       "B": "To prove that tiger sharks are dying mainly because of electronic waste",
+       "C": "To describe how scientists catch and tag large sharks in tropical waters",
+       "D": "To examine how electronic waste may threaten both wildlife and people Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Đánh giá toàn mạch văn bản từ việc bóc tách số liệu rác thải, độc tố ngấm vào chuỗi thức ăn, ảnh hưởng đến cá mập hổ cho đến nguy hiểm đối với công nhân bãi rác và hướng giải quyết, mục đích chính của tác giả là xem xét rác thải điện tử đe dọa động vật hoang dã lẫn con người như thế nào (To examine how electronic waste may threaten both wildlife and people)."
+     }
+    ],
+    "tips_md": "Để làm tốt bài đọc về này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 nêu lên sự gia tăng chóng mặt của rác thải điện tử và nguy cơ độc hại; các đoạn tiếp theo lần lượt phân tích độc tố ảnh hưởng đến sinh vật biển (như cá mập hổ) và những người lao động tại các bãi tái chế thủ công; đoạn cuối đưa ra các giải pháp quản lý. Do đó, phương án đúng phải khái quát được việc các thiết bị điện tử bị vứt bỏ giải phóng chất độc gây hại cho động vật ăn thịt biển và người lao động thủ công.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R2Q2**, tìm dữ liệu ở đoạn 1 về tỷ lệ thu gom và tái chế chính thức chỉ khoảng 22% (Just over one fifth of the global total).\n  - Với **R2Q4**, quét từ đoạn 2 để xác định lý do chất độc hại bùng phát khi lớp vỏ bị nghiền nát hoặc đốt cháy (They become hazardous when casings are crushed or burned).\n  - Với **R2Q7**, quét từ khóa \"diet\" hoặc \"tiger shark\" ở đoạn 3 để thấy khẩu phần cực kỳ đa dạng, bao gồm cả rùa và các loài cá mập khác.\n  - Với **R2Q8**, đối chiếu thông tin ở đoạn 4: việc di cư đến vùng sinh sản Bắc Cực hoàn toàn không được đề cập (Regular migration towards remote Arctic breeding grounds).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):**\n  - Với **R2Q3**, từ **\"staggering\"** ở đoạn 1 diễn tả khối lượng rác thải điện tử khổng lồ, cực kỳ lớn (extremely large).\n  - Với **R2Q5**, từ **\"precarious\"** ở đoạn 4 mô tả tình trạng dễ bị tổn thương, không ổn định và rủi ro của quần thể cá mập (unstable and risky).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ **\"whom\"** trong mệnh đề \"...workers, many of whom handle toxic materials...\". Chiếu ngược lại danh từ chỉ người đứng ngay trước đó, xác định \"whom\" thay thế cho những công nhân (workers).\n- **Dạng câu hỏi Suy luận (R2Q9):** Kết hợp thông tin từ các đoạn 4, 5 và 6 – nơi chỉ ra vòng đời sinh sản chậm, thời gian mang thai dài của cá mập hổ cũng như việc tiếp xúc với chất độc từ rác thải – từ đó suy luận rằng tốc độ sinh sản chậm và tuổi thọ kéo dài khiến loài cá mập này vô cùng dễ bị tổn thương trước ô nhiễm độc hại.\n- **Dạng câu hỏi Mục đích tác giả (R2Q10):** Đánh giá toàn mạch văn bản từ việc bóc tách số liệu rác thải, độc tố ngấm vào chuỗi thức ăn, ảnh hưởng đến cá mập hổ cho đến nguy hiểm đối với công nhân bãi rác và hướng giải quyết, mục đích chính của tác giả là xem xét rác thải điện tử đe dọa động vật hoang dã lẫn con người như thế nào (To examine how electronic waste may threaten both wildlife and people).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin trực tiếp (R2Q2, R2Q4, R2Q7, R2Q8) và các câu hỏi từ vựng - quy chiếu (R2Q3, R2Q5, R2Q6). Sau đó, dựa trên cơ sở dữ liệu đó để hoàn thành các câu hỏi suy luận, tìm ý chính và mục đích tác giả (R2Q1, R2Q9, R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Hanoi Cuisine: Identity, Heritage, and the Pressures of Modernity",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few cities define themselves through food as completely as Hanoi, where a bowl of noodles can carry as much meaning as a monument. Dishes such as phở, bún chả and chả cá Lã Vọng are celebrated far beyond Vietnam, yet their northern roots and careful rules are often overlooked by international diners. This passage examines how the cuisine expresses identity and how it is changing. The story is one of heritage, adaptation and anxiety about what may be lost.",
+     "Northern cooking is often described as the most **austere** of Vietnam's three regional traditions, because it relies on subtle combinations of ingredients rather than strong sweet, sour or spicy notes. Colder weather reportedly limited the use of spices, so black pepper rather than chilli became the main source of heat. Freshwater fish, crabs and shellfish feature prominently, and dill may garnish fish dishes. The result is a cuisine that rewards attention rather than demanding it.",
+     "Behind this restraint lies a philosophy of balance, in which the five tastes of spicy, sour, bitter, salty and sweet are each linked to an element and an organ. Dishes also aim to combine several colours, and ingredients are judged as warming or cooling according to yin and yang. Duck, regarded as a cooling meat, is traditionally paired with warming ginger fish sauce. Fish sauce itself, made from fermented raw fish, appears on almost every table.",
+     "Colonial history added another layer, because French rule reportedly made beef more widely eaten, introduced produce such as potatoes, tomatoes and carrots, and inspired dishes like bò sốt vang. The baguette became bánh mì, which is now one of the country's most popular fast foods. Such borrowings were absorbed on local terms, with Vietnamese cooks adapting foreign ingredients to existing principles of balance instead of copying French recipes.",
+     "Phở, perhaps the best known export of northern cooking, is said to have originated in Van Cu in Nam Định province, and it later developed distinct northern, Huế and Saigon styles. Other northern dishes, including bún riêu and bánh cuốn, spread southwards with migration. Recognition abroad has followed, and CNN reportedly included phở in a 2024 list of the world's best soups, while Vietnam has held an annual Phở Day since 2017.",
+     "Modernity brings opportunity to the kitchens of the capital, but it also brings pressure. **[1]** Tourism has widened the audience, and visitors now queue at stalls that once served mainly neighbours and office workers. **[2]** Authorities in several Asian cities have reportedly tried to move street vendors off the pavements, a policy that many residents regard as a threat to everyday food culture. **[3]** In some kitchens, artificial food dyes are reportedly replacing traditional natural colourings, a quiet substitution that few diners notice. **[4]** That erosion would be hard to reverse, because flavour memory passes from household to household through meals rather than through books.",
+     "Preserving a food culture is therefore not simply a matter of freezing recipes in time, because dishes live through the daily choices of cooks and customers. Some younger chefs reportedly reinterpret classic dishes rather than abandon **them**, adjusting portions and presentation while keeping the underlying balance. Efforts to **codify** authentic recipes may help to protect heritage, yet they risk turning a living tradition into a museum piece. In Hanoi, as elsewhere, identity is kept alive by eating, not merely by remembering."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "French colonial rule created northern Vietnamese cooking out of imported ingredients alone",
+       "B": "Street vendors have successfully protected traditional recipes from every outside influence",
+       "C": "Hanoi's cuisine expresses a carefully balanced identity that modernisation now threatens to erode",
+       "D": "Spicy southern dishes have replaced milder northern recipes in most restaurants"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đoạn 1 đặt vấn đề ẩm thực Hà Nội phản ánh bản sắc văn hóa sâu sắc và đang đứng trước những lo âu về nguy cơ bị mai một; các đoạn tiếp theo lần lượt phân tích tính tiết chế, triết lý âm dương, sự giao thoa thuộc địa, sự lan tỏa của phở và những sức ép từ hiện đại hóa. Do đó, phương án đúng phải khái quát được việc ẩm thực Hà Nội thể hiện một bản sắc được cân nhắc kỹ lưỡng nhưng quá trình hiện đại hóa nay đang đe dọa làm xói mòn."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why is northern food less spicy than southern food?",
+      "options": {
+       "A": "Colder weather reportedly limited the use of spices",
+       "B": "Northern farmers refused to grow chilli plants for religious reasons",
+       "C": "French colonial cooks banned strong spices from every government kitchen",
+       "D": "Fish sauce already supplies all of the heat required"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"spicy\" hoặc \"colder weather\" ở đoạn 2 để thấy thời tiết lạnh hạn chế việc dùng gia vị mạnh, tiêu đen thay thế ớt (Colder weather reportedly limited the use of spices)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"austere\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "rich and heavy",
+       "B": "plain and simple",
+       "C": "hot and spicy",
+       "D": "sweet and sticky"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"austere\" ở đoạn 2 dùng để miêu tả sự thanh đạm, mộc mạc và đơn giản của ẩm thực miền Bắc, thiên về sự kết hợp tinh tế thay vì vị đậm nồng (plain and simple)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a substitution risks eroding the colour balance that the cuisine has long prized.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc các vị trí đánh dấu trong đoạn 6. Vị trí [4] nằm ngay sau câu nói về việc phẩm màu nhân tạo đang dần thay thế màu sắc tự nhiên vốn có trong một số nhà bếp. Câu cần điền bắt đầu bằng cụm \"Such a substitution risks eroding the colour balance...\" tạo sự liên kết ngữ nghĩa hoàn hảo nhất với sự thay thế phẩm màu này."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, how is duck traditionally served?",
+      "options": {
+       "A": "Cooks boil it with cooling cucumber and then serve it alone",
+       "B": "It is paired with warming ginger fish sauce to restore balance",
+       "C": "It is avoided in winter because the meat is considered too warming",
+       "D": "Charcoal grilling and fresh herbs are the usual northern treatment"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị đoạn 3 về cách phục vụ thịt vịt truyền thống kết hợp với nước mắm gừng có tính ấm để tạo sự cân bằng (It is paired with warming ginger fish sauce to restore balance)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"them\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "younger chefs",
+       "B": "local customers",
+       "C": "classic dishes",
+       "D": "original recipes"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"them\" ở đoạn 7 trong câu nói về việc các đầu bếp trẻ diễn giải lại các món ăn cổ điển thay vì từ bỏ chúng (\"...rather than abandon them\"). Áp dụng quy tắc quy chiếu ngược lại danh từ chỉ đối tượng vừa nhắc đến ngay trước đó, xác định \"them\" thay thế cho các món ăn kinh điển (classic dishes)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"codify\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "set down formally",
+       "B": "change quickly",
+       "C": "export widely",
+       "D": "forget slowly"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"codify\" ở đoạn 7 nằm trong ngữ cảnh hệ thống hóa, quy chuẩn hóa công thức truyền thống thành văn bản (set down formally)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Visitors now queueing at stalls that once served neighbours",
+       "B": "Artificial food dyes appearing in place of natural colourings",
+       "C": "Attempts to move street vendors off the pavements",
+       "D": "Supermarket chains buying family noodle shops outright"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu đoạn 6: việc du khách xếp hàng (ý [1]), phẩm màu nhân tạo thay thế màu tự nhiên (ý [3]) và việc dẹp hàng quán vỉa hè (ý [2]) đều được đề cập; trong khi chi tiết siêu thị mua đứt các tiệm mì gia đình hoàn toàn không xuất hiện."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about northern Vietnamese cuisine?",
+      "options": {
+       "A": "Foreign visitors have little interest in northern dishes outside the capital today",
+       "B": "French cooks invented phở shortly after rejecting every Vietnamese noodle tradition",
+       "C": "Northern cooking has absorbed outside influences and gained recognition while facing new pressures",
+       "D": "Artificial colourings have been banned in all restaurants across the northern provinces"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 – nơi đề cập đến việc ẩm thực miền Bắc tiếp thu các yếu tố ngoại lai (như ảnh hưởng Pháp), đạt được sự công nhận quốc tế rộng rãi nhưng đồng thời cũng đối mặt với các áp lực từ hiện đại hóa, thương mại hóa và vỉa hè – từ đó suy luận rằng ẩm thực miền Bắc đã tiếp thu các ảnh hưởng bên ngoài và đạt được sự công nhận trong khi vẫn phải đối mặt với những áp lực mới."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To explore how Hanoi's food reflects identity and faces modern pressures",
+       "B": "To persuade tourists to avoid street food and eat in hotel restaurants",
+       "C": "To compare Vietnamese cooking with French cuisine in three major cities",
+       "D": "To teach readers exactly how to cook phở at home Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Đánh giá toàn mạch văn bản từ đoạn mở đầu đến kết luận, tác giả đi từ nét đặc trưng, triết lý, lịch sử hình thành cho đến những thách thức của nhịp sống hiện đại đối với các món ăn Hà Nội. Do đó, mục đích chính là khám phá cách thức ẩm thực Hà Nội phản ánh bản sắc và đối mặt với các áp lực hiện đại (To explore how Hanoi's food reflects identity and faces modern pressures)."
+     }
+    ],
+    "tips_md": "Để làm tốt bài đọc về này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R3Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 đặt vấn đề ẩm thực Hà Nội phản ánh bản sắc văn hóa sâu sắc và đang đứng trước những lo âu về nguy cơ bị mai một; các đoạn tiếp theo lần lượt phân tích tính tiết chế, triết lý âm dương, sự giao thoa thuộc địa, sự lan tỏa của phở và những sức ép từ hiện đại hóa. Do đó, phương án đúng phải khái quát được việc ẩm thực Hà Nội thể hiện một bản sắc được cân nhắc kỹ lưỡng nhưng quá trình hiện đại hóa nay đang đe dọa làm xói mòn.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R3Q2**, tìm từ khóa \"spicy\" hoặc \"colder weather\" ở đoạn 2 để thấy thời tiết lạnh hạn chế việc dùng gia vị mạnh, tiêu đen thay thế ớt (Colder weather reportedly limited the use of spices).\n  - Với **R3Q5**, định vị đoạn 3 về cách phục vụ thịt vịt truyền thống kết hợp với nước mắm gừng có tính ấm để tạo sự cân bằng (It is paired with warming ginger fish sauce to restore balance).\n  - Với **R3Q8**, đối chiếu đoạn 6: việc du khách xếp hàng (ý [1]), phẩm màu nhân tạo thay thế màu tự nhiên (ý [3]) và việc dẹp hàng quán vỉa hè (ý [2]) đều được đề cập; trong khi chi tiết siêu thị mua đứt các tiệm mì gia đình hoàn toàn không xuất hiện.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):**\n  - Với **R3Q3**, từ **\"austere\"** ở đoạn 2 dùng để miêu tả sự thanh đạm, mộc mạc và đơn giản của ẩm thực miền Bắc, thiên về sự kết hợp tinh tế thay vì vị đậm nồng (plain and simple).\n  - Với **R3Q7**, từ **\"codify\"** ở đoạn 7 nằm trong ngữ cảnh hệ thống hóa, quy chuẩn hóa công thức truyền thống thành văn bản (set down formally).\n- **Dạng câu hỏi Điền câu vào đoạn văn (R3Q4):** Đọc các vị trí đánh dấu trong đoạn 6. Vị trí [4] nằm ngay sau câu nói về việc phẩm màu nhân tạo đang dần thay thế màu sắc tự nhiên vốn có trong một số nhà bếp. Câu cần điền bắt đầu bằng cụm \"Such a substitution risks eroding the colour balance...\" tạo sự liên kết ngữ nghĩa hoàn hảo nhất với sự thay thế phẩm màu này.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ **\"them\"** ở đoạn 7 trong câu nói về việc các đầu bếp trẻ diễn giải lại các món ăn cổ điển thay vì từ bỏ chúng (\"...rather than abandon them\"). Áp dụng quy tắc quy chiếu ngược lại danh từ chỉ đối tượng vừa nhắc đến ngay trước đó, xác định \"them\" thay thế cho các món ăn kinh điển (classic dishes).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 – nơi đề cập đến việc ẩm thực miền Bắc tiếp thu các yếu tố ngoại lai (như ảnh hưởng Pháp), đạt được sự công nhận quốc tế rộng rãi nhưng đồng thời cũng đối mặt với các áp lực từ hiện đại hóa, thương mại hóa và vỉa hè – từ đó suy luận rằng ẩm thực miền Bắc đã tiếp thu các ảnh hưởng bên ngoài và đạt được sự công nhận trong khi vẫn phải đối mặt với những áp lực mới.\n- **Dạng câu hỏi Mục đích tác giả (R3Q10):** Đánh giá toàn mạch văn bản từ đoạn mở đầu đến kết luận, tác giả đi từ nét đặc trưng, triết lý, lịch sử hình thành cho đến những thách thức của nhịp sống hiện đại đối với các món ăn Hà Nội. Do đó, mục đích chính là khám phá cách thức ẩm thực Hà Nội phản ánh bản sắc và đối mặt với các áp lực hiện đại (To explore how Hanoi's food reflects identity and faces modern pressures).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin trực tiếp (R3Q2, R3Q4, R3Q5, R3Q8) và các câu hỏi từ vựng - quy chiếu (R3Q3, R3Q6, R3Q7). Sau đó, dựa trên nền tảng dữ liệu đó để hoàn thành các câu hỏi suy luận, tìm ý chính và mục đích tác giả (R3Q1, R3Q9, R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Agarwood and Aquilaria crassna: Biology, Trade, and the Limits of Conservation",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few natural products are as **coveted** as agarwood, the dark, fragrant resinous heartwood that forms inside certain trees and is burned as incense or distilled into the perfume ingredient known as oud. Its value is so high that it is counted among the world's most expensive woods. One of its commonly harvested sources, Aquilaria crassna, is native to Southeast Asia. This passage examines how the resin forms, why trade in it is so lucrative, and whether conservation can keep pace.",
+     "Agarwood is not a normal part of a healthy tree, but a response to injury, because an ambrosia beetle bores into the trunk or roots and a mould, Phaeoacremonium parasitica, then infects the wound. The tree defends itself by producing resin, and the heartwood darkens and becomes denser, shifting from pale beige to red, brown or even black. In natural forests, only about seven in a hundred trees reportedly become infected. Rarity at the source therefore sets the scarcity that drives the market.",
+     "The genus Aquilaria contains about seventeen species, of which nine are known to produce agarwood, and Aquilaria malaccensis has long been regarded as the primary source. Aquilaria crassna and Aquilaria sinensis are also commonly harvested, and several species occur in Vietnam, Cambodia and Laos. Because only a small share of wild trees contains resin, harvesters may fell many in the hope of finding it, a practice that quickly thins the forest.",
+     "Superior pure agarwood has reportedly sold for as much as US$290,000 per kilogram, while adulterated or plantation material can fetch as little as US$100, a disparity of almost three thousand times. **[1]** That incentive is far from new, since Indian texts reportedly describe agarwood as a fragrant product as early as 1400 BCE. **[2]** Egyptian funeral rites reportedly used it more than three thousand years ago. **[3]** Modern demand centres on perfumery, where oud is a common base note, often paired with rose, and on incense used in religious and domestic settings. [4] The oil is chemically complex, and about 70 kilograms of wood yield no more than 20 millilitres.",
+     "International regulation has tried to slow this exploitation, and CITES listed Aquilaria malaccensis in Appendix II in 1995 before extending the listing to every Aquilaria species in 2004. Aquilaria crassna, **whose** wild populations have shrunk under harvesting pressure, is assessed as critically endangered by the IUCN. Listing in Appendix II does not ban trade, however, but requires exports to be licensed and shown not to damage wild populations, which depends on honest monitoring by exporting countries.",
+     "Plantations offer an apparent solution, since trees can be inoculated with fungus to induce resin, and commercial plantations reportedly exist in India, Bangladesh and Bhutan. Yet inoculation techniques have varied in effectiveness, and some buyers dismiss the plantation product as fake. The profits at stake have long been large, since a pound of Calambac bought in Hội An for 15 taels could reportedly be sold in Nagasaki for 600 taels. Meanwhile, the premium paid for wild resin sustains a **clandestine** trade that may keep drawing harvesters into protected forests.",
+     "Conservation of agarwood therefore faces a structural problem, because the very scarcity that protects the resin's value also pays for its destruction in remote forests. Licensing, plantations and monitoring each help, yet none removes the incentive to harvest wild trees while prices remain so high. A more durable answer may lie in making cultivated resin trusted and affordable enough to compete with the wild product. Until that happens, the trees themselves will continue to pay the price."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Plantation inoculation has completely solved the problem of illegal harvesting everywhere",
+       "B": "Aquilaria crassna is common and safe from extinction because trees regrow quickly",
+       "C": "CITES has banned all international trade in agarwood and ended illegal markets",
+       "D": "Agarwood's high value driven by rare resin undermines conservation despite regulation and plantations"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đoạn 1 giới thiệu giá trị đắt đỏ của trầm hương và các nguồn gốc; các đoạn tiếp theo lần lượt phân tích cơ chế hình thành nhựa do tổn thương, sự khan hiếm trong tự nhiên, khoảng cách giá bán khổng lồ, các nỗ lực quản lý quốc tế (CITES), đồn điền trồng nhân tạo và những thách thức bảo tồn. Do đó, phương án đúng phải khái quát được việc giá trị cao bắt nguồn từ nhựa quý hiếm đang làm suy yếu công tác bảo tồn bất chấp các quy định và đồn điền."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, how is agarwood formed?",
+      "options": {
+       "A": "Heartwood gradually turns black as healthy trees age naturally",
+       "B": "Lightning strikes crack the trunk and release sap into roots",
+       "C": "A tree produces resin after a fungal infection",
+       "D": "Beetles deposit the resin directly inside the roots of trees"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"formed\" hoặc \"injury\" ở đoạn 2 để thấy rõ cơ chế cây sinh nhựa sau khi bị bọ cánh cứng đục khoét và nấm xâm nhập (A tree produces resin after a fungal infection)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"coveted\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "widely feared",
+       "B": "greatly desired",
+       "C": "rarely used",
+       "D": "easily found"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a disparity rewards deception and encourages harvesters to cut trees long before any resin has formed.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc các vị trí đánh dấu [1], [2], [3], [4] ở đoạn 4. Vị trí [1] nằm ngay sau câu nói về chênh lệch giá khổng lồ giữa trầm tự nhiên và trầm nhân tạo/pha tạp (lên đến gần 3.000 lần). Câu cần điền bắt đầu bằng cụm \"Such a disparity rewards deception...\" tạo sự liên kết ngữ nghĩa hoàn hảo nhất với khoảng cách chênh lệch về giá (disparity) đó."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what may harvesters do because only a few wild trees contain resin?",
+      "options": {
+       "A": "They plant new seedlings beside every tree that they cut down",
+       "B": "Most simply abandon the forest after a single unsuccessful season",
+       "C": "They may fell many wild trees hoping to find resin",
+       "D": "Local villagers inoculate every young tree with imported fungus"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị đoạn 3 để thấy vì chỉ một lượng nhỏ cây hoang dã chứa nhựa, thợ săn có thể phải đốn hạ nhiều cây với hy vọng tìm thấy trầm (They may fell many wild trees hoping to find resin)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"whose\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Aquilaria malaccensis",
+       "B": "the IUCN",
+       "C": "wild populations",
+       "D": "Aquilaria crassna"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"whose\" ở đoạn 5 trong mệnh đề \"...Aquilaria crassna, whose wild populations have shrunk...\". Chiếu ngược lại danh từ chỉ đối tượng sở hữu đứng ngay trước đó, xác định \"whose\" thay thế cho loài *Aquilaria crassna*."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"clandestine\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "openly regulated",
+       "B": "done in secret",
+       "C": "widely advertised",
+       "D": "officially taxed"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"clandestine\" ở đoạn 6 nằm trong ngữ cảnh miêu tả hoạt động buôn bán lén lút, bí mật và trái phép (done in secret)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Commercial plantations established across Brazil and Peru",
+       "B": "Some buyers dismissing plantation agarwood as an inferior fake",
+       "C": "Inoculation techniques that have varied widely in their effectiveness",
+       "D": "A large profit on Calambac sold in Nagasaki"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu đoạn 6: việc người mua từ chối trầm đồn điền là hàng giả (ý [2]), kỹ thuật tiêm chủng khác nhau về hiệu quả (ý [3]), và lợi nhuận lớn từ Calambac bán ở Nagasaki (ý [4]) đều được đề cập; trong khi các đồn điền thương mại ở Brazil và Peru hoàn toàn không xuất hiện."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 4, 5, and 7 about agarwood conservation?",
+      "options": {
+       "A": "Plantation agarwood has already replaced wild resin in all major markets worldwide",
+       "B": "CITES listing guarantees that exporting countries will protect every wild tree",
+       "C": "High prices keep encouraging illegal harvesting that regulation alone has not yet stopped",
+       "D": "Perfume makers no longer depend on oud because synthetic alternatives are cheaper"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 7 – nơi phân tích khoảng cách giá cả, các hạn chế của quy định CITES và việc các đồn điền chưa triệt tiêu được động lực khai thác – từ đó suy luận rằng giá trị cao tiếp tục kích thích nạn khai thác bất hợp pháp mà các quy định đơn thuần vẫn chưa ngăn chặn được."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade perfume companies to replace oud with cheaper synthetic ingredients",
+       "B": "To describe how beetles and fungi damage healthy tropical forests",
+       "C": "To report the latest agarwood auction prices in Asia",
+       "D": "To explain why agarwood trade persists despite attempts at protection"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Đánh giá toàn mạch văn bản từ việc mô tả bản chất trầm hương, cơ chế tạo nhựa, sự chênh lệch giá, nỗ lực CITES cho đến bài toán bảo tồn chưa có lời giải triệt để, mục đích chính là giải thích lý do tại sao hoạt động buôn bán trầm hương vẫn duy trì bất chấp các nỗ lực bảo vệ (To explain why agarwood trade persists despite attempts at protection)."
+     }
+    ],
+    "tips_md": "Để làm tốt bài đọc về này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R4Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 giới thiệu giá trị đắt đỏ của trầm hương và các nguồn gốc; các đoạn tiếp theo lần lượt phân tích cơ chế hình thành nhựa do tổn thương, sự khan hiếm trong tự nhiên, khoảng cách giá bán khổng lồ, các nỗ lực quản lý quốc tế (CITES), đồn điền trồng nhân tạo và những thách thức bảo tồn. Do đó, phương án đúng phải khái quát được việc giá trị cao bắt nguồn từ nhựa quý hiếm đang làm suy yếu công tác bảo tồn bất chấp các quy định và đồn điền.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, tìm từ khóa \"formed\" hoặc \"injury\" ở đoạn 2 để thấy rõ cơ chế cây sinh nhựa sau khi bị bọ cánh cứng đục khoét và nấm xâm nhập (A tree produces resin after a fungal infection).\n  - Với **R4Q5**, định vị đoạn 3 để thấy vì chỉ một lượng nhỏ cây hoang dã chứa nhựa, thợ săn có thể phải đốn hạ nhiều cây với hy vọng tìm thấy trầm (They may fell many wild trees hoping to find resin).\n  - Với **R4Q8**, đối chiếu đoạn 6: việc người mua từ chối trầm đồn điền là hàng giả (ý [2]), kỹ thuật tiêm chủng khác nhau về hiệu quả (ý [3]), và lợi nhuận lớn từ Calambac bán ở Nagasaki (ý [4]) đều được đề cập; trong khi các đồn điền thương mại ở Brazil và Peru hoàn toàn không xuất hiện.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):**\n  - With **R4Q3**, từ **\"coveted\"** ở đoạn 1 diễn tả sự thèm khát, khao khát và được săn lùng, mong ước rất lớn (greatly desired).\n  - Với **R4Q7**, từ **\"clandestine\"** ở đoạn 6 nằm trong ngữ cảnh miêu tả hoạt động buôn bán lén lút, bí mật và trái phép (done in secret).\n- **Dạng câu hỏi Điền câu vào đoạn văn (R4Q4):** Đọc các vị trí đánh dấu [1], [2], [3], [4] ở đoạn 4. Vị trí [1] nằm ngay sau câu nói về chênh lệch giá khổng lồ giữa trầm tự nhiên và trầm nhân tạo/pha tạp (lên đến gần 3.000 lần). Câu cần điền bắt đầu bằng cụm \"Such a disparity rewards deception...\" tạo sự liên kết ngữ nghĩa hoàn hảo nhất với khoảng cách chênh lệch về giá (disparity) đó.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ quan hệ **\"whose\"** ở đoạn 5 trong mệnh đề \"...Aquilaria crassna, whose wild populations have shrunk...\". Chiếu ngược lại danh từ chỉ đối tượng sở hữu đứng ngay trước đó, xác định \"whose\" thay thế cho loài *Aquilaria crassna*.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 7 – nơi phân tích khoảng cách giá cả, các hạn chế của quy định CITES và việc các đồn điền chưa triệt tiêu được động lực khai thác – từ đó suy luận rằng giá trị cao tiếp tục kích thích nạn khai thác bất hợp pháp mà các quy định đơn thuần vẫn chưa ngăn chặn được.\n- **Dạng câu hỏi Mục đích tác giả (R4Q10):** Đánh giá toàn mạch văn bản từ việc mô tả bản chất trầm hương, cơ chế tạo nhựa, sự chênh lệch giá, nỗ lực CITES cho đến bài toán bảo tồn chưa có lời giải triệt để, mục đích chính là giải thích lý do tại sao hoạt động buôn bán trầm hương vẫn duy trì bất chấp các nỗ lực bảo vệ (To explain why agarwood trade persists despite attempts at protection).\nLời khuyên: Hãy ưu tiên xử lý nhanh các câu hỏi tra cứu thông tin trực tiếp (R4Q2, R4Q4, R4Q5, R4Q8) và các câu hỏi từ vựng - quy chiếu (R4Q3, R4Q6, R4Q7). Sau đó, dựa trên bức tranh dữ liệu đó để hoàn thành các câu hỏi suy luận, tìm ý chính và mục đích tác giả (R4Q1, R4Q9, R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your childhood friend, Tom.\nHe is going on a business trip to the city where you are currently working and would like to meet you for dinner. I will be in your city next week for a business meeting. It has been a long time since we last met, so I would love to have dinner with you.\n- Suggest a suitable place for the dinner.\n- Explain why you chose that location.\n- Provide details about the time and any arrangements for the meeting.\nWrite an email responding to Tom. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your childhood friend, Tom.",
+      "He is going on a business trip to the city where you are currently working and would like to meet you for dinner."
+     ],
+     "quote": [
+      "I will be in your city next week for a business meeting. It has been a long time since we last met, so I would love to have dinner with you.",
+      "- Suggest a suitable place for the dinner.",
+      "- Explain why you chose that location.",
+      "- Provide details about the time and any arrangements for the meeting."
+     ],
+     "instruction": "Write an email responding to Tom. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng Informal Email vì người nhận là bạn thân từ thời thơ ấu.\n- Giọng văn nên thân thiện, tự nhiên và gần gũi thay vì quá trang trọng.\n- Bạn cần trả lời đầy đủ ba yêu cầu: đề xuất địa điểm gặp mặt, giải thích lý do lựa chọn và cung cấp thông tin sắp xếp cuộc gặp.\n- Cần viết tối thiểu 120 từ nhưng nên viết khoảng 140–170 từ để phát triển ý đầy đủ.\n- Không được bỏ sót bất kỳ gạch đầu dòng nào vì sẽ ảnh hưởng trực tiếp đến điểm Task Fulfillment.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- Greeting: Chào hỏi thân mật. Ví dụ: Dear Tom,\n- Opening: Bày tỏ niềm vui khi nhận được thư. Ví dụ: It was great to hear from you after such a long time.\n- Body đoạn 1: Giới thiệu địa điểm gặp mặt và mô tả ngắn gọn.\n- Body đoạn 2: Giải thích lý do lựa chọn địa điểm và lợi ích của nó.\n- Body đoạn 3: Thống nhất thời gian, địa điểm chính xác và cách liên lạc.\n- Closing: Kết thúc tích cực. Ví dụ: I am really looking forward to seeing you again.\n- Sign-off: Best wishes, hoặc Take care,\n- Mỗi đoạn nên có từ 2–4 câu để bài viết rõ ràng và dễ đọc.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì tương lai khi nói về kế hoạch gặp mặt.\n- Kết hợp thì hiện tại đơn để mô tả địa điểm hoặc đặc điểm của nhà hàng.\n- Dùng các cụm diễn đạt lý do như because, since hoặc as.\n- Tránh lặp lại từ restaurant hoặc place quá nhiều lần.\n- Sử dụng các cụm từ thân mật nhưng chính xác về ngữ pháp.\nTừ vựng quan trọng:\n- Business trip – chuyến công tác\n- Catch up – gặp lại và trò chuyện sau thời gian dài\n- Reservation – đặt chỗ trước\n- Convenient location – địa điểm thuận tiện\n- Local specialty – đặc sản địa phương\n- City center – trung tâm thành phố\n- Memorable evening – buổi tối đáng nhớ\n- Transportation – phương tiện đi lại\nTừ nối (Linking words):\n- First of all – trước hết\n- Besides – bên cạnh đó\n- Moreover – hơn nữa\n- Therefore – vì vậy\n- As a result – kết quả là\n- Finally – cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- I am delighted to hear that... – Tôi rất vui khi biết rằng...\n- I cannot wait to see you again. – Tôi rất mong được gặp lại bạn.\n- It will be wonderful to catch up. – Thật tuyệt khi có cơ hội gặp lại nhau.\n- I am looking forward to our dinner. – Tôi rất mong chờ bữa tối của chúng ta.\n\n**4. Các lỗi thường gặp:**\n- Không giải thích lý do lựa chọn địa điểm.\n- Quên cung cấp thời gian hoặc cách thức gặp mặt.\n- Sử dụng văn phong quá trang trọng như thư thương mại.\n- Viết một đoạn quá dài khiến bài thiếu mạch lạc.\n- Sai thì khi nói về kế hoạch tương lai.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã trả lời đủ ba yêu cầu chưa.\n- Kiểm tra lỗi chia động từ và giới từ thời gian.\n- Đảm bảo bài vượt 120 từ.\n- Kiểm tra mở đầu và kết thúc thư đầy đủ.\n- Đọc lại để loại bỏ các câu quá dài hoặc khó hiểu.\n\n**6. Tư duy làm bài:**\n- Hãy coi đây là cuộc trò chuyện thực tế với một người bạn cũ.\n- Tập trung vào việc truyền đạt thông tin rõ ràng thay vì dùng từ quá khó.\n- Đảm bảo mọi ý trong đề đều được phát triển bằng giải thích hoặc ví dụ.\n- Sự tự nhiên và mạch lạc thường quan trọng hơn việc cố gắng sử dụng cấu trúc phức tạp.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nNowadays, many parents share school-related issues on social media from only one side of a story before obtaining complete information.\nThis trend may negatively affect teachers, schools and the overall educational environment.\nDiscuss the impacts of this phenomenon and suggest possible solutions.\nWrite an essay to an educated reader to discuss the problems caused by parents sharing one-sided school-related information on social media and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Nowadays, many parents share school-related issues on social media from only one side of a story before obtaining complete information.",
+      "This trend may negatively affect teachers, schools and the overall educational environment.",
+      "Discuss the impacts of this phenomenon and suggest possible solutions."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by parents sharing one-sided school-related information on social media and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng Problem–Solution Essay.\n- Đề yêu cầu phân tích các ảnh hưởng tiêu cực của hiện tượng phụ huynh đăng tải thông tin một chiều về nhà trường lên mạng xã hội.\n- Bạn phải đề xuất các giải pháp khả thi để giảm thiểu vấn đề.\n- Cần trình bày cả phần vấn đề và phần giải pháp một cách cân đối.\n- Bài viết tối thiểu 250 từ, nên hướng tới khoảng 280–320 từ.\n- Cần xác định rõ từ khóa: parents, social media, one-sided information, teachers, schools, solutions.\n\n**2. Cách xây dựng bố cục (Organization):**\n- Introduction: Giới thiệu hiện tượng và nêu hướng triển khai bài viết. Ví dụ: The widespread use of social media has made it easier for parents to express concerns about schools.\n- Body 1: Phân tích ảnh hưởng đối với giáo viên như áp lực tâm lý hoặc tổn hại danh tiếng.\n- Body 2: Phân tích ảnh hưởng đối với nhà trường và môi trường giáo dục.\n- Body 3: Đưa ra các giải pháp từ phía phụ huynh, nhà trường và cơ quan quản lý.\n- Conclusion: Tóm tắt vấn đề và khẳng định tầm quan trọng của các giải pháp.\n- Mỗi đoạn thân bài nên theo cấu trúc: Topic sentence -> Explanation -> Example -> Mini-conclusion.\n- Ví dụ câu mở đoạn: One major consequence of this trend is the damage to teachers' reputation.\n- Ví dụ câu kết luận: In conclusion, responsible online behavior is essential for maintaining a healthy educational environment.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì hiện tại đơn để mô tả thực trạng và các giải pháp chung.\n- Phát triển ý bằng giải thích nguyên nhân, hậu quả và ví dụ thực tế.\n- Sử dụng câu phức với because, although, while và if để tăng điểm ngữ pháp.\n- Tránh lặp lại social media bằng các cách diễn đạt khác.\n- Nêu rõ luận điểm ở đầu mỗi đoạn để tăng tính mạch lạc.\nTừ vựng quan trọng:\n- Educational environment – môi trường giáo dục\n- Public criticism – sự chỉ trích công khai\n- Reputation – danh tiếng\n- Misleading information – thông tin gây hiểu lầm\n- Online platform – nền tảng trực tuyến\n- Constructive communication – giao tiếp mang tính xây dựng\n- Media literacy – hiểu biết về truyền thông\n- Mutual understanding – sự thấu hiểu lẫn nhau\nTừ nối (Linking words):\n- Furthermore – hơn nữa\n- In addition – ngoài ra\n- However – tuy nhiên\n- As a result – kết quả là\n- For example – ví dụ\n- Therefore – do đó\n- Consequently – vì thế\n- In conclusion – kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- Social networking sites thay cho social media.\n- Educational institutions thay cho schools.\n- Incomplete or biased information thay cho one-sided information.\n- Teaching staff thay cho teachers.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- One effective solution is to... – Một giải pháp hiệu quả là...\n- Schools should establish clear communication channels. – Nhà trường nên thiết lập kênh liên lạc rõ ràng.\n- It is essential for parents to verify information before posting online. – Phụ huynh cần xác minh thông tin trước khi đăng tải.\n- A cooperative approach can help address this issue. – Cách tiếp cận hợp tác có thể giải quyết vấn đề.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về ảnh hưởng mà quên phần giải pháp.\n- Đưa ra giải pháp quá chung chung, không thực tế.\n- Không có ví dụ minh họa cho các luận điểm.\n- Lặp từ social media hoặc parents quá nhiều.\n- Viết kết luận quá ngắn hoặc chỉ lặp lại nguyên văn mở bài.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã có cả phần impacts và solutions chưa.\n- Đảm bảo mỗi đoạn có ý chính rõ ràng.\n- Kiểm tra lỗi chính tả và chia động từ.\n- Đảm bảo bài vượt 250 từ.\n- Kiểm tra tính liên kết giữa các đoạn bằng từ nối.\n\n**6. Tư duy làm bài:**\n- Tập trung vào việc giải thích nguyên nhân và hậu quả một cách logic.\n- Ưu tiên các giải pháp thực tế có thể áp dụng trong môi trường giáo dục.\n- Không cần sử dụng từ vựng quá học thuật nếu chưa chắc chắn.\n- Sự rõ ràng, đầy đủ yêu cầu đề bài và mạch lạc luôn quan trọng hơn các cấu trúc phức tạp.\n- Hãy chứng minh rằng bạn hiểu vấn đề từ nhiều góc độ khác nhau."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about daily habits\n\n1\nWhat is one habit that you do every day?\n2\nWhy do you think having good habits is important?\n3\nHave any of your daily habits changed in recent years? Why?\n\nNow, let’s talk about restaurants\n\n4\nHow often do you eat at restaurants?\n5\nWhat kind of restaurant do you usually prefer and why?\n6\nDo you think eating at restaurants is better than eating at home? Why or why not?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này gồm 2 chủ đề nhỏ là Habit và Restaurant với tổng cộng 6 câu hỏi trong khoảng 3 phút.\n- **Topic A (Habit):** Tập trung vào thói quen hằng ngày, sự thay đổi hành vi và tầm quan trọng của việc duy trì thói quen tốt.\n- **Topic B (Restaurant):** Tập trung vào trải nghiệm ăn uống, sở thích cá nhân và việc so sánh ăn ngoài với ăn ở nhà.\n- Giám khảo đánh giá độ trôi chảy, vốn từ vựng, ngữ pháp và phát âm.\n- Nên dành khoảng 25–35 giây cho mỗi câu hỏi và phát triển ý bằng lý do hoặc ví dụ.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng công thức ARE: Answer -> Reason -> Example.\n- **Ví dụ Topic A:** I usually exercise every morning because it helps me stay healthy and energetic throughout the day.\n- **Ví dụ Topic B:** I prefer local restaurants because they offer delicious food at reasonable prices.\n- Luôn tự hỏi Why hoặc How để kéo dài câu trả lời.\n- Có thể chuyển ý tự nhiên bằng câu: Speaking of that, I also want to mention...\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và sử dụng filler tự nhiên khi cần suy nghĩ.\n- Dùng hiện tại đơn cho thói quen và hiện tại hoàn thành khi nói về sự thay đổi theo thời gian.\n- Nếu quên từ vựng, hãy diễn đạt bằng từ đơn giản hơn.\n- Vocabulary Habit: daily routine, healthy lifestyle, productive habit, self-discipline.\n- Vocabulary Restaurant: dine out, menu variety, affordable price, customer service.\nCụm từ quan trọng nên dùng:\n- develop good habits – hình thành thói quen tốt\n- stick to a routine – duy trì nề nếp\n- manage my time effectively – quản lý thời gian hiệu quả\n- eat out with friends – ăn ngoài cùng bạn bè\n- wide range of dishes – nhiều món ăn đa dạng\n- pleasant dining experience – trải nghiệm ăn uống dễ chịu\nTừ nối khi nói (Linking Words):\n- Firstly – đầu tiên\n- Besides that – bên cạnh đó\n- For example – ví dụ\n- As a result – kết quả là\n- In my opinion – theo ý kiến của tôi\nCách thể hiện quan điểm tự nhiên:\n- I personally think that... – Tôi nghĩ rằng...\n- From my perspective... – Theo góc nhìn của tôi...\n- If you ask me... – Nếu bạn hỏi tôi...\n- I really enjoy... because... – Tôi rất thích... vì...\n- One reason is that... – Một lý do là...\n- I would say that... – Tôi sẽ nói rằng...\n\n**4. Các lỗi thường gặp:**\n- Trả lời Yes hoặc No rồi dừng lại.\n- Chỉ kể tên thói quen mà không giải thích lợi ích.\n- Chỉ nói thích nhà hàng nào mà không nêu lý do.\n- Dùng sai thì khi nói về thay đổi trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu mở đầu: That is an interesting question, let me think for a second.\n- Mô tả chức năng hoặc đặc điểm của từ bị quên.\n- Nếu bí ý về Habit, hãy liên hệ đến học tập hoặc sức khỏe.\n- Nếu bí ý về Restaurant, hãy nói về đồ ăn, giá cả hoặc dịch vụ.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi đây là một cuộc trò chuyện tự nhiên.\n- Chuyển đổi linh hoạt giữa hai chủ đề.\n- Độ trôi chảy và sự tự nhiên quan trọng hơn từ vựng quá khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend wants to buy a birthday gift for his mother. She enjoys going sightseeing and traveling to interesting places.\n\nYou are considering the following options:\n\nOption 1: A book about famous tourist destinations\nOption 2: A beautiful dress\nOption 3: A holiday trip\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu lựa chọn món quà phù hợp nhất cho mẹ của bạn.\n- Ba phương án đều hợp lý nhưng có mức độ phù hợp khác nhau.\n- Giám khảo đánh giá khả năng so sánh, lập luận và bảo vệ quan điểm.\n- Thời gian khoảng 4 phút, nên phân tích cả 3 lựa chọn trước khi kết luận.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction – Comparison – End.\n- Option 1: Hữu ích, chi phí thấp nhưng ít tạo trải nghiệm thực tế.\n- Option 2: Thiết thực nhưng không liên quan trực tiếp đến sở thích du lịch.\n- Option 3: Phù hợp nhất vì đáp ứng sở thích tham quan của người mẹ.\n- Liên hệ đến hoàn cảnh thực tế của gia đình để tăng tính thuyết phục.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Luôn so sánh các phương án thay vì phân tích riêng lẻ.\n- Dùng hiện tại đơn để mô tả sở thích và điều kiện giả định khi đánh giá lựa chọn.\n- Có thể paraphrase gift bằng present hoặc special surprise.\nCụm từ quan trọng nên dùng:\n- match her interests – phù hợp sở thích\n- create memorable experiences – tạo trải nghiệm đáng nhớ\n- practical gift – món quà thiết thực\n- thoughtful present – món quà ý nghĩa\n- travel enthusiast – người yêu thích du lịch\n- worth the money – đáng giá số tiền bỏ ra\nTừ nối khi nói (Linking Words):\n- On the one hand – một mặt\n- However – tuy nhiên\n- Compared to – so với\n- Moreover – hơn nữa\n- Therefore – vì vậy\nCách thể hiện quan điểm tự nhiên:\n- I would definitely choose the holiday because it directly relates to her hobby.\n- Compared with the other options, this one seems more meaningful.\n- In my opinion, experiences are often more valuable than physical gifts.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về phương án được chọn mà không đánh giá hai phương án còn lại.\n- Lặp lại từ good hoặc nice quá nhiều.\n- Không đưa ra quyết định rõ ràng ở phần kết luận.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng, hãy nói về chi phí, lợi ích hoặc trải nghiệm.\n- Dùng câu: Let's evaluate this option from a different perspective.\n- Nếu bí ý ở một phương án, chuyển sang phương án tiếp theo rồi quay lại.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người đưa ra quyết định thực tế.\n- Giải thích vì sao lựa chọn của bạn mang lại giá trị lâu dài nhất.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe Importance of Soft Skills in Modern Life\n\nSoft Skills\nCommon soft skills such as time management and problem-solving\nWhere people can learn soft skills\nBenefits of soft skills in study and work\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhere can people learn and develop soft skills?\n2\nDo young people have better soft skills than previous generations?\n3\nWhich soft skill is the most important for success nowadays?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề tập trung vào vai trò của kỹ năng mềm trong học tập, công việc và cuộc sống.\n- Ba nhánh chính gồm các loại kỹ năng mềm, nơi học kỹ năng mềm và lợi ích của chúng.\n- Ý tưởng thứ tư có thể là vai trò của công nghệ trong việc phát triển kỹ năng mềm.\n- Giám khảo đánh giá khả năng phát triển ý và trả lời câu hỏi mở rộng.\n- Thời gian khoảng 5 phút, gồm phần trình bày và câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc IDEA: Introduction – Detail – Example – Add.\n- **Ví dụ 1:** Today, I would like to talk about the importance of soft skills in modern life.\n- **Ví dụ 2:** In addition, technology can help people improve their communication and teamwork skills.\n- Giải thích từng kỹ năng bằng ví dụ thực tế.\n- Bám sát sơ đồ tư duy để tránh lạc đề.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng các câu chuyển ý mượt mà giữa các nhánh.\n- Sử dụng hiện tại đơn cho sự thật chung và hiện tại hoàn thành cho trải nghiệm tích lũy.\n- Có thể thay soft skills bằng interpersonal skills hoặc transferable skills.\nCụm từ quan trọng nên dùng:\n- time management – quản lý thời gian\n- problem-solving ability – khả năng giải quyết vấn đề\n- effective communication – giao tiếp hiệu quả\n- teamwork skills – kỹ năng làm việc nhóm\n- career success – thành công nghề nghiệp\n- adapt to changes – thích nghi với thay đổi\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Another important point is – một điểm quan trọng khác là\n- For instance – chẳng hạn\n- Furthermore – hơn nữa\n- In conclusion – kết luận\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that soft skills are essential for success.\n- From my perspective, communication skills are among the most important skills.\n- In my experience, people with good soft skills often work more effectively.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- People can learn soft skills at school, at work and through extracurricular activities.\n- Young people may be better at communication technology, but older generations often have stronger interpersonal skills.\n- I think communication is the most important because it supports many other skills.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê kỹ năng mà không giải thích lợi ích.\n- Quên phát triển ý tưởng cá nhân thứ tư.\n- Dành quá nhiều thời gian cho bài nói chính.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Liên hệ đến trải nghiệm học tập hoặc công việc hằng ngày.\n- Dùng câu: That is a complex issue. If we evaluate it from a broader perspective...\n- Mô tả khái niệm bằng ngôn ngữ đơn giản hơn nếu quên từ chuyên môn.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn vấn đề từ góc độ cá nhân và xã hội.\n- Sự logic và liên kết ý quan trọng hơn việc dùng từ quá khó.\n- Luôn đưa ra ví dụ thực tế để tăng tính thuyết phục."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about daily habits.\n1.\nWhat is one habit that you do every day?\n2.\nWhy do you think having good habits is important?\n3.\nHave any of your daily habits changed in recent years? Why?\nNow, let’s talk about restaurants.\n4.\nHow often do you eat at restaurants?\n5.\nWhat kind of restaurant do you usually prefer and why?\n6.\nDo you think eating at restaurants is better than eating at home? Why or why not?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này gồm 2 chủ đề nhỏ là Habit và Restaurant với tổng cộng 6 câu hỏi trong khoảng 3 phút.\n• Topic A (Habit): Tập trung vào thói quen hằng ngày, sự thay đổi hành vi và tầm quan trọng của việc duy trì thói quen\ntốt.\n• Topic B (Restaurant): Tập trung vào trải nghiệm ăn uống, sở thích cá nhân và việc so sánh ăn ngoài với ăn ở nhà.\n• Giám khảo đánh giá độ trôi chảy, vốn từ vựng, ngữ pháp và phát âm.\n• Nên dành khoảng 25–35 giây cho mỗi câu hỏi và phát triển ý bằng lý do hoặc ví dụ.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng công thức ARE: Answer -> Reason -> Example.\n• Ví dụ Topic A: I usually exercise every morning because it helps me stay healthy and energetic throughout the day.\n• Ví dụ Topic B: I prefer local restaurants because they offer delicious food at reasonable prices.\n• Luôn tự hỏi Why hoặc How để kéo dài câu trả lời.\n• Có thể chuyển ý tự nhiên bằng câu: Speaking of that, I also want to mention...\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và sử dụng filler tự nhiên khi cần suy nghĩ.\n• Dùng hiện tại đơn cho thói quen và hiện tại hoàn thành khi nói về sự thay đổi theo thời gian.\n• Nếu quên từ vựng, hãy diễn đạt bằng từ đơn giản hơn.\n• Vocabulary Habit: daily routine, healthy lifestyle, productive habit, self-discipline.\n• Vocabulary Restaurant: dine out, menu variety, affordable price, customer service.\nCụm từ quan trọng nên dùng:\n• develop good habits – hình thành thói quen tốt\n• stick to a routine – duy trì nề nếp\n• manage my time effectively – quản lý thời gian hiệu quả\n• eat out with friends – ăn ngoài cùng bạn bè\n• wide range of dishes – nhiều món ăn đa dạng\n• pleasant dining experience – trải nghiệm ăn uống dễ chịu\nTừ nối khi nói (Linking Words):\n• Firstly – đầu tiên\n• Besides that – bên cạnh đó\n• For example – ví dụ\n• As a result – kết quả là\n• In my opinion – theo ý kiến của tôi\nCách thể hiện quan điểm tự nhiên:\n• I personally think that... – Tôi nghĩ rằng...\n• From my perspective... – Theo góc nhìn của tôi...\n• If you ask me... – Nếu bạn hỏi tôi...\n• I really enjoy... because... – Tôi rất thích... vì...\n• One reason is that... – Một lý do là...\n• I would say that... – Tôi sẽ nói rằng...\n4. Các lỗi thường gặp:\n• Trả lời Yes hoặc No rồi dừng lại.\n• Chỉ kể tên thói quen mà không giải thích lợi ích.\n• Chỉ nói thích nhà hàng nào mà không nêu lý do.\n• Dùng sai thì khi nói về thay đổi trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu mở đầu: That is an interesting question, let me think for a second.\n• Mô tả chức năng hoặc đặc điểm của từ bị quên.\n• Nếu bí ý về Habit, hãy liên hệ đến học tập hoặc sức khỏe.\n• Nếu bí ý về Restaurant, hãy nói về đồ ăn, giá cả hoặc dịch vụ.\n6. Tư duy làm bài nói:\n• Hãy coi đây là một cuộc trò chuyện tự nhiên.\n• Chuyển đổi linh hoạt giữa hai chủ đề.\n• Độ trôi chảy và sự tự nhiên quan trọng hơn từ vựng quá khó.\nSolution Discussion\nPART 2\n4 phút\nYour friend wants to buy a birthday gift for his mother. She enjoys going sightseeing and traveling to interesting places.\nYou are considering the following options:\n• Option 1: A book about famous tourist destinations\n• Option 2: A beautiful dress\n• Option 3: A holiday trip\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu lựa chọn món quà phù hợp nhất cho mẹ của bạn.\n• Ba phương án đều hợp lý nhưng có mức độ phù hợp khác nhau.\n• Giám khảo đánh giá khả năng so sánh, lập luận và bảo vệ quan điểm.\n• Thời gian khoảng 4 phút, nên phân tích cả 3 lựa chọn trước khi kết luận.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction – Comparison – End.\n• Option 1: Hữu ích, chi phí thấp nhưng ít tạo trải nghiệm thực tế.\n• Option 2: Thiết thực nhưng không liên quan trực tiếp đến sở thích du lịch.\n• Option 3: Phù hợp nhất vì đáp ứng sở thích tham quan của người mẹ.\n• Liên hệ đến hoàn cảnh thực tế của gia đình để tăng tính thuyết phục.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Luôn so sánh các phương án thay vì phân tích riêng lẻ.\n• Dùng hiện tại đơn để mô tả sở thích và điều kiện giả định khi đánh giá lựa chọn.\n• Có thể paraphrase gift bằng present hoặc special surprise.\nCụm từ quan trọng nên dùng:\n• match her interests – phù hợp sở thích\n• create memorable experiences – tạo trải nghiệm đáng nhớ\n• practical gift – món quà thiết thực\n• thoughtful present – món quà ý nghĩa\n• travel enthusiast – người yêu thích du lịch\n• worth the money – đáng giá số tiền bỏ ra\nTừ nối khi nói (Linking Words):\n• On the one hand – một mặt\n• However – tuy nhiên\n• Compared to – so với\n• Moreover – hơn nữa\n• Therefore – vì vậy\nCách thể hiện quan điểm tự nhiên:\n• I would definitely choose the holiday because it directly relates to her hobby.\n• Compared with the other options, this one seems more meaningful.\n• In my opinion, experiences are often more valuable than physical gifts.\n4. Các lỗi thường gặp:\n• Chỉ nói về phương án được chọn mà không đánh giá hai phương án còn lại.\n• Lặp lại từ good hoặc nice quá nhiều.\n• Không đưa ra quyết định rõ ràng ở phần kết luận.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng, hãy nói về chi phí, lợi ích hoặc trải nghiệm.\n• Dùng câu: Let's evaluate this option from a different perspective.\n• Nếu bí ý ở một phương án, chuyển sang phương án tiếp theo rồi quay lại.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người đưa ra quyết định thực tế.\n• Giải thích vì sao lựa chọn của bạn mang lại giá trị lâu dài nhất.\nTopic Development\nPART 3\n5 phút\nTopic: The Importance of Soft Skills in Modern Life\nCommon soft skills such as time\nWhere people can learn soft skills\nmanagement and problem-solving\nSoft Skills\nÝ tưởng của bạn\nBenefits of soft skills in study and work\nFOLLOW-UP QUESTIONS\n1.\nWhere can people learn and develop soft skills?\n2.\nDo young people have better soft skills than previous generations?\n3.\nWhich soft skill is the most important for success nowadays?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề tập trung vào vai trò của kỹ năng mềm trong học tập, công việc và cuộc sống.\n• Ba nhánh chính gồm các loại kỹ năng mềm, nơi học kỹ năng mềm và lợi ích của chúng.\n• Ý tưởng thứ tư có thể là vai trò của công nghệ trong việc phát triển kỹ năng mềm.\n• Giám khảo đánh giá khả năng phát triển ý và trả lời câu hỏi mở rộng.\n• Thời gian khoảng 5 phút, gồm phần trình bày và câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA: Introduction – Detail – Example – Add.\n• Ví dụ 1: Today, I would like to talk about the importance of soft skills in modern life.\n• Ví dụ 2: In addition, technology can help people improve their communication and teamwork skills.\n• Giải thích từng kỹ năng bằng ví dụ thực tế.\n• Bám sát sơ đồ tư duy để tránh lạc đề.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng các câu chuyển ý mượt mà giữa các nhánh.\n• Sử dụng hiện tại đơn cho sự thật chung và hiện tại hoàn thành cho trải nghiệm tích lũy.\n• Có thể thay soft skills bằng interpersonal skills hoặc transferable skills.\nCụm từ quan trọng nên dùng:\n• time management – quản lý thời gian\n• problem-solving ability – khả năng giải quyết vấn đề\n• effective communication – giao tiếp hiệu quả\n• teamwork skills – kỹ năng làm việc nhóm\n• career success – thành công nghề nghiệp\n• adapt to changes – thích nghi với thay đổi\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Another important point is – một điểm quan trọng khác là\n• For instance – chẳng hạn\n• Furthermore – hơn nữa\n• In conclusion – kết luận\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that soft skills are essential for success.\n• From my perspective, communication skills are among the most important skills.\n• In my experience, people with good soft skills often work more effectively.\n4. Gợi ý trả lời câu hỏi follow-up:\n• People can learn soft skills at school, at work and through extracurricular activities.\n• Young people may be better at communication technology, but older generations often have stronger interpersonal\nskills.\n• I think communication is the most important because it supports many other skills.\n5. Các lỗi thường gặp:\n• Liệt kê kỹ năng mà không giải thích lợi ích.\n• Quên phát triển ý tưởng cá nhân thứ tư.\n• Dành quá nhiều thời gian cho bài nói chính.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Liên hệ đến trải nghiệm học tập hoặc công việc hằng ngày.\n• Dùng câu: That is a complex issue. If we evaluate it from a broader perspective...\n• Mô tả khái niệm bằng ngôn ngữ đơn giản hơn nếu quên từ chuyên môn.\n7. Tư duy làm bài nói:\n• Hãy nhìn vấn đề từ góc độ cá nhân và xã hội.\n• Sự logic và liên kết ý quan trọng hơn việc dùng từ quá khó.\n• Luôn đưa ra ví dụ thực tế để tăng tính thuyết phục."
+}

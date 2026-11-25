@@ -1,0 +1,718 @@
+{
+ "id": "vlu-86",
+ "number": 86,
+ "title": "Đề thi VLU 86",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-86",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Harborside Cultural Festival",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Every summer, the small coastal town of Millbrook fills with music, color, and the smell of grilled seafood as it hosts the Harborside Cultural Festival. The three-day event takes place along the town's waterfront, where wooden stages are built directly on the docks so that performers can play with the harbor as their **backdrop**. Thousands of visitors travel from nearby cities each year, turning a normally quiet fishing town into one of the busiest places in the region. Local hotels are usually fully booked months in advance, and many residents rent spare rooms to visiting families for the weekend.",
+     "The festival began in a much smaller form nearly thirty years ago. A group of local fishermen wanted to celebrate a particularly good fishing season, so they organized a single afternoon of shared food and music on the dock. Neighbors brought homemade dishes, a local band played for a few hours, and by evening almost the whole town had shown up. The following year, word had spread to nearby towns, and organizers decided to make **it** an annual tradition rather than a one-time celebration. Nobody involved in that first small gathering imagined it would one day draw thousands of visitors.",
+     "Today, the festival features dozens of food stalls representing the many cultures that have settled in Millbrook over the decades, from Portuguese seafood stew to Vietnamese noodle soup. A brightly decorated boat parade sails through the harbor each evening, and local dance groups perform on the main stage until well past midnight. Children can join craft workshops during the day, learning to build small model boats out of recycled wood under the guidance of retired fishermen who still remember the festival's earliest years.",
+     "None of this would be possible without the volunteers who spend months preparing every summer. A committee of about forty residents meets regularly starting in early spring, arranging permits, booking performers, and **coordinating** with local businesses that donate food and supplies. Most volunteers receive no payment at all, though the town does cover their meals during the festival weekend. Local shop owners say the festival brings in more income during those three days than during an entire ordinary month, which is why many of them happily donate supplies each year.",
+     "As the festival has grown, organizers have started discussing how to keep it manageable without losing its original, community-centered spirit. Some worry that adding more stages or extending the event to a full week might make it feel less personal and more like a commercial attraction. For now, the committee has decided to keep the festival at three days, focusing instead on improving small details, like better seating near the water and clearer signs for visitors who are attending for the first time."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, where are the festival's stages built?",
+      "options": {
+       "A": "inside the town's old fishing warehouse",
+       "B": "directly on the docks along the waterfront",
+       "C": "on a hill overlooking the harbor",
+       "D": "in the main square of the town"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"wooden stages\" ở đoạn 1: sân khấu được dựng trực tiếp trên các bến tàu dọc theo bờ waterfront (directly on the docks along the waterfront)."
+     },
+     {
+      "number": 2,
+      "stem": "The word \"backdrop\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "main focus",
+       "B": "audience",
+       "C": "backup",
+       "D": "background setting"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"backdrop\" ở đoạn 1 (\"play with the harbor as their backdrop\") mô tả khung cảnh cảng biển làm phông nền phía sau sân khấu, tương đương nghĩa với khung cảnh nền (background setting)."
+     },
+     {
+      "number": 3,
+      "stem": "According to the passage, which of the following is NOT mentioned as something visitors or residents do during the festival?",
+      "options": {
+       "A": "competing in a town-wide fishing contest",
+       "B": "renting spare rooms to visiting families",
+       "C": "joining craft workshops to build model boats",
+       "D": "donating food and supplies through local businesses"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các hoạt động của cư dân/du khách được nêu trong bài: cho thuê phòng trống (đoạn 1), tham gia xưởng làm mô hình thuyền (đoạn 3), và quyên góp thực phẩm/vật dụng (đoạn 4). Chi tiết về cuộc thi câu cá toàn thị trấn (competing in a town-wide fishing contest) hoàn toàn không được nhắc đến trong văn bản."
+     },
+     {
+      "number": 4,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "volunteers spend months preparing food stalls each year",
+       "B": "the festival has become a purely commercial event for tourists",
+       "C": "a small local gathering grew into Millbrook's major yearly festival",
+       "D": "every coastal town in the region now hosts a similar festival"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 5,
+      "stem": "The word \"it\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "the fishing season",
+       "B": "the festival",
+       "C": "the local band",
+       "D": "the following year"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Định vị từ in đậm \"it\" ở giữa đoạn 2 (\"organizers decided to make it an annual tradition...\"). Đọc ngược lại câu trước để tìm đối tượng: từ này thay thế cho bản thân buổi lễ hội/sự kiện kỷ niệm (the festival)."
+     },
+     {
+      "number": 6,
+      "stem": "What kind of food is mentioned as an example served at the festival?",
+      "options": {
+       "A": "Italian pasta dishes and French pastries",
+       "B": "homemade bread baked by local fishermen",
+       "C": "grilled meat served at the boat parade",
+       "D": "Portuguese seafood stew and Vietnamese noodle soup"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét các món ăn ở đoạn 3: bài đọc đề cập trực tiếp đến lẩu hải sản Bồ Đào Nha và phở Việt Nam (Portuguese seafood stew to Vietnamese noodle soup)."
+     },
+     {
+      "number": 7,
+      "stem": "The word \"coordinating\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "organizing",
+       "B": "controlling strictly",
+       "C": "advertising",
+       "D": "cooperating"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"coordinating\" ở đoạn 4 (\"coordinating with local businesses\") mô tả công việc sắp xếp, phối hợp hoạt động với các doanh nghiệp, đồng nghĩa với tổ chức/phối hợp (organizing)."
+     },
+     {
+      "number": 8,
+      "stem": "It can be inferred from the passage that organizers are most concerned about _______.",
+      "options": {
+       "A": "running out of volunteers to help each year",
+       "B": "the festival becoming too small to attract visitors",
+       "C": "losing the festival's community feeling as it grows",
+       "D": "local shop owners donating food and supplies"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận ở các đoạn: bài đọc nhấn mạnh quy mô lễ hội mở rộng rất nhiều nhưng vẫn duy trì sự tham gia tích cực của cộng đồng địa phương (làm đồ ăn, làm thuyền gỗ, tình nguyện viên). Do đó, mối quan ngại tiềm ẩn của ban tổ chức là việc giữ được tinh thần/cảm giác gắn kết cộng đồng khi lễ hội tiếp tục phát triển lớn mạnh hơn (losing the festival's community feeling as it grows)."
+     },
+     {
+      "number": 9,
+      "stem": "According to the passage, what do local shop owners say about the festival?",
+      "options": {
+       "A": "it costs them more money than it earns",
+       "B": "it brings in more income than a normal month",
+       "C": "it attracts fewer customers than a normal weekend",
+       "D": "it mainly benefits visitors rather than local businesses"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét cụm \"Local shop owners say\" ở đoạn 4: các chủ cửa hàng cho biết lễ hội mang lại nhiều doanh thu trong 3 ngày hơn cả một tháng bình thường (brings in more income during those three days than during an entire ordinary month)."
+     },
+     {
+      "number": 10,
+      "stem": "What is most likely the author's main purpose in writing this passage?",
+      "options": {
+       "A": "to explain how volunteers plan festival logistics each year",
+       "B": "to criticize the festival for becoming too commercial",
+       "C": "to advertise hotel rooms available during the festival weekend",
+       "D": "to describe how a local festival grew and what it involves Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính & Mục đích bài viết (R1Q4, R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc các câu chủ đề để nắm mạch nội dung: đoạn 1 giới thiệu lễ hội Harborside Cultural Festival tại Millbrook; đoạn 2 kể về nguồn gốc từ một buổi tụ họp nhỏ 30 năm trước; đoạn 3 liệt kê các hoạt động hiện tại; đoạn 4 nhấn mạnh đóng góp của tình nguyện viên và lợi ích kinh tế. Phương án đúng phải khái quát trọn vẹn sự phát triển từ một sự kiện nhỏ thành lễ hội lớn hàng năm của Millbrook (grew into Millbrook's major yearly festival) nhằm miêu tả quá trình phát triển và các hoạt động của nó, tránh chọn các đáp án quá hẹp hay tiêu cực.\n- **Dạng câu hỏi Chi tiết trực tiếp (R1Q1, R1Q6, R1Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q1**, quét cụm từ \"wooden stages\" ở đoạn 1: sân khấu được dựng trực tiếp trên các bến tàu dọc theo bờ waterfront (directly on the docks along the waterfront).\n  - Với **R1Q6**, quét các món ăn ở đoạn 3: bài đọc đề cập trực tiếp đến lẩu hải sản Bồ Đào Nha và phở Việt Nam (Portuguese seafood stew to Vietnamese noodle soup).\n  - Với **R1Q9**, quét cụm \"Local shop owners say\" ở đoạn 4: các chủ cửa hàng cho biết lễ hội mang lại nhiều doanh thu trong 3 ngày hơn cả một tháng bình thường (brings in more income during those three days than during an entire ordinary month).\n- **Dạng câu hỏi Loại trừ NOT (R1Q3):** Đối soát kỹ các hoạt động của cư dân/du khách được nêu trong bài: cho thuê phòng trống (đoạn 1), tham gia xưởng làm mô hình thuyền (đoạn 3), và quyên góp thực phẩm/vật dụng (đoạn 4). Chi tiết về cuộc thi câu cá toàn thị trấn (competing in a town-wide fishing contest) hoàn toàn không được nhắc đến trong văn bản.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q2, R1Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q2**, từ **\"backdrop\"** ở đoạn 1 (\"play with the harbor as their backdrop\") mô tả khung cảnh cảng biển làm phông nền phía sau sân khấu, tương đương nghĩa với khung cảnh nền (background setting).\n  - Với **R1Q7**, từ **\"coordinating\"** ở đoạn 4 (\"coordinating with local businesses\") mô tả công việc sắp xếp, phối hợp hoạt động với các doanh nghiệp, đồng nghĩa với tổ chức/phối hợp (organizing).\n- **Dạng câu hỏi Quy chiếu (R1Q5):** Định vị từ in đậm **\"it\"** ở giữa đoạn 2 (\"organizers decided to make it an annual tradition...\"). Đọc ngược lại câu trước để tìm đối tượng: từ này thay thế cho bản thân buổi lễ hội/sự kiện kỷ niệm (the festival).\n- **Dạng câu hỏi Suy luận (R1Q8):** Phân tích lập luận ở các đoạn: bài đọc nhấn mạnh quy mô lễ hội mở rộng rất nhiều nhưng vẫn duy trì sự tham gia tích cực của cộng đồng địa phương (làm đồ ăn, làm thuyền gỗ, tình nguyện viên). Do đó, mối quan ngại tiềm ẩn của ban tổ chức là việc giữ được tinh thần/cảm giác gắn kết cộng đồng khi lễ hội tiếp tục phát triển lớn mạnh hơn (losing the festival's community feeling as it grows).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị thông tin nhanh như Từ vựng (R1Q2, R1Q7) và Quy chiếu (R1Q5). Tiếp theo, ứng dụng kỹ thuật đọc quét từ khóa để xử lý chính xác các câu hỏi **Chi tiết** (R1Q1, R1Q6, R1Q9) và câu **Loại** trừ (R1Q3). Sau cùng, tổng hợp mạch logic toàn bài để chốt đáp án cho câu Suy luận (R1Q8), câu Ý chính (R1Q4) và Mục đích bài viết (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Adaptation Strategies in a Changing Climate",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "That a coastal city might one day need to retreat from its own shoreline is no longer a distant hypothetical for most urban planners; it has become, for a growing number of cities, an item on the planning agenda. Adaptation, in this context, refers not to preventing climate change itself but to adjusting infrastructure, agriculture, and daily life to cope with changes already considered largely unavoidable, at least over the coming decades.",
+     "This distinction between adaptation and mitigation matters more than it might first appear, since the two strategies operate on different timelines and compete for the same limited funding. Mitigation, which aims to reduce the greenhouse gas emissions driving climate change, offers benefits that may take decades to materialize and depend on coordinated action across many countries. Adaptation, by contrast, can produce measurable local benefits within a single budget cycle. This tends to make **it** more politically appealing even when mitigation would deliver greater benefit over the long run.",
+     "Sea walls remain the most visible adaptation measure, though engineers increasingly favor softer alternatives, such as restored wetlands and rebuilt dunes, that absorb wave energy rather than simply blocking it. A concrete wall can fail **catastrophically** once water rises above its design height, whereas a wetland tends to degrade gradually, giving communities extra warning before a worst-case flood arrives. Neither approach is without cost: wetland restoration often requires relocating the very development it is meant to protect, while sea walls can be built without touching existing property at all.",
+     "Agricultural adaptation raises a comparable set of tradeoffs, though the feedback timeline is longer. Farmers shifting toward more",
+     "drought-tolerant crop varieties may not learn whether the switch was justified for several growing seasons, by which point a poor decision has already cost an entire year's income. Some agricultural economists suggest that this **lag**, more than any lack of available information, explains why adoption of drought-resistant varieties has proceeded more slowly than climate projections alone would predict.",
+     "Underlying these strategies is a layer of scientific uncertainty that rarely receives the attention it deserves. Regional climate models can estimate a likely range for future sea-level rise or rainfall change, but they cannot specify precisely which of several plausible futures a given region will experience, and planners are left designing infrastructure for outcomes that remain, by the models' own admission, only probable rather than certain. A sea wall built for the median projection may prove either wastefully oversized or dangerously inadequate, depending on which plausible future unfolds.",
+     "This uncertainty does not make adaptation planning pointless, though some critics have suggested as much; it simply means flexibility deserves to be treated as a design criterion in its own right, alongside cost and immediate effectiveness. A drainage system engineered to be expanded later may cost more upfront than one built to a fixed specification, yet it avoids the far larger expense of a full rebuild should initial projections prove too conservative.",
+     "None of this suggests adaptation can substitute for reducing emissions; most researchers cited throughout this passage are explicit that the two strategies must proceed together. It does suggest, however, that a purely reactive approach to adaptation, waiting for damage before responding, is likely to prove considerably more expensive than one that treats uncertainty itself as something to be planned around from the outset."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, why is adaptation often more politically appealing than mitigation?",
+      "options": {
+       "A": "it requires coordinated action across many countries",
+       "B": "it can produce measurable local benefits within one budget cycle",
+       "C": "it costs significantly less than mitigation projects overall",
+       "D": "it avoids the expense of a full system rebuild"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"politically appealing\" ở đoạn 2: thích ứng thu hút về mặt chính trị vì nó có thể mang lại lợi ích cục bộ đo lường được ngay trong một chu kỳ ngân sách (can produce measurable local benefits within a single budget cycle)."
+     },
+     {
+      "number": 12,
+      "stem": "The word \"catastrophically\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "slightly",
+       "B": "expensively",
+       "C": "categorically",
+       "D": "suddenly and severely"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"catastrophically\" ở đoạn 3 (mô tả việc tường bê tông vỡ đột ngột khi nước vượt quá chiều cao thiết kế) đồng nghĩa với sự đứt gãy/thất bại đột ngột và nghiêm trọng (suddenly and severely)."
+     },
+     {
+      "number": 13,
+      "stem": "According to the passage, which of the following is NOT mentioned as an adaptation measure?",
+      "options": {
+       "A": "installing solar panels to reduce household energy costs",
+       "B": "restoring wetlands to absorb wave energy",
+       "C": "switching to more drought-tolerant crop varieties",
+       "D": "designing drainage systems that can be expanded later"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát các biện pháp thích ứng được nêu trong bài: phục hồi đầm lầy (đoạn 3), chuyển sang giống cây chịu hạn (đoạn 4), và thiết kế hệ thống thoát nước có thể mở rộng sau này. Chi tiết lắp đặt tấm pin năng lượng mặt trời để giảm chi phí năng lượng hộ gia đình (installing solar panels to reduce household energy costs) thuộc về giảm thiểu (mitigation) và không được đề cập như một biện pháp thích ứng trong bài."
+     },
+     {
+      "number": 14,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "sea walls are less effective than restored wetlands",
+       "B": "mitigation is less important than adaptation for solving climate change",
+       "C": "climate adaptation requires managing scientific uncertainty, not eliminating it",
+       "D": "every adaptation strategy eliminates the risks of climate change entirely"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 15,
+      "stem": "The word \"it\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "mitigation",
+       "B": "adaptation",
+       "C": "a budget cycle",
+       "D": "greenhouse gas emissions"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào từ in đậm \"it\" ở đoạn 2 (\"This tends to make it more politically appealing...\"). Đọc ngược lại câu trước để tìm chủ ngữ đang so sánh: từ này thay thế cho chiến lược thích ứng (adaptation)."
+     },
+     {
+      "number": 16,
+      "stem": "According to the passage, what disadvantage does wetland restoration have compared to sea walls?",
+      "options": {
+       "A": "it fails more suddenly than a concrete wall",
+       "B": "it costs more to build than a sea wall",
+       "C": "it cannot be designed for a median projection",
+       "D": "it often requires relocating existing development"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"wetland restoration\" ở đoạn 3: nhược điểm của việc phục hồi đầm lầy so với đê biển là thường đòi hỏi phải di dời các công trình phát triển hiện có (often requires relocating the very development it is meant to protect)."
+     },
+     {
+      "number": 17,
+      "stem": "Based on the passage, what can be inferred about why purely reactive adaptation approaches may be more costly in the long run?",
+      "options": {
+       "A": "they fail to build in flexibility for uncertain future conditions",
+       "B": "they focus too heavily on politically appealing short-term projects",
+       "C": "high upfront flexibility costs cause reactive planning to fail",
+       "D": "mitigation depends heavily on coordinated action across many countries"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận về việc lập kế hoạch ứng phó: các giải pháp mang tính thụ động/phản ứng hoàn toàn mà thiếu đi sự linh hoạt để điều chỉnh theo các điều kiện tương lai chưa chắc chắn sẽ dẫn đến chi phí khắc phục tốn kém hơn rất nhiều về sau (they fail to build in flexibility for uncertain future conditions). Lời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi định vị nhanh như Từ vựng (R2Q2, R2Q8) và Quy chiếu (R2Q5). Kế tiếp, sử dụng kỹ thuật đọc quét từ khóa để chọn nhanh đáp án cho các câu Chi tiết (R2Q1, R2Q6, R2Q9) và câu Loại trừ (R2Q3). Sau cùng, tổng hợp góc nhìn logic toàn bài để chốt chính xác đáp án cho câu Suy luận (R2Q7), câu Ý chính (R2Q4) và Mục đích bài viết (R2Q10)."
+     },
+     {
+      "number": 18,
+      "stem": "The word \"lag\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "brief pause",
+       "B": "shortage",
+       "C": "delay",
+       "D": "flag"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"lag\" ở đoạn 4 (đi kèm \"feedback timeline... this lag\") mô tả khoảng thời gian chờ đợi/độ trễ phản hồi, tương đương nghĩa với sự chậm trễ/độ trễ (delay)."
+     },
+     {
+      "number": 19,
+      "stem": "According to the passage, what do some agricultural economists suggest explains the slow adoption of drought-resistant crop varieties?",
+      "options": {
+       "A": "a lack of available scientific information about the crops",
+       "B": "a long delay before farmers learn whether it worked",
+       "C": "high costs of purchasing new drought-tolerant seeds",
+       "D": "the gradual degradation of wetlands near farmland"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Suy luận",
+      "explanation": "định vị cụm từ \"agricultural economists suggest\" ở đoạn 4: sự chậm trễ trong việc áp dụng giống cây chịu hạn là do khoảng thời gian trễ kéo dài trước khi nông dân biết liệu quyết định đó có hiệu quả hay không (a long delay before farmers learn whether the switch was justified)."
+     },
+     {
+      "number": 20,
+      "stem": "What is most likely the author's main purpose in writing this passage?",
+      "options": {
+       "A": "to describe how sea walls are engineered",
+       "B": "to argue that adaptation planning is a waste of money",
+       "C": "to criticize farmers for adopting drought-resistant crops too slowly",
+       "D": "to explain the tradeoffs and uncertainty involved in climate adaptation Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính & Mục đích bài viết (R2Q4, R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch lập luận: đoạn 1-2 phân biệt giữa adaptation (thích ứng) và mitigation (giảm thiểu); đoạn 3 so sánh đê biển và đầm lầy; đoạn 4 bàn về sự thích ứng trong nông nghiệp; các đoạn tiếp theo nhấn mạnh yếu tố bất định và tính linh hoạt trong quy hoạch. Phương án đúng phải truyền tải trọn vẹn việc thích ứng với biến đổi khí hậu là quá trình quản lý sự bất định mang tính khoa học và chấp nhận các sự đánh đổi (tradeoffs and uncertainty), tránh chọn các đáp án mang tính phiến diện hay phủ nhận tầm quan trọng của giảm thiểu.\n- **Dạng câu hỏi Chi tiết trực tiếp (R2Q1, R2Q6, R2Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q1**, quét cụm từ \"politically appealing\" ở đoạn 2: thích ứng thu hút về mặt chính trị vì nó có thể mang lại lợi ích cục bộ đo lường được ngay trong một chu kỳ ngân sách (can produce measurable local benefits within a single budget cycle).\n  - Với **R2Q6**, quét từ khóa \"wetland restoration\" ở đoạn 3: nhược điểm của việc phục hồi đầm lầy so với đê biển là thường đòi hỏi phải di dời các công trình phát triển hiện có (often requires relocating the very development it is meant to protect).\n  - Với **R2Q9**, định vị cụm từ \"agricultural economists suggest\" ở đoạn 4: sự chậm trễ trong việc áp dụng giống cây chịu hạn là do khoảng thời gian trễ kéo dài trước khi nông dân biết liệu quyết định đó có hiệu quả hay không (a long delay before farmers learn whether the switch was justified).\n- **Dạng câu hỏi Loại trừ NOT (R2Q3):** Đối soát các biện pháp thích ứng được nêu trong bài: phục hồi đầm lầy (đoạn 3), chuyển sang giống cây chịu hạn (đoạn 4), và thiết kế hệ thống thoát nước có thể mở rộng sau này. Chi tiết lắp đặt tấm pin năng lượng mặt trời để giảm chi phí năng lượng hộ gia đình (installing solar panels to reduce household energy costs) thuộc về giảm thiểu (mitigation) và không được đề cập như một biện pháp thích ứng trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q2, R2Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q2**, từ **\"catastrophically\"** ở đoạn 3 (mô tả việc tường bê tông vỡ đột ngột khi nước vượt quá chiều cao thiết kế) đồng nghĩa với sự đứt gãy/thất bại đột ngột và nghiêm trọng (suddenly and severely).\n  - Với **R2Q8**, từ **\"lag\"** ở đoạn 4 (đi kèm \"feedback timeline... this lag\") mô tả khoảng thời gian chờ đợi/độ trễ phản hồi, tương đương nghĩa với sự chậm trễ/độ trễ (delay).\n- **Dạng câu hỏi Quy chiếu (R2Q5):** Tập trung vào từ in đậm **\"it\"** ở đoạn 2 (\"This tends to make it more politically appealing...\"). Đọc ngược lại câu trước để tìm chủ ngữ đang so sánh: từ này thay thế cho chiến lược thích ứng (adaptation).\n- **Dạng câu hỏi Suy luận (R2Q7):** Phân tích lập luận về việc lập kế hoạch ứng phó: các giải pháp mang tính thụ động/phản ứng hoàn toàn mà thiếu đi sự linh hoạt để điều chỉnh theo các điều kiện tương lai chưa chắc chắn sẽ dẫn đến chi phí khắc phục tốn kém hơn rất nhiều về sau (they fail to build in flexibility for uncertain future conditions). Lời khuyên: Hãy ưu tiên hoàn thành trước các câu hỏi định vị nhanh như Từ vựng (R2Q2, R2Q8) và Quy chiếu (R2Q5). Kế tiếp, sử dụng kỹ thuật đọc quét từ khóa để chọn nhanh đáp án cho các câu **Chi tiết** (R2Q1, R2Q6, R2Q9) và câu **Loại** trừ (R2Q3). Sau cùng, tổng hợp góc nhìn logic toàn bài để chốt chính xác đáp án cho câu Suy luận (R2Q7), câu Ý chính (R2Q4) và **Mục đích bài viết** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Rice-Gifting Customs in Regional Japanese Communities",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In many rural regions of Japan, a bag of rice exchanged between neighbors rarely functions as a simple transfer of food; more often, it operates as a small, **carefully calibrated** statement about the relationship between the households involved. Anthropologists studying these exchanges have resisted treating them as a single, uniform custom, noting instead that the meaning attached to a gift of rice shifts considerably depending on the occasion, the region, and the relative status of giver and recipient.",
+     "That rice should carry this symbolic weight is unsurprising, given its long history as a unit of value in its own right. For centuries before a fully monetized economy took hold, rice functioned as a form of tax payment and, in some domains, as a de facto currency used to measure a samurai's stipend. Traces of that older role persist, scholars argue, in the **specificity** with which rice-gifting customs still distinguish between occasions, even after the practical need for such precision has largely disappeared.",
+     "Births and New Year celebrations remain, according to regional ethnographies, among the occasions most reliably marked by a rice gift, though the form the gift takes differs sharply between them. A New Year gift typically arrives as kagami mochi, rice pounded into a stacked, disc-shaped cake displayed in the home before being eaten, whereas a birth gift more often takes the form of uncooked rice, sometimes dyed red with sekihan, a color associated with celebration and the warding off of misfortune.",
+     "Underlying both customs is a reciprocity norm known as o-kaeshi, under which a gift is expected to be answered, usually within a set window, with a return gift roughly half the value of the original. This expectation, deceptively simple on paper, requires the recipient to estimate not only the market value of rice but also the social weight the giver intended to convey, a calculation longtime residents describe as closer to intuition than arithmetic.",
+     "Precisely how strictly this norm still governs behavior is a matter regional ethnographies do not fully agree on. Some researchers, working mainly in more isolated farming communities, report that o-kaeshi obligations remain closely tracked and socially enforced, with lapses noted and occasionally commented upon for years afterward. Others, studying similar exchanges in towns closer to urban centers, describe a norm that persists mainly in symbolic form, observed loosely enough that a recipient's failure to reciprocate promptly draws little more than passing notice.",
+     "This apparent disagreement may say less about the custom itself than about where each set of researchers happened to conduct fieldwork, since urbanization has not proceeded at a uniform pace across Japan's rural regions. A town within commuting distance of a major city is likely to have absorbed commercial gift-giving norms far more thoroughly than a village several hours further inland, even if both would be classified, on a national map, as equally rural.",
+     "None of this suggests that rice-gifting customs are simply fading into commercial irrelevance, even where strict reciprocity tracking has weakened considerably. What appears instead, several researchers suggest, is a shift in function: the custom persists less because the return gift is expected in a strict economic sense and more because performing the exchange itself, correctly and at the correct moment, continues to signal a social competence that a store-bought gift, however expensive, cannot as reliably convey."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, what economic role did rice historically play before Japan's economy became fully monetized?",
+      "options": {
+       "A": "it was used to calculate o-kaeshi return gifts",
+       "B": "it functioned as tax payment and a form of currency",
+       "C": "it served mainly as a ceremonial offering to shrines",
+       "D": "it was traded internationally as a luxury commodity"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"economically... before Japan's economy became fully monetized\" ở đoạn 2: gạo từng đóng vai trò làm hình thức nộp thuế và một dạng tiền tệ (functioned as tax payment and a form of currency)."
+     },
+     {
+      "number": 22,
+      "stem": "The words \"carefully calibrated\" in paragraph 1 are closest in meaning to _______.",
+      "options": {
+       "A": "roughly guessed",
+       "B": "measured",
+       "C": "celebrated",
+       "D": "precisely adjusted"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"carefully calibrated\" ở đoạn 1 (đi kèm \"small, carefully calibrated statement about the relationship\") mô tả sự điều chỉnh chính xác, cẩn trọng cho phù hợp với mối quan hệ, đồng nghĩa với được điều chỉnh chính xác (precisely adjusted)."
+     },
+     {
+      "number": 23,
+      "stem": "According to the passage, which of the following is NOT mentioned as a form a rice-related gift can take?",
+      "options": {
+       "A": "a woven basket filled with fresh fruit",
+       "B": "a stacked, disc-shaped rice cake called kagami mochi",
+       "C": "uncooked rice dyed red with sekihan",
+       "D": "a return gift worth about half the original"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Rà soát kỹ các hình thức quà tặng liên quan đến gạo được đề cập: bánh gạo nếp kagami mochi (đoạn 3), gạo sống nhuộm đỏ sekihan (đoạn 3), và quà đáp lễ có giá trị khoảng một nửa món quà gốc (đoạn 4). Chi tiết về giỏ mây đựng trái cây tươi (a woven basket filled with fresh fruit) hoàn toàn không được nhắc tới."
+     },
+     {
+      "number": 24,
+      "stem": "Based on the passage, what can be inferred about why rice-gifting customs still distinguish so precisely between different occasions today?",
+      "options": {
+       "A": "modern rice prices vary enough to justify the distinctions",
+       "B": "occasion-specific gifting created rice's historical role as currency",
+       "C": "the precision reflects a historical role now outlasting its economic need",
+       "D": "rice was used to measure a samurai's stipend"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận ở đoạn 2: \"Traces of that older role persist... in the specificity with which rice-gifting customs still distinguish between occasions, even after the practical need for such precision has largely disappeared.\" Từ đó suy luận được rằng sự phân biệt chính xác ngày nay phản ánh một vai trò lịch sử kéo dài vượt qua cả nhu cầu kinh tế ban đầu của nó (the precision reflects a historical role now outlasting its economic need)."
+     },
+     {
+      "number": 25,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "kagami mochi is traditionally eaten after being displayed at New Year",
+       "B": "rice gifts carry precise social meaning deeply rooted in history",
+       "C": "strict reciprocity tracking has disappeared across all of Japan",
+       "D": "every gift-giving custom worldwide derives from ancient currency"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 26,
+      "stem": "The word \"This\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "urbanization in Japan",
+       "B": "isolated farming communities",
+       "C": "commuting distance",
+       "D": "the researchers' disagreement"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào từ in đậm \"This\" ở đầu đoạn 6. Đọc ngược lại đoạn 5 ngay trước đó để tìm đối tượng: từ này quy chiếu cho sự bất đồng/chưa thống nhất giữa các nghiên cứu về mức độ thực thi quy tắc o-kaeshi (the researchers' disagreement)."
+     },
+     {
+      "number": 27,
+      "stem": "According to the passage, what must a recipient estimate when deciding on an appropriate o-kaeshi return gift?",
+      "options": {
+       "A": "the market value and the social weight intended",
+       "B": "the commuting distance between rural and urban households",
+       "C": "the exact price paid for the original rice",
+       "D": "the recipient's own household income level"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"recipient must estimate\" ở đoạn 4: người nhận phải ước tính cả giá trị thị trường và trọng lượng xã hội/tình cảm mà người tặng muốn gửi gắm (the market value and the social weight intended)."
+     },
+     {
+      "number": 28,
+      "stem": "The word \"specificity\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "vague generality",
+       "B": "cost",
+       "C": "level of detail",
+       "D": "specialty"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"specificity\" ở đoạn 2 mô tả mức độ cụ thể, chi tiết trong cách phân biệt từng dịp tặng quà, tương đương nghĩa với mức độ chi tiết (level of detail)."
+     },
+     {
+      "number": 29,
+      "stem": "According to the passage, what did some researchers suggest might explain the differing findings on how strictly o-kaeshi is enforced?",
+      "options": {
+       "A": "differences in the age of the researchers involved",
+       "B": "differences in fieldwork location, not the custom itself",
+       "C": "differences in the type of rice gift given",
+       "D": "differences in household income across regions"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Suy luận",
+      "explanation": "định vị cụm từ \"differing findings\" hoặc \"explain\" ở đoạn 6: sự khác biệt trong kết quả nghiên cứu là do sự khác biệt về địa điểm nghiên cứu điền dã chứ không phải bản thân phong tục bị thay đổi (differences in fieldwork location, not the custom itself)."
+     },
+     {
+      "number": 30,
+      "stem": "What is most likely the author's main purpose in writing this passage?",
+      "options": {
+       "A": "to describe how kagami mochi is prepared for New Year",
+       "B": "to argue that rice-gifting customs are outdated and meaningless",
+       "C": "to prove that urban areas have abandoned all gift customs",
+       "D": "to explain the social meaning behind rice-gifting customs Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính & Mục đích bài viết (R3Q5, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1-2 giới thiệu việc tặng gạo mang ý nghĩa xã hội sâu sắc và xuất phát từ vai trò đơn vị tiền tệ lịch sử; đoạn 3-4 phân tích các hình thức tặng gạo (kagami mochi, sekihan) và nguyên tắc đáp lễ o-kaeshi; đoạn 5-6 bàn về mức độ thực thi quy tắc này ở các khu vực khác nhau. Do đó, phương án đúng phải khái quát trọn vẹn việc tặng gạo mang ý nghĩa xã hội chính xác có nguồn gốc sâu xa từ lịch sử (rice gifts carry precise social meaning deeply rooted in history) nhằm giải thích ý nghĩa xã hội này, tránh chọn các đáp án chỉ tập trung vào một chi tiết hẹp như bánh kagami mochi hay kết luận cực đoan.\n- **Dạng câu hỏi Chi tiết trực tiếp (R3Q1, R3Q7, R3Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q1**, quét cụm từ \"economically... before Japan's economy became fully monetized\" ở đoạn 2: gạo từng đóng vai trò làm hình thức nộp thuế và một dạng tiền tệ (functioned as tax payment and a form of currency).\n  - Với **R3Q7**, quét từ khóa \"recipient must estimate\" ở đoạn 4: người nhận phải ước tính cả giá trị thị trường và trọng lượng xã hội/tình cảm mà người tặng muốn gửi gắm (the market value and the social weight intended).\n  - Với **R3Q9**, định vị cụm từ \"differing findings\" hoặc \"explain\" ở đoạn 6: sự khác biệt trong kết quả nghiên cứu là do sự khác biệt về địa điểm nghiên cứu điền dã chứ không phải bản thân phong tục bị thay đổi (differences in fieldwork location, not the custom itself).\n- **Dạng câu hỏi Loại trừ NOT (R3Q3):** Rà soát kỹ các hình thức quà tặng liên quan đến gạo được đề cập: bánh gạo nếp kagami mochi (đoạn 3), gạo sống nhuộm đỏ sekihan (đoạn 3), và quà đáp lễ có giá trị khoảng một nửa món quà gốc (đoạn 4). Chi tiết về giỏ mây đựng trái cây tươi (a woven basket filled with fresh fruit) hoàn toàn không được nhắc tới.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q2, R3Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q2**, từ **\"carefully calibrated\"** ở đoạn 1 (đi kèm \"small, carefully calibrated statement about the relationship\") mô tả sự điều chỉnh chính xác, cẩn trọng cho phù hợp với mối quan hệ, đồng nghĩa với được điều chỉnh chính xác (precisely adjusted).\n  - Với **R3Q8**, từ **\"specificity\"** ở đoạn 2 mô tả mức độ cụ thể, chi tiết trong cách phân biệt từng dịp tặng quà, tương đương nghĩa với mức độ chi tiết (level of detail).\n- **Dạng câu hỏi Quy chiếu (R3Q6):** Tập trung vào từ in đậm **\"This\"** ở đầu đoạn 6. Đọc ngược lại đoạn 5 ngay trước đó để tìm đối tượng: từ này quy chiếu cho sự bất đồng/chưa thống nhất giữa các nghiên cứu về mức độ thực thi quy tắc o-kaeshi (the researchers' disagreement).\n- **Dạng câu hỏi Suy luận (R3Q4):** Phân tích lập luận ở đoạn 2: \"Traces of that older role persist... in the specificity with which rice-gifting customs still distinguish between occasions, even after the practical need for such precision has largely disappeared.\" Từ đó suy luận được rằng sự phân biệt chính xác ngày nay phản ánh một vai trò lịch sử kéo dài vượt qua cả nhu cầu kinh tế ban đầu của nó (the precision reflects a historical role now outlasting its economic need).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị thông tin nhanh như Từ vựng (R3Q2, R3Q8) và Quy chiếu (R3Q6). Tiếp theo, ứng dụng kỹ năng đọc quét từ khóa để chọn nhanh đáp án cho các câu **Chi tiết** (R3Q1, R3Q7, R3Q9) và câu **Loại trừ** (R3Q3). Sau cùng, tổng hợp góc nhìn logic toàn bài để chốt chính xác đáp án cho câu **Suy luận** (R3Q4), câu **Ý chính** (R3Q5) và **Mục đích bài viết** (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Parental Concerns and Research on Infant Sleep Patterns",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Rarely does a single topic generate as wide a gap between parental anxiety and research consensus as infant sleep, an area in which exhausted new parents often arrive at a pediatrician's office already convinced that their child's nighttime waking signals some deeper problem, when the pattern described falls squarely within what researchers consider ordinary variation. The anxiety itself is understandable, given how much popular advice treats sleeping through the night as a milestone every healthy infant should reach on a predictable schedule.",
+     "That variation, it turns out, is considerably wider than most parenting guides acknowledge. Longitudinal studies tracking infants from birth through their second year have found that the age at which a baby begins sleeping through the night varies by many months even among healthy infants with no developmental concerns whatsoever, a finding that sits uneasily alongside the confident, month-by-month milestone charts still distributed in many clinical settings. Some researchers argue that framing sleeping through the night as a discrete milestone may itself mislead parents more than it informs them.",
+     "Nowhere does this gap between confident guidance and genuine uncertainty become more visible than in the ongoing debate over so-called sleep training, a term that itself covers a surprisingly wide range of distinct approaches, from brief check-in methods to more extended forms of graduated extinction. Several systematic reviews have concluded that these methods can, on average, reduce night waking; far fewer studies have tracked outcomes long enough to say with any confidence whether stress hormone changes sometimes observed during training sessions carry consequences that persist well beyond infancy.",
+     "Bed-sharing research occupies an even more contested position, complicated by a methodological difficulty that runs through nearly the entire field: distinguishing correlation from causation in data drawn primarily from retrospective parental reports rather than controlled experiments. **[1]** Some of the **elevated** risk statistics cited in public health guidance, critics note, may partly reflect **confounding** factors, such as parental smoking or sofa-sharing, rather than bed-sharing itself in every instance. **[2]** Researchers on the other side of this debate, however, argue that the confounding, even if real, does not fully explain the pattern. **[3]** Both camps agree that the underlying epidemiological picture remains far messier than headlines about the practice typically suggest. **[4]**",
+     "Measuring infant sleep accurately turns out to be its own unresolved methodological problem, one that complicates interpretation of nearly every study in this area. Parental sleep diaries, the most common and least expensive measurement tool, consistently overestimate how long a given infant actually sleeps when compared against actigraphy, a wrist-worn device that tracks movement as a proxy for wakefulness; video-based coding, considered the most objective measure available, remains too costly and labor-intensive for most large-scale studies to adopt.",
+     "Cross-cultural comparisons complicate the picture still further, since infant sleep arrangements considered unremarkable in one country register as alarming departures from guidance in another, and researchers have grown increasingly hesitant to treat any single national norm as a universal developmental baseline. A pattern flagged as concerning by clinical guidelines calibrated to one country's typical household arrangement may reflect nothing more than an arrangement that is entirely ordinary practice elsewhere.",
+     "None of this uncertainty should be read as license to dismiss parental concern outright, since some patterns genuinely do warrant clinical attention regardless of how wide the range of ordinary variation turns out to be. **It** does suggest, however, that the confident tone of many popular sleep guides considerably overstates what the underlying research can actually support, and that a considerable share of parental anxiety in this domain stems not from any real abnormality but from guidance that was never as settled as its tone implied."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "sleep training methods are proven to be completely safe",
+       "B": "research on infant sleep is far less settled than parental anxiety suggests",
+       "C": "bed-sharing is more dangerous than public health guidance admits",
+       "D": "every infant sleeps through the night by six months of age"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what have longitudinal studies found about the age at which babies begin sleeping through the night?",
+      "options": {
+       "A": "all infants begin sleeping through the night at the same age",
+       "B": "milestone charts are based on actigraphy rather than parental reports",
+       "C": "sleep training has been proven to cause harm",
+       "D": "the age of sleeping through the night varies considerably"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"longitudinal studies\" ở đoạn 2: các nghiên cứu dọc cho thấy độ tuổi trẻ bắt đầu ngủ xuyên đêm có sự dao động vô cùng lớn (varies considerably)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"elevated\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "increased",
+       "B": "reduced",
+       "C": "recorded",
+       "D": "celebrated"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"elevated\" ở đoạn 4 (\"elevated risk statistics\") mô tả con số thống kê nguy cơ gia tăng/cao hơn mức bình thường, đồng nghĩa với tăng lên (increased)."
+     },
+     {
+      "number": 34,
+      "stem": "According to the passage, which of the following is NOT mentioned as a factor complicating research on infant sleep?",
+      "options": {
+       "A": "uncertainty about long-term effects of stress hormone changes",
+       "B": "confounding factors such as parental smoking",
+       "C": "a shortage of researchers willing to study the topic",
+       "D": "discrepancies between parental sleep diaries and actigraphy readings"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các yếu tố gây khó khăn cho nghiên cứu giấc ngủ được nêu trong bài: sự thiếu chắc chắn về ảnh hưởng dài hạn của hormone căng thẳng (đoạn 3), các yếu tố nhiễu như cha mẹ hút thuốc (đoạn 4), và sự sai lệch giữa nhật ký theo dõi của cha mẹ với thiết bị đo actigraphy (đoạn 6). Chi tiết về sự thiếu hụt các nhà nghiên cứu sẵn sàng nghiên cứu chủ đề này (a shortage of researchers willing to study the topic) hoàn toàn không được nhắc tới."
+     },
+     {
+      "number": 35,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'This methodological murkiness is precisely why professional guidance on the subject continues to shift from one review cycle to the next.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Chèn câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mối liên hệ logic của câu cần chèn: \"This methodological murkiness is precisely why professional guidance on the subject continues to shift from one review cycle to the next.\" Cụm \"This methodological murkiness\" (sự mơ hồ về mặt phương pháp luận này) khái quát lại toàn bộ các bất cập phương pháp luận đã được mô tả xuyên suốt đoạn 4 và đoạn 5. Đặt câu này vào vị trí [4] ở cuối đoạn 5 sẽ tạo kết nối chuyển tiếp hoàn hảo sang các đánh giá ở đoạn tiếp theo."
+     },
+     {
+      "number": 36,
+      "stem": "According to the passage, what discrepancy has been found between parental sleep diaries and actigraphy measurements?",
+      "options": {
+       "A": "diaries tend to overestimate infant sleep duration",
+       "B": "actigraphy devices tend to overestimate how long infants actually sleep",
+       "C": "diaries tend to consistently underreport confounding factors like smoking",
+       "D": "video coding tends to slightly underestimate infant wakefulness"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"parental sleep diaries\" và \"actigraphy\" ở đoạn 6: kết quả cho thấy nhật ký do cha mẹ ghi có xu hướng đánh giá cao (nói quá) thời lượng giấc ngủ thực tế của trẻ (diaries tend to overestimate infant sleep duration)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"It\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "parental concern",
+       "B": "the research uncertainty",
+       "C": "clinical attention",
+       "D": "ordinary variation"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào từ in đậm \"It\" ở đoạn 7 (\"It deserves measured clinical attention...\"). Đọc ngược lại đoạn trước để tìm đối tượng: từ này quy chiếu cho sự thiếu chắc chắn/chưa rõ ràng trong các nghiên cứu khoa học về giấc ngủ (the research uncertainty)."
+     },
+     {
+      "number": 38,
+      "stem": "Based on the passage, what can be inferred about the debate over bed-sharing risk statistics?",
+      "options": {
+       "A": "confounding factors have been proven to fully explain the risk",
+       "B": "all elevated risk statistics are caused entirely by confounding",
+       "C": "neither the confounding explanation nor the statistics are fully settled",
+       "D": "bed-sharing itself has been shown to cause parental smoking"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận về tranh cãi nằm chung giường (bed-sharing) ở đoạn 4 và 5: bài viết chỉ ra rằng các số liệu rủi ro có thể bị ảnh hưởng bởi yếu tố nhiễu, nhưng cũng không khẳng định yếu tố nhiễu giải thích được toàn bộ nguy cơ. Điều này cho thấy cả giải thích về yếu tố nhiễu lẫn các con số thống kê đều chưa hoàn toàn được giải quyết ngã ngũ (neither the confounding explanation nor the statistics are fully settled)."
+     },
+     {
+      "number": 39,
+      "stem": "The word \"confounding\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "slightly affecting",
+       "B": "smoking-related",
+       "C": "confusing",
+       "D": "distorting"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"confounding\" ở đoạn 4 (\"confounding factors\") là thuật ngữ nghiên cứu chỉ các yếu tố nhiễu/yếu tố làm sai lệch kết quả, tương đương nghĩa với làm sai lệch/bóp méo (distorting)."
+     },
+     {
+      "number": 40,
+      "stem": "What is most likely the author's main purpose in writing this passage?",
+      "options": {
+       "A": "to describe how actigraphy devices measure infant movement",
+       "B": "to show infant sleep research is more uncertain than assumed",
+       "C": "to dismiss all parental concern about infant sleep as unnecessary",
+       "D": "to argue that bed-sharing is always safe for infants"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính & Mục đích bài viết (R4Q1, R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của từng đoạn để phác thảo mạch nội dung: đoạn 1-2 nêu rõ khoảng cách giữa nỗi lo lắng của phụ huynh và sự thật rằng sự biến đổi giấc ngủ ở trẻ sơ sinh là bình thường; đoạn 3-5 phân tích sự thiếu chắc chắn về mặt khoa học trong các phương pháp huấn luyện ngủ (sleep training) và việc nằm chung giường (bed-sharing); đoạn 6-7 tổng kết về các hạn chế đo lường (như nhật ký giấc ngủ so với thiết bị actigraphy). Do đó, phương án đúng phải truyền tải trọn vẹn việc nghiên cứu giấc ngủ ở trẻ còn nhiều điều chưa ngỏ/chưa rõ ràng hơn mức phụ huynh lầm tưởng (research on infant sleep is far less settled than assumed) nhằm giải thích sự bất định này.\n- **Dạng câu hỏi Chi tiết trực tiếp (R4Q2, R4Q6):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q2**, quét cụm từ \"longitudinal studies\" ở đoạn 2: các nghiên cứu dọc cho thấy độ tuổi trẻ bắt đầu ngủ xuyên đêm có sự dao động vô cùng lớn (varies considerably).\n  - Với **R4Q6**, quét từ khóa \"parental sleep diaries\" và \"actigraphy\" ở đoạn 6: kết quả cho thấy nhật ký do cha mẹ ghi có xu hướng đánh giá cao (nói quá) thời lượng giấc ngủ thực tế của trẻ (diaries tend to overestimate infant sleep duration).\n- **Dạng câu hỏi Loại trừ NOT (R4Q4):** Đối soát kỹ các yếu tố gây khó khăn cho nghiên cứu giấc ngủ được nêu trong bài: sự thiếu chắc chắn về ảnh hưởng dài hạn của hormone căng thẳng (đoạn 3), các yếu tố nhiễu như cha mẹ hút thuốc (đoạn 4), và sự sai lệch giữa nhật ký theo dõi của cha mẹ với thiết bị đo actigraphy (đoạn 6). Chi tiết về sự thiếu hụt các nhà nghiên cứu sẵn sàng nghiên cứu chủ đề này (a shortage of researchers willing to study the topic) hoàn toàn không được nhắc tới.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"elevated\"** ở đoạn 4 (\"elevated risk statistics\") mô tả con số thống kê nguy cơ gia tăng/cao hơn mức bình thường, đồng nghĩa với tăng lên (increased).\n  - Với **R4Q9**, từ **\"confounding\"** ở đoạn 4 (\"confounding factors\") là thuật ngữ nghiên cứu chỉ các yếu tố nhiễu/yếu tố làm sai lệch kết quả, tương đương nghĩa với làm sai lệch/bóp méo (distorting).\n- **Dạng câu hỏi Quy chiếu (R4Q7):** Tập trung vào từ in đậm **\"It\"** ở đoạn 7 (\"It deserves measured clinical attention...\"). Đọc ngược lại đoạn trước để tìm đối tượng: từ này quy chiếu cho sự thiếu chắc chắn/chưa rõ ràng trong các nghiên cứu khoa học về giấc ngủ (the research uncertainty).\n- **Dạng câu hỏi Chèn câu vào đoạn văn (R4Q5):** Phân tích mối liên hệ logic của câu cần chèn: \"This methodological murkiness is precisely why professional guidance on the subject continues to shift from one review cycle to the next.\" Cụm \"This methodological murkiness\" (sự mơ hồ về mặt phương pháp luận này) khái quát lại toàn bộ các bất cập phương pháp luận đã được mô tả xuyên suốt đoạn 4 và đoạn 5. Đặt câu này vào vị trí **[4]** ở cuối đoạn 5 sẽ tạo kết nối chuyển tiếp hoàn hảo sang các đánh giá ở đoạn tiếp theo.\n- **Dạng câu hỏi Suy luận (R4Q8):** Phân tích lập luận về tranh cãi nằm chung giường (bed-sharing) ở đoạn 4 và 5: bài viết chỉ ra rằng các số liệu rủi ro có thể bị ảnh hưởng bởi yếu tố nhiễu, nhưng cũng không khẳng định yếu tố nhiễu giải thích được toàn bộ nguy cơ. Điều này cho thấy cả giải thích về yếu tố nhiễu lẫn các con số thống kê đều chưa hoàn toàn được giải quyết ngã ngũ (neither the confounding explanation nor the statistics are fully settled).\nLời khuyên: Ưu tiên xử lý nhanh các câu hỏi định vị từ ngữ như Từ vựng (R4Q3, R4Q9) và Quy chiếu (R4Q7). Tiếp theo, ứng dụng kỹ thuật đọc quét từ khóa để chọn chính xác các câu hỏi **Chi tiết** (R4Q2, R4Q6) và câu **Loại trừ** (R4Q4). Sau khi liên kết logic đoạn văn để hoàn thành câu **Chèn câu** (R4Q5) và **Suy luận** (R4Q8), bạn sẽ tự tin chốt đáp án cho câu Ý chính (R4Q1) và Mục đích bài viết (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. Your friend, who lives abroad, has just written to tell you she is planning a trip to visit you in Hanoi.\nRead part of her email below.\nI'm so excited to tell you that I've finally booked my flight to Hanoi! Since this will be my first time visiting, I'd really appreciate some advice from you.\n- What is the best time of year to visit Hanoi?\n- Which places would you recommend I visit while I'm there?\n- What kind of local food should I try during my stay?\nWrite an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. Your friend, who lives abroad, has just written to tell you she is planning a trip to visit you in Hanoi.",
+      "Read part of her email below."
+     ],
+     "quote": [
+      "I'm so excited to tell you that I've finally booked my flight to Hanoi! Since this will be my first time visiting, I'd really appreciate some advice from you.",
+      "- What is the best time of year to visit Hanoi?",
+      "- Which places would you recommend I visit while I'm there?",
+      "- What kind of local food should I try during my stay?"
+     ],
+     "instruction": "Write an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (Thư thân mật) phản hồi bạn bè từ nước ngoài về chuyến du lịch sắp tới đến Hà Nội.\n- Đề bài có **3 yêu cầu chính** cần trả lời đầy đủ: (1) thời điểm nào trong năm nên đến thăm Hà Nội, (2) nên tham quan những địa điểm nào, (3) nên thử những món ăn địa phương nào.\n- Bài viết cần đạt tối thiểu **120 từ**, giọng văn thân mật, thể hiện sự hào hứng khi bạn mình sắp đến thăm.\n- Cần đưa ra gợi ý cụ thể, có thể kèm lý do ngắn gọn, tránh trả lời chung chung.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Sarah,\n- **Opening:** Thể hiện sự phấn khích khi nghe tin. Ví dụ: I'm thrilled to hear you've booked your flight, I can't wait to show you around Hanoi!\n- **Body 1 (Thời điểm):** Gợi ý thời gian lý tưởng. Ví dụ: I'd suggest visiting in autumn, around October or November, when the weather is cool and pleasant.\n- **Body 2 (Địa điểm):** Gợi ý các điểm tham quan. Ví dụ: You should definitely visit the Old Quarter, Hoan Kiem Lake, and the Temple of Literature, as they're some of the most iconic spots in the city.\n- **Body 3 (Ẩm thực):** Gợi ý món ăn địa phương. Ví dụ: As for food, you can't leave without trying pho, bun cha, and egg coffee, they're absolute must-tries.\n- **Closing & Sign-off:** Kết thúc nhiệt tình. Ví dụ: Let me know if you need any more tips! Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng cấu trúc **gợi ý** (I'd suggest..., You should..., Why don't you...) để lời khuyên tự nhiên và đa dạng hơn.\n- Tránh lặp từ \"visit\" hoặc \"try\" nhiều lần, hãy đa dạng hóa cách diễn đạt.\n- Nên đưa ra lý do ngắn gọn cho mỗi gợi ý để bài viết thuyết phục và chân thực hơn.\n- Có thể dùng tính từ miêu tả sinh động để giới thiệu địa điểm và món ăn hấp dẫn hơn.\nTừ vựng quan trọng:\n- **Old Quarter:** Phố cổ\n- **Must-try dish:** Món ăn nhất định phải thử\n- **Iconic spot:** Địa điểm mang tính biểu tượng\n- **Local cuisine:** Ẩm thực địa phương\n- **Pleasant weather:** Thời tiết dễ chịu\n- **Street food:** Đồ ăn đường phố\n- **Cultural heritage site:** Di tích văn hóa\nTừ nối (Linking words):\n- **As for:** Còn về\n- **I'd suggest:** Tôi đề xuất\n- **Besides:** Bên cạnh đó\n- **Speaking of which:** Nói đến điều này\n- **Last but not least:** Cuối cùng nhưng không kém phần quan trọng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm thrilled to hear...:** Tôi rất vui khi nghe...\n- **I can't wait to show you around:** Tôi không thể chờ để dẫn bạn đi tham quan\n- **You'll absolutely love it:** Bạn chắc chắn sẽ yêu thích nó\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời một hoặc hai trong ba câu hỏi mà quên trả lời đầy đủ cả ba.\n- Liệt kê địa điểm/món ăn mà không có lời giải thích hay lý do gợi ý.\n- Sử dụng giọng văn quá trang trọng, không phù hợp với thư gửi bạn thân.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã trả lời đủ 3 câu hỏi: thời điểm, địa điểm, món ăn.\n- Đếm số từ để đảm bảo đạt tối thiểu 120 từ.\n- Kiểm tra giọng văn đã đủ thân mật, tự nhiên chưa.\n\n**6. Tư duy làm bài:**\nHãy tưởng tượng bạn đang thực sự chia sẻ kinh nghiệm du lịch với một người bạn thân sắp đến thăm thành phố của mình. Sự nhiệt tình, cụ thể và chân thực sẽ giúp bài viết trở nên tự nhiên hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn today's economy, an increasing number of people are choosing to become self-employed rather than work for a company or organization.\nWhile being one's own boss offers a great deal of freedom and flexibility, it also comes with certain risks and responsibilities that traditional employees do not typically face.\nDiscuss the advantages and disadvantages of being self-employed.\nWrite an essay to an educated reader to discuss the advantages and disadvantages of being self-employed. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In today's economy, an increasing number of people are choosing to become self-employed rather than work for a company or organization.",
+      "While being one's own boss offers a great deal of freedom and flexibility, it also comes with certain risks and responsibilities that traditional employees do not typically face.",
+      "Discuss the advantages and disadvantages of being self-employed."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages and disadvantages of being self-employed. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Advantages and Disadvantages Essay**, yêu cầu phân tích cả **lợi ích** và **hạn chế** của việc tự kinh doanh/làm chủ (self-employment).\n- Bạn cần trình bày rõ các lợi ích (tự do về thời gian, tự chủ trong công việc, tiềm năng thu nhập không giới hạn) và hạn chế (thu nhập không ổn định, thiếu phúc lợi, áp lực tự quản lý mọi việc).\n- Yêu cầu tối thiểu là **250 từ**, cần có sự cân bằng giữa phần lợi ích và phần hạn chế, không nên chỉ tập trung vào một phía.\n- Tránh nhầm lẫn với dạng Opinion Essay — đề bài này không yêu cầu bạn kết luận nên hay không nên tự kinh doanh mà cần phân tích khách quan cả hai mặt.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu xu hướng tự kinh doanh ngày càng phổ biến. Ví dụ: With the rise of the gig economy and digital platforms, more and more people are opting to work for themselves rather than pursue traditional employment.\n- **Body 1 (Lợi ích):** Topic sentence nêu lợi ích chính, giải thích, ví dụ. Ví dụ: One of the greatest advantages of self-employment is the flexibility it offers, as individuals can set their own working hours and choose projects that align with their interests.\n- **Body 2 (Lợi ích khác):** Nêu thêm lợi ích về thu nhập và quyền tự chủ. Ví dụ: In addition, self-employed individuals have the potential to earn significantly more than salaried workers, since their income is not capped by a fixed salary.\n- **Body 3 (Hạn chế):** Nêu hạn chế cụ thể. Ví dụ: On the other hand, self-employment often comes with financial instability, as income can fluctuate greatly from month to month, and workers must also handle their own taxes, insurance, and retirement savings without employer support.\n- **Conclusion:** Tóm tắt và đưa ra nhận định. Ví dụ: In conclusion, while self-employment offers greater freedom and earning potential, it also requires individuals to manage significant financial and administrative burdens on their own.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì **hiện tại đơn** cho sự thật chung, và cấu trúc **modal verbs (can, may, might)** khi nói về khả năng xảy ra rủi ro.\n- Phát triển ý theo cấu trúc: câu chủ đề - giải thích - ví dụ - mini kết luận cho mỗi đoạn thân bài.\n- Cần có **thesis statement** rõ ràng ở mở bài nêu rằng bài sẽ phân tích cả lợi ích và hạn chế của việc tự kinh doanh.\n- Tránh lặp từ \"self-employed\" liên tục, hãy thay bằng các cách diễn đạt khác.\nTừ vựng quan trọng:\n- **Self-employment:** Sự tự kinh doanh, làm chủ\n- **Financial instability:** Sự bất ổn về tài chính\n- **Flexible working hours:** Giờ làm việc linh hoạt\n- **Job security:** Sự an toàn/ổn định trong công việc\n- **Employee benefits:** Phúc lợi nhân viên\n- **Entrepreneurial spirit:** Tinh thần khởi nghiệp\n- **Administrative burden:** Gánh nặng thủ tục hành chính\nTừ nối (Linking words):\n- **Adding - In addition/Furthermore:** Thêm vào đó\n- **Contrast - On the other hand/However:** Mặt khác/Tuy nhiên\n- **Cause-effect - As a result/Consequently:** Kết quả là\n- **Example - For instance/Such as:** Ví dụ như\n- **Conclusion - In conclusion/Overall:** Tóm lại/Nhìn chung\n- **Despite - Despite/Although:** Mặc dù\nDiễn đạt lại ý (Paraphrasing):\n- **Working for oneself:** Thay cho \"self-employment\" ở một số câu.\n- **Running one's own business:** Cách diễn đạt khác cho \"being self-employed\".\n- **Independent professionals:** Thay cho \"self-employed individuals\".\nCách diễn đạt so sánh:\n- **Unlike traditional employees, self-employed individuals...:** Không giống như nhân viên truyền thống, những người tự kinh doanh...\n- **Compared to a salaried job, self-employment offers...:** So với công việc lương cố định, tự kinh doanh mang lại...\n- **While ... provides greater freedom, it also demands...:** Trong khi ... mang lại sự tự do lớn hơn, nó cũng đòi hỏi...\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung vào lợi ích hoặc hạn chế mà bỏ qua khía cạnh còn lại.\n- Liệt kê lợi ích/hạn chế mà không giải thích hoặc đưa ví dụ cụ thể.\n- Nhầm lẫn giữa dạng bài Advantages/Disadvantages với dạng bài đưa ra ý kiến cá nhân.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã trình bày đủ cả lợi ích và hạn chế chưa.\n- Đảm bảo mỗi đoạn thân bài có ví dụ cụ thể hỗ trợ luận điểm.\n- Đếm số từ để chắc chắn đạt tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\nHãy tư duy theo trình tự logic: trước tiên trình bày những mặt tích cực của việc tự kinh doanh, sau đó phân tích những rủi ro và thách thức đi kèm, đảm bảo bài viết khách quan và cân bằng giữa hai khía cạnh."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about sports\n\n1\nDo you enjoy playing or watching sports?\n2\nWhat sport do you like the most and why?\n3\nDo you think schools should spend more time on sports activities for students?\n\nNow, let’s talk about food\n\n4\nDo you enjoy cooking at home, or do you prefer eating out?\n5\nWhat kind of food do you usually eat for a typical meal?\n6\nDo you think it's important to maintain a healthy diet? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này có **2 chủ đề nhỏ**: **Topic A (Sports)** và **Topic B (Food)**.\n- **Topic A (Sports):** Ba câu hỏi đầu kiểm tra khả năng mô tả sở thích thể thao, môn thể thao yêu thích, và quan điểm về vai trò của thể thao trong trường học.\n- **Topic B (Food):** Ba câu hỏi sau kiểm tra khả năng nói về thói quen ăn uống hằng ngày và quan điểm về tầm quan trọng của chế độ ăn uống lành mạnh.\n- Tiêu chí đánh giá gồm **Fluency, Vocabulary, Grammar và Pronunciation**.\n- Thời gian Part 1 là **3 phút**, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)** để trả lời đầy đủ và có chiều sâu.\n- **Ví dụ Topic A:** \"Yes, I really enjoy playing badminton because it helps me stay fit and relieve stress after a long day. For example, I usually play with my friends every weekend at a local court.\"\n- **Ví dụ Topic B:** \"I usually cook simple meals at home, but on weekends I like eating out to try different cuisines with my family.\"\n- Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n- Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Besides sports, I'd also like to share a bit about my eating habits.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định, dùng câu đệm để tránh khoảng lặng dài khi suy nghĩ.\n- Dùng **hiện tại đơn** khi nói về thói quen và sở thích chung, dùng **quá khứ đơn** khi kể lại một trận đấu hoặc bữa ăn cụ thể.\n- Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n- Từ vựng cho Topic A: relieve stress, stay in shape, team spirit, physical endurance.\n- Từ vựng cho Topic B: a balanced diet, home-cooked meals, junk food, nutritional value.\nCụm từ quan trọng nên dùng:\n- **relieve stress** (giải tỏa căng thẳng)\n- **stay in shape** (giữ dáng, giữ sức khỏe)\n- **team spirit** (tinh thần đồng đội)\n- **a balanced diet** (chế độ ăn cân bằng)\n- **home-cooked meals** (bữa ăn tự nấu tại nhà)\n- **nutritional value** (giá trị dinh dưỡng)\nTừ nối khi nói (Linking Words):\n- **Firstly** - trước hết, dùng để mở đầu ý.\n- **Besides** - bên cạnh đó, dùng để bổ sung ý.\n- **For example** - ví dụ như, dùng khi minh họa.\n- **However** - tuy nhiên, dùng khi đối chiếu ý kiến.\n- **Therefore** - vì vậy, dùng để nêu kết quả.\nCách thể hiện quan điểm tự nhiên:\n- **Personally, I think...** Ví dụ: \"Personally, I think team sports help students build better social skills.\"\n- **From my point of view...** Ví dụ: \"From my point of view, home-cooked meals are healthier than eating out.\"\n- **In my opinion...** Ví dụ: \"In my opinion, a healthy diet is the foundation of a good lifestyle.\"\n- **I would say that...** Ví dụ: \"I would say that playing sports regularly has really improved my stamina.\"\n\n**4. Các lỗi thường gặp:**\n- Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n- Ở Topic A, chỉ nêu tên môn thể thao mà không giải thích lý do yêu thích.\n- Ở Topic B, trả lời chung chung \"I eat rice\" mà không mô tả cụ thể thói quen ăn uống.\n- Dùng sai thì khi chuyển từ nói về thói quen sang kể lại một trải nghiệm cụ thể.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n- Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n- Với Topic A, nếu bí ý, hãy kể tên một trận đấu hoặc buổi tập cụ thể và mô tả ngắn gọn cảm nhận.\n- Với Topic B, nếu bí ý, hãy liên hệ đến một món ăn cụ thể mà bạn thường ăn.\n\n**6. Tư duy làm bài nói:**\n- Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n- Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou and your friends are having a get-together and need to decide which dish to order for the group.\n\nYou are considering the following options:\n\nOption 1: Order pizza\nOption 2: Order sushi\nOption 3: Order hot pot\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần chọn món ăn phù hợp nhất cho một buổi họp mặt bạn bè, trong ba lựa chọn: pizza, sushi, hoặc lẩu.\n- Ba lựa chọn khác biệt về chi phí, mức độ phù hợp với số đông, và trải nghiệm ăn uống chung.\n- Thời gian là **4 phút**; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Introduction – Comparison – Conclusion** để trình bày mạch lạc.\n- **Option 1 (pizza):** \"Ordering pizza is convenient and budget-friendly, and it's easy to share, though it might not satisfy everyone's taste, especially those who prefer traditional dishes.\"\n- **Option 2 (sushi):** \"Sushi offers a fresh and unique dining experience, but it tends to be more expensive and may not be filling enough for everyone in the group.\"\n- **Option 3 (hot pot):** \"Hot pot is a great option for a group gathering because everyone can cook and customize their own food, though it takes longer to prepare and eat.\"\n- Nên neo lập luận vào yếu tố số lượng người tham gia và tính chất của buổi họp mặt (thân mật, sôi động, hay trang trọng).\n- Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike sushi, hot pot encourages more interaction among friends since everyone cooks together.\"\n- Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n- Paraphrase \"cheap\" bằng \"budget-friendly\"; paraphrase \"fun\" bằng \"enjoyable\" hoặc \"interactive\".\nCụm từ quan trọng nên dùng:\n- **budget-friendly** (tiết kiệm chi phí)\n- **easy to share** (dễ dàng chia sẻ cho nhiều người)\n- **a fresh dining experience** (trải nghiệm ẩm thực tươi mới)\n- **filling** (no bụng, đủ chất)\n- **customize one's own meal** (tự tùy chỉnh món ăn của mình)\n- **an interactive meal** (bữa ăn mang tính tương tác cao)\nTừ nối khi nói (Linking Words):\n- **Compared with** - so với, dùng khi so sánh hai lựa chọn.\n- **Whereas** - trong khi đó, dùng để đối lập.\n- **Nevertheless** - tuy nhiên, dùng để chuyển ý ngược lại.\n- **Taking everything into account** - xét tất cả các yếu tố, dùng trước kết luận.\n- **In terms of** - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n- **If I had to choose, I would go with...** Ví dụ: \"If I had to choose, I would go with hot pot because it suits a lively group gathering.\"\n- **I'm more inclined towards...** Ví dụ: \"I'm more inclined towards pizza since it's the most convenient option for a large group.\"\n- **All things considered...** Ví dụ: \"All things considered, hot pot seems like the most suitable choice for bringing everyone together.\"\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n- Lặp lại từ \"good\"/\"bad\" quá nhiều thay vì dùng tính từ học thuật hơn.\n- Không có kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng liên quan đến một lựa chọn, chuyển hướng sang nói về yếu tố giá cả hoặc khẩu vị chung của nhóm.\n- Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n\n**6. Tư duy làm bài nói:**\n- Đặt mình vào vị trí người đang lên kế hoạch cho cả nhóm - lựa chọn nào vừa hợp khẩu vị số đông, vừa tiết kiệm chi phí, vừa tạo không khí vui vẻ?\n- Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ kết hợp thêm món tráng miệng nhẹ, để thể hiện tư duy chu đáo.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe advantages of traveling in a group rather than alone\n\nGroup Traveling\nSharing costs such as accommodation and transportation\nFeeling safer and more secure during the trip\nCreating shared memories and strengthening relationships\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you prefer traveling in a group or traveling alone? Why?\n2\nWhat problems can arise when traveling with a large group of people?\n3\nHow can a group avoid conflicts while traveling together?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phát triển bài nói về lợi ích của việc đi du lịch theo nhóm so với đi một mình, dựa trên ba nhánh chính và một nhánh ý kiến cá nhân.\n- Ba nhánh chính gồm: chia sẻ chi phí như chỗ ở và di chuyển, cảm thấy an toàn hơn trong suốt chuyến đi, và tạo ra những kỷ niệm chung giúp gắn kết mối quan hệ.\n- **Gợi ý cho nhánh thứ 4 (ý kiến cá nhân):** có thể phát triển theo hướng học hỏi lẫn nhau về kỹ năng và văn hóa khi đi cùng những người khác nhau trong nhóm.\n- Thời gian là **5 phút**: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction – Detail – Example – Add/wrap up)** để trình bày từng nhánh của sơ đồ tư duy.\n- **Ví dụ mở bài:** \"Today, I'd like to talk about the advantages of traveling in a group rather than traveling alone.\"\n- **Ví dụ cho nhánh ý kiến cá nhân:** \"Another advantage I'd like to add is that traveling with different people allows us to learn new skills and perspectives from one another.\"\n- Nên đưa ví dụ thực tế như việc chia tiền thuê phòng khách sạn hoặc xe di chuyển giữa các thành viên trong nhóm.\n- Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n- Về thì: dùng **hiện tại đơn** cho sự thật chung, dùng **hiện tại hoàn thành** khi nói về những chuyến đi nhóm đã từng trải qua.\n- Paraphrase \"group traveling\" bằng \"traveling with companions\" hoặc \"traveling as part of a group\" để tránh lặp từ. Cụm từ quan trọng nên dùng:\n- **split the costs** (chia sẻ chi phí)\n- **a sense of security** (cảm giác an toàn)\n- **strengthen relationships** (củng cố mối quan hệ)\n- **shared memories** (những kỷ niệm chung)\n- **look out for one another** (quan tâm, hỗ trợ lẫn nhau)\n- **broaden one's perspective** (mở rộng tầm nhìn, góc nhìn)\nTừ nối khi nói (Linking Words):\n- **To begin with** - trước hết, dùng để mở đầu nhánh đầu tiên.\n- **Moving on to** - chuyển sang, dùng khi chuyển nhánh ý.\n- **Furthermore** - hơn nữa, dùng để bổ sung ý.\n- **In addition to that** - thêm vào đó, dùng để mở rộng ý.\n- **To sum up** - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **I firmly believe that...** Ví dụ: \"I firmly believe that traveling in a group makes the whole experience more memorable.\"\n- **It seems to me that...** Ví dụ: \"It seems to me that sharing costs is one of the most practical benefits of group travel.\"\n- **What strikes me most is...** Ví dụ: \"What strikes me most is how much safer I feel when traveling with a group of friends.\"\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"Do you prefer traveling in a group or traveling alone? Why?\"** - Mình thích đi theo nhóm hơn vì có thể chia sẻ chi phí và cảm thấy an toàn hơn, đặc biệt là ở những nơi xa lạ.\n- **\"What problems can arise when traveling with a large group of people?\"** - Nhóm càng đông thì càng khó thống nhất lịch trình, và có thể xảy ra bất đồng về sở thích hoặc ngân sách của mỗi người.\n- **\"How can a group avoid conflicts while traveling together?\"** - Cả nhóm nên bàn bạc kỹ lịch trình và ngân sách trước chuyến đi, đồng thời luôn giữ thái độ linh hoạt, sẵn sàng thỏa hiệp khi cần thiết.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê lợi ích mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n- Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n- Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Neo vào ví dụ thực tế từ một chuyến đi nhóm đã từng tham gia khi bí ý.\n- Câu chờ ý học thuật: \"That is a good point. If we look at it from a practical perspective...\"\n- Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n\n**7. Tư duy làm bài nói:**\n- Suy nghĩ thực tế từ trải nghiệm cá nhân khi đi du lịch cùng bạn bè hoặc gia đình.\n- Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n- Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about sports.\n1.\nDo you enjoy playing or watching sports?\n2.\nWhat sport do you like the most and why?\n3.\nDo you think schools should spend more time on sports activities for students?\nNow, let’s talk about food.\n4.\nDo you enjoy cooking at home, or do you prefer eating out?\n5.\nWhat kind of food do you usually eat for a typical meal?\n6.\nDo you think it's important to maintain a healthy diet? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này có 2 chủ đề nhỏ: Topic A (Sports) và Topic B (Food).\n• Topic A (Sports): Ba câu hỏi đầu kiểm tra khả năng mô tả sở thích thể thao, môn thể thao yêu thích, và quan điểm về\nvai trò của thể thao trong trường học.\n• Topic B (Food): Ba câu hỏi sau kiểm tra khả năng nói về thói quen ăn uống hằng ngày và quan điểm về tầm quan\ntrọng của chế độ ăn uống lành mạnh.\n• Tiêu chí đánh giá gồm Fluency, Vocabulary, Grammar và Pronunciation.\n• Thời gian Part 1 là 3 phút, nên dành khoảng 25–35 giây cho mỗi câu hỏi, cân bằng đều giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE) để trả lời đầy đủ và có chiều sâu.\n• Ví dụ Topic A: \"Yes, I really enjoy playing badminton because it helps me stay fit and relieve stress after a long day.\nFor example, I usually play with my friends every weekend at a local court.\"\n• Ví dụ Topic B: \"I usually cook simple meals at home, but on weekends I like eating out to try different cuisines with\nmy family.\"\n• Luôn tự hỏi Why?/How? để mở rộng câu trả lời, tránh nói quá ngắn.\n• Khi chuyển từ Topic A sang Topic B, dùng câu chuyển ý tự nhiên như \"Besides sports, I'd also like to share a bit about\nmy eating habits.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định, dùng câu đệm để tránh khoảng lặng dài khi suy nghĩ.\n• Dùng hiện tại đơn khi nói về thói quen và sở thích chung, dùng quá khứ đơn khi kể lại một trận đấu hoặc bữa ăn cụ\nthể.\n• Nếu bí từ, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng.\n• Từ vựng cho Topic A: relieve stress, stay in shape, team spirit, physical endurance.\n• Từ vựng cho Topic B: a balanced diet, home-cooked meals, junk food, nutritional value.\nCụm từ quan trọng nên dùng:\n• relieve stress (giải tỏa căng thẳng)\n• stay in shape (giữ dáng, giữ sức khỏe)\n• team spirit (tinh thần đồng đội)\n• a balanced diet (chế độ ăn cân bằng)\n• home-cooked meals (bữa ăn tự nấu tại nhà)\n• nutritional value (giá trị dinh dưỡng)\nTừ nối khi nói (Linking Words):\n• Firstly - trước hết, dùng để mở đầu ý.\n• Besides - bên cạnh đó, dùng để bổ sung ý.\n• For example - ví dụ như, dùng khi minh họa.\n• However - tuy nhiên, dùng khi đối chiếu ý kiến.\n• Therefore - vì vậy, dùng để nêu kết quả.\nCách thể hiện quan điểm tự nhiên:\n• Personally, I think... Ví dụ: \"Personally, I think team sports help students build better social skills.\"\n• From my point of view... Ví dụ: \"From my point of view, home-cooked meals are healthier than eating out.\"\n• In my opinion... Ví dụ: \"In my opinion, a healthy diet is the foundation of a good lifestyle.\"\n• I would say that... Ví dụ: \"I would say that playing sports regularly has really improved my stamina.\"\n4. Các lỗi thường gặp:\n• Trả lời \"Yes\"/\"No\" rồi im lặng mà không giải thích thêm - lỗi nghiêm trọng nhất.\n• Ở Topic A, chỉ nêu tên môn thể thao mà không giải thích lý do yêu thích.\n• Ở Topic B, trả lời chung chung \"I eat rice\" mà không mô tả cụ thể thói quen ăn uống.\n• Dùng sai thì khi chuyển từ nói về thói quen sang kể lại một trải nghiệm cụ thể.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: \"That's an interesting question, let me think for a second.\"\n• Nếu quên từ, hãy mô tả khái niệm bằng từ đơn giản hơn.\n• Với Topic A, nếu bí ý, hãy kể tên một trận đấu hoặc buổi tập cụ thể và mô tả ngắn gọn cảm nhận.\n• Với Topic B, nếu bí ý, hãy liên hệ đến một món ăn cụ thể mà bạn thường ăn.\n6. Tư duy làm bài nói:\n• Coi đây như một cuộc trò chuyện thân mật với giám khảo, không phải bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy \"reset\" tâm lý để bắt đầu câu chuyện mới.\n• Ưu tiên sự tự nhiên và trôi chảy hơn là cố dùng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYou and your friends are having a get-together and need to decide which dish to order for the group.\nYou are considering the following options:\n• Option 1: Order pizza\n• Option 2: Order sushi\n• Option 3: Order hot pot\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần chọn món ăn phù hợp nhất cho một buổi họp mặt bạn bè, trong ba lựa\nchọn: pizza, sushi, hoặc lẩu.\n• Ba lựa chọn khác biệt về chi phí, mức độ phù hợp với số đông, và trải nghiệm ăn uống chung.\n• Thời gian là 4 phút; cần phân tích cả ba phương án trước khi đưa ra kết luận.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Introduction – Comparison – Conclusion để trình bày mạch lạc.\n• Option 1 (pizza): \"Ordering pizza is convenient and budget-friendly, and it's easy to share, though it might not satisfy\neveryone's taste, especially those who prefer traditional dishes.\"\n• Option 2 (sushi): \"Sushi offers a fresh and unique dining experience, but it tends to be more expensive and may not\nbe filling enough for everyone in the group.\"\n• Option 3 (hot pot): \"Hot pot is a great option for a group gathering because everyone can cook and customize their\nown food, though it takes longer to prepare and eat.\"\n• Nên neo lập luận vào yếu tố số lượng người tham gia và tính chất của buổi họp mặt (thân mật, sôi động, hay trang\ntrọng).\n• Dùng từ nối tương phản như \"however\", \"whereas\" để chuyển giữa ưu và nhược điểm của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách rời, ví dụ: \"Unlike sushi, hot pot encourages more interaction among\nfriends since everyone cooks together.\"\n• Dùng modal verbs (would, could, should) khi giả định và đề xuất giải pháp.\n• Paraphrase \"cheap\" bằng \"budget-friendly\"; paraphrase \"fun\" bằng \"enjoyable\" hoặc \"interactive\".\nCụm từ quan trọng nên dùng:\n• budget-friendly (tiết kiệm chi phí)\n• easy to share (dễ dàng chia sẻ cho nhiều người)\n• a fresh dining experience (trải nghiệm ẩm thực tươi mới)\n• filling (no bụng, đủ chất)\n• customize one's own meal (tự tùy chỉnh món ăn của mình)\n• an interactive meal (bữa ăn mang tính tương tác cao)\nTừ nối khi nói (Linking Words):\n• Compared with - so với, dùng khi so sánh hai lựa chọn.\n• Whereas - trong khi đó, dùng để đối lập.\n• Nevertheless - tuy nhiên, dùng để chuyển ý ngược lại.\n• Taking everything into account - xét tất cả các yếu tố, dùng trước kết luận.\n• In terms of - xét về mặt, dùng khi so sánh theo tiêu chí cụ thể.\nCách thể hiện quan điểm tự nhiên:\n• If I had to choose, I would go with... Ví dụ: \"If I had to choose, I would go with hot pot because it suits a lively group\ngathering.\"\n• I'm more inclined towards... Ví dụ: \"I'm more inclined towards pizza since it's the most convenient option for a large\ngroup.\"\n• All things considered... Ví dụ: \"All things considered, hot pot seems like the most suitable choice for bringing everyone\ntogether.\"\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của nó.\n• Lặp lại từ \"good\"/\"bad\" quá nhiều thay vì dùng tính từ học thuật hơn.\n• Không có kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng liên quan đến một lựa chọn, chuyển hướng sang nói về yếu tố giá cả hoặc khẩu vị chung của nhóm.\n• Dùng câu chờ ý: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí ý ở một lựa chọn, hãy bình tĩnh chuyển sang phân tích lựa chọn tiếp theo.\n6. Tư duy làm bài nói:\n• Đặt mình vào vị trí người đang lên kế hoạch cho cả nhóm - lựa chọn nào vừa hợp khẩu vị số đông, vừa tiết kiệm chi\nphí, vừa tạo không khí vui vẻ?\n• Dù chọn phương án nào, hãy đưa thêm một gợi ý bổ sung, ví dụ kết hợp thêm món tráng miệng nhẹ, để thể hiện tư\nduy chu đáo.\nTopic Development\nPART 3\n5 phút\nTopic: The advantages of traveling in a group rather than alone\nSharing costs such as accommodation\nFeeling safer and more secure during\nand transportation\nthe trip\nGroup Traveling\nÝ tưởng của bạn\nCreating shared memories and\nstrengthening relationships\nFOLLOW-UP QUESTIONS\n1.\nDo you prefer traveling in a group or traveling alone? Why?\n2.\nWhat problems can arise when traveling with a large group of people?\n3.\nHow can a group avoid conflicts while traveling together?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phát triển bài nói về lợi ích của việc đi du lịch theo nhóm so với đi một mình, dựa trên ba nhánh\nchính và một nhánh ý kiến cá nhân.\n• Ba nhánh chính gồm: chia sẻ chi phí như chỗ ở và di chuyển, cảm thấy an toàn hơn trong suốt chuyến đi, và tạo ra\nnhững kỷ niệm chung giúp gắn kết mối quan hệ.\n• Gợi ý cho nhánh thứ 4 (ý kiến cá nhân): có thể phát triển theo hướng học hỏi lẫn nhau về kỹ năng và văn hóa khi đi\ncùng những người khác nhau trong nhóm.\n• Thời gian là 5 phút: khoảng 3–3.5 phút cho bài nói chính, phần còn lại dành cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction – Detail – Example – Add/wrap up) để trình bày từng nhánh của sơ đồ tư duy.\n• Ví dụ mở bài: \"Today, I'd like to talk about the advantages of traveling in a group rather than traveling alone.\"\n• Ví dụ cho nhánh ý kiến cá nhân: \"Another advantage I'd like to add is that traveling with different people allows us to\nlearn new skills and perspectives from one another.\"\n• Nên đưa ví dụ thực tế như việc chia tiền thuê phòng khách sạn hoặc xe di chuyển giữa các thành viên trong nhóm.\n• Bám sát sơ đồ tư duy để tránh lặp ý hoặc lạc đề sang chủ đề khác.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng các cụm từ chuyển ý mượt mà khi chuyển từ nhánh này sang nhánh khác của sơ đồ tư duy.\n• Về thì: dùng hiện tại đơn cho sự thật chung, dùng hiện tại hoàn thành khi nói về những chuyến đi nhóm đã từng trải\nqua.\n• Paraphrase \"group traveling\" bằng \"traveling with companions\" hoặc \"traveling as part of a group\" để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• split the costs (chia sẻ chi phí)\n• a sense of security (cảm giác an toàn)\n• strengthen relationships (củng cố mối quan hệ)\n• shared memories (những kỷ niệm chung)\n• look out for one another (quan tâm, hỗ trợ lẫn nhau)\n• broaden one's perspective (mở rộng tầm nhìn, góc nhìn)\nTừ nối khi nói (Linking Words):\n• To begin with - trước hết, dùng để mở đầu nhánh đầu tiên.\n• Moving on to - chuyển sang, dùng khi chuyển nhánh ý.\n• Furthermore - hơn nữa, dùng để bổ sung ý.\n• In addition to that - thêm vào đó, dùng để mở rộng ý.\n• To sum up - tóm lại, dùng khi kết luận.\nCách thể hiện quan điểm tự nhiên:\n• I firmly believe that... Ví dụ: \"I firmly believe that traveling in a group makes the whole experience more memorable.\"\n• It seems to me that... Ví dụ: \"It seems to me that sharing costs is one of the most practical benefits of group travel.\"\n• What strikes me most is... Ví dụ: \"What strikes me most is how much safer I feel when traveling with a group of\nfriends.\"\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"Do you prefer traveling in a group or traveling alone? Why?\" - Mình thích đi theo nhóm hơn vì có thể chia sẻ chi phí\nvà cảm thấy an toàn hơn, đặc biệt là ở những nơi xa lạ.\n• \"What problems can arise when traveling with a large group of people?\" - Nhóm càng đông thì càng khó thống nhất\nlịch trình, và có thể xảy ra bất đồng về sở thích hoặc ngân sách của mỗi người.\n• \"How can a group avoid conflicts while traveling together?\" - Cả nhóm nên bàn bạc kỹ lịch trình và ngân sách trước\nchuyến đi, đồng thời luôn giữ thái độ linh hoạt, sẵn sàng thỏa hiệp khi cần thiết.\n5. Các lỗi thường gặp:\n• Liệt kê lợi ích mà không giải thích cụ thể - luôn cần đưa ví dụ minh họa.\n• Quên nhánh ý kiến cá nhân - nên chuẩn bị trước nhánh thứ tư này.\n• Nói quá dài ở phần mở đầu khiến không còn thời gian trả lời câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Neo vào ví dụ thực tế từ một chuyến đi nhóm đã từng tham gia khi bí ý.\n• Câu chờ ý học thuật: \"That is a good point. If we look at it from a practical perspective...\"\n• Dùng từ đồng nghĩa hoặc mô tả đơn giản nếu quên từ vựng chuyên môn.\n7. Tư duy làm bài nói:\n• Suy nghĩ thực tế từ trải nghiệm cá nhân khi đi du lịch cùng bạn bè hoặc gia đình.\n• Sự mạch lạc và logic trong cách triển khai ý là yếu tố quyết định điểm số.\n• Luôn giữ giọng điệu tự nhiên, tránh đọc thuộc lòng như một bài văn mẫu."
+}

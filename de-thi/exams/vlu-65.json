@@ -1,0 +1,717 @@
+{
+ "id": "vlu-65",
+ "number": 65,
+ "title": "Đề thi VLU 65",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-65",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Teeth, Gums, and Daily Care",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Tooth decay is described as the most common disease in the world, and one estimate suggests that about 3.6 billion people had decay in their permanent teeth in 2016. Decay does not only cause pain. It can make eating difficult, cause bad breath and, in serious cases, lead to infection. Gum disease is also common, and severe cases are said to cause at least one third of tooth loss in adults. The good news is that most dental problems can be reduced with simple daily care. This passage explains how to protect teeth and gums with a few easy daily habits.",
+     "Brushing is the foundation of good care. Dentists advise brushing at least twice a day with a toothpaste that contains fluoride, once before bed and once after breakfast. Each session should last at least two minutes, yet studies suggest that most people brush for only thirty to sixty seconds. A toothbrush alone removes only about half of the plaque on tooth surfaces. Plaque is a sticky film of bacteria that turns sugar into acid, and this acid **gradually** dissolves the hard outer layer of the tooth until a hole, or cavity, appears.",
+     "What people eat and drink also matters. Cavities become more common as sugar intake rises, and sweet drinks between meals can be especially harmful. Sugar-free chewing gum may help **prevent** decay because it makes the mouth produce more saliva, and saliva helps to wash food and acid away from the teeth. Fluoride gives strong protection too, and one source says that it reduces decay by about twenty-five per cent. Children need special care, and adults are advised to supervise their brushing until they are about eight years old.",
+     "A toothbrush cannot clean everywhere. About forty per cent of tooth surfaces lie between the teeth, where bristles rarely reach. Small interdental brushes can reach the gaps between teeth, and many dentists advise people to use **these** once a day. The tongue also holds many bacteria that can cause bad breath, so some dentists recommend cleaning it gently with a tongue scraper. Bleeding when brushing or flossing can be a sign of gum inflammation, called gingivitis, and smoking is one of the main risk factors for more serious gum disease.",
+     "Regular visits to the dentist complete the routine. In the United Kingdom, check-ups every six months are common, but one study found that they may be unnecessary for people at low risk of mouth disease. Australian guidance suggests a check-up every three years for adults and every two years for children. Professional cleaning can also remove hard tartar, which a toothbrush cannot remove at home. The best approach is therefore a steady routine, with brushing twice a day, cleaning between the teeth and a visit to the dentist when advised."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Only children need to brush daily because adults grow stronger enamel",
+       "B": "Expensive electric toothbrushes are the only way to avoid tooth decay",
+       "C": "Simple daily habits can protect both teeth and gums from common diseases",
+       "D": "Dentists should remove most teeth early so that decay never starts"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, how long should each brushing session last?",
+      "options": {
+       "A": "Two minutes or longer, twice daily",
+       "B": "Only thirty seconds, like most people do",
+       "C": "Until the toothpaste has fully dried out",
+       "D": "Five minutes after every meal and snack"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị đoạn 2 để xác định thời gian chải răng: mỗi lần chải ít nhất hai phút, hai lần một ngày (two minutes or longer, twice daily)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"gradually\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "extremely fast",
+       "B": "very suddenly",
+       "C": "quite rarely",
+       "D": "little by little"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"gradually\" ở đoạn 2 mô tả quá trình axit từ mảng bám hòa tan lớp men răng bên ngoài một cách từ từ, từng chút một cho đến khi xuất hiện lỗ hổng, đồng nghĩa với \"little by little\"."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how can sugar-free chewing gum help?",
+      "options": {
+       "A": "It replaces all brushing after every big meal",
+       "B": "It makes the mouth produce more saliva",
+       "C": "It removes tartar from the gum line",
+       "D": "It makes teeth harder than natural enamel"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"sugar-free chewing gum\" ở đoạn 3 để nhận diện lợi ích: làm cho miệng tiết ra nhiều nước bọt giúp rửa trôi thức ăn và axit (it makes the mouth produce more saliva)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"prevent\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "quickly increase",
+       "B": "carefully measure",
+       "C": "stop from happening",
+       "D": "slightly improve"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"prevent\" ở đoạn 3 đi liền với việc kẹo cao su không đường giúp ngăn ngừa sâu răng, đồng nghĩa với \"stop from happening\"."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"these\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "interdental brushes",
+       "B": "smoking habits",
+       "C": "tongue scrapers",
+       "D": "soft toothbrushes"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược câu chứa đại từ \"these\" ở đoạn 4. Câu trước nhắc đến bàn chải kẽ răng nhỏ có thể với tới khoảng trống giữa các răng, và nhiều nha sĩ khuyên dùng \"chúng\" (\"Small interdental brushes... dentists advise people to use these once a day\"), từ đó quy chiếu thẳng đến bàn chải kẽ răng (interdental brushes)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what is common in the United Kingdom?",
+      "options": {
+       "A": "Free treatments given by the national health service",
+       "B": "Cleaning sessions held only once every three years",
+       "C": "Children seeing a dentist before learning to brush",
+       "D": "Dental check-ups booked once every six months"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 để xác định điều phổ biến ở Vương quốc Anh: khám nha khoa sáu tháng một lần (dental check-ups booked once every six months)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Small brushes that reach the gaps between teeth",
+       "B": "Mouthwash that stains the teeth and tongue",
+       "C": "Cleaning the tongue gently to reduce bad breath",
+       "D": "Smoking as a risk factor for gum disease"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu các chi tiết được liệt kê ở đoạn 4 gồm: bàn chải nhỏ làm sạch kẽ răng, cạo lưỡi nhẹ nhàng để giảm hôi miệng, hút thuốc là yếu tố nguy cơ gây bệnh nướu răng. Chi tiết về \"nước súc miệng làm ố răng và lưỡi\" hoàn toàn không được đề cập trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "Which of the following can be inferred from paragraphs 2 and 3?",
+      "options": {
+       "A": "Rushed brushing and frequent sugary drinks can both make decay more likely",
+       "B": "Fluoride toothpaste makes sugary drinks safe for children to enjoy daily",
+       "C": "Brushing for two minutes removes all plaque from the whole mouth",
+       "D": "Chewing gum is a complete replacement for daily brushing and flossing"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2 và 3: việc chải răng quá nhanh (không đủ thời gian hai phút) và việc tiêu thụ đồ uống ngọt thường xuyên giữa các bữa ăn đều làm tăng nguy cơ sâu răng, từ đó suy luận rằng chải răng vội vã và đồ uống ngọt thường xuyên đều có thể làm tăng khả năng sâu răng."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To advertise electric toothbrushes to parents of young children",
+       "B": "To describe how dentists in many different countries are trained",
+       "C": "To explain how daily habits protect teeth and gums",
+       "D": "To warn readers that sugar should be removed from meals Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật giải chi tiết sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 mở bài nêu vấn đề sâu răng và bệnh nướu răng phổ biến, đồng thời đúc kết rằng các vấn đề nha khoa có thể được giảm thiểu bằng các thói quen chăm sóc hàng ngày đơn giản; các đoạn 2-4 hướng dẫn chi tiết cách chải răng, kiểm soát đường, dùng bàn chải kẽ răng và làm sạch lưỡi; đoạn 5 bổ sung khám nha khoa định kỳ. Do đó, bài viết tập trung giải thích cách các thói quen hàng ngày bảo vệ răng và nướu, tránh chọn các đáp án mang tính cực đoan hoặc hẹp hòi.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q2**, định vị đoạn 2 để xác định thời gian chải răng: mỗi lần chải ít nhất hai phút, hai lần một ngày (two minutes or longer, twice daily).\n  - Với **R1Q4**, quét từ khóa \"sugar-free chewing gum\" ở đoạn 3 để nhận diện lợi ích: làm cho miệng tiết ra nhiều nước bọt giúp rửa trôi thức ăn và axit (it makes the mouth produce more saliva).\n  - Với **R1Q7**, quét đoạn 5 để xác định điều phổ biến ở Vương quốc Anh: khám nha khoa sáu tháng một lần (dental check-ups booked once every six months).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"gradually\"** ở đoạn 2 mô tả quá trình axit từ mảng bám hòa tan lớp men răng bên ngoài một cách từ từ, từng chút một cho đến khi xuất hiện lỗ hổng, đồng nghĩa với \"little by little\".\n  - Với **R1Q5**, từ **\"prevent\"** ở đoạn 3 đi liền với việc kẹo cao su không đường giúp ngăn ngừa sâu răng, đồng nghĩa với \"stop from happening\".\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Đọc ngược câu chứa đại từ **\"these\"** ở đoạn 4. Câu trước nhắc đến bàn chải kẽ răng nhỏ có thể với tới khoảng trống giữa các răng, và nhiều nha sĩ khuyên dùng \"chúng\" (\"Small interdental brushes... dentists advise people to use these once a day\"), từ đó quy chiếu thẳng đến bàn chải kẽ răng (interdental brushes).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối chiếu các chi tiết được liệt kê ở đoạn 4 gồm: bàn chải nhỏ làm sạch kẽ răng, cạo lưỡi nhẹ nhàng để giảm hôi miệng, hút thuốc là yếu tố nguy cơ gây bệnh nướu răng. Chi tiết về \"nước súc miệng làm ố răng và lưỡi\" hoàn toàn không được đề cập trong bài.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ các đoạn 2 và 3: việc chải răng quá nhanh (không đủ thời gian hai phút) và việc tiêu thụ đồ uống ngọt thường xuyên giữa các bữa ăn đều làm tăng nguy cơ sâu răng, từ đó suy luận rằng chải răng vội vã và đồ uống ngọt thường xuyên đều có thể làm tăng khả năng sâu răng.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi định vị nhanh (từ vựng, quy chiếu, chi tiết đoạn) trước để tích lũy điểm số, sau đó tập trung phân tích kỹ ngữ cảnh cho câu hỏi tổng hợp ý nghĩa và suy luận để đạt kết quả hoàn hảo."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Facebook, Phones, and Children: Finding the Right Balance",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few parents today can imagine raising their children entirely without screens in the home. Phones and social networks such as Facebook now shape how many young people talk to friends, study and relax, and this has produced a lively debate about how much access is safe. This passage reviews the main evidence and argues that the question is better framed around how devices are used than around how many hours they occupy.",
+     "Most major social networks, Facebook among them, set a minimum age of thirteen. The figure comes largely from an American law, the Children's Online Privacy Protection Act, signed in 1998 and in force since April 2000. The law requires verifiable parental consent before operators collect personal information from children under thirteen, and many platforms find it simpler to ban younger users altogether than to comply.",
+     "In practice the rule is weak, because a child can easily **circumvent** it with a false birth date. A 2011 study reportedly found that parents often help their children to lie about their age on Facebook, and critics say that an outright ban encourages exactly this behaviour. Mandatory age verification is not an easy remedy either, since a task force report concluded that it can itself threaten privacy.",
+     "Sleep is one area where the evidence looks fairly consistent. In a 2018 survey, about 70 per cent of American teenagers said they used a mobile device within half an hour of going to sleep. A 2016 meta-analysis linked bedtime access to devices with insufficient sleep, poor sleep quality and daytime sleepiness. For this reason, the American Academy of Pediatrics suggests keeping devices out of bedrooms and putting screens away at least an hour before bed.",
+     "The evidence on mental health is more **tentative**. A 2023 systematic review linked social media use with depressive symptoms, mostly among girls, but some researchers have questioned these findings and most studies are correlational. Children who already feel low may spend more time online, so the direction of cause is unclear. Younger children, by contrast, are said to be affected more in language and learning than in mood, though most of this evidence is also observational.",
+     "Parents are therefore better placed than any law to shape children's habits. The same organisation also recommends a family use plan, which sets consistent limits, screen-free times and places, and shared viewing. A 2020 study associated more parental involvement with more controlled use and more educational content, whereas children who received less guidance were more likely to overuse screens.",
+     "Official guidance for the youngest children is clear, since in 2019 the World Health Organization advised no sedentary screen time for infants and no more than an hour a day for ages two to four. For older children, high-quality educational content may support learning, whereas violent media and gaming on school nights have been linked to lower achievement. Taken together, the evidence supports neither panic nor complacency about children's screen use today. The most useful question is not how many hours a child spends on a phone, but what the child is doing, when and with whom."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Social networks should be banned for under-eighteens because evidence clearly proves harm",
+       "B": "Children's screen habits depend more on guidance and content than on raw hours",
+       "C": "Age limits such as thirteen work well because platforms enforce them strictly",
+       "D": "Phones help children sleep better because the blue light calms the body"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why do many platforms ban younger users?",
+      "options": {
+       "A": "Younger users are unable to read the terms and conditions",
+       "B": "Courts forbid firms from selling any goods to children online",
+       "C": "Platforms have no technology able to store children's birth dates",
+       "D": "Banning them is simpler than complying with the law"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị đoạn 2 để xác định lý do các nền tảng cấm trẻ em dưới 13 tuổi: việc cấm người dùng nhỏ tuổi đơn giản hơn là tuân thủ luật yêu cầu sự đồng ý của phụ huynh (banning them is simpler than complying with the law)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"circumvent\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "find ways around",
+       "B": "openly support",
+       "C": "carefully follow",
+       "D": "quickly forget"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"circumvent\" ở đoạn 3 mô tả việc trẻ em dễ dàng tìm cách lách luật giới hạn độ tuổi bằng ngày sinh giả, đồng nghĩa với \"find ways around\"."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what did the 2011 study find?",
+      "options": {
+       "A": "Children soon leave Facebook after reaching the minimum age",
+       "B": "Companies often check birth dates against official records",
+       "C": "Parents often help children lie about their age",
+       "D": "Teachers rarely notice pupils who use social networks"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét nghiên cứu năm 2011 ở đoạn 3 để tìm kết quả: cha mẹ thường giúp con cái nói dối về độ tuổi của chúng trên Facebook (parents often help children lie about their age)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"tentative\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "fully proven",
+       "B": "not yet certain",
+       "C": "widely ignored",
+       "D": "highly dramatic"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"tentative\" ở đoạn 5 mô tả bằng chứng về sức khỏe tâm thần vẫn chưa chắc chắn, còn mang tính thăm dò, đồng nghĩa với \"not yet certain\"."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "screen-free times",
+       "B": "consistent limits",
+       "C": "shared viewing",
+       "D": "family use plan"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược câu chứa đại từ \"which\" ở đoạn 6. Cụm từ trước nhắc đến kế hoạch sử dụng cho gia đình (\"a family use plan... which sets consistent limits...\"), từ đó quy chiếu thẳng đến kế hoạch này (family use plan)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what does the American Academy of Pediatrics suggest?",
+      "options": {
+       "A": "Keeping devices out of children's bedrooms at night",
+       "B": "Giving children phones as soon as they enter school",
+       "C": "Using screens as a calming activity just before sleep",
+       "D": "Banning all video calls with grandparents and other relatives"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Suy luận",
+      "explanation": "quét đoạn 4 để xác định đề xuất của Viện Hàn lâm Nhi khoa Hoa Kỳ: giữ các thiết bị ra khỏi phòng ngủ của trẻ vào ban đêm (keeping devices out of children's bedrooms at night)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "An American law in force since April 2000",
+       "B": "Parents asked for consent before data is collected",
+       "C": "Court fines paid by large technology companies",
+       "D": "A minimum age of thirteen on most networks"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu các chi tiết được liệt kê ở đoạn 2 gồm: luật của Mỹ có hiệu lực từ tháng 4 năm 2000, phụ huynh được yêu cầu đồng ý trước khi dữ liệu được thu thập, độ tuổi tối thiểu là 13 trên hầu hết các mạng. Chi tiết về \"tiền phạt tòa án do các công ty công nghệ lớn chi trả\" hoàn toàn không được đề cập trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "Which of the following can be inferred from paragraphs 4, 5, and 6?",
+      "options": {
+       "A": "Teenagers who use phones at night will certainly develop serious clinical depression",
+       "B": "School screen limits alone would solve every sleep problem among all teenagers",
+       "C": "Younger children are more harmed by social media than by television viewing",
+       "D": "Parental guidance may matter more than raw hours because most evidence is correlational"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6: các bằng chứng chủ yếu mang tính tương quan và phụ thuộc vào cách sử dụng cũng như sự hướng dẫn của phụ huynh thay vì chỉ đếm số giờ thô, từ đó suy luận rằng sự hướng dẫn của phụ huynh có thể quan trọng hơn số giờ thô vì phần lớn bằng chứng chỉ mang tính tương quan."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To criticise parents who allow young children to use any digital device",
+       "B": "To examine the evidence on children's screen use and recommend balance",
+       "C": "To explain how Facebook became the most popular network among young people",
+       "D": "To prove that American privacy law has successfully protected children online Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật giải chi tiết sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 mở bài đặt vấn đề rằng câu hỏi tốt nhất xoay quanh cách sử dụng thiết bị thay vì tổng số giờ; các đoạn 2-6 phân tích quy định độ tuổi, giấc ngủ, sức khỏe tâm thần, và vai trò định hướng của phụ huynh; đoạn 7 kết luận rằng bằng chứng cho thấy sự cân bằng, không hoảng loạn cũng không chủ quan. Do đó, bài viết tập trung chứng minh thói quen màn hình của trẻ phụ thuộc vào sự định hướng và nội dung hơn là số giờ đơn thuần, tránh chọn các đáp án cực đoan hoặc hẹp hòi.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q2**, định vị đoạn 2 để xác định lý do các nền tảng cấm trẻ em dưới 13 tuổi: việc cấm người dùng nhỏ tuổi đơn giản hơn là tuân thủ luật yêu cầu sự đồng ý của phụ huynh (banning them is simpler than complying with the law).\n  - Với **R2Q4**, quét nghiên cứu năm 2011 ở đoạn 3 để tìm kết quả: cha mẹ thường giúp con cái nói dối về độ tuổi của chúng trên Facebook (parents often help children lie about their age).\n  - Với **R2Q7**, quét đoạn 4 để xác định đề xuất của Viện Hàn lâm Nhi khoa Hoa Kỳ: giữ các thiết bị ra khỏi phòng ngủ của trẻ vào ban đêm (keeping devices out of children's bedrooms at night).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"circumvent\"** ở đoạn 3 mô tả việc trẻ em dễ dàng tìm cách lách luật giới hạn độ tuổi bằng ngày sinh giả, đồng nghĩa với \"find ways around\".\n  - Với **R2Q5**, từ **\"tentative\"** ở đoạn 5 mô tả bằng chứng về sức khỏe tâm thần vẫn chưa chắc chắn, còn mang tính thăm dò, đồng nghĩa với \"not yet certain\".\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Đọc ngược câu chứa đại từ **\"which\"** ở đoạn 6. Cụm từ trước nhắc đến kế hoạch sử dụng cho gia đình (\"a family use plan... which sets consistent limits...\"), từ đó quy chiếu thẳng đến kế hoạch này (family use plan).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối chiếu các chi tiết được liệt kê ở đoạn 2 gồm: luật của Mỹ có hiệu lực từ tháng 4 năm 2000, phụ huynh được yêu cầu đồng ý trước khi dữ liệu được thu thập, độ tuổi tối thiểu là 13 trên hầu hết các mạng. Chi tiết về \"tiền phạt tòa án do các công ty công nghệ lớn chi trả\" hoàn toàn không được đề cập trong bài.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6: các bằng chứng chủ yếu mang tính tương quan và phụ thuộc vào cách sử dụng cũng như sự hướng dẫn của phụ huynh thay vì chỉ đếm số giờ thô, từ đó suy luận rằng sự hướng dẫn của phụ huynh có thể quan trọng hơn số giờ thô vì phần lớn bằng chứng chỉ mang tính tương quan.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi định vị nhanh (từ vựng, quy chiếu, chi tiết đoạn) trước để tích lũy đáp án chắc chắn, sau đó tập trung phân tích kỹ ngữ cảnh cho câu hỏi tổng hợp ý nghĩa và suy luận để đạt kết quả tốt nhất."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Viruses: The Strange Boundary Between Life and Non-Life",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few distinctions in science seem as secure as the one between living and non-living things, yet viruses sit uncomfortably on that line. They carry genes, evolve by natural selection and multiply, but they can do so only inside host cells. This passage explains why scientists still disagree about whether viruses are alive, and why the disagreement matters for how their origins and behaviour are understood.",
+     "Viruses are extremely small. Most are about one hundredth the size of a typical bacterium, and more than a thousand bacteriophages could fit inside a single Escherichia coli cell. Each particle, or virion, consists of a genome of DNA or RNA enclosed in a protein coat called a capsid, and some also carry a lipid envelope taken from the host cell. Genome sizes range from about two kilobases in circoviruses to about two megabases in pandoraviruses.",
+     "Outside a host, a virion is **inert**, because it cannot grow, move or generate energy by itself. Rivers defined viruses as obligate parasites in 1926, and a typical infection follows six stages. The virion attaches to a host cell, releases its genome, directs the cell to copy that genome and build proteins, and assembles new particles that escape by bursting the cell or budding from it.",
+     "Whether this behaviour makes viruses alive is disputed. On one side, viruses contain genes, evolve by natural selection and assemble themselves from simpler components. On the other side, they lack any cellular structure and any metabolism of their own, which is why they have been described both as organisms at the edge of life and as mere replicators. Definitions of life are therefore tested, not settled, by an entity that is neither plainly alive nor plainly inanimate.",
+     "The origin of viruses is as unsettled as their status, and three main hypotheses compete. The regressive hypothesis suggests that viruses descend from small cells that lost genes as they adopted a parasitic lifestyle. **[1]** The escape hypothesis proposes that they arose from fragments of genetic material, such as plasmids or transposons, that broke free from cells. **[2]** A third hypothesis, co-evolution, holds that viruses developed alongside the earliest cells and are therefore at least as ancient as the three domains of life. **[3]** That entanglement may also help to explain why viruses probably arose many times rather than once. [4]",
+     "Viruses are also powerful agents of evolutionary change. They are an important route for horizontal gene transfer, which raises genetic diversity. RNA viruses copy their genes less accurately than DNA viruses do, which limits the size of their genomes and keeps them smaller than those of most DNA viruses. When two influenza strains infect the same cell, their genetic segments can be reshuffled, and reassortment of this kind has produced pandemic strains. The 1918 influenza pandemic is estimated to have killed between 40 million and 100 million people.",
+     "Giant viruses have blurred the boundary even further. Megavirus chilensis, described in 2011, can be seen under a basic optical microscope, and pandoraviruses reportedly carry genomes that encode about 2,500 proteins. Some biologists therefore favour the virocell model, in which the infected cell is the living form of the virus with the virion itself resembling a spore. A definitive answer remains **elusive**, because it depends on how life is defined."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Viruses are clearly living organisms because they carry genes and evolve",
+       "B": "Viruses blur the line between life and non-life, and scientists still disagree today",
+       "C": "Viruses are simple chemicals and their origins have been fully explained today",
+       "D": "Bacteria are more numerous than viruses and cause most human diseases worldwide"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what encloses the genome of a virion?",
+      "options": {
+       "A": "A wall of cellulose built by the virion",
+       "B": "A shell of calcium secreted by bacteria",
+       "C": "A protein coat called a capsid",
+       "D": "A layer of fat produced inside the virion"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị đoạn 2 để xác định thành phần bao bọc bộ gen của virion: lớp vỏ protein gọi là capsid (a protein coat called a capsid)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"inert\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "showing no activity",
+       "B": "highly infectious",
+       "C": "fully dissolved",
+       "D": "rapidly growing"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"inert\" ở đoạn 3 mô tả trạng thái trơ, không hoạt động của virion bên ngoài tế bào chủ, đồng nghĩa với \"showing no activity\"."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such co-evolution would help to explain why viruses are so deeply entangled with the history of cellular life.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Chèn câu",
+      "explanation": null
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, how can new virus particles leave the host cell?",
+      "options": {
+       "A": "By dissolving the nucleus and travelling through the bloodstream alone",
+       "B": "By remaining inside the nucleus for the host's lifetime",
+       "C": "By bursting the cell or budding from its membrane",
+       "D": "By waiting until the host cell divides normally"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để xác định cách virus rời khỏi tế bào chủ: bằng cách làm vỡ tế bào hoặc nảy chồi từ màng tế bào (by bursting the cell or budding from its membrane)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"those\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "genomes",
+       "B": "particles",
+       "C": "proteins",
+       "D": "hosts"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược câu chứa đại từ \"those\" ở đoạn 6. Cụm từ so sánh kích thước bộ gen của virus RNA nhỏ hơn kích thước bộ gen (\"those\") của hầu hết virus DNA, từ đó quy chiếu thẳng đến danh từ \"genomes\" (bộ gen)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"elusive\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "freely available",
+       "B": "hard to capture",
+       "C": "widely shared",
+       "D": "quickly achieved"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"elusive\" ở đoạn 7 đi liền với việc câu trả lời dứt khoát về việc virus có sống hay không vẫn khó nắm bắt, khó đạt được, đồng nghĩa với \"hard to capture\"."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Gene transfer between hosts that increases genetic diversity",
+       "B": "Reshuffled segments in influenza strains infecting the same cell",
+       "C": "Estimates of deaths in the 1918 influenza pandemic",
+       "D": "Vaccines protecting people against many viral infections"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các chi tiết được liệt kê ở đoạn 6 gồm: chuyển gen ngang tăng đa dạng di truyền, các đoạn gen cúm tái tổ hợp khi nhiễm cùng tế bào, ước tính số người chết trong đại dịch cúm 1918. Chi tiết về \"vắc-xin bảo vệ con người chống lại nhiều bệnh nhiễm trùng do virus\" hoàn toàn không được đề cập trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "Which of the following can be inferred from paragraphs 3, 4, and 5 about viruses?",
+      "options": {
+       "A": "Viruses may be hard to classify partly because their origins remain so uncertain",
+       "B": "Viruses must be alive because they evolve by natural selection alone",
+       "C": "Viruses arose just once, from bacteria that lost their genes through parasitism",
+       "D": "Viruses can reproduce independently once they have escaped from their host cell"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 5: sự bất định về nguồn gốc (nhiều giả thuyết cạnh tranh) song hành cùng tranh cãi về việc phân loại virus, từ đó suy luận rằng virus có thể khó phân loại một phần vì nguồn gốc của chúng vẫn còn rất không chắc chắn."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that viruses should be eradicated through universal vaccination programmes worldwide",
+       "B": "To describe how viruses were first discovered in tobacco plants",
+       "C": "To show why viruses resist classification as simply living or non-living",
+       "D": "To compare the dangers of bacterial and viral infections in humans Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật giải chi tiết sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 đặt vấn đề virus nằm lấp lửng giữa ranh giới sống và không sống; các đoạn 2-4 phân tích cấu trúc, chu kỳ lây nhiễm và những tranh cãi xoay quanh việc định nghĩa sự sống; đoạn 5 trình bày các giả thuyết về nguồn gốc; đoạn 6-7 thảo luận về vai trò tiến hóa và các virus khổng lồ làm mờ thêm ranh giới. Do đó, bài viết tập trung chứng minh virus làm mờ ranh giới giữa sự sống và không sống và các nhà khoa học vẫn tranh cãi, tránh chọn các đáp án cực đoan hoặc hẹp hòi.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q2**, định vị đoạn 2 để xác định thành phần bao bọc bộ gen của virion: lớp vỏ protein gọi là capsid (a protein coat called a capsid).\n  - Với **R3Q5**, quét đoạn 3 để xác định cách virus rời khỏi tế bào chủ: bằng cách làm vỡ tế bào hoặc nảy chồi từ màng tế bào (by bursting the cell or budding from its membrane).\n  - Với **R3Q8**, đối chiếu các chi tiết được liệt kê ở đoạn 6 gồm: chuyển gen ngang tăng đa dạng di truyền, các đoạn gen cúm tái tổ hợp khi nhiễm cùng tế bào, ước tính số người chết trong đại dịch cúm 1918. Chi tiết về \"vắc-xin bảo vệ con người chống lại nhiều bệnh nhiễm trùng do virus\" hoàn toàn không được đề cập trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"inert\"** ở đoạn 3 mô tả trạng thái trơ, không hoạt động của virion bên ngoài tế bào chủ, đồng nghĩa với \"showing no activity\".\n  - Với **R3Q7**, từ **\"elusive\"** ở đoạn 7 đi liền với việc câu trả lời dứt khoát về việc virus có sống hay không vẫn khó nắm bắt, khó đạt được, đồng nghĩa với \"hard to capture\".\n- **Dạng câu hỏi Điền câu (Sentence Insertion - R3Q4):** Đọc ngữ cảnh tại các vị trí ngoặc vuông ở đoạn 5. Vị trí **[4]** nằm ngay sau câu nói về giả thuyết đồng tiến hóa (co-evolution) phát triển song song với các tế bào đầu tiên và cổ xưa như ba vực sự sống. Câu cần điền (\"Sự đồng tiến hóa như vậy sẽ giúp giải thích tại sao virus lại gắn kết sâu sắc với lịch sử của sự sống tế bào\") liên kết hoàn hảo ở vị trí này để giải thích trực tiếp cho sự vướng víu, gắn kết từ giả thuyết đồng tiến hóa trước khi mở rộng sang ý nghĩa phát sinh nhiều lần ở câu sau.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Đọc ngược câu chứa đại từ **\"those\"** ở đoạn 6. Cụm từ so sánh kích thước bộ gen của virus RNA nhỏ hơn kích thước bộ gen (\"those\") của hầu hết virus DNA, từ đó quy chiếu thẳng đến danh từ \"genomes\" (bộ gen).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 5: sự bất định về nguồn gốc (nhiều giả thuyết cạnh tranh) song hành cùng tranh cãi về việc phân loại virus, từ đó suy luận rằng virus có thể khó phân loại một phần vì nguồn gốc của chúng vẫn còn rất không chắc chắn.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi định vị nhanh (từ vựng, quy chiếu, chi tiết đoạn) trước để tích lũy điểm số, sau đó tập trung phân tích kỹ ngữ cảnh cho câu hỏi điền câu và các câu hỏi tổng hợp ý nghĩa để đạt kết quả hoàn hảo."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Plate Tectonics and the Architecture of a Restless Earth",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "The surface of the Earth is not a single shell but a mosaic of rigid plates, and the slow movement of these plates shapes mountains, oceans, earthquakes and volcanoes. Plate tectonics, the theory that describes this movement, divides the rigid outer shell into seven or eight major plates and many smaller ones that move at up to about ten centimetres a year. This passage examines how the movement works, why it occurs and how the theory came to be accepted.",
+     "Plates are segments of the lithosphere, the cool and rigid layer that includes the crust and upper mantle. Beneath it lies the asthenosphere, a hotter and more **ductile** layer that flows slowly and carries the plates on its surface. Oceanic lithosphere averages about 100 kilometres in thickness, whereas continental lithosphere is about 200 kilometres thick, a contrast that helps to explain why the two behave so differently.",
+     "At divergent boundaries, plates move apart, creating new ocean basins such as the Mid-Atlantic Ridge or continental rifts such as the East African Rift. At convergent boundaries, plates collide, raising mountain ranges such as the Andes, the Alps and the Himalayas and forming trenches where one plate sinks. At transform boundaries, plates slide past one another, as along the San Andreas Fault in California. Speeds vary, from about ten to forty millimetres a year at the Mid-Atlantic Ridge to as much as sixteen centimetres a year for the Nazca plate.",
+     "Where plates converge, the denser oceanic plate usually sinks beneath its neighbour into the mantle, forming a deep trench. **[1]** As the descending slab sinks, it releases water into the overlying mantle, and this water lowers the melting point of the rock enough for partial melting to begin. **[2]** That volcanism helps to explain why most of the world's active volcanoes lie along plate boundaries, especially around the Pacific Ring of Fire. **[3]** Earthquakes, meanwhile, trace the descending plate, and deep trenches mark the surface line where it begins to sink. **[4]** Subduction therefore destroys oceanic crust as steadily as ridges create it, which is why the ocean floors are much younger than the continents.",
+     "Mantle convection provides the broad background to plate motion, but slab pull, the sinking of a dense oceanic plate at a subduction zone, is generally regarded as the strongest driver. Ridge push, the gravitational sliding of plates away from elevated ridges, is considered secondary, and other proposed influences such as tidal drag from the Moon remain debated. Hotspots, by contrast, seem to stay roughly fixed while plates drift over them.",
+     "Alfred Wegener, **whose** 1915 book The Origin of Continents and Oceans expanded a proposal first presented in 1912, argued that the continents had once formed a single landmass later called Pangaea. His idea was largely rejected because he could not explain what moved the continents, although Arthur Holmes later proposed that mantle convection might be responsible. Evidence then accumulated from the ocean floor, where magnetic stripes of alternating polarity, explained by Vine, Matthews and Morley in 1963, showed that new crust forms at ridges and spreads outward. By the mid-1960s the new theory of plate tectonics had been largely accepted by geophysicists.",
+     "Plate motion has repeatedly assembled and broken up supercontinents, among them Nuna, Rodinia and Pangaea. The date at which plate tectonics began is still **contested**, with estimates ranging from about 3.8 billion to about 800 million years ago. The restless planet beneath our feet is therefore best understood not as a fixed map but as a slowly moving system in which mountains, oceans and hazards all follow from the motion of its plates."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Continents have stayed fixed since Pangaea formed about 200 million years ago",
+       "B": "Earthquakes and volcanoes are caused mainly by heat from the Earth's core",
+       "C": "Ridge push alone drives every plate at the same speed today",
+       "D": "Moving plates shape the Earth's surface, and the theory describing them won acceptance"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what does the asthenosphere do?",
+      "options": {
+       "A": "It flows slowly and carries the plates above",
+       "B": "It forms the cold outer shell of the planet",
+       "C": "It remains completely solid and never moves at all",
+       "D": "It is thinner than the crust beneath the oceans"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị đoạn 2 để xác định vai trò của tầng quyển mềm (asthenosphere): chảy chậm và mang các mảng kiến tạo ở phía trên (it flows slowly and carries the plates above)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"ductile\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "easily broken",
+       "B": "extremely dense",
+       "C": "capable of flowing",
+       "D": "firmly fixed"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ductile\" ở đoạn 2 mô tả tầng asthenosphere nóng hơn, có khả năng chảy chậm và dẻo dai, đồng nghĩa với khả năng chảy (capable of flowing)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such melting generates the magma that rises to feed chains of volcanoes above the sinking plate.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Chèn câu",
+      "explanation": null
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what happens at convergent boundaries?",
+      "options": {
+       "A": "New ocean basins open as the plates move steadily apart",
+       "B": "Plates slide past one another without creating new crust",
+       "C": "Plates stop moving once they reach the coast",
+       "D": "Mountain ranges rise and trenches form where plates collide"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để xác định hiện tượng xảy ra tại ranh giới hội tụ (convergent boundaries): dãy núi dâng cao và rãnh sâu hình thành khi các mảng va chạm (Mountain ranges rise and trenches form where plates collide)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"whose\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Alfred Wegener",
+       "B": "Arthur Holmes",
+       "C": "Harry Hess",
+       "D": "Fred Vine"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Đọc ngược câu chứa đại từ \"whose\" ở đoạn 6. Mệnh đề nhắc đến sách năm 1915 của Alfred Wegener (\"Alfred Wegener, whose 1915 book...\"), từ đó quy chiếu thẳng đến nhà khoa học Alfred Wegener."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"contested\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "firmly settled",
+       "B": "still under dispute",
+       "C": "clearly measured",
+       "D": "widely forgotten"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"contested\" ở đoạn 7 đi liền với việc mốc thời gian bắt đầu của kiến tạo mảng vẫn còn ước tính và tranh cãi, đồng nghĩa với việc vẫn còn tranh chấp (still under dispute)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Continental rifts such as the East African Rift",
+       "B": "Mountain ranges raised where plates collide, including the Alps",
+       "C": "Volcanic islands such as Hawaii above hotspots",
+       "D": "The San Andreas Fault as a transform boundary"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các chi tiết được liệt kê ở đoạn 3 gồm: rách lục địa như Đới tách giãn Đông Phi, các dãy núi hình thành khi mảng va chạm (bao gồm Alps), đứt gãy San Andreas như ranh giới biến đổi. Chi tiết về \"các hòn đảo núi lửa như Hawaii phía trên các điểm nóng (hotspots)\" hoàn toàn không được đề cập trong đoạn 3 này (điểm nóng nằm ở đoạn 5)."
+     },
+     {
+      "number": 39,
+      "stem": "Which of the following can be inferred from paragraphs 4, 5, and 6 about plate tectonics?",
+      "options": {
+       "A": "Wegener's theory was rejected because he had ignored the evidence from fossils",
+       "B": "Slab pull alone explains why every ocean floor is older than continents",
+       "C": "Seafloor evidence appeared only after the theory was already fully accepted",
+       "D": "Its acceptance depended on finding the forces and ocean-floor evidence that Wegener lacked"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6: Wegener ban đầu bị bác bỏ vì thiếu cơ chế lực và bằng chứng đáy đại dương, và thuyết chỉ được chấp nhận sau khi bổ sung thêm các lực động học (như dòng đối lưu mantle) và bằng chứng sọc từ tính đáy đại dương, từ đó suy luận rằng sự chấp nhận của thuyết phụ thuộc vào việc tìm ra các lực và bằng chứng đáy đại dương mà Wegener còn thiếu."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To explain how plates shape Earth and how the theory arose",
+       "B": "To predict where the next major earthquake will strike along transform boundaries",
+       "C": "To argue that Wegener deserves more credit than the geophysicists who followed",
+       "D": "To compare Earth's tectonics with the geology of Venus and Mars"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật giải chi tiết sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 giới thiệu các mảng kiến tạo di chuyển và hình thành nên địa hình bề mặt trái đất cùng quá trình thuyết này được chấp nhận; các đoạn 2-5 phân tích cấu trúc mảng, ranh giới mảng (phân kỳ, hội tụ, biến dạng), hoạt động núi lửa, động đất và các lực thúc đẩy (slab pull, ridge push); các đoạn 6-7 kể lại lịch sử hình thành thuyết của Alfred Wegener và các bằng chứng từ đáy đại dương. Do đó, bài viết tập trung giải thích cách các mảng chuyển động định hình bề mặt trái đất và cách lý thuyết đó giành được sự chấp nhận, tránh chọn các đáp án mang tính cực đoan hoặc hẹp hòi.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q2**, định vị đoạn 2 để xác định vai trò của tầng quyển mềm (asthenosphere): chảy chậm và mang các mảng kiến tạo ở phía trên (it flows slowly and carries the plates above).\n  - Với **R4Q5**, quét đoạn 3 để xác định hiện tượng xảy ra tại ranh giới hội tụ (convergent boundaries): dãy núi dâng cao và rãnh sâu hình thành khi các mảng va chạm (Mountain ranges rise and trenches form where plates collide).\n  - Với **R4Q8**, đối chiếu các chi tiết được liệt kê ở đoạn 3 gồm: rách lục địa như Đới tách giãn Đông Phi, các dãy núi hình thành khi mảng va chạm (bao gồm Alps), đứt gãy San Andreas như ranh giới biến đổi. Chi tiết về \"các hòn đảo núi lửa như Hawaii phía trên các điểm nóng (hotspots)\" hoàn toàn không được đề cập trong đoạn 3 này (điểm nóng nằm ở đoạn 5).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"ductile\"** ở đoạn 2 mô tả tầng asthenosphere nóng hơn, có khả năng chảy chậm và dẻo dai, đồng nghĩa với khả năng chảy (capable of flowing).\n  - Với **R4Q7**, từ **\"contested\"** ở đoạn 7 đi liền với việc mốc thời gian bắt đầu của kiến tạo mảng vẫn còn ước tính và tranh cãi, đồng nghĩa với việc vẫn còn tranh chấp (still under dispute).\n- **Dạng câu hỏi Điền câu (Sentence Insertion - R4Q4):** Đọc ngữ cảnh tại các vị trí ngoặc vuông ở đoạn 4. Vị trí **[2]** nằm ngay sau câu nói về việc tấm mảng chìm giải phóng nước làm giảm điểm nóng chảy của đá để bắt đầu tan chảy một phần. Câu cần điền (\"Sự tan chảy như vậy tạo ra magma dâng lên để nuôi dưỡng các chuỗi núi lửa phía trên mảng đang chìm\") liên kết hoàn hảo ở vị trí này để giải thích trực tiếp kết quả của sự tan chảy trước khi dẫn đến câu nói về hoạt động núi lửa ở vị trí [3].\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Đọc ngược câu chứa đại từ **\"whose\"** ở đoạn 6. Mệnh đề nhắc đến sách năm 1915 của Alfred Wegener (\"Alfred Wegener, whose 1915 book...\"), từ đó quy chiếu thẳng đến nhà khoa học Alfred Wegener.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6: Wegener ban đầu bị bác bỏ vì thiếu cơ chế lực và bằng chứng đáy đại dương, và thuyết chỉ được chấp nhận sau khi bổ sung thêm các lực động học (như dòng đối lưu mantle) và bằng chứng sọc từ tính đáy đại dương, từ đó suy luận rằng sự chấp nhận của thuyết phụ thuộc vào việc tìm ra các lực và bằng chứng đáy đại dương mà Wegener còn thiếu.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi định vị nhanh (từ vựng, quy chiếu, chi tiết đoạn) trước để tích lũy điểm số, sau đó tập trung phân tích kỹ ngữ cảnh cho câu hỏi điền câu và các câu hỏi tổng hợp ý nghĩa để đạt kết quả hoàn hảo."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend asking about a summer trip you can take together.\nYour friend wants to know about a suitable beach destination and how you can enjoy the trip without spending too much money.\nWrite an email to your friend to discuss your plan for the summer holiday. Give some information about the beach, activities you can do there and ways to manage your expenses.\n- Describe the beach destination you suggest.\n- Tell your friend about activities you can do during the trip.\n- Explain how to spend money reasonably during the holiday.\nWrite an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend asking about a summer trip you can take together.",
+      "Your friend wants to know about a suitable beach destination and how you can enjoy the trip without spending too much money."
+     ],
+     "quote": [
+      "Write an email to your friend to discuss your plan for the summer holiday. Give some information about the beach, activities you can do there and ways to manage your expenses.",
+      "- Describe the beach destination you suggest.",
+      "- Tell your friend about activities you can do during the trip.",
+      "- Explain how to spend money reasonably during the holiday."
+     ],
+     "instruction": "Write an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (thư thân mật) vì người nhận là bạn bè. Bạn cần sử dụng giọng văn tự nhiên, gần gũi thay vì quá trang trọng.\n- Đề yêu cầu bạn trả lời 3 ý chính: giới thiệu địa điểm biển phù hợp, đề xuất hoạt động trong chuyến đi và đưa ra cách chi tiêu hợp lí.\n- Bài viết cần đạt tối thiểu **120 từ**, vì vậy cần phát triển ý bằng cách thêm ví dụ và cảm nhận cá nhân thay vì chỉ trả lời ngắn gọn từng câu hỏi.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Bắt đầu bằng lời chào thân mật. Ví dụ: Dear John,\n- **Opening:** Cảm ơn thư của bạn và giới thiệu chủ đề. Ví dụ: It was great to hear from you. I am excited about our summer trip.\n- **Body:** Chia phần thân bài thành các đoạn nhỏ: giới thiệu bãi biển, hoạt động vui chơi và cách tiết kiệm chi phí.\n- **Closing:** Kết thúc bằng lời mong chờ chuyến đi. Ví dụ: I hope we can have a wonderful holiday together.\n- **Sign-off:** Sử dụng cách kết thúc thân mật như Best wishes hoặc See you soon.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì hiện tại đơn để mô tả địa điểm và hoạt động phổ biến, sử dụng tương lai đơn hoặc be going to để nói về kế hoạch chuyến đi.\n- Mỗi ý nên được mở rộng bằng lý do hoặc ví dụ cụ thể để tăng điểm Task Fulfillment.\n- Tránh lặp lại các từ đơn giản như good, nice, fun quá nhiều lần; thay bằng từ vựng đa dạng hơn.\nTừ vựng quan trọng:\n- **Beach destination:** Điểm đến bãi biển\n- **Beautiful coastline:** Đường bờ biển đẹp\n- **Seafood restaurant:** Nhà hàng hải sản\n- **Outdoor activities:** Hoạt động ngoài trời\n- **Travel expenses:** Chi phí du lịch\n- **Budget-friendly:** Phù hợp với ngân sách\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Besides:** Bên cạnh đó\n- **Moreover:** Hơn nữa\n- **However:** Tuy nhiên\n- **Therefore:** Vì vậy\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am really excited about:** Tôi rất hào hứng về\n- **I am looking forward to:** Tôi mong chờ\n- **I think it will be a memorable experience:** Tôi nghĩ đây sẽ là trải nghiệm đáng nhớ\n\n**4. Các lỗi thường gặp:**\n- Viết thư như một bài luận, thiếu yếu tố giao tiếp thân mật.\n- Không đề cập đầy đủ cả ba yêu cầu trong đề bài.\n- Sử dụng sai thì khi nói về kế hoạch tương lai hoặc trải nghiệm du lịch.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra bài đã có lời chào và lời kết chưa.\n- Đảm bảo đã trả lời đủ địa điểm, hoạt động và cách tiết kiệm tiền.\n- Kiểm tra lỗi chia động từ, chính tả và số lượng từ.\n\n**6. Tư duy làm bài:**\nHãy xem đây như một cuộc trò chuyện với bạn bè. Ưu tiên sự rõ ràng, đầy đủ thông tin và cách diễn đạt tự nhiên thay vì cố sử dụng cấu trúc quá phức tạp.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn today's rapidly changing world, many people believe that education is a lifelong process rather than something that ends after school or university.\nSome people argue that people should continue learning throughout their lives to improve themselves, while others think formal education is enough for personal and professional development.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about whether education should continue after school and university. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In today's rapidly changing world, many people believe that education is a lifelong process rather than something that ends after school or university.",
+      "Some people argue that people should continue learning throughout their lives to improve themselves, while others think formal education is enough for personal and professional development.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about whether education should continue after school and university. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Discussion Essay**. Bạn cần trình bày hai quan điểm khác nhau về việc giáo dục có nên tiếp tục sau trường học và đại học hay không, sau đó đưa ra ý kiến cá nhân.\n- Từ khóa quan trọng là **education should not stop** và **after school and university**. Cần tập trung vào việc học suốt đời, không chỉ nói về giáo dục chính quy.\n- Bài viết yêu cầu tối thiểu **250 từ**. Cần đảm bảo có mở bài, các đoạn thân bài và kết luận rõ ràng để đáp ứng tiêu chí Task Response.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vấn đề và nêu quan điểm chung. Ví dụ: Education is no longer limited to schools and universities in modern society.\n- **Body 1:** Trình bày lý do ủng hộ việc học suốt đời. Cấu trúc nên gồm Topic sentence -> Explanation -> Example -> Mini-conclusion. Ví dụ: Lifelong learning helps people adapt to changes in their careers.\n- **Body 2:** Trình bày quan điểm cho rằng giáo dục chính thức đã đủ hoặc việc học thêm có thể gây áp lực. Ví dụ: Some people believe that continuous learning requires a great amount of time and effort.\n- **Body 3 (nếu cần):** Có thể mở rộng bằng cách so sánh lợi ích lâu dài của việc tiếp tục học tập.\n- **Conclusion:** Tóm tắt hai quan điểm và khẳng định ý kiến cá nhân. Ví dụ: In conclusion, I believe lifelong learning is essential for personal growth and career success.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng hiện tại đơn để nói về xu hướng và sự thật chung. Có thể dùng hiện tại hoàn thành khi nói về sự thay đổi trong xã hội.\n- Phát triển ý bằng công thức Explanation + Example + Result để đoạn văn không bị ngắn.\n- Cần có Thesis Statement rõ ràng trong mở bài và sử dụng từ nối để tạo sự mạch lạc.\nTừ vựng quan trọng:\n- **Lifelong learning:** Học tập suốt đời\n- **Professional development:** Phát triển nghề nghiệp\n- **Personal growth:** Sự phát triển cá nhân\n- **Acquire new skills:** Tiếp thu kỹ năng mới\n- **Knowledge expansion:** Mở rộng kiến thức\n- **Career opportunities:** Cơ hội nghề nghiệp\nTừ nối (Linking words):\n- **On the one hand:** Một mặt\n- **On the other hand:** Mặt khác\n- **In addition:** Ngoài ra\n- **As a result:** Kết quả là\n- **For example:** Ví dụ\n- **In conclusion:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Formal education:** Giáo dục chính quy, thay cho school and university education.\n- **Continuous learning:** Việc học liên tục, thay cho education that does not stop.\n- **Developing knowledge and abilities:** Phát triển kiến thức và năng lực, thay cho improving yourself.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is widely believed that:** Nhiều người tin rằng, dùng để giới thiệu quan điểm chung.\n- **I strongly believe that:** Tôi hoàn toàn tin rằng, dùng để nêu ý kiến cá nhân.\n- **Compared with:** So với, dùng để so sánh hai quan điểm.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trình bày một mặt mà không thảo luận quan điểm còn lại.\n- Viết ý quá chung chung như education is important nhưng không giải thích tại sao.\n- Sử dụng từ vựng học thuật nhưng sai ngữ cảnh hoặc lặp từ quá nhiều.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra đã có quan điểm cá nhân rõ ràng trong mở bài và kết luận chưa.\n- Đảm bảo cả hai mặt của vấn đề đều được thảo luận.\n- Kiểm tra lỗi ngữ pháp, chính tả và số lượng từ tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\nHãy tập trung vào việc phát triển ý tưởng rõ ràng và có dẫn chứng. Một bài viết logic, đầy đủ và dễ hiểu thường đạt điểm cao hơn một bài cố gắng sử dụng quá nhiều cấu trúc phức tạp."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about drinks\n\n1\nWhat is your favorite drink and why do you like it?\n2\nHow often do you drink your favorite beverage?\n3\nDo you think people should pay more attention to choosing healthy drinks? Why?\n\nNow, let’s talk about clothes\n\n4\nWhat kind of clothes do you like wearing most?\n5\nDo you prefer shopping online or shopping at physical stores?\n6\nWhat are the advantages and disadvantages of online shopping?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 là phần trò chuyện cá nhân trong khoảng **3 phút** với tổng cộng **6 câu hỏi** thuộc 2 chủ đề khác nhau.\n- **Topic A (Favorite Drinks):** Các câu hỏi 1–3 tập trung vào sở thích cá nhân, thói quen ăn uống và quan điểm về việc lựa chọn đồ uống. Bạn cần thể hiện khả năng mô tả sở thích và đưa ra lý do.\n- **Topic B (Clothing and Shopping):** Các câu hỏi 4–6 nói về phong cách ăn mặc, thói quen mua sắm và so sánh giữa mua hàng trực tuyến với cửa hàng truyền thống.\n- Tiêu chí chấm điểm chính gồm **Fluency, Vocabulary, Grammar và Pronunciation**. Bạn cần nói tự nhiên, phát triển câu trả lời thay vì chỉ trả lời ngắn.\n- Nên phân bổ khoảng **25–35 giây cho mỗi câu hỏi** để đảm bảo cân bằng giữa Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)**: trả lời trực tiếp -> giải thích lý do -> đưa ví dụ cá nhân.\n- **Ví dụ Topic A:** I really like coffee because it helps me feel more energetic in the morning. For example, I usually drink a cup of coffee before going to work.\n- **Ví dụ Topic B:** I prefer shopping online because it is convenient and saves a lot of time. For instance, I can buy clothes without going outside.\n- Luôn tự hỏi thêm câu hỏi **Why?** hoặc **How?** sau câu trả lời để kéo dài ý tưởng.\n- Khi chuyển từ Topic A sang Topic B, có thể dùng câu chuyển tự nhiên như: Now, moving to another topic, I would like to talk about my clothing style.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định, sử dụng các cụm từ như well, actually, I think để tránh khoảng lặng.\n- Dùng **hiện tại đơn** khi nói về thói quen: I usually drink... / I often buy...\n- Dùng cấu trúc so sánh khi nói về mua sắm: Online shopping is more convenient than traditional shopping.\n- **Vocabulary Topic A:** healthy beverage (đồ uống tốt cho sức khỏe), refreshing drink (đồ uống giải khát), drinking habit (thói quen uống nước).\n- **Vocabulary Topic B:** fashion style (phong cách thời trang), casual clothes (quần áo thường ngày), shopping experience (trải nghiệm mua sắm).\nCụm từ quan trọng nên dùng:\n- **Favorite beverage:** đồ uống yêu thích.\n- **Quench my thirst:** giải khát, làm dịu cơn khát.\n- **A healthy lifestyle:** lối sống lành mạnh.\n- **Fashion trend:** xu hướng thời trang.\n- **Online shopping platform:** nền tảng mua sắm trực tuyến.\n- **Try on clothes:** thử quần áo.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên, dùng để bắt đầu ý.\n- **Because:** bởi vì, dùng để giải thích lý do.\n- **For example:** ví dụ là, dùng để mở rộng câu trả lời.\n- **However:** tuy nhiên, dùng khi đưa ra sự khác biệt.\n- **In my opinion:** theo quan điểm của tôi, dùng để nêu ý kiến cá nhân.\nCách thể hiện quan điểm tự nhiên:\n- **I personally prefer...** (Tôi cá nhân thích...) Ví dụ: I personally prefer drinking tea because it is relaxing.\n- **I believe that...** (Tôi tin rằng...) Ví dụ: I believe online shopping is useful for busy people.\n- **From my point of view...** (Theo quan điểm của tôi...) Ví dụ: From my point of view, choosing healthy drinks is important.\n- **In my opinion...** (Theo ý kiến của tôi...) Ví dụ: In my opinion, clothes should be comfortable and suitable.\n\n**4. Các lỗi thường gặp:**\n- Trả lời chỉ bằng Yes hoặc No rồi dừng lại, đây là lỗi khiến điểm Fluency giảm mạnh.\n- Với Topic A, tránh chỉ nói tên đồ uống mà không giải thích tại sao bạn thích nó.\n- Với Topic B, tránh chỉ nói online shopping tốt hoặc xấu mà không đưa ra ví dụ cụ thể.\n- Dùng sai thì khi nói về thói quen như dùng quá khứ cho hoạt động thường xuyên.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: That is an interesting question, let me think for a second.\n- Nếu quên từ vựng, hãy mô tả đặc điểm thay vì dừng lại.\n- Với Topic A, có thể chuyển sang nói về hương vị, lợi ích hoặc thời điểm uống.\n- Với Topic B, có thể chuyển sang nói về giá cả, sự tiện lợi hoặc chất lượng sản phẩm.\n\n**6. Tư duy làm bài nói:**\n- Xem Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n- Khi chuyển từ Topic A sang Topic B, hãy giữ tâm lý thoải mái và bắt đầu lại bằng ý mới.\n- Ưu tiên sự tự nhiên, rõ ràng và mạch lạc hơn việc cố sử dụng từ vựng quá khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou have the opportunity to learn one new skill to improve yourself in the future.\n\nYou are considering the following options:\n\nOption 1: Learn a foreign language\nOption 2: Learn communication skills\nOption 3: Learn computer and technology skills\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần phân tích tình huống và so sánh 3 lựa chọn trước khi đưa ra quyết định cuối cùng.\n- Bạn cần xác định rõ mục tiêu của việc học kỹ năng mới và đánh giá lợi ích của từng phương án.\n- Tiêu chí chấm điểm gồm khả năng lập luận, sử dụng từ vựng phù hợp, ngữ pháp và sự mạch lạc trong bài nói.\n- Thời gian tổng cộng khoảng **4 phút**, nên dành khoảng 1 phút chuẩn bị ý và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E (Introduction - Comparison/Body - End)**: giới thiệu vấn đề -> phân tích từng lựa chọn -> kết luận.\n- Với Option 1: Có thể nói ngoại ngữ giúp giao tiếp quốc tế tốt hơn nhưng cần nhiều thời gian để thành thạo.\n- Với Option 2: Kỹ năng giao tiếp giúp xây dựng mối quan hệ và hỗ trợ trong công việc.\n- Với Option 3: Kỹ năng công nghệ hữu ích trong thời đại số nhưng có thể cần cập nhật liên tục.\n- Hãy liên hệ với cuộc sống thực tế như học tập, công việc và phát triển bản thân.\n- Sử dụng các từ nối thể hiện sự đối lập để chuyển ý giữa ưu điểm và hạn chế của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Không nên nói từng lựa chọn riêng biệt mà cần liên kết và so sánh chúng với nhau.\n- Dùng hiện tại đơn để nói về sự thật chung: Learning a foreign language improves communication.\n- Dùng cấu trúc so sánh: Compared with other options, this skill is more practical because...\n- Nếu quên từ, hãy diễn đạt bằng cách giải thích ý nghĩa đơn giản hơn.\nCụm từ quan trọng nên dùng:\n- **Personal development:** sự phát triển bản thân.\n- **Improve career opportunities:** cải thiện cơ hội nghề nghiệp.\n- **Communication ability:** khả năng giao tiếp.\n- **Digital skills:** kỹ năng số.\n- **Long-term benefits:** lợi ích lâu dài.\n- **A valuable skill:** một kỹ năng có giá trị.\nTừ nối khi nói (Linking Words):\n- **On the one hand:** một mặt, dùng để giới thiệu ưu điểm.\n- **On the other hand:** mặt khác, dùng để đưa ra hạn chế.\n- **Moreover:** hơn nữa, bổ sung ý.\n- **Compared to:** so với, dùng để so sánh.\n- **Therefore:** vì vậy, dùng để kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **I would choose...** Ví dụ: I would choose communication skills because they are useful in many situations.\n- **I think the most effective option is...** Ví dụ: I think the most effective option is learning a foreign language.\n- **In comparison with other choices...** Ví dụ: In comparison with other choices, technology skills are more suitable for modern life.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích các phương án còn lại.\n- Lặp lại các từ đơn giản như good hoặc useful quá nhiều lần.\n- Không đưa ra quyết định rõ ràng ở phần kết luận.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu thiếu ý, hãy quay về các yếu tố quen thuộc như thời gian, chi phí và lợi ích lâu dài.\n- Dùng câu chuyển ý: Let's evaluate this option from a different perspective.\n- Nếu bí ở một lựa chọn, hãy chuyển sang phương án tiếp theo thay vì dừng quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người đang đưa ra quyết định thực tế.\n- Kể cả lựa chọn được chọn, bạn vẫn có thể đề cập cách cải thiện để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of travelling in people's lives\n\nBenefits of Travelling\nReasons why people travel\nBenefits of travelling for personal development\nPopular travel activities and experiences\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy do many people enjoy travelling nowadays?\n2\nDo you think travelling is more beneficial than staying at home? Why?\n3\nHow can people travel in a more environmentally friendly way?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Topic Development**. Bạn cần phát triển chủ đề về vai trò của việc du lịch dựa trên 3 ý chính trong sơ đồ và thêm một ý tưởng cá nhân.\n- Các tiêu chí chấm gồm khả năng phát triển ý tưởng, từ vựng, ngữ pháp, phát âm và tính logic của bài nói.\n- Thời gian khoảng **5 phút**, nên dành khoảng 3–3.5 phút cho bài nói chính và thời gian còn lại cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction - Detail - Example - Add/wrap up)**: giới thiệu -> giải thích -> ví dụ -> mở rộng.\n- **Ví dụ 1:** Travelling plays an important role in people's lives because it helps them relax, learn new things and experience different cultures.\n- **Ví dụ 2:** For my own idea, I think travelling can also improve relationships because people can create memorable moments with family and friends.\n- Phát triển từng nhánh trong mindmap thay vì chỉ liệt kê ý.\n- Đi theo thứ tự mindmap để tránh lặp ý hoặc chuyển sang chủ đề không liên quan.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng câu chuyển ý mượt giữa các ý trong mindmap.\n- Dùng hiện tại đơn cho sự thật chung và hiện tại hoàn thành khi nói về trải nghiệm đã tích lũy.\n- Có thể thay thế travelling bằng các cách nói như exploring new places hoặc going on trips.\nCụm từ quan trọng nên dùng:\n- **Broaden my horizons:** mở rộng hiểu biết.\n- **Explore new destinations:** khám phá điểm đến mới.\n- **Cultural experience:** trải nghiệm văn hóa.\n- **Travel experience:** kinh nghiệm du lịch.\n- **Reduce stress:** giảm căng thẳng.\n- **Create unforgettable memories:** tạo ra những kỷ niệm đáng nhớ.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên, dùng để bắt đầu ý.\n- **Besides:** bên cạnh đó, dùng để thêm ý.\n- **For instance:** ví dụ như, dùng để minh họa.\n- **As a result:** kết quả là, dùng để nói tác động.\n- **In conclusion:** kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n- **I strongly believe that...** Ví dụ: I strongly believe that travelling helps people become more open-minded.\n- **From my perspective...** Ví dụ: From my perspective, travelling is a great way to learn outside the classroom.\n- **I would say that...** Ví dụ: I would say that travelling is important for personal growth.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Why do many people enjoy travelling nowadays?** -> Many people enjoy travelling because it helps them relax, escape daily stress and discover new cultures.\n- **Is travelling more beneficial than staying at home?** -> I think travelling brings more experiences, but staying at home is also useful for saving money and resting.\n- **How can people travel environmentally?** -> People can use public transport, avoid wasting resources and protect natural places.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê địa điểm du lịch mà không giải thích lợi ích.\n- Quên thêm ý tưởng cá nhân ở nhánh thứ tư.\n- Dành quá nhiều thời gian cho một ý khiến không đủ thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Liên hệ với trải nghiệm cá nhân hoặc các chuyến đi quen thuộc trong cuộc sống.\n- Dùng câu trì hoãn học thuật: That is a complex issue. If we evaluate it from a societal viewpoint...\n- Nếu quên từ khó, hãy dùng từ đơn giản hơn hoặc mô tả ý nghĩa của từ đó.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ thực tế như lợi ích cho cá nhân và xã hội.\n- Sự mạch lạc và logic trong cách phát triển ý quan trọng hơn việc sử dụng quá nhiều từ khó.\n- Luôn cố gắng đưa ví dụ cá nhân để bài nói tự nhiên và thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about drinks.\n1.\nWhat is your favorite drink and why do you like it?\n2.\nHow often do you drink your favorite beverage?\n3.\nDo you think people should pay more attention to choosing healthy drinks? Why?\nNow, let’s talk about clothes.\n4.\nWhat kind of clothes do you like wearing most?\n5.\nDo you prefer shopping online or shopping at physical stores?\n6.\nWhat are the advantages and disadvantages of online shopping?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 là phần trò chuyện cá nhân trong khoảng 3 phút với tổng cộng 6 câu hỏi thuộc 2 chủ đề khác nhau.\n• Topic A (Favorite Drinks): Các câu hỏi 1–3 tập trung vào sở thích cá nhân, thói quen ăn uống và quan điểm về việc\nlựa chọn đồ uống. Bạn cần thể hiện khả năng mô tả sở thích và đưa ra lý do.\n• Topic B (Clothing and Shopping): Các câu hỏi 4–6 nói về phong cách ăn mặc, thói quen mua sắm và so sánh giữa\nmua hàng trực tuyến với cửa hàng truyền thống.\n• Tiêu chí chấm điểm chính gồm Fluency, Vocabulary, Grammar và Pronunciation. Bạn cần nói tự nhiên, phát triển câu\ntrả lời thay vì chỉ trả lời ngắn.\n• Nên phân bổ khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng giữa Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE): trả lời trực tiếp -> giải thích lý do -> đưa ví dụ cá nhân.\n• Ví dụ Topic A: I really like coffee because it helps me feel more energetic in the morning. For example, I usually drink\na cup of coffee before going to work.\n• Ví dụ Topic B: I prefer shopping online because it is convenient and saves a lot of time. For instance, I can buy clothes\nwithout going outside.\n• Luôn tự hỏi thêm câu hỏi Why? hoặc How? sau câu trả lời để kéo dài ý tưởng.\n• Khi chuyển từ Topic A sang Topic B, có thể dùng câu chuyển tự nhiên như: Now, moving to another topic, I would like\nto talk about my clothing style.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định, sử dụng các cụm từ như well, actually, I think để tránh khoảng lặng.\n• Dùng hiện tại đơn khi nói về thói quen: I usually drink... / I often buy...\n• Dùng cấu trúc so sánh khi nói về mua sắm: Online shopping is more convenient than traditional shopping.\n• Vocabulary Topic A: healthy beverage (đồ uống tốt cho sức khỏe), refreshing drink (đồ uống giải khát), drinking habit\n(thói quen uống nước).\n• Vocabulary Topic B: fashion style (phong cách thời trang), casual clothes (quần áo thường ngày), shopping\nexperience (trải nghiệm mua sắm).\nCụm từ quan trọng nên dùng:\n• Favorite beverage: đồ uống yêu thích.\n• Quench my thirst: giải khát, làm dịu cơn khát.\n• A healthy lifestyle: lối sống lành mạnh.\n• Fashion trend: xu hướng thời trang.\n• Online shopping platform: nền tảng mua sắm trực tuyến.\n• Try on clothes: thử quần áo.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên, dùng để bắt đầu ý.\n• Because: bởi vì, dùng để giải thích lý do.\n• For example: ví dụ là, dùng để mở rộng câu trả lời.\n• However: tuy nhiên, dùng khi đưa ra sự khác biệt.\n• In my opinion: theo quan điểm của tôi, dùng để nêu ý kiến cá nhân.\nCách thể hiện quan điểm tự nhiên:\n• I personally prefer... (Tôi cá nhân thích...) Ví dụ: I personally prefer drinking tea because it is relaxing.\n• I believe that... (Tôi tin rằng...) Ví dụ: I believe online shopping is useful for busy people.\n• From my point of view... (Theo quan điểm của tôi...) Ví dụ: From my point of view, choosing healthy drinks is important.\n• In my opinion... (Theo ý kiến của tôi...) Ví dụ: In my opinion, clothes should be comfortable and suitable.\n4. Các lỗi thường gặp:\n• Trả lời chỉ bằng Yes hoặc No rồi dừng lại, đây là lỗi khiến điểm Fluency giảm mạnh.\n• Với Topic A, tránh chỉ nói tên đồ uống mà không giải thích tại sao bạn thích nó.\n• Với Topic B, tránh chỉ nói online shopping tốt hoặc xấu mà không đưa ra ví dụ cụ thể.\n• Dùng sai thì khi nói về thói quen như dùng quá khứ cho hoạt động thường xuyên.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: That is an interesting question, let me think for a second.\n• Nếu quên từ vựng, hãy mô tả đặc điểm thay vì dừng lại.\n• Với Topic A, có thể chuyển sang nói về hương vị, lợi ích hoặc thời điểm uống.\n• Với Topic B, có thể chuyển sang nói về giá cả, sự tiện lợi hoặc chất lượng sản phẩm.\n6. Tư duy làm bài nói:\n• Xem Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n• Khi chuyển từ Topic A sang Topic B, hãy giữ tâm lý thoải mái và bắt đầu lại bằng ý mới.\n• Ưu tiên sự tự nhiên, rõ ràng và mạch lạc hơn việc cố sử dụng từ vựng quá khó.\nSolution Discussion\nPART 2\n4 phút\nYou have the opportunity to learn one new skill to improve yourself in the future.\nYou are considering the following options:\n• Option 1: Learn a foreign language\n• Option 2: Learn communication skills\n• Option 3: Learn computer and technology skills\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần phân tích tình huống và so sánh 3 lựa chọn trước khi đưa ra quyết định\ncuối cùng.\n• Bạn cần xác định rõ mục tiêu của việc học kỹ năng mới và đánh giá lợi ích của từng phương án.\n• Tiêu chí chấm điểm gồm khả năng lập luận, sử dụng từ vựng phù hợp, ngữ pháp và sự mạch lạc trong bài nói.\n• Thời gian tổng cộng khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị ý và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu vấn đề -> phân tích từng lựa chọn -> kết\nluận.\n• Với Option 1: Có thể nói ngoại ngữ giúp giao tiếp quốc tế tốt hơn nhưng cần nhiều thời gian để thành thạo.\n• Với Option 2: Kỹ năng giao tiếp giúp xây dựng mối quan hệ và hỗ trợ trong công việc.\n• Với Option 3: Kỹ năng công nghệ hữu ích trong thời đại số nhưng có thể cần cập nhật liên tục.\n• Hãy liên hệ với cuộc sống thực tế như học tập, công việc và phát triển bản thân.\n• Sử dụng các từ nối thể hiện sự đối lập để chuyển ý giữa ưu điểm và hạn chế của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Không nên nói từng lựa chọn riêng biệt mà cần liên kết và so sánh chúng với nhau.\n• Dùng hiện tại đơn để nói về sự thật chung: Learning a foreign language improves communication.\n• Dùng cấu trúc so sánh: Compared with other options, this skill is more practical because...\n• Nếu quên từ, hãy diễn đạt bằng cách giải thích ý nghĩa đơn giản hơn.\nCụm từ quan trọng nên dùng:\n• Personal development: sự phát triển bản thân.\n• Improve career opportunities: cải thiện cơ hội nghề nghiệp.\n• Communication ability: khả năng giao tiếp.\n• Digital skills: kỹ năng số.\n• Long-term benefits: lợi ích lâu dài.\n• A valuable skill: một kỹ năng có giá trị.\nTừ nối khi nói (Linking Words):\n• On the one hand: một mặt, dùng để giới thiệu ưu điểm.\n• On the other hand: mặt khác, dùng để đưa ra hạn chế.\n• Moreover: hơn nữa, bổ sung ý.\n• Compared to: so với, dùng để so sánh.\n• Therefore: vì vậy, dùng để kết luận.\nCách thể hiện quan điểm tự nhiên:\n• I would choose... Ví dụ: I would choose communication skills because they are useful in many situations.\n• I think the most effective option is... Ví dụ: I think the most effective option is learning a foreign language.\n• In comparison with other choices... Ví dụ: In comparison with other choices, technology skills are more suitable for\nmodern life.\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích các phương án còn lại.\n• Lặp lại các từ đơn giản như good hoặc useful quá nhiều lần.\n• Không đưa ra quyết định rõ ràng ở phần kết luận.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu thiếu ý, hãy quay về các yếu tố quen thuộc như thời gian, chi phí và lợi ích lâu dài.\n• Dùng câu chuyển ý: Let's evaluate this option from a different perspective.\n• Nếu bí ở một lựa chọn, hãy chuyển sang phương án tiếp theo thay vì dừng quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người đang đưa ra quyết định thực tế.\n• Kể cả lựa chọn được chọn, bạn vẫn có thể đề cập cách cải thiện để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: The importance of travelling in people's lives\nBenefits of travelling for personal\nReasons why people travel\ndevelopment\nBenefits of Travelling\nÝ tưởng của bạn\nPopular travel activities and\nexperiences\nFOLLOW-UP QUESTIONS\n1.\nWhy do many people enjoy travelling nowadays?\n2.\nDo you think travelling is more beneficial than staying at home? Why?\n3.\nHow can people travel in a more environmentally friendly way?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Topic Development. Bạn cần phát triển chủ đề về vai trò của việc du lịch dựa trên 3 ý chính trong sơ đồ\nvà thêm một ý tưởng cá nhân.\n• Các tiêu chí chấm gồm khả năng phát triển ý tưởng, từ vựng, ngữ pháp, phát âm và tính logic của bài nói.\n• Thời gian khoảng 5 phút, nên dành khoảng 3–3.5 phút cho bài nói chính và thời gian còn lại cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction - Detail - Example - Add/wrap up): giới thiệu -> giải thích -> ví dụ -> mở rộng.\n• Ví dụ 1: Travelling plays an important role in people's lives because it helps them relax, learn new things and\nexperience different cultures.\n• Ví dụ 2: For my own idea, I think travelling can also improve relationships because people can create memorable\nmoments with family and friends.\n• Phát triển từng nhánh trong mindmap thay vì chỉ liệt kê ý.\n• Đi theo thứ tự mindmap để tránh lặp ý hoặc chuyển sang chủ đề không liên quan.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng câu chuyển ý mượt giữa các ý trong mindmap.\n• Dùng hiện tại đơn cho sự thật chung và hiện tại hoàn thành khi nói về trải nghiệm đã tích lũy.\n• Có thể thay thế travelling bằng các cách nói như exploring new places hoặc going on trips.\nCụm từ quan trọng nên dùng:\n• Broaden my horizons: mở rộng hiểu biết.\n• Explore new destinations: khám phá điểm đến mới.\n• Cultural experience: trải nghiệm văn hóa.\n• Travel experience: kinh nghiệm du lịch.\n• Reduce stress: giảm căng thẳng.\n• Create unforgettable memories: tạo ra những kỷ niệm đáng nhớ.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên, dùng để bắt đầu ý.\n• Besides: bên cạnh đó, dùng để thêm ý.\n• For instance: ví dụ như, dùng để minh họa.\n• As a result: kết quả là, dùng để nói tác động.\n• In conclusion: kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that... Ví dụ: I strongly believe that travelling helps people become more open-minded.\n• From my perspective... Ví dụ: From my perspective, travelling is a great way to learn outside the classroom.\n• I would say that... Ví dụ: I would say that travelling is important for personal growth.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Why do many people enjoy travelling nowadays? -> Many people enjoy travelling because it helps them relax, escape\ndaily stress and discover new cultures.\n• Is travelling more beneficial than staying at home? -> I think travelling brings more experiences, but staying at home\nis also useful for saving money and resting.\n• How can people travel environmentally? -> People can use public transport, avoid wasting resources and protect\nnatural places.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê địa điểm du lịch mà không giải thích lợi ích.\n• Quên thêm ý tưởng cá nhân ở nhánh thứ tư.\n• Dành quá nhiều thời gian cho một ý khiến không đủ thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Liên hệ với trải nghiệm cá nhân hoặc các chuyến đi quen thuộc trong cuộc sống.\n• Dùng câu trì hoãn học thuật: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ khó, hãy dùng từ đơn giản hơn hoặc mô tả ý nghĩa của từ đó.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ thực tế như lợi ích cho cá nhân và xã hội.\n• Sự mạch lạc và logic trong cách phát triển ý quan trọng hơn việc sử dụng quá nhiều từ khó.\n• Luôn cố gắng đưa ví dụ cá nhân để bài nói tự nhiên và thuyết phục hơn."
+}

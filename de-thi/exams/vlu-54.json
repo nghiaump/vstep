@@ -1,0 +1,717 @@
+{
+ "id": "vlu-54",
+ "number": 54,
+ "title": "Đề thi VLU 54",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-54",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Never Lose Your Keys Again: The Rise of Bluetooth Trackers",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Almost everyone has lost a set of keys, a wallet, or a bag at some time, and the search can waste time and cause stress. A small device called a Bluetooth tracker can make this problem much easier to solve. This passage explains how the trackers work, which products became popular, and why they also create some privacy problems.",
+     "A Bluetooth tracker is a small tag that you attach to your keys or put inside a bag. The tag sends out a **unique** code using Bluetooth low energy, a type of radio signal that uses very little power. When your phone is close to the tag, the app can make the tag beep, so you can follow the sound and find your lost item quickly. The range is often about 30 metres, depending on the model and on walls or other objects in the way. The small battery usually lasts from three months to about a year, so owners must replace it from time to time.",
+     "The idea is not new, because early key finders listened for a clap or a whistle and then beeped, but they often gave false alarms and were soon abandoned. The company Tile was founded in December 2012 by Mike Farley and Nick Evans, and its first devices were delivered in 2013 after a crowdfunding campaign. In April 2021, Apple released the AirTag, which costs about 29 dollars for one tag. Newer iPhones can also use a special radio technology to show the direction and distance to the tag. In November 2021, the company Life360 announced that it would buy Tile for 205 million dollars.",
+     "Most trackers work best when many people use the same system, because a crowd helps. If your item is far from your phone, other people who use the same network can detect the tag by chance, and the system sends its location to you. Apple's network, for example, relies on nearby Apple devices, so the more people use it, the better it works. These tags do not contain GPS, so they cannot show a location on their own, and an item left in an empty area may never be found. Even so, trackers are affordable and easy to use, which explains why they have become so popular.",
+     "Trackers also create serious privacy problems, because they can be used to follow people without permission. Some women have reportedly found unregistered tags in their belongings. To reduce the danger, an iPhone warns its owner if an unfamiliar AirTag seems to travel with the owner for too long. A tag that stays away from its owner for a random period of 8 to 24 hours also starts to beep. Android phones cannot use all of these protections, and reports say that some people remove the speakers from their tags, and others hide small tags so well that victims cannot find **them**. Apple warned in 2022 that using AirTags to track people is illegal."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "GPS satellites inside every tracker show exactly where lost items are",
+       "B": "Only Apple has ever built a tracker that works with smartphones",
+       "C": "Trackers help people find lost things, but they also raise privacy worries",
+       "D": "Early key finders were so successful that nobody needs trackers today"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, how does the tag help you find a lost item?",
+      "options": {
+       "A": "It produces a sound when you open the app",
+       "B": "It sends a text message to all of your family",
+       "C": "It lights up a screen inside your car or bag",
+       "D": "It calls your friends if the battery gets very low"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 về việc ứng dụng trên điện thoại làm thẻ phát ra tiếng bíp khi ở gần để người dùng lần theo âm thanh."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"unique\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "very hard to see",
+       "B": "one of a kind",
+       "C": "easy to take off",
+       "D": "ready for sale now"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"unique\" ở đoạn 2 mô tả mã nhận diện độc nhất mà thẻ phát ra qua Bluetooth low energy, mang nghĩa độc nhất / chỉ có một (one of a kind)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what happened in 2013?",
+      "options": {
+       "A": "Apple released the first AirTag for sale",
+       "B": "Life360 agreed to purchase a rival company",
+       "C": "Mike Farley and Nick Evans left the company",
+       "D": "Tile shipped its first devices after crowdfunding"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét mốc thời gian \"2013\" ở đoạn 3 để xác định thời điểm công ty Tile giao những thiết bị đầu tiên sau chiến dịch huy động vốn cộng đồng (crowdfunding)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"affordable\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "hard to repair",
+       "B": "slow to start",
+       "C": "not too expensive",
+       "D": "fun to decorate"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"affordable\" ở đoạn 4 đi kèm với lý do tại sao thiết bị trở nên phổ biến rộng rãi, mang nghĩa giá cả phải chăng / không quá đắt (not too expensive)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"them\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "the nearby phones",
+       "B": "the Android users",
+       "C": "the removed speakers",
+       "D": "the small tags"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ \"them\" trong mệnh đề \"...others hide small tags so well that victims cannot find *them*\" ở đoạn 5. Áp dụng quy tắc đối chiếu danh từ số nhiều đứng ngay trước đó trong câu (\"...hide small tags...\") để thấy đây là từ thay thế cho những chiếc thẻ định vị nhỏ (the small tags)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, when does an AirTag start to beep on its own?",
+      "options": {
+       "A": "After another user replaces the battery in it",
+       "B": "After a random time away from its owner",
+       "C": "As soon as anyone turns on a phone nearby",
+       "D": "When the owner moves the tag into another bag"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thời gian \"8 to 24 hours\" ở đoạn 5 để xác định thời điểm thẻ tự phát ra tiếng bíp khi ở xa chủ sở hữu trong một khoảng thời gian ngẫu nhiên."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Some women finding unknown tags in their belongings",
+       "B": "Android phones lacking some of the same protections",
+       "C": "A 2022 warning that tracking people is illegal",
+       "D": "Manufacturers stopping all sales of the product"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 4 and 5 about Bluetooth trackers?",
+      "options": {
+       "A": "They are illegal in most countries and cannot be sold",
+       "B": "They always give an exact location by using satellites worldwide",
+       "C": "They are useful but need rules and care to prevent misuse",
+       "D": "They work equally well on Android phones and iPhones everywhere"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4 và 5 về việc thiết bị định vị rất hữu ích và phổ biến nhờ mạng lưới cộng đồng, song cũng tạo ra các rủi ro nghiêm trọng về quyền riêng tư đòi hỏi các biện pháp bảo vệ và quy định phòng ngừa lạm dụng."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To advertise a new tracker that costs less than a coffee",
+       "B": "To teach readers how to build a Bluetooth tracker from electronic parts",
+       "C": "To compare the prices of all phones sold by Apple and Samsung",
+       "D": "To explain how Bluetooth trackers work and what problems they cause Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu công dụng của thiết bị định vị Bluetooth nhỏ gọn cùng những lo ngại về quyền riêng tư; đoạn 2 giải thích cơ chế hoạt động bằng sóng vô tuyến và tín hiệu công suất thấp; đoạn 3 điểm lại lịch sử phát triển từ các thiết bị tìm chìa khóa cũ đến Tile và Apple AirTag; đoạn 4 bàn về mạng lưới cộng đồng hỗ trợ tìm kiếm và mức giá phải chăng; đoạn cuối cảnh báo các rủi ro bảo mật và vấn đề theo dõi trái phép. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện việc giải thích cách thức hoạt động, lợi ích và các vấn đề rủi ro/quyền riêng tư mà chúng gây ra.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R1Q2**, tìm thông tin ở đoạn 2 về việc ứng dụng trên điện thoại làm thẻ phát ra tiếng bíp khi ở gần để người dùng lần theo âm thanh.\n  - Với **R1Q4**, quét mốc thời gian \"2013\" ở đoạn 3 để xác định thời điểm công ty Tile giao những thiết bị đầu tiên sau chiến dịch huy động vốn cộng đồng (crowdfunding).\n  - Với **R1Q7**, quét thời gian \"8 to 24 hours\" ở đoạn 5 để xác định thời điểm thẻ tự phát ra tiếng bíp khi ở xa chủ sở hữu trong một khoảng thời gian ngẫu nhiên.\n  - Với câu phủ định **R1Q8**, đối soát kỹ các chi tiết tại đoạn 5 (phụ nữ tìm thấy thẻ lạ trong đồ đạc, Android thiếu một số bảo vệ, cảnh báo năm 2022 về việc theo dõi là bất hợp pháp) để loại trừ chi tiết hoàn toàn không xuất hiện như việc các nhà sản xuất dừng toàn bộ việc bán sản phẩm.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"unique\"** ở đoạn 2 mô tả mã nhận diện độc nhất mà thẻ phát ra qua Bluetooth low energy, mang nghĩa độc nhất / chỉ có một (one of a kind).\n  - Với **R1Q5**, từ **\"affordable\"** ở đoạn 4 đi kèm với lý do tại sao thiết bị trở nên phổ biến rộng rãi, mang nghĩa giá cả phải chăng / không quá đắt (not too expensive).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Xác định đại từ **\"them\"** trong mệnh đề \"...others hide small tags so well that victims cannot find *them*\" ở đoạn 5. Áp dụng quy tắc đối chiếu danh từ số nhiều đứng ngay trước đó trong câu (\"...hide small tags...\") để thấy đây là từ thay thế cho những chiếc thẻ định vị nhỏ (the small tags).\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ các đoạn 4 và 5 về việc thiết bị định vị rất hữu ích và phổ biến nhờ mạng lưới cộng đồng, song cũng tạo ra các rủi ro nghiêm trọng về quyền riêng tư đòi hỏi các biện pháp bảo vệ và quy định phòng ngừa lạm dụng.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R1Q2, R1Q4, R1Q7, R1Q8) và từ vựng, quy chiếu (**R1Q3, R1Q5, R1Q6**). Tiếp theo, giải quyết câu hỏi suy luận (**R1Q9**). Cuối cùng, hoàn thành các câu hỏi khái quát về ý chính và mục đích tác giả (**R1Q1, R1Q10**) để đạt kết quả tối ưu nhất."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Social Lives of African Lions",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Lions are often called the most social of the big cats, because most of them live in permanent family groups called prides rather than alone. The pride is a flexible society of related females, resident males, and cubs, and its structure influences how lions hunt, defend land, and raise young. This passage examines pride life, hunting, male coalitions, cub survival, and the threats that now face the species.",
+     "A typical pride averages about 15 lions, made up of several adult females, up to four males, and their cubs, although prides of up to 30 have been recorded. Most females remain in the pride where they were born, while males and some females eventually leave, so the pride is a cohesive group built around related females. The Tsavo lions of Kenya are an exception, because their prides always contain only one adult male.",
+     "Prides rarely stay together all day, and members often split into smaller subgroups. Roars, delivered mostly at night, can be heard up to eight kilometres away, and they also warn rivals to keep out. Males patrol the boundaries of pride land and both sexes defend it against intruders, although males are generally better suited to the task of driving off rival groups. In a study in Zimbabwe, the largest pride, with 12 lions, had the smallest home range at about 130 square kilometres.",
+     "Hunting is usually a cooperative activity among lionesses, while males typically do not join group hunts. Instead, males often hunt alone and ambush large prey, and moderate-sized coalitions reportedly succeed more often than either solitary males or very large groups. Lions run in short bursts of roughly 48 to 59 kilometres an hour, so they depend on stealth, and hunts are more successful at night, especially on moonless nights.",
+     "Males that form coalitions hold territory for longer than single males, and in coalitions of three or four, there is usually a clear hierarchy, with one male mating most often. Males mature at about three years and may challenge resident males at four or five. When new males take over a pride, they often kill existing cubs, and females rarely prevent this unless three or four mothers join forces.",
+     "Litters usually contain one to four cubs, and pride lionesses often synchronise their births. Cubs are born in hidden dens, **which** give some protection from predators such as leopards, hyenas, and wild dogs, but cubs still face the risks of starvation, abandonment, and infanticide. Lionesses often nurse cubs communally, so the group shares the task of raising young.",
+     "Despite their fame, the long-term future of lions in the wild is far from secure. The IUCN has listed the lion as Vulnerable since 1996, and African populations have reportedly fallen by about 43 per cent since the early 1990s. In West Africa, only about 400 lions remained in 2015, and the population is classed as Critically Endangered. Habitat loss and conflict with people are the main threats, and unless these pressures are reduced, lions may struggle to **persist** in many regions."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Male lions do all the hunting while females only guard the young",
+       "B": "African lions have fully recovered and are no longer considered threatened today",
+       "C": "Every pride has exactly one male and fifteen females living together always",
+       "D": "Lions live in social groups that shape how they hunt, breed, and survive"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, which lions are an exception to the usual pride structure?",
+      "options": {
+       "A": "Lions that live in prides of over thirty",
+       "B": "The Tsavo lions, with one adult male",
+       "C": "Males that always remain in their birth pride",
+       "D": "Young females that leave and never come back"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"exception\" ở đoạn 2 để xác định sư tử Tsavo ở Kenya là ngoại lệ khi bầy chỉ có đúng một con sư tử đực trưởng thành."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"cohesive\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "closely united",
+       "B": "widely scattered",
+       "C": "highly dangerous",
+       "D": "newly formed"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"cohesive\" ở đoạn 2 đi kèm với việc phần lớn con cái ở lại bầy nơi chúng sinh ra, mang nghĩa gắn kết chặt chẽ (closely united)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, how far can roars be heard?",
+      "options": {
+       "A": "Only inside the boundaries of the pride",
+       "B": "Just a few hundred metres across open land",
+       "C": "At distances of up to eight kilometres",
+       "D": "Across the whole continent on quiet nights"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Roars\" ở đoạn 3 để biết tiếng gầm có thể nghe thấy ở khoảng cách lên tới 8 km."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"persist\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "begin to spread",
+       "B": "learn to hunt",
+       "C": "agree to share",
+       "D": "continue to exist"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"persist\" ở đoạn 7 đi kèm với việc các áp lực đe dọa từ con người và mất sinh cảnh khiến loài sư tử khó khăn trong việc duy trì sự tồn tại, mang nghĩa tiếp tục tồn tại (continue to exist)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "newborn cubs",
+       "B": "hidden dens",
+       "C": "pride lionesses",
+       "D": "nearby leopards"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ \"which\" trong mệnh đề \"...born in hidden dens, *which* give some protection...\" ở đoạn 6. Áp dụng quy tắc đối chiếu danh từ số nhiều đứng ngay trước đó trong câu (\"hidden dens\" - những chiếc hang ẩn giấu) để thấy đây là từ thay thế cho các ổ ẩn giấu này."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, when are hunts more successful?",
+      "options": {
+       "A": "At night, especially on moonless nights",
+       "B": "During the day, especially around midday heat",
+       "C": "After rain, especially in cold, open grassland",
+       "D": "When many prey animals sleep in shade"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"hunts\" ở đoạn 4 để xác định các cuộc săn mồi thành công hơn vào ban đêm, đặc biệt là những đêm không trăng."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Coalitions of three or four having a hierarchy",
+       "B": "New males often killing cubs after a takeover",
+       "C": "Males staying with their birth pride forever",
+       "D": "Males maturing at about three years of age"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 5, 6, and 7 about lions?",
+      "options": {
+       "A": "Lions are safe everywhere because their population has grown every year",
+       "B": "Cubs are never attacked by adult lions or by other predators",
+       "C": "Males take full responsibility for feeding and nursing all the cubs",
+       "D": "Social habits shape how cubs survive, and people now threaten the species"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5, 6 và 7 về việc tập tính xã hội (nuôi con cộng đồng, bảo vệ) định hình cách con non sống sót, đồng thời các mối đe dọa từ con người và môi trường đang đặt loài này vào tình thế nguy hiểm."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To describe lion social life and the pressures on the species",
+       "B": "To persuade tourists to visit national parks in Kenya and Zimbabwe",
+       "C": "To explain how zoos should feed captive lions during the winter months",
+       "D": "To argue that lions are more intelligent than all other big cats Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và các đoạn văn để nắm mạch nội dung: đoạn 1 giới thiệu tổng quan về các nhóm gia đình (prides) định hình cách sư tử săn bắt, bảo vệ lãnh thổ và nuôi con; đoạn 2 nói về cấu trúc bầy đàn và ngoại lệ Tsavo; đoạn 3 bàn về việc phân chia nhóm nhỏ, tiếng gầm và bảo vệ biên giới; đoạn 4 phân tích hành vi săn mồi phối hợp của sư tử cái và các liên minh con đực; đoạn 5 đề cập đến hệ thống phân cấp, sự thay thế bầy và hiện tượng giết con non; đoạn 6 trình bày việc sinh sản, ổ ẩn nấp và nuôi con chung; đoạn cuối cảnh báo về các mối đe dọa từ mất sinh cảnh và xung đột với con người khiến loài này dễ bị tổn thương. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện đời sống xã hội và các áp lực đe dọa loài này.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R2Q2**, tìm từ khóa \"exception\" ở đoạn 2 để xác định sư tử Tsavo ở Kenya là ngoại lệ khi bầy chỉ có đúng một con sư tử đực trưởng thành.\n  - Với **R2Q4**, quét từ khóa \"Roars\" ở đoạn 3 để biết tiếng gầm có thể nghe thấy ở khoảng cách lên tới 8 km.\n  - Với **R2Q7**, quét từ khóa \"hunts\" ở đoạn 4 để xác định các cuộc săn mồi thành công hơn vào ban đêm, đặc biệt là những đêm không trăng.\n  - Với câu phủ định **R2Q8**, đối soát kỹ các thông tin tại đoạn 5 (liên minh 3-4 con có phân cấp, sư tử đực mới giết con non sau khi chiếm bầy, sư tử đực trưởng thành lúc 3 tuổi) để loại trừ chi tiết sai lệch về việc \"con đực ở lại mãi mãi với bầy sinh ra chúng\" (trong bài nêu rõ con đực và một số con cái cuối cùng sẽ rời đi).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"cohesive\"** ở đoạn 2 đi kèm với việc phần lớn con cái ở lại bầy nơi chúng sinh ra, mang nghĩa gắn kết chặt chẽ (closely united).\n  - Với **R2Q5**, từ **\"persist\"** ở đoạn 7 đi kèm với việc các áp lực đe dọa từ con người và mất sinh cảnh khiến loài sư tử khó khăn trong việc duy trì sự tồn tại, mang nghĩa tiếp tục tồn tại (continue to exist).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Xác định đại từ **\"which\"** trong mệnh đề \"...born in hidden dens, *which* give some protection...\" ở đoạn 6. Áp dụng quy tắc đối chiếu danh từ số nhiều đứng ngay trước đó trong câu (\"hidden dens\" - những chiếc hang ẩn giấu) để thấy đây là từ thay thế cho các ổ ẩn giấu này.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 5, 6 và 7 về việc tập tính xã hội (nuôi con cộng đồng, bảo vệ) định hình cách con non sống sót, đồng thời các mối đe dọa từ con người và môi trường đang đặt loài này vào tình thế nguy hiểm.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R2Q2, R2Q4, R2Q7, R2Q8) và từ vựng, quy chiếu (**R2Q3, R2Q5, R2Q6**). Tiếp theo, giải quyết câu hỏi suy luận (**R2Q9**). Cuối cùng, hoàn thành các câu hỏi khái quát về ý chính và mục đích tác giả (**R2Q1, R2Q10**) để đạt điểm số tuyệt đối."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Evolutionary Partnership Between Humans and Dogs",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few relationships in natural history are as old or as close as the bond between people and dogs, yet scientists still disagree about when and where it began. Genetic and fossil evidence suggests that dogs were the first animal to be domesticated. This passage examines the origins of dogs, the competing explanations, the evidence of early bonds, and the consequences for both species.",
+     "Modern dogs descend not from today's grey wolf but from an extinct Late Pleistocene wolf population, and genetic studies place the split at roughly 20,000 to 40,000 years ago. A 2017 study estimated a single separation at about 36,900 to 41,500 years ago. The earliest undisputed dog, from Erralla in Spain, is about 17,500 years old, whereas older remains from Belgium and the Altai Mountains remain disputed.",
+     "The question of how domestication began is equally **contentious-** , and researchers have proposed several competing explanations. One hypothesis holds that less fearful wolves were drawn to human camps to feed on discarded carcasses, so that a slow process of self-domestication gradually began. Another proposal, put forward in 2002, suggests that humans and wolves domesticated each other through a strategic alliance. Neither idea has been proved, and each assumes that behaviour, rather than appearance, was the first trait to change.",
+     "The strongest evidence of emotional closeness comes from a grave at Bonn-Oberkassel in Germany, where a dog was buried beside two people about 14,200 to 14,500 years ago. **[1]** Isotope, genetic, and anatomical analyses indicate that the animal was not a local wolf, and it shared a mitochondrial lineage with other early dogs in Western Europe. **[2]** A formal burial of this kind suggests the animal mattered to the community. **[3]** Researchers have also found that mutual gazing between dogs and owners raises oxytocin in both, a hormonal loop that may have strengthened early attachment. **[4]** That shared reward may help explain why the partnership survived long after the camps moved on, and why dogs today read human faces so well.",
+     "Genetic studies add another layer to the story. A 2016 study found only 11 fixed genes that differ between wolves and dogs, and several of them involve pathways linked to fear and aggression. This pattern fits the view that early dogs were chosen for temperament rather than for performance or productivity. Other changes concern lipid metabolism, which may reflect a diet that included carcass fat.",
+     "The picture grows more complex because dogs may have more than one ancestral source. A study of 72 ancient wolf genomes found that dogs from northeastern Europe, Siberia, and the Americas share an eastern source, while others also carry Middle Eastern ancestry. Researchers cannot yet say whether this reflects separate domestications or later mixing with wild wolves, so the question of dog origins remains open, and **its** answer may change as more ancient DNA is recovered.",
+     "Whatever the final answer, the partnership has had **profound** consequences for both species. Dogs evolved to read human faces and gestures with unusual skill, while people gained hunting help, warning, and companionship that may have shaped how early communities lived. The study of dog origins therefore offers a rare window into how humans and animals learned to live together."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Modern dogs are direct descendants of the grey wolf living today",
+       "B": "Dogs became partners of humans long ago, though their precise origins remain debated",
+       "C": "Scientists agree that dogs were first tamed in Europe by farmers",
+       "D": "Ancient burials prove that dogs were kept purely as pets everywhere"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what is true of the Erralla dog?",
+      "options": {
+       "A": "It is the earliest undisputed dog, about 17,500 years old",
+       "B": "It was found in Belgium and dated to around 36,000 years ago",
+       "C": "Scholars found it in the Altai Mountains beside a human grave",
+       "D": "The animal is widely accepted as a wolf, not a dog"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin về con chó Erralla ở đoạn 2 để xác định đây là chú chó không thể chối cãi sớm nhất, có niên đại khoảng 17.500 năm."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"contentious\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "quite harmless",
+       "B": "easily solved",
+       "C": "highly controversial",
+       "D": "mostly forgotten"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"contentious\" ở đoạn 3 đi kèm với việc các nhà nghiên cứu đưa ra nhiều giả thuyết cạnh tranh nhau về cách quá trình thuần hóa bắt đầu, mang nghĩa mang tính tranh cãi cao / gây tranh luận (highly controversial)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a loop would have rewarded both species for staying close together.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào chỗ trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc các vị trí [1], [2], [3], [4] ở đoạn 4. Câu cần điền là: 'Such a loop would have rewarded both species for staying close together.' (Một vòng lặp như vậy sẽ thưởng cho cả hai loài vì đã ở gần nhau). Vị trí [4] nằm ngay sau câu nói về việc nhìn nhau tương hỗ (mutual gazing) giữa chó và chủ làm tăng oxytocin ở cả hai, tạo thành một vòng lặp hormone củng cố sự gắn kết. Rất logic khi cụm từ 'Such a loop' quy chiếu trực tiếp ngay sau cơ chế vòng lặp hormone vừa được mô tả."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what may the changes in lipid metabolism reflect?",
+      "options": {
+       "A": "A shift toward eating only plants and cooked grain",
+       "B": "A diet that probably included fat from carcasses",
+       "C": "Stronger legs for following hunting parties over distance",
+       "D": "Longer fur to survive icy glacial winters"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"lipid metabolism\" ở đoạn 5 để ghi nhận các thay đổi về chuyển hóa lipid phản ánh chế độ ăn có thể bao gồm mỡ từ xác động vật (fat from carcasses)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"its\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "wild wolves",
+       "B": "ancient DNA",
+       "C": "the question",
+       "D": "the mixing"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ sở hữu \"its\" trong cụm \"...the question of dog origins remains open, and *its* answer may change...\" ở đoạn 6. Áp dụng quy tắc đối chiếu danh từ đứng trước đó (\"the question of dog origins\") để thấy đây là từ thay thế cho câu hỏi về nguồn gốc của loài chó (the question)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"profound\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "deeply significant",
+       "B": "barely noticeable",
+       "C": "easily reversed",
+       "D": "widely forgotten"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "A study of ancient wolf genomes from several regions",
+       "B": "Possible mixing between early dogs and wild wolves",
+       "C": "Middle Eastern ancestry carried by some modern dogs",
+       "D": "Fossil dogs unearthed on every single continent"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about the origins of dogs?",
+      "options": {
+       "A": "Domestication was caused entirely by humans capturing wolf pups and training them",
+       "B": "Evidence from several fields shows a close bond, but the story remains incomplete",
+       "C": "Genes alone can fully explain every difference between dogs and wolves today",
+       "D": "Archaeologists have proved that dogs appeared in exactly one place and time"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc bằng chứng từ nhiều lĩnh vực (khảo cổ, di truyền, đồng vị) cho thấy mối liên kết chặt chẽ, nhưng câu chuyện về nguồn gốc vẫn chưa hoàn thiện và còn để ngỏ."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To explain how modern breeders produce dogs with particular shapes and colours",
+       "B": "To persuade readers that every household should adopt a rescue dog",
+       "C": "To review evidence and theories about how dogs became human partners",
+       "D": "To describe how police forces and armies train working dogs Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu mối quan hệ lâu đời giữa người và chó nhưng nguồn gốc vẫn còn tranh cãi; đoạn 2 nói về dòng dõi tiến hóa từ loài sói Pleistocen muộn và các hóa thạch như ở Erralla; đoạn 3 bàn về các giả thuyết thuần hóa (tự thuần hóa hoặc liên minh chiến lược); đoạn 4 đề cập đến bằng chứng mộ chôn cổ xưa và hiện tượng tương tác ánh mắt giải phóng oxytocin; đoạn 5 trình bày các thay đổi gen liên quan đến tính khí và chuyển hóa lipid; đoạn 6 nói về nhiều nguồn gốc tổ tiên và DNA cổ đại; và đoạn cuối nhấn mạnh những hệ quả sâu sắc của mối quan hệ này đối với cả hai loài. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện việc xem xét các bằng chứng và giả thuyết về cách chó trở thành bạn đồng hành của con người.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R3Q2**, tìm thông tin về con chó Erralla ở đoạn 2 để xác định đây là chú chó không thể chối cãi sớm nhất, có niên đại khoảng 17.500 năm.\n  - Với **R3Q5**, quét từ khóa \"lipid metabolism\" ở đoạn 5 để ghi nhận các thay đổi về chuyển hóa lipid phản ánh chế độ ăn có thể bao gồm mỡ từ xác động vật (fat from carcasses).\n  - Với câu phủ định **R3Q8**, đối soát kỹ các thông tin tại đoạn 6 (nghiên cứu DNA sói cổ đại từ nhiều vùng, khả năng lai trộn giữa chó sớm và sói hoang, tổ tiên Trung Đông) để loại trừ chi tiết hoàn toàn không xuất hiện như việc \"hóa thạch chó được khai quật trên mọi châu lục\".\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"contentious\"** ở đoạn 3 đi kèm với việc các nhà nghiên cứu đưa ra nhiều giả thuyết cạnh tranh nhau về cách quá trình thuần hóa bắt đầu, mang nghĩa mang tính tranh cãi cao / gây tranh luận (highly controversial).\n  - With **R3Q7**, từ **\"profound\"** ở đoạn 7 đi kèm với hệ quả to lớn đối với cả loài chó và con người (giúp con người săn bắn, cảnh báo và đồng hành), mang nghĩa vô cùng sâu sắc / có ý nghĩa lớn (deeply significant).\n- **Dạng câu hỏi Điền câu vào chỗ trống (R3Q4):** Đọc các vị trí [1], [2], [3], [4] ở đoạn 4. Câu cần điền là: 'Such a loop would have rewarded both species for staying close together.' (Một vòng lặp như vậy sẽ thưởng cho cả hai loài vì đã ở gần nhau). Vị trí [4] nằm ngay sau câu nói về việc nhìn nhau tương hỗ (mutual gazing) giữa chó và chủ làm tăng oxytocin ở cả hai, tạo thành một vòng lặp hormone củng cố sự gắn kết. Rất logic khi cụm từ 'Such a loop' quy chiếu trực tiếp ngay sau cơ chế vòng lặp hormone vừa được mô tả.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Xác định đại từ sở hữu **\"its\"** trong cụm \"...the question of dog origins remains open, and *its* answer may change...\" ở đoạn 6. Áp dụng quy tắc đối chiếu danh từ đứng trước đó (\"the question of dog origins\") để thấy đây là từ thay thế cho câu hỏi về nguồn gốc của loài chó (the question).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc bằng chứng từ nhiều lĩnh vực (khảo cổ, di truyền, đồng vị) cho thấy mối liên kết chặt chẽ, nhưng câu chuyện về nguồn gốc vẫn chưa hoàn thiện và còn để ngỏ.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R3Q2, R3Q5, R3Q8) và từ vựng, quy chiếu (R3Q3, R3Q6, R3Q7). Tiếp theo, giải quyết câu hỏi điền vị trí đoạn văn đòi hỏi tư duy liên kết ngữ nghĩa (R3Q4). Cuối cùng, hoàn thành các câu hỏi suy luận và ý chính tổng quan (**R3Q1, R3Q9, R3Q10**) để đạt kết quả xuất sắc."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Reimagining Architecture in an Era of Energy Constraint",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Buildings account for a large share of global energy use, and for decades architects treated that energy as cheap and almost limitless. Air conditioning, electric lighting, and sealed glass towers allowed designers to ignore local climate. Rising fuel prices and climate targets are now forcing the profession to rethink that assumption, and some designers argue that the most sustainable building is one that needs little energy at all.",
+     "One influential answer is the Passivhaus standard, which grew out of a 1988 conversation between Bo Adamson of Lund University and the German physicist Wolfgang Feist. Four terraced houses built in Darmstadt in 1990 and 1991 are widely cited as the first to meet the standard, and the Passivhaus Institut was founded there in 1996. Since then, the standard has spread well beyond Germany to many other countries and climates.",
+     "The approach rests on a few simple principles that must all be applied together. A thick layer of insulation wraps the building, the windows are triple glazed, and the structure is made so airtight that leakage is checked by a blower-door test. Mechanical ventilation then recovers heat from stale air, typically with an efficiency of at least 75 per cent, so that fresh air arrives without carrying away the warmth. Every junction demands **meticulous** detailing, because a single thermal bridge can let heat escape and moisture collect. Designers model each building in advance with a dedicated planning package, so predicted energy use can be checked before construction begins.",
+     "The results can be striking. The standard limits annual heating and cooling demand to 15 kilowatt-hours per square metre, and studies reportedly show that certified homes use 75 to 95 per cent less heating energy than conventional ones. The gains matter because space heating accounts for much of the energy that households in cold climates consume. By early 2025, certified projects reportedly comprised more than 47,000 units, including an 88-metre tower in Bilbao.",
+     "Passive design attracts criticism, because the extra insulation, glazing, and testing reportedly add a premium of five to ten per cent to construction costs. **[1]** That split between who pays and who benefits explains why some governments offer grants or tighten building codes. [2] Some critics also worry that occupants may need to limit habits such as opening windows, although modelling suggests performance is fairly robust. **[3]** A further concern is geography, since buildings at high latitudes may struggle to capture enough winter sun to benefit fully. **[4]** Even so, defenders reply that the premium is shrinking as supply chains mature, and some German apartment projects have reportedly matched the cost of code-minimum buildings.",
+     "Passive design is only one strand of a broader rethinking of how buildings should work. Designers are also revisiting traditional methods such as thick earthen walls, shaded courtyards, and wind towers, which kept buildings comfortable for centuries without relying on any mechanical equipment. Many architects now combine **these** with sensors and simulation software, so that buildings borrow from the past while data refines their performance.",
+     "The shift will not be easy, because cheap energy shaped the habits of clients, regulators, and builders as well as architects. Yet as energy prices rise and climates grow less predictable, buildings that are comfortable by design may prove more **resilient** than those that depend on constant power and fragile supply chains. Architects must therefore learn to design for scarcity without sacrificing comfort or beauty. In that sense, the era of constraint may prove a creative opportunity as well as a burden."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Passive houses have replaced every other building type in northern Europe",
+       "B": "Cheap energy remains the best foundation for sustainable architecture and design",
+       "C": "Architects design buildings to need less energy, combining modern standards with traditional methods",
+       "D": "Traditional courtyards and wind towers should replace all modern building technology"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, where were the first buildings to meet the Passivhaus standard built?",
+      "options": {
+       "A": "Inside a tall tower constructed in Bilbao, Spain",
+       "B": "At a university laboratory in Lund, Sweden",
+       "C": "On farmland near Minneapolis in the United States",
+       "D": "In four terraced houses in Darmstadt"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 để xác định bốn ngôi nhà liền kề được xây dựng tại Darmstadt là những công trình đầu tiên đạt tiêu chuẩn Passivhaus."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"meticulous\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "rather careless",
+       "B": "extremely careful",
+       "C": "highly artistic",
+       "D": "fairly expensive"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"meticulous\" ở đoạn 3 đi kèm với việc xử lý từng mối nối để tránh thất thoát nhiệt và tích tụ độ ẩm, mang nghĩa cực kỳ cẩn trọng (extremely careful)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a premium can discourage developers, who pay for the extra materials while future occupants enjoy the savings.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Điền câu vào chỗ trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc các vị trí [1], [2], [3], [4] ở đoạn 5. Câu cần điền là: 'Such a premium can discourage developers, who pay for the extra materials while future occupants enjoy the savings.' (Khoản phụ phí như vậy có thể làm nản lòng các nhà phát triển, những người phải trả tiền cho vật liệu bổ sung trong khi cư dân tương lai hưởng lợi từ việc tiết kiệm). Vị trí [1] nằm ngay sau câu nói về việc thiết kế thụ động làm tăng chi phí xây dựng từ 5 đến 10%, và đứng trước câu 'That split between who pays and who benefits explains...'. Rất logic khi cụm từ 'Such a premium' liên kết trực tiếp ngay sau khoản phụ phí vừa được nhắc đến ở câu trước."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, how much less heating energy do certified homes reportedly use?",
+      "options": {
+       "A": "About half as much as most conventionally built family homes use",
+       "B": "Only around five per cent less than regular new buildings",
+       "C": "Roughly 75 to 95 per cent less than ordinary homes",
+       "D": "Almost nothing, because heating makes up little of demand"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa tiết kiệm năng lượng ở đoạn 4 để ghi nhận các ngôi nhà đạt chuẩn sử dụng ít năng lượng sưởi ấm hơn từ 75 đến 95% so với nhà thông thường."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"these\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "modern sensors",
+       "B": "energy prices",
+       "C": "simulation tools",
+       "D": "traditional methods"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xác định đại từ \"these\" trong mệnh đề \"Many architects now combine *these* with sensors...\" ở đoạn 6. Áp dụng quy tắc đối chiếu danh từ chỉ phương pháp vừa được liệt kê ở vế trước (\"traditional methods such as thick earthen walls...\" - các phương pháp truyền thống như tường đất dày, sân trong có bóng râm) để thấy đây là từ thay thế cho các phương pháp truyền thống này (traditional methods)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"resilient\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "slow to change",
+       "B": "quick to recover",
+       "C": "hard to afford",
+       "D": "easy to clean"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"resilient\" ở đoạn 7 đi kèm với việc các tòa nhà được thiết kế thoải mái có khả năng chống chọi tốt hơn trước năng lượng liên tục và chuỗi cung ứng mong manh, mang nghĩa nhanh chóng phục hồi / có khả năng chống chịu tốt (quick to recover)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "A ban on every conventional new building",
+       "B": "Grants offered by some governments to encourage building",
+       "C": "Possible difficulties in capturing winter sun at high latitudes",
+       "D": "German apartment projects that matched conventional building costs"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about low-energy design?",
+      "options": {
+       "A": "It is too expensive to be worth using anywhere in the world",
+       "B": "It requires residents to give up every comfort they once enjoyed",
+       "C": "Only historic buildings in warm, dry climates can benefit from the approach",
+       "D": "It delivers large savings but depends on managing costs, climate, and occupant habits"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc thiết kế tiết kiệm năng lượng mang lại khoản tiết kiệm lớn nhưng phụ thuộc vào việc quản lý chi phí, điều kiện khí hậu và thói quen sinh hoạt của người sử dụng."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To warn readers that new homes will soon be too costly to heat",
+       "B": "To explore how architects can design buildings that use far less energy",
+       "C": "To compare the construction costs of homes in Germany, Sweden, and Spain",
+       "D": "To teach students how to calculate heating loads for single houses"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để phân tích và hoàn thành tốt bài đọc này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự thay đổi tư duy thiết kế dưới áp lực giá năng lượng và mục tiêu khí hậu; đoạn 2 nói về nguồn gốc tiêu chuẩn Passivhaus; đoạn 3 mô tả các nguyên tắc cốt lõi (cách ly nhiệt, cửa sổ kính ba lớp, kiểm tra độ kín); đoạn 4 trình bày kết quả tiết kiệm năng lượng ấn tượng; đoạn 5 bàn về những thách thức và chỉ trích liên quan đến chi phí gia tăng; đoạn 6 đề cập đến việc kết hợp phương pháp truyền thống với cảm biến và mô phỏng hiện đại; đoạn cuối nhấn mạnh kỷ nguyên của sự khan hiếm năng lượng mang lại cơ hội sáng tạo cho các kiến trúc sư. Do đó, đáp án cho ý chính và mục đích phải bao quát toàn diện việc kiến trúc sư thiết kế tòa nhà tiêu thụ ít năng lượng hơn bằng cách kết hợp tiêu chuẩn hiện đại và phương pháp truyền thống.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, tìm thông tin ở đoạn 2 để xác định bốn ngôi nhà liền kề được xây dựng tại Darmstadt là những công trình đầu tiên đạt tiêu chuẩn Passivhaus.\n  - Với **R4Q5**, quét từ khóa tiết kiệm năng lượng ở đoạn 4 để ghi nhận các ngôi nhà đạt chuẩn sử dụng ít năng lượng sưởi ấm hơn từ 75 đến 95% so với nhà thông thường.\n  - Với câu phủ định **R4Q8**, đối soát kỹ các chi tiết tại đoạn 5 (trợ cấp chính phủ, khó khăn thu hút nắng mùa đông ở vĩ độ cao, dự án căn hộ Đức bắt kịp chi phí thông thường) để loại trừ chi tiết sai lệch về lệnh cấm mọi tòa nhà mới truyền thống.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"meticulous\"** ở đoạn 3 đi kèm với việc xử lý từng mối nối để tránh thất thoát nhiệt và tích tụ độ ẩm, mang nghĩa cực kỳ cẩn trọng (extremely careful).\n  - Với **R4Q7**, từ **\"resilient\"** ở đoạn 7 đi kèm với việc các tòa nhà được thiết kế thoải mái có khả năng chống chọi tốt hơn trước năng lượng liên tục và chuỗi cung ứng mong manh, mang nghĩa nhanh chóng phục hồi / có khả năng chống chịu tốt (quick to recover).\n- **Dạng câu hỏi Điền câu vào chỗ trống (R4Q4):** Đọc các vị trí [1], [2], [3], [4] ở đoạn 5. Câu cần điền là: 'Such a premium can discourage developers, who pay for the extra materials while future occupants enjoy the savings.' (Khoản phụ phí như vậy có thể làm nản lòng các nhà phát triển, những người phải trả tiền cho vật liệu bổ sung trong khi cư dân tương lai hưởng lợi từ việc tiết kiệm). Vị trí [1] nằm ngay sau câu nói về việc thiết kế thụ động làm tăng chi phí xây dựng từ 5 đến 10%, và đứng trước câu 'That split between who pays and who benefits explains...'. Rất logic khi cụm từ 'Such a premium' liên kết trực tiếp ngay sau khoản phụ phí vừa được nhắc đến ở câu trước.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Xác định đại từ **\"these\"** trong mệnh đề \"Many architects now combine *these* with sensors...\" ở đoạn 6. Áp dụng quy tắc đối chiếu danh từ chỉ phương pháp vừa được liệt kê ở vế trước (\"traditional methods such as thick earthen walls...\" - các phương pháp truyền thống như tường đất dày, sân trong có bóng râm) để thấy đây là từ thay thế cho các phương pháp truyền thống này (traditional methods).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc thiết kế tiết kiệm năng lượng mang lại khoản tiết kiệm lớn nhưng phụ thuộc vào việc quản lý chi phí, điều kiện khí hậu và thói quen sinh hoạt của người sử dụng.\nLời khuyên: Hãy bắt đầu với các câu hỏi tra cứu thông tin trực tiếp (R4Q2, R4Q5, R4Q8) và từ vựng, quy chiếu (R4Q3, R4Q6, R4Q7). Tiếp theo, giải quyết câu hỏi điền vị trí đoạn văn đòi hỏi tư duy liên kết logic (R4Q4). Cuối cùng, hoàn thành các câu hỏi suy luận và ý chính tổng quan (**R4Q1, R4Q9, R4Q10**) để đạt kết quả tốt nhất."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend Alex, who has recently moved into a new house and invited you to an informal housewarming party.\nAlex asked you for some information before the party.\nAlex wants to know more details about your visit to the housewarming party.\n- Tell Alex where the party will be held.\n- Explain how to get from the airport to your house.\n- Ask whether you can bring a friend with you to the party.\nWrite an email responding to Alex. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend Alex, who has recently moved into a new house and invited you to an informal housewarming party.",
+      "Alex asked you for some information before the party."
+     ],
+     "quote": [
+      "Alex wants to know more details about your visit to the housewarming party.",
+      "- Tell Alex where the party will be held.",
+      "- Explain how to get from the airport to your house.",
+      "- Ask whether you can bring a friend with you to the party."
+     ],
+     "instruction": "Write an email responding to Alex. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (email thân mật) gửi cho bạn bè nên cần sử dụng giọng văn tự nhiên, gần gũi.\n- Bạn cần trả lời đầy đủ 3 yêu cầu chính: địa điểm tổ chức tiệc, hướng dẫn đường đi từ sân bay và hỏi việc đưa bạn đi cùng.\n- Đảm bảo bài viết đạt tối thiểu 120 từ và không bỏ sót bất kỳ ý nào trong đề.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Bắt đầu bằng lời chào thân mật. Ví dụ: Dear Alex,\n- **Opening:** Cảm ơn lời mời và thể hiện sự vui vẻ. Ví dụ: Thanks for inviting me to your housewarming party.\n- **Body:** Chia thành các đoạn nhỏ để trả lời từng câu hỏi: địa điểm, đường đi, việc đi cùng bạn.\n- **Closing:** Kết thúc bằng lời mong chờ gặp lại. Ví dụ: I am looking forward to seeing you soon.\n- **Sign-off:** Dùng cách kết thư thân mật như Best wishes hoặc See you.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Nên dùng thì hiện tại đơn để mô tả địa điểm và thì tương lai/gần tương lai để nói về kế hoạch tham dự.\n- Tránh lặp từ party, house bằng cách dùng các từ thay thế phù hợp.\n- Phát triển ý bằng cách thêm lý do, ví dụ và chi tiết cụ thể.\nTừ vựng quan trọng:\n- **Housewarming party:** Tiệc tân gia\n- **Newly-built house:** Nhà mới xây\n- **Transportation:** Phương tiện di chuyển\n- **Airport shuttle:** Xe đưa đón sân bay\n- **Directions:** Chỉ dẫn đường đi\n- **Bring someone along:** Dẫn ai đó đi cùng\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Besides:** Bên cạnh đó\n- **In addition:** Ngoài ra\n- **However:** Tuy nhiên\n- **Therefore:** Vì vậy\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am excited about:** Tôi hào hứng về\n- **I really appreciate:** Tôi rất trân trọng\n- **I am looking forward to:** Tôi mong chờ\n\n**4. Các lỗi thường gặp:**\n- Viết email quá trang trọng như thư công việc.\n- Không trả lời đủ ba câu hỏi trong đề.\n- Dùng sai giới từ khi mô tả địa điểm hoặc phương hướng.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã đủ 120 từ chưa.\n- Đảm bảo có mở đầu và kết thúc email.\n- Kiểm tra lỗi chia thì, chính tả và từ nối.\n\n**6. Tư duy làm bài:**\n- Hãy xem đây là một cuộc trò chuyện với bạn bè thay vì một bài văn cứng nhắc.\n- Ưu tiên trả lời đầy đủ yêu cầu và viết rõ ràng hơn là cố dùng từ quá khó.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn many parts of the world, water shortages have become a serious environmental and social problem.\nThis issue affects people's daily lives, agriculture, and economic development.\nWhat are the causes of water shortages and what solutions can be taken to solve this problem?\nWrite an essay to an educated reader to discuss the problems caused by water shortages and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In many parts of the world, water shortages have become a serious environmental and social problem.",
+      "This issue affects people's daily lives, agriculture, and economic development.",
+      "What are the causes of water shortages and what solutions can be taken to solve this problem?"
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by water shortages and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Problem–Solution** kết hợp Cause–Solution, yêu cầu phân tích nguyên nhân và đưa ra giải pháp cho vấn đề thiếu nước.\n- Cần tập trung vào hai phần chính: causes và solutions, không chỉ mô tả tình trạng thiếu nước.\n- Bài viết cần tối thiểu 250 từ và được đánh giá dựa trên Task Fulfilment, Organization, Vocabulary và Grammar.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vấn đề và nêu hướng triển khai. Ví dụ: Water shortages have become a global concern due to several environmental and human factors.\n- **Body 1:** Phân tích nguyên nhân. Cấu trúc nên là Topic sentence -> Explanation -> Example -> Kết luận nhỏ.\n- **Body 2:** Trình bày giải pháp. Ví dụ: Governments and individuals can take practical actions to reduce water waste.\n- **Conclusion:** Tóm tắt nguyên nhân và nhấn mạnh sự cần thiết của giải pháp.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng hiện tại đơn để nói về thực trạng và hiện tại hoàn thành để nói về xu hướng kéo dài.\n- Luôn phát triển ý bằng cách giải thích vì sao nguyên nhân xảy ra và giải pháp hoạt động như thế nào.\n- Cần có thesis statement rõ ràng trong mở bài.\nTừ vựng quan trọng:\n- **Water shortage:** Sự thiếu nước\n- **Drought:** Hạn hán\n- **Climate change:** Biến đổi khí hậu\n- **Water consumption:** Lượng tiêu thụ nước\n- **Natural resources:** Tài nguyên thiên nhiên\n- **Water conservation:** Bảo tồn nguồn nước\nTừ nối (Linking words):\n- **Firstly:** Thứ nhất\n- **Moreover:** Hơn nữa\n- **However:** Tuy nhiên\n- **As a result:** Kết quả là\n- **For example:** Ví dụ\n- **In conclusion:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Water scarcity:** Cách diễn đạt học thuật hơn cho water shortage.\n- **Lack of access to clean water:** Thay cho thiếu nước sạch.\n- **Environmental challenges:** Thay cho environmental problems.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **One possible solution is to:** Một giải pháp có thể là.\n- **This problem can be addressed by:** Vấn đề này có thể được giải quyết bằng cách.\n- **Governments should take measures to:** Chính phủ nên thực hiện biện pháp để.\n\n**4. Các lỗi thường gặp:**\n- Chỉ liệt kê nguyên nhân mà không giải thích.\n- Đưa ra giải pháp không liên quan đến nguyên nhân.\n- Viết đoạn văn thiếu câu chủ đề hoặc thiếu ví dụ minh họa.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra bài đã có đủ phần nguyên nhân và giải pháp chưa.\n- Kiểm tra số từ tối thiểu 250 từ.\n- Rà soát lỗi ngữ pháp, từ nối và sự liên kết giữa các đoạn.\n\n**6. Tư duy làm bài:**\n- Hãy tập trung vào sự logic: nguyên nhân dẫn đến vấn đề và giải pháp xử lý vấn đề đó.\n- Một bài viết rõ ràng, có ví dụ phù hợp thường đạt điểm cao hơn bài dùng nhiều từ khó nhưng thiếu phát triển ý."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about parties\n\n1\nWhat kind of parties do you enjoy attending?\n2\nHow often do you join parties with your friends or family?\n3\nWhat makes a party successful in your opinion?\n\nNow, let’s talk about making plans\n\n4\nHow do you usually make plans for an event?\n5\nDo you prefer making plans in advance or deciding at the last minute? Why?\n6\nWhat is important when organizing a plan with other people?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 là phần tương tác xã hội, gồm **6 câu hỏi trong khoảng 3 phút**. Mục tiêu là kiểm tra khả năng phản xạ, diễn đạt ý kiến cá nhân và duy trì cuộc hội thoại tự nhiên.\n- **Topic A (Parties and Events):** Ba câu hỏi đầu tập trung vào trải nghiệm tham gia tiệc, cách bạn đánh giá một buổi tiệc thành công và khả năng chia sẻ sở thích trong các hoạt động xã hội.\n- **Topic B (Making Plans):** Ba câu hỏi sau xoay quanh cách lập kế hoạch, thói quen chuẩn bị sự kiện và kỹ năng phối hợp với người khác.\n- Tiêu chí đánh giá chính gồm **Fluency, Vocabulary, Grammar và Pronunciation**. Bạn cần nói rõ ràng, có mở rộng câu trả lời thay vì chỉ trả lời ngắn.\n- Nên phân bổ khoảng **25–35 giây cho mỗi câu hỏi**, giữ sự cân bằng giữa Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **ARE (Answer – Reason – Example)**: trả lời trực tiếp, đưa ra lý do và thêm ví dụ cá nhân để kéo dài câu trả lời.\n- **Ví dụ Topic A:** I enjoy attending birthday parties because they allow me to spend quality time with my friends and create memorable moments together.\n- **Ví dụ Topic B:** I prefer making plans in advance because it helps everyone prepare better and avoid unexpected problems.\n- Luôn tự hỏi thêm câu hỏi **Why?** hoặc **How?** sau câu trả lời để phát triển ý tưởng.\n- Khi chuyển chủ đề từ tiệc sang lập kế hoạch, có thể dùng câu nối như: Moving on to another topic, I would like to talk about how I usually organize events.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định, sử dụng các từ đệm tự nhiên như well, actually, I think để tránh khoảng lặng dài.\n- Sử dụng hiện tại đơn cho thói quen: I usually attend parties... và quá khứ đơn khi kể trải nghiệm đã xảy ra.\n- Nếu quên từ vựng, hãy diễn đạt bằng cách mô tả ý nghĩa thay vì dừng lại quá lâu.\n- **Từ vựng Topic A:** social gathering (buổi gặp mặt xã hội), memorable occasion (dịp đáng nhớ), celebrate special moments (kỷ niệm những khoảnh khắc đặc biệt).\n- **Từ vựng Topic B:** make arrangements (sắp xếp kế hoạch), set a schedule (lập lịch trình), work together effectively (phối hợp hiệu quả).\nCụm từ quan trọng nên dùng:\n- social gathering: buổi gặp mặt, sự kiện giao lưu\n- create unforgettable memories: tạo ra những kỷ niệm khó quên\n- have a great time with friends: có khoảng thời gian vui vẻ với bạn bè\n- make a detailed plan: lập một kế hoạch chi tiết\n- take other people's opinions into consideration: cân nhắc ý kiến của người khác\n- avoid last-minute problems: tránh các vấn đề phát sinh vào phút cuối\nTừ nối khi nói (Linking Words):\n- First of all: trước hết, dùng để bắt đầu ý chính\n- Besides: bên cạnh đó, dùng để thêm thông tin\n- For example: ví dụ như, dùng để minh họa\n- However: tuy nhiên, dùng để đưa ra sự đối lập\n- Therefore: vì vậy, dùng để kết luận ý\nCách thể hiện quan điểm tự nhiên:\n- I personally think that parties are meaningful because they help people strengthen relationships. (Tôi nghĩ rằng tiệc rất ý nghĩa vì giúp mọi người gắn kết hơn)\n- In my opinion, a successful event depends on good preparation and positive atmosphere. (Theo tôi, sự kiện thành công phụ thuộc vào sự chuẩn bị tốt và không khí tích cực)\n- I believe planning in advance is better because it reduces stress. (Tôi tin rằng lên kế hoạch trước tốt hơn vì giảm căng thẳng)\n\n**4. Các lỗi thường gặp:**\n- Trả lời Yes hoặc No rồi dừng lại là lỗi nghiêm trọng nhất vì không thể hiện khả năng giao tiếp.\n- Ở Topic A, tránh chỉ nói party is fun mà cần giải thích lý do và trải nghiệm cụ thể.\n- Ở Topic B, tránh dùng từ plan quá nhiều, hãy thay thế bằng organize, arrange hoặc prepare.\n- Dùng sai thì khi kể về những sự kiện đã xảy ra trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: That is an interesting question, let me think for a second.\n- Nếu quên từ về tiệc, hãy mô tả bằng hoạt động như eating together, talking and having fun.\n- Nếu bí ở Topic B, hãy chuyển sang nói về yếu tố thời gian, sự chuẩn bị hoặc giao tiếp.\n- Không dừng quá lâu, hãy tiếp tục bằng ý đơn giản nhưng rõ ràng.\n\n**6. Tư duy làm bài nói:**\n- Xem phần thi như một cuộc trò chuyện tự nhiên với giám khảo thay vì một bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy thay đổi tư duy sang chủ đề mới và tránh lặp lại ý cũ.\n- Sự tự nhiên và khả năng phát triển ý quan trọng hơn việc sử dụng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou have half a day off and want to choose the best activity to relax.\n\nYou are considering the following options:\n\nOption 1: Visit a park\nOption 2: Go shopping\nOption 3: Visit a children's theater\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**, yêu cầu bạn phân tích 3 lựa chọn và đưa ra quyết định cuối cùng.\n- Bạn cần xác định tình huống: bạn có nửa ngày nghỉ và đang tìm hoạt động phù hợp để thư giãn.\n- Tiêu chí chấm điểm tập trung vào khả năng lập luận, so sánh, sử dụng từ nối và đưa ra quan điểm rõ ràng.\n- Thời gian khoảng **4 phút**, nên dành thời gian chuẩn bị ý nhanh và tập trung phát triển bài nói mạch lạc.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E (Introduction – Comparison – End)**: giới thiệu tình huống, so sánh các lựa chọn và kết luận.\n- Với Option 1, có thể nói: Visiting a park is relaxing because you can enjoy fresh air and reduce stress, but it may depend on the weather.\n- Với Option 2, có thể nói: Shopping is enjoyable and helps people buy necessary things, but it can be expensive.\n- Với Option 3, có thể nói: A children's theater can be interesting, especially for families, but it may not be suitable for everyone.\n- Hãy liên hệ với cuộc sống thực tế để lập luận thuyết phục hơn.\n- Sử dụng từ nối thể hiện sự đối lập như however, although, while để chuyển ý giữa các lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Không chỉ nói về lựa chọn bạn thích mà cần liên kết và so sánh cả ba phương án.\n- Dùng hiện tại đơn để nói về lợi ích chung và cấu trúc điều kiện khi phân tích tình huống.\n- Nếu quên từ relax, có thể dùng unwind, reduce stress hoặc recharge my energy.\nCụm từ quan trọng nên dùng:\n- recharge my energy: nạp lại năng lượng\n- spend quality time: dành thời gian chất lượng\n- reduce stress levels: giảm mức độ căng thẳng\n- enjoy fresh air: tận hưởng không khí trong lành\n- make a reasonable choice: đưa ra lựa chọn hợp lý\n- consider different factors: cân nhắc các yếu tố khác nhau\nTừ nối khi nói (Linking Words):\n- On the one hand: một mặt, dùng khi phân tích lựa chọn\n- On the other hand: mặt khác, dùng để so sánh\n- Compared with: so với\n- As a result: kết quả là\n- In conclusion: kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I would choose Option 1 because it is the most suitable way for me to relax. (Tôi chọn phương án 1 vì phù hợp nhất để thư giãn)\n- Compared to the other options, this choice seems more effective because... (So với các lựa chọn khác, lựa chọn này hiệu quả hơn vì...)\n- From my perspective, the most important factor is relaxation. (Theo quan điểm của tôi, yếu tố quan trọng nhất là sự thư giãn)\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của lựa chọn khác.\n- Lặp lại good hoặc bad quá nhiều thay vì dùng relaxing, convenient, enjoyable hoặc practical.\n- Không đưa ra quyết định rõ ràng ở phần kết luận.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên ý, hãy quay về các yếu tố quen thuộc như chi phí, thời gian, sự thoải mái.\n- Dùng câu: Let's evaluate this option from a different perspective để có thêm thời gian suy nghĩ.\n- Nếu bị kẹt ở một phương án, hãy chuyển sang phương án tiếp theo thay vì dừng lại.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người đang đưa ra quyết định thực tế: lựa chọn nào phù hợp và có lợi nhất.\n- Dù chọn phương án nào, có thể thêm một đề xuất cải thiện để thể hiện khả năng suy nghĩ mở rộng.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe effect of parenting on children's development\n\nParenting and Child Development\nThe role of parents in children's personality development\nHow parenting affects education and behavior\nThe importance of communication between parents and children\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat parenting style is most effective for children?\n2\nShould parents focus more on discipline or emotional support?\n3\nHow can parents help children become independent?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Topic Development**. Bạn cần phát triển chủ đề về ảnh hưởng của việc nuôi dạy con đến sự phát triển của trẻ dựa trên 3 ý chính trong sơ đồ và thêm một ý cá nhân.\n- Tiêu chí đánh giá gồm khả năng tổ chức ý tưởng, vốn từ, độ chính xác ngữ pháp và khả năng trả lời câu hỏi mở rộng.\n- Thời gian khoảng **5 phút**, trong đó dành khoảng 3–3,5 phút cho bài nói chính và thời gian còn lại cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction – Detail – Example – Add)** để phát triển từng ý trong sơ đồ tư duy.\n- **Ví dụ 1:** Parenting plays an important role in children's development because parents are the first people who influence their thoughts, habits, and values.\n- **Ví dụ 2:** Another important idea is that parents should encourage children to become independent by allowing them to make decisions.\n- Nên đi theo thứ tự mindmap để tránh lặp ý và giúp bài nói có sự liên kết.\n- Khi nói về parenting, hãy đưa ví dụ từ cuộc sống gia đình hoặc môi trường học tập để bài nói tự nhiên hơn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng câu chuyển ý mượt giữa các nhánh như Another important aspect is... hoặc Moving on to...\n- Sử dụng hiện tại đơn cho sự thật chung và hiện tại hoàn thành khi nói về những thay đổi hoặc kinh nghiệm lâu dài.\n- Có thể thay thế parenting bằng child-rearing hoặc raising children để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- personality development: sự phát triển tính cách\n- parental guidance: sự hướng dẫn của cha mẹ\n- emotional support: sự hỗ trợ về mặt cảm xúc\n- positive environment: môi trường tích cực\n- develop independence: phát triển tính tự lập\n- build strong relationships: xây dựng mối quan hệ bền chặt\nTừ nối khi nói (Linking Words):\n- Firstly: đầu tiên, dùng để trình bày ý đầu\n- Moreover: hơn nữa, dùng để bổ sung ý\n- For instance: ví dụ như\n- However: tuy nhiên, dùng để đưa ra mặt trái\n- Overall: nhìn chung, dùng để kết luận\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that parents have a great influence on children's future development. (Tôi tin rằng cha mẹ có ảnh hưởng lớn đến sự phát triển tương lai của trẻ)\n- In my opinion, communication between parents and children is essential because it creates trust. (Theo tôi, giao tiếp giữa cha mẹ và con cái rất quan trọng vì tạo sự tin tưởng)\n- From my perspective, a balance between discipline and support is the best approach. (Theo quan điểm của tôi, cân bằng giữa kỷ luật và hỗ trợ là cách tốt nhất)\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **What parenting style is most effective for children?** – A balanced style that combines discipline and emotional support is effective because children need both guidance and encouragement.\n- **Should parents focus more on discipline or emotional support?** – Parents should provide both, but emotional support is important because it helps children feel confident and understood.\n- **How can parents help children become independent?** – Parents can give children chances to make decisions and solve problems by themselves.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê ý trong mindmap mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên ý cá nhân, vì vậy nên chuẩn bị trước một nhánh thứ tư phù hợp.\n- Dành quá nhiều thời gian cho bài nói chính và không còn thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với trải nghiệm gia đình hoặc những tình huống quen thuộc trong cuộc sống.\n- Dùng câu học thuật: That is a complex issue. If we evaluate it from a societal viewpoint...\n- Nếu quên từ chuyên ngành, hãy dùng từ đơn giản hơn hoặc mô tả ý nghĩa của từ đó.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn vấn đề từ góc độ xã hội: cách nuôi dạy ảnh hưởng đến con người trong tương lai như thế nào.\n- Sự logic và mạch lạc trong cách phát triển ý quan trọng hơn việc dùng từ quá khó.\n- Luôn cố gắng đưa ra quan điểm cân bằng thay vì chỉ nhìn vấn đề theo một chiều."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about parties.\n1.\nWhat kind of parties do you enjoy attending?\n2.\nHow often do you join parties with your friends or family?\n3.\nWhat makes a party successful in your opinion?\nNow, let’s talk about making plans.\n4.\nHow do you usually make plans for an event?\n5.\nDo you prefer making plans in advance or deciding at the last minute? Why?\n6.\nWhat is important when organizing a plan with other people?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 là phần tương tác xã hội, gồm 6 câu hỏi trong khoảng 3 phút. Mục tiêu là kiểm tra khả năng phản xạ, diễn đạt\ný kiến cá nhân và duy trì cuộc hội thoại tự nhiên.\n• Topic A (Parties and Events): Ba câu hỏi đầu tập trung vào trải nghiệm tham gia tiệc, cách bạn đánh giá một buổi\ntiệc thành công và khả năng chia sẻ sở thích trong các hoạt động xã hội.\n• Topic B (Making Plans): Ba câu hỏi sau xoay quanh cách lập kế hoạch, thói quen chuẩn bị sự kiện và kỹ năng phối\nhợp với người khác.\n• Tiêu chí đánh giá chính gồm Fluency, Vocabulary, Grammar và Pronunciation. Bạn cần nói rõ ràng, có mở rộng câu\ntrả lời thay vì chỉ trả lời ngắn.\n• Nên phân bổ khoảng 25–35 giây cho mỗi câu hỏi, giữ sự cân bằng giữa Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE (Answer – Reason – Example): trả lời trực tiếp, đưa ra lý do và thêm ví dụ cá nhân để kéo dài\ncâu trả lời.\n• Ví dụ Topic A: I enjoy attending birthday parties because they allow me to spend quality time with my friends and\ncreate memorable moments together.\n• Ví dụ Topic B: I prefer making plans in advance because it helps everyone prepare better and avoid unexpected\nproblems.\n• Luôn tự hỏi thêm câu hỏi Why? hoặc How? sau câu trả lời để phát triển ý tưởng.\n• Khi chuyển chủ đề từ tiệc sang lập kế hoạch, có thể dùng câu nối như: Moving on to another topic, I would like to talk\nabout how I usually organize events.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định, sử dụng các từ đệm tự nhiên như well, actually, I think để tránh khoảng lặng dài.\n• Sử dụng hiện tại đơn cho thói quen: I usually attend parties... và quá khứ đơn khi kể trải nghiệm đã xảy ra.\n• Nếu quên từ vựng, hãy diễn đạt bằng cách mô tả ý nghĩa thay vì dừng lại quá lâu.\n• Từ vựng Topic A: social gathering (buổi gặp mặt xã hội), memorable occasion (dịp đáng nhớ), celebrate special\nmoments (kỷ niệm những khoảnh khắc đặc biệt).\n• Từ vựng Topic B: make arrangements (sắp xếp kế hoạch), set a schedule (lập lịch trình), work together effectively\n(phối hợp hiệu quả).\nCụm từ quan trọng nên dùng:\n• social gathering: buổi gặp mặt, sự kiện giao lưu\n• create unforgettable memories: tạo ra những kỷ niệm khó quên\n• have a great time with friends: có khoảng thời gian vui vẻ với bạn bè\n• make a detailed plan: lập một kế hoạch chi tiết\n• take other people's opinions into consideration: cân nhắc ý kiến của người khác\n• avoid last-minute problems: tránh các vấn đề phát sinh vào phút cuối\nTừ nối khi nói (Linking Words):\n• First of all: trước hết, dùng để bắt đầu ý chính\n• Besides: bên cạnh đó, dùng để thêm thông tin\n• For example: ví dụ như, dùng để minh họa\n• However: tuy nhiên, dùng để đưa ra sự đối lập\n• Therefore: vì vậy, dùng để kết luận ý\nCách thể hiện quan điểm tự nhiên:\n• I personally think that parties are meaningful because they help people strengthen relationships. (Tôi nghĩ rằng tiệc\nrất ý nghĩa vì giúp mọi người gắn kết hơn)\n• In my opinion, a successful event depends on good preparation and positive atmosphere. (Theo tôi, sự kiện thành\ncông phụ thuộc vào sự chuẩn bị tốt và không khí tích cực)\n• I believe planning in advance is better because it reduces stress. (Tôi tin rằng lên kế hoạch trước tốt hơn vì giảm căng\nthẳng)\n4. Các lỗi thường gặp:\n• Trả lời Yes hoặc No rồi dừng lại là lỗi nghiêm trọng nhất vì không thể hiện khả năng giao tiếp.\n• Ở Topic A, tránh chỉ nói party is fun mà cần giải thích lý do và trải nghiệm cụ thể.\n• Ở Topic B, tránh dùng từ plan quá nhiều, hãy thay thế bằng organize, arrange hoặc prepare.\n• Dùng sai thì khi kể về những sự kiện đã xảy ra trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: That is an interesting question, let me think for a second.\n• Nếu quên từ về tiệc, hãy mô tả bằng hoạt động như eating together, talking and having fun.\n• Nếu bí ở Topic B, hãy chuyển sang nói về yếu tố thời gian, sự chuẩn bị hoặc giao tiếp.\n• Không dừng quá lâu, hãy tiếp tục bằng ý đơn giản nhưng rõ ràng.\n6. Tư duy làm bài nói:\n• Xem phần thi như một cuộc trò chuyện tự nhiên với giám khảo thay vì một bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy thay đổi tư duy sang chủ đề mới và tránh lặp lại ý cũ.\n• Sự tự nhiên và khả năng phát triển ý quan trọng hơn việc sử dụng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYou have half a day off and want to choose the best activity to relax.\nYou are considering the following options:\n• Option 1: Visit a park\n• Option 2: Go shopping\n• Option 3: Visit a children's theater\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion, yêu cầu bạn phân tích 3 lựa chọn và đưa ra quyết định cuối cùng.\n• Bạn cần xác định tình huống: bạn có nửa ngày nghỉ và đang tìm hoạt động phù hợp để thư giãn.\n• Tiêu chí chấm điểm tập trung vào khả năng lập luận, so sánh, sử dụng từ nối và đưa ra quan điểm rõ ràng.\n• Thời gian khoảng 4 phút, nên dành thời gian chuẩn bị ý nhanh và tập trung phát triển bài nói mạch lạc.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction – Comparison – End): giới thiệu tình huống, so sánh các lựa chọn và kết luận.\n• Với Option 1, có thể nói: Visiting a park is relaxing because you can enjoy fresh air and reduce stress, but it may\ndepend on the weather.\n• Với Option 2, có thể nói: Shopping is enjoyable and helps people buy necessary things, but it can be expensive.\n• Với Option 3, có thể nói: A children's theater can be interesting, especially for families, but it may not be suitable for\neveryone.\n• Hãy liên hệ với cuộc sống thực tế để lập luận thuyết phục hơn.\n• Sử dụng từ nối thể hiện sự đối lập như however, although, while để chuyển ý giữa các lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Không chỉ nói về lựa chọn bạn thích mà cần liên kết và so sánh cả ba phương án.\n• Dùng hiện tại đơn để nói về lợi ích chung và cấu trúc điều kiện khi phân tích tình huống.\n• Nếu quên từ relax, có thể dùng unwind, reduce stress hoặc recharge my energy.\nCụm từ quan trọng nên dùng:\n• recharge my energy: nạp lại năng lượng\n• spend quality time: dành thời gian chất lượng\n• reduce stress levels: giảm mức độ căng thẳng\n• enjoy fresh air: tận hưởng không khí trong lành\n• make a reasonable choice: đưa ra lựa chọn hợp lý\n• consider different factors: cân nhắc các yếu tố khác nhau\nTừ nối khi nói (Linking Words):\n• On the one hand: một mặt, dùng khi phân tích lựa chọn\n• On the other hand: mặt khác, dùng để so sánh\n• Compared with: so với\n• As a result: kết quả là\n• In conclusion: kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I would choose Option 1 because it is the most suitable way for me to relax. (Tôi chọn phương án 1 vì phù hợp nhất\nđể thư giãn)\n• Compared to the other options, this choice seems more effective because... (So với các lựa chọn khác, lựa chọn này\nhiệu quả hơn vì...)\n• From my perspective, the most important factor is relaxation. (Theo quan điểm của tôi, yếu tố quan trọng nhất là sự\nthư giãn)\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình chọn mà không phân tích nhược điểm của lựa chọn khác.\n• Lặp lại good hoặc bad quá nhiều thay vì dùng relaxing, convenient, enjoyable hoặc practical.\n• Không đưa ra quyết định rõ ràng ở phần kết luận.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên ý, hãy quay về các yếu tố quen thuộc như chi phí, thời gian, sự thoải mái.\n• Dùng câu: Let's evaluate this option from a different perspective để có thêm thời gian suy nghĩ.\n• Nếu bị kẹt ở một phương án, hãy chuyển sang phương án tiếp theo thay vì dừng lại.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người đang đưa ra quyết định thực tế: lựa chọn nào phù hợp và có lợi nhất.\n• Dù chọn phương án nào, có thể thêm một đề xuất cải thiện để thể hiện khả năng suy nghĩ mở rộng.\nTopic Development\nPART 3\n5 phút\nTopic: The effect of parenting on children's development\nThe role of parents in children's\nHow parenting affects education and\npersonality development\nbehavior\nParenting and Child\nDevelopment\nÝ tưởng của bạn\nThe importance of communication\nbetween parents and children\nFOLLOW-UP QUESTIONS\n1.\nWhat parenting style is most effective for children?\n2.\nShould parents focus more on discipline or emotional support?\n3.\nHow can parents help children become independent?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Topic Development. Bạn cần phát triển chủ đề về ảnh hưởng của việc nuôi dạy con đến sự phát triển của\ntrẻ dựa trên 3 ý chính trong sơ đồ và thêm một ý cá nhân.\n• Tiêu chí đánh giá gồm khả năng tổ chức ý tưởng, vốn từ, độ chính xác ngữ pháp và khả năng trả lời câu hỏi mở rộng.\n• Thời gian khoảng 5 phút, trong đó dành khoảng 3–3,5 phút cho bài nói chính và thời gian còn lại cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction – Detail – Example – Add) để phát triển từng ý trong sơ đồ tư duy.\n• Ví dụ 1: Parenting plays an important role in children's development because parents are the first people who\ninfluence their thoughts, habits, and values.\n• Ví dụ 2: Another important idea is that parents should encourage children to become independent by allowing them\nto make decisions.\n• Nên đi theo thứ tự mindmap để tránh lặp ý và giúp bài nói có sự liên kết.\n• Khi nói về parenting, hãy đưa ví dụ từ cuộc sống gia đình hoặc môi trường học tập để bài nói tự nhiên hơn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng câu chuyển ý mượt giữa các nhánh như Another important aspect is... hoặc Moving on to...\n• Sử dụng hiện tại đơn cho sự thật chung và hiện tại hoàn thành khi nói về những thay đổi hoặc kinh nghiệm lâu dài.\n• Có thể thay thế parenting bằng child-rearing hoặc raising children để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• personality development: sự phát triển tính cách\n• parental guidance: sự hướng dẫn của cha mẹ\n• emotional support: sự hỗ trợ về mặt cảm xúc\n• positive environment: môi trường tích cực\n• develop independence: phát triển tính tự lập\n• build strong relationships: xây dựng mối quan hệ bền chặt\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên, dùng để trình bày ý đầu\n• Moreover: hơn nữa, dùng để bổ sung ý\n• For instance: ví dụ như\n• However: tuy nhiên, dùng để đưa ra mặt trái\n• Overall: nhìn chung, dùng để kết luận\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that parents have a great influence on children's future development. (Tôi tin rằng cha mẹ có ảnh\nhưởng lớn đến sự phát triển tương lai của trẻ)\n• In my opinion, communication between parents and children is essential because it creates trust. (Theo tôi, giao tiếp\ngiữa cha mẹ và con cái rất quan trọng vì tạo sự tin tưởng)\n• From my perspective, a balance between discipline and support is the best approach. (Theo quan điểm của tôi, cân\nbằng giữa kỷ luật và hỗ trợ là cách tốt nhất)\n4. Gợi ý trả lời câu hỏi follow-up:\n• What parenting style is most effective for children? – A balanced style that combines discipline and emotional\nsupport is effective because children need both guidance and encouragement.\n• Should parents focus more on discipline or emotional support? – Parents should provide both, but emotional\nsupport is important because it helps children feel confident and understood.\n• How can parents help children become independent? – Parents can give children chances to make decisions and\nsolve problems by themselves.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê ý trong mindmap mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên ý cá nhân, vì vậy nên chuẩn bị trước một nhánh thứ tư phù hợp.\n• Dành quá nhiều thời gian cho bài nói chính và không còn thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với trải nghiệm gia đình hoặc những tình huống quen thuộc trong cuộc sống.\n• Dùng câu học thuật: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ chuyên ngành, hãy dùng từ đơn giản hơn hoặc mô tả ý nghĩa của từ đó.\n7. Tư duy làm bài nói:\n• Hãy nhìn vấn đề từ góc độ xã hội: cách nuôi dạy ảnh hưởng đến con người trong tương lai như thế nào.\n• Sự logic và mạch lạc trong cách phát triển ý quan trọng hơn việc dùng từ quá khó.\n• Luôn cố gắng đưa ra quan điểm cân bằng thay vì chỉ nhìn vấn đề theo một chiều."
+}

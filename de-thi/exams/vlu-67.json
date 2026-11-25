@@ -1,0 +1,716 @@
+{
+ "id": "vlu-67",
+ "number": 67,
+ "title": "Đề thi VLU 67",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-67",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Silent Language of Body Movement",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "We usually think of communication as speaking and listening, but words are only part of the message. Our faces, hands and bodies also send signals all day, often without our noticing, and these signals can strengthen, replace or even contradict what we say. Scientists call this nonverbal communication, and its scientific study is often said to have begun with Charles Darwin's book on emotions in 1872. This text looks at what body movement can tell us and where its meaning can change.",
+     "The face is the most obvious channel. Happiness, sadness, anger, fear, surprise and disgust are widely recognised in many cultures, so a smile or a frown is usually easy to understand. Other signals are more **subtle**, because a small movement of the eyebrows, a change in posture or a quick glance can show interest, doubt or boredom before a person says anything. Some researchers also study very short facial movements, called microexpressions, that people cannot easily control. Because these signals are quick and often unplanned, listeners tend to rely on nonverbal signals when the words and the expression do not match.",
+     "Distance also carries meaning. The anthropologist Edward Hall described four zones for people in the United States, which range from intimate space, up to about 46 centimetres, to public space, beyond about 3.7 metres. Preferences also change between cultures, and people in Japan and China usually prefer more space than Americans do. Gestures differ too. In Northern Europe, people nod for yes, but in Greece an upward nod can mean no, and the OK sign means permission in the United States but money in Japan. Eye contact is another example, because it suggests honesty in many Western cultures but can seem rude in some Asian and Middle Eastern ones.",
+     "Many people believe that most communication is nonverbal. A well-known idea linked to Albert Mehrabian says that only 7 per cent of a message comes from words, 38 per cent from tone of voice and 55 per cent from facial expressions. Experts now call this claim **misleading**, because it applies only when people talk about feelings and their words and expressions disagree. When someone gives directions or explains a lesson, words carry most of the meaning.",
+     "Some people also believe that liars can be spotted by their body language, for example by looking away or blinking more often. Studies suggest that these signs are unreliable, and one study found that liars made more eye contact than people telling the truth, so body language is best read together with words and context. Anyone who studies body language learns to watch the signals carefully, but not to trust **them** alone. In daily life, the safest habit is to ask questions instead of judging a person by one gesture."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Body language carries real meaning but cultures and situations can change it",
+       "B": "Words are always far more important than faces in every conversation",
+       "C": "Everyone in the world uses the same gestures to show agreement",
+       "D": "Liars can always be recognised by looking carefully at their eyes"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what can a quick glance show?",
+      "options": {
+       "A": "Anger or fear that a person wants to hide",
+       "B": "The exact age and job of the person speaking",
+       "C": "Boredom or doubt before a person says anything",
+       "D": "Whether a listener has understood what was just said"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"quick glance\" ở đoạn 2 để thấy nó biểu thị sự quan tâm, nghi ngờ hoặc chán nản trước khi người đó nói."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"subtle\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "extremely loud",
+       "B": "hard to notice",
+       "C": "highly unusual",
+       "D": "clearly visible"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"subtle\" ở đoạn 2 được minh họa qua các cử động nhỏ của lông mày hay tư thế, mang nghĩa tinh tế, khó nhận thấy rõ (hard to notice)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, where does Hall's public space begin?",
+      "options": {
+       "A": "Within roughly 46 centimetres of a friend",
+       "B": "Anywhere past the edge of the room",
+       "C": "Only when people stand over 12 metres apart",
+       "D": "Beyond about 3.7 metres from the person"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị thuật ngữ \"Edward Hall\" và \"public space\" ở đoạn 3 để xác định khoảng cách không gian công cộng bắt đầu từ khoảng 3.7 mét trở lên."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"misleading\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "likely to confuse",
+       "B": "perfectly accurate",
+       "C": "widely accepted",
+       "D": "highly popular"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"misleading\" ở đoạn 4 được giải thích khi nói về con số tỷ lệ của Mehrabian vốn bị hiểu sai hoặc áp dụng sai ngữ cảnh, đồng nghĩa với dễ gây nhầm lẫn, hiểu lầm (likely to confuse)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"them\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "the studies",
+       "B": "body language",
+       "C": "the signals",
+       "D": "some liars"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"them\" ở câu cuối đoạn 5. Lần ngược lại các danh từ số nhiều đứng trước trong câu và đoạn văn để tìm đối tượng mà người viết khuyên không nên tin hoàn toàn (các tín hiệu/dấu hiệu phi ngôn ngữ)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what can an upward nod mean in Greece?",
+      "options": {
+       "A": "It means thanks in most parts of Europe",
+       "B": "It is a sign used mainly when greeting",
+       "C": "It shows that the listener wants more space",
+       "D": "It can show disagreement instead of agreement"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm từ khóa \"Greece\" và \"nod\" tại đoạn 3 để nhận diện ý nghĩa của cái gật đầu hướng lên trong văn hóa Hy Lạp có thể mang nghĩa từ chối/không đồng ý."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "A rule giving facial expressions more than half of the meaning",
+       "B": "A study proving that tone of voice carries no meaning",
+       "C": "Words having most of the meaning when someone gives clear directions",
+       "D": "Experts saying the claim fits only when words and faces disagree"
+      },
+      "answer": "B",
+      "type_hint": "Phủ định / Không được nhắc đến",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ từng phương án với nội dung đoạn 4. Kiểm tra các luận điểm về tỷ lệ 55-38-7, điều kiện áp dụng khi lời nói và nét mặt mâu thuẫn, cũng như câu ví dụ khi đưa đường đi để tìm ra ý không xuất hiện trong bài hoặc trái ngược thông tin văn bản."
+     },
+     {
+      "number": 9,
+      "stem": "Which of the following can be inferred from paragraphs 3 and 4?",
+      "options": {
+       "A": "Travellers can safely ignore body language because words carry the meaning",
+       "B": "Greek nods differ from Japanese ones because people there stand closer",
+       "C": "A single gesture should be judged with culture and context in mind",
+       "D": "Mehrabian's claim proves that one gesture can decide whether someone lies"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 3 và đoạn 4 về sự khác biệt văn hóa trong cử chỉ, khoảng cách cùng với việc tín hiệu phi ngôn ngữ phải đi kèm ngữ cảnh để rút ra nguyên tắc đánh giá một hành vi giao tiếp. Lời khuyên: Hãy bắt đầu với các câu hỏi từ vựng và chi tiết định vị nhanh trong đoạn văn để lấy điểm chắc chắn. Sau đó, dùng phương pháp loại trừ cho các câu hỏi phủ định, và cuối cùng giải quyết nhóm câu hỏi tổng hợp, suy luận, ý chính toàn bài bằng cách xâu chuỗi thông tin từ các đoạn."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To explain what body movement can communicate and why its meaning varies",
+       "B": "To persuade readers to study acting before they start a new career",
+       "C": "To prove that scientists can always detect lies by watching faces and hands",
+       "D": "To compare the cost of language courses taught in several different Asian cities Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt bài đọc hiểu này, bạn nên lưu ý các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và các đoạn văn để nắm mạch nội dung chính: đoạn 1 giới thiệu khái niệm giao tiếp phi ngôn ngữ; đoạn 2 phân tích kênh khuôn mặt và biểu cảm; đoạn 3 bàn về khoảng cách không gian và sự khác biệt văn hóa của cử chỉ; đoạn 4 và 5 bàn về định kiến giao tiếp (tỷ lệ Mehrabian và dấu hiệu nói dối). Do đó, phương án đúng cho ý chính và mục đích phải bao quát được bản chất của chuyển động cơ thể, cử chỉ và sự thay đổi ý nghĩa của chúng theo ngữ cảnh, tránh chọn các nhận định quá hẹp hoặc sai lệch.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R1Q2**, tìm từ khóa \"quick glance\" ở đoạn 2 để thấy nó biểu thị sự quan tâm, nghi ngờ hoặc chán nản trước khi người đó nói.\n  - Với **R1Q4**, định vị thuật ngữ \"Edward Hall\" và \"public space\" ở đoạn 3 để xác định khoảng cách không gian công cộng bắt đầu từ khoảng 3.7 mét trở lên.\n  - Với **R1Q7**, tìm kiếm từ khóa \"Greece\" và \"nod\" tại đoạn 3 để nhận diện ý nghĩa của cái gật đầu hướng lên trong văn hóa Hy Lạp có thể mang nghĩa từ chối/không đồng ý.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - Với **R1Q3**, từ **\"subtle\"** ở đoạn 2 được minh họa qua các cử động nhỏ của lông mày hay tư thế, mang nghĩa tinh tế, khó nhận thấy rõ (hard to notice).\n  - Với **R1Q5**, từ **\"misleading\"** ở đoạn 4 được giải thích khi nói về con số tỷ lệ của Mehrabian vốn bị hiểu sai hoặc áp dụng sai ngữ cảnh, đồng nghĩa với dễ gây nhầm lẫn, hiểu lầm (likely to confuse).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ **\"them\"** ở câu cuối đoạn 5. Lần ngược lại các danh từ số nhiều đứng trước trong câu và đoạn văn để tìm đối tượng mà người viết khuyên không nên tin hoàn toàn (các tín hiệu/dấu hiệu phi ngôn ngữ).\n- **Dạng câu hỏi Phủ định / Không được nhắc đến (R1Q8):** Đối soát kỹ từng phương án với nội dung đoạn 4. Kiểm tra các luận điểm về tỷ lệ 55-38-7, điều kiện áp dụng khi lời nói và nét mặt mâu thuẫn, cũng như câu ví dụ khi đưa đường đi để tìm ra ý không xuất hiện trong bài hoặc trái ngược thông tin văn bản.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp dữ liệu từ đoạn 3 và đoạn 4 về sự khác biệt văn hóa trong cử chỉ, khoảng cách cùng với việc tín hiệu phi ngôn ngữ phải đi kèm ngữ cảnh để rút ra nguyên tắc đánh giá một hành vi giao tiếp. Lời khuyên: Hãy bắt đầu với các câu hỏi từ vựng và chi tiết định vị nhanh trong đoạn văn để lấy điểm chắc chắn. Sau đó, dùng phương pháp loại trừ cho các câu hỏi phủ định, và cuối cùng giải quyết nhóm câu hỏi tổng hợp, suy luận, ý chính toàn bài bằng cách xâu chuỗi thông tin từ các đoạn."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Designing Tuition Structures Across Age Groups",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Private tuition, the extra teaching that students receive outside their regular school, is **pervasive** in many parts of the world. Researchers often call it shadow education, a term used by Stevenson and Baker in 1992 for educational activities that run alongside formal schooling. In South Korea, nearly 90 per cent of elementary students reportedly receive it, usually in cram schools called hagwon, and about 85 per cent of senior secondary students in Hong Kong do the same. Because needs differ so much between a seven-year-old, a sixteen-year-old and a working adult, a single tuition format cannot serve every learner well. This passage considers how tuition structures might be adapted to each age group.",
+     "For young children, the evidence favours short, frequent and highly structured sessions. In one study of first-graders at risk of reading disabilities, tutors without teaching certificates gave 30-minute sessions four days a week for a school year, with effect sizes of 0.42 to 1.24. These results suggest that well-planned routines may matter more than a tutor's formal qualifications, although one study cannot settle the question. Young learners also tire quickly, so one-to-one sessions or very small groups seem more suitable than large classes.",
+     "Teenagers present a different challenge, because their tuition is usually driven by examinations. Secondary students commonly turn to shadow education before major tests, and the pressure to improve grades can encourage long hours of extra study. However, an Asian Development Bank study in 2012 noted that private tutoring is not always effective, since some students become too tired to benefit from their regular lessons.",
+     "Adult learners usually have fewer hours to spare and clearer goals, such as a language certificate or a career qualification. For them, traditional evening classes can be **cumbersome**, since travel and fixed timetables compete with work and family duties. Online tutoring, delivered through apps with chat, whiteboards and video conferencing, can offer scheduled or on-demand sessions. Even so, designers should avoid overloading the screen, because Sweller and Chandler warned in 1994 that learners struggle when they must split their attention between several sources of information.",
+     "Cost shapes every design decision. In South Korea, shadow education reportedly cost 17.3 billion dollars in 2010, and household spending equalled about 80 per cent of government spending on public primary and secondary education. Paid tutoring can widen socioeconomic gaps, because wealthier families can buy more hours and more experienced tutors. The Chinese government has taken a far-reaching step: in July 2021, **its** Double Reduction Policy reclassified tutoring institutions as non-profit organisations.",
+     "The best-known argument for individual attention comes from Bloom's 1984 research, which suggested that well-trained one-to-one tutoring could raise performance by two standard deviations. Because such tutoring is costly, designers must decide where it adds the most value. A tiered structure could reserve one-to-one sessions for young children and learners with specific difficulties, use small exam-focused groups for teenagers, and offer short flexible online blocks for adults. No structure is universally best, however, and any design should be tested against outcomes rather than assumed to work."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Online lessons have replaced every other kind of private tuition in Asia",
+       "B": "Tuition should be adapted to each age group while weighing cost and evidence",
+       "C": "Teenagers need no extra tuition because schools already prepare them for examinations",
+       "D": "One-to-one tutoring always produces large gains whatever the age of the learner"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what is shadow education?",
+      "options": {
+       "A": "Extra learning that runs alongside formal schooling",
+       "B": "A school subject taught mainly in Hong Kong",
+       "C": "Tutoring that is paid for by the government",
+       "D": "Classes offered only to children who fail examinations"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"shadow education\" ở đoạn 1 để nhận diện định nghĩa các hoạt động giáo dục bổ trợ song song với hệ thống trường học chính quy (extra learning that runs alongside formal schooling)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"pervasive\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "almost never used",
+       "B": "banned by schools",
+       "C": "far too expensive",
+       "D": "present in many places"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"pervasive\" ở đoạn 1 được miêu tả qua tỷ lệ học sinh tham gia học thêm lên đến 90% ở Hàn Quốc và 85% ở Hong Kong, thể hiện sự phổ biến rộng khắp ở nhiều nơi (present in many places)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what was true of the tutors in the first-grade study?",
+      "options": {
+       "A": "They taught whole classes of fifty pupils",
+       "B": "They had all studied education for years",
+       "C": "They did not hold formal teaching certificates",
+       "D": "They were paid by schools to give homework"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 15,
+      "stem": "The word \"cumbersome\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "highly profitable",
+       "B": "very affordable",
+       "C": "quite exciting",
+       "D": "difficult to manage"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"cumbersome\" ở đoạn 4 đi kèm với việc lịch trình cố định và việc di chuyển cạnh tranh với công việc, gia đình của người lớn, chỉ ra đặc điểm bất tiện, rườm rà và khó quản lý/sắp xếp (difficult to manage)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"its\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "the Korean government",
+       "B": "the Chinese government",
+       "C": "the tutoring industry",
+       "D": "the Hong Kong government"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào từ chỉ định \"its\" ở câu chứa chính sách Double Reduction Policy tại đoạn 5. Lần ngược lại chủ thể quốc gia vừa được nhắc đến ở câu trước đó (The Chinese government), cho thấy từ này quy chiếu về chính phủ Trung Quốc."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, why might private tutoring fail to help some teenagers?",
+      "options": {
+       "A": "Some become too exhausted to benefit from regular lessons",
+       "B": "Their tutors do not know the content of school exams",
+       "C": "Schools often ban them from taking classes outside normal hours",
+       "D": "The sessions are held online and attract too few students"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"teenagers\" hoặc \"fail to help\" ở đoạn 3 để xác định nguyên nhân học sinh lớn tuổi/thiếu niên có thể quá mệt mỏi từ việc học thêm kéo dài dẫn đến không thu lại lợi ích ở lớp chính quy."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Fixed timetables that compete with work and family duties",
+       "B": "Apps that offer chat, whiteboards and live video conferencing",
+       "C": "Government grants that pay for adult evening courses",
+       "D": "Learners who struggle when attention is split between sources"
+      },
+      "answer": "C",
+      "type_hint": "Phủ định / Không được nhắc đến",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ từng phương án với nội dung đoạn 4. Kiểm tra lịch trình cồng kềnh, ứng dụng học trực tuyến hỗ trợ chat/bảng trắng, và lý thuyết quá tải thông tin của Sweller và Chandler để loại trừ các ý có thật, từ đó chọn ý về trợ cấp chính phủ (không hề xuất hiện trong bài)."
+     },
+     {
+      "number": 19,
+      "stem": "Which of the following can be inferred from paragraphs 2, 3, and 5?",
+      "options": {
+       "A": "Teenagers always benefit from long hours of tutoring before all major examinations",
+       "B": "Online tutoring is unsuitable for every learner because screens always damage attention",
+       "C": "Cost differences alone explain why young children read better than older learners",
+       "D": "One format rarely suits every age group and unequal fees may widen gaps"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 2, 3 và 5 về việc các độ tuổi khác nhau cần cấu trúc dạy khác nhau, cùng với vấn đề chi phí học thêm đắt đỏ làm gia tăng khoảng cách bất bình đẳng thu nhập giữa các hộ gia đình, qua đó rút ra kết luận khái quát nhất về sự đa dạng hình thức theo lứa tuổi và tác động chi phí."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To discuss how private tuition could be organised for different age groups",
+       "B": "To argue that national governments should ban every form of private tutoring",
+       "C": "To report how much money Korean families spent on cram schools each year",
+       "D": "To advertise online tutoring services to adult learners who work very long hours Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt bài đọc hiểu này, bạn nên lưu ý các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu kết luận ở đoạn 1 và đoạn cuối để nắm mạch thông tin chủ đạo: bài viết xoay quanh cấu trúc và cách điều chỉnh các hình thức học thêm phù hợp cho từng lứa tuổi (trẻ nhỏ, thiếu niên, người lớn) dựa trên bằng chứng thực tế và yếu tố chi phí. Do đó, phương án đúng phải bao quát được ý tưởng tùy chỉnh hình thức học theo lứa tuổi đi kèm cân nhắc về chi phí và bằng chứng, tránh chọn các nhận định quá hẹp hoặc cực đoan (như cấm đoán hay chỉ đề cập một nhóm tuổi).\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên các đoạn văn:\n  - Với **R2Q2**, tìm từ khóa \"shadow education\" ở đoạn 1 để nhận diện định nghĩa các hoạt động giáo dục bổ trợ song song với hệ thống trường học chính quy (extra learning that runs alongside formal schooling).\n  - With **R2Q4**, quét từ khóa \"first-grade study\" hoặc \"tutors\" ở đoạn 2 để tìm thông tin gia sư không cần có chứng chỉ giảng dạy chính thức (did not hold formal teaching certificates) nhưng vẫn đạt hiệu quả cao nhờ quy trình chuẩn.\n  - Với **R2Q7**, quét từ khóa \"teenagers\" hoặc \"fail to help\" ở đoạn 3 để xác định nguyên nhân học sinh lớn tuổi/thiếu niên có thể quá mệt mỏi từ việc học thêm kéo dài dẫn đến không thu lại lợi ích ở lớp chính quy.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - Với **R2Q3**, từ **\"pervasive\"** ở đoạn 1 được miêu tả qua tỷ lệ học sinh tham gia học thêm lên đến 90% ở Hàn Quốc và 85% ở Hong Kong, thể hiện sự phổ biến rộng khắp ở nhiều nơi (present in many places).\n  - Với **R2Q5**, từ **\"cumbersome\"** ở đoạn 4 đi kèm với việc lịch trình cố định và việc di chuyển cạnh tranh với công việc, gia đình của người lớn, chỉ ra đặc điểm bất tiện, rườm rà và khó quản lý/sắp xếp (difficult to manage).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào từ chỉ định **\"its\"** ở câu chứa chính sách Double Reduction Policy tại đoạn 5. Lần ngược lại chủ thể quốc gia vừa được nhắc đến ở câu trước đó (The Chinese government), cho thấy từ này quy chiếu về chính phủ Trung Quốc.\n- **Dạng câu hỏi Phủ định / Không được nhắc đến (R2Q8):** Đối soát kỹ từng phương án với nội dung đoạn 4. Kiểm tra lịch trình cồng kềnh, ứng dụng học trực tuyến hỗ trợ chat/bảng trắng, và lý thuyết quá tải thông tin của Sweller và Chandler để loại trừ các ý có thật, từ đó chọn ý về trợ cấp chính phủ (không hề xuất hiện trong bài).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp dữ liệu từ đoạn 2, 3 và 5 về việc các độ tuổi khác nhau cần cấu trúc dạy khác nhau, cùng với vấn đề chi phí học thêm đắt đỏ làm gia tăng khoảng cách bất bình đẳng thu nhập giữa các hộ gia đình, qua đó rút ra kết luận khái quát nhất về sự đa dạng hình thức theo lứa tuổi và tác động chi phí.\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R2Q2, R2Q4, R2Q7) và từ vựng (R2Q3, R2Q5) để tích lũy dữ kiện và điểm số nhanh chóng. Sau đó, xử lý câu hỏi quy chiếu (R2Q6) và loại trừ (R2Q8). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R2Q9), ý chính (R2Q1) và mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "English as a Global Lingua Franca",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Native speakers of English are now outnumbered by people who use it as an additional language, and a growing share of conversations in English probably involve no native speaker at all. This situation has given rise to the idea of English as a lingua franca, usually abbreviated to ELF, which describes English used as a global means of communication between people from different linguistic backgrounds. This passage examines how ELF arose, how it is defined and why it remains controversial.",
+     "Before the 1940s, French and German were roughly as important as English in scholarly communication, and no single language dominated the international exchange of ideas. After the 1940s, English became the established academic lingua franca, and by the end of the twentieth century it had become dominant in most international communication, partly because of American cultural influence. That shift followed from politics, economics and the reach of institutions that published, taught and entertained in English.",
+     "ELF is defined by what it does rather than by whose language it is. Instead of measuring speakers against native-speaker norms, researchers take a **pragmatic** view in which intelligibility and communicative efficiency matter more than grammatical correctness in real conversation. Proponents therefore describe speakers as users, not learners, and reject the idea that ELF is a deficient version of English. Corpus studies have identified recurring features, such as invariant question tags, that do not necessarily prevent understanding.",
+     "ELF is most thoroughly documented in business and higher education, largely in European settings, but it also matters in medicine. In healthcare, a study of nurses' simulated patient handovers found that unintelligibility could pose a threat to patient safety, whereas a Japanese study reported that student doctors used empathic accommodation strategies. These cases show that intelligibility is not an abstract ideal but a practical requirement.",
+     "Not everyone welcomes this development, and several scholars have raised a serious objection. **[1]** That view was developed by Robert Phillipson, who argued in his 1992 book Linguistic Imperialism that talk of a neutral global language offers only a terminological veneer for continued English-speaking domination. **[2]** Juliane House asked in 2003 whether English threatens multilingualism, and Marlén Muñiz García argued in 2023 that it endangers linguistic diversity. **[3]** Colin Sowden contended in 2011 that ELF should not replace Standard English as a teaching model and that it carries colonial baggage. **[4]** Alessia Cogo replied that ELF is not a single monolithic variety, and Martin Dewey defended its variability and dynamic nature.",
+     "Defenders point out that speakers of ELF are rarely passive recipients of someone else's norms. They often switch into other languages they know, adjust their speech to a partner's needs and tolerate variation that a strict teacher would correct. Seen this way, skilled speakers are better judged on how well they cooperate, and measuring **them** only against native-speaker norms ignores much of what makes an exchange work.",
+     "The future of ELF is **contingent** on decisions that no single country controls. Universities that require English-medium instruction, employers that set language tests and governments that design school curricula all influence whether variation is accepted as normal or corrected as an error. Whether ELF remains a neutral instrument or becomes a new form of exclusion will depend on how fairly access to English is distributed."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Native speakers now control the rules that every other user must follow",
+       "B": "Standard English has been replaced by Esperanto in schools across European countries",
+       "C": "English now works as a shared tool whose spread is useful but contested",
+       "D": "Corpus studies prove that mistakes in English always prevent understanding between speakers"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what was true of scholarly communication before the 1940s?",
+      "options": {
+       "A": "English had already replaced Latin in every university of Europe",
+       "B": "Chinese scholars published most journals that European researchers regularly cited",
+       "C": "American universities set rules requiring every scientist to publish in English",
+       "D": "French and German were roughly as important as English"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"before the 1940s\" ở đoạn 2 để xác định thời điểm tiếng Pháp và tiếng Đức có tầm quan trọng tương đương tiếng Anh trong giao tiếp học thuật."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"pragmatic\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "purely theoretical",
+       "B": "focused on practical results",
+       "C": "mostly emotional",
+       "D": "strictly legal"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"pragmatic\" ở đoạn 3 mô tả cách các nhà nghiên cứu nhìn nhận cách dùng từ dựa trên hiệu quả thực tế thay vì chuẩn mực người bản xứ, đồng nghĩa với tập trung vào kết quả thực tiễn (focused on practical results)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such an objection holds that the spread of a language is never neutral, since it reflects power as well as convenience.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc câu văn cần chèn về sự phản đối tính trung lập của ngôn ngữ và sự phản ánh quyền lực. Vị trí [1] ngay trước câu giới thiệu quan điểm của Robert Phillipson về \"Linguistic Imperialism\" là điểm khớp nối lý tưởng nhất để mở đầu cho chuỗi các ý kiến phản đối."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what do proponents of ELF emphasise?",
+      "options": {
+       "A": "Speakers should imitate British pronunciation until learners sound like natives",
+       "B": "Learners must memorise every grammar rule before they speak",
+       "C": "Intelligibility and communicative efficiency matter more than grammatical correctness",
+       "D": "ELF is simply a broken form of English"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"proponents\" hoặc định nghĩa tại đoạn 3 để nhận diện quan điểm đề cao tính thông hiểu (intelligibility) và hiệu quả giao tiếp hơn là sự hoàn hảo về ngữ pháp."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"them\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "native speakers",
+       "B": "other languages",
+       "C": "strict teachers",
+       "D": "skilled speakers"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"them\" ở đoạn 6 trong cấu trúc đánh giá các \"skilled speakers\". Lần ngược lại đối tượng đang được bàn luận ở mệnh đề trước là những người nói giỏi, khéo léo co giãn ngôn ngữ."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"contingent\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "dependent on circumstances",
+       "B": "perfectly certain",
+       "C": "already finished",
+       "D": "widely ignored"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"contingent\" ở đoạn 7 đi kèm với việc tương lai của ELF phụ thuộc vào quyết định từ các trường đại học, nhà tuyển dụng và chính phủ, mang nghĩa phụ thuộc vào hoàn cảnh (dependent on circumstances)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Phillipson's view that a neutral language hides continued domination",
+       "B": "A proposal to ban English from international conferences",
+       "C": "House's question whether English threatens multilingualism in some societies",
+       "D": "Dewey's defence of ELF's variability and its dynamic nature"
+      },
+      "answer": "B",
+      "type_hint": "Phủ định / Không được nhắc đến",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ từng phương án với nội dung đoạn 5. Kiểm tra các ý kiến của Robert Phillipson, Juliane House, Marlén Muñiz García, Colin Sowden, Alessia Cogo và Martin Dewey để loại trừ các ý có thật, từ đó chọn ý về đề xuất cấm tiếng Anh khỏi các hội nghị quốc tế (không hề được nhắc đến)."
+     },
+     {
+      "number": 29,
+      "stem": "Which of the following can be inferred from paragraphs 2, 3, and 5 about ELF?",
+      "options": {
+       "A": "ELF will certainly replace every national language within the next fifty years",
+       "B": "Linguistic research caused English to dominate science after the Second World War",
+       "C": "Critics agree that ELF is harmless because speakers learn native norms eventually",
+       "D": "Its status stems from history rather than linguistics so fairness questions remain open"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 2, 3 và 5 về việc vị thế của tiếng Anh bắt nguồn từ lịch sử chính trị và kinh tế thay vì thuần túy quy tắc ngôn ngữ học, khiến cho các câu hỏi về sự công bằng vẫn còn là vấn đề mở."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To urge governments to abolish all national languages in favour of English alone",
+       "B": "To teach readers the correct grammar rules needed for business English emails",
+       "C": "To explain how English became a shared language and why scholars disagree",
+       "D": "To compare British and American pronunciation in science and in medicine Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt bài đọc hiểu này, bạn nên lưu ý các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu kết luận của đoạn 1 và đoạn cuối để nắm mạch thông tin chủ đạo: bài viết trình bày về sự hình thành của ELF, định nghĩa thực tiễn, các ứng dụng chuyên ngành cũng như những tranh cãi xoay quanh vấn đề quyền lực và sự thống trị ngôn ngữ. Do đó, phương án đúng phải bao quát được bản chất tiếng Anh như một công cụ chia sẻ nhưng có ích lợi đi kèm tranh cãi, tránh chọn các nhận định cực đoan hoặc sai lệch.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R3Q2**, tìm từ khóa \"before the 1940s\" ở đoạn 2 để xác định thời điểm tiếng Pháp và tiếng Đức có tầm quan trọng tương đương tiếng Anh trong giao tiếp học thuật.\n  - Với **R3Q5**, quét từ khóa \"proponents\" hoặc định nghĩa tại đoạn 3 để nhận diện quan điểm đề cao tính thông hiểu (intelligibility) và hiệu quả giao tiếp hơn là sự hoàn hảo về ngữ pháp.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - Với **R3Q3**, từ **\"pragmatic\"** ở đoạn 3 mô tả cách các nhà nghiên cứu nhìn nhận cách dùng từ dựa trên hiệu quả thực tế thay vì chuẩn mực người bản xứ, đồng nghĩa với tập trung vào kết quả thực tiễn (focused on practical results).\n  - Với **R3Q7**, từ **\"contingent\"** ở đoạn 7 đi kèm với việc tương lai của ELF phụ thuộc vào quyết định từ các trường đại học, nhà tuyển dụng và chính phủ, mang nghĩa phụ thuộc vào hoàn cảnh (dependent on circumstances).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R3Q4):** Đọc câu văn cần chèn về sự phản đối tính trung lập của ngôn ngữ và sự phản ánh quyền lực. Vị trí **[1]** ngay trước câu giới thiệu quan điểm của Robert Phillipson về \"Linguistic Imperialism\" là điểm khớp nối lý tưởng nhất để mở đầu cho chuỗi các ý kiến phản đối.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ **\"them\"** ở đoạn 6 trong cấu trúc đánh giá các \"skilled speakers\". Lần ngược lại đối tượng đang được bàn luận ở mệnh đề trước là những người nói giỏi, khéo léo co giãn ngôn ngữ.\n- **Dạng câu hỏi Phủ định / Không được nhắc đến (R3Q8):** Đối soát kỹ từng phương án với nội dung đoạn 5. Kiểm tra các ý kiến của Robert Phillipson, Juliane House, Marlén Muñiz García, Colin Sowden, Alessia Cogo và Martin Dewey để loại trừ các ý có thật, từ đó chọn ý về đề xuất cấm tiếng Anh khỏi các hội nghị quốc tế (không hề được nhắc đến).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp dữ liệu từ đoạn 2, 3 và 5 về việc vị thế của tiếng Anh bắt nguồn từ lịch sử chính trị và kinh tế thay vì thuần túy quy tắc ngôn ngữ học, khiến cho các câu hỏi về sự công bằng vẫn còn là vấn đề mở.\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R3Q2, R3Q5), từ vựng (R3Q3, R3Q7) và vị trí câu (R3Q4) để tích lũy điểm chắc chắn. Sau đó, xử lý câu hỏi quy chiếu (R3Q6) và loại trừ (R3Q8). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R3Q9), ý chính (R3Q1) và mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Rethinking the Urban Bus as Infrastructure",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "The bus is the most **prosaic** form of urban transport, and for decades planners have treated it as a stopgap to be replaced by rail once a city can afford better. This view overlooks how many people buses carry and how much depends on the space they receive. This passage examines bus rapid transit, usually abbreviated to BRT, and argues that a bus system designed as infrastructure, with its own lanes and stations, can approach rail in capacity at a lower cost.",
+     "Segregated busways appeared in several places during the twentieth century, among them Runcorn in England, which opened one in 1971. **[1]** In 1974, Curitiba in Brazil introduced its Rede Integrada de Transporte, usually described as the first fully integrated network of its kind. **[2]** That demonstration influenced Bogotá, where TransMilenio opened in 2000 and combined Curitiba's elements with later advances to set records for capacity and speed. **[3]** Jakarta followed in January 2004 with Transjakarta, the first system of this kind in Southeast Asia and now reportedly the largest, at about 265 kilometres of corridors. **[4]** By March 2018, about 166 cities on six continents had BRT, carrying roughly 32 million passengers daily.",
+     "What distinguishes BRT from an ordinary bus service is not the vehicle but the infrastructure around it. Median-aligned bus lanes keep buses clear of curbside conflicts, fares are paid before boarding so that every door can be used, level platforms allow step-free entry, and signal priority shortens waits at intersections. Together, the features cut the delays that make conventional buses slow and unpredictable, and they allow high-capacity articulated vehicles to run at frequencies resembling those of a rail line.",
+     "Capacity is the usual objection to buses, but the evidence is more nuanced than the objection suggests. The busiest real systems typically carry 15,000 to 25,000 passengers per hour in each direction, although Rio de Janeiro has reportedly reached about 65,000. One comparison of 84 systems found that the best BRT corridor, at 37,700, exceeded the best heavy-rail line, at 36,000. Costs are lower still: a 2000 United States government study put the average capital cost of a busway at 13.5 million dollars a mile, against 34.8 million for light rail.",
+     "The record is not uniformly positive. The term BRT creep describes degraded services that carry the label without the design, and overcrowding has troubled several systems, with Santiago reportedly averaging about six passengers per square metre and Bogotá about eight. Jakarta, **whose** network is the largest, has faced overcrowding, low frequencies, harassment and a bus fire, and its governor apologised publicly in 2015. Delhi abandoned its BRT after it proved unpopular, which shows that political support matters as much as engineering.",
+     "Context also matters. Critics note that BRT needs dense, mixed-use land patterns to succeed, and the evidence from several African schemes is **equivocal**. There is also a potential conflict of interest, since the advocacy group that developed the BRT Standard receives part of its funding from bus manufacturers such as Volvo. The Standard scores corridors against defined criteria and gives its highest ranking, gold, to the best performers.",
+     "The urban bus should therefore be judged less as a vehicle than as infrastructure: lanes, stations, signals, payment systems and governance together determine whether it delivers rail-like performance. Where cities provide those elements and sustain public support, BRT can offer high capacity at a fraction of the cost of rail; where they do not, the label alone achieves little. The useful question is not whether buses can match trains but what a city will build around them."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Bus rapid transit has failed everywhere because passengers prefer trains over buses",
+       "B": "Curitiba's busway proved that dedicated lanes alone guarantee success in every city",
+       "C": "Light rail costs less than busways and carries more passengers almost everywhere",
+       "D": "Buses designed as infrastructure can rival rail but their results depend on context"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what was notable about Transjakarta?",
+      "options": {
+       "A": "It was the first such system in Southeast Asia",
+       "B": "It carried more than thirty million daily riders when it opened",
+       "C": "It opened in 1974 as the first integrated network in Brazil",
+       "D": "It replaced the older Curitiba busway after complaints about crowding"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"Transjakarta\" ở đoạn 2 để xác định đây là hệ thống đầu tiên loại này tại khu vực Đông Nam Á (the first such system in Southeast Asia)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"prosaic\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "highly dangerous",
+       "B": "newly invented",
+       "C": "ordinary and unexciting",
+       "D": "fully automated"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"prosaic\" ở đoạn 1 miêu tả hình thức xe buýt thông thường vốn bị các nhà quy hoạch xem là giải pháp tạm thời, mang sắc thái bình thường, nhàm chán, không thú vị (ordinary and unexciting)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a network offered a demonstration that buses could be planned as a coordinated system rather than a scatter of isolated routes.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc câu cần chèn nói về mạng lưới điều phối xe buýt thay vì các tuyến rời rạc. Vị trí [2] ngay sau câu giới thiệu về mạng lưới tích hợp Rede Integrada de Transporte tại Curitiba năm 1974 là điểm khớp nối logic hoàn hảo nhất để giải thích ý nghĩa của mạng lưới này."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what did the comparison of 84 systems find?",
+      "options": {
+       "A": "Light rail exceeded every BRT corridor in passengers moved each hour overall",
+       "B": "Every heavy-rail line surpassed 50,000 passengers per hour in each direction",
+       "C": "Most BRT systems carried more than the busiest metro lines",
+       "D": "The best BRT corridor carried more than the best heavy-rail line"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"comparison of 84 systems\" ở đoạn 4 để thấy hành lang BRT tốt nhất có lượng hành khách vượt qua cả tuyến đường sắt nặng tốt nhất (The best BRT corridor carried more than the best heavy-rail line)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"whose\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Jakarta",
+       "B": "Santiago",
+       "C": "Bogotá",
+       "D": "Delhi"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"whose\" ở đầu câu văn nhắc đến mạng lưới lớn nhất tại đoạn 5. Lần ngược lại danh từ chỉ thành phố vừa được nhắc đến ở câu trước đó làm chủ ngữ (Jakarta), cho thấy từ này quy chiếu về Jakarta."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"equivocal\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "clearly positive",
+       "B": "open to different readings",
+       "C": "widely celebrated",
+       "D": "fully proven"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"equivocal\" ở đoạn 6 miêu tả bằng chứng từ các dự án tại châu Phi khi bối cảnh đô thị chưa đồng bộ, mang nghĩa mơ hồ, có thể hiểu theo nhiều hướng khác nhau (open to different readings)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Jakarta's governor apologising publicly for the system's many problems",
+       "B": "Degraded services that carry the BRT label without the design",
+       "C": "A fatal collision on a busy Santiago corridor",
+       "D": "Bogotá reportedly averaging about eight passengers per square metre"
+      },
+      "answer": "C",
+      "type_hint": "Phủ định / Không được nhắc đến",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ từng phương án với nội dung đoạn 5. Kiểm tra các thông tin về lời xin lỗi của thống đốc Jakarta, dịch vụ xuống cấp mang nhãn mác BRT (BRT creep), và mật độ hành khách ở Bogotá để loại trừ các ý có thật, từ đó chọn ý về vụ va chạm gây tử vong ở Santiago (không hề được nhắc đến)."
+     },
+     {
+      "number": 39,
+      "stem": "Which of the following can be inferred from paragraphs 3, 5, and 6 about BRT?",
+      "options": {
+       "A": "Performance depends on design and political support more than on the bus itself",
+       "B": "Any city that paints a bus lane will immediately gain rail-like capacity",
+       "C": "Advocacy groups funded by bus manufacturers always publish evidence biased against rail",
+       "D": "Overcrowding in Jakarta caused Delhi to abandon its corridor after public complaints"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về tầm quan trọng của cơ sở hạ tầng, sự hỗ trợ chính trị và bối cảnh đô thị, qua đó suy ra hiệu suất của BRT phụ thuộc vào thiết kế và sự ủng hộ chính trị hơn là bản thân chiếc xe buýt."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade city governments to abandon rail projects and buy more buses",
+       "B": "To describe how bus manufacturers have funded research into rail safety",
+       "C": "To record the daily ridership of every Asian bus system",
+       "D": "To examine whether well-designed buses can approach the performance of rail"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt bài đọc hiểu này, bạn nên lưu ý các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu kết luận của đoạn 1 và đoạn cuối để nắm mạch thông tin chủ đạo: bài viết xem xét hệ thống BRT, chỉ ra rằng xe buýt được thiết kế như cơ sở hạ tầng (có làn đường và trạm riêng) hoàn toàn có thể cạnh tranh với đường sắt về sức chứa nhưng kết quả thực tế phụ thuộc nhiều vào bối cảnh, thiết kế và hỗ trợ chính trị. Do đó, phương án đúng phải phản ánh đúng sự so sánh giữa BRT và đường sắt phụ thuộc vào hạ tầng và bối cảnh, tránh các nhận định cực đoan như BRT thất bại hoàn toàn hay thành công ở mọi nơi.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R4Q2**, tìm từ khóa \"Transjakarta\" ở đoạn 2 để xác định đây là hệ thống đầu tiên loại này tại khu vực Đông Nam Á (the first such system in Southeast Asia).\n  - Với **R4Q5**, quét từ khóa \"comparison of 84 systems\" ở đoạn 4 để thấy hành lang BRT tốt nhất có lượng hành khách vượt qua cả tuyến đường sắt nặng tốt nhất (The best BRT corridor carried more than the best heavy-rail line).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - Với **R4Q3**, từ **\"prosaic\"** ở đoạn 1 miêu tả hình thức xe buýt thông thường vốn bị các nhà quy hoạch xem là giải pháp tạm thời, mang sắc thái bình thường, nhàm chán, không thú vị (ordinary and unexciting).\n  - Với **R4Q7**, từ **\"equivocal\"** ở đoạn 6 miêu tả bằng chứng từ các dự án tại châu Phi khi bối cảnh đô thị chưa đồng bộ, mang nghĩa mơ hồ, có thể hiểu theo nhiều hướng khác nhau (open to different readings).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R4Q4):** Đọc câu cần chèn nói về mạng lưới điều phối xe buýt thay vì các tuyến rời rạc. Vị trí **[2]** ngay sau câu giới thiệu về mạng lưới tích hợp Rede Integrada de Transporte tại Curitiba năm 1974 là điểm khớp nối logic hoàn hảo nhất để giải thích ý nghĩa của mạng lưới này.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ quan hệ **\"whose\"** ở đầu câu văn nhắc đến mạng lưới lớn nhất tại đoạn 5. Lần ngược lại danh từ chỉ thành phố vừa được nhắc đến ở câu trước đó làm chủ ngữ (Jakarta), cho thấy từ này quy chiếu về Jakarta.\n- **Dạng câu hỏi Phủ định / Không được nhắc đến (R4Q8):** Đối soát kỹ từng phương án với nội dung đoạn 5. Kiểm tra các thông tin về lời xin lỗi của thống đốc Jakarta, dịch vụ xuống cấp mang nhãn mác BRT (BRT creep), và mật độ hành khách ở Bogotá để loại trừ các ý có thật, từ đó chọn ý về vụ va chạm gây tử vong ở Santiago (không hề được nhắc đến).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về tầm quan trọng của cơ sở hạ tầng, sự hỗ trợ chính trị và bối cảnh đô thị, qua đó suy ra hiệu suất của BRT phụ thuộc vào thiết kế và sự ủng hộ chính trị hơn là bản thân chiếc xe buýt.\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R4Q2, R4Q5), từ vựng (R4Q3, R4Q7) và vị trí câu (R4Q4) để tích lũy điểm số nhanh chóng. Sau đó, xử lý câu hỏi quy chiếu (R4Q6) và loại trừ (R4Q8). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R4Q9), ý chính (R4Q1) và mục đích tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend asking about your free-time activities and hobbies.\nYour friend wants to start a new hobby but does not know what activity to choose or how to begin.\nWrite an informal email to your friend to share your experience with hobbies and give some advice about starting a new hobby.\n- Tell your friend what you usually do in your free time.\n- Explain how you started your favorite hobby.\n- Give some tips for beginners who want to try a new hobby.\nWrite an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend asking about your free-time activities and hobbies.",
+      "Your friend wants to start a new hobby but does not know what activity to choose or how to begin."
+     ],
+     "quote": [
+      "Write an informal email to your friend to share your experience with hobbies and give some advice about starting a new hobby.",
+      "- Tell your friend what you usually do in your free time.",
+      "- Explain how you started your favorite hobby.",
+      "- Give some tips for beginners who want to try a new hobby."
+     ],
+     "instruction": "Write an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (thư thân mật) vì người nhận là bạn bè. Bạn nên sử dụng giọng văn gần gũi, tự nhiên và có thể chia sẻ trải nghiệm cá nhân.\n- Đề yêu cầu trả lời 3 ý chính: hoạt động trong thời gian rảnh, cách bắt đầu một sở thích và lời khuyên cho người mới.\n- Bài viết cần tối thiểu **120 từ**. Cần trả lời đầy đủ các câu hỏi và phát triển ý bằng ví dụ cụ thể.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Mở đầu bằng lời chào thân mật. Ví dụ: Dear Anna,\n- **Opening:** Cảm ơn thư của bạn và dẫn vào chủ đề. Ví dụ: It was great to hear from you. I am happy to share my hobbies with you.\n- **Body:** Đoạn 1 nói về hoạt động lúc rảnh, đoạn 2 nói cách bắt đầu hobby và lời khuyên cho người mới.\n- **Closing:** Kết thúc bằng lời động viên hoặc hỏi thêm về sở thích của bạn. Ví dụ: I hope you will find a hobby that you enjoy.\n- **Sign-off:** Có thể dùng Best wishes hoặc See you soon.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng hiện tại đơn để nói về thói quen và sở thích, sử dụng quá khứ đơn khi kể về thời điểm bắt đầu một hobby.\n- Nên giải thích lý do tại sao bạn thích một hoạt động thay vì chỉ liệt kê tên hoạt động.\n- Sử dụng các cụm từ mô tả cảm xúc để bài viết tự nhiên hơn.\nTừ vựng quan trọng:\n- **Free time activities:** Hoạt động thời gian rảnh\n- **Personal interest:** Sở thích cá nhân\n- **Develop a hobby:** Phát triển một sở thích\n- **Learn a new skill:** Học một kỹ năng mới\n- **Practice regularly:** Luyện tập thường xuyên\n- **Relaxing activity:** Hoạt động thư giãn\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **For example:** Ví dụ\n- **Besides:** Bên cạnh đó\n- **Moreover:** Hơn nữa\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I really enjoy:** Tôi thực sự thích\n- **I am interested in:** Tôi quan tâm đến\n- **It makes me feel relaxed:** Nó khiến tôi cảm thấy thư giãn\n\n**4. Các lỗi thường gặp:**\n- Viết bài giống essay thay vì email giao tiếp với bạn bè.\n- Không kể rõ cách bắt đầu hobby mà chỉ nói tên sở thích.\n- Sử dụng sai thì khi kể về quá trình bắt đầu một hoạt động.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã có lời chào và lời kết thư chưa.\n- Đảm bảo đã trả lời đủ ba câu hỏi của đề.\n- Kiểm tra lỗi ngữ pháp, chính tả và số lượng từ.\n\n**6. Tư duy làm bài:**\nHãy coi đây là một cuộc trò chuyện với người bạn. Viết những điều gần gũi, dễ hiểu và tập trung vào việc chia sẻ kinh nghiệm thực tế.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nJob satisfaction is considered an important factor that affects employees' motivation and performance in the workplace.\nThere are many factors that can influence how satisfied people feel with their jobs, including salary, working environment, career opportunities and relationships with colleagues.\nDiscuss the factors that affect people's job satisfaction.\nWrite an essay to an educated reader to analyze the factors that affect people's job satisfaction. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Job satisfaction is considered an important factor that affects employees' motivation and performance in the workplace.",
+      "There are many factors that can influence how satisfied people feel with their jobs, including salary, working environment, career opportunities and relationships with colleagues.",
+      "Discuss the factors that affect people's job satisfaction."
+     ],
+     "instruction": "Write an essay to an educated reader to analyze the factors that affect people's job satisfaction. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Cause–Effect Essay**. Bạn cần phân tích các yếu tố ảnh hưởng đến sự hài lòng trong công việc.\n- Từ khóa quan trọng là **job satisfaction** và **factors that affect**. Cần tập trung vào nguyên nhân hoặc yếu tố tác động, không chuyển sang viết giải pháp nếu đề không yêu cầu.\n- Bài viết cần tối thiểu **250 từ**, cần có luận điểm rõ ràng và phát triển từng yếu tố bằng giải thích, ví dụ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu tầm quan trọng của sự hài lòng trong công việc. Ví dụ: Job satisfaction plays an important role in employees' productivity and well-being.\n- **Body 1:** Phân tích yếu tố về thu nhập và môi trường làm việc. Ví dụ: One major factor affecting job satisfaction is a suitable salary.\n- **Body 2:** Phân tích cơ hội phát triển nghề nghiệp, sự công nhận hoặc mối quan hệ nơi làm việc. Ví dụ: Career growth opportunities can encourage employees to stay motivated.\n- **Body 3 (nếu cần):** Có thể mở rộng thêm yếu tố cân bằng cuộc sống và công việc.\n- **Conclusion:** Tóm tắt các yếu tố quan trọng. Ví dụ: In conclusion, job satisfaction depends on both financial and non-financial factors.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng hiện tại đơn để phân tích các yếu tố chung trong môi trường làm việc.\n- Phát triển ý theo cấu trúc Factor -> Explanation -> Example -> Result để tăng điểm Task Fulfillment.\n- Sử dụng câu chủ đề rõ ràng và tránh lặp lại các từ như job, good, important.\nTừ vựng quan trọng:\n- **Job satisfaction:** Sự hài lòng trong công việc\n- **Working environment:** Môi trường làm việc\n- **Career advancement:** Sự thăng tiến nghề nghiệp\n- **Employee motivation:** Động lực của nhân viên\n- **Work-life balance:** Cân bằng công việc và cuộc sống\n- **Financial benefits:** Phúc lợi tài chính\nTừ nối (Linking words):\n- **One important factor is:** Một yếu tố quan trọng là\n- **In addition:** Ngoài ra\n- **Furthermore:** Hơn nữa\n- **As a result:** Kết quả là\n- **For instance:** Ví dụ\n- **In conclusion:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Employee happiness:** Sự hài lòng của nhân viên, thay cho job satisfaction.\n- **Professional growth:** Sự phát triển nghề nghiệp, thay cho career opportunities.\n- **Workplace conditions:** Điều kiện nơi làm việc, thay cho working environment.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is widely believed that:** Nhiều người cho rằng, dùng để mở đầu vấn đề.\n- **This factor has a significant impact on:** Yếu tố này có ảnh hưởng lớn đến, dùng để phân tích tác động.\n- **Compared with:** So với, dùng để so sánh các yếu tố.\n\n**4. Các lỗi thường gặp:**\n- Liệt kê quá nhiều yếu tố nhưng không giải thích chi tiết.\n- Chỉ tập trung vào lương mà bỏ qua các yếu tố tinh thần.\n- Không đưa ví dụ khiến bài viết thiếu sự thuyết phục.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra mỗi đoạn thân bài có một ý chính rõ ràng chưa.\n- Đảm bảo các yếu tố ảnh hưởng đến job satisfaction được giải thích đầy đủ.\n- Kiểm tra lỗi ngữ pháp, chính tả và số lượng từ tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\nHãy tập trung vào việc phân tích mối quan hệ giữa các yếu tố và sự hài lòng trong công việc. Một bài viết có bố cục rõ ràng và ví dụ hợp lý sẽ giúp đạt điểm cao hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about parties\n\n1\nDo you often attend parties? Why or why not?\n2\nWhat kind of parties do you enjoy the most?\n3\nWhat do people usually do at parties?\n\nNow, let’s talk about your future career\n\n4\nWhat kind of career do you want to have in the future?\n5\nWhat factors are important when choosing a career?\n6\nWhat skills do people need to be successful in their careers?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 là phần tương tác cá nhân trong khoảng **3 phút** với 6 câu hỏi thuộc 2 chủ đề quen thuộc.\n- **Topic A (Parties):** Các câu hỏi 1–3 tập trung vào hoạt động xã hội, sở thích tham gia sự kiện và cách mọi người tận hưởng thời gian cùng nhau.\n- **Topic B (Career):** Các câu hỏi 4–6 nói về định hướng nghề nghiệp, tiêu chí lựa chọn công việc và kỹ năng cần thiết trong tương lai.\n- Tiêu chí chấm điểm gồm **Fluency, Vocabulary, Grammar và Pronunciation**. Bạn cần mở rộng câu trả lời bằng lý do và ví dụ cá nhân.\n- Nên dành khoảng **25–35 giây cho mỗi câu hỏi** để cân bằng giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)**: trả lời -> giải thích -> đưa ví dụ.\n- **Ví dụ Topic A:** I enjoy attending birthday parties because they help me relax and spend time with my friends. For example, I usually join small parties with my classmates.\n- **Ví dụ Topic B:** I want to have a career in marketing because I like communicating with people and being creative.\n- Luôn tự hỏi thêm **Why?** hoặc **How?** để kéo dài câu trả lời.\n- Khi chuyển từ Parties sang Career, có thể dùng câu nối: Besides social activities, I would like to talk about my future career.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định, sử dụng từ đệm như actually, well, I think để tránh khoảng lặng.\n- Dùng hiện tại đơn cho thói quen: I often attend... / I usually choose...\n- Dùng tương lai hoặc cấu trúc dự định khi nói về nghề nghiệp: I would like to become... / I plan to...\n- **Vocabulary Topic A:** social event (sự kiện xã hội), have fun (vui chơi), get together (tụ họp).\n- **Vocabulary Topic B:** career path (con đường nghề nghiệp), job satisfaction (sự hài lòng công việc), professional skills (kỹ năng chuyên môn).\nCụm từ quan trọng nên dùng:\n- **Attend a party:** tham gia một bữa tiệc.\n- **Have a good time:** có khoảng thời gian vui vẻ.\n- **Spend quality time:** dành thời gian chất lượng.\n- **Career opportunity:** cơ hội nghề nghiệp.\n- **Achieve career goals:** đạt mục tiêu nghề nghiệp.\n- **Develop professional skills:** phát triển kỹ năng nghề nghiệp.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên, dùng để bắt đầu ý.\n- **Because:** bởi vì, dùng để giải thích lý do.\n- **For example:** ví dụ như, dùng để mở rộng câu trả lời.\n- **However:** tuy nhiên, dùng khi so sánh ý tưởng.\n- **In my opinion:** theo quan điểm của tôi, dùng để nêu ý kiến.\nCách thể hiện quan điểm tự nhiên:\n- **I personally think...** Ví dụ: I personally think parties are a good way to relax.\n- **I believe that...** Ví dụ: I believe choosing the right career is important for the future.\n- **From my point of view...** Ví dụ: From my point of view, skills are important for career development.\n\n**4. Các lỗi thường gặp:**\n- Trả lời Yes/No rồi dừng lại, không giải thích thêm.\n- Với Topic A, tránh chỉ mô tả bữa tiệc mà không nói cảm xúc hoặc lý do thích.\n- Với Topic B, tránh chỉ nói tên nghề nghiệp mà không giải thích sự phù hợp.\n- Dùng sai thì khi nói về kế hoạch tương lai.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: That is an interesting question, let me think for a second.\n- Nếu quên từ, hãy mô tả bằng cách dùng từ đơn giản hơn.\n- Với Topic A, có thể chuyển sang nói về bạn bè, hoạt động hoặc cảm xúc.\n- Với Topic B, có thể chuyển sang nói về sở thích, kỹ năng và mục tiêu cá nhân.\n\n**6. Tư duy làm bài nói:**\n- Xem Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n- Giữ sự tự tin khi chuyển giữa chủ đề đời sống và nghề nghiệp.\n- Ưu tiên sự rõ ràng, tự nhiên hơn việc sử dụng từ vựng quá phức tạp."
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend wants to improve his/her English speaking skill and asks for your advice.\n\nYou are considering the following options:\n\nOption 1: Enroll in an English course\nOption 2: Join a school club\nOption 3: Practice speaking with his/her peers\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần đưa ra lời khuyên cho người bạn muốn cải thiện kỹ năng nói tiếng Anh.\n- Cần phân tích 3 lựa chọn dựa trên tính hiệu quả, chi phí, môi trường luyện tập và khả năng áp dụng thực tế.\n- Tiêu chí chấm điểm gồm khả năng so sánh, lập luận, sử dụng từ vựng phù hợp và cách kết luận.\n- Thời gian khoảng **4 phút**, nên dành thời gian chuẩn bị ý và trình bày theo cấu trúc rõ ràng.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E (Introduction - Comparison/Body - End)**: giới thiệu vấn đề -> phân tích từng lựa chọn -> kết luận.\n- Với Option 1: Khóa học tiếng Anh cung cấp giáo viên và lộ trình rõ ràng nhưng có thể tốn chi phí.\n- Với Option 2: Câu lạc bộ giúp giao tiếp với nhiều người và tạo môi trường thực hành tự nhiên.\n- Với Option 3: Luyện tập với bạn bè dễ thực hiện nhưng có thể thiếu sự sửa lỗi chuyên môn.\n- Liên hệ với cuộc sống thực tế: người học cần môi trường sử dụng tiếng Anh thường xuyên.\n- Sử dụng từ nối đối lập để chuyển giữa ưu điểm và hạn chế của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Không nên chỉ nói một lựa chọn tốt mà cần so sánh cả ba phương án.\n- Dùng hiện tại đơn để nói về lợi ích chung: Joining a club helps people communicate better.\n- Dùng cấu trúc so sánh: Compared with other options, this method is more effective because...\n- Nếu quên từ vựng, hãy giải thích ý bằng cách diễn đạt đơn giản hơn.\nCụm từ quan trọng nên dùng:\n- **Improve speaking skills:** cải thiện kỹ năng nói.\n- **Build confidence:** xây dựng sự tự tin.\n- **Fluent communication:** giao tiếp trôi chảy.\n- **Language environment:** môi trường ngôn ngữ.\n- **Receive feedback:** nhận phản hồi.\n- **Practice regularly:** luyện tập thường xuyên.\nTừ nối khi nói (Linking Words):\n- **On the one hand:** một mặt.\n- **On the other hand:** mặt khác.\n- **Moreover:** hơn nữa.\n- **Compared to:** so với.\n- **Therefore:** vì vậy.\nCách thể hiện quan điểm tự nhiên:\n- **I would choose...** Ví dụ: I would choose joining a club because it provides a natural speaking environment.\n- **The main reason is that...** Ví dụ: The main reason is that practice helps people become more confident.\n- **I think this option is more suitable because...** Ví dụ: I think this option is more suitable because it is practical and affordable.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen phương án mình chọn mà không phân tích phương án còn lại.\n- Lặp lại các từ như good, useful quá nhiều.\n- Không đưa ra lựa chọn cuối cùng ở phần kết luận.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu thiếu ý, hãy phân tích theo các yếu tố quen thuộc như thời gian, chi phí và hiệu quả.\n- Dùng câu chuyển ý: Let's evaluate this option from a different perspective.\n- Nếu bí một lựa chọn, hãy chuyển sang phương án tiếp theo để giữ sự trôi chảy.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như đang đưa ra lời khuyên thực tế cho một người bạn.\n- Đưa ra lựa chọn có lý do rõ ràng và có thể thêm cách cải thiện để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of owning a pet\n\nBenefits of Owning Pets\nReasons why people own pets\nBenefits of pets for emotional and physical health\nResponsibilities of pet owners\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy do many people want to own pets nowadays?\n2\nWhat should people consider before getting a pet?\n3\nDo you think pets can improve people's quality of life? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Topic Development**. Bạn cần phát triển chủ đề về lợi ích của việc nuôi thú cưng dựa trên các nhánh ý trong mindmap.\n- Bạn cần trình bày 3 ý chính và thêm một ý tưởng cá nhân để bài nói đầy đủ hơn.\n- Tiêu chí chấm gồm sự mạch lạc, khả năng phát triển ý, từ vựng, ngữ pháp và phát âm.\n- Thời gian khoảng **5 phút**, nên dành 3–3.5 phút cho phần trình bày chính và phần còn lại cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA (Introduction - Detail - Example - Add/wrap up)**: giới thiệu -> giải thích -> ví dụ -> mở rộng.\n- **Ví dụ 1:** Owning a pet can bring many benefits because animals can provide companionship and emotional support.\n- **Ví dụ 2:** For my own idea, I think pets can help people develop responsibility and patience.\n- Luôn giải thích lợi ích thay vì chỉ liệt kê các ý trong sơ đồ.\n- Theo dõi mindmap để tránh lặp ý và chuyển chủ đề không liên quan.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm chuyển ý để kết nối các nhánh ý tưởng.\n- Dùng hiện tại đơn cho sự thật chung và hiện tại hoàn thành khi nói về xu hướng nuôi thú cưng.\n- Có thể thay thế owning a pet bằng having a companion animal hoặc keeping pets.\nCụm từ quan trọng nên dùng:\n- **Emotional support:** sự hỗ trợ tinh thần.\n- **Reduce stress:** giảm căng thẳng.\n- **Build a bond:** xây dựng sự gắn kết.\n- **Take care of:** chăm sóc.\n- **Sense of responsibility:** ý thức trách nhiệm.\n- **Improve quality of life:** cải thiện chất lượng cuộc sống.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên.\n- **In addition:** thêm vào đó.\n- **For example:** ví dụ như.\n- **As a result:** kết quả là.\n- **In conclusion:** kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n- **I strongly believe that...** Ví dụ: I strongly believe that pets can make people happier.\n- **From my perspective...** Ví dụ: From my perspective, owning a pet requires commitment.\n- **I would say that...** Ví dụ: I would say that pets have a positive impact on families.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Why do people want to own pets?** -> People want pets because they provide companionship and help reduce loneliness.\n- **What should people consider before getting a pet?** -> They should consider time, money and whether they can take good care of the animal.\n- **Can pets improve quality of life?** -> Yes, because pets can reduce stress and bring happiness to their owners.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ.\n- Quên phát triển ý tưởng cá nhân ở nhánh cuối.\n- Dành quá nhiều thời gian cho phần chính và không đủ thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Liên hệ với trải nghiệm cá nhân hoặc những con vật quen thuộc.\n- Dùng câu trì hoãn: That is a complex issue. If we evaluate it from a societal viewpoint...\n- Nếu quên từ khó, hãy dùng từ đơn giản hơn để mô tả.\n\n**7. Tư duy làm bài nói:**\n- Nhìn chủ đề từ góc độ thực tế: lợi ích đi cùng trách nhiệm.\n- Sự logic và mạch lạc trong phát triển ý quan trọng hơn việc dùng quá nhiều từ khó.\n- Luôn thêm ví dụ cá nhân để bài nói tự nhiên và thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about parties.\n1.\nDo you often attend parties? Why or why not?\n2.\nWhat kind of parties do you enjoy the most?\n3.\nWhat do people usually do at parties?\nNow, let’s talk about your future career.\n4.\nWhat kind of career do you want to have in the future?\n5.\nWhat factors are important when choosing a career?\n6.\nWhat skills do people need to be successful in their careers?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 là phần tương tác cá nhân trong khoảng 3 phút với 6 câu hỏi thuộc 2 chủ đề quen thuộc.\n• Topic A (Parties): Các câu hỏi 1–3 tập trung vào hoạt động xã hội, sở thích tham gia sự kiện và cách mọi người tận\nhưởng thời gian cùng nhau.\n• Topic B (Career): Các câu hỏi 4–6 nói về định hướng nghề nghiệp, tiêu chí lựa chọn công việc và kỹ năng cần thiết\ntrong tương lai.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và Pronunciation. Bạn cần mở rộng câu trả lời bằng lý do\nvà ví dụ cá nhân.\n• Nên dành khoảng 25–35 giây cho mỗi câu hỏi để cân bằng giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE): trả lời -> giải thích -> đưa ví dụ.\n• Ví dụ Topic A: I enjoy attending birthday parties because they help me relax and spend time with my friends. For\nexample, I usually join small parties with my classmates.\n• Ví dụ Topic B: I want to have a career in marketing because I like communicating with people and being creative.\n• Luôn tự hỏi thêm Why? hoặc How? để kéo dài câu trả lời.\n• Khi chuyển từ Parties sang Career, có thể dùng câu nối: Besides social activities, I would like to talk about my future\ncareer.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định, sử dụng từ đệm như actually, well, I think để tránh khoảng lặng.\n• Dùng hiện tại đơn cho thói quen: I often attend... / I usually choose...\n• Dùng tương lai hoặc cấu trúc dự định khi nói về nghề nghiệp: I would like to become... / I plan to...\n• Vocabulary Topic A: social event (sự kiện xã hội), have fun (vui chơi), get together (tụ họp).\n• Vocabulary Topic B: career path (con đường nghề nghiệp), job satisfaction (sự hài lòng công việc), professional skills\n(kỹ năng chuyên môn).\nCụm từ quan trọng nên dùng:\n• Attend a party: tham gia một bữa tiệc.\n• Have a good time: có khoảng thời gian vui vẻ.\n• Spend quality time: dành thời gian chất lượng.\n• Career opportunity: cơ hội nghề nghiệp.\n• Achieve career goals: đạt mục tiêu nghề nghiệp.\n• Develop professional skills: phát triển kỹ năng nghề nghiệp.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên, dùng để bắt đầu ý.\n• Because: bởi vì, dùng để giải thích lý do.\n• For example: ví dụ như, dùng để mở rộng câu trả lời.\n• However: tuy nhiên, dùng khi so sánh ý tưởng.\n• In my opinion: theo quan điểm của tôi, dùng để nêu ý kiến.\nCách thể hiện quan điểm tự nhiên:\n• I personally think... Ví dụ: I personally think parties are a good way to relax.\n• I believe that... Ví dụ: I believe choosing the right career is important for the future.\n• From my point of view... Ví dụ: From my point of view, skills are important for career development.\n4. Các lỗi thường gặp:\n• Trả lời Yes/No rồi dừng lại, không giải thích thêm.\n• Với Topic A, tránh chỉ mô tả bữa tiệc mà không nói cảm xúc hoặc lý do thích.\n• Với Topic B, tránh chỉ nói tên nghề nghiệp mà không giải thích sự phù hợp.\n• Dùng sai thì khi nói về kế hoạch tương lai.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: That is an interesting question, let me think for a second.\n• Nếu quên từ, hãy mô tả bằng cách dùng từ đơn giản hơn.\n• Với Topic A, có thể chuyển sang nói về bạn bè, hoạt động hoặc cảm xúc.\n• Với Topic B, có thể chuyển sang nói về sở thích, kỹ năng và mục tiêu cá nhân.\n6. Tư duy làm bài nói:\n• Xem Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n• Giữ sự tự tin khi chuyển giữa chủ đề đời sống và nghề nghiệp.\n• Ưu tiên sự rõ ràng, tự nhiên hơn việc sử dụng từ vựng quá phức tạp.\nPART 2\nSolution Discussion\n4 phút\nYour friend wants to improve his/her English speaking skill and asks for your advice.\nYou are considering the following options:\n• Option 1: Enroll in an English course\n• Option 2: Join a school club\n• Option 3: Practice speaking with his/her peers\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần đưa ra lời khuyên cho người bạn muốn cải thiện kỹ năng nói tiếng Anh.\n• Cần phân tích 3 lựa chọn dựa trên tính hiệu quả, chi phí, môi trường luyện tập và khả năng áp dụng thực tế.\n• Tiêu chí chấm điểm gồm khả năng so sánh, lập luận, sử dụng từ vựng phù hợp và cách kết luận.\n• Thời gian khoảng 4 phút, nên dành thời gian chuẩn bị ý và trình bày theo cấu trúc rõ ràng.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu vấn đề -> phân tích từng lựa chọn -> kết\nluận.\n• Với Option 1: Khóa học tiếng Anh cung cấp giáo viên và lộ trình rõ ràng nhưng có thể tốn chi phí.\n• Với Option 2: Câu lạc bộ giúp giao tiếp với nhiều người và tạo môi trường thực hành tự nhiên.\n• Với Option 3: Luyện tập với bạn bè dễ thực hiện nhưng có thể thiếu sự sửa lỗi chuyên môn.\n• Liên hệ với cuộc sống thực tế: người học cần môi trường sử dụng tiếng Anh thường xuyên.\n• Sử dụng từ nối đối lập để chuyển giữa ưu điểm và hạn chế của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Không nên chỉ nói một lựa chọn tốt mà cần so sánh cả ba phương án.\n• Dùng hiện tại đơn để nói về lợi ích chung: Joining a club helps people communicate better.\n• Dùng cấu trúc so sánh: Compared with other options, this method is more effective because...\n• Nếu quên từ vựng, hãy giải thích ý bằng cách diễn đạt đơn giản hơn.\nCụm từ quan trọng nên dùng:\n• Improve speaking skills: cải thiện kỹ năng nói.\n• Build confidence: xây dựng sự tự tin.\n• Fluent communication: giao tiếp trôi chảy.\n• Language environment: môi trường ngôn ngữ.\n• Receive feedback: nhận phản hồi.\n• Practice regularly: luyện tập thường xuyên.\nTừ nối khi nói (Linking Words):\n• On the one hand: một mặt.\n• On the other hand: mặt khác.\n• Moreover: hơn nữa.\n• Compared to: so với.\n• Therefore: vì vậy.\nCách thể hiện quan điểm tự nhiên:\n• I would choose... Ví dụ: I would choose joining a club because it provides a natural speaking environment.\n• The main reason is that... Ví dụ: The main reason is that practice helps people become more confident.\n• I think this option is more suitable because... Ví dụ: I think this option is more suitable because it is practical and\naffordable.\n4. Các lỗi thường gặp:\n• Chỉ khen phương án mình chọn mà không phân tích phương án còn lại.\n• Lặp lại các từ như good, useful quá nhiều.\n• Không đưa ra lựa chọn cuối cùng ở phần kết luận.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu thiếu ý, hãy phân tích theo các yếu tố quen thuộc như thời gian, chi phí và hiệu quả.\n• Dùng câu chuyển ý: Let's evaluate this option from a different perspective.\n• Nếu bí một lựa chọn, hãy chuyển sang phương án tiếp theo để giữ sự trôi chảy.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như đang đưa ra lời khuyên thực tế cho một người bạn.\n• Đưa ra lựa chọn có lý do rõ ràng và có thể thêm cách cải thiện để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of owning a pet\nBenefits of pets for emotional and\nReasons why people own pets\nphysical health\nBenefits of Owning Pets\nÝ tưởng của bạn\nResponsibilities of pet owners\nFOLLOW-UP QUESTIONS\n1.\nWhy do many people want to own pets nowadays?\n2.\nWhat should people consider before getting a pet?\n3.\nDo you think pets can improve people's quality of life? Why?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Topic Development. Bạn cần phát triển chủ đề về lợi ích của việc nuôi thú cưng dựa trên các nhánh ý\ntrong mindmap.\n• Bạn cần trình bày 3 ý chính và thêm một ý tưởng cá nhân để bài nói đầy đủ hơn.\n• Tiêu chí chấm gồm sự mạch lạc, khả năng phát triển ý, từ vựng, ngữ pháp và phát âm.\n• Thời gian khoảng 5 phút, nên dành 3–3.5 phút cho phần trình bày chính và phần còn lại cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA (Introduction - Detail - Example - Add/wrap up): giới thiệu -> giải thích -> ví dụ -> mở rộng.\n• Ví dụ 1: Owning a pet can bring many benefits because animals can provide companionship and emotional support.\n• Ví dụ 2: For my own idea, I think pets can help people develop responsibility and patience.\n• Luôn giải thích lợi ích thay vì chỉ liệt kê các ý trong sơ đồ.\n• Theo dõi mindmap để tránh lặp ý và chuyển chủ đề không liên quan.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm chuyển ý để kết nối các nhánh ý tưởng.\n• Dùng hiện tại đơn cho sự thật chung và hiện tại hoàn thành khi nói về xu hướng nuôi thú cưng.\n• Có thể thay thế owning a pet bằng having a companion animal hoặc keeping pets.\nCụm từ quan trọng nên dùng:\n• Emotional support: sự hỗ trợ tinh thần.\n• Reduce stress: giảm căng thẳng.\n• Build a bond: xây dựng sự gắn kết.\n• Take care of: chăm sóc.\n• Sense of responsibility: ý thức trách nhiệm.\n• Improve quality of life: cải thiện chất lượng cuộc sống.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên.\n• In addition: thêm vào đó.\n• For example: ví dụ như.\n• As a result: kết quả là.\n• In conclusion: kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that... Ví dụ: I strongly believe that pets can make people happier.\n• From my perspective... Ví dụ: From my perspective, owning a pet requires commitment.\n• I would say that... Ví dụ: I would say that pets have a positive impact on families.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Why do people want to own pets? -> People want pets because they provide companionship and help reduce\nloneliness.\n• What should people consider before getting a pet? -> They should consider time, money and whether they can take\ngood care of the animal.\n• Can pets improve quality of life? -> Yes, because pets can reduce stress and bring happiness to their owners.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ.\n• Quên phát triển ý tưởng cá nhân ở nhánh cuối.\n• Dành quá nhiều thời gian cho phần chính và không đủ thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Liên hệ với trải nghiệm cá nhân hoặc những con vật quen thuộc.\n• Dùng câu trì hoãn: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ khó, hãy dùng từ đơn giản hơn để mô tả.\n7. Tư duy làm bài nói:\n• Nhìn chủ đề từ góc độ thực tế: lợi ích đi cùng trách nhiệm.\n• Sự logic và mạch lạc trong phát triển ý quan trọng hơn việc dùng quá nhiều từ khó.\n• Luôn thêm ví dụ cá nhân để bài nói tự nhiên và thuyết phục hơn."
+}

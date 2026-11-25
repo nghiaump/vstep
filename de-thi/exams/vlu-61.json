@@ -1,0 +1,716 @@
+{
+ "id": "vlu-61",
+ "number": 61,
+ "title": "Đề thi VLU 61",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-61",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Everyday Actions for a Healthier Planet",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Climate change can feel like a problem for governments and large companies, and many people ask whether their own choices make any real difference to the planet. Experts reportedly agree that politics matters most. However, daily habits can still help, especially when millions of households change together. A single action may look modest, yet it can lead to bigger changes over time. This passage looks at simple steps that ordinary people can take at home, on the road and in the shop.",
+     "Food is a good place to start, because everyone eats every day. Studies suggest that food waste may account for a large share of the emissions from our food system, so planning meals and using leftovers can help a great deal. Shoppers can write a list, buy only what is needed and freeze bread or vegetables before it goes bad. Local markets and apps that sell surplus meals can also help. Eating less meat may also help, since a plant-based diet can reportedly cut diet-related emissions by up to 49 per cent.",
+     "Energy use at home is another area where small steps add up. Switching off lights, using LED bulbs and washing clothes at a lower temperature are simple examples. According to one source, energy-efficient behaviour may cut household electricity use by up to 30 per cent, which could save families both carbon and money every year. Better insulation and a modern heating system may help even more, although they cost money at first. Repairing broken items instead of buying new ones also saves resources, and many shops now sell used goods at lower prices. It is wise not to **discard** a device when a cheap repair would make it work again.",
+     "Transport is a bigger challenge, because many people depend on cars. Flying reportedly causes about 5 per cent of global warming, so taking fewer flights is one of the strongest personal choices. For short trips, walking or cycling is cleaner, healthier and often cheaper than driving. Public buses and trains are also useful, and commuters who share rides may reduce traffic as well. Cities with safe bike lanes make it easier for residents to leave the car at home, and **those** who try cycling often enjoy it more than they expected.",
+     "Some critics argue that individual action is not enough, and they have a fair point. The idea of a personal carbon footprint was reportedly popularised by an oil company advertising campaign, which may have shifted attention away from the biggest polluters. Even so, personal choices can encourage friends, schools and workplaces to follow, and shared habits can support stronger laws. The best approach is therefore to combine daily actions with pressure on leaders and businesses. Small steps may not save the planet alone, but they are a sensible place to begin."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Only new technology, not personal habits, will solve the climate crisis.",
+       "B": "Ordinary people can help the climate through small daily habits and choices.",
+       "C": "Large businesses alone are to blame for every environmental problem today.",
+       "D": "Cutting meat from meals is the only step that really matters."
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đoạn 1 đặt vấn đề về hiệu quả của hành động cá nhân trước biến đổi khí hậu và khẳng định những thói quen nhỏ của hàng triệu hộ gia đình có thể tạo ra sự thay đổi lớn; các đoạn tiếp theo lần lượt đưa ra giải pháp cụ thể về thực phẩm, năng lượng và giao thông. Do đó, cần chọn phương án khái quát được việc con người hoàn toàn có thể góp phần bảo vệ khí hậu thông qua các hành động và thói quen nhỏ mỗi ngày, tránh các nhận định cực đoan hoặc hẹp hòi."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what can shoppers do to reduce food waste?",
+      "options": {
+       "A": "Buy larger packs so fewer trips to the shop are needed.",
+       "B": "Choose bright fruit because it always lasts much longer at home.",
+       "C": "Write a shopping list and freeze food before it spoils.",
+       "D": "Eat out more often so less food is cooked at home."
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"food waste\" hoặc \"shoppers\" ở đoạn 2 để thấy rõ hành động lập danh sách mua sắm và cấp đông thực phẩm trước khi hỏng."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"modest\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "quite small",
+       "B": "very costly",
+       "C": "highly popular",
+       "D": "fairly slow"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"modest\" ở đoạn 1 dùng để mô tả một hành động đơn lẻ trông có vẻ nhỏ bé, khiêm tốn trước khi tạo ra hiệu ứng lớn."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what may happen when households use energy more carefully?",
+      "options": {
+       "A": "Heating bills usually double after bulbs are replaced by LEDs.",
+       "B": "Carbon emissions fall only when every home installs solar panels.",
+       "C": "Electricity companies must then build new power stations for each town.",
+       "D": "Families may use less electricity and save a little money."
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị đoạn 3 về năng lượng tại nhà để nhận diện tác động của việc tiết kiệm điện giúp giảm chi phí và năng lượng tiêu thụ cho gia đình."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"discard\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "keep safely",
+       "B": "throw away",
+       "C": "sell online",
+       "D": "fix quickly"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"discard\" ở đoạn 3 nằm trong ngữ cảnh khuyên không nên vứt bỏ một thiết bị khi việc sửa chữa giá rẻ có thể giúp nó hoạt động trở lại."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"those\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "city planners",
+       "B": "bus drivers",
+       "C": "car owners",
+       "D": "the residents"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"those\" ở đoạn 4 trong câu nói về những người thử đi xe đạp. Chiếu ngược lại ngữ cảnh thành phố có làn đường xe đạp an toàn giúp cư dân để xe hơi ở nhà, từ đó xác định \"those\" thay thế cho chính những người cư dân thành phố đó."
+     },
+     {
+      "number": 7,
+      "stem": "What does paragraph 4 say about flying?",
+      "options": {
+       "A": "It reportedly causes around five per cent of global warming.",
+       "B": "It is the cheapest way to cross long distances for travellers.",
+       "C": "Newer cleaner engines have already cut its emissions to almost zero.",
+       "D": "Most experts agree it is safer than driving cars in cities."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"flying\" ở đoạn 4 để xác định tỷ lệ phát thải toàn cầu liên quan đến máy bay."
+     },
+     {
+      "number": 8,
+      "stem": "Which of the following is NOT mentioned in the passage as a way to reduce personal emissions?",
+      "options": {
+       "A": "Fixing broken items instead of buying brand new ones.",
+       "B": "Lower washing temperatures to cut energy use at home.",
+       "C": "Planting trees in the local park each weekend.",
+       "D": "Sharing rides with colleagues to help reduce road traffic."
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với nội dung trong bài: việc sửa đồ hỏng (đoạn 3), giặt ở nhiệt độ thấp (đoạn 3) và đi chung xe (đoạn 4) đều được nhắc đến; trong khi việc trồng cây ở công viên địa phương vào cuối tuần hoàn toàn không xuất hiện trong văn bản."
+     },
+     {
+      "number": 9,
+      "stem": "Which of the following can be inferred from paragraphs 4 and 5?",
+      "options": {
+       "A": "Cycling commuters and train passengers cause most of the world's pollution.",
+       "B": "Oil companies have stopped advertising since the carbon footprint idea began.",
+       "C": "Workplaces and schools are unable to influence the habits of employees.",
+       "D": "Personal choices alone probably cannot solve climate change without wider political action."
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 4 và đoạn 5, nơi tác giả thừa nhận hành động cá nhân có những giới hạn và cần kết hợp với áp lực lên các nhà lãnh đạo lẫn doanh nghiệp, từ đó suy ra các lựa chọn cá nhân đơn lẻ có lẽ không đủ để giải quyết triệt để vấn đề biến đổi khí hậu nếu thiếu đi các hành động chính trị rộng lớn hơn."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To argue that governments should punish households that waste too much energy.",
+       "B": "To encourage readers to try small habits that may protect nature.",
+       "C": "To describe how oil companies created the idea of climate change.",
+       "D": "To compare the costs of different cars, trains and aeroplanes for travellers. Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": "Đánh giá toàn bộ văn bản từ đoạn mở đầu đến kết luận, tác giả phân tích các bước đi thiết thực từ nhà cửa đến đường phố nhằm khích lệ mọi người áp dụng các thói quen nhỏ để bảo vệ môi trường, mang tính chất định hướng và kêu gọi hành động tích cực."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 đặt vấn đề về hiệu quả của hành động cá nhân trước biến đổi khí hậu và khẳng định những thói quen nhỏ của hàng triệu hộ gia đình có thể tạo ra sự thay đổi lớn; các đoạn tiếp theo lần lượt đưa ra giải pháp cụ thể về thực phẩm, năng lượng và giao thông. Do đó, cần chọn phương án khái quát được việc con người hoàn toàn có thể góp phần bảo vệ khí hậu thông qua các hành động và thói quen nhỏ mỗi ngày, tránh các nhận định cực đoan hoặc hẹp hòi.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R1Q2**, tìm từ khóa \"food waste\" hoặc \"shoppers\" ở đoạn 2 để thấy rõ hành động lập danh sách mua sắm và cấp đông thực phẩm trước khi hỏng.\n  - Với **R1Q4**, định vị đoạn 3 về năng lượng tại nhà để nhận diện tác động của việc tiết kiệm điện giúp giảm chi phí và năng lượng tiêu thụ cho gia đình.\n  - Với **R1Q7**, quét từ khóa \"flying\" ở đoạn 4 để xác định tỷ lệ phát thải toàn cầu liên quan đến máy bay.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):**\n  - Với **R1Q3**, từ **\"modest\"** ở đoạn 1 dùng để mô tả một hành động đơn lẻ trông có vẻ nhỏ bé, khiêm tốn trước khi tạo ra hiệu ứng lớn.\n  - Với **R1Q5**, từ **\"discard\"** ở đoạn 3 nằm trong ngữ cảnh khuyên không nên vứt bỏ một thiết bị khi việc sửa chữa giá rẻ có thể giúp nó hoạt động trở lại.\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ **\"those\"** ở đoạn 4 trong câu nói về những người thử đi xe đạp. Chiếu ngược lại ngữ cảnh thành phố có làn đường xe đạp an toàn giúp cư dân để xe hơi ở nhà, từ đó xác định \"those\" thay thế cho chính những người cư dân thành phố đó.\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối chiếu từng phương án với nội dung trong bài: việc sửa đồ hỏng (đoạn 3), giặt ở nhiệt độ thấp (đoạn 3) và đi chung xe (đoạn 4) đều được nhắc đến; trong khi việc trồng cây ở công viên địa phương vào cuối tuần hoàn toàn không xuất hiện trong văn bản.\n- **Dạng câu hỏi Suy luận (R1Q9):** Kết hợp thông tin từ đoạn 4 và đoạn 5, nơi tác giả thừa nhận hành động cá nhân có những giới hạn và cần kết hợp với áp lực lên các nhà lãnh đạo lẫn doanh nghiệp, từ đó suy ra các lựa chọn cá nhân đơn lẻ có lẽ không đủ để giải quyết triệt để vấn đề biến đổi khí hậu nếu thiếu đi các hành động chính trị rộng lớn hơn.\n- **Dạng câu hỏi Mục đích tác giả (R1Q10):** Đánh giá toàn bộ văn bản từ đoạn mở đầu đến kết luận, tác giả phân tích các bước đi thiết thực từ nhà cửa đến đường phố nhằm khích lệ mọi người áp dụng các thói quen nhỏ để bảo vệ môi trường, mang tính chất định hướng và kêu gọi hành động tích cực.\nLời khuyên: Hãy bắt đầu bằng cách xử lý nhanh các câu hỏi tra cứu thông tin trực tiếp (R1Q2, R1Q4, R1Q7, R1Q8) và câu hỏi từ vựng - quy chiếu (R1Q3, R1Q5, R1Q6). Sau đó, sử dụng tư duy tổng hợp để hoàn thành các câu hỏi suy luận, tìm ý chính và mục đích tác giả (R1Q1, R1Q9, R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Artificial Intelligence in Education: Promise, Tension, and the Road Ahead",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Artificial intelligence has moved from research laboratories into ordinary classrooms with remarkable speed, and tools that were once experimental have become almost **ubiquitous** in the lives of teenagers and university students. The launch of ChatGPT in November 2022 reportedly accelerated this change. Supporters see a chance to personalise learning, while critics fear new forms of dishonesty and dependence. This passage examines both views and considers how schools might respond. The debate is important because decisions made now may shape how a whole generation learns to think and work.",
+     "The idea is older than many people assume. Computer-based teaching systems such as PLATO appeared in the 1960s, and researchers later added artificial intelligence techniques to create intelligent tutoring systems that could respond to individual mistakes. Modern chatbots are more flexible, and Khanmigo reportedly offers low-cost tutoring that adapts to each learner. Language learners and students with dyslexia may also benefit from tools that explain difficult ideas patiently and repeat them as often as needed. Teachers, meanwhile, may use automation to save time on routine marking and planning.",
+     "The most visible tension concerns honesty, because a chatbot can produce a competent essay in seconds. In spring 2023, a survey reportedly found that 58 per cent of American students had used ChatGPT, and 38 per cent admitted doing so without their teacher's consent. Several school systems responded with bans, although New York City reportedly repealed its own restriction within months. Such restrictions are hard to enforce, and constant suspicion may **undermine** the trust between teachers and learners that effective teaching requires. Detection software looks like an easy answer, yet the evidence is discouraging. OpenAI reportedly withdrew its own classifier in August 2023 because of its low accuracy, and other detectors have been accused of flagging honest students by mistake. Chatbots also hallucinate, producing fluent but false information, and they can repeat biases found in their training data. Privacy is a further worry, since student writing may be stored and reused to train future models. Accuracy, bias and privacy are therefore legitimate concerns, and **these** must be weighed carefully against any educational gain.",
+     "Access is another source of unfairness, because students with fast internet and reliable modern devices can benefit far more than their classmates without them at home. Teachers also face an invisible workload, since redesigning assignments and investigating suspected misuse takes time that few schools have planned for. Training is therefore as important as technology. UNESCO guidance reportedly stresses ethical use, teacher training and data protection for schools. Policy therefore cannot be left to individual classrooms working alone. Without shared standards, enforcement may become inconsistent and leave both students and teachers guessing.",
+     "The road ahead probably lies between prohibition and uncritical enthusiasm. Schools could treat artificial intelligence as a tool to be taught, with clear rules about when it may be used, how its help should be acknowledged, and which tasks must still be completed unaided. Assessment may need to shift towards discussion, oral defence and in-class work, which are harder to outsource. Whatever approach is chosen, the aim should be to strengthen human judgement rather than replace it. If educators, parents and technology companies cooperate, artificial intelligence may become a partner in learning rather than a shortcut around it."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Chatbots have already replaced teachers in most schools across the world today.",
+       "B": "Bans on chatbots have proved to be the most effective policy available.",
+       "C": "AI offers real educational benefits but raises serious problems that schools must manage.",
+       "D": "Detection software has solved the problem of cheating in universities and schools."
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đoạn 1 mở đầu bằng việc giới thiệu sự bùng nổ của AI trong lớp học và nêu bật cả hai mặt: cơ hội cá nhân hóa từ người ủng hộ lẫn nỗi sợ về sự gian lận từ người chỉ trích; các đoạn tiếp theo lần lượt phân tích lịch sử, thách thức về sự trung thực, độ chính xác - quyền riêng tư, khoảng cách tiếp cận và định hướng giải pháp tương lai. Do đó, phương án đúng phải khái quát được việc AI mang lại lợi ích giáo dục thực sự nhưng cũng đặt ra những vấn đề nghiêm trọng đòi hỏi nhà trường phải quản lý, kiểm soát khéo léo."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, how were intelligent tutoring systems created?",
+      "options": {
+       "A": "Teachers wrote customised software after the launch of ChatGPT in 2022.",
+       "B": "Researchers added artificial intelligence methods to earlier computer teaching programs.",
+       "C": "Chatbots like Khanmigo were copied from older classroom textbooks and exams.",
+       "D": "Universities first built them to detect cheating in many student essays."
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm từ khóa \"intelligent tutoring systems\" ở đoạn 2 để thấy rõ nguồn gốc: các nhà nghiên cứu đã bổ sung các kỹ thuật AI vào các chương trình dạy học máy tính trước đó (Researchers added artificial intelligence methods to earlier computer teaching programs)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"ubiquitous\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "carefully designed",
+       "B": "rarely trusted",
+       "C": "widely criticised",
+       "D": "present everywhere"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ubiquitous\" ở đoạn 1 dùng để mô tả các công cụ từng mang tính thử nghiệm nay đã trở nên quen thuộc, xuất hiện ở khắp mọi nơi trong đời sống học sinh, sinh viên (present everywhere)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what did the 2023 survey reportedly find?",
+      "options": {
+       "A": "A majority of American students had already tried ChatGPT by then.",
+       "B": "Most teachers had banned ChatGPT after reading reports of student cheating.",
+       "C": "Only a small minority of students admitted using it for homework.",
+       "D": "Almost every university had written a policy on generative tools in class."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 15,
+      "stem": "The word \"undermine\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "quickly replace",
+       "B": "carefully measure",
+       "C": "gradually weaken",
+       "D": "fully protect"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"undermine\" ở đoạn 3 nằm trong ngữ cảnh nói về việc sự nghi ngờ liên tục có thể làm xói mòn, suy giảm lòng tin giữa giáo viên và học sinh (gradually weaken)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"these\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "chatbots and detectors",
+       "B": "accuracy, bias and privacy",
+       "C": "students and teachers",
+       "D": "bans and restrictions"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định số nhiều \"these\" ở đầu câu cuối đoạn 4. Áp dụng quy tắc đọc ngược câu trước liền kề, câu văn liệt kê các vấn đề: \"Accuracy, bias and privacy are therefore legitimate concerns...\", qua đó xác định \"these\" quy chiếu chính xác đến ba yếu tố độ chính xác, thành kiến và quyền riêng tư (accuracy, bias and privacy)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, why might teachers face an extra workload?",
+      "options": {
+       "A": "They must redesign assignments and investigate suspected misuse of tools.",
+       "B": "Marking has become slower because students now write much longer answers.",
+       "C": "Parents demand weekly reports on how every pupil uses new technology.",
+       "D": "Schools have hired extra staff but pay them less than before."
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"extra workload\" hoặc \"teachers\" ở đoạn 5 để nhận diện nguyên nhân xuất phát từ việc giáo viên phải thiết kế lại bài tập và điều tra các hành vi sử dụng công cụ chưa đúng quy định (redesign assignments and investigate suspected misuse of tools)."
+     },
+     {
+      "number": 18,
+      "stem": "Which of the following is NOT mentioned in the passage as a concern about artificial intelligence in education?",
+      "options": {
+       "A": "Chatbots producing fluent but false information for students.",
+       "B": "Unequal access to fast internet and reliable devices.",
+       "C": "Student writing being stored to train future models.",
+       "D": "Higher tuition fees caused by software licences."
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng lựa chọn với văn bản: chatbot tạo thông tin sai lệch (đoạn 4), sự bất bình đẳng về internet/thiết bị (đoạn 5) và việc lưu trữ bài viết của học sinh để huấn luyện mô hình (đoạn 4) đều được đề cập chi tiết; trong khi chi tiết về học phí tăng cao do bản quyền phần mềm hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "Which of the following can be inferred from paragraphs 4, 5, and 6?",
+      "options": {
+       "A": "Detection software will soon become accurate enough to replace all human judgement.",
+       "B": "Responsible adoption probably depends on teacher training, clear policy and careful assessment design.",
+       "C": "Wealthy schools have proved that unrestricted chatbot use improves every learner's results.",
+       "D": "Teachers will become unnecessary once policy and technology are properly aligned worldwide."
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 – nơi tác giả nhấn mạnh tầm quan trọng của việc đào tạo giáo viên, thiết lập chính sách rõ ràng và cách thiết kế đánh giá học tập thích hợp thay vì cấm đoán cực đoan hay phó mặc – từ đó suy luận rằng việc áp dụng AI một cách có trách nhiệm phụ thuộc lớn vào sự kết hợp đồng bộ giữa đào tạo, chính sách và cách kiểm tra năng lực cẩn trọng."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote one particular chatbot as the best tool for every classroom.",
+       "B": "To explain how teachers can build their own tutoring software quickly.",
+       "C": "To weigh the benefits and risks of artificial intelligence in schools.",
+       "D": "To criticise governments for failing to ban chatbots in all universities nationwide. Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Đánh giá toàn mạch văn bản, tác giả lần lượt mổ xẻ cả mặt tích cực (cá nhân hóa, hỗ trợ học tập) lẫn tiêu cực (gian lận, sai lệch, quyền riêng tư, khoảng cách tiếp cận) của AI trong trường học trước khi đưa ra lời khuyên dung hòa. Do đó, mục đích chính là cân nhắc, cân bằng giữa lợi ích và rủi ro của AI trong giáo dục (To weigh the benefits and risks of artificial intelligence in schools)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 mở đầu bằng việc giới thiệu sự bùng nổ của AI trong lớp học và nêu bật cả hai mặt: cơ hội cá nhân hóa từ người ủng hộ lẫn nỗi sợ về sự gian lận từ người chỉ trích; các đoạn tiếp theo lần lượt phân tích lịch sử, thách thức về sự trung thực, độ chính xác - quyền riêng tư, khoảng cách tiếp cận và định hướng giải pháp tương lai. Do đó, phương án đúng phải khái quát được việc AI mang lại lợi ích giáo dục thực sự nhưng cũng đặt ra những vấn đề nghiêm trọng đòi hỏi nhà trường phải quản lý, kiểm soát khéo léo.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R2Q2**, tìm kiếm từ khóa \"intelligent tutoring systems\" ở đoạn 2 để thấy rõ nguồn gốc: các nhà nghiên cứu đã bổ sung các kỹ thuật AI vào các chương trình dạy học máy tính trước đó (Researchers added artificial intelligence methods to earlier computer teaching programs).\n  - With **R2Q4**, định vị đoạn 3 về cuộc khảo sát mùa xuân năm 2023 để xác định dữ kiện phần lớn học sinh Mỹ đã thử sử dụng ChatGPT (A majority of American students had already tried ChatGPT by then).\n  - Với **R2Q7**, quét từ khóa \"extra workload\" hoặc \"teachers\" ở đoạn 5 để nhận diện nguyên nhân xuất phát từ việc giáo viên phải thiết kế lại bài tập và điều tra các hành vi sử dụng công cụ chưa đúng quy định (redesign assignments and investigate suspected misuse of tools).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):**\n  - Với **R2Q3**, từ **\"ubiquitous\"** ở đoạn 1 dùng để mô tả các công cụ từng mang tính thử nghiệm nay đã trở nên quen thuộc, xuất hiện ở khắp mọi nơi trong đời sống học sinh, sinh viên (present everywhere).\n  - Với **R2Q5**, từ **\"undermine\"** ở đoạn 3 nằm trong ngữ cảnh nói về việc sự nghi ngờ liên tục có thể làm xói mòn, suy giảm lòng tin giữa giáo viên và học sinh (gradually weaken).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ chỉ định số nhiều **\"these\"** ở đầu câu cuối đoạn 4. Áp dụng quy tắc đọc ngược câu trước liền kề, câu văn liệt kê các vấn đề: \"Accuracy, bias and privacy are therefore legitimate concerns...\", qua đó xác định \"these\" quy chiếu chính xác đến ba yếu tố độ chính xác, thành kiến và quyền riêng tư (accuracy, bias and privacy).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối chiếu từng lựa chọn với văn bản: chatbot tạo thông tin sai lệch (đoạn 4), sự bất bình đẳng về internet/thiết bị (đoạn 5) và việc lưu trữ bài viết của học sinh để huấn luyện mô hình (đoạn 4) đều được đề cập chi tiết; trong khi chi tiết về học phí tăng cao do bản quyền phần mềm hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 – nơi tác giả nhấn mạnh tầm quan trọng của việc đào tạo giáo viên, thiết lập chính sách rõ ràng và cách thiết kế đánh giá học tập thích hợp thay vì cấm đoán cực đoan hay phó mặc – từ đó suy luận rằng việc áp dụng AI một cách có trách nhiệm phụ thuộc lớn vào sự kết hợp đồng bộ giữa đào tạo, chính sách và cách kiểm tra năng lực cẩn trọng.\n- **Dạng câu hỏi Mục đích tác giả (R2Q10):** Đánh giá toàn mạch văn bản, tác giả lần lượt mổ xẻ cả mặt tích cực (cá nhân hóa, hỗ trợ học tập) lẫn tiêu cực (gian lận, sai lệch, quyền riêng tư, khoảng cách tiếp cận) của AI trong trường học trước khi đưa ra lời khuyên dung hòa. Do đó, mục đích chính là cân nhắc, cân bằng giữa lợi ích và rủi ro của AI trong giáo dục (To weigh the benefits and risks of artificial intelligence in schools).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi định vị thông tin trực tiếp (R2Q2, R2Q4, R2Q7, R2Q8) và các câu hỏi định danh từ vựng - quy chiếu (R2Q3, R2Q5, R2Q6) trước. Sau đó, với nền tảng dữ liệu đã rõ ràng, bạn sẽ dễ dàng xử lý các câu hỏi đòi hỏi tư duy phân tích, suy luận và tổng hợp ở cuối bài (R2Q1, R2Q9, R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Science of Staying Healthy: Beyond Diet and Exercise",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Public advice on staying healthy usually begins and ends with what people eat and how much they move, yet the evidence suggests that this picture is incomplete. Regular physical activity is, after all, widely described as one of the most effective ways to prevent disease. However, the World Health Organization has long defined health far more broadly, as a state of complete physical, mental and social well-being and not merely the absence of disease.",
+     "The places where people are born, grow up, live, work and age are known as the social determinants of health, and their influence is remarkably pervasive. Studies cited by public health writers reportedly suggest that more than half of a person's health is determined by these factors rather than by clinical care and genetics. A hospital can set a broken leg but cannot repair a damp flat or an unstable job.",
+     "Income is the clearest example, because researchers such as Marmot and Bell found that income and mortality are correlated in wealthy countries, with income acting as a marker of relative position in society. Education tells a similar story: adults with more schooling reportedly live longer and healthier lives than their less educated peers. Reported mortality rates among the least educated adults were roughly three times higher than among the best educated.",
+     "Work offers a striking illustration of how an apparently ordinary pattern can turn into a danger. A joint study by the World Health Organization and the International Labour Organization reportedly estimated that long working hours were linked to about 745,000 deaths from heart disease and stroke in 2016. Chronic stress and too little sleep probably contribute to such outcomes, although their exact effects are harder to measure than hours on a timesheet.",
+     "Human relationships form another dimension of health that rarely appears in conventional advice. **[1]** People are social animals, and for most of history survival depended on belonging to a group. **[2]** Older adults who live alone are reportedly much less likely to take up vaccines, and public health reviews report a strong link between social isolation and higher mortality in every age group. **[3]** That suggestion has begun to influence practice, and some health services in Britain reportedly practise social prescribing, where doctors refer patients to walking groups, choirs or volunteering projects. **[4]** Evidence for such programmes remains limited, however, and researchers continue to debate how well they work.",
+     "Recognising this, the Ottawa Charter of 1986 reportedly urged governments to treat health promotion as more than a task for hospitals and doctors. Public policy can improve housing, income and schooling, all of **which** influence health long before illness appears. Critics reasonably point out that such reforms are slow and expensive, and that individuals still bear responsibility for choices within their own control, yet the two arguments are not mutually exclusive.",
+     "Staying healthy is therefore not only a matter of discipline in the kitchen and the gym but also of the conditions that surround people's daily lives. Recognising the wider picture offers more than comfort, because it gives families, employers and governments **tangible** levers to pull. Diet and exercise remain essential, but they work best alongside secure homes, fair work and good company."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Medical care and genetics alone decide how long most people will live",
+       "B": "Health reflects social conditions and close relationships as much as diet and exercise",
+       "C": "Long working hours are the single greatest threat to public health",
+       "D": "Governments have already removed health inequalities through housing and education reforms"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đoạn 1 đặt vấn đề rằng lời khuyên y tế thông thường chỉ tập trung vào ăn uống và tập luyện là chưa đủ, mà sức khỏe còn chịu ảnh hưởng lớn từ điều kiện sống xã hội; các đoạn tiếp theo lần lượt phân tích thu nhập, giáo dục, thời gian làm việc, các mối quan hệ xã hội và chính sách công. Do đó, phương án đúng phải phản ánh được việc sức khỏe phản ánh các điều kiện xã hội và mối quan hệ gắn bó ngang ngửa với chế độ ăn uống và tập luyện."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what did Marmot and Bell find?",
+      "options": {
+       "A": "Income and mortality are correlated in wealthy countries",
+       "B": "Wealthy citizens tend to ignore medical advice about diet",
+       "C": "Education level has almost no influence on adult mortality rates",
+       "D": "Poorer countries show lower mortality because families exercise more often"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"Marmot and Bell\" ở đoạn 3 để thấy rõ phát hiện về sự tương quan giữa thu nhập và tỷ lệ tử vong ở các quốc gia giàu có (Income and mortality are correlated in wealthy countries)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"pervasive\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "rarely noticed",
+       "B": "easily measured",
+       "C": "slowly fading",
+       "D": "found everywhere"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"pervasive\" ở đoạn 2 mô tả ảnh hưởng lan tỏa rộng khắp của các yếu tố quyết định sức khỏe xã hội (found everywhere)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a link suggests that friendship and community may deserve a place beside diet and exercise in routine health advice.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc các vị trí đánh dấu trong đoạn 5. Vị trí [3] nằm ngay sau câu đề cập đến việc người cao tuổi sống cô độc ít đi tiêm phòng và mối liên hệ giữa cô lập xã hội với tỷ lệ tử vong, tạo nền tảng ngữ nghĩa hoàn hảo để tiếp nối bằng nhận định \"Such a link suggests that friendship and community may deserve a place beside diet and exercise...\"."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what did the study by the WHO and the ILO estimate?",
+      "options": {
+       "A": "Long working hours were linked to about 745,000 deaths in 2016",
+       "B": "Sleep loss causes about half of all workplace accidents in rich countries",
+       "C": "Retirement before sixty reduced heart disease deaths across several European countries",
+       "D": "Office workers sleep far less than factory workers in cities"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị đoạn 4 về nghiên cứu chung của WHO và ILO để nhận diện ước tính về số ca tử vong liên quan đến làm việc quá giờ trong năm 2016 (Long working hours were linked to about 745,000 deaths in 2016)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"which\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "hospitals and doctors",
+       "B": "governments and charters",
+       "C": "individual choices",
+       "D": "housing, income and schooling"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"which\" ở đoạn 6 trong mệnh đề quan hệ \"...all of which influence health...\". Chiếu ngược lại cụm danh từ số nhiều đứng trước nó: \"housing, income and schooling\", qua đó xác định \"which\" thay thế cho nhà ở, thu nhập và học vấn."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"tangible\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "hidden and slow",
+       "B": "concrete and real",
+       "C": "costly and rare",
+       "D": "vague and distant"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"tangible\" ở đoạn 7 nằm trong ngữ cảnh nhận diện các đòn bẩy thực tế, cụ thể mà chính phủ và nhà tuyển dụng có thể nắm giữ (concrete and real)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Social prescribing schemes operating in some parts of Britain",
+       "B": "Lower vaccine uptake among many older adults who live alone",
+       "C": "Evidence that loneliness has declined since the 1980s",
+       "D": "Continuing doubts about how well community referral programmes work"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với đoạn 5: các chương trình kê đơn xã hội (social prescribing), tỷ lệ tiêm phòng thấp ở người cao tuổi sống một mình, và những hoài nghi về hiệu quả đều được nhắc đến; trong khi dữ liệu về sự suy giảm của sự cô đơn kể từ thập niên 1980 hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 2, 3, and 6 about improving public health?",
+      "options": {
+       "A": "Hospitals could remove most health inequalities simply by building more clinics",
+       "B": "Individuals bear no responsibility whatsoever for choices about food, sleep or exercise",
+       "C": "Rich countries have entirely eliminated the link between income and mortality",
+       "D": "Lasting improvement requires action on housing, income and education as well as medicine"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2, 3 và 6 – nơi nhấn mạnh vai trò của nhà ở, thu nhập, giáo dục và chính sách công bên cạnh hệ thống y tế – từ đó suy luận rằng sự cải thiện lâu dài đòi hỏi phải hành động đồng bộ trên các mặt nhà ở, thu nhập, giáo dục cũng như y khoa."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To show that health depends on far more than diet and exercise",
+       "B": "To recommend that workers should abandon exercise in favour of longer sleep hours",
+       "C": "To criticise doctors for ignoring nutrition when treating ill patients in hospitals",
+       "D": "To prove that social prescribing cures loneliness in every British community Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích xuyên suốt từ đầu đến cuối văn bản, tác giả lần lượt đưa ra các khía cạnh xã hội, thu nhập, công việc và quan hệ để chứng minh quan điểm ban đầu: sức khỏe không chỉ nằm ở nhà bếp hay phòng tập. Do đó, mục đích chính là chỉ ra rằng sức khỏe phụ thuộc vào nhiều yếu tố vượt ra ngoài chế độ ăn uống và tập luyện (To show that health depends on far more than diet and exercise)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R3Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 đặt vấn đề rằng lời khuyên y tế thông thường chỉ tập trung vào ăn uống và tập luyện là chưa đủ, mà sức khỏe còn chịu ảnh hưởng lớn từ điều kiện sống xã hội; các đoạn tiếp theo lần lượt phân tích thu nhập, giáo dục, thời gian làm việc, các mối quan hệ xã hội và chính sách công. Do đó, phương án đúng phải phản ánh được việc sức khỏe phản ánh các điều kiện xã hội và mối quan hệ gắn bó ngang ngửa với chế độ ăn uống và tập luyện.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R3Q2**, tìm từ khóa \"Marmot and Bell\" ở đoạn 3 để thấy rõ phát hiện về sự tương quan giữa thu nhập và tỷ lệ tử vong ở các quốc gia giàu có (Income and mortality are correlated in wealthy countries).\n  - Với **R3Q5**, định vị đoạn 4 về nghiên cứu chung của WHO và ILO để nhận diện ước tính về số ca tử vong liên quan đến làm việc quá giờ trong năm 2016 (Long working hours were linked to about 745,000 deaths in 2016).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):**\n  - Với **R3Q3**, từ **\"pervasive\"** ở đoạn 2 mô tả ảnh hưởng lan tỏa rộng khắp của các yếu tố quyết định sức khỏe xã hội (found everywhere).\n  - Với **R3Q7**, từ **\"tangible\"** ở đoạn 7 nằm trong ngữ cảnh nhận diện các đòn bẩy thực tế, cụ thể mà chính phủ và nhà tuyển dụng có thể nắm giữ (concrete and real).\n- **Dạng câu hỏi Điền câu vào đoạn văn (R3Q4):** Đọc các vị trí đánh dấu trong đoạn 5. Vị trí [3] nằm ngay sau câu đề cập đến việc người cao tuổi sống cô độc ít đi tiêm phòng và mối liên hệ giữa cô lập xã hội với tỷ lệ tử vong, tạo nền tảng ngữ nghĩa hoàn hảo để tiếp nối bằng nhận định \"Such a link suggests that friendship and community may deserve a place beside diet and exercise...\".\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ **\"which\"** ở đoạn 6 trong mệnh đề quan hệ \"...all of which influence health...\". Chiếu ngược lại cụm danh từ số nhiều đứng trước nó: \"housing, income and schooling\", qua đó xác định \"which\" thay thế cho nhà ở, thu nhập và học vấn.\n- **Dạng câu hỏi Loại trừ NOT (R3Q8):** Đối chiếu từng phương án với đoạn 5: các chương trình kê đơn xã hội (social prescribing), tỷ lệ tiêm phòng thấp ở người cao tuổi sống một mình, và những hoài nghi về hiệu quả đều được nhắc đến; trong khi dữ liệu về sự suy giảm của sự cô đơn kể từ thập niên 1980 hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 2, 3 và 6 – nơi nhấn mạnh vai trò của nhà ở, thu nhập, giáo dục và chính sách công bên cạnh hệ thống y tế – từ đó suy luận rằng sự cải thiện lâu dài đòi hỏi phải hành động đồng bộ trên các mặt nhà ở, thu nhập, giáo dục cũng như y khoa.\n- **Dạng câu hỏi Mục đích tác giả (R3Q10):** Phân tích xuyên suốt từ đầu đến cuối văn bản, tác giả lần lượt đưa ra các khía cạnh xã hội, thu nhập, công việc và quan hệ để chứng minh quan điểm ban đầu: sức khỏe không chỉ nằm ở nhà bếp hay phòng tập. Do đó, mục đích chính là chỉ ra rằng sức khỏe phụ thuộc vào nhiều yếu tố vượt ra ngoài chế độ ăn uống và tập luyện (To show that health depends on far more than diet and exercise).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin trực tiếp (R3Q2, R3Q4, R3Q5, R3Q8), từ vựng và quy chiếu (R3Q3, R3Q6, R3Q7). Sau đó, sử dụng bức tranh tổng thể để hoàn thành các câu hỏi suy luận, tìm ý chính và mục đích tác giả (R3Q1, R3Q9, R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Endurance and Evolution of Chinese Traditional Festivals",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few cultural traditions have proved as durable as the festivals of the Chinese calendar, and about 1.5 billion people worldwide reportedly take part in Lunar New Year celebrations alone. Mainland China and Taiwan recognise four traditional festivals as statutory holidays: the Spring Festival, Qingming, the Dragon Boat Festival and the Mid-Autumn Festival. Most follow the lunar calendar, although Qingming is tied to a solar term.",
+     "Many customs are explained by legends, and the best known is the story of Nian, a beast said to attack villagers at night until red paper and loud noise drove it away. Historians trace the earliest recorded celebration to the Warring States period, in an exorcism ritual called Big Nuo, while the first mention of marking the new year comes from the Han dynasty. Red couplets, firecrackers and reunion dinners later became the visible signs of the season.",
+     "The Dragon Boat Festival, held on the fifth day of the fifth lunar month, shows how **resilient** a tradition can be when its meaning is flexible. The most popular story links it to Qu Yuan, a poet and minister of Chu who drowned himself in the Miluo River, although other accounts name different figures. Some researchers suspect that the stories were later attached to older harvest and dragon-worship traditions. Even so, it became a national public holiday in 2008 and, reportedly, the first Chinese festival on UNESCO's intangible heritage list in 2009.",
+     "The Spring Festival remains the emotional centre of the calendar, and the wish to attend the reunion dinner drives a travel period known as chunyun, often described as the world's largest annual migration. That period reportedly begins fifteen days before New Year's Day and lasts about forty days. Gifts of money in red envelopes follow their own etiquette, since amounts containing the number eight are favoured while amounts containing four are avoided because it sounds like the word for death.",
+     "Modern life has forced some customs to change, and firecrackers, traditionally used to frighten away evil spirits, have reportedly been banned in parts of Beijing and Shanghai over several years. Hong Kong and Singapore sponsor large government fireworks displays as a substitute, so the spectacle survives even where the explosive tradition does not. Television has become a new hearth, since every mainland station reportedly broadcasts a New Year gala. Such adaptations suggest that tradition is less a fixed script than a set of adaptable meanings.",
+     "In 1928, the Kuomintang government reportedly tried to move the new year to 1 January, an attempt that was abandoned after strong opposition. **[1]** That entanglement became far more severe in 1967, when official celebrations were reportedly banned during the Cultural Revolution, although the Spring Festival had been restored as a public holiday by 1980. **[2]** Political change has therefore been as important as modernisation in shaping what people celebrate and how. **[3]** Even the name has been contested, since Yuan Shikai proposed the term Spring Festival in 1914, whereas Taiwan's government prefers Traditional Chinese New Year. **[4]** In short, festivals are never merely private occasions but also public symbols.",
+     "Today the pressure may come less from politics than from the market, as brands compete to sell gifts, food and travel packages around every major festival. Reunion dinners and dragon boat races remain central to community life, and **these** now coexist with newer, more commercial versions of each celebration. Critics fear that relentless marketing may commodify ritual, emptying it of the meaning that once defined the occasion. Yet history suggests that festivals survive because they can absorb new meanings without losing their core."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Traditional festivals are disappearing because younger Chinese citizens prefer foreign holidays instead",
+       "B": "Only the Dragon Boat Festival has received official recognition from any government",
+       "C": "Festivals have remained unchanged since the Han dynasty because rituals are fixed",
+       "D": "Chinese festivals have endured by adapting to political and commercial change over time"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đoạn 1 và 2 giới thiệu sự bền bỉ của các lễ hội lịch sử; các đoạn tiếp theo lần lượt phân tích cách chúng thích nghi với sự thay đổi của thời gian, lệnh cấm pháo hoa, tác động chính trị (như thời kỳ Cách mạng Văn hóa hay nỗ lực đổi lịch năm 1928), cùng áp lực thương mại hóa hiện đại. Do đó, phương án đúng phải khái quát được việc lễ hội Trung Hoa đã trường tồn nhờ khả năng thích ứng với các biến động chính trị và thương mại theo thời gian."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what is the legend of Nian?",
+      "options": {
+       "A": "A warrior who defeated invaders with silver bells and drums",
+       "B": "A beast driven away by red paper and noise",
+       "C": "A poet who drowned himself to protest against a corrupt ruler",
+       "D": "A dragon that brought heavy rain to dry farming villages"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"Nian\" ở đoạn 2 để thấy truyền thuyết về con quái thú bị xua đuổi bởi giấy đỏ và tiếng động lớn."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"resilient\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "unable to survive",
+       "B": "slow to develop",
+       "C": "able to withstand change",
+       "D": "eager to compete"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"resilient\" ở đoạn 3 dùng để mô tả sức sống dai dẳng, khả năng chống chịu và vượt qua thay đổi của truyền thống (able to withstand change)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such an attempt to reshape time itself shows how closely festivals and political authority can be entangled.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc các vị trí đánh dấu trong đoạn 6. Vị trí [1] nằm ngay sau câu kể về việc chính phủ Quốc Dân Đảng năm 1928 từng cố gắng dời ngày tết sang mùng 1 tháng Giêng nhưng thất bại. Câu cần điền bắt đầu bằng cụm \"Such an attempt to reshape time itself...\" tạo sự liên kết ngữ nghĩa trực tiếp và hoàn hảo nhất với nỗ lực thay đổi lịch sử đó."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, who is the best-known figure linked to the Dragon Boat Festival?",
+      "options": {
+       "A": "Some accounts describe a general who defeated invaders near the Miluo River",
+       "B": "An emperor who ordered annual boat races along southern rivers",
+       "C": "A Chu poet and minister who drowned himself in a river",
+       "D": "Legend says he invented the first sticky rice dumplings for fishermen"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị đoạn 3 về Lễ hội Thuyền rồng để nhận diện nhân vật Quất Nguyên (Qu Yuan), nhà thơ kiêm đại thần nước Chu đã gieo mình xuống sông Mịch Lương tự vẫn."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"these\" in paragraph 7 refers to _______.",
+      "options": {
+       "A": "newer commercial versions",
+       "B": "dinners and boat races",
+       "C": "community life",
+       "D": "major brands"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số nhiều \"these\" ở đoạn 7 trong câu \"Reunion dinners and dragon boat races remain central... and these now coexist with newer...\". Áp dụng quy tắc quy chiếu ngược lại danh từ chủ ngữ vừa nhắc đến, xác định \"these\" thay thế cho các bữa ăn đoàn viên và cuộc đua thuyền rồng (dinners and boat races)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"commodify\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "protect from change",
+       "B": "date back further",
+       "C": "pass down quietly",
+       "D": "turn into products"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"commodify\" ở đoạn 7 nằm trong ngữ cảnh lo ngại việc tiếp thị mạnh mẽ biến các nghi lễ tôn nghiêm thành hàng hóa thương mại (turn into products)."
+     },
+     {
+      "number": 38,
+      "stem": "According to paragraphs 5 and 6, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Government subsidies for train tickets during the festival",
+       "B": "Annual television galas broadcast by every mainland station nationwide",
+       "C": "Official fireworks displays sponsored by Hong Kong and Singapore authorities",
+       "D": "Restrictions on public celebrations during the Cultural Revolution years"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các đoạn 5 và 6: thông tin về gala truyền hình (đoạn 5), pháo hoa tài trợ ở Hồng Kông/Singapore (đoạn 5), và lệnh hạn chế trong Cách mạng Văn hóa (đoạn 6) đều có trong bài; trong khi trợ giá vé tàu hoàn toàn không được nhắc đến."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 5, 6, and 7 about Chinese festivals?",
+      "options": {
+       "A": "Governments have successfully prevented commercial companies from influencing any traditional celebration",
+       "B": "Television galas have completely replaced reunion dinners in most modern Chinese families",
+       "C": "Lasting festivals tend to absorb political and commercial pressures rather than resist them",
+       "D": "Taiwan has abandoned every festival associated with the Spring Festival calendar"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5, 6 và 7 – nơi minh chứng lễ hội chịu đựng các tác động từ việc đổi lịch, cấm đoán chính trị cho đến thương mại hóa nhưng vẫn tồn tại bằng cách dung nạp các ý nghĩa mới – từ đó suy luận rằng các lễ hội trường tồn có xu hướng hấp thụ các áp lực chính trị và thương mại thay vì chống lại chúng."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that governments should ban commercial advertising during every national festival",
+       "B": "To compare Chinese festivals with similar holidays celebrated across Southeast Asia",
+       "C": "To describe how dragon boats and rice dumplings are made",
+       "D": "To explain how Chinese festivals have survived political and commercial change"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Đánh giá toàn mạch văn bản, tác giả lần lượt điểm qua các huyền thoại, sức bền văn hóa, các biến động chính trị lịch sử cho đến những thách thức từ thị trường hiện đại để minh họa cách lễ hội thích nghi. Do đó, mục đích chính là giải thích cách các lễ hội Trung Hoa sống sót qua những đổi thay về chính trị và thương mại (To explain how Chinese festivals have survived political and commercial change)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R4Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đoạn 1 và 2 giới thiệu sự bền bỉ của các lễ hội lịch sử; các đoạn tiếp theo lần lượt phân tích cách chúng thích nghi với sự thay đổi của thời gian, lệnh cấm pháo hoa, tác động chính trị (như thời kỳ Cách mạng Văn hóa hay nỗ lực đổi lịch năm 1928), cùng áp lực thương mại hóa hiện đại. Do đó, phương án đúng phải khái quát được việc lễ hội Trung Hoa đã trường tồn nhờ khả năng thích ứng với các biến động chính trị và thương mại theo thời gian.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, tìm từ khóa \"Nian\" ở đoạn 2 để thấy truyền thuyết về con quái thú bị xua đuổi bởi giấy đỏ và tiếng động lớn.\n  - Với **R4Q5**, định vị đoạn 3 về Lễ hội Thuyền rồng để nhận diện nhân vật Quất Nguyên (Qu Yuan), nhà thơ kiêm đại thần nước Chu đã gieo mình xuống sông Mịch Lương tự vẫn.\n  - Với **R4Q8**, đối chiếu các đoạn 5 và 6: thông tin về gala truyền hình (đoạn 5), pháo hoa tài trợ ở Hồng Kông/Singapore (đoạn 5), và lệnh hạn chế trong Cách mạng Văn hóa (đoạn 6) đều có trong bài; trong khi trợ giá vé tàu hoàn toàn không được nhắc đến.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):**\n  - Với **R4Q3**, từ **\"resilient\"** ở đoạn 3 dùng để mô tả sức sống dai dẳng, khả năng chống chịu và vượt qua thay đổi của truyền thống (able to withstand change).\n  - Với **R4Q7**, từ **\"commodify\"** ở đoạn 7 nằm trong ngữ cảnh lo ngại việc tiếp thị mạnh mẽ biến các nghi lễ tôn nghiêm thành hàng hóa thương mại (turn into products).\n- **Dạng câu hỏi Điền câu vào đoạn văn (R4Q4):** Đọc các vị trí đánh dấu trong đoạn 6. Vị trí [1] nằm ngay sau câu kể về việc chính phủ Quốc Dân Đảng năm 1928 từng cố gắng dời ngày tết sang mùng 1 tháng Giêng nhưng thất bại. Câu cần điền bắt đầu bằng cụm \"Such an attempt to reshape time itself...\" tạo sự liên kết ngữ nghĩa trực tiếp và hoàn hảo nhất với nỗ lực thay đổi lịch sử đó.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ số nhiều **\"these\"** ở đoạn 7 trong câu \"Reunion dinners and dragon boat races remain central... and these now coexist with newer...\". Áp dụng quy tắc quy chiếu ngược lại danh từ chủ ngữ vừa nhắc đến, xác định \"these\" thay thế cho các bữa ăn đoàn viên và cuộc đua thuyền rồng (dinners and boat races).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 5, 6 và 7 – nơi minh chứng lễ hội chịu đựng các tác động từ việc đổi lịch, cấm đoán chính trị cho đến thương mại hóa nhưng vẫn tồn tại bằng cách dung nạp các ý nghĩa mới – từ đó suy luận rằng các lễ hội trường tồn có xu hướng hấp thụ các áp lực chính trị và thương mại thay vì chống lại chúng.\n- **Dạng câu hỏi Mục đích tác giả (R4Q10):** Đánh giá toàn mạch văn bản, tác giả lần lượt điểm qua các huyền thoại, sức bền văn hóa, các biến động chính trị lịch sử cho đến những thách thức từ thị trường hiện đại để minh họa cách lễ hội thích nghi. Do đó, mục đích chính là giải thích cách các lễ hội Trung Hoa sống sót qua những đổi thay về chính trị và thương mại (To explain how Chinese festivals have survived political and commercial change).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin trực tiếp (R4Q2, R4Q4, R4Q5, R4Q8), từ vựng và quy chiếu (R4Q3, R4Q6, R4Q7). Sau đó, dựa trên bức tranh tổng thể mạch lạc, bạn sẽ dễ dàng hoàn thành các câu hỏi suy luận, tìm ý chính và mục đích tác giả (R4Q1, R4Q9, R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your foreign friend asking about your use of social media.\nYour friend wants to know how social media affects your daily life and habits.\nWrite an email replying to your friend and share your experience with social media.\n- Describe how you usually use social media and which platforms or activities you often use.\n- Explain how much time you normally spend on social media each day.\n- Describe the effects of social media on your life, including both positive and negative impacts.\nWrite an email responding to your friend. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your foreign friend asking about your use of social media.",
+      "Your friend wants to know how social media affects your daily life and habits."
+     ],
+     "quote": [
+      "Write an email replying to your friend and share your experience with social media.",
+      "- Describe how you usually use social media and which platforms or activities you often use.",
+      "- Explain how much time you normally spend on social media each day.",
+      "- Describe the effects of social media on your life, including both positive and negative impacts."
+     ],
+     "instruction": "Write an email responding to your friend. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (thư thân mật) vì người nhận là bạn bè.\n- Bạn cần chia sẻ trải nghiệm cá nhân về việc sử dụng mạng xã hội bằng giọng văn tự nhiên.\n- Cần trả lời đủ 3 ý chính: cách sử dụng social media, thời gian sử dụng và ảnh hưởng đến cuộc sống.\n- Bài viết cần đạt tối thiểu **120 từ**, nên đưa thêm ví dụ thực tế để phát triển ý.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Mở đầu bằng lời chào thân mật. Ví dụ: Dear Lisa,\n- **Opening:** Dẫn vào chủ đề. Ví dụ: Thanks for asking me about my experience with social media.\n- **Body paragraph(s):** Đoạn đầu nói về cách sử dụng mạng xã hội. Đoạn sau trình bày thời gian sử dụng và tác động tích cực, tiêu cực.\n- **Closing:** Kết thúc bằng suy nghĩ cá nhân. Ví dụ: I think social media is useful if we use it properly.\n- **Sign-off:** Dùng cách kết thúc thân mật như Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để mô tả thói quen hàng ngày.\n- Dùng cấu trúc both positive and negative effects để thể hiện góc nhìn cân bằng.\n- Tránh chỉ nói social media is good hoặc bad, cần giải thích tác động cụ thể.\nTừ vựng quan trọng:\n- **Social networking sites:** Mạng xã hội\n- **Online communication:** Giao tiếp trực tuyến\n- **Digital platform:** Nền tảng kỹ thuật số\n- **Entertainment content:** Nội dung giải trí\n- **Time management:** Quản lý thời gian\n- **Privacy concerns:** Lo ngại về quyền riêng tư\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **In addition:** Ngoài ra\n- **However:** Tuy nhiên\n- **For example:** Ví dụ\n- **As a result:** Vì vậy\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I find social media useful because...** Tôi thấy mạng xã hội hữu ích vì...\n- **I am concerned about...** Tôi lo lắng về...\n- **I believe that...** Tôi tin rằng...\n\n**4. Các lỗi thường gặp:**\n- Chỉ kể tên ứng dụng mà không giải thích cách sử dụng.\n- Không đề cập thời gian sử dụng mạng xã hội.\n- Chỉ nêu tác động tích cực hoặc tiêu cực mà không cân bằng.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã trả lời đủ 3 câu hỏi trong đề chưa.\n- Đảm bảo email có lời chào và lời kết.\n- Kiểm tra thì hiện tại, chính tả và số lượng từ.\n\n**6. Tư duy làm bài:**\nHãy viết như đang chia sẻ thói quen thật của bản thân với bạn bè. Những ví dụ gần gũi sẽ giúp bài viết tự nhiên và dễ đạt điểm cao hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nFriendship plays an important role in people's lives. Good friends can provide emotional support, share\nexperiences and help each other overcome difficulties.\nHowever, maintaining strong friendships may become more challenging because of changes in lifestyle and modern communication methods.\nDiscuss the importance of friendship and explain how people can build and maintain good friendships.\nWrite an essay to an educated reader to discuss the importance of friendship and explain how people can build and maintain good friendships. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Friendship plays an important role in people's lives. Good friends can provide emotional support, share",
+      "experiences and help each other overcome difficulties.",
+      "However, maintaining strong friendships may become more challenging because of changes in lifestyle and modern communication methods.",
+      "Discuss the importance of friendship and explain how people can build and maintain good friendships."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the importance of friendship and explain how people can build and maintain good friendships. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng **Problem–Solution Essay** kết hợp thảo luận, yêu cầu nói về vai trò của tình bạn và cách xây dựng, duy trì mối quan hệ tốt.\n- Cần tập trung vào hai phần: tại sao tình bạn quan trọng và con người nên làm gì để giữ gìn tình bạn.\n- Từ khóa chính gồm friendship, emotional support, relationships và communication.\n- Bài viết cần tối thiểu **250 từ**, cần có lý do và ví dụ cụ thể.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vai trò của tình bạn trong cuộc sống. Ví dụ: Friendship is an essential part of human relationships.\n- **Body 1:** Phân tích tầm quan trọng của tình bạn. Ví dụ: Close friends can provide support during difficult times.\n- **Body 2:** Đưa ra cách xây dựng và duy trì tình bạn. Ví dụ: People can maintain friendships by communicating regularly and showing respect.\n- **Body 3:** Có thể mở rộng về ảnh hưởng của công nghệ hoặc cuộc sống hiện đại.\n- **Conclusion:** Tóm tắt vai trò và nhấn mạnh sự cần thiết của việc vun đắp tình bạn.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để nói về sự thật và quan điểm chung.\n- Dùng cấu trúc nguyên nhân - kết quả để phát triển ý.\n- Nên có câu chủ đề rõ ràng ở đầu mỗi đoạn thân bài.\nTừ vựng quan trọng:\n- **Close friendship:** Tình bạn thân thiết\n- **Emotional support:** Sự hỗ trợ tinh thần\n- **Mutual trust:** Sự tin tưởng lẫn nhau\n- **Shared experiences:** Trải nghiệm chung\n- **Communication skills:** Kỹ năng giao tiếp\n- **Social relationships:** Các mối quan hệ xã hội\nTừ nối (Linking words):\n- **Firstly:** Thứ nhất\n- **Furthermore:** Hơn nữa\n- **However:** Tuy nhiên\n- **For instance:** Ví dụ\n- **Therefore:** Vì vậy\n- **In conclusion:** Kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- **Friendship:** Có thể thay bằng close relationships hoặc social bonds.\n- **Important:** Có thể thay bằng essential, valuable hoặc meaningful.\n- **Maintain friendships:** Có thể thay bằng preserve relationships hoặc keep strong connections.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is widely believed that...** Dùng để giới thiệu quan điểm chung.\n- **One effective way to...** Dùng để đưa ra giải pháp.\n- **In my opinion...** Dùng để thể hiện quan điểm cá nhân.\n\n**4. Các lỗi thường gặp:**\n- Viết quá chung chung mà không có ví dụ về tình bạn.\n- Không giải thích tại sao tình bạn quan trọng.\n- Liệt kê giải pháp nhưng không phân tích cách thực hiện.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra đã trả lời đủ vai trò và cách duy trì tình bạn chưa.\n- Đảm bảo mỗi đoạn có ý chính rõ ràng.\n- Kiểm tra lỗi ngữ pháp, từ nối và số lượng từ.\n\n**6. Tư duy làm bài:**\nHãy phát triển bài viết bằng những trải nghiệm quen thuộc trong cuộc sống. Một bài viết tốt cần có lập luận rõ ràng, ví dụ phù hợp và cách diễn đạt tự nhiên."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about birthdays\n\n1\nWhen is your birthday and how do you usually celebrate it?\n2\nWhat kind of birthday celebration do you like most? Why?\n3\nWhat is the most memorable birthday you have ever had?\n\nNow, let’s talk about shopping\n\n4\nHow often do you go shopping?\n5\nWhat things do you usually buy when you go shopping?\n6\nDo you prefer shopping online or shopping in stores? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này có **2 chủ đề nhỏ**: **Topic A (Birthday Celebrations)** và **Topic B (Shopping)**.\n- **Topic A (Birthday Celebrations):** Các câu hỏi 1–3 tập trung vào ngày sinh nhật, cách tổ chức và những kỷ niệm đáng nhớ. Chủ đề này kiểm tra khả năng kể về trải nghiệm cá nhân.\n- **Topic B (Shopping):** Các câu hỏi 4–6 xoay quanh thói quen mua sắm, những món đồ thường mua và sự lựa chọn giữa mua sắm online hoặc trực tiếp.\n- Tiêu chí chấm điểm gồm **Fluency, Vocabulary, Grammar, Pronunciation**. Bạn cần trả lời tự nhiên và mở rộng ý.\n- Thời gian Part 1 là **3 phút**, nên dành khoảng 25–35 giây cho mỗi câu hỏi.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)**: trả lời, giải thích và đưa ví dụ.\n- **Ví dụ Topic A:** \"I usually celebrate my birthday with my family because it is a special occasion for us to spend time together. For example, we often have a small party at home.\"\n- **Ví dụ Topic B:** \"I often go shopping at weekends because it helps me buy necessary things and relax. For instance, I usually buy clothes and personal items.\"\n- Luôn tự hỏi thêm **Why?** hoặc **How?** để kéo dài câu trả lời.\n- Khi chuyển chủ đề có thể dùng: **\"Besides personal celebrations, daily activities such as shopping are also part of** our lifestyle.\"\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Nói với tốc độ ổn định, tránh dừng quá lâu để tìm từ.\n- Dùng **quá khứ đơn** khi kể về sinh nhật trong quá khứ và **hiện tại đơn** khi nói về thói quen mua sắm.\n- Nếu quên từ, hãy dùng cách giải thích hoặc từ đồng nghĩa đơn giản.\n- **Vocabulary Topic A:** birthday celebration (sự tổ chức sinh nhật), memorable experience (trải nghiệm đáng nhớ), get together (tụ họp), special occasion (dịp đặc biệt).\n- **Vocabulary Topic B:** shopping habit (thói quen mua sắm), online shopping (mua sắm trực tuyến), reasonable price (giá hợp lý), customer service (dịch vụ khách hàng).\nCụm từ quan trọng nên dùng:\n- **Topic A:** \"celebrate a special occasion\" - tổ chức một dịp đặc biệt.\n- **Topic A:** \"make unforgettable memories\" - tạo ra những kỷ niệm khó quên.\n- **Topic A:** \"spend quality time with family\" - dành thời gian ý nghĩa với gia đình.\n- **Topic B:** \"compare prices\" - so sánh giá cả.\n- **Topic B:** \"buy essential items\" - mua những đồ dùng cần thiết.\n- **Topic B:** \"shopping experience\" - trải nghiệm mua sắm.\nTừ nối khi nói (Linking Words):\n- **First of all:** trước hết.\n- **In addition:** ngoài ra.\n- **However:** tuy nhiên.\n- **For example:** ví dụ.\n- **Therefore:** vì vậy.\nCách thể hiện quan điểm tự nhiên:\n- **\"I think that...\"** - Tôi nghĩ rằng... Ví dụ: I think birthdays are important because they bring people together.\n- **\"In my opinion...\"** - Theo ý kiến của tôi... Ví dụ: In my opinion, online shopping is convenient.\n- **\"Personally, I prefer...\"** - Cá nhân tôi thích... Ví dụ: Personally, I prefer shopping in stores because I can check products directly.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời ngắn gọn mà không giải thích.\n- Topic A: Kể ngày sinh nhật nhưng thiếu cảm xúc hoặc chi tiết.\n- Topic B: Chỉ nói mua sắm vui mà không nói lợi ích hoặc hạn chế.\n- Dùng sai thì khi kể trải nghiệm trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: \"That is an interesting question, let me think for a second.\"\n- Nếu quên từ liên quan đến sinh nhật, hãy mô tả hoạt động hoặc cảm xúc.\n- Topic A: Có thể nói về gia đình, bạn bè và những kỷ niệm.\n- Topic B: Có thể chuyển sang giá cả, sự tiện lợi và chất lượng sản phẩm.\n\n**6. Tư duy làm bài nói:**\n- Coi Part 1 như một cuộc trò chuyện hàng ngày.\n- Chuyển đổi linh hoạt giữa hai nhóm chủ đề khác nhau.\n- Sự tự nhiên và khả năng phát triển ý quan trọng hơn việc dùng từ quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour school wants to organize an English event to help students improve their language skills and have fun.\n\nYou are considering the following options:\n\nOption 1: Organize an English talk show\nOption 2: Organize a music show in English\nOption 3: Organize English competition activities\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần chọn hoạt động tiếng Anh phù hợp nhất cho học sinh.\n- Ba lựa chọn gồm talk show tiếng Anh, chương trình âm nhạc và cuộc thi tiếng Anh.\n- Tiêu chí chấm điểm gồm khả năng phân tích, so sánh, lập luận và đưa ra kết luận.\n- Thời gian Part 2 là **4 phút**, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E (Introduction - Comparison/Body - End)**: giới thiệu mục tiêu, phân tích từng lựa chọn và kết luận.\n- Option 1 giúp học sinh luyện nghe nói và giao tiếp trong môi trường thực tế.\n- Option 2 tạo không khí vui vẻ nhưng có thể tập trung nhiều vào giải trí hơn học tập.\n- Option 3 tạo động lực học tập thông qua sự cạnh tranh nhưng có thể gây áp lực.\n- Liên hệ với mục tiêu cải thiện tiếng Anh để chọn phương án phù hợp.\n- Dùng từ nối thể hiện sự khác biệt giữa các lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Không chỉ nói ưu điểm của lựa chọn mình thích mà cần đánh giá cả ba phương án.\n- Dùng hiện tại đơn để mô tả hoạt động và cấu trúc so sánh để đánh giá lựa chọn.\n- Nếu quên từ liên quan đến sự kiện, có thể nói về lợi ích, người tham gia và trải nghiệm.\nCụm từ quan trọng nên dùng:\n- **improve communication skills:** cải thiện kỹ năng giao tiếp.\n- **build confidence:** xây dựng sự tự tin.\n- **interactive activity:** hoạt động tương tác.\n- **public speaking skills:** kỹ năng nói trước đám đông.\n- **create a positive atmosphere:** tạo không khí tích cực.\n- **learning experience:** trải nghiệm học tập.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên.\n- **On the other hand:** mặt khác.\n- **Compared with:** so với.\n- **As a result:** vì vậy.\n- **In conclusion:** kết luận.\nCách thể hiện quan điểm tự nhiên:\n- **\"I would choose Option 1 because...\"** - Tôi chọn phương án 1 vì...\n- **\"The main advantage is that...\"** - Ưu điểm chính là...\n- **\"Although this option is useful, it may not be the best choice because...\"** - Mặc dù hữu ích nhưng...\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen phương án mình chọn mà không phân tích phương án khác.\n- Lặp lại từ good hoặc interesting quá nhiều.\n- Không đưa ra quyết định cuối cùng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Chuyển sang các yếu tố như chi phí, số người tham gia và hiệu quả học tập.\n- Dùng câu: \"Let's evaluate this option from a different perspective.\"\n- Nếu bí một ý, chuyển sang lựa chọn khác.\n\n**6. Tư duy làm bài nói:**\n- Suy nghĩ như người tổ chức sự kiện muốn đạt mục tiêu học tập và giải trí.\n- Lựa chọn tốt cần vừa hấp dẫn vừa mang lại giá trị lâu dài.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of learning history\n\nLearning History\nUnderstanding the past and important events\nLearning lessons from historical experiences\nDeveloping cultural awareness and identity\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy should young people learn history?\n2\nDo you think history is more important than other school subjects?\n3\nHow can teachers make history lessons more interesting?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Topic Development**. Bạn cần phát triển chủ đề về tầm quan trọng của việc học lịch sử dựa trên các nhánh ý và thêm ý tưởng cá nhân.\n- Tiêu chí chấm điểm gồm khả năng phát triển ý, sự mạch lạc, từ vựng và ngữ pháp.\n- Thời gian Part 3 là **5 phút**, khoảng 3–3,5 phút cho bài nói chính và thời gian còn lại cho câu hỏi phụ.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL (Point - Explanation - Example - Link)**: nêu ý, giải thích, ví dụ và kết nối.\n- **Ví dụ 1:** \"Today, I would like to talk about the importance of learning history because it helps people understand the past and learn valuable lessons.\"\n- **Ví dụ 2:** \"Another personal idea is that history can improve critical thinking because students need to analyze events and their causes.\"\n- **Nhánh 4 – Ý tưởng cá nhân:** Bạn có thể phát triển thêm ý về **phát triển tư duy phản biện**. Ví dụ: \"Learning history encourages students to think critically and understand different perspectives.\"\n- Bám theo sơ đồ tư duy để tránh chỉ liệt kê ý mà không giải thích.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng câu chuyển ý để liên kết các nhánh trong bài nói.\n- Dùng **Present Simple** khi nói về lợi ích chung và **Past Simple** khi nhắc đến sự kiện lịch sử.\n- Có thể thay learning history bằng studying the past hoặc historical education.\nCụm từ quan trọng nên dùng:\n- **historical events:** sự kiện lịch sử.\n- **learn from the past:** học hỏi từ quá khứ.\n- **cultural identity:** bản sắc văn hóa.\n- **valuable lessons:** bài học quý giá.\n- **critical thinking:** tư duy phản biện.\n- **understand different perspectives:** hiểu các góc nhìn khác nhau.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên.\n- **Moreover:** hơn nữa.\n- **For example:** ví dụ.\n- **However:** tuy nhiên.\n- **To sum up:** tóm lại.\nCách thể hiện quan điểm tự nhiên:\n- **\"I strongly believe that...\"** - Tôi tin rằng...\n- **\"From my perspective...\"** - Theo quan điểm của tôi...\n- **\"It is important to remember that...\"** - Điều quan trọng cần nhớ là...\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **\"Why should young people learn history?\"** – Because history helps them understand their culture and avoid repeating past mistakes.\n- **\"Is history more important than other subjects?\"** – Every subject has its own value, but history helps people understand society and human development.\n- **\"How can teachers make history interesting?\"** – They can use videos, stories and real examples instead of only teaching facts.\n\n**5. Các lỗi thường gặp:**\n- Chỉ kể tên lợi ích mà không giải thích.\n- Quên thêm ý tưởng cá nhân ở nhánh thứ 4.\n- Dành quá nhiều thời gian cho bài chính và không đủ thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Liên hệ với kiến thức ở trường hoặc những sự kiện quen thuộc.\n- Dùng câu: \"That is a complex issue. If we evaluate it from a societal viewpoint...\"\n- Nếu quên thuật ngữ lịch sử, hãy mô tả ý bằng từ đơn giản.\n\n**7. Tư duy làm bài nói:**\n- Nhìn lịch sử như một công cụ giúp hiểu con người và xã hội.\n- Sự logic và cách phát triển ý quan trọng hơn việc nhớ quá nhiều dữ kiện.\n- Luôn đưa ví dụ thực tế để bài nói tự nhiên hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about birthdays.\n1.\nWhen is your birthday and how do you usually celebrate it?\n2.\nWhat kind of birthday celebration do you like most? Why?\n3.\nWhat is the most memorable birthday you have ever had?\nNow, let’s talk about shopping.\n4.\nHow often do you go shopping?\n5.\nWhat things do you usually buy when you go shopping?\n6.\nDo you prefer shopping online or shopping in stores? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này có 2 chủ đề nhỏ: Topic A (Birthday Celebrations) và Topic B (Shopping).\n• Topic A (Birthday Celebrations): Các câu hỏi 1–3 tập trung vào ngày sinh nhật, cách tổ chức và những kỷ niệm đáng\nnhớ. Chủ đề này kiểm tra khả năng kể về trải nghiệm cá nhân.\n• Topic B (Shopping): Các câu hỏi 4–6 xoay quanh thói quen mua sắm, những món đồ thường mua và sự lựa chọn\ngiữa mua sắm online hoặc trực tiếp.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar, Pronunciation. Bạn cần trả lời tự nhiên và mở rộng ý.\n• Thời gian Part 1 là 3 phút, nên dành khoảng 25–35 giây cho mỗi câu hỏi.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE): trả lời, giải thích và đưa ví dụ.\n• Ví dụ Topic A: \"I usually celebrate my birthday with my family because it is a special occasion for us to spend time\ntogether. For example, we often have a small party at home.\"\n• Ví dụ Topic B: \"I often go shopping at weekends because it helps me buy necessary things and relax. For instance, I\nusually buy clothes and personal items.\"\n• Luôn tự hỏi thêm Why? hoặc How? để kéo dài câu trả lời.\n• Khi chuyển chủ đề có thể dùng: \"Besides personal celebrations, daily activities such as shopping are also part of\nour lifestyle.\"\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Nói với tốc độ ổn định, tránh dừng quá lâu để tìm từ.\n• Dùng quá khứ đơn khi kể về sinh nhật trong quá khứ và hiện tại đơn khi nói về thói quen mua sắm.\n• Nếu quên từ, hãy dùng cách giải thích hoặc từ đồng nghĩa đơn giản.\n• Vocabulary Topic A: birthday celebration (sự tổ chức sinh nhật), memorable experience (trải nghiệm đáng nhớ), get\ntogether (tụ họp), special occasion (dịp đặc biệt).\n• Vocabulary Topic B: shopping habit (thói quen mua sắm), online shopping (mua sắm trực tuyến), reasonable price\n(giá hợp lý), customer service (dịch vụ khách hàng).\nCụm từ quan trọng nên dùng:\n• Topic A: \"celebrate a special occasion\" - tổ chức một dịp đặc biệt.\n• Topic A: \"make unforgettable memories\" - tạo ra những kỷ niệm khó quên.\n• Topic A: \"spend quality time with family\" - dành thời gian ý nghĩa với gia đình.\n• Topic B: \"compare prices\" - so sánh giá cả.\n• Topic B: \"buy essential items\" - mua những đồ dùng cần thiết.\n• Topic B: \"shopping experience\" - trải nghiệm mua sắm.\nTừ nối khi nói (Linking Words):\n• First of all: trước hết.\n• In addition: ngoài ra.\n• However: tuy nhiên.\n• For example: ví dụ.\n• Therefore: vì vậy.\nCách thể hiện quan điểm tự nhiên:\n• \"I think that...\" - Tôi nghĩ rằng... Ví dụ: I think birthdays are important because they bring people together.\n• \"In my opinion...\" - Theo ý kiến của tôi... Ví dụ: In my opinion, online shopping is convenient.\n• \"Personally, I prefer...\" - Cá nhân tôi thích... Ví dụ: Personally, I prefer shopping in stores because I can check products\ndirectly.\n4. Các lỗi thường gặp:\n• Chỉ trả lời ngắn gọn mà không giải thích.\n• Topic A: Kể ngày sinh nhật nhưng thiếu cảm xúc hoặc chi tiết.\n• Topic B: Chỉ nói mua sắm vui mà không nói lợi ích hoặc hạn chế.\n• Dùng sai thì khi kể trải nghiệm trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: \"That is an interesting question, let me think for a second.\"\n• Nếu quên từ liên quan đến sinh nhật, hãy mô tả hoạt động hoặc cảm xúc.\n• Topic A: Có thể nói về gia đình, bạn bè và những kỷ niệm.\n• Topic B: Có thể chuyển sang giá cả, sự tiện lợi và chất lượng sản phẩm.\n6. Tư duy làm bài nói:\n• Coi Part 1 như một cuộc trò chuyện hàng ngày.\n• Chuyển đổi linh hoạt giữa hai nhóm chủ đề khác nhau.\n• Sự tự nhiên và khả năng phát triển ý quan trọng hơn việc dùng từ quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYour school wants to organize an English event to help students improve their language skills and have fun.\nYou are considering the following options:\n• Option 1: Organize an English talk show\n• Option 2: Organize a music show in English\n• Option 3: Organize English competition activities\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần chọn hoạt động tiếng Anh phù hợp nhất cho học sinh.\n• Ba lựa chọn gồm talk show tiếng Anh, chương trình âm nhạc và cuộc thi tiếng Anh.\n• Tiêu chí chấm điểm gồm khả năng phân tích, so sánh, lập luận và đưa ra kết luận.\n• Thời gian Part 2 là 4 phút, khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu mục tiêu, phân tích từng lựa chọn và kết\nluận.\n• Option 1 giúp học sinh luyện nghe nói và giao tiếp trong môi trường thực tế.\n• Option 2 tạo không khí vui vẻ nhưng có thể tập trung nhiều vào giải trí hơn học tập.\n• Option 3 tạo động lực học tập thông qua sự cạnh tranh nhưng có thể gây áp lực.\n• Liên hệ với mục tiêu cải thiện tiếng Anh để chọn phương án phù hợp.\n• Dùng từ nối thể hiện sự khác biệt giữa các lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Không chỉ nói ưu điểm của lựa chọn mình thích mà cần đánh giá cả ba phương án.\n• Dùng hiện tại đơn để mô tả hoạt động và cấu trúc so sánh để đánh giá lựa chọn.\n• Nếu quên từ liên quan đến sự kiện, có thể nói về lợi ích, người tham gia và trải nghiệm.\nCụm từ quan trọng nên dùng:\n• improve communication skills: cải thiện kỹ năng giao tiếp.\n• build confidence: xây dựng sự tự tin.\n• interactive activity: hoạt động tương tác.\n• public speaking skills: kỹ năng nói trước đám đông.\n• create a positive atmosphere: tạo không khí tích cực.\n• learning experience: trải nghiệm học tập.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên.\n• On the other hand: mặt khác.\n• Compared with: so với.\n• As a result: vì vậy.\n• In conclusion: kết luận.\nCách thể hiện quan điểm tự nhiên:\n• \"I would choose Option 1 because...\" - Tôi chọn phương án 1 vì...\n• \"The main advantage is that...\" - Ưu điểm chính là...\n• \"Although this option is useful, it may not be the best choice because...\" - Mặc dù hữu ích nhưng...\n4. Các lỗi thường gặp:\n• Chỉ khen phương án mình chọn mà không phân tích phương án khác.\n• Lặp lại từ good hoặc interesting quá nhiều.\n• Không đưa ra quyết định cuối cùng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Chuyển sang các yếu tố như chi phí, số người tham gia và hiệu quả học tập.\n• Dùng câu: \"Let's evaluate this option from a different perspective.\"\n• Nếu bí một ý, chuyển sang lựa chọn khác.\n6. Tư duy làm bài nói:\n• Suy nghĩ như người tổ chức sự kiện muốn đạt mục tiêu học tập và giải trí.\n• Lựa chọn tốt cần vừa hấp dẫn vừa mang lại giá trị lâu dài.\nTopic Development\nPART 3\n5 phút\nTopic: The importance of learning history\nUnderstanding the past and important\nLearning lessons from historical\nevents\nexperiences\nLearning History\nÝ tưởng của bạn\nDeveloping cultural awareness and\nidentity\nFOLLOW-UP QUESTIONS\n1.\nWhy should young people learn history?\n2.\nDo you think history is more important than other school subjects?\n3.\nHow can teachers make history lessons more interesting?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Topic Development. Bạn cần phát triển chủ đề về tầm quan trọng của việc học lịch sử dựa trên các nhánh\ný và thêm ý tưởng cá nhân.\n• Tiêu chí chấm điểm gồm khả năng phát triển ý, sự mạch lạc, từ vựng và ngữ pháp.\n• Thời gian Part 3 là 5 phút, khoảng 3–3,5 phút cho bài nói chính và thời gian còn lại cho câu hỏi phụ.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point - Explanation - Example - Link): nêu ý, giải thích, ví dụ và kết nối.\n• Ví dụ 1: \"Today, I would like to talk about the importance of learning history because it helps people understand the\npast and learn valuable lessons.\"\n• Ví dụ 2: \"Another personal idea is that history can improve critical thinking because students need to analyze events\nand their causes.\"\n• Nhánh 4 – Ý tưởng cá nhân: Bạn có thể phát triển thêm ý về phát triển tư duy phản biện. Ví dụ: \"Learning history\nencourages students to think critically and understand different perspectives.\"\n• Bám theo sơ đồ tư duy để tránh chỉ liệt kê ý mà không giải thích.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng câu chuyển ý để liên kết các nhánh trong bài nói.\n• Dùng Present Simple khi nói về lợi ích chung và Past Simple khi nhắc đến sự kiện lịch sử.\n• Có thể thay learning history bằng studying the past hoặc historical education.\nCụm từ quan trọng nên dùng:\n• historical events: sự kiện lịch sử.\n• learn from the past: học hỏi từ quá khứ.\n• cultural identity: bản sắc văn hóa.\n• valuable lessons: bài học quý giá.\n• critical thinking: tư duy phản biện.\n• understand different perspectives: hiểu các góc nhìn khác nhau.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên.\n• Moreover: hơn nữa.\n• For example: ví dụ.\n• However: tuy nhiên.\n• To sum up: tóm lại.\nCách thể hiện quan điểm tự nhiên:\n• \"I strongly believe that...\" - Tôi tin rằng...\n• \"From my perspective...\" - Theo quan điểm của tôi...\n• \"It is important to remember that...\" - Điều quan trọng cần nhớ là...\n4. Gợi ý trả lời câu hỏi follow-up:\n• \"Why should young people learn history?\" – Because history helps them understand their culture and avoid repeating\npast mistakes.\n• \"Is history more important than other subjects?\" – Every subject has its own value, but history helps people\nunderstand society and human development.\n• \"How can teachers make history interesting?\" – They can use videos, stories and real examples instead of only\nteaching facts.\n5. Các lỗi thường gặp:\n• Chỉ kể tên lợi ích mà không giải thích.\n• Quên thêm ý tưởng cá nhân ở nhánh thứ 4.\n• Dành quá nhiều thời gian cho bài chính và không đủ thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Liên hệ với kiến thức ở trường hoặc những sự kiện quen thuộc.\n• Dùng câu: \"That is a complex issue. If we evaluate it from a societal viewpoint...\"\n• Nếu quên thuật ngữ lịch sử, hãy mô tả ý bằng từ đơn giản.\n7. Tư duy làm bài nói:\n• Nhìn lịch sử như một công cụ giúp hiểu con người và xã hội.\n• Sự logic và cách phát triển ý quan trọng hơn việc nhớ quá nhiều dữ kiện.\n• Luôn đưa ví dụ thực tế để bài nói tự nhiên hơn."
+}

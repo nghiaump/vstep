@@ -1,0 +1,717 @@
+{
+ "id": "vlu-76",
+ "number": 76,
+ "title": "Đề thi VLU 76",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-76",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "George Town: A Multicultural City on Penang Island",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "George Town sits on the northeastern tip of Penang Island, just off the coast of Malaysia, and it is famous for something unusual: within a few city blocks, visitors can walk past a Chinese temple, an Indian Hindu shrine, a mosque, and a Christian church, often built within sight of one another. Few cities anywhere pack so many different cultures into such a small, walkable area, and that mix is exactly what UNESCO recognized when it named George Town a World Heritage Site in 2008.",
+     "The city's diversity goes back to its founding in 1786, when a British trader named Francis Light established a trading post on the island. Merchants from China, India, and the Malay Peninsula soon arrived, drawn by the promise of a free port with no import taxes. Each group brought its own language, food, and religious traditions, and rather than blending into one single culture, many of **these communities** settled into their own neighborhoods, some of which still carry the same names and character today.",
+     "Food in George Town reflects this **layered** history perhaps more clearly than anything else. A single street can offer Chinese noodle soup, Indian curry, and Malay rice dishes within a few steps of each other, and it is common for a local resident to grow up eating all three regularly. Many dishes themselves are blends, combining Chinese cooking techniques with Malay spices or Indian ingredients, creating flavors found almost nowhere else in the world. Food stalls that have operated for three generations sit comfortably beside newer cafes serving fusion dishes aimed at younger diners and tourists.",
+     "The city's older buildings tell a similar story. Shophouses, narrow two- or three-story buildings with a shop on the ground floor and living space above, line many of George Town's streets, their painted facades ranging from faded pastel to freshly restored bright colors. After George Town received its UNESCO recognition, the local government introduced strict rules limiting how much these buildings could be **altered**, a decision that pleased preservationists but frustrated some owners who wanted to modernize their properties more freely. Many owners now rent out ground-floor spaces to small businesses while keeping the upper floors as family homes.",
+     "Today, George Town remains a working city rather than a museum, with locals living, working, and worshipping in the same streets that draw millions of tourists each year. Balancing daily life with tourism has not always been easy, and residents sometimes complain about rising rents in the historic core. Even so, most locals say they take real pride in a city that has managed to hold onto its mixed identity instead of letting one culture quietly replace the others. For many residents, that stubborn mix is not just history, but something they continue to live inside every day."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, when did UNESCO name George Town a World Heritage Site?",
+      "options": {
+       "A": "in 1786, the year it was founded",
+       "B": "in 2008, for its cultural diversity",
+       "C": "shortly after strict building rules were introduced",
+       "D": "in 2020, after decades of restoration work"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"UNESCO\" ở đoạn 1: UNESCO công nhận George Town là Di sản Thế giới vào năm 2008 vì sự đa dạng văn hóa (in 2008, for its cultural diversity)."
+     },
+     {
+      "number": 2,
+      "stem": "The word \"layered\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "extremely simple",
+       "B": "colorful",
+       "C": "later",
+       "D": "complex and varied"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"layered\" ở đoạn 3 (\"layered history\") mô tả lịch sử qua nhiều thời kỳ, đan xen phong phú, tương đương nghĩa với phức tạp và đa dạng (complex and varied)."
+     },
+     {
+      "number": 3,
+      "stem": "According to the passage, which of the following is NOT mentioned as a religious building found in George Town?",
+      "options": {
+       "A": "a Jewish synagogue near the old port",
+       "B": "a Chinese temple built near the coast",
+       "C": "an Indian Hindu shrine near the temple",
+       "D": "a mosque located within the historic core"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Rà soát các công trình tôn giáo được đề cập ở đoạn 1: chùa Trung Quốc (Chinese temple), đền Ấn Độ giáo (Indian Hindu shrine), và nhà thờ Hồi giáo (mosque). Chi tiết về giáo đường Do Thái gần cảng cổ (a Jewish synagogue near the old port) hoàn toàn không được nhắc tới."
+     },
+     {
+      "number": 4,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "George Town's shophouses have brightly painted facades",
+       "B": "one culture has gradually replaced all others in George Town",
+       "C": "George Town blends many cultures into daily life",
+       "D": "every city in Malaysia shares this exact mix of cultures"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 5,
+      "stem": "The words \"these communities\" in paragraph 2 refer to _______.",
+      "options": {
+       "A": "British trading officials",
+       "B": "Chinese, Indian, Malay merchants",
+       "C": "shophouse building owners",
+       "D": "UNESCO heritage committees"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào cụm từ in đậm \"these communities\" ở cuối đoạn 2. Đọc ngược lại câu trước để tìm đối tượng: từ này quy chiếu cho các nhóm thương nhân người Trung Quốc, Ấn Độ và bán đảo Mã Lai (Chinese, Indian, Malay merchants)."
+     },
+     {
+      "number": 6,
+      "stem": "According to the passage, who established the original trading post on Penang Island?",
+      "options": {
+       "A": "a group of Chinese merchants in 1800",
+       "B": "the local government, after UNESCO recognition",
+       "C": "Malay Peninsula traders in the early 1900s",
+       "D": "Francis Light, a British trader, in 1786"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"trading post\" ở đoạn 2: thương gia người Anh Francis Light thành lập thương cảng ban đầu vào năm 1786 (Francis Light, a British trader, in 1786)."
+     },
+     {
+      "number": 7,
+      "stem": "The word \"altered\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "changed",
+       "B": "completely destroyed",
+       "C": "painted",
+       "D": "altar"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"altered\" ở đoạn 4 (\"limiting how much these buildings could be altered\") mô tả việc giới hạn mức độ thay đổi cấu trúc tòa nhà, đồng nghĩa với thay đổi (changed)."
+     },
+     {
+      "number": 8,
+      "stem": "It can be inferred from the passage that the strict building preservation rules were introduced mainly to _______.",
+      "options": {
+       "A": "increase property values for shophouse owners",
+       "B": "encourage owners to modernize their buildings freely",
+       "C": "protect the historic character of the shophouses",
+       "D": "draw millions of tourists to the city"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích lập luận ở đoạn 4: chính quyền đưa ra các quy định nghiêm ngặt hạn chế việc sửa chữa tòa nhà cổ sau khi UNESCO công nhận. Mục đích chính của việc này là để bảo vệ vẻ đẹp và giá trị lịch sử của các dãy nhà phố (protect the historic character of the shophouses)."
+     },
+     {
+      "number": 9,
+      "stem": "According to the passage, what do residents sometimes complain about?",
+      "options": {
+       "A": "too many religious buildings in one area",
+       "B": "rising rents in the historic core",
+       "C": "food stalls competing with newer cafes",
+       "D": "strict rules preventing all new businesses"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "định vị cụm từ \"complain\" hoặc thông tin phản ánh của cư dân liên quan đến khu vực lịch sử: cư dân phàn nàn về giá thuê nhà tăng cao ở khu vực lõi di sản (rising rents in the historic core)."
+     },
+     {
+      "number": 10,
+      "stem": "What is most likely the author's main purpose in writing this passage?",
+      "options": {
+       "A": "to explain how shophouses are built and painted",
+       "B": "to criticize the local government for limiting building changes",
+       "C": "to promote George Town's food scene to tourists",
+       "D": "to describe George Town's multicultural history and identity Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính & Mục đích bài viết (R1Q4, R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu George Town được UNESCO công nhận di sản nhờ sự hòa quyện văn hóa; đoạn 2 kể về lịch sử thành lập từ năm 1786; đoạn 3-4 miêu tả sự kết hợp đa văn hóa qua ẩm thực và kiến trúc nhà phố (shophouses). Phương án đúng phải khái quát trọn vẹn sự hòa quyện đa văn hóa của George Town trong đời sống hàng ngày (blends many cultures into daily life) nhằm miêu tả bản sắc và lịch sử đa văn hóa của thành phố, tránh chọn các đáp án mang tính chi tiết hẹp hay cực đoan.\n- **Dạng câu hỏi Chi tiết trực tiếp (R1Q1, R1Q6, R1Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q1**, quét từ khóa \"UNESCO\" ở đoạn 1: UNESCO công nhận George Town là Di sản Thế giới vào năm 2008 vì sự đa dạng văn hóa (in 2008, for its cultural diversity).\n  - Với **R1Q6**, quét từ khóa \"trading post\" ở đoạn 2: thương gia người Anh Francis Light thành lập thương cảng ban đầu vào năm 1786 (Francis Light, a British trader, in 1786).\n  - Với **R1Q9**, định vị cụm từ \"complain\" hoặc thông tin phản ánh của cư dân liên quan đến khu vực lịch sử: cư dân phàn nàn về giá thuê nhà tăng cao ở khu vực lõi di sản (rising rents in the historic core).\n- **Dạng câu hỏi Loại trừ NOT (R1Q3):** Rà soát các công trình tôn giáo được đề cập ở đoạn 1: chùa Trung Quốc (Chinese temple), đền Ấn Độ giáo (Indian Hindu shrine), và nhà thờ Hồi giáo (mosque). Chi tiết về giáo đường Do Thái gần cảng cổ (a Jewish synagogue near the old port) hoàn toàn không được nhắc tới.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q2, R1Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q2**, từ **\"layered\"** ở đoạn 3 (\"layered history\") mô tả lịch sử qua nhiều thời kỳ, đan xen phong phú, tương đương nghĩa với phức tạp và đa dạng (complex and varied).\n  - Với **R1Q7**, từ **\"altered\"** ở đoạn 4 (\"limiting how much these buildings could be altered\") mô tả việc giới hạn mức độ thay đổi cấu trúc tòa nhà, đồng nghĩa với thay đổi (changed).\n- **Dạng câu hỏi Quy chiếu (R1Q5):** Tập trung vào cụm từ in đậm **\"these communities\"** ở cuối đoạn 2. Đọc ngược lại câu trước để tìm đối tượng: từ này quy chiếu cho các nhóm thương nhân người Trung Quốc, Ấn Độ và bán đảo Mã Lai (Chinese, Indian, Malay merchants).\n- **Dạng câu hỏi Suy luận (R1Q8):** Phân tích lập luận ở đoạn 4: chính quyền đưa ra các quy định nghiêm ngặt hạn chế việc sửa chữa tòa nhà cổ sau khi UNESCO công nhận. Mục đích chính của việc này là để bảo vệ vẻ đẹp và giá trị lịch sử của các dãy nhà phố (protect the historic character of the shophouses).\nLời khuyên: Ưu tiên giải quyết nhanh các câu hỏi định vị thông tin trực tiếp như Từ vựng (R1Q2, R1Q7) và Quy chiếu (R1Q5). Kế tiếp, áp dụng kỹ năng đọc quét từ khóa để chọn chính xác đáp án cho các câu **Chi tiết** (R1Q1, R1Q6, R1Q9) và câu **Loại trừ** (R1Q3). Sau cùng, liên kết logic toàn bài để chốt đáp án chuẩn xác nhất cho câu **Suy luận** (R1Q8), câu Ý chính (R1Q4) và Mục đích bài viết (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Cà Phê Sữa: The History and Culture of Vietnamese Milk Coffee",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "That Vietnam ranks among the world's largest coffee exporters surprises many visitors who assume coffee culture belongs primarily to regions like South America or East Africa; what surprises them further, once they taste a glass of cà phê sữa, is how little the drink resembles the espresso-based coffee culture they associate with the word altogether. The gap between expectation and experience, several food writers have noted, often becomes the visitor's first real introduction to Vietnam on its own terms.",
+     "Coffee itself arrived in Vietnam through French colonial administrators in the nineteenth century, who introduced both the plant and a brewing culture built around imported equipment that most Vietnamese households of the period could not easily obtain or afford. What developed instead, gradually and largely outside official record, was a **workaround**: a small metal filter, now called a phin, that dripped coffee slowly through a perforated disc directly over a cup, requiring no imported machinery and no electricity at all.",
+     "Sweetened condensed milk, rather than fresh milk, became the drink's other defining ingredient, though not, as some popular accounts suggest, purely as a matter of taste preference. Fresh dairy spoiled quickly in Vietnam's tropical climate and remained difficult to source reliably well into the twentieth century, whereas condensed milk, sealed in tins, traveled and stored easily; the sweetness for which the drink later became famous therefore emerged as much from practical necessity as from any deliberate culinary choice.",
+     "Brewed this way, using the robusta beans that dominate Vietnamese coffee production, cà phê sữa turns out considerably stronger and more bitter than the arabica-based espresso most Western visitors expect, a bitterness the condensed milk was arguably always intended to **offset** rather than merely complement. Poured over ice, the same drink becomes cà phê sữa đá, now widely considered the more common version, particularly during the hot months that dominate much of the country's calendar.",
+     "Coffee culture in Vietnam extends well beyond the drink's preparation into the ritual of drinking it, one built specifically around unhurried time rather than the speed Western coffee culture increasingly prizes. Sidewalk cafes, furnished with low plastic stools set facing the street, function as much as informal social venues, spaces for watching daily life or catching up with friends, as they do straightforward places to obtain caffeine.",
+     "This slower ritual has not proven fully immune to newer commercial pressures. International coffee chains, along with a wave of domestic chains explicitly modeled on them, have expanded steadily across major Vietnamese cities in recent decades, introducing standardized seating, air conditioning, and a faster style of ordering and consumption more familiar to visitors accustomed to Western coffee shop conventions. Traditional sidewalk cafes have not disappeared under this pressure, but they increasingly compete directly for customers, particularly younger ones, who once might have simply inherited the older habit without a second thought.",
+     "Whether the traditional phin-and-condensed-milk ritual will meaningfully persist alongside these newer commercial models, or gradually give way to them over the coming decades, remains, several researchers studying Vietnamese consumer habits suggest, considerably harder to predict than either coffee culture's most confident defenders or its most confident critics currently tend to assume. What seems reasonably certain, at least for now, is that the phin itself, however the surrounding culture eventually shifts, is unlikely to disappear from Vietnamese kitchens entirely."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, who introduced coffee to Vietnam?",
+      "options": {
+       "A": "Vietnamese traders returning from South America",
+       "B": "French colonial administrators in the nineteenth century",
+       "C": "international coffee chains in recent decades",
+       "D": "local farmers experimenting with robusta beans"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"introduced coffee\" ở đoạn 2: các quan chức thuộc địa Pháp ở thế kỷ 19 là những người đã đưa cà phê vào Việt Nam (French colonial administrators in the nineteenth century)."
+     },
+     {
+      "number": 12,
+      "stem": "The word \"workaround\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "expensive luxury item",
+       "B": "decoration",
+       "C": "walkaround",
+       "D": "practical alternative solution"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"workaround\" ở đoạn 2 (mô tả chiếc phin nhôm ra đời khi không có máy móc nhập khẩu đắt tiền) dùng để chỉ giải pháp thay thế mang tính thực tế/linh hoạt (practical alternative solution)."
+     },
+     {
+      "number": 13,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason condensed milk became central to Vietnamese coffee?",
+      "options": {
+       "A": "it was cheaper than sugar at the time",
+       "B": "fresh dairy products spoiled very quickly in the tropical climate",
+       "C": "condensed milk could be stored and traveled quite easily",
+       "D": "it offset the bitterness of robusta coffee"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các lý do khiến sữa đặc trở thành thành phần cốt lõi được liệt kê trong bài: sữa tươi mau hỏng trong khí hậu nhiệt đới (đoạn 3), sữa đặc đóng lon dễ bảo quản và vận chuyển (đoạn 3), và vị ngọt của nó giúp trung hòa độ đắng của cà phê robusta (đoạn 4). Chi tiết \"giá rẻ hơn đường ở thời điểm đó\" (it was cheaper than sugar at the time) hoàn toàn không được nhắc tới."
+     },
+     {
+      "number": 14,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "the phin filter requires no electricity to use",
+       "B": "commercial coffee chains have completely replaced traditional sidewalk cafes",
+       "C": "Vietnamese coffee culture blends practical history with social ritual",
+       "D": "every country that grows coffee shares Vietnam's exact coffee culture"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 15,
+      "stem": "The words \"This slower ritual\" in paragraph 6 refer to _______.",
+      "options": {
+       "A": "international coffee chains",
+       "B": "unhurried sidewalk cafe culture",
+       "C": "standardized seating and ordering",
+       "D": "robusta bean production"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào cụm từ in đậm \"This slower ritual\" ở đầu đoạn 6. Đọc ngược lại câu/đoạn trước đó để xác định đối tượng: từ này quy chiếu cho văn hóa thưởng thức cà phê vỉa hè không thong thả, không vội vã (unhurried sidewalk cafe culture)."
+     },
+     {
+      "number": 16,
+      "stem": "According to the passage, what happens to cà phê sữa when it is poured over ice?",
+      "options": {
+       "A": "it loses most of its sweetness",
+       "B": "it is filtered through a metal phin",
+       "C": "it becomes stronger than robusta coffee",
+       "D": "it becomes cà phê sữa đá"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"poured over ice\" ở đoạn 4: khi đổ cà phê sữa qua đá, thức uống trở thành cà phê sữa đá (it becomes cà phê sữa đá)."
+     },
+     {
+      "number": 17,
+      "stem": "Based on the passage, what can be inferred about the origins of both the phin filter and the use of condensed milk?",
+      "options": {
+       "A": "both emerged as practical local responses",
+       "B": "both were deliberately designed to taste sweeter and stronger",
+       "C": "local conditions were shaped by the phin's popularity",
+       "D": "robusta beans still dominate Vietnamese coffee production"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Phân tích sự kết nối ở đoạn 2 (sự ra đời của phin do thiếu máy móc) và đoạn 3 (sự ra đời của việc dùng sữa đặc do thiếu sữa tươi). Từ đó suy luận được rằng cả hai phát minh/thói quen này đều bắt nguồn từ những phản ứng, thích ứng mang tính thực tế của người dân địa phương trước điều kiện hoàn cảnh (both emerged as practical local responses)."
+     },
+     {
+      "number": 18,
+      "stem": "The word \"offset\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "slightly reduce",
+       "B": "increase",
+       "C": "counterbalance",
+       "D": "offshoot"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"offset\" ở đoạn 4 (đi kèm \"a bitterness the condensed milk was arguably always intended to offset\") mô tả tác dụng làm cân bằng/trung hòa độ đắng của cà phê robusta, tương đương nghĩa với trung hòa/đối trọng (counterbalance)."
+     },
+     {
+      "number": 19,
+      "stem": "According to the passage, what role do sidewalk cafes play beyond serving coffee?",
+      "options": {
+       "A": "formal business meeting locations for professionals",
+       "B": "informal social venues for watching daily life",
+       "C": "spaces offering air conditioning and standardized seating",
+       "D": "tourist attractions promoted by the government"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "định vị cụm từ \"sidewalk cafes\" ở đoạn 5: quán cà phê vỉa hè đóng vai trò là không gian giao lưu xã hội không trang trọng để ngắm nhìn nhịp sống hàng ngày (informal social venues for watching daily life)."
+     },
+     {
+      "number": 20,
+      "stem": "What is most likely the author's main purpose in writing this passage?",
+      "options": {
+       "A": "to describe how the phin filter is used",
+       "B": "to argue that commercial coffee chains are destroying Vietnamese culture",
+       "C": "to prove that condensed milk tastes better than fresh milk",
+       "D": "to explain the history and culture behind Vietnamese milk coffee Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính & Mục đích bài viết (R2Q4, R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc các câu chủ đề để phác thảo mạch nội dung: đoạn 1-2 giới thiệu nguồn gốc cà phê tại Việt Nam từ thời Pháp thuộc; đoạn 3-4 giải thích nguyên nhân lịch sử/thực tế dẫn đến việc dùng sữa đặc và phin; đoạn 5-7 phân tích nét văn hóa cà phê vỉa hè và sự giao thoa giữa truyền thống với các chuỗi cà phê hiện đại. Phương án đúng phải tổng quát trọn vẹn việc văn hóa cà phê Việt Nam hòa quyện giữa lịch sử mang tính thực tiễn và các nghi thức xã hội (blends practical history with social ritual) nhằm giải thích lịch sử và văn hóa đằng sau món cà phê sữa Việt Nam, tránh chọn các đáp án chỉ chứa chi tiết hẹp hay mang tính quy chụp.\n- **Dạng câu hỏi Chi tiết trực tiếp (R2Q1, R2Q6, R2Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q1**, quét từ khóa \"introduced coffee\" ở đoạn 2: các quan chức thuộc địa Pháp ở thế kỷ 19 là những người đã đưa cà phê vào Việt Nam (French colonial administrators in the nineteenth century).\n  - Với **R2Q6**, quét cụm từ \"poured over ice\" ở đoạn 4: khi đổ cà phê sữa qua đá, thức uống trở thành cà phê sữa đá (it becomes cà phê sữa đá).\n  - Với **R2Q9**, định vị cụm từ \"sidewalk cafes\" ở đoạn 5: quán cà phê vỉa hè đóng vai trò là không gian giao lưu xã hội không trang trọng để ngắm nhìn nhịp sống hàng ngày (informal social venues for watching daily life).\n- **Dạng câu hỏi Loại trừ NOT (R2Q3):** Đối soát kỹ các lý do khiến sữa đặc trở thành thành phần cốt lõi được liệt kê trong bài: sữa tươi mau hỏng trong khí hậu nhiệt đới (đoạn 3), sữa đặc đóng lon dễ bảo quản và vận chuyển (đoạn 3), và vị ngọt của nó giúp trung hòa độ đắng của cà phê robusta (đoạn 4). Chi tiết \"giá rẻ hơn đường ở thời điểm đó\" (it was cheaper than sugar at the time) hoàn toàn không được nhắc tới.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q2, R2Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q2**, từ **\"workaround\"** ở đoạn 2 (mô tả chiếc phin nhôm ra đời khi không có máy móc nhập khẩu đắt tiền) dùng để chỉ giải pháp thay thế mang tính thực tế/linh hoạt (practical alternative solution).\n  - Với **R2Q8**, từ **\"offset\"** ở đoạn 4 (đi kèm \"a bitterness the condensed milk was arguably always intended to offset\") mô tả tác dụng làm cân bằng/trung hòa độ đắng của cà phê robusta, tương đương nghĩa với trung hòa/đối trọng (counterbalance).\n- **Dạng câu hỏi Quy chiếu (R2Q5):** Tập trung vào cụm từ in đậm **\"This slower ritual\"** ở đầu đoạn 6. Đọc ngược lại câu/đoạn trước đó để xác định đối tượng: từ này quy chiếu cho văn hóa thưởng thức cà phê vỉa hè không thong thả, không vội vã (unhurried sidewalk cafe culture).\n- **Dạng câu hỏi Suy luận (R2Q7):** Phân tích sự kết nối ở đoạn 2 (sự ra đời của phin do thiếu máy móc) và đoạn 3 (sự ra đời của việc dùng sữa đặc do thiếu sữa tươi). Từ đó suy luận được rằng cả hai phát minh/thói quen này đều bắt nguồn từ những phản ứng, thích ứng mang tính thực tế của người dân địa phương trước điều kiện hoàn cảnh (both emerged as practical local responses).\nLời khuyên: Ưu tiên giải quyết nhanh các câu hỏi định vị thông tin trực tiếp như Từ vựng (R2Q2, R2Q8) và Quy chiếu (R2Q5). Tiếp theo, ứng dụng kỹ năng đọc quét từ khóa để chọn chính xác đáp án cho các câu **Chi tiết** (R2Q1, R2Q6, R2Q9) và câu **Loại trừ** (R2Q3). Sau cùng, tổng hợp góc nhìn logic toàn bài để chốt đáp án chuẩn xác nhất cho câu **Suy** luận (R2Q7), câu Ý chính (R2Q4) và Mục đích bài viết (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Rethinking the Foundations of a Healthy Lifestyle",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Walk into any bookstore's health section and a fairly consistent checklist emerges: eight hours of sleep, thirty minutes of daily exercise, five servings of vegetables, minimal processed sugar. What rarely accompanies this checklist is any indication of how confidently researchers actually hold each of these individual recommendations, a confidence that, on closer inspection, turns out to vary considerably more than the tidy uniformity of the list itself would suggest.",
+     "Sleep research offers a useful starting point precisely because its findings have proven unusually consistent across otherwise **disparate** study populations. Chronic sleep restriction, replicated across dozens of controlled laboratory studies, measurably impairs immune function, glucose regulation, and cognitive performance within days, effects that emerge reliably enough that few researchers in the field seriously dispute sleep's foundational role, even as they continue arguing vigorously about nearly everything else concerning it.",
+     "That single point of near-consensus, however, does not extend to the specific eight-hour figure so often presented as a universal target. Individual sleep need, longitudinal studies suggest, varies by as much as two to three hours across genuinely healthy adults, a range wide enough that a rigid eight-hour rule risks leaving naturally short sleepers anxious over a nonexistent deficiency while giving naturally long sleepers false reassurance that a truly insufficient amount is adequate for their particular physiology.",
+     "Exercise research complicates the checklist picture differently, through what researchers term a dose-response curve rather than a fixed daily target. **[1]** Health benefits accumulate steeply across the first modest increments of physical activity, the shift from complete sedentism to even light regular movement. **[2]** They then continue accumulating but at a visibly diminishing rate. **[3]** A person moving from thirty to sixty daily minutes, in other words, gains measurably less additional benefit than a person moving from zero minutes to thirty. **[4]**",
+     "This pattern carries a genuinely underappreciated implication: for someone currently sedentary, a comparatively modest increase in activity may matter considerably more for measurable health outcomes than optimizing an already-substantial exercise routine, a conclusion that **unsettles** fitness culture's typical emphasis on ever-increasing intensity as the primary marker of meaningful progress.",
+     "Dietary research, by contrast, offers the checklist's least stable foundation of the three, its recommendations having reversed direction more than once across recent decades as new methodologies exposed flaws in study designs researchers had previously trusted. Dietary fat, blamed for decades as the primary driver of heart disease, has since been substantially reassessed, with sugar and refined carbohydrates now drawing comparably serious scrutiny, a reversal significant enough that nutrition researchers themselves increasingly describe the field's own history with notable caution.",
+     "None of **this instability** licenses abandoning dietary guidance altogether, several nutrition scientists caution, since certain patterns, heavy reliance on ultra-processed foods chief among them, remain associated with poor outcomes across virtually every methodology researchers have applied regardless of which specific nutrient theory happens to be fashionable in a given decade. What the instability does suggest is that any dietary recommendation delivered with the same confidence as sleep's foundational role should be regarded with considerably more caution than headlines built on the checklist typically convey."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, what do chronic sleep restriction studies show?",
+      "options": {
+       "A": "impaired immune function, glucose regulation, and cognitive performance",
+       "B": "improved glucose regulation over several weeks",
+       "C": "a steep increase in physical activity benefits",
+       "D": "no measurable effect on cognitive performance"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"chronic sleep restriction\" ở đoạn 2: các nghiên cứu phòng thí nghiệm cho thấy việc hạn chế ngủ kéo dài gây suy giảm chức năng miễn dịch, điều hòa glucose và hiệu suất nhận thức (impaired immune function, glucose regulation, and cognitive performance)."
+     },
+     {
+      "number": 22,
+      "stem": "The word \"disparate\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "slightly different",
+       "B": "large",
+       "C": "distinctly different",
+       "D": "desperate"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"disparate\" ở đoạn 2 (\"disparate study populations\") mô tả các nhóm đối tượng nghiên cứu khác biệt rõ rệt về bản chất, đồng nghĩa với khác biệt rõ ràng (distinctly different)."
+     },
+     {
+      "number": 23,
+      "stem": "According to the passage, which of the following is NOT mentioned as a finding from sleep restriction research?",
+      "options": {
+       "A": "impaired immune function within just days",
+       "B": "impaired glucose regulation within a short time",
+       "C": "anxiety in naturally short sleepers over a nonexistent deficiency",
+       "D": "increased appetite and unwanted weight gain"
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các phát hiện từ nghiên cứu hạn chế giấc ngủ được nhắc tới trong đoạn 2 và đoạn 3: suy giảm miễn dịch trong vài ngày, suy giảm điều hòa glucose, và gây ra sự lo âu cho những người vốn ngủ ít tự nhiên. Việc gia tăng thèm ăn và tăng cân không mong muốn (increased appetite and unwanted weight gain) hoàn toàn không được đề cập là phát hiện thuộc bài học này."
+     },
+     {
+      "number": 24,
+      "stem": "Based on the passage, what can be inferred about the relationship between researchers' confidence in sleep's overall importance and their confidence in the specific eight-hour recommendation?",
+      "options": {
+       "A": "researchers are equally confident about both claims",
+       "B": "sleep's importance is far more certain than exact hours",
+       "C": "the eight-hour figure caused researchers to doubt sleep's importance",
+       "D": "individual sleep need varies by two to three hours"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "So sánh hai thông tin ở đoạn 2 và đoạn 3: đoạn 2 chỉ ra vai trò nền tảng của giấc ngủ được hầu hết các nhà nghiên cứu đồng thuận tuyệt đối, trong khi đoạn 3 nêu rõ con số 8 tiếng cụ thể lại gây nhiều tranh cãi và thiếu tính nhất quán. Từ đó suy luận được rằng tầm quan trọng chung của giấc ngủ chắc chắn hơn nhiều so với số giờ chính xác (sleep's importance is far more certain than exact hours)."
+     },
+     {
+      "number": 25,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'This curve, researchers stress, does not mean additional exercise beyond the first increments is worthless, only that its marginal value declines.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Chèn câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Phân tích lập luận về đường cong liều lượng - đáp ứng (dose-response curve) ở đoạn 4: câu [1] giới thiệu sự gia tăng lợi ích nhanh chóng ở những phút đầu; câu [2] giải thích lợi ích tiếp tục tích lũy nhưng với tốc độ giảm dần. Thêm câu chèn vào vị trí [3] sẽ làm rõ thêm rằng đường cong này không có nghĩa là tập thêm là vô ích, mà chỉ là giá trị biên của nó giảm dần, trước khi dẫn vào ví dụ so sánh cụ thể giữa 30-60 phút ở câu tiếp theo."
+     },
+     {
+      "number": 26,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "sleep restriction impairs immune function within days",
+       "B": "researchers hold varying confidence across different lifestyle recommendations",
+       "C": "all health recommendations rest on equally strong evidence",
+       "D": "no lifestyle recommendation has any scientific support at all"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 27,
+      "stem": "The words \"this instability\" in paragraph 7 refer to _______.",
+      "options": {
+       "A": "ultra-processed food patterns",
+       "B": "sleep's foundational role",
+       "C": "the dose-response curve",
+       "D": "dietary research's reversed findings"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào cụm từ in đậm \"this instability\" ở đoạn 7. Đọc ngược lại đoạn trước về dinh dưỡng để tìm đối tượng: cụm từ này quy chiếu cho sự đảo ngược, thay đổi thất thường trong các kết quả nghiên cứu về chế độ ăn uống (dietary research's reversed findings)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, what has remained associated with poor health outcomes despite shifting nutrient theories?",
+      "options": {
+       "A": "a heavy reliance on ultra-processed foods",
+       "B": "eating dietary fat only in strictly moderate amounts daily",
+       "C": "moving from zero minutes to thirty each day",
+       "D": "sleeping exactly eight hours every single night"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"associated with poor health outcomes\" hoặc \"shifting nutrient theories\" ở các đoạn về dinh dưỡng: sự phụ thuộc lớn vào thực phẩm siêu chế biến vẫn luôn liên quan đến kết quả sức khỏe kém (a heavy reliance on ultra-processed foods)."
+     },
+     {
+      "number": 29,
+      "stem": "The word \"unsettles\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "mildly questions",
+       "B": "settles",
+       "C": "disturbs",
+       "D": "resettles"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"unsettles\" ở đoạn 5 dùng để mô tả việc làm xáo trộn, gây rối loạn hoặc làm lung lay một quan điểm/niềm tin sẵn có, tương đương nghĩa với làm xáo trộn/làm phiền (disturbs)."
+     },
+     {
+      "number": 30,
+      "stem": "What is most likely the author's main purpose in writing this passage?",
+      "options": {
+       "A": "to describe how sleep restriction affects immune function",
+       "B": "to show that lifestyle science varies in certainty across topics",
+       "C": "to argue that all lifestyle guidance should be ignored",
+       "D": "to prove that dietary fat was never actually harmful Reading"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính & Mục đích bài viết (R3Q6, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu đoạn 1 và câu chủ đề các đoạn tiếp theo: bài viết đối chiếu giữa danh sách lời khuyên sức khỏe nguyên mẫu và mức độ tin cậy khoa học thực sự đằng sau từng lời khuyên đó (giấc ngủ, thể dục, chế độ ăn). Mức độ chắc chắn của nghiên cứu có sự khác biệt rõ rệt giữa các lĩnh vực. Vì vậy, phương án đúng phải thể hiện việc các nhà nghiên cứu có niềm tin/mức độ chắc chắn khác nhau đối với từng khuyến nghị lối sống khác nhau (researchers hold varying confidence across different lifestyle recommendations) nhằm chứng minh rằng khoa học về lối sống có độ tin cậy không đồng đều giữa các chủ đề.\n- **Dạng câu hỏi Chi tiết trực tiếp (R3Q1, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q1**, quét cụm từ \"chronic sleep restriction\" ở đoạn 2: các nghiên cứu phòng thí nghiệm cho thấy việc hạn chế ngủ kéo dài gây suy giảm chức năng miễn dịch, điều hòa glucose và hiệu suất nhận thức (impaired immune function, glucose regulation, and cognitive performance).\n  - Với **R3Q8**, quét cụm từ \"associated with poor health outcomes\" hoặc \"shifting nutrient theories\" ở các đoạn về dinh dưỡng: sự phụ thuộc lớn vào thực phẩm siêu chế biến vẫn luôn liên quan đến kết quả sức khỏe kém (a heavy reliance on ultra-processed foods).\n- **Dạng câu hỏi Loại trừ NOT (R3Q3):** Đối soát kỹ các phát hiện từ nghiên cứu hạn chế giấc ngủ được nhắc tới trong đoạn 2 và đoạn 3: suy giảm miễn dịch trong vài ngày, suy giảm điều hòa glucose, và gây ra sự lo âu cho những người vốn ngủ ít tự nhiên. Việc gia tăng thèm ăn và tăng cân không mong muốn (increased appetite and unwanted weight gain) hoàn toàn không được đề cập là phát hiện thuộc bài học này.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q2, R3Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q2**, từ **\"disparate\"** ở đoạn 2 (\"disparate study populations\") mô tả các nhóm đối tượng nghiên cứu khác biệt rõ rệt về bản chất, đồng nghĩa với khác biệt rõ ràng (distinctly different).\n  - Với **R3Q9**, từ **\"unsettles\"** ở đoạn 5 dùng để mô tả việc làm xáo trộn, gây rối loạn hoặc làm lung lay một quan điểm/niềm tin sẵn có, tương đương nghĩa với làm xáo trộn/làm phiền (disturbs).\n- **Dạng câu hỏi Quy chiếu (R3Q7):** Tập trung vào cụm từ in đậm **\"this instability\"** ở đoạn 7. Đọc ngược lại đoạn trước về dinh dưỡng để tìm đối tượng: cụm từ này quy chiếu cho sự đảo ngược, thay đổi thất thường trong các kết quả nghiên cứu về chế độ ăn uống (dietary research's reversed findings).\n- **Dạng câu hỏi Chèn câu vào đoạn văn (R3Q5):** Phân tích lập luận về đường cong liều lượng - đáp ứng (dose-response curve) ở đoạn 4: câu [1] giới thiệu sự gia tăng lợi ích nhanh chóng ở những phút đầu; câu [2] giải thích lợi ích tiếp tục tích lũy nhưng với tốc độ giảm dần. Thêm câu chèn vào vị trí **[3]** sẽ làm rõ thêm rằng đường cong này không có nghĩa là tập thêm là vô ích, mà chỉ là giá trị biên của nó giảm dần, trước khi dẫn vào ví dụ so sánh cụ thể giữa 30-60 phút ở câu tiếp theo.\n- **Dạng câu hỏi Suy luận (R3Q4):** So sánh hai thông tin ở đoạn 2 và đoạn 3: đoạn 2 chỉ ra vai trò nền tảng của giấc ngủ được hầu hết các nhà nghiên cứu đồng thuận tuyệt đối, trong khi đoạn 3 nêu rõ con số 8 tiếng cụ thể lại gây nhiều tranh cãi và thiếu tính nhất quán. Từ đó suy luận được rằng tầm quan trọng chung của giấc ngủ chắc chắn hơn nhiều so với số giờ chính xác (sleep's importance is far more certain than exact hours).\nLời khuyên: Ưu tiên làm trước các câu hỏi định vị từ vựng/quy chiếu như Từ vựng (R3Q2, R3Q9) và Quy chiếu (R3Q7). Tiếp theo, dùng kỹ năng đọc quét để giải quyết các câu **Chi tiết** (R3Q1, R3Q8) và câu **Loại trừ** (R3Q3). Bằng cách liên kết logic mạch bài, bạn sẽ nhanh chóng xử lý câu **Chèn câu** (R3Q5), câu **Suy luận** (R3Q4) và chốt đáp án cho câu **Ý chính** (R3Q6) cùng **Mục đích bài viết** (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Strength of Weak Ties: Rethinking Social Networks",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Intuition suggests that the people most likely to help us find a new job, hear about an opportunity, or connect us to useful information would be those we trust most, close friends and family, the relationships sociologists term strong ties. A landmark study published in 1973, however, found something close to the opposite: acquaintances, not intimates, were **disproportionately** responsible for the job leads that actually panned out among the study's respondents. The finding was surprising enough at the time that it took years before the broader sociology field fully absorbed its implications.",
+     "The explanation the study's author proposed, and which subsequent decades of network research have broadly sustained, concerns not the quality of any given relationship but the structural position each type of tie occupies within a person's broader social network. Close friends, precisely because they move in the same social circles as we do, tend to already know most of what we know; acquaintances, precisely because they inhabit different circles entirely, function as bridges into pools of information our strong ties simply cannot reach.",
+     "Redundancy, in this framework, is the operative concept: a strong tie's information overlaps substantially with information already available through other strong ties, since a tightly connected friend group tends to circulate largely the same news among its members, whereas a single weak tie can open a door to an entire, otherwise inaccessible network, precisely because it is the only bridge connecting two otherwise separate social worlds. A network built entirely from strong ties, however emotionally supportive, may therefore leave a person surprisingly isolated from genuinely new information.",
+     "Subsequent research has substantially complicated, without straightforwardly overturning, **this original finding**. Weak ties, later studies observed, prove valuable specifically for spreading novel information across otherwise disconnected social clusters, but strong ties retain a distinct advantage the original framework did not fully anticipate: they are considerably more willing to expend real effort on another person's behalf, actively advocating for a friend's candidacy rather than merely mentioning an opening in passing.",
+     "This distinction between what a tie can transmit and what a tie is willing to actively do on someone's behalf turns out to matter more in practice than the original 1973 study, focused narrowly on information transmission, was positioned to capture. **[1]** A useful piece of information from a weak tie may simply go nowhere without a strong tie's later willingness to vouch for the person receiving it. **[2]** This two-stage process, transmission followed by advocacy, is one the original bridge metaphor does not, on its own, fully describe. **[3]** Later researchers have therefore proposed treating information access and active advocacy as two separate, only loosely correlated dimensions of network value. **[4]**",
+     "Digital social networks have reopened this entire debate under substantially different structural conditions than existed in 1973. Platforms engineered explicitly to multiply weak ties, connecting users to thousands of loose acquaintances at negligible cost, raise a genuinely open empirical question current research has not yet fully resolved: whether such extraordinarily amplified weak-tie density delivers proportionally amplified benefits, or whether it instead **dilutes** the bridging function weak ties originally served, since a tie stretched thin across thousands of barely-maintained digital connections may carry less genuine bridging value than the more selectively cultivated acquaintances the original 1973 study actually described.",
+     "What the research trajectory as a whole suggests, more than any single verdict on strong versus weak ties, is that social capital resists reduction to any single tie-strength metric; useful outcomes appear to depend on some combination of a network's structural reach and its members' willingness to act, a combination neither strong nor weak ties reliably supply on their own."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, what did the landmark 1973 study find about job leads?",
+      "options": {
+       "A": "close friends provided nearly all successful leads",
+       "B": "acquaintances, not close friends, provided most successful leads",
+       "C": "strong ties advocated actively for job candidates",
+       "D": "family members were the most common source of leads"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"1973 study\" ở đoạn 1: nghiên cứu tìm ra người quen chứ không phải bạn thân là nguồn cung cấp phần lớn các cơ hội việc làm thành công (acquaintances, not close friends, provided most successful leads)."
+     },
+     {
+      "number": 32,
+      "stem": "The word \"disproportionately\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "barely at all",
+       "B": "equally",
+       "C": "proportionately",
+       "D": "excessively"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"disproportionately\" ở đoạn 1 (\"disproportionately responsible for the job leads\") mô tả mức độ vượt trội/nhiều hơn đáng kể so với tỷ lệ thông thường, đồng nghĩa với mức độ nhiều/quá mức (excessively)."
+     },
+     {
+      "number": 33,
+      "stem": "According to the passage, which of the following is NOT mentioned as a factor that gives strong ties an advantage over weak ties?",
+      "options": {
+       "A": "access to a larger network size",
+       "B": "a strong willingness to expend effort on someone's behalf",
+       "C": "actively and openly advocating for a friend's candidacy",
+       "D": "vouching directly for the person receiving information"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Rà soát các yếu tố tạo nên lợi thế của mối quan hệ mạnh (strong ties) được nêu ở đoạn 4-5: sự sẵn lòng nỗ lực hỗ trợ, việc tích cực ủng hộ/tiến cử bạn bè, và sự bảo chứng trực tiếp cho người nhận thông tin. Chi tiết về khả năng tiếp cận kích thước mạng lưới lớn hơn (access to a larger network size) là đặc trưng/lợi thế của mối quan hệ yếu chứ không phải mối quan hệ mạnh."
+     },
+     {
+      "number": 34,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "acquaintances provided most successful job leads in 1973",
+       "B": "weak ties alone reliably supply everything a person needs",
+       "C": "social capital depends on both network bridges and willingness to help",
+       "D": "digital platforms have completely solved the weak-tie bridging problem"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 35,
+      "stem": "The words \"this original finding\" in paragraph 4 refer to _______.",
+      "options": {
+       "A": "digital social networks",
+       "B": "the 1973 study",
+       "C": "redundant strong-tie information",
+       "D": "structural network position"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào cụm từ in đậm \"this original finding\" ở đoạn 4. Đọc ngược lại đoạn trước để tìm đối tượng: cụm từ này quy chiếu cho phát hiện ban đầu từ nghiên cứu năm 1973 (the 1973 study)."
+     },
+     {
+      "number": 36,
+      "stem": "According to the passage, why do close friends tend to share largely overlapping information?",
+      "options": {
+       "A": "they deliberately withhold information from each other",
+       "B": "they are unwilling to vouch for each other",
+       "C": "they rely on digital platforms to communicate",
+       "D": "they move within the same social circles"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"overlapping information\" ở đoạn 2-3: bạn thân thường chia sẻ thông tin trùng lặp vì họ cùng hoạt động trong các vòng tròn xã hội giống nhau (they move within the same social circles)."
+     },
+     {
+      "number": 37,
+      "stem": "Based on the passage, what can be inferred about why the original 1973 framework was not fully sufficient to explain job-seeking outcomes?",
+      "options": {
+       "A": "it explained information access but not willingness to advocate",
+       "B": "it focused too heavily on digital platforms",
+       "C": "willingness to advocate caused researchers to discover bridging",
+       "D": "a landmark study was published in 1973"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Đối chiếu giữa vai trò của mối quan hệ yếu (truyền tải thông tin mới) ở đoạn 1-3 và mối quan hệ mạnh (sự sẵn lòng tiến cử/ủng hộ) ở đoạn 4: nghiên cứu năm 1973 chưa đủ để giải thích toàn bộ kết quả tìm việc vì nó mới chỉ giải thích khía cạnh tiếp cận thông tin chứ chưa giải thích sự sẵn lòng ủng hộ/tiến cử (it explained information access but not willingness to advocate)."
+     },
+     {
+      "number": 38,
+      "stem": "The word \"dilutes\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "completely destroys",
+       "B": "multiplies",
+       "C": "weakens",
+       "D": "salutes"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"dilutes\" ở đoạn 6 mô tả việc làm giảm bớt/làm suy yếu giá trị hay cường độ của các kết nối, tương đương nghĩa với làm yếu đi (weakens)."
+     },
+     {
+      "number": 39,
+      "stem": "According to the passage, what open question do digital social networks raise for weak-tie research?",
+      "options": {
+       "A": "whether strong ties will disappear from digital platforms entirely",
+       "B": "whether amplified weak-tie density delivers proportionally amplified benefits",
+       "C": "whether acquaintances provide more job leads than family members",
+       "D": "whether digital platforms should be regulated by governments"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết trực tiếp",
+      "type": "Chi tiết",
+      "explanation": "định vị cụm từ \"digital social networks\" hoặc \"open question\" ở đoạn 6: câu hỏi mở ra là liệu việc gia tăng mật độ mối quan hệ yếu có mang lại lợi ích gia tăng tương ứng hay không (whether amplified weak-tie density delivers proportionally amplified benefits)."
+     },
+     {
+      "number": 40,
+      "stem": "What is most likely the author's main purpose in writing this passage?",
+      "options": {
+       "A": "to describe how digital platforms multiply weak ties",
+       "B": "to prove that weak ties are always more valuable",
+       "C": "to argue that the 1973 study was fundamentally flawed",
+       "D": "to trace how research on social ties has evolved since 1973"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích bài viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính & Mục đích bài viết (R4Q4, R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm sự phát triển lập luận: đoạn 1-3 giới thiệu nghiên cứu năm 1786/1973 về vai trò kết nối thông tin của mối quan hệ yếu (weak ties/acquaintances); đoạn 4-5 bổ sung góc nhìn mới về lợi thế của mối quan hệ mạnh (strong ties) trong việc sẵn sàng nỗ lực hỗ trợ; đoạn 6-7 mở rộng ra bối cảnh các nền tảng số hiện đại. Do đó, phương án đúng phải thể hiện sự phát triển của nghiên cứu từ 1973 đến nay (trace how research on social ties has evolved since 1973) hoặc bản chất của vốn xã hội phụ thuộc cả vào cầu nối mạng lưới lẫn sự sẵn lòng giúp đỡ (social capital depends on both network bridges and willingness to help).\n- **Dạng câu hỏi Chi tiết trực tiếp (R4Q1, R4Q6, R4Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q1**, quét cụm từ \"1973 study\" ở đoạn 1: nghiên cứu tìm ra người quen chứ không phải bạn thân là nguồn cung cấp phần lớn các cơ hội việc làm thành công (acquaintances, not close friends, provided most successful leads).\n  - Với **R4Q6**, quét từ khóa \"overlapping information\" ở đoạn 2-3: bạn thân thường chia sẻ thông tin trùng lặp vì họ cùng hoạt động trong các vòng tròn xã hội giống nhau (they move within the same social circles).\n  - Với **R4Q9**, định vị cụm từ \"digital social networks\" hoặc \"open question\" ở đoạn 6: câu hỏi mở ra là liệu việc gia tăng mật độ mối quan hệ yếu có mang lại lợi ích gia tăng tương ứng hay không (whether amplified weak-tie density delivers proportionally amplified benefits).\n- **Dạng câu hỏi Loại trừ NOT (R4Q3):** Rà soát các yếu tố tạo nên lợi thế của mối quan hệ mạnh (strong ties) được nêu ở đoạn 4-5: sự sẵn lòng nỗ lực hỗ trợ, việc tích cực ủng hộ/tiến cử bạn bè, và sự bảo chứng trực tiếp cho người nhận thông tin. Chi tiết về khả năng tiếp cận kích thước mạng lưới lớn hơn (access to a larger network size) là đặc trưng/lợi thế của mối quan hệ yếu chứ không phải mối quan hệ mạnh.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q2, R4Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q2**, từ **\"disproportionately\"** ở đoạn 1 (\"disproportionately responsible for the job leads\") mô tả mức độ vượt trội/nhiều hơn đáng kể so với tỷ lệ thông thường, đồng nghĩa với mức độ nhiều/quá mức (excessively).\n  - Với **R4Q8**, từ **\"dilutes\"** ở đoạn 6 mô tả việc làm giảm bớt/làm suy yếu giá trị hay cường độ của các kết nối, tương đương nghĩa với làm yếu đi (weakens).\n- **Dạng câu hỏi Quy chiếu (R4Q5):** Tập trung vào cụm từ in đậm **\"this original finding\"** ở đoạn 4. Đọc ngược lại đoạn trước để tìm đối tượng: cụm từ này quy chiếu cho phát hiện ban đầu từ nghiên cứu năm 1973 (the 1973 study).\n- **Dạng câu hỏi Suy luận (R4Q7):** Đối chiếu giữa vai trò của mối quan hệ yếu (truyền tải thông tin mới) ở đoạn 1-3 và mối quan hệ mạnh (sự sẵn lòng tiến cử/ủng hộ) ở đoạn 4: nghiên cứu năm 1973 chưa đủ để giải thích toàn bộ kết quả tìm việc vì nó mới chỉ giải thích khía cạnh tiếp cận thông tin chứ chưa giải thích sự sẵn lòng ủng hộ/tiến cử (it explained information access but not willingness to advocate).\nLời khuyên: Ưu tiên làm trước các câu hỏi định vị thông tin nhanh như Từ vựng (R4Q2, R4Q8) và Quy chiếu (R4Q5). Kế tiếp, áp dụng kỹ năng đọc quét từ khóa để giải quyết các câu **Chi tiết** (R4Q1, R4Q6, R4Q9) và câu **Loại trừ** (R4Q3). Cuối cùng, tổng hợp logic toàn bài để hoàn thành câu **Suy luận** (R4Q7), câu **Ý chính** (R4Q4) và **Mục đích bài viết** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Alex.\nHe is planning to visit your country and asked you for some information about his upcoming flight and arrival. Alex will arrive in your city next week but is worried because this is his first international trip. He would like to know some details before leaving.\n- Tell him the flight information you know, including the arrival time or terminal.\n- Give him some advice about transportation from the airport to your place.\n- Mention any other important information or things he should prepare before the trip.\nWrite an email responding to Alex. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Alex.",
+      "He is planning to visit your country and asked you for some information about his upcoming flight and arrival."
+     ],
+     "quote": [
+      "Alex will arrive in your city next week but is worried because this is his first international trip. He would like to know some details before leaving.",
+      "- Tell him the flight information you know, including the arrival time or terminal.",
+      "- Give him some advice about transportation from the airport to your place.",
+      "- Mention any other important information or things he should prepare before the trip."
+     ],
+     "instruction": "Write an email responding to Alex. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng Informal Email gửi cho một người bạn nên ngôn ngữ cần thân thiện và tự nhiên.\n- Bạn cần trả lời đầy đủ cả ba yêu cầu của đề: thông tin chuyến bay, phương tiện di chuyển và các lưu ý cần chuẩn bị.\n- Bài viết phải đạt tối thiểu 120 từ.\n- Không bỏ sót bất kỳ ý nào trong các gạch đầu dòng.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- Greeting: Dear Alex,\n- Opening: Thanks for your email. I'm happy to help you prepare for your trip.\n- Body 1: Cung cấp thông tin chuyến bay và thời gian đến.\n- Body 2: Đưa ra lời khuyên về phương tiện di chuyển và những việc cần chuẩn bị.\n- Closing: I can't wait to see you soon.\n- Sign-off: Best wishes,\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì hiện tại đơn cho thông tin lịch trình.\n- Dùng thì tương lai khi nói về kế hoạch.\n- Kết hợp câu đơn và câu phức.\n- Tránh lặp từ airport hoặc flight quá nhiều.\nTừ vựng quan trọng:\n- boarding pass - thẻ lên máy bay\n- departure - khởi hành\n- arrival terminal - nhà ga đến\n- luggage - hành lý\n- public transport - phương tiện công cộng\n- pick someone up - đón ai đó\nTừ nối (Linking words):\n- First of all - trước hết\n- Besides - bên cạnh đó\n- Moreover - hơn nữa\n- Finally - cuối cùng\n- Therefore - vì vậy\nCách diễn đạt cảm xúc (Expressing feelings):\n- I'm looking forward to seeing you.\n- I'm sure you'll enjoy your trip.\n- Don't worry too much.\n\n**4. Các lỗi thường gặp:**\n- Quên trả lời một ý trong đề.\n- Dùng văn phong quá trang trọng.\n- Sai thì động từ.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm số từ.\n- Kiểm tra đủ mở bài và kết bài.\n- Kiểm tra lỗi chia động từ và chính tả.\n\n**6. Tư duy làm bài:**\n- Viết như đang trò chuyện với một người bạn.\n- Ưu tiên sự rõ ràng và đầy đủ hơn các cấu trúc quá phức tạp.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nSome people believe that education is the passport to the future because it provides people with knowledge, skills and opportunities for a better life.\nOthers argue that success depends more on personal qualities, practical experience and determination than on formal education.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about whether education is the passport to the future. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Some people believe that education is the passport to the future because it provides people with knowledge, skills and opportunities for a better life.",
+      "Others argue that success depends more on personal qualities, practical experience and determination than on formal education.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about whether education is the passport to the future. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng Discussion Essay yêu cầu thảo luận hai quan điểm và nêu ý kiến cá nhân.\n- Phải trình bày cân bằng trước khi kết luận.\n- Tập trung vào từ khóa education, future, success.\n- Bài viết tối thiểu 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- Introduction: Education has long been considered the key to success.\n- Body 1: Trình bày lý do vì sao giáo dục quan trọng.\n- Body 2: Phân tích vai trò của kinh nghiệm và phẩm chất cá nhân.\n- Conclusion: Nêu quan điểm cá nhân rõ ràng.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng hiện tại đơn cho các nhận định chung.\n- Mỗi đoạn cần có topic sentence.\n- Đưa ví dụ minh họa cụ thể.\n- Liên kết các đoạn bằng từ nối hợp lý.\nTừ vựng quan trọng:\n- education - giáo dục\n- knowledge - kiến thức\n- qualification - bằng cấp\n- career opportunities - cơ hội nghề nghiệp\n- practical experience - kinh nghiệm thực tế\n- lifelong learning - học tập suốt đời\nTừ nối (Linking words):\n- Furthermore - hơn nữa\n- In contrast - ngược lại\n- As a result - kết quả là\n- For example - ví dụ\n- On the other hand - mặt khác\n- In conclusion - kết luận\nDiễn đạt lại ý (Paraphrasing):\n- formal education = academic education\n- future success = long-term achievement\n- valuable knowledge = useful expertise\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- In my opinion...\n- I firmly believe that...\n- From my perspective...\n\n**4. Các lỗi thường gặp:**\n- Chỉ viết về một quan điểm.\n- Không nêu ý kiến cá nhân.\n- Thiếu ví dụ minh họa.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra thesis statement.\n- Đảm bảo đã trả lời đúng yêu cầu.\n- Kiểm tra lỗi ngữ pháp và chính tả.\n\n**6. Tư duy làm bài:**\n- Ưu tiên lập luận logic hơn từ vựng quá khó.\n- Mỗi đoạn chỉ nên phát triển một ý chính và có ví dụ hỗ trợ."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about saving money\n\n1\nDo you usually save money? Why or why not?\n2\nWhat do you usually save money for?\n3\nDo you think saving money is important? Why?\n\nNow, let’s talk about your weekends\n\n4\nHow do you usually spend your weekends?\n5\nDo you prefer staying at home or going out at the weekend? Why?\n6\nWhat activities help you relax after a busy week?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này có **2 chủ đề nhỏ**: **Topic A (Saving Money)** và **Topic B (Weekend Activities)**. Topic B được tái dựng dựa trên cấu trúc đề thi do thí sinh không nhớ rõ.\n- **Topic A (Saving Money):** Các câu hỏi 1–3 kiểm tra khả năng nói về thói quen tài chính cá nhân, mục đích tiết kiệm và quan điểm về quản lý tiền bạc.\n- **Topic B (Weekend Activities):** Các câu hỏi 4–6 yêu cầu bạn nói về thói quen cuối tuần và cách thư giãn.\n- Tiêu chí đánh giá gồm **Fluency, Vocabulary, Grammar và Pronunciation**.\n- Thời gian Part 1 là **3 phút**, nên dành khoảng 25–35 giây cho mỗi câu hỏi.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)**.\n- **Ví dụ Topic A:** I usually save money because I want to prepare for unexpected expenses. For example, I save part of my monthly allowance.\n- **Ví dụ Topic B:** I usually go out with my friends at the weekend because it helps me relax after studying.\n- Luôn trả lời thêm Why hoặc For example để kéo dài câu trả lời.\n- Có thể chuyển chủ đề bằng câu: Besides managing money, spending my free time wisely is also important.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng hiện tại đơn để nói về thói quen.\n- Nếu quên từ, hãy diễn đạt bằng từ đơn giản hơn.\n- **Topic A:** manage my budget, save for the future, financial goal, emergency fund.\n- **Topic B:** free time, recharge my energy, social activities, relax after work.\nCụm từ quan trọng nên dùng:\n- save money regularly (tiết kiệm tiền thường xuyên)\n- plan for the future (lập kế hoạch cho tương lai)\n- avoid unnecessary spending (tránh chi tiêu không cần thiết)\n- spend quality time (dành thời gian chất lượng)\n- relieve stress (giảm căng thẳng)\n- maintain a healthy lifestyle (duy trì lối sống lành mạnh)\nTừ nối khi nói (Linking Words):\n- Firstly\n- Because\n- For example\n- Besides\n- Therefore\nCách thể hiện quan điểm tự nhiên:\n- I think...\n- In my opinion...\n- Personally, I believe...\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời Yes hoặc No.\n- Không giải thích lý do tiết kiệm hoặc cách sử dụng tiền.\n- Dùng sai thì khi nói về thói quen.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu mở đầu như: That's an interesting question.\n- Nếu bí ý, liên hệ với cuộc sống hằng ngày của bản thân.\n- Ưu tiên trả lời đơn giản nhưng đầy đủ.\n\n**6. Tư duy làm bài nói:**\n- Nói tự nhiên như đang trò chuyện.\n- Mỗi câu trả lời nên có quan điểm, lý do và ví dụ.\n- Không cần dùng từ quá khó để đạt điểm tốt.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour school is planning a graduation ceremony for students.\n\nYou are considering the following options:\n\nOption 1: Hold the ceremony at the school\nOption 2: Hold the ceremony in a large city\nOption 3: Hold the ceremony in a large convention hall\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần lựa chọn địa điểm phù hợp nhất để tổ chức lễ tốt nghiệp.\n- Ba lựa chọn khác nhau về chi phí, quy mô và sự thuận tiện.\n- Thời gian là **4 phút**; cần phân tích cả ba phương án trước khi kết luận.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Introduction – Comparison – Conclusion**.\n- **Option 1:** Tổ chức tại trường giúp tiết kiệm chi phí và tạo cảm giác quen thuộc.\n- **Option 2:** Thành phố lớn có nhiều dịch vụ nhưng việc di chuyển và chi phí có thể cao.\n- **Option 3:** Hội trường lớn phù hợp với sự kiện đông người và tạo không khí trang trọng.\n- Kết luận bằng cách giải thích lựa chọn phù hợp nhất dựa trên ngân sách và trải nghiệm của sinh viên.\n\n**3. Chiến lược đạt điểm cao:**\n- Luôn so sánh giữa các lựa chọn thay vì chỉ mô tả.\n- Dùng hiện tại đơn để trình bày ý kiến.\n- Nếu quên từ, hãy dùng cách diễn đạt đơn giản.\nCụm từ quan trọng nên dùng:\n- graduation ceremony (lễ tốt nghiệp)\n- memorable event (sự kiện đáng nhớ)\n- cost-effective (tiết kiệm chi phí)\n- convenient location (địa điểm thuận tiện)\n- celebrate together (cùng nhau ăn mừng)\n- well-organized event (sự kiện được tổ chức tốt)\nTừ nối khi nói:\n- Compared with\n- On the other hand\n- Moreover\n- Therefore\n- In conclusion\nCách thể hiện quan điểm tự nhiên:\n- I would choose...\n- The main reason is that...\n- I believe this option is the most practical because...\n\n**4. Các lỗi thường gặp:**\n- Không phân tích đủ cả ba lựa chọn.\n- Chỉ nêu ưu điểm mà không nêu hạn chế.\n- Không có kết luận rõ ràng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dựa vào các tiêu chí như chi phí, sự thuận tiện và trải nghiệm.\n- Dùng câu: Let's consider this option from another point of view.\n- Nếu bí, chuyển sang so sánh với lựa chọn khác.\n\n**6. Tư duy làm bài nói:**\n- Đặt mình vào vai người tổ chức sự kiện.\n- Ưu tiên phương án cân bằng giữa chi phí và chất lượng.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of good behavior\n\nGood Behavior\nBuilding positive relationships with others\nCreating a better school and working environment\nHelping people succeed in life and work\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy is good behavior important in society?\n2\nWhat factors influence people's behavior?\n3\nCan schools help students develop good behavior? How?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu trình bày về tầm quan trọng của hành vi ứng xử tốt trong cuộc sống.\n- Ba ý chính gồm xây dựng mối quan hệ, tạo môi trường tích cực và góp phần vào thành công.\n- **Ý tưởng cá nhân:** Good behavior improves a person's reputation and earns other people's trust.\n- Thời gian là **5 phút**, gồm bài nói chính và phần trả lời câu hỏi.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL (Point – Explanation – Example – Link)**.\n- **Ví dụ mở đầu:** Today, I would like to talk about the importance of good behavior in our daily lives.\n- **Idea 1:** Good behavior helps people build strong relationships because everyone prefers to communicate with polite and respectful people.\n- **Idea 2:** It creates a positive learning and working environment where people cooperate more effectively.\n- **Idea 3:** Good behavior contributes to long-term success because employers value attitude as well as ability.\n- **Idea 4 - Your own ideas:** People with good behavior often gain trust more easily, which helps them build a good reputation.\n\n**3. Chiến lược đạt điểm cao:**\n- Dùng ví dụ từ trường học, gia đình hoặc nơi làm việc.\n- Dùng hiện tại đơn khi nói về quan điểm và sự thật chung.\n- Có thể thay good behavior bằng positive attitude hoặc appropriate behavior để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n- show respect (thể hiện sự tôn trọng)\n- good manners (cư xử đúng mực)\n- build trust (xây dựng lòng tin)\n- positive attitude (thái độ tích cực)\n- set a good example (làm gương tốt)\n- take responsibility (có trách nhiệm)\nTừ nối khi nói:\n- Firstly\n- Moreover\n- For example\n- As a result\n- Finally\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that... Ví dụ: I strongly believe that good behavior is more important than appearance.\n- In my opinion... Ví dụ: In my opinion, respect is the foundation of good behavior.\n- From my perspective... Ví dụ: From my perspective, parents and teachers both influence children's behavior.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Why is good behavior important?** – Because it helps people build trust, maintain good relationships and cooperate effectively.\n- **What influences behavior?** – Family, school, friends and social media all play important roles.\n- **Can schools help?** – Yes. Schools can teach students through classroom rules, group activities and teachers' examples.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích mà không giải thích.\n- Không bổ sung ý tưởng cá nhân.\n- Trả lời follow-up quá ngắn.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Liên hệ với các tình huống ở trường, gia đình hoặc nơi làm việc.\n- Dùng câu: That is an interesting issue. If we look at it from a social perspective...\n- Nếu quên từ, hãy dùng cách diễn đạt đơn giản như being polite hoặc treating others well.\n\n**7. Tư duy làm bài nói:**\n- Thể hiện quan điểm cân bằng và có ví dụ thực tế.\n- Sắp xếp ý theo mindmap để bài nói mạch lạc.\n- Ưu tiên sự logic và tự nhiên hơn việc sử dụng từ vựng quá phức tạp."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about saving money.\n1.\nDo you usually save money? Why or why not?\n2.\nWhat do you usually save money for?\n3.\nDo you think saving money is important? Why?\nNow, let’s talk about your weekends.\n4.\nHow do you usually spend your weekends?\n5.\nDo you prefer staying at home or going out at the weekend? Why?\n6.\nWhat activities help you relax after a busy week?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này có 2 chủ đề nhỏ: Topic A (Saving Money) và Topic B (Weekend Activities). Topic B được tái dựng dựa\ntrên cấu trúc đề thi do thí sinh không nhớ rõ.\n• Topic A (Saving Money): Các câu hỏi 1–3 kiểm tra khả năng nói về thói quen tài chính cá nhân, mục đích tiết kiệm\nvà quan điểm về quản lý tiền bạc.\n• Topic B (Weekend Activities): Các câu hỏi 4–6 yêu cầu bạn nói về thói quen cuối tuần và cách thư giãn.\n• Tiêu chí đánh giá gồm Fluency, Vocabulary, Grammar và Pronunciation.\n• Thời gian Part 1 là 3 phút, nên dành khoảng 25–35 giây cho mỗi câu hỏi.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE).\n• Ví dụ Topic A: I usually save money because I want to prepare for unexpected expenses. For example, I save part of\nmy monthly allowance.\n• Ví dụ Topic B: I usually go out with my friends at the weekend because it helps me relax after studying.\n• Luôn trả lời thêm Why hoặc For example để kéo dài câu trả lời.\n• Có thể chuyển chủ đề bằng câu: Besides managing money, spending my free time wisely is also important.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng hiện tại đơn để nói về thói quen.\n• Nếu quên từ, hãy diễn đạt bằng từ đơn giản hơn.\n• Topic A: manage my budget, save for the future, financial goal, emergency fund.\n• Topic B: free time, recharge my energy, social activities, relax after work.\nCụm từ quan trọng nên dùng:\n• save money regularly (tiết kiệm tiền thường xuyên)\n• plan for the future (lập kế hoạch cho tương lai)\n• avoid unnecessary spending (tránh chi tiêu không cần thiết)\n• spend quality time (dành thời gian chất lượng)\n• relieve stress (giảm căng thẳng)\n• maintain a healthy lifestyle (duy trì lối sống lành mạnh)\nTừ nối khi nói (Linking Words):\n• Firstly\n• Because\n• For example\n• Besides\n• Therefore\nCách thể hiện quan điểm tự nhiên:\n• I think...\n• In my opinion...\n• Personally, I believe...\n4. Các lỗi thường gặp:\n• Chỉ trả lời Yes hoặc No.\n• Không giải thích lý do tiết kiệm hoặc cách sử dụng tiền.\n• Dùng sai thì khi nói về thói quen.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu mở đầu như: That's an interesting question.\n• Nếu bí ý, liên hệ với cuộc sống hằng ngày của bản thân.\n• Ưu tiên trả lời đơn giản nhưng đầy đủ.\n6. Tư duy làm bài nói:\n• Nói tự nhiên như đang trò chuyện.\n• Mỗi câu trả lời nên có quan điểm, lý do và ví dụ.\n• Không cần dùng từ quá khó để đạt điểm tốt.\nSolution Discussion\nPART 2\n4 phút\nYour school is planning a graduation ceremony for students.\nYou are considering the following options:\n• Option 1: Hold the ceremony at the school\n• Option 2: Hold the ceremony in a large city\n• Option 3: Hold the ceremony in a large convention hall\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần lựa chọn địa điểm phù hợp nhất để tổ chức lễ tốt nghiệp.\n• Ba lựa chọn khác nhau về chi phí, quy mô và sự thuận tiện.\n• Thời gian là 4 phút; cần phân tích cả ba phương án trước khi kết luận.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Introduction – Comparison – Conclusion.\n• Option 1: Tổ chức tại trường giúp tiết kiệm chi phí và tạo cảm giác quen thuộc.\n• Option 2: Thành phố lớn có nhiều dịch vụ nhưng việc di chuyển và chi phí có thể cao.\n• Option 3: Hội trường lớn phù hợp với sự kiện đông người và tạo không khí trang trọng.\n• Kết luận bằng cách giải thích lựa chọn phù hợp nhất dựa trên ngân sách và trải nghiệm của sinh viên.\n3. Chiến lược đạt điểm cao:\n• Luôn so sánh giữa các lựa chọn thay vì chỉ mô tả.\n• Dùng hiện tại đơn để trình bày ý kiến.\n• Nếu quên từ, hãy dùng cách diễn đạt đơn giản.\nCụm từ quan trọng nên dùng:\n• graduation ceremony (lễ tốt nghiệp)\n• memorable event (sự kiện đáng nhớ)\n• cost-effective (tiết kiệm chi phí)\n• convenient location (địa điểm thuận tiện)\n• celebrate together (cùng nhau ăn mừng)\n• well-organized event (sự kiện được tổ chức tốt)\nTừ nối khi nói:\n• Compared with\n• On the other hand\n• Moreover\n• Therefore\n• In conclusion\nCách thể hiện quan điểm tự nhiên:\n• I would choose...\n• The main reason is that...\n• I believe this option is the most practical because...\n4. Các lỗi thường gặp:\n• Không phân tích đủ cả ba lựa chọn.\n• Chỉ nêu ưu điểm mà không nêu hạn chế.\n• Không có kết luận rõ ràng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dựa vào các tiêu chí như chi phí, sự thuận tiện và trải nghiệm.\n• Dùng câu: Let's consider this option from another point of view.\n• Nếu bí, chuyển sang so sánh với lựa chọn khác.\n6. Tư duy làm bài nói:\n• Đặt mình vào vai người tổ chức sự kiện.\n• Ưu tiên phương án cân bằng giữa chi phí và chất lượng.\nTopic Development\nPART 3\n5 phút\nTopic: The importance of good behavior\nBuilding positive relationships with\nCreating a better school and working\nothers\nenvironment\nGood Behavior\nÝ tưởng của bạn\nHelping people succeed in life and work\nFOLLOW-UP QUESTIONS\n1.\nWhy is good behavior important in society?\n2.\nWhat factors influence people's behavior?\n3.\nCan schools help students develop good behavior? How?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu trình bày về tầm quan trọng của hành vi ứng xử tốt trong cuộc sống.\n• Ba ý chính gồm xây dựng mối quan hệ, tạo môi trường tích cực và góp phần vào thành công.\n• Ý tưởng cá nhân: Good behavior improves a person's reputation and earns other people's trust.\n• Thời gian là 5 phút, gồm bài nói chính và phần trả lời câu hỏi.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point – Explanation – Example – Link).\n• Ví dụ mở đầu: Today, I would like to talk about the importance of good behavior in our daily lives.\n• Idea 1: Good behavior helps people build strong relationships because everyone prefers to communicate with polite\nand respectful people.\n• Idea 2: It creates a positive learning and working environment where people cooperate more effectively.\n• Idea 3: Good behavior contributes to long-term success because employers value attitude as well as ability.\n• Idea 4 - Your own ideas: People with good behavior often gain trust more easily, which helps them build a good\nreputation.\n3. Chiến lược đạt điểm cao:\n• Dùng ví dụ từ trường học, gia đình hoặc nơi làm việc.\n• Dùng hiện tại đơn khi nói về quan điểm và sự thật chung.\n• Có thể thay good behavior bằng positive attitude hoặc appropriate behavior để tránh lặp từ.\nCụm từ quan trọng nên dùng:\n• show respect (thể hiện sự tôn trọng)\n• good manners (cư xử đúng mực)\n• build trust (xây dựng lòng tin)\n• positive attitude (thái độ tích cực)\n• set a good example (làm gương tốt)\n• take responsibility (có trách nhiệm)\nTừ nối khi nói:\n• Firstly\n• Moreover\n• For example\n• As a result\n• Finally\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that... Ví dụ: I strongly believe that good behavior is more important than appearance.\n• In my opinion... Ví dụ: In my opinion, respect is the foundation of good behavior.\n• From my perspective... Ví dụ: From my perspective, parents and teachers both influence children's behavior.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Why is good behavior important? – Because it helps people build trust, maintain good relationships and cooperate\neffectively.\n• What influences behavior? – Family, school, friends and social media all play important roles.\n• Can schools help? – Yes. Schools can teach students through classroom rules, group activities and teachers'\nexamples.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích mà không giải thích.\n• Không bổ sung ý tưởng cá nhân.\n• Trả lời follow-up quá ngắn.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Liên hệ với các tình huống ở trường, gia đình hoặc nơi làm việc.\n• Dùng câu: That is an interesting issue. If we look at it from a social perspective...\n• Nếu quên từ, hãy dùng cách diễn đạt đơn giản như being polite hoặc treating others well.\n7. Tư duy làm bài nói:\n• Thể hiện quan điểm cân bằng và có ví dụ thực tế.\n• Sắp xếp ý theo mindmap để bài nói mạch lạc.\n• Ưu tiên sự logic và tự nhiên hơn việc sử dụng từ vựng quá phức tạp."
+}

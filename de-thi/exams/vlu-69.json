@@ -1,0 +1,716 @@
+{
+ "id": "vlu-69",
+ "number": 69,
+ "title": "Đề thi VLU 69",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-69",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Flavors of Vietnamese Local Food",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Vietnamese food is popular all over the world, and many visitors say that it is both fresh and full of taste. A bowl of noodle soup, a crispy pancake or a plate of rice with grilled pork can be cheap, quick and delicious, yet each dish is made with great care. This text looks at the main tastes, the regions and the cooking habits behind the food.",
+     "Most meals try to combine five tastes, which are sweet, sour, salty, bitter and spicy. Cooks believe that a good meal needs a balance of these tastes, so a spicy dish is often served with something sour, such as lime juice. Fish sauce, which is made from fermented fish, is the most common sauce, and it is **essential** in many soups and dips. Other common flavours come from lemongrass, ginger, mint, lime and Thai basil, while rice, rice noodles and rice paper form the base of many meals. Most dishes are also naturally free of gluten because rice, not wheat, is the main grain.",
+     "In the north, the weather is cold and fewer spices grow, so dishes are usually **mild**, and black pepper gives heat instead of chillies. Hanoi is known for bun cha, a dish of rice noodles with grilled pork. Pho, a noodle soup with a clear broth made by boiling meat and spices for many hours, is also linked to the north. The centre is the spiciest region, and the royal city of Hue is famous for bun bo Hue, a hot beef noodle soup. The south has warm weather and rich soil, so cooks use more garlic, fresh herbs, sugar and coconut milk than in other regions, and seafood is also very common.",
+     "Vietnamese cooks use simple methods such as boiling, steaming, grilling and stir-frying. Meat is usually cooked for a short time, and vegetables are eaten fresh or boiled quickly, so **they** keep a fresh taste. Fresh herbs are often served on a side plate, and diners add more or less according to personal taste. Typical dishes include banh xeo, a crispy rice pancake with shrimp and pork, and goi cuon, which are fresh rice-paper rolls filled with shrimp, herbs, pork and noodles. Southern cooks serve com tam, or broken rice, with grilled pork, egg and a sweet-and-sour fish sauce.",
+     "Many cooks also think about whether foods are heating or cooling, and choose dishes to match the season. For example, duck is seen as a cool meat and is served in summer with a warm ginger fish sauce. Vietnamese food has also won praise abroad, and in 2024 the American news channel CNN listed pho among the twenty best soups in the world. Whether a meal is simple or grand, the idea is the same: a balance of tastes, fresh ingredients and local habits."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Cheap street food has replaced home cooking in most Vietnamese cities",
+       "B": "Vietnamese food mixes fresh ingredients and balanced tastes in different regional styles",
+       "C": "Fish sauce is the only ingredient that matters in Vietnamese cooking",
+       "D": "Foreign chefs have changed Vietnamese recipes to suit modern world tastes"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, which sauce is the most common in Vietnamese cooking?",
+      "options": {
+       "A": "Soy sauce brought by early Chinese traders",
+       "B": "Peanut sauce served with every rice roll",
+       "C": "Fish sauce made from fermented fish",
+       "D": "Sweet sauce made with sugar and coconut"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"most common sauce\" ở đoạn 2 để xác định loại nước chấm phổ biến nhất là nước mắm làm từ cá lên men (Fish sauce made from fermented fish)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"essential\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "necessary and important",
+       "B": "completely unknown",
+       "C": "unusually expensive",
+       "D": "recently invented"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"essential\" ở đoạn 2 miêu tả vai trò của nước mắm trong nhiều món súp và nước chấm, mang nghĩa thiết yếu, cần thiết và quan trọng (necessary and important)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what do southern cooks use more than cooks in other regions?",
+      "options": {
+       "A": "Black pepper and chillies from the northern hills",
+       "B": "Dried shrimp paste and mountain spices from Hue",
+       "C": "Wheat flour and fresh butter from local city markets",
+       "D": "Garlic and herbs plus sugar and coconut milk"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"southern cooks use more\" ở đoạn 3 để thấy các đầu bếp miền Nam dùng nhiều tỏi, rau thơm, đường và nước cốt dừa hơn (Garlic and herbs plus sugar and coconut milk)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"mild\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "extremely hot",
+       "B": "not too strong",
+       "C": "freshly cooked",
+       "D": "heavily salted"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"mild\" ở đoạn 3 đối lập với tính cay nồng của miền Trung, dùng để mô tả các món ăn miền Bắc có vị thanh nhẹ, không quá nồng cay (not too strong)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"they\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "the meat",
+       "B": "the methods",
+       "C": "vegetables",
+       "D": "the cooks"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số nhiều \"they\" ở đoạn 4 trong câu miêu tả việc rau củ được ăn tươi hoặc luộc nhanh để giữ vị tươi ngon. Lần ngược lại danh từ chỉ đối tượng vừa được nhắc đến ngay trước đó trong chủ ngữ (vegetables)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, how are vegetables usually prepared?",
+      "options": {
+       "A": "Dried in the sun and kept for winter",
+       "B": "Fried in oil until it is golden brown",
+       "C": "Stewed for hours in a heavy clay pot",
+       "D": "Fresh or boiled for a short time"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"vegetables are usually prepared\" ở đoạn 4 để xác định rau được ăn tươi hoặc luộc chín nhanh (Fresh or boiled for a short time)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "A cooking contest won by a famous chef",
+       "B": "Duck being served in summer with a ginger sauce",
+       "C": "Pho appearing on a list of the best soups",
+       "D": "Cooks who match dishes to the season each year"
+      },
+      "answer": "A",
+      "type_hint": "Phủ định / Không được nhắc đến",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ từng phương án với nội dung đoạn 5. Kiểm tra các thông tin về món thịt vịt ăn vào mùa hè với nước sốt gừng, phở xuất hiện trong danh sách các món súp ngon nhất, và việc các đầu bếp chọn món ăn phù hợp theo mùa để loại trừ các ý có thật, từ đó chọn ý về cuộc thi nấu ăn do một đầu bếp nổi tiếng giành chiến thắng (không hề được nhắc đến trong bài)."
+     },
+     {
+      "number": 9,
+      "stem": "Which of the following can be inferred from paragraphs 2 and 3?",
+      "options": {
+       "A": "Northern cooks avoid fish sauce because cold weather spoils all fermented foods",
+       "B": "Southern food is the same as northern food in all important ways",
+       "C": "Local ingredients and weather help to explain the different tastes of each region",
+       "D": "Visitors from abroad must eat spicy food to understand each regional dish"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 2 và 3 về điều kiện thời tiết lạnh ít gia vị ở miền Bắc, sự cay nồng ở miền Trung hay khí hậu ấm áp phong phú ở miền Nam, qua đó suy ra nguyên liệu địa phương và thời tiết giúp giải thích hương vị khác nhau của từng vùng."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To warn tourists about dangerous street food in Vietnamese cities",
+       "B": "To describe the tastes and regional styles of Vietnamese food",
+       "C": "To advertise a new restaurant that sells noodle soup in Hanoi",
+       "D": "To teach readers how to cook rice noodles at home quickly Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu kết luận của đoạn 1 và đoạn cuối để nắm mạch thông tin chủ đạo: bài viết giới thiệu về sự kết hợp giữa các nguyên liệu tươi ngon, sự cân bằng năm vị giác (ngọt, chua, mặn, đắng, cay) và đặc trưng phong cách ẩm thực của từng vùng miền (Bắc, Trung, Nam). Do đó, phương án đúng phải bao quát được sự pha trộn nguyên liệu tươi và cân bằng hương vị qua các phong cách vùng miền (cho R1Q1) và mô tả hương vị, phong cách vùng miền (cho R1Q10), tránh các nhận định cực đoan hay sai lệch.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R1Q2**, tìm từ khóa \"most common sauce\" ở đoạn 2 để xác định loại nước chấm phổ biến nhất là nước mắm làm từ cá lên men (Fish sauce made from fermented fish).\n  - Với **R1Q4**, quét từ khóa \"southern cooks use more\" ở đoạn 3 để thấy các đầu bếp miền Nam dùng nhiều tỏi, rau thơm, đường và nước cốt dừa hơn (Garlic and herbs plus sugar and coconut milk).\n  - Với **R1Q7**, quét từ khóa \"vegetables are usually prepared\" ở đoạn 4 để xác định rau được ăn tươi hoặc luộc chín nhanh (Fresh or boiled for a short time).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - Với **R1Q3**, từ **\"essential\"** ở đoạn 2 miêu tả vai trò của nước mắm trong nhiều món súp và nước chấm, mang nghĩa thiết yếu, cần thiết và quan trọng (necessary and important).\n  - Với **R1Q5**, từ **\"mild\"** ở đoạn 3 đối lập với tính cay nồng của miền Trung, dùng để mô tả các món ăn miền Bắc có vị thanh nhẹ, không quá nồng cay (not too strong).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ nhân xưng số nhiều **\"they\"** ở đoạn 4 trong câu miêu tả việc rau củ được ăn tươi hoặc luộc nhanh để giữ vị tươi ngon. Lần ngược lại danh từ chỉ đối tượng vừa được nhắc đến ngay trước đó trong chủ ngữ (vegetables).\n- **Dạng câu hỏi Phủ định / Không được nhắc đến (R1Q8):** Đối soát kỹ từng phương án với nội dung đoạn 5. Kiểm tra các thông tin về món thịt vịt ăn vào mùa hè với nước sốt gừng, phở xuất hiện trong danh sách các món súp ngon nhất, và việc các đầu bếp chọn món ăn phù hợp theo mùa để loại trừ các ý có thật, từ đó chọn ý về cuộc thi nấu ăn do một đầu bếp nổi tiếng giành chiến thắng (không hề được nhắc đến trong bài).\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp dữ liệu từ đoạn 2 và 3 về điều kiện thời tiết lạnh ít gia vị ở miền Bắc, sự cay nồng ở miền Trung hay khí hậu ấm áp phong phú ở miền Nam, qua đó suy ra nguyên liệu địa phương và thời tiết giúp giải thích hương vị khác nhau của từng vùng.\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R1Q2, R1Q4, R1Q7) và từ vựng (R1Q3, R1Q5) để tích lũy điểm chắc chắn. Sau đó, xử lý câu hỏi quy chiếu (R1Q6) và loại trừ (R1Q8). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R1Q9), ý chính (R1Q1) và mục đích tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Promise and Limits of Motorcycle Helmet Laws",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few safety measures are supported by evidence as **compelling** as the motorcycle helmet. A 2008 Cochrane review reportedly found that helmets reduce the risk of head injury by about 69 per cent and the risk of death by about 42 per cent. Yet a law requiring helmets does not automatically save lives, because wearing, enforcing and manufacturing them all matter, and this passage uses Vietnam's experience to examine both the promise and the limits.",
+     "Helmets became compulsory for riders in the Isle of Man TT races in 1914, and the British Army required them for motorcycle riders in November 1941. The army acted after research by Hugh Cairns that followed the fatal 1935 crash of Lawrence of Arabia. In the Soviet Union, helmets became mandatory for motorcyclists in November 1967 and for passengers too in January 1973. An old objection, that helmets increase neck injuries, rested on a flawed study from the mid-1980s, and later evidence suggests that helmets actually protect the neck.",
+     "A helmet only protects when it is of good quality and properly fastened. A loose chin strap greatly reduces or even removes the benefit, and so-called novelty helmets, which lack energy-absorbing foam, offer no real protection to the skull or brain. Standards also differ: the American DOT standard does not test chin bars, whereas the Snell and European standards do, so two legal helmets may protect riders differently. The World Health Organization reportedly said in 2016 that only 10.4 per cent of motorcyclists wear helmets.",
+     "Vietnam offers a useful case, because its law was strict and its early results were striking. Before December 2007, about 30 per cent of riders reportedly wore helmets, but on 15 December the government made helmets compulsory for all riders and passengers on all roads. The fines rose to between 100,000 and 200,000 dong, more than 30 per cent of average monthly income per person, and police issued over 680,000 penalties in 2008. In Da Nang, helmet use among riders reportedly climbed from 27 per cent in November 2007 to 99 per cent in June 2008.",
+     "Yet the rules contained **loopholes** that weakened the protection, and several were still being closed afterwards. A survey in April 2008 found that up to 80 per cent of helmets on sale failed national standards, and fastening the strap was not penalised until revised standards arrived in November 2008. Children under 16 could not be fined, adults faced no penalty for unhelmeted children, and roadside surveys found helmet use of only 39 per cent among children against over 97 per cent among adults.",
+     "A study of 49,782 patients at 20 hospitals found that in the first three months head-injury risk fell by 16 per cent and the risk of death by 18 per cent. Police reported 1,557 lives saved by December 2008, but that figure only compares one year with another. The paper's authors admit that **their** data are limited, since no national surveys of helmet use were done and helmet-use figures came from only three of 63 provinces. The sensible conclusion is that helmet laws can save lives, but only when helmets are good, straps are fastened and the rules are enforced for riders of every age."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Helmet laws save lives only when quality and enforcement are secured as well",
+       "B": "Vietnam proved that fines alone make every rider wear a good helmet",
+       "C": "Helmets are unnecessary because modern roads in Asia are already extremely safe",
+       "D": "Safety standards for helmets are identical in every country that has laws"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what did the British Army do in November 1941?",
+      "options": {
+       "A": "It banned motorcycles from Isle of Man races",
+       "B": "Doctors copied a rule used in Soviet factories",
+       "C": "Helmets were limited to officers riding in training",
+       "D": "It made helmets compulsory for motorcycle riders"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"British Army\" ở đoạn 2 để xác định quân đội Anh đã quy định bắt buộc đội mũ bảo hiểm cho người lái mô tô vào tháng 11 năm 1941 (It made helmets compulsory for motorcycle riders)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"compelling\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "slightly outdated",
+       "B": "rarely published",
+       "C": "strong and convincing",
+       "D": "carefully hidden"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why may two legal helmets protect riders differently?",
+      "options": {
+       "A": "Colours and sizes are mostly tested in different laboratories worldwide",
+       "B": "Some standards test chin bars while others skip that check",
+       "C": "Novelty helmets always contain more foam than approved models do",
+       "D": "Only European riders are required to fasten the chin strap properly"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"two legal helmets protect riders differently\" ở đoạn 3 để thấy tiêu chuẩn DOT của Mỹ không kiểm tra phần cằm (chin bars) trong khi tiêu chuẩn Snell và châu Âu thì có (Some standards test chin bars while others skip that check)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"loopholes\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "gaps in rules",
+       "B": "heavy penalties",
+       "C": "clear definitions",
+       "D": "extra funding"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"loopholes\" ở đoạn 5 được miêu tả qua các ngoại lệ như trẻ em dưới 16 tuổi không bị phạt hay việc chưa xử phạt lỗi cài quai mũ, mang nghĩa lỗ hổng hoặc kẽ hở trong quy định (gaps in rules)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"their\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "the police",
+       "B": "the patients",
+       "C": "the hospitals",
+       "D": "the authors"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào tính từ sở hữu \"their\" ở đoạn 6 trong câu nhắc đến dữ liệu bị giới hạn của bài báo nghiên cứu. Lần ngược lại danh từ chỉ tác giả của bài nghiên cứu được nhắc đến ngay trước đó trong câu văn (\"The paper's authors admit...\"), cho thấy từ này quy chiếu về các tác giả (the authors)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what did the study of 49,782 patients find in the first three months?",
+      "options": {
+       "A": "Deaths among riders rose by 18 per cent",
+       "B": "Head-injury risk fell by 16 per cent",
+       "C": "Most riders wore helmets in all 63 provinces",
+       "D": "Hospital admissions dropped by half in a year"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"study of 49,782 patients\" ở đoạn 6 để xác định tỷ lệ chấn thương vùng đầu giảm 16% trong ba tháng đầu tiên (Head-injury risk fell by 16 per cent)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Fines rising to between 100,000 and 200,000 dong",
+       "B": "Da Nang helmet use reaching 99 per cent",
+       "C": "A temporary ban on motorbike taxis nationwide",
+       "D": "Police issuing more than 680,000 penalties in 2008"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát thông tin ở đoạn 4 để loại trừ các ý có thật (mức phạt tiền từ 100.000 đến 200.000 đồng, tỷ lệ đội mũ ở Đà Nẵng đạt 99%, công an xử phạt hơn 680.000 trường hợp), từ đó chọn ý về lệnh cấm tạm thời xe ôm trên toàn quốc (không hề được nhắc đến)."
+     },
+     {
+      "number": 19,
+      "stem": "Which of the following can be inferred from paragraphs 3, 5, and 6?",
+      "options": {
+       "A": "Passing a helmet law is only the first step toward fewer road deaths",
+       "B": "Every helmet sold under a legal standard gives riders equal protection anyway",
+       "C": "Vietnam's law failed because adults refused to wear helmets after December 2007",
+       "D": "Evidence from three provinces proves that helmet laws work in every country"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về việc luật đưa ra ban đầu còn nhiều lỗ hổng, chất lượng mũ trôi nổi và các vấn đề thực thi, qua đó suy ra việc thông qua luật mũ bảo hiểm chỉ là bước đầu tiên hướng tới mục tiêu giảm số ca tử vong trên đường (Passing a helmet law is only the first step toward fewer road deaths). Lời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R2Q2, R2Q4, R2Q7, R2Q8) và từ vựng (R2Q3, R2Q5) để tích lũy điểm chắc chắn. Sau đó, xử lý câu hỏi quy chiếu đại từ (R2Q6). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R2Q9), ý chính (R2Q1) và mục đích tác giả (R2Q10)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade motorcyclists to switch to cars on busy and dangerous roads",
+       "B": "To compare the safety standards used for helmets in several different countries now",
+       "C": "To tell the history of motorcycle racing from the Isle of Man onwards",
+       "D": "To examine what helmet laws can achieve and where they fall short Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu kết luận của đoạn 1 và đoạn cuối để nắm mạch thông tin chủ đạo: bài viết xem xét kinh nghiệm thực tế từ Việt Nam để chỉ ra rằng luật đội mũ bảo hiểm chỉ cứu sống con người khi đi kèm với chất lượng mũ đảm bảo, dây quai được cài chặt và quy định được thực thi nghiêm ngặt cho mọi lứa tuổi. Do đó, phương án đúng phải phản ánh đúng việc luật chỉ thành công khi có chất lượng và thực thi (cho R2Q1) và việc kiểm tra thành tựu cũng như hạn chế của luật mũ bảo hiểm (cho R2Q10), tránh các nhận định cực đoan hay sai lệch.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R2Q2**, tìm từ khóa \"British Army\" ở đoạn 2 để xác định quân đội Anh đã quy định bắt buộc đội mũ bảo hiểm cho người lái mô tô vào tháng 11 năm 1941 (It made helmets compulsory for motorcycle riders).\n  - Với **R2Q4**, quét từ khóa \"two legal helmets protect riders differently\" ở đoạn 3 để thấy tiêu chuẩn DOT của Mỹ không kiểm tra phần cằm (chin bars) trong khi tiêu chuẩn Snell và châu Âu thì có (Some standards test chin bars while others skip that check).\n  - Với **R2Q7**, quét từ khóa \"study of 49,782 patients\" ở đoạn 6 để xác định tỷ lệ chấn thương vùng đầu giảm 16% trong ba tháng đầu tiên (Head-injury risk fell by 16 per cent).\n  - Với **R2Q8**, đối soát thông tin ở đoạn 4 để loại trừ các ý có thật (mức phạt tiền từ 100.000 đến 200.000 đồng, tỷ lệ đội mũ ở Đà Nẵng đạt 99%, công an xử phạt hơn 680.000 trường hợp), từ đó chọn ý về lệnh cấm tạm thời xe ôm trên toàn quốc (không hề được nhắc đến).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - With **R2Q3**, từ **\"compelling\"** ở đoạn 1 đi kèm với các số liệu chứng minh từ nghiên cứu Cochrane về hiệu quả giảm chấn thương, mang nghĩa mạnh mẽ và có sức thuyết phục cao (strong and convincing).\n  - Với **R2Q5**, từ **\"loopholes\"** ở đoạn 5 được miêu tả qua các ngoại lệ như trẻ em dưới 16 tuổi không bị phạt hay việc chưa xử phạt lỗi cài quai mũ, mang nghĩa lỗ hổng hoặc kẽ hở trong quy định (gaps in rules).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào tính từ sở hữu **\"their\"** ở đoạn 6 trong câu nhắc đến dữ liệu bị giới hạn của bài báo nghiên cứu. Lần ngược lại danh từ chỉ tác giả của bài nghiên cứu được nhắc đến ngay trước đó trong câu văn (\"The paper's authors admit...\"), cho thấy từ này quy chiếu về các tác giả (the authors).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về việc luật đưa ra ban đầu còn nhiều lỗ hổng, chất lượng mũ trôi nổi và các vấn đề thực thi, qua đó suy ra việc thông qua luật mũ bảo hiểm chỉ là bước đầu tiên hướng tới mục tiêu giảm số ca tử vong trên đường (Passing a helmet law is only the first step toward fewer road deaths). Lời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R2Q2, R2Q4, R2Q7, R2Q8) và từ vựng (R2Q3, R2Q5) để tích lũy điểm chắc chắn. Sau đó, xử lý câu hỏi quy chiếu đại từ (R2Q6). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R2Q9), ý chính (R2Q1) và mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Artificial Intelligence in the Classroom: Promise and Peril",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "ChatGPT was released in November 2022, and within months schools and universities around the world were debating whether generative artificial intelligence belonged in the classroom at all. The technology builds on a longer history, since intelligent tutoring systems have existed since the 1970s, but its new fluency has made both its benefits and its dangers far more visible. This passage weighs the promise against the peril and asks what the evidence can currently support.",
+     "Supporters point first to personalisation. Adaptive exercises and AI tutors built into digital textbooks can adjust the pace of work to each learner. A 2024 mixed-methods study reportedly found that chatbot feedback helped students of English as a second language to improve grammar and vocabulary, and chatbots may also help students with dyslexia with spelling. The tools have become almost **ubiquitous** in study, and a global study in 2025 found about 58 per cent of higher-education students finding ChatGPT useful in daily life.",
+     "The dangers begin with academic integrity. A survey in March and April 2023 found that 58 per cent of American students had used ChatGPT, and 38 per cent had done so without a teacher's consent. Detection software offers little reassurance, because Turnitin's tool reportedly flagged an innocent student, and OpenAI withdrew its own classifier in August 2023 over accuracy concerns. Detectors are also easy to fool, so a tool meant to protect fairness can punish the innocent.",
+     "Other risks are less visible, but they are no less serious for learners and teachers. Models trained on biased data can reproduce social bias, including in automated grading, and chatbots can produce plausible falsehoods that a trusting learner may accept without checking. Heavy reliance has been linked to lower academic self-esteem and performance, and Naomi Baron warned in 2023 that outsourcing writing reduces opportunities to think independently. Privacy and access raise further questions, since students' data may be used to train future models and underserved schools may lack both devices and trained teachers.",
+     "Institutions have responded inconsistently. **[1]** Los Angeles blocked ChatGPT within a month of its release, and New York City banned it in January 2023 before repealing the ban in May. **[2]** UNESCO's 2024 guidance instead emphasises ethical use, teacher training and data protection. **[3]** Where policy is left to individual schools and teachers, the outcome is a patchwork of local rules that are applied unevenly. **[4]** That uncertainty has pushed some institutions towards handwritten essays and oral examinations, which are harder to outsource.",
+     "Meanwhile, the evidence base for these claims is thinner than the debate suggests. A 2019 review found that most research prioritised technological design over pedagogical integration, and many studies are small or narrow, so **their** findings may not travel far. Teachers carry what has been called invisible labour, because they must interpret unclear policies, redesign assessments and handle suspected cheating.",
+     "The promise of AI in the classroom is real, but it is conditional on judicious decisions about what students should learn, how they are assessed and who bears the cost. Teaching with the technology, rather than simply banning it, remains the more defensible course until better evidence arrives."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Universities have proved that banning chatbots is the only workable response",
+       "B": "Intelligent tutoring failed completely because students preferred human teachers in every subject",
+       "C": "Generative AI offers real learning benefits but demands careful rules and better evidence",
+       "D": "Detection software now catches every case of cheating and protects honest students"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what did the 2023 survey of American students find?",
+      "options": {
+       "A": "A majority of American students had used ChatGPT",
+       "B": "Most teachers had banned the tool before the survey began",
+       "C": "Nearly all students had used it without teacher permission",
+       "D": "Teachers could identify AI essays with ninety per cent accuracy"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"2023 survey of American students\" ở đoạn 3 để xác định khảo sát cho thấy 58% học sinh Mỹ đã sử dụng ChatGPT (A majority of American students had used ChatGPT)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"ubiquitous\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "rarely affordable",
+       "B": "found almost everywhere",
+       "C": "strictly regulated",
+       "D": "newly invented"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ubiquitous\" ở đoạn 2 đi kèm với số liệu 58% sinh viên bậc đại học thấy hữu ích trong đời sống hàng ngày, mang nghĩa có mặt ở khắp mọi nơi, rất phổ biến (found almost everywhere)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a patchwork leaves students unsure which uses of AI are acceptable.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc câu cần chèn nói về việc sự chắp vá các quy định khiến học sinh không biết cách dùng AI nào là được phép. Vị trí [4] ngay sau câu mô tả tình trạng quy định địa phương rời rạc (patchwork of local rules) và trước câu nói về việc sự bất định hướng tới bài luận viết tay là điểm khớp nối logic hoàn hảo nhất."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what did Naomi Baron warn about in 2023?",
+      "options": {
+       "A": "Chatbots reveal private essays to unauthorised school staff",
+       "B": "Students lose interest once lessons become easy",
+       "C": "Outsourcing writing reduces chances to think independently",
+       "D": "Teachers dislike learning new software tools"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Naomi Baron\" ở đoạn 4 để thấy cảnh báo về việc thuê ngoài việc viết lách làm giảm cơ hội tự suy nghĩ độc lập (Outsourcing writing reduces chances to think independently)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"their\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "studies",
+       "B": "designs",
+       "C": "reviews",
+       "D": "teachers"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào tính từ sở hữu \"their\" ở đoạn 6 trong câu nhắc đến việc các nghiên cứu có quy mô nhỏ nên kết luận của chúng có thể không áp dụng rộng rãi. Lần ngược lại danh từ chỉ đối tượng nghiên cứu được nhắc đến ngay trước đó trong câu văn (\"...many studies are small or narrow, so their findings...\"), cho thấy từ này quy chiếu về các nghiên cứu (studies)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"judicious\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "rather hasty",
+       "B": "widely mocked",
+       "C": "strictly secret",
+       "D": "wise and careful"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"judicious\" ở đoạn 7 đi kèm với việc đưa ra các quyết định sáng suốt về nội dung học và cách đánh giá, mang nghĩa khôn ngoan và cẩn trọng (wise and careful)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "New York City repealing its ban in May",
+       "B": "A national ban on all school computers",
+       "C": "UNESCO guidance stressing ethical use and data protection",
+       "D": "Handwritten essays and oral examinations returning at some institutions"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát thông tin ở đoạn 5 để loại trừ các ý có thật (New York City bãi bỏ lệnh cấm vào tháng 5, hướng dẫn của UNESCO, việc quay lại bài luận viết tay và thi vấn đáp), từ đó chọn ý về lệnh cấm quốc gia đối với tất cả máy tính trường học (không hề được nhắc đến)."
+     },
+     {
+      "number": 29,
+      "stem": "Which of the following can be inferred from paragraphs 3, 5, and 6 about AI in the classroom?",
+      "options": {
+       "A": "Banning every chatbot guarantees honest students and removes any need for training",
+       "B": "Teachers will soon be replaced because tutoring systems always outperform them",
+       "C": "Redesigning assessment is likely fairer than relying on unreliable detectors to catch misuse",
+       "D": "Strong rules from UNESCO have ended confusion about acceptable use in schools"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về sự kém tin cậy của phần mềm phát hiện đạo văn (detector) và việc các trường chuyển sang bài luận viết tay hoặc thi vấn đáp, qua đó suy ra việc thiết kế lại hình thức đánh giá có vẻ công bằng hơn là dựa vào các công cụ phát hiện không đáng tin cậy."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To weigh the benefits and risks of artificial intelligence in schools",
+       "B": "To persuade schools to ban every chatbot before the next school year",
+       "C": "To explain how intelligent tutoring programs were first written in LISP",
+       "D": "To review the long history of computers in American universities Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu kết luận của đoạn 1 và đoạn cuối để nắm mạch thông tin chủ đạo: bài viết cân nhắc giữa lợi ích học tập thực sự của AI tạo sinh và các rủi ro đi kèm, từ đó chỉ ra rằng công nghệ này đòi hỏi các quy định cẩn trọng và bằng chứng vững chắc hơn thay vì chỉ đơn thuần cấm đoán. Do đó, phương án đúng phải phản ánh đúng sự cân bằng giữa lợi ích học tập và nhu cầu quy định/bằng chứng (cho R3Q1) và mục đích cân nhắc lợi ích - rủi ro (cho R3Q10), tránh các nhận định cực đoan.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R3Q2**, tìm từ khóa \"2023 survey of American students\" ở đoạn 3 để xác định khảo sát cho thấy 58% học sinh Mỹ đã sử dụng ChatGPT (A majority of American students had used ChatGPT).\n  - Với **R3Q5**, quét từ khóa \"Naomi Baron\" ở đoạn 4 để thấy cảnh báo về việc thuê ngoài việc viết lách làm giảm cơ hội tự suy nghĩ độc lập (Outsourcing writing reduces chances to think independently).\n  - Với **R3Q8**, đối soát thông tin ở đoạn 5 để loại trừ các ý có thật (New York City bãi bỏ lệnh cấm vào tháng 5, hướng dẫn của UNESCO, việc quay lại bài luận viết tay và thi vấn đáp), từ đó chọn ý về lệnh cấm quốc gia đối với tất cả máy tính trường học (không hề được nhắc đến).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - Với **R3Q3**, từ **\"ubiquitous\"** ở đoạn 2 đi kèm với số liệu 58% sinh viên bậc đại học thấy hữu ích trong đời sống hàng ngày, mang nghĩa có mặt ở khắp mọi nơi, rất phổ biến (found almost everywhere).\n  - Với **R3Q7**, từ **\"judicious\"** ở đoạn 7 đi kèm với việc đưa ra các quyết định sáng suốt về nội dung học và cách đánh giá, mang nghĩa khôn ngoan và cẩn trọng (wise and careful).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R3Q4):** Đọc câu cần chèn nói về việc sự chắp vá các quy định khiến học sinh không biết cách dùng AI nào là được phép. Vị trí **[4]** ngay sau câu mô tả tình trạng quy định địa phương rời rạc (patchwork of local rules) và trước câu nói về việc sự bất định hướng tới bài luận viết tay là điểm khớp nối logic hoàn hảo nhất.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào tính từ sở hữu **\"their\"** ở đoạn 6 trong câu nhắc đến việc các nghiên cứu có quy mô nhỏ nên kết luận của chúng có thể không áp dụng rộng rãi. Lần ngược lại danh từ chỉ đối tượng nghiên cứu được nhắc đến ngay trước đó trong câu văn (\"...many studies are small or narrow, so their findings...\"), cho thấy từ này quy chiếu về các nghiên cứu (studies).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về sự kém tin cậy của phần mềm phát hiện đạo văn (detector) và việc các trường chuyển sang bài luận viết tay hoặc thi vấn đáp, qua đó suy ra việc thiết kế lại hình thức đánh giá có vẻ công bằng hơn là dựa vào các công cụ phát hiện không đáng tin cậy.\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R3Q2, R3Q5, R3Q8), từ vựng (R3Q3, R3Q7) và vị trí câu (R3Q4) để tích lũy điểm chắc chắn. Sau đó, xử lý câu hỏi quy chiếu (R3Q6). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R3Q9), ý chính (R3Q1) và mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Turbulent Life of Princess Matilda of England",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Matilda, born around 1102, was the eldest child and only surviving daughter of Henry I of England, yet she is remembered not as a queen but as the Lady of the English. This passage follows her turbulent career and asks what it finally achieved.",
+     "At about eight years old she was betrothed to Henry V, then aged 24, and in July 1110 she was crowned German queen at Mainz. They married at Worms in January 1114, and she accompanied her husband to Italy in 1116, claiming the title of empress after disputed ceremonies at St Peter's Basilica. She acted as regent of Italy in 1118 and 1119 while Henry returned north. When Henry died in 1125 she had no children and returned to Normandy with the imperial regalia and the Hand of St James.",
+     "Her return mattered because her brother William Adelin had died in the sinking of the White Ship off Barfleur in November 1120, along with nearly all of about 300 passengers. In January 1127 the barons at Westminster swore to accept her as Henry I's heir, and in May she was betrothed to Geoffrey of Anjou, who was only 13. The marriage, held at Le Mans on 17 June 1128, was **fraught** from the start, and she left her husband soon afterwards, although the couple reconciled in 1131. Their sons Henry, Geoffrey and William were born in 1133, 1134 and 1136.",
+     "When Henry I died in 1135, Stephen of Blois carried out a swift seizure of the throne and was crowned at Westminster on 22 December. **[1]** That contest began in 1139, when Matilda landed at Arundel on 30 September with about 140 knights, supported by Robert of Gloucester and David I of Scotland. **[2]** At the Battle of Lincoln on 2 February 1141, her forces captured Stephen, and in April she was declared Lady of the English, a title short of queen. **[3]** Her triumph was brief, because Londoners rose against her on 24 June 1141 and she fled to Oxford, so the coronation that would have confirmed her claim never took place. **[4]** After the Rout of Winchester, Robert of Gloucester was captured and later exchanged for Stephen in November.",
+     "A dramatic escape followed at Christmas 1142, when, besieged in Oxford Castle, she crossed the frozen River Isis to reach Wallingford. The war then settled into stalemate, and Robert of Gloucester, her leading supporter, died in 1147. In Normandy, Geoffrey of Anjou, **whom** she had married in 1128, entered Rouen in January 1144 and conquered the duchy, and Louis VII of France recognised him as duke. Matilda left England for Normandy in 1148 and settled near Rouen, leaving the campaign in England to her son Henry.",
+     "Geoffrey died in 1151, and their son Henry claimed the Angevin lands. In 1153 the Treaty of Wallingford made Henry the heir of Stephen, and when Stephen died in 1154, Henry became king as Henry II, founding the Angevin Empire. In this sense Matilda's cause was eventually vindicated, even though she never wore the crown herself. She spent her last years near Rouen, advising Henry, trying to mediate in the quarrel with Thomas Becket and founding Cistercian monasteries, and she died on 10 September 1167.",
+     "She was buried at Bec Abbey, and her remains were moved to Rouen Cathedral in 1846. Her life shows that legitimacy in the twelfth century depended on armies, alliances and timing as well as on blood and oaths, and that a claimant who was never crowned could shape her son's throne."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Stephen won the civil war quickly and ruled England unchallenged until 1154",
+       "B": "Matilda was crowned at Westminster in 1141 and reigned peacefully afterwards",
+       "C": "Geoffrey of Anjou conquered England and crowned himself king in 1135",
+       "D": "Matilda was never crowned but her struggle helped secure the throne for Henry"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what happened in July 1110?",
+      "options": {
+       "A": "She married Henry V in a ceremony at Worms",
+       "B": "She was crowned German queen at Mainz",
+       "C": "Henry V died at Utrecht leaving her childless",
+       "D": "Barons at Westminster swore to accept her as heir"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"July 1110\" ở đoạn 2 để xác định thời điểm bà được phong làm vương hậu Đức tại Mainz (She was crowned German queen at Mainz)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"fraught\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "perfectly happy",
+       "B": "carefully planned",
+       "C": "full of tension",
+       "D": "widely celebrated"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"fraught\" ở đoạn 3 mô tả cuộc hôn nhân của Matilda với Geoffrey xứ Anjou vốn gặp nhiều căng thẳng và rạn nứt ngay từ đầu, mang nghĩa đầy căng thẳng (full of tension)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a seizure ignored the oath of 1127 and made a military contest almost inevitable.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc câu cần chèn nói về việc hành động tiếm ngôi của Stephen đã phớt lờ lời thề năm 1127 và khiến cuộc tranh chấp quân sự trở nên không thể tránh khỏi. Vị trí [1] ngay sau câu kể về việc Stephen cướp ngôi và được phong vương ngày 22 tháng 12, đồng thời đứng trước câu mở đầu bằng \"That contest began in 1139...\" là điểm khớp nối logic hoàn hảo nhất."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what happened at the Battle of Lincoln in February 1141?",
+      "options": {
+       "A": "Stephen defeated her army near the River Isis",
+       "B": "Londoners drove her out of the city",
+       "C": "The barons crowned her at Westminster",
+       "D": "Her forces took Stephen as a prisoner"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Battle of Lincoln\" ở đoạn 4 để thấy lực lượng của bà đã bắt sống vua Stephen làm tù binh (Her forces took Stephen as a prisoner)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"whom\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Robert of Gloucester",
+       "B": "Geoffrey of Anjou",
+       "C": "Louis VII of France",
+       "D": "David I of Scotland"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"whom\" ở đoạn 5 trong mệnh đề nhắc đến người chồng mà bà đã kết hôn năm 1128. Lần ngược lại danh từ chỉ người chồng được nhắc đến ngay trước đó trong câu văn (\"Geoffrey of Anjou, whom she had married in 1128...\"), cho thấy từ này quy chiếu về Geoffrey xứ Anjou (Geoffrey of Anjou)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"vindicated\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "proved to be right",
+       "B": "openly ignored",
+       "C": "quickly forgotten",
+       "D": "firmly rejected"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"vindicated\" ở đoạn 6 đi kèm với việc con trai bà là Henry trở thành vua Henry II thành lập Đế chế Angevin, mang nghĩa được chứng minh là đúng đắn, được minh oan/khẳng định giá trị (proved to be right)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "An escape across the frozen River Isis to Wallingford",
+       "B": "Geoffrey entering Rouen in January 1144 and conquering Normandy",
+       "C": "A naval battle off the Norman coast",
+       "D": "Henry taking over the English campaign after 1148"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 39,
+      "stem": "Which of the following can be inferred from paragraphs 3, 5, and 6 about Matilda's career?",
+      "options": {
+       "A": "Geoffrey's conquest of Normandy guaranteed that Stephen would lose his throne",
+       "B": "Every English baron supported her claim once she reached London in 1141",
+       "C": "The White Ship disaster alone caused the civil war and Angevin rule",
+       "D": "Her marriage to Geoffrey and her son Henry ultimately advanced her dynastic cause"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về cuộc hôn nhân với Geoffrey, việc sinh ra những người con nối dõi và việc con trai bà là Henry nắm giữ vùng đất Angevin rồi trở thành Vua Anh, qua đó suy ra cuộc hôn nhân với Geoffrey và con trai Henry cuối cùng đã thúc đẩy sự nghiệp triều đại của bà (Her marriage to Geoffrey and her son Henry ultimately advanced her dynastic cause)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that Stephen was a better king than any Angevin ruler",
+       "B": "To trace a turbulent royal career and assess what it finally achieved",
+       "C": "To describe the architecture of the monasteries that Matilda founded across northern Normandy",
+       "D": "To compare German and English politics in the early twelfth century"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật và phân tích chi tiết cho từng nhóm câu hỏi sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc phần mở đầu và câu kết luận của bài để nắm mạch thông tin chủ đạo: bài viết tường thuật lại sự nghiệp đầy biến động của Matilda (từ vương hậu Đức, cuộc chiến giành ngôi vua với Stephen, cho đến việc củng cố quyền lực cho con trai Henry II) và đánh giá những gì mà cuộc đấu tranh ấy đã đạt được. Do đó, phương án đúng phải phản ánh đúng việc Matilda chưa từng đăng quang nhưng cuộc chiến của bà đã giúp bảo đảm ngai vàng cho con trai Henry (cho R4Q1) và mục đích theo dõi hành trình hoàng gia đầy biến động cùng những thành tựu đạt được (cho R4Q10), tránh các nhận định sai lệch hoặc cực đoan.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) trực tiếp trên văn bản:\n  - Với **R4Q2**, tìm từ khóa \"July 1110\" ở đoạn 2 để xác định thời điểm bà được phong làm vương hậu Đức tại Mainz (She was crowned German queen at Mainz).\n  - Với **R4Q5**, quét từ khóa \"Battle of Lincoln\" ở đoạn 4 để thấy lực lượng của bà đã bắt sống vua Stephen làm tù binh (Her forces took Stephen as a prisoner).\n  - With **R4Q8**, đối soát thông tin ở đoạn 5 để loại trừ các ý có thật (cuộc tẩu thoát qua sông băng Isis đến Wallingford, Geoffrey tiến vào Rouen tháng 1/1144 và chinh phục Normandy, Henry tiếp quản chiến dịch ở Anh sau năm 1948), từ đó chọn ý về trận hải chiến ngoài khơi bờ biển Norman (không hề được nhắc đến trong bài).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng **Context Clues** (Manh mối ngữ cảnh xung quanh):\n  - Với **R4Q3**, từ **\"fraught\"** ở đoạn 3 mô tả cuộc hôn nhân của Matilda với Geoffrey xứ Anjou vốn gặp nhiều căng thẳng và rạn nứt ngay từ đầu, mang nghĩa đầy căng thẳng (full of tension).\n  - Với **R4Q7**, từ **\"vindicated\"** ở đoạn 6 đi kèm với việc con trai bà là Henry trở thành vua Henry II thành lập Đế chế Angevin, mang nghĩa được chứng minh là đúng đắn, được minh oan/khẳng định giá trị (proved to be right).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R4Q4):** Đọc câu cần chèn nói về việc hành động tiếm ngôi của Stephen đã phớt lờ lời thề năm 1127 và khiến cuộc tranh chấp quân sự trở nên không thể tránh khỏi. Vị trí **[1]** ngay sau câu kể về việc Stephen cướp ngôi và được phong vương ngày 22 tháng 12, đồng thời đứng trước câu mở đầu bằng \"That contest began in 1139...\" là điểm khớp nối logic hoàn hảo nhất.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ quan hệ **\"whom\"** ở đoạn 5 trong mệnh đề nhắc đến người chồng mà bà đã kết hôn năm 1128. Lần ngược lại danh từ chỉ người chồng được nhắc đến ngay trước đó trong câu văn (\"Geoffrey of Anjou, whom she had married in 1128...\"), cho thấy từ này quy chiếu về Geoffrey xứ Anjou (Geoffrey of Anjou).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp dữ liệu từ đoạn 3, 5 và 6 về cuộc hôn nhân với Geoffrey, việc sinh ra những người con nối dõi và việc con trai bà là Henry nắm giữ vùng đất Angevin rồi trở thành Vua Anh, qua đó suy ra cuộc hôn nhân với Geoffrey và con trai Henry cuối cùng đã thúc đẩy sự nghiệp triều đại của bà (Her marriage to Geoffrey and her son Henry ultimately advanced her dynastic cause).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi định vị chi tiết (R4Q2, R4Q5, R4Q8), từ vựng (R4Q3, R4Q7) và vị trí câu (R4Q4) để tích lũy điểm chắc chắn. Sau đó, xử lý câu hỏi quy chiếu (R4Q6). Cuối cùng, tổng hợp toàn văn để giải quyết các câu hỏi suy luận (R4Q9), ý chính (R4Q1) và mục đích tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from John, who reminded you about your plan to organize a workshop together.\nJohn would like to know your ideas about the workshop, how you want to organize it and whether you have any suggestions for guest speakers.\nWrite a formal email to John to discuss your ideas and plans for organizing the workshop.\n- Share your ideas about the workshop content and activities.\n- Explain whether you prefer working alone or discussing and organizing the workshop as a team.\n- Suggest possible guest speakers or other ideas to make the workshop successful.\nWrite an email responding to John. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from John, who reminded you about your plan to organize a workshop together.",
+      "John would like to know your ideas about the workshop, how you want to organize it and whether you have any suggestions for guest speakers."
+     ],
+     "quote": [
+      "Write a formal email to John to discuss your ideas and plans for organizing the workshop.",
+      "- Share your ideas about the workshop content and activities.",
+      "- Explain whether you prefer working alone or discussing and organizing the workshop as a team.",
+      "- Suggest possible guest speakers or other ideas to make the workshop successful."
+     ],
+     "instruction": "Write an email responding to John. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Formal Email** (email trang trọng). Mặc dù người nhận là John, đề bài yêu cầu trao đổi về kế hoạch workshop nên cần giữ cách diễn đạt lịch sự và chuyên nghiệp.\n- Bạn cần trả lời 3 yêu cầu chính: đưa ra ý tưởng cho workshop, nêu cách tổ chức (tự làm hay làm nhóm) và đề xuất khách mời diễn giả.\n- Bài viết cần tối thiểu **120 từ**. Cần phát triển ý bằng lý do, ví dụ và giải thích để đạt điểm Task Fulfillment.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Bắt đầu bằng lời chào phù hợp. Ví dụ: Dear John,\n- **Opening:** Nêu lý do viết thư. Ví dụ: I am writing to discuss our upcoming workshop plan.\n- **Body:** Đoạn đầu trình bày ý tưởng workshop, đoạn hai nói về cách hợp tác và đề xuất diễn giả.\n- **Closing:** Kết thúc bằng lời cảm ơn và mong nhận được phản hồi. Ví dụ: I look forward to hearing your ideas.\n- **Sign-off:** Dùng cách kết thúc lịch sự như Best regards hoặc Yours sincerely.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng hiện tại đơn để mô tả ý tưởng chung và tương lai đơn hoặc be going to để nói về kế hoạch workshop.\n- Dùng các cấu trúc đề xuất lịch sự như I would suggest, I think we should, It would be a good idea to.\n- Khi đưa ra lựa chọn làm việc cá nhân hay nhóm, cần giải thích ưu điểm của phương án đó.\nTừ vựng quan trọng:\n- **Workshop organization:** Tổ chức hội thảo\n- **Event planning:** Lập kế hoạch sự kiện\n- **Guest speaker:** Diễn giả khách mời\n- **Presentation skills:** Kỹ năng thuyết trình\n- **Team collaboration:** Sự hợp tác nhóm\n- **Workshop participants:** Người tham gia hội thảo\nTừ nối (Linking words):\n- **Firstly:** Thứ nhất\n- **In addition:** Ngoài ra\n- **Moreover:** Hơn nữa\n- **However:** Tuy nhiên\n- **Therefore:** Vì vậy\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am excited about:** Tôi hào hứng về\n- **I appreciate your idea:** Tôi đánh giá cao ý tưởng của bạn\n- **I believe this will be successful:** Tôi tin điều này sẽ thành công\n\n**4. Các lỗi thường gặp:**\n- Viết quá thân mật như đang trò chuyện với bạn bè thay vì trao đổi công việc.\n- Chỉ nói ý tưởng mà không giải thích cách thực hiện.\n- Quên trả lời phần đề xuất khách mời hoặc cách làm việc nhóm.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra đã trả lời đủ ba yêu cầu trong đề bài chưa.\n- Đảm bảo email có mở đầu và kết thúc phù hợp.\n- Kiểm tra lỗi ngữ pháp, chính tả và số lượng từ.\n\n**6. Tư duy làm bài:**\nHãy xem đây là một email trao đổi kế hoạch chuyên nghiệp. Tập trung vào việc thể hiện ý tưởng rõ ràng, đưa ra lý do hợp lý và thể hiện tinh thần hợp tác.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nFast food has become increasingly popular in modern society because it is convenient and affordable.\nHowever, many people believe that consuming too much fast food can negatively affect people's health, and some argue that fast food should be completely banned.\nDiscuss the effects of fast food on health and suggest possible solutions.\nWrite an essay to an educated reader to discuss the problems caused by fast food and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Fast food has become increasingly popular in modern society because it is convenient and affordable.",
+      "However, many people believe that consuming too much fast food can negatively affect people's health, and some argue that fast food should be completely banned.",
+      "Discuss the effects of fast food on health and suggest possible solutions."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by fast food and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Problem–Solution Essay**. Bạn cần phân tích tác động tiêu cực của fast food đến sức khỏe và đưa ra giải pháp phù hợp.\n- Từ khóa quan trọng là **fast food**, **health effects** và **solutions**. Ý kiến về việc cấm hoàn toàn fast food có thể được đề cập nhưng không nên biến bài thành bài tranh luận nếu đề không yêu cầu.\n- Bài viết cần tối thiểu **250 từ**, cần có giải thích và ví dụ để làm rõ vấn đề.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu sự phổ biến của fast food và vấn đề sức khỏe. Ví dụ: Fast food has become a common choice for many people due to its convenience.\n- **Body 1:** Phân tích ảnh hưởng đến sức khỏe như béo phì, bệnh tim mạch, thiếu dinh dưỡng. Ví dụ: Regular consumption of fast food can lead to serious health problems.\n- **Body 2:** Đưa ra giải pháp như kiểm soát quảng cáo, giáo dục dinh dưỡng, khuyến khích ăn uống lành mạnh. Ví dụ: People should develop healthier eating habits instead of relying on fast food.\n- **Body 3 (nếu cần):** Có thể thảo luận thêm về việc cấm hoàn toàn fast food và đưa ra quan điểm cân bằng.\n- **Conclusion:** Tóm tắt vấn đề và giải pháp. Ví dụ: In conclusion, reducing fast food consumption is more practical than completely banning it.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng hiện tại đơn để phân tích các vấn đề sức khỏe phổ biến.\n- Phát triển ý theo cấu trúc Problem -> Explanation -> Example -> Solution.\n- Sử dụng câu bị động khi nói về tác động hoặc chính sách để tăng tính học thuật.\nTừ vựng quan trọng:\n- **Unhealthy diet:** Chế độ ăn không lành mạnh\n- **Obesity:** Béo phì\n- **Heart disease:** Bệnh tim\n- **Nutritional value:** Giá trị dinh dưỡng\n- **Healthy lifestyle:** Lối sống lành mạnh\n- **Food consumption:** Việc tiêu thụ thực phẩm\nTừ nối (Linking words):\n- **One major problem is:** Một vấn đề lớn là\n- **As a result:** Kết quả là\n- **For example:** Ví dụ\n- **In addition:** Ngoài ra\n- **To address this issue:** Để giải quyết vấn đề này\n- **In conclusion:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Processed food:** Thực phẩm chế biến, thay cho fast food.\n- **Health problems:** Vấn đề sức khỏe, thay cho bad effects on health.\n- **Balanced diet:** Chế độ ăn cân bằng, thay cho healthy eating habits.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is often argued that:** Người ta thường cho rằng, dùng để giới thiệu quan điểm.\n- **A possible solution is to:** Một giải pháp khả thi là, dùng để đưa ra giải pháp.\n- **Rather than completely banning:** Thay vì cấm hoàn toàn, dùng để thể hiện quan điểm cân bằng.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói fast food có hại mà không đưa ra giải pháp.\n- Đề cập quá nhiều đến việc cấm fast food nhưng không phân tích ảnh hưởng sức khỏe.\n- Viết giải pháp quá chung chung như people should be careful.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra đã có phần effects và solutions chưa.\n- Đảm bảo các đoạn văn có câu chủ đề rõ ràng.\n- Kiểm tra lỗi ngữ pháp, chính tả và số lượng từ tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\nHãy xây dựng bài viết theo hướng phân tích vấn đề và giải pháp thực tế. Không cần cực đoan, hãy đưa ra quan điểm cân bằng và có lập luận rõ ràng."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about colors and decoration\n\n1\nWhat is your favorite color when decorating your room or house?\n2\nWhy do you like that color for decoration?\n3\nWhat things do you usually consider when decorating a place?\n\nNow, let’s talk about advertisements\n\n4\nDo you often pay attention to advertisements?\n5\nWhat types of advertisements do you like or dislike?\n6\nHow do advertisements influence people's buying decisions?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 là phần tương tác cá nhân trong khoảng **3 phút** với 6 câu hỏi thuộc 2 chủ đề quen thuộc.\n- **Topic A (Decoration and Colors):** Các câu hỏi 1–3 tập trung vào sở thích về màu sắc, cách trang trí không gian sống và khả năng mô tả sở thích cá nhân.\n- **Topic B (Advertising):** Các câu hỏi 4–6 tập trung vào thói quen xem quảng cáo, loại quảng cáo yêu thích và ảnh hưởng của quảng cáo đến hành vi mua sắm.\n- Tiêu chí chấm điểm gồm **Fluency, Vocabulary, Grammar và Pronunciation**. Bạn cần trả lời có mở rộng bằng lý do và ví dụ.\n- Nên dành khoảng **25–35 giây cho mỗi câu hỏi** để cân bằng giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **Answer – Reason – Example (ARE)**: trả lời trực tiếp -> giải thích -> đưa ví dụ.\n- **Ví dụ Topic A:** My favorite color for decoration is blue because it creates a relaxing atmosphere. For example, I use blue items in my room to make it more comfortable.\n- **Ví dụ Topic B:** I think advertisements are useful because they help people know about new products. For instance, I often find interesting products through online ads.\n- Luôn tự hỏi thêm **Why?** hoặc **How?** để phát triển câu trả lời.\n- Khi chuyển chủ đề, có thể dùng câu nối: Besides decorating, I would like to talk about advertising.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và sử dụng từ đệm như actually, well, I think.\n- Dùng hiện tại đơn khi nói về sở thích và thói quen: I usually choose... / I often watch...\n- Dùng because, so, which helps me để giải thích nguyên nhân và kết quả.\n- **Vocabulary Topic A:** interior design (thiết kế nội thất), color combination (sự kết hợp màu sắc), relaxing atmosphere (không khí thư giãn).\n- **Vocabulary Topic B:** advertisement campaign (chiến dịch quảng cáo), attract customers (thu hút khách hàng), buying decision (quyết định mua hàng).\nCụm từ quan trọng nên dùng:\n- **My favorite color:** màu sắc yêu thích của tôi.\n- **Create a comfortable space:** tạo không gian thoải mái.\n- **Match well with:** phù hợp với.\n- **Catch people's attention:** thu hút sự chú ý.\n- **Influence consumer behavior:** ảnh hưởng đến hành vi người tiêu dùng.\n- **Provide useful information:** cung cấp thông tin hữu ích.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên.\n- **Because:** bởi vì, dùng để giải thích.\n- **For example:** ví dụ như.\n- **However:** tuy nhiên.\n- **In my opinion:** theo quan điểm của tôi.\nCách thể hiện quan điểm tự nhiên:\n- **I personally prefer...** Ví dụ: I personally prefer simple colors because they make my room look better.\n- **I believe that...** Ví dụ: I believe advertisements can be helpful if they provide accurate information.\n- **From my point of view...** Ví dụ: From my point of view, good design can improve people's mood.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn chỉ bằng một từ hoặc một câu đơn.\n- Với Topic A, tránh chỉ nói tên màu sắc mà không giải thích cảm xúc hoặc lý do.\n- Với Topic B, tránh chỉ nói quảng cáo tốt hoặc xấu mà không đưa ví dụ.\n- Dùng sai thì khi nói về thói quen thường xuyên.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu đệm: That is an interesting question, let me think for a second.\n- Nếu quên từ, hãy mô tả đặc điểm hoặc ý nghĩa của từ đó.\n- Với Topic A, có thể chuyển sang nói về cảm xúc, sự thoải mái hoặc phong cách.\n- Với Topic B, có thể chuyển sang nói về sản phẩm, khách hàng hoặc lợi ích.\n\n**6. Tư duy làm bài nói:**\n- Coi Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n- Luôn thêm lý do và ví dụ để thể hiện khả năng phát triển ý.\n- Sự trôi chảy và rõ ràng quan trọng hơn việc dùng từ quá khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour family is planning a day trip together and you need to choose the best place to visit.\n\nYou are considering the following options:\n\nOption 1: Go to a water park\nOption 2: Visit an amusement park\nOption 3: Visit a museum\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Solution Discussion**. Bạn cần lựa chọn địa điểm phù hợp nhất cho chuyến đi gia đình.\n- Cần phân tích 3 lựa chọn dựa trên mức độ vui vẻ, phù hợp với nhiều thành viên và trải nghiệm mang lại.\n- Tiêu chí chấm điểm gồm khả năng so sánh, lập luận, từ vựng và kết luận rõ ràng.\n- Thời gian khoảng **4 phút**, cần trình bày có cấu trúc thay vì chỉ mô tả địa điểm.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E (Introduction - Comparison/Body - End)**: giới thiệu -> phân tích lựa chọn -> kết luận.\n- Với Option 1: Water park phù hợp cho gia đình thích hoạt động ngoài trời nhưng có thể không phù hợp với người lớn tuổi.\n- Với Option 2: Amusement park có nhiều trò chơi và phù hợp với nhiều độ tuổi nhưng có thể đông người.\n- Với Option 3: Museum giúp học hỏi kiến thức nhưng có thể không quá hấp dẫn với trẻ em.\n- Liên hệ với mục tiêu chuyến đi gia đình là tạo kỷ niệm và có thời gian bên nhau.\n- Dùng từ nối so sánh để chuyển đổi giữa các lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Không chỉ nói địa điểm nào tốt mà cần giải thích vì sao phù hợp hơn.\n- Dùng hiện tại đơn để mô tả địa điểm và tương lai gần khi nói kế hoạch.\n- Dùng cấu trúc so sánh: Compared with other options, this place is more suitable because...\n- Nếu quên từ, hãy mô tả bằng trải nghiệm hoặc hoạt động ở địa điểm đó.\nCụm từ quan trọng nên dùng:\n- **Family bonding:** sự gắn kết gia đình.\n- **Spend quality time:** dành thời gian chất lượng.\n- **Outdoor activities:** hoạt động ngoài trời.\n- **Entertainment facilities:** cơ sở giải trí.\n- **Educational experience:** trải nghiệm giáo dục.\n- **Create memorable moments:** tạo khoảnh khắc đáng nhớ.\nTừ nối khi nói (Linking Words):\n- **On the one hand:** một mặt.\n- **On the other hand:** mặt khác.\n- **Moreover:** hơn nữa.\n- **Compared to:** so với.\n- **Therefore:** vì vậy.\nCách thể hiện quan điểm tự nhiên:\n- **I would choose...** Ví dụ: I would choose the amusement park because everyone can enjoy different activities.\n- **The main reason is that...** Ví dụ: The main reason is that it is suitable for all family members.\n- **I think this option is better because...** Ví dụ: I think this option is better because it creates more shared experiences.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói ưu điểm của lựa chọn mình thích mà không đánh giá lựa chọn khác.\n- Lặp lại các từ như fun, good, interesting quá nhiều.\n- Không đưa ra quyết định cuối cùng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Phân tích theo các yếu tố quen thuộc như chi phí, thời gian, sự tiện lợi và sở thích gia đình.\n- Dùng câu chuyển ý: Let's evaluate this option from a different perspective.\n- Nếu bí một lựa chọn, hãy chuyển sang phương án khác để duy trì sự trôi chảy.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người đang lên kế hoạch cho một chuyến đi thực tế.\n- Một lựa chọn tốt cần phù hợp với nhiều người chứ không chỉ cá nhân bạn.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe disadvantages of living in an apartment\n\nApartment Living Problems\nLimited living space in apartments\nProblems related to neighbors\nDifficulties of keeping pets in apartments\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo people in your country prefer living in houses or apartments?\n2\nWhat are the advantages of living in an apartment?\n3\nHow can people live in places they want 50 years from now?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng **Topic Development**. Bạn cần trình bày về những bất lợi của việc sống trong căn hộ dựa trên các ý trong mindmap.\n- Các ý chính gồm không gian hạn chế, vấn đề với hàng xóm và khó khăn khi nuôi thú cưng.\n- Bạn cần thêm một ý tưởng cá nhân để bài nói đầy đủ hơn.\n- Thời gian khoảng **5 phút**, nên dành 3–3.5 phút cho bài nói chính và thời gian còn lại cho follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **FEEL (Point - Explanation - Example - Link)**: nêu ý -> giải thích -> ví dụ -> liên kết.\n- **Ví dụ 1:** One major disadvantage of apartment living is limited space because people may not have enough room for their belongings.\n- **Ví dụ 2:** For my own idea, I think apartments can reduce privacy because residents share many common areas.\n- Phát triển từng ý thay vì chỉ đọc các gạch đầu dòng trong mindmap.\n- Với follow-up, hãy chuẩn bị cả ưu điểm và nhược điểm để trả lời linh hoạt.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm chuyển ý để kết nối các vấn đề khác nhau khi nói.\n- Dùng hiện tại đơn để nói về các vấn đề chung của việc sống trong căn hộ.\n- Có thể thay thế apartment living bằng living in high-rise buildings hoặc urban living.\nCụm từ quan trọng nên dùng:\n- **Limited space:** không gian hạn chế.\n- **Lack of privacy:** thiếu sự riêng tư.\n- **Noisy neighbors:** hàng xóm ồn ào.\n- **Living conditions:** điều kiện sống.\n- **High population density:** mật độ dân số cao.\n- **Pet-friendly environment:** môi trường phù hợp cho thú cưng.\nTừ nối khi nói (Linking Words):\n- **Firstly:** đầu tiên.\n- **In addition:** thêm vào đó.\n- **For example:** ví dụ như.\n- **However:** tuy nhiên.\n- **In conclusion:** kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n- **I strongly believe that...** Ví dụ: I strongly believe that apartment living has some limitations.\n- **From my perspective...** Ví dụ: From my perspective, privacy is an important issue.\n- **I would say that...** Ví dụ: I would say that apartments are convenient but not perfect.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Do people prefer houses or apartments?** -> It depends on lifestyle. Some people prefer houses for privacy, while others choose apartments for convenience.\n- **What are the advantages of apartments?** -> Apartments are often more affordable, safer and located near many facilities.\n- **How can people live where they want in the future?** -> People can use smart technology, develop better transportation and create more flexible living spaces.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê nhược điểm mà không giải thích tác động.\n- Quên phát triển ý tưởng cá nhân.\n- Dành quá nhiều thời gian cho phần chính và không đủ thời gian cho follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Liên hệ với trải nghiệm sống hàng ngày hoặc quan sát môi trường xung quanh.\n- Dùng câu trì hoãn: That is a complex issue. If we evaluate it from a societal viewpoint...\n- Nếu quên từ chuyên môn, hãy dùng mô tả đơn giản hơn.\n\n**7. Tư duy làm bài nói:**\n- Nhìn vấn đề từ nhiều góc độ: sự tiện lợi và những hạn chế.\n- Sự logic và cách phát triển ý quan trọng hơn việc dùng từ quá khó.\n- Luôn đưa ví dụ thực tế để bài nói thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about colors and decoration.\n1.\nWhat is your favorite color when decorating your room or house?\n2.\nWhy do you like that color for decoration?\n3.\nWhat things do you usually consider when decorating a place?\nNow, let’s talk about advertisements.\n4.\nDo you often pay attention to advertisements?\n5.\nWhat types of advertisements do you like or dislike?\n6.\nHow do advertisements influence people's buying decisions?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 là phần tương tác cá nhân trong khoảng 3 phút với 6 câu hỏi thuộc 2 chủ đề quen thuộc.\n• Topic A (Decoration and Colors): Các câu hỏi 1–3 tập trung vào sở thích về màu sắc, cách trang trí không gian sống\nvà khả năng mô tả sở thích cá nhân.\n• Topic B (Advertising): Các câu hỏi 4–6 tập trung vào thói quen xem quảng cáo, loại quảng cáo yêu thích và ảnh hưởng\ncủa quảng cáo đến hành vi mua sắm.\n• Tiêu chí chấm điểm gồm Fluency, Vocabulary, Grammar và Pronunciation. Bạn cần trả lời có mở rộng bằng lý do và\nví dụ.\n• Nên dành khoảng 25–35 giây cho mỗi câu hỏi để cân bằng giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc Answer – Reason – Example (ARE): trả lời trực tiếp -> giải thích -> đưa ví dụ.\n• Ví dụ Topic A: My favorite color for decoration is blue because it creates a relaxing atmosphere. For example, I use\nblue items in my room to make it more comfortable.\n• Ví dụ Topic B: I think advertisements are useful because they help people know about new products. For instance, I\noften find interesting products through online ads.\n• Luôn tự hỏi thêm Why? hoặc How? để phát triển câu trả lời.\n• Khi chuyển chủ đề, có thể dùng câu nối: Besides decorating, I would like to talk about advertising.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và sử dụng từ đệm như actually, well, I think.\n• Dùng hiện tại đơn khi nói về sở thích và thói quen: I usually choose... / I often watch...\n• Dùng because, so, which helps me để giải thích nguyên nhân và kết quả.\n• Vocabulary Topic A: interior design (thiết kế nội thất), color combination (sự kết hợp màu sắc), relaxing atmosphere\n(không khí thư giãn).\n• Vocabulary Topic B: advertisement campaign (chiến dịch quảng cáo), attract customers (thu hút khách hàng), buying\ndecision (quyết định mua hàng).\nCụm từ quan trọng nên dùng:\n• My favorite color: màu sắc yêu thích của tôi.\n• Create a comfortable space: tạo không gian thoải mái.\n• Match well with: phù hợp với.\n• Catch people's attention: thu hút sự chú ý.\n• Influence consumer behavior: ảnh hưởng đến hành vi người tiêu dùng.\n• Provide useful information: cung cấp thông tin hữu ích.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên.\n• Because: bởi vì, dùng để giải thích.\n• For example: ví dụ như.\n• However: tuy nhiên.\n• In my opinion: theo quan điểm của tôi.\nCách thể hiện quan điểm tự nhiên:\n• I personally prefer... Ví dụ: I personally prefer simple colors because they make my room look better.\n• I believe that... Ví dụ: I believe advertisements can be helpful if they provide accurate information.\n• From my point of view... Ví dụ: From my point of view, good design can improve people's mood.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn chỉ bằng một từ hoặc một câu đơn.\n• Với Topic A, tránh chỉ nói tên màu sắc mà không giải thích cảm xúc hoặc lý do.\n• Với Topic B, tránh chỉ nói quảng cáo tốt hoặc xấu mà không đưa ví dụ.\n• Dùng sai thì khi nói về thói quen thường xuyên.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu đệm: That is an interesting question, let me think for a second.\n• Nếu quên từ, hãy mô tả đặc điểm hoặc ý nghĩa của từ đó.\n• Với Topic A, có thể chuyển sang nói về cảm xúc, sự thoải mái hoặc phong cách.\n• Với Topic B, có thể chuyển sang nói về sản phẩm, khách hàng hoặc lợi ích.\n6. Tư duy làm bài nói:\n• Coi Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n• Luôn thêm lý do và ví dụ để thể hiện khả năng phát triển ý.\n• Sự trôi chảy và rõ ràng quan trọng hơn việc dùng từ quá khó.\nSolution Discussion\nPART 2\n4 phút\nYour family is planning a day trip together and you need to choose the best place to visit.\nYou are considering the following options:\n• Option 1: Go to a water park\n• Option 2: Visit an amusement park\n• Option 3: Visit a museum\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion. Bạn cần lựa chọn địa điểm phù hợp nhất cho chuyến đi gia đình.\n• Cần phân tích 3 lựa chọn dựa trên mức độ vui vẻ, phù hợp với nhiều thành viên và trải nghiệm mang lại.\n• Tiêu chí chấm điểm gồm khả năng so sánh, lập luận, từ vựng và kết luận rõ ràng.\n• Thời gian khoảng 4 phút, cần trình bày có cấu trúc thay vì chỉ mô tả địa điểm.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E (Introduction - Comparison/Body - End): giới thiệu -> phân tích lựa chọn -> kết luận.\n• Với Option 1: Water park phù hợp cho gia đình thích hoạt động ngoài trời nhưng có thể không phù hợp với người lớn\ntuổi.\n• Với Option 2: Amusement park có nhiều trò chơi và phù hợp với nhiều độ tuổi nhưng có thể đông người.\n• Với Option 3: Museum giúp học hỏi kiến thức nhưng có thể không quá hấp dẫn với trẻ em.\n• Liên hệ với mục tiêu chuyến đi gia đình là tạo kỷ niệm và có thời gian bên nhau.\n• Dùng từ nối so sánh để chuyển đổi giữa các lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Không chỉ nói địa điểm nào tốt mà cần giải thích vì sao phù hợp hơn.\n• Dùng hiện tại đơn để mô tả địa điểm và tương lai gần khi nói kế hoạch.\n• Dùng cấu trúc so sánh: Compared with other options, this place is more suitable because...\n• Nếu quên từ, hãy mô tả bằng trải nghiệm hoặc hoạt động ở địa điểm đó.\nCụm từ quan trọng nên dùng:\n• Family bonding: sự gắn kết gia đình.\n• Spend quality time: dành thời gian chất lượng.\n• Outdoor activities: hoạt động ngoài trời.\n• Entertainment facilities: cơ sở giải trí.\n• Educational experience: trải nghiệm giáo dục.\n• Create memorable moments: tạo khoảnh khắc đáng nhớ.\nTừ nối khi nói (Linking Words):\n• On the one hand: một mặt.\n• On the other hand: mặt khác.\n• Moreover: hơn nữa.\n• Compared to: so với.\n• Therefore: vì vậy.\nCách thể hiện quan điểm tự nhiên:\n• I would choose... Ví dụ: I would choose the amusement park because everyone can enjoy different activities.\n• The main reason is that... Ví dụ: The main reason is that it is suitable for all family members.\n• I think this option is better because... Ví dụ: I think this option is better because it creates more shared experiences.\n4. Các lỗi thường gặp:\n• Chỉ nói ưu điểm của lựa chọn mình thích mà không đánh giá lựa chọn khác.\n• Lặp lại các từ như fun, good, interesting quá nhiều.\n• Không đưa ra quyết định cuối cùng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Phân tích theo các yếu tố quen thuộc như chi phí, thời gian, sự tiện lợi và sở thích gia đình.\n• Dùng câu chuyển ý: Let's evaluate this option from a different perspective.\n• Nếu bí một lựa chọn, hãy chuyển sang phương án khác để duy trì sự trôi chảy.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người đang lên kế hoạch cho một chuyến đi thực tế.\n• Một lựa chọn tốt cần phù hợp với nhiều người chứ không chỉ cá nhân bạn.\nTopic Development\nPART 3\n5 phút\nTopic: The disadvantages of living in an apartment\nLimited living space in apartments\nProblems related to neighbors\nApartment Living Problems\nÝ tưởng của bạn\nDifficulties of keeping pets in\napartments\nFOLLOW-UP QUESTIONS\n1.\nDo people in your country prefer living in houses or apartments?\n2.\nWhat are the advantages of living in an apartment?\n3.\nHow can people live in places they want 50 years from now?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Topic Development. Bạn cần trình bày về những bất lợi của việc sống trong căn hộ dựa trên các ý trong\nmindmap.\n• Các ý chính gồm không gian hạn chế, vấn đề với hàng xóm và khó khăn khi nuôi thú cưng.\n• Bạn cần thêm một ý tưởng cá nhân để bài nói đầy đủ hơn.\n• Thời gian khoảng 5 phút, nên dành 3–3.5 phút cho bài nói chính và thời gian còn lại cho follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL (Point - Explanation - Example - Link): nêu ý -> giải thích -> ví dụ -> liên kết.\n• Ví dụ 1: One major disadvantage of apartment living is limited space because people may not have enough room for\ntheir belongings.\n• Ví dụ 2: For my own idea, I think apartments can reduce privacy because residents share many common areas.\n• Phát triển từng ý thay vì chỉ đọc các gạch đầu dòng trong mindmap.\n• Với follow-up, hãy chuẩn bị cả ưu điểm và nhược điểm để trả lời linh hoạt.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm chuyển ý để kết nối các vấn đề khác nhau khi nói.\n• Dùng hiện tại đơn để nói về các vấn đề chung của việc sống trong căn hộ.\n• Có thể thay thế apartment living bằng living in high-rise buildings hoặc urban living.\nCụm từ quan trọng nên dùng:\n• Limited space: không gian hạn chế.\n• Lack of privacy: thiếu sự riêng tư.\n• Noisy neighbors: hàng xóm ồn ào.\n• Living conditions: điều kiện sống.\n• High population density: mật độ dân số cao.\n• Pet-friendly environment: môi trường phù hợp cho thú cưng.\nTừ nối khi nói (Linking Words):\n• Firstly: đầu tiên.\n• In addition: thêm vào đó.\n• For example: ví dụ như.\n• However: tuy nhiên.\n• In conclusion: kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that... Ví dụ: I strongly believe that apartment living has some limitations.\n• From my perspective... Ví dụ: From my perspective, privacy is an important issue.\n• I would say that... Ví dụ: I would say that apartments are convenient but not perfect.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do people prefer houses or apartments? -> It depends on lifestyle. Some people prefer houses for privacy, while\nothers choose apartments for convenience.\n• What are the advantages of apartments? -> Apartments are often more affordable, safer and located near many\nfacilities.\n• How can people live where they want in the future? -> People can use smart technology, develop better transportation\nand create more flexible living spaces.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê nhược điểm mà không giải thích tác động.\n• Quên phát triển ý tưởng cá nhân.\n• Dành quá nhiều thời gian cho phần chính và không đủ thời gian cho follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Liên hệ với trải nghiệm sống hàng ngày hoặc quan sát môi trường xung quanh.\n• Dùng câu trì hoãn: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ chuyên môn, hãy dùng mô tả đơn giản hơn.\n7. Tư duy làm bài nói:\n• Nhìn vấn đề từ nhiều góc độ: sự tiện lợi và những hạn chế.\n• Sự logic và cách phát triển ý quan trọng hơn việc dùng từ quá khó.\n• Luôn đưa ví dụ thực tế để bài nói thuyết phục hơn."
+}
