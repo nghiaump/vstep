@@ -1,0 +1,714 @@
+{
+ "id": "vlu-22",
+ "number": 22,
+ "title": "Đề thi VLU 22",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-22",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Impact of Wildfires on Forest Ecosystems",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Wildfires are uncontrolled fires that burn through forests, grasslands, and other natural areas. Many people see them only as a disaster, and the images of burning trees and smoke-filled skies can be **devastating-** . However, scientists explain that fire has been part of nature for thousands of years, and many forests have developed ways of living with it and even benefiting from it. To understand wildfires, we need to look at both their causes and their effects on plants and animals.",
+     "Wildfires can start in natural ways, such as lightning strikes during dry weather. However, in many countries a large share of fires is caused by people, for example by campfires, cigarettes, or machines that make sparks. Hot temperatures, strong winds, and long dry periods make it easier for a small fire to spread quickly across a large area, and climate change is making these conditions more common in many regions. In recent years, several countries have reported longer fire seasons and larger burned areas than in the past.",
+     "The immediate effects of a wildfire on living things can be very serious. Animals that cannot run or fly away quickly may die, and the heat can destroy the nests and homes of many small creatures. Trees lose their leaves, and the soil can become dry and hard, which means that rainwater runs off the surface instead of soaking in as it normally would. This can cause floods and landslides in the months after the fire, and ash may also pollute nearby rivers and streams. Smoke can also cause health problems for people who live far from the fire.",
+     "Surprisingly, fire can also bring some real benefits to a forest in the long term. Some trees, such as certain kinds of pine, have cones that open only in great heat, so their seeds are released when a fire passes through. After the flames have gone, sunlight reaches the ground, and wild flowers and young grasses **thrive** in the ash, which adds nutrients to the soil. Within a few years, areas that looked completely dead are often covered in green plants, and animals slowly return to **them**. The speed of recovery depends on how hot the fire was and how much rain falls afterwards.",
+     "Today, forest managers use several methods to reduce the risk of dangerous fires. In some places, they carry out small, controlled burns during cool, wet seasons, which remove dry grass and fallen branches before they can feed a larger fire. Other methods include building firebreaks, training local communities, and using satellites to find fires early. Volunteers and trained firefighters often work together to protect homes and valuable forests. In conclusion, wildfires cannot be completely prevented, but careful planning can help people and nature live more safely alongside fire."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Wildfires only happen in countries that have very hot summer weather",
+       "B": "Forest managers should stop every single fire as soon as possible",
+       "C": "Animals are the only living things harmed by a forest fire",
+       "D": "Wildfires harm forests in many ways but can also help them recover"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, which is a common cause of wildfires?",
+      "options": {
+       "A": "Volcanoes that erupt near large forests every summer",
+       "B": "Human activities such as campfires and cigarettes",
+       "C": "Heavy rain falling on very dry mountain slopes",
+       "D": "Wild animals chewing electric cables near small villages"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm nguyên nhân phổ biến của cháy rừng: các hoạt động của con người như đốt lửa trại và tàn thuốc lá (Human activities such as campfires and cigarettes)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"devastating\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "slightly useful",
+       "B": "quite unusual",
+       "C": "very damaging",
+       "D": "highly popular"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"devastating\" ở đoạn 1 miêu tả hình ảnh những cây cháy và khói mịt mù mang tính tàn phá nặng nề, mang nghĩa rất có hại, tàn phá lớn (very damaging)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what happens to rainwater after a wildfire?",
+      "options": {
+       "A": "It runs off the hard ground instead of soaking in",
+       "B": "It is absorbed quickly by the very dry soil underneath",
+       "C": "Plants collect all of it for the next growing season",
+       "D": "Firefighters pump it into tanks and save it for later use"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để định vị điều gì xảy ra với nước mưa sau thảm họa cháy rừng: nước mưa chảy tràn trên mặt đất cứng thay vì ngấm vào trong (It runs off the hard ground instead of soaking in)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"thrive\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "fade quickly",
+       "B": "burn easily",
+       "C": "stay hidden",
+       "D": "grow strongly"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"thrive\" ở đoạn 4 đi kèm với sự phát triển mạnh mẽ của hoa dại và cỏ non sau khi tàn lửa, mang nghĩa phát triển mạnh (grow strongly)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"them\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Years",
+       "B": "Areas",
+       "C": "Plants",
+       "D": "Flames"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"them\" ở đoạn 4, hãy đọc ngược lại danh từ chỉ đối tượng số nhiều đứng ngay trước đó trong câu: các khu vực (Areas) từng bị tàn phá sẽ được động vật từ từ quay trở lại sinh sống."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what is a controlled burn used for?",
+      "options": {
+       "A": "To remove dry grass and fallen branches",
+       "B": "To warm the soil before farmers plant crops",
+       "C": "To scare large animals away from nearby towns",
+       "D": "To test new machines used by local firefighters"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 để tìm mục đích của việc đốt dọn có kiểm soát (controlled burn): loại bỏ cỏ khô và cành cây rụng (To remove dry grass and fallen branches)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to reduce fire risk?",
+      "options": {
+       "A": "Using satellite images to find new fires early",
+       "B": "Building wide firebreaks to stop flames from spreading",
+       "C": "Completely clearing every tree throughout whole forests",
+       "D": "Training local communities to prepare for fire danger"
+      },
+      "answer": "C",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các biện pháp giảm thiểu rủi ro cháy rừng được nêu ở đoạn 5: dùng ảnh vệ tinh phát hiện sớm, làm đường cản lửa, và đào tạo cộng đồng. Phương án đề cập đến việc \"chặt bỏ hoàn toàn mọi cây xanh trong toàn bộ khu rừng\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 3 and 4 about wildfires?",
+      "options": {
+       "A": "Every forest that burns will stay empty for many centuries",
+       "B": "Fire causes damage at first but can later support new growth",
+       "C": "Animals prefer burned areas because there are no trees left",
+       "D": "Floods after a fire are always worse than the fire"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3 và 4 về việc cháy rừng gây tổn hại nghiêm trọng ban đầu (hủy diệt sinh vật, xói mòn) nhưng sau đó lại cung cấp dưỡng chất, ánh sáng giúp thực vật và động vật tái sinh, từ đó suy luận rằng lửa gây thiệt hại lúc đầu nhưng sau đó có thể hỗ trợ sự tăng trưởng mới (Fire causes damage at first but can later support new growth)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To warn tourists about the dangers of camping in national parks",
+       "B": "To describe the history of fire trucks used around the world",
+       "C": "To prove that forests never recover from any serious fire",
+       "D": "To explain how wildfires affect forests and how people respond Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R1Q1, R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để thấy văn bản mô tả cháy rừng mang lại nhiều tác hại nhưng cũng giúp hệ sinh thái phục hồi và phát triển, đồng thời giải thích cách cháy rừng tác động và cách con người ứng phó. Do đó, phương án đúng phải khái quát được việc cháy rừng gây hại nhưng cũng giúp rừng phục hồi (R1Q1) và mục đích giải thích tác động của cháy rừng và cách phản ứng của con người (R1Q10).\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R1Q2**, quét thông tin ở đoạn 2 để tìm nguyên nhân phổ biến của cháy rừng: các hoạt động của con người như đốt lửa trại và tàn thuốc lá (Human activities such as campfires and cigarettes).\n  - Với **R1Q4**, quét đoạn 3 để định vị điều gì xảy ra với nước mưa sau thảm họa cháy rừng: nước mưa chảy tràn trên mặt đất cứng thay vì ngấm vào trong (It runs off the hard ground instead of soaking in).\n  - Với **R1Q7**, quét đoạn 5 để tìm mục đích của việc đốt dọn có kiểm soát (controlled burn): loại bỏ cỏ khô và cành cây rụng (To remove dry grass and fallen branches).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R1Q3**, từ **\"devastating\"** ở đoạn 1 miêu tả hình ảnh những cây cháy và khói mịt mù mang tính tàn phá nặng nề, mang nghĩa rất có hại, tàn phá lớn (very damaging).\n  - Với **R1Q5**, từ **\"thrive\"** ở đoạn 4 đi kèm với sự phát triển mạnh mẽ của hoa dại và cỏ non sau khi tàn lửa, mang nghĩa phát triển mạnh (grow strongly).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Với đại từ **\"them\"** ở đoạn 4, hãy đọc ngược lại danh từ chỉ đối tượng số nhiều đứng ngay trước đó trong câu: các khu vực (Areas) từng bị tàn phá sẽ được động vật từ từ quay trở lại sinh sống.\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R1Q8):** Đối chiếu danh sách các biện pháp giảm thiểu rủi ro cháy rừng được nêu ở đoạn 5: dùng ảnh vệ tinh phát hiện sớm, làm đường cản lửa, và đào tạo cộng đồng. Phương án đề cập đến việc \"chặt bỏ hoàn toàn mọi cây xanh trong toàn bộ khu rừng\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ các đoạn 3 và 4 về việc cháy rừng gây tổn hại nghiêm trọng ban đầu (hủy diệt sinh vật, xói mòn) nhưng sau đó lại cung cấp dưỡng chất, ánh sáng giúp thực vật và động vật tái sinh, từ đó suy luận rằng lửa gây thiệt hại lúc đầu nhưng sau đó có thể hỗ trợ sự tăng trưởng mới (Fire causes damage at first but can later support new growth).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R1Q3, R1Q5), Quy chiếu (R1Q6) và các câu **Chi tiết** (R1Q2, R1Q4, R1Q7), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Global Challenge of Plastic Pollution",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few materials have transformed modern life as quickly as plastic. Its low cost, durability, and versatility explain why it appears in everything from syringes to food packaging. Since large-scale production began in the 1950s, humanity has manufactured billions of tonnes of it, and estimates suggest that only a small fraction has ever been recycled. The rest has been burned, buried, or released into the environment, where it may last for centuries.",
+     "Most conventional plastics do not **degrade** meaningfully; sunlight and waves merely fragment them into smaller pieces. Particles under five millimetres across are known as microplastics, and they have now been detected in places as distant as Arctic ice, deep ocean trenches, and mountain snow. Researchers have also estimated that millions of tonnes of plastic enter the oceans every year, mostly from land-based sources such as poorly managed waste and rivers.",
+     "Wildlife is among the most visible victims of this contamination, and the images are often distressing. Seabirds, turtles, and whales can become entangled in discarded fishing nets or mistake fragments for food, and post-mortem studies have repeatedly found plastic in their stomachs. Ingested plastic can block the digestive system, create a false feeling of fullness, and expose animals to chemicals that the material carries or absorbs from seawater.",
+     "The implications for people are less well understood. Microplastics have been found in seafood, bottled water, and even human blood and tissue, yet scientists stress that the long-term health effects remain uncertain and are still being studied. Some chemical additives in plastics are also suspected of disrupting hormones, although evidence varies between substances. Economic costs are easier to measure, since polluted beaches damage tourism and clean-up operations consume public funds.",
+     "Policy responses fall broadly into two categories: bans on single-use items and improved recycling systems. Experts generally agree that the **former** offers faster results, whereas the latter requires costly infrastructure and consistent public participation to deliver lasting benefits. Recycling is limited by technology and economics, because mixed or contaminated plastics are difficult to process and new plastic is often cheaper than recycled material, which discourages investment in collection and sorting.",
+     "At the international level, governments have been negotiating a legally binding treaty under United Nations auspices since 2022. Negotiators have met repeatedly, yet a final text acceptable to all delegations has so far been hard to reach. Disagreements centre on whether the agreement should cap the production of new plastic or concentrate on waste management, with some major oil-producing countries reportedly favouring the second approach. Many observers regard the problem as **intractable**, because it combines economic interests, development needs, and sharply different views about who should pay.",
+     "Tackling plastic pollution will therefore require action on several fronts at once. Companies can redesign packaging so that it is easier to reuse, governments can set binding targets and fund collection systems, and consumers can reduce unnecessary single-use items. None of these steps is sufficient alone, but together they could slow the flow of plastic into the environment while longer-term solutions are developed. Public awareness has risen sharply in recent years, which may help to build support for stronger rules."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Recycling has already solved most of the world's plastic waste problems",
+       "B": "Microplastics are harmless to marine animals and cause no human illness",
+       "C": "Plastic pollution is a global problem requiring coordinated action on many fronts",
+       "D": "Developing countries are solely responsible for plastic found in the oceans"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what are microplastics?",
+      "options": {
+       "A": "Chemical additives that make plastic more flexible",
+       "B": "Particles smaller than five millimetres across",
+       "C": "Abandoned fishing nets drifting across open oceans",
+       "D": "Bacteria that feed on plastic in seawater"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để định nghĩa vi nhựa (microplastics): các hạt có kích thước nhỏ hơn năm milimét (Particles smaller than five millimetres across)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"degrade\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "strengthen",
+       "B": "evaporate",
+       "C": "multiply",
+       "D": "decompose"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"degrade\" ở đoạn 2 đi kèm với việc nhựa thông thường không phân hủy sinh học, chỉ bị ánh sáng và sóng vỡ thành mảnh nhỏ, mang nghĩa phân hủy (decompose)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, how can ingested plastic harm animals?",
+      "options": {
+       "A": "It can block their digestive systems and create false fullness",
+       "B": "It makes animals grow faster and live much longer lives",
+       "C": "It attracts predators that quickly hunt the weakened young animals",
+       "D": "It forces animals to migrate to colder water away from coasts"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để định vị tác động của nhựa đối với động vật: làm tắc nghẽn hệ tiêu hóa và tạo cảm giác no giả (It can block their digestive systems and create false fullness)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"intractable\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "quite minor",
+       "B": "fairly obvious",
+       "C": "very difficult",
+       "D": "soon forgotten"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 16,
+      "stem": "The word \"former\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Recycling systems",
+       "B": "Bans on items",
+       "C": "Public support",
+       "D": "Policy debates"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"former\" ở đoạn 5, hãy nhìn ngược lại hai danh mục được liệt kê ở câu trước (\"bans on single-use items\" và \"improved recycling systems\"): từ này chỉ đối tượng đứng trước là lệnh cấm các mặt hàng dùng một lần (Bans on items)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what do the treaty negotiators disagree about?",
+      "options": {
+       "A": "Whether to limit new plastic production or manage waste",
+       "B": "Which country should host the headquarters of the treaty body",
+       "C": "How soon scientists can prove that microplastics harm human health",
+       "D": "Whether all plastic bottles should be banned from food stores"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 6 để tìm bất đồng giữa các nhà đàm phán hiệp ước: liệu có nên giới hạn sản xuất nhựa mới hay tập trung quản lý rác thải (Whether to limit new plastic production or manage waste)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Polluted beaches that damage tourism in coastal regions",
+       "B": "Public funds spent on cleaning up contaminated shorelines",
+       "C": "Plastic fragments detected in bottled water and seafood",
+       "D": "Proven links between microplastics and human cancer"
+      },
+      "answer": "D",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các tác động được nêu ở đoạn 4: bãi biển ô nhiễm hại du lịch, quỹ công chi cho việc dọn dẹp, và phát hiện mảnh nhựa trong nước đóng chai/hải sản. Phương án đề cập đến \"mối liên hệ được chứng minh giữa vi nhựa và bệnh ung thư ở người\" hoàn toàn không xuất hiện (bài viết khẳng định ảnh hưởng sức khỏe con người vẫn chưa rõ ràng và đang được nghiên cứu)."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 5 and 6 about solving plastic pollution?",
+      "options": {
+       "A": "A global treaty has already eliminated plastic production in most countries",
+       "B": "Progress is hindered by competing economic interests as much as by technology",
+       "C": "Recycling is now cheap enough to replace new plastic almost everywhere",
+       "D": "Oil-producing countries have agreed to stop supplying material for new plastics"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5 và 6 về việc đàm phán bị cản trở bởi các lợi ích kinh tế khác nhau (như các nước sản xuất dầu mỏ) và hạn chế kỹ thuật/kinh tế của việc tái chế, từ đó suy luận rằng tiến trình bị cản trở bởi các lợi ích kinh tế cạnh tranh cũng như công nghệ (Progress is hindered by competing economic interests as much as by technology)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to boycott every company that sells goods wrapped in plastic",
+       "B": "To report on a recent scientific experiment measuring plastic in Arctic ice samples",
+       "C": "To explain why plastic pollution matters and how it might be tackled",
+       "D": "To compare the costs of plastic and glass packaging in several countries Reading"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R2Q1, R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để thấy văn bản phân tích rác thải nhựa là một cuộc khủng hoảng môi trường toàn cầu, từ vi nhựa đến ô nhiễm đại dương, đồng thời nhấn mạnh nhu cầu hành động phối hợp toàn diện trên nhiều phương diện. Do đó, phương án đúng phải khái quát được rác thải nhựa là vấn đề toàn cầu cần hành động phối hợp (R2Q1) và mục đích giải thích lý do ô nhiễm nhựa đáng lo ngại và cách giải quyết (R2Q10).\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R2Q2**, quét thông tin ở đoạn 2 để định nghĩa vi nhựa (microplastics): các hạt có kích thước nhỏ hơn năm milimét (Particles smaller than five millimetres across).\n  - Với **R2Q4**, quét đoạn 3 để định vị tác động của nhựa đối với động vật: làm tắc nghẽn hệ tiêu hóa và tạo cảm giác no giả (It can block their digestive systems and create false fullness).\n  - Với **R2Q7**, quét đoạn 6 để tìm bất đồng giữa các nhà đàm phán hiệp ước: liệu có nên giới hạn sản xuất nhựa mới hay tập trung quản lý rác thải (Whether to limit new plastic production or manage waste).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R2Q3**, từ **\"degrade\"** ở đoạn 2 đi kèm với việc nhựa thông thường không phân hủy sinh học, chỉ bị ánh sáng và sóng vỡ thành mảnh nhỏ, mang nghĩa phân hủy (decompose).\n  - With **R2Q5**, từ **\"intractable\"** ở đoạn 6 mô tả vấn đề rác thải nhựa rất khó giải quyết do đan xen lợi ích kinh tế và thương mại, mang nghĩa rất khó khăn, khó giải quyết (very difficult).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Với đại từ **\"former\"** ở đoạn 5, hãy nhìn ngược lại hai danh mục được liệt kê ở câu trước (\"bans on single-use items\" và \"improved recycling systems\"): từ này chỉ đối tượng đứng trước là lệnh cấm các mặt hàng dùng một lần (Bans on items).\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R2Q8):** Đối chiếu danh sách các tác động được nêu ở đoạn 4: bãi biển ô nhiễm hại du lịch, quỹ công chi cho việc dọn dẹp, và phát hiện mảnh nhựa trong nước đóng chai/hải sản. Phương án đề cập đến \"mối liên hệ được chứng minh giữa vi nhựa và bệnh ung thư ở người\" hoàn toàn không xuất hiện (bài viết khẳng định ảnh hưởng sức khỏe con người vẫn chưa rõ ràng và đang được nghiên cứu).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 5 và 6 về việc đàm phán bị cản trở bởi các lợi ích kinh tế khác nhau (như các nước sản xuất dầu mỏ) và hạn chế kỹ thuật/kinh tế của việc tái chế, từ đó suy luận rằng tiến trình bị cản trở bởi các lợi ích kinh tế cạnh tranh cũng như công nghệ (Progress is hindered by competing economic interests as much as by technology).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R2Q3, R2Q5), Quy chiếu (R2Q6) và các câu **Chi tiết** (R2Q2, R2Q4, R2Q7), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Understanding Burnout in Generation Z",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Burnout, a state of emotional, physical, and mental exhaustion caused by prolonged stress, has become a defining concern of the modern workplace, and recent surveys suggest that younger workers may be especially affected. Generation Z, broadly defined as those born between the late 1990s and early 2010s, is now entering employment in large numbers. Understanding why this cohort reports such high levels of exhaustion requires looking beyond stereotypes of fragility.",
+     "The World Health Organization classifies burnout as an occupational phenomenon rather than a medical condition, and describes it through three dimensions: exhaustion, growing cynicism toward one's job, and reduced professional efficacy. Several surveys have suggested that younger employees are more likely than older colleagues to report feeling burned out, although self-reported data can be unreliable. Many members of Generation Z, who began their careers during the pandemic, report that these symptoms appeared within months of starting work. Such early exhaustion is worrying because it can shape long-term attitudes towards work.",
+     "Economic conditions have also played a significant role in shaping young people's experience of work. Many graduates face short-term contracts, unpaid internships, and gig work that offers little security, so they must remain constantly available while worrying about whether their income will last. Rising housing costs and student debt make such precarious arrangements feel even more stressful, since a single lost shift can threaten rent payments.",
+     "[1] Digital technology has blurred the boundary between professional and private life. **[2]** Smartphones allow messages from managers and colleagues to arrive at any hour, and many young employees feel an unspoken pressure to respond immediately. **[3]** Remote and hybrid arrangements, which many welcome for their flexibility, can intensify this problem because the home becomes both a workplace and a place of rest. **[4]** Such constant availability is widely regarded by occupational psychologists as a strong predictor of burnout.",
+     "Many younger employees, **whose** openness about mental health far exceeds that of earlier generations, are more willing to seek help when exhaustion appears. However, social media can **exacerbate** the problem by encouraging comparison with the apparently glamorous careers of peers. Platforms that reward visible achievement can leave young workers feeling that their own progress is inadequate, even when they are performing well by any reasonable standard.",
+     "Responses to burnout tend to fall into two categories, individual and organisational. Individual strategies such as exercise, mindfulness, and better sleep can help, but critics argue that placing the burden on employees ignores the workplace conditions that cause exhaustion in the first place. Organisational measures include realistic workloads, protected time off, and managers who are trained to recognise warning signs. Some companies have experimented with shorter working weeks, and early trials suggest that productivity can be maintained while reported exhaustion falls.",
+     "Burnout among young adults is therefore best understood as a shared problem rather than a personal failing. Employers who ignore it risk losing talented staff, while societies that dismiss it risk raising a generation that equates work with exhaustion. Meaningful change will probably require cooperation between individuals, organisations, and policymakers, together with a willingness to question assumptions about productivity that have long gone unchallenged."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Generation Z burnout reflects structural pressures and requires more than individual solutions",
+       "B": "Young workers are simply less resilient than previous generations of employees",
+       "C": "Social media is the only cause of exhaustion among young adults",
+       "D": "Remote work has ended burnout by giving employees full control"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, how does the World Health Organization classify burnout?",
+      "options": {
+       "A": "As a mental illness that usually requires long hospital treatment",
+       "B": "As a temporary mood that disappears after one good holiday",
+       "C": "As an occupational phenomenon, not a medical condition",
+       "D": "As a personality trait found mainly in younger employees"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm cách WHO phân loại hiện tượng kiệt sức: như một hiện tượng nghề nghiệp chứ không phải là tình trạng y tế (As an occupational phenomenon, not a medical condition)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"precarious\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "predictable",
+       "B": "unstable",
+       "C": "prestigious",
+       "D": "generous"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"precarious\" ở đoạn 3 mô tả các hợp đồng ngắn hạn, bấp bênh, không ổn định của người lao động trẻ, mang nghĩa không ổn định (unstable)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'In these circumstances, the home stops being a refuge, and workers rarely disconnect fully.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu / Cohesion",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mạch văn ở đoạn 4 nói về việc công nghệ làm mờ ranh giới cá nhân và công việc tại nhà. Vị trí [4] nằm ngay sau câu mô tả mô hình làm việc từ xa khiến nhà vừa là nơi làm việc vừa là nơi nghỉ ngơi. Câu chèn vào (nhắc đến việc trong hoàn cảnh đó, nhà không còn là chốn ẩn náu và người lao động hiếm khi ngắt kết nối hoàn toàn) tạo sự liên kết logic hoàn hảo trước câu kết luận về việc luôn sẵn sàng là nguyên nhân dẫn đến kiệt sức."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, why can remote and hybrid arrangements intensify the problem?",
+      "options": {
+       "A": "The home becomes both a workplace and a place of rest",
+       "B": "Employees must travel long distances between their offices and homes every day",
+       "C": "Managers closely monitor every keystroke through software installed on personal laptops",
+       "D": "Employees lose access to the benefits offered by their companies"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 để tìm lý do mô hình làm việc từ xa và kết hợp làm trầm trọng thêm vấn đề: ngôi nhà vừa trở thành nơi làm việc vừa là nơi nghỉ ngơi (The home becomes both a workplace and a place of rest)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"whose\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Earlier generations",
+       "B": "Company managers",
+       "C": "Younger employees",
+       "D": "Health professionals"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"whose\" ở đoạn 5, hãy đọc ngược lại danh từ chỉ người sở hữu đứng ngay trước đó trong câu: nhân viên trẻ tuổi (Younger employees) có sự cởi mở về sức khỏe tâm thần vượt trội hơn thế hệ trước."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"exacerbate\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "ease",
+       "B": "explain",
+       "C": "conceal",
+       "D": "worsen"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"exacerbate\" ở đoạn 5 đi kèm với việc mạng xã hội làm trầm trọng thêm vấn đề so sánh bản thân, mang nghĩa làm trầm trọng thêm (worsen)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as an organisational measure?",
+      "options": {
+       "A": "Managers trained to recognise early warning signs of exhaustion",
+       "B": "Public rewards for employees who regularly work overtime",
+       "C": "Protected time off that employees can use without guilt",
+       "D": "Experimental shorter working weeks in a small number of companies"
+      },
+      "answer": "B",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các biện pháp tổ chức được nêu ở đoạn 6: quản lý được đào tạo nhận biết dấu hiệu sớm, thời gian nghỉ phép được bảo vệ, và thử nghiệm tuần làm việc ngắn hơn. Phương án đề cập đến \"phần thưởng công khai cho nhân viên thường xuyên làm thêm giờ\" hoàn toàn trái ngược với việc giảm thiểu kiệt sức."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 3, 4, and 5 about Generation Z's exhaustion?",
+      "options": {
+       "A": "It stems from combined economic, technological, and social pressures rather than one cause",
+       "B": "Economic insecurity is irrelevant because young workers earn higher salaries than ever",
+       "C": "Smartphones alone explain why exhaustion has risen so sharply since the pandemic",
+       "D": "Open discussion of mental health has proved harmful to young workers"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 5 về việc kiệt sức ở Gen Z bắt nguồn từ nhiều yếu tố kết hợp (bất an kinh tế, ranh giới công nghệ bị xóa nhòa, áp lực mạng xã hội), từ đó suy luận rằng nó xuất phát từ áp lực kinh tế, công nghệ và xã hội kết hợp thay vì chỉ do một nguyên nhân duy nhất (It stems from combined economic, technological, and social pressures rather than one cause)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To criticise young employees for refusing to accept difficult and demanding conditions",
+       "B": "To announce new government regulations that limit working hours in several countries",
+       "C": "To analyse the causes of Generation Z burnout and possible responses",
+       "D": "To advertise mindfulness courses designed for stressed university students nationwide Reading"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R3Q1, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để thấy văn bản phân tích hiện tượng kiệt sức (burnout) ở thế hệ Gen Z phản ánh các áp lực mang tính cấu trúc (kinh tế, công nghệ, xã hội) và đòi hỏi sự phối hợp đồng bộ thay vì chỉ dựa vào giải pháp cá nhân. Do đó, phương án đúng phải khái quát được vấn đề kiệt sức phản ánh áp lực cấu trúc và cần nhiều hơn giải pháp cá nhân (R3Q1) và mục đích phân tích nguyên nhân kiệt sức của Gen Z cùng các cách ứng phó (R3Q10).\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R3Q2**, quét thông tin ở đoạn 2 để tìm cách WHO phân loại hiện tượng kiệt sức: như một hiện tượng nghề nghiệp chứ không phải là tình trạng y tế (As an occupational phenomenon, not a medical condition).\n  - Với **R3Q5**, quét đoạn 4 để tìm lý do mô hình làm việc từ xa và kết hợp làm trầm trọng thêm vấn đề: ngôi nhà vừa trở thành nơi làm việc vừa là nơi nghỉ ngơi (The home becomes both a workplace and a place of rest).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R3Q3**, từ **\"precarious\"** ở đoạn 3 mô tả các hợp đồng ngắn hạn, bấp bênh, không ổn định của người lao động trẻ, mang nghĩa không ổn định (unstable).\n  - Với **R3Q7**, từ **\"exacerbate\"** ở đoạn 5 đi kèm với việc mạng xã hội làm trầm trọng thêm vấn đề so sánh bản thân, mang nghĩa làm trầm trọng thêm (worsen).\n- **Dạng câu hỏi Điền câu / Cohesion (R3Q4):** Phân tích mạch văn ở đoạn 4 nói về việc công nghệ làm mờ ranh giới cá nhân và công việc tại nhà. Vị trí **[4]** nằm ngay sau câu mô tả mô hình làm việc từ xa khiến nhà vừa là nơi làm việc vừa là nơi nghỉ ngơi. Câu chèn vào (nhắc đến việc trong hoàn cảnh đó, nhà không còn là chốn ẩn náu và người lao động hiếm khi ngắt kết nối hoàn toàn) tạo sự liên kết logic hoàn hảo trước câu kết luận về việc luôn sẵn sàng là nguyên nhân dẫn đến kiệt sức.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Với đại từ **\"whose\"** ở đoạn 5, hãy đọc ngược lại danh từ chỉ người sở hữu đứng ngay trước đó trong câu: nhân viên trẻ tuổi (Younger employees) có sự cởi mở về sức khỏe tâm thần vượt trội hơn thế hệ trước.\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R3Q8):** Đối chiếu danh sách các biện pháp tổ chức được nêu ở đoạn 6: quản lý được đào tạo nhận biết dấu hiệu sớm, thời gian nghỉ phép được bảo vệ, và thử nghiệm tuần làm việc ngắn hơn. Phương án đề cập đến \"phần thưởng công khai cho nhân viên thường xuyên làm thêm giờ\" hoàn toàn trái ngược với việc giảm thiểu kiệt sức.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 5 về việc kiệt sức ở Gen Z bắt nguồn từ nhiều yếu tố kết hợp (bất an kinh tế, ranh giới công nghệ bị xóa nhòa, áp lực mạng xã hội), từ đó suy luận rằng nó xuất phát từ áp lực kinh tế, công nghệ và xã hội kết hợp thay vì chỉ do một nguyên nhân duy nhất (It stems from combined economic, technological, and social pressures rather than one cause).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R3Q3, R3Q7), Quy chiếu (R3Q6) và các câu **Chi tiết** (R3Q2, R3Q4, R3Q5), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Artificial Intelligence and the Future of Human Labor",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few technological developments have provoked as much speculation about the future of work as artificial intelligence. Optimists foresee a surge in productivity and the creation of entirely new occupations, whereas pessimists warn of widespread job losses, deepening inequality, and the erosion of bargaining power for ordinary employees. Evidence from economic history offers guidance but no certainty, since earlier waves of automation differed from the present one in important respects. Forecasts, moreover, depend on assumptions about adoption rates that have repeatedly proved overly optimistic or pessimistic.",
+     "Previous technological revolutions, from mechanised looms to assembly lines, did eliminate many jobs, yet they also generated new industries and, over several decades, rising living standards. Between the late eighteenth and early twentieth centuries, agriculture's share of employment in industrialising economies fell dramatically while manufacturing and services expanded. The transition, however, was rarely painless for those individuals whose livelihoods were directly affected. Historians note that displaced workers, who often lacked the skills demanded by new sectors, endured long periods of unemployment or lower pay before conditions improved.",
+     "What distinguishes the current wave is that generative systems can perform cognitive tasks, such as drafting text, analysing data, and writing code, which were previously considered the preserve of educated professionals. Estimates of exposure vary widely, but several studies suggest that a substantial share of tasks in many occupations could be automated. Some commentators therefore fear that these systems will **supplant** not only manual workers but also analysts, designers, and junior programmers. Exposure to automation, however, is not the same thing as outright replacement of workers.",
+     "[1] Economists therefore distinguish between tasks and jobs. [2] Consequently, technology may transform a role without eliminating it, as when spreadsheet software changed the nature of accounting work without making accountants redundant, although routine bookkeeping posts reportedly declined. **[3]** Workers who learn to collaborate with AI tools may outperform colleagues who do not, rather than being eliminated by the machines themselves. **[4]** Such complementarity has historically been strongest where new tools extend human judgment rather than imitate it.",
+     "Whether productivity gains translate into broadly shared prosperity depends heavily on institutions and policy. If the benefits accrue mainly to owners of capital and a small group of highly skilled specialists, wages for other workers may stagnate, widening existing inequalities. Some analysts suggest that routine clerical workers are most exposed, particularly middle-income employees for **whom** few comparable jobs may exist if their tasks are automated. Geography matters as well, since countries with limited digital infrastructure may struggle to capture the benefits.",
+     "Policy responses under discussion include investment in reskilling, stronger social safety nets, and reforms to taxation. Proponents of reskilling point to evidence that adult training can improve employment prospects, although critics observe that many programmes have delivered modest results and that older workers rarely find retraining easy. More radical proposals, such as a universal basic income or a shorter working week, remain contested and largely untested at scale. Without effective responses, pay may fail to rise in a manner **commensurate** with improved productivity, and public trust in technological progress could erode.",
+     "The future of human labour is therefore not predetermined by the technology itself. Choices about how AI is designed, deployed, and regulated will shape whether it complements human capabilities or merely substitutes for them, and those choices will be made by employers, governments, and workers themselves. Workers, meanwhile, will need a voice in how new systems are introduced. A cautious conclusion is that disruption is almost certain, but its distribution and duration remain open questions."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Artificial intelligence will inevitably destroy most jobs within the next decade",
+       "B": "Previous technological revolutions had no lasting effect on employment or wages",
+       "C": "Reskilling programmes have already solved the problem of automation in advanced economies",
+       "D": "The effects of AI on work depend on policy choices, not technology alone"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what happened to many displaced workers during earlier technological revolutions?",
+      "options": {
+       "A": "They endured unemployment or lower pay for long periods",
+       "B": "They quickly found better paid positions in expanding industrial sectors",
+       "C": "They emigrated in large numbers to colonies overseas shortly afterwards",
+       "D": "They received generous government pensions that fully replaced lost wages"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm điều gì đã xảy ra với nhiều người lao động bị thay thế trong các cuộc cách mạng công nghệ trước: họ phải chịu cảnh thất nghiệp hoặc thu nhập thấp trong thời gian dài (They endured unemployment or lower pay for long periods)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"supplant\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "assist",
+       "B": "reward",
+       "C": "replace",
+       "D": "educate"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'In practice, a single occupation bundles many tasks, only some of which can be automated.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chèn câu",
+      "explanation": "định vị vị trí [2] ở đoạn 4, nơi câu văn miêu tả thực tế rằng một nghề nghiệp bao gồm nhiều nhiệm vụ và chỉ một số trong đó có thể tự động hóa (In practice, a single occupation bundles many tasks...)."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what happened when spreadsheet software was introduced?",
+      "options": {
+       "A": "Accountants disappeared entirely because computers handled every financial calculation",
+       "B": "Firms stopped preparing financial reports for their shareholders",
+       "C": "Bookkeepers gained legal protection against all automation",
+       "D": "Accounting work was transformed without making accountants redundant"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 để tìm kết quả khi phần mềm bảng tính (spreadsheet) ra đời: công việc kế toán được biến đổi mà không làm cho kế toán bị dư thừa/mất việc (Accounting work was transformed without making accountants redundant)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"whom\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Middle-income employees",
+       "B": "Routine tasks",
+       "C": "Some analysts",
+       "D": "Comparable jobs"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"whom\" ở đoạn 5, hãy đọc ngược lại danh từ chỉ người số nhiều đứng ngay trước đó trong câu: nhân viên có thu nhập trung bình (Middle-income employees), những người đang phải đối mặt với áp lực tự động hóa lớn."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"commensurate\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "incompatible",
+       "B": "proportionate",
+       "C": "unrelated",
+       "D": "excessive"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"commensurate\" ở đoạn 6 mô tả mức lương hoặc sự đền bù tương xứng với năng suất, mang nghĩa tương ứng, cân xứng (proportionate)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a policy proposal?",
+      "options": {
+       "A": "Government investment in reskilling programmes for adult workers",
+       "B": "Reforms to taxation systems affecting capital and labour",
+       "C": "Banning companies from using AI systems altogether",
+       "D": "A shorter working week with no reduction in pay"
+      },
+      "answer": "C",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các đề xuất chính sách được nêu ở đoạn 6: đầu tư vào chương trình đào tạo lại, cải cách thuế vốn và lao động, và tuần làm việc ngắn hơn không giảm lương. Phương án đề cập đến việc \"cấm các công ty sử dụng hoàn toàn hệ thống AI\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 2, 3, and 5 about the impact of AI on workers?",
+      "options": {
+       "A": "Highly educated professionals are the only workers who face any exposure",
+       "B": "Earlier revolutions prove that technology never harms ordinary workers in practice",
+       "C": "Wages will rise automatically in every country wherever productivity clearly improves",
+       "D": "Its consequences will vary across occupations and depend on how gains are distributed"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2, 3 và 5 về việc tác động của công nghệ cũ và mới không đồng đều, phụ thuộc vào bản chất công việc và cách phân phối lợi ích kinh tế, từ đó suy luận rằng hậu quả của nó sẽ khác nhau giữa các ngành nghề và phụ thuộc vào cách phân bổ thành quả (Its consequences will vary across occupations and depend on how gains are distributed)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To examine how AI may reshape work and what determines outcomes",
+       "B": "To persuade employers to adopt new automated systems as quickly as possible",
+       "C": "To describe the technical architecture of modern generative AI language models",
+       "D": "To warn young graduates against choosing careers in technology-related fields"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R4Q1, R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để thấy văn bản phân tích tác động của trí tuệ nhân tạo (AI) đối với việc làm, chỉ ra rằng ảnh hưởng của nó không chỉ phụ thuộc vào công nghệ mà còn do các lựa chọn chính sách và cách phân bổ thành quả. Do đó, phương án đúng phải khái quát được tác động của AI phụ thuộc vào chính sách chứ không chỉ công nghệ (R4Q1) và mục đích phân tích cách AI định hình công việc và các yếu tố quyết định kết quả (R4Q10).\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q4, R4Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, quét thông tin ở đoạn 2 để tìm điều gì đã xảy ra với nhiều người lao động bị thay thế trong các cuộc cách mạng công nghệ trước: họ phải chịu cảnh thất nghiệp hoặc thu nhập thấp trong thời gian dài (They endured unemployment or lower pay for long periods).\n  - Với **R4Q4**, định vị vị trí **[2]** ở đoạn 4, nơi câu văn miêu tả thực tế rằng một nghề nghiệp bao gồm nhiều nhiệm vụ và chỉ một số trong đó có thể tự động hóa (In practice, a single occupation bundles many tasks...).\n  - Với **R4Q5**, quét đoạn 4 để tìm kết quả khi phần mềm bảng tính (spreadsheet) ra đời: công việc kế toán được biến đổi mà không làm cho kế toán bị dư thừa/mất việc (Accounting work was transformed without making accountants redundant).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - With **R4Q3**, từ **\"supplant\"** ở đoạn 3 đi kèm với việc AI có khả năng thay thế các nhiệm vụ nhận thức trước đây do con người đảm nhận, mang nghĩa thay thế (replace).\n  - Với **R4Q7**, từ **\"commensurate\"** ở đoạn 6 mô tả mức lương hoặc sự đền bù tương xứng với năng suất, mang nghĩa tương ứng, cân xứng (proportionate).\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Với đại từ **\"whom\"** ở đoạn 5, hãy đọc ngược lại danh từ chỉ người số nhiều đứng ngay trước đó trong câu: nhân viên có thu nhập trung bình (Middle-income employees), những người đang phải đối mặt với áp lực tự động hóa lớn.\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R4Q8):** Đối chiếu danh sách các đề xuất chính sách được nêu ở đoạn 6: đầu tư vào chương trình đào tạo lại, cải cách thuế vốn và lao động, và tuần làm việc ngắn hơn không giảm lương. Phương án đề cập đến việc \"cấm các công ty sử dụng hoàn toàn hệ thống AI\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 2, 3 và 5 về việc tác động của công nghệ cũ và mới không đồng đều, phụ thuộc vào bản chất công việc và cách phân phối lợi ích kinh tế, từ đó suy luận rằng hậu quả của nó sẽ khác nhau giữa các ngành nghề và phụ thuộc vào cách phân bổ thành quả (Its consequences will vary across occupations and depend on how gains are distributed).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R4Q3, R4Q7), Quy chiếu (R4Q6) và các câu **Chi tiết** (R4Q2, R4Q4, R4Q5), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Paula, who is coming to visit you in Vietnam next month.\nRead part of her email below.\nI'm so excited about my trip! My flight lands at 5 p.m., so what is the fastest way to get to your house from the airport at that time? Also, where do you think is the best place to visit during my stay? By the way, how are things with you? Will you have much free time next month to hang out with me?\nWrite an email responding to Paula. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Paula, who is coming to visit you in Vietnam next month.",
+      "Read part of her email below."
+     ],
+     "quote": [
+      "I'm so excited about my trip! My flight lands at 5 p.m., so what is the fastest way to get to your house from the airport at that time? Also, where do you think is the best place to visit during my stay? By the way, how are things with you? Will you have much free time next month to hang out with me?"
+     ],
+     "instruction": "Write an email responding to Paula. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- **Dạng bài:** Thư thân mật (Informal Email).\n- **Yêu cầu:** Trả lời 4 ý: Cách di chuyển nhanh nhất từ sân bay lúc 5h chiều, địa điểm tham quan tốt nhất, tình hình cá nhân của bạn, và thời gian rảnh của bạn vào tháng tới.\n- **Độ dài:** Tối thiểu 120 từ.\n- **Lưu ý:** 5h chiều là giờ cao điểm tại Việt Nam, nên cân nhắc gợi ý phương tiện phù hợp (xe máy hoặc xe buýt điện/tổng đài thay vì taxi truyền thống có thể bị kẹt xe).\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Hi Paula, / Dear Paula,\n- **Opening:** Phản hồi lại sự hào hứng của bạn mình. Ví dụ: I'm so happy to hear that you're finally coming! I can't wait to see you.\n- **Body Paragraph 1:** Trả lời về cách di chuyển. Nhắc đến việc 5h chiều là giờ cao điểm (rush hour). Gợi ý dùng Grab bike hoặc xe buýt sân bay để tránh kẹt xe.\n- **Body Paragraph 2:** Gợi ý địa điểm tham quan. Có thể là Hồ Hoàn Kiếm, Dinh Độc Lập hoặc một quán cafe đặc trưng.\n- **Body Paragraph 3:** Cập nhật tình hình bản thân (đang bận làm freelancer hoặc vừa tốt nghiệp) và xác nhận thời gian rảnh để đi chơi cùng Paula.\n- **Closing & Sign-off:** Chào tạm biệt và hẹn gặp lại. Ví dụ: Take care and see you soon! Best, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng ngôn ngữ tự nhiên, gần gũi. Sử dụng thì tương lai đơn và hiện tại hoàn thành.\nTừ vựng quan trọng:\n- **Rush hour:** Giờ cao điểm\n- **Traffic congestion / Traffic jam:** Tắc đường\n- **Ride-hailing service:** Dịch vụ gọi xe (Grab/Be)\n- **Must-visit destination:** Điểm đến không thể bỏ qua\n- **Catch up:** Hàn huyên, cập nhật tin tức\n- **Be tied up with:** Bận rộn với việc gì\n- **Hospitality:** Sự hiếu khách\nTừ nối (Linking words):\n- **Regarding your question:** Liên quan đến câu hỏi của bạn\n- **In terms of:** Về mặt\n- **Anyway:** Dù sao thì (để chuyển ý)\n- **As for...:** Còn về...\n- **To be honest:** Thành thật mà nói\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm over the moon:** Mình cực kỳ vui sướng\n- **It's been a while:** Đã lâu rồi chúng ta không gặp\n- **I'm looking forward to:** Mình rất mong chờ\n\n**4. Các lỗi thường gặp:**\n- Quên không trả lời một trong bốn câu hỏi của đề bài.\n- Sử dụng cấu trúc câu quá cứng nhắc, trang trọng.\n- Nhầm lẫn giữa \"Are you have\" (sai ngữ pháp) trong câu hỏi của đề thành câu khẳng định sai trong bài làm.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra các thì tương lai (will/going to) khi nói về kế hoạch tháng tới.\n- Đảm bảo các dấu câu (chấm, phẩy) đặt đúng vị trí.\n- Kiểm tra lỗi viết hoa tên riêng (Vietnam, Paula).\n\n**6. Tư duy làm bài:**\n- Hãy viết như đang thực sự lên kế hoạch đón một người bạn thân. Sự chi tiết trong lời khuyên (ví dụ: nhắc về kẹt xe) sẽ giúp bài viết chân thực và được đánh giá cao hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn the modern education system, many countries have moved away from using a single set of textbooks to allowing multiple sets of textbooks for the same subjects.\nWhile some educators believe this variety enriches the learning experience, others argue it may cause confusion and inequality among students.\nDiscuss both views and give your own opinion about the benefits and drawbacks of using multiple textbooks in education.\nWrite an essay to an educated reader to discuss both views and give your own opinion about the use of multiple textbooks in education. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In the modern education system, many countries have moved away from using a single set of textbooks to allowing multiple sets of textbooks for the same subjects.",
+      "While some educators believe this variety enriches the learning experience, others argue it may cause confusion and inequality among students.",
+      "Discuss both views and give your own opinion about the benefits and drawbacks of using multiple textbooks in education."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about the use of multiple textbooks in education. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- **Dạng bài:** Discussion Essay.\n- **Chủ đề:** Việc sử dụng nhiều bộ sách giáo khoa (multiple textbooks) thay vì một bộ duy nhất.\n- **Yêu cầu:** Thảo luận lợi ích (đa dạng kiến thức, khuyến khích tư duy phản biện) và khó khăn (gây bối rối, chi phí, không đồng bộ), sau đó đưa ra ý kiến cá nhân.\n- **Độ dài:** Tối thiểu 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu xu hướng giáo dục mới. Nêu vấn đề tranh cãi giữa sự đa dạng và sự thống nhất.\n- **Body 1 (Lợi ích):** Cung cấp nhiều góc nhìn khác nhau, giúp giáo viên linh hoạt trong giảng dạy, phù hợp với từng đối tượng học sinh. Ví dụ: Different textbooks can cater to various learning styles.\n- **Body 2 (Thách thức):** Gây khó khăn cho việc thi cử tập trung, tạo ra khoảng cách về chất lượng giữa các địa phương, áp lực tài chính cho phụ huynh. Ví dụ: It might lead to a lack of standardization in national exams.\n- **Conclusion:** Tổng kết lại. Đưa ra ý kiến: Đa dạng là tốt nhưng cần có sự kiểm soát chặt chẽ về khung chương trình của Bộ Giáo dục.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng từ vựng chuyên ngành giáo dục. Đảm bảo tính mạch lạc bằng cách sử dụng các từ chuyển đoạn đối lập (On the other hand, In contrast).\nTừ vựng quan trọng:\n- **Educational curriculum:** Chương trình giảng dạy\n- **Critical thinking:** Tư duy phản biện\n- **Standardization:** Sự tiêu chuẩn hóa\n- **Learning materials:** Tài liệu học tập\n- **Diverse perspectives:** Các góc nhìn đa dạng\n- **Knowledge acquisition:** Sự tiếp thu kiến thức\n- **Academic performance:** Kết quả học tập\nTừ nối (Linking words):\n- **On the one hand / On the other hand:** Một mặt / Mặt khác\n- **In addition to:** Bên cạnh việc\n- **Furthermore:** Hơn nữa\n- **Consequently:** Do đó\n- **By contrast:** Ngược lại\n- **In conclusion:** Kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- **Variety of instructional books:** Thay cho \"multiple textbooks\".\n- **Monopolistic textbook system:** Hệ thống độc quyền sách giáo khoa (để nói về việc chỉ có 1 bộ).\n- **Academic stakeholders:** Các bên liên quan trong giáo dục (học sinh, giáo viên, phụ huynh).\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is argued by some that...:** Một số người lập luận rằng...\n- **I am of the opinion that...:** Tôi có ý kiến rằng...\n- **A balanced approach would be...:** Một cách tiếp cận cân bằng sẽ là...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về sách giáo khoa nói chung mà không tập trung vào khía cạnh \"nhiều bộ sách\" (multiple sets).\n- Thiếu câu chủ đề (Topic sentence) khiến đoạn văn bị rời rạc.\n- Dùng từ vựng quá đơn giản, không phù hợp với yêu cầu viết luận cho \"educated reader\".\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã có ý kiến cá nhân ở cả mở bài và kết bài chưa.\n- Kiểm tra sự thống nhất giữa chủ ngữ và động từ.\n- Đảm bảo các ý hỗ trợ (examples) liên quan trực tiếp đến luận điểm chính.\n\n**6. Tư duy làm bài:**\n- Chủ đề này khá thực tế tại Việt Nam hiện nay (chương trình GDPT mới). Hãy sử dụng những hiểu biết thực tế về việc đổi mới sách giáo khoa để làm ví dụ minh họa, điều này sẽ làm bài viết có chiều sâu hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about drinks\n\n1\nWhat is your favorite drink?\n2\nOn what occasions do you usually have that drink and why?\n3\nDo you prefer having drinks at home or at a cafe? Why?\n\nNow, let’s talk about clothes\n\n4\nHow often do you buy new clothes?\n5\nWhat type of clothes do you like to wear? Why?\n6\nDo you prefer buying clothes in physical stores or online? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói gồm 6 câu hỏi ngắn trong khoảng 3 phút nhằm kiểm tra khả năng giao tiếp tự nhiên của bạn.\n- **Topic A (Drinks):** Câu hỏi 1–3 tập trung vào đồ uống yêu thích, thói quen uống nước và địa điểm bạn thích thưởng thức đồ uống.\n- **Topic B (Clothes):** Câu hỏi 4–6 xoay quanh việc mua quần áo, phong cách thời trang và thói quen mua sắm online hoặc trực tiếp.\n- Giám khảo đánh giá độ trôi chảy, từ vựng, ngữ pháp và khả năng phát âm rõ ràng.\n- Bạn nên trả lời khoảng 25–35 giây cho mỗi câu để giữ cân bằng thời gian giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer – Reason – Example để phát triển ý một cách tự nhiên.\n- **Ví dụ Topic A:** My favorite drink is iced coffee because it helps me feel more energetic. For example, I usually drink it in the morning before going to work or school.\n- **Ví dụ Topic B:** I prefer casual clothes because they are comfortable and suitable for daily activities. For instance, I often wear jeans and T-shirts when hanging out with friends.\n- Hãy luôn tự hỏi Why? hoặc How? để mở rộng câu trả lời thay vì trả lời quá ngắn.\n- Khi chuyển ý, bạn có thể dùng câu như: Besides comfort, I also care about the style and color of my clothes.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Nói với tốc độ ổn định và dùng filler tự nhiên như well, actually hoặc to be honest để tránh ngập ngừng.\n- Đối với Topic A, hãy sử dụng hiện tại đơn để nói về thói quen hằng ngày.\n- Đối với Topic B, hiện tại đơn và hiện tại tiếp diễn có thể được dùng để mô tả sở thích thời trang hiện tại.\n- Nếu quên từ vựng, hãy mô tả chức năng hoặc đặc điểm của món đồ thay vì dừng lại quá lâu.\n- Vocabulary for Topic A: refreshing beverage (đồ uống giải khát), boost my energy (tăng năng lượng), coffee shop atmosphere (không khí quán cà phê), homemade drink (đồ uống tự làm).\n- Vocabulary for Topic B: fashion style (phong cách thời trang), trendy clothes (quần áo hợp xu hướng), comfortable outfit (trang phục thoải mái), online shopping platform (nền tảng mua sắm trực tuyến).\nCụm từ quan trọng nên dùng:\n- grab a drink – đi uống nước\n- feel refreshed – cảm thấy sảng khoái\n- hang out at a cafe – tụ tập ở quán cà phê\n- follow fashion trends – theo xu hướng thời trang\n- shop online frequently – thường xuyên mua sắm online\n- try clothes on – thử quần áo\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- In addition – thêm vào đó\n- For example – ví dụ\n- On the other hand – mặt khác\n- As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n- I personally enjoy drinking coffee because it helps me stay focused. – Cá nhân tôi thích uống cà phê vì nó giúp tôi tập trung.\n- From my perspective, having drinks at home is more relaxing and affordable. – Theo góc nhìn của tôi, uống ở nhà thư giãn và tiết kiệm hơn.\n- As far as I am concerned, cafes are great places to meet friends and work. – Theo tôi, quán cà phê là nơi tuyệt vời để gặp bạn bè và làm việc.\n- I think casual clothes are the most practical choice for daily life. – Tôi nghĩ quần áo thường ngày là lựa chọn thực tế nhất.\n- Personally, I prefer shopping online because it saves time. – Cá nhân tôi thích mua sắm online vì tiết kiệm thời gian.\n- In my opinion, buying clothes in physical stores is better because I can try them on. – Theo tôi, mua trực tiếp tốt hơn vì có thể thử đồ.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời Yes hoặc No mà không giải thích thêm là lỗi phổ biến nhất.\n- Ở Topic A, nhiều bạn chỉ nêu tên đồ uống mà không nói lý do hoặc hoàn cảnh sử dụng.\n- Ở Topic B, nhiều bạn lặp đi lặp lại từ clothes hoặc nice mà không dùng từ vựng đa dạng hơn.\n- Dùng sai thì khi nói về thói quen hoặc sở thích hiện tại.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n- Nếu quên từ, hãy mô tả màu sắc, chức năng hoặc cảm giác liên quan.\n- Đối với Topic A, nếu bí ý hãy nói về cảm giác khi uống món đồ đó hoặc thời tiết phù hợp.\n- Đối với Topic B, nếu không biết nói gì hãy so sánh mua online và mua trực tiếp về giá cả hoặc sự tiện lợi.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem đây là một cuộc trò chuyện tự nhiên với giám khảo.\n- Khi chuyển từ chủ đề đồ uống sang quần áo, hãy thay đổi tư duy sang thói quen mua sắm và phong cách cá nhân.\n- Độ tự nhiên và khả năng duy trì hội thoại quan trọng hơn việc cố gắng dùng từ quá khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou are going to start a new job soon and you want to improve your professional skills.\n\nYou are considering the following options:\n\nOption 1: Attending a face-to-face workshop\nOption 2: Taking an online course\nOption 3: Joining a local professional group\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng Solution Discussion yêu cầu bạn phân tích ba lựa chọn để cải thiện kỹ năng nghề nghiệp trước khi bắt đầu công việc mới.\n- Ba lựa chọn bao gồm tham gia workshop trực tiếp, học khóa online và tham gia nhóm nghề nghiệp địa phương.\n- Giám khảo đánh giá khả năng lập luận, so sánh và đưa ra quyết định rõ ràng.\n- Thời gian hợp lý là khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc State opinion – Give reason – Compare – Conclude để trình bày logic.\n- Option 1 giúp học trực tiếp với chuyên gia và dễ tương tác nhưng có thể tốn thời gian và chi phí.\n- Option 2 linh hoạt về thời gian và phù hợp với người bận rộn nhưng đôi khi thiếu động lực học tập.\n- Option 3 giúp mở rộng mối quan hệ nghề nghiệp và học hỏi kinh nghiệm thực tế.\n- Hãy liên hệ với môi trường làm việc thực tế như kỹ năng giao tiếp, teamwork hoặc networking.\n- Sử dụng các từ nối tương phản như however hoặc on the other hand để chuyển ý hiệu quả.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Hãy kết nối các lựa chọn với nhau thay vì nói từng phần tách biệt.\n- Dùng hiện tại đơn để mô tả đặc điểm của lựa chọn và tương lai đơn khi nói về kế hoạch nghề nghiệp.\n- Nếu quên từ workshop, bạn có thể dùng training session hoặc professional training.\nCụm từ quan trọng nên dùng:\n- professional development – phát triển nghề nghiệp\n- gain practical experience – đạt được kinh nghiệm thực tế\n- improve communication skills – cải thiện kỹ năng giao tiếp\n- expand professional network – mở rộng mạng lưới nghề nghiệp\n- flexible learning schedule – lịch học linh hoạt\n- hands-on activities – hoạt động thực hành\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Furthermore – hơn nữa\n- However – tuy nhiên\n- Compared to – so với\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I believe taking an online course is the most convenient option because it offers flexibility. – Tôi tin rằng học online là lựa chọn tiện lợi nhất vì linh hoạt.\n- Compared to online courses, face-to-face workshops provide more direct interaction. – So với khóa online, workshop trực tiếp mang lại nhiều tương tác hơn.\n- From my perspective, joining a professional group is useful for long-term career growth. – Theo quan điểm của tôi, tham gia nhóm nghề nghiệp hữu ích cho sự phát triển lâu dài.\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung nói về lựa chọn yêu thích mà không phân tích hai lựa chọn còn lại.\n- Lặp lại các từ đơn giản như useful hoặc good quá nhiều.\n- Không kết luận rõ ràng lựa chọn cuối cùng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên môn, hãy nói về chi phí, thời gian hoặc hiệu quả học tập.\n- Bạn có thể dùng câu: Let's evaluate this option from a different perspective.\n- Nếu bí ý ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn tiếp theo để duy trì độ trôi chảy.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người đang chuẩn bị nghiêm túc cho công việc mới.\n- Ngay cả lựa chọn tốt nhất cũng nên có một hạn chế nhỏ để bài nói cân bằng và thuyết phục hơn.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of teenagers going traveling\n\nTeenagers Traveling\nStay active and healthy\nDiscover new places and cultures\nGain practical life experiences\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat are the main benefits that tourism brings to a country?\n2\nDo you think teenagers should travel alone or with their parents? Why?\n3\nHow can traveling help improve a person's communication skills?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn trình bày lợi ích của việc thanh thiếu niên đi du lịch.\n- Ba nhánh chính gồm sức khỏe, khám phá văn hóa và tích lũy trải nghiệm thực tế.\n- Nhánh ý tưởng cá nhân có thể nói về việc phát triển sự tự lập và kỹ năng giao tiếp.\n- Giám khảo đánh giá khả năng phát triển ý, tính mạch lạc và cách trả lời câu hỏi follow-up.\n- Thời gian khoảng 5 phút, trong đó khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho follow-up questions.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Bạn có thể dùng cấu trúc FEEL: Point – Explanation – Example – Link để phát triển từng nhánh ý.\n- **Ví dụ 1:** Today, I would like to talk about why traveling is beneficial for teenagers.\n- **Ví dụ 2:** In addition, traveling can help young people become more independent and confident.\n- Hãy liên hệ với những chuyến đi thực tế như du lịch cùng gia đình hoặc đi phượt với bạn bè.\n- Luôn bám theo mindmap để tránh lặp ý và mất định hướng.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng các cụm chuyển ý để kết nối mượt mà giữa các nhánh của mindmap.\n- Dùng hiện tại đơn để nói về lợi ích chung và hiện tại hoàn thành khi nói về trải nghiệm tích lũy.\n- Bạn có thể paraphrase traveling bằng exploring new places hoặc going on trips.\nCụm từ quan trọng nên dùng:\n- broaden horizons – mở mang tầm nhìn\n- cultural awareness – nhận thức văn hóa\n- build independence – xây dựng tính tự lập\n- improve social skills – cải thiện kỹ năng xã hội\n- healthy lifestyle – lối sống lành mạnh\n- real-life experience – kinh nghiệm thực tế\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Moreover – hơn nữa\n- For instance – ví dụ\n- As a result – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe traveling is an excellent way for teenagers to learn about the world. – Tôi tin mạnh mẽ rằng du lịch là cách tuyệt vời để thanh thiếu niên hiểu hơn về thế giới.\n- From my perspective, traveling helps young people become more mature and responsible. – Theo quan điểm của tôi, du lịch giúp giới trẻ trưởng thành và có trách nhiệm hơn.\n- Personally, I think teenagers should travel more often to gain practical experience. – Cá nhân tôi nghĩ rằng thanh thiếu niên nên du lịch nhiều hơn để tích lũy kinh nghiệm thực tế.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- What are the main benefits that tourism brings to a country? – Tourism creates jobs, increases national income and promotes local culture internationally.\n- Do you think teenagers should travel alone or with their parents? Why? – I think it depends on their age and maturity, but traveling with parents is generally safer and more organized.\n- How can traveling help improve a person's communication skills? – Traveling allows people to meet strangers and interact with different cultures, which improves communication and confidence.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ minh họa.\n- Quên phát triển nhánh ý tưởng cá nhân trong sơ đồ tư duy.\n- Dành quá nhiều thời gian cho bài nói chính và không còn thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy kể về một chuyến đi đáng nhớ của bản thân hoặc bạn bè.\n- Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a social perspective, traveling offers many long-term benefits.\n- Nếu quên từ vựng khó, hãy dùng cách diễn đạt đơn giản hơn nhưng vẫn giữ ý chính.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ phát triển cá nhân, giáo dục và xã hội.\n- Tính logic và sự liên kết giữa các ý quan trọng hơn việc dùng quá nhiều từ nâng cao.\n- Hãy nói như đang chia sẻ trải nghiệm và quan điểm thật của bản thân để tạo sự tự nhiên."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about drinks.\n1.\nWhat is your favorite drink?\n2.\nOn what occasions do you usually have that drink and why?\n3.\nDo you prefer having drinks at home or at a cafe? Why?\nNow, let’s talk about clothes.\n4.\nHow often do you buy new clothes?\n5.\nWhat type of clothes do you like to wear? Why?\n6.\nDo you prefer buying clothes in physical stores or online? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói gồm 6 câu hỏi ngắn trong khoảng 3 phút nhằm kiểm tra khả năng giao tiếp tự nhiên của bạn.\n• Topic A (Drinks): Câu hỏi 1–3 tập trung vào đồ uống yêu thích, thói quen uống nước và địa điểm bạn thích thưởng\nthức đồ uống.\n• Topic B (Clothes): Câu hỏi 4–6 xoay quanh việc mua quần áo, phong cách thời trang và thói quen mua sắm online\nhoặc trực tiếp.\n• Giám khảo đánh giá độ trôi chảy, từ vựng, ngữ pháp và khả năng phát âm rõ ràng.\n• Bạn nên trả lời khoảng 25–35 giây cho mỗi câu để giữ cân bằng thời gian giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer – Reason – Example để phát triển ý một cách tự nhiên.\n• Ví dụ Topic A: My favorite drink is iced coffee because it helps me feel more energetic. For example, I usually drink\nit in the morning before going to work or school.\n• Ví dụ Topic B: I prefer casual clothes because they are comfortable and suitable for daily activities. For instance, I\noften wear jeans and T-shirts when hanging out with friends.\n• Hãy luôn tự hỏi Why? hoặc How? để mở rộng câu trả lời thay vì trả lời quá ngắn.\n• Khi chuyển ý, bạn có thể dùng câu như: Besides comfort, I also care about the style and color of my clothes.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Nói với tốc độ ổn định và dùng filler tự nhiên như well, actually hoặc to be honest để tránh ngập ngừng.\n• Đối với Topic A, hãy sử dụng hiện tại đơn để nói về thói quen hằng ngày.\n• Đối với Topic B, hiện tại đơn và hiện tại tiếp diễn có thể được dùng để mô tả sở thích thời trang hiện tại.\n• Nếu quên từ vựng, hãy mô tả chức năng hoặc đặc điểm của món đồ thay vì dừng lại quá lâu.\n• Vocabulary for Topic A: refreshing beverage (đồ uống giải khát), boost my energy (tăng năng lượng), coffee shop\natmosphere (không khí quán cà phê), homemade drink (đồ uống tự làm).\n• Vocabulary for Topic B: fashion style (phong cách thời trang), trendy clothes (quần áo hợp xu hướng), comfortable\noutfit (trang phục thoải mái), online shopping platform (nền tảng mua sắm trực tuyến).\nCụm từ quan trọng nên dùng:\n• grab a drink – đi uống nước\n• feel refreshed – cảm thấy sảng khoái\n• hang out at a cafe – tụ tập ở quán cà phê\n• follow fashion trends – theo xu hướng thời trang\n• shop online frequently – thường xuyên mua sắm online\n• try clothes on – thử quần áo\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• In addition – thêm vào đó\n• For example – ví dụ\n• On the other hand – mặt khác\n• As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n• I personally enjoy drinking coffee because it helps me stay focused. – Cá nhân tôi thích uống cà phê vì nó giúp tôi\ntập trung.\n• From my perspective, having drinks at home is more relaxing and affordable. – Theo góc nhìn của tôi, uống ở nhà\nthư giãn và tiết kiệm hơn.\n• As far as I am concerned, cafes are great places to meet friends and work. – Theo tôi, quán cà phê là nơi tuyệt vời\nđể gặp bạn bè và làm việc.\n• I think casual clothes are the most practical choice for daily life. – Tôi nghĩ quần áo thường ngày là lựa chọn thực tế\nnhất.\n• Personally, I prefer shopping online because it saves time. – Cá nhân tôi thích mua sắm online vì tiết kiệm thời gian.\n• In my opinion, buying clothes in physical stores is better because I can try them on. – Theo tôi, mua trực tiếp tốt hơn\nvì có thể thử đồ.\n4. Các lỗi thường gặp:\n• Chỉ trả lời Yes hoặc No mà không giải thích thêm là lỗi phổ biến nhất.\n• Ở Topic A, nhiều bạn chỉ nêu tên đồ uống mà không nói lý do hoặc hoàn cảnh sử dụng.\n• Ở Topic B, nhiều bạn lặp đi lặp lại từ clothes hoặc nice mà không dùng từ vựng đa dạng hơn.\n• Dùng sai thì khi nói về thói quen hoặc sở thích hiện tại.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n• Nếu quên từ, hãy mô tả màu sắc, chức năng hoặc cảm giác liên quan.\n• Đối với Topic A, nếu bí ý hãy nói về cảm giác khi uống món đồ đó hoặc thời tiết phù hợp.\n• Đối với Topic B, nếu không biết nói gì hãy so sánh mua online và mua trực tiếp về giá cả hoặc sự tiện lợi.\n6. Tư duy làm bài nói:\n• Hãy xem đây là một cuộc trò chuyện tự nhiên với giám khảo.\n• Khi chuyển từ chủ đề đồ uống sang quần áo, hãy thay đổi tư duy sang thói quen mua sắm và phong cách cá nhân.\n• Độ tự nhiên và khả năng duy trì hội thoại quan trọng hơn việc cố gắng dùng từ quá khó.\nSolution Discussion\nPART 2\n4 phút\nYou are going to start a new job soon and you want to improve your professional skills.\nYou are considering the following options:\n• Option 1: Attending a face-to-face workshop\n• Option 2: Taking an online course\n• Option 3: Joining a local professional group\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion yêu cầu bạn phân tích ba lựa chọn để cải thiện kỹ năng nghề nghiệp trước khi bắt\nđầu công việc mới.\n• Ba lựa chọn bao gồm tham gia workshop trực tiếp, học khóa online và tham gia nhóm nghề nghiệp địa phương.\n• Giám khảo đánh giá khả năng lập luận, so sánh và đưa ra quyết định rõ ràng.\n• Thời gian hợp lý là khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc State opinion – Give reason – Compare – Conclude để trình bày logic.\n• Option 1 giúp học trực tiếp với chuyên gia và dễ tương tác nhưng có thể tốn thời gian và chi phí.\n• Option 2 linh hoạt về thời gian và phù hợp với người bận rộn nhưng đôi khi thiếu động lực học tập.\n• Option 3 giúp mở rộng mối quan hệ nghề nghiệp và học hỏi kinh nghiệm thực tế.\n• Hãy liên hệ với môi trường làm việc thực tế như kỹ năng giao tiếp, teamwork hoặc networking.\n• Sử dụng các từ nối tương phản như however hoặc on the other hand để chuyển ý hiệu quả.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Hãy kết nối các lựa chọn với nhau thay vì nói từng phần tách biệt.\n• Dùng hiện tại đơn để mô tả đặc điểm của lựa chọn và tương lai đơn khi nói về kế hoạch nghề nghiệp.\n• Nếu quên từ workshop, bạn có thể dùng training session hoặc professional training.\nCụm từ quan trọng nên dùng:\n• professional development – phát triển nghề nghiệp\n• gain practical experience – đạt được kinh nghiệm thực tế\n• improve communication skills – cải thiện kỹ năng giao tiếp\n• expand professional network – mở rộng mạng lưới nghề nghiệp\n• flexible learning schedule – lịch học linh hoạt\n• hands-on activities – hoạt động thực hành\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Furthermore – hơn nữa\n• However – tuy nhiên\n• Compared to – so với\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I believe taking an online course is the most convenient option because it offers flexibility. – Tôi tin rằng học online\nlà lựa chọn tiện lợi nhất vì linh hoạt.\n• Compared to online courses, face-to-face workshops provide more direct interaction. – So với khóa online, workshop\ntrực tiếp mang lại nhiều tương tác hơn.\n• From my perspective, joining a professional group is useful for long-term career growth. – Theo quan điểm của tôi,\ntham gia nhóm nghề nghiệp hữu ích cho sự phát triển lâu dài.\n4. Các lỗi thường gặp:\n• Chỉ tập trung nói về lựa chọn yêu thích mà không phân tích hai lựa chọn còn lại.\n• Lặp lại các từ đơn giản như useful hoặc good quá nhiều.\n• Không kết luận rõ ràng lựa chọn cuối cùng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên môn, hãy nói về chi phí, thời gian hoặc hiệu quả học tập.\n• Bạn có thể dùng câu: Let's evaluate this option from a different perspective.\n• Nếu bí ý ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn tiếp theo để duy trì độ trôi chảy.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người đang chuẩn bị nghiêm túc cho công việc mới.\n• Ngay cả lựa chọn tốt nhất cũng nên có một hạn chế nhỏ để bài nói cân bằng và thuyết phục hơn.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of teenagers going traveling\nStay active and healthy\nDiscover new places and cultures\nTeenagers Traveling\nÝ tưởng của bạn\nGain practical life experiences\nFOLLOW-UP QUESTIONS\n1.\nWhat are the main benefits that tourism brings to a country?\n2.\nDo you think teenagers should travel alone or with their parents? Why?\n3.\nHow can traveling help improve a person's communication skills?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn trình bày lợi ích của việc thanh thiếu niên đi du lịch.\n• Ba nhánh chính gồm sức khỏe, khám phá văn hóa và tích lũy trải nghiệm thực tế.\n• Nhánh ý tưởng cá nhân có thể nói về việc phát triển sự tự lập và kỹ năng giao tiếp.\n• Giám khảo đánh giá khả năng phát triển ý, tính mạch lạc và cách trả lời câu hỏi follow-up.\n• Thời gian khoảng 5 phút, trong đó khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho follow-up questions.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Bạn có thể dùng cấu trúc FEEL: Point – Explanation – Example – Link để phát triển từng nhánh ý.\n• Ví dụ 1: Today, I would like to talk about why traveling is beneficial for teenagers.\n• Ví dụ 2: In addition, traveling can help young people become more independent and confident.\n• Hãy liên hệ với những chuyến đi thực tế như du lịch cùng gia đình hoặc đi phượt với bạn bè.\n• Luôn bám theo mindmap để tránh lặp ý và mất định hướng.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng các cụm chuyển ý để kết nối mượt mà giữa các nhánh của mindmap.\n• Dùng hiện tại đơn để nói về lợi ích chung và hiện tại hoàn thành khi nói về trải nghiệm tích lũy.\n• Bạn có thể paraphrase traveling bằng exploring new places hoặc going on trips.\nCụm từ quan trọng nên dùng:\n• broaden horizons – mở mang tầm nhìn\n• cultural awareness – nhận thức văn hóa\n• build independence – xây dựng tính tự lập\n• improve social skills – cải thiện kỹ năng xã hội\n• healthy lifestyle – lối sống lành mạnh\n• real-life experience – kinh nghiệm thực tế\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Moreover – hơn nữa\n• For instance – ví dụ\n• As a result – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe traveling is an excellent way for teenagers to learn about the world. – Tôi tin mạnh mẽ rằng du lịch\nlà cách tuyệt vời để thanh thiếu niên hiểu hơn về thế giới.\n• From my perspective, traveling helps young people become more mature and responsible. – Theo quan điểm của\ntôi, du lịch giúp giới trẻ trưởng thành và có trách nhiệm hơn.\n• Personally, I think teenagers should travel more often to gain practical experience. – Cá nhân tôi nghĩ rằng thanh thiếu\nniên nên du lịch nhiều hơn để tích lũy kinh nghiệm thực tế.\n4. Gợi ý trả lời câu hỏi follow-up:\n• What are the main benefits that tourism brings to a country? – Tourism creates jobs, increases national income and\npromotes local culture internationally.\n• Do you think teenagers should travel alone or with their parents? Why? – I think it depends on their age and maturity,\nbut traveling with parents is generally safer and more organized.\n• How can traveling help improve a person's communication skills? – Traveling allows people to meet strangers and\ninteract with different cultures, which improves communication and confidence.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ minh họa.\n• Quên phát triển nhánh ý tưởng cá nhân trong sơ đồ tư duy.\n• Dành quá nhiều thời gian cho bài nói chính và không còn thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy kể về một chuyến đi đáng nhớ của bản thân hoặc bạn bè.\n• Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a social perspective, traveling offers many\nlong-term benefits.\n• Nếu quên từ vựng khó, hãy dùng cách diễn đạt đơn giản hơn nhưng vẫn giữ ý chính.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ phát triển cá nhân, giáo dục và xã hội.\n• Tính logic và sự liên kết giữa các ý quan trọng hơn việc dùng quá nhiều từ nâng cao.\n• Hãy nói như đang chia sẻ trải nghiệm và quan điểm thật của bản thân để tạo sự tự nhiên."
+}

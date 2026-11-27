@@ -1,0 +1,717 @@
+{
+ "id": "vlu-8",
+ "number": 8,
+ "title": "Đề thi VLU 8",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-8",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Understanding Relationships: Healthy vs. Unhealthy",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Relationships shape almost every part of our daily lives, from the family we grow up with to the partners and colleagues we choose later. Some relationships make us feel stronger and more confident, while others leave us tired, nervous, or unhappy, even when we find it hard to explain why. Learning to tell the difference is an important life skill, because the pattern we accept in one relationship often continues in the next. This passage compares healthy and unhealthy relationships and suggests what to do when something feels wrong.",
+     "A healthy relationship is built on respect. Both people listen to each other's opinions, accept that they will sometimes disagree, and solve problems by talking rather than shouting. Trust is equally important: partners and friends do not need to check each other's phones or demand a report of every hour, because they believe that the other person is honest. It also respects personal **boundaries**, such as privacy, time alone, and the freedom to see other friends. Most importantly, both people feel safe to be honest about their feelings, even when the truth is uncomfortable.",
+     "Unhealthy relationships work in the opposite way. One person may try to control the other by deciding who they can meet, what they can wear, or how they should spend money. Others use anger, silence, or false promises to **manipulate** their partner into doing what they want. Constant criticism, jokes that hurt, and threats to leave are also warning signs, because they slowly destroy self-confidence. At first, these behaviours can seem small or even romantic, for example when a partner says jealousy proves love, but over time they usually become more serious.",
+     "The effects of an unhealthy relationship are not only emotional. People who live under constant pressure often sleep badly, lose their appetite, and find it hard to concentrate at school or at work, which affects their results. Many begin to avoid friends and family, partly because they feel ashamed and partly because the other person encourages **this**. Isolation is dangerous, since it removes the people who could give honest advice. Young people are especially at risk, because they have less experience and may believe that strong feelings always mean true love.",
+     "If you recognise these signs, there are practical steps you can take. First, talk to someone you trust, such as a friend, a parent, a teacher, or a counsellor, because an outside view can help you see the situation more clearly. Next, write down what has happened and decide what you are willing to accept. If you feel in danger, contact the police or a local support service immediately. In conclusion, a good relationship should make your life larger, not smaller, and you always deserve to be treated with kindness and respect."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "Why modern couples spend money on expensive gifts",
+       "B": "How to spot healthy relationships and handle unhealthy ones",
+       "C": "The history of marriage customs in several countries",
+       "D": "How to choose a suitable university for children"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, how do people in healthy relationships solve problems?",
+      "options": {
+       "A": "They avoid each other until the problem is forgotten",
+       "B": "They follow rules written by their parents years before",
+       "C": "They always accept the opinion of the older person",
+       "D": "They solve disagreements by talking rather than shouting"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"healthy relationship\" và \"solve problems\" ở đoạn 2 để thấy cách họ giải quyết mâu thuẫn là trò chuyện thay vì la hét."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"boundaries\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "limits",
+       "B": "secrets",
+       "C": "habits",
+       "D": "debts"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"boundaries\" đi kèm các ví dụ về quyền riêng tư, thời gian riêng và không gian cá nhân ở đoạn 2, mang nghĩa là giới hạn."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, which action is a sign of a controlling partner?",
+      "options": {
+       "A": "Sharing every big decision equally with the other person",
+       "B": "Paying for dinner when the other forgets money",
+       "C": "Deciding which friends the other person may meet",
+       "D": "Asking politely before borrowing the other person's phone"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"controlling partner\" ở đoạn 3 để định vị hành vi kiểm soát như tự ý quyết định đối phương được gặp ai."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"manipulate\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "invite politely",
+       "B": "advise honestly",
+       "C": "thank sincerely",
+       "D": "influence unfairly"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"manipulate\" ở đoạn 3 xuất hiện trong bối cảnh dùng sự tức giận hay im lặng để ép người khác làm theo ý mình, mang nghĩa tác động/ảnh hưởng theo chiều hướng không công bằng, thao túng."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"this\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Feeling very ashamed",
+       "B": "Avoiding loved ones",
+       "C": "Sleeping very badly",
+       "D": "Losing all appetite"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Quy chiếu",
+      "explanation": null
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, why is isolation dangerous?",
+      "options": {
+       "A": "It removes people who could give honest advice",
+       "B": "It makes friends and family travel to other countries",
+       "C": "It forces students to study during every school holiday",
+       "D": "It increases the cost of daily food and drink"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"isolation\" và \"dangerous\" ở đoạn 4 để nhận ra sự nguy hiểm nằm ở việc mất đi những người có thể cho lời khuyên chân thành."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT suggested as a step to take?",
+      "options": {
+       "A": "Talking to a trusted friend or a counsellor first",
+       "B": "Writing down clearly what has already happened to you",
+       "C": "Posting angry messages about the other person online",
+       "D": "Contacting the police when you feel in real danger"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các bước giải quyết được liệt kê ở đoạn 5 (nói chuyện với người tin cậy, viết ra sự việc, báo cảnh sát nếu nguy hiểm) để tìm ra hành động không được đề xuất."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about the writer's view of relationships?",
+      "options": {
+       "A": "Strong feelings always prove that a relationship is healthy",
+       "B": "Good relationships should make people feel safe and respected",
+       "C": "Couples who truly love each other never have arguments",
+       "D": "Young people should avoid every kind of relationship"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ toàn bài, đặc biệt là quan điểm của tác giả về sự tôn trọng, cảm giác an toàn và sự phát triển tích cực trong một mối quan hệ tốt đẹp để suy luận ra quan điểm chung của tác giả. Lời khuyên: Hãy bắt đầu bằng các câu hỏi định vị nhanh như Từ vựng (R1Q3, R1Q5) và Quy chiếu (R1Q6). Sau đó, dùng kỹ thuật đọc quét để xử lý các câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, hoàn thành các câu hỏi tổng hợp mang tính bao quát như Ý chính (R1Q1), Suy luận (R1Q9) và Mục đích viết (R1Q10)."
+     },
+     {
+      "number": 10,
+      "stem": "Why did the writer write this passage?",
+      "options": {
+       "A": "To advertise a dating website for single young adults",
+       "B": "To describe a famous romantic couple from history",
+       "C": "To explain how marriage laws differ between countries",
+       "D": "To help readers spot warning signs in relationships Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích viết",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích viết (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề và các đoạn trong bài để nắm mạch nội dung: đoạn 1 giới thiệu về tầm quan trọng của các mối quan hệ và sự khác biệt giữa lành mạnh - không lành mạnh; đoạn 2 định nghĩa quan hệ lành mạnh (tôn trọng, tin tưởng, ranh giới rõ ràng); đoạn 3 và 4 chỉ ra các dấu hiệu nhận biết, hành vi kiểm soát, thao túng và hậu quả của quan hệ độc hại (cô lập, áp lực tinh thần); đoạn 5 đưa ra các bước giải quyết thực tế. Qua đó, đáp án đúng cho câu hỏi ý chính và mục đích viết cần phản ánh tổng quát việc nhận diện mối quan hệ tốt và xử lý các dấu hiệu cảnh báo, không chọn các phương án lạc đề về mua sắm hay lịch sử.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q2**, tìm từ khóa \"healthy relationship\" và \"solve problems\" ở đoạn 2 để thấy cách họ giải quyết mâu thuẫn là trò chuyện thay vì la hét.\n  - Với **R1Q4**, tìm từ khóa \"controlling partner\" ở đoạn 3 để định vị hành vi kiểm soát như tự ý quyết định đối phương được gặp ai.\n  - Với **R1Q7**, tìm từ khóa \"isolation\" và \"dangerous\" ở đoạn 4 để nhận ra sự nguy hiểm nằm ở việc mất đi những người có thể cho lời khuyên chân thành.\n  - Với **R1Q8**, đối chiếu các bước giải quyết được liệt kê ở đoạn 5 (nói chuyện với người tin cậy, viết ra sự việc, báo cảnh sát nếu nguy hiểm) để tìm ra hành động không được đề xuất.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"boundaries\"** đi kèm các ví dụ về quyền riêng tư, thời gian riêng và không gian cá nhân ở đoạn 2, mang nghĩa là giới hạn.\n  - Với **R1Q5**, từ **\"manipulate\"** ở đoạn 3 xuất hiện trong bối cảnh dùng sự tức giận hay im lặng để ép người khác làm theo ý mình, mang nghĩa tác động/ảnh hưởng theo chiều hướng không công bằng, thao túng.\n- **Danj câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ chỉ định **\"this\"** ở đoạn 4. Đọc ngược lại câu văn ngay trước đó để tìm hành vi hoặc trạng thái số ít/sự việc mà đối phương khuyến khích, cụ thể là việc tránh né bạn bè và người thân (tránh xa người thân yêu).\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ toàn bài, đặc biệt là quan điểm của tác giả về sự tôn trọng, cảm giác an toàn và sự phát triển tích cực trong một mối quan hệ tốt đẹp để suy luận ra quan điểm chung của tác giả. Lời khuyên: Hãy bắt đầu bằng các câu hỏi định vị nhanh như Từ vựng (R1Q3, R1Q5) và Quy chiếu (R1Q6). Sau đó, dùng kỹ thuật đọc quét để xử lý các câu hỏi **Chi tiết** (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, hoàn thành các câu hỏi tổng hợp mang tính bao quát như **Ý chính** (R1Q1), **Suy luận** (R1Q9) và **Mục đích viết** (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Hidden Dangers of Sugary Drinks",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few products are as familiar, or as heavily marketed, as sugary drinks. Soft drinks, sweetened teas, energy drinks, and even many fruit juices are consumed by people all over the world every day, usually without a second thought about what they contain. A single can of cola typically contains around nine teaspoons of sugar, which exceeds the ideal daily intake suggested by the World Health Organization. Public-health researchers increasingly regard these beverages as one of the most significant dietary risks of modern life.",
+     "The problem begins with the way the body responds to liquid calories. Solid food requires chewing and fills the stomach, which sends signals of fullness to the brain, whereas sweet drinks pass through quickly and leave appetite largely unaffected. As a result, people who drink sugary beverages tend not to eat less at later meals, so the extra energy becomes an addition to their diet rather than a substitute.",
+     "Epidemiological studies have consistently linked regular consumption of sugar-sweetened beverages to obesity, type 2 diabetes, heart disease, and tooth decay. The dental effect is particularly direct, since bacteria in the mouth convert sugar into acids that **erode** enamel, and frequent sipping prolongs that exposure throughout the day. Diabetes risk appears to rise because large amounts of sugar absorbed quickly place repeated strain on the body's insulin response. Researchers caution that such studies show association rather than proof, yet the findings are strikingly consistent.",
+     "Marketing intensifies these risks in ways that consumers often fail to notice. Companies spend large sums promoting sweet drinks through sponsorship, celebrity advertising, and colourful packaging, with children and teenagers as particularly attractive targets because brand preferences formed early often last for decades. Low prices and large portion sizes reinforce the habit: a bigger bottle often costs only slightly more than a smaller one, encouraging people to buy more than they need.",
+     "Governments in many regions have increasingly responded by introducing taxes on sweetened beverages. Mexico introduced a tax on sugary drinks in 2014, and the United Kingdom followed in 2018 with a levy that charges more for drinks containing higher amounts of sugar. Early evidence suggests that such measures reduce purchases and prompt manufacturers to reformulate their products, **which** lowers sugar intake even among people who never notice a price change. Opponents argue that taxes burden low-income households, although supporters reply that those households suffer most from diet-related disease.",
+     "Policy is only part of the answer, because individual habits matter too. Replacing sugary drinks with water, unsweetened tea, or sparkling water with a slice of fruit can substantially **curb** daily sugar intake without requiring dramatic sacrifice. Fruit juice deserves caution, since it contains nearly as much sugar as many soft drinks but lacks the fibre of whole fruit, and artificial sweeteners remain debated because their long-term effects are still being studied. A practical rule is to treat sweet drinks as an occasional pleasure rather than a daily default.",
+     "Sugary drinks illustrate how a product that seems harmless in isolation can become harmful at scale. No single can will damage anyone's health, yet the cumulative effect of daily consumption, repeated across entire populations, is substantial. Reducing that burden requires cooperation between individuals, industry, and governments, each of which has a role in making the healthier choice the easier one for ordinary families."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Soft drinks are dangerous only for children who drink them daily",
+       "B": "Taxes on sugary drinks have completely failed in every country where introduced",
+       "C": "Sugary drinks harm health, and reducing them requires several combined actions",
+       "D": "Artificial sweeteners are the safest and healthiest possible replacement for sugar"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why do sweet drinks add to a person's overall energy intake?",
+      "options": {
+       "A": "They leave appetite unaffected, so people do not eat less later",
+       "B": "They contain fibre that makes people stop eating solid food",
+       "C": "They fill the stomach quickly, so people feel full longer",
+       "D": "They require chewing, which burns extra calories during every meal"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"liquid calories\" hoặc \"energy intake\" ở đoạn 2 để thấy lý do đồ uống ngọt làm tăng năng lượng: chúng trôi qua nhanh và để lại cảm giác thèm ăn nguyên vẹn, khiến con người không ăn ít đi ở các bữa sau."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"erode\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "build up",
+       "B": "cover over",
+       "C": "spread out",
+       "D": "wear away"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"erode\" đi liền với men răng bị axit phá hủy ở đoạn 3, mang sắc thái làm mòn dần, ăn mòn (wear away)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why is the dental effect of sugary drinks particularly direct?",
+      "options": {
+       "A": "Fizzy bubbles in the drink physically scrape away tooth surfaces",
+       "B": "Mouth bacteria turn sugar into acids that damage enamel",
+       "C": "Cold temperatures make teeth crack when people drink too quickly",
+       "D": "Sweet liquids dissolve the minerals inside every single tooth"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ \"dental effect\" ở đoạn 3 để thấy vi khuẩn trong miệng chuyển hóa đường thành axit làm mòn men răng."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"curb\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "raise",
+       "B": "display",
+       "C": "limit",
+       "D": "measure"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"curb\" ở đoạn 6 kết hợp với lượng đường nạp vào hàng ngày (daily sugar intake) thông qua việc thay thế đồ uống, mang nghĩa kìm hãm, hạn chế, giới hạn (limit)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Reformulating products",
+       "B": "Reducing purchases",
+       "C": "Increasing prices",
+       "D": "Noticing price changes"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đoạn 5. Áp dụng quy tắc quy chiếu ngược lại mệnh đề đứng trước: hành động chính phủ áp thuế khiến nhà sản xuất phải cải tiến, điều chỉnh lại thành phần sản phẩm (reformulate their products), từ đó làm giảm lượng đường tiêu thụ."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, how do supporters of sugar taxes respond to critics?",
+      "options": {
+       "A": "Taxes should only be collected from wealthy households",
+       "B": "Low-income households suffer most from diet-related disease",
+       "C": "Manufacturers are always honest about their drink contents",
+       "D": "Consumers never change their habits after prices rise"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"supporters of sugar taxes\" ở đoạn 5 để ghi nhận lập luận đối phó với chỉ trích: các hộ gia đình thu nhập thấp chính là đối tượng chịu ảnh hưởng nặng nề nhất bởi các căn bệnh liên quan đến chế độ ăn uống."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT recommended?",
+      "options": {
+       "A": "Replacing sugary drinks with water, unsweetened tea, or sparkling water",
+       "B": "Treating sweet drinks as an occasional pleasure, not a habit",
+       "C": "Being cautious about fruit juice because it lacks any fibre",
+       "D": "Choosing artificial sweeteners because their long-term effects are proven"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các lời khuyên được liệt kê ở đoạn 6: chất làm ngọt nhân tạo (artificial sweeteners) vẫn còn là chủ đề đang tranh cãi và các tác động lâu dài của chúng vẫn đang được nghiên cứu, do đó việc cho rằng tác dụng lâu dài của chúng đã được \"chứng minh\" là nhận định sai lệch."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 2, 4, and 5 about reducing sugary drink consumption?",
+      "options": {
+       "A": "Willpower alone is unlikely to overcome marketing and pricing pressures",
+       "B": "Marketing is the only cause of obesity among all age groups",
+       "C": "Sugar taxes cannot work in any country that sells soft drinks",
+       "D": "Children choose sweet drinks freely, so marketing has no real influence"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2, 4 và 5 về việc con người khó kiểm soát lượng calo lỏng do ảnh hưởng của tiếp thị, giá cả và thói quen, từ đó suy luận ra rằng sự nỗ lực ý chí cá nhân đơn thuần là không đủ để vượt qua các áp lực từ thị trường và giá bán."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote a particular brand of sparkling water to readers",
+       "B": "To compare the nutritional value of several common fruits and vegetables",
+       "C": "To examine the health risks of sugary drinks and possible responses",
+       "D": "To argue that governments should ban all sweet drinks completely Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích viết (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 đề cập đến mức độ tiêu thụ cao và rủi ro sức khỏe của đồ uống chứa đường; các đoạn tiếp theo phân tích cơ chế hấp thụ calo lỏng (đoạn 2), các hậu quả y tế và nha khoa (đoạn 3), tác động của tiếp thị (đoạn 4), các giải pháp từ chính sách thuế của chính phủ (đoạn 5), cho đến thói quen cá nhân và kết luận tổng thể (đoạn 6 & 7). Do đó, phương án chính xác cần khái quát được cả hai mặt: tác hại đối với sức khỏe và sự cần thiết phải phối hợp nhiều hành động đồng bộ để giảm thiểu.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R2Q2**, tìm từ khóa \"liquid calories\" hoặc \"energy intake\" ở đoạn 2 để thấy lý do đồ uống ngọt làm tăng năng lượng: chúng trôi qua nhanh và để lại cảm giác thèm ăn nguyên vẹn, khiến con người không ăn ít đi ở các bữa sau.\n  - Với **R2Q4**, định vị từ \"dental effect\" ở đoạn 3 để thấy vi khuẩn trong miệng chuyển hóa đường thành axit làm mòn men răng.\n  - Với **R2Q7**, quét cụm từ \"supporters of sugar taxes\" ở đoạn 5 để ghi nhận lập luận đối phó với chỉ trích: các hộ gia đình thu nhập thấp chính là đối tượng chịu ảnh hưởng nặng nề nhất bởi các căn bệnh liên quan đến chế độ ăn uống.\n  - Với **R2Q8**, đối chiếu các lời khuyên được liệt kê ở đoạn 6: chất làm ngọt nhân tạo (artificial sweeteners) vẫn còn là chủ đề đang tranh cãi và các tác động lâu dài của chúng vẫn đang được nghiên cứu, do đó việc cho rằng tác dụng lâu dài của chúng đã được \"chứng minh\" là nhận định sai lệch.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"erode\"** đi liền với men răng bị axit phá hủy ở đoạn 3, mang sắc thái làm mòn dần, ăn mòn (wear away).\n  - Với **R2Q5**, từ **\"curb\"** ở đoạn 6 kết hợp với lượng đường nạp vào hàng ngày (daily sugar intake) thông qua việc thay thế đồ uống, mang nghĩa kìm hãm, hạn chế, giới hạn (limit).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đoạn 5. Áp dụng quy tắc quy chiếu ngược lại mệnh đề đứng trước: hành động chính phủ áp thuế khiến nhà sản xuất phải cải tiến, điều chỉnh lại thành phần sản phẩm (reformulate their products), từ đó làm giảm lượng đường tiêu thụ.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 2, 4 và 5 về việc con người khó kiểm soát lượng calo lỏng do ảnh hưởng của tiếp thị, giá cả và thói quen, từ đó suy luận ra rằng sự nỗ lực ý chí cá nhân đơn thuần là không đủ để vượt qua các áp lực từ thị trường và giá bán.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R2Q3, R2Q5) và Quy chiếu (R2Q6). Tiếp theo, dùng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, tổng hợp toàn văn để hoàn thành các câu hỏi mang tính tư duy bao quát như **Ý chính** (R2Q1), **Suy luận** (R2Q9) và **Mục** đích viết (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Loneliness Epidemic Among Modern Youth",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Loneliness is often dismissed as a private sadness, yet public-health bodies now call it a **pervasive** social problem. The World Health Organization has treated social isolation as a serious concern, and several governments have appointed ministers or launched national strategies to address it. What surprises many observers is that the highest reported rates are not always among the elderly, as people once assumed, but among young adults, who are paradoxically the most digitally connected generation in history.",
+     "Researchers distinguish loneliness from simply being alone. Loneliness is the distressing gap between the relationships a person has and the relationships they want, which means someone surrounded by acquaintances can feel isolated while a solitary person may feel perfectly content. This subjective quality makes the problem difficult to measure, since surveys depend on self-reporting and young people may be **reluctant** to admit feelings that carry stigma. Even so, large studies across several countries have produced broadly consistent results.",
+     "Explanations for the rise vary considerably. **[1]** Some researchers blame social media, arguing that constant comparison with curated images of other people's lives leaves users feeling inadequate, excluded, and anxious about their own social standing. **[2]** Others emphasise the decline of shared physical spaces, such as youth clubs, libraries, and neighbourhood parks, where friendships once formed without any planning. **[3]** Economic pressures matter as well, because long working hours, expensive housing, and unstable contracts leave little time or money for socialising. **[4]** Most likely, several of these influences interact with one another rather than operate separately.",
+     "The consequences extend well beyond unhappiness. Chronic loneliness has been associated with disturbed sleep, higher blood pressure, weaker immune responses, and an increased risk of depression, although researchers caution that these links do not prove that loneliness is the cause. Lonely students also tend to concentrate less in class and to withdraw from activities, which can reduce their opportunities to form the very friendships they lack. Employers are beginning to notice a similar pattern among younger staff who work remotely.",
+     "Digital life complicates the picture. Online communities can offer genuine support to young people who feel unable to talk to anyone nearby, such as those with rare interests or marginalised identities, and some studies find that moderate, interactive use is associated with stronger friendships. Passive scrolling, by contrast, seems to deepen isolation, **which** suggests that the way technology is used matters more than the number of hours spent on it. Researchers nevertheless warn that the evidence remains mixed and often cannot show cause and effect.",
+     "Responses are emerging at several levels. Schools in some countries have introduced peer-mentoring schemes and teach emotional skills alongside academic subjects, while a few health services now allow doctors to prescribe community activities such as choirs, gardening groups, or walking clubs. Evidence for these programmes is encouraging but limited, since many evaluations are small and follow participants for only a few months. Nevertheless, the cost of such schemes is modest compared with the cost of treating long-term illness.",
+     "Loneliness among young people is therefore neither a passing phase nor a purely personal failing. It reflects changes in how communities are organised, how work is structured, and how technology mediates relationships, and it responds best to approaches that rebuild opportunities for regular, meaningful contact. Ultimately, treating connection as a public good, rather than a private luxury, may prove one of the most valuable investments a society can make."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Social media is the single cause of every case of youth isolation",
+       "B": "Youth loneliness has several causes and consequences and needs community responses",
+       "C": "Older people suffer far more from loneliness than any younger group",
+       "D": "Governments have already ended loneliness through new ministers and national strategies"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, how does loneliness differ from being alone?",
+      "options": {
+       "A": "It only affects people who live in large crowded cities",
+       "B": "It fades once a person finds a steady new job",
+       "C": "It can be measured accurately by counting weekly social contacts",
+       "D": "It is a painful mismatch between wanted and existing connections"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"differ from being alone\" ở đoạn 2 để thấy cô đơn là sự chênh lệch đau đớn giữa các mối quan hệ mong muốn và thực tế."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"pervasive\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "widespread",
+       "B": "harmless",
+       "C": "temporary",
+       "D": "hidden"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "Dựa vào ngữ cảnh đoạn 1, từ \"pervasive\" đi kèm vấn đề xã hội quy mô lớn được WHO và chính phủ quan tâm, mang nghĩa lan tỏa rộng khắp, bao trùm (widespread)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Both explanations, however, have been criticised as incomplete.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ ý nghĩa của câu cần chèn 'Both explanations, however, have been criticised as incomplete.' (Tuy nhiên, cả hai lời giải thích đều bị chỉ trích là chưa đầy đủ). Câu này dùng từ nối phản biện \"Both explanations\" để chỉ hai lập luận ngay trước đó (đoạn 3): quan điểm thứ nhất đổ lỗi cho mạng xã hội [1] và quan điểm thứ hai nhấn mạnh sự suy giảm không gian chung [2]. Vị trí [3] nằm ngay sau khi hai lời giải thích này khép lại và trước khi đưa ra nguyên nhân kinh tế tiếp theo [3], là nơi hoàn hảo để đưa ra lời nhận xét phản biện \"cả hai lời giải thích trên\"."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, how can loneliness make friendships harder to form?",
+      "options": {
+       "A": "Teachers deliberately seat lonely pupils far from other classmates",
+       "B": "Withdrawing from activities reduces chances to meet potential friends",
+       "C": "Parents forbid anxious teenagers from joining any group activities",
+       "D": "Illness keeps most affected students out of school for months"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"friendships harder to form\" ở đoạn 4 để thấy việc học sinh cô đơn rút lui khỏi các hoạt động làm giảm cơ hội kết bạn."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Moderate interactive use",
+       "B": "Genuine online support",
+       "C": "Marginalised identities",
+       "D": "Passive scrolling deepening isolation"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"which\" ở đoạn 5. Đọc ngược lại mệnh đề ngay trước đó nói về việc lướt mạng vô định (passive scrolling) làm sâu sắc thêm sự cô lập, điều này chỉ ra bản chất của hành vi sử dụng công nghệ tiêu cực này."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"reluctant\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "unwilling",
+       "B": "eager",
+       "C": "able",
+       "D": "ready"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Từ vựng",
+      "explanation": "từ \"reluctant\" ở đoạn 2 dùng để miêu tả việc người trẻ ngần ngại, không muốn thừa nhận cảm xúc bị kỳ thị."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a response to loneliness?",
+      "options": {
+       "A": "Teaching emotional skills alongside ordinary academic lessons",
+       "B": "Doctors prescribing community activities such as choirs or clubs",
+       "C": "Banning teenagers from using digital devices during lessons",
+       "D": "Peer-mentoring schemes organised inside some secondary schools"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "rà soát danh sách giải pháp ở đoạn 6: các trường học dạy kỹ năng cảm xúc, bác sĩ kê đơn hoạt động cộng đồng, và chương trình cố vấn bạn bè đều được nhắc đến; việc cấm thiết bị số trong lớp học không hề xuất hiện."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 2, 3, and 6 about reducing youth loneliness?",
+      "options": {
+       "A": "Banning social media for teenagers would probably end the problem quickly",
+       "B": "It probably requires several coordinated measures rather than one simple remedy",
+       "C": "Improving young people's finances would remove every other possible cause",
+       "D": "Surveys of self-reported feelings are too unreliable to guide policy"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2, 3 và 6 về việc sự cô đơn xuất phát từ nhiều yếu tố đan xen (kinh tế, không gian, công nghệ, xã hội) nên việc giải quyết đòi hỏi nhiều biện pháp phối hợp đồng bộ thay vì một giải pháp đơn lẻ."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to delete every social media account",
+       "B": "To compare loneliness rates among elderly people in different countries",
+       "C": "To describe a new government scheme that has ended loneliness",
+       "D": "To examine why young people feel lonely and how to respond Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích viết (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 đặt vấn đề về sự cô đơn lan rộng ở người trẻ; đoạn 2 phân biệt định nghĩa cô đơn và việc ở một mình; đoạn 3 lý giải các nguyên nhân (mạng xã hội, thu hẹp không gian chung, áp lực kinh tế); đoạn 4 nêu hậu quả; đoạn 5 bàn về vai trò phức tạp của công nghệ; đoạn 6 và 7 đưa ra các giải pháp can thiệp từ cộng đồng và chính sách. Do đó, phương án đúng cần bao quát được toàn diện các nguyên nhân, hậu quả và nhu cầu giải pháp cộng đồng.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q7, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R3Q2**, tìm từ khóa \"differ from being alone\" ở đoạn 2 để thấy cô đơn là sự chênh lệch đau đớn giữa các mối quan hệ mong muốn và thực tế.\n  - Với **R3Q5**, quét từ khóa \"friendships harder to form\" ở đoạn 4 để thấy việc học sinh cô đơn rút lui khỏi các hoạt động làm giảm cơ hội kết bạn.\n  - Với **R3Q7**, từ **\"reluctant\"** ở đoạn 2 dùng để miêu tả việc người trẻ ngần ngại, không muốn thừa nhận cảm xúc bị kỳ thị.\n  - Với **R3Q8**, rà soát danh sách giải pháp ở đoạn 6: các trường học dạy kỹ năng cảm xúc, bác sĩ kê đơn hoạt động cộng đồng, và chương trình cố vấn bạn bè đều được nhắc đến; việc cấm thiết bị số trong lớp học không hề xuất hiện.\n- **Dạng câu hỏi Chèn câu (R3Q4):** Đọc kỹ ý nghĩa của câu cần chèn 'Both explanations, however, have been criticised as incomplete.' (Tuy nhiên, cả hai lời giải thích đều bị chỉ trích là chưa đầy đủ). Câu này dùng từ nối phản biện \"Both explanations\" để chỉ hai lập luận ngay trước đó (đoạn 3): quan điểm thứ nhất đổ lỗi cho mạng xã hội [1] và quan điểm thứ hai nhấn mạnh sự suy giảm không gian chung [2]. Vị trí [3] nằm ngay sau khi hai lời giải thích này khép lại và trước khi đưa ra nguyên nhân kinh tế tiếp theo [3], là nơi hoàn hảo để đưa ra lời nhận xét phản biện \"cả hai lời giải thích trên\".\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3):** Dựa vào ngữ cảnh đoạn 1, từ **\"pervasive\"** đi kèm vấn đề xã hội quy mô lớn được WHO và chính phủ quan tâm, mang nghĩa lan tỏa rộng khắp, bao trùm (widespread).\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ **\"which\"** ở đoạn 5. Đọc ngược lại mệnh đề ngay trước đó nói về việc lướt mạng vô định (passive scrolling) làm sâu sắc thêm sự cô lập, điều này chỉ ra bản chất của hành vi sử dụng công nghệ tiêu cực này.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 2, 3 và 6 về việc sự cô đơn xuất phát từ nhiều yếu tố đan xen (kinh tế, không gian, công nghệ, xã hội) nên việc giải quyết đòi hỏi nhiều biện pháp phối hợp đồng bộ thay vì một giải pháp đơn lẻ.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R3Q3, R3Q7) và Quy chiếu (R3Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để hoàn thành nhanh các câu hỏi **Chi tiết** (R3Q2, R3Q5, R3Q8) và câu hỏi **Chèn** câu (R3Q4). Cuối cùng, tổng hợp nội dung toàn bài để xử lý các câu hỏi mang tính khái quát cao như Ý chính (R3Q1), Suy luận (R3Q9) và Mục đích viết (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Environmental Cost of the AI Revolution",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Artificial intelligence is usually discussed in the language of software, as though it existed in some weightless realm. In reality, every query answered by a chatbot depends on physical machinery, and the burgeoning demand for that machinery is beginning to alter the energy and water profiles of entire regions. Estimates from the International Energy Agency suggest that data centres already use roughly one to two per cent of global electricity, with AI expected to push that share higher.",
+     "Training a large model is the most conspicuous cost. It requires thousands of specialised processors running continuously for weeks, consuming electricity on a scale comparable to that of thousands of homes, although exact figures are seldom disclosed. Yet researchers increasingly argue that training is no longer the dominant burden. Once a model is released to millions of users, the cumulative energy used to answer their requests, known as inference, can exceed the one-off cost of training within months.",
+     "Electricity is only part of the story. Processors generate intense heat, and many facilities rely on evaporative cooling, which can consume large volumes of fresh water, often in regions already facing shortages. A widely cited study estimated that a short conversation with a chatbot may indirectly require around half a litre of water, though such estimates depend heavily on assumptions about location and cooling methods. Local communities have begun to challenge new data-centre projects, arguing that the companies behind **them** rarely consult residents.",
+     "The environmental footprint begins long before a server is switched on. **[1]** Manufacturing advanced processors requires extensive mining of metals and minerals, together with energy-intensive fabrication in a small number of specialised plants. **[2]** Because hardware built for AI becomes outdated quickly, operators often replace equipment within a few years, producing electronic waste that is difficult to recycle safely. [3] Efficiency gains alone, however, rarely reduce total consumption, since cheaper computation tends to encourage greater use, a pattern economists describe as the Jevons paradox. **[4]** The same pattern has already appeared in other industries, from lighting to air travel.",
+     "Part of the difficulty lies in measurement. Technology companies publish sustainability reports, but the figures are frequently aggregated across entire corporations, which makes it hard to isolate the cost of AI products specifically, and the methods used to calculate emissions remain largely **opaque**. Independent researchers must therefore rely on indirect estimates, and these can differ by an order of magnitude depending on assumptions about hardware, location, and usage. Without standardised reporting, neither regulators nor consumers can compare one system with another.",
+     "Mitigation strategies exist, but each carries trade-offs. Operators can locate facilities where renewable electricity is abundant, schedule flexible workloads for times of low demand, and adopt smaller, specialised models that need far less computation than general-purpose systems. Purchasing renewable energy certificates is more contentious, since critics argue that matching annual consumption on paper does not guarantee that clean power is available at the hour when servers actually run. Policy proposals therefore focus on mandatory disclosure and on requiring new facilities to supply their own clean generation.",
+     "The question is not whether AI should be abandoned, since it may also help reduce emissions through better grid management, materials research, and climate modelling. Nor can its benefits be assumed to outweigh its costs without evidence, an assumption that has too often shaped public debate. A defensible position treats computation as a resource with real environmental consequences, to be used where its value is clear and measured honestly where it is not. Whether artificial intelligence ultimately proves sustainable will depend largely on the choices made now."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Training large models is the only stage that harms the environment",
+       "B": "Renewable energy certificates have already solved the problem of data-centre emissions",
+       "C": "AI imposes substantial, poorly measured environmental costs that demand transparency and restraint",
+       "D": "AI should be abandoned because it cannot reduce any emissions anywhere"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, why is training no longer considered the dominant burden?",
+      "options": {
+       "A": "Serving millions of requests can soon exceed one-off training costs",
+       "B": "Modern training runs finish within hours and need very few processors",
+       "C": "Regulators have since banned the training of the largest models entirely",
+       "D": "Users now run models only on small personal devices at home"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"dominant burden\" hoặc \"training\" ở đoạn 2 để nhận ra chi phí tích lũy từ hàng triệu lượt yêu cầu người dùng (inference) có thể vượt qua chi phí huấn luyện ban đầu trong vòng vài tháng."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"burgeoning\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "slowly declining",
+       "B": "carefully planned",
+       "C": "widely criticised",
+       "D": "rapidly growing"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"burgeoning\" đi kèm với nhu cầu về máy móc, trung tâm dữ liệu đang gia tăng mạnh mẽ, mang nghĩa phát triển nhanh chóng, bùng nổ (rapidly growing)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Industry representatives counter that newer chips perform far more calculations for each unit of energy.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ ý nghĩa câu cần chèn 'Industry representatives counter that newer chips perform far more calculations for each unit of energy.' (Đại diện ngành công nghiệp phản bác rằng các con chip mới hơn thực hiện được nhiều phép tính hơn cho mỗi đơn vị năng lượng). Câu này mang tính chất đưa ra lập luận phản biện về \"hiệu suất năng lượng của chip mới\". Đặt câu này vào vị trí [3] là cực kỳ hợp lý, nằm ngay trước câu nói về việc hiệu quả tiết kiệm đơn thuần hiếm khi làm giảm tổng mức tiêu thụ do nghịch lý Jevons."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, why do efficiency gains alone rarely reduce total consumption?",
+      "options": {
+       "A": "Cheaper computation tends to encourage people to use more",
+       "B": "Newer processors are always far less efficient than their predecessors",
+       "C": "Manufacturers refuse to sell efficient chips to large operators",
+       "D": "Efficient hardware cannot be installed in existing data centres"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 36,
+      "stem": "The word \"them\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Local communities",
+       "B": "Data-centre projects",
+       "C": "Shared water supplies",
+       "D": "Large companies"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"them\" ở đoạn 3. Đọc ngược lại câu văn trước nhắc đến các dự án trung tâm dữ liệu mới (new data-centre projects) mà cộng đồng địa phương bắt đầu thách thức do các công ty đằng sau các dự án này hiếm khi tham vấn cư dân."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"opaque\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "easy to verify",
+       "B": "widely praised",
+       "C": "carefully audited",
+       "D": "hard to understand"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"opaque\" ở đoạn 5 xuất hiện trong bối cảnh các phương pháp tính toán lượng phát thải chưa minh bạch, khó kiểm chứng, mang nghĩa khó hiểu, không rõ ràng (hard to understand)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a mitigation strategy?",
+      "options": {
+       "A": "Prohibiting consumers from using any AI services",
+       "B": "Locating facilities where renewable electricity is abundant",
+       "C": "Scheduling flexible workloads for periods of low demand",
+       "D": "Adopting smaller specialised models that need less computation"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "rà soát danh sách các biện pháp giảm thiểu ở đoạn 6: chọn nơi có điện tái tạo dồi dào, lập lịch linh hoạt và dùng mô hình nhỏ gọn đều được nhắc đến; việc cấm người tiêu dùng sử dụng dịch vụ AI hoàn toàn không xuất hiện."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 2, 5, and 6 about regulating AI's environmental impact?",
+      "options": {
+       "A": "Regulation is unnecessary because companies already publish comparable data",
+       "B": "Disclosure of usage data is probably a precondition for regulation",
+       "C": "Only the training phase of models can be regulated meaningfully",
+       "D": "Binding rules would immediately cut energy use in every single region"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ đoạn 2, 5 và 6 về việc số liệu phát thải hiện nay bị gộp chung và mờ mịt, từ đó suy luận rằng việc công khai dữ liệu sử dụng một cách minh bạch chính là tiền đề cần thiết trước khi có thể áp dụng các quy định quản lý hiệu quả."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote a new generation of energy-efficient processors",
+       "B": "To warn investors that AI companies will soon collapse",
+       "C": "To compare AI with aviation and agriculture as polluters",
+       "D": "To assess AI's environmental costs and possible responses"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích viết (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu chi phí cơ sở hạ tầng và năng lượng của AI; đoạn 2 phân tích chi phí huấn luyện so với suy luận (inference); đoạn 3 bàn về vấn đề tiêu thụ nước và phản ứng từ cộng đồng; đoạn 4 nói về vòng đời phần cứng và nghịch lý Jevons; đoạn 5 đề cập đến sự thiếu minh bạch trong đo lường; đoạn 6 đưa ra các giải pháp giảm thiểu và đoạn 7 kết luận về hướng tiếp cận cân bằng. Do đó, phương án đúng cần phản ánh đầy đủ hai khía cạnh: AI gây ra các chi phí môi trường lớn nhưng chưa được đo lường tốt, đồng thời đòi hỏi sự minh bạch và kiềm chế.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R4Q2**, tìm từ khóa \"dominant burden\" hoặc \"training\" ở đoạn 2 để nhận ra chi phí tích lũy từ hàng triệu lượt yêu cầu người dùng (inference) có thể vượt qua chi phí huấn luyện ban đầu trong vòng vài tháng.\n  - With **R4Q5**, quét từ khóa \"efficiency gains\" ở đoạn 4 để hiểu nguyên nhân tại sao hiệu suất cao hơn không làm giảm tổng mức tiêu thụ: tính toán rẻ hơn thúc đẩy con người sử dụng nhiều hơn (nghịch lý Jevons).\n  - Với **R4Q8**, rà soát danh sách các biện pháp giảm thiểu ở đoạn 6: chọn nơi có điện tái tạo dồi dào, lập lịch linh hoạt và dùng mô hình nhỏ gọn đều được nhắc đến; việc cấm người tiêu dùng sử dụng dịch vụ AI hoàn toàn không xuất hiện.\n- **Dạng câu hỏi Chèn câu (R4Q4):** Đọc kỹ ý nghĩa câu cần chèn 'Industry representatives counter that newer chips perform far more calculations for each unit of energy.' (Đại diện ngành công nghiệp phản bác rằng các con chip mới hơn thực hiện được nhiều phép tính hơn cho mỗi đơn vị năng lượng). Câu này mang tính chất đưa ra lập luận phản biện về \"hiệu suất năng lượng của chip mới\". Đặt câu này vào vị trí [3] là cực kỳ hợp lý, nằm ngay trước câu nói về việc hiệu quả tiết kiệm đơn thuần hiếm khi làm giảm tổng mức tiêu thụ do nghịch lý Jevons.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"burgeoning\"** đi kèm với nhu cầu về máy móc, trung tâm dữ liệu đang gia tăng mạnh mẽ, mang nghĩa phát triển nhanh chóng, bùng nổ (rapidly growing).\n  - Với **R4Q7**, từ **\"opaque\"** ở đoạn 5 xuất hiện trong bối cảnh các phương pháp tính toán lượng phát thải chưa minh bạch, khó kiểm chứng, mang nghĩa khó hiểu, không rõ ràng (hard to understand).\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ **\"them\"** ở đoạn 3. Đọc ngược lại câu văn trước nhắc đến các dự án trung tâm dữ liệu mới (new data-centre projects) mà cộng đồng địa phương bắt đầu thách thức do các công ty đằng sau các dự án này hiếm khi tham vấn cư dân.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ đoạn 2, 5 và 6 về việc số liệu phát thải hiện nay bị gộp chung và mờ mịt, từ đó suy luận rằng việc công khai dữ liệu sử dụng một cách minh bạch chính là tiền đề cần thiết trước khi có thể áp dụng các quy định quản lý hiệu quả.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng như Từ vựng (R4Q3, R4Q7) và Quy chiếu (R4Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R4Q2, R4Q5, R4Q8) và câu hỏi **Chèn câu** (R4Q4). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như **Ý chính** (R4Q1), Suy luận (R4Q9) và Mục đích viết (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend, Mark, telling you that he has just broken his smartphone and needs to buy a new one.\nSince you bought a new phone last month, write an email to give him some advice.\nI'm so sorry to hear about your broken phone! I actually just got a new one last month and I'm happy to share my experience with you.\n- What brand and model did you buy?\n- What are its strengths and weaknesses?\n- Do you recommend I buy the same one, or do you have any other advice?\nWrite an email responding to Mark. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend, Mark, telling you that he has just broken his smartphone and needs to buy a new one.",
+      "Since you bought a new phone last month, write an email to give him some advice."
+     ],
+     "quote": [
+      "I'm so sorry to hear about your broken phone! I actually just got a new one last month and I'm happy to share my experience with you.",
+      "- What brand and model did you buy?",
+      "- What are its strengths and weaknesses?",
+      "- Do you recommend I buy the same one, or do you have any other advice?"
+     ],
+     "instruction": "Write an email responding to Mark. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng thư thân mật (Informal Email) gửi cho một người bạn.\n- Nhiệm vụ chính: Chia sẻ về chiếc điện thoại mới mua (thương hiệu, ưu/nhược điểm) và đưa ra lời khuyên cho bạn.\n- Yêu cầu: Viết tối thiểu 120 từ, trả lời đầy đủ các câu hỏi gợi ý.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Hi Mark, / Dear Mark,\n- **Opening:** Chia buồn về chiếc điện thoại hỏng và dẫn dắt vào việc mình vừa mua máy mới. Ví dụ: I'm sorry to hear about your phone. Coincidentally, I just bought a new one last month!\n- **Body Paragraph 1:** Giới thiệu tên thương hiệu và mẫu mã. Ví dụ: I decided to go with the iPhone 15 Pro Max.\n- **Body Paragraph 2:** Phân tích điểm mạnh (pin, camera, màn hình) và điểm yếu (giá cả, trọng lượng). Ví dụ: The best thing about it is the battery life, but it was quite expensive.\n- **Body Paragraph 3:** Đưa ra lời khuyên có nên mua hay không hoặc gợi ý phương án khác (mua ốp lưng, bảo hiểm). Ví dụ: If you have the budget, you should definitely get it. Otherwise, look for a mid-range Samsung.\n- **Closing & Sign-off:** Chúc bạn sớm tìm được máy và ký tên.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Quá khứ đơn để kể về việc mua máy và Hiện tại đơn để miêu tả tính năng.\n- Dùng các cấu trúc so sánh (better than, not as good as) để làm nổi bật đặc điểm sản phẩm.\nTừ vựng quan trọng:\n- **Brand and model:** Thương hiệu và mẫu mã\n- **Battery life:** Thời lượng pin\n- **High-resolution camera:** Camera độ phân giải cao\n- **Value for money:** Đáng đồng tiền bát gạo\n- **Durability:** Độ bền\n- **User-friendly interface:** Giao diện dễ sử dụng\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Regarding:** Liên quan đến\n- **On the other hand:** Mặt khác\n- **In addition:** Thêm vào đó\n- **Overall:** Nhìn chung\nCách diễn đạt cảm xúc (Expressing feelings):\n- **To be honest:** Thành thật mà nói\n- **I'm highly satisfied with:** Tôi rất hài lòng với\n- **What a pity:** Thật là đáng tiếc\n\n**4. Các lỗi thường gặp:**\n- Quên không nhắc đến điểm yếu của điện thoại (đề bài yêu cầu cả strengths và weaknesses).\n- Sử dụng ngôn ngữ quá trang trọng (Formal) không phù hợp với viết thư cho bạn bè.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã có ít nhất 120 từ chưa.\n- Đảm bảo đã nêu rõ tên Brand (Samsung, iPhone, Oppo...).\n- Soát lỗi chính tả các từ vựng về công nghệ.\n\n**6. Tư duy làm bài:**\n- Hãy viết như đang trò chuyện thật sự. Việc nêu ra một nhược điểm thực tế sẽ giúp bài viết chân thực và khách quan hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nNowadays, many university students take part-time jobs while they are still studying.\nWhile some people think that working and studying at the same time is beneficial for their future careers, others believe it can negatively affect their academic performance.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about university students taking part-time jobs. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Nowadays, many university students take part-time jobs while they are still studying.",
+      "While some people think that working and studying at the same time is beneficial for their future careers, others believe it can negatively affect their academic performance.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about university students taking part-time jobs. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Discussion Essay (Thảo luận hai mặt và đưa ra ý kiến).\n- Chủ đề: Sinh viên làm thêm (Part-time jobs for university students).\n- Yêu cầu: Phân tích lợi ích (kinh nghiệm, thu nhập) và tác hại (sao nhãng học tập, mệt mỏi) của việc làm thêm.\n- Độ dài: Ít nhất 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Nêu bối cảnh việc làm thêm rất phổ biến hiện nay và giới thiệu hai luồng quan điểm trái chiều.\n- **Body 1:** Lợi ích của làm thêm (Cải thiện kỹ năng mềm, làm đẹp hồ sơ xin việc, tự chủ tài chính). Ví dụ: Working part-time provides students with practical experience that cannot be learned in books.\n- **Body 2:** Tác hại của làm thêm (Thiếu thời gian học, ảnh hưởng sức khỏe, kết quả học tập sa sút). Ví dụ: Excessive working hours can lead to exhaustion and poor academic results.\n- **Conclusion:** Tổng kết lại và đưa ra quan điểm cá nhân (thường là ủng hộ làm thêm nếu biết cân bằng thời gian).\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các danh động từ (Working, Studying) làm chủ ngữ.\n- Sử dụng câu phức để giải thích nguyên nhân - kết quả.\nTừ vựng quan trọng:\n- **Financial independence:** Tự chủ tài chính\n- **Soft skills:** Kỹ năng mềm (giao tiếp, làm việc nhóm)\n- **Work-life balance:** Cân bằng giữa công việc và cuộc sống\n- **Academic performance:** Kết quả học tập\n- **Practical experience:** Kinh nghiệm thực tế\n- **Time management:** Quản lý thời gian\nTừ nối (Linking words):\n- **On the one hand / On the other hand:** Một mặt / Mặt khác\n- **Furthermore:** Hơn thế nữa\n- **Consequently:** Kết quả là\n- **For instance:** Ví dụ như\n- **In conclusion:** Kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- **Undergraduates:** Thay cho \"university students\".\n- **Extra-curricular work:** Thay cho \"part-time jobs\".\n- **Scholastic achievements:** Thay cho \"academic performance\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **From my perspective:** Theo quan điểm của tôi\n- **It is undeniable that:** Không thể phủ nhận rằng\n- **A major drawback is:** Một nhược điểm lớn là\n\n**4. Các lỗi thường gặp:**\n- Chỉ liệt kê các công việc làm thêm mà không phân tích tác động của chúng đối với sinh viên.\n- Không đưa ra được ý kiến cá nhân rõ ràng trong phần kết luận.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã có Topic sentence (câu chủ đề) cho mỗi đoạn thân bài chưa.\n- Kiểm tra tính nhất quán của quan điểm từ mở bài đến kết bài.\n\n**6. Tư duy làm bài:**\n- Điểm mấu chốt của bài này là sự \"cân bằng\" (Balance). Hãy nhấn mạnh rằng làm thêm là tốt nếu sinh viên biết cách sắp xếp thời gian hợp lý."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about traditional food\n\n1\nWhat is a popular traditional dish in your country?\n2\nDo you know how to cook any traditional food? Why or why not?\n3\nOn what occasions do people in your country usually eat traditional meals?\n\nNow, let’s talk about your favorite food\n\n4\nWhat is your favorite food and why do you like it?\n5\nDo you prefer eating at home or at a restaurant?\n6\nDo you think healthy eating is important for young people today? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói kéo dài khoảng 3 phút với 6 câu hỏi mang tính cá nhân và quen thuộc trong đời sống hằng ngày.\n- **Topic A (Traditional Food):** Các câu hỏi 1–3 tập trung vào món ăn truyền thống, khả năng nấu ăn và văn hóa ẩm thực trong các dịp đặc biệt. Giám khảo muốn kiểm tra vốn từ về ẩm thực và khả năng mô tả văn hóa.\n- **Topic B (Eating Habits):** Các câu hỏi 4–6 tập trung vào món ăn yêu thích, thói quen ăn uống và quan điểm về sức khỏe. Bạn cần thể hiện ý kiến cá nhân rõ ràng.\n- Tiêu chí chấm điểm gồm: độ trôi chảy, từ vựng, ngữ pháp và phát âm.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu trả lời để phân bổ thời gian đều giữa Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer (trả lời trực tiếp) -> Reason (giải thích) -> Example (ví dụ cụ thể).\n- **Ví dụ Topic A:** One traditional dish in my country is pho because it is delicious and represents Vietnamese culture. For example, many tourists try pho when they visit Vietnam.\n- **Ví dụ Topic B:** I prefer eating at home because homemade meals are healthier and cheaper than restaurant food.\n- Luôn tự hỏi “Why?” hoặc “How?” để mở rộng ý và tránh trả lời quá ngắn.\n- Khi chuyển chủ đề, bạn có thể dùng câu như: Speaking of traditional food, I also pay a lot of attention to healthy eating habits.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định và sử dụng filler tự nhiên như “Well”, “Actually”, “To be honest”.\n- Với câu hỏi về thói quen, hãy ưu tiên thì hiện tại đơn. Với trải nghiệm cá nhân hoặc thay đổi theo thời gian, có thể dùng hiện tại hoàn thành.\n- Nếu quên từ vựng, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng quá lâu.\n- Từ vựng Topic A: traditional cuisine (ẩm thực truyền thống), family recipe (công thức gia đình), cultural identity (bản sắc văn hóa), special occasion (dịp đặc biệt).\n- Từ vựng Topic B: balanced diet (chế độ ăn cân bằng), junk food (đồ ăn nhanh không lành mạnh), homemade meal (bữa ăn tự nấu), nutritious food (thực phẩm bổ dưỡng).\nCụm từ quan trọng nên dùng:\n- Traditional dish – món ăn truyền thống\n- Pass down through generations – được truyền qua nhiều thế hệ\n- Prepare meals together – cùng nhau chuẩn bị bữa ăn\n- Healthy lifestyle – lối sống lành mạnh\n- Eat in moderation – ăn điều độ\n- High in nutrients – giàu dinh dưỡng\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Besides that – bên cạnh đó\n- For example – ví dụ\n- As a result – kết quả là\n- In my opinion – theo ý kiến của tôi\nCách thể hiện quan điểm tự nhiên:\n- I personally believe that traditional food is important because it connects people with their culture. – Tôi tin rằng món ăn truyền thống rất quan trọng vì nó kết nối con người với văn hóa.\n- From my perspective, cooking at home is more meaningful than eating outside. – Theo quan điểm của tôi, nấu ăn ở nhà ý nghĩa hơn ăn ngoài.\n- As far as I am concerned, healthy eating should be a priority for young people. – Theo tôi, ăn uống lành mạnh nên là ưu tiên của giới trẻ.\n- I would say that pho is one of the most famous dishes in Vietnam. – Tôi cho rằng phở là một trong những món nổi tiếng nhất ở Việt Nam.\n- Personally, I enjoy homemade food because it feels more comfortable and healthier. – Cá nhân tôi thích đồ ăn nhà nấu vì thoải mái và tốt cho sức khỏe hơn.\n- In my view, eating too much fast food can cause health problems. – Theo tôi, ăn quá nhiều đồ ăn nhanh có thể gây vấn đề sức khỏe.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời “Yes” hoặc “No” mà không giải thích thêm.\n- Nói quá ít về món ăn truyền thống và không đưa ví dụ cụ thể.\n- Lặp lại từ “delicious” hoặc “good” quá nhiều khi mô tả đồ ăn.\n- Dùng sai thì khi nói về thói quen ăn uống hiện tại.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Sử dụng câu đệm như: That is an interesting question. Let me think for a second.\n- Nếu quên tên món ăn, hãy mô tả nguyên liệu hoặc cách chế biến.\n- Với Topic A, nếu không biết nấu ăn, bạn có thể nói về việc quan sát bố mẹ nấu.\n- Với Topic B, nếu khó nói về sức khỏe, hãy liên hệ đến năng lượng hoặc việc học tập.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi đây là một cuộc trò chuyện tự nhiên với giám khảo.\n- Khi chuyển từ Topic A sang Topic B, hãy thay đổi suy nghĩ sang chủ đề sức khỏe và thói quen cá nhân.\n- Sự tự nhiên và rõ ràng quan trọng hơn việc cố dùng từ vựng quá khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nA friend is coming to visit your house and you need to prepare a meal.\n\nYou are considering the following options:\n\nOption 1: Cooking a meal at home\nOption 2: Going to a fast food restaurant\nOption 3: Going to a traditional food restaurant\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn chọn cách phù hợp nhất để tiếp đãi một người bạn đến thăm nhà.\n- Ba lựa chọn gồm: tự nấu ăn tại nhà, đi nhà hàng thức ăn nhanh hoặc đi nhà hàng món ăn truyền thống.\n- Giám khảo đánh giá khả năng so sánh, lập luận và đưa ra quyết định rõ ràng.\n- Thời gian tổng cộng là 4 phút, trong đó bạn nên dành khoảng 1 phút suy nghĩ và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để phân tích từng lựa chọn rồi kết luận.\n- Option 1: Cooking at home có ưu điểm là tiết kiệm, ấm cúng và thể hiện sự chân thành nhưng mất thời gian chuẩn bị.\n- Option 2: Fast food restaurant nhanh và tiện lợi nhưng có thể không tốt cho sức khỏe và thiếu không khí đặc biệt.\n- Option 3: Traditional food restaurant giúp giới thiệu văn hóa địa phương và tạo trải nghiệm đáng nhớ nhưng thường đắt hơn.\n- Hãy liên hệ đến cuộc sống thực tế của sinh viên hoặc gia đình để làm lập luận tự nhiên hơn.\n- Sử dụng từ nối đối lập như however, on the other hand hoặc compared to để chuyển ý mượt mà.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói từng lựa chọn tách biệt hoàn toàn.\n- Ưu tiên thì hiện tại đơn khi nói về ưu và nhược điểm chung.\n- Nếu quên từ về ẩm thực, hãy mô tả bằng các từ đơn giản như tasty food hoặc local dishes.\nCụm từ quan trọng nên dùng:\n- Warm and welcoming atmosphere – bầu không khí ấm cúng\n- Save time and effort – tiết kiệm thời gian và công sức\n- Affordable option – lựa chọn hợp túi tiền\n- Traditional cuisine – ẩm thực truyền thống\n- Strengthen friendship – tăng cường tình bạn\n- Make a good impression – tạo ấn tượng tốt\nTừ nối khi nói (Linking Words):\n- First of all – trước tiên\n- In contrast – ngược lại\n- Moreover – hơn nữa\n- As a result – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I would definitely choose cooking at home because it feels more personal. – Tôi chắc chắn sẽ chọn nấu ăn ở nhà vì cảm giác cá nhân hơn.\n- Compared to fast food restaurants, traditional restaurants provide a better cultural experience. – So với nhà hàng đồ ăn nhanh, nhà hàng truyền thống mang lại trải nghiệm văn hóa tốt hơn.\n- In my opinion, preparing food at home is the best way to welcome a close friend. – Theo tôi, chuẩn bị đồ ăn ở nhà là cách tốt nhất để chào đón bạn thân.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình thích mà không phân tích nhược điểm của các lựa chọn còn lại.\n- Lặp lại các từ đơn giản như good hoặc bad quá nhiều.\n- Kết luận không rõ ràng hoặc thay đổi lựa chọn ở cuối bài.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng, hãy chuyển sang nói về chi phí, thời gian hoặc sự tiện lợi.\n- Sử dụng câu đệm: Let's evaluate this option from a different perspective.\n- Nếu bị bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn tiếp theo thay vì dừng quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người đưa ra quyết định thực tế: lựa chọn nào hợp lý, tiết kiệm và tạo trải nghiệm tốt nhất.\n- Ngay cả với lựa chọn bạn chọn, hãy đề xuất một vài điểm cần cải thiện để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nDisadvantages of doing exercise\n\nDisadvantages of Exercise\nWaste of time\nWaste of money\nRisk of injuries\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo the benefits of exercise outweigh the disadvantages?\n2\nHow can people avoid injuries while working out?\n3\nIs it necessary to spend a lot of money on a gym membership?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về những mặt tiêu cực hoặc bất lợi của việc tập thể dục.\n- Ba nhánh mindmap chính gồm: tốn thời gian, tốn tiền và nguy cơ chấn thương. Nhánh thứ tư có thể nói về sự mệt mỏi hoặc áp lực tinh thần.\n- Giám khảo đánh giá khả năng phát triển ý, tổ chức bài nói và trả lời câu hỏi follow-up.\n- Thời gian khoảng 5 phút, trong đó nên dành 3–3.5 phút cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/wrap up.\n- **Ví dụ 1:** Today, I would like to talk about some disadvantages of doing exercise, especially when people do not have a proper plan.\n- **Ví dụ 2:** Another drawback is that some people become too obsessed with exercise and feel stressed if they miss a workout.\n- Khi nói về từng nhánh, hãy đưa ví dụ thực tế thay vì chỉ liệt kê ý.\n- Luôn bám theo mindmap để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng các cụm chuyển ý mượt mà giữa các nhánh của mindmap.\n- Dùng hiện tại đơn để nói sự thật chung và hiện tại hoàn thành để nói trải nghiệm tích lũy.\n- Có thể paraphrase từ exercise bằng physical activity, workout hoặc fitness training.\nCụm từ quan trọng nên dùng:\n- Physical exhaustion – kiệt sức về thể chất\n- Workout routine – lịch tập luyện\n- Financial burden – gánh nặng tài chính\n- Sports injuries – chấn thương thể thao\n- Lack of free time – thiếu thời gian rảnh\n- Mental pressure – áp lực tinh thần\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Another important point is – một điểm quan trọng khác là\n- For instance – ví dụ\n- As a consequence – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, exercise can become stressful if people train too much. – Theo tôi, tập thể dục có thể gây căng thẳng nếu tập quá nhiều.\n- I personally think that expensive gym memberships are unnecessary for some people. – Tôi nghĩ rằng việc mua gói tập đắt tiền là không cần thiết với một số người.\n- From my perspective, the disadvantages mainly appear when people exercise without balance. – Theo quan điểm của tôi, các bất lợi chủ yếu xuất hiện khi mọi người tập luyện không cân bằng.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Do the benefits of exercise outweigh the disadvantages?** – Yes, because exercise improves both physical and mental health when done properly.\n- **How can people avoid injuries while working out?** – They should warm up carefully, use correct techniques and avoid overtraining.\n- **Is it necessary to spend a lot of money on a gym membership?** – No, because people can still exercise effectively at home or in public parks.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê nhược điểm mà không giải thích hoặc cho ví dụ cụ thể.\n- Quên phát triển ý cá nhân ở nhánh thứ tư của mindmap.\n- Dành quá nhiều thời gian cho bài nói chính và không còn thời gian cho phần follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ đến trải nghiệm cá nhân hoặc cuộc sống sinh viên.\n- Sử dụng câu đệm học thuật như: That is a complex issue. If we evaluate it from a societal viewpoint...\n- Nếu quên từ chuyên môn, hãy dùng cách mô tả đơn giản hơn thay thế.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn vấn đề theo hướng thực tế và cân bằng thay vì cực đoan.\n- Tính logic và sự liên kết giữa các ý là yếu tố rất quan trọng để đạt điểm cao.\n- Dù chủ đề nói về bất lợi, bạn vẫn nên thể hiện quan điểm khách quan và hợp lý."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about traditional food.\n1.\nWhat is a popular traditional dish in your country?\n2.\nDo you know how to cook any traditional food? Why or why not?\n3.\nOn what occasions do people in your country usually eat traditional meals?\nNow, let’s talk about your favorite food.\n4.\nWhat is your favorite food and why do you like it?\n5.\nDo you prefer eating at home or at a restaurant?\n6.\nDo you think healthy eating is important for young people today? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói kéo dài khoảng 3 phút với 6 câu hỏi mang tính cá nhân và quen thuộc trong đời sống hằng ngày.\n• Topic A (Traditional Food): Các câu hỏi 1–3 tập trung vào món ăn truyền thống, khả năng nấu ăn và văn hóa ẩm thực\ntrong các dịp đặc biệt. Giám khảo muốn kiểm tra vốn từ về ẩm thực và khả năng mô tả văn hóa.\n• Topic B (Eating Habits): Các câu hỏi 4–6 tập trung vào món ăn yêu thích, thói quen ăn uống và quan điểm về sức\nkhỏe. Bạn cần thể hiện ý kiến cá nhân rõ ràng.\n• Tiêu chí chấm điểm gồm: độ trôi chảy, từ vựng, ngữ pháp và phát âm.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu trả lời để phân bổ thời gian đều giữa Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer (trả lời trực tiếp) -> Reason (giải thích) -> Example (ví dụ cụ thể).\n• Ví dụ Topic A: One traditional dish in my country is pho because it is delicious and represents Vietnamese culture.\nFor example, many tourists try pho when they visit Vietnam.\n• Ví dụ Topic B: I prefer eating at home because homemade meals are healthier and cheaper than restaurant food.\n• Luôn tự hỏi “Why?” hoặc “How?” để mở rộng ý và tránh trả lời quá ngắn.\n• Khi chuyển chủ đề, bạn có thể dùng câu như: Speaking of traditional food, I also pay a lot of attention to healthy eating\nhabits.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định và sử dụng filler tự nhiên như “Well”, “Actually”, “To be honest”.\n• Với câu hỏi về thói quen, hãy ưu tiên thì hiện tại đơn. Với trải nghiệm cá nhân hoặc thay đổi theo thời gian, có thể\ndùng hiện tại hoàn thành.\n• Nếu quên từ vựng, hãy diễn đạt bằng từ đơn giản hơn thay vì im lặng quá lâu.\n• Từ vựng Topic A: traditional cuisine (ẩm thực truyền thống), family recipe (công thức gia đình), cultural identity (bản\nsắc văn hóa), special occasion (dịp đặc biệt).\n• Từ vựng Topic B: balanced diet (chế độ ăn cân bằng), junk food (đồ ăn nhanh không lành mạnh), homemade meal\n(bữa ăn tự nấu), nutritious food (thực phẩm bổ dưỡng).\nCụm từ quan trọng nên dùng:\n• Traditional dish – món ăn truyền thống\n• Pass down through generations – được truyền qua nhiều thế hệ\n• Prepare meals together – cùng nhau chuẩn bị bữa ăn\n• Healthy lifestyle – lối sống lành mạnh\n• Eat in moderation – ăn điều độ\n• High in nutrients – giàu dinh dưỡng\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Besides that – bên cạnh đó\n• For example – ví dụ\n• As a result – kết quả là\n• In my opinion – theo ý kiến của tôi\nCách thể hiện quan điểm tự nhiên:\n• I personally believe that traditional food is important because it connects people with their culture. – Tôi tin rằng món\năn truyền thống rất quan trọng vì nó kết nối con người với văn hóa.\n• From my perspective, cooking at home is more meaningful than eating outside. – Theo quan điểm của tôi, nấu ăn ở\nnhà ý nghĩa hơn ăn ngoài.\n• As far as I am concerned, healthy eating should be a priority for young people. – Theo tôi, ăn uống lành mạnh nên là\nưu tiên của giới trẻ.\n• I would say that pho is one of the most famous dishes in Vietnam. – Tôi cho rằng phở là một trong những món nổi\ntiếng nhất ở Việt Nam.\n• Personally, I enjoy homemade food because it feels more comfortable and healthier. – Cá nhân tôi thích đồ ăn nhà\nnấu vì thoải mái và tốt cho sức khỏe hơn.\n• In my view, eating too much fast food can cause health problems. – Theo tôi, ăn quá nhiều đồ ăn nhanh có thể gây\nvấn đề sức khỏe.\n4. Các lỗi thường gặp:\n• Chỉ trả lời “Yes” hoặc “No” mà không giải thích thêm.\n• Nói quá ít về món ăn truyền thống và không đưa ví dụ cụ thể.\n• Lặp lại từ “delicious” hoặc “good” quá nhiều khi mô tả đồ ăn.\n• Dùng sai thì khi nói về thói quen ăn uống hiện tại.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Sử dụng câu đệm như: That is an interesting question. Let me think for a second.\n• Nếu quên tên món ăn, hãy mô tả nguyên liệu hoặc cách chế biến.\n• Với Topic A, nếu không biết nấu ăn, bạn có thể nói về việc quan sát bố mẹ nấu.\n• Với Topic B, nếu khó nói về sức khỏe, hãy liên hệ đến năng lượng hoặc việc học tập.\n6. Tư duy làm bài nói:\n• Hãy coi đây là một cuộc trò chuyện tự nhiên với giám khảo.\n• Khi chuyển từ Topic A sang Topic B, hãy thay đổi suy nghĩ sang chủ đề sức khỏe và thói quen cá nhân.\n• Sự tự nhiên và rõ ràng quan trọng hơn việc cố dùng từ vựng quá khó.\nSolution Discussion\nPART 2\n4 phút\nA friend is coming to visit your house and you need to prepare a meal.\nYou are considering the following options:\n• Option 1: Cooking a meal at home\n• Option 2: Going to a fast food restaurant\n• Option 3: Going to a traditional food restaurant\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn chọn cách phù hợp nhất để tiếp đãi một người bạn đến thăm nhà.\n• Ba lựa chọn gồm: tự nấu ăn tại nhà, đi nhà hàng thức ăn nhanh hoặc đi nhà hàng món ăn truyền thống.\n• Giám khảo đánh giá khả năng so sánh, lập luận và đưa ra quyết định rõ ràng.\n• Thời gian tổng cộng là 4 phút, trong đó bạn nên dành khoảng 1 phút suy nghĩ và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để phân tích từng lựa chọn rồi kết luận.\n• Option 1: Cooking at home có ưu điểm là tiết kiệm, ấm cúng và thể hiện sự chân thành nhưng mất thời gian chuẩn bị.\n• Option 2: Fast food restaurant nhanh và tiện lợi nhưng có thể không tốt cho sức khỏe và thiếu không khí đặc biệt.\n• Option 3: Traditional food restaurant giúp giới thiệu văn hóa địa phương và tạo trải nghiệm đáng nhớ nhưng thường\nđắt hơn.\n• Hãy liên hệ đến cuộc sống thực tế của sinh viên hoặc gia đình để làm lập luận tự nhiên hơn.\n• Sử dụng từ nối đối lập như however, on the other hand hoặc compared to để chuyển ý mượt mà.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói từng lựa chọn tách biệt hoàn toàn.\n• Ưu tiên thì hiện tại đơn khi nói về ưu và nhược điểm chung.\n• Nếu quên từ về ẩm thực, hãy mô tả bằng các từ đơn giản như tasty food hoặc local dishes.\nCụm từ quan trọng nên dùng:\n• Warm and welcoming atmosphere – bầu không khí ấm cúng\n• Save time and effort – tiết kiệm thời gian và công sức\n• Affordable option – lựa chọn hợp túi tiền\n• Traditional cuisine – ẩm thực truyền thống\n• Strengthen friendship – tăng cường tình bạn\n• Make a good impression – tạo ấn tượng tốt\nTừ nối khi nói (Linking Words):\n• First of all – trước tiên\n• In contrast – ngược lại\n• Moreover – hơn nữa\n• As a result – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I would definitely choose cooking at home because it feels more personal. – Tôi chắc chắn sẽ chọn nấu ăn ở nhà vì\ncảm giác cá nhân hơn.\n• Compared to fast food restaurants, traditional restaurants provide a better cultural experience. – So với nhà hàng đồ\năn nhanh, nhà hàng truyền thống mang lại trải nghiệm văn hóa tốt hơn.\n• In my opinion, preparing food at home is the best way to welcome a close friend. – Theo tôi, chuẩn bị đồ ăn ở nhà là\ncách tốt nhất để chào đón bạn thân.\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình thích mà không phân tích nhược điểm của các lựa chọn còn lại.\n• Lặp lại các từ đơn giản như good hoặc bad quá nhiều.\n• Kết luận không rõ ràng hoặc thay đổi lựa chọn ở cuối bài.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng, hãy chuyển sang nói về chi phí, thời gian hoặc sự tiện lợi.\n• Sử dụng câu đệm: Let's evaluate this option from a different perspective.\n• Nếu bị bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn tiếp theo thay vì dừng quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người đưa ra quyết định thực tế: lựa chọn nào hợp lý, tiết kiệm và tạo trải nghiệm tốt nhất.\n• Ngay cả với lựa chọn bạn chọn, hãy đề xuất một vài điểm cần cải thiện để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: Disadvantages of doing exercise\nWaste of time\nWaste of money\nDisadvantages of Exercise\nÝ tưởng của bạn\nRisk of injuries\nFOLLOW-UP QUESTIONS\n1.\nDo the benefits of exercise outweigh the disadvantages?\n2.\nHow can people avoid injuries while working out?\n3.\nIs it necessary to spend a lot of money on a gym membership?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về những mặt tiêu cực hoặc bất lợi của việc tập thể dục.\n• Ba nhánh mindmap chính gồm: tốn thời gian, tốn tiền và nguy cơ chấn thương. Nhánh thứ tư có thể nói về sự mệt\nmỏi hoặc áp lực tinh thần.\n• Giám khảo đánh giá khả năng phát triển ý, tổ chức bài nói và trả lời câu hỏi follow-up.\n• Thời gian khoảng 5 phút, trong đó nên dành 3–3.5 phút cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/wrap up.\n• Ví dụ 1: Today, I would like to talk about some disadvantages of doing exercise, especially when people do not have\na proper plan.\n• Ví dụ 2: Another drawback is that some people become too obsessed with exercise and feel stressed if they miss a\nworkout.\n• Khi nói về từng nhánh, hãy đưa ví dụ thực tế thay vì chỉ liệt kê ý.\n• Luôn bám theo mindmap để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng các cụm chuyển ý mượt mà giữa các nhánh của mindmap.\n• Dùng hiện tại đơn để nói sự thật chung và hiện tại hoàn thành để nói trải nghiệm tích lũy.\n• Có thể paraphrase từ exercise bằng physical activity, workout hoặc fitness training.\nCụm từ quan trọng nên dùng:\n• Physical exhaustion – kiệt sức về thể chất\n• Workout routine – lịch tập luyện\n• Financial burden – gánh nặng tài chính\n• Sports injuries – chấn thương thể thao\n• Lack of free time – thiếu thời gian rảnh\n• Mental pressure – áp lực tinh thần\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Another important point is – một điểm quan trọng khác là\n• For instance – ví dụ\n• As a consequence – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, exercise can become stressful if people train too much. – Theo tôi, tập thể dục có thể gây căng thẳng\nnếu tập quá nhiều.\n• I personally think that expensive gym memberships are unnecessary for some people. – Tôi nghĩ rằng việc mua gói\ntập đắt tiền là không cần thiết với một số người.\n• From my perspective, the disadvantages mainly appear when people exercise without balance. – Theo quan điểm\ncủa tôi, các bất lợi chủ yếu xuất hiện khi mọi người tập luyện không cân bằng.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do the benefits of exercise outweigh the disadvantages? – Yes, because exercise improves both physical and mental\nhealth when done properly.\n• How can people avoid injuries while working out? – They should warm up carefully, use correct techniques and avoid\novertraining.\n• Is it necessary to spend a lot of money on a gym membership? – No, because people can still exercise effectively\nat home or in public parks.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê nhược điểm mà không giải thích hoặc cho ví dụ cụ thể.\n• Quên phát triển ý cá nhân ở nhánh thứ tư của mindmap.\n• Dành quá nhiều thời gian cho bài nói chính và không còn thời gian cho phần follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ đến trải nghiệm cá nhân hoặc cuộc sống sinh viên.\n• Sử dụng câu đệm học thuật như: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ chuyên môn, hãy dùng cách mô tả đơn giản hơn thay thế.\n7. Tư duy làm bài nói:\n• Hãy nhìn vấn đề theo hướng thực tế và cân bằng thay vì cực đoan.\n• Tính logic và sự liên kết giữa các ý là yếu tố rất quan trọng để đạt điểm cao.\n• Dù chủ đề nói về bất lợi, bạn vẫn nên thể hiện quan điểm khách quan và hợp lý."
+}

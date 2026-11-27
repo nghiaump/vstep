@@ -1,0 +1,716 @@
+{
+ "id": "vlu-24",
+ "number": 24,
+ "title": "Đề thi VLU 24",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-24",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Artificial Intelligence in Everyday Life",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Artificial intelligence, or AI, is no longer something we see only in science-fiction films. It is now part of the daily lives of millions of people, often in ways that we hardly notice. In simple terms, AI is a computer system that can learn from large amounts of information and then make decisions, give answers, or suggest what to do next, without a person controlling every step. Experts expect that its role will grow quickly during the next ten years. Because of this, understanding the basics of AI has become a useful skill for everyone.",
+     "Most people meet AI first on their phones. Voice assistants can play music and answer questions, which is very **convenient** when your hands are busy. Some phones can even unlock themselves when they recognise the face of their owner. Camera apps use AI to make photos clearer, and translation apps can turn a sentence in one language into another within seconds, which helps travellers and students every day. Many people use these features every day without thinking about the technology behind them.",
+     "AI also helps us travel and relax. A navigation app collects data from many phones, and **it** uses this to show traffic and suggest routes. Streaming services study what you have watched or listened to before and then recommend similar films, shows, or songs that you might enjoy, which is why two people often see very different home screens. Online shops use similar methods to suggest products, and some drivers now use cars that can steer or brake automatically in simple situations.",
+     "AI is also entering schools, hospitals, and offices. Some learning apps check a student's answers and choose new exercises that match the student's level, so learners can practise at their own speed. Teachers sometimes use AI to prepare lesson plans, but they still decide what students really need. In hospitals, doctors use AI programs to look at X-ray images and find possible problems earlier, although a human doctor must always check the final result because the programs are not always **reliable**. At work, AI can write emails, sort documents, and answer customer questions. Some people also use AI tools to learn new languages or improve their writing.",
+     "Despite these benefits, AI also creates problems that we should not ignore. Many apps collect personal information, so users should read privacy settings carefully and share only what is necessary. AI can also make mistakes or repeat unfair ideas that appear in the data used for training, and some people worry that machines may take over jobs that humans now do. Governments in several countries are now discussing rules to make AI safer and fairer for everyone. In conclusion, AI is a powerful tool that can make life easier, but we need to use it carefully, check important information, and keep learning how it works."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "AI is already part of daily life, bringing both benefits and risks",
+       "B": "AI is only used by scientists in laboratories and large factories",
+       "C": "Smartphones are the only devices that have ever used artificial intelligence",
+       "D": "Machines will replace every teacher and doctor within the next year"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why are voice assistants convenient?",
+      "options": {
+       "A": "They can fix broken phones without human help",
+       "B": "They never need internet access for any answer",
+       "C": "They are cheaper than almost any other phone",
+       "D": "They help when your hands are occupied"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"voice assistants\" ở đoạn 2 để thấy lý do chúng hữu ích và tiện lợi khi tay của người dùng đang bận rộn."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"convenient\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "painful",
+       "B": "handy",
+       "C": "noisy",
+       "D": "costly"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"convenient\" ở đoạn 2 được minh họa bằng việc hỗ trợ người dùng khi tay bận rộn hoặc làm mọi thứ nhanh chóng, mang ý nghĩa tiện lợi, dễ sử dụng (handy)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what do streaming services do?",
+      "options": {
+       "A": "They choose a film for each person by flipping a coin",
+       "B": "They delete older shows after most users watch them twice",
+       "C": "They suggest similar films or songs based on past choices",
+       "D": "They show everyone exactly the same home screen every day"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 5,
+      "stem": "The word \"reliable\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "dependable",
+       "B": "careless",
+       "C": "unusual",
+       "D": "colourful"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"reliable\" ở đoạn 4 xuất hiện trong ngữ cảnh chương trình AI có thể tìm ra vấn đề nhưng bác sĩ vẫn phải kiểm tra lại vì chúng không phải lúc nào cũng hoàn hảo, tương đương với sự đáng tin cậy (dependable)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"it\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Live traffic",
+       "B": "Many phones",
+       "C": "Faster routes",
+       "D": "Navigation app"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số ít \"it\" trong câu thứ hai của đoạn 3. Đọc ngược lại câu trước đó để tìm danh từ chủ ngữ số ít: \"A navigation app collects data from many phones, and it uses this...\". Do đó, \"it\" quy chiếu chính xác về ứng dụng dẫn đường (Navigation app)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what must a doctor do when using an AI program?",
+      "options": {
+       "A": "Let the program decide every treatment alone",
+       "B": "Always check the final result personally",
+       "C": "Ask patients to read the images first",
+       "D": "Stop using X-ray images in all hospitals"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm cụm từ \"doctor\" và \"AI program\" ở đoạn 4 để xác định yêu cầu đối với bác sĩ con người khi kiểm tra kết quả cuối cùng."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a problem or concern?",
+      "options": {
+       "A": "Apps may collect a lot of personal information",
+       "B": "Machines may take over jobs done by people",
+       "C": "Machines often become angry with their users",
+       "D": "Systems can repeat unfair ideas from training data"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các vấn đề, rủi ro được tác giả liệt kê ở đoạn 5: thu thập thông tin cá nhân, máy móc có thể mắc lỗi/lặp lại ý kiến thiên vị, và lo ngại mất việc làm. Phương án về việc máy móc nổi giận với người dùng là hoàn toàn bịa đặt và không xuất hiện trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 4 and 5 about AI?",
+      "options": {
+       "A": "It will make human teachers and doctors unnecessary very soon",
+       "B": "It is too dangerous for use in any crowded hospital",
+       "C": "It always gives right answers because modern computers never fail",
+       "D": "It is useful but humans should still check and guide it"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ đoạn 4 và đoạn 5 (AI hỗ trợ công việc, y tế, giáo dục nhưng vẫn có điểm hạn chế, rủi ro và cần con người giám sát, kiểm tra, đặt ra quy định). Từ đó suy luận ra rằng AI rất hữu ích nhưng con người vẫn luôn cần kiểm soát, kiểm tra và dẫn dắt nó."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To explain how AI is used in everyday life today",
+       "B": "To ask teens to stop using AI to do their work",
+       "C": "To sell a new voice assistant made by a big company",
+       "D": "To teach readers how to build a simple home robot Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu AI và sự phổ biến của nó; các đoạn tiếp theo nêu cụ thể các ứng dụng của AI trong điện thoại, di chuyển, giải trí, trường học, bệnh viện; đoạn cuối chỉ ra các rủi ro và lưu ý khi sử dụng. Do đó, phương án đúng cho câu ý chính phải bao quát được cả lợi ích lẫn rủi ro của AI trong đời sống, còn mục đích chính của tác giả là giải thích cách AI hiện diện và được sử dụng trong cuộc sống hằng ngày.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R1Q2**, tìm từ khóa \"voice assistants\" ở đoạn 2 để thấy lý do chúng hữu ích và tiện lợi khi tay của người dùng đang bận rộn.\n  - With **R1Q4**, định vị từ khóa \"streaming services\" ở đoạn 3 để xác định cách chúng phân tích lịch sử xem/nghe để gợi ý phim hoặc bài hát tương tự.\n  - Với **R1Q7**, tìm kiếm cụm từ \"doctor\" và \"AI program\" ở đoạn 4 để xác định yêu cầu đối với bác sĩ con người khi kiểm tra kết quả cuối cùng.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"convenient\"** ở đoạn 2 được minh họa bằng việc hỗ trợ người dùng khi tay bận rộn hoặc làm mọi thứ nhanh chóng, mang ý nghĩa tiện lợi, dễ sử dụng (handy).\n  - Với **R1Q5**, từ **\"reliable\"** ở đoạn 4 xuất hiện trong ngữ cảnh chương trình AI có thể tìm ra vấn đề nhưng bác sĩ vẫn phải kiểm tra lại vì chúng không phải lúc nào cũng hoàn hảo, tương đương với sự đáng tin cậy (dependable).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ số ít **\"it\"** trong câu thứ hai của đoạn 3. Đọc ngược lại câu trước đó để tìm danh từ chủ ngữ số ít: \"A navigation app collects data from many phones, and it uses this...\". Do đó, \"it\" quy chiếu chính xác về ứng dụng dẫn đường (Navigation app).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối soát kỹ các vấn đề, rủi ro được tác giả liệt kê ở đoạn 5: thu thập thông tin cá nhân, máy móc có thể mắc lỗi/lặp lại ý kiến thiên vị, và lo ngại mất việc làm. Phương án về việc máy móc nổi giận với người dùng là hoàn toàn bịa đặt và không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ đoạn 4 và đoạn 5 (AI hỗ trợ công việc, y tế, giáo dục nhưng vẫn có điểm hạn chế, rủi ro và cần con người giám sát, kiểm tra, đặt ra quy định). Từ đó suy luận ra rằng AI rất hữu ích nhưng con người vẫn luôn cần kiểm soát, kiểm tra và dẫn dắt nó.\nLời khuyên: Hãy bắt đầu bằng cách xử lý nhanh các câu hỏi tra cứu thông tin chi tiết và từ vựng/quy chiếu cụ thể trong đoạn (R1Q2 đến R1Q7). Sau đó, dùng phương pháp loại trừ cho câu hỏi phủ định (R1Q8). Cuối cùng, tổng hợp toàn bộ nội dung bài đọc để giải quyết các câu hỏi mang tính khái quát cao như Ý chính (R1Q1), Suy luận (R1Q9) và Mục đích tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Surprising History of the Pop It Toy",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few toys have conquered playgrounds as quickly as the Pop It, a flat silicone board dotted with colourful bubbles that can be pushed in and out with the fingertips. Many young people assumed it was a product of the social media age, yet its design is considerably older than the apps that made it famous. Tracing that history reveals how an idea can wait decades for the right moment.",
+     "According to most accounts, the bubble-popping mechanism was designed in 1975 by Theo and Ora Coster, an Israeli couple whose company, Theora Concepts, also created popular board games such as Guess Who and Zingo. The concept was a two-player game in which whoever pressed the last bubble lost. In the 1970s, however, no manufacturer was willing to produce the toy, because its rubber construction made mass production too expensive.",
+     "As a result, the concept remained **dormant** for more than three decades before a company finally took an interest. In 2009, a Canadian company, FoxMind, acquired the rights, and after many prototypes it replaced the original rubber with silicone, a material that was durable, safe, and easier to manufacture. The product was introduced as a logic game at international toy fairs in 2014.",
+     "At first, however, sales of the new product were modest and largely confined to specialist shops. The toy found its audience mainly among special education professionals, who valued it as a way of helping restless children to relax and concentrate. Fidget toys of many kinds had already become familiar in classrooms, and some teachers began to recommend **them** for pupils who found it hard to sit still.",
+     "A turning point came in 2019, when FoxMind partnered with the American company Buffalo Games and the toy was sold as Pop It in Target stores across the United States. Nevertheless, the toy's real breakthrough, which depended on social media rather than shop displays, was still to come. The toy was also sold under other names, including Go Pop and Last One Lost.",
+     "In spring 2021, demand rose dramatically. Influencers on TikTok and other platforms posted videos of people pressing the bubbles, and the satisfying feel and sound of the toy made the clips highly shareable. At the same time, millions of children and adults were coping with lockdown boredom and pandemic stress, so a cheap, reusable toy that promised relief arrived at exactly the right moment. Some accounts credit a 2020 video of a monkey playing with a similar toy as an early catalyst. Sales figures rose so quickly that many shops struggled to keep the toy in stock.",
+     "The boom had several unexpected consequences for the toy industry and its suppliers. Manufacturers rushed to produce imitations, and some reports linked the demand to a sharp rise in the price of silicone raw materials in China. Scientific evidence that fidget toys improve concentration or reduce anxiety remains mixed, so many experts regard the benefits as modest and highly individual. Whatever its therapeutic value, the Pop It demonstrates how a forgotten invention, a changed market, and a viral moment can combine to create a global trend."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Social media created the Pop It design from nothing in 2020",
+       "B": "Silicone toys are always more successful than toys made of rubber",
+       "C": "The Pop It shows how an old idea can become a trend",
+       "D": "Fidget toys have been proven to cure anxiety in most children"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why did no manufacturer produce the toy in the 1970s?",
+      "options": {
+       "A": "Its rubber construction made mass production too expensive",
+       "B": "Its colourful bubbles were considered dangerous for young children",
+       "C": "Rival companies bought the design and then destroyed it",
+       "D": "The inventors refused every offer made by interested companies"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"1970s\" và \"manufacturer\" ở đoạn 2 để xác định nguyên nhân không sản xuất: chất liệu cao su khiến việc sản xuất hàng loạt quá tốn kém (expensive)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"dormant\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "valuable",
+       "B": "successful",
+       "C": "dangerous",
+       "D": "inactive"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"dormant\" ở đoạn 3 mô tả trạng thái ý tưởng thiết kế nằm im lìm, chưa được khai thác trong nhiều thập kỷ, tương đương với nghĩa không hoạt động, ngủ đông (inactive)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what did FoxMind change about the toy?",
+      "options": {
+       "A": "It removed the bubbles and turned it into a card game",
+       "B": "It replaced the original rubber with safer, more durable silicone",
+       "C": "It added batteries so that the bubbles could light up",
+       "D": "It changed the shape to a circle for easier shipping"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"FoxMind\" ở đoạn 3 để xác định thay đổi cốt lõi: thay thế cao su nguyên bản bằng chất liệu silicone an toàn và bền hơn."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"confined\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "restricted",
+       "B": "expanded",
+       "C": "promoted",
+       "D": "released"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"confined\" ở đoạn 4 đi kèm với việc đồ chơi ban đầu chỉ giới hạn/bó hẹp trong các lớp học giáo dục đặc biệt hoặc môi trường trị liệu, đồng nghĩa với sự bị giới hạn, hạn chế (restricted)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"them\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Many teachers",
+       "B": "Classroom desks",
+       "C": "Fidget toys",
+       "D": "Quiet pupils"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số nhiều \"them\" ở đoạn 4. Đọc ngược lại câu trước hoặc câu chứa nó để tìm danh từ số nhiều tương ứng: nói về việc giáo viên hoặc nhà trị liệu sử dụng các món đồ chơi này để giúp học sinh tập trung. Do đó, \"them\" quy chiếu thẳng đến các món đồ chơi giảm căng thẳng/Fidget toys."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what helped the toy become popular in 2021?",
+      "options": {
+       "A": "Schools gave the toys to every pupil as free gifts",
+       "B": "Pandemic stress and boredom made people look for relief",
+       "C": "Doctors told all their patients to buy one each day",
+       "D": "TV channels advertised the toy during many popular evening shows"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"2021\" ở đoạn 6 để nhận diện yếu tố giúp đồ chơi phổ biến: sự căng thẳng và chán nản do đại dịch khiến mọi người tìm kiếm sự giải tỏa."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a consequence of the boom?",
+      "options": {
+       "A": "Many manufacturers rushing to produce imitations of the toy",
+       "B": "A sharp rise in the price of silicone materials",
+       "C": "Mixed evidence on whether fidget toys really help focus",
+       "D": "Official government bans on fidget toys in schools"
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các hệ lụy được liệt kê ở đoạn cuối: nhiều hãng ồ ạt làm hàng nhái, giá silicone tăng vọt, và có ý kiến trái chiều/bằng chứng hỗn hợp về việc liệu đồ chơi có thực sự giúp tập trung hay không. Phương án về lệnh cấm chính thức của chính phủ đối với đồ chơi trong trường học là không xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3, 4, and 5 about the Pop It's success?",
+      "options": {
+       "A": "The original rubber version had already sold millions of copies worldwide",
+       "B": "Special education professionals alone made the toy popular across many countries",
+       "C": "Good timing and wider marketing mattered as much as the original design",
+       "D": "The invention succeeded at once because shoppers valued its therapeutic benefits"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4, 5 (ý tưởng cũ được FoxMind cải tiến silicone, đưa qua nhiều môi trường giáo dục/trị liệu rồi bùng nổ nhờ marketing và thời điểm thích hợp). Từ đó suy luận rằng yếu tố thời điểm (timing) và chiến lược tiếp thị rộng rãi đóng vai trò quan trọng không kém gì thiết kế ban đầu. Lời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng và quy chiếu đại từ (R2Q2 đến R2Q7). Tiếp theo, dùng phương pháp loại trừ cẩn thận cho câu hỏi phủ định (R2Q8). Cuối cùng, kết nối toàn bộ bức tranh diễn tiến sự việc để hoàn thành các câu hỏi tổng hợp mang tính tư duy cao như Ý chính (R2Q1), Suy luận (R2Q9) và Mục đích tác giả (R2Q10)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To trace how the Pop It developed from invention to craze",
+       "B": "To warn parents that silicone toys are harmful to young children's health",
+       "C": "To advertise a new range of fidget toys sold by FoxMind today",
+       "D": "To explain how to build a small silicone toy factory safely Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 và 2 giới thiệu về thiết kế ban đầu và lý do chưa thành công của đồ chơi trong thập niên 1970; đoạn 3, 4, 5 tường thuật việc FoxMind cải tiến, đưa vào lớp học và giáo dục đặc biệt; đoạn 6 và 7 đề cập đến cơn sốt bùng nổ năm 2021 do đại dịch và các hệ lụy theo sau. Do đó, phương án đúng cho câu ý chính phải thể hiện hành trình biến một ý tưởng cũ thành xu hướng, còn mục đích chính của tác giả là kể lại quá trình phát triển của đồ chơi Pop It từ lúc phát minh đến khi thành trào lưu.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R2Q2**, tìm từ khóa \"1970s\" và \"manufacturer\" ở đoạn 2 để xác định nguyên nhân không sản xuất: chất liệu cao su khiến việc sản xuất hàng loạt quá tốn kém (expensive).\n  - Với **R2Q4**, định vị từ khóa \"FoxMind\" ở đoạn 3 để xác định thay đổi cốt lõi: thay thế cao su nguyên bản bằng chất liệu silicone an toàn và bền hơn.\n  - Với **R2Q7**, tìm từ khóa \"2021\" ở đoạn 6 để nhận diện yếu tố giúp đồ chơi phổ biến: sự căng thẳng và chán nản do đại dịch khiến mọi người tìm kiếm sự giải tỏa.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"dormant\"** ở đoạn 3 mô tả trạng thái ý tưởng thiết kế nằm im lìm, chưa được khai thác trong nhiều thập kỷ, tương đương với nghĩa không hoạt động, ngủ đông (inactive).\n  - Với **R2Q5**, từ **\"confined\"** ở đoạn 4 đi kèm với việc đồ chơi ban đầu chỉ giới hạn/bó hẹp trong các lớp học giáo dục đặc biệt hoặc môi trường trị liệu, đồng nghĩa với sự bị giới hạn, hạn chế (restricted).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ số nhiều **\"them\"** ở đoạn 4. Đọc ngược lại câu trước hoặc câu chứa nó để tìm danh từ số nhiều tương ứng: nói về việc giáo viên hoặc nhà trị liệu sử dụng các món đồ chơi này để giúp học sinh tập trung. Do đó, \"them\" quy chiếu thẳng đến các món đồ chơi giảm căng thẳng/Fidget toys.\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối soát kỹ các hệ lụy được liệt kê ở đoạn cuối: nhiều hãng ồ ạt làm hàng nhái, giá silicone tăng vọt, và có ý kiến trái chiều/bằng chứng hỗn hợp về việc liệu đồ chơi có thực sự giúp tập trung hay không. Phương án về lệnh cấm chính thức của chính phủ đối với đồ chơi trong trường học là không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 3, 4, 5 (ý tưởng cũ được FoxMind cải tiến silicone, đưa qua nhiều môi trường giáo dục/trị liệu rồi bùng nổ nhờ marketing và thời điểm thích hợp). Từ đó suy luận rằng yếu tố thời điểm (timing) và chiến lược tiếp thị rộng rãi đóng vai trò quan trọng không kém gì thiết kế ban đầu. Lời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng và quy chiếu đại từ (R2Q2 đến R2Q7). Tiếp theo, dùng phương pháp loại trừ cẩn thận cho câu hỏi phủ định (R2Q8). Cuối cùng, kết nối toàn bộ bức tranh diễn tiến sự việc để hoàn thành các câu hỏi tổng hợp mang tính tư duy cao như Ý chính (R2Q1), Suy luận (R2Q9) và Mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Societal Shifts in Family Planning: From One Child to Two",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "For more than three decades, China enforced one of the most ambitious experiments in population control ever attempted. The one-child policy, introduced around 1980, was designed to slow rapid growth and ease pressure on scarce resources, and officials later claimed it prevented hundreds of millions of births, although demographers dispute the figure. Its legacy, however, has proved far more complicated than its architects anticipated.",
+     "Enforcement relied on a mixture of financial incentives and **coercive** measures, and reports from several regions described fines, job losses, and forced procedures that attracted widespread international criticism. In many rural areas, families were permitted a second child if the first was a girl. Urban couples, by contrast, faced much stricter limits.",
+     "The demographic consequences of the policy became visible within a single generation. **[1]** Because families traditionally preferred sons, some couples used ultrasound scans to select the sex of their baby, despite legal prohibitions. **[2]** Such an imbalance has left millions of men with limited prospects of finding a spouse, a situation that sociologists link to rising tensions in some communities. **[3]** At the same time, the population began to age rapidly, as a shrinking cohort of young workers faced the prospect of supporting growing numbers of retirees. **[4]** Economists often summarise the pressure with the phrase four-two-one, meaning that one working adult may eventually support two parents and four grandparents.",
+     "Mounting concern about a shrinking workforce eventually prompted a change of course. In 2016, authorities replaced the one-child rule with a universal two-child policy, hoping to stimulate a birth surge that would slow the ageing of society. Births rose briefly, but the increase proved short-lived, and the annual number of newborns fell in most of the following years. In 2021, the limit was raised again to three children, accompanied by promises of tax breaks, longer parental leave, and cheaper childcare.",
+     "Surveys suggest, however, that financial concerns weigh more heavily than legal limits. Housing costs in major cities, intense competition in education, and long working hours leave many young couples doubting that **they** can raise even one child comfortably, let alone two or three. Women also report that employers sometimes hesitate to hire or promote them because of the possibility of maternity leave. Consequently, fertility rates in several urban districts have fallen well below the level needed to keep a population stable.",
+     "However, the Chinese experience is by no means unique among modern societies. Several East Asian countries, including South Korea and Japan, now report some of the lowest fertility rates in the world, despite generous subsidies and extensive public campaigns. Researchers therefore argue that **entrenched** expectations about careers, education, and gender roles matter more than any official directive. In many households, women still perform most unpaid domestic work, which discourages them from taking on additional childcare.",
+     "Ultimately, the shift from one child to two, and then to three, illustrates how difficult it is to reverse a demographic trend once it has taken hold. Governments can restrict births with a stroke of a pen, yet encouraging families to grow demands deeper changes in housing, workplaces, and social attitudes. Whether the newest measures will work remains uncertain, yet most experts agree that the debate has changed. The question is no longer how to limit births but how to support parents."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "The one-child policy was abolished because it failed completely everywhere",
+       "B": "China has moved from restricting births to encouraging them, with limited success",
+       "C": "Financial incentives alone have been enough to reverse population decline",
+       "D": "Asian governments have discovered a single cure for falling birth rates"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what did officials claim the one-child policy had achieved?",
+      "options": {
+       "A": "National income more than doubled within a single decade",
+       "B": "Poverty was eliminated in every rural province across China",
+       "C": "Demographers quickly accepted that the population was already shrinking",
+       "D": "It helped avoid hundreds of millions of births"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"officials\" và \"claim\" ở đoạn 1 để xác định thành tựu được giới chức khẳng định: giúp tránh được hàng trăm triệu ca sinh."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"coercive\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "forceful",
+       "B": "voluntary",
+       "C": "temporary",
+       "D": "gradual"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"coercive\" ở đoạn 2 đi kèm với các biện pháp phạt tiền, mất việc và thủ tục ép buộc, mang sắc thái nghĩa mạnh mẽ, mang tính ép buộc (forceful)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'This practice, according to census data, produced a marked surplus of boys among children born in the following decades.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'This practice, according to census data, produced a marked surplus of boys among children born in the following decades.' Cụm từ \"This practice\" quy chiếu trực tiếp về hành động chọn lọc giới tính bằng siêu âm mặc dù có lệnh cấm được nhắc ngay trước vị trí [2]. Do đó, vị trí [2] là nơi nối kết logic hoàn hảo nhất."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what happened after the two-child policy was introduced?",
+      "options": {
+       "A": "Births climbed steadily each year for a decade",
+       "B": "Most families immediately had three children instead of two",
+       "C": "The number of births rose briefly before falling again",
+       "D": "Fertility stayed almost exactly the same as it had before"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"two-child policy\" ở đoạn 4 để theo dõi xu hướng số lượng trẻ sơ sinh tăng nhẹ trong thời gian ngắn trước khi giảm trở lại."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"they\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Young couples",
+       "B": "Housing costs",
+       "C": "Major cities",
+       "D": "Working hours"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số nhiều \"they\" ở đoạn 5. Đọc ngược lại câu trước để tìm chủ ngữ liên quan: \"...leave many young couples doubting that *they* can raise even one child...\". Do đó, \"they\" quy chiếu thẳng đến các cặp đôi trẻ (Young couples)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"entrenched\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "newly invented",
+       "B": "widely admired",
+       "C": "recently tested",
+       "D": "firmly established"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"entrenched\" ở đoạn 6 mô tả những kỳ vọng lâu đời, bám rễ sâu vào ý thức hệ về nghề nghiệp, giáo dục và vai trò giới, tương đương với nghĩa được thiết lập vững chắc (firmly established)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a consequence of the policy?",
+      "options": {
+       "A": "The use of ultrasound scans to select a baby's sex",
+       "B": "A rapid rise in the number of workers",
+       "C": "Difficulty for many men in finding a marriage partner",
+       "D": "Growing financial strain on a smaller group of workers"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các hệ lụy ở đoạn 3: việc chọn giới tính qua siêu âm, nam giới khó tìm vợ, và áp lực tài chính của mô hình \"bốn-hai-một\". Phương án về \"sự gia tăng nhanh chóng về số lượng lao động\" là sai lệch hoàn toàn vì bài báo nêu rõ lực lượng lao động đang thu hẹp (shrinking cohort of young workers)."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about birth rates in East Asia?",
+      "options": {
+       "A": "Generous subsidies have already solved the problem in Japan",
+       "B": "Chinese families will soon prefer having four or five children",
+       "C": "Removing legal limits alone is unlikely to restore higher birth rates",
+       "D": "Cultural attitudes have changed completely and no longer matter"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5, 6 về nỗ lực tăng mức sinh của Trung Quốc cũng như các quốc gia Đông Á khác (Hàn Quốc, Nhật Bản) dù có trợ cấp hay nới lỏng giới hạn pháp lý nhưng vẫn đối mặt mức sinh thấp do áp lực xã hội và văn hóa. Từ đó suy luận ra rằng việc loại bỏ các giới hạn pháp lý đơn thuần không đủ khả năng khôi phục mức sinh cao."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To criticise China's government for harming millions of ordinary families",
+       "B": "To persuade young couples to have more children",
+       "C": "To compare Asian and European approaches to population growth",
+       "D": "To examine how China's birth policies changed and why Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 nhắc đến chính sách một con và di sản phức tạp của nó; đoạn 2, 3 điểm lại các hệ lụy nhân khẩu học; đoạn 4, 5 tường thuật việc nới lỏng chính sách (lên hai rồi ba con) nhưng gặp khó khăn do gánh nặng tài chính; đoạn 6, 7 mở rộng sang xu hướng chung của Đông Á và kết luận về sự thay đổi tư duy chính sách. Do đó, phương án đúng cho câu ý chính phản ánh việc Trung Quốc chuyển từ hạn chế sang khuyến khích sinh đẻ nhưng đạt kết quả hạn chế, còn mục đích chính của tác giả là kiểm tra, phân tích sự thay đổi và nguyên nhân thay đổi trong các chính sách sinh đẻ của Trung Quốc.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R3Q2**, tìm từ khóa \"officials\" và \"claim\" ở đoạn 1 để xác định thành tựu được giới chức khẳng định: giúp tránh được hàng trăm triệu ca sinh.\n  - Với **R3Q5**, định vị từ khóa \"two-child policy\" ở đoạn 4 để theo dõi xu hướng số lượng trẻ sơ sinh tăng nhẹ trong thời gian ngắn trước khi giảm trở lại.\n  - Với **R3Q8**, đối soát kỹ các hệ lụy ở đoạn 3: việc chọn giới tính qua siêu âm, nam giới khó tìm vợ, và áp lực tài chính của mô hình \"bốn-hai-một\". Phương án về \"sự gia tăng nhanh chóng về số lượng lao động\" là sai lệch hoàn toàn vì bài báo nêu rõ lực lượng lao động đang thu hẹp (shrinking cohort of young workers).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"coercive\"** ở đoạn 2 đi kèm với các biện pháp phạt tiền, mất việc và thủ tục ép buộc, mang sắc thái nghĩa mạnh mẽ, mang tính ép buộc (forceful).\n  - Với **R3Q7**, từ **\"entrenched\"** ở đoạn 6 mô tả những kỳ vọng lâu đời, bám rễ sâu vào ý thức hệ về nghề nghiệp, giáo dục và vai trò giới, tương đương với nghĩa được thiết lập vững chắc (firmly established).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R3Q4):** Đọc kỹ câu cần chèn: 'This practice, according to census data, produced a marked surplus of boys among children born in the following decades.' Cụm từ \"This practice\" quy chiếu trực tiếp về hành động chọn lọc giới tính bằng siêu âm mặc dù có lệnh cấm được nhắc ngay trước vị trí **[2]**. Do đó, vị trí **[2]** là nơi nối kết logic hoàn hảo nhất.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ số nhiều **\"they\"** ở đoạn 5. Đọc ngược lại câu trước để tìm chủ ngữ liên quan: \"...leave many young couples doubting that *they* can raise even one child...\". Do đó, \"they\" quy chiếu thẳng đến các cặp đôi trẻ (Young couples).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 4, 5, 6 về nỗ lực tăng mức sinh của Trung Quốc cũng như các quốc gia Đông Á khác (Hàn Quốc, Nhật Bản) dù có trợ cấp hay nới lỏng giới hạn pháp lý nhưng vẫn đối mặt mức sinh thấp do áp lực xã hội và văn hóa. Từ đó suy luận ra rằng việc loại bỏ các giới hạn pháp lý đơn thuần không đủ khả năng khôi phục mức sinh cao.\nLời khuyên: Hãy bắt đầu bằng cách xử lý các câu hỏi tra cứu thông tin chi tiết, từ vựng và điền câu vào chỗ trống (từ R3Q2 đến R3Q8). Sau đó, thực hiện phân tích logic để giải quyết các câu hỏi quy chiếu và suy luận (R3Q6, R3Q9). Cuối cùng, tổng hợp toàn cảnh nội dung để hoàn thành chính xác câu Ý chính (R3Q1) và Mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Digital Dilemma: The Cultural and Economic Impact of Online Piracy",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few technological changes have unsettled the creative industries as profoundly as digital copying. Online piracy, the unauthorised copying and distribution of copyrighted material, has been blamed for collapsing revenues, yet it has also widened access to culture for people who could never afford it. The resulting debate is rarely as simple as either side suggests, and both sets of arguments deserve careful examination.",
+     "Mass file sharing began in earnest in 1999, when Napster let millions of users swap music tracks. Within two years, courts forced the service to close, but successors such as BitTorrent soon made **rampant** copying of music, films, and software almost impossible to control, because no single company held the files. Decentralised networks of this kind proved far harder to shut down than a single website.",
+     "The economic consequences for the recorded-music industry were, at first, undeniably dramatic. **[1]** Such a decline pushed record labels to cut staff, close studios, and sign fewer new artists, which reduced the diversity of music reaching the public. **[2]** Yet the damage was uneven, since live performances and merchandise reportedly became more important sources of income for many artists. **[3]** Film and television studios faced a comparable problem, with popular series sometimes being downloaded illegally within hours of their first broadcast. **[4]** Smaller independent creators, who lack the legal teams and marketing budgets of large corporations, often found it much harder to recover from lost sales than established stars.",
+     "Estimating the true financial cost of piracy has proved surprisingly difficult for economists and policymakers alike. Industry bodies tend to assume that every illegal download represents a lost sale, whereas independent researchers point out that many downloaders would never have paid for the content in the first place. Some academic studies have found a modest negative effect on sales, while others have detected little or none, or even a positive effect for lesser-known artists who gained exposure.",
+     "Consumer behaviour suggests that piracy often flourishes where legal options are expensive, inconvenient, or simply unavailable. When streaming platforms such as Spotify and Netflix offered affordable catalogues through a single subscription, illegal downloading reportedly declined in many markets, although the trend was far from universal. Fragmentation has since pushed some viewers back toward unauthorised sources, as exclusive programmes are scattered across rival platforms and **their** combined fees can match those of older cable packages.",
+     "The cultural dimension of piracy is arguably more ambiguous than the economic one. Even **staunch** critics concede that unauthorised copies have introduced foreign films, niche music, and out-of-print books to audiences in countries where official distribution is limited or prohibitively expensive. Volunteer communities have also preserved obscure material that rights holders had abandoned, such as old television broadcasts and discontinued video games. Critics respond that such preservation, however admirable, does not justify wholesale copying of works still protected by law.",
+     "Governments have responded with a mixture of tougher enforcement, including website blocking and warning notices, and campaigns designed to educate young people about the rights of creators. Yet some evidence suggests that convenience and fair pricing deter more people than punishment does. Lawsuits against individual downloaders, which were common in the early 2000s, often damaged the reputation of the very industry that brought them. Ultimately, the dilemma lies in balancing the right of creators to earn a living against the public interest in affordable access to culture, a balance that no single law is likely to settle."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Streaming services have now completely ended illegal downloading in every country",
+       "B": "Researchers agree that piracy is the only cause of falling revenue",
+       "C": "Governments should abandon copyright law because enforcement has always been impossible",
+       "D": "Piracy has harmed creators yet widened access, creating a dilemma without easy solutions"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, why were later file-sharing networks hard to shut down?",
+      "options": {
+       "A": "Courts in many countries refused to hear cases against them",
+       "B": "The files were held by no single company",
+       "C": "Users encrypted every file so nobody could read it",
+       "D": "Software companies deliberately made their programs impossible to monitor"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"file-sharing networks\" ở đoạn 2 để thấy lý do các mạng lưới chia sẻ tệp sau này khó triệt phá: không có công ty đơn lẻ nào nắm giữ các tệp dữ liệu (no single company held the files)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"rampant\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "occasional",
+       "B": "harmless",
+       "C": "widespread",
+       "D": "accidental"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"rampant\" ở đoạn 2 mô tả việc sao chép âm nhạc, phim ảnh diễn ra tràn lan, khó kiểm soát, tương đương với nghĩa lan rộng, phổ biến (widespread)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Industry estimates suggest that global recorded-music revenues fell by roughly forty per cent between 1999 and the mid-2010s.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'Industry estimates suggest that global recorded-music revenues fell by roughly forty per cent between 1999 and the mid-2010s.' Câu này chứa số liệu thống kê cụ thể về doanh thu âm nhạc sụt giảm, nối tiếp hoàn hảo ngay sau câu đầu tiên nói về hậu quả kinh tế kịch tính đối với ngành công nghiệp âm nhạc ở vị trí [1]."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, why do independent researchers doubt industry estimates of losses?",
+      "options": {
+       "A": "Industry bodies have refused to publish any figures about illegal downloads",
+       "B": "Most academic studies show that piracy has no effect whatsoever",
+       "C": "Downloads cannot be counted because files are constantly deleted",
+       "D": "Many illegal downloaders would never have bought the content anyway"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"independent researchers\" ở đoạn 4 để xác định lý do họ hoài nghi số liệu tổn thất của ngành công nghiệp: nhiều người tải lậu từ đầu sẽ không bao giờ mua sản phẩm đó (would never have paid for the content)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"their\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Some viewers",
+       "B": "Rival platforms",
+       "C": "Exclusive programmes",
+       "D": "Unauthorised sources"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ sở hữu số nhiều \"their\" ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều liên quan: sự phân mảnh khiến người xem quay lại nguồn lậu vì các chương trình độc quyền nằm rải rác trên các nền tảng đối thủ và mức phí kết hợp của *chúng* (các nền tảng đối thủ) có thể cao. Do đó, \"their\" quy chiếu về các nền tảng đối thủ (Rival platforms)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"staunch\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "committed",
+       "B": "moderate",
+       "C": "anonymous",
+       "D": "tolerant"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"staunch\" ở đoạn 6 đi kèm với các nhà phê bình kiên quyết, gắn bó mạnh mẽ với quan điểm bảo vệ bản quyền, đồng nghĩa với sự tận tụy, kiên định (committed)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a cultural benefit of piracy?",
+      "options": {
+       "A": "Wider access to foreign films and niche music abroad",
+       "B": "Rescue of abandoned television broadcasts and discontinued video games",
+       "C": "Higher royalty payments for the artists concerned",
+       "D": "Availability of out-of-print books in places with limited distribution"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các lợi ích văn hóa được liệt kê ở đoạn 6: tiếp cận phim ngoại/nhạc ngách, cứu vãn các chương trình TV/game cũ, và cung cấp sách hiếm. Phương án về việc \"khoản thanh toán tiền bản quyền cao hơn cho nghệ sĩ\" là sai lệch hoàn toàn so với thực tế bài viết."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about the debate over piracy?",
+      "options": {
+       "A": "Piracy is harmless and should be treated like ordinary sharing",
+       "B": "Consumers will always prefer illegal copies over any paid service",
+       "C": "Economists have settled the question of piracy's total cost",
+       "D": "Simple claims by either side overlook the complexity of the evidence"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về sự phức tạp của nạn vi phạm bản quyền (tác động kinh tế không đồng nhất, hành vi người dùng phụ thuộc vào giá cả/sự tiện lợi, và lợi ích văn hóa đan xen). Từ đó suy luận ra rằng những tuyên bố đơn giản từ một phía sẽ bỏ qua sự phức tạp của các bằng chứng thực tế. Lời khuyên: Hãy bắt đầu bằng cách xử lý nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu và quy chiếu đại từ (từ R4Q2 đến R4Q8). Sau đó, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R4Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R4Q1) và Mục đích tác giả (R4Q10)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that national governments should punish illegal downloaders more severely",
+       "B": "To weigh the economic and cultural effects of online piracy",
+       "C": "To explain exactly how file-sharing software works in technical detail",
+       "D": "To promote a new streaming service to cinema audiences"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu vấn đề sao chép kỹ thuật số và nạn vi phạm bản quyền tạo ra cuộc tranh luận hai chiều; đoạn 2 và 3 phân tích hậu quả kinh tế đối với ngành âm nhạc và giải trí; đoạn 4 xem xét khó khăn khi đo lường thiệt hại; đoạn 5 bàn về hành vi người dùng và các dịch vụ phát trực tuyến; đoạn 6 đề cập đến chiều kích văn hóa; đoạn cuối kết luận về sự đánh đổi giữa quyền lợi người sáng tạo và quyền tiếp cận văn hóa. Do đó, phương án đúng cho câu ý chính phải phản ánh việc vi phạm bản quyền làm tổn hại người sáng tạo nhưng mở rộng khả năng tiếp cận, tạo ra một bài toán khó không có lời giải dễ dàng; đồng thời mục đích chính của tác giả là cân nhắc, so sánh các tác động kinh tế và văn hóa của nạn vi phạm bản quyền trực tuyến.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R4Q2**, tìm từ khóa \"file-sharing networks\" ở đoạn 2 để thấy lý do các mạng lưới chia sẻ tệp sau này khó triệt phá: không có công ty đơn lẻ nào nắm giữ các tệp dữ liệu (no single company held the files).\n  - Với **R4Q5**, định vị từ khóa \"independent researchers\" ở đoạn 4 để xác định lý do họ hoài nghi số liệu tổn thất của ngành công nghiệp: nhiều người tải lậu từ đầu sẽ không bao giờ mua sản phẩm đó (would never have paid for the content).\n  - Với **R4Q8**, đối soát kỹ các lợi ích văn hóa được liệt kê ở đoạn 6: tiếp cận phim ngoại/nhạc ngách, cứu vãn các chương trình TV/game cũ, và cung cấp sách hiếm. Phương án về việc \"khoản thanh toán tiền bản quyền cao hơn cho nghệ sĩ\" là sai lệch hoàn toàn so với thực tế bài viết.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"rampant\"** ở đoạn 2 mô tả việc sao chép âm nhạc, phim ảnh diễn ra tràn lan, khó kiểm soát, tương đương với nghĩa lan rộng, phổ biến (widespread).\n  - Với **R4Q7**, từ **\"staunch\"** ở đoạn 6 đi kèm với các nhà phê bình kiên quyết, gắn bó mạnh mẽ với quan điểm bảo vệ bản quyền, đồng nghĩa với sự tận tụy, kiên định (committed).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R4Q4):** Đọc kỹ câu cần chèn: 'Industry estimates suggest that global recorded-music revenues fell by roughly forty per cent between 1999 and the mid-2010s.' Câu này chứa số liệu thống kê cụ thể về doanh thu âm nhạc sụt giảm, nối tiếp hoàn hảo ngay sau câu đầu tiên nói về hậu quả kinh tế kịch tính đối với ngành công nghiệp âm nhạc ở vị trí **[1]**.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ sở hữu số nhiều **\"their\"** ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều liên quan: sự phân mảnh khiến người xem quay lại nguồn lậu vì các chương trình độc quyền nằm rải rác trên các nền tảng đối thủ và mức phí kết hợp của *chúng* (các nền tảng đối thủ) có thể cao. Do đó, \"their\" quy chiếu về các nền tảng đối thủ (Rival platforms).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về sự phức tạp của nạn vi phạm bản quyền (tác động kinh tế không đồng nhất, hành vi người dùng phụ thuộc vào giá cả/sự tiện lợi, và lợi ích văn hóa đan xen). Từ đó suy luận ra rằng những tuyên bố đơn giản từ một phía sẽ bỏ qua sự phức tạp của các bằng chứng thực tế. Lời khuyên: Hãy bắt đầu bằng cách xử lý nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu và quy chiếu đại từ (từ R4Q2 đến R4Q8). Sau đó, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R4Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R4Q1) và Mục đích tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, David, who is a big fan of sports.\nHe is asking you about the popularity of football in your country. Read part of his email below.\nI've been watching a lot of international matches lately and I'm curious about sports in your area.\n- Is football popular in your country, and why do people like it so much?\n- Which football team or player do you personally support?\n- Could you invite me to see a local match with you when I visit next month?\nWrite an email responding to David. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, David, who is a big fan of sports.",
+      "He is asking you about the popularity of football in your country. Read part of his email below."
+     ],
+     "quote": [
+      "I've been watching a lot of international matches lately and I'm curious about sports in your area.",
+      "- Is football popular in your country, and why do people like it so much?",
+      "- Which football team or player do you personally support?",
+      "- Could you invite me to see a local match with you when I visit next month?"
+     ],
+     "instruction": "Write an email responding to David. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- **Dạng bài:** Informal Email (Thư thân mật).\n- **Yêu cầu:** Trả lời 3 ý: mức độ phổ biến của bóng đá, đội bóng/cầu thủ yêu thích và lời mời đi xem trận đấu.\n- **Độ dài:** Tối thiểu 120 từ.\n- **Tông giọng:** Thân thiện, hào hứng.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Hi David, / Dear David,\n- **Opening:** Phản hồi lại thông tin về niềm đam mê thể thao của David. Ví dụ: It’s great to hear that you’re enjoying the international matches!\n- **Body 1:** Khẳng định bóng đá là môn thể thao vua ở Việt Nam và lý do (gắn kết cộng đồng, tinh thần dân tộc).\n- **Body 2:** Chia sẻ về sở thích cá nhân (đội tuyển quốc gia hoặc câu lạc bộ ngoại hạng).\n- **Closing:** Chấp nhận lời mời và bày tỏ sự mong đợi. Ví dụ: I’d love to take you to a stadium here; the atmosphere is electric!\n- **Sign-off:** Best, / Take care, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các tính từ mạnh để miêu tả cảm xúc và không khí trận đấu.\n- Dùng các cấu trúc câu ghép để nối các ý tưởng về sở thích.\nTừ vựng quan trọng:\n- **The king of sports:** Môn thể thao vua\n- **Die-hard fan:** Người hâm mộ cuồng nhiệt\n- **Breathtaking goal:** Bàn thắng đẹp đến nghẹt thở\n- **Vibrant atmosphere:** Bầu không khí sôi động\n- **Team spirit:** Tinh thần đồng đội\n- **Underdog:** Đội cửa dưới/đội yếu hơn\nTừ nối (Linking words):\n- **To be honest:** Thành thật mà nói\n- **Actually:** Thực ra\n- **Besides that:** Bên cạnh đó\n- **By the way:** Nhân tiện\n- **Anyway:** Dù sao thì\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I’m a huge fan of:** Tôi là một fan lớn của\n- **It's absolutely thrilling to:** Thật là hồi hộp khi\n- **I'm so excited about:** Tôi rất hào hứng về\n\n**4. Các lỗi thường gặp:**\n- Dùng từ quá trang trọng (e.g., \"Furthermore\", \"Moreover\") trong thư gửi bạn bè.\n- Quên không mời bạn đi xem trận đấu như yêu cầu của đề bài.\n- Sử dụng sai giới từ đi kèm với môn thể thao (e.g., play in football).\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra các thì (thường dùng Hiện tại đơn cho sở thích).\n- Đảm bảo tên các đội bóng hoặc cầu thủ được viết hoa đúng.\n- Đếm lại số từ để chắc chắn đạt trên 120 từ.\n\n**6. Tư duy làm bài:**\n- Hãy viết như đang trò chuyện thật sự. Chia sẻ những kỷ niệm thực tế khi đi xem bóng đá sẽ giúp bài viết sinh động và giàu cảm xúc hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nThe rapid advancement of technology has led to a significant increase in electronic waste (e-waste) globally. This phenomenon poses serious threats to the environment and human health if not managed properly.\nWrite an essay to discuss the problems caused by electronic waste and suggest possible solutions to address this issue.\nWrite an essay to an educated reader to discuss the problems caused by electronic waste and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "The rapid advancement of technology has led to a significant increase in electronic waste (e-waste) globally. This phenomenon poses serious threats to the environment and human health if not managed properly.",
+      "Write an essay to discuss the problems caused by electronic waste and suggest possible solutions to address this issue."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by electronic waste and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- **Dạng bài:** Problem - Solution Essay (Vấn đề - Giải pháp).\n- **Chủ đề:** Rác thải điện tử (E-waste).\n- **Yêu cầu:** Phân tích các tác hại và đưa ra giải pháp khắc phục.\n- **Độ dài:** Tối thiểu 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Nêu thực trạng việc thay đổi thiết bị công nghệ nhanh chóng dẫn đến bùng nổ rác thải điện tử.\n- **Body 1 (Problems):** Ô nhiễm môi trường (kim loại nặng thấm vào đất/nước), ảnh hưởng sức khỏe con người (chì, thủy ngân gây bệnh).\n- **Body 2 (Solutions):** Khuyến khích tái chế, chính sách \"thu cũ đổi mới\" của nhà sản xuất, nâng cao nhận thức người tiêu dùng về việc sử dụng thiết bị lâu dài.\n- **Conclusion:** Tóm lược tầm quan trọng của việc quản lý rác thải điện tử bền vững.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng từ vựng chuyên ngành về môi trường và công nghệ.\n- Dùng cấu trúc \"If... then...\" hoặc \"Unless...\" để nhấn mạnh hậu quả.\nTừ vựng quan trọng:\n- **Technological obsolescence:** Sự lỗi thời của công nghệ\n- **Hazardous substances:** Các chất độc hại\n- **Soil contamination:** Ô nhiễm đất\n- **Landfill:** Bãi chôn lấp rác\n- **Sustainable disposal:** Xử lý rác bền vững\n- **Eco-friendly alternatives:** Các lựa chọn thay thế thân thiện môi trường\nTừ nối (Linking words):\n- **In terms of:** Về mặt\n- **Consequently:** Hệ quả là\n- **Another point to consider:** Một điểm khác cần lưu ý\n- **Implementing:** Triển khai (giải pháp)\n- **Taking everything into account:** Cân nhắc mọi khía cạnh\n- **Notably:** Đáng chú ý là\nDiễn đạt lại ý (Paraphrasing):\n- **Discarded electronic devices:** Thay cho \"electronic waste\".\n- **Environmental degradation:** Thay cho \"environmental problems\".\n- **Effective measures:** Thay cho \"solutions\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **The gravity of the situation:** Sự nghiêm trọng của tình hình\n- **A viable solution would be to:** Một giải pháp khả thi sẽ là\n- **Governments should enact laws:** Chính phủ nên ban hành luật\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về rác thải nói chung mà không tập trung vào đặc thù của đồ điện tử (pin, linh kiện).\n- Giải pháp quá mơ hồ (ví dụ: \"mọi người nên dọn rác\") mà không đi sâu vào quy trình xử lý chuyên biệt.\n- Viết quá ngắn cho phần giải pháp.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra các danh từ không đếm được (e.g., electronic waste, pollution).\n- Đảm bảo các ý giải pháp tương ứng với các vấn đề đã nêu ở trên.\n- Rà soát lại tính logic của các câu chuyển đoạn.\n\n**6. Tư duy làm bài:**\n- Cần nhấn mạnh vào tính cấp bách của vấn đề vì công nghệ đang thay đổi từng ngày. Việc kết nối giữa hành vi tiêu dùng cá nhân và trách nhiệm của các tập đoàn công nghệ sẽ làm bài viết sâu sắc hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about family communication\n\n1\nHow much time do you spend talking with your family members every day?\n2\nWhat topics do you usually discuss when you gather with your family?\n3\nDo you think it is important for family members to talk to each other regularly? Why?\n\nNow, let’s talk about games\n\n4\nDo you like playing games in your free time? What kind of games?\n5\nDid you play the same games when you were a child? Why or why not?\n6\nDo you prefer playing games alone or with friends? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần này của bài thi nói kéo dài khoảng 3 phút với tổng cộng 6 câu hỏi cá nhân quen thuộc trong cuộc sống hàng ngày.\n- **Topic A (Family Communication):** Các câu hỏi 1–3 tập trung vào việc giao tiếp trong gia đình, thói quen trò chuyện và vai trò của sự kết nối giữa các thành viên.\n- **Topic B (Games):** Các câu hỏi 4–6 kiểm tra khả năng nói về sở thích, trò chơi giải trí và sự khác biệt giữa hiện tại và quá khứ.\n- Giám khảo đánh giá dựa trên độ trôi chảy, vốn từ vựng, độ chính xác ngữ pháp và khả năng phát âm rõ ràng.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và phân chia thời gian cân bằng giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng ý một cách tự nhiên.\n- **Ví dụ Topic A:** I usually spend about two hours talking with my family every evening because dinner time is when everyone is free to share their daily experiences.\n- **Ví dụ Topic B:** I really enjoy playing online games with my friends since they help me relax after stressful classes.\n- Luôn tự hỏi thêm Why? hoặc How? để kéo dài câu trả lời thay vì dừng lại quá sớm.\n- Để chuyển ý mượt mà, bạn có thể dùng câu như: Speaking of family activities, I also spend my free time playing games.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định và sử dụng fillers như actually, well, to be honest để tránh khoảng lặng dài.\n- Topic A thường dùng hiện tại đơn để mô tả thói quen và hiện tại tiếp diễn khi nói về hoạt động đang diễn ra gần đây.\n- Topic B có thể dùng quá khứ đơn khi nói về trò chơi thời thơ ấu và hiện tại đơn cho sở thích hiện nay.\n- Nếu quên từ vựng, hãy diễn đạt bằng cách mô tả chức năng hoặc cảm xúc liên quan.\n- Vocabulary for Topic A: family bonding (gắn kết gia đình), quality time (thời gian chất lượng), emotional support (sự hỗ trợ tinh thần), share daily stories (chia sẻ chuyện hằng ngày).\n- Vocabulary for Topic B: multiplayer games (trò chơi nhiều người), competitive games (trò chơi cạnh tranh), childhood memories (kỷ niệm tuổi thơ), relieve stress (giảm căng thẳng).\nCụm từ quan trọng nên dùng:\n- keep in touch with family – giữ liên lạc với gia đình\n- have meaningful conversations – có những cuộc trò chuyện ý nghĩa\n- strengthen family relationships – củng cố mối quan hệ gia đình\n- play games to unwind – chơi game để thư giãn\n- spend hours gaming – dành hàng giờ chơi game\n- enjoy teamwork and interaction – thích làm việc nhóm và tương tác\nTừ nối khi nói (Linking Words):\n- Firstly – đầu tiên, dùng để mở ý\n- Besides that – bên cạnh đó, dùng để bổ sung ý\n- For example – ví dụ, dùng để minh họa\n- However – tuy nhiên, dùng để đối lập ý\n- As a result – kết quả là, dùng để nói hệ quả\nCách thể hiện quan điểm tự nhiên:\n- From my perspective, family conversations are extremely important because they help family members understand each other better. – Theo quan điểm của tôi...\n- I personally believe that spending time with family can reduce stress after work or study. – Cá nhân tôi tin rằng...\n- As far as I am concerned, communication is the key to a happy family. – Theo như tôi thấy...\n- To be honest, I am really into strategy games because they challenge my thinking skills. – Thành thật mà nói...\n- I would say that playing games with friends is much more enjoyable than playing alone. – Tôi cho rằng...\n- In my opinion, games are not only entertaining but also educational in some cases. – Theo ý kiến của tôi...\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời Yes hoặc No rồi im lặng mà không giải thích thêm là lỗi nghiêm trọng nhất.\n- Ở Topic A, nhiều bạn chỉ nói chung chung về gia đình mà không đưa ví dụ thực tế.\n- Ở Topic B, nhiều bạn lặp đi lặp lại từ game hoặc fun thay vì dùng từ đa dạng hơn.\n- Dùng sai thì khi nói về quá khứ và hiện tại khiến bài nói thiếu tự nhiên.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu đệm như: That is an interesting question, let me think for a second.\n- Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm thay vì dừng lại quá lâu.\n- Ở Topic A, nếu bí ý hãy kể về một bữa cơm gia đình hoặc cuộc trò chuyện gần đây.\n- Ở Topic B, nếu không nhớ tên trò chơi hãy mô tả cách chơi hoặc cảm giác khi chơi.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem phần thi như một cuộc trò chuyện tự nhiên thay vì đọc thuộc lòng.\n- Khi chuyển từ Topic A sang Topic B, hãy thay đổi năng lượng và ví dụ để tạo cảm giác đa dạng.\n- Sự trôi chảy và tự nhiên quan trọng hơn việc cố dùng từ quá khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nA new student has just joined your class, and you want to suggest a club for them to join.\n\nYou are considering the following options:\n\nOption 1: A music club\nOption 2: A sports club\nOption 3: An English speaking club\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn lựa chọn câu lạc bộ phù hợp nhất cho một học sinh mới trong lớp.\n- Ba lựa chọn bao gồm câu lạc bộ âm nhạc, thể thao và câu lạc bộ nói tiếng Anh.\n- Giám khảo sẽ đánh giá khả năng so sánh, lập luận và đưa ra quyết định hợp lý.\n- Thời gian toàn phần là khoảng 4 phút, trong đó bạn nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc I-C-E: Introduction -> Comparison -> Ending để bài nói rõ ràng và logic.\n- Option 1 có thể giúp học sinh thư giãn và phát triển năng khiếu nghệ thuật.\n- Option 2 giúp cải thiện sức khỏe, tinh thần đồng đội và khả năng hòa nhập.\n- Option 3 giúp học sinh cải thiện kỹ năng giao tiếp và tự tin trong học tập.\n- Hãy liên hệ với cuộc sống sinh viên thực tế để bài nói tự nhiên và thuyết phục hơn.\n- Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển giữa ưu và nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì phân tích từng lựa chọn tách biệt hoàn toàn.\n- Dùng hiện tại đơn để mô tả lợi ích chung và tương lai đơn khi nói về tác động lâu dài.\n- Nếu quên từ vựng chuyên môn, hãy diễn đạt bằng những cụm từ đơn giản nhưng chính xác.\nCụm từ quan trọng nên dùng:\n- improve social connections – cải thiện các mối quan hệ xã hội\n- build self-confidence – xây dựng sự tự tin\n- develop communication skills – phát triển kỹ năng giao tiếp\n- encourage teamwork – khuyến khích tinh thần làm việc nhóm\n- reduce academic stress – giảm áp lực học tập\n- adapt to a new environment – thích nghi với môi trường mới\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- In addition – thêm vào đó\n- On the other hand – mặt khác\n- As a consequence – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that the English speaking club is the best choice because it helps new students communicate more confidently. – Tôi thực sự tin rằng...\n- Compared to the music club, the sports club provides more opportunities for teamwork. – So với...\n- In my opinion, joining a club is one of the fastest ways to make new friends at school. – Theo ý kiến của tôi...\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung khen lựa chọn mình chọn mà không phân tích điểm yếu của hai lựa chọn còn lại.\n- Lặp lại các từ đơn giản như good hoặc bad quá nhiều thay vì dùng beneficial, practical hoặc effective.\n- Không đưa ra kết luận rõ ràng ở cuối bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên môn, hãy chuyển sang nói về chi phí, thời gian hoặc mức độ hiệu quả.\n- Bạn có thể dùng câu đệm như: Let's evaluate this option from a different perspective.\n- Nếu bị bí ở một lựa chọn, hãy chuyển nhanh sang lựa chọn tiếp theo thay vì im lặng quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người tư vấn đang chọn giải pháp phù hợp và bền vững nhất cho học sinh mới.\n- Ngay cả với lựa chọn tốt nhất, bạn vẫn có thể đề xuất thêm cách cải thiện để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of trees in our environment\n\nBenefits of Trees\nProviding oxygen and fresh air\nReducing global warming\nOffering shade and beauty\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat are the consequences of deforestation?\n2\nHow can we encourage people to plant more trees?\n3\nDo you think city life needs more green spaces? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về lợi ích của cây xanh đối với môi trường và đời sống con người.\n- Ba nhánh ý chính bao gồm cung cấp oxy, giảm nóng lên toàn cầu và tạo bóng mát cùng vẻ đẹp cho môi trường.\n- Nhánh thứ tư là ý tưởng cá nhân, bạn có thể nói về việc cây xanh giúp cải thiện sức khỏe tinh thần.\n- Giám khảo đánh giá khả năng phát triển ý, độ logic và khả năng trả lời câu hỏi follow-up.\n- Thời gian khoảng 5 phút, trong đó nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho câu hỏi phụ.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/Conclusion để phát triển bài nói.\n- **Ví dụ 1:** Today, I would like to talk about the important role that trees play in protecting our environment.\n- **Ví dụ 2:** Another important benefit is that trees can improve people's mental health by creating peaceful green spaces.\n- Hãy dùng ví dụ thực tế như công viên, trường học hoặc đường phố có nhiều cây xanh để bài nói sinh động hơn.\n- Luôn bám theo sơ đồ tư duy để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng các câu chuyển ý mượt mà khi chuyển giữa các nhánh trong sơ đồ tư duy.\n- Dùng hiện tại đơn để nói về sự thật khoa học và hiện tại hoàn thành khi nói về những thay đổi môi trường kéo dài.\n- Bạn có thể paraphrase từ trees bằng green plants, urban greenery hoặc natural resources.\nCụm từ quan trọng nên dùng:\n- improve air quality – cải thiện chất lượng không khí\n- absorb carbon dioxide – hấp thụ khí CO2\n- prevent soil erosion – ngăn xói mòn đất\n- create a peaceful atmosphere – tạo bầu không khí yên bình\n- fight climate change – chống biến đổi khí hậu\n- protect natural ecosystems – bảo vệ hệ sinh thái tự nhiên\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Moreover – hơn nữa\n- For instance – ví dụ\n- As a result – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, trees are essential for both the environment and human health. – Theo ý kiến của tôi...\n- I strongly believe that cities should invest more in green spaces to improve quality of life. – Tôi thực sự tin rằng...\n- From my perspective, planting trees is one of the simplest ways to protect the planet. – Theo góc nhìn của tôi...\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **What are the consequences of deforestation?** – Deforestation can lead to climate change, floods and the loss of wildlife habitats.\n- **How can we encourage people to plant more trees?** – Schools and local communities can organize tree-planting campaigns and environmental education programs.\n- **Do you think city life needs more green spaces? Why?** – Yes, because green spaces help reduce pollution and improve mental health.\n\n**5. Các lỗi thường gặp:**\n- Nhiều bạn chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển nhánh ý cá nhân khiến bài nói thiếu chiều sâu.\n- Dành quá nhiều thời gian cho bài nói chính nên không còn thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với công viên, trường học hoặc trải nghiệm cá nhân hằng ngày.\n- Bạn có thể dùng câu học thuật như: That is a complex issue. If we evaluate it from a societal viewpoint...\n- Nếu quên từ chuyên ngành, hãy dùng từ đơn giản hoặc mô tả chức năng của cây xanh.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn vấn đề từ góc độ xã hội và môi trường thay vì chỉ nói lợi ích cá nhân.\n- Sự logic và liên kết giữa các ý là yếu tố rất quan trọng để đạt điểm cao.\n- Đừng cố học thuộc từng câu, hãy tập trung vào việc truyền đạt ý tưởng tự nhiên và rõ ràng."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about family communication.\n1.\nHow much time do you spend talking with your family members every day?\n2.\nWhat topics do you usually discuss when you gather with your family?\n3.\nDo you think it is important for family members to talk to each other regularly? Why?\nNow, let’s talk about games.\n4.\nDo you like playing games in your free time? What kind of games?\n5.\nDid you play the same games when you were a child? Why or why not?\n6.\nDo you prefer playing games alone or with friends? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần này của bài thi nói kéo dài khoảng 3 phút với tổng cộng 6 câu hỏi cá nhân quen thuộc trong cuộc sống hàng\nngày.\n• Topic A (Family Communication): Các câu hỏi 1–3 tập trung vào việc giao tiếp trong gia đình, thói quen trò chuyện\nvà vai trò của sự kết nối giữa các thành viên.\n• Topic B (Games): Các câu hỏi 4–6 kiểm tra khả năng nói về sở thích, trò chơi giải trí và sự khác biệt giữa hiện tại và\nquá khứ.\n• Giám khảo đánh giá dựa trên độ trôi chảy, vốn từ vựng, độ chính xác ngữ pháp và khả năng phát âm rõ ràng.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và phân chia thời gian cân bằng giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng ý một cách tự nhiên.\n• Ví dụ Topic A: I usually spend about two hours talking with my family every evening because dinner time is when\neveryone is free to share their daily experiences.\n• Ví dụ Topic B: I really enjoy playing online games with my friends since they help me relax after stressful classes.\n• Luôn tự hỏi thêm Why? hoặc How? để kéo dài câu trả lời thay vì dừng lại quá sớm.\n• Để chuyển ý mượt mà, bạn có thể dùng câu như: Speaking of family activities, I also spend my free time playing\ngames.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định và sử dụng fillers như actually, well, to be honest để tránh khoảng lặng dài.\n• Topic A thường dùng hiện tại đơn để mô tả thói quen và hiện tại tiếp diễn khi nói về hoạt động đang diễn ra gần đây.\n• Topic B có thể dùng quá khứ đơn khi nói về trò chơi thời thơ ấu và hiện tại đơn cho sở thích hiện nay.\n• Nếu quên từ vựng, hãy diễn đạt bằng cách mô tả chức năng hoặc cảm xúc liên quan.\n• Vocabulary for Topic A: family bonding (gắn kết gia đình), quality time (thời gian chất lượng), emotional support (sự\nhỗ trợ tinh thần), share daily stories (chia sẻ chuyện hằng ngày).\n• Vocabulary for Topic B: multiplayer games (trò chơi nhiều người), competitive games (trò chơi cạnh tranh), childhood\nmemories (kỷ niệm tuổi thơ), relieve stress (giảm căng thẳng).\nCụm từ quan trọng nên dùng:\n• keep in touch with family – giữ liên lạc với gia đình\n• have meaningful conversations – có những cuộc trò chuyện ý nghĩa\n• strengthen family relationships – củng cố mối quan hệ gia đình\n• play games to unwind – chơi game để thư giãn\n• spend hours gaming – dành hàng giờ chơi game\n• enjoy teamwork and interaction – thích làm việc nhóm và tương tác\nTừ nối khi nói (Linking Words):\n• Firstly – đầu tiên, dùng để mở ý\n• Besides that – bên cạnh đó, dùng để bổ sung ý\n• For example – ví dụ, dùng để minh họa\n• However – tuy nhiên, dùng để đối lập ý\n• As a result – kết quả là, dùng để nói hệ quả\nCách thể hiện quan điểm tự nhiên:\n• From my perspective, family conversations are extremely important because they help family members understand\neach other better. – Theo quan điểm của tôi...\n• I personally believe that spending time with family can reduce stress after work or study. – Cá nhân tôi tin rằng...\n• As far as I am concerned, communication is the key to a happy family. – Theo như tôi thấy...\n• To be honest, I am really into strategy games because they challenge my thinking skills. – Thành thật mà nói...\n• I would say that playing games with friends is much more enjoyable than playing alone. – Tôi cho rằng...\n• In my opinion, games are not only entertaining but also educational in some cases. – Theo ý kiến của tôi...\n4. Các lỗi thường gặp:\n• Chỉ trả lời Yes hoặc No rồi im lặng mà không giải thích thêm là lỗi nghiêm trọng nhất.\n• Ở Topic A, nhiều bạn chỉ nói chung chung về gia đình mà không đưa ví dụ thực tế.\n• Ở Topic B, nhiều bạn lặp đi lặp lại từ game hoặc fun thay vì dùng từ đa dạng hơn.\n• Dùng sai thì khi nói về quá khứ và hiện tại khiến bài nói thiếu tự nhiên.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu đệm như: That is an interesting question, let me think for a second.\n• Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm thay vì dừng lại quá lâu.\n• Ở Topic A, nếu bí ý hãy kể về một bữa cơm gia đình hoặc cuộc trò chuyện gần đây.\n• Ở Topic B, nếu không nhớ tên trò chơi hãy mô tả cách chơi hoặc cảm giác khi chơi.\n6. Tư duy làm bài nói:\n• Hãy xem phần thi như một cuộc trò chuyện tự nhiên thay vì đọc thuộc lòng.\n• Khi chuyển từ Topic A sang Topic B, hãy thay đổi năng lượng và ví dụ để tạo cảm giác đa dạng.\n• Sự trôi chảy và tự nhiên quan trọng hơn việc cố dùng từ quá khó.\nSolution Discussion\nPART 2\n4 phút\nA new student has just joined your class, and you want to suggest a club for them to join.\nYou are considering the following options:\n• Option 1: A music club\n• Option 2: A sports club\n• Option 3: An English speaking club\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn lựa chọn câu lạc bộ phù hợp nhất cho một học sinh mới trong lớp.\n• Ba lựa chọn bao gồm câu lạc bộ âm nhạc, thể thao và câu lạc bộ nói tiếng Anh.\n• Giám khảo sẽ đánh giá khả năng so sánh, lập luận và đưa ra quyết định hợp lý.\n• Thời gian toàn phần là khoảng 4 phút, trong đó bạn nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc I-C-E: Introduction -> Comparison -> Ending để bài nói rõ ràng và logic.\n• Option 1 có thể giúp học sinh thư giãn và phát triển năng khiếu nghệ thuật.\n• Option 2 giúp cải thiện sức khỏe, tinh thần đồng đội và khả năng hòa nhập.\n• Option 3 giúp học sinh cải thiện kỹ năng giao tiếp và tự tin trong học tập.\n• Hãy liên hệ với cuộc sống sinh viên thực tế để bài nói tự nhiên và thuyết phục hơn.\n• Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển giữa ưu và nhược điểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì phân tích từng lựa chọn tách biệt hoàn toàn.\n• Dùng hiện tại đơn để mô tả lợi ích chung và tương lai đơn khi nói về tác động lâu dài.\n• Nếu quên từ vựng chuyên môn, hãy diễn đạt bằng những cụm từ đơn giản nhưng chính xác.\nCụm từ quan trọng nên dùng:\n• improve social connections – cải thiện các mối quan hệ xã hội\n• build self-confidence – xây dựng sự tự tin\n• develop communication skills – phát triển kỹ năng giao tiếp\n• encourage teamwork – khuyến khích tinh thần làm việc nhóm\n• reduce academic stress – giảm áp lực học tập\n• adapt to a new environment – thích nghi với môi trường mới\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• In addition – thêm vào đó\n• On the other hand – mặt khác\n• As a consequence – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that the English speaking club is the best choice because it helps new students communicate more\nconfidently. – Tôi thực sự tin rằng...\n• Compared to the music club, the sports club provides more opportunities for teamwork. – So với...\n• In my opinion, joining a club is one of the fastest ways to make new friends at school. – Theo ý kiến của tôi...\n4. Các lỗi thường gặp:\n• Chỉ tập trung khen lựa chọn mình chọn mà không phân tích điểm yếu của hai lựa chọn còn lại.\n• Lặp lại các từ đơn giản như good hoặc bad quá nhiều thay vì dùng beneficial, practical hoặc effective.\n• Không đưa ra kết luận rõ ràng ở cuối bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên môn, hãy chuyển sang nói về chi phí, thời gian hoặc mức độ hiệu quả.\n• Bạn có thể dùng câu đệm như: Let's evaluate this option from a different perspective.\n• Nếu bị bí ở một lựa chọn, hãy chuyển nhanh sang lựa chọn tiếp theo thay vì im lặng quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người tư vấn đang chọn giải pháp phù hợp và bền vững nhất cho học sinh mới.\n• Ngay cả với lựa chọn tốt nhất, bạn vẫn có thể đề xuất thêm cách cải thiện để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of trees in our environment\nProviding oxygen and fresh air\nReducing global warming\nBenefits of Trees\nÝ tưởng của bạn\nOffering shade and beauty\nFOLLOW-UP QUESTIONS\n1.\nWhat are the consequences of deforestation?\n2.\nHow can we encourage people to plant more trees?\n3.\nDo you think city life needs more green spaces? Why?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về lợi ích của cây xanh đối với môi trường và đời sống con người.\n• Ba nhánh ý chính bao gồm cung cấp oxy, giảm nóng lên toàn cầu và tạo bóng mát cùng vẻ đẹp cho môi trường.\n• Nhánh thứ tư là ý tưởng cá nhân, bạn có thể nói về việc cây xanh giúp cải thiện sức khỏe tinh thần.\n• Giám khảo đánh giá khả năng phát triển ý, độ logic và khả năng trả lời câu hỏi follow-up.\n• Thời gian khoảng 5 phút, trong đó nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho câu hỏi phụ.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/Conclusion để phát triển bài nói.\n• Ví dụ 1: Today, I would like to talk about the important role that trees play in protecting our environment.\n• Ví dụ 2: Another important benefit is that trees can improve people's mental health by creating peaceful green spaces.\n• Hãy dùng ví dụ thực tế như công viên, trường học hoặc đường phố có nhiều cây xanh để bài nói sinh động hơn.\n• Luôn bám theo sơ đồ tư duy để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng các câu chuyển ý mượt mà khi chuyển giữa các nhánh trong sơ đồ tư duy.\n• Dùng hiện tại đơn để nói về sự thật khoa học và hiện tại hoàn thành khi nói về những thay đổi môi trường kéo dài.\n• Bạn có thể paraphrase từ trees bằng green plants, urban greenery hoặc natural resources.\nCụm từ quan trọng nên dùng:\n• improve air quality – cải thiện chất lượng không khí\n• absorb carbon dioxide – hấp thụ khí CO2\n• prevent soil erosion – ngăn xói mòn đất\n• create a peaceful atmosphere – tạo bầu không khí yên bình\n• fight climate change – chống biến đổi khí hậu\n• protect natural ecosystems – bảo vệ hệ sinh thái tự nhiên\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Moreover – hơn nữa\n• For instance – ví dụ\n• As a result – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, trees are essential for both the environment and human health. – Theo ý kiến của tôi...\n• I strongly believe that cities should invest more in green spaces to improve quality of life. – Tôi thực sự tin rằng...\n• From my perspective, planting trees is one of the simplest ways to protect the planet. – Theo góc nhìn của tôi...\n4. Gợi ý trả lời câu hỏi follow-up:\n• What are the consequences of deforestation? – Deforestation can lead to climate change, floods and the loss of\nwildlife habitats.\n• How can we encourage people to plant more trees? – Schools and local communities can organize tree-planting\ncampaigns and environmental education programs.\n• Do you think city life needs more green spaces? Why? – Yes, because green spaces help reduce pollution and\nimprove mental health.\n5. Các lỗi thường gặp:\n• Nhiều bạn chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển nhánh ý cá nhân khiến bài nói thiếu chiều sâu.\n• Dành quá nhiều thời gian cho bài nói chính nên không còn thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với công viên, trường học hoặc trải nghiệm cá nhân hằng ngày.\n• Bạn có thể dùng câu học thuật như: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ chuyên ngành, hãy dùng từ đơn giản hoặc mô tả chức năng của cây xanh.\n7. Tư duy làm bài nói:\n• Hãy nhìn vấn đề từ góc độ xã hội và môi trường thay vì chỉ nói lợi ích cá nhân.\n• Sự logic và liên kết giữa các ý là yếu tố rất quan trọng để đạt điểm cao.\n• Đừng cố học thuộc từng câu, hãy tập trung vào việc truyền đạt ý tưởng tự nhiên và rõ ràng."
+}

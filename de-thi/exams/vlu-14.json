@@ -1,0 +1,717 @@
+{
+ "id": "vlu-14",
+ "number": 14,
+ "title": "Đề thi VLU 14",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-14",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Impact of Light Pollution on Modern Society",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "At night, many cities glow so brightly that people can no longer see the stars. For most of human history, people could look up on any clear night and see thousands of them, but this experience is becoming rare. The glow is called light pollution, and it comes from streetlights, advertising signs, car headlights, and the windows of tall buildings. As cities grow bigger, the problem is becoming worse, and scientists estimate that a large part of the world's population now lives under a sky that is brighter than natural darkness.",
+     "Too much light at night can harm both human health and everyday comfort. The body uses darkness to know when it is time to sleep, so bright street lamps outside a bedroom can **disturb** a person's rest. People who sleep badly often feel tired, find it difficult to concentrate at school or work, and may become more likely to catch illnesses during the winter months. Children and teenagers are especially sensitive because they need more sleep than adults. Some doctors also believe that using phones late in the evening has a similar effect.",
+     "Animals also suffer a great deal when the natural darkness of the night disappears. Many birds travel at night, using the moon and stars to find their way, but bright buildings can confuse them, and thousands crash into windows every year. Young sea turtles are born on beaches and normally move toward the bright sea, but when hotels and roads are lit, **they** may crawl in the wrong direction. Insects are also **attracted** to lamps, so bats and other animals lose an important source of food. Scientists who study wildlife say that even small changes in lighting can alter feeding and breeding habits.",
+     "Fortunately, there are several simple and inexpensive ways to reduce light pollution. Some cities have started to adopt new rules that require lamps to point downward, so that light falls on the road instead of the sky. Other places switch off decorative lights after midnight or use warmer colours, which are less harmful to animals. Safety is sometimes given as a reason for bright lighting, yet studies suggest that well-designed lamps can protect people just as effectively. Homeowners can help too by using timers, closing curtains, and choosing lamps that are only as bright as necessary. These changes also save electricity and money.",
+     "In conclusion, light is useful, but too much of it creates problems for people and nature. By choosing lights carefully, cities can stay safe and attractive without losing the beauty of the night sky. If everyone takes small actions, future generations may be able to look up and see the Milky Way from their own neighbourhoods and rediscover why people have always found the night sky inspiring."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "How astronomers build powerful telescopes in the desert",
+       "B": "The causes, effects, and solutions of light pollution",
+       "C": "Why cities should switch off every light at night",
+       "D": "Which animals are most dangerous for city residents"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, how can bright street lamps affect people?",
+      "options": {
+       "A": "They make buildings look more attractive to tourists",
+       "B": "They help children to read books in the evening",
+       "C": "They cause headaches that last for several days",
+       "D": "They interfere with the rest that people need"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"bright street lamps\" ở đoạn 2 để xác định tác động gây ảnh hưởng tiêu cực đến giấc ngủ và sự nghỉ ngơi của con người."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"disturb\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "improve",
+       "B": "decorate",
+       "C": "interrupt",
+       "D": "forgive"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"disturb\" ở đoạn 2 mô tả việc ánh đèn quá sáng làm gián đoạn, cản trở giấc ngủ tự nhiên (interrupt)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, why do many birds hit windows?",
+      "options": {
+       "A": "Lit buildings confuse them while they fly at night",
+       "B": "Strong winds blow them toward the glass during storms",
+       "C": "They are chased by insects toward tall buildings",
+       "D": "Their eyes become tired after flying long distances"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"birds hit windows\" ở đoạn 3 để thấy nguyên nhân các tòa nhà sáng rực làm chim bay đêm bị mất phương hướng và đâm vào cửa kính."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"attracted\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "chased away",
+       "B": "hidden from",
+       "C": "separated from",
+       "D": "pulled toward"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"attracted\" ở đoạn 3 đi kèm với việc côn trùng bay quây quần quanh bóng đèn, mang nghĩa bị thu hút, kéo về phía (pulled toward)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"they\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Hotels and roads",
+       "B": "Young sea turtles",
+       "C": "Birds at night",
+       "D": "Many hungry bats"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng \"they\" ở đoạn 3. Đọc lùi lại câu trước để tìm danh từ chỉ loài rùa biển non vừa nở trên bãi biển và bò nhầm hướng (Young sea turtles)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what do some new rules say about lamps?",
+      "options": {
+       "A": "They should point downward so light reaches the road",
+       "B": "Lamps must be painted in bright warm colours",
+       "C": "Private gardens are the only places allowed lamps",
+       "D": "Candles must replace electric lamps during every winter"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm từ khóa \"new rules\" hoặc \"lamps\" ở đoạn 4 để xác định quy định yêu cầu đèn chiếu hướng xuống mặt đường thay vì chiếu lên bầu trời."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to reduce light pollution?",
+      "options": {
+       "A": "Turning off decorative lights after midnight",
+       "B": "Using warmer colours that harm animals less",
+       "C": "Painting all streetlights a bright white colour",
+       "D": "Closing curtains and using timers at home"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng lựa chọn với các biện pháp giảm ô nhiễm ánh sáng được nêu ở đoạn 4 (tắt đèn trang trí sau nửa đêm, dùng màu ấm ít hại động vật, dùng hẹn giờ và khép rèm ở nhà), từ đó loại bỏ phương án không xuất hiện trong bài (sơn tất cả đèn đường màu trắng sáng)."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about the writer's opinion of light pollution?",
+      "options": {
+       "A": "It only affects people who live in the countryside",
+       "B": "It is serious, but people can reduce it",
+       "C": "It will disappear without any help from people",
+       "D": "It is less important than traffic and noise"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ toàn bài về việc ô nhiễm ánh sáng là vấn đề nghiêm trọng nhưng con người hoàn toàn có thể chủ động hành động để khắc phục."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To advertise energy-saving lamps sold by a lighting company",
+       "B": "To describe how astronomers study distant stars and planets",
+       "C": "To persuade tourists to visit famous national parks",
+       "D": "To explain why artificial lighting causes serious problems Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R1Q1, R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc phần mở đầu và kết bài để nắm bắt luận điểm trung tâm: ô nhiễm ánh sáng đang lan rộng, gây hại cho sức khỏe con người lẫn động vật, nhưng hoàn toàn có thể được giảm thiểu thông qua các biện pháp đơn giản, thiết thực. Do đó, phương án đúng phải phản ánh được toàn diện nguyên nhân, hệ quả và giải pháp (hoặc giải thích rõ những vấn đề do ánh sáng nhân tạo gây ra).\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q2**, tìm từ khóa \"bright street lamps\" ở đoạn 2 để xác định tác động gây ảnh hưởng tiêu cực đến giấc ngủ và sự nghỉ ngơi của con người.\n  - Với **R1Q4**, quét từ khóa \"birds hit windows\" ở đoạn 3 để thấy nguyên nhân các tòa nhà sáng rực làm chim bay đêm bị mất phương hướng và đâm vào cửa kính.\n  - Với **R1Q7**, tìm kiếm từ khóa \"new rules\" hoặc \"lamps\" ở đoạn 4 để xác định quy định yêu cầu đèn chiếu hướng xuống mặt đường thay vì chiếu lên bầu trời.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"disturb\"** ở đoạn 2 mô tả việc ánh đèn quá sáng làm gián đoạn, cản trở giấc ngủ tự nhiên (interrupt).\n  - Với **R1Q5**, từ **\"attracted\"** ở đoạn 3 đi kèm với việc côn trùng bay quây quần quanh bóng đèn, mang nghĩa bị thu hút, kéo về phía (pulled toward).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ nhân xưng **\"they\"** ở đoạn 3. Đọc lùi lại câu trước để tìm danh từ chỉ loài rùa biển non vừa nở trên bãi biển và bò nhầm hướng (Young sea turtles).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối chiếu từng lựa chọn với các biện pháp giảm ô nhiễm ánh sáng được nêu ở đoạn 4 (tắt đèn trang trí sau nửa đêm, dùng màu ấm ít hại động vật, dùng hẹn giờ và khép rèm ở nhà), từ đó loại bỏ phương án không xuất hiện trong bài (sơn tất cả đèn đường màu trắng sáng).\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ toàn bài về việc ô nhiễm ánh sáng là vấn đề nghiêm trọng nhưng con người hoàn toàn có thể chủ động hành động để khắc phục.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6) vì xác định thông tin rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R1Q2, R1Q4, R1Q7, R1Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R1Q1, R1Q9, R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Super Monster Wolf: Japan's Robotic Solution to Wildlife Conflicts",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In recent years, Japanese towns have faced a growing number of encounters between people and wild animals, particularly bears, deer, and wild boar. Bears have been reported in supermarkets, school grounds, and residential streets. Rural depopulation has left farmland and villages unattended, and animals that once avoided humans now wander closer to homes and fields in search of food. Authorities have therefore searched for tools that deter wildlife without relying on guns or traps alone.",
+     "One unusual answer is the Super Monster Wolf, a robotic wolf made by Ohta Seiki, a company based in Hokkaido. Introduced in 2016 under a simpler name, it was initially dismissed by some people as a **gimmick**. Each unit is assembled by hand, with artificial fur stretched over a metal frame and an open-mouthed face designed to look as threatening as possible. Its glowing eyes give it an appearance more suited to science fiction than to traditional farming.",
+     "The machine is designed to frighten animals with more than appearance alone. Sensors detect an approaching animal, whereupon the head turns, red lights flash in the eyes, and speakers emit recorded sounds, including human voices, that can carry up to a kilometre. The sounds are chosen so that animals experience them as unfamiliar and potentially dangerous. Solar panels and a battery allow the device to operate in remote fields without a mains connection or regular visits from technicians.",
+     "Demand for the robot has risen sharply as bear encounters have become more frequent. According to the manufacturer, about fifty units had been ordered by spring 2026, **exceeding** the company's usual full-year volume, and customers may wait two to three months for delivery. Prices start at roughly four thousand dollars, a sum that small municipalities and farming cooperatives often consider worthwhile when crops or safety are at risk.",
+     "Yet the evidence for its effectiveness is far from conclusive, according to several experts. Most reports come from the company or from local officials, and few independent studies seem to have quantified how often animals are actually deterred by the device. Wildlife experts point out that clever animals may become accustomed to a harmless device, a process known as habituation, **which** gradually reduces the effect of any fixed scare tactic.",
+     "The manufacturer is therefore exploring several improvements to make the system less predictable. Planned additions reportedly include wheels so that the robot can move between locations, a smaller handheld version for individual walkers, and cameras with artificial intelligence that could distinguish bears from other animals. Such features, if realised, would make the system more adaptable, although they would also raise its cost and complexity.",
+     "The Super Monster Wolf illustrates how communities can coexist with wildlife as habitats overlap. Technology can offer practical short-term protection, yet lasting solutions will probably also require habitat management, secure waste storage, and support for rural communities. Farmers, meanwhile, value any device that protects crops. Whether a robotic wolf proves a clever tool or a passing curiosity will depend on evidence that has yet to be gathered through careful, independent monitoring in farms and villages."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Japanese towns have successfully ended all conflicts with wild animals",
+       "B": "A robotic wolf offers promising but unproven wildlife protection",
+       "C": "Hunters have replaced robots as the main defence against bears",
+       "D": "Rural depopulation is the only cause of animal attacks worldwide"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, how does the robot frighten animals?",
+      "options": {
+       "A": "It releases a strong smell that animals dislike",
+       "B": "It fires harmless pellets at approaching animals",
+       "C": "It sprays cold water across the nearby fields",
+       "D": "It combines lights, movement, and recorded sounds"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 3 để xác định robot hù dọa động vật bằng cách kết hợp ánh sáng đèn đỏ, cử động quay đầu và âm thanh ghi âm (kết hợp ánh sáng, chuyển động và âm thanh)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"gimmick\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "serious invention",
+       "B": "traditional ritual",
+       "C": "attention-seeking trick",
+       "D": "legal requirement"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"gimmick\" ở đoạn 2 xuất hiện trong ngữ cảnh ban đầu bị một số người coi nhẹ như một món đồ chơi hoặc chiêu trò thu hút sự chú ý (attention-seeking trick)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, how long may customers wait for delivery?",
+      "options": {
+       "A": "Roughly two to three months after ordering",
+       "B": "At least one full year after payment",
+       "C": "Only a few days because stock is plentiful",
+       "D": "Until the winter season ends each year"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"delivery\" ở đoạn 4 để thấy thời gian chờ giao hàng có thể mất khoảng hai đến ba tháng sau khi đặt hàng."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"exceeding\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "falling below",
+       "B": "going beyond",
+       "C": "closely matching",
+       "D": "strongly denying"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"exceeding\" ở đoạn 4 đi kèm với số lượng đơn đặt hàng vượt qua mức thông thường cả năm của công ty, mang nghĩa vượt quá, đi xa hơn (going beyond)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Wildlife experts",
+       "B": "Clever animals",
+       "C": "The fixed tactic",
+       "D": "Habituation process"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đoạn 5. Đọc lùi lại tên của quá trình được nhắc đến ngay trước đó khi động vật thông minh dần quen với thiết bị vô hại và làm giảm hiệu quả của các chiến thuật hù dọa (quá trình quen thuộc hóa - habituation process)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what is the purpose of the planned cameras?",
+      "options": {
+       "A": "To distinguish bears from other animals",
+       "B": "To record videos for television programmes",
+       "C": "To count tourists visiting the farm",
+       "D": "To light up the surrounding fields"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a feature of the robot?",
+      "options": {
+       "A": "Solar panels that power the whole device",
+       "B": "Speakers that play recorded sounds and voices",
+       "C": "An engine that drives it across fields",
+       "D": "A head that turns from side to side"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng lựa chọn với các tính năng của robot được nêu ở đoạn 3 (tấm pin mặt trời, loa phát âm thanh, đầu quay qua lại), từ đó loại bỏ phương án không xuất hiện trong bài (động cơ giúp lái xe di chuyển khắp cánh đồng)."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about the future of the robot?",
+      "options": {
+       "A": "Councils will stop buying it once demand rises quickly",
+       "B": "Independent studies have already proved that it works perfectly",
+       "C": "It will soon replace human patrols across rural districts",
+       "D": "Its long-term success will depend on proof and continual improvement"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc nhu cầu tăng cao nhưng hiệu quả lâu dài của robot sẽ phụ thuộc vào các bằng chứng xác thực cùng những cải tiến không ngừng trong tương lai. Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R2Q3, R2Q5) và quy chiếu (R2Q6) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu hỏi chi tiết (R2Q2, R2Q4, R2Q7, R2Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R2Q1, R2Q9, R2Q10)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To convince farmers to stop growing crops near forests",
+       "B": "To describe a robotic wolf and assess its usefulness",
+       "C": "To compare Japanese robots with robots built in Europe",
+       "D": "To explain how bears are hunted in northern Japan Reading"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R2Q1, R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn mở đầu và đoạn kết để nắm bắt thông điệp trung tâm: robot sói mang lại giải pháp xua đuổi động vật hoang dã đầy triển vọng nhưng hiệu quả thực tế vẫn cần thêm bằng chứng khoa học đánh giá độc lập. Do đó, phương án đúng phải phản ánh được góc nhìn khách quan này thay vì khẳng định tuyệt đối.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q2**, tìm thông tin ở đoạn 3 để xác định robot hù dọa động vật bằng cách kết hợp ánh sáng đèn đỏ, cử động quay đầu và âm thanh ghi âm (kết hợp ánh sáng, chuyển động và âm thanh).\n  - Với **R2Q4**, quét từ khóa \"delivery\" ở đoạn 4 để thấy thời gian chờ giao hàng có thể mất khoảng hai đến ba tháng sau khi đặt hàng.\n  - With **R2Q7**, tìm kiếm từ khóa \"cameras\" ở đoạn 6 nhằm xác định mục đích của các camera dự kiến tích hợp AI là để phân biệt gấu với các loài động vật khác.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"gimmick\"** ở đoạn 2 xuất hiện trong ngữ cảnh ban đầu bị một số người coi nhẹ như một món đồ chơi hoặc chiêu trò thu hút sự chú ý (attention-seeking trick).\n  - Với **R2Q5**, từ **\"exceeding\"** ở đoạn 4 đi kèm với số lượng đơn đặt hàng vượt qua mức thông thường cả năm của công ty, mang nghĩa vượt quá, đi xa hơn (going beyond).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đoạn 5. Đọc lùi lại tên của quá trình được nhắc đến ngay trước đó khi động vật thông minh dần quen với thiết bị vô hại và làm giảm hiệu quả của các chiến thuật hù dọa (quá trình quen thuộc hóa - habituation process).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối chiếu từng lựa chọn với các tính năng của robot được nêu ở đoạn 3 (tấm pin mặt trời, loa phát âm thanh, đầu quay qua lại), từ đó loại bỏ phương án không xuất hiện trong bài (động cơ giúp lái xe di chuyển khắp cánh đồng).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc nhu cầu tăng cao nhưng hiệu quả lâu dài của robot sẽ phụ thuộc vào các bằng chứng xác thực cùng những cải tiến không ngừng trong tương lai. Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R2Q3, R2Q5) và quy chiếu (R2Q6) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu hỏi chi tiết (R2Q2, R2Q4, R2Q7, R2Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R2Q1, R2Q9, R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Rise of Job Hopping in the Modern Labor Market",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "A generation ago, staying with one employer for decades signalled loyalty and prudence. Today, many workers change jobs every few years, and the practice, often labelled job hopping, has become common enough that recruiters rarely treat it as a warning sign on its own. Statistics from several countries indicate that median job tenure has declined, particularly among workers under thirty-five, although the figures vary with the economy.",
+     "Several economic and cultural forces help to explain this significant shift in careers. Employers have become less willing to offer long-term security, relying instead on contracts and restructuring, so workers who once expected stability now prepare for disruption. At the same time, widespread access to online job platforms has made it easier to compare salaries and discover vacancies, reducing the cost of searching. Remote working has further widened the pool of employers that a candidate can consider, since location no longer restricts applications.",
+     "For individuals, frequent moves can bring **tangible** benefits when they are made strategically. **[1]** Several studies of wage data suggest that workers who switch employers often receive larger pay increases than those who stay, partly because new hires are priced at market rates. **[2]** Changing roles also exposes people to different management styles, technologies, and industries, which accelerates the acquisition of transferable skills. **[3]** A varied record can therefore make a candidate more adaptable and more attractive to organisations facing rapid change. **[4]** Switching jobs also offers an escape from workplaces that are toxic or stagnant.",
+     "However, the practice carries significant costs for both employees and employers in the long term. Employees who move frequently may forgo benefits that accrue with seniority, such as deeper mentorship, pension contributions, and the trust required for major responsibilities and long-term projects. Employers, for their part, face expenses for recruitment and training that economists often estimate at a substantial fraction of an annual salary, and departing staff take institutional knowledge with them. Teams with high turnover may also struggle to sustain morale and cohesion.",
+     "Attitudes toward job hopping are slowly changing, but they remain inconsistent across industries. Older managers, shaped by a culture of tenure, sometimes interpret short stints as evidence of impatience or commitment problems, whereas younger recruiters are more likely to view **them** as a rational response to unstable conditions. The difference matters because hiring decisions often depend on the judgement of individual interviewers rather than on objective data.",
+     "Career advisers therefore recommend that job seekers present their histories as a **coherent** narrative, explaining how each move built skills or responsibility rather than leaving the sequence to speak for itself. Moves that follow a clear progression, such as expanding scope or entering a growing field, are generally judged more favourably than a series of lateral transitions. Candidates who can show specific achievements within relatively short periods further reduce employers' concerns about commitment.",
+     "Job hopping is therefore neither a vice nor a guaranteed strategy for advancement. Its value depends on motives, timing, and the narrative a worker can construct from the experience. Organisations that wish to retain talent might respond not by condemning mobility but by offering the development, recognition, and fair pay that make staying attractive, since growing employees have fewer reasons to leave."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Frequent job changes bring both advantages and costs depending on circumstances",
+       "B": "Long-term employment remains the most reliable route to higher salaries",
+       "C": "Younger workers change jobs because they dislike hard work",
+       "D": "Employers benefit most when staff leave after only months"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, how have online platforms influenced job mobility?",
+      "options": {
+       "A": "They guarantee that every applicant eventually receives a formal interview",
+       "B": "They discourage employers from advertising permanent positions at all times",
+       "C": "They reduce the effort of comparing salaries and vacancies",
+       "D": "They allow companies to ignore applicants' previous work experience entirely"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"online platforms\" ở đoạn 2 để xác định nền tảng trực tuyến giúp việc so sánh mức lương và tìm kiếm vị trí trống trở nên dễ dàng hơn, làm giảm chi phí tìm kiếm."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"tangible\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "purely theoretical",
+       "B": "short-lived",
+       "C": "widely disputed",
+       "D": "real and measurable"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"tangible\" ở đoạn 3 đi kèm với các lợi ích thực tế thu về từ việc tăng lương lớn hơn so với người ở lại, mang nghĩa thực tế và có thể đo lường được (real and measurable)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such pay gaps, however, tend to narrow when labour markets cool.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc vị trí [2] trong đoạn 3. Câu điền thêm 'Such pay gaps, however, tend to narrow when labour markets cool.' (Tuy nhiên, khoảng cách tiền lương đó có xu hướng thu hẹp lại khi thị trường lao động hạ nhiệt) khớp hoàn hảo ngay sau câu nói về dữ liệu tiền lương cho thấy nhân viên nhảy việc thường nhận được mức tăng lương lớn hơn."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what costs do employers face when staff leave?",
+      "options": {
+       "A": "Recruitment, training costs, and lost institutional knowledge",
+       "B": "Compulsory payments to the departing employee's next employer",
+       "C": "Higher taxes imposed on companies with young staff",
+       "D": "Fines issued by regulators for each resignation"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"costs do employers face\" ở đoạn 4 để thấy các chi phí gồm tuyển dụng, đào tạo và mất đi tri thức nội bộ tích lũy (institutional knowledge)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"them\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Older managers",
+       "B": "Younger recruiters",
+       "C": "Short stints",
+       "D": "Unstable conditions"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng \"them\" ở câu thứ hai của đoạn 5. Đọc lùi lại câu trước để tìm danh từ số nhiều chỉ các giai đoạn làm việc ngắn hạn (short stints) mà các nhà quản lý lớn tuổi thường coi là thiếu kiên nhẫn."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"coherent\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "deeply emotional",
+       "B": "logically connected",
+       "C": "strictly secret",
+       "D": "quickly written"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"coherent\" ở đoạn 6 chỉ việc ứng viên cần trình bày lịch sử làm việc thành một chuỗi câu chuyện liền mạch, logic (logically connected)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT recommended to job seekers?",
+      "options": {
+       "A": "Explaining how each move built skills or responsibility",
+       "B": "Choosing moves that expand scope or enter growing fields",
+       "C": "Highlighting specific achievements achieved within short periods",
+       "D": "Listing every short contract without any explanation"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các lời khuyên dành cho ứng viên ở đoạn 6 (giải thích cách mỗi lần chuyển việc xây dựng kỹ năng, chọn hướng đi mở rộng quy mô, làm nổi bật thành tựu), từ đó loại bỏ phương án không được khuyến khích (liệt kê mọi hợp đồng ngắn hạn mà không có bất kỳ lời giải thích nào)."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about job hopping?",
+      "options": {
+       "A": "Its benefits depend on how well mobility is justified and planned",
+       "B": "It always damages careers because employers value loyalty above everything",
+       "C": "It cannot provide any skills that long-serving employees lack",
+       "D": "It succeeds mainly when workers change employers very frequently"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc lợi ích của việc nhảy việc phụ thuộc vào việc sự dịch chuyển đó được lên kế hoạch, giải trình và chứng minh năng lực thực tế như thế nào."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To urge employees to remain loyal to a single employer",
+       "B": "To describe how recruiters write job advertisements for graduates",
+       "C": "To evaluate the advantages and drawbacks of frequent job changes",
+       "D": "To compare salaries across industries in different countries today Reading"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R3Q1, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc phần mở đầu và kết bài để nắm bắt luận điểm trung tâm: xu hướng thay đổi công việc liên tục (job hopping) mang lại cả những lợi ích chiến lược lẫn chi phí dài hạn tùy thuộc vào bối cảnh và động cơ. Do đó, phương án đúng phải bao quát trọn vẹn cả hai mặt ưu và nhược điểm của hiện tượng này.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q2**, tìm từ khóa \"online platforms\" ở đoạn 2 để xác định nền tảng trực tuyến giúp việc so sánh mức lương và tìm kiếm vị trí trống trở nên dễ dàng hơn, làm giảm chi phí tìm kiếm.\n  - Với **R3Q5**, quét từ khóa \"costs do employers face\" ở đoạn 4 để thấy các chi phí gồm tuyển dụng, đào tạo và mất đi tri thức nội bộ tích lũy (institutional knowledge).\n  - Với **R3Q8**, đối chiếu các lời khuyên dành cho ứng viên ở đoạn 6 (giải thích cách mỗi lần chuyển việc xây dựng kỹ năng, chọn hướng đi mở rộng quy mô, làm nổi bật thành tựu), từ đó loại bỏ phương án không được khuyến khích (liệt kê mọi hợp đồng ngắn hạn mà không có bất kỳ lời giải thích nào).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"tangible\"** ở đoạn 3 đi kèm với các lợi ích thực tế thu về từ việc tăng lương lớn hơn so với người ở lại, mang nghĩa thực tế và có thể đo lường được (real and measurable).\n  - Với **R3Q7**, từ **\"coherent\"** ở đoạn 6 chỉ việc ứng viên cần trình bày lịch sử làm việc thành một chuỗi câu chuyện liền mạch, logic (logically connected).\n- **Dạng câu hỏi Điền câu vào đoạn văn (R3Q4):** Đọc vị trí **[2]** trong đoạn 3. Câu điền thêm 'Such pay gaps, however, tend to narrow when labour markets cool.' (Tuy nhiên, khoảng cách tiền lương đó có xu hướng thu hẹp lại khi thị trường lao động hạ nhiệt) khớp hoàn hảo ngay sau câu nói về dữ liệu tiền lương cho thấy nhân viên nhảy việc thường nhận được mức tăng lương lớn hơn.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ nhân xưng **\"them\"** ở câu thứ hai của đoạn 5. Đọc lùi lại câu trước để tìm danh từ số nhiều chỉ các giai đoạn làm việc ngắn hạn (short stints) mà các nhà quản lý lớn tuổi thường coi là thiếu kiên nhẫn.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc lợi ích của việc nhảy việc phụ thuộc vào việc sự dịch chuyển đó được lên kế hoạch, giải trình và chứng minh năng lực thực tế như thế nào.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R3Q3, R3Q7), quy chiếu đại từ (R3Q6) và điền câu (R3Q4) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R3Q2, R3Q5, R3Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R3Q1, R3Q9, R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Sophisticated Social Structures of Ant Colonies",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "At first glance, an ant colony appears to be a chaotic crowd of insects moving in all directions. Yet a closer look reveals an **intricate** society in which thousands or even millions of individuals cooperate to forage, defend territory, rear offspring, and maintain elaborate nests. Biologists often describe such colonies as superorganisms, because the group behaves in many respects like a single living entity whose parts specialise and depend on one another.",
+     "Colony members are organised into distinct castes, each with characteristic duties and body forms. A single queen, or occasionally several, produces the eggs, while sterile female workers carry out nearly every other task, from nursing larvae to excavating tunnels. In some species, larger workers known as soldiers have powerful jaws and defend the nest, and males appear only briefly in the year, existing mainly to mate with new queens. This division of labour allows the colony to accomplish tasks that no individual could manage alone.",
+     "Communication within the colony relies chiefly on chemical signals rather than on sound or sight. **[1]** Ants release pheromones, volatile chemicals that other individuals detect with their antennae, to mark trails, raise alarms, and identify nestmates. **[2]** A forager that discovers food returns to the nest while laying a scented trail, and other workers that encounter the trail reinforce it if they also find food. **[3]** Over time, shorter routes accumulate stronger scent because they are travelled more frequently, so the colony converges on efficient paths without any individual understanding the overall map. **[4]** Researchers call this indirect coordination through the environment stigmergy, and it has inspired algorithms for computer networks and logistics.",
+     "Some ant societies display remarkable behaviour that closely resembles human agriculture and herding. Leafcutter ants of the Americas carry fragments of leaves to underground chambers, where they feed them to a fungus that the colony cultivates as its principal food. Colonies also manage hygiene, using antibiotic-producing bacteria on their bodies to protect the fungus from parasites. Other species herd aphids and collect their sugary secretion, defending these insects from predators in return. Such partnerships suggest that ants practised cultivation and livestock management long before humans appeared.",
+     "The origins of this extreme cooperation have long puzzled evolutionary biologists and philosophers alike. Why should sterile workers devote their lives to raising the offspring of a queen? One influential explanation, kin selection, notes that sisters in these insects can share more genes with one another than with their own offspring, making help for the queen advantageous. Later research suggests, however, that ecological factors such as the benefits of defended nests also played an important part.",
+     "Not all ant colonies remain permanently in a single place, and some species are nomadic. Army ants of the tropics form enormous raiding columns, and their workers link their bodies to build bridges and temporary nests, called bivouacs, **which** are constructed entirely from living ants. Remarkably, such structures assemble without any central command, as individual ants respond to the movements and contact of their neighbours. Raiding parties may contain hundreds of thousands of ants and can overwhelm prey that cannot escape.",
+     "Ant colonies therefore offer far more than an entertaining spectacle for curious naturalists. Their **resilient** organisation, which can survive the loss of many workers and even of entire foraging parties, has inspired engineers designing swarms of robots, networks that route traffic, and software that solves scheduling problems. At the same time, the success of invasive species such as the Argentine ant, which forms vast supercolonies, reminds us that cooperation can also threaten native ecosystems."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Queen ants direct every worker through detailed spoken commands",
+       "B": "Colony success depends entirely on the physical strength of soldiers",
+       "C": "Invasive ants are the only species that live in groups",
+       "D": "Ant colonies achieve complex cooperation through specialised castes and chemical communication"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what is the main role of males?",
+      "options": {
+       "A": "They carry food back to the nest each day",
+       "B": "They appear briefly and mate with new queens",
+       "C": "They defend the nest against larger predators",
+       "D": "They excavate tunnels and nurse the young larvae"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 để xác định vai trò của kiến đực (males) xuất hiện rất ngắn trong năm và chủ yếu để giao phối với kiến chúa mới."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"intricate\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "complex",
+       "B": "fragile",
+       "C": "ancient",
+       "D": "colourful"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"intricate\" ở đoạn 1 miêu tả một xã hội tinh vi, phức tạp với hàng triệu cá thể cùng hợp tác (complex)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'In this way, success itself becomes a message that recruits further workers.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc vị trí [3] trong đoạn 3. Câu điền thêm 'In this way, success itself becomes a message that recruits further workers.' (Bằng cách này, sự thành công tự thân nó trở thành thông điệp thu hút thêm nhiều kiến thợ khác) nối tiếp hoàn hảo ngay sau câu nói về việc các con kiến thợ gặp thức ăn trên đường mòn và củng cố lại dấu vết mùi hương."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, how do leafcutter ants obtain their principal food?",
+      "options": {
+       "A": "They hunt small insects in underground chambers each night",
+       "B": "They collect nectar from flowers on the forest floor",
+       "C": "They steal stored seeds from neighbouring colonies at night",
+       "D": "They feed leaf fragments to a cultivated fungus"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"leafcutter ants\" ở đoạn 4 để thấy cách kiến cắt lá mang các mảnh lá xuống các buồng ngầm để nuôi nấm làm thức ăn chính."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"which\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Temporary nests",
+       "B": "Army ants",
+       "C": "Raiding columns",
+       "D": "Living bridges"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đoạn 6. Đọc lùi lại danh từ số nhiều đứng ngay trước mệnh đề quan hệ để tìm đối tượng là các tổ tạm thời do kiến quân đội xây dựng nên (bivouacs / temporary nests)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"resilient\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "easily destroyed",
+       "B": "able to recover",
+       "C": "visually striking",
+       "D": "highly aggressive"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"resilient\" ở đoạn 7 đi kèm với việc tổ chức của đàn kiến có thể chịu đựng và sống sót qua sự mất mát của nhiều cá thể, mang nghĩa khả năng phục hồi, chống chịu tốt (able to recover)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT presented as part of the explanation for ant cooperation?",
+      "options": {
+       "A": "Sisters may share more genes than they share with offspring",
+       "B": "Defended nests bring ecological benefits to colony members",
+       "C": "Helping the queen reproduce can be genetically advantageous",
+       "D": "Workers are rewarded with extra food by the queen"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các lý thuyết giải thích sự hợp tác của kiến ở đoạn 5 (chia sẻ gen với chị em, lợi ích sinh thái từ việc bảo vệ tổ, lợi ích di truyền khi giúp kiến chúa sinh sản), từ đó loại bỏ phương án không xuất hiện trong bài (công nhân được kiến chúa thưởng thêm thức ăn)."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 3, 5, and 6 about the organisation of ant colonies?",
+      "options": {
+       "A": "Complex group behaviour can arise without any centralised control",
+       "B": "Colonies depend on intelligent leaders who plan every foraging route",
+       "C": "Cooperation among workers is accidental and has no evolutionary basis",
+       "D": "Large colonies are always weaker than small ones in survival"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc hành vi tập thể phức tạp của loài kiến có thể hình thành mà không cần bất kỳ sự kiểm soát tập trung nào (no centralised control)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To warn readers about the danger of ant bites",
+       "B": "To argue that ants are more intelligent than humans",
+       "C": "To explain how ant colonies cooperate and why this matters",
+       "D": "To describe the best methods for removing ants from homes"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R4Q1, R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc phần mở đầu và kết bài để nắm bắt luận điểm trung tâm: các đàn kiến đạt được sự hợp tác xã hội phức tạp nhờ vào sự phân chia giai cấp (caste) và hệ thống giao tiếp bằng tín hiệu hóa học (pheromones). Do đó, phương án đúng phải phản ánh được sự kết hợp giữa các đặc điểm tổ chức và phương thức hợp tác này.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q2**, tìm thông tin ở đoạn 2 để xác định vai trò của kiến đực (males) xuất hiện rất ngắn trong năm và chủ yếu để giao phối với kiến chúa mới.\n  - Với **R4Q5**, quét từ khóa \"leafcutter ants\" ở đoạn 4 để thấy cách kiến cắt lá mang các mảnh lá xuống các buồng ngầm để nuôi nấm làm thức ăn chính.\n  - Với **R4Q8**, đối chiếu các lý thuyết giải thích sự hợp tác của kiến ở đoạn 5 (chia sẻ gen với chị em, lợi ích sinh thái từ việc bảo vệ tổ, lợi ích di truyền khi giúp kiến chúa sinh sản), từ đó loại bỏ phương án không xuất hiện trong bài (công nhân được kiến chúa thưởng thêm thức ăn).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"intricate\"** ở đoạn 1 miêu tả một xã hội tinh vi, phức tạp với hàng triệu cá thể cùng hợp tác (complex).\n  - Với **R4Q7**, từ **\"resilient\"** ở đoạn 7 đi kèm với việc tổ chức của đàn kiến có thể chịu đựng và sống sót qua sự mất mát của nhiều cá thể, mang nghĩa khả năng phục hồi, chống chịu tốt (able to recover).\n- **Dạng câu hỏi Điền câu vào đoạn văn (R4Q4):** Đọc vị trí **[3]** trong đoạn 3. Câu điền thêm 'In this way, success itself becomes a message that recruits further workers.' (Bằng cách này, sự thành công tự thân nó trở thành thông điệp thu hút thêm nhiều kiến thợ khác) nối tiếp hoàn hảo ngay sau câu nói về việc các con kiến thợ gặp thức ăn trên đường mòn và củng cố lại dấu vết mùi hương.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đoạn 6. Đọc lùi lại danh từ số nhiều đứng ngay trước mệnh đề quan hệ để tìm đối tượng là các tổ tạm thời do kiến quân đội xây dựng nên (bivouacs / temporary nests).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc hành vi tập thể phức tạp của loài kiến có thể hình thành mà không cần bất kỳ sự kiểm soát tập trung nào (no centralised control).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R4Q3, R4Q7), quy chiếu đại từ (R4Q6) và điền câu (R4Q4) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R4Q2, R4Q5, R4Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R4Q1, R4Q9, R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You have just won two tickets to a special event in an online competition.\nWrite an email to your best friend to invite them to go with you.\nWrite an email to your friend. In your email, you should:\n- Explain how you won the tickets and why you thought of your friend immediately.\n- Provide details about the event (when and where it takes place) and who will be performing.\n- Tell your friend what they need to bring or prepare for the event.\nWrite an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You have just won two tickets to a special event in an online competition.",
+      "Write an email to your best friend to invite them to go with you."
+     ],
+     "quote": [
+      "Write an email to your friend. In your email, you should:",
+      "- Explain how you won the tickets and why you thought of your friend immediately.",
+      "- Provide details about the event (when and where it takes place) and who will be performing.",
+      "- Tell your friend what they need to bring or prepare for the event."
+     ],
+     "instruction": "Write an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng thư thân mật (Informal Email) gửi cho bạn thân để mời đi xem một sự kiện.\n- Bạn cần trả lời 4 ý chính: Cách thắng giải, lý do chọn bạn mình, thông tin sự kiện (thời gian, địa điểm, nghệ sĩ), và dặn dò chuẩn bị.\n- Yêu cầu tối thiểu 120 từ, giọng văn tự nhiên, hào hứng.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- Greeting: Hi [Name]/ Dear [Name],\n- Opening: Thông báo tin vui và dẫn dắt vào việc mình thắng giải. Ví dụ: You won't believe this, but I've just won two tickets to a concert!\n- Body 1: Kể về việc thắng giải (online contest) và lý do mời bạn (vì bạn cũng thích nghệ sĩ đó). Ví dụ: I entered a lucky draw on Facebook and luckily, I was the winner. I thought of you first because we both love this band.\n- Body 2: Chi tiết sự kiện (thời gian, địa điểm, người diễn). Ví dụ: The show is at the National Stadium this Sunday.\n- Closing: Nhắc bạn chuẩn bị đồ và mong chờ phản hồi. Ví dụ: Let me know if you can make it!\n- Sign-off: Best, / Cheers, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Quá khứ đơn để kể về việc thắng giải và Tương lai đơn cho kế hoạch đi chơi.\n- Sử dụng câu cảm thán để thể hiện sự phấn khích.\nTừ vựng quan trọng:\n- Lucky draw: Bốc thăm may mắn\n- To be over the moon: Rất hạnh phúc\n- Live performance: Biểu diễn trực tiếp\n- Venue: Địa điểm tổ chức\n- Entry ticket: Vé vào cửa\n- To take place: Diễn ra\nTừ nối (Linking words):\n- Guess what: Đoán xem (dùng để mở đầu tin vui)\n- Actually: Thực ra là\n- That's why: Đó là lý do tại sao\n- By the way: Nhân tiện\n- Anyway: Dù sao thì\nCách diễn đạt cảm xúc (Expressing feelings):\n- I was so thrilled when I heard the news! (Tôi đã rất run/phấn khích khi nghe tin)\n- It would be great if you could come. (Sẽ thật tuyệt nếu bạn có thể đi)\n- I immediately thought of you. (Tôi nghĩ ngay đến bạn)\n\n**4. Các lỗi thường gặp:**\n- Viết quá trang trọng (như dùng \"I would like to inform you\").\n- Quên không nhắc đến lý do tại sao lại nghĩ tới người bạn đó.\n- Thiếu thông tin về nghệ sĩ biểu diễn (Who).\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã có đủ thời gian và địa điểm chưa.\n- Đếm số lượng từ để đảm bảo trên 120 từ.\n- Kiểm tra các thì của động từ (Past Simple cho việc đã thắng vé).\n\n**6. Tư duy làm bài:**\n- Hãy đặt mình vào tình huống thật khi thắng giải để viết thư tự nhiên nhất. Tập trung vào việc tạo ra sự kết nối với người nhận thư qua lý do mời họ.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nAir pollution is becoming a severe problem in many parts of the world, largely due to emissions from factories and the use of harmful chemicals.\nThis situation has significant negative impacts on the environment and human health.\nDiscuss the causes of this problem and suggest some solutions that both organizations and individuals should take to address it.\nWrite an essay to an educated reader to discuss the problems caused by air pollution and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Air pollution is becoming a severe problem in many parts of the world, largely due to emissions from factories and the use of harmful chemicals.",
+      "This situation has significant negative impacts on the environment and human health.",
+      "Discuss the causes of this problem and suggest some solutions that both organizations and individuals should take to address it."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by air pollution and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Problem - Solution (Nguyên nhân - Giải pháp).\n- Chủ đề: Ô nhiễm không khí từ nhà máy và hóa chất.\n- Yêu cầu: Nêu nguyên nhân và đưa ra giải pháp từ hai phía: Tổ chức (Chính phủ/Doanh nghiệp) và Cá nhân.\n- Số lượng từ tối thiểu: 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- Introduction: Dẫn dắt về thực trạng ô nhiễm không khí và tóm tắt các nguyên nhân/giải pháp sẽ nói. Ví dụ: Air pollution has emerged as a major global crisis, primarily driven by industrial activities.\n- Body 1 (Causes): Tập trung vào khí thải nhà máy, việc sử dụng hóa chất trong sản xuất và nông nghiệp. Ví dụ: The primary cause of atmospheric degradation is the unregulated discharge of toxic fumes from factories.\n- Body 2 (Solutions for Organizations): Chính phủ thắt chặt luật môi trường, doanh nghiệp đầu tư công nghệ xanh. Ví dụ: Authorities should impose stricter regulations on waste treatment systems.\n- Body 3 (Solutions for Individuals): Sử dụng phương tiện công cộng, giảm hóa chất gia dụng, nâng cao ý thức. Ví dụ: On an individual level, people can contribute by opting for public transport.\n- Conclusion: Tóm tắt lại tầm quan trọng của việc phối hợp cả hai phía để cứu môi trường.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các cấu trúc câu phức và câu điều kiện (Loại 1) để nói về giải pháp.\n- Dùng từ vựng mang tính học thuật liên quan đến môi trường.\nTừ vựng quan trọng:\n- Industrial emissions: Khí thải công nghiệp\n- Toxic chemicals: Hóa chất độc hại\n- Respiratory diseases: Bệnh về đường hô hấp\n- Environmental degradation: Suy thoái môi trường\n- Renewable energy: Năng lượng tái tạo\n- Carbon footprint: Dấu chân carbon\nTừ nối (Linking words):\n- First and foremost: Đầu tiên và quan trọng nhất\n- As a consequence: Hệ quả là\n- From an organizational perspective: Từ góc độ tổ chức\n- In terms of individual actions: Về phía các hành động cá nhân\n- To sum up: Tóm lại\n- In addition: Ngoài ra\nDiễn đạt lại ý (Paraphrasing):\n- Atmospheric contamination: Thay cho \"air pollution\".\n- Industrial plants: Thay cho \"factories\".\n- Take proactive measures: Thay cho \"do something/solve\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- It is imperative that... (Cấp bách rằng...)\n- One viable solution could be... (Một giải pháp khả thi có thể là...)\n- This issue should be tackled by... (Vấn đề này nên được giải quyết bởi...)\n\n**4. Các lỗi thường gặp:**\n- Chỉ nêu giải pháp cho chính phủ mà quên mất vai trò cá nhân (hoặc ngược lại).\n- Liệt kê quá nhiều nguyên nhân mà không giải thích kỹ hoặc không đưa ra ví dụ.\n- Sử dụng từ vựng quá đơn giản như \"bad air\" thay vì \"poor air quality\".\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem các đoạn thân bài đã có câu chủ đề (Topic sentence) rõ ràng chưa.\n- Đảm bảo các giải pháp tương ứng với các nguyên nhân đã nêu ở trên.\n- Soát lỗi chính tả các từ chuyên ngành môi trường.\n\n**6. Tư duy làm bài:**\n- Cần phân định rõ ràng giữa trách nhiệm của tập thể và cá nhân. Bài viết sẽ logic hơn nếu bạn nhóm các giải pháp theo đối tượng thực hiện như đề bài yêu cầu."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about farms\n\n1\nHave you ever visited a farm before?\n2\nWhat are some popular types of farming in your country?\n3\nDo you think children should learn about farming at school? Why?\n\nNow, let’s talk about bags\n\n4\nDo you usually carry a bag when you go out? What's in it?\n5\nWhat factors do you consider when choosing a new bag?\n6\nIs it important for people to have many different types of bags? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi gồm 6 câu hỏi ngắn trong khoảng 3 phút. Bạn cần phản xạ nhanh và trả lời tự nhiên như một cuộc hội thoại đời thường.\n- **Topic A (Farming):** Các câu hỏi 1–3 liên quan đến nông nghiệp, trải nghiệm ở nông trại và giáo dục về nông nghiệp. Chủ đề này kiểm tra vốn từ về cuộc sống và khả năng nêu ý kiến xã hội.\n- **Topic B (Bags):** Các câu hỏi 4–6 tập trung vào việc sử dụng túi xách, lựa chọn đồ dùng cá nhân và nhu cầu trong cuộc sống hằng ngày.\n- Giám khảo đánh giá dựa trên độ trôi chảy, phát âm, vốn từ và khả năng phát triển ý.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo trả lời đủ ý cho cả hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng câu trả lời một cách logic.\n- **Ví dụ Topic A:** Yes, I have visited a farm before because my grandparents live in the countryside. I learned a lot about growing vegetables and raising animals there.\n- **Ví dụ Topic B:** I usually carry a backpack when I go out because it is convenient and can hold many personal items like my phone and laptop.\n- Luôn tự hỏi “Why?”, “How?” hoặc “What kind?” để phát triển thêm ý.\n- Khi chuyển chủ đề, bạn có thể dùng câu như: Speaking of daily life, bags are also very important for students and workers.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Hãy nói với tốc độ ổn định và dùng filler như “Actually”, “Well”, “To be honest” để tránh khoảng lặng.\n- Với Topic A, sử dụng hiện tại đơn để nói về nông nghiệp nói chung và quá khứ đơn nếu kể trải nghiệm đi nông trại.\n- Với Topic B, hiện tại đơn phù hợp để mô tả thói quen mang túi và tiêu chí lựa chọn.\n- Nếu quên từ vựng, hãy mô tả bằng chức năng hoặc đặc điểm của đồ vật.\n- Từ vựng cho Topic A: organic farming (nông nghiệp hữu cơ), raise livestock (chăn nuôi gia súc), agricultural products (sản phẩm nông nghiệp), countryside lifestyle (lối sống nông thôn).\n- Từ vựng cho Topic B: fashionable accessory (phụ kiện thời trang), durable material (chất liệu bền), carry essential items (mang đồ dùng cần thiết), practical design (thiết kế tiện dụng).\nCụm từ quan trọng nên dùng:\n- Gain hands-on experience – Có trải nghiệm thực tế.\n- Learn about food production – Tìm hiểu về sản xuất thực phẩm.\n- Support local farmers – Hỗ trợ nông dân địa phương.\n- Carry personal belongings – Mang theo đồ dùng cá nhân.\n- Choose a bag based on quality – Chọn túi dựa trên chất lượng.\n- Suitable for different occasions – Phù hợp với nhiều dịp khác nhau.\nTừ nối khi nói (Linking Words):\n- First of all – Trước hết.\n- Besides that – Bên cạnh đó.\n- For example – Ví dụ như.\n- As a result – Kết quả là.\n- In my opinion – Theo ý kiến của tôi.\nCách thể hiện quan điểm tự nhiên:\n- I personally think children should learn basic farming skills because it helps them appreciate nature more. – Tôi nghĩ trẻ em nên học kỹ năng nông nghiệp cơ bản.\n- From my point of view, farming is still an important industry in Vietnam. – Theo góc nhìn của tôi, nông nghiệp vẫn là ngành quan trọng ở Việt Nam.\n- As far as I am concerned, visiting farms can be an educational experience for young people. – Theo tôi, tham quan nông trại là trải nghiệm giáo dục bổ ích.\n- I believe a good bag should be practical as well as fashionable. – Tôi tin rằng một chiếc túi tốt nên vừa tiện dụng vừa thời trang.\n- In my opinion, people do not need too many bags unless they use them for different purposes. – Theo tôi, mọi người không cần quá nhiều túi trừ khi dùng cho nhiều mục đích.\n- I would say quality is more important than appearance when choosing a bag. – Tôi cho rằng chất lượng quan trọng hơn vẻ ngoài khi chọn túi.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn và không giải thích lý do.\n- Ở Topic A, nhiều bạn chỉ kể tên loại nông nghiệp mà không nói vai trò hoặc lợi ích.\n- Ở Topic B, nhiều bạn chỉ mô tả chiếc túi mà quên nói tiêu chí lựa chọn.\n- Dùng sai thì khi kể trải nghiệm trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n- Nếu quên từ về nông nghiệp, hãy mô tả hoạt động như growing vegetables hoặc taking care of animals.\n- Ở Topic A, nếu chưa từng đến nông trại, bạn có thể nói về những gì bạn xem trên TV hoặc mạng xã hội.\n- Ở Topic B, nếu không dùng nhiều loại túi, hãy nói về chiếc túi bạn dùng thường xuyên nhất.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem đây là một cuộc trò chuyện tự nhiên thay vì bài phát biểu học thuộc.\n- Khi chuyển từ chủ đề nông nghiệp sang túi xách, hãy thay đổi từ góc nhìn xã hội sang đời sống cá nhân.\n- Sự tự nhiên và rõ ràng luôn quan trọng hơn việc cố gắng dùng từ quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour girlfriend's birthday is coming up, and you want to choose a special gift for her.\n\nYou are considering the following options:\n\nOption 1: A handmade scrapbook containing your memories together\nOption 2: A piece of high-quality jewelry such as a necklace or ring\nOption 3: A romantic dinner at a luxury restaurant\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn lựa chọn món quà sinh nhật phù hợp nhất cho bạn gái.\n- Ba lựa chọn gồm quà handmade, trang sức cao cấp và bữa tối lãng mạn.\n- Giám khảo đánh giá khả năng lập luận, so sánh ưu nhược điểm và đưa ra quyết định hợp lý.\n- Thời gian khoảng 4 phút, nên dành khoảng 1 phút lập dàn ý và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction -> Comparison -> Ending để bài nói mạch lạc.\n- Option 1: Scrapbook handmade có giá trị tinh thần cao và thể hiện sự chân thành nhưng cần nhiều thời gian chuẩn bị.\n- Option 2: Trang sức sang trọng và có giá trị lâu dài nhưng khá đắt tiền.\n- Option 3: Bữa tối lãng mạn tạo trải nghiệm đáng nhớ nhưng chỉ mang tính ngắn hạn.\n- Hãy liên hệ với thực tế sinh viên hoặc tài chính cá nhân để lập luận tự nhiên hơn.\n- Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển giữa ưu và nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì phân tích tách biệt hoàn toàn.\n- Dùng hiện tại đơn để phân tích đặc điểm và tương lai đơn khi nói về kế hoạch sinh nhật.\n- Nếu quên từ “scrapbook”, bạn có thể nói a handmade memory book.\nCụm từ quan trọng nên dùng:\n- Show sincere feelings – Thể hiện tình cảm chân thành.\n- Create unforgettable memories – Tạo kỷ niệm khó quên.\n- Have sentimental value – Có giá trị tinh thần.\n- Luxury experience – Trải nghiệm sang trọng.\n- Worth the money – Đáng với số tiền bỏ ra.\n- Strengthen the relationship – Củng cố mối quan hệ.\nTừ nối khi nói (Linking Words):\n- First of all – Trước hết.\n- On the other hand – Mặt khác.\n- In contrast – Trái lại.\n- Moreover – Hơn nữa.\n- In conclusion – Tóm lại.\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe a handmade scrapbook is the most meaningful gift because it contains personal memories. – Tôi tin mạnh mẽ rằng scrapbook handmade là món quà ý nghĩa nhất.\n- Compared to jewelry, a romantic dinner creates a more memorable experience. – So với trang sức, bữa tối lãng mạn tạo trải nghiệm đáng nhớ hơn.\n- From my perspective, expensive gifts are not always necessary in a relationship. – Theo quan điểm của tôi, quà đắt tiền không phải lúc nào cũng cần thiết.\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung nói về lựa chọn yêu thích mà không phân tích hai lựa chọn còn lại.\n- Lặp lại từ đơn giản như good hoặc beautiful quá nhiều.\n- Kết luận không rõ ràng hoặc không đưa ra quyết định cuối cùng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng liên quan đến quà tặng, hãy nói về cảm xúc hoặc giá trị tinh thần.\n- Bạn có thể dùng câu: Let's evaluate this option from another perspective.\n- Nếu bí ý ở một lựa chọn, hãy chuyển sang lựa chọn khác để duy trì độ trôi chảy.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người thực sự đang chọn quà cho người yêu thay vì cố nói quá học thuật.\n- Ngay cả với lựa chọn tốt nhất, bạn vẫn nên nhắc đến một vài hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of learning English in the modern world\n\nImportance of English\nAccess to global information and knowledge\nCareer opportunities and higher salary\nEasier travel and cultural exchange\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat is the best age to start learning a foreign language? Why?\n2\nDo you think English will remain the most important global language in the future?\n3\nHow has the internet changed the way people learn English?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn trình bày tầm quan trọng của việc học tiếng Anh trong xã hội hiện đại.\n- Ba nhánh chính gồm cơ hội nghề nghiệp, tiếp cận kiến thức toàn cầu và giao lưu văn hóa.\n- Nhánh cá nhân có thể phát triển thành studying abroad opportunities hoặc international communication.\n- Giám khảo đánh giá khả năng phát triển ý, tính logic và khả năng trả lời follow-up.\n- Thời gian khoảng 5 phút, nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho phần hỏi đáp.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/Conclusion để bài nói mạch lạc.\n- **Ví dụ 1:** Today, I would like to talk about the importance of learning English in the modern world.\n- **Ví dụ 2:** In addition to career opportunities, English also helps people communicate with foreigners more confidently.\n- Khi nói về nghề nghiệp, hãy đưa ví dụ như làm việc cho công ty quốc tế hoặc du học.\n- Hãy bám sát mindmap để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng cụm chuyển ý như Another important point is hoặc Moving on to the next benefit.\n- Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành để nói về tác động của toàn cầu hóa.\n- Có thể paraphrase “learning English” bằng studying a global language hoặc improving language skills.\nCụm từ quan trọng nên dùng:\n- Improve career prospects – Cải thiện cơ hội nghề nghiệp.\n- Access international knowledge – Tiếp cận kiến thức quốc tế.\n- Communicate with foreigners – Giao tiếp với người nước ngoài.\n- Study abroad opportunities – Cơ hội du học.\n- Global communication – Giao tiếp toàn cầu.\n- Develop language skills – Phát triển kỹ năng ngôn ngữ.\nTừ nối khi nói (Linking Words):\n- First of all – Trước tiên.\n- In addition – Ngoài ra.\n- For example – Ví dụ như.\n- As a result – Kết quả là.\n- Finally – Cuối cùng.\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, English is one of the most important skills in the modern world. – Theo tôi, tiếng Anh là một trong những kỹ năng quan trọng nhất hiện nay.\n- I believe learning English can open many doors for young people. – Tôi tin rằng học tiếng Anh mở ra nhiều cơ hội cho giới trẻ.\n- From my perspective, the internet has made learning English much easier and more convenient. – Theo quan điểm của tôi, internet giúp việc học tiếng Anh dễ dàng hơn rất nhiều.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **What is the best age to start learning a foreign language?** – I think children should start learning languages at a young age because they can absorb pronunciation more naturally.\n- **Will English remain the most important language?** – In my opinion, English will probably continue to be dominant because it is widely used in business and technology.\n- **How has the internet changed English learning?** – The internet provides online courses, videos and opportunities to communicate with native speakers.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích của tiếng Anh mà không giải thích hoặc đưa ví dụ.\n- Quên phát triển nhánh ý cá nhân trong mindmap.\n- Dành quá nhiều thời gian cho bài nói chính và không còn thời gian cho follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với trải nghiệm học tiếng Anh hoặc môi trường học tập thực tế.\n- Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a global perspective, English plays a major role nowadays.\n- Nếu quên từ học thuật, hãy dùng từ đơn giản hoặc mô tả thay thế.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ nghề nghiệp, giáo dục và giao tiếp quốc tế.\n- Tính logic và sự liên kết giữa các ý quan trọng hơn việc sử dụng từ vựng quá khó.\n- Luôn đưa ví dụ gần gũi với trải nghiệm học tập để bài nói tự nhiên và thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about farms.\n1.\nHave you ever visited a farm before?\n2.\nWhat are some popular types of farming in your country?\n3.\nDo you think children should learn about farming at school? Why?\nNow, let’s talk about bags.\n4.\nDo you usually carry a bag when you go out? What's in it?\n5.\nWhat factors do you consider when choosing a new bag?\n6.\nIs it important for people to have many different types of bags? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi gồm 6 câu hỏi ngắn trong khoảng 3 phút. Bạn cần phản xạ nhanh và trả lời tự nhiên như một cuộc hội thoại\nđời thường.\n• Topic A (Farming): Các câu hỏi 1–3 liên quan đến nông nghiệp, trải nghiệm ở nông trại và giáo dục về nông nghiệp.\nChủ đề này kiểm tra vốn từ về cuộc sống và khả năng nêu ý kiến xã hội.\n• Topic B (Bags): Các câu hỏi 4–6 tập trung vào việc sử dụng túi xách, lựa chọn đồ dùng cá nhân và nhu cầu trong\ncuộc sống hằng ngày.\n• Giám khảo đánh giá dựa trên độ trôi chảy, phát âm, vốn từ và khả năng phát triển ý.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo trả lời đủ ý cho cả hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng câu trả lời một cách logic.\n• Ví dụ Topic A: Yes, I have visited a farm before because my grandparents live in the countryside. I learned a lot about\ngrowing vegetables and raising animals there.\n• Ví dụ Topic B: I usually carry a backpack when I go out because it is convenient and can hold many personal items\nlike my phone and laptop.\n• Luôn tự hỏi “Why?”, “How?” hoặc “What kind?” để phát triển thêm ý.\n• Khi chuyển chủ đề, bạn có thể dùng câu như: Speaking of daily life, bags are also very important for students and\nworkers.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Hãy nói với tốc độ ổn định và dùng filler như “Actually”, “Well”, “To be honest” để tránh khoảng lặng.\n• Với Topic A, sử dụng hiện tại đơn để nói về nông nghiệp nói chung và quá khứ đơn nếu kể trải nghiệm đi nông trại.\n• Với Topic B, hiện tại đơn phù hợp để mô tả thói quen mang túi và tiêu chí lựa chọn.\n• Nếu quên từ vựng, hãy mô tả bằng chức năng hoặc đặc điểm của đồ vật.\n• Từ vựng cho Topic A: organic farming (nông nghiệp hữu cơ), raise livestock (chăn nuôi gia súc), agricultural products\n(sản phẩm nông nghiệp), countryside lifestyle (lối sống nông thôn).\n• Từ vựng cho Topic B: fashionable accessory (phụ kiện thời trang), durable material (chất liệu bền), carry essential\nitems (mang đồ dùng cần thiết), practical design (thiết kế tiện dụng).\nCụm từ quan trọng nên dùng:\n• Gain hands-on experience – Có trải nghiệm thực tế.\n• Learn about food production – Tìm hiểu về sản xuất thực phẩm.\n• Support local farmers – Hỗ trợ nông dân địa phương.\n• Carry personal belongings – Mang theo đồ dùng cá nhân.\n• Choose a bag based on quality – Chọn túi dựa trên chất lượng.\n• Suitable for different occasions – Phù hợp với nhiều dịp khác nhau.\nTừ nối khi nói (Linking Words):\n• First of all – Trước hết.\n• Besides that – Bên cạnh đó.\n• For example – Ví dụ như.\n• As a result – Kết quả là.\n• In my opinion – Theo ý kiến của tôi.\nCách thể hiện quan điểm tự nhiên:\n• I personally think children should learn basic farming skills because it helps them appreciate nature more. – Tôi nghĩ\ntrẻ em nên học kỹ năng nông nghiệp cơ bản.\n• From my point of view, farming is still an important industry in Vietnam. – Theo góc nhìn của tôi, nông nghiệp vẫn là\nngành quan trọng ở Việt Nam.\n• As far as I am concerned, visiting farms can be an educational experience for young people. – Theo tôi, tham quan\nnông trại là trải nghiệm giáo dục bổ ích.\n• I believe a good bag should be practical as well as fashionable. – Tôi tin rằng một chiếc túi tốt nên vừa tiện dụng vừa\nthời trang.\n• In my opinion, people do not need too many bags unless they use them for different purposes. – Theo tôi, mọi người\nkhông cần quá nhiều túi trừ khi dùng cho nhiều mục đích.\n• I would say quality is more important than appearance when choosing a bag. – Tôi cho rằng chất lượng quan trọng\nhơn vẻ ngoài khi chọn túi.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn và không giải thích lý do.\n• Ở Topic A, nhiều bạn chỉ kể tên loại nông nghiệp mà không nói vai trò hoặc lợi ích.\n• Ở Topic B, nhiều bạn chỉ mô tả chiếc túi mà quên nói tiêu chí lựa chọn.\n• Dùng sai thì khi kể trải nghiệm trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n• Nếu quên từ về nông nghiệp, hãy mô tả hoạt động như growing vegetables hoặc taking care of animals.\n• Ở Topic A, nếu chưa từng đến nông trại, bạn có thể nói về những gì bạn xem trên TV hoặc mạng xã hội.\n• Ở Topic B, nếu không dùng nhiều loại túi, hãy nói về chiếc túi bạn dùng thường xuyên nhất.\n6. Tư duy làm bài nói:\n• Hãy xem đây là một cuộc trò chuyện tự nhiên thay vì bài phát biểu học thuộc.\n• Khi chuyển từ chủ đề nông nghiệp sang túi xách, hãy thay đổi từ góc nhìn xã hội sang đời sống cá nhân.\n• Sự tự nhiên và rõ ràng luôn quan trọng hơn việc cố gắng dùng từ quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYour girlfriend's birthday is coming up, and you want to choose a special gift for her.\nYou are considering the following options:\n• Option 1: A handmade scrapbook containing your memories together\n• Option 2: A piece of high-quality jewelry such as a necklace or ring\n• Option 3: A romantic dinner at a luxury restaurant\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn lựa chọn món quà sinh nhật phù hợp nhất cho bạn gái.\n• Ba lựa chọn gồm quà handmade, trang sức cao cấp và bữa tối lãng mạn.\n• Giám khảo đánh giá khả năng lập luận, so sánh ưu nhược điểm và đưa ra quyết định hợp lý.\n• Thời gian khoảng 4 phút, nên dành khoảng 1 phút lập dàn ý và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction -> Comparison -> Ending để bài nói mạch lạc.\n• Option 1: Scrapbook handmade có giá trị tinh thần cao và thể hiện sự chân thành nhưng cần nhiều thời gian chuẩn\nbị.\n• Option 2: Trang sức sang trọng và có giá trị lâu dài nhưng khá đắt tiền.\n• Option 3: Bữa tối lãng mạn tạo trải nghiệm đáng nhớ nhưng chỉ mang tính ngắn hạn.\n• Hãy liên hệ với thực tế sinh viên hoặc tài chính cá nhân để lập luận tự nhiên hơn.\n• Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển giữa ưu và nhược điểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì phân tích tách biệt hoàn toàn.\n• Dùng hiện tại đơn để phân tích đặc điểm và tương lai đơn khi nói về kế hoạch sinh nhật.\n• Nếu quên từ “scrapbook”, bạn có thể nói a handmade memory book.\nCụm từ quan trọng nên dùng:\n• Show sincere feelings – Thể hiện tình cảm chân thành.\n• Create unforgettable memories – Tạo kỷ niệm khó quên.\n• Have sentimental value – Có giá trị tinh thần.\n• Luxury experience – Trải nghiệm sang trọng.\n• Worth the money – Đáng với số tiền bỏ ra.\n• Strengthen the relationship – Củng cố mối quan hệ.\nTừ nối khi nói (Linking Words):\n• First of all – Trước hết.\n• On the other hand – Mặt khác.\n• In contrast – Trái lại.\n• Moreover – Hơn nữa.\n• In conclusion – Tóm lại.\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe a handmade scrapbook is the most meaningful gift because it contains personal memories. – Tôi\ntin mạnh mẽ rằng scrapbook handmade là món quà ý nghĩa nhất.\n• Compared to jewelry, a romantic dinner creates a more memorable experience. – So với trang sức, bữa tối lãng mạn\ntạo trải nghiệm đáng nhớ hơn.\n• From my perspective, expensive gifts are not always necessary in a relationship. – Theo quan điểm của tôi, quà đắt\ntiền không phải lúc nào cũng cần thiết.\n4. Các lỗi thường gặp:\n• Chỉ tập trung nói về lựa chọn yêu thích mà không phân tích hai lựa chọn còn lại.\n• Lặp lại từ đơn giản như good hoặc beautiful quá nhiều.\n• Kết luận không rõ ràng hoặc không đưa ra quyết định cuối cùng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng liên quan đến quà tặng, hãy nói về cảm xúc hoặc giá trị tinh thần.\n• Bạn có thể dùng câu: Let's evaluate this option from another perspective.\n• Nếu bí ý ở một lựa chọn, hãy chuyển sang lựa chọn khác để duy trì độ trôi chảy.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người thực sự đang chọn quà cho người yêu thay vì cố nói quá học thuật.\n• Ngay cả với lựa chọn tốt nhất, bạn vẫn nên nhắc đến một vài hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The importance of learning English in the modern world\nAccess to global information and\nCareer opportunities and higher salary\nknowledge\nImportance of English\nÝ tưởng của bạn\nEasier travel and cultural exchange\nFOLLOW-UP QUESTIONS\n1.\nWhat is the best age to start learning a foreign language? Why?\n2.\nDo you think English will remain the most important global language in the future?\n3.\nHow has the internet changed the way people learn English?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn trình bày tầm quan trọng của việc học tiếng Anh trong xã hội hiện đại.\n• Ba nhánh chính gồm cơ hội nghề nghiệp, tiếp cận kiến thức toàn cầu và giao lưu văn hóa.\n• Nhánh cá nhân có thể phát triển thành studying abroad opportunities hoặc international communication.\n• Giám khảo đánh giá khả năng phát triển ý, tính logic và khả năng trả lời follow-up.\n• Thời gian khoảng 5 phút, nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho phần hỏi đáp.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/Conclusion để bài nói mạch lạc.\n• Ví dụ 1: Today, I would like to talk about the importance of learning English in the modern world.\n• Ví dụ 2: In addition to career opportunities, English also helps people communicate with foreigners more confidently.\n• Khi nói về nghề nghiệp, hãy đưa ví dụ như làm việc cho công ty quốc tế hoặc du học.\n• Hãy bám sát mindmap để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng cụm chuyển ý như Another important point is hoặc Moving on to the next benefit.\n• Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành để nói về tác động của toàn cầu hóa.\n• Có thể paraphrase “learning English” bằng studying a global language hoặc improving language skills.\nCụm từ quan trọng nên dùng:\n• Improve career prospects – Cải thiện cơ hội nghề nghiệp.\n• Access international knowledge – Tiếp cận kiến thức quốc tế.\n• Communicate with foreigners – Giao tiếp với người nước ngoài.\n• Study abroad opportunities – Cơ hội du học.\n• Global communication – Giao tiếp toàn cầu.\n• Develop language skills – Phát triển kỹ năng ngôn ngữ.\nTừ nối khi nói (Linking Words):\n• First of all – Trước tiên.\n• In addition – Ngoài ra.\n• For example – Ví dụ như.\n• As a result – Kết quả là.\n• Finally – Cuối cùng.\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, English is one of the most important skills in the modern world. – Theo tôi, tiếng Anh là một trong\nnhững kỹ năng quan trọng nhất hiện nay.\n• I believe learning English can open many doors for young people. – Tôi tin rằng học tiếng Anh mở ra nhiều cơ hội cho\ngiới trẻ.\n• From my perspective, the internet has made learning English much easier and more convenient. – Theo quan điểm\ncủa tôi, internet giúp việc học tiếng Anh dễ dàng hơn rất nhiều.\n4. Gợi ý trả lời câu hỏi follow-up:\n• What is the best age to start learning a foreign language? – I think children should start learning languages at a\nyoung age because they can absorb pronunciation more naturally.\n• Will English remain the most important language? – In my opinion, English will probably continue to be dominant\nbecause it is widely used in business and technology.\n• How has the internet changed English learning? – The internet provides online courses, videos and opportunities to\ncommunicate with native speakers.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích của tiếng Anh mà không giải thích hoặc đưa ví dụ.\n• Quên phát triển nhánh ý cá nhân trong mindmap.\n• Dành quá nhiều thời gian cho bài nói chính và không còn thời gian cho follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với trải nghiệm học tiếng Anh hoặc môi trường học tập thực tế.\n• Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a global perspective, English plays a major role\nnowadays.\n• Nếu quên từ học thuật, hãy dùng từ đơn giản hoặc mô tả thay thế.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ nghề nghiệp, giáo dục và giao tiếp quốc tế.\n• Tính logic và sự liên kết giữa các ý quan trọng hơn việc sử dụng từ vựng quá khó.\n• Luôn đưa ví dụ gần gũi với trải nghiệm học tập để bài nói tự nhiên và thuyết phục hơn."
+}

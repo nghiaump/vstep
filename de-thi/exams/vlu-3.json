@@ -1,0 +1,716 @@
+{
+ "id": "vlu-3",
+ "number": 3,
+ "title": "Đề thi VLU 3",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-3",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Living Through the COVID-19 Pandemic",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In early 2020, a new virus called COVID-19 began to spread around the world. Within a few months, schools closed, airports became empty, and millions of people were told to stay at home to protect themselves and others from infection. For many families, daily life changed completely, and nobody knew how long the situation would last. Governments introduced rules such as wearing masks, keeping a safe distance, and washing hands often, and these simple habits quickly became part of normal life in many countries.",
+     "Schools and offices moved online almost overnight, and people had to adapt to new ways of learning and working. Students attended lessons through video calls, and teachers sent homework by email or through learning platforms. However, not everyone had a good computer or a fast internet connection at home, so some children fell behind in their studies while others found it hard to concentrate without their classmates. Many adults also began working from home, which saved travel time but made it difficult to separate work from family life.",
+     "Doctors and nurses worked extremely long hours in hospitals, often without enough rest or equipment. Many people showed great kindness during this difficult time, for example by shopping for elderly neighbours, delivering food to families in need, or clapping from their windows to thank medical staff every evening. Scientists also worked quickly, and in less than a year several vaccines were ready for use, which was much faster than almost anyone had expected. At first, vaccines were given to older people, because **they** were at the greatest risk.",
+     "Staying at home for weeks was not easy for everyone. Many people felt lonely or worried, especially those who lived alone, and some could not visit relatives who were ill or celebrate important events such as weddings and birthdays. To **cope** with stress, many people tried new hobbies such as cooking, gardening, painting, or exercising indoors. Video calls also helped families and friends stay in touch even across different countries. Some people discovered that slower days at home gave them more time with their families, although others missed their friends and daily routines.",
+     "Today, the worst of the pandemic is over, but its effects can still be seen in many parts of daily life. Many companies now allow employees to work from home for part of the week, online shopping and video lessons have become more common, and people pay more attention to hygiene and health than before. The pandemic also taught us how important it is to support one another. Although the period was painful and many families lost loved ones, it showed that communities can stay strong when people work together and help each other. In the end, living through the pandemic changed how we think about health, work, and friendship."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "Why scientists need much more money for medical research",
+       "B": "How to cook healthy meals during a long holiday",
+       "C": "The long history of vaccines in several European countries",
+       "D": "How the pandemic changed lives around the world"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự bùng phát của virus COVID-19 và những thay đổi lớn trong đời sống; đoạn 2 nói về việc chuyển đổi học tập, làm việc trực tuyến và các khó khăn gặp phải; đoạn 3 nhắc đến sự hy sinh của đội ngũ y tế, lòng tốt của cộng đồng và sự ra đời nhanh chóng của vaccine; đoạn 4 đề cập đến những áp lực tâm lý khi ở nhà và cách mọi người thích nghi qua sở thích mới; đoạn cuối tổng kết các hệ quả và thói quen từ đại dịch vẫn tiếp tục duy trì đến hiện tại. Do đó, phương án đúng phải khái quát toàn diện việc đại dịch đã thay đổi cuộc sống trên khắp thế giới như thế nào (How the pandemic changed lives around the world), tránh chọn các đáp án phiến diện hay lệch trọng tâm."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what did governments ask people to do?",
+      "options": {
+       "A": "Close all shops and move to another country",
+       "B": "Wear masks, keep a safe distance, and wash hands",
+       "C": "Visit doctors every week to take a test",
+       "D": "Avoid all video calls with friends and family"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 1: chính phủ giới thiệu các quy tắc như đeo khẩu trang, giữ khoảng cách an toàn và thường xuyên rửa tay (Wear masks, keep a safe distance, and wash hands)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"adapt\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "adjust",
+       "B": "refuse",
+       "C": "forget",
+       "D": "complain"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"adapt\" ở đoạn 2 mô tả việc con người phải thích ứng, thay đổi cách học tập và làm việc, đồng nghĩa với \"adjust\"."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, why did some children fall behind?",
+      "options": {
+       "A": "Their teachers stopped sending any homework by email",
+       "B": "Schools closed all their buildings for the whole year",
+       "C": "They lacked a computer or internet at home",
+       "D": "Video lessons were too short to cover subjects"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2: một số trẻ em bị tụt lại phía sau vì thiếu máy tính hoặc kết nối internet tốt tại nhà (They lacked a computer or internet at home)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"cope\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "refuse",
+       "B": "borrow",
+       "C": "decide",
+       "D": "manage"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"cope\" ở đoạn 4 đi kèm với việc đối phó, xoay sở với sự căng thẳng khi ở nhà trong thời gian dài, sát nghĩa với \"manage\"."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"they\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Medical staff",
+       "B": "Older people",
+       "C": "Young children",
+       "D": "Scientists"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số nhiều \"they\" ở đoạn 3. Áp dụng quy tắc đọc ngữ cảnh xung quanh: câu văn trước nhắc đến việc vaccine được ưu tiên tiêm trước cho người lớn tuổi vì họ là nhóm có nguy cơ mắc bệnh cao nhất, quy chiếu trực tiếp đến nhóm người lớn tuổi (Older people)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, how did people show kindness?",
+      "options": {
+       "A": "They shopped for elderly neighbours and delivered food",
+       "B": "Families paid for hospital equipment in every large city",
+       "C": "Neighbours met in local parks to celebrate weddings together",
+       "D": "Students gave free lessons to their elderly neighbours online"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"showed great kindness\" ở đoạn 3: mọi người thể hiện lòng tốt bằng cách đi chợ giúp hàng xóm lớn tuổi hoặc giao thức ăn cho các gia đình cần giúp đỡ (They shopped for elderly neighbours and delivered food)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a hobby people tried?",
+      "options": {
+       "A": "Cooking new dishes for the family",
+       "B": "Growing plants in a small garden",
+       "C": "Learning to play a new musical instrument",
+       "D": "Doing physical exercises inside the house"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các sở thích được liệt kê ở đoạn 4 (nấu ăn, làm vườn, vẽ tranh, tập thể dục trong nhà), từ đó loại trừ phương án học chơi nhạc cụ mới vì chi tiết này hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about life after the pandemic?",
+      "options": {
+       "A": "Everything has now returned to exactly how it was before",
+       "B": "People no longer use video calls or the internet today",
+       "C": "Companies now refuse to let employees work from home",
+       "D": "Some habits from the pandemic period have continued today"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn cuối về cuộc sống sau đại dịch: mặc dù thời kỳ tồi tệ nhất đã qua, nhiều thói quen từ thời kỳ đại dịch như làm việc từ xa một phần hay mua sắm trực tuyến vẫn tiếp tục duy trì cho đến ngày nay (Some habits from the pandemic period have continued today)."
+     },
+     {
+      "number": 10,
+      "stem": "Why did the writer write this passage?",
+      "options": {
+       "A": "To persuade readers to travel abroad this summer",
+       "B": "To describe how the pandemic affected daily life",
+       "C": "To explain how a vaccine is made in laboratories",
+       "D": "To advertise online courses for students and teachers Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích mô tả lại những ảnh hưởng sâu rộng của đại dịch đối với đời sống hằng ngày của con người (To describe how the pandemic affected daily life)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự bùng phát của virus COVID-19 và những thay đổi lớn trong đời sống; đoạn 2 nói về việc chuyển đổi học tập, làm việc trực tuyến và các khó khăn gặp phải; đoạn 3 nhắc đến sự hy sinh của đội ngũ y tế, lòng tốt của cộng đồng và sự ra đời nhanh chóng của vaccine; đoạn 4 đề cập đến những áp lực tâm lý khi ở nhà và cách mọi người thích nghi qua sở thích mới; đoạn cuối tổng kết các hệ quả và thói quen từ đại dịch vẫn tiếp tục duy trì đến hiện tại. Do đó, phương án đúng phải khái quát toàn diện việc đại dịch đã thay đổi cuộc sống trên khắp thế giới như thế nào (How the pandemic changed lives around the world), tránh chọn các đáp án phiến diện hay lệch trọng tâm.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R1Q2**, quét thông tin ở đoạn 1: chính phủ giới thiệu các quy tắc như đeo khẩu trang, giữ khoảng cách an toàn và thường xuyên rửa tay (Wear masks, keep a safe distance, and wash hands).\n  - Với **R1Q4**, quét thông tin ở đoạn 2: một số trẻ em bị tụt lại phía sau vì thiếu máy tính hoặc kết nối internet tốt tại nhà (They lacked a computer or internet at home).\n  - Với **R1Q7**, quét từ khóa \"showed great kindness\" ở đoạn 3: mọi người thể hiện lòng tốt bằng cách đi chợ giúp hàng xóm lớn tuổi hoặc giao thức ăn cho các gia đình cần giúp đỡ (They shopped for elderly neighbours and delivered food).\n  - Với **R1Q8**, đối soát kỹ các sở thích được liệt kê ở đoạn 4 (nấu ăn, làm vườn, vẽ tranh, tập thể dục trong nhà), từ đó loại trừ phương án học chơi nhạc cụ mới vì chi tiết này hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"adapt\"** ở đoạn 2 mô tả việc con người phải thích ứng, thay đổi cách học tập và làm việc, đồng nghĩa với \"adjust\".\n  - Với **R1Q5**, từ **\"cope\"** ở đoạn 4 đi kèm với việc đối phó, xoay sở với sự căng thẳng khi ở nhà trong thời gian dài, sát nghĩa với \"manage\".\n- **Dạng câu hỏi Quy chiếu (R1Q6):** Tập trung vào đại từ nhân xưng số nhiều **\"they\"** ở đoạn 3. Áp dụng quy tắc đọc ngữ cảnh xung quanh: câu văn trước nhắc đến việc vaccine được ưu tiên tiêm trước cho người lớn tuổi vì họ là nhóm có nguy cơ mắc bệnh cao nhất, quy chiếu trực tiếp đến nhóm người lớn tuổi (Older people).\n- **Dạng câu hỏi Suy luận (R1Q9):** Kết hợp thông tin từ đoạn cuối về cuộc sống sau đại dịch: mặc dù thời kỳ tồi tệ nhất đã qua, nhiều thói quen từ thời kỳ đại dịch như làm việc từ xa một phần hay mua sắm trực tuyến vẫn tiếp tục duy trì cho đến ngày nay (Some habits from the pandemic period have continued today).\n- **Dạng câu hỏi Mục đích tác giả (R1Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích mô tả lại những ảnh hưởng sâu rộng của đại dịch đối với đời sống hằng ngày của con người (To describe how the pandemic affected daily life).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6) vì thông tin khu trú rất rõ ràng. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, hoàn thành các câu suy luận (R1Q9), mục đích tác giả (R1Q10) và ý chính (R1Q1) dựa trên tổng quan toàn bài."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Connecting Through Digital Messaging",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few inventions have changed everyday communication as dramatically as digital messaging has over the past thirty years. The first text message was sent in 1992, and today billions of messages travel across mobile networks and internet-based applications every day, linking colleagues, relatives, and complete strangers within seconds. This shift has altered not only how we talk but also when and why we choose to talk. Understanding both its benefits and its risks has become an important part of modern digital literacy.",
+     "The most obvious advantage of messaging is speed and convenience, since a note can be written in a few seconds and read whenever the recipient is free, unlike a phone call that demands attention. Messaging also makes it easier to stay in touch across different time zones. Workplace platforms allow teams to share files, hold group discussions, and solve problems in real time, which can reduce the number of formal meetings that employees must attend. Businesses use automated chatbots to answer routine customer questions at any hour, allowing human staff to concentrate on more complicated cases.",
+     "For many people, messaging is also a source of emotional support. Emojis, voice notes, and photographs allow users to express feelings that plain text might fail to convey, and shy individuals often find it easier to open up in writing than in a face-to-face conversation. Group chats also **foster** a sense of belonging among classmates, neighbours, and fans of the same hobbies. Families separated by work or migration can exchange pictures and updates every day, which helps relationships survive long distances. Younger generations, in particular, regard messaging as the natural place where friendships are built and maintained.",
+     "Nevertheless, constant connectivity has costs. Because notifications arrive at any hour, many users feel pressure to reply immediately, and research suggests that **this** contributes to stress, disturbed sleep, and difficulty concentrating on demanding tasks. Messages also lack tone of voice and facial expression, so misunderstandings occur easily. A joke that sounds friendly aloud may appear rude on a screen, and such misunderstandings can damage relationships between colleagues or friends. Moreover, the fast pace of conversation can lead people to respond emotionally rather than thoughtfully.",
+     "Privacy and security present further challenges for ordinary users and for the companies that run these services. Criminals frequently **exploit** messaging platforms to send fraudulent links that appear to come from banks or delivery companies, and elderly or inexperienced users are particularly likely to be deceived by such tricks. Even legitimate companies collect information about when, where, and how often people communicate, and critics argue that this data is rarely explained clearly to customers.",
+     "Digital messaging is therefore neither a blessing nor a threat, but a tool whose effects depend largely on the habits of those who use it and the rules set by those who provide it. Setting clear limits on notification times, for example, can protect both rest and concentration. Choosing a phone call or a meeting for sensitive topics, and checking links before opening them, can prevent many problems. Used wisely, messaging can strengthen the relationships that matter most while leaving time for the offline world."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Mobile networks have now replaced every other form of communication",
+       "B": "Digital messaging offers real benefits but also creates risks",
+       "C": "Workplace chat apps have made every formal meeting entirely unnecessary",
+       "D": "Older generations have refused to adopt messaging technology at all"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự bùng nổ của nhắn tin kỹ thuật số và tầm quan trọng của việc hiểu cả lợi ích lẫn rủi ro; đoạn 2 và 3 phân tích các ưu điểm về tốc độ, sự tiện lợi, hỗ trợ công việc và kết nối cảm xúc; đoạn 4 và 5 chỉ ra các mặt trái như áp lực phản hồi, nguy cơ hiểu lầm, vấn đề bảo mật và lừa đảo; đoạn cuối kết luận nhắn tin là công cụ mang tính hai mặt phụ thuộc vào cách sử dụng. Do đó, phương án đúng phải khái quát toàn diện việc nhắn tin kỹ thuật số mang lại lợi ích thực sự nhưng đồng thời tạo ra các rủi ro (Digital messaging offers real benefits but also creates risks), tránh chọn các đáp án phiến diện hay cực đoan."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what has digital messaging changed?",
+      "options": {
+       "A": "Which mobile networks people choose to subscribe to",
+       "B": "Where most families decide to live after retirement",
+       "C": "The age when children first learn to read",
+       "D": "How, when, and why most people choose to talk"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 1: công nghệ nhắn tin đã làm thay đổi không chỉ cách chúng ta trò chuyện mà còn cả thời điểm và lý do chúng ta chọn trò chuyện (How, when, and why most people choose to talk)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"foster\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "weaken",
+       "B": "describe",
+       "C": "promote",
+       "D": "imagine"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"foster\" ở đoạn 3 đi kèm với việc nhóm chat giúp nuôi dưỡng và tạo dựng cảm giác thuộc về nhau giữa các bạn cùng lớp, hàng xóm, đồng nghĩa với \"promote\"."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, how can messaging help shy people?",
+      "options": {
+       "A": "Writing allows them to express feelings more openly",
+       "B": "Emojis remove the need for any further written explanations",
+       "C": "Group chats introduce them to new classmates abroad",
+       "D": "Voice notes are corrected before others hear them"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"shy individuals\" ở đoạn 3: những người rụt rè thường cảm thấy dễ dàng mở lòng hơn khi viết ra thay vì trong cuộc trò chuyện trực tiếp (Writing allows them to express feelings more openly)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"exploit\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "inspect",
+       "B": "misuse",
+       "C": "reward",
+       "D": "replace"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"exploit\" ở đoạn 5 mô tả việc tội phạm lợi dụng các nền tảng nhắn tin để gửi các liên kết giả mạo, mang ý nghĩa lợi dụng, lạm dụng, sát nghĩa với \"misuse\"."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"this\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Research into sleep disorders",
+       "B": "Difficulty with demanding tasks",
+       "C": "Slow replies from colleagues",
+       "D": "Pressure to reply quickly"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định \"this\" ở đoạn 4. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ sự việc: câu trước nhắc đến việc thông báo đến bất cứ lúc nào khiến người dùng cảm thấy áp lực phải trả lời ngay lập tức, quy chiếu trực tiếp đến áp lực phải phản hồi nhanh chóng này (Pressure to reply quickly)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, how does messaging differ from a phone call?",
+      "options": {
+       "A": "Conversations are always much shorter than spoken ones",
+       "B": "Messages must be answered within a few seconds",
+       "C": "Replies can wait until recipients become available",
+       "D": "Calls cost more when people use workplace platforms"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin so sánh với cuộc gọi ở đoạn 2: tin nhắn có thể được viết trong vài giây và đọc bất cứ khi nào người nhận rảnh, không giống như cuộc gọi điện thoại đòi hỏi sự chú ý ngay lập tức (Replies can wait until recipients become available)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a drawback of constant messaging?",
+      "options": {
+       "A": "Higher monthly costs for phone contracts",
+       "B": "Disturbed sleep caused by notifications at night",
+       "C": "Misreading of jokes without tone of voice",
+       "D": "Reduced concentration on demanding work tasks"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các bất lợi của nhắn tin liên tục được liệt kê trong bài (giấc ngủ bị xáo trộn do thông báo ban đêm, hiểu nhầm các câu đùa không có ngữ điệu, giảm khả năng tập trung vào công việc), từ đó loại trừ phương án chi phí hàng tháng cao hơn cho hợp đồng điện thoại vì hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from the passage about the author's view of digital messaging?",
+      "options": {
+       "A": "Face-to-face talk will soon vanish from most everyday life",
+       "B": "Its usefulness depends mainly on how people use it",
+       "C": "Criminals have taken control of most popular messaging apps",
+       "D": "Teenagers gain far more from messaging than elderly users do"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Thái độ tác giả",
+      "explanation": "Kết hợp thông tin từ đoạn cuối về góc nhìn của tác giả: nhắn tin kỹ thuật số không phải là phúc lành hay mối họa tuyệt đối, mà là một công cụ có tác dụng phụ thuộc vào thói quen của người sử dụng (Its usefulness depends mainly on how people use it)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in writing the passage?",
+      "options": {
+       "A": "To advertise several new messaging applications for businesses",
+       "B": "To explain technically how mobile networks transmit text messages",
+       "C": "To persuade readers to stop using their phones altogether",
+       "D": "To examine the advantages and disadvantages of digital messaging Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích kiểm tra, xem xét và cân nhắc cả các ưu điểm lẫn nhược điểm của việc nhắn tin kỹ thuật số (To examine the advantages and disadvantages of digital messaging)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự bùng nổ của nhắn tin kỹ thuật số và tầm quan trọng của việc hiểu cả lợi ích lẫn rủi ro; đoạn 2 và 3 phân tích các ưu điểm về tốc độ, sự tiện lợi, hỗ trợ công việc và kết nối cảm xúc; đoạn 4 và 5 chỉ ra các mặt trái như áp lực phản hồi, nguy cơ hiểu lầm, vấn đề bảo mật và lừa đảo; đoạn cuối kết luận nhắn tin là công cụ mang tính hai mặt phụ thuộc vào cách sử dụng. Do đó, phương án đúng phải khái quát toàn diện việc nhắn tin kỹ thuật số mang lại lợi ích thực sự nhưng đồng thời tạo ra các rủi ro (Digital messaging offers real benefits but also creates risks), tránh chọn các đáp án phiến diện hay cực đoan.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R2Q2**, quét thông tin ở đoạn 1: công nghệ nhắn tin đã làm thay đổi không chỉ cách chúng ta trò chuyện mà còn cả thời điểm và lý do chúng ta chọn trò chuyện (How, when, and why most people choose to talk).\n  - Với **R2Q4**, quét từ khóa \"shy individuals\" ở đoạn 3: những người rụt rè thường cảm thấy dễ dàng mở lòng hơn khi viết ra thay vì trong cuộc trò chuyện trực tiếp (Writing allows them to express feelings more openly).\n  - Với **R2Q7**, quét thông tin so sánh với cuộc gọi ở đoạn 2: tin nhắn có thể được viết trong vài giây và đọc bất cứ khi nào người nhận rảnh, không giống như cuộc gọi điện thoại đòi hỏi sự chú ý ngay lập tức (Replies can wait until recipients become available).\n  - Với **R2Q8**, đối soát kỹ các bất lợi của nhắn tin liên tục được liệt kê trong bài (giấc ngủ bị xáo trộn do thông báo ban đêm, hiểu nhầm các câu đùa không có ngữ điệu, giảm khả năng tập trung vào công việc), từ đó loại trừ phương án chi phí hàng tháng cao hơn cho hợp đồng điện thoại vì hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"foster\"** ở đoạn 3 đi kèm với việc nhóm chat giúp nuôi dưỡng và tạo dựng cảm giác thuộc về nhau giữa các bạn cùng lớp, hàng xóm, đồng nghĩa với \"promote\".\n  - Với **R2Q5**, từ **\"exploit\"** ở đoạn 5 mô tả việc tội phạm lợi dụng các nền tảng nhắn tin để gửi các liên kết giả mạo, mang ý nghĩa lợi dụng, lạm dụng, sát nghĩa với \"misuse\".\n- **Dạng câu hỏi Quy chiếu (R2Q6):** Tập trung vào đại từ chỉ định **\"this\"** ở đoạn 4. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ sự việc: câu trước nhắc đến việc thông báo đến bất cứ lúc nào khiến người dùng cảm thấy áp lực phải trả lời ngay lập tức, quy chiếu trực tiếp đến áp lực phải phản hồi nhanh chóng này (Pressure to reply quickly).\n- **Dạng câu hỏi Suy luận (R2Q9):** Kết hợp thông tin từ đoạn cuối về góc nhìn của tác giả: nhắn tin kỹ thuật số không phải là phúc lành hay mối họa tuyệt đối, mà là một công cụ có tác dụng phụ thuộc vào thói quen của người sử dụng (Its usefulness depends mainly on how people use it).\n- **Dạng câu hỏi Mục đích tác giả (R2Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích kiểm tra, xem xét và cân nhắc cả các ưu điểm lẫn nhược điểm của việc nhắn tin kỹ thuật số (To examine the advantages and disadvantages of digital messaging).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R2Q3, R2Q5) và quy chiếu (R2Q6) vì thông tin khu trú rất rõ ràng. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, hoàn thành các câu suy luận (R2Q9), mục đích tác giả (R2Q10) và ý chính (R2Q1) dựa trên tổng quan toàn bài."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The 42-Year-Old Graduate: A Journey of Lifelong Learning",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "When Mai collected her degree at forty-two, the applause was louder than for most graduates. Her classmates were typically half her age, and many of them had never imagined that someone with a mortgage, two children, and a full-time job would choose to return to the lecture hall. Her story, which is far from unique, illustrates a quiet but important change in how societies think about education.",
+     "Mai had left school at eighteen to support her family, and for two decades she worked in administrative roles that offered security but little challenge. Then her company announced a restructuring that threatened many administrative jobs like hers. Rather than wait anxiously, she enrolled in an evening degree in business management, convinced that new qualifications would give her options she had never had.",
+     "The first months were exhausting. **[1]** She felt **daunted** by the technology and academic writing that her younger classmates seemed to master effortlessly. **[2]** After a full day at work, Mai prepared dinner, supervised her children's homework, and only then opened her own textbooks, frequently studying until after midnight. **[3]** Gradually, however, she discovered that her experience was a genuine asset, since she could connect abstract theories about management to situations she had actually lived through. **[4]**",
+     "Her experience reflects a wider trend. In many countries, the number of students over thirty-five entering higher education has risen steadily, driven by technological change, longer working lives, and the growing availability of part-time and online courses. Researchers who study adult learners often note that **they** tend to be highly motivated, since study is a deliberate personal choice rather than a response to family expectation or social pressure. However, mature students are more likely to withdraw, usually because of financial strain or conflicting responsibilities.",
+     "Looking back, Mai believes that the most valuable lesson of her degree was not a theory or a formula but the **resilience** she developed while balancing so many demands at once. She now mentors other adults who are considering a return to education after many years away. Her advice is practical: start with one module, ask for help early, and treat setbacks as information rather than failure.",
+     "Employers, too, are slowly beginning to recognise the value of mature graduates. Such graduates often combine up-to-date qualifications with practical experience, which makes them effective in roles that require judgement, communication, and the ability to work with colleagues of different ages. Universities, meanwhile, are adapting by offering flexible timetables, recorded lectures, and childcare support, although critics argue that these measures remain too limited to help adults who cannot afford to reduce their working hours.",
+     "Mai's graduation therefore represents more than one woman's personal achievement, because it challenges the assumption that education belongs to the first two decades of life and work to the decades that follow. In a rapidly changing economy where skills quickly become outdated, learning must continue throughout adulthood. Whether societies make that possible will depend on affordable courses, flexible institutions, and a willingness to see mature learners not as exceptions but as an ordinary and valuable part of education."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Universities should abolish all entry requirements for students over forty",
+       "B": "Younger graduates struggle to find jobs because employers prefer experience",
+       "C": "Part-time degrees are easier than full-time courses at most universities",
+       "D": "A mature graduate's story reflects changing attitudes to learning"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 kể về câu chuyện tốt nghiệp đại học ở tuổi 42 của Mai nhằm minh họa cho sự thay đổi trong quan niệm về giáo dục trưởng thành; đoạn 2 và 3 bàn về lý do đi học lại và những thử thách ban đầu; đoạn 4 và 5 đề cập đến xu hướng gia tăng sinh viên trưởng thành cùng những áp lực và bài học về sự kiên cường; đoạn 6 và 7 nói về sự thích ứng của doanh nghiệp và trường đại học trước xu hướng này. Do đó, phương án đúng phải khái quát toàn diện việc câu chuyện của một cử nhân trưởng thành phản ánh sự thay đổi trong thái độ đối với việc học (A mature graduate's story reflects changing attitudes to learning), tránh chọn các đáp án phiến diện hay lệch trọng tâm."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why did Mai decide to study?",
+      "options": {
+       "A": "Her company's restructuring threatened jobs similar to her own",
+       "B": "She had always dreamed of becoming a university lecturer",
+       "C": "Her children insisted that she should finally obtain a degree",
+       "D": "A generous scholarship removed every financial barrier to enrolling"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2: công ty thông báo tái cấu trúc đe dọa các công việc hành chính, khiến Mai quyết định đi học để có thêm lựa chọn (Her company's restructuring threatened jobs similar to her own)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"daunted\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "delighted",
+       "B": "intimidated",
+       "C": "amused",
+       "D": "indifferent"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"daunted\" ở đoạn 3 mô tả cảm giác e dè, lo lắng và ngợp trước công nghệ và văn phong học thuật của Mai khi mới bắt đầu, đồng nghĩa với \"intimidated\"."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a schedule left almost no time for rest, friendships, or hobbies.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'Such a schedule left almost no time for rest, friendships, or hobbies.' (Lịch trình như vậy hầu như không còn thời gian cho nghỉ ngơi, tình bạn hay sở thích). Cụm ý nghĩa mô tả lịch trình bận rộn từ sáng đến tối muộn (sau một ngày làm việc, nấu ăn, kèm con học và tự học đến sau nửa đêm) được miêu tả chi tiết ngay trước ô [3]. Do đó, vị trí thích hợp nhất để điền câu này là ngay sau miêu tả đó, tức là tại ô [3]."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, why do mature students often withdraw?",
+      "options": {
+       "A": "Their academic ability is lower than younger students'",
+       "B": "Most universities refuse to accept students above thirty-five",
+       "C": "Online courses are less popular than traditional lecture programmes",
+       "D": "Money worries and competing duties make continuing difficult for them"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về lý do sinh viên lớn tuổi bỏ học ở đoạn 4: những lo lắng về tài chính và các trách nhiệm chồng chéo khiến việc tiếp tục trở nên khó khăn (Money worries and competing duties make continuing difficult for them)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"they\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Adult learners",
+       "B": "Researchers",
+       "C": "Younger students",
+       "D": "Family members"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số nhiều \"they\" ở đầu câu của đoạn 4. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ đối tượng: câu trước nhắc đến các nhà nghiên cứu nghiên cứu về người học trưởng thành (adult learners), quy chiếu trực tiếp đến nhóm người học này (Adult learners)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"resilience\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "financial security",
+       "B": "mental toughness",
+       "C": "academic ambition",
+       "D": "technical knowledge"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"resilience\" ở đoạn 5 chỉ sự kiên cường, khả năng chịu đựng và vượt qua áp lực khi vừa đi làm, vừa chăm con vừa học tập, sát nghĩa với tinh thần thép, sự vững vàng tương đương \"mental toughness\"."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way universities are adapting?",
+      "options": {
+       "A": "Offering timetables that suit working students",
+       "B": "Recording lectures so that students can watch later",
+       "C": "Reducing tuition fees for every mature applicant",
+       "D": "Providing childcare support for parents who study"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các cách trường đại học đang thích ứng được liệt kê ở đoạn 6 (cung cấp thời gian biểu linh hoạt, quay lại bài giảng, hỗ trợ giữ trẻ), từ đó loại trừ phương án giảm học phí cho mọi ứng viên trưởng thành vì chi tiết này hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4 to 7 about mature learners?",
+      "options": {
+       "A": "Every mature student will inevitably withdraw without direct financial assistance",
+       "B": "Mature learners are less capable than younger students at academic study",
+       "C": "Flexible timetables alone have already solved the difficulties adult learners face",
+       "D": "Many capable mature learners may leave unless barriers are reduced"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 4 đến đoạn 7 về người học trưởng thành: mặc dù có nhiều động lực, họ phải đối mặt với nhiều rào cản như tài chính hay trách nhiệm gia đình, suy luận được rằng nhiều học viên trưởng thành năng lực có thể phải bỏ dở trừ khi các rào cản này được giảm bớt (Many capable mature learners may leave unless barriers are reduced)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To use one graduate's experience to examine adult education",
+       "B": "To advise young people to delay entering university",
+       "C": "To compare tuition fees across several European countries",
+       "D": "To criticise employers for ignoring older job applicants Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích dùng trải nghiệm thực tế của một cử nhân để khảo sát và bàn luận sâu hơn về giáo dục người trưởng thành (To use one graduate's experience to examine adult education)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 kể về câu chuyện tốt nghiệp đại học ở tuổi 42 của Mai nhằm minh họa cho sự thay đổi trong quan niệm về giáo dục trưởng thành; đoạn 2 và 3 bàn về lý do đi học lại và những thử thách ban đầu; đoạn 4 và 5 đề cập đến xu hướng gia tăng sinh viên trưởng thành cùng những áp lực và bài học về sự kiên cường; đoạn 6 và 7 nói về sự thích ứng của doanh nghiệp và trường đại học trước xu hướng này. Do đó, phương án đúng phải khái quát toàn diện việc câu chuyện của một cử nhân trưởng thành phản ánh sự thay đổi trong thái độ đối với việc học (A mature graduate's story reflects changing attitudes to learning), tránh chọn các đáp án phiến diện hay lệch trọng tâm.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R3Q2**, quét thông tin ở đoạn 2: công ty thông báo tái cấu trúc đe dọa các công việc hành chính, khiến Mai quyết định đi học để có thêm lựa chọn (Her company's restructuring threatened jobs similar to her own).\n  - Với **R3Q5**, quét thông tin về lý do sinh viên lớn tuổi bỏ học ở đoạn 4: những lo lắng về tài chính và các trách nhiệm chồng chéo khiến việc tiếp tục trở nên khó khăn (Money worries and competing duties make continuing difficult for them).\n  - Với **R3Q8**, đối soát kỹ các cách trường đại học đang thích ứng được liệt kê ở đoạn 6 (cung cấp thời gian biểu linh hoạt, quay lại bài giảng, hỗ trợ giữ trẻ), từ đó loại trừ phương án giảm học phí cho mọi ứng viên trưởng thành vì chi tiết này hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"daunted\"** ở đoạn 3 mô tả cảm giác e dè, lo lắng và ngợp trước công nghệ và văn phong học thuật của Mai khi mới bắt đầu, đồng nghĩa với \"intimidated\".\n  - Với **R3Q7**, từ **\"resilience\"** ở đoạn 5 chỉ sự kiên cường, khả năng chịu đựng và vượt qua áp lực khi vừa đi làm, vừa chăm con vừa học tập, sát nghĩa với tinh thần thép, sự vững vàng tương đương \"mental toughness\".\n- **Dạng câu hỏi Điền câu vào đoạn văn (R3Q4):** Đọc kỹ câu cần chèn: 'Such a schedule left almost no time for rest, friendships, or hobbies.' (Lịch trình như vậy hầu như không còn thời gian cho nghỉ ngơi, tình bạn hay sở thích). Cụm ý nghĩa mô tả lịch trình bận rộn từ sáng đến tối muộn (sau một ngày làm việc, nấu ăn, kèm con học và tự học đến sau nửa đêm) được miêu tả chi tiết ngay trước ô **[3]**. Do đó, vị trí thích hợp nhất để điền câu này là ngay sau miêu tả đó, tức là tại ô **[3]**.\n- **Dạng câu hỏi Quy chiếu (R3Q6):** Tập trung vào đại từ nhân xưng số nhiều **\"they\"** ở đầu câu của đoạn 4. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ đối tượng: câu trước nhắc đến các nhà nghiên cứu nghiên cứu về người học trưởng thành (adult learners), quy chiếu trực tiếp đến nhóm người học này (Adult learners).\n- **Dạng câu hỏi Suy luận (R3Q9):** Kết hợp thông tin từ đoạn 4 đến đoạn 7 về người học trưởng thành: mặc dù có nhiều động lực, họ phải đối mặt với nhiều rào cản như tài chính hay trách nhiệm gia đình, suy luận được rằng nhiều học viên trưởng thành năng lực có thể phải bỏ dở trừ khi các rào cản này được giảm bớt (Many capable mature learners may leave unless barriers are reduced).\n- **Dạng câu hỏi Mục đích tác giả (R3Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích dùng trải nghiệm thực tế của một cử nhân để khảo sát và bàn luận sâu hơn về giáo dục người trưởng thành (To use one graduate's experience to examine adult education).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R3Q3, R3Q7), câu điền đoạn (R3Q4) và quy chiếu (R3Q6) vì thông tin khu trú rất rõ ràng. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R3Q2, R3Q5, R3Q8). Cuối cùng, hoàn thành các câu suy luận (R3Q9), mục đích tác giả (R3Q10) và ý chính (R3Q1) dựa trên tổng quan toàn bài."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Modern Youth Fashion: A Reflection of Identity",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Clothing has never been merely a matter of protection from the weather. For young people in particular, what they wear functions as a visible statement about who they are, which groups they belong to, and which values they wish to project to a watching world. Fashion scholars therefore treat youth style as a revealing record of social change rather than a frivolous pastime.",
+     "Distinct youth styles first emerged in the twentieth century, when postwar prosperity gave teenagers spending money and a market of their own, and fashion became a way of separating them from their parents. Leather jackets, denim, punk safety pins, and hip-hop sportswear each began as symbols of rebellion or belonging. Many of these styles were later absorbed by mainstream retailers, which illustrates how quickly commerce can turn dissent into a product. Each generation, in other words, has used clothing to claim a place in the cultural landscape.",
+     "Today, social media has accelerated this cycle dramatically, since smartphones are **ubiquitous** and images circulate instantly. **[1]** A style can spread from a single teenager's video to millions of viewers within days, and retailers using real-time sales data can design, manufacture, and market imitations within a few weeks. **[2]** This model, known as fast fashion, depends on constant novelty and low prices. **[3]** Critics argue that it encourages young consumers to discard garments after only a few wearings, generating textile waste on a scale that the environment cannot easily absorb. **[4]**",
+     "Yet it would be wrong to see young people as passive victims of marketing. Many deliberately mix second-hand garments, handmade items, and designer pieces to create combinations that no retailer sells, and online resale platforms have made this kind of creative customisation easier and cheaper than ever. Style also allows young people to experiment with identity safely, trying out different versions of themselves before committing to adult roles, which psychologists regard as a normal part of adolescence. Others use social media not to follow trends but to document personal projects, such as customising jackets or restoring vintage shoes, and to share techniques with distant communities of enthusiasts.",
+     "One notable feature of contemporary youth fashion is its tendency to subvert traditional boundaries, as gender-neutral collections, oversized tailoring, and cross-cultural influences challenge older assumptions about what people should wear. Such experimentation is not always welcomed, and some schools and employers still enforce strict dress codes. Cultural borrowing raises another dilemma, since wearing traditional garments from another community without understanding their meaning can appear disrespectful, even when the intention is admiration.",
+     "A growing number of young consumers are now responding to these ethical and environmental concerns. Second-hand shopping, clothes swaps, and repair workshops have gained popularity, and surveys suggest that younger shoppers are more willing to pay extra for sustainable materials, although stated intentions do not always match actual purchases. This gap between attitude and behaviour is partly explained by price, since genuinely sustainable clothing often costs considerably more than **its** mass-produced equivalent.",
+     "Modern youth fashion is therefore best understood not as frivolous consumption but as a language through which a generation negotiates identity, belonging, and responsibility in a world shaped by commerce, technology, and environmental anxiety. Its meanings are rarely simple, however, and they are easily distorted by commercial pressure. The challenge for young people, and for the industry that serves them, is to preserve creativity and individuality while reducing the social and environmental costs of constantly changing styles."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Youth fashion expresses identity but raises commercial and ethical questions",
+       "B": "Social media has destroyed every genuine form of youth creativity",
+       "C": "Schools should enforce uniform dress codes to protect traditional values",
+       "D": "Second-hand clothing has now completely replaced fast fashion among teenagers"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu thời trang giới trẻ như một tấm gương phản chiếu sự thay đổi xã hội; đoạn 2 nói về sự bùng nổ phong cách thời trang từ thời kỳ hậu chiến; đoạn 3 và 4 đề cập đến tốc độ lan truyền nhờ mạng xã hội, mô hình thời trang nhanh (fast fashion) và sự sáng tạo đa dạng của giới trẻ; đoạn 5 bàn về việc phá vỡ các ranh giới truyền thống; đoạn 6 nhắc đến những lo ngại về đạo đức, môi trường và khoảng cách giữa ý định bền vững với thực tế mua sắm; đoạn cuối kết luận thời trang giới trẻ thể hiện bản sắc cá nhân nhưng đồng thời đặt ra nhiều câu hỏi thương mại và đạo đức. Do đó, phương án đúng phải khái quát toàn diện việc thời trang giới trẻ thể hiện bản sắc nhưng đồng thời làm dấy lên các vấn đề thương mại và đạo đức (Youth fashion expresses identity but raises commercial and ethical questions), tránh chọn các đáp án cực đoan hay lệch trọng tâm."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what made distinct youth styles possible?",
+      "options": {
+       "A": "Government campaigns encouraged teenagers to reject their parents' clothing",
+       "B": "Mainstream retailers invented rebellious styles before teenagers adopted them",
+       "C": "Postwar prosperity gave teenagers spending money and their own market",
+       "D": "New fabrics made leather and denim cheaper to manufacture"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2: sự thịnh vượng thời kỳ hậu chiến đã mang lại cho thanh thiếu niên tiền tiêu vặt và một thị trường của riêng họ (Postwar prosperity gave teenagers spending money and their own market)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"ubiquitous\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "fashionable",
+       "B": "widespread",
+       "C": "reliable",
+       "D": "unaffordable"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ubiquitous\" ở đoạn 3 mô tả việc điện thoại thông minh xuất hiện ở khắp mọi nơi, đồng nghĩa với \"widespread\"."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such waste is rarely visible to the shoppers who contribute to it.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'Such waste is rarely visible to the shoppers who contribute to it.' (Lượng rác thải như vậy hiếm khi hiển thị rõ trước những người mua sắm góp phần tạo ra nó). Cụm ý nghĩa mô tả về lượng rác thải dệt may khổng lồ do thời trang nhanh tạo ra được nhắc đến ngay trước ô [4]. Do đó, vị trí thích hợp nhất để điền câu này là ngay sau câu đó, tức là tại ô [4]."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, why do psychologists regard experimenting with style as normal?",
+      "options": {
+       "A": "It lets adolescents try out identities before taking adult roles",
+       "B": "Peer groups require every member to dress identically",
+       "C": "Teachers can then assess pupils' personalities more accurately",
+       "D": "Self-made clothing proves that young people dislike all commerce"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về lý do nhà tâm lý học coi việc thử nghiệm phong cách là bình thường ở đoạn 4: nó cho phép thanh thiếu niên thử nghiệm các bản ngã/danh tính trước khi bước vào các vai trò người lớn (It lets adolescents try out identities before taking adult roles)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"its\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Second-hand shopping",
+       "B": "Mass-produced fashion",
+       "C": "Sustainable clothing",
+       "D": "Online resale platforms"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ sở hữu \"its\" ở đoạn 6. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ sở hữu: câu văn nhắc đến quần áo bền vững (sustainable clothing) và so sánh giá của nó với các sản phẩm sản xuất hàng loạt tương đương, quy chiếu trực tiếp đến quần áo bền vững này (Sustainable clothing)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"subvert\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "defend",
+       "B": "overturn",
+       "C": "imitate",
+       "D": "advertise"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a response to concerns about fast fashion?",
+      "options": {
+       "A": "Organising clothes swaps with friends and neighbours",
+       "B": "Attending local workshops where damaged garments are repaired",
+       "C": "Paying more for clothing made from sustainable materials",
+       "D": "Boycotting platforms that promote every new trend"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các phản ứng đối phó với mối lo ngại về thời trang nhanh được liệt kê trong đoạn 6 (tổ chức trao đổi quần áo, tham gia hội thảo sửa chữa quần áo, trả nhiều tiền hơn cho vật liệu bền vững), từ đó loại trừ phương án tẩy chay các nền tảng quảng bá xu hướng mới vì chi tiết này hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about young consumers?",
+      "options": {
+       "A": "Their ethical intentions may be limited by cost and rapid trends",
+       "B": "They will inevitably abandon fast fashion once cheaper alternatives become widely available",
+       "C": "All teenagers regard sustainable clothing as more fashionable than second-hand items",
+       "D": "Fast fashion exists mainly because young people demand constantly changing styles"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 3, 4 và 6 về người tiêu dùng trẻ tuổi: mặc dù có ý thức và thiện chí về đạo đức, những dự định này đôi khi bị giới hạn bởi giá cả đắt đỏ và sức hút của các xu hướng thời trang nhanh (Their ethical intentions may be limited by cost and rapid trends)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To recommend several particular clothing brands to teenage online consumers worldwide",
+       "B": "To prove that fast fashion is the cause of social change",
+       "C": "To analyse what youth fashion reveals about identity and society",
+       "D": "To trace the economic history of the global textile industry"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích phân tích những gì thời trang giới trẻ có thể tiết lộ về bản sắc cá nhân và bối cảnh xã hội (To analyse what youth fashion reveals about identity and society)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu thời trang giới trẻ như một tấm gương phản chiếu sự thay đổi xã hội; đoạn 2 nói về sự bùng nổ phong cách thời trang từ thời kỳ hậu chiến; đoạn 3 và 4 đề cập đến tốc độ lan truyền nhờ mạng xã hội, mô hình thời trang nhanh (fast fashion) và sự sáng tạo đa dạng của giới trẻ; đoạn 5 bàn về việc phá vỡ các ranh giới truyền thống; đoạn 6 nhắc đến những lo ngại về đạo đức, môi trường và khoảng cách giữa ý định bền vững với thực tế mua sắm; đoạn cuối kết luận thời trang giới trẻ thể hiện bản sắc cá nhân nhưng đồng thời đặt ra nhiều câu hỏi thương mại và đạo đức. Do đó, phương án đúng phải khái quát toàn diện việc thời trang giới trẻ thể hiện bản sắc nhưng đồng thời làm dấy lên các vấn đề thương mại và đạo đức (Youth fashion expresses identity but raises commercial and ethical questions), tránh chọn các đáp án cực đoan hay lệch trọng tâm.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R4Q2**, quét thông tin ở đoạn 2: sự thịnh vượng thời kỳ hậu chiến đã mang lại cho thanh thiếu niên tiền tiêu vặt và một thị trường của riêng họ (Postwar prosperity gave teenagers spending money and their own market).\n  - Với **R4Q5**, quét thông tin về lý do nhà tâm lý học coi việc thử nghiệm phong cách là bình thường ở đoạn 4: nó cho phép thanh thiếu niên thử nghiệm các bản ngã/danh tính trước khi bước vào các vai trò người lớn (It lets adolescents try out identities before taking adult roles).\n  - Với **R4Q8**, đối soát kỹ các phản ứng đối phó với mối lo ngại về thời trang nhanh được liệt kê trong đoạn 6 (tổ chức trao đổi quần áo, tham gia hội thảo sửa chữa quần áo, trả nhiều tiền hơn cho vật liệu bền vững), từ đó loại trừ phương án tẩy chay các nền tảng quảng bá xu hướng mới vì chi tiết này hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"ubiquitous\"** ở đoạn 3 mô tả việc điện thoại thông minh xuất hiện ở khắp mọi nơi, đồng nghĩa với \"widespread\".\n  - With **R4Q7**, từ **\"subvert\"** ở đoạn 5 chỉ xu hướng thách thức, lật đổ các giả định cũ về trang phục, sát nghĩa với \"overturn\".\n- **Dạng câu hỏi Điền câu vào đoạn văn (R4Q4):** Đọc kỹ câu cần chèn: 'Such waste is rarely visible to the shoppers who contribute to it.' (Lượng rác thải như vậy hiếm khi hiển thị rõ trước những người mua sắm góp phần tạo ra nó). Cụm ý nghĩa mô tả về lượng rác thải dệt may khổng lồ do thời trang nhanh tạo ra được nhắc đến ngay trước ô **[4]**. Do đó, vị trí thích hợp nhất để điền câu này là ngay sau câu đó, tức là tại ô **[4]**.\n- **Dạng câu hỏi Quy chiếu (R4Q6):** Tập trung vào đại từ sở hữu **\"its\"** ở đoạn 6. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ sở hữu: câu văn nhắc đến quần áo bền vững (sustainable clothing) và so sánh giá của nó với các sản phẩm sản xuất hàng loạt tương đương, quy chiếu trực tiếp đến quần áo bền vững này (Sustainable clothing).\n- **Dạng câu hỏi Suy luận (R4Q9):** Kết hợp thông tin từ đoạn 3, 4 và 6 về người tiêu dùng trẻ tuổi: mặc dù có ý thức và thiện chí về đạo đức, những dự định này đôi khi bị giới hạn bởi giá cả đắt đỏ và sức hút của các xu hướng thời trang nhanh (Their ethical intentions may be limited by cost and rapid trends).\n- **Dạng câu hỏi Mục đích tác giả (R4Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích phân tích những gì thời trang giới trẻ có thể tiết lộ về bản sắc cá nhân và bối cảnh xã hội (To analyse what youth fashion reveals about identity and society).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R4Q3, R4Q7), câu điền đoạn (R4Q4) và quy chiếu (R4Q6) vì thông tin khu trú rất rõ ràng. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R4Q2, R4Q5, R4Q8). Cuối cùng, hoàn thành các câu suy luận (R4Q9), mục đích tác giả (R4Q10) và ý chính (R4Q1) dựa trên tổng quan toàn bài."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. Your English friend, Mark, lived in your neighborhood for six months and has just finished writing a local guidebook.\nHe sent you a draft to get your feedback. Read part of his email below.\nI've finally finished the first draft of my guidebook about your area! Since you live there, I'd love to hear your thoughts.\n- What did you like most about the book?\n- Is there any information that is incorrect and needs fixing?\n- Do you have any suggestions for what else I should include?\nWrite an email responding to Mark. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. Your English friend, Mark, lived in your neighborhood for six months and has just finished writing a local guidebook.",
+      "He sent you a draft to get your feedback. Read part of his email below."
+     ],
+     "quote": [
+      "I've finally finished the first draft of my guidebook about your area! Since you live there, I'd love to hear your thoughts.",
+      "- What did you like most about the book?",
+      "- Is there any information that is incorrect and needs fixing?",
+      "- Do you have any suggestions for what else I should include?"
+     ],
+     "instruction": "Write an email responding to Mark. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Dạng đề: Informal Email (Thư thân mật) phản hồi và góp ý.\n- Nhiệm vụ: Khen ngợi điểm tốt của cuốn sách, chỉ ra lỗi sai cần sửa và đề xuất thêm nội dung mới.\n- Yêu cầu: Viết tối thiểu 120 từ, giữ giọng văn khích lệ nhưng trung thực.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Dear Mark, / Hi Mark,\n- **Opening:** Chúc mừng bạn đã hoàn thành bản thảo và cảm ơn vì đã gửi cho mình xem. Ví dụ: \"Congratulations on finishing your guidebook! I was really excited to read it.\"\n- **Body 1:** Nêu điểm thích nhất (ví dụ: hình ảnh đẹp, gợi ý quán ăn địa phương).\n- **Body 2:** Chỉ ra thông tin sai (ví dụ: tên đường, giờ mở cửa của một địa danh).\n- **Body 3:** Đề xuất thêm nội dung (ví dụ: một số lễ hội nhỏ hoặc mẹo đi lại bằng xe bus).\n- **Closing:** Chúc cuốn sách thành công và ký tên.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn cho các nhận xét và Hiện tại hoàn thành để nói về trải nghiệm đọc sách.\n- Sử dụng các cấu trúc góp ý lịch sự: \"I noticed a small error...\", \"It might be better if...\", \"I'd suggest adding...\".\n- Tránh lặp lại từ \"book\" bằng các từ như \"guidebook\", \"draft\", \"work\", \"manuscript\".\n- Đảm bảo tính mạch lạc bằng các từ nối bổ sung ý và chuyển ý.\nTừ vựng quan trọng:\n- **Guidebook / Manual:** Sách hướng dẫn\n- **First-hand experience:** Trải nghiệm thực tế\n- **Inaccurate information:** Thông tin không chính xác\n- **Hidden gems:** Những địa điểm đẹp ít người biết\n- **Local insights:** Hiểu biết địa phương\n- **Up-to-date:** Cập nhật (thông tin)\nTừ nối (Linking words):\n- **To begin with:** Để bắt đầu\n- **Regarding:** Liên quan đến\n- **Apart from that:** Ngoài điều đó ra\n- **Moreover:** Hơn nữa\n- **In conclusion:** Tóm lại\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I was impressed by...:** Mình bị ấn tượng bởi...\n- **To be honest, I think...:** Thành thật mà nói, mình nghĩ...\n- **I hope you find this helpful:** Hy vọng bạn thấy những góp ý này hữu ích\n\n**4. Các lỗi thường gặp:**\n- Quên không nhắc đến việc người bạn đã từng ở đó 6 tháng (mất đi sự kết nối ngữ cảnh).\n- Chỉ khen mà không chỉ ra lỗi sai hoặc đề xuất (không làm đủ yêu cầu đề bài).\n- Dùng ngôn ngữ quá cứng nhắc như viết báo cáo chuyên môn.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem các ý kiến đóng góp có rõ ràng không.\n- Đảm bảo đã trả lời đủ 3 dấu gạch đầu dòng của đề bài.\n\n**6. Tư duy làm bài:**\n- Hãy đặt mình là một người dân địa phương đang giúp đỡ bạn mình hoàn thiện một sản phẩm tốt nhất.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nThe rise of digital technology has fundamentally changed how we consume information, with online reading becoming a dominant habit for many people.\nWhile reading online provides instant access to a vast amount of resources, it also brings certain challenges compared to traditional reading.\nDiscuss the advantages and disadvantages of online reading based on your own knowledge and experience. Write an essay to an educated reader to discuss the advantages and disadvantages of online reading. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "The rise of digital technology has fundamentally changed how we consume information, with online reading becoming a dominant habit for many people.",
+      "While reading online provides instant access to a vast amount of resources, it also brings certain challenges compared to traditional reading.",
+      "Discuss the advantages and disadvantages of online reading based on your own knowledge and experience."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages and disadvantages of online reading. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Advantages and Disadvantages (Ưu điểm và Nhược điểm).\n- Chủ đề: Đọc trực tuyến (Online reading).\n- Nhiệm vụ: Phân tích hai mặt của vấn đề và kết hợp với kinh nghiệm cá nhân.\n- Độ dài tối thiểu: 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Dẫn dắt về sự chuyển dịch từ đọc sách giấy sang đọc trực tuyến và nêu khái quát hai mặt của xu hướng này.\n- **Body 1 (Advantages):** Sự tiện lợi, kho tàng thông tin khổng lồ, tiết kiệm chi phí và tính tương tác (tra từ điển nhanh, chia sẻ). Ví dụ: \"From my experience, I can access thousands of e-books instantly with just a smartphone.\"\n- **Body 2 (Disadvantages):** Vấn đề sức khỏe (mỏi mắt), sự xao nhãng (thông báo mạng xã hội), thông tin không kiểm chứng. Ví dụ: \"However, constant notifications can interrupt the deep reading process.\"\n- **Conclusion:** Tổng kết lại và đưa ra quan điểm cá nhân về việc cân bằng giữa đọc online và đọc truyền thống.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn và Hiện tại hoàn thành để nói về thói quen hiện tại.\n- Sử dụng các cụm từ kết nối trải nghiệm cá nhân: \"In my own experience...\", \"Speaking from personal knowledge...\", \"I have found that...\".\n- Sử dụng từ vựng học thuật liên quan đến công nghệ và giáo dục.\n- Phát triển ý: Nêu ưu/nhược điểm -> Giải thích tác động -> Đưa ra ví dụ từ chính trải nghiệm của mình.\nTừ vựng quan trọng:\n- **Digital platforms:** Các nền tảng số\n- **Instant accessibility:** Khả năng tiếp cận tức thì\n- **Eye strain:** Mỏi mắt\n- **Information overload:** Quá tải thông tin\n- **Portable:** Tiện lợi, dễ mang theo\n- **Reliability:** Độ tin cậy\nTừ nối (Linking words):\n- **On the positive side:** Về mặt tích cực\n- **In addition to this:** Thêm vào đó\n- **Nevertheless:** Tuy nhiên\n- **For instance:** Ví dụ\n- **Consequently:** Hậu quả là\n- **All things considered:** Sau khi cân nhắc mọi thứ\nDiễn đạt lại ý (Paraphrasing):\n- **Consuming digital content:** Thay cho \"online reading\".\n- **Electronic resources:** Thay cho \"online materials\".\n- **Traditional printed books:** Thay cho \"paper books\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **Compared to traditional reading...:** So với việc đọc truyền thống...\n- **I am inclined to believe that...:** Tôi có xu hướng tin rằng...\n- **A notable drawback is...:** Một nhược điểm đáng chú ý là...\n\n**4. Các lỗi thường gặp:**\n- Quên không lồng ghép \"knowledge and experience\" (chỉ viết lý thuyết suông).\n- Không chia đoạn rõ ràng giữa ưu điểm và nhược điểm.\n- Dùng quá nhiều câu đơn làm bài viết thiếu tính chuyên nghiệp.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã có ví dụ thực tế chưa.\n- Rà soát lỗi chính tả và các liên từ chuyển đoạn.\n\n**6. Tư duy làm bài:**\n- Hãy nhìn nhận việc đọc online như một phần tất yếu của cuộc sống hiện đại và phân tích nó một cách khách quan dựa trên những gì bạn thực sự trải qua hàng ngày."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about restaurants\n\n1\nHow often do you go to a restaurant to eat?\n2\nWhat do you like most about eating at a restaurant?\n3\nDo you prefer traditional restaurants or modern ones? Why?\n\nNow, let’s talk about the Internet\n\n4\nHow often do you use the internet in your daily life?\n5\nWhat are the main things you do when you are online?\n6\nDo you think being online too much has any negative effects? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 gồm 6 câu hỏi ngắn trong khoảng 3 phút. Bạn cần trả lời tự nhiên, rõ ràng và có giải thích ngắn gọn.\n- **Topic A (Restaurants):** Câu hỏi 1–3 tập trung vào thói quen đi nhà hàng, trải nghiệm ăn uống và sở thích giữa nhà hàng truyền thống với hiện đại.\n- **Topic B (Internet):** Câu hỏi 4–6 nói về việc sử dụng Internet, hoạt động online hằng ngày và tác động tiêu cực của việc online quá nhiều.\n- Giám khảo đánh giá khả năng phản xạ giao tiếp, phát âm, độ lưu loát và vốn từ vựng.\n- Nên dành khoảng 25–35 giây cho mỗi câu trả lời để cân bằng thời gian giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer -> Reason -> Example để phát triển ý ở mức B1/B2.\n- **Ví dụ Topic A:** I usually go to restaurants once a week because I enjoy trying different dishes with my friends. For example, we often eat hotpot together on weekends.\n- **Ví dụ Topic B:** I use the internet every day for studying, entertainment and communication. For instance, I often search for information and chat with my classmates online.\n- Luôn tự hỏi Why? hoặc How? để mở rộng câu trả lời thay vì chỉ nói một câu ngắn.\n- Khi chuyển chủ đề, bạn có thể dùng câu như: Besides eating habits, the internet is also an important part of modern life.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và tránh khoảng lặng quá dài khi suy nghĩ.\n- Với Topic A, hãy dùng hiện tại đơn để nói về thói quen và sở thích ăn uống.\n- Với Topic B, có thể dùng hiện tại tiếp diễn hoặc hiện tại hoàn thành để nói về thay đổi trong việc sử dụng Internet.\n- Nếu quên từ vựng, hãy dùng cách diễn đạt đơn giản hơn thay vì dừng lại.\n- Từ vựng Topic A: dine out (ăn ngoài), delicious cuisine (ẩm thực ngon), cozy atmosphere (không gian ấm cúng), customer service (dịch vụ khách hàng).\n- Từ vựng Topic B: browse the internet (lướt Internet), social networking sites (mạng xã hội), online addiction (nghiện online), digital communication (giao tiếp kỹ thuật số).\nCụm từ quan trọng nên dùng:\n- enjoy trying different dishes – thích thử nhiều món ăn khác nhau\n- spend time with friends and family – dành thời gian với bạn bè và gia đình\n- prefer traditional food and decoration – thích đồ ăn và cách trang trí truyền thống\n- use the internet for both study and entertainment – sử dụng Internet cho học tập và giải trí\n- stay connected with other people online – giữ liên lạc với người khác qua mạng\n- spend too much time on social media – dành quá nhiều thời gian cho mạng xã hội\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Besides that – bên cạnh đó\n- For example – ví dụ\n- However – tuy nhiên\n- As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n- Personally, I enjoy eating at restaurants because it is relaxing and convenient. – Cá nhân tôi thích ăn ở nhà hàng vì nó thư giãn và tiện lợi.\n- In my opinion, traditional restaurants have a more authentic atmosphere. – Theo tôi, nhà hàng truyền thống có không khí chân thực hơn.\n- I would say modern restaurants are more comfortable and stylish. – Tôi cho rằng nhà hàng hiện đại thoải mái và đẹp hơn.\n- To be honest, I cannot imagine my life without the internet. – Thành thật mà nói tôi không thể tưởng tượng cuộc sống thiếu Internet.\n- From my perspective, using the internet too much can affect mental health. – Theo quan điểm của tôi, dùng Internet quá nhiều có thể ảnh hưởng sức khỏe tinh thần.\n- I believe online learning has become more important in recent years. – Tôi tin rằng học trực tuyến ngày càng quan trọng trong những năm gần đây.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời Yes hoặc No mà không giải thích thêm là lỗi phổ biến nhất.\n- Ở Topic A, nhiều bạn chỉ kể tên món ăn hoặc nhà hàng mà không nói lý do yêu thích.\n- Ở Topic B, nhiều bạn lặp lại từ internet hoặc online quá nhiều thay vì paraphrase.\n- Dùng sai thì khi nói về thói quen sử dụng Internet.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng filler như: That is an interesting question, let me think for a second.\n- Nếu quên từ vựng, hãy mô tả chức năng hoặc ví dụ thay thế.\n- Ở Topic A, nếu quên tên món ăn, hãy mô tả hương vị hoặc nguyên liệu.\n- Ở Topic B, nếu quên thuật ngữ công nghệ, hãy dùng từ đơn giản như online activities hoặc websites.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem Part 1 như một cuộc trò chuyện hằng ngày với giám khảo.\n- Khi chuyển từ chủ đề ăn uống sang Internet, hãy thay đổi ý tưởng rõ ràng để tránh bị lặp.\n- Sự tự nhiên và lưu loát quan trọng hơn việc cố dùng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou want to buy a book as a gift for your nephew and you are considering three options.\n\nYou are considering the following options:\n\nOption 1: An adventure book\nOption 2: A fiction book\nOption 3: A non-fiction book\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đề bài yêu cầu bạn lựa chọn loại sách phù hợp nhất để làm quà tặng cho cháu trai.\n- Bạn cần phân tích ưu và nhược điểm của cả ba lựa chọn trước khi đưa ra quyết định cuối cùng.\n- Giám khảo đánh giá khả năng so sánh, lập luận logic và diễn đạt ý kiến cá nhân.\n- Thời gian làm bài khoảng 4 phút nên cần trình bày rõ ràng và có kết luận cụ thể.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để bài nói logic hơn.\n- Option 1 giúp trẻ phát triển trí tưởng tượng và tạo cảm giác hồi hộp khi đọc.\n- Option 2 mang tính giải trí cao và thường phù hợp với nhiều độ tuổi.\n- Option 3 giúp trẻ học thêm kiến thức thực tế nhưng có thể hơi khô khan với trẻ nhỏ.\n- Hãy liên hệ với độ tuổi và sở thích của cháu trai để làm bài nói tự nhiên hơn.\n- Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển ý chuyên nghiệp hơn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì phân tích từng option tách biệt hoàn toàn.\n- Dùng hiện tại đơn để nói lợi ích chung của từng loại sách.\n- Nếu quên từ vựng, hãy dùng cách diễn đạt đơn giản như exciting story hoặc educational book.\nCụm từ quan trọng nên dùng:\n- develop creativity and imagination – phát triển sự sáng tạo và trí tưởng tượng\n- encourage children to read more – khuyến khích trẻ đọc sách nhiều hơn\n- learn useful knowledge from books – học kiến thức hữu ích từ sách\n- capture a child's attention easily – dễ dàng thu hút sự chú ý của trẻ\n- improve reading habits – cải thiện thói quen đọc sách\n- suitable for young readers – phù hợp với độc giả nhỏ tuổi\nTừ nối khi nói (Linking Words):\n- First of all – trước tiên\n- In addition – thêm vào đó\n- On the other hand – mặt khác\n- For example – ví dụ\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I personally think an adventure book is the best choice because children usually enjoy exciting stories. – Cá nhân tôi nghĩ sách phiêu lưu là lựa chọn tốt nhất vì trẻ em thường thích những câu chuyện hấp dẫn.\n- Compared to non-fiction books, fiction books are more entertaining for young readers. – So với sách phi hư cấu, sách hư cấu giải trí hơn với trẻ nhỏ.\n- In my opinion, books should be both educational and enjoyable. – Theo tôi, sách nên vừa mang tính giáo dục vừa thú vị.\n\n**4. Các lỗi thường gặp:**\n- Nhiều bạn chỉ nói về lựa chọn mình thích mà quên phân tích hai lựa chọn còn lại.\n- Lặp lại từ good hoặc interesting quá nhiều thay vì dùng educational, exciting hoặc imaginative.\n- Kết luận không rõ ràng nên thiếu tính thuyết phục.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng, hãy chuyển sang nói về cảm xúc hoặc lợi ích của việc đọc sách.\n- Bạn có thể dùng câu: Let's consider this option from a different perspective để có thêm thời gian suy nghĩ.\n- Nếu bị bí ở một lựa chọn, hãy chuyển sang option khác rồi quay lại sau.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người lớn đang chọn món quà thực sự phù hợp cho trẻ em.\n- Ngay cả với lựa chọn tốt nhất, bạn vẫn nên đề cập hạn chế nhỏ để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of staying calm in difficult situations\n\nStaying Calm\nThink clearly and make better decisions\nReduce stress and improve health\nMaintain good relationships with others\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think older people are better at staying calm than younger people?\n2\nWhat are some effective ways to stay calm in a stressful situation?\n3\nWhy do some people find it difficult to control their emotions?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về tầm quan trọng của việc giữ bình tĩnh trong những tình huống khó khăn.\n- Sơ đồ tư duy gồm 3 ý chính: suy nghĩ rõ ràng hơn, giảm căng thẳng và duy trì mối quan hệ tốt với người khác.\n- Nhánh ý tưởng cá nhân có thể là improving work performance hoặc solving conflicts effectively.\n- Giám khảo đánh giá khả năng phát triển ý, sử dụng ví dụ và trả lời câu hỏi follow-up.\n- Thời gian khoảng 5 phút nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho phần hỏi đáp.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để phát triển từng ý trong mindmap.\n- **Ví dụ 1:** Today, I would like to talk about why staying calm is important in difficult situations.\n- **Ví dụ 2:** Another important benefit of staying calm is that it helps people solve conflicts peacefully.\n- Hãy sử dụng ví dụ thực tế như áp lực thi cử, công việc hoặc mâu thuẫn với bạn bè.\n- Đi theo sơ đồ tư duy để tránh nói lan man hoặc lặp ý.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng câu chuyển ý như Moving on to another benefit hoặc Another thing worth mentioning is.\n- Dùng hiện tại đơn để nói lợi ích chung và hiện tại hoàn thành khi nói về trải nghiệm cá nhân.\n- Có thể paraphrase staying calm bằng remaining relaxed, controlling emotions hoặc keeping a clear mind.\nCụm từ quan trọng nên dùng:\n- make rational decisions – đưa ra quyết định hợp lý\n- control emotions effectively – kiểm soát cảm xúc hiệu quả\n- reduce pressure and anxiety – giảm áp lực và lo âu\n- handle difficult situations more successfully – xử lý tình huống khó khăn thành công hơn\n- maintain positive relationships – duy trì các mối quan hệ tích cực\n- improve mental and physical health – cải thiện sức khỏe tinh thần và thể chất\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- In addition – thêm vào đó\n- For example – ví dụ\n- As a result – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, staying calm is one of the most important life skills. – Theo tôi, giữ bình tĩnh là một trong những kỹ năng sống quan trọng nhất.\n- I personally believe calm people can solve problems more effectively. – Cá nhân tôi tin rằng người bình tĩnh có thể giải quyết vấn đề hiệu quả hơn.\n- From my perspective, emotional control helps people communicate better with others. – Theo quan điểm của tôi, kiểm soát cảm xúc giúp giao tiếp tốt hơn.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- Do you think older people are better at staying calm? – Yes, because older people usually have more life experience and emotional control.\n- What are some effective ways to stay calm? – People can take deep breaths, listen to music or think carefully before reacting.\n- Why do some people find it difficult to control emotions? – Because they may experience stress, pressure or lack communication skills.\n\n**5. Các lỗi thường gặp:**\n- Nhiều bạn chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ minh họa.\n- Quên phát triển nhánh ý tưởng cá nhân nên bài nói thiếu chiều sâu.\n- Nói quá dài ở phần main speech khiến không còn thời gian cho follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với trải nghiệm cá nhân trong học tập hoặc công việc.\n- Bạn có thể dùng câu: That is a complex issue. If we look at it from a psychological perspective để có thêm thời gian suy nghĩ.\n- Nếu quên từ vựng chuyên ngành, hãy dùng cách diễn đạt đơn giản hơn.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ từ góc nhìn thực tế của cuộc sống hằng ngày và các mối quan hệ xã hội.\n- Sự logic và mạch lạc giữa các ý quan trọng hơn việc cố dùng quá nhiều từ khó.\n- Giữ giọng điệu bình tĩnh và tự nhiên cũng giúp bài nói thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 4 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about restaurants.\n1.\nHow often do you go to a restaurant to eat?\n2.\nWhat do you like most about eating at a restaurant?\n3.\nDo you prefer traditional restaurants or modern ones? Why?\nNow, let’s talk about the Internet.\n4.\nHow often do you use the internet in your daily life?\n5.\nWhat are the main things you do when you are online?\n6.\nDo you think being online too much has any negative effects? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 gồm 6 câu hỏi ngắn trong khoảng 3 phút. Bạn cần trả lời tự nhiên, rõ ràng và có giải thích ngắn gọn.\n• Topic A (Restaurants): Câu hỏi 1–3 tập trung vào thói quen đi nhà hàng, trải nghiệm ăn uống và sở thích giữa nhà\nhàng truyền thống với hiện đại.\n• Topic B (Internet): Câu hỏi 4–6 nói về việc sử dụng Internet, hoạt động online hằng ngày và tác động tiêu cực của\nviệc online quá nhiều.\n• Giám khảo đánh giá khả năng phản xạ giao tiếp, phát âm, độ lưu loát và vốn từ vựng.\n• Nên dành khoảng 25–35 giây cho mỗi câu trả lời để cân bằng thời gian giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer -> Reason -> Example để phát triển ý ở mức B1/B2.\n• Ví dụ Topic A: I usually go to restaurants once a week because I enjoy trying different dishes with my friends. For\nexample, we often eat hotpot together on weekends.\n• Ví dụ Topic B: I use the internet every day for studying, entertainment and communication. For instance, I often search\nfor information and chat with my classmates online.\n• Luôn tự hỏi Why? hoặc How? để mở rộng câu trả lời thay vì chỉ nói một câu ngắn.\n• Khi chuyển chủ đề, bạn có thể dùng câu như: Besides eating habits, the internet is also an important part of modern\nlife.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và tránh khoảng lặng quá dài khi suy nghĩ.\n• Với Topic A, hãy dùng hiện tại đơn để nói về thói quen và sở thích ăn uống.\n• Với Topic B, có thể dùng hiện tại tiếp diễn hoặc hiện tại hoàn thành để nói về thay đổi trong việc sử dụng Internet.\n• Nếu quên từ vựng, hãy dùng cách diễn đạt đơn giản hơn thay vì dừng lại.\n• Từ vựng Topic A: dine out (ăn ngoài), delicious cuisine (ẩm thực ngon), cozy atmosphere (không gian ấm cúng),\ncustomer service (dịch vụ khách hàng).\n• Từ vựng Topic B: browse the internet (lướt Internet), social networking sites (mạng xã hội), online addiction (nghiện\nonline), digital communication (giao tiếp kỹ thuật số).\nCụm từ quan trọng nên dùng:\n• enjoy trying different dishes – thích thử nhiều món ăn khác nhau\n• spend time with friends and family – dành thời gian với bạn bè và gia đình\n• prefer traditional food and decoration – thích đồ ăn và cách trang trí truyền thống\n• use the internet for both study and entertainment – sử dụng Internet cho học tập và giải trí\n• stay connected with other people online – giữ liên lạc với người khác qua mạng\n• spend too much time on social media – dành quá nhiều thời gian cho mạng xã hội\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Besides that – bên cạnh đó\n• For example – ví dụ\n• However – tuy nhiên\n• As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n• Personally, I enjoy eating at restaurants because it is relaxing and convenient. – Cá nhân tôi thích ăn ở nhà hàng vì\nnó thư giãn và tiện lợi.\n• In my opinion, traditional restaurants have a more authentic atmosphere. – Theo tôi, nhà hàng truyền thống có không\nkhí chân thực hơn.\n• I would say modern restaurants are more comfortable and stylish. – Tôi cho rằng nhà hàng hiện đại thoải mái và đẹp\nhơn.\n• To be honest, I cannot imagine my life without the internet. – Thành thật mà nói tôi không thể tưởng tượng cuộc sống\nthiếu Internet.\n• From my perspective, using the internet too much can affect mental health. – Theo quan điểm của tôi, dùng Internet\nquá nhiều có thể ảnh hưởng sức khỏe tinh thần.\n• I believe online learning has become more important in recent years. – Tôi tin rằng học trực tuyến ngày càng quan\ntrọng trong những năm gần đây.\n4. Các lỗi thường gặp:\n• Chỉ trả lời Yes hoặc No mà không giải thích thêm là lỗi phổ biến nhất.\n• Ở Topic A, nhiều bạn chỉ kể tên món ăn hoặc nhà hàng mà không nói lý do yêu thích.\n• Ở Topic B, nhiều bạn lặp lại từ internet hoặc online quá nhiều thay vì paraphrase.\n• Dùng sai thì khi nói về thói quen sử dụng Internet.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng filler như: That is an interesting question, let me think for a second.\n• Nếu quên từ vựng, hãy mô tả chức năng hoặc ví dụ thay thế.\n• Ở Topic A, nếu quên tên món ăn, hãy mô tả hương vị hoặc nguyên liệu.\n• Ở Topic B, nếu quên thuật ngữ công nghệ, hãy dùng từ đơn giản như online activities hoặc websites.\n6. Tư duy làm bài nói:\n• Hãy xem Part 1 như một cuộc trò chuyện hằng ngày với giám khảo.\n• Khi chuyển từ chủ đề ăn uống sang Internet, hãy thay đổi ý tưởng rõ ràng để tránh bị lặp.\n• Sự tự nhiên và lưu loát quan trọng hơn việc cố dùng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYou want to buy a book as a gift for your nephew and you are considering three options.\nYou are considering the following options:\n• Option 1: An adventure book\n• Option 2: A fiction book\n• Option 3: A non-fiction book\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đề bài yêu cầu bạn lựa chọn loại sách phù hợp nhất để làm quà tặng cho cháu trai.\n• Bạn cần phân tích ưu và nhược điểm của cả ba lựa chọn trước khi đưa ra quyết định cuối cùng.\n• Giám khảo đánh giá khả năng so sánh, lập luận logic và diễn đạt ý kiến cá nhân.\n• Thời gian làm bài khoảng 4 phút nên cần trình bày rõ ràng và có kết luận cụ thể.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để bài nói logic hơn.\n• Option 1 giúp trẻ phát triển trí tưởng tượng và tạo cảm giác hồi hộp khi đọc.\n• Option 2 mang tính giải trí cao và thường phù hợp với nhiều độ tuổi.\n• Option 3 giúp trẻ học thêm kiến thức thực tế nhưng có thể hơi khô khan với trẻ nhỏ.\n• Hãy liên hệ với độ tuổi và sở thích của cháu trai để làm bài nói tự nhiên hơn.\n• Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển ý chuyên nghiệp hơn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì phân tích từng option tách biệt hoàn toàn.\n• Dùng hiện tại đơn để nói lợi ích chung của từng loại sách.\n• Nếu quên từ vựng, hãy dùng cách diễn đạt đơn giản như exciting story hoặc educational book.\nCụm từ quan trọng nên dùng:\n• develop creativity and imagination – phát triển sự sáng tạo và trí tưởng tượng\n• encourage children to read more – khuyến khích trẻ đọc sách nhiều hơn\n• learn useful knowledge from books – học kiến thức hữu ích từ sách\n• capture a child's attention easily – dễ dàng thu hút sự chú ý của trẻ\n• improve reading habits – cải thiện thói quen đọc sách\n• suitable for young readers – phù hợp với độc giả nhỏ tuổi\nTừ nối khi nói (Linking Words):\n• First of all – trước tiên\n• In addition – thêm vào đó\n• On the other hand – mặt khác\n• For example – ví dụ\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I personally think an adventure book is the best choice because children usually enjoy exciting stories. – Cá nhân tôi\nnghĩ sách phiêu lưu là lựa chọn tốt nhất vì trẻ em thường thích những câu chuyện hấp dẫn.\n• Compared to non-fiction books, fiction books are more entertaining for young readers. – So với sách phi hư cấu, sách\như cấu giải trí hơn với trẻ nhỏ.\n• In my opinion, books should be both educational and enjoyable. – Theo tôi, sách nên vừa mang tính giáo dục vừa thú\nvị.\n4. Các lỗi thường gặp:\n• Nhiều bạn chỉ nói về lựa chọn mình thích mà quên phân tích hai lựa chọn còn lại.\n• Lặp lại từ good hoặc interesting quá nhiều thay vì dùng educational, exciting hoặc imaginative.\n• Kết luận không rõ ràng nên thiếu tính thuyết phục.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng, hãy chuyển sang nói về cảm xúc hoặc lợi ích của việc đọc sách.\n• Bạn có thể dùng câu: Let's consider this option from a different perspective để có thêm thời gian suy nghĩ.\n• Nếu bị bí ở một lựa chọn, hãy chuyển sang option khác rồi quay lại sau.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người lớn đang chọn món quà thực sự phù hợp cho trẻ em.\n• Ngay cả với lựa chọn tốt nhất, bạn vẫn nên đề cập hạn chế nhỏ để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: The importance of staying calm in difficult situations\nThink clearly and make better decisions\nReduce stress and improve health\nStaying Calm\nÝ tưởng của bạn\nMaintain good relationships with others\nFOLLOW-UP QUESTIONS\n1.\nDo you think older people are better at staying calm than younger people?\n2.\nWhat are some effective ways to stay calm in a stressful situation?\n3.\nWhy do some people find it difficult to control their emotions?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về tầm quan trọng của việc giữ bình tĩnh trong những tình huống khó khăn.\n• Sơ đồ tư duy gồm 3 ý chính: suy nghĩ rõ ràng hơn, giảm căng thẳng và duy trì mối quan hệ tốt với người khác.\n• Nhánh ý tưởng cá nhân có thể là improving work performance hoặc solving conflicts effectively.\n• Giám khảo đánh giá khả năng phát triển ý, sử dụng ví dụ và trả lời câu hỏi follow-up.\n• Thời gian khoảng 5 phút nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho phần hỏi đáp.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để phát triển từng ý trong mindmap.\n• Ví dụ 1: Today, I would like to talk about why staying calm is important in difficult situations.\n• Ví dụ 2: Another important benefit of staying calm is that it helps people solve conflicts peacefully.\n• Hãy sử dụng ví dụ thực tế như áp lực thi cử, công việc hoặc mâu thuẫn với bạn bè.\n• Đi theo sơ đồ tư duy để tránh nói lan man hoặc lặp ý.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng câu chuyển ý như Moving on to another benefit hoặc Another thing worth mentioning is.\n• Dùng hiện tại đơn để nói lợi ích chung và hiện tại hoàn thành khi nói về trải nghiệm cá nhân.\n• Có thể paraphrase staying calm bằng remaining relaxed, controlling emotions hoặc keeping a clear mind.\nCụm từ quan trọng nên dùng:\n• make rational decisions – đưa ra quyết định hợp lý\n• control emotions effectively – kiểm soát cảm xúc hiệu quả\n• reduce pressure and anxiety – giảm áp lực và lo âu\n• handle difficult situations more successfully – xử lý tình huống khó khăn thành công hơn\n• maintain positive relationships – duy trì các mối quan hệ tích cực\n• improve mental and physical health – cải thiện sức khỏe tinh thần và thể chất\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• In addition – thêm vào đó\n• For example – ví dụ\n• As a result – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, staying calm is one of the most important life skills. – Theo tôi, giữ bình tĩnh là một trong những kỹ\nnăng sống quan trọng nhất.\n• I personally believe calm people can solve problems more effectively. – Cá nhân tôi tin rằng người bình tĩnh có thể\ngiải quyết vấn đề hiệu quả hơn.\n• From my perspective, emotional control helps people communicate better with others. – Theo quan điểm của tôi,\nkiểm soát cảm xúc giúp giao tiếp tốt hơn.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do you think older people are better at staying calm? – Yes, because older people usually have more life experience\nand emotional control.\n• What are some effective ways to stay calm? – People can take deep breaths, listen to music or think carefully before\nreacting.\n• Why do some people find it difficult to control emotions? – Because they may experience stress, pressure or lack\ncommunication skills.\n5. Các lỗi thường gặp:\n• Nhiều bạn chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ minh họa.\n• Quên phát triển nhánh ý tưởng cá nhân nên bài nói thiếu chiều sâu.\n• Nói quá dài ở phần main speech khiến không còn thời gian cho follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với trải nghiệm cá nhân trong học tập hoặc công việc.\n• Bạn có thể dùng câu: That is a complex issue. If we look at it from a psychological perspective để có thêm thời gian\nsuy nghĩ.\n• Nếu quên từ vựng chuyên ngành, hãy dùng cách diễn đạt đơn giản hơn.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ từ góc nhìn thực tế của cuộc sống hằng ngày và các mối quan hệ xã hội.\n• Sự logic và mạch lạc giữa các ý quan trọng hơn việc cố dùng quá nhiều từ khó.\n• Giữ giọng điệu bình tĩnh và tự nhiên cũng giúp bài nói thuyết phục hơn."
+}

@@ -1,0 +1,717 @@
+{
+ "id": "vlu-13",
+ "number": 13,
+ "title": "Đề thi VLU 13",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-13",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Growing Challenge of Obesity",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Obesity has become one of the most serious health problems in the world today. A person is described as obese when excess body fat is so high that it begins to harm their health, and the number of people affected has risen sharply over the past fifty years. Experts often measure obesity using body mass index, a number calculated from a person's height and weight. Because the problem develops slowly, many families do not notice it until a doctor mentions it. Both adults and children are now at risk, even in countries that once struggled with hunger.",
+     "Experts believe that several connected causes explain this worrying trend around the world. Modern diets contain far more sugar, fat, and salt than they did in the past, and fast food is cheap, tasty, and available almost everywhere. At the same time, many people sit for most of the day, whether at a desk, in a car, or in front of a screen. Sleep also matters, because tired people tend to choose sugary snacks to gain quick energy. Doctors point out that people who **consume** more energy than the body uses will gain weight.",
+     "Obesity is dangerous because it increases the risk of many other illnesses. People who carry too much weight are more likely to suffer from diabetes, heart disease, and high blood pressure, and **they** may also have difficulty breathing or moving comfortably. Mental health can be affected as well, since some children are teased at school and feel ashamed of their bodies. Overweight teenagers frequently become overweight adults, which makes early action especially important. In addition, treating these conditions costs governments large amounts of money every year.",
+     "Fortunately, obesity can often be **prevented** if families, schools, and governments act together. Parents can offer more fruit and vegetables at home and limit sugary drinks, while schools can provide healthier lunches and more time for sport and play. Some governments have introduced taxes on sweet drinks and clearer labels on food, so that shoppers can see how much sugar a product contains. Cooking at home more often is another useful habit, because home meals usually contain less salt and oil than restaurant food. Small changes such as walking to work or taking the stairs also help people stay active without spending any money.",
+     "In conclusion, obesity is a complex problem that has no quick or simple solution. However, every person can make healthier choices, and communities can make those choices easier. By eating sensibly, staying active, and supporting good policies, societies can protect the health of future generations and reduce the pressure on hospitals and on family budgets in every country. Every small improvement counts, and even modest weight loss can bring real benefits to the heart and joints."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "How hospitals train doctors to treat heart disease",
+       "B": "Why governments should close all fast food shops",
+       "C": "How schools in Asia teach students about sport",
+       "D": "The causes, dangers, and prevention of obesity"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why do many people gain weight?",
+      "options": {
+       "A": "Their jobs force them to lift heavy objects daily",
+       "B": "They eat sugary food and sit for long hours",
+       "C": "They drink too little water during the hot season",
+       "D": "Most doctors advise them to avoid regular exercise"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"gain weight\" ở đoạn 2 để xác định nguyên nhân do ăn đồ ngọt, béo và ngồi nhiều giờ."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"consume\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "eat or drink",
+       "B": "buy or sell",
+       "C": "cook or store",
+       "D": "waste or throw"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"consume\" ở đoạn 2 đặt trong vế so sánh năng lượng cơ thể dung nạp và tiêu hao, dùng để chỉ hành động ăn hoặc uống (eat or drink)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, why may some children feel ashamed?",
+      "options": {
+       "A": "Teachers refuse to let them join sports",
+       "B": "Parents cannot afford new school uniforms",
+       "C": "Classmates tease them about their bodies",
+       "D": "They struggle to understand lessons in class"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"ashamed\" ở đoạn 4 để nhận diện lý do trẻ em cảm thấy tự ti do bị bạn bè trêu chọc về ngoại hình."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"prevented\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "increased",
+       "B": "stopped",
+       "C": "measured",
+       "D": "ignored"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"prevented\" ở đoạn 4 đi kèm với hành động chung tay của gia đình, nhà trường và chính phủ để ngăn chặn tình trạng béo phì (stopped)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"they\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Young children",
+       "B": "Family doctors",
+       "C": "Local governments",
+       "D": "Overweight people"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng \"they\" ở câu thứ hai của đoạn 3. Đọc lùi lại câu trước để tìm đối tượng đang mang trọng lượng cơ thể quá mức và có nguy cơ cao mắc bệnh tiểu đường, tim mạch (những người thừa cân - overweight people)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, how do some governments try to reduce sugar intake?",
+      "options": {
+       "A": "They tax sweet drinks and improve labelling",
+       "B": "They ban all restaurants from selling any dessert",
+       "C": "They close schools during the hottest summer months",
+       "D": "They give free sports shoes to every family"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm từ khóa \"tax sweet drinks\" hoặc \"governments\" ở đoạn 4 để thấy cách chính phủ đánh thuế đồ uống có đường và cải thiện nhãn mác thực phẩm."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT suggested to help prevent obesity?",
+      "options": {
+       "A": "Offering more fruit and vegetables at home",
+       "B": "Providing healthier lunches in schools daily",
+       "C": "Banning every food that contains some fat",
+       "D": "Choosing to walk instead of taking taxis"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng lựa chọn với các giải pháp phòng ngừa được đề cập tại đoạn 4 (tăng cường rau củ quả, bữa trưa lành mạnh ở trường, đi bộ thay vì đi xe), từ đó loại bỏ phương án cực đoan không có trong bài (cấm mọi thực phẩm chứa chất béo)."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about the writer's attitude to obesity?",
+      "options": {
+       "A": "It is only a problem for rich countries",
+       "B": "It is a serious problem that needs shared action",
+       "C": "It cannot be solved by changing daily habits",
+       "D": "It is mostly caused by genetic bad luck"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận thái độ",
+      "type": "Thái độ tác giả",
+      "explanation": "Tổng hợp toàn bộ văn bản để thấy tác giả nhấn mạnh vào việc cần có sự phối hợp hành động từ nhiều phía (gia đình, nhà trường, chính phủ) nhằm đối phó với một vấn đề nghiêm trọng toàn cầu. Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi chi tiết (R1Q2, R1Q4, R1Q7, R1Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, thái độ và mục đích (R1Q1, R1Q9, R1Q10)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To explain the causes and prevention of obesity",
+       "B": "To persuade people to open new fast food restaurants",
+       "C": "To describe how doctors perform surgery on young patients",
+       "D": "To compare obesity rates in several Asian countries today Reading"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R1Q1, R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc phần mở đầu và kết bài để nắm bắt luận điểm trung tâm: béo phì là một vấn đề sức khỏe nghiêm trọng toàn cầu xuất phát từ nhiều nguyên nhân (chế độ ăn, lối sống tĩnh tại), mang lại nhiều hệ lụy nguy hiểm, và cần sự chung tay giải quyết từ gia đình, nhà trường cùng chính phủ. Do đó, phương án đúng phải bao quát trọn vẹn ba khía cạnh nguyên nhân, tác hại và giải pháp phòng ngừa.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q2**, tìm từ khóa \"gain weight\" ở đoạn 2 để xác định nguyên nhân do ăn đồ ngọt, béo và ngồi nhiều giờ.\n  - Với **R1Q4**, quét từ khóa \"ashamed\" ở đoạn 4 để nhận diện lý do trẻ em cảm thấy tự ti do bị bạn bè trêu chọc về ngoại hình.\n  - Với **R1Q7**, tìm kiếm từ khóa \"tax sweet drinks\" hoặc \"governments\" ở đoạn 4 để thấy cách chính phủ đánh thuế đồ uống có đường và cải thiện nhãn mác thực phẩm.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"consume\"** ở đoạn 2 đặt trong vế so sánh năng lượng cơ thể dung nạp và tiêu hao, dùng để chỉ hành động ăn hoặc uống (eat or drink).\n  - Với **R1Q5**, từ **\"prevented\"** ở đoạn 4 đi kèm với hành động chung tay của gia đình, nhà trường và chính phủ để ngăn chặn tình trạng béo phì (stopped).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ nhân xưng **\"they\"** ở câu thứ hai của đoạn 3. Đọc lùi lại câu trước để tìm đối tượng đang mang trọng lượng cơ thể quá mức và có nguy cơ cao mắc bệnh tiểu đường, tim mạch (những người thừa cân - overweight people).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối chiếu từng lựa chọn với các giải pháp phòng ngừa được đề cập tại đoạn 4 (tăng cường rau củ quả, bữa trưa lành mạnh ở trường, đi bộ thay vì đi xe), từ đó loại bỏ phương án cực đoan không có trong bài (cấm mọi thực phẩm chứa chất béo).\n- **Dạng câu hỏi Suy luận thái độ (R1Q9):** Tổng hợp toàn bộ văn bản để thấy tác giả nhấn mạnh vào việc cần có sự phối hợp hành động từ nhiều phía (gia đình, nhà trường, chính phủ) nhằm đối phó với một vấn đề nghiêm trọng toàn cầu. Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi chi tiết (R1Q2, R1Q4, R1Q7, R1Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, thái độ và mục đích (R1Q1, R1Q9, R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Literary World of Nguyen Nhat Anh",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few contemporary Vietnamese writers command the loyalty that Nguyen Nhat Anh inspires among readers of several generations. Born in 1955 in the central province of Quang Nam, he worked as a teacher and journalist before **devoting** himself to fiction, and his books, which are described as bestsellers, have been reprinted repeatedly. His simple, warm style has made him one of the best-selling authors in the country. His name is now familiar to schoolchildren and grandparents alike.",
+     "His fiction concentrates on childhood and adolescence, the period when friendships, rivalries, and first loves seem to shape a person's entire future. Rather than preach, he writes in a gentle, humorous voice that treats young characters as thinking individuals, and this approach explains why parents and children often read his novels together. Nostalgia is therefore central to the emotional appeal of his best known stories.",
+     "Several of his best known titles illustrate the range of his imagination. Dreamy Eyes, first published in 1990, follows a boy's lifelong and largely unspoken love for a neighbour. Give Me a Ticket to Childhood, published in 2008, invites adult readers to revisit their own early years, while the long-running Kaleidoscope series offers episodic adventures of schoolchildren. Although the stories differ in setting, they share a conviction that childhood experiences leave a permanent mark on adult life.",
+     "Critics have not always agreed about the literary value of his simple, sentimental stories. Some academics argue that his plots are predictable and that his adult characters are sketched too lightly, whereas admirers reply that simplicity is a deliberate choice that makes serious emotions accessible. Teachers, too, have occasionally debated whether his novels belong on school reading lists. Whatever position one takes, his consistent popularity is **undeniable**.",
+     "His influence, however, extends well beyond the shelves of bookshops and libraries. Film and television adaptations, among them Yellow Flowers on the Green Grass and Dreamy Eyes, have introduced his stories to cinema audiences, many of **whom** then sought out the original books. Publishers have therefore kept many of his older titles in print for decades. Some commentators believe this cycle between page and screen has strengthened the habit of reading among young people, although evidence for such a claim is difficult to measure.",
+     "Language is another important source of his appeal to readers across the country. His prose uses everyday vocabulary and regional expressions, which gives dialogue a natural rhythm and conveys the atmosphere of small towns and village streets that many urban readers remember only from their own childhoods. Readers often mention that his sentences sound like ordinary conversation rather than literary writing. Translations have also begun to reach readers abroad, although translating humour and local references remains a considerable challenge.",
+     "Nguyen Nhat Anh's achievement therefore lies less in formal innovation than in sustained emotional honesty. By taking young people's experiences seriously, and by inviting adults to remember their own, he has built a readership that crosses age, region, and social class. Whether future critics rank him among the great Vietnamese novelists or simply among its most beloved storytellers, his work already occupies a lasting place in the country's cultural memory."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "His novels are mostly translated for readers living abroad",
+       "B": "Critics unanimously agree that his writing lacks emotional depth",
+       "C": "Film adaptations have replaced printed books as his main audience",
+       "D": "Nguyen Nhat Anh's childhood stories have earned enduring popularity"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why do parents and children often read his novels together?",
+      "options": {
+       "A": "His books contain detailed lessons about school examinations",
+       "B": "He writes gently and treats young characters as individuals",
+       "C": "Teachers require families to discuss each chapter at home",
+       "D": "The novels are cheaper than other books for children"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"parents and children\" ở đoạn 2 để xác định lý do phụ huynh và trẻ em cùng đọc truyện nhờ giọng văn nhẹ nhàng, hài hước và xem nhân vật trẻ thơ như những cá thể có suy nghĩ độc lập."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"devoting\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "forgetting",
+       "B": "borrowing",
+       "C": "dedicating",
+       "D": "painting"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"devoting\" ở đoạn 1 đi kèm với hành trình gác lại công việc dạy học, làm báo để cống hiến trọn vẹn cho tiểu thuyết (dedicating)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what is the Kaleidoscope series mainly about?",
+      "options": {
+       "A": "Separate adventures of a group of schoolchildren",
+       "B": "A boy's lifelong devotion to a neighbour",
+       "C": "Adults who return to villages of their youth",
+       "D": "Teachers who travel to several remote provinces"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Ý chính",
+      "explanation": "quét từ khóa \"Kaleidoscope\" ở đoạn 3 để nhận diện nội dung xoay quanh những cuộc phiêu lưu ngẫu hứng, rời rạc của một nhóm học sinh."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"undeniable\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "difficult to explain",
+       "B": "quick to disappear",
+       "C": "hard to predict",
+       "D": "impossible to dispute"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"undeniable\" ở đoạn 4 đứng trong ngữ cảnh dù giới hàn lâm tranh cãi nhưng độ phủ sóng và sự đón nhận của công chúng là không thể chối cãi (impossible to dispute)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"whom\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Original authors",
+       "B": "Cinema audiences",
+       "C": "Film directors",
+       "D": "Bookshop owners"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng \"whom\" ở đoạn 5. Hãy đọc lùi lại danh từ chỉ người đứng trước giới từ để tìm đối tượng khán giả đến rạp xem phim chuyển thể (khán giả điện ảnh - cinema audiences)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what makes translating his work difficult?",
+      "options": {
+       "A": "Foreign publishers refuse to print long novels",
+       "B": "His vocabulary is too advanced for most translators",
+       "C": "Humour and local references are hard to convey",
+       "D": "Few readers abroad are interested in childhood"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm từ khóa \"translating his work\" ở đoạn 6 để thấy khó khăn lớn nhất nằm ở việc truyền tải sự hài hước và các yếu tố mang tính tham chiếu địa phương, văn hóa vùng miền."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT stated about adaptations?",
+      "options": {
+       "A": "Their influence on reading is proven conclusively",
+       "B": "They introduced his stories to cinema audiences",
+       "C": "Many viewers then sought out the original books",
+       "D": "Some commentators link them to young people's reading"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng lựa chọn với đoạn 5 về các bộ phim chuyển thể (giới thiệu câu chuyện đến khán giả, nhiều người tìm đọc nguyên tác, một số nhà bình luận liên kết chúng với thói quen đọc sách), từ đó loại bỏ phương án khẳng định ảnh hưởng đến việc đọc đã được chứng minh một cách thuyết phục (trong bài nêu rõ bằng chứng này rất khó đo lường)."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 2, 4, and 6 about the reasons for his popularity?",
+      "options": {
+       "A": "Readers prefer writers who criticise their own parents",
+       "B": "Popularity depends mainly on translation into foreign languages",
+       "C": "Academic approval drives most readers to choose novels",
+       "D": "Plain language and familiar feelings win readers across generations"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2, 4 và 6 về việc sử dụng ngôn từ đời thường gần gũi, cảm xúc hoài niệm chân thực giúp tác phẩm chinh phục mọi lứa tuổi, tầng lớp xã hội."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that all children should read fewer novels",
+       "B": "To introduce an author and explain his appeal",
+       "C": "To compare Vietnamese novels with European fiction today",
+       "D": "To advertise a new film adaptation of a novel Reading"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R2Q1, R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn mở đầu và đoạn kết để nắm bắt luận điểm trung tâm: bài viết giới thiệu sự nghiệp, phong cách sáng tác viết về tuổi thơ đầy cảm xúc và sức hút bền bỉ qua nhiều thế hệ độc giả của nhà văn Nguyễn Nhật Ánh. Do đó, phương án đúng phải phản ánh được mức độ nổi tiếng trường tồn cùng sức hút của các tác phẩm thiếu nhi.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q2**, tìm từ khóa \"parents and children\" ở đoạn 2 để xác định lý do phụ huynh và trẻ em cùng đọc truyện nhờ giọng văn nhẹ nhàng, hài hước và xem nhân vật trẻ thơ như những cá thể có suy nghĩ độc lập.\n  - Với **R2Q4**, quét từ khóa \"Kaleidoscope\" ở đoạn 3 để nhận diện nội dung xoay quanh những cuộc phiêu lưu ngẫu hứng, rời rạc của một nhóm học sinh.\n  - Với **R2Q7**, tìm kiếm từ khóa \"translating his work\" ở đoạn 6 để thấy khó khăn lớn nhất nằm ở việc truyền tải sự hài hước và các yếu tố mang tính tham chiếu địa phương, văn hóa vùng miền.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"devoting\"** ở đoạn 1 đi kèm với hành trình gác lại công việc dạy học, làm báo để cống hiến trọn vẹn cho tiểu thuyết (dedicating).\n  - Với **R2Q5**, từ **\"undeniable\"** ở đoạn 4 đứng trong ngữ cảnh dù giới hàn lâm tranh cãi nhưng độ phủ sóng và sự đón nhận của công chúng là không thể chối cãi (impossible to dispute).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ nhân xưng **\"whom\"** ở đoạn 5. Hãy đọc lùi lại danh từ chỉ người đứng trước giới từ để tìm đối tượng khán giả đến rạp xem phim chuyển thể (khán giả điện ảnh - cinema audiences).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối chiếu từng lựa chọn với đoạn 5 về các bộ phim chuyển thể (giới thiệu câu chuyện đến khán giả, nhiều người tìm đọc nguyên tác, một số nhà bình luận liên kết chúng với thói quen đọc sách), từ đó loại bỏ phương án khẳng định ảnh hưởng đến việc đọc đã được chứng minh một cách thuyết phục (trong bài nêu rõ bằng chứng này rất khó đo lường).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 2, 4 và 6 về việc sử dụng ngôn từ đời thường gần gũi, cảm xúc hoài niệm chân thực giúp tác phẩm chinh phục mọi lứa tuổi, tầng lớp xã hội.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R2Q3, R2Q5) và quy chiếu (R2Q6) vì xác định vị trí rất nhanh. Sau đó, dùng kỹ thuật đọc quét để làm các câu hỏi chi tiết (R2Q2, R2Q4, R2Q7, R2Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R2Q1, R2Q9, R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Global Loneliness Epidemic",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Loneliness, once regarded as a private misfortune, is now treated by many governments as a public health problem. Surveys conducted in dozens of countries suggest that a **substantial** minority of adults feel isolated, and the World Health Organization has estimated that roughly one in six people worldwide is affected. The phenomenon is frequently described as an epidemic, although some researchers caution that the term can obscure how varied the experience of loneliness actually is.",
+     "Researchers distinguish loneliness from social isolation, though the two often overlap in everyday life. Isolation describes an objective shortage of contacts, whereas loneliness is the distressing perception that one's relationships are inadequate in number or quality. A person surrounded by colleagues and relatives may therefore feel profoundly lonely, while a hermit may feel content. This distinction matters because remedies that merely increase contact do not automatically relieve the sensation of disconnection that many people describe, especially when social expectations make admitting it feel embarrassing.",
+     "Several social changes help to explain why loneliness has become so widespread. **[1]** Urbanisation has drawn millions of people into cities where neighbours rarely know one another. **[2]** Smaller households and delayed marriage mean that fewer people live with relatives who might provide daily companionship. **[3]** Digital technology, meanwhile, has replaced many face-to-face encounters with messages and videos, which can sustain contact but often lack the intimacy of shared physical presence. **[4]** Workplace changes, including remote employment and insecure contracts, further weaken the bonds that once formed naturally among colleagues.",
+     "The consequences of persistent loneliness extend well beyond mere emotional discomfort and affect physical health. Long-term loneliness has been associated with higher rates of depression, cardiovascular disease, and cognitive decline, and some analyses suggest that its effect on mortality is comparable to that of well-known risks such as smoking. Causation is difficult to establish, since illness can itself make people withdraw from social life. Nevertheless, the pattern is consistent enough that health authorities now treat connection as a determinant of wellbeing.",
+     "Governments and health services have begun to respond to the problem more systematically. The United Kingdom appointed a minister for loneliness in 2018, and Japan created a similar post in 2021, reflecting a recognition that the issue cuts across health, housing, and employment policy. Some local authorities also fund social prescribing schemes, under **which** doctors refer patients to community activities such as gardening clubs, choirs, and walking groups.",
+     "Such initiatives can **mitigate** loneliness, but critics warn against relying exclusively on formal programmes. Friendships are formed through repeated, unplanned interaction, and communities that provide shared spaces, safe streets, and affordable activities make that interaction far more likely to occur. Employers and schools can also contribute by designing routines that allow genuine conversation instead of continuous productivity. Individuals, for their part, can take small steps, such as greeting neighbours or joining a local group, even when initiating contact feels uncomfortable.",
+     "The loneliness epidemic therefore reflects structural change as much as personal circumstance. Treating it solely as an individual failing risks blaming those who suffer, whereas acknowledging its social roots opens the way to collective solutions. If societies value connection as highly as they value efficiency, they will need to design cities, workplaces, and technologies that make belonging an ordinary, expected part of everyday life."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Digital technology is the only cause of modern social isolation",
+       "B": "Loneliness is a widespread problem with social causes and collective solutions",
+       "C": "Governments should prohibit people from working in remote locations",
+       "D": "Older adults experience loneliness far less often than the young"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, how does loneliness differ from social isolation?",
+      "options": {
+       "A": "Isolation always produces loneliness, but loneliness never produces isolation",
+       "B": "Loneliness affects only elderly people who live far from relatives",
+       "C": "The two terms are interchangeable according to most researchers",
+       "D": "Loneliness is a perceived shortage, whereas isolation is objective"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin định nghĩa ở đoạn 2 để phân biệt giữa sự cô lập (thiếu hụt mối quan hệ khách quan) và sự cô đơn (cảm nhận chủ quan về việc thiếu thốn các mối quan hệ đủ về lượng hoặc chất)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"substantial\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "considerable",
+       "B": "rare",
+       "C": "temporary",
+       "D": "hidden"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such substitution is convenient, yet convenience can quietly erode the habit of meeting in person.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc vị trí [3] trong đoạn 3. Câu điền thêm 'Such substitution is convenient, yet convenience can quietly erode the habit of meeting in person.' (Sự thay thế đó rất thuận tiện, nhưng sự tiện lợi lại âm thầm xói mòn thói quen gặp mặt trực tiếp) khớp hoàn hảo ngay sau câu nói về việc công nghệ số thay thế các cuộc gặp mặt trực tiếp bằng tin nhắn và video."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, why is it hard to prove that loneliness causes illness?",
+      "options": {
+       "A": "Studies of loneliness have never included older participants",
+       "B": "Illness can itself cause people to withdraw from social life",
+       "C": "Researchers cannot find people willing to answer questions",
+       "D": "Health authorities refuse to publish data about mortality"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"prove that loneliness causes illness\" ở đoạn 4 để thấy nguyên nhân khó chứng minh là do bản thân bệnh tật cũng có thể khiến con người tự thu mình khỏi xã hội (mối quan hệ nhân quả hai chiều)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Local authorities",
+       "B": "Community activities",
+       "C": "Health services",
+       "D": "Social prescribing schemes"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đầu mệnh đề chứa cụm giới từ trong đoạn 5. Đọc lùi lại danh từ chỉ sự việc đứng ngay trước dấu phẩy để tìm đối tượng được các bác sĩ giới thiệu cho bệnh nhân tham gia (các chương trình kê đơn xã hội - social prescribing schemes)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"mitigate\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "multiply",
+       "B": "conceal",
+       "C": "ease",
+       "D": "predict"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"mitigate\" ở đoạn 6 chỉ việc các sáng kiến cộng đồng giúp làm dịu bớt, giảm nhẹ tình trạng cô đơn (ease)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT suggested as a way to reduce loneliness?",
+      "options": {
+       "A": "Compelling employees to attend weekly social events",
+       "B": "Providing shared spaces and safe streets in communities",
+       "C": "Designing routines that allow genuine conversation at work",
+       "D": "Joining a local group or greeting neighbours"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các giải pháp làm giảm sự cô đơn được đề cập ở đoạn 6 (cung cấp không gian chung, thiết kế thói quen trò chuyện ở nơi làm việc, tham gia nhóm địa phương), từ đó loại bỏ phương án không xuất hiện trong bài (ép buộc nhân viên tham gia sự kiện xã hội hàng tuần)."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 3, 5, and 6 about solutions to loneliness?",
+      "options": {
+       "A": "Technology companies alone can eliminate loneliness by redesigning their messaging applications",
+       "B": "Medical treatment is the only effective response to the problem",
+       "C": "Younger generations will outgrow loneliness as their cities become larger",
+       "D": "Lasting progress needs community change as well as formal programmes"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc giải quyết sự cô đơn cần cả sự thay đổi từ cộng đồng, không gian sống lẫn các chương trình chính thức từ chính phủ thay vì chỉ dựa vào một yếu tố đơn lẻ."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To prove that technology has made friendships completely meaningless",
+       "B": "To examine the causes, consequences, and possible remedies of loneliness",
+       "C": "To compare loneliness statistics across countries in detail",
+       "D": "To argue that governments should abandon social prescribing schemes Reading"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R3Q1, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn mở đầu và đoạn kết để nắm bắt luận điểm trung tâm: sự cô đơn không chỉ là vấn đề cá nhân mà đã trở thành vấn đề y tế công cộng bắt nguồn từ các thay đổi xã hội (đô thị hóa, công nghệ, cấu trúc gia đình, công việc), đòi hỏi các giải pháp mang tính tập thể và toàn diện. Do đó, phương án đúng phải bao quát được nguyên nhân xã hội, hệ lụy và các phương án giải quyết vấn đề này.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q2**, tìm thông tin định nghĩa ở đoạn 2 để phân biệt giữa sự cô lập (thiếu hụt mối quan hệ khách quan) và sự cô đơn (cảm nhận chủ quan về việc thiếu thốn các mối quan hệ đủ về lượng hoặc chất).\n  - Với **R3Q5**, quét từ khóa \"prove that loneliness causes illness\" ở đoạn 4 để thấy nguyên nhân khó chứng minh là do bản thân bệnh tật cũng có thể khiến con người tự thu mình khỏi xã hội (mối quan hệ nhân quả hai chiều).\n  - Với **R3Q8**, đối chiếu các giải pháp làm giảm sự cô đơn được đề cập ở đoạn 6 (cung cấp không gian chung, thiết kế thói quen trò chuyện ở nơi làm việc, tham gia nhóm địa phương), từ đó loại bỏ phương án không xuất hiện trong bài (ép buộc nhân viên tham gia sự kiện xã hội hàng tuần).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - With **R3Q3**, từ **\"substantial\"** ở đoạn 1 đi kèm với việc hàng loạt khảo sát cho thấy một tỉ lệ đáng kể người trưởng thành cảm thấy cô lập (considerable).\n  - Với **R3Q7**, từ **\"mitigate\"** ở đoạn 6 chỉ việc các sáng kiến cộng đồng giúp làm dịu bớt, giảm nhẹ tình trạng cô đơn (ease).\n- **Dạng câu hỏi Điền câu vào đoạn văn (R3Q4):** Đọc vị trí **[3]** trong đoạn 3. Câu điền thêm 'Such substitution is convenient, yet convenience can quietly erode the habit of meeting in person.' (Sự thay thế đó rất thuận tiện, nhưng sự tiện lợi lại âm thầm xói mòn thói quen gặp mặt trực tiếp) khớp hoàn hảo ngay sau câu nói về việc công nghệ số thay thế các cuộc gặp mặt trực tiếp bằng tin nhắn và video.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đầu mệnh đề chứa cụm giới từ trong đoạn 5. Đọc lùi lại danh từ chỉ sự việc đứng ngay trước dấu phẩy để tìm đối tượng được các bác sĩ giới thiệu cho bệnh nhân tham gia (các chương trình kê đơn xã hội - social prescribing schemes).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc giải quyết sự cô đơn cần cả sự thay đổi từ cộng đồng, không gian sống lẫn các chương trình chính thức từ chính phủ thay vì chỉ dựa vào một yếu tố đơn lẻ.\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi từ vựng (R3Q3, R3Q7), quy chiếu (R3Q6) và điền câu (R3Q4) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu hỏi chi tiết (R3Q2, R3Q5, R3Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R3Q1, R3Q9, R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Socio-Economic Impact of Taxation on Individuals",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Taxation is the most direct way in which the state touches the daily lives of citizens. Every wage packet, purchase, and property transaction may carry a levy, and the **cumulative** effect shapes what individuals can save, spend, and aspire to. Yet public discussion of taxes often concentrates on rates alone, neglecting the broader question of who ultimately bears the burden and what the revenue makes possible.",
+     "Economists classify taxes according to how their burden changes as income rises. A progressive tax takes a larger share from those with higher earnings, whereas a regressive tax weighs more heavily on the poor because lower-income households spend most of what they earn. Most systems combine both types, so that the overall effect depends on the balance between income-based and consumption-based levies. Understanding this classification is essential for judging whether a reform helps or harms ordinary households.",
+     "Taxes also alter behaviour, sometimes in ways policymakers intend and sometimes not. **[1]** Levies on tobacco and sugary drinks, for example, raise prices in order to discourage consumption that imposes costs on health systems. **[2]** Evidence suggests that such measures reduce purchases, particularly among younger and lower-income consumers, although manufacturers sometimes adjust by reformulating products or shrinking portions. **[3]** High marginal rates on additional earnings may weaken the incentive to work longer hours or seek promotion. **[4]** The size of this effect is disputed, however, since many workers cannot easily vary their hours, and non-financial motives such as status and security also influence career decisions.",
+     "Beyond behaviour, taxation determines how resources are redistributed and public services financed. Countries that collect a large share of national income, as several Northern European states do, typically fund healthcare, education, and unemployment benefits, and they tend to record lower income inequality after taxes and transfers. Critics respond that high rates can discourage investment and encourage avoidance, but the experience of these economies suggests that the relationship between tax levels and prosperity is far from straightforward. Public attitudes toward taxation therefore reflect not only self-interest but also differing views of what the state should provide.",
+     "Compliance is shaped by perceptions of fairness as much as by enforcement. Individuals who believe that revenue is wasted, or that wealthy taxpayers exploit loopholes while ordinary workers pay in full, are more inclined to underreport income or work in the informal economy. Governments that publish how funds are spent and simplify convoluted rules generally record higher voluntary compliance, a pattern that suggests transparency is not merely a moral ideal but a practical strategy.",
+     "The distribution of the tax burden is not always what legislation intends. Economists distinguish between statutory incidence, which identifies who must pay a tax, and economic incidence, which reveals who actually bears its cost after prices and wages adjust. A levy on employers, for instance, may be passed on to workers and consumers, many of **whom** have little awareness of the mechanism. Policy debates that ignore this distinction can therefore misjudge the real effects of reform on household finances.",
+     "Taxation therefore shapes individual lives through several overlapping channels, many of them invisible. Well-designed systems can ameliorate inequality and fund services that households could never afford alone, yet poorly designed ones may distort incentives, encourage evasion, and erode trust in public institutions. Citizens who understand how taxes work are better equipped to judge reforms, and governments that explain their choices honestly are more likely to earn the consent on which fiscal stability ultimately depends."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Taxes shape individual lives through incentives, redistribution, compliance, and hidden price adjustments",
+       "B": "High taxes inevitably destroy prosperity and should therefore be abolished everywhere",
+       "C": "Governments collect taxes mainly to punish wealthy citizens for their success",
+       "D": "Only consumption taxes affect household budgets in most modern economies"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, why do consumption taxes often weigh heavily on the poor?",
+      "options": {
+       "A": "Rich households avoid paying because of generous exemptions in law",
+       "B": "Consumption taxes are always set higher for basic foods",
+       "C": "Governments apply these taxes only to essential medicines",
+       "D": "Poorer households spend nearly all income on purchases"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"consumption taxes\" ở đoạn 2 để xác định lý do loại thuế này đè nặng lên người nghèo vì họ phải dùng phần lớn thu nhập cho việc mua sắm hàng hóa thiết yếu."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"cumulative\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "wearing off",
+       "B": "building up",
+       "C": "dying out",
+       "D": "showing off"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"cumulative\" ở đoạn 1 đi kèm với hiệu ứng tích lũy qua từng giao dịch mua bán và tiền lương, mang nghĩa tích tụ, gia tăng dần (building up)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'This logic becomes more contentious when applied to taxes on work.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc vị trí [3] trong đoạn 3. Câu cần điền 'This logic becomes more contentious when applied to taxes on work.' (Lập luận này trở nên gây tranh cãi hơn khi áp dụng vào thuế đánh vào thu nhập lao động) đóng vai trò bản lề chuyển ý hoàn hảo ngay trước câu nói về việc thuế suất biên cao đối với thu nhập bổ sung làm suy yếu động lực làm việc thêm giờ hoặc tìm kiếm thăng tiến."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what do countries with a large tax share typically achieve?",
+      "options": {
+       "A": "Faster investment growth than countries with lower tax rates",
+       "B": "Complete elimination of avoidance by wealthy households",
+       "C": "Lower spending on healthcare and unemployment benefits",
+       "D": "Extensive public services and lower inequality after redistribution"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"large tax share\" ở đoạn 4 để thấy các quốc gia thu thuế lớn thường đạt được hệ thống dịch vụ công phong phú và mức độ bất bình đẳng thấp hơn sau phân phối lại."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"whom\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Workers and consumers",
+       "B": "Statutory taxpayers",
+       "C": "Employers",
+       "D": "Policy makers"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"whom\" ở đoạn 6. Hãy đọc lùi lại danh từ chỉ người đứng trước giới từ để tìm đối tượng gánh chịu chi phí thuế thực tế sau khi giá cả và tiền lương điều chỉnh (người lao động và người tiêu dùng - workers and consumers)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"ameliorate\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "disguise",
+       "B": "predict",
+       "C": "improve",
+       "D": "inflate"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ameliorate\" ở đoạn 7 nằm trong ngữ cảnh hệ thống thuế được thiết kế tốt có thể giúp cải thiện, làm giảm bớt tình trạng bất bình đẳng (improve)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason people underreport income?",
+      "options": {
+       "A": "Suspicion that public revenue is being wasted",
+       "B": "A belief that evasion penalties are unfairly severe",
+       "C": "Wealthy taxpayers exploiting loopholes while others pay in full",
+       "D": "Rules that are convoluted and difficult to follow"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các lý do khiến mọi người khai gian thu nhập được đề cập ở đoạn 5 (nghi ngờ công quỹ bị lãng phí, người giàu lách luật còn người lao động trả đủ, luật thuế rắc rối), từ đó loại bỏ phương án không xuất hiện trong bài (niềm tin rằng hình phạt trốn thuế quá nghiêm khắc)."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 3, 5, and 6 about tax reform?",
+      "options": {
+       "A": "Raising rates is the simplest way to guarantee higher revenue",
+       "B": "Reform succeeds whenever legislation clearly names who must pay",
+       "C": "Public opinion has no influence on whether people pay tax",
+       "D": "Effective reform must anticipate behavioural responses and who truly bears costs"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc cải cách thuế hiệu quả phải lường trước các phản ứng về hành vi của người dân cũng như xác định chính xác ai là người thực sự gánh chịu chi phí kinh tế."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To analyse how taxation shapes individual behaviour and wellbeing",
+       "B": "To compare tax rates in specific countries using recent statistics",
+       "C": "To explain step by step how to complete a tax return",
+       "D": "To persuade readers that all taxes should be abolished"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R4Q1, R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn mở đầu và đoạn kết để nắm bắt luận điểm trung tâm: thuế tác động sâu sắc đến đời sống thông qua các kênh như ưu đãi hành vi, phân phối lại thu nhập, mức độ tuân thủ và sự điều chỉnh giá ẩn. Do đó, phương án đúng phải bao quát trọn vẹn các khía cạnh tác động đa chiều này thay vì chỉ tập trung vào việc bãi bỏ thuế hay trừng phạt.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q2**, tìm từ khóa \"consumption taxes\" ở đoạn 2 để xác định lý do loại thuế này đè nặng lên người nghèo vì họ phải dùng phần lớn thu nhập cho việc mua sắm hàng hóa thiết yếu.\n  - Với **R4Q5**, quét từ khóa \"large tax share\" ở đoạn 4 để thấy các quốc gia thu thuế lớn thường đạt được hệ thống dịch vụ công phong phú và mức độ bất bình đẳng thấp hơn sau phân phối lại.\n  - Với **R4Q8**, đối chiếu các lý do khiến mọi người khai gian thu nhập được đề cập ở đoạn 5 (nghi ngờ công quỹ bị lãng phí, người giàu lách luật còn người lao động trả đủ, luật thuế rắc rối), từ đó loại bỏ phương án không xuất hiện trong bài (niềm tin rằng hình phạt trốn thuế quá nghiêm khắc).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"cumulative\"** ở đoạn 1 đi kèm với hiệu ứng tích lũy qua từng giao dịch mua bán và tiền lương, mang nghĩa tích tụ, gia tăng dần (building up).\n  - Với **R4Q7**, từ **\"ameliorate\"** ở đoạn 7 nằm trong ngữ cảnh hệ thống thuế được thiết kế tốt có thể giúp cải thiện, làm giảm bớt tình trạng bất bình đẳng (improve).\n- **Dạng câu hỏi Điền câu vào đoạn văn (R4Q4):** Đọc vị trí **[3]** trong đoạn 3. Câu cần điền 'This logic becomes more contentious when applied to taxes on work.' (Lập luận này trở nên gây tranh cãi hơn khi áp dụng vào thuế đánh vào thu nhập lao động) đóng vai trò bản lề chuyển ý hoàn hảo ngay trước câu nói về việc thuế suất biên cao đối với thu nhập bổ sung làm suy yếu động lực làm việc thêm giờ hoặc tìm kiếm thăng tiến.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ quan hệ **\"whom\"** ở đoạn 6. Hãy đọc lùi lại danh từ chỉ người đứng trước giới từ để tìm đối tượng gánh chịu chi phí thuế thực tế sau khi giá cả và tiền lương điều chỉnh (người lao động và người tiêu dùng - workers and consumers).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc cải cách thuế hiệu quả phải lường trước các phản ứng về hành vi của người dân cũng như xác định chính xác ai là người thực sự gánh chịu chi phí kinh tế.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R4Q3, R4Q7), quy chiếu đại từ (R4Q6) và điền câu (R4Q4) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R4Q2, R4Q5, R4Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R4Q1, R4Q9, R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Sarah.\nShe is doing a small project on modern communication and asked for your input. Read part of her email below. I hope you are doing well! I'm curious about how people in different countries use the internet.\n- Do you use social media often?\n- What do you usually use it for?\n- Do you think it has any impact on our lives?\nWrite an email responding to Sarah. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Sarah.",
+      "She is doing a small project on modern communication and asked for your input. Read part of her email below."
+     ],
+     "quote": [
+      "I hope you are doing well! I'm curious about how people in different countries use the internet.",
+      "- Do you use social media often?",
+      "- What do you usually use it for?",
+      "- Do you think it has any impact on our lives?"
+     ],
+     "instruction": "Write an email responding to Sarah. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng thư thân mật (Informal Email) gửi cho bạn bè.\n- Yêu cầu: Trả lời 3 câu hỏi của Sarah về tần suất sử dụng mạng xã hội, mục đích sử dụng và quan điểm về ảnh hưởng của nó.\n- Độ dài: Tối thiểu 120 từ. Ngôn ngữ nên tự nhiên, cởi mở.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- Greeting: Chào Sarah (e.g., Hi Sarah, / Dear Sarah,).\n- Opening: Hỏi thăm sức khỏe hoặc phản hồi lại tin tức trong thư của cô ấy.\n- Body: Trả lời lần lượt 3 câu hỏi. Nên gộp câu hỏi 1 và 2 vào một đoạn, câu hỏi 3 thành một đoạn riêng để phát triển ý tốt hơn.\n- Closing & Sign-off: Kết thúc thư và ký tên (e.g., Best wishes, / Love,).\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các trạng từ chỉ tần suất (frequently, occasionally, on a daily basis).\nTừ vựng quan trọng:\n- Social networking sites: Các trang mạng xã hội\n- Keep in touch with: Giữ liên lạc với\n- Update news: Cập nhật tin tức\n- Addictive: Gây nghiện\n- Distraction: Sự xao nhãng\n- Broaden one's knowledge: Mở mang kiến thức\nTừ nối (Linking words):\n- Actually: Thực ra thì\n- Besides: Ngoài ra\n- In my opinion: Theo quan điểm của mình\n- For instance: Ví dụ như\n- As a result: Kết quả là\nCách diễn đạt cảm xúc (Expressing feelings):\n- To be honest: Thú thật là\n- I'm quite keen on...: Mình khá là thích...\n- I'm a bit concerned about...: Mình hơi lo lắng về...\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn gọn (chỉ nói 'Yes' hoặc 'No') mà không mở rộng ý.\n- Dùng nhầm các từ nối quá trang trọng như 'Furthermore' hay 'Moreover' trong thư cho bạn bè.\n- Quên chia thì hiện tại đơn khi nói về thói quen.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đảm bảo đã trả lời đủ cả 3 câu hỏi (đặc biệt là phần 'tác động').\n- Kiểm tra lỗi chính tả các từ phổ biến như 'social', 'media', 'believe'.\n- Kiểm tra xem đã đạt đủ số từ yêu cầu chưa.\n\n**6. Tư duy làm bài:**\n- Hãy coi đây là một cuộc trò chuyện thật. Khi nói về tác động, bạn có thể nêu cả mặt tốt (kết nối bạn bè) và mặt xấu (tốn thời gian) để bài viết sâu sắc hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn many parts of the world, it is becoming common for high school graduates to take a gap year before entering university.\nSome people believe that this provides valuable life experience, while others argue that it is a waste of time and may delay a student's academic progress.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about high school students taking a gap year. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In many parts of the world, it is becoming common for high school graduates to take a gap year before entering university.",
+      "Some people believe that this provides valuable life experience, while others argue that it is a waste of time and may delay a student's academic progress.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about high school students taking a gap year. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Discussion Essay (Thảo luận 2 mặt và đưa ra ý kiến).\n- Chủ đề: Việc nghỉ 1 năm (gap year) sau khi tốt nghiệp cấp 3.\n- Yêu cầu: Phân tích lợi ích (kinh nghiệm thực tế, định hướng nghề nghiệp) và bất lợi (mất đà học tập, lãng phí thời gian) của gap year.\n\n**2. Cách xây dựng bố cục (Organization):**\n- Introduction: Paraphrase đề bài và nêu rõ quan điểm cá nhân (Thesis Statement).\n- Body 1: Thảo luận về lợi ích của gap year. Ví dụ: It allows students to gain practical experience and discover their true interests.\n- Body 2: Thảo luận về những rủi ro. Ví dụ: Students may lose their academic momentum or find it difficult to return to a formal study environment.\n- Conclusion: Tóm tắt lại hai phía và khẳng định lại lựa chọn của bạn.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng cấu trúc so sánh và các câu điều kiện loại 1 để nói về kết quả.\nTừ vựng quan trọng:\n- Gap year: Năm nghỉ giữa các cấp học\n- High school graduates: Học sinh vừa tốt nghiệp cấp 3\n- Academic momentum: Đà học tập\n- Practical skills: Kỹ năng thực tế\n- Financial burden: Gánh nặng tài chính\n- Self-discovery: Khám phá bản thân\nTừ nối (Linking words):\n- On the one hand / On the other hand: Một mặt / Mặt khác\n- Nevertheless: Tuy nhiên\n- In addition: Thêm vào đó\n- Consequently: Kết quả là\n- From my perspective: Theo quan điểm của tôi\n- To sum up: Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- Taking a year break: Nghỉ một năm\n- Post-secondary education: Giáo dục sau trung học\n- Delayed entry into university: Việc nhập học đại học muộn hơn\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- It is often argued that...: Người ta thường cho rằng...\n- The merits of a gap year are undeniable: Lợi ích của gap year là không thể phủ nhận.\n- It is a double-edged sword: Đó là một con dao hai lưỡi.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về một phía (chỉ khen hoặc chỉ chê) khiến bài viết không cân bằng.\n- Thiếu ví dụ cụ thể để minh họa cho các luận điểm (ví dụ: đi tình nguyện, làm thêm).\n- Viết quá ngắn hoặc không có câu chủ đề cho mỗi đoạn.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Đảm bảo quan điểm cá nhân xuất hiện ở cả mở bài và kết bài.\n- Kiểm tra sự thống nhất về thì (thường dùng hiện tại đơn).\n- Rà soát lỗi chính tả các từ học thuật.\n\n**6. Tư duy làm bài:**\n- Hãy cố gắng giữ thái độ trung lập khi thảo luận hai mặt. Chỉ nên thể hiện sự ưu tiên rõ ràng ở phần kết luận hoặc khi đưa ra ý kiến cá nhân."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about traveling\n\n1\nDo you like traveling? Why or why not?\n2\nWhat was the most memorable trip you have ever taken?\n3\nDo you prefer traveling alone or in a group? Why?\n\nNow, let’s talk about good habits\n\n4\nWhat is one good habit that you have?\n5\nDo you think it is difficult to break a bad habit?\n6\nHow can parents help their children form healthy habits from a young age?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi gồm 6 câu hỏi ngắn trong khoảng 3 phút, tập trung vào khả năng giao tiếp tự nhiên và phản xạ tiếng Anh hằng ngày.\n- **Topic A (Traveling):** Các câu hỏi 1–3 nói về sở thích du lịch, trải nghiệm đáng nhớ và phong cách du lịch. Chủ đề này kiểm tra khả năng kể chuyện, diễn tả cảm xúc và nêu quan điểm cá nhân.\n- **Topic B (Habits):** Các câu hỏi 4–6 liên quan đến thói quen tốt, thói quen xấu và vai trò của gia đình trong việc hình thành thói quen. Chủ đề này kiểm tra khả năng phân tích và đưa ra lời khuyên.\n- Giám khảo đánh giá độ trôi chảy, từ vựng, ngữ pháp, phát âm và khả năng phát triển ý.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu để đảm bảo trả lời đủ ý và cân bằng thời gian giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer -> Reason -> Example để trả lời rõ ràng và tự nhiên.\n- **Ví dụ Topic A:** Yes, I really enjoy traveling because it allows me to relax and explore new places. For example, last summer I visited Da Nang with my friends and had an unforgettable experience.\n- **Ví dụ Topic B:** One good habit that I have is reading before going to bed because it helps me improve my knowledge and reduce stress.\n- Luôn tự hỏi “Why?”, “How?” hoặc “What happened next?” để mở rộng câu trả lời.\n- Khi chuyển chủ đề, bạn có thể dùng câu như: Speaking of habits, I think daily routines play an important role in our lives.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Hãy duy trì tốc độ nói đều và sử dụng filler như “Well”, “Actually”, “To be honest” để tránh khoảng lặng.\n- Với Topic A, sử dụng quá khứ đơn để kể chuyến đi đáng nhớ và hiện tại đơn để nói về sở thích du lịch.\n- Với Topic B, hiện tại đơn rất quan trọng vì bạn đang nói về thói quen và lời khuyên chung.\n- Nếu quên từ, hãy diễn đạt bằng mô tả đơn giản thay vì dừng quá lâu.\n- Từ vựng cho Topic A: sightseeing (tham quan), unforgettable experience (trải nghiệm khó quên), travel destination (điểm du lịch), local culture (văn hóa địa phương).\n- Từ vựng cho Topic B: healthy lifestyle (lối sống lành mạnh), break a habit (bỏ một thói quen), self-discipline (tính kỷ luật), daily routine (thói quen hằng ngày).\nCụm từ quan trọng nên dùng:\n- Travel broadens my horizons – Du lịch mở mang tầm nhìn.\n- Get away from daily stress – Thoát khỏi căng thẳng hằng ngày.\n- Travel with a group of friends – Đi du lịch cùng nhóm bạn.\n- Develop healthy habits – Hình thành thói quen tốt.\n- Maintain a balanced lifestyle – Duy trì lối sống cân bằng.\n- Set a good example for children – Làm gương tốt cho trẻ em.\nTừ nối khi nói (Linking Words):\n- First of all – Trước hết.\n- Besides that – Bên cạnh đó.\n- For example – Ví dụ như.\n- As a result – Kết quả là.\n- In conclusion – Tóm lại.\nCách thể hiện quan điểm tự nhiên:\n- I personally think traveling is one of the best ways to learn about the world. – Tôi cá nhân cho rằng du lịch là cách tuyệt vời để hiểu thế giới.\n- From my point of view, group travel is more enjoyable because people can share experiences together. – Theo quan điểm của tôi, du lịch theo nhóm vui hơn.\n- As far as I am concerned, memorable trips often teach us valuable life lessons. – Theo tôi, những chuyến đi đáng nhớ thường dạy cho chúng ta bài học cuộc sống.\n- I believe good habits are important for both physical and mental health. – Tôi tin rằng thói quen tốt quan trọng cho cả sức khỏe thể chất và tinh thần.\n- In my opinion, parents should guide children gently instead of forcing them. – Theo tôi, cha mẹ nên hướng dẫn con nhẹ nhàng thay vì ép buộc.\n- I would say breaking bad habits takes time and determination. – Tôi cho rằng bỏ thói quen xấu cần thời gian và quyết tâm.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn chỉ với Yes hoặc No mà không giải thích thêm.\n- Ở Topic A, nhiều bạn chỉ kể địa điểm du lịch mà quên nói cảm xúc hoặc lý do chuyến đi đáng nhớ.\n- Ở Topic B, nhiều bạn đưa lời khuyên quá chung chung mà không có ví dụ thực tế.\n- Dùng sai thì khi kể trải nghiệm trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n- Nếu quên tên địa điểm hoặc hoạt động, hãy mô tả bằng từ đơn giản hơn.\n- Ở Topic A, nếu ít đi du lịch, bạn có thể nói về chuyến đi cùng gia đình hoặc trường học.\n- Ở Topic B, nếu không nghĩ ra thói quen tốt, hãy nói về những việc đơn giản như tập thể dục hoặc dậy sớm.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem đây là cuộc trò chuyện tự nhiên với giám khảo thay vì bài phát biểu học thuộc.\n- Khi chuyển từ chủ đề du lịch sang thói quen, hãy thay đổi tư duy từ kể chuyện sang phân tích và đưa lời khuyên.\n- Sự rõ ràng và tự nhiên quan trọng hơn việc dùng quá nhiều từ khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour team is planning to create a presentation about Vietnam's identity to show to international students.\n\nYou are considering the following options:\n\nOption 1: A significant historical event in Vietnam\nOption 2: A traditional cultural festival\nOption 3: A significant economic achievement of the country\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu nhóm của bạn chọn nội dung phù hợp nhất để giới thiệu bản sắc Việt Nam cho sinh viên quốc tế.\n- Ba lựa chọn gồm sự kiện lịch sử, lễ hội truyền thống và thành tựu kinh tế của đất nước.\n- Giám khảo đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định rõ ràng.\n- Thời gian khoảng 4 phút, nên dành 1 phút để lập dàn ý và 3 phút để trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc State opinion -> Give reasons -> Compare -> Conclude để bài nói rõ ràng và dễ theo dõi.\n- Option 1: Sự kiện lịch sử giúp sinh viên hiểu tinh thần dân tộc nhưng có thể hơi khó hiểu với người chưa biết nhiều về Việt Nam.\n- Option 2: Lễ hội truyền thống sinh động, dễ gây hứng thú và thể hiện rõ văn hóa Việt Nam.\n- Option 3: Thành tựu kinh tế cho thấy sự phát triển hiện đại nhưng có thể ít hấp dẫn về mặt hình ảnh và cảm xúc.\n- Hãy liên hệ với trải nghiệm thực tế như Tết hoặc Festival Huế để bài nói thuyết phục hơn.\n- Sử dụng từ nối đối lập như however hoặc in contrast để chuyển giữa ưu và nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì phân tích riêng biệt hoàn toàn.\n- Dùng hiện tại đơn để mô tả sự thật chung và hiện tại hoàn thành khi nói về sự phát triển của đất nước.\n- Nếu quên từ “economic achievement”, bạn có thể diễn đạt là successful development of the country.\nCụm từ quan trọng nên dùng:\n- National identity – Bản sắc dân tộc.\n- Traditional customs – Phong tục truyền thống.\n- Cultural heritage – Di sản văn hóa.\n- Historical significance – Ý nghĩa lịch sử.\n- Economic development – Sự phát triển kinh tế.\n- Promote Vietnamese culture – Quảng bá văn hóa Việt Nam.\nTừ nối khi nói (Linking Words):\n- First of all – Trước tiên.\n- On the other hand – Mặt khác.\n- In contrast – Trái lại.\n- Moreover – Hơn nữa.\n- In conclusion – Kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe a traditional festival is the best way to introduce Vietnam's identity. – Tôi tin mạnh mẽ rằng lễ hội truyền thống là cách tốt nhất để giới thiệu bản sắc Việt Nam.\n- Compared to economic achievements, cultural festivals are more visually attractive and memorable. – So với thành tựu kinh tế, lễ hội văn hóa hấp dẫn hơn về mặt hình ảnh.\n- From my perspective, historical events are meaningful because they help international students understand Vietnam's past. – Theo quan điểm của tôi, các sự kiện lịch sử rất ý nghĩa.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về lựa chọn yêu thích mà không phân tích hai lựa chọn còn lại.\n- Lặp từ đơn giản như good hoặc important quá nhiều.\n- Kết luận không rõ ràng hoặc thay đổi lựa chọn ở cuối bài.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên ngành, hãy chuyển sang nói về lợi ích hoặc tác động xã hội.\n- Bạn có thể dùng câu: Let's evaluate this option from another perspective.\n- Nếu bí ý ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn tiếp theo.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người làm bài thuyết trình cho sinh viên quốc tế nên cần ưu tiên nội dung dễ hiểu và hấp dẫn.\n- Ngay cả với lựa chọn tốt nhất, bạn vẫn nên nhắc đến một vài hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe negative effects of exam pressure on students\n\nExam Pressure Effects\nPhysical health problems (lack of sleep, fatigue)\nMental health issues (stress, anxiety)\nLoss of interest in learning\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy do you think students today face more pressure than in the past?\n2\nHow can teachers and parents reduce the stress on students?\n3\nDo you think exams are the best way to evaluate a student's ability?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về những ảnh hưởng tiêu cực của áp lực thi cử đối với học sinh và sinh viên.\n- Ba nhánh chính gồm vấn đề sức khỏe tinh thần, sức khỏe thể chất và việc mất động lực học tập.\n- Nhánh cá nhân có thể phát triển thành reduced social interaction hoặc lower self-confidence.\n- Giám khảo đánh giá khả năng phát triển ý, tính logic và khả năng trả lời câu hỏi follow-up.\n- Thời gian khoảng 5 phút, nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để phát triển từng ý trong mindmap.\n- **Ví dụ 1:** Today, I would like to talk about the negative effects of exam pressure on students.\n- **Ví dụ 2:** Another important issue is that too much pressure can reduce students' confidence and motivation.\n- Khi nói về stress, hãy đưa ví dụ gần gũi như học khuya hoặc lo lắng trước kỳ thi.\n- Hãy đi theo từng nhánh trong sơ đồ để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng cụm chuyển ý như Another negative effect is hoặc Moving on to the next point.\n- Dùng hiện tại đơn để nói sự thật chung và hiện tại hoàn thành khi nói về xu hướng áp lực ngày càng tăng.\n- Có thể paraphrase “exam pressure” bằng academic stress hoặc pressure from studying.\nCụm từ quan trọng nên dùng:\n- Suffer from anxiety – Bị lo âu.\n- Lack of sleep – Thiếu ngủ.\n- Academic pressure – Áp lực học tập.\n- Lose motivation – Mất động lực.\n- Mental well-being – Sức khỏe tinh thần.\n- Maintain a healthy balance – Duy trì sự cân bằng lành mạnh.\nTừ nối khi nói (Linking Words):\n- First of all – Trước tiên.\n- In addition – Ngoài ra.\n- As a result – Kết quả là.\n- For instance – Ví dụ như.\n- Finally – Cuối cùng.\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, excessive exam pressure can seriously affect students' mental health. – Theo tôi, áp lực thi cử quá mức ảnh hưởng nghiêm trọng đến sức khỏe tinh thần.\n- I believe students need more emotional support from teachers and parents. – Tôi tin rằng học sinh cần nhiều sự hỗ trợ tinh thần hơn.\n- From my perspective, exams are important but they should not be the only way to evaluate students. – Theo quan điểm của tôi, kỳ thi quan trọng nhưng không nên là cách đánh giá duy nhất.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Why do students face more pressure today?** – Because competition for good schools and jobs is becoming more intense than before.\n- **How can teachers and parents reduce stress?** – They should encourage students gently and avoid putting too many expectations on them.\n- **Are exams the best way to evaluate students?** – I think exams are useful, but projects and presentations should also be included.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê tác hại mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển ý cá nhân ở nhánh thứ tư.\n- Nói quá dài ở phần main speech và không còn thời gian cho follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với trải nghiệm học tập hoặc áp lực thi cử thực tế.\n- Bạn có thể dùng câu: That is a complex issue. If we evaluate it from an educational perspective, exam pressure has many consequences.\n- Nếu quên từ vựng học thuật, hãy dùng mô tả đơn giản hơn thay thế.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ giáo dục và sức khỏe tinh thần của học sinh.\n- Tính logic và sự liên kết giữa các ý quan trọng hơn việc sử dụng quá nhiều từ khó.\n- Luôn cố gắng đưa ví dụ thực tế để bài nói tự nhiên và thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about traveling.\n1.\nDo you like traveling? Why or why not?\n2.\nWhat was the most memorable trip you have ever taken?\n3.\nDo you prefer traveling alone or in a group? Why?\nNow, let’s talk about good habits.\n4.\nWhat is one good habit that you have?\n5.\nDo you think it is difficult to break a bad habit?\n6.\nHow can parents help their children form healthy habits from a young age?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi gồm 6 câu hỏi ngắn trong khoảng 3 phút, tập trung vào khả năng giao tiếp tự nhiên và phản xạ tiếng Anh\nhằng ngày.\n• Topic A (Traveling): Các câu hỏi 1–3 nói về sở thích du lịch, trải nghiệm đáng nhớ và phong cách du lịch. Chủ đề này\nkiểm tra khả năng kể chuyện, diễn tả cảm xúc và nêu quan điểm cá nhân.\n• Topic B (Habits): Các câu hỏi 4–6 liên quan đến thói quen tốt, thói quen xấu và vai trò của gia đình trong việc hình\nthành thói quen. Chủ đề này kiểm tra khả năng phân tích và đưa ra lời khuyên.\n• Giám khảo đánh giá độ trôi chảy, từ vựng, ngữ pháp, phát âm và khả năng phát triển ý.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu để đảm bảo trả lời đủ ý và cân bằng thời gian giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer -> Reason -> Example để trả lời rõ ràng và tự nhiên.\n• Ví dụ Topic A: Yes, I really enjoy traveling because it allows me to relax and explore new places. For example, last\nsummer I visited Da Nang with my friends and had an unforgettable experience.\n• Ví dụ Topic B: One good habit that I have is reading before going to bed because it helps me improve my knowledge\nand reduce stress.\n• Luôn tự hỏi “Why?”, “How?” hoặc “What happened next?” để mở rộng câu trả lời.\n• Khi chuyển chủ đề, bạn có thể dùng câu như: Speaking of habits, I think daily routines play an important role in our\nlives.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Hãy duy trì tốc độ nói đều và sử dụng filler như “Well”, “Actually”, “To be honest” để tránh khoảng lặng.\n• Với Topic A, sử dụng quá khứ đơn để kể chuyến đi đáng nhớ và hiện tại đơn để nói về sở thích du lịch.\n• Với Topic B, hiện tại đơn rất quan trọng vì bạn đang nói về thói quen và lời khuyên chung.\n• Nếu quên từ, hãy diễn đạt bằng mô tả đơn giản thay vì dừng quá lâu.\n• Từ vựng cho Topic A: sightseeing (tham quan), unforgettable experience (trải nghiệm khó quên), travel destination\n(điểm du lịch), local culture (văn hóa địa phương).\n• Từ vựng cho Topic B: healthy lifestyle (lối sống lành mạnh), break a habit (bỏ một thói quen), self-discipline (tính kỷ\nluật), daily routine (thói quen hằng ngày).\nCụm từ quan trọng nên dùng:\n• Travel broadens my horizons – Du lịch mở mang tầm nhìn.\n• Get away from daily stress – Thoát khỏi căng thẳng hằng ngày.\n• Travel with a group of friends – Đi du lịch cùng nhóm bạn.\n• Develop healthy habits – Hình thành thói quen tốt.\n• Maintain a balanced lifestyle – Duy trì lối sống cân bằng.\n• Set a good example for children – Làm gương tốt cho trẻ em.\nTừ nối khi nói (Linking Words):\n• First of all – Trước hết.\n• Besides that – Bên cạnh đó.\n• For example – Ví dụ như.\n• As a result – Kết quả là.\n• In conclusion – Tóm lại.\nCách thể hiện quan điểm tự nhiên:\n• I personally think traveling is one of the best ways to learn about the world. – Tôi cá nhân cho rằng du lịch là cách\ntuyệt vời để hiểu thế giới.\n• From my point of view, group travel is more enjoyable because people can share experiences together. – Theo quan\nđiểm của tôi, du lịch theo nhóm vui hơn.\n• As far as I am concerned, memorable trips often teach us valuable life lessons. – Theo tôi, những chuyến đi đáng\nnhớ thường dạy cho chúng ta bài học cuộc sống.\n• I believe good habits are important for both physical and mental health. – Tôi tin rằng thói quen tốt quan trọng cho\ncả sức khỏe thể chất và tinh thần.\n• In my opinion, parents should guide children gently instead of forcing them. – Theo tôi, cha mẹ nên hướng dẫn con\nnhẹ nhàng thay vì ép buộc.\n• I would say breaking bad habits takes time and determination. – Tôi cho rằng bỏ thói quen xấu cần thời gian và quyết\ntâm.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn chỉ với Yes hoặc No mà không giải thích thêm.\n• Ở Topic A, nhiều bạn chỉ kể địa điểm du lịch mà quên nói cảm xúc hoặc lý do chuyến đi đáng nhớ.\n• Ở Topic B, nhiều bạn đưa lời khuyên quá chung chung mà không có ví dụ thực tế.\n• Dùng sai thì khi kể trải nghiệm trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n• Nếu quên tên địa điểm hoặc hoạt động, hãy mô tả bằng từ đơn giản hơn.\n• Ở Topic A, nếu ít đi du lịch, bạn có thể nói về chuyến đi cùng gia đình hoặc trường học.\n• Ở Topic B, nếu không nghĩ ra thói quen tốt, hãy nói về những việc đơn giản như tập thể dục hoặc dậy sớm.\n6. Tư duy làm bài nói:\n• Hãy xem đây là cuộc trò chuyện tự nhiên với giám khảo thay vì bài phát biểu học thuộc.\n• Khi chuyển từ chủ đề du lịch sang thói quen, hãy thay đổi tư duy từ kể chuyện sang phân tích và đưa lời khuyên.\n• Sự rõ ràng và tự nhiên quan trọng hơn việc dùng quá nhiều từ khó.\nSolution Discussion\nPART 2\n4 phút\nYour team is planning to create a presentation about Vietnam's identity to show to international students.\nYou are considering the following options:\n• Option 1: A significant historical event in Vietnam\n• Option 2: A traditional cultural festival\n• Option 3: A significant economic achievement of the country\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu nhóm của bạn chọn nội dung phù hợp nhất để giới thiệu bản sắc Việt Nam cho sinh viên quốc tế.\n• Ba lựa chọn gồm sự kiện lịch sử, lễ hội truyền thống và thành tựu kinh tế của đất nước.\n• Giám khảo đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định rõ ràng.\n• Thời gian khoảng 4 phút, nên dành 1 phút để lập dàn ý và 3 phút để trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc State opinion -> Give reasons -> Compare -> Conclude để bài nói rõ ràng và dễ theo dõi.\n• Option 1: Sự kiện lịch sử giúp sinh viên hiểu tinh thần dân tộc nhưng có thể hơi khó hiểu với người chưa biết nhiều về\nViệt Nam.\n• Option 2: Lễ hội truyền thống sinh động, dễ gây hứng thú và thể hiện rõ văn hóa Việt Nam.\n• Option 3: Thành tựu kinh tế cho thấy sự phát triển hiện đại nhưng có thể ít hấp dẫn về mặt hình ảnh và cảm xúc.\n• Hãy liên hệ với trải nghiệm thực tế như Tết hoặc Festival Huế để bài nói thuyết phục hơn.\n• Sử dụng từ nối đối lập như however hoặc in contrast để chuyển giữa ưu và nhược điểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì phân tích riêng biệt hoàn toàn.\n• Dùng hiện tại đơn để mô tả sự thật chung và hiện tại hoàn thành khi nói về sự phát triển của đất nước.\n• Nếu quên từ “economic achievement”, bạn có thể diễn đạt là successful development of the country.\nCụm từ quan trọng nên dùng:\n• National identity – Bản sắc dân tộc.\n• Traditional customs – Phong tục truyền thống.\n• Cultural heritage – Di sản văn hóa.\n• Historical significance – Ý nghĩa lịch sử.\n• Economic development – Sự phát triển kinh tế.\n• Promote Vietnamese culture – Quảng bá văn hóa Việt Nam.\nTừ nối khi nói (Linking Words):\n• First of all – Trước tiên.\n• On the other hand – Mặt khác.\n• In contrast – Trái lại.\n• Moreover – Hơn nữa.\n• In conclusion – Kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe a traditional festival is the best way to introduce Vietnam's identity. – Tôi tin mạnh mẽ rằng lễ hội\ntruyền thống là cách tốt nhất để giới thiệu bản sắc Việt Nam.\n• Compared to economic achievements, cultural festivals are more visually attractive and memorable. – So với thành\ntựu kinh tế, lễ hội văn hóa hấp dẫn hơn về mặt hình ảnh.\n• From my perspective, historical events are meaningful because they help international students understand\nVietnam's past. – Theo quan điểm của tôi, các sự kiện lịch sử rất ý nghĩa.\n4. Các lỗi thường gặp:\n• Chỉ nói về lựa chọn yêu thích mà không phân tích hai lựa chọn còn lại.\n• Lặp từ đơn giản như good hoặc important quá nhiều.\n• Kết luận không rõ ràng hoặc thay đổi lựa chọn ở cuối bài.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên ngành, hãy chuyển sang nói về lợi ích hoặc tác động xã hội.\n• Bạn có thể dùng câu: Let's evaluate this option from another perspective.\n• Nếu bí ý ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn tiếp theo.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người làm bài thuyết trình cho sinh viên quốc tế nên cần ưu tiên nội dung dễ hiểu và hấp dẫn.\n• Ngay cả với lựa chọn tốt nhất, bạn vẫn nên nhắc đến một vài hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The negative effects of exam pressure on students\nPhysical health problems (lack of sleep,\nMental health issues (stress, anxiety)\nfatigue)\nExam Pressure Effects\nÝ tưởng của bạn\nLoss of interest in learning\nFOLLOW-UP QUESTIONS\n1.\nWhy do you think students today face more pressure than in the past?\n2.\nHow can teachers and parents reduce the stress on students?\n3.\nDo you think exams are the best way to evaluate a student's ability?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về những ảnh hưởng tiêu cực của áp lực thi cử đối với học sinh và sinh viên.\n• Ba nhánh chính gồm vấn đề sức khỏe tinh thần, sức khỏe thể chất và việc mất động lực học tập.\n• Nhánh cá nhân có thể phát triển thành reduced social interaction hoặc lower self-confidence.\n• Giám khảo đánh giá khả năng phát triển ý, tính logic và khả năng trả lời câu hỏi follow-up.\n• Thời gian khoảng 5 phút, nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để phát triển từng ý trong mindmap.\n• Ví dụ 1: Today, I would like to talk about the negative effects of exam pressure on students.\n• Ví dụ 2: Another important issue is that too much pressure can reduce students' confidence and motivation.\n• Khi nói về stress, hãy đưa ví dụ gần gũi như học khuya hoặc lo lắng trước kỳ thi.\n• Hãy đi theo từng nhánh trong sơ đồ để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng cụm chuyển ý như Another negative effect is hoặc Moving on to the next point.\n• Dùng hiện tại đơn để nói sự thật chung và hiện tại hoàn thành khi nói về xu hướng áp lực ngày càng tăng.\n• Có thể paraphrase “exam pressure” bằng academic stress hoặc pressure from studying.\nCụm từ quan trọng nên dùng:\n• Suffer from anxiety – Bị lo âu.\n• Lack of sleep – Thiếu ngủ.\n• Academic pressure – Áp lực học tập.\n• Lose motivation – Mất động lực.\n• Mental well-being – Sức khỏe tinh thần.\n• Maintain a healthy balance – Duy trì sự cân bằng lành mạnh.\nTừ nối khi nói (Linking Words):\n• First of all – Trước tiên.\n• In addition – Ngoài ra.\n• As a result – Kết quả là.\n• For instance – Ví dụ như.\n• Finally – Cuối cùng.\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, excessive exam pressure can seriously affect students' mental health. – Theo tôi, áp lực thi cử quá\nmức ảnh hưởng nghiêm trọng đến sức khỏe tinh thần.\n• I believe students need more emotional support from teachers and parents. – Tôi tin rằng học sinh cần nhiều sự hỗ\ntrợ tinh thần hơn.\n• From my perspective, exams are important but they should not be the only way to evaluate students. – Theo quan\nđiểm của tôi, kỳ thi quan trọng nhưng không nên là cách đánh giá duy nhất.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Why do students face more pressure today? – Because competition for good schools and jobs is becoming more\nintense than before.\n• How can teachers and parents reduce stress? – They should encourage students gently and avoid putting too many\nexpectations on them.\n• Are exams the best way to evaluate students? – I think exams are useful, but projects and presentations should also\nbe included.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê tác hại mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển ý cá nhân ở nhánh thứ tư.\n• Nói quá dài ở phần main speech và không còn thời gian cho follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với trải nghiệm học tập hoặc áp lực thi cử thực tế.\n• Bạn có thể dùng câu: That is a complex issue. If we evaluate it from an educational perspective, exam pressure has\nmany consequences.\n• Nếu quên từ vựng học thuật, hãy dùng mô tả đơn giản hơn thay thế.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ giáo dục và sức khỏe tinh thần của học sinh.\n• Tính logic và sự liên kết giữa các ý quan trọng hơn việc sử dụng quá nhiều từ khó.\n• Luôn cố gắng đưa ví dụ thực tế để bài nói tự nhiên và thuyết phục hơn."
+}

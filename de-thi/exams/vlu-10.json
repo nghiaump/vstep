@@ -1,0 +1,717 @@
+{
+ "id": "vlu-10",
+ "number": 10,
+ "title": "Đề thi VLU 10",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-10",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Rise of Content Creators in China",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In the last ten years, short videos and live streaming have changed how many people in China spend their free time. Millions of users open apps every day to watch cooking lessons, travel stories, comedy sketches, and advice about study or work. The people who make these videos are called content creators, and some of them have become as famous as film stars or singers, with millions of followers waiting for each new upload. This passage explains why the trade has grown so quickly and what challenges creators face.",
+     "Why has this job become so popular? One reason is that almost anyone with a smartphone can start a channel for free. A student in a small town can film a short video about local food, upload it in the evening, and find that thousands of strangers have watched it by the next morning. This is very different from traditional media, where a few companies decide who appears on screen. Another reason is that the platforms recommend videos according to what viewers enjoy, so a new creator with an **ordinary** background does not need a famous name to be seen.",
+     "Many creators earn money in several ways. Brands pay them to show products in their videos, viewers send small digital gifts during live streams, and some creators open online shops to sell goods directly to their followers. For people in rural areas, **this** can be an important change, because it allows them to sell local products such as fruit, tea, and handmade crafts to customers in big cities. Some local governments have even offered training courses to help farmers learn these skills.",
+     "However, the job is not as easy as it looks. Creators must produce new videos often, because viewers quickly move on to someone else if nothing new appears. Many find the work **challenging**, because they must think of new ideas every week while also answering messages and keeping up with changing rules. Only a small number of creators become famous, while most earn modest amounts or work on their channels in addition to another full-time job, and their income can change a lot. Rules about advertising and false claims have also become stricter, so creators must be careful about what they promise to their followers.",
+     "In conclusion, content creation has opened new opportunities for young people, small businesses, and farmers in China. It lets regular people share their talents and earn money without moving to a big city or working for a large company. At the same time, creators need strong skills, patience, and honesty to succeed for a long time. Anyone thinking of starting a channel should remember that success usually comes from steady work rather than from luck, and that followers trust creators who tell the truth."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "How smartphones became cheaper in large Chinese cities",
+       "B": "The rapid growth of content creators and their challenges",
+       "C": "How the government chooses famous young film stars",
+       "D": "Which video apps are most popular across Asia"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why can new creators become popular quickly?",
+      "options": {
+       "A": "Famous companies pay for every new video they make",
+       "B": "Schools teach students to film videos in class",
+       "C": "Viewers watch only videos made by well-known stars",
+       "D": "Platforms recommend videos according to what viewers enjoy"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"popular quickly\" hoặc \"platforms recommend\" ở đoạn 2 để thấy các nền tảng đề xuất video dựa trên sở thích của người xem, giúp nhà sáng tạo mới dễ được chú ý."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"ordinary\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "normal",
+       "B": "strange",
+       "C": "wealthy",
+       "D": "clever"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ordinary\" ở đoạn 2 đi kèm với hoàn cảnh bình thường, không cần tên tuổi nổi tiếng vẫn có thể được xem, mang nghĩa bình thường (normal)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how do some creators earn money?",
+      "options": {
+       "A": "They charge viewers a fee for every video",
+       "B": "They write books about famous film stars",
+       "C": "They sell goods directly to followers online",
+       "D": "They teach school lessons in rural areas"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"earn money\" ở đoạn 3 để định vị hình thức bán hàng trực tiếp cho người theo dõi qua các cửa hàng trực tuyến."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"challenging\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "enjoyable",
+       "B": "difficult",
+       "C": "pointless",
+       "D": "familiar"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"challenging\" ở đoạn 4 miêu tả công việc không hề dễ dàng, phải vắt óc suy nghĩ ý tưởng mới hàng tuần, mang nghĩa khó khăn, thử thách (difficult)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"this\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Watching short videos",
+       "B": "Making comedy sketches",
+       "C": "Moving to big cities",
+       "D": "Selling directly to followers"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"this\" ở đoạn 3. Đọc ngược lại câu văn ngay trước đó mô tả việc mở cửa hàng trực tuyến để bán hàng hóa trực tiếp cho người theo dõi (selling goods directly to followers online), đây là bước ngoặt lớn giúp người dân vùng nông thôn tiếp cận khách hàng thành thị."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, why do creators need to post often?",
+      "options": {
+       "A": "Viewers quickly leave if nothing new appears",
+       "B": "Apps remove any channel after a single week",
+       "C": "Brands pay creators for each new upload",
+       "D": "Rules forbid repeating a video in one year"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"post often\" ở đoạn 4 để nhận ra người xem sẽ nhanh chóng chuyển sang nội dung khác nếu không có gì mới xuất hiện."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT a difficulty for creators?",
+      "options": {
+       "A": "Needing to think of fresh ideas weekly",
+       "B": "Earning very little from videos that fail",
+       "C": "Having to pay taxes on every video",
+       "D": "Keeping up with the changing platform rules"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "rà soát các khó khăn được liệt kê ở đoạn 4: phải nghĩ ý tưởng mới hàng tuần, thu nhập bấp bênh từ video thất bại, và theo kịp quy định thay đổi; việc phải đóng thuế trên mỗi video hoàn toàn không được nhắc đến trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about content creation in China?",
+      "options": {
+       "A": "It will soon replace most traditional television shows",
+       "B": "It offers opportunities but success is not guaranteed",
+       "C": "It only helps people living in large cities",
+       "D": "Almost anyone can quickly earn a very high income"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ toàn bài về việc ngành sáng tạo nội dung mang lại cơ hội đổi đời cho nhiều người nhưng cũng đi kèm sự cạnh tranh khốc liệt, thu nhập bấp bênh và không phải ai cũng dễ dàng đạt thành công lớn, qua đó suy luận ra rằng ngành này mở ra cơ hội nhưng thành công không phải là điều được đảm bảo sẵn."
+     },
+     {
+      "number": 10,
+      "stem": "Why did the writer write this passage?",
+      "options": {
+       "A": "To explain why content creators have become popular",
+       "B": "To teach readers how to edit videos on phones",
+       "C": "To advertise a new video app for students",
+       "D": "To warn farmers against selling their goods online Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích viết",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích viết (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu sự bùng nổ của video ngắn và livestream tại Trung Quốc; đoạn 2 lý giải vì sao công việc này phổ biến và dễ tiếp cận; đoạn 3 bàn về các cách kiếm tiền và hỗ trợ nông dân vùng sâu vùng xa; đoạn 4 chỉ ra những thách thức, áp lực sáng tạo và quy định chặt chẽ; đoạn 5 kết luận về cơ hội và đòi hỏi sự kiên trì, trung thực. Do đó, phương án đúng cần phản ánh đầy đủ tốc độ phát triển nhanh chóng của các nhà sáng tạo nội dung đi kèm với những thách thức mà họ phải đối mặt.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R1Q2**, tìm từ khóa \"popular quickly\" hoặc \"platforms recommend\" ở đoạn 2 để thấy các nền tảng đề xuất video dựa trên sở thích của người xem, giúp nhà sáng tạo mới dễ được chú ý.\n  - Với **R1Q4**, quét từ khóa \"earn money\" ở đoạn 3 để định vị hình thức bán hàng trực tiếp cho người theo dõi qua các cửa hàng trực tuyến.\n  - Với **R1Q7**, tìm từ khóa \"post often\" ở đoạn 4 để nhận ra người xem sẽ nhanh chóng chuyển sang nội dung khác nếu không có gì mới xuất hiện.\n  - Với **R1Q8**, rà soát các khó khăn được liệt kê ở đoạn 4: phải nghĩ ý tưởng mới hàng tuần, thu nhập bấp bênh từ video thất bại, và theo kịp quy định thay đổi; việc phải đóng thuế trên mỗi video hoàn toàn không được nhắc đến trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"ordinary\"** ở đoạn 2 đi kèm với hoàn cảnh bình thường, không cần tên tuổi nổi tiếng vẫn có thể được xem, mang nghĩa bình thường (normal).\n  - Với **R1Q5**, từ **\"challenging\"** ở đoạn 4 miêu tả công việc không hề dễ dàng, phải vắt óc suy nghĩ ý tưởng mới hàng tuần, mang nghĩa khó khăn, thử thách (difficult).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ **\"this\"** ở đoạn 3. Đọc ngược lại câu văn ngay trước đó mô tả việc mở cửa hàng trực tuyến để bán hàng hóa trực tiếp cho người theo dõi (selling goods directly to followers online), đây là bước ngoặt lớn giúp người dân vùng nông thôn tiếp cận khách hàng thành thị.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ toàn bài về việc ngành sáng tạo nội dung mang lại cơ hội đổi đời cho nhiều người nhưng cũng đi kèm sự cạnh tranh khốc liệt, thu nhập bấp bênh và không phải ai cũng dễ dàng đạt thành công lớn, qua đó suy luận ra rằng ngành này mở ra cơ hội nhưng thành công không phải là điều được đảm bảo sẵn.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R1Q3, R1Q5) và Quy chiếu (R1Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như **Ý chính** (R1Q1), **Suy luận** (R1Q9) và **Mục đích viết** (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Impact of Sugary Drinks on Children's Health",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few parents would knowingly give a child something that harms their health, yet sugary drinks occupy a peculiar place in the modern diet. Soft drinks, sweetened juices, flavoured milk, and energy drinks are sold in nearly every shop and school canteen, and they are often seen as harmless treats rather than as a significant source of sugar. Health authorities, however, increasingly regard them as one of the most important dietary risks facing children.",
+     "The World Health Organization recommends that free sugars supply less than ten per cent of daily energy intake, with further benefits below five per cent. For a young child, that limit can be reached with a single can of fizzy drink, which typically contains the equivalent of several teaspoons of sugar. Liquid calories do little to reduce appetite, so children rarely compensate by eating less.",
+     "Excess weight in childhood is of particular concern because it often persists into adulthood. Studies in several countries have associated frequent consumption of sugar-sweetened drinks with higher body weight in children, and some trials suggest that reducing intake can slow weight gain. Researchers nevertheless caution that obesity has many causes, including inactivity, sleep, genetics, and family circumstances, so sugary drinks should be regarded as one contributor among several rather than as the sole culprit.",
+     "Dental health is, in many ways, affected even more directly than body weight. Bacteria in the mouth convert sugar into acids that gradually dissolve tooth enamel, and because children's enamel is thinner than adults', the damage can progress rapidly, particularly when drinks are sipped slowly throughout the day. Tooth decay remains among the most common chronic conditions of childhood worldwide, and in many countries it is a leading reason for young children to be admitted to hospital for treatment under general anaesthetic.",
+     "Marketing adds a further layer of influence that many parents find hard to resist. Manufacturers invest heavily in advertising aimed at children and adolescents through television, social media, and sponsorship, and the techniques they use are increasingly **aggressive**, relying on cartoon characters and celebrity endorsements. Brand preferences formed in childhood can last for decades, **which** makes early exposure commercially valuable and explains why public-health bodies have called for stricter limits.",
+     "Governments, schools, and health services have responded in several different ways in recent years. Sugar taxes in countries such as the United Kingdom and Mexico have been associated with reduced purchases and with reformulation of recipes, while some school systems have removed sweetened drinks from canteens and vending machines. Evidence on long-term health outcomes is still emerging, and critics point out that taxes can burden low-income families.",
+     "Families nevertheless remain central to any realistic attempt to reduce children's sugar intake. Offering water or milk as the default drink, keeping sugary beverages out of the house, and modelling healthy habits are simple measures that cost little and can establish preferences that last. Parents do not need to ban sweet drinks entirely, but treating them as occasional treats rather than daily staples can protect both teeth and long-term health. Ultimately, small, consistent choices made early in childhood often matter more than dramatic changes made later."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Fruit juice is always healthier than any fizzy soft drink",
+       "B": "Sugar taxes have eliminated childhood obesity in every country",
+       "C": "Sugary drinks harm children's health and need varied responses",
+       "D": "Children should be banned from drinking anything except water"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why do children often take in extra energy from sugary drinks?",
+      "options": {
+       "A": "Liquid calories barely affect appetite, so children keep eating",
+       "B": "Children drink larger cans than adults because they are thirstier",
+       "C": "Fizzy drinks contain more fat than most solid snacks",
+       "D": "Free sugars are digested more slowly than other foods"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"extra energy\" hoặc \"liquid calories\" ở đoạn 2 để thấy calo lỏng hầu như không làm giảm sự thèm ăn, khiến trẻ tiếp tục ăn mà không bù đắp năng lượng."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"persists\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "vanishes",
+       "B": "improves",
+       "C": "weakens",
+       "D": "continues"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"persists\" ở đoạn 3 đi kèm với việc thừa cân ở trẻ em kéo dài sang tuổi trưởng thành, mang nghĩa tiếp tục, kéo dài (continues)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why can dental damage progress quickly in children?",
+      "options": {
+       "A": "They brush their teeth far less often than most adults",
+       "B": "Their enamel is thinner, and drinks are sipped slowly",
+       "C": "Fizzy bubbles scrape the surface of every single tooth",
+       "D": "Hospitals usually delay all treatment until decay is severe"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"dental damage\" hoặc \"children's enamel\" ở đoạn 4 để thấy men răng của trẻ mỏng hơn và việc nhấm nháp đồ uống kéo dài khiến tổn hại tiến triển nhanh."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"aggressive\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "gentle",
+       "B": "honest",
+       "C": "forceful",
+       "D": "modest"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"aggressive\" ở đoạn 5 kết hợp với các kỹ thuật quảng cáo sử dụng nhân vật hoạt hình và người nổi tiếng nhắm đến trẻ em, mang nghĩa mạnh mẽ, quyết liệt, áp đảo (forceful)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Lasting brand preferences",
+       "B": "Cartoon characters",
+       "C": "Celebrity endorsements",
+       "D": "Public-health bodies"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"which\" ở đoạn 5. Đọc ngược lại mệnh đề ngay trước đó nói về việc sở thích thương hiệu hình thành từ thời thơ ấu có thể kéo dài trong nhiều thập kỷ, điều này làm cho việc tiếp cận sớm trở nên có giá trị thương mại cao."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what have sugar taxes been associated with?",
+      "options": {
+       "A": "A complete end to sugary drink advertising worldwide",
+       "B": "Lower purchases of sweet drinks and changes to recipes",
+       "C": "Large increases in the sales of fruit juice",
+       "D": "Higher incomes for families living in poorer regions"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"sugar taxes\" ở đoạn 6 để ghi nhận việc áp thuế đường gắn liền với việc giảm lượng mua đồ uống ngọt và cải tiến công thức sản phẩm."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT recommended for parents?",
+      "options": {
+       "A": "Offering water or milk as the default drink",
+       "B": "Keeping sugary beverages out of the house",
+       "C": "Modelling healthy habits in everyday family life",
+       "D": "Banning sweet drinks entirely in every circumstance"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các khuyến nghị dành cho phụ huynh ở đoạn 7: cung cấp nước hoặc sữa làm thức uống mặc định, giữ đồ uống ngọt ra khỏi nhà, và làm gương về thói quen lành mạnh đều được đề cập; việc cấm hoàn toàn đồ uống ngọt trong mọi hoàn cảnh là không được khuyến khích."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred about the writer's view of sugary drinks?",
+      "options": {
+       "A": "They contribute to childhood obesity without being its only cause",
+       "B": "They pose little risk compared with other dietary factors",
+       "C": "They are the main cause of every childhood illness",
+       "D": "They should be regulated more strictly than tobacco products"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ toàn bài, đặc biệt là đoạn 3 (tác giả chỉ ra béo phì có nhiều nguyên nhân nhưng đồ uống ngọt là một trong số các tác nhân đóng góp), từ đó suy luận ra rằng chúng góp phần gây ra béo phì ở trẻ em nhưng không phải là nguyên nhân duy nhất."
+     },
+     {
+      "number": 20,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To promote a new range of low-sugar soft drinks",
+       "B": "To compare school canteens in several different countries",
+       "C": "To examine how sugary drinks affect children's health",
+       "D": "To explain how tooth enamel forms in young children Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích viết",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích viết (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu sự phổ biến và rủi ro từ đồ uống ngọt; đoạn 2 phân tích cơ chế calo lỏng ảnh hưởng đến sự thèm ăn; đoạn 3 bàn về vấn đề cân nặng và béo phì; đoạn 4 nói về tổn hại răng miệng; đoạn 5 đề cập đến ảnh hưởng của tiếp thị và quảng cáo; đoạn 6 trình bày các giải pháp chính sách từ chính phủ (thuế đường); đoạn 7 nêu vai trò cốt lõi của gia đình trong việc thiết lập thói quen lành mạnh. Do đó, phương án đúng cần phản ánh đầy đủ hai khía cạnh: đồ uống có đường gây hại cho sức khỏe và đòi hỏi các biện pháp can thiệp đa dạng.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R2Q2**, tìm từ khóa \"extra energy\" hoặc \"liquid calories\" ở đoạn 2 để thấy calo lỏng hầu như không làm giảm sự thèm ăn, khiến trẻ tiếp tục ăn mà không bù đắp năng lượng.\n  - Với **R2Q4**, quét từ khóa \"dental damage\" hoặc \"children's enamel\" ở đoạn 4 để thấy men răng của trẻ mỏng hơn và việc nhấm nháp đồ uống kéo dài khiến tổn hại tiến triển nhanh.\n  - Với **R2Q7**, quét từ khóa \"sugar taxes\" ở đoạn 6 để ghi nhận việc áp thuế đường gắn liền với việc giảm lượng mua đồ uống ngọt và cải tiến công thức sản phẩm.\n  - Với **R2Q8**, đối chiếu các khuyến nghị dành cho phụ huynh ở đoạn 7: cung cấp nước hoặc sữa làm thức uống mặc định, giữ đồ uống ngọt ra khỏi nhà, và làm gương về thói quen lành mạnh đều được đề cập; việc cấm hoàn toàn đồ uống ngọt trong mọi hoàn cảnh là không được khuyến khích.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"persists\"** ở đoạn 3 đi kèm với việc thừa cân ở trẻ em kéo dài sang tuổi trưởng thành, mang nghĩa tiếp tục, kéo dài (continues).\n  - Với **R2Q5**, từ **\"aggressive\"** ở đoạn 5 kết hợp với các kỹ thuật quảng cáo sử dụng nhân vật hoạt hình và người nổi tiếng nhắm đến trẻ em, mang nghĩa mạnh mẽ, quyết liệt, áp đảo (forceful).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ **\"which\"** ở đoạn 5. Đọc ngược lại mệnh đề ngay trước đó nói về việc sở thích thương hiệu hình thành từ thời thơ ấu có thể kéo dài trong nhiều thập kỷ, điều này làm cho việc tiếp cận sớm trở nên có giá trị thương mại cao.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ toàn bài, đặc biệt là đoạn 3 (tác giả chỉ ra béo phì có nhiều nguyên nhân nhưng đồ uống ngọt là một trong số các tác nhân đóng góp), từ đó suy luận ra rằng chúng góp phần gây ra béo phì ở trẻ em nhưng không phải là nguyên nhân duy nhất.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R2Q3, R2Q5) và Quy chiếu (R2Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như **Ý chính** (R2Q1), **Suy luận** (R2Q9) và **Mục đích viết** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Social Structure and Survival of African Lions",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Lions are the only truly social big cats, and their social life is highly distinctive. Whereas leopards, tigers, and jaguars live largely solitary lives, lions form groups called prides, which typically consist of several related females, their offspring, and a small number of adult males. Understanding why lions evolved this unusual arrangement helps to explain both their success as predators and their **vulnerability** as a species.",
+     "The core of a pride is its females, who usually remain in the group for life. Related lionesses cooperate in hunting, often fanning out to ambush prey such as zebra, wildebeest, and buffalo, which would be difficult for a single animal to bring down. They also raise cubs communally, with mothers sometimes nursing one another's young, a habit that improves the survival chances of the cubs when food is scarce.",
+     "Males play a different role. **[1]** Young males are usually driven out of their birth pride at around two or three years of age and spend several years as nomads before attempting to take over a pride of their own. **[2]** Success often depends on forming a coalition with brothers or unrelated companions, since larger groups of males are better able to defeat rivals and hold a territory. **[3]** A coalition that takes over a pride may remain in control for a few years before being displaced in turn. **[4]** During that time the males patrol the territory and father the cubs.",
+     "Takeovers carry a grim consequence that has fascinated and troubled researchers for decades. A new coalition often kills the cubs sired by its predecessors, a behaviour known as infanticide, because the cubs' death brings the lionesses back into breeding condition sooner. Although **this** seems brutal, many biologists regard it as a reproductive strategy shaped by the short tenure of males rather than as evidence of aggression for its own sake. For females, the risk explains why mothers often defend cubs fiercely and why larger prides tend to resist takeovers more effectively.",
+     "Pride size and territory depend largely on how much prey is available in an area. In areas rich in herbivores, prides may be large and territories compact, whereas in arid regions prides are often smaller and range over far greater distances. Lions are not tireless hunters, since they rely on short bursts of speed, and they typically spend most of the day resting to conserve energy for evening and night hunts.",
+     "Despite their formidable reputation, lions are in serious decline across most of Africa. Estimates suggest that the African population has fallen by roughly forty per cent over two decades, and that only some twenty thousand animals now survive in the wild. The principal threats are loss of habitat to agriculture and settlement, **depletion** of wild prey through hunting for meat, and retaliatory killing by livestock owners whose animals have been attacked. Together, these pressures have split populations into small isolated groups that cannot easily exchange genes.",
+     "Conservation efforts increasingly emphasise coexistence rather than separation. Community conservancies, in which local residents share income from tourism, compensation schemes for lost livestock, and reinforced night enclosures for cattle have reduced conflict in several regions. Their long-term success, however, depends on reliable funding and local trust. Protecting lions also protects the grasslands and herbivore populations on which many other species depend. The future of the species will therefore rest less on the strength of the animals than on the willingness of human neighbours to share space with them."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Male lions raise cubs alone while females defend territories",
+       "B": "Lion populations have recovered fully thanks to conservation fences",
+       "C": "Lion society shapes hunting and breeding but faces human threats",
+       "D": "Lions live in groups only when prey is extremely scarce"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what advantage does communal cub-rearing provide?",
+      "options": {
+       "A": "Cubs are more likely to survive when food is scarce",
+       "B": "Males are relieved from patrolling the territory entirely",
+       "C": "Cubs learn to hunt buffalo earlier than other cats",
+       "D": "Mothers can leave the pride without risking takeovers"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"communal cub-rearing\" ở đoạn 2 để thấy việc nuôi dạy con chung giúp cải thiện cơ hội sống sót của sư tử con khi thức ăn khan hiếm."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"vulnerability\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "resistance to disease",
+       "B": "demand for space",
+       "C": "appetite for meat",
+       "D": "exposure to harm"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"vulnerability\" ở đoạn 1 đi kèm bối cảnh sư tử dễ bị tổn thương trước các áp lực sinh tồn và con người, mang nghĩa nguy cơ chịu tổn thương, phơi bày trước hiểm họa (exposure to harm)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Few of them, however, succeed in this ambition on their own.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ ý nghĩa câu cần chèn 'Few of them, however, succeed in this ambition on their own.' (Tuy nhiên, rất ít trong số chúng thành công trong tham vọng này một mình). Cụm từ 'this ambition' chỉ tham vọng tự lập chiếm đoạt bầy sư tử riêng được nhắc đến ngay trước đó ở vị trí [1] (khi sư tử đực trẻ rời bầy đi lang thang). Do đó, vị trí [2] là hoàn hảo để tiếp nối câu này, ngay trước câu giải thích rằng thành công phụ thuộc vào việc lập liên minh với anh em hoặc những con khác."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, why do lions spend most of the day resting?",
+      "options": {
+       "A": "Daylight hunting is forbidden inside most national parks",
+       "B": "Their prey is active only during the hottest hours",
+       "C": "To conserve energy for evening and night hunts",
+       "D": "Their territories are too small for daytime movement"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"spend most of the day resting\" ở đoạn 5 để thấy chúng nghỉ ngơi nhằm tiết kiệm năng lượng cho các cuộc săn mồi vào buổi tối và ban đêm."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"this\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Killing a rival's cubs",
+       "B": "Hunting in groups",
+       "C": "Raising cubs communally",
+       "D": "Defending the territory"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"this\" ở đoạn 4. Đọc ngược lại câu văn ngay trước đó mô tả hành động con đực mới chiếm bầy tiêu diệt những con non do con đực tiền nhiệm sinh ra (infanticide), giúp đưa sư tử cái trở lại chu kỳ động dục sớm hơn."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"depletion\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "expansion",
+       "B": "reduction",
+       "C": "protection",
+       "D": "regulation"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"depletion\" ở đoạn 6 kết hợp với việc nguồn con mồi hoang dã bị săn bắt cạn kiệt, mang nghĩa sự suy giảm, làm cạn kiệt (reduction)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT identified as a principal threat?",
+      "options": {
+       "A": "Loss of habitat to agriculture and settlement",
+       "B": "Declining wild prey caused by hunting for meat",
+       "C": "Retaliatory killing by owners of attacked livestock",
+       "D": "Widespread disease outbreaks spreading between neighbouring prides"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "rà soát các mối đe dọa chính ở đoạn 6: mất môi trường sống do nông nghiệp, suy giảm con mồi do săn bắt, và trả thù do giết gia súc đều được nêu; việc bùng phát dịch bệnh lây lan giữa các bầy hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about fragmented lion populations?",
+      "options": {
+       "A": "Isolated groups may recover slowly as pressures compound",
+       "B": "Isolated reserves guarantee that every pride will breed successfully",
+       "C": "Takeovers would become impossible once small populations are fragmented",
+       "D": "Fragmentation mainly benefits males by reducing competition between rivals"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc các quần thể bị chia cắt thành những nhóm nhỏ biệt lập, từ đó suy luận ra rằng các nhóm bị cô lập này có thể phục hồi rất chậm khi các áp lực sinh tồn và giao phối cận huyết chồng chất lên nhau."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote safari tourism in several African countries",
+       "B": "To compare lions with tigers, leopards, and jaguars",
+       "C": "To explain lion society and its conservation threats",
+       "D": "To argue that all wild predators should be relocated Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích viết (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu tập tính sống theo bầy đàn độc đáo của sư tử; đoạn 2 nói về vai trò của con cái trong săn bắt và nuôi dạy con chung; đoạn 3 mô tả vai trò và cuộc sống du mục của con đực; đoạn 4 bàn về hiện tượng sát hại con non (infanticide) trong các cuộc lật đổ bầy; đoạn 5 nói về ảnh hưởng của nguồn thức ăn và thói quen nghỉ ngơi; đoạn 6 đề cập đến các mối đe dọa suy giảm số lượng do con người; đoạn 7 kết luận về hướng giải pháp bảo tồn thông qua sự chung sống. Do đó, phương án đúng cần phản ánh đầy đủ: xã hội sư tử định hình cách săn mồi và sinh sản nhưng đồng thời đang đối mặt với các mối đe dọa từ con người.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R3Q2**, tìm từ khóa \"communal cub-rearing\" ở đoạn 2 để thấy việc nuôi dạy con chung giúp cải thiện cơ hội sống sót của sư tử con khi thức ăn khan hiếm.\n  - Với **R3Q5**, quét từ khóa \"spend most of the day resting\" ở đoạn 5 để thấy chúng nghỉ ngơi nhằm tiết kiệm năng lượng cho các cuộc săn mồi vào buổi tối và ban đêm.\n  - Với **R3Q8**, rà soát các mối đe dọa chính ở đoạn 6: mất môi trường sống do nông nghiệp, suy giảm con mồi do săn bắt, và trả thù do giết gia súc đều được nêu; việc bùng phát dịch bệnh lây lan giữa các bầy hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Chèn câu (R3Q4):** Đọc kỹ ý nghĩa câu cần chèn 'Few of them, however, succeed in this ambition on their own.' (Tuy nhiên, rất ít trong số chúng thành công trong tham vọng này một mình). Cụm từ 'this ambition' chỉ tham vọng tự lập chiếm đoạt bầy sư tử riêng được nhắc đến ngay trước đó ở vị trí [1] (khi sư tử đực trẻ rời bầy đi lang thang). Do đó, vị trí [2] là hoàn hảo để tiếp nối câu này, ngay trước câu giải thích rằng thành công phụ thuộc vào việc lập liên minh với anh em hoặc những con khác.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"vulnerability\"** ở đoạn 1 đi kèm bối cảnh sư tử dễ bị tổn thương trước các áp lực sinh tồn và con người, mang nghĩa nguy cơ chịu tổn thương, phơi bày trước hiểm họa (exposure to harm).\n  - Với **R3Q7**, từ **\"depletion\"** ở đoạn 6 kết hợp với việc nguồn con mồi hoang dã bị săn bắt cạn kiệt, mang nghĩa sự suy giảm, làm cạn kiệt (reduction).\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ **\"this\"** ở đoạn 4. Đọc ngược lại câu văn ngay trước đó mô tả hành động con đực mới chiếm bầy tiêu diệt những con non do con đực tiền nhiệm sinh ra (infanticide), giúp đưa sư tử cái trở lại chu kỳ động dục sớm hơn.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc các quần thể bị chia cắt thành những nhóm nhỏ biệt lập, từ đó suy luận ra rằng các nhóm bị cô lập này có thể phục hồi rất chậm khi các áp lực sinh tồn và giao phối cận huyết chồng chất lên nhau.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R3Q3, R3Q7) và Quy chiếu (R3Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R3Q2, R3Q5, R3Q8) và câu hỏi **Chèn** câu (R3Q4). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như Ý chính (R3Q1), **Suy luận** (R3Q9) và **Mục đích viết** (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Evolution and Challenges of Postgraduate Education",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Postgraduate education, as the term is understood today, owes much to the nineteenth-century German university, where research and teaching were first combined into a single mission. The doctoral degree emerged as a certification that its holder had made an original contribution to knowledge, and the model spread to the United States, Britain, and eventually across the world. For decades, such degrees were pursued by a small minority and led almost automatically to academic careers.",
+     "That picture has changed dramatically over the past half-century, though unevenly across countries. Postgraduate enrolment has expanded in most regions as economies have come to rely on specialised knowledge, and master's programmes in particular have **proliferated**, offering routes into professions ranging from engineering to public administration. Governments and universities have encouraged this growth, partly because postgraduate courses generate substantial fee income, and partly because a more highly qualified workforce is believed to improve productivity and innovation.",
+     "The expansion has created a structural mismatch. **[1]** The number of doctorates awarded in many countries has risen faster than the number of permanent academic posts, so a large proportion of graduates must seek careers outside universities. **[2]** Many of these graduates find that their training has prepared them well for analytical work but less well for the commercial settings in which they now find themselves. **[3]** Such misunderstanding is common, because doctoral study is often mistaken for narrow specialisation rather than training in independent problem-solving. **[4]** Some institutions have therefore introduced professional development programmes, internships, and partnerships with industry.",
+     "Alongside these structural problems, researchers have documented a worrying pattern of psychological strain among postgraduate students. Surveys in several countries report rates of anxiety and depression that substantially exceed those of the general population, a finding that is difficult to dismiss even allowing for differences in methodology. Contributing factors include financial insecurity, isolation, uncertain career prospects, and dependence on a single supervisor whose guidance, availability, and temperament can shape a student's entire experience. Such pressures contribute to high **attrition** in some disciplines, where a significant fraction of students leave without completing their degrees.",
+     "Funding structures intensify these difficulties for students in many parts of the world. In many systems, doctoral students depend on stipends that have failed to keep pace with living costs, while others, particularly in master's programmes, finance their studies through loans whose repayment may extend for decades. International students, who often pay higher fees, face obstacles such as visa restrictions and limited eligibility for scholarships, and universities that depend on **them** for income have been criticised for offering too little support.",
+     "A wide range of reform proposals have therefore emerged, and some are already being tested. Some universities have introduced mandatory supervisory training, co-supervision arrangements, and formal mentoring, so that students are not dependent on a single academic. Others have broadened doctoral curricula to include communication, entrepreneurship, and data skills, and have expanded professional doctorates designed for practitioners who wish to remain in their careers while conducting rigorous research. Evidence on whether these initiatives improve outcomes is still limited, although early results suggest that clear expectations and regular feedback matter more than any single structural change.",
+     "Postgraduate education therefore stands at a crossroads, with its future depending on choices now being made. Its expansion has widened access to advanced learning, yet it has also exposed weaknesses in funding, supervision, and career pathways that are difficult to sustain at scale. Whether institutions respond by treating students as apprentices to be supported or as inexpensive labour to be managed will shape not only individual careers but also the quality of research itself."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Doctoral degrees remain restricted to a small academic elite worldwide",
+       "B": "Postgraduate study has grown rapidly yet faces structural problems",
+       "C": "Master's programmes have replaced doctorates in every major discipline",
+       "D": "Universities have solved supervision problems through mandatory mentoring schemes"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what did the doctoral degree originally certify?",
+      "options": {
+       "A": "The holder could teach several subjects fluently to students",
+       "B": "Compulsory national service had been completed by the holder",
+       "C": "Training in a German laboratory had been successfully completed",
+       "D": "Original work by the holder had advanced knowledge"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"doctoral degree originally certify\" ở đoạn 1 để thấy bằng tiến sĩ ban đầu xác nhận việc người sở hữu đã có đóng góp ban đầu vào tri thức (original work that advanced knowledge)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"proliferated\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "multiplied",
+       "B": "disappeared",
+       "C": "stabilised",
+       "D": "weakened"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"proliferated\" ở đoạn 2 đi kèm với sự gia tăng mạnh mẽ của các chương trình thạc sĩ, mang nghĩa nhân lên, phát triển nhanh chóng (multiplied)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Employers, meanwhile, frequently misjudge what a doctorate involves.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ ý nghĩa câu cần chèn 'Employers, meanwhile, frequently misjudge what a doctorate involves.' (Trong khi đó, nhà tuyển dụng thường xuyên đánh giá sai về nội dung cốt lõi của bằng tiến sĩ). Cụm từ 'Employers' nói về nhà tuyển dụng/môi trường thương mại, nối tiếp ngay sau câu [2] nói về việc tốt nghiệp ra môi trường thương mại bên ngoài, và đứng ngay trước câu giải thích về sự hiểu lầm phổ biến này ở vị trí [3]. Do đó, vị trí [3] là hoàn hảo để chèn câu này."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, which factor can shape a student's entire experience?",
+      "options": {
+       "A": "The prestige of the university's sports facilities",
+       "B": "The location of the nearest public library",
+       "C": "The number of lectures scheduled each semester",
+       "D": "Dependence on one supervisor's guidance, availability, and temperament"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"shape a student's entire experience\" ở đoạn 4 để thấy yếu tố phụ thuộc vào sự hướng dẫn, mức độ sẵn sàng và tính cách của một người giám sát duy nhất."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"them\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Doctoral students",
+       "B": "International students",
+       "C": "Scholarship providers",
+       "D": "Master's programmes"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"them\" ở đoạn 5. Đọc ngược lại câu văn trước nhắc đến nhóm sinh viên quốc tế (international students) – những người phải trả học phí cao và là nguồn thu nhập quan trọng cho các trường đại học nhưng ít nhận được sự hỗ trợ."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"attrition\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "increase in fees",
+       "B": "growth of enrolment",
+       "C": "gradual loss of students",
+       "D": "shift in focus"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"attrition\" ở đoạn 4 xuất hiện trong bối cảnh sinh viên rời bỏ chương trình trước khi hoàn thành bằng cấp do áp lực, mang nghĩa sự sụt giảm dần sinh viên, tỷ lệ bỏ học (gradual loss of students)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reform?",
+      "options": {
+       "A": "Abolishing doctorates in favour of master's programmes",
+       "B": "Compulsory supervisory training for doctoral research advisers",
+       "C": "Curricula that include communication and data skills",
+       "D": "Professional doctorates designed for practitioners in work"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "rà soát danh sách cải cách ở đoạn 6: đào tạo giám sát bắt buộc, chương trình đào tạo kỹ năng truyền thông/dữ liệu, và bằng tiến sĩ chuyên nghiệp đều được đề cập; việc bãi bỏ bằng tiến sĩ để ưu tiên thạc sĩ không hề xuất hiện."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 3, 4, and 5 about postgraduate students?",
+      "options": {
+       "A": "Strain mainly results from excessive coursework in year one",
+       "B": "Financial and career uncertainty probably intensify psychological strain",
+       "C": "Students with scholarships never experience anxiety or isolation",
+       "D": "Employers now prefer candidates without any postgraduate training"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 5 về các khó khăn tài chính, sự cô lập, bất định trong sự nghiệp và áp lực tâm lý, từ đó suy luận ra rằng sự bất định về tài chính và nghề nghiệp có lẽ làm gia tăng thêm áp lực tâm lý cho sinh viên."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To advise students on choosing between master's and doctoral degrees",
+       "B": "To argue that universities should abolish postgraduate tuition fees",
+       "C": "To compare German and American university systems in detail",
+       "D": "To examine postgraduate education's evolution and its challenges"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích viết (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu nguồn gốc và sự độc quyền ban đầu của bằng tiến sĩ; đoạn 2 nói về sự mở rộng nhanh chóng của chương trình sau đại học và thạc sĩ; đoạn 3 chỉ ra sự mất cân đối cấu trúc giữa số lượng tiến sĩ và thị trường việc làm; đoạn 4 bàn về vấn đề áp lực tâm lý và tỷ lệ bỏ học; đoạn 5 đề cập đến khó khăn về tài chính và học phí; đoạn 6 trình bày các đề xuất cải cách và giải pháp từ trường đại học; đoạn 7 kết luận về ngã rẽ và tương lai của giáo dục sau đại học. Do đó, phương án đúng cần phản ánh việc giáo dục sau đại học đã phát triển mạnh mẽ nhưng cũng đối mặt với nhiều vấn đề cấu trúc.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R4Q2**, tìm từ khóa \"doctoral degree originally certify\" ở đoạn 1 để thấy bằng tiến sĩ ban đầu xác nhận việc người sở hữu đã có đóng góp ban đầu vào tri thức (original work that advanced knowledge).\n  - Với **R4Q5**, quét từ khóa \"shape a student's entire experience\" ở đoạn 4 để thấy yếu tố phụ thuộc vào sự hướng dẫn, mức độ sẵn sàng và tính cách của một người giám sát duy nhất.\n  - Với **R4Q8**, rà soát danh sách cải cách ở đoạn 6: đào tạo giám sát bắt buộc, chương trình đào tạo kỹ năng truyền thông/dữ liệu, và bằng tiến sĩ chuyên nghiệp đều được đề cập; việc bãi bỏ bằng tiến sĩ để ưu tiên thạc sĩ không hề xuất hiện.\n- **Dạng câu hỏi Chèn câu (R4Q4):** Đọc kỹ ý nghĩa câu cần chèn 'Employers, meanwhile, frequently misjudge what a doctorate involves.' (Trong khi đó, nhà tuyển dụng thường xuyên đánh giá sai về nội dung cốt lõi của bằng tiến sĩ). Cụm từ 'Employers' nói về nhà tuyển dụng/môi trường thương mại, nối tiếp ngay sau câu [2] nói về việc tốt nghiệp ra môi trường thương mại bên ngoài, và đứng ngay trước câu giải thích về sự hiểu lầm phổ biến này ở vị trí [3]. Do đó, vị trí [3] là hoàn hảo để chèn câu này.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"proliferated\"** ở đoạn 2 đi kèm với sự gia tăng mạnh mẽ của các chương trình thạc sĩ, mang nghĩa nhân lên, phát triển nhanh chóng (multiplied).\n  - Với **R4Q7**, từ **\"attrition\"** ở đoạn 4 xuất hiện trong bối cảnh sinh viên rời bỏ chương trình trước khi hoàn thành bằng cấp do áp lực, mang nghĩa sự sụt giảm dần sinh viên, tỷ lệ bỏ học (gradual loss of students).\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ **\"them\"** ở đoạn 5. Đọc ngược lại câu văn trước nhắc đến nhóm sinh viên quốc tế (international students) – những người phải trả học phí cao và là nguồn thu nhập quan trọng cho các trường đại học nhưng ít nhận được sự hỗ trợ.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 5 về các khó khăn tài chính, sự cô lập, bất định trong sự nghiệp và áp lực tâm lý, từ đó suy luận ra rằng sự bất định về tài chính và nghề nghiệp có lẽ làm gia tăng thêm áp lực tâm lý cho sinh viên.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R4Q3, R4Q7) và Quy chiếu (R4Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R4Q2, R4Q5, R4Q8) và câu hỏi **Chèn** câu (R4Q4). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như Ý chính (R4Q1), **Suy luận** (R4Q9) và **Mục đích viết** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Shara.\nShe is doing a small project about digital habits and asked you for some information. Read part of her email below. I am writing an article about how young people use technology nowadays.\n- How much time do you spend on social media every day?\n- What kinds of social media platforms do you usually use?\n- In your opinion, what are the effects of social media on your life?\nWrite an email responding to Shara. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Shara.",
+      "She is doing a small project about digital habits and asked you for some information. Read part of her email below."
+     ],
+     "quote": [
+      "I am writing an article about how young people use technology nowadays.",
+      "- How much time do you spend on social media every day?",
+      "- What kinds of social media platforms do you usually use?",
+      "- In your opinion, what are the effects of social media on your life?"
+     ],
+     "instruction": "Write an email responding to Shara. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Dạng đề: Thư thân mật (Informal Email).\n- Yêu cầu: Trả lời 3 câu hỏi của Shara về thời gian sử dụng, các loại mạng xã hội và tác động của chúng.\n- Độ dài: Ít nhất 120 từ.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Dear Shara, / Hi Shara,\n- **Opening:** Cảm ơn thư và hào hứng tham gia dự án của bạn. Ví dụ: \"It's great to hear about your project! I'm more than happy to help you with some information.\"\n- **Body 1:** Trả lời về thời gian (ví dụ: 2-3 tiếng/ngày) và các ứng dụng thường dùng (Facebook, TikTok, Instagram).\n- **Body 2:** Nêu tác động (tích cực: kết nối bạn bè, học tập; tiêu cực: xao nhãng, mỏi mắt).\n- **Closing:** Chúc dự án thành công. Ví dụ: \"I hope this helps your article. Good luck!\"\n- **Sign-off:** Best, / Cheers, [Tên của bạn].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng các trạng từ chỉ tần suất và cấu trúc diễn đạt ý kiến.\nTừ vựng quan trọng:\n- **Social networking sites:** Các trang mạng xã hội\n- **Scroll through:** Lướt (tin tức, mạng xã hội)\n- **Addicted to:** Nghiện cái gì đó\n- **Keep in touch with:** Giữ liên lạc với\n- **Stay updated:** Cập nhật thông tin\n- **Cyberbullying:** Bắt nạt qua mạng\nTừ nối (Linking words):\n- **To be honest:** Thú thật là\n- **Mainly:** Chủ yếu là\n- **On top of that:** Thêm vào đó\n- **As a result:** Kết quả là\n- **In contrast:** Ngược lại\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I find it quite useful:** Tôi thấy nó khá hữu ích.\n- **It's a bit overwhelming sometimes:** Đôi khi nó hơi quá tải.\n- **I can't imagine life without it:** Tôi không thể tưởng tượng cuộc sống thiếu nó.\n\n**4. Các lỗi thường gặp:**\n- Liệt kê quá nhiều tên mạng xã hội mà không giải thích cách dùng.\n- Sử dụng văn phong quá trang trọng.\n- Quên chia động từ ở thì hiện tại đơn.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã nêu đủ 3 ý chưa.\n- Soát lỗi chính tả các từ phổ biến như \"media\", \"social\", \"believe\".\n\n**6. Tư duy làm bài:**\n- Hãy viết thật tự nhiên như đang nhắn tin cho bạn. Tác động của mạng xã hội nên bao gồm cả hai mặt để bài viết sâu sắc hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn many parts of the world, there is a growing trend of people moving from large, crowded cities to the quiet countryside.\nWhile this shift offers a more peaceful lifestyle, it also brings certain challenges for those who are used to urban convenience.\nDiscuss the advantages and disadvantages of moving from big cities to the countryside.\nWrite an essay to an educated reader to discuss the advantages and disadvantages of moving from big cities to the countryside. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In many parts of the world, there is a growing trend of people moving from large, crowded cities to the quiet countryside.",
+      "While this shift offers a more peaceful lifestyle, it also brings certain challenges for those who are used to urban convenience.",
+      "Discuss the advantages and disadvantages of moving from big cities to the countryside."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages and disadvantages of moving from big cities to the countryside. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Advantages and Disadvantages (Thảo luận ưu - nhược điểm).\n- Chủ đề: Xu hướng chuyển từ thành phố về nông thôn.\n- Yêu cầu: Phân tích các lợi ích (không khí trong lành, chi phí rẻ) và khó khăn (thiếu tiện ích, cơ hội việc làm).\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu xu hướng \"bỏ phố về quê\" và nêu mục tiêu bài viết là thảo luận cả hai mặt.\n- **Body 1 (Advantages):** Phân tích về chất lượng cuộc sống (ít ô nhiễm, gần gũi thiên nhiên) và chi phí sinh hoạt thấp hơn. Ví dụ: \"Living in the countryside allows people to enjoy a pace of life that is much slower and less stressful.\"\n- **Body 2 (Disadvantages):** Phân tích về sự thiếu hụt dịch vụ y tế, giáo dục chất lượng cao và ít cơ hội nghề nghiệp. Ví dụ: \"The most significant drawback is the lack of modern infrastructure and professional career prospects.\"\n- **Conclusion:** Tóm tắt lại và đưa ra lời khuyên (việc di chuyển tùy thuộc vào nhu cầu và độ tuổi của mỗi người).\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng các cấu trúc so sánh giữa thành thị và nông thôn.\nTừ vựng quan trọng:\n- **Urban-to-rural migration:** Di cư từ thành thị về nông thôn\n- **Pace of life:** Nhịp sống\n- **Cost of living:** Chi phí sinh hoạt\n- **Health facilities:** Cơ sở y tế\n- **Peace and tranquility:** Sự bình yên và tĩnh lặng\n- **Employment opportunities:** Cơ hội việc làm\nTừ nối (Linking words):\n- **First and foremost:** Đầu tiên và quan trọng nhất\n- **In addition:** Thêm vào đó\n- **Conversely:** Ngược lại\n- **However:** Tuy nhiên\n- **Consequently:** Hậu quả là/Kết quả là\n- **To sum up:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Relocating to rural areas:** Thay cho \"moving to the countryside\".\n- **Metropolitan lifestyle:** Thay cho \"living in big cities\".\n- **Remote regions:** Thay cho \"countryside\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **There are several compelling benefits to...:** Có một vài lợi ích thuyết phục cho việc...\n- **This trend presents a number of difficulties:** Xu hướng này đặt ra một số khó khăn.\n- **Compared to urban dwellers:** So với những người dân thành phố.\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung vào lợi ích mà quên nói về khó khăn.\n- Dùng từ ngữ quá bình dân, thiếu các thuật ngữ học thuật như \"infrastructure\" hay \"migration\".\n- Bố cục không rõ ràng giữa hai đoạn thân bài.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra tính thống nhất của các ý trong đoạn.\n- Đảm bảo các ví dụ đưa ra thực sự liên quan đến luận điểm.\n- Soát lỗi ngữ pháp về mạo từ (a, an, the) và danh từ số nhiều.\n\n**6. Tư duy làm bài:**\n- Hãy nghĩ về các đối tượng khác nhau (người già nghỉ hưu vs. người trẻ làm việc tự do) để có cái nhìn đa chiều về việc di chuyển này."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about holidays\n\n1\nWhat is your favorite holiday of the year? Why?\n2\nWhat do you usually do during your holidays?\n3\nDo you prefer spending holidays at home or going to another city?\n\nNow, let’s talk about memories\n\n4\nDo you have a good memory or do you often forget things?\n5\nWhat is your earliest childhood memory that you can still remember?\n6\nHow do you usually keep memories of your trips? Do you take photos or write a diary?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói gồm 6 câu hỏi cá nhân trong khoảng 3 phút nhằm kiểm tra khả năng phản xạ và giao tiếp tự nhiên của bạn.\n- **Topic A (Holidays):** Các câu hỏi 1–3 tập trung vào ngày lễ, hoạt động trong kỳ nghỉ và sở thích du lịch. Giám khảo muốn đánh giá khả năng mô tả trải nghiệm và bày tỏ sở thích cá nhân.\n- **Topic B (Childhood):** Các câu hỏi 4–6 tập trung vào trí nhớ, ký ức tuổi thơ và cách lưu giữ kỷ niệm. Bạn cần diễn đạt cảm xúc và kể lại trải nghiệm một cách tự nhiên.\n- Tiêu chí chấm điểm gồm: Fluency (độ trôi chảy), Vocabulary (từ vựng), Grammar (ngữ pháp) và Pronunciation (phát âm).\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và tránh nói quá dài ở một câu rồi thiếu thời gian cho các câu sau.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer -> Reason -> Example để câu trả lời rõ ràng và dễ phát triển ý.\n- **Ví dụ Topic A:** My favorite holiday is Tet because it is the time when my family gathers together and enjoys traditional food.\n- **Ví dụ Topic B:** I usually keep memories by taking photos because they help me remember special moments more clearly.\n- Luôn tự hỏi “Why?”, “How?” hoặc “When?” để mở rộng câu trả lời.\n- Khi chuyển từ chủ đề kỳ nghỉ sang ký ức, bạn có thể dùng câu như: Speaking of holidays, many of my favorite memories were created during family trips.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói tự nhiên và sử dụng filler như “Well”, “Actually”, “To be honest” để tránh khoảng lặng dài.\n- Dùng hiện tại đơn để nói về thói quen và quá khứ đơn khi kể về ký ức tuổi thơ.\n- Nếu quên từ vựng, hãy mô tả ý bằng những từ đơn giản hơn thay vì dừng lại.\n- Từ vựng Topic A: family gathering (họp mặt gia đình), holiday destination (điểm du lịch), relax and recharge (thư giãn và nạp lại năng lượng), festive atmosphere (không khí lễ hội).\n- Từ vựng Topic B: childhood memory (ký ức tuổi thơ), unforgettable moment (khoảnh khắc khó quên), photo album (album ảnh), keep memories alive (giữ ký ức sống mãi).\nCụm từ quan trọng nên dùng:\n- Spend quality time with family – dành thời gian chất lượng với gia đình\n- Take a short vacation – đi nghỉ ngắn ngày\n- Enjoy the festive atmosphere – tận hưởng không khí lễ hội\n- Bring back memories – gợi lại ký ức\n- Capture special moments – lưu giữ khoảnh khắc đặc biệt\n- Have a sharp memory – có trí nhớ tốt\nTừ nối khi nói (Linking Words):\n- First of all – trước tiên\n- Besides that – bên cạnh đó\n- For example – ví dụ\n- As a result – kết quả là\n- On the other hand – mặt khác\nCách thể hiện quan điểm tự nhiên:\n- I personally believe that holidays are important because they help people relax. – Tôi tin rằng kỳ nghỉ rất quan trọng vì chúng giúp mọi người thư giãn.\n- From my perspective, childhood memories can strongly influence a person’s personality. – Theo quan điểm của tôi, ký ức tuổi thơ có thể ảnh hưởng lớn đến tính cách con người.\n- As far as I am concerned, traveling during holidays is more exciting than staying at home. – Theo tôi, đi du lịch trong kỳ nghỉ thú vị hơn ở nhà.\n- I would say that taking photos is the easiest way to keep memories. – Tôi cho rằng chụp ảnh là cách dễ nhất để lưu giữ kỷ niệm.\n- Personally, I enjoy spending holidays with my family rather than traveling alone. – Cá nhân tôi thích dành kỳ nghỉ với gia đình hơn là đi một mình.\n- In my opinion, memories become more meaningful as we grow older. – Theo tôi, ký ức trở nên ý nghĩa hơn khi chúng ta trưởng thành.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn chỉ bằng “Yes” hoặc “No”.\n- Kể quá nhiều chi tiết không liên quan khi nói về kỳ nghỉ hoặc tuổi thơ.\n- Lặp lại các từ đơn giản như happy, good hoặc interesting quá nhiều.\n- Dùng sai thì khi kể về ký ức trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Sử dụng câu đệm như: That is an interesting question. Let me think for a second.\n- Nếu quên từ, hãy mô tả cảm xúc hoặc chức năng của sự việc đó.\n- Với Topic A, nếu ít đi du lịch, bạn có thể nói về các hoạt động đơn giản ở nhà.\n- Với Topic B, nếu khó nhớ kỷ niệm cụ thể, hãy kể về một trải nghiệm chung với gia đình hoặc bạn bè.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem phần thi như một cuộc trò chuyện tự nhiên thay vì một bài phát biểu học thuộc.\n- Khi chuyển chủ đề, hãy điều chỉnh giọng điệu linh hoạt để tạo cảm giác tự nhiên.\n- Sự trôi chảy và mạch lạc quan trọng hơn việc cố dùng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nA school is planning to organize an educational program for its students.\n\nYou are considering the following options:\n\nOption 1: A tour of artistic architecture in the city\nOption 2: A traditional folk music performance and workshop\nOption 3: A field trip related to local geography\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đề bài yêu cầu bạn lựa chọn chương trình giáo dục phù hợp nhất cho học sinh.\n- Ba lựa chọn gồm: tham quan kiến trúc nghệ thuật, workshop âm nhạc dân gian và chuyến đi thực tế về địa lý địa phương.\n- Giám khảo muốn đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định rõ ràng.\n- Thời gian làm bài là 4 phút, nên dành khoảng 1 phút chuẩn bị và khoảng 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để triển khai bài nói logic.\n- Option 1 giúp học sinh hiểu thêm về nghệ thuật và lịch sử của thành phố nhưng có thể hơi học thuật với một số học sinh.\n- Option 2 mang tính tương tác cao, giúp học sinh hiểu văn hóa truyền thống và phát triển kỹ năng giao tiếp.\n- Option 3 giúp học sinh học thực tế ngoài lớp học nhưng phụ thuộc nhiều vào điều kiện thời tiết và tổ chức.\n- Hãy liên hệ với trải nghiệm học tập thực tế của học sinh để bài nói tự nhiên hơn.\n- Sử dụng các từ nối đối lập như however, in contrast hoặc compared to để chuyển ý mượt mà.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói từng lựa chọn độc lập.\n- Dùng hiện tại đơn để nói về ưu và nhược điểm chung của từng chương trình.\n- Nếu quên từ vựng học thuật, hãy dùng cách diễn đạt đơn giản như learning outside the classroom hoặc cultural activity.\nCụm từ quan trọng nên dùng:\n- Hands-on experience – trải nghiệm thực tế\n- Cultural heritage – di sản văn hóa\n- Educational value – giá trị giáo dục\n- Interactive activity – hoạt động tương tác\n- Improve practical knowledge – cải thiện kiến thức thực tiễn\n- Develop teamwork skills – phát triển kỹ năng làm việc nhóm\nTừ nối khi nói (Linking Words):\n- First of all – trước tiên\n- Moreover – hơn nữa\n- On the other hand – mặt khác\n- As a result – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that the folk music workshop would be the most engaging activity for students. – Tôi tin rằng workshop âm nhạc dân gian sẽ là hoạt động hấp dẫn nhất đối với học sinh.\n- Compared to the architecture tour, the geography trip offers more practical learning opportunities. – So với chuyến tham quan kiến trúc, chuyến đi địa lý mang lại nhiều cơ hội học thực tế hơn.\n- In my opinion, educational programs should be both informative and enjoyable. – Theo tôi, các chương trình giáo dục nên vừa bổ ích vừa thú vị.\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung nói về lựa chọn mình thích mà không đánh giá các lựa chọn còn lại.\n- Lặp lại từ good hoặc interesting quá nhiều thay vì dùng từ học thuật hơn.\n- Không kết luận rõ ràng lựa chọn cuối cùng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng, hãy nói về chi phí, tính thực tế hoặc mức độ thú vị của chương trình.\n- Sử dụng câu đệm như: Let's evaluate this option from another perspective.\n- Nếu bị bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn khác để giữ sự trôi chảy.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một giáo viên hoặc người tổ chức chương trình giáo dục cho học sinh.\n- Ngay cả khi đã chọn một phương án, bạn vẫn nên đề cập một vài hạn chế nhỏ để thể hiện tư duy phản biện. Topic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe impacts of technology on our modern life\n\nImpacts of Technology\nFaster communication and connection\nImproved access to education and information\nPotential health and privacy issues\n[your own ideas]\n\nFollow-up Questions:\n\n1\nHow has technology changed the way people work in recent years?\n2\nDo you think children should be allowed to use smartphones at an early age?\n3\nWhat are some ways we can protect our privacy online?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn phân tích những ảnh hưởng của công nghệ đối với cuộc sống hiện đại.\n- Ba nhánh mindmap gồm: giao tiếp nhanh hơn, tiếp cận giáo dục dễ hơn và các vấn đề sức khỏe hoặc quyền riêng tư. Nhánh thứ tư có thể nói về tác động đến việc làm hoặc giải trí.\n- Giám khảo đánh giá khả năng phát triển ý, liên kết nội dung và trả lời câu hỏi follow-up.\n- Bạn nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho các câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để triển khai từng ý trong mindmap.\n- **Ví dụ 1:** Today, I would like to talk about how technology has changed almost every aspect of modern life.\n- **Ví dụ 2:** Another impact of technology is that many jobs are becoming automated, which may reduce employment opportunities for some workers.\n- Hãy đưa ví dụ thực tế như học online, mạng xã hội hoặc mua sắm trực tuyến.\n- Luôn đi theo thứ tự của mindmap để bài nói logic và tránh lặp ý.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng các cụm chuyển ý mượt mà giữa các nhánh của mindmap.\n- Dùng hiện tại đơn để nói sự thật chung và hiện tại hoàn thành khi nói về sự thay đổi theo thời gian.\n- Có thể paraphrase technology bằng digital tools, modern devices hoặc technological development.\nCụm từ quan trọng nên dùng:\n- Instant communication – giao tiếp tức thì\n- Online learning platforms – nền tảng học trực tuyến\n- Data privacy – quyền riêng tư dữ liệu\n- Screen addiction – nghiện màn hình\n- Artificial intelligence – trí tuệ nhân tạo\n- Access information easily – tiếp cận thông tin dễ dàng\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Another important point is – một điểm quan trọng khác là\n- For instance – ví dụ\n- As a consequence – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, technology has greatly improved communication between people. – Theo tôi, công nghệ đã cải thiện đáng kể việc giao tiếp giữa mọi người.\n- I personally think that technology can be harmful if people become too dependent on it. – Tôi nghĩ rằng công nghệ có thể gây hại nếu con người phụ thuộc quá nhiều vào nó.\n- From my perspective, online education has made learning more accessible for students. – Theo quan điểm của tôi, giáo dục trực tuyến giúp việc học trở nên dễ tiếp cận hơn.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **How has technology changed the way people work in recent years?** – Technology allows people to work remotely and communicate more efficiently.\n- **Do you think children should be allowed to use smartphones at an early age?** – Yes, but parents should control screen time and online content carefully.\n- **What are some ways we can protect our privacy online?** – People should use strong passwords and avoid sharing too much personal information online.\n\n**5. Các lỗi thường gặp:**\n- Chỉ nói về lợi ích mà không đề cập mặt tiêu cực của công nghệ.\n- Liệt kê ý mà không giải thích hoặc đưa ví dụ minh họa.\n- Dành quá nhiều thời gian cho bài nói chính và thiếu thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ đến trải nghiệm học tập hoặc sử dụng điện thoại hằng ngày.\n- Sử dụng câu đệm như: That is a complex issue. If we evaluate it from a social perspective...\n- Nếu quên từ chuyên ngành, hãy dùng cách diễn đạt đơn giản để duy trì sự trôi chảy.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề một cách cân bằng giữa lợi ích và tác hại của công nghệ.\n- Sự logic và liên kết giữa các ý là yếu tố quan trọng để đạt điểm cao.\n- Hãy nói tự nhiên như đang chia sẻ quan điểm cá nhân thay vì học thuộc lòng."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about holidays.\n1.\nWhat is your favorite holiday of the year? Why?\n2.\nWhat do you usually do during your holidays?\n3.\nDo you prefer spending holidays at home or going to another city?\nNow, let’s talk about memories.\n4.\nDo you have a good memory or do you often forget things?\n5.\nWhat is your earliest childhood memory that you can still remember?\n6.\nHow do you usually keep memories of your trips? Do you take photos or write a diary?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói gồm 6 câu hỏi cá nhân trong khoảng 3 phút nhằm kiểm tra khả năng phản xạ và giao tiếp tự\nnhiên của bạn.\n• Topic A (Holidays): Các câu hỏi 1–3 tập trung vào ngày lễ, hoạt động trong kỳ nghỉ và sở thích du lịch. Giám khảo\nmuốn đánh giá khả năng mô tả trải nghiệm và bày tỏ sở thích cá nhân.\n• Topic B (Childhood): Các câu hỏi 4–6 tập trung vào trí nhớ, ký ức tuổi thơ và cách lưu giữ kỷ niệm. Bạn cần diễn đạt\ncảm xúc và kể lại trải nghiệm một cách tự nhiên.\n• Tiêu chí chấm điểm gồm: Fluency (độ trôi chảy), Vocabulary (từ vựng), Grammar (ngữ pháp) và Pronunciation (phát\nâm).\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và tránh nói quá dài ở một câu rồi thiếu thời gian cho các câu sau.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer -> Reason -> Example để câu trả lời rõ ràng và dễ phát triển ý.\n• Ví dụ Topic A: My favorite holiday is Tet because it is the time when my family gathers together and enjoys traditional\nfood.\n• Ví dụ Topic B: I usually keep memories by taking photos because they help me remember special moments more\nclearly.\n• Luôn tự hỏi “Why?”, “How?” hoặc “When?” để mở rộng câu trả lời.\n• Khi chuyển từ chủ đề kỳ nghỉ sang ký ức, bạn có thể dùng câu như: Speaking of holidays, many of my favorite\nmemories were created during family trips.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói tự nhiên và sử dụng filler như “Well”, “Actually”, “To be honest” để tránh khoảng lặng dài.\n• Dùng hiện tại đơn để nói về thói quen và quá khứ đơn khi kể về ký ức tuổi thơ.\n• Nếu quên từ vựng, hãy mô tả ý bằng những từ đơn giản hơn thay vì dừng lại.\n• Từ vựng Topic A: family gathering (họp mặt gia đình), holiday destination (điểm du lịch), relax and recharge (thư giãn\nvà nạp lại năng lượng), festive atmosphere (không khí lễ hội).\n• Từ vựng Topic B: childhood memory (ký ức tuổi thơ), unforgettable moment (khoảnh khắc khó quên), photo album\n(album ảnh), keep memories alive (giữ ký ức sống mãi).\nCụm từ quan trọng nên dùng:\n• Spend quality time with family – dành thời gian chất lượng với gia đình\n• Take a short vacation – đi nghỉ ngắn ngày\n• Enjoy the festive atmosphere – tận hưởng không khí lễ hội\n• Bring back memories – gợi lại ký ức\n• Capture special moments – lưu giữ khoảnh khắc đặc biệt\n• Have a sharp memory – có trí nhớ tốt\nTừ nối khi nói (Linking Words):\n• First of all – trước tiên\n• Besides that – bên cạnh đó\n• For example – ví dụ\n• As a result – kết quả là\n• On the other hand – mặt khác\nCách thể hiện quan điểm tự nhiên:\n• I personally believe that holidays are important because they help people relax. – Tôi tin rằng kỳ nghỉ rất quan trọng\nvì chúng giúp mọi người thư giãn.\n• From my perspective, childhood memories can strongly influence a person’s personality. – Theo quan điểm của tôi,\nký ức tuổi thơ có thể ảnh hưởng lớn đến tính cách con người.\n• As far as I am concerned, traveling during holidays is more exciting than staying at home. – Theo tôi, đi du lịch trong\nkỳ nghỉ thú vị hơn ở nhà.\n• I would say that taking photos is the easiest way to keep memories. – Tôi cho rằng chụp ảnh là cách dễ nhất để lưu\ngiữ kỷ niệm.\n• Personally, I enjoy spending holidays with my family rather than traveling alone. – Cá nhân tôi thích dành kỳ nghỉ với\ngia đình hơn là đi một mình.\n• In my opinion, memories become more meaningful as we grow older. – Theo tôi, ký ức trở nên ý nghĩa hơn khi chúng\nta trưởng thành.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn chỉ bằng “Yes” hoặc “No”.\n• Kể quá nhiều chi tiết không liên quan khi nói về kỳ nghỉ hoặc tuổi thơ.\n• Lặp lại các từ đơn giản như happy, good hoặc interesting quá nhiều.\n• Dùng sai thì khi kể về ký ức trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Sử dụng câu đệm như: That is an interesting question. Let me think for a second.\n• Nếu quên từ, hãy mô tả cảm xúc hoặc chức năng của sự việc đó.\n• Với Topic A, nếu ít đi du lịch, bạn có thể nói về các hoạt động đơn giản ở nhà.\n• Với Topic B, nếu khó nhớ kỷ niệm cụ thể, hãy kể về một trải nghiệm chung với gia đình hoặc bạn bè.\n6. Tư duy làm bài nói:\n• Hãy xem phần thi như một cuộc trò chuyện tự nhiên thay vì một bài phát biểu học thuộc.\n• Khi chuyển chủ đề, hãy điều chỉnh giọng điệu linh hoạt để tạo cảm giác tự nhiên.\n• Sự trôi chảy và mạch lạc quan trọng hơn việc cố dùng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nA school is planning to organize an educational program for its students.\nYou are considering the following options:\n• Option 1: A tour of artistic architecture in the city\n• Option 2: A traditional folk music performance and workshop\n• Option 3: A field trip related to local geography\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đề bài yêu cầu bạn lựa chọn chương trình giáo dục phù hợp nhất cho học sinh.\n• Ba lựa chọn gồm: tham quan kiến trúc nghệ thuật, workshop âm nhạc dân gian và chuyến đi thực tế về địa lý địa\nphương.\n• Giám khảo muốn đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định rõ ràng.\n• Thời gian làm bài là 4 phút, nên dành khoảng 1 phút chuẩn bị và khoảng 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để triển khai bài nói logic.\n• Option 1 giúp học sinh hiểu thêm về nghệ thuật và lịch sử của thành phố nhưng có thể hơi học thuật với một số học\nsinh.\n• Option 2 mang tính tương tác cao, giúp học sinh hiểu văn hóa truyền thống và phát triển kỹ năng giao tiếp.\n• Option 3 giúp học sinh học thực tế ngoài lớp học nhưng phụ thuộc nhiều vào điều kiện thời tiết và tổ chức.\n• Hãy liên hệ với trải nghiệm học tập thực tế của học sinh để bài nói tự nhiên hơn.\n• Sử dụng các từ nối đối lập như however, in contrast hoặc compared to để chuyển ý mượt mà.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói từng lựa chọn độc lập.\n• Dùng hiện tại đơn để nói về ưu và nhược điểm chung của từng chương trình.\n• Nếu quên từ vựng học thuật, hãy dùng cách diễn đạt đơn giản như learning outside the classroom hoặc cultural\nactivity.\nCụm từ quan trọng nên dùng:\n• Hands-on experience – trải nghiệm thực tế\n• Cultural heritage – di sản văn hóa\n• Educational value – giá trị giáo dục\n• Interactive activity – hoạt động tương tác\n• Improve practical knowledge – cải thiện kiến thức thực tiễn\n• Develop teamwork skills – phát triển kỹ năng làm việc nhóm\nTừ nối khi nói (Linking Words):\n• First of all – trước tiên\n• Moreover – hơn nữa\n• On the other hand – mặt khác\n• As a result – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that the folk music workshop would be the most engaging activity for students. – Tôi tin rằng\nworkshop âm nhạc dân gian sẽ là hoạt động hấp dẫn nhất đối với học sinh.\n• Compared to the architecture tour, the geography trip offers more practical learning opportunities. – So với chuyến\ntham quan kiến trúc, chuyến đi địa lý mang lại nhiều cơ hội học thực tế hơn.\n• In my opinion, educational programs should be both informative and enjoyable. – Theo tôi, các chương trình giáo dục\nnên vừa bổ ích vừa thú vị.\n4. Các lỗi thường gặp:\n• Chỉ tập trung nói về lựa chọn mình thích mà không đánh giá các lựa chọn còn lại.\n• Lặp lại từ good hoặc interesting quá nhiều thay vì dùng từ học thuật hơn.\n• Không kết luận rõ ràng lựa chọn cuối cùng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng, hãy nói về chi phí, tính thực tế hoặc mức độ thú vị của chương trình.\n• Sử dụng câu đệm như: Let's evaluate this option from another perspective.\n• Nếu bị bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn khác để giữ sự trôi chảy.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một giáo viên hoặc người tổ chức chương trình giáo dục cho học sinh.\n• Ngay cả khi đã chọn một phương án, bạn vẫn nên đề cập một vài hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The impacts of technology on our modern life\nImproved access to education and\nFaster communication and connection\ninformation\nImpacts of Technology\nÝ tưởng của bạn\nPotential health and privacy issues\nFOLLOW-UP QUESTIONS\n1.\nHow has technology changed the way people work in recent years?\n2.\nDo you think children should be allowed to use smartphones at an early age?\n3.\nWhat are some ways we can protect our privacy online?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn phân tích những ảnh hưởng của công nghệ đối với cuộc sống hiện đại.\n• Ba nhánh mindmap gồm: giao tiếp nhanh hơn, tiếp cận giáo dục dễ hơn và các vấn đề sức khỏe hoặc quyền riêng tư.\nNhánh thứ tư có thể nói về tác động đến việc làm hoặc giải trí.\n• Giám khảo đánh giá khả năng phát triển ý, liên kết nội dung và trả lời câu hỏi follow-up.\n• Bạn nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho các câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để triển khai từng ý trong mindmap.\n• Ví dụ 1: Today, I would like to talk about how technology has changed almost every aspect of modern life.\n• Ví dụ 2: Another impact of technology is that many jobs are becoming automated, which may reduce employment\nopportunities for some workers.\n• Hãy đưa ví dụ thực tế như học online, mạng xã hội hoặc mua sắm trực tuyến.\n• Luôn đi theo thứ tự của mindmap để bài nói logic và tránh lặp ý.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng các cụm chuyển ý mượt mà giữa các nhánh của mindmap.\n• Dùng hiện tại đơn để nói sự thật chung và hiện tại hoàn thành khi nói về sự thay đổi theo thời gian.\n• Có thể paraphrase technology bằng digital tools, modern devices hoặc technological development.\nCụm từ quan trọng nên dùng:\n• Instant communication – giao tiếp tức thì\n• Online learning platforms – nền tảng học trực tuyến\n• Data privacy – quyền riêng tư dữ liệu\n• Screen addiction – nghiện màn hình\n• Artificial intelligence – trí tuệ nhân tạo\n• Access information easily – tiếp cận thông tin dễ dàng\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Another important point is – một điểm quan trọng khác là\n• For instance – ví dụ\n• As a consequence – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, technology has greatly improved communication between people. – Theo tôi, công nghệ đã cải thiện\nđáng kể việc giao tiếp giữa mọi người.\n• I personally think that technology can be harmful if people become too dependent on it. – Tôi nghĩ rằng công nghệ\ncó thể gây hại nếu con người phụ thuộc quá nhiều vào nó.\n• From my perspective, online education has made learning more accessible for students. – Theo quan điểm của tôi,\ngiáo dục trực tuyến giúp việc học trở nên dễ tiếp cận hơn.\n4. Gợi ý trả lời câu hỏi follow-up:\n• How has technology changed the way people work in recent years? – Technology allows people to work remotely\nand communicate more efficiently.\n• Do you think children should be allowed to use smartphones at an early age? – Yes, but parents should control\nscreen time and online content carefully.\n• What are some ways we can protect our privacy online? – People should use strong passwords and avoid sharing\ntoo much personal information online.\n5. Các lỗi thường gặp:\n• Chỉ nói về lợi ích mà không đề cập mặt tiêu cực của công nghệ.\n• Liệt kê ý mà không giải thích hoặc đưa ví dụ minh họa.\n• Dành quá nhiều thời gian cho bài nói chính và thiếu thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ đến trải nghiệm học tập hoặc sử dụng điện thoại hằng ngày.\n• Sử dụng câu đệm như: That is a complex issue. If we evaluate it from a social perspective...\n• Nếu quên từ chuyên ngành, hãy dùng cách diễn đạt đơn giản để duy trì sự trôi chảy.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề một cách cân bằng giữa lợi ích và tác hại của công nghệ.\n• Sự logic và liên kết giữa các ý là yếu tố quan trọng để đạt điểm cao.\n• Hãy nói tự nhiên như đang chia sẻ quan điểm cá nhân thay vì học thuộc lòng."
+}

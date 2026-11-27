@@ -1,0 +1,717 @@
+{
+ "id": "vlu-141",
+ "number": 141,
+ "title": "Đề thi VLU 141",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-141",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Finding Our Way: Satellite Navigation in Daily Life",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Not so long ago, travellers who wanted to find their way in an **unfamiliar** place had to rely on paper maps, road signs or directions from local people. Paper maps were often difficult to fold and quickly became out of date as new roads were built. Today, most people simply take out their phones. Satellite navigation, often called GPS, has become so common that many of us use it every day, whether we are driving to work, walking to a restaurant or ordering a taxi.",
+     "GPS stands for Global Positioning System. It was developed by the United States military, and the first satellites were launched in the 1970s. The system became widely available for civilian use in the 1990s. It works using a network of about thirty satellites that circle the Earth. A GPS receiver, such as the one inside a smartphone, picks up signals from at least four of these satellites and uses the time each signal takes to arrive to calculate its exact position. Each satellite carries very accurate clocks, because even tiny timing errors could lead to large mistakes in position. Other countries and regions have since built similar systems, including Europe's Galileo and China's BeiDou.",
+     "Navigation devices have brought many benefits. Delivery drivers can find addresses quickly, emergency services can **locate** people who need help, and farmers use satellite positioning to plant crops more accurately. For ordinary travellers, apps can suggest the fastest route, warn about traffic jams and even show the location of nearby petrol stations or cafés. Hikers and sailors also use special GPS devices that work far from mobile phone networks. Many people say they would feel lost, quite literally, without them.",
+     "However, some researchers worry that relying too much on GPS may affect our natural sense of direction. In one study, people who followed turn-by-turn instructions remembered less about the route afterwards than those who used a paper map. Some scientists believe that regularly finding our own way helps to exercise parts of the brain involved in memory. There are also stories of drivers who followed their devices so closely that they ended up in rivers or on roads that were closed. Others point out that many people now feel nervous travelling without their phones.",
+     "Experts do not suggest that people should stop using navigation devices. Instead, they recommend using them more carefully. For example, travellers can look at the whole route on a map before starting their journey, or try to find their way without help on familiar trips. Learning to notice landmarks, such as tall buildings or rivers, can also help. In this way, **they** can enjoy the convenience of modern technology while still keeping their own navigation skills sharp. Some parents also encourage children to learn how to read a map, just in case."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, how does a GPS receiver work out its position?",
+      "options": {
+       "A": "It measures how long signals from several satellites take to arrive",
+       "B": "It sends its own signal to a station on the ground",
+       "C": "It uses the phone's camera to recognise nearby buildings",
+       "D": "It connects to the closest of thirty satellites only"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 quanh \"GPS receiver\" và cách tính vị trí để xác định thao tác dùng thời gian tín hiệu từ ít nhất bốn vệ tinh truyền tới để tính toán."
+     },
+     {
+      "number": 2,
+      "stem": "The word \"unfamiliar\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "unknown",
+       "B": "crowded",
+       "C": "dangerous",
+       "D": "unfriendly"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"unfamiliar\" ở đoạn 1 đứng trước \"place\" trong ngữ cảnh du khách cần tìm đường khi đến nơi chưa từng biết hoặc chưa quen thuộc, sát nghĩa với chưa biết/xa lạ hơn là đông đúc, nguy hiểm hay không thân thiện."
+     },
+     {
+      "number": 3,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "How the US military developed satellites in the 1970s",
+       "B": "Why paper maps are better than satellite navigation",
+       "C": "How GPS works, its benefits, and why to use it wisely",
+       "D": "Why drivers who follow GPS often have accidents"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: đoạn 1 đối chiếu cách định hướng truyền thống bằng bản đồ giấy với sự phổ biến của dẫn đường vệ tinh (GPS) ngày nay; đoạn 2 giải thích nguồn gốc quân sự, mạng lưới vệ tinh và nguyên lý tính vị trí của GPS cùng các hệ thống tương tự; đoạn 3 trình bày ứng dụng và lợi ích đa dạng của GPS trong đời sống, giao thông, nông nghiệp và cứu hộ; đoạn 4 nêu lo ngại khi phụ thuộc quá mức vào GPS như giảm ghi nhớ lộ trình hay sự cố do làm theo máy móc; đoạn 5 đưa ra lời khuyên sử dụng thiết bị dẫn đường thận trọng, kết hợp quan sát lộ trình và mốc định hướng. Phương án đúng phải bao quát được cơ chế hoạt động, lợi ích và cách sử dụng khôn ngoan, tránh chọn ý chỉ nói về lịch sử phóng vệ tinh, so sánh thiên lệch hay sự cố lái xe."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how do farmers use satellite positioning?",
+      "options": {
+       "A": "To find the fastest routes to local markets",
+       "B": "To plant their crops in more precise positions",
+       "C": "To locate workers who need emergency help",
+       "D": "To warn other farmers about traffic jams"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 quanh \"farmers\" để nhận diện mục đích gieo trồng cây trồng chuẩn xác hơn nhờ định vị vệ tinh."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"they\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "travellers",
+       "B": "the experts",
+       "C": "navigation devices",
+       "D": "tall buildings"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số nhiều \"they\" ở đoạn 5 trong mệnh đề nói về việc vừa tận hưởng sự tiện lợi của công nghệ hiện đại vừa giữ kỹ năng định hướng sắc bén. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ nhóm người đi đường/du khách áp dụng các cách này, tránh nhầm với các chuyên gia, thiết bị dẫn đường hay tòa nhà cao tầng."
+     },
+     {
+      "number": 6,
+      "stem": "Which of the following is NOT mentioned in the passage?",
+      "options": {
+       "A": "Europe has developed its own satellite navigation system",
+       "B": "GPS signals cannot be received inside tall buildings",
+       "C": "Some drivers have ended up in rivers by following devices",
+       "D": "Navigation apps can warn drivers about traffic jams"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: hệ thống Galileo của châu Âu (đoạn 2), trường hợp lái xe đi nhầm xuống sông hoặc đường bị đóng do làm theo thiết bị (đoạn 4), và ứng dụng cảnh báo ùn tắc giao thông (đoạn 3) đều có cơ sở. Chi tiết không xuất hiện là nhận định tín hiệu GPS không thể thu được bên trong các tòa nhà cao tầng."
+     },
+     {
+      "number": 7,
+      "stem": "What can be inferred from paragraph 4 about people who use paper maps?",
+      "options": {
+       "A": "Remembering routes well is what makes them choose paper maps",
+       "B": "They never get lost when travelling to new places",
+       "C": "They may remember a route better than GPS users do",
+       "D": "Some scientists believe finding our way exercises the brain"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 4 về kết quả nghiên cứu cho thấy người đi theo hướng dẫn từng chặng nhớ lộ trình ít hơn người dùng bản đồ giấy. Từ đó suy ra rằng người dùng bản đồ giấy có thể ghi nhớ lộ trình tốt hơn người dùng GPS, tránh các suy diễn cực đoan như không bao giờ bị lạc hay quy kết động cơ chọn bản đồ."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, who originally developed GPS?",
+      "options": {
+       "A": "The armed forces of the United States",
+       "B": "European scientists working on the Galileo project",
+       "C": "Smartphone makers who needed location services",
+       "D": "A Chinese company that later built BeiDou"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 quanh nguồn gốc phát triển ban đầu của GPS để đối chiếu với lực lượng quân sự Hoa Kỳ."
+     },
+     {
+      "number": 9,
+      "stem": "The word \"locate\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "rescue",
+       "B": "contact",
+       "C": "move",
+       "D": "track down"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"locate\" ở đoạn 3 đi cùng \"people who need help\" trong các tình huống dịch vụ khẩn cấp tìm kiếm và xác định vị trí nạn nhân, giúp chọn nghĩa xác định vị trí/tìm ra thay vì giải cứu, liên lạc hay di chuyển."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To explain how satellites are launched into space",
+       "B": "To persuade readers to stop using navigation apps",
+       "C": "To compare Europe's and China's navigation systems",
+       "D": "To describe GPS and encourage its careful use Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": "Quan sát cách tổ chức bài viết từ đầu đến cuối. Tác giả giới thiệu cách hoạt động và lợi ích thực tiễn của GPS, đồng thời phân tích rủi ro của việc lạm dụng để khuyến khích người dùng sử dụng thận trọng, thay vì giải thích kỹ thuật phóng vệ tinh, kêu gọi ngừng dùng ứng dụng dẫn đường hay chỉ so sánh Galileo với BeiDou."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính toàn bài (R1Q3):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: đoạn 1 đối chiếu cách định hướng truyền thống bằng bản đồ giấy với sự phổ biến của dẫn đường vệ tinh (GPS) ngày nay; đoạn 2 giải thích nguồn gốc quân sự, mạng lưới vệ tinh và nguyên lý tính vị trí của GPS cùng các hệ thống tương tự; đoạn 3 trình bày ứng dụng và lợi ích đa dạng của GPS trong đời sống, giao thông, nông nghiệp và cứu hộ; đoạn 4 nêu lo ngại khi phụ thuộc quá mức vào GPS như giảm ghi nhớ lộ trình hay sự cố do làm theo máy móc; đoạn 5 đưa ra lời khuyên sử dụng thiết bị dẫn đường thận trọng, kết hợp quan sát lộ trình và mốc định hướng. Phương án đúng phải bao quát được cơ chế hoạt động, lợi ích và cách sử dụng khôn ngoan, tránh chọn ý chỉ nói về lịch sử phóng vệ tinh, so sánh thiên lệch hay sự cố lái xe.\n- **Dạng câu hỏi Mục đích tác giả (R1Q10):** Quan sát cách tổ chức bài viết từ đầu đến cuối. Tác giả giới thiệu cách hoạt động và lợi ích thực tiễn của GPS, đồng thời phân tích rủi ro của việc lạm dụng để khuyến khích người dùng sử dụng thận trọng, thay vì giải thích kỹ thuật phóng vệ tinh, kêu gọi ngừng dùng ứng dụng dẫn đường hay chỉ so sánh Galileo với BeiDou.\n- **Dạng câu hỏi Chi tiết (R1Q1, R1Q4, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực diện trong đúng đoạn văn được chỉ định.\n  - Với **R1Q1**, quét đoạn 2 quanh \"GPS receiver\" và cách tính vị trí để xác định thao tác dùng thời gian tín hiệu từ ít nhất bốn vệ tinh truyền tới để tính toán.\n  - Với **R1Q4**, quét đoạn 3 quanh \"farmers\" để nhận diện mục đích gieo trồng cây trồng chuẩn xác hơn nhờ định vị vệ tinh.\n  - Với **R1Q8**, quét đoạn 2 quanh nguồn gốc phát triển ban đầu của GPS để đối chiếu với lực lượng quân sự Hoa Kỳ.\n- **Dạng câu hỏi Loại trừ NOT (R1Q6):** Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: hệ thống Galileo của châu Âu (đoạn 2), trường hợp lái xe đi nhầm xuống sông hoặc đường bị đóng do làm theo thiết bị (đoạn 4), và ứng dụng cảnh báo ùn tắc giao thông (đoạn 3) đều có cơ sở. Chi tiết không xuất hiện là nhận định tín hiệu GPS không thể thu được bên trong các tòa nhà cao tầng.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q2, R1Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) xung quanh từ mục tiêu.\n  - Với **R1Q2**, từ **\"unfamiliar\"** ở đoạn 1 đứng trước \"place\" trong ngữ cảnh du khách cần tìm đường khi đến nơi chưa từng biết hoặc chưa quen thuộc, sát nghĩa với chưa biết/xa lạ hơn là đông đúc, nguy hiểm hay không thân thiện.\n  - Với **R1Q9**, từ **\"locate\"** ở đoạn 3 đi cùng \"people who need help\" trong các tình huống dịch vụ khẩn cấp tìm kiếm và xác định vị trí nạn nhân, giúp chọn nghĩa xác định vị trí/tìm ra thay vì giải cứu, liên lạc hay di chuyển.\n- **Dạng câu hỏi Quy chiếu (R1Q5):** Tập trung vào đại từ số nhiều **\"they\"** ở đoạn 5 trong mệnh đề nói về việc vừa tận hưởng sự tiện lợi của công nghệ hiện đại vừa giữ kỹ năng định hướng sắc bén. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ nhóm người đi đường/du khách áp dụng các cách này, tránh nhầm với các chuyên gia, thiết bị dẫn đường hay tòa nhà cao tầng.\n- **Dạng câu hỏi Suy luận (R1Q7):** Kết hợp thông tin ở đoạn 4 về kết quả nghiên cứu cho thấy người đi theo hướng dẫn từng chặng nhớ lộ trình ít hơn người dùng bản đồ giấy. Từ đó suy ra rằng người dùng bản đồ giấy có thể ghi nhớ lộ trình tốt hơn người dùng GPS, tránh các suy diễn cực đoan như không bao giờ bị lạc hay quy kết động cơ chọn bản đồ.\nLời khuyên: Hãy tối ưu hóa tốc độ làm bài bằng cách xử lý trước nhóm câu hỏi có vị trí định vị rõ ràng như Quy chiếu (R1Q5) và **Từ vựng theo ngữ cảnh** (R1Q2, R1Q9). Kế tiếp, dùng kỹ thuật đọc quét nhanh để giải quyết các câu **Chi tiết** (R1Q1, R1Q4, R1Q8) và câu hỏi **Loại trừ** (R1Q6). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã nắm vững, bạn sẽ dễ dàng chốt đáp án cho các câu đòi hỏi tư duy tổng hợp cao gồm **Suy luận** (R1Q7), **Ý chính toàn bài** (R1Q3) và **Mục** đích tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Developing Brain: Early Windows and Lifelong Change",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "At birth, the human brain is remarkably unfinished. It weighs roughly a quarter of its eventual adult mass, yet by around the age of six it has reached about ninety percent of its final size. This rapid growth reflects not so much the addition of new neurons, most of which are already present at birth, as an explosion in the connections between them. By some estimates, a young child's brain may form more than a million new neural connections every second during the earliest years.",
+     "Not all of these connections survive. During childhood and adolescence, the brain undergoes a process known as synaptic pruning, in which connections that are used frequently are strengthened while those that are rarely used are gradually eliminated. Often summarised as \"use it or lose it,\" this process allows the brain to become more efficient, shaping itself around the demands of a particular environment. In this sense, the developing brain is not simply following a fixed genetic blueprint but is continually being **sculpted** by experience.",
+     "Certain abilities appear to depend on experience occurring within particular windows of time, often called sensitive periods. Vision offers a striking example: infants born with cataracts that are not removed early may experience lasting visual impairment even after later surgery. Language shows a similar, if less rigid, pattern. Children exposed to a second language early typically acquire native-like pronunciation more easily than those who begin as adults, although older learners often progress faster at first in grammar and vocabulary.",
+     "Research on children raised in severely deprived institutional settings has illustrated how much early environment matters. In one long-term study in Romania, children who were moved from orphanages into foster families showed better cognitive and emotional outcomes than those who remained, and those placed earlier generally fared better than those placed later. Such findings have influenced child welfare policies in many countries.",
+     "These insights have also fuelled a popular belief that the first three years of life determine a child's future, and that missing this window causes irreversible damage. Many neuroscientists regard this message as an oversimplification. While early experiences are undoubtedly important, the brain continues to develop for decades. The prefrontal cortex, which supports planning and self-control, is among the last regions to mature, with development continuing into the mid-twenties.",
+     "Moreover, the adult brain retains a considerable capacity for change, known as neuroplasticity. A well-known study of London taxi drivers, who must memorise thousands of streets, found that part of the hippocampus, a region involved in spatial memory, was larger in experienced drivers than in comparison groups. Adults who learn new skills, from juggling to musical instruments, have also shown measurable structural changes in the brain. **These**, however, tend to be more modest than the changes observed in children, and some may fade if the skill is not practised.",
+     "The emerging picture is one of a brain that is most **malleable** early in life but never entirely fixed. For parents and policymakers, this suggests a balanced message: investing in rich early environments is worthwhile, but it is rarely too late for learning to reshape the brain."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, what mainly explains the brain's rapid growth in early childhood?",
+      "options": {
+       "A": "The brain reaching ninety percent of its size by birth",
+       "B": "Growth of the prefrontal cortex during the first year",
+       "C": "A dramatic increase in connections between existing neurons",
+       "D": "The production of large numbers of new neurons after birth"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 1 quanh sự phát triển nhanh của não ở giai đoạn đầu đời để nhận diện yếu tố bùng nổ kết nối giữa các nơ-ron thần kinh hiện có."
+     },
+     {
+      "number": 12,
+      "stem": "The word \"sculpted\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "shaped",
+       "B": "decorated",
+       "C": "damaged",
+       "D": "inherited"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"sculpted\" ở đoạn 2 xuất hiện khi ví von trải nghiệm và sự chọn lọc tinh chỉnh cấu trúc thần kinh giống như quá trình tạc/nhào nặn, sát nghĩa với được định hình/nhào nặn hơn là trang trí, làm hư hại hay thừa hưởng."
+     },
+     {
+      "number": 13,
+      "stem": "What can be inferred from paragraph 3 about learning a second language?",
+      "options": {
+       "A": "Starting age may affect accent more than overall ability to learn",
+       "B": "Older learners often progress faster at first in grammar",
+       "C": "Adults can never learn the grammar of a new language",
+       "D": "Good pronunciation is what makes children start languages early"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 3 về việc học ngôn ngữ thứ hai theo độ tuổi bắt đầu với sự khác biệt giữa ngữ âm/giọng điệu và khả năng tiếp thu tổng thể. Từ đó suy ra rằng tuổi bắt đầu có thể tác động rõ đến giọng nói/phát âm hơn là năng lực học tập nói chung, tránh các suy diễn cực đoan như người lớn không bao giờ học được ngữ pháp."
+     },
+     {
+      "number": 14,
+      "stem": "Which of the following best summarises the passage?",
+      "options": {
+       "A": "London taxi drivers have larger brains than most other people",
+       "B": "Synaptic pruning damages the brain by removing useful connections",
+       "C": "The brain changes most in childhood but remains adaptable throughout life",
+       "D": "The first three years of life completely determine a child's future"
+      },
+      "answer": "C",
+      "type_hint": "Tóm tắt ý chính toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: sự phát triển bùng nổ của kết nối thần kinh trong thời thơ ấu, quá trình tinh chỉnh/cắt tỉa khớp thần kinh, khái niệm giai đoạn nhạy cảm (như ngôn ngữ hay thị giác), nghiên cứu về môi trường chăm sóc sớm và góc nhìn phản biện về quan niệm tuyệt đối hóa ba năm đầu đời, cùng khả năng thích nghi/tái cấu trúc của não bộ ở người trưởng thành. Phương án đúng phải bao quát được cả giai đoạn thay đổi mạnh ở thời thơ ấu lẫn tính thích nghi xuyên suốt cuộc đời, tránh chọn các ý phiến diện hoặc tuyệt đối hóa một yếu tố đơn lẻ."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"These\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "musical instruments",
+       "B": "structural changes",
+       "C": "comparison groups",
+       "D": "new skills"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định số nhiều \"These\" ở đoạn 6 trong mệnh đề nói về những biến đổi có thể quan sát được qua hình ảnh học thần kinh khi học kỹ năng mới. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ chính các thay đổi về cấu trúc/vật chất của não bộ, tránh nhầm với nhạc cụ, nhóm đối chứng hay kỹ năng mới."
+     },
+     {
+      "number": 16,
+      "stem": "According to the passage, what did the Romanian study find?",
+      "options": {
+       "A": "Age of placement made no difference to children's progress",
+       "B": "Children who stayed in orphanages developed as well as others",
+       "C": "Foster care harmed children's emotional development in most cases",
+       "D": "Earlier placement in foster families was generally linked to better outcomes"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 quanh nghiên cứu tại Romania để tìm mối liên hệ giữa thời điểm được chuyển sang gia đình nhận nuôi sớm hơn và kết quả phát triển tích cực hơn."
+     },
+     {
+      "number": 17,
+      "stem": "Which of the following is NOT mentioned in the passage?",
+      "options": {
+       "A": "Learning to juggle can produce changes in adult brains",
+       "B": "Sleep is the most important factor in synaptic pruning",
+       "C": "Untreated infant cataracts can cause lasting vision problems",
+       "D": "Most neurons are already present when a baby is born"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: việc học tung hứng tạo ra thay đổi ở não người lớn, tác động kéo dài lên thị lực khi đục thủy tinh thể bẩm sinh không được điều trị, và việc phần lớn nơ-ron đã có sẵn khi chào đời đều có cơ sở. Chi tiết không xuất hiện là khẳng định giấc ngủ là yếu tố quan trọng nhất trong quá trình cắt tỉa khớp thần kinh."
+     },
+     {
+      "number": 18,
+      "stem": "The word \"malleable\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "fragile",
+       "B": "adaptable",
+       "C": "valuable",
+       "D": "intelligent"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"malleable\" ở đoạn 7 nằm trong bối cảnh não bộ vẫn có khả năng uốn nắn, thích nghi và thay đổi trước kinh nghiệm mới, giúp chọn nghĩa dễ thích nghi/dễ uốn nắn thay vì mong manh, có giá trị hay thông minh."
+     },
+     {
+      "number": 19,
+      "stem": "According to the passage, how do many neuroscientists view the claim about the first three years?",
+      "options": {
+       "A": "As relevant only to the development of the prefrontal cortex",
+       "B": "As completely false, since early experience does not matter",
+       "C": "As an oversimplified idea that ignores later brain development",
+       "D": "As a proven fact supported by the Romanian research"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 quanh nhận định về ba năm đầu đời để xác định góc nhìn xem đây là sự đơn giản hóa quá mức khi bỏ qua giai đoạn phát triển về sau."
+     },
+     {
+      "number": 20,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To warn parents that missing early windows causes permanent harm",
+       "B": "To argue that adult learning is more effective than childhood learning",
+       "C": "To explain how the brain develops and remains changeable",
+       "D": "To describe how London taxi drivers memorise city streets Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": "Quan sát cách tác giả xây dựng mạch giải thích xuyên suốt bài đọc. Văn bản trình bày cách não bộ hình thành, tinh chỉnh và thay đổi theo trải nghiệm từ nhỏ đến trưởng thành nhằm giải thích quá trình phát triển và tính linh hoạt biến đổi của não bộ, thay vì dọa nạt về những mốc thời gian bị bỏ lỡ, khẳng định người lớn học hiệu quả hơn trẻ nhỏ hay chỉ mô tả kỹ năng ghi nhớ đường phố."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Tóm tắt ý chính toàn bài (R2Q4):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: sự phát triển bùng nổ của kết nối thần kinh trong thời thơ ấu, quá trình tinh chỉnh/cắt tỉa khớp thần kinh, khái niệm giai đoạn nhạy cảm (như ngôn ngữ hay thị giác), nghiên cứu về môi trường chăm sóc sớm và góc nhìn phản biện về quan niệm tuyệt đối hóa ba năm đầu đời, cùng khả năng thích nghi/tái cấu trúc của não bộ ở người trưởng thành. Phương án đúng phải bao quát được cả giai đoạn thay đổi mạnh ở thời thơ ấu lẫn tính thích nghi xuyên suốt cuộc đời, tránh chọn các ý phiến diện hoặc tuyệt đối hóa một yếu tố đơn lẻ.\n- **Dạng câu hỏi Mục đích tác giả (R2Q10):** Quan sát cách tác giả xây dựng mạch giải thích xuyên suốt bài đọc. Văn bản trình bày cách não bộ hình thành, tinh chỉnh và thay đổi theo trải nghiệm từ nhỏ đến trưởng thành nhằm giải thích quá trình phát triển và tính linh hoạt biến đổi của não bộ, thay vì dọa nạt về những mốc thời gian bị bỏ lỡ, khẳng định người lớn học hiệu quả hơn trẻ nhỏ hay chỉ mô tả kỹ năng ghi nhớ đường phố.\n- **Dạng câu hỏi Chi tiết (R2Q1, R2Q6, R2Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực diện trong đúng đoạn văn được chỉ định.\n  - Với **R2Q1**, quét đoạn 1 quanh sự phát triển nhanh của não ở giai đoạn đầu đời để nhận diện yếu tố bùng nổ kết nối giữa các nơ-ron thần kinh hiện có.\n  - Với **R2Q6**, quét đoạn 4 quanh nghiên cứu tại Romania để tìm mối liên hệ giữa thời điểm được chuyển sang gia đình nhận nuôi sớm hơn và kết quả phát triển tích cực hơn.\n  - Với **R2Q9**, quét đoạn 5 quanh nhận định về ba năm đầu đời để xác định góc nhìn xem đây là sự đơn giản hóa quá mức khi bỏ qua giai đoạn phát triển về sau.\n- **Dạng câu hỏi Loại trừ NOT (R2Q7):** Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: việc học tung hứng tạo ra thay đổi ở não người lớn, tác động kéo dài lên thị lực khi đục thủy tinh thể bẩm sinh không được điều trị, và việc phần lớn nơ-ron đã có sẵn khi chào đời đều có cơ sở. Chi tiết không xuất hiện là khẳng định giấc ngủ là yếu tố quan trọng nhất trong quá trình cắt tỉa khớp thần kinh.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q2, R2Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) xung quanh từ mục tiêu.\n  - Với **R2Q2**, từ **\"sculpted\"** ở đoạn 2 xuất hiện khi ví von trải nghiệm và sự chọn lọc tinh chỉnh cấu trúc thần kinh giống như quá trình tạc/nhào nặn, sát nghĩa với được định hình/nhào nặn hơn là trang trí, làm hư hại hay thừa hưởng.\n  - Với **R2Q8**, từ **\"malleable\"** ở đoạn 7 nằm trong bối cảnh não bộ vẫn có khả năng uốn nắn, thích nghi và thay đổi trước kinh nghiệm mới, giúp chọn nghĩa dễ thích nghi/dễ uốn nắn thay vì mong manh, có giá trị hay thông minh.\n- **Dạng câu hỏi Quy chiếu (R2Q5):** Tập trung vào đại từ chỉ định số nhiều **\"These\"** ở đoạn 6 trong mệnh đề nói về những biến đổi có thể quan sát được qua hình ảnh học thần kinh khi học kỹ năng mới. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ chính các thay đổi về cấu trúc/vật chất của não bộ, tránh nhầm với nhạc cụ, nhóm đối chứng hay kỹ năng mới.\n- **Dạng câu hỏi Suy luận (R2Q3):** Kết hợp thông tin ở đoạn 3 về việc học ngôn ngữ thứ hai theo độ tuổi bắt đầu với sự khác biệt giữa ngữ âm/giọng điệu và khả năng tiếp thu tổng thể. Từ đó suy ra rằng tuổi bắt đầu có thể tác động rõ đến giọng nói/phát âm hơn là năng lực học tập nói chung, tránh các suy diễn cực đoan như người lớn không bao giờ học được ngữ pháp.\nLời khuyên: Hãy tối ưu hóa tốc độ làm bài bằng cách xử lý trước nhóm câu hỏi có vị trí định vị rõ ràng như Quy chiếu (R2Q5) và **Từ vựng theo ngữ cảnh** (R2Q2, R2Q8). Kế tiếp, dùng kỹ thuật đọc quét nhanh để giải quyết các câu **Chi tiết** (R2Q1, R2Q6, R2Q9) và câu hỏi **Loại trừ** (R2Q7). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã nắm vững, bạn sẽ dễ dàng chốt đáp án cho các câu đòi hỏi tư duy tổng hợp cao gồm **Suy luận** (R2Q3), **Tóm tắt ý chính toàn bài** (R2Q4) và **Mục đích tác giả** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "From Prosperity to Crisis: Europe in the Thirteenth and Fourteenth Centuries",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "The thirteenth century is often regarded as a high point of medieval Europe. Populations grew steadily, new towns were founded, trade expanded across the continent and great Gothic cathedrals rose above the rooftops of cities from France to England. By around 1300, however, this expansion had begun to reach its limits. Much of the best farmland was already under cultivation, and many families were attempting to survive on plots too small or too poor to feed them reliably.",
+     "The consequences became painfully clear in the second decade of the fourteenth century. Beginning in 1315, several years of exceptionally heavy rain ruined harvests across northern Europe, producing what historians call the Great Famine. Grain prices soared, livestock died of disease, and contemporary chroniclers recorded desperate scenes of hunger. Estimates suggest that in some regions perhaps a tenth of the population may have died. Some historians link these events to a broader cooling of the climate, though the extent of that change remains debated.",
+     "Worse was to follow. **[1]** In 1347, ships arriving in Mediterranean ports carried a disease that would become known as the Black Death, a form of plague spread, it is generally believed, by fleas carried on rats and possibly also directly between people. **[2]** Within four years it had swept across almost the entire continent. **[3]** Mortality was staggering: historians estimate that between a third and a half of Europe's population died, although figures vary considerably between regions. **[4]**",
+     "The demographic catastrophe had profound economic consequences. With so many workers dead, labour became scarce, and surviving peasants and craftsmen were often able to demand higher wages or better terms from landowners. Authorities attempted to resist these changes. In England, for example, laws were passed to fix wages at their pre-plague levels. Across much of the country, however, **they** proved difficult to enforce. Tensions over wages, taxation and obligations to lords contributed to a series of popular uprisings, including the English Peasants' Revolt of 1381.",
+     "Historians continue to debate the long-term significance of these upheavals. Some argue that the Black Death hastened the decline of serfdom in Western Europe by strengthening the bargaining position of ordinary labourers. Others caution against such sweeping conclusions, noting that in parts of Eastern Europe lords responded to labour shortages by tightening control over peasants rather than loosening it. The same shock, in other words, appears to have produced different outcomes depending on local political and social conditions.",
+     "The period also left a deep cultural mark. Art and literature of the late fourteenth century frequently dwelt on themes of death and mortality, and religious movements, some of which sought to **atone** for sins thought to have provoked divine punishment, gained followers. At the same time, the period saw terrible scapegoating: Jewish communities in many towns were falsely accused of causing the plague and subjected to violent attacks.",
+     "Seen as a whole, the thirteenth and fourteenth centuries illustrate how quickly prosperity can give way to crisis when a society operates close to its limits. Yet they also suggest that disasters, however devastating, can reshape social relationships in ways that are neither uniform nor easily predicted."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, what problem had emerged in Europe by around 1300?",
+      "options": {
+       "A": "Gothic cathedrals had become too expensive for towns to build",
+       "B": "Trade between European cities had collapsed almost completely",
+       "C": "Much good land was farmed, leaving many on inadequate plots",
+       "D": "New towns were drawing farmers away from the countryside"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 1 quanh mốc khoảng năm 1300 để nhận diện thực trạng phần lớn đất canh tác tốt đã được sử dụng khiến nhiều người phải làm việc trên những mảnh đất kém thuận lợi."
+     },
+     {
+      "number": 22,
+      "stem": "The word \"staggering\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "astonishing",
+       "B": "exaggerated",
+       "C": "unsteady",
+       "D": "gradual"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"staggering\" ở đoạn 3 xuất hiện khi mô tả mức độ tổn thất nhân khẩu hoặc quy mô tác động lớn đến mức gây chấn động, sát nghĩa với đáng kinh ngạc/choáng ngợp hơn là bị phóng đại, chập chờn hay dần dần."
+     },
+     {
+      "number": 23,
+      "stem": "What can be inferred from paragraph 5 about the Black Death's effect on serfdom?",
+      "options": {
+       "A": "Some lords tightened control over peasants in Eastern Europe",
+       "B": "Stronger serfdom in the East caused the plague to spread",
+       "C": "It ended serfdom everywhere in Europe within a few decades",
+       "D": "Its impact likely depended on how local rulers chose to respond"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 5 về việc chế độ nông nô suy yếu ở một số nơi nhưng lại bị siết chặt ở khu vực khác sau dịch bệnh. Từ đó suy ra rằng tác động của Cái Chết Đen đối với chế độ nông nô phụ thuộc nhiều vào cách chính quyền/lãnh chúa địa phương lựa chọn phản ứng, tránh các suy diễn cực đoan như chấm dứt ở mọi nơi hay đảo ngược nguyên nhân."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following best expresses the main idea of the passage?",
+      "options": {
+       "A": "The Black Death permanently ended feudalism across the whole of Europe",
+       "B": "Heavy rain was the main cause of Europe's fourteenth-century problems",
+       "C": "Expansion gave way to crises whose effects varied by region",
+       "D": "Gothic cathedrals represent the greatest achievement of medieval Europe"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: sự mở rộng dân số, canh tác và đô thị ở châu Âu trước mốc khoảng năm 1300 cùng giới hạn đất đai, nạn đói lớn (Great Famine) do thời tiết cực đoan, dịch bệnh Cái Chết Đen (Black Death) với quy mô tàn phá nặng nề, biến động lao động - tiền lương sau dịch, sự phân hóa chế độ nông nô giữa các vùng, và những hệ lụy xã hội - văn hóa kéo dài. Phương án đúng phải bao quát được sự chuyển dịch từ giai đoạn mở rộng sang khủng hoảng cùng tác động khác nhau theo từng khu vực, tránh chọn các ý quy kết một nguyên nhân đơn lẻ hoặc tuyệt đối hóa sự chấm dứt của chế độ phong kiến."
+     },
+     {
+      "number": 25,
+      "stem": "The word \"they\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "laws on wages",
+       "B": "pre-plague levels",
+       "C": "surviving peasants",
+       "D": "landowners"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số nhiều \"they\" ở đoạn 4 trong mệnh đề nói về việc bị giới hạn, áp đặt hoặc khó duy trì hiệu lực trên thực tế sau biến động nhân lực. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ chính các quy định/đạo luật điều chỉnh tiền lương đó, tránh nhầm với mức trước dịch, nông dân sống sót hay địa chủ."
+     },
+     {
+      "number": 26,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Some towns lost so many inhabitants that houses stood empty for generations.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Phân tích câu cần chèn nêu việc một số thị trấn mất quá nhiều dân cư đến mức nhà cửa bỏ trống qua nhiều thế hệ. Xác định vị trí dấu ngoặc vuông ngay sau đoạn/câu đã bàn về mức độ suy giảm dân số nghiêm trọng hoặc sự hoang vắng ở các khu dân cư sau dịch để mạch thông tin ăn khớp chặt chẽ."
+     },
+     {
+      "number": 27,
+      "stem": "According to the passage, what triggered the Great Famine?",
+      "options": {
+       "A": "Repeated years of extreme rainfall that destroyed crops",
+       "B": "A sudden fall in the number of farm workers",
+       "C": "Disease among livestock that spread rapidly from the Mediterranean",
+       "D": "A sharp rise in grain prices caused by merchants"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 quanh tác nhân khởi phát nạn đói lớn (Great Famine) để tìm yếu tố mưa lớn kéo dài làm mất mùa/hỏng hoa màu."
+     },
+     {
+      "number": 28,
+      "stem": "The word \"atone\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "be punished",
+       "B": "confess publicly",
+       "C": "make amends",
+       "D": "forget about"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"atone\" ở đoạn 6 nằm trong bối cảnh các hành động chuộc lỗi, sám hối hoặc đền bù về mặt tinh thần/tôn giáo, giúp chọn nghĩa đền bù/chuộc lỗi thay vì bị trừng phạt, thú nhận công khai hay lãng quên."
+     },
+     {
+      "number": 29,
+      "stem": "Which of the following is NOT mentioned in the passage?",
+      "options": {
+       "A": "Death became a common theme in late medieval art",
+       "B": "Universities across Europe closed permanently because of the plague",
+       "C": "Laws attempted to keep wages at pre-plague levels",
+       "D": "Jewish communities were wrongly blamed for the plague"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: hình ảnh/chủ đề cái chết phổ biến hơn trong nghệ thuật cuối thời trung cổ, các đạo luật cố giữ mức tiền lương như trước dịch, và việc cộng đồng Do Thái bị quy kết oan đều có cơ sở. Chi tiết không xuất hiện là nhận định các trường đại học trên khắp châu Âu đóng cửa vĩnh viễn vì dịch bệnh."
+     },
+     {
+      "number": 30,
+      "stem": "Which of the following best describes the writer's overall approach?",
+      "options": {
+       "A": "Arguing that disasters always improve conditions for ordinary people",
+       "B": "Blaming fourteenth-century rulers for causing the Black Death",
+       "C": "Tracing a shift from growth to crisis and its uneven consequences",
+       "D": "Celebrating the thirteenth century as a lasting golden age Reading"
+      },
+      "answer": "C",
+      "type_hint": "Cách tiếp cận của tác giả",
+      "type": "Chi tiết",
+      "explanation": "Quan sát cách tác giả dựng mạch sử liệu xuyên suốt bài viết. Văn bản theo dõi sự chuyển biến từ tăng trưởng/mở rộng sang các cuộc khủng hoảng thế kỷ XIV và những hệ quả không đồng đều giữa các địa phương, thay vì lập luận thảm họa luôn cải thiện đời sống người dân, đổ lỗi cho nhà cầm quyền gây ra dịch bệnh hay ca ngợi thế kỷ XIII như một thời hoàng kim bền vững."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính toàn bài (R3Q4):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: sự mở rộng dân số, canh tác và đô thị ở châu Âu trước mốc khoảng năm 1300 cùng giới hạn đất đai, nạn đói lớn (Great Famine) do thời tiết cực đoan, dịch bệnh Cái Chết Đen (Black Death) với quy mô tàn phá nặng nề, biến động lao động - tiền lương sau dịch, sự phân hóa chế độ nông nô giữa các vùng, và những hệ lụy xã hội - văn hóa kéo dài. Phương án đúng phải bao quát được sự chuyển dịch từ giai đoạn mở rộng sang khủng hoảng cùng tác động khác nhau theo từng khu vực, tránh chọn các ý quy kết một nguyên nhân đơn lẻ hoặc tuyệt đối hóa sự chấm dứt của chế độ phong kiến.\n- **Dạng câu hỏi Cách tiếp cận của tác giả (R3Q10):** Quan sát cách tác giả dựng mạch sử liệu xuyên suốt bài viết. Văn bản theo dõi sự chuyển biến từ tăng trưởng/mở rộng sang các cuộc khủng hoảng thế kỷ XIV và những hệ quả không đồng đều giữa các địa phương, thay vì lập luận thảm họa luôn cải thiện đời sống người dân, đổ lỗi cho nhà cầm quyền gây ra dịch bệnh hay ca ngợi thế kỷ XIII như một thời hoàng kim bền vững.\n- **Dạng câu hỏi Chi tiết (R3Q1, R3Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực diện trong đúng đoạn văn được chỉ định.\n  - Với **R3Q1**, quét đoạn 1 quanh mốc khoảng năm 1300 để nhận diện thực trạng phần lớn đất canh tác tốt đã được sử dụng khiến nhiều người phải làm việc trên những mảnh đất kém thuận lợi.\n  - Với **R3Q7**, quét đoạn 2 quanh tác nhân khởi phát nạn đói lớn (Great Famine) để tìm yếu tố mưa lớn kéo dài làm mất mùa/hỏng hoa màu.\n- **Dạng câu hỏi Loại trừ NOT (R3Q9):** Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: hình ảnh/chủ đề cái chết phổ biến hơn trong nghệ thuật cuối thời trung cổ, các đạo luật cố giữ mức tiền lương như trước dịch, và việc cộng đồng Do Thái bị quy kết oan đều có cơ sở. Chi tiết không xuất hiện là nhận định các trường đại học trên khắp châu Âu đóng cửa vĩnh viễn vì dịch bệnh.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q2, R3Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) xung quanh từ mục tiêu.\n  - Với **R3Q2**, từ **\"staggering\"** ở đoạn 3 xuất hiện khi mô tả mức độ tổn thất nhân khẩu hoặc quy mô tác động lớn đến mức gây chấn động, sát nghĩa với đáng kinh ngạc/choáng ngợp hơn là bị phóng đại, chập chờn hay dần dần.\n  - Với **R3Q8**, từ **\"atone\"** ở đoạn 6 nằm trong bối cảnh các hành động chuộc lỗi, sám hối hoặc đền bù về mặt tinh thần/tôn giáo, giúp chọn nghĩa đền bù/chuộc lỗi thay vì bị trừng phạt, thú nhận công khai hay lãng quên.\n- **Dạng câu hỏi Quy chiếu (R3Q5):** Tập trung vào đại từ số nhiều **\"they\"** ở đoạn 4 trong mệnh đề nói về việc bị giới hạn, áp đặt hoặc khó duy trì hiệu lực trên thực tế sau biến động nhân lực. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ chính các quy định/đạo luật điều chỉnh tiền lương đó, tránh nhầm với mức trước dịch, nông dân sống sót hay địa chủ.\n- **Dạng câu hỏi Chèn câu (R3Q6):** Phân tích câu cần chèn nêu việc một số thị trấn mất quá nhiều dân cư đến mức nhà cửa bỏ trống qua nhiều thế hệ. Xác định vị trí dấu ngoặc vuông ngay sau đoạn/câu đã bàn về mức độ suy giảm dân số nghiêm trọng hoặc sự hoang vắng ở các khu dân cư sau dịch để mạch thông tin ăn khớp chặt chẽ.\n- **Dạng câu hỏi Suy luận (R3Q3):** Kết hợp thông tin ở đoạn 5 về việc chế độ nông nô suy yếu ở một số nơi nhưng lại bị siết chặt ở khu vực khác sau dịch bệnh. Từ đó suy ra rằng tác động của Cái Chết Đen đối với chế độ nông nô phụ thuộc nhiều vào cách chính quyền/lãnh chúa địa phương lựa chọn phản ứng, tránh các suy diễn cực đoan như chấm dứt ở mọi nơi hay đảo ngược nguyên nhân.\nLời khuyên: Hãy tối ưu hóa tốc độ làm bài bằng cách xử lý trước nhóm câu hỏi có vị trí định vị rõ ràng như Quy chiếu (R3Q5) và **Từ vựng theo ngữ cảnh** (R3Q2, R3Q8). Kế tiếp, dùng kỹ thuật đọc quét nhanh để giải quyết các câu **Chi tiết** (R3Q1, R3Q7) và câu hỏi **Loại trừ** (R3Q9). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã nắm vững, bạn sẽ dễ dàng chốt đáp án cho các câu đòi hỏi tư duy tổng hợp cao gồm **Chèn câu** (R3Q6), **Suy luận** (R3Q3), **Ý chính toàn bài** (R3Q4) và **Cách tiếp cận của tác giả** (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Living in the Shadow of Volcanoes",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Volcanoes are among the most destructive forces on Earth, yet hundreds of millions of people choose, or are **compelled**, to live in their shadow. By one widely cited estimate, roughly 800 million people live within a hundred kilometres of a volcano that has erupted in recent times. To outsiders, such settlement can seem difficult to explain. To those who live there, however, the decision often reflects a careful, if not always fully conscious, weighing of benefits against risks.",
+     "The most important of these benefits is arguably the soil. Volcanic ash, once weathered, releases minerals such as potassium and phosphorus and develops into soils that retain water well and support exceptionally productive agriculture. The densely populated island of Java owes much of its agricultural productivity to such soils, and vineyards on the slopes of Mount Etna in Sicily have been cultivated for centuries. Not only do these soils sustain local livelihoods, but they have historically supported population densities far higher than surrounding regions could maintain.",
+     "Volcanic regions offer other resources too. In Iceland, geothermal energy supplies the great majority of homes with heating and contributes a substantial share of the country's electricity. Volcanic landscapes also attract large numbers of tourists, and minerals deposited by volcanic activity have been mined for centuries. For many communities, then, the volcano is not merely a threat but a central part of their economic and cultural life.",
+     "The dangers, nonetheless, are real and varied. Beyond lava, which usually moves slowly enough for people to escape, eruptions can produce pyroclastic flows, fast-moving currents of hot gas and rock that destroy almost everything in their path. Lahars, or volcanic mudflows, can travel tens of kilometres from a volcano along river valleys. In 1985, a relatively small eruption of Nevado del Ruiz in Colombia generated lahars that buried the town of Armero, killing more than 20,000 people, a tragedy made worse by the fact that warnings had been issued but not acted upon.",
+     "Advances in monitoring have improved the ability of scientists to anticipate eruptions. By tracking small earthquakes, changes in gas emissions and subtle swelling of the ground, volcanologists can often detect signs of rising magma weeks or months in advance. The evacuation ordered before the 1991 eruption of Mount Pinatubo in the Philippines is credited with saving many thousands of lives. Precise forecasting nonetheless remains **elusive**: volcanoes may show signs of unrest for years without erupting, and false alarms can erode public trust in future warnings.",
+     "Even when risks are well understood, residents may be reluctant to leave. Studies of communities near active volcanoes suggest that people's decisions are shaped not only by scientific information but also by economic necessity, attachment to land and ancestors, and previous experience. Those who have lived through several minor eruptions without harm may come to underestimate the danger of a larger one. Effective risk reduction, researchers argue, therefore depends as much on trust and communication as on technical monitoring. Without **them**, even accurate warnings may go unheeded.",
+     "Living near volcanoes thus represents not an irrational gamble but a complex trade-off between tangible, everyday benefits and rare but potentially catastrophic hazards. The challenge for scientists and governments is not to persuade everyone to leave, which would be neither feasible nor, in many cases, desirable, but to ensure that when a volcano does awaken, communities are prepared to respond."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, why are volcanic soils so agriculturally valuable?",
+      "options": {
+       "A": "Weathered ash supplies minerals and helps the soil hold water",
+       "B": "They are kept warm by heat rising from underground magma",
+       "C": "They contain no minerals that could harm growing crops",
+       "D": "They are found only on the slopes of active volcanoes"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 quanh giá trị nông nghiệp của đất núi lửa để nhận diện vai trò của tro phong hóa trong việc cung cấp khoáng chất và giữ ẩm/nước cho đất."
+     },
+     {
+      "number": 32,
+      "stem": "The word \"compelled\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "permitted",
+       "B": "completed",
+       "C": "encouraged",
+       "D": "forced"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"compelled\" ở đoạn 1 xuất hiện khi nói về hoàn cảnh sinh kế hoặc yếu tố bắt buộc khiến con người phải lựa chọn sinh sống hoặc hành động, sát nghĩa với bị buộc phải/ép buộc hơn là được cho phép, hoàn thành hay được khuyến khích."
+     },
+     {
+      "number": 33,
+      "stem": "What can be inferred from paragraph 4 about the Armero disaster?",
+      "options": {
+       "A": "Better use of existing warnings might have reduced the death toll",
+       "B": "The warnings issued were what caused the lahars to form",
+       "C": "Lahars can travel tens of kilometres along river valleys",
+       "D": "It proves that small eruptions are always more dangerous than large ones"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 4 về thảm họa Armero với hệ thống cảnh báo hoặc nhận thức rủi ro lúc bấy giờ. Từ đó suy ra rằng việc tận dụng cảnh báo sẵn có tốt hơn có thể đã giúp giảm bớt thương vong, tránh các suy diễn sai lệch về nguyên nhân tạo ra dòng bùn núi lửa (lahar) hay so sánh máy móc quy mô vụ phun trào."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following best summarises the central argument of the passage?",
+      "options": {
+       "A": "Volcanic soils are the most fertile soils on Earth",
+       "B": "Modern monitoring can now predict eruptions with complete precision",
+       "C": "Governments should relocate everyone living near active volcanoes",
+       "D": "Living near volcanoes involves weighing real benefits against serious risks"
+      },
+      "answer": "D",
+      "type_hint": "Tóm tắt luận điểm trọng tâm",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: sự hiện diện của cộng đồng dân cư gần núi lửa, giá trị nông nghiệp của đất núi lửa cùng khoáng sản và địa nhiệt, các mối nguy hiểm núi lửa cùng bài học từ thảm họa, giới hạn của việc giám sát/dự báo thời điểm phun trào, và vai trò của niềm tin, truyền thông cũng như sự chuẩn bị ứng phó. Phương án đúng phải phản ánh được việc cân nhắc lợi ích thực tế đối diện với rủi ro nghiêm trọng, tránh chọn các ý tuyệt đối hóa độ phì nhiêu, khẳng định dự báo chính xác tuyệt đối hay đề xuất di dời toàn bộ dân cư."
+     },
+     {
+      "number": 35,
+      "stem": "The word \"them\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "accurate warnings",
+       "B": "minor eruptions",
+       "C": "researchers",
+       "D": "trust and communication"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ tân ngữ số nhiều \"them\" ở đoạn 6 trong mệnh đề bàn về việc duy trì, củng cố hoặc xây dựng lâu dài giữa cộng đồng và cơ quan chuyên môn. Đọc ngược lại câu liền trước để tìm danh từ chỉ các yếu tố gắn kết/tương tác đang được nhấn mạnh, tránh nhầm với cảnh báo chính xác, đợt phun trào nhỏ hay các nhà nghiên cứu."
+     },
+     {
+      "number": 36,
+      "stem": "According to the passage, what remains a limitation of volcano monitoring?",
+      "options": {
+       "A": "Swelling of the ground happens only after eruptions begin",
+       "B": "Monitoring has never actually succeeded in saving lives in practice",
+       "C": "Scientists cannot yet measure gas emissions from volcanoes",
+       "D": "Unrest signs do not reliably show when eruptions will occur"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 quanh hạn chế của công tác giám sát núi lửa để tìm yếu tố các dấu hiệu bất thường chưa cho biết đáng tin cậy thời điểm chính xác xảy ra phun trào."
+     },
+     {
+      "number": 37,
+      "stem": "Which of the following is NOT mentioned in the passage?",
+      "options": {
+       "A": "Lava usually moves slowly enough for people to escape",
+       "B": "Volcanic minerals have been mined for centuries",
+       "C": "Most volcanic eruptions occur beneath the ocean floor",
+       "D": "False alarms may reduce trust in later warnings"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: dung nham thường di chuyển đủ chậm để người dân kịp sơ tán, khoáng sản núi lửa được khai thác qua nhiều thế kỷ, và báo động giả có thể làm giảm niềm tin vào các cảnh báo sau đều có cơ sở. Chi tiết không xuất hiện là thông tin đa số vụ phun trào núi lửa xảy ra dưới đáy đại dương."
+     },
+     {
+      "number": 38,
+      "stem": "The word \"elusive\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "expensive",
+       "B": "hard to achieve",
+       "C": "impossible",
+       "D": "imaginary"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"elusive\" ở đoạn 5 nằm trong phần bàn về việc xác định chính xác thời điểm phun trào vẫn còn khó khăn dù khoa học đã tiến bộ, giúp chọn nghĩa khó đạt được/khó nắm bắt thay vì đắt đỏ, bất khả thi hay tưởng tượng."
+     },
+     {
+      "number": 39,
+      "stem": "According to the passage, why might some residents underestimate volcanic danger?",
+      "options": {
+       "A": "Scientists rarely share their monitoring data with local communities",
+       "B": "Their ancestors had forbidden them from ever leaving the land",
+       "C": "Larger eruptions are generally less dangerous than smaller ones",
+       "D": "Surviving earlier minor eruptions unharmed may breed complacency"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 6 quanh lý do cư dân có thể đánh giá thấp nguy cơ để xác định tâm lý chủ quan khi từng trải qua các đợt hoạt động/phun trào nhỏ trước đó mà không bị thiệt hại."
+     },
+     {
+      "number": 40,
+      "stem": "Which of the following best describes how the writer develops the argument?",
+      "options": {
+       "A": "By arguing that people living near volcanoes behave irrationally",
+       "B": "By weighing volcanic benefits against hazards, then stressing preparedness",
+       "C": "By comparing volcanic regions in Iceland and the Philippines only",
+       "D": "By describing the geology of a single famous volcano"
+      },
+      "answer": "B",
+      "type_hint": "Cách triển khai lập luận",
+      "type": "Chi tiết",
+      "explanation": "Quan sát trình tự lập luận xuyên suốt bài viết. Tác giả đối chiếu lợi ích của vùng núi lửa với các hiểm họa rồi chuyển sang nhấn mạnh yếu tố chuẩn bị sẵn sàng, truyền thông và phòng ngừa, thay vì quy kết hành vi phi lý, chỉ so sánh hai khu vực hay mô tả địa chất của một ngọn núi lửa đơn lẻ."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Tóm tắt luận điểm trọng tâm (R4Q4):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: sự hiện diện của cộng đồng dân cư gần núi lửa, giá trị nông nghiệp của đất núi lửa cùng khoáng sản và địa nhiệt, các mối nguy hiểm núi lửa cùng bài học từ thảm họa, giới hạn của việc giám sát/dự báo thời điểm phun trào, và vai trò của niềm tin, truyền thông cũng như sự chuẩn bị ứng phó. Phương án đúng phải phản ánh được việc cân nhắc lợi ích thực tế đối diện với rủi ro nghiêm trọng, tránh chọn các ý tuyệt đối hóa độ phì nhiêu, khẳng định dự báo chính xác tuyệt đối hay đề xuất di dời toàn bộ dân cư.\n- **Dạng câu hỏi Cách triển khai lập luận (R4Q10):** Quan sát trình tự lập luận xuyên suốt bài viết. Tác giả đối chiếu lợi ích của vùng núi lửa với các hiểm họa rồi chuyển sang nhấn mạnh yếu tố chuẩn bị sẵn sàng, truyền thông và phòng ngừa, thay vì quy kết hành vi phi lý, chỉ so sánh hai khu vực hay mô tả địa chất của một ngọn núi lửa đơn lẻ.\n- **Dạng câu hỏi Chi tiết (R4Q1, R4Q6, R4Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực diện trong đúng đoạn văn được chỉ định.\n  - Với **R4Q1**, quét đoạn 2 quanh giá trị nông nghiệp của đất núi lửa để nhận diện vai trò của tro phong hóa trong việc cung cấp khoáng chất và giữ ẩm/nước cho đất.\n  - Với **R4Q6**, quét đoạn 5 quanh hạn chế của công tác giám sát núi lửa để tìm yếu tố các dấu hiệu bất thường chưa cho biết đáng tin cậy thời điểm chính xác xảy ra phun trào.\n  - Với **R4Q9**, quét đoạn 6 quanh lý do cư dân có thể đánh giá thấp nguy cơ để xác định tâm lý chủ quan khi từng trải qua các đợt hoạt động/phun trào nhỏ trước đó mà không bị thiệt hại.\n- **Dạng câu hỏi Loại trừ NOT (R4Q7):** Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: dung nham thường di chuyển đủ chậm để người dân kịp sơ tán, khoáng sản núi lửa được khai thác qua nhiều thế kỷ, và báo động giả có thể làm giảm niềm tin vào các cảnh báo sau đều có cơ sở. Chi tiết không xuất hiện là thông tin đa số vụ phun trào núi lửa xảy ra dưới đáy đại dương.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q2, R4Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) xung quanh từ mục tiêu.\n  - Với **R4Q2**, từ **\"compelled\"** ở đoạn 1 xuất hiện khi nói về hoàn cảnh sinh kế hoặc yếu tố bắt buộc khiến con người phải lựa chọn sinh sống hoặc hành động, sát nghĩa với bị buộc phải/ép buộc hơn là được cho phép, hoàn thành hay được khuyến khích.\n  - Với **R4Q8**, từ **\"elusive\"** ở đoạn 5 nằm trong phần bàn về việc xác định chính xác thời điểm phun trào vẫn còn khó khăn dù khoa học đã tiến bộ, giúp chọn nghĩa khó đạt được/khó nắm bắt thay vì đắt đỏ, bất khả thi hay tưởng tượng.\n- **Dạng câu hỏi Quy chiếu (R4Q5):** Tập trung vào đại từ tân ngữ số nhiều **\"them\"** ở đoạn 6 trong mệnh đề bàn về việc duy trì, củng cố hoặc xây dựng lâu dài giữa cộng đồng và cơ quan chuyên môn. Đọc ngược lại câu liền trước để tìm danh từ chỉ các yếu tố gắn kết/tương tác đang được nhấn mạnh, tránh nhầm với cảnh báo chính xác, đợt phun trào nhỏ hay các nhà nghiên cứu.\n- **Dạng câu hỏi Suy luận (R4Q3):** Kết hợp thông tin ở đoạn 4 về thảm họa Armero với hệ thống cảnh báo hoặc nhận thức rủi ro lúc bấy giờ. Từ đó suy ra rằng việc tận dụng cảnh báo sẵn có tốt hơn có thể đã giúp giảm bớt thương vong, tránh các suy diễn sai lệch về nguyên nhân tạo ra dòng bùn núi lửa (lahar) hay so sánh máy móc quy mô vụ phun trào.\nLời khuyên: Hãy tối ưu hóa tốc độ làm bài bằng cách xử lý trước nhóm câu hỏi có vị trí định vị rõ ràng như Quy chiếu (R4Q5) và **Từ vựng theo ngữ cảnh** (R4Q2, R4Q8). Kế tiếp, dùng kỹ thuật đọc quét nhanh để giải quyết các câu **Chi tiết** (R4Q1, R4Q6, R4Q9) và câu hỏi **Loại trừ** (R4Q7). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã nắm vững, bạn sẽ dễ dàng chốt đáp án cho các câu đòi hỏi tư duy tổng hợp cao gồm **Suy luận** (R4Q3), **Tóm tắt luận điểm trọng tâm** (R4Q4) và **Cách triển khai lập luận** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You are a teacher at a primary school. Your class is going on a field trip next Friday. You received an email from Mrs. Brown, the mother of one of your students.\nShe has some questions about the trip. Read part of her email below.\nMy son Tom is very excited about the field trip next Friday. However, I would like to know some more details before the trip.\n- What activities will the children take part in during the trip?\n- Why do parents have to prepare a packed lunch for their children?\n- Is there anything else my son needs to bring?\nWrite an email responding to Mrs. Brown. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You are a teacher at a primary school. Your class is going on a field trip next Friday. You received an email from Mrs. Brown, the mother of one of your students.",
+      "She has some questions about the trip. Read part of her email below."
+     ],
+     "quote": [
+      "My son Tom is very excited about the field trip next Friday. However, I would like to know some more details before the trip.",
+      "- What activities will the children take part in during the trip?",
+      "- Why do parents have to prepare a packed lunch for their children?",
+      "- Is there anything else my son needs to bring?"
+     ],
+     "instruction": "Write an email responding to Mrs. Brown. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Formal / Semi-formal Email**: bạn đóng vai **giáo viên** trả lời thư của **phụ huynh học sinh**.\n- Giọng văn **lịch sự, chuyên nghiệp, ân cần và đáng tin cậy**; giáo viên cần giúp phụ huynh yên tâm về chuyến đi.\n- Bạn phải trả lời đủ **3 yêu cầu**: (1) các hoạt động trong chuyến dã ngoại, (2) **giải thích lý do** phụ huynh phải tự chuẩn bị bữa trưa, (3) những đồ cần mang theo.\n- Câu 2 là câu hỏi **Why**: cần đưa ra lý do hợp lý, thuyết phục (ví dụ: không có nhà hàng gần đó, đảm bảo vệ sinh an toàn thực phẩm, phù hợp với trẻ dị ứng hoặc ăn kiêng).\n- Bài viết tối thiểu **120 từ**; nên viết khoảng 140–160 từ.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Ví dụ: Dear Mrs. Brown,\n- **Opening:** Cảm ơn và thể hiện sự sẵn lòng. Ví dụ: Thank you for your email. I am glad to hear that Tom is excited about the trip, and I am happy to answer your questions.\n- **Body 1 – Hoạt động:** Ví dụ: The children will visit the city botanical garden, where they will learn about different plants and insects. After that, they will take part in team games and draw pictures of nature.\n- **Body 2 – Lý do mang bữa trưa:** Ví dụ: As for lunch, there are no restaurants near the garden, so we kindly ask parents to prepare a packed lunch. This also allows you to choose food that suits your child, especially if he has any allergies or special dietary needs.\n- **Body 3 – Đồ cần mang:** Ví dụ: In addition, Tom should bring a hat, a water bottle, a raincoat in case it rains, and comfortable shoes for walking. Please make sure that his name is written on all his belongings.\n- **Closing:** Ví dụ: If you have any further questions, please feel free to contact me. Thank you for your support.\n- **Sign-off:** Kind regards, / Best regards, + tên + chức danh (Class Teacher).\n- Mỗi đoạn thân bài 2–4 câu, mỗi đoạn trả lời một câu hỏi.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Dùng **thì Tương lai (will)** để mô tả hoạt động sẽ diễn ra.\n- Dùng ngôn ngữ **yêu cầu lịch sự** của giáo viên: **We kindly ask parents to...**, **Please make sure that...**, **Your child should** bring...\n- Dùng **so / because / as / this allows...** để giải thích lý do một cách thuyết phục.\n- Dùng **câu bị động** (Lunch will not be provided, His name should be written...) để tăng tính trang trọng.\n- Tránh viết tắt và từ quá thân mật (Hi, Cheers, No worries).\nTừ vựng quan trọng:\n- **Field trip / school outing:** Chuyến dã ngoại / chuyến đi ngoại khóa\n- **Take part in / participate in:** Tham gia\n- **Botanical garden / museum / farm:** Vườn bách thảo / bảo tàng / trang trại\n- **Team-building games:** Trò chơi gắn kết đội nhóm\n- **Packed lunch:** Bữa trưa mang theo\n- **Food allergies / dietary needs:** Dị ứng thực phẩm / nhu cầu ăn uống đặc biệt\n- **Food hygiene / food safety:** Vệ sinh / an toàn thực phẩm\n- **Comfortable shoes / water bottle:** Giày thoải mái / bình nước\n- **Belongings:** Đồ dùng cá nhân\n- **Supervise / supervision:** Giám sát\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **After that / Then:** Sau đó\n- **As for / Regarding:** Còn về\n- **In addition / Furthermore:** Thêm vào đó\n- **Because / As / Since:** Bởi vì\n- **Therefore:** Vì vậy\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am glad to hear that...:** Tôi rất vui khi biết rằng...\n- **I am sure the children will have a wonderful time.:** Tôi tin các em sẽ có khoảng thời gian tuyệt vời.\n- **Please be assured that...:** Xin chị yên tâm rằng...\n- **Thank you for your cooperation.:** Cảm ơn sự hợp tác của chị.\n\n**4. Các lỗi thường gặp:**\n- **Nhầm vai**: viết như phụ huynh hỏi giáo viên thay vì giáo viên trả lời.\n- Trả lời câu hỏi Why quá ngắn hoặc không có lý do thuyết phục.\n- Liệt kê đồ cần mang mà không giải thích (ví dụ: raincoat in case it rains).\n- Giọng văn quá ra lệnh (You must...) hoặc quá suồng sã (Hi there!).\n- Sai cấu trúc: ask parents prepare thay vì ask parents to prepare; in case of it rains thay vì in case it rains.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm sơ số từ, đảm bảo trên 120 từ.\n- Kiểm tra đã trả lời đủ 3 câu hỏi, đặc biệt câu Why có lý do rõ ràng.\n- Kiểm tra giọng văn nhất quán ở vai trò giáo viên.\n- Rà soát cấu trúc ask sb to V, in case, câu bị động và chia động từ.\n\n**6. Tư duy làm bài:**\n- Hãy viết như một giáo viên tận tâm: **thông tin rõ ràng, giải thích hợp lý và khiến phụ huynh yên tâm**.\n- Có thể nhắc đến sự an toàn và giám sát của giáo viên để tăng sự tin tưởng.\n- Trả lời đủ 3 yêu cầu với giọng văn lịch sự, nhất quán là chìa khóa đạt điểm cao.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn many modern cities, streets, buildings and advertising signs are brightly lit throughout the night.\nSome people believe that the excessive use of artificial light at night, known as light pollution, has a negative impact on the environment and on human health and daily life.\nTo what extent do you agree or disagree with this opinion?\nWrite an essay to an educated reader to give your opinion on whether the excessive use of artificial light at night has a negative impact on the environment and on human life. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In many modern cities, streets, buildings and advertising signs are brightly lit throughout the night.",
+      "Some people believe that the excessive use of artificial light at night, known as light pollution, has a negative impact on the environment and on human health and daily life.",
+      "To what extent do you agree or disagree with this opinion?"
+     ],
+     "instruction": "Write an essay to an educated reader to give your opinion on whether the excessive use of artificial light at night has a negative impact on the environment and on human life. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng **Opinion Essay** (Agree or Disagree), yêu cầu bạn nêu rõ **mức độ đồng ý** với ý kiến rằng ô nhiễm ánh sáng gây tác động tiêu cực.\n- Từ khóa quan trọng: **light pollution** (ô nhiễm ánh sáng), **excessive artificial light at night** (lạm dụng ánh sáng nhân tạo về đêm), **negative impact on the environment and human health**.\n- Bạn có thể chọn: **hoàn toàn đồng ý** (dễ viết nhất), hoặc **đồng ý một phần** (thừa nhận ánh sáng cần cho an toàn, kinh tế ban đêm nhưng lạm dụng thì có hại).\n- Quan điểm phải **rõ ràng ngay từ mở bài** và nhất quán đến kết bài.\n- Bài viết tối thiểu **250 từ**; nên viết khoảng 270–300 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu và thesis statement. Ví dụ: Although artificial lighting is essential in modern life, I strongly agree that its excessive use at night has harmful effects on both the environment and human beings.\n- **Body 1 – Ảnh hưởng đến sức khỏe con người:** Rối loạn giấc ngủ, đồng hồ sinh học; căng thẳng, mệt mỏi. Ví dụ: Firstly, bright lights from streets and advertising boards can disturb people's sleep and affect their body clock.\n- **Body 2 – Ảnh hưởng đến môi trường và động vật:** Làm rối loạn tập tính chim di cư, côn trùng, rùa biển; lãng phí năng lượng, tăng khí thải. Ví dụ: Secondly, light pollution confuses many animals, such as migrating birds and baby sea turtles, which rely on natural light to find their way.\n- **Body 3 (tùy chọn) – Nhượng bộ và phản biện:** Ví dụ: Admittedly, street lights are necessary for road safety and crime prevention; however, much of the light used today is unnecessary, such as decorative lights left on all night.\n- **Conclusion:** Khẳng định lại quan điểm, có thể gợi ý giải pháp ngắn. Ví dụ: In conclusion, I firmly believe that excessive artificial light is harmful, so it should be reduced through smarter lighting policies.\n- Cấu trúc mỗi đoạn thân bài: **Topic sentence -> Explanation -> Example -> Mini-conclusion**.\n- Ví dụ minh họa: In big cities like Ho Chi Minh City, many people living near shopping centres find it hard to sleep because of bright LED billboards.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Dùng **thì Hiện tại đơn** cho sự thật khoa học, **Hiện tại hoàn thành** cho xu hướng (Light pollution has increased...).\n- Dùng cấu trúc nguyên nhân – kết quả: **lead to**, **result in**, **have a negative impact on**.\n- Dùng câu bị động (Many animals are affected by...), câu điều kiện và mệnh đề quan hệ để đa dạng ngữ pháp.\n- Đoạn nhượng bộ (Admittedly..., However...) giúp bài viết thể hiện tư duy phản biện, ghi điểm cao hơn.\n- Tránh lặp lại artificial light; luân phiên dùng light pollution, excessive lighting, night-time lighting, bright lights. Từ vựng quan trọng:\n- **Light pollution:** Ô nhiễm ánh sáng\n- **Artificial light / excessive lighting:** Ánh sáng nhân tạo / chiếu sáng quá mức\n- **Advertising billboards / neon signs:** Biển quảng cáo / đèn neon\n- **Sleep disorders / body clock:** Rối loạn giấc ngủ / đồng hồ sinh học\n- **Wildlife / migrating birds:** Động vật hoang dã / chim di cư\n- **Disrupt natural behaviour:** Làm rối loạn tập tính tự nhiên\n- **Waste energy / carbon emissions:** Lãng phí năng lượng / khí thải carbon\n- **Night sky / stars:** Bầu trời đêm / các vì sao\n- **Road safety / crime prevention:** An toàn giao thông / phòng chống tội phạm\n- **Energy-saving lights:** Đèn tiết kiệm năng lượng\nTừ nối (Linking words):\n- **Sequence – Firstly / Secondly / Finally:** Thứ nhất, thứ hai, cuối cùng\n- **Adding – Furthermore / Moreover / In addition:** Hơn nữa, thêm vào đó\n- **Concession – Admittedly / It is true that:** Phải thừa nhận rằng\n- **Contrast – However / Nevertheless:** Tuy nhiên\n- **Effect – As a result / Consequently:** Kết quả là, do đó\n- **Example – For example / For instance:** Ví dụ\n- **Conclusion – In conclusion / To sum up:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Too much night-time lighting:** Thay cho excessive use of artificial light at night (quá nhiều ánh sáng về đêm).\n- **Have harmful effects on:** Thay cho have a negative impact on (gây tác hại đến).\n- **Human well-being:** Thay cho human health and daily life (sức khỏe và đời sống con người).\n- **The natural world:** Thay cho the environment (thế giới tự nhiên).\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **I strongly agree that...:** Tôi hoàn toàn đồng ý rằng...\n- **I partly agree with this view because...:** Tôi đồng ý một phần với quan điểm này vì...\n- **Admittedly, ...; however, ...:** Phải thừa nhận rằng...; tuy nhiên...\n- **For these reasons, I firmly believe that...:** Vì những lý do này, tôi tin chắc rằng...\n\n**4. Các lỗi thường gặp:**\n- Không nêu rõ đồng ý hay không đồng ý, hoặc quan điểm thay đổi giữa bài.\n- Viết như dạng Discussion (trình bày hai phía ngang nhau) mà không có lập trường rõ ràng.\n- Nhầm lẫn light pollution với ô nhiễm không khí hoặc ô nhiễm tiếng ồn.\n- Sai cấu trúc: agree the opinion thay vì agree with the opinion; affect to thay vì affect.\n- Ví dụ chung chung, không có tình huống cụ thể.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra số từ đã đạt trên 250 chưa.\n- Kiểm tra thesis statement nêu rõ quan điểm và kết luận nhất quán.\n- Đảm bảo mỗi đoạn thân bài hỗ trợ quan điểm của bạn.\n- Rà soát cấu trúc agree with, affect / have an effect on và chia động từ.\n\n**6. Tư duy làm bài:**\n- Đây là chủ đề lạ; nếu thiếu ý, hãy chia theo 2 hướng dễ triển khai: **con người** (giấc ngủ, sức khỏe) và **môi trường** (động vật, năng lượng).\n- Một đoạn nhượng bộ ngắn sẽ giúp bài viết thuyết phục và học thuật hơn.\n- Quan điểm rõ ràng, lập luận mạch lạc là chìa khóa đạt band B2 trở lên."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about farming in Vietnam\n\n1\nIs farming important in Vietnam? Why?\n2\nHave you ever done any farm work? What was it like?\n3\nDo you think young people in Vietnam are interested in farming nowadays? Why or why not?\n\nNow, let’s talk about bags\n\n4\nWhat kind of bag do you usually carry every day?\n5\nDo you often use plastic bags when you go shopping?\n6\nDo you think people should use reusable bags instead of plastic bags? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 là phần **Social Interaction** kéo dài **3 phút** với **6 câu hỏi** ngắn về đời sống hằng ngày, giúp bạn khởi động và thể hiện khả năng giao tiếp tự nhiên.\n- **Topic A (Farming in Vietnam):** Câu 1–3 hỏi về vai trò của nông nghiệp ở Việt Nam, trải nghiệm làm nông của bạn và mức độ quan tâm của giới trẻ đối với nghề nông. Phần này kiểm tra khả năng **nêu quan điểm về một vấn đề xã hội**, kể lại trải nghiệm và nhận xét xu hướng.\n- **Topic B (Bags):** Câu 4–6 hỏi về loại túi bạn thường mang, thói quen dùng túi nhựa và quan điểm về túi tái sử dụng. Phần này kiểm tra khả năng **miêu tả đồ vật**, **nói về thói quen** và **đưa ra quan điểm về môi trường**.\n- Tiêu chí chấm điểm gồm: **Fluency (Độ trôi chảy)**, **Vocabulary (Từ vựng)**, **Grammar (Ngữ pháp)** và **Pronunciation (Phát** âm).\n- Phân bổ thời gian: khoảng **25–35 giây mỗi câu**. Topic A khá lạ với sinh viên thành phố; hãy chuẩn bị sẵn vài ý về lúa gạo, cà phê, trái cây xuất khẩu và cuộc sống ở quê.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Áp dụng cấu trúc **ARE**: **A**nswer (Trả lời trực tiếp) -> **R**eason (Lý do) -> **E**xample (Ví dụ cụ thể). Đây là cấu trúc an toàn và hiệu quả cho trình độ B1/B2.\n- **Ví dụ Topic A:** Yes, farming is extremely important in Vietnam. A large part of the population still lives in rural areas and depends on agriculture. For example, Vietnam is one of the biggest rice and coffee exporters in the world, and the Mekong Delta is known as the rice bowl of the country.\n- **Ví dụ Topic B:** I usually carry a canvas tote bag to university. I like it because it is light, large enough for my laptop and books, and environmentally friendly. For instance, I also use it when I go to the supermarket, so I do not need any plastic bags.\n- Mẹo kéo dài câu trả lời: luôn tự hỏi **Why?** (Tại sao?) và **How?** (Như thế nào?). Ví dụ: Giới trẻ ít quan tâm nghề nông -> Tại sao? -> Thu nhập thấp, vất vả -> Như thế nào? -> Nhiều người trẻ rời quê lên thành phố làm việc.\n- Mẹo chuyển chủ đề mượt mà: khi giám khảo chuyển sang Topic B, bạn có thể mở đầu bằng **Well, bags are something** I use every single day, so this is easy to talk about. Câu này giúp bạn có thêm vài giây suy nghĩ một cách tự nhiên.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói đều. Dùng từ đệm như **Well...**, **Actually...**, **Let me see...** để tránh khoảng lặng dài.\n- Về thì: dùng **Hiện tại đơn** cho sự thật chung về nông nghiệp (Farming provides jobs for millions of people), **Hiện tại** hoàn thành + Quá khứ đơn cho câu 2 (I have helped my grandparents harvest rice; It was hot but fun), Hiện tại đơn + trạng từ tần suất cho câu 4 và câu 5.\n- Kỹ thuật **paraphrase**: nếu quên từ **harvest**, hãy nói **collect the rice when it is ready**; nếu quên từ **reusable**, hãy nói something you can use many times.\n- Từ vựng Topic A: **agriculture** (nông nghiệp), **rice paddies** (ruộng lúa), **harvest season** (mùa gặt), **rural areas** (vùng nông thôn).\n- Từ vựng Topic B: **a tote bag** (túi vải), **a backpack** (ba lô), **single-use plastic bags** (túi nhựa dùng một lần), **eco-friendly** (thân thiện với môi trường).\nCụm từ quan trọng nên dùng:\n- **the backbone of the economy** – xương sống của nền kinh tế (Topic A)\n- **export agricultural products** – xuất khẩu nông sản (Topic A)\n- **work in the fields** – làm việc ngoài đồng (Topic A)\n- **move to the city for work** – lên thành phố làm việc (Topic A)\n- **carry my belongings** – mang đồ dùng cá nhân (Topic B)\n- **bring my own bag** – mang theo túi riêng (Topic B)\n- **take hundreds of years to decompose** – mất hàng trăm năm để phân hủy (Topic B)\n- **reduce plastic waste** – giảm rác thải nhựa (Topic B)\nTừ nối khi nói (Linking Words):\n- **First of all** – Trước hết (mở ý đầu tiên)\n- **On top of that** – Thêm vào đó (bổ sung lý do)\n- **For instance** – Ví dụ như (dẫn nông sản hoặc loại túi cụ thể)\n- **However** – Tuy nhiên (nêu thực trạng giới trẻ rời bỏ nghề nông ở câu 3)\n- **These days** – Ngày nay (nói về xu hướng dùng túi vải)\n- **That is why** – Đó là lý do (kết luận ngắn gọn)\nCách thể hiện quan điểm tự nhiên:\n- **There is no doubt that...** (Không còn nghi ngờ gì rằng...) – There is no doubt that farming plays a key role in Vietnam's economy. (Topic A)\n- **I remember that...** (Tôi nhớ rằng...) – I remember that I used to help my grandparents feed the chickens during summer holidays. (Topic A)\n- **It seems to me that...** (Với tôi thì có vẻ...) – It seems to me that fewer young people want to become farmers because the work is hard. (Topic A)\n- **I never leave home without...** (Tôi không bao giờ ra khỏi nhà mà không có...) – I never leave home without my backpack. (Topic B)\n- **I have to admit that...** (Tôi phải thừa nhận rằng...) – I have to admit that I still use plastic bags at local markets. (Topic B)\n- **I strongly believe that...** (Tôi tin chắc rằng...) – I strongly believe that everyone should switch to reusable bags to protect the environment. (Topic B)\n\n**4. Các lỗi thường gặp:**\n- Lỗi nghiêm trọng nhất: chỉ trả lời **Yes**, **No** hay **A backpack** rồi im lặng. Hãy luôn thêm lý do và ví dụ.\n- Topic A: nếu chưa từng làm nông, trả lời **No, I have not** rồi dừng. Hãy giải thích lý do và nói về người thân hoặc những gì bạn quan sát được ở quê.\n- Topic A: nhầm **farmer** (nông dân) với **farm** (trang trại), hoặc nói **agricultural** khi cần danh từ **agriculture**.\n- Topic B: chỉ nói **plastic bags are bad** mà không giải thích tác hại cụ thể. Hãy nêu ít nhất một hậu quả như ô nhiễm biển, tắc cống.\n- Phát âm: **agriculture** /ˈæɡrɪkʌltʃər/ trọng âm âm đầu; **bag** /bæɡ/ bật rõ âm cuối /ɡ/, phân biệt với **back** /bæk/.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu kéo thời gian: **That is an interesting question, let me think for a second.**\n- Khi quên từ, hãy mô tả thay thế: quên **buffalo** thì nói **a big animal that farmers use to plough the fields**.\n- Topic A: nếu bí ý, hãy nói về các sản phẩm nông nghiệp nổi tiếng của Việt Nam như gạo, cà phê, hồ tiêu, sầu riêng, thanh long.\n- Topic B: nếu bí ý, hãy so sánh thói quen dùng túi ở siêu thị (thường có túi giấy, túi vải) và ở chợ truyền thống (vẫn dùng nhiều túi nhựa).\n\n**6. Tư duy làm bài nói:**\n- Hãy coi Part 1 như một cuộc trò chuyện thân mật với giám khảo, không phải một bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy **reset** lại tâm lý và tập trung hoàn toàn vào chủ đề mới.\n- Gặp chủ đề lạ như nông nghiệp, đừng hoảng; hãy liên hệ với **kiến thức chung** và **trải nghiệm quê hương** – giám khảo đánh giá cách bạn diễn đạt, không đánh giá chuyên môn."
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend is in hospital, and you are going to visit him or her and bring a gift.\n\nYou are considering the following options:\n\nOption 1: A basket of flowers\nOption 2: Colored pencils and a drawing book\nOption 3: Healthy snacks\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống: một người bạn phải nằm viện và bạn sẽ đến thăm, mang theo một món quà. Ba phương án gồm: **Option** 1 – một giỏ hoa, Option 2 – bút màu và sách vẽ, Option 3 – đồ ăn nhẹ lành mạnh.\n- Nhiệm vụ: phân tích ưu và nhược điểm của **cả 3 phương án**, sau đó chọn một món quà phù hợp nhất và giải thích rõ lý do. Lưu ý tiêu chí chính là **giúp bạn hồi phục và cảm thấy vui vẻ**, đồng thời **phù hợp với môi trường bệnh viện**.\n- Tiêu chí chấm điểm: **Fluency**, **Vocabulary**, **Grammar**, **Pronunciation** và đặc biệt là **khả năng lập luận, so sánh logic**.\n- Thời gian: tổng **4 phút**, trong đó khoảng **1 phút chuẩn bị** và **khoảng 3 phút nói**.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **I-C-E**: **Introduction** (giới thiệu tình huống và nêu lựa chọn) -> **Comparison/Body** (so sánh 3 món quà theo các tiêu chí: lợi ích cho sức khỏe, giá trị tinh thần, sự phù hợp với bệnh viện) -> **End** (khẳng định lại lựa chọn). Ví dụ mở đầu: My close friend has been in hospital for a week, and I am going to visit her this weekend. Among the three options, I think colored pencils and a drawing book would be the most thoughtful gift.\n- **Ví dụ Option 1:** A basket of flowers is a traditional and beautiful gift that can brighten up the hospital room and show that I care. However, flowers only last a few days, and some hospitals do not allow them because of pollen and allergies.\n- **Ví dụ Option 2:** Colored pencils and a drawing book can help my friend kill time during long, boring days in hospital. Drawing is also relaxing and can reduce stress and anxiety. On the other hand, if my friend is too weak or does not enjoy drawing, this gift may not be useful.\n- **Ví dụ Option 3:** Healthy snacks like fresh fruit, nuts or yogurt can give my friend energy and support recovery. Nevertheless, patients often have special diets, so I would need to check with the doctor first, and many visitors may already bring food.\n- Mẹo: gắn lập luận với **tình trạng của người bạn**, ví dụ bệnh gì, phải nằm viện bao lâu, sở thích cá nhân, và **quy định** của bệnh viện.\n- Mẹo: dùng từ nối tương phản như **however**, **on the other hand**, **although** để chuyển mượt giữa ưu điểm và nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các phương án thay vì nói rời rạc. Ví dụ: While flowers fade after a few days, a drawing book can keep my friend busy for weeks. Hoặc: Unlike snacks, a drawing book does not depend on the patient's diet.\n- Về thì: dùng **Hiện tại hoàn thành** cho tình huống (She has been in hospital for a week), **be going to** cho kế hoạch (I am going to visit her), **câu điều kiện** để giả định (If I brought snacks, she might not be allowed to eat them).\n- Kỹ thuật paraphrase: thay **be in hospital** bằng **be hospitalized**, **stay in hospital**; thay **healthy snacks** bằng **nutritious** food, light and healthy food; thay gift bằng present, get-well gift.\nCụm từ quan trọng nên dùng:\n- **a get-well-soon gift** – món quà chúc mau khỏe\n- **brighten up the room** – làm căn phòng tươi sáng hơn\n- **lift someone's spirits** – nâng cao tinh thần cho ai đó\n- **pass the time** – giết thời gian\n- **relieve stress and boredom** – giảm căng thẳng và buồn chán\n- **speed up recovery** – giúp hồi phục nhanh hơn\n- **a special diet** – chế độ ăn đặc biệt\n- **hospital regulations** – quy định của bệnh viện\nTừ nối khi nói (Linking Words):\n- **To begin with** – Để bắt đầu (mở phần phân tích phương án đầu tiên)\n- **On the other hand** – Mặt khác (chuyển sang nhược điểm)\n- **While** – Trong khi (so sánh hai món quà trong một câu)\n- **More importantly** – Quan trọng hơn (nhấn mạnh phương án được chọn)\n- **All things considered** – Xét mọi khía cạnh (dẫn vào kết luận)\n- **That being said** – Dù vậy (thừa nhận ưu điểm của phương án không chọn)\nCách thể hiện quan điểm tự nhiên:\n- **I would choose... because...** (Tôi sẽ chọn... vì...) – I would choose a drawing book because it helps my friend feel less bored.\n- **... would be the most thoughtful gift** (... sẽ là món quà chu đáo nhất) – Colored pencils would be the most thoughtful gift for someone who loves art.\n- **The main concern about... is that...** (Mối lo ngại chính về... là...) – The main concern about snacks is that she may have dietary restrictions.\n- **I am sure it would cheer her up** (Tôi chắc rằng nó sẽ giúp cô ấy vui lên) – I am sure a drawing book would cheer her up during her long stay.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen món quà mình chọn mà không phân tích nhược điểm của hai món còn lại. Giám khảo cần thấy bạn đã **cân** nhắc cả 3.\n- Quên yếu tố **bệnh viện**: quy định, chế độ ăn, tình trạng sức khỏe của bạn.\n- Lặp đi lặp lại **nice** và **useful**. Hãy thay bằng **thoughtful, relaxing, nutritious, meaningful** hoặc **short-lived, unsuitable,** restricted, impractical.\n- Dùng sai: **in the hospital** (Anh-Mỹ) và **in hospital** (Anh-Anh) đều đúng, nhưng không nói **at hospital** khi nói về bệnh nhân nằm viện. Phát âm: **hospital** /ˈhɒspɪtl/; **basket** /ˈbɑːskɪt/.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng về sức khỏe, hãy chuyển sang phân tích theo **cảm xúc** và **thời gian sử dụng**: It makes her happy / She can use it every day / It only lasts a few days.\n- Dùng câu kéo thời gian: **Let's evaluate this option from a different perspective.** Câu này giúp bạn có thêm vài giây và nghe rất chuyên nghiệp.\n- Giữ bình tĩnh, nếu bí ý ở một phương án thì chuyển ngay sang phương án tiếp theo, sau đó quay lại bổ sung nếu còn thời gian.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ từ góc độ **người bệnh**: món quà nào giúp bạn ấy cảm thấy được quan tâm, bớt buồn chán và an tâm hồi phục?\n- Thể hiện tư duy phản biện bằng cách đề xuất cải thiện cho lựa chọn của mình, ví dụ: To make the gift more special, I could write a short get-well message on the first page of the drawing book and add a few drawings from our classmates."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe role of a leader in a company\n\nRole of a Company Leader\nSetting goals and direction\nMotivating and supporting employees\nMaking important decisions\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat qualities does a good leader need?\n2\nDo you think leadership can be learned at school, or does it require natural talent?\n3\nIn your opinion, should good leaders be trained at school or through real-life experience?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề: **The role of a leader in a company** (Vai trò của người lãnh đạo trong một công ty). Đề có thể được trình bày dưới dạng **sơ đồ hoạt động của công ty**, trong đó leader ở vị trí trung tâm, kết nối với mục tiêu, nhân viên và các quyết định. Sơ đồ tư duy có 3 nhánh: **Setting goals and direction** (đặt mục tiêu và định hướng), **Motivating and supporting** employees (tạo động lực và hỗ trợ nhân viên), Making important decisions (đưa ra các quyết định quan trọng), cùng một nhánh ý riêng của bạn.\n- Gợi ý cho nhánh thứ 4: **Solving conflicts within the team** (giải quyết mâu thuẫn trong tập thể) hoặc **Being a role model** (làm gương cho nhân viên).\n- Tiêu chí chấm điểm: **Fluency**, **Vocabulary**, **Grammar**, **Pronunciation** và **tính mạch lạc trong phát triển ý**.\n- Thời gian: tổng **5 phút**, dành khoảng **3–3,5 phút** cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **IDEA**: **I**ntroduction (giới thiệu vai trò trung tâm của leader trong sơ đồ) -> **D**etail (phát triển từng vai trò theo trình tự hoạt động: định hướng -> điều hành con người -> ra quyết định) -> **E**xample (ví dụ cụ thể) -> **A**dd / wrap up (bổ sung ý riêng và kết luận). Cấu trúc này phù hợp khi đề là **sơ đồ khó hiểu**, vì bạn có thể biến sơ đồ thành một quy trình logic để dễ trình bày.\n- **Ví dụ 1:** As we can see from the chart, the leader is at the center of all activities in a company. Like the captain of a ship, a leader guides the whole team towards success. Today, I would like to talk about the main roles of a company leader.\n- **Ví dụ 2:** In addition to the ideas in the mindmap, I believe a leader must be a role model for employees. If the leader works hard, arrives on time and treats everyone fairly, employees will follow that example. For example, the manager at my part-time job always helped us clean up at the end of the day, and everyone respected him a lot.\n- Mẹo cho dạng đề sơ đồ lạ: **đừng hoảng**; hãy mở đầu bằng câu mô tả chung **As shown in the chart, the leader is** connected to..., sau đó chọn 3 vai trò dễ nói nhất để phát triển.\n- Mẹo: dùng **phép so sánh** dễ hiểu như leader giống thuyền trưởng, nhạc trưởng hay huấn luyện viên đội bóng – giúp bài nói sinh động và ghi điểm từ vựng.\n- Mẹo: đi theo đúng thứ tự sơ đồ tư duy để tránh lặp ý.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm chuyển ý mượt giữa các nhánh: **Once the goals are clear, the leader needs to...**, **Another key responsibility** is..., Last but not least...\n- Về thì: dùng **Hiện tại đơn** cho vai trò chung (A leader sets goals; A leader motivates staff), **Hiện tại hoàn thành** cho trải nghiệm (I have worked with a very supportive manager), kết hợp **câu điều kiện loại 1** cho hệ quả (If a leader makes the wrong decision, the whole company will suffer).\n- Paraphrase chủ đề chính: **leader** có thể thay bằng **manager**, **director**, **the person in charge**, **the head of a team**; **role** thay bằng **responsibility**, **duty**, **function**.\nCụm từ quan trọng nên dùng:\n- **set clear goals** – đặt mục tiêu rõ ràng\n- **a long-term vision** – tầm nhìn dài hạn\n- **motivate employees** – tạo động lực cho nhân viên\n- **delegate tasks** – phân công nhiệm vụ\n- **make decisions under pressure** – ra quyết định dưới áp lực\n- **take responsibility for** – chịu trách nhiệm về\n- **lead by example** – làm gương\n- **leadership skills** – kỹ năng lãnh đạo\nTừ nối khi nói (Linking Words):\n- **First and foremost** – Trước hết và quan trọng nhất (mở nhánh định hướng)\n- **Once that is done** – Khi đã làm được điều đó (chuyển sang nhánh nhân viên)\n- **Apart from that** – Ngoài điều đó ra (thêm nhánh ra quyết định)\n- **Last but not least** – Cuối cùng nhưng không kém phần quan trọng (giới thiệu ý riêng)\n- **As shown in the chart** – Như được thể hiện trong sơ đồ (liên hệ lại với đề bài)\n- **To sum up** – Tóm lại (kết bài)\nCách thể hiện quan điểm tự nhiên:\n- **I would compare a leader to...** (Tôi muốn ví người lãnh đạo như...) – I would compare a leader to the captain of a ship.\n- **It is essential that a leader...** (Điều cần thiết là người lãnh đạo...) – It is essential that a leader listens to employees' ideas.\n- **From my own experience...** (Từ trải nghiệm của bản thân...) – From my own experience, a good team leader can make a boring job enjoyable.\n- **In my view, the most important role is...** (Theo tôi, vai trò quan trọng nhất là...) – In my view, the most important role of a leader is to inspire the team.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **What qualities does a good leader need?** – A good leader needs to be responsible, decisive and a good\ncommunicator. They should also be fair, patient and able to inspire others. Most importantly, they must listen to their team members instead of just giving orders.\n- **Can leadership be learned at school, or does it require natural talent?** – I believe leadership can be learned. Some people may be naturally confident, but skills like communication, planning and problem-solving can be developed through practice. For example, many shy students become good leaders after joining student clubs or organizing school events.\n- **Should leaders be trained at school or through real-life experience?** – In my opinion, both are necessary. Schools provide basic knowledge about management and teamwork, but real leadership skills are built through experience, such as handling difficult people or making decisions under pressure. The best leaders combine theory from school with lessons from real life.\n\n**5. Các lỗi thường gặp:**\n- Bị bối rối trước sơ đồ lạ và im lặng quá lâu. Hãy mô tả chung sơ đồ trong 1–2 câu rồi chuyển ngay sang các ý trong mindmap.\n- Chỉ liệt kê vai trò như **set goals, motivate, decide** mà không giải thích hay đưa ví dụ. Mỗi nhánh cần có ít nhất một ví dụ cụ thể.\n- Nói bài chính quá dài, không còn thời gian cho câu hỏi follow-up – phần này có 3 câu hỏi khá trừu tượng về lãnh đạo.\n- Dùng sai: **leader** (người lãnh đạo) khác **leadership** (khả năng lãnh đạo); **make decision** thiếu mạo từ -> **make a** decision hoặc make decisions.\n- Phát âm: **leader** /ˈliːdər/; **leadership** /ˈliːdəʃɪp/ trọng âm âm đầu; **motivate** /ˈməʊtɪveɪt/.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Khi bí ý, hãy liên hệ đến **trải nghiệm thực tế**: trưởng nhóm trong dự án ở trường, lớp trưởng, chủ nhiệm câu lạc bộ, hay quản lý ở nơi bạn làm thêm.\n- Dùng câu kéo thời gian ở mức B2: **That is a complex issue. If we evaluate it from a societal viewpoint...**\n- Nếu quên từ như **delegate**, hãy mô tả: **give tasks to different team members**; quên **vision** thì nói: **a clear idea of what** the company wants to become in the future.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ **thực tế** và từ góc nhìn **nhà tuyển dụng**: một công ty thành công luôn cần người lãnh đạo có tầm nhìn, biết quan tâm đến nhân viên và dám chịu trách nhiệm.\n- **Sự mạch lạc và logic** trong cách triển khai ý là chìa khóa để đạt điểm cao, quan trọng hơn việc hiểu hết mọi chi tiết trong sơ đồ.\n- Khi gặp đề lạ, hãy nhớ rằng giám khảo đánh giá **khả năng diễn đạt** chứ không đánh giá kiến thức quản trị – chỉ cần bạn nói logic, có ví dụ và tự tin là đã đạt yêu cầu."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about farming in Vietnam.\n1.\nIs farming important in Vietnam? Why?\n2.\nHave you ever done any farm work? What was it like?\n3.\nDo you think young people in Vietnam are interested in farming nowadays? Why or why not?\nNow, let’s talk about bags.\n4.\nWhat kind of bag do you usually carry every day?\n5.\nDo you often use plastic bags when you go shopping?\n6.\nDo you think people should use reusable bags instead of plastic bags? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 là phần Social Interaction kéo dài 3 phút với 6 câu hỏi ngắn về đời sống hằng ngày, giúp bạn khởi động và thể\nhiện khả năng giao tiếp tự nhiên.\n• Topic A (Farming in Vietnam): Câu 1–3 hỏi về vai trò của nông nghiệp ở Việt Nam, trải nghiệm làm nông của bạn và\nmức độ quan tâm của giới trẻ đối với nghề nông. Phần này kiểm tra khả năng nêu quan điểm về một vấn đề xã hội,\nkể lại trải nghiệm và nhận xét xu hướng.\n• Topic B (Bags): Câu 4–6 hỏi về loại túi bạn thường mang, thói quen dùng túi nhựa và quan điểm về túi tái sử dụng.\nPhần này kiểm tra khả năng miêu tả đồ vật, nói về thói quen và đưa ra quan điểm về môi trường.\n• Tiêu chí chấm điểm gồm: Fluency (Độ trôi chảy), Vocabulary (Từ vựng), Grammar (Ngữ pháp) và Pronunciation (Phát\nâm).\n• Phân bổ thời gian: khoảng 25–35 giây mỗi câu. Topic A khá lạ với sinh viên thành phố; hãy chuẩn bị sẵn vài ý về lúa\ngạo, cà phê, trái cây xuất khẩu và cuộc sống ở quê.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Áp dụng cấu trúc ARE: Answer (Trả lời trực tiếp) -> Reason (Lý do) -> Example (Ví dụ cụ thể). Đây là cấu trúc an toàn\nvà hiệu quả cho trình độ B1/B2.\n• Ví dụ Topic A: Yes, farming is extremely important in Vietnam. A large part of the population still lives in rural areas\nand depends on agriculture. For example, Vietnam is one of the biggest rice and coffee exporters in the world, and\nthe Mekong Delta is known as the rice bowl of the country.\n• Ví dụ Topic B: I usually carry a canvas tote bag to university. I like it because it is light, large enough for my laptop\nand books, and environmentally friendly. For instance, I also use it when I go to the supermarket, so I do not need\nany plastic bags.\n• Mẹo kéo dài câu trả lời: luôn tự hỏi Why? (Tại sao?) và How? (Như thế nào?). Ví dụ: Giới trẻ ít quan tâm nghề nông ->\nTại sao? -> Thu nhập thấp, vất vả -> Như thế nào? -> Nhiều người trẻ rời quê lên thành phố làm việc.\n• Mẹo chuyển chủ đề mượt mà: khi giám khảo chuyển sang Topic B, bạn có thể mở đầu bằng Well, bags are something\nI use every single day, so this is easy to talk about. Câu này giúp bạn có thêm vài giây suy nghĩ một cách tự nhiên.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói đều. Dùng từ đệm như Well..., Actually..., Let me see... để tránh khoảng lặng dài.\n• Về thì: dùng Hiện tại đơn cho sự thật chung về nông nghiệp (Farming provides jobs for millions of people), Hiện tại\nhoàn thành + Quá khứ đơn cho câu 2 (I have helped my grandparents harvest rice; It was hot but fun), Hiện tại đơn\n+ trạng từ tần suất cho câu 4 và câu 5.\n• Kỹ thuật paraphrase: nếu quên từ harvest, hãy nói collect the rice when it is ready; nếu quên từ reusable, hãy nói\nsomething you can use many times.\n• Từ vựng Topic A: agriculture (nông nghiệp), rice paddies (ruộng lúa), harvest season (mùa gặt), rural areas (vùng\nnông thôn).\n• Từ vựng Topic B: a tote bag (túi vải), a backpack (ba lô), single-use plastic bags (túi nhựa dùng một lần), eco-friendly\n(thân thiện với môi trường).\nCụm từ quan trọng nên dùng:\n• the backbone of the economy – xương sống của nền kinh tế (Topic A)\n• export agricultural products – xuất khẩu nông sản (Topic A)\n• work in the fields – làm việc ngoài đồng (Topic A)\n• move to the city for work – lên thành phố làm việc (Topic A)\n• carry my belongings – mang đồ dùng cá nhân (Topic B)\n• bring my own bag – mang theo túi riêng (Topic B)\n• take hundreds of years to decompose – mất hàng trăm năm để phân hủy (Topic B)\n• reduce plastic waste – giảm rác thải nhựa (Topic B)\nTừ nối khi nói (Linking Words):\n• First of all – Trước hết (mở ý đầu tiên)\n• On top of that – Thêm vào đó (bổ sung lý do)\n• For instance – Ví dụ như (dẫn nông sản hoặc loại túi cụ thể)\n• However – Tuy nhiên (nêu thực trạng giới trẻ rời bỏ nghề nông ở câu 3)\n• These days – Ngày nay (nói về xu hướng dùng túi vải)\n• That is why – Đó là lý do (kết luận ngắn gọn)\nCách thể hiện quan điểm tự nhiên:\n• There is no doubt that... (Không còn nghi ngờ gì rằng...) – There is no doubt that farming plays a key role in Vietnam's\neconomy. (Topic A)\n• I remember that... (Tôi nhớ rằng...) – I remember that I used to help my grandparents feed the chickens during\nsummer holidays. (Topic A)\n• It seems to me that... (Với tôi thì có vẻ...) – It seems to me that fewer young people want to become farmers because\nthe work is hard. (Topic A)\n• I never leave home without... (Tôi không bao giờ ra khỏi nhà mà không có...) – I never leave home without my\nbackpack. (Topic B)\n• I have to admit that... (Tôi phải thừa nhận rằng...) – I have to admit that I still use plastic bags at local markets. (Topic\nB)\n• I strongly believe that... (Tôi tin chắc rằng...) – I strongly believe that everyone should switch to reusable bags to\nprotect the environment. (Topic B)\n4. Các lỗi thường gặp:\n• Lỗi nghiêm trọng nhất: chỉ trả lời Yes, No hay A backpack rồi im lặng. Hãy luôn thêm lý do và ví dụ.\n• Topic A: nếu chưa từng làm nông, trả lời No, I have not rồi dừng. Hãy giải thích lý do và nói về người thân hoặc những\ngì bạn quan sát được ở quê.\n• Topic A: nhầm farmer (nông dân) với farm (trang trại), hoặc nói agricultural khi cần danh từ agriculture.\n• Topic B: chỉ nói plastic bags are bad mà không giải thích tác hại cụ thể. Hãy nêu ít nhất một hậu quả như ô nhiễm\nbiển, tắc cống.\n• Phát âm: agriculture /ˈæɡrɪkʌltʃər/ trọng âm âm đầu; bag /bæɡ/ bật rõ âm cuối /ɡ/, phân biệt với back /bæk/.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu kéo thời gian: That is an interesting question, let me think for a second.\n• Khi quên từ, hãy mô tả thay thế: quên buffalo thì nói a big animal that farmers use to plough the fields.\n• Topic A: nếu bí ý, hãy nói về các sản phẩm nông nghiệp nổi tiếng của Việt Nam như gạo, cà phê, hồ tiêu, sầu riêng,\nthanh long.\n• Topic B: nếu bí ý, hãy so sánh thói quen dùng túi ở siêu thị (thường có túi giấy, túi vải) và ở chợ truyền thống (vẫn\ndùng nhiều túi nhựa).\n6. Tư duy làm bài nói:\n• Hãy coi Part 1 như một cuộc trò chuyện thân mật với giám khảo, không phải một bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy reset lại tâm lý và tập trung hoàn toàn vào chủ đề mới.\n• Gặp chủ đề lạ như nông nghiệp, đừng hoảng; hãy liên hệ với kiến thức chung và trải nghiệm quê hương – giám khảo\nđánh giá cách bạn diễn đạt, không đánh giá chuyên môn.\nPART 2\nSolution Discussion\n4 phút\nYour friend is in hospital, and you are going to visit him or her and bring a gift.\nYou are considering the following options:\n• Option 1: A basket of flowers\n• Option 2: Colored pencils and a drawing book\n• Option 3: Healthy snacks\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống: một người bạn phải nằm viện và bạn sẽ đến thăm, mang theo một món quà. Ba phương án gồm: Option\n1 – một giỏ hoa, Option 2 – bút màu và sách vẽ, Option 3 – đồ ăn nhẹ lành mạnh.\n• Nhiệm vụ: phân tích ưu và nhược điểm của cả 3 phương án, sau đó chọn một món quà phù hợp nhất và giải thích rõ\nlý do. Lưu ý tiêu chí chính là giúp bạn hồi phục và cảm thấy vui vẻ, đồng thời phù hợp với môi trường bệnh viện.\n• Tiêu chí chấm điểm: Fluency, Vocabulary, Grammar, Pronunciation và đặc biệt là khả năng lập luận, so sánh logic.\n• Thời gian: tổng 4 phút, trong đó khoảng 1 phút chuẩn bị và khoảng 3 phút nói.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction (giới thiệu tình huống và nêu lựa chọn) -> Comparison/Body (so sánh 3 món quà\ntheo các tiêu chí: lợi ích cho sức khỏe, giá trị tinh thần, sự phù hợp với bệnh viện) -> End (khẳng định lại lựa chọn).\nVí dụ mở đầu: My close friend has been in hospital for a week, and I am going to visit her this weekend. Among the\nthree options, I think colored pencils and a drawing book would be the most thoughtful gift.\n• Ví dụ Option 1: A basket of flowers is a traditional and beautiful gift that can brighten up the hospital room and show\nthat I care. However, flowers only last a few days, and some hospitals do not allow them because of pollen and\nallergies.\n• Ví dụ Option 2: Colored pencils and a drawing book can help my friend kill time during long, boring days in hospital.\nDrawing is also relaxing and can reduce stress and anxiety. On the other hand, if my friend is too weak or does not\nenjoy drawing, this gift may not be useful.\n• Ví dụ Option 3: Healthy snacks like fresh fruit, nuts or yogurt can give my friend energy and support recovery.\nNevertheless, patients often have special diets, so I would need to check with the doctor first, and many visitors\nmay already bring food.\n• Mẹo: gắn lập luận với tình trạng của người bạn, ví dụ bệnh gì, phải nằm viện bao lâu, sở thích cá nhân, và quy định\ncủa bệnh viện.\n• Mẹo: dùng từ nối tương phản như however, on the other hand, although để chuyển mượt giữa ưu điểm và nhược\nđiểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các phương án thay vì nói rời rạc. Ví dụ: While flowers fade after a few days, a drawing book can keep my\nfriend busy for weeks. Hoặc: Unlike snacks, a drawing book does not depend on the patient's diet.\n• Về thì: dùng Hiện tại hoàn thành cho tình huống (She has been in hospital for a week), be going to cho kế hoạch (I\nam going to visit her), câu điều kiện để giả định (If I brought snacks, she might not be allowed to eat them).\n• Kỹ thuật paraphrase: thay be in hospital bằng be hospitalized, stay in hospital; thay healthy snacks bằng nutritious\nfood, light and healthy food; thay gift bằng present, get-well gift.\nCụm từ quan trọng nên dùng:\n• a get-well-soon gift – món quà chúc mau khỏe\n• brighten up the room – làm căn phòng tươi sáng hơn\n• lift someone's spirits – nâng cao tinh thần cho ai đó\n• pass the time – giết thời gian\n• relieve stress and boredom – giảm căng thẳng và buồn chán\n• speed up recovery – giúp hồi phục nhanh hơn\n• a special diet – chế độ ăn đặc biệt\n• hospital regulations – quy định của bệnh viện\nTừ nối khi nói (Linking Words):\n• To begin with – Để bắt đầu (mở phần phân tích phương án đầu tiên)\n• On the other hand – Mặt khác (chuyển sang nhược điểm)\n• While – Trong khi (so sánh hai món quà trong một câu)\n• More importantly – Quan trọng hơn (nhấn mạnh phương án được chọn)\n• All things considered – Xét mọi khía cạnh (dẫn vào kết luận)\n• That being said – Dù vậy (thừa nhận ưu điểm của phương án không chọn)\nCách thể hiện quan điểm tự nhiên:\n• I would choose... because... (Tôi sẽ chọn... vì...) – I would choose a drawing book because it helps my friend feel\nless bored.\n• ... would be the most thoughtful gift (... sẽ là món quà chu đáo nhất) – Colored pencils would be the most thoughtful\ngift for someone who loves art.\n• The main concern about... is that... (Mối lo ngại chính về... là...) – The main concern about snacks is that she may\nhave dietary restrictions.\n• I am sure it would cheer her up (Tôi chắc rằng nó sẽ giúp cô ấy vui lên) – I am sure a drawing book would cheer her\nup during her long stay.\n4. Các lỗi thường gặp:\n• Chỉ khen món quà mình chọn mà không phân tích nhược điểm của hai món còn lại. Giám khảo cần thấy bạn đã cân\nnhắc cả 3.\n• Quên yếu tố bệnh viện: quy định, chế độ ăn, tình trạng sức khỏe của bạn.\n• Lặp đi lặp lại nice và useful. Hãy thay bằng thoughtful, relaxing, nutritious, meaningful hoặc short-lived, unsuitable,\nrestricted, impractical.\n• Dùng sai: in the hospital (Anh-Mỹ) và in hospital (Anh-Anh) đều đúng, nhưng không nói at hospital khi nói về bệnh\nnhân nằm viện. Phát âm: hospital /ˈhɒspɪtl/; basket /ˈbɑːskɪt/.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng về sức khỏe, hãy chuyển sang phân tích theo cảm xúc và thời gian sử dụng: It makes her happy /\nShe can use it every day / It only lasts a few days.\n• Dùng câu kéo thời gian: Let's evaluate this option from a different perspective. Câu này giúp bạn có thêm vài giây\nvà nghe rất chuyên nghiệp.\n• Giữ bình tĩnh, nếu bí ý ở một phương án thì chuyển ngay sang phương án tiếp theo, sau đó quay lại bổ sung nếu còn\nthời gian.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ từ góc độ người bệnh: món quà nào giúp bạn ấy cảm thấy được quan tâm, bớt buồn chán và an tâm\nhồi phục?\n• Thể hiện tư duy phản biện bằng cách đề xuất cải thiện cho lựa chọn của mình, ví dụ: To make the gift more special,\nI could write a short get-well message on the first page of the drawing book and add a few drawings from our\nclassmates.\nPART 3\nTopic Development\n5 phút\nTopic: The role of a leader in a company\nSetting goals and direction\nMotivating and supporting employees\nRole of a Company Leader\nÝ tưởng của bạn\nMaking important decisions\nFOLLOW-UP QUESTIONS\n1.\nWhat qualities does a good leader need?\n2.\nDo you think leadership can be learned at school, or does it require natural talent?\n3.\nIn your opinion, should good leaders be trained at school or through real-life experience?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề: The role of a leader in a company (Vai trò của người lãnh đạo trong một công ty). Đề có thể được trình bày\ndưới dạng sơ đồ hoạt động của công ty, trong đó leader ở vị trí trung tâm, kết nối với mục tiêu, nhân viên và các quyết\nđịnh. Sơ đồ tư duy có 3 nhánh: Setting goals and direction (đặt mục tiêu và định hướng), Motivating and supporting\nemployees (tạo động lực và hỗ trợ nhân viên), Making important decisions (đưa ra các quyết định quan trọng), cùng\nmột nhánh ý riêng của bạn.\n• Gợi ý cho nhánh thứ 4: Solving conflicts within the team (giải quyết mâu thuẫn trong tập thể) hoặc Being a role model\n(làm gương cho nhân viên).\n• Tiêu chí chấm điểm: Fluency, Vocabulary, Grammar, Pronunciation và tính mạch lạc trong phát triển ý.\n• Thời gian: tổng 5 phút, dành khoảng 3–3,5 phút cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA: Introduction (giới thiệu vai trò trung tâm của leader trong sơ đồ) -> Detail (phát triển từng vai\ntrò theo trình tự hoạt động: định hướng -> điều hành con người -> ra quyết định) -> Example (ví dụ cụ thể) -> Add /\nwrap up (bổ sung ý riêng và kết luận). Cấu trúc này phù hợp khi đề là sơ đồ khó hiểu, vì bạn có thể biến sơ đồ thành\nmột quy trình logic để dễ trình bày.\n• Ví dụ 1: As we can see from the chart, the leader is at the center of all activities in a company. Like the captain of a\nship, a leader guides the whole team towards success. Today, I would like to talk about the main roles of a company\nleader.\n• Ví dụ 2: In addition to the ideas in the mindmap, I believe a leader must be a role model for employees. If the leader\nworks hard, arrives on time and treats everyone fairly, employees will follow that example. For example, the manager\nat my part-time job always helped us clean up at the end of the day, and everyone respected him a lot.\n• Mẹo cho dạng đề sơ đồ lạ: đừng hoảng; hãy mở đầu bằng câu mô tả chung As shown in the chart, the leader is\nconnected to..., sau đó chọn 3 vai trò dễ nói nhất để phát triển.\n• Mẹo: dùng phép so sánh dễ hiểu như leader giống thuyền trưởng, nhạc trưởng hay huấn luyện viên đội bóng – giúp\nbài nói sinh động và ghi điểm từ vựng.\n• Mẹo: đi theo đúng thứ tự sơ đồ tư duy để tránh lặp ý.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm chuyển ý mượt giữa các nhánh: Once the goals are clear, the leader needs to..., Another key responsibility\nis..., Last but not least...\n• Về thì: dùng Hiện tại đơn cho vai trò chung (A leader sets goals; A leader motivates staff), Hiện tại hoàn thành cho\ntrải nghiệm (I have worked with a very supportive manager), kết hợp câu điều kiện loại 1 cho hệ quả (If a leader\nmakes the wrong decision, the whole company will suffer).\n• Paraphrase chủ đề chính: leader có thể thay bằng manager, director, the person in charge, the head of a team; role\nthay bằng responsibility, duty, function.\nCụm từ quan trọng nên dùng:\n• set clear goals – đặt mục tiêu rõ ràng\n• a long-term vision – tầm nhìn dài hạn\n• motivate employees – tạo động lực cho nhân viên\n• delegate tasks – phân công nhiệm vụ\n• make decisions under pressure – ra quyết định dưới áp lực\n• take responsibility for – chịu trách nhiệm về\n• lead by example – làm gương\n• leadership skills – kỹ năng lãnh đạo\nTừ nối khi nói (Linking Words):\n• First and foremost – Trước hết và quan trọng nhất (mở nhánh định hướng)\n• Once that is done – Khi đã làm được điều đó (chuyển sang nhánh nhân viên)\n• Apart from that – Ngoài điều đó ra (thêm nhánh ra quyết định)\n• Last but not least – Cuối cùng nhưng không kém phần quan trọng (giới thiệu ý riêng)\n• As shown in the chart – Như được thể hiện trong sơ đồ (liên hệ lại với đề bài)\n• To sum up – Tóm lại (kết bài)\nCách thể hiện quan điểm tự nhiên:\n• I would compare a leader to... (Tôi muốn ví người lãnh đạo như...) – I would compare a leader to the captain of a\nship.\n• It is essential that a leader... (Điều cần thiết là người lãnh đạo...) – It is essential that a leader listens to employees'\nideas.\n• From my own experience... (Từ trải nghiệm của bản thân...) – From my own experience, a good team leader can\nmake a boring job enjoyable.\n• In my view, the most important role is... (Theo tôi, vai trò quan trọng nhất là...) – In my view, the most important role\nof a leader is to inspire the team.\n4. Gợi ý trả lời câu hỏi follow-up:\n• What qualities does a good leader need? – A good leader needs to be responsible, decisive and a good\ncommunicator. They should also be fair, patient and able to inspire others. Most importantly, they must listen to their\nteam members instead of just giving orders.\n• Can leadership be learned at school, or does it require natural talent? – I believe leadership can be learned. Some\npeople may be naturally confident, but skills like communication, planning and problem-solving can be developed\nthrough practice. For example, many shy students become good leaders after joining student clubs or organizing\nschool events.\n• Should leaders be trained at school or through real-life experience? – In my opinion, both are necessary. Schools\nprovide basic knowledge about management and teamwork, but real leadership skills are built through experience,\nsuch as handling difficult people or making decisions under pressure. The best leaders combine theory from school\nwith lessons from real life.\n5. Các lỗi thường gặp:\n• Bị bối rối trước sơ đồ lạ và im lặng quá lâu. Hãy mô tả chung sơ đồ trong 1–2 câu rồi chuyển ngay sang các ý trong\nmindmap.\n• Chỉ liệt kê vai trò như set goals, motivate, decide mà không giải thích hay đưa ví dụ. Mỗi nhánh cần có ít nhất một ví\ndụ cụ thể.\n• Nói bài chính quá dài, không còn thời gian cho câu hỏi follow-up – phần này có 3 câu hỏi khá trừu tượng về lãnh đạo.\n• Dùng sai: leader (người lãnh đạo) khác leadership (khả năng lãnh đạo); make decision thiếu mạo từ -> make a\ndecision hoặc make decisions.\n• Phát âm: leader /ˈliːdər/; leadership /ˈliːdəʃɪp/ trọng âm âm đầu; motivate /ˈməʊtɪveɪt/.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Khi bí ý, hãy liên hệ đến trải nghiệm thực tế: trưởng nhóm trong dự án ở trường, lớp trưởng, chủ nhiệm câu lạc bộ,\nhay quản lý ở nơi bạn làm thêm.\n• Dùng câu kéo thời gian ở mức B2: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ như delegate, hãy mô tả: give tasks to different team members; quên vision thì nói: a clear idea of what\nthe company wants to become in the future.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ thực tế và từ góc nhìn nhà tuyển dụng: một công ty thành công luôn cần người lãnh đạo có tầm nhìn,\nbiết quan tâm đến nhân viên và dám chịu trách nhiệm.\n• Sự mạch lạc và logic trong cách triển khai ý là chìa khóa để đạt điểm cao, quan trọng hơn việc hiểu hết mọi chi tiết\ntrong sơ đồ.\n• Khi gặp đề lạ, hãy nhớ rằng giám khảo đánh giá khả năng diễn đạt chứ không đánh giá kiến thức quản trị – chỉ cần\nbạn nói logic, có ví dụ và tự tin là đã đạt yêu cầu."
+}

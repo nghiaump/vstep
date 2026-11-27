@@ -1,0 +1,718 @@
+{
+ "id": "vlu-7",
+ "number": 7,
+ "title": "Đề thi VLU 7",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-7",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Challenge of Modern Independence",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Becoming independent is one of the biggest changes in a young person's life. For many people, it begins when they leave their family home to study, work, or simply live on their own. The idea sounds exciting, because there are no parents to give orders and every decision belongs to you, but the first months can also feel lonely and difficult. In this passage, we look at the main challenges of modern independence and some ways to deal with them.",
+     "The first challenge is money. When you live alone, you must pay for rent, food, transport, and bills, and these costs are often higher than people expect. Many young adults spend their first salary quickly on clothes, meals, and entertainment, and then discover that almost nothing is left at the end of the month. A **sensible** solution is to write a budget that shows how much money comes in and goes out. It is also a good idea to save a small amount every month for emergencies, such as a broken phone or a sudden medical bill.",
+     "The second challenge is learning to manage a home. Cooking, washing clothes, and cleaning take time, and many young people have never done these tasks regularly before. At first, they often rely on fast food and put off cleaning until the home becomes untidy. However, small habits can make life much easier. Planning meals for the week, washing dishes immediately, and setting one day for cleaning will save both time and money, and **they** soon become a normal part of daily life.",
+     "The third challenge is emotional. Living far from family and old friends can make a person feel **isolated**, especially in the evenings and at weekends, when the home is quiet. Some people also feel anxious because they must make every decision alone, from choosing a job to solving a problem with a landlord. To feel better, it helps to stay in contact with family by phone, to join a club or class, and to speak honestly with a trusted friend when problems become too heavy. Asking for help is not a sign of weakness, but a skill that independent adults need.",
+     "Independence also brings real rewards. People who manage their own money, home, and feelings usually gain confidence, because each solved problem proves that they can cope with life on their own. They learn to plan, to make choices, and to accept the results of those choices, which are qualities that employers and friends respect. Of course, nobody becomes fully independent overnight, and mistakes are a normal part of learning. In conclusion, modern independence is not about doing everything alone; it is about building the skills, habits, and relationships that allow a person to live well."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "How young people can find cheap homes in cities",
+       "B": "Why most adults prefer living with their large families",
+       "C": "The best ways to cook healthy meals very quickly",
+       "D": "The main difficulties of living alone and how to cope"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what often happens to young adults after their first salary?",
+      "options": {
+       "A": "They invest all of it in a small business quickly",
+       "B": "They spend most of it and have little left",
+       "C": "They give most of it to relatives who need help",
+       "D": "They keep every coin in a bank for emergencies only"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 với từ khóa \"first salary\" để thấy nhiều người trẻ tiêu hết sạch tiền lương nhanh chóng vào quần áo, ăn uống và giải trí rồi nhận ra chẳng còn lại bao nhiêu (They spend most of it and have little left)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"sensible\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "foolish",
+       "B": "dangerous",
+       "C": "reasonable",
+       "D": "careless"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what can make daily life easier?",
+      "options": {
+       "A": "Simple habits like planning meals and washing dishes",
+       "B": "Buying very expensive machines that clean the house alone",
+       "C": "Eating fast food every day instead of cooking",
+       "D": "Hiring a professional cleaner to visit the home"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 với từ khóa \"small habits can make life much easier\" để xác định những thói quen đơn giản như lên thực đơn tuần, rửa bát ngay giúp cuộc sống dễ dàng hơn (Simple habits like planning meals and washing dishes)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"isolated\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "crowded",
+       "B": "cheerful",
+       "C": "cut off",
+       "D": "confident"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 6,
+      "stem": "The word \"they\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Fast food meals",
+       "B": "Young people",
+       "C": "Household bills",
+       "D": "Small habits"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xét đại từ \"they\" ở câu cuối đoạn 3 khi nhắc đến việc những thói quen nhỏ (small habits) sớm trở thành một phần bình thường trong đời sống hàng ngày. Do đó, \"they\" quy chiếu thẳng về nhóm thói quen nhỏ này (Small habits)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, when does a person often feel most isolated?",
+      "options": {
+       "A": "Early in the morning just before leaving for work",
+       "B": "During quiet evenings and at weekends at home",
+       "C": "While travelling on very crowded buses and trains",
+       "D": "During long lessons in the large university library"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 với từ khóa \"feel isolated\" để tìm thời điểm cảm thấy cô lập nhất là vào những buổi tối yên tĩnh và dịp cuối tuần ở nhà (During quiet evenings and at weekends at home)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT suggested as a way to feel better?",
+      "options": {
+       "A": "Changing jobs every month to meet different people",
+       "B": "Joining a local club or an evening class nearby",
+       "C": "Speaking honestly with a trusted friend about heavy problems",
+       "D": "Staying in touch with family by phone calls often"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu các cách thức giúp cảm thấy tốt hơn được nêu ở đoạn 4 gồm: giữ liên lạc với gia đình qua điện thoại, tham gia câu lạc bộ hoặc lớp học, và trò chuyện trung thực với người bạn đáng tin cậy. Chi tiết \"đổi công việc mỗi tháng để gặp gỡ những người khác nhau\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about the writer's attitude to independence?",
+      "options": {
+       "A": "It is only suitable for people with high incomes",
+       "B": "It should be postponed until reaching middle age",
+       "C": "It is uncomplicated for graduates with permanent jobs",
+       "D": "It is challenging at first but brings valuable rewards"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Thái độ tác giả",
+      "explanation": "Tổng hợp thông tin từ toàn bài, đặc biệt là đoạn kết luận khi tác giả khẳng định việc sống độc lập ban đầu có thể đầy rẫy thử thách, cô đơn và khó khăn, nhưng về lâu dài sẽ mang lại sự tự tin, kỹ năng và những phần thưởng giá trị được nhà tuyển dụng tôn trọng (It is challenging at first but brings valuable rewards). Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị dễ như từ vựng (R1Q3, R1Q5) và quy chiếu đại từ (R1Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu chi tiết (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, dựa trên toàn bộ bức tranh nội dung để hoàn thành các câu hỏi đòi hỏi tư duy tổng quát như ý chính (R1Q1), suy luận (R1Q9) và mục đích tác giả (R1Q10)."
+     },
+     {
+      "number": 10,
+      "stem": "Why did the writer write this passage?",
+      "options": {
+       "A": "To persuade young readers to leave their jobs and travel abroad",
+       "B": "To describe how to cope with the problems of living alone",
+       "C": "To advertise a company that sells furniture for new homes",
+       "D": "To warn graduates about the dangers of studying abroad alone Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt các đoạn để nắm bắt mạch nội dung tổng thể: những thay đổi và thách thức khi bắt đầu sống độc lập (đoạn 1), bài toán tài chính và cách lập ngân sách (đoạn 2), thử thách quản lý nhà cửa và những thói quen giúp cuộc sống dễ dàng hơn (đoạn 3), khó khăn cảm xúc và cách kết nối để vượt qua cô lập (đoạn 4), cùng những phần thưởng giá trị khi trưởng thành ở đoạn cuối. Do đó, bài viết tập trung phân tích những khó khăn chính của việc sống một mình và cách đối phó với chúng, chứ không bàn về cách tìm nhà giá rẻ hay quảng cáo đồ nội thất.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q2**, quét thông tin ở đoạn 2 với từ khóa \"first salary\" để thấy nhiều người trẻ tiêu hết sạch tiền lương nhanh chóng vào quần áo, ăn uống và giải trí rồi nhận ra chẳng còn lại bao nhiêu (They spend most of it and have little left).\n  - Với **R1Q4**, quét đoạn 3 với từ khóa \"small habits can make life much easier\" để xác định những thói quen đơn giản như lên thực đơn tuần, rửa bát ngay giúp cuộc sống dễ dàng hơn (Simple habits like planning meals and washing dishes).\n  - Với **R1Q7**, quét đoạn 4 với từ khóa \"feel isolated\" để tìm thời điểm cảm thấy cô lập nhất là vào những buổi tối yên tĩnh và dịp cuối tuần ở nhà (During quiet evenings and at weekends at home).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - With **R1Q3**, từ **\"sensible\"** ở đoạn 2 đi kèm với giải pháp viết ra bản ngân sách thu chi hợp lý, mang nghĩa khôn ngoan, hợp lý, tương đương với reasonable.\n  - With **R1Q5**, từ **\"isolated\"** ở đoạn 4 mô tả cảm giác xa gia đình và bạn bè cũ vào những buổi tối yên tĩnh, mang nghĩa bị cô lập, cắt đứt khỏi xung quanh, đồng nghĩa với cut off.\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Xét đại từ **\"they\"** ở câu cuối đoạn 3 khi nhắc đến việc những thói quen nhỏ (small habits) sớm trở thành một phần bình thường trong đời sống hàng ngày. Do đó, \"they\" quy chiếu thẳng về nhóm thói quen nhỏ này (Small habits).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối chiếu các cách thức giúp cảm thấy tốt hơn được nêu ở đoạn 4 gồm: giữ liên lạc với gia đình qua điện thoại, tham gia câu lạc bộ hoặc lớp học, và trò chuyện trung thực với người bạn đáng tin cậy. Chi tiết \"đổi công việc mỗi tháng để gặp gỡ những người khác nhau\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ toàn bài, đặc biệt là đoạn kết luận khi tác giả khẳng định việc sống độc lập ban đầu có thể đầy rẫy thử thách, cô đơn và khó khăn, nhưng về lâu dài sẽ mang lại sự tự tin, kỹ năng và những phần thưởng giá trị được nhà tuyển dụng tôn trọng (It is challenging at first but brings valuable rewards). Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị dễ như từ vựng (R1Q3, R1Q5) và quy chiếu đại từ (R1Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu chi tiết (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, dựa trên toàn bộ bức tranh nội dung để hoàn thành các câu hỏi đòi hỏi tư duy tổng quát như ý chính (R1Q1), suy luận (R1Q9) và mục đích tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Understanding and Relieving Psychological Stress",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Stress is often described as a modern epidemic, yet it is also an ancient biological response. When the brain perceives a threat, it triggers the release of hormones such as adrenaline and cortisol, which accelerate the heartbeat, sharpen attention, and prepare muscles for action. In short bursts, this reaction is useful, helping a person to meet a deadline or escape danger. Today, the pressures that activate this system are rarely physical, since they come from emails, finances, and social expectations rather than predators.",
+     "When stress becomes chronic, however, the same hormones that once protected the body begin to damage it. Prolonged exposure to cortisol has been linked to sleep disorders, high blood pressure, weakened immunity, and difficulty concentrating, while it can also contribute to anxiety and depression. People under constant strain often become irritable, withdraw from friends, or turn to unhealthy habits such as overeating, smoking, or excessive drinking, which **exacerbate** the original problem.",
+     "Not everyone reacts to the same pressures in exactly the same way. Psychologists emphasise that stress depends less on events themselves than on how people interpret **them**, and on whether they believe they have the resources to cope. A looming exam may energise one student and paralyse another, and an identical workload can feel manageable to an employee with supportive colleagues but crushing to one who works in isolation. Control, predictability, and social support therefore appear decisive: stress rises when people feel powerless and falls when they feel able to influence events.",
+     "Fortunately, a range of techniques can reduce stress, and many are simple. Regular physical activity burns off stress hormones and stimulates the release of endorphins, natural chemicals that improve mood. Breathing exercises and meditation activate the body's relaxation response, which can lower the heart rate within minutes and help people to regain a sense of calm even in difficult situations. Adequate sleep is equally important, because a tired brain exaggerates threats and struggles to regulate emotion.",
+     "Cognitive strategies address the way stress is interpreted rather than the pressure itself. Cognitive behavioural therapy, for example, trains people to identify distorted thoughts, such as assuming that one mistake guarantees failure, and to replace them with more balanced judgements. Over time, these habits make individuals more **resilient**, able to absorb setbacks without losing perspective. Writing down worries, setting realistic goals, and breaking large tasks into smaller steps can also restore a feeling of control, which is central to how stressful a situation feels.",
+     "Relationships provide another buffer. Talking to a trusted friend does not remove a problem, but it can reduce the isolation that magnifies it and often produces new practical suggestions. When symptoms persist for weeks, however, such as constant exhaustion, panic attacks, or loss of interest in everyday activities, professional help becomes necessary. Seeking treatment early is far more effective than waiting for a crisis.",
+     "Stress cannot, and should not, be eliminated entirely, since a certain amount of pressure motivates achievement and growth. The goal is rather to prevent temporary tension from hardening into chronic strain. By understanding how the body responds, recognising personal warning signs, and combining physical, mental, and social strategies, individuals can turn stress from an enemy into a manageable companion. Societies and employers also bear responsibility, because workplaces that demand constant availability make individual coping strategies harder to sustain."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Modern workplaces are the only real cause of serious psychological illness today",
+       "B": "Medication is the most effective way to end all stress completely",
+       "C": "Stress is a natural response that can be understood and managed",
+       "D": "Physical exercise has no meaningful effect on a person's emotional health"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why is the stress response useful in short bursts?",
+      "options": {
+       "A": "It sharpens attention and prepares the body to meet a challenge",
+       "B": "It makes the muscles grow so that exercise is unnecessary",
+       "C": "It removes all worries about deadlines from the mind completely",
+       "D": "It lowers blood pressure and helps people to fall asleep"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 1 với từ khóa \"short bursts\" để thấy phản ứng căng thẳng giúp tăng tốc nhịp tim, làm sắc bén sự chú ý và chuẩn bị cơ bắp cho hành động (It sharpens attention and prepares the body to meet a challenge)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"exacerbate\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "explain",
+       "B": "worsen",
+       "C": "ignore",
+       "D": "conceal"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"exacerbate\" ở đoạn 2 mô tả việc các thói quen xấu như ăn quá nhiều, hút thuốc hay uống rượu làm cho vấn đề ban đầu trở nên trầm trọng hơn, mang nghĩa làm cho tồi tệ thêm, trầm trọng hóa (worsen)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what can prolonged exposure to cortisol lead to?",
+      "options": {
+       "A": "Rapid weight loss, stronger bones, and improved memory skills",
+       "B": "Better concentration, faster recovery, and increased creative energy",
+       "C": "Higher intelligence, greater height, and much longer sleeping hours",
+       "D": "Sleep disorders, high blood pressure, and weakened immunity"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 với từ khóa \"prolonged exposure to cortisol\" để xác định các hậu quả gồm rối loạn giấc ngủ, huyết áp cao, suy giảm miễn dịch và khó tập trung (Sleep disorders, high blood pressure, and weakened immunity)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"resilient\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "quick to recover",
+       "B": "easily distracted",
+       "C": "highly competitive",
+       "D": "poorly informed"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"resilient\" ở đoạn 5 chỉ những thói quen tư duy giúp cá nhân có khả năng phục hồi nhanh chóng sau những cú sốc mà không mất đi góc nhìn tích cực, tương đương với quick to recover."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"them\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Symptoms",
+       "B": "Hormones",
+       "C": "Events",
+       "D": "Emotions"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xét đại từ \"them\" ở đoạn 3 trong câu \"stress depends less on events themselves than on how people interpret *them*\". Dựa vào ngữ cảnh trước đó, từ này quy chiếu thẳng về các sự việc/sự kiện bên ngoài (Events)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, how does physical activity help reduce stress?",
+      "options": {
+       "A": "It increases cortisol production so that the body becomes stronger",
+       "B": "It burns off stress hormones and releases mood-improving chemicals",
+       "C": "It replaces sleep by giving the body extra daily energy",
+       "D": "It slows the heartbeat by making muscles weaker over time"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to reduce stress?",
+      "options": {
+       "A": "Doing regular physical exercise to release natural endorphins",
+       "B": "Using breathing exercises or meditation to relax",
+       "C": "Getting adequate sleep to help regulate emotion",
+       "D": "Taking drugs that block every emotional reaction"
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu các giải pháp được nêu ở đoạn 4 gồm: tập thể dục đều đặn, dùng bài tập thở hoặc thiền, và ngủ đủ giấc. Chi tiết \"uống thuốc chặn đứng mọi phản ứng cảm xúc\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3 and 6 about reducing stress?",
+      "options": {
+       "A": "Support and control matter as much as individual coping techniques",
+       "B": "Stress disappears completely once a person has found a good job",
+       "C": "Professional help is always unnecessary for people who have supportive friends",
+       "D": "Only people with powerful positions can ever avoid stress at work"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3 và 6: căng thẳng phụ thuộc vào cảm giác kiểm soát, dự đoán được, hỗ trợ xã hội và việc trò chuyện với bạn bè đáng tin cậy để giảm bớt sự cô lập. Từ đó suy luận rằng sự hỗ trợ và khả năng kiểm soát có ý nghĩa quan trọng không kém các kỹ thuật đối phó cá nhân (Support and control matter as much as individual coping techniques)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To urge employers to shorten working hours across industries",
+       "B": "To review the history of stress research in modern medicine",
+       "C": "To describe how stress works and how to relieve it",
+       "D": "To warn readers about the dangers of social media Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt qua các đoạn để nắm bắt mạch nội dung tổng thể: bản chất sinh học và nguyên nhân gây căng thẳng hiện đại (đoạn 1), tác hại khi căng thẳng trở thành mạn tính (đoạn 2), vai trò của nhận thức, cảm giác kiểm soát và hỗ trợ xã hội (đoạn 3), các phương pháp thể chất giúp giảm căng thẳng (đoạn 4), chiến lược nhận thức và rèn luyện tính kiên cường (đoạn 5), vai trò của các mối quan hệ và sự trợ giúp chuyên môn (đoạn 6), cùng kết luận tổng quan (đoạn 7). Do đó, bài viết tập trung giải thích cơ chế hoạt động của căng thẳng và các cách để giảm tải, quản lý nó, chứ không khẳng định công sở là nguyên nhân duy nhất hay cổ súy dùng thuốc.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q2**, quét thông tin ở đoạn 1 với từ khóa \"short bursts\" để thấy phản ứng căng thẳng giúp tăng tốc nhịp tim, làm sắc bén sự chú ý và chuẩn bị cơ bắp cho hành động (It sharpens attention and prepares the body to meet a challenge).\n  - Với **R2Q4**, quét đoạn 2 với từ khóa \"prolonged exposure to cortisol\" để xác định các hậu quả gồm rối loạn giấc ngủ, huyết áp cao, suy giảm miễn dịch và khó tập trung (Sleep disorders, high blood pressure, and weakened immunity).\n  - With **R2Q7**, quét đoạn 4 với từ khóa \"physical activity\" để thấy hoạt động thể chất giúp đốt cháy hormone căng thẳng và kích thích giải phóng endorphin cải thiện tâm trạng (It burns off stress hormones and releases mood-improving chemicals).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"exacerbate\"** ở đoạn 2 mô tả việc các thói quen xấu như ăn quá nhiều, hút thuốc hay uống rượu làm cho vấn đề ban đầu trở nên trầm trọng hơn, mang nghĩa làm cho tồi tệ thêm, trầm trọng hóa (worsen).\n  - Với **R2Q5**, từ **\"resilient\"** ở đoạn 5 chỉ những thói quen tư duy giúp cá nhân có khả năng phục hồi nhanh chóng sau những cú sốc mà không mất đi góc nhìn tích cực, tương đương với quick to recover.\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Xét đại từ **\"them\"** ở đoạn 3 trong câu \"stress depends less on events themselves than on how people interpret *them*\". Dựa vào ngữ cảnh trước đó, từ này quy chiếu thẳng về các sự việc/sự kiện bên ngoài (Events).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối chiếu các giải pháp được nêu ở đoạn 4 gồm: tập thể dục đều đặn, dùng bài tập thở hoặc thiền, và ngủ đủ giấc. Chi tiết \"uống thuốc chặn đứng mọi phản ứng cảm xúc\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 3 và 6: căng thẳng phụ thuộc vào cảm giác kiểm soát, dự đoán được, hỗ trợ xã hội và việc trò chuyện với bạn bè đáng tin cậy để giảm bớt sự cô lập. Từ đó suy luận rằng sự hỗ trợ và khả năng kiểm soát có ý nghĩa quan trọng không kém các kỹ thuật đối phó cá nhân (Support and control matter as much as individual coping techniques).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị dễ như từ vựng (R2Q3, R2Q5) và quy chiếu đại từ (R2Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu chi tiết (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, dựa trên toàn bộ bức tranh dữ liệu để hoàn thành các câu hỏi đòi hỏi tư duy phân tích sâu như ý chính (R2Q1), suy luận tổng hợp (R2Q9) và mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Global Rise of Myopia",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Myopia, or short-sightedness, has quietly become one of the most widespread eye conditions in the world. Once regarded as a minor inconvenience corrected by spectacles, it is now the subject of urgent research, because its **prevalence** has risen dramatically in recent decades, particularly in East and Southeast Asia. Some projections suggest that roughly half of the world's population could be myopic by 2050. Understanding why this is happening has therefore become a priority for doctors, educators, and policymakers alike.",
+     "Myopia occurs when the eyeball grows too long, or when the cornea is too curved, so that light from distant objects focuses in front of the retina instead of on it. The result is blurred distance vision, although close objects usually remain clear. In most cases the condition begins in childhood and worsens during adolescence as the eye continues to grow, which is why early detection matters so much. Severe myopia is not merely an inconvenience, since it increases the risk of serious complications such as retinal detachment, glaucoma, and cataracts later in life.",
+     "Genetics clearly play a role, since children with myopic parents are more likely to develop the condition. **[1]** Yet genes cannot explain the speed of the recent increase, because populations do not change genetically within a few decades. **[2]** Researchers therefore point to environmental factors, above all the combination of intensive close-up activity, such as reading and screen use, and a lack of time spent outdoors. **[3]** Several large studies have found that children who spend more time in natural daylight are less likely to become myopic, although scientists are still debating exactly why. **[4]**",
+     "The pandemic offered an unplanned natural experiment. When schools closed and children spent months studying on screens, several studies reported faster myopia progression, **which** many researchers interpreted as evidence that reduced outdoor time accelerates the condition. Caution is nevertheless necessary, since observational studies cannot prove causation and other factors may have contributed. Even so, the episode drew public attention to a long-standing question about how modern childhood is organised.",
+     "Fortunately, several interventions can slow the progression of myopia in children and adolescents. Increasing time outdoors has reduced new cases in several school-based trials, and specially designed spectacle lenses, low-dose atropine eye drops, and overnight orthokeratology lenses have also shown promise in slowing eye growth. These approaches do not cure the condition, but they may reduce its final severity, which could prevent complications in adulthood.",
+     "The burden is also distributed very unevenly across regions and income groups. In wealthier regions, children often receive regular eye tests and corrective lenses, whereas in poorer areas uncorrected myopia remains a leading cause of avoidable vision impairment, limiting educational progress and future earnings. Economists have estimated that global productivity losses from uncorrected vision problems run into hundreds of billions of dollars annually, a figure that illustrates how a seemingly trivial condition can carry large economic consequences.",
+     "Myopia is therefore neither inevitable nor harmless for the people and societies it affects. It reflects the interaction between inherited susceptibility and modern lifestyles, and it can be influenced by simple changes such as outdoor play, regular eye examinations, and sensible limits on screen time. Policymakers who treat children's vision as a public-health priority, rather than as a private inconvenience, are likely to prevent a great deal of avoidable suffering in the decades ahead."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Genetic inheritance alone explains why short-sightedness has increased rapidly worldwide",
+       "B": "Modern spectacles have completely eliminated the health risks of short-sightedness",
+       "C": "Myopia is rising rapidly because of lifestyle changes and can be reduced",
+       "D": "Wealthy countries have prevented myopia through compulsory corrective eye surgery"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why is severe myopia more than an inconvenience?",
+      "options": {
+       "A": "It raises the risk of serious eye diseases later in life",
+       "B": "It makes every object appear permanently blurred and impossible to read clearly",
+       "C": "It completely prevents the eyeball from growing at all during early adolescence",
+       "D": "It forces patients to avoid natural daylight for several years"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 với từ khóa \"severe myopia\" để thấy tình trạng cận thị nặng không chỉ là sự bất tiện mà còn làm tăng nguy cơ mắc các biến chứng nghiêm trọng như bong võng mạc, cườm nước và đục thủy tinh thể (It raises the risk of serious eye diseases later in life)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"prevalence\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "rarity",
+       "B": "expense",
+       "C": "danger",
+       "D": "frequency"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"prevalence\" ở đoạn 1 xuất hiện trong ngữ cảnh nói về việc tình trạng cận thị gia tăng mạnh mẽ trong những thập kỷ gần đây, chỉ mức độ phổ biến, tần suất xuất hiện, tương đương với frequency."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'In other words, the change must be attributable to the way people live rather than to what they inherit.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu / Chèn vị trí",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mạch lập luận tại các vị trí trong đoạn 3. Câu cần chèn bàn về việc sự thay đổi phải bắt nguồn từ lối sống thay vì những gì di truyền ('In other words, the change must be attributable to the way people live rather than to what they inherit.'). Vị trí [2] nằm ngay sau câu khẳng định gen không thể giải thích tốc độ gia tăng chóng mặt vì quần thể không thể thay đổi di truyền trong vài thập kỷ, tạo nên sự liên kết ý nghĩa giải thích cực kỳ ăn khớp."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what do the treatments mentioned aim to achieve?",
+      "options": {
+       "A": "They cure the condition permanently in most children",
+       "B": "They replace the need for any regular eye examinations",
+       "C": "They slow eye growth and may reduce severity",
+       "D": "They prevent children from reading for long periods"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 với từ khóa \"treatments mentioned aim to achieve\" để xác định các phương pháp như kính mắt thiết kế đặc biệt, nhỏ mắt atropine liều thấp hay kính áp tròng ban đêm nhằm mục đích làm chậm sự phát triển của mắt và giảm mức độ nghiêm trọng (They slow eye growth and may reduce severity)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"which\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Faster progression",
+       "B": "School closures",
+       "C": "Online lessons",
+       "D": "Several studies"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xét đại từ quan hệ \"which\" ở đoạn 4 trong câu báo cáo về việc các nghiên cứu ghi nhận tiến triển cận thị nhanh hơn, *điều mà* nhiều nhà nghiên cứu giải thích là bằng chứng cho thấy thời gian ở ngoài trời giảm làm tăng tốc tình trạng này. Do đó, \"which\" quy chiếu thẳng về hiện tượng tiến triển nhanh hơn (Faster progression)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"trivial\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "significant",
+       "B": "unimportant",
+       "C": "expensive",
+       "D": "temporary"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"trivial\" ở đoạn 6 đối lập với gánh nặng tổn thất kinh tế hàng trăm tỷ đô la, chỉ một tình trạng tưởng chừng như nhỏ nhặt, không quan trọng, đồng nghĩa với unimportant."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to slow myopia progression?",
+      "options": {
+       "A": "Spending more time outdoors in natural daylight",
+       "B": "Wearing specially designed spectacle lenses for lessons",
+       "C": "Using low-dose atropine eye drops every evening",
+       "D": "Surgery to shorten the length of the eyeball"
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu các cách thức làm chậm cận thị được nêu ở đoạn 5 gồm: dành nhiều thời gian ngoài trời, đeo tròng kính thiết kế đặc biệt, và dùng thuốc nhỏ mắt atropine liều thấp. Chi tiết \"phẫu thuật để rút ngắn chiều dài của nhãn cầu\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about tackling myopia?",
+      "options": {
+       "A": "Genetic screening of every child would solve the problem within a few years",
+       "B": "Closing schools is the only reliable way to stop myopia from spreading",
+       "C": "Effective responses must address environments and access to care, not genes alone",
+       "D": "Poorer families are the main cause of the global rise in myopia"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4, và 6: cận thị chịu sự chi phối của cả yếu tố lối sống/môi trường lẫn khả năng tiếp cận y tế, chăm sóc mắt công bằng. Từ đó suy luận ra rằng các phản ứng hiệu quả phải giải quyết cả môi trường sống và khả năng tiếp cận dịch vụ chăm sóc thay vì chỉ nhìn vào gen (Effective responses must address environments and access to care, not genes alone)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To explain why myopia is increasing and how to limit it",
+       "B": "To advertise new spectacle lenses for children and adolescents",
+       "C": "To describe the history of eye surgery in several countries",
+       "D": "To argue that screens should be banned in every school Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt qua các đoạn để nắm bắt mạch nội dung tổng thể: sự bùng nổ cận thị (myopia) trên toàn cầu ở đoạn 1, cơ chế sinh học và hệ lụy ở đoạn 2, nguyên nhân di truyền kết hợp yếu tố môi trường (thói quen sinh hoạt) ở đoạn 3, thử nghiệm tự nhiên từ đại dịch ở đoạn 4, các biện pháp can thiệp làm chậm tiến triển ở đoạn 5, sự bất bình đẳng về khả năng tiếp cận chăm sóc và thiệt hại kinh tế ở đoạn 6, và lời kết luận mang tính định hướng chính sách ở đoạn 7. Do đó, bài viết tập trung phân tích nguyên nhân cận thị tăng nhanh do thay đổi lối sống và các giải pháp làm giảm nhẹ, chứ không cho rằng di truyền độc quyết định hay kêu gọi cấm màn hình.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q2**, quét thông tin ở đoạn 2 với từ khóa \"severe myopia\" để thấy tình trạng cận thị nặng không chỉ là sự bất tiện mà còn làm tăng nguy cơ mắc các biến chứng nghiêm trọng như bong võng mạc, cườm nước và đục thủy tinh thể (It raises the risk of serious eye diseases later in life).\n  - Với **R3Q5**, quét đoạn 5 với từ khóa \"treatments mentioned aim to achieve\" để xác định các phương pháp như kính mắt thiết kế đặc biệt, nhỏ mắt atropine liều thấp hay kính áp tròng ban đêm nhằm mục đích làm chậm sự phát triển của mắt và giảm mức độ nghiêm trọng (They slow eye growth and may reduce severity).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"prevalence\"** ở đoạn 1 xuất hiện trong ngữ cảnh nói về việc tình trạng cận thị gia tăng mạnh mẽ trong những thập kỷ gần đây, chỉ mức độ phổ biến, tần suất xuất hiện, tương đương với frequency.\n  - Với **R3Q7**, từ **\"trivial\"** ở đoạn 6 đối lập với gánh nặng tổn thất kinh tế hàng trăm tỷ đô la, chỉ một tình trạng tưởng chừng như nhỏ nhặt, không quan trọng, đồng nghĩa với unimportant.\n- **Dạng câu hỏi Điền câu / Chèn vị trí (R3Q4):** Phân tích mạch lập luận tại các vị trí trong đoạn 3. Câu cần chèn bàn về việc sự thay đổi phải bắt nguồn từ lối sống thay vì những gì di truyền ('In other words, the change must be attributable to the way people live rather than to what they inherit.'). Vị trí **[2]** nằm ngay sau câu khẳng định gen không thể giải thích tốc độ gia tăng chóng mặt vì quần thể không thể thay đổi di truyền trong vài thập kỷ, tạo nên sự liên kết ý nghĩa giải thích cực kỳ ăn khớp.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Xét đại từ quan hệ **\"which\"** ở đoạn 4 trong câu báo cáo về việc các nghiên cứu ghi nhận tiến triển cận thị nhanh hơn, *điều mà* nhiều nhà nghiên cứu giải thích là bằng chứng cho thấy thời gian ở ngoài trời giảm làm tăng tốc tình trạng này. Do đó, \"which\" quy chiếu thẳng về hiện tượng tiến triển nhanh hơn (Faster progression).\n- **Dạng câu hỏi Loại trừ NOT (R3Q8):** Đối chiếu các cách thức làm chậm cận thị được nêu ở đoạn 5 gồm: dành nhiều thời gian ngoài trời, đeo tròng kính thiết kế đặc biệt, và dùng thuốc nhỏ mắt atropine liều thấp. Chi tiết \"phẫu thuật để rút ngắn chiều dài của nhãn cầu\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 3, 4, và 6: cận thị chịu sự chi phối của cả yếu tố lối sống/môi trường lẫn khả năng tiếp cận y tế, chăm sóc mắt công bằng. Từ đó suy luận ra rằng các phản ứng hiệu quả phải giải quyết cả môi trường sống và khả năng tiếp cận dịch vụ chăm sóc thay vì chỉ nhìn vào gen (Effective responses must address environments and access to care, not genes alone).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị dễ như từ vựng (R3Q3, R3Q7), quy chiếu đại từ (R3Q6) và chèn câu (R3Q4). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu chi tiết (R3Q2, R3Q5, R3Q8). Cuối cùng, dựa trên toàn bộ bức tranh dữ liệu để làm tốt các câu hỏi đòi hỏi tư duy phân tích sâu như ý chính (R3Q1), suy luận tổng hợp (R3Q9) và mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Cultural and Economic Impact of SEA Games Side Events",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Every two years, the Southeast Asian Games bring thousands of athletes from the region's eleven member nations to a single host country, and attention naturally concentrates on the medal tables. Yet a growing body of commentary suggests that some of the Games' most lasting effects arise away from the stadiums, in the festivals, fan zones, markets, and volunteer programmes that surround the sporting competition. These side events, often treated as decorative extras, may shape the host city's image more than any race.",
+     "Cultural programming is the most visible category. Host nations typically stage traditional music, dance, and craft showcases, street festivals, and exhibitions of regional cuisine, presenting local heritage to an international audience, while giving residents a reason to take part. For artists and artisans, such platforms can be valuable, offering exposure and income that ordinary seasons rarely provide. Critics note, however, that culture staged for visitors may be simplified or commercialised, and that a performance designed to impress can drift away from the living traditions it claims to represent.",
+     "The economic case for side events is easier to state than to prove. [1] Fan zones, food markets, and trade fairs attract visitors who spend money on accommodation, transport, and meals, and local vendors often expect their strongest sales during the Games period. **[2]** Tourism agencies hope that positive impressions will translate into return visits, and sponsors treat side events as **lucrative** opportunities to reach consumers who are relaxed and receptive. **[3]** Economists who study major sporting events caution that predicted benefits are routinely overstated, partly because money spent by visitors may merely replace spending that residents would have made elsewhere. **[4]**",
+     "Infrastructure and legacy raise further and more difficult questions about the Games. Hosting the Games often accelerates investment in stadiums, transport links, and public spaces. Whether those assets continue to serve residents depends on planning: venues designed with flexible post-Games uses can anchor community sport and cultural events, whereas single-purpose facilities risk becoming expensive monuments to a fortnight of celebration. Side events can help here, because festivals and fan zones held in public spaces encourage residents to adopt those spaces as their own.",
+     "Volunteer programmes illustrate very clearly the social dimension of side events at the Games. Thousands of residents typically serve as guides, translators, and assistants, and many describe the experience as a source of pride, new skills, and friendships that last beyond the Games. Such participation can strengthen civic identity, yet it raises ethical questions when unpaid labour substitutes for paid jobs or when volunteers are recruited under implicit pressure. A programme that depends on **them** without offering meaningful training or recognition risks exploiting goodwill rather than building it.",
+     "Evaluating these effects is difficult. Organisers frequently publish impressive attendance figures, but these say little about who benefited, or about how much public money was diverted from other priorities such as education. Independent assessments, which would require transparent data and comparison with similar cities that did not host, remain rare. Without them, claims about cultural pride or economic growth rest largely on **anecdote** and optimism.",
+     "Side events are therefore best understood as an opportunity rather than a guarantee. Well designed, they can broaden participation, showcase living culture, spread economic activity beyond the venues, and leave public spaces that communities genuinely use. Poorly designed, they become costly spectacles that benefit organisers and sponsors more than residents. The difference lies less in the scale of the programme than in the honesty of its planning, the transparency of its accounts, and the extent to which local people help to shape it."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Medal tables are the only meaningful measure of a Games' success",
+       "B": "Cultural festivals should be removed from sports events to save money",
+       "C": "Volunteer programmes have proven to be the main cause of economic growth",
+       "D": "Side events can deliver cultural and economic benefits, but only with careful planning"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what concern do critics raise about cultural programming?",
+      "options": {
+       "A": "Traditional artists refuse to perform for international audiences at all",
+       "B": "Culture staged for visitors may become simplified and commercialised",
+       "C": "Residents are prevented from attending without a match ticket",
+       "D": "Local cuisine is excluded from exhibitions in favour of imports"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 với từ khóa \"cultural programming\" và \"critics\" để thấy giới phê bình lo ngại văn hóa trình diễn cho du khách có thể bị đơn giản hóa và thương mại hóa, xa rời truyền thống gốc (Culture staged for visitors may become simplified and commercialised)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"lucrative\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "profitable",
+       "B": "unreliable",
+       "C": "enjoyable",
+       "D": "unusual"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"lucrative\" ở đoạn 3 xuất hiện trong ngữ cảnh các nhà tài trợ coi các sự kiện bên lề là cơ hội béo bở để tiếp cận khách hàng đang thư giãn, mang nghĩa sinh lợi, mang lại lợi nhuận cao, tương đương với profitable."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such optimism, however, rests on assumptions that are rarely tested.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu / Chèn vị trí",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mạch lập luận tại các vị trí trong đoạn 3. Câu cần chèn bàn về việc sự lạc quan đó dựa trên các giả định hiếm khi được kiểm chứng ('Such optimism, however, rests on assumptions that are rarely tested.'). Vị trí [3] nằm ngay sau câu nói về kỳ vọng của các cơ quan du lịch và nhà tài trợ, và đứng ngay trước câu cảnh báo của các nhà kinh tế học rằng những lợi ích dự đoán thường bị phóng đại, tạo nên mối liên kết ý nghĩa phản biện hoàn hảo."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, why might single-purpose facilities become a problem?",
+      "options": {
+       "A": "They cannot be built until residents have given formal approval",
+       "B": "They encourage visitors to avoid public spaces in the host city",
+       "C": "They are always demolished before the closing ceremony takes place",
+       "D": "They risk becoming expensive monuments with little use after the Games"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 với từ khóa \"single-purpose facilities\" để xác định các cơ sở chỉ phục vụ một mục đích có nguy cơ trở thành những tượng đài đắt đỏ, ít có giá trị sử dụng sau khi đại hội kết thúc (They risk becoming expensive monuments with little use after the Games)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"them\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Officials",
+       "B": "Volunteers",
+       "C": "Sponsors",
+       "D": "Organisers"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xét đại từ nhân xưng \"them\" ở câu cuối đoạn 5 khi cảnh báo về một chương trình phụ thuộc vào *họ* mà không cung cấp đào tạo hoặc sự công nhận có ý nghĩa sẽ có nguy cơ bóc lột thiện chí. Dựa vào câu trước, từ này quy chiếu thẳng về nhóm tình nguyện viên (Volunteers)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"anecdote\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "official report",
+       "B": "legal contract",
+       "C": "personal story",
+       "D": "expert forecast"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"anecdote\" ở đoạn 6 đối lập với các đánh giá độc lập dựa trên dữ liệu minh bạch, chỉ những câu chuyện truyền miệng, giai thoại cá nhân, đồng nghĩa với personal story."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a possible benefit of side events?",
+      "options": {
+       "A": "Lower ticket prices for every sporting competition",
+       "B": "Exposure and regular income for local artists and artisans",
+       "C": "Return visits encouraged by positive impressions of the host",
+       "D": "Public spaces that residents come to regard as theirs"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu các lợi ích có thể có của sự kiện bên lề được nêu trong bài gồm: cơ hội tiếp xúc và thu nhập thường xuyên cho nghệ sĩ địa phương (đoạn 2), các chuyến quay trở lại nhờ ấn tượng tốt về nước chủ nhà (đoạn 3), và các không gian công cộng mà cư dân xem như của chính mình (đoạn 4). Chi tiết \"giá vé thấp hơn cho mọi cuộc thi đấu thể thao\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about the economic value of the Games?",
+      "options": {
+       "A": "It is guaranteed whenever visitors spend money during the Games period",
+       "B": "It is negligible in every host city because venues are always wasted",
+       "C": "It is created mainly by unpaid volunteers whose work generates profit",
+       "D": "It remains uncertain without independent evidence and careful long-term planning"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4, và 6: các tuyên bố về tăng trưởng kinh tế hay giá trị văn hóa vẫn chưa chắc chắn và thiếu bằng chứng minh bạch trừ khi có sự đánh giá độc lập và lập kế hoạch dài hạn cẩn trọng. Từ đó suy luận ra rằng giá trị kinh tế của Đại hội vẫn còn bấp bênh nếu không có bằng chứng độc lập và quy hoạch dài hạn (It remains uncertain without independent evidence and careful long-term planning)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote a particular host city as a tourist destination",
+       "B": "To evaluate the cultural and economic effects of side events critically",
+       "C": "To describe the competition schedule of a recent Games",
+       "D": "To argue that the Games should never be held again"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt qua các đoạn để nắm bắt mạch nội dung tổng thể: những tác động kéo dài từ các sự kiện bên lề (side events) xung quanh Thế vận hội Đông Nam Á ở đoạn 1; chương trình văn hóa và những lo ngại về thương mại hóa ở đoạn 2; mặt kinh tế và thực tế chi phí thu lợi ở đoạn 3; cơ sở hạ tầng và di sản công cộng ở đoạn 4; chương trình tình nguyện và chiều kích xã hội ở đoạn 5; việc đánh giá hiệu quả dựa trên bằng chứng minh bạch ở đoạn 6; và lời kết luận rằng các sự kiện bên lề mang lại cơ hội lớn nhưng đòi hỏi phải lập kế hoạch cẩn trọng ở đoạn 7. Do đó, bài viết tập trung đánh giá một cách phản biện các tác động văn hóa và kinh tế của các sự kiện bên lề, chứ không chỉ quảng cáo du lịch hay kêu gọi hủy bỏ Thế vận hội.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q2**, quét thông tin ở đoạn 2 với từ khóa \"cultural programming\" và \"critics\" để thấy giới phê bình lo ngại văn hóa trình diễn cho du khách có thể bị đơn giản hóa và thương mại hóa, xa rời truyền thống gốc (Culture staged for visitors may become simplified and commercialised).\n  - Với **R4Q5**, quét đoạn 4 với từ khóa \"single-purpose facilities\" để xác định các cơ sở chỉ phục vụ một mục đích có nguy cơ trở thành những tượng đài đắt đỏ, ít có giá trị sử dụng sau khi đại hội kết thúc (They risk becoming expensive monuments with little use after the Games).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"lucrative\"** ở đoạn 3 xuất hiện trong ngữ cảnh các nhà tài trợ coi các sự kiện bên lề là cơ hội béo bở để tiếp cận khách hàng đang thư giãn, mang nghĩa sinh lợi, mang lại lợi nhuận cao, tương đương với profitable.\n  - Với **R4Q7**, từ **\"anecdote\"** ở đoạn 6 đối lập với các đánh giá độc lập dựa trên dữ liệu minh bạch, chỉ những câu chuyện truyền miệng, giai thoại cá nhân, đồng nghĩa với personal story.\n- **Dạng câu hỏi Điền câu / Chèn vị trí (R4Q4):** Phân tích mạch lập luận tại các vị trí trong đoạn 3. Câu cần chèn bàn về việc sự lạc quan đó dựa trên các giả định hiếm khi được kiểm chứng ('Such optimism, however, rests on assumptions that are rarely tested.'). Vị trí **[3]** nằm ngay sau câu nói về kỳ vọng của các cơ quan du lịch và nhà tài trợ, và đứng ngay trước câu cảnh báo của các nhà kinh tế học rằng những lợi ích dự đoán thường bị phóng đại, tạo nên mối liên kết ý nghĩa phản biện hoàn hảo.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Xét đại từ nhân xưng **\"them\"** ở câu cuối đoạn 5 khi cảnh báo về một chương trình phụ thuộc vào *họ* mà không cung cấp đào tạo hoặc sự công nhận có ý nghĩa sẽ có nguy cơ bóc lột thiện chí. Dựa vào câu trước, từ này quy chiếu thẳng về nhóm tình nguyện viên (Volunteers).\n- **Dạng câu hỏi Loại trừ NOT (R4Q8):** Đối chiếu các lợi ích có thể có của sự kiện bên lề được nêu trong bài gồm: cơ hội tiếp xúc và thu nhập thường xuyên cho nghệ sĩ địa phương (đoạn 2), các chuyến quay trở lại nhờ ấn tượng tốt về nước chủ nhà (đoạn 3), và các không gian công cộng mà cư dân xem như của chính mình (đoạn 4). Chi tiết \"giá vé thấp hơn cho mọi cuộc thi đấu thể thao\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 3, 4, và 6: các tuyên bố về tăng trưởng kinh tế hay giá trị văn hóa vẫn chưa chắc chắn và thiếu bằng chứng minh bạch trừ khi có sự đánh giá độc lập và lập kế hoạch dài hạn cẩn trọng. Từ đó suy luận ra rằng giá trị kinh tế của Đại hội vẫn còn bấp bênh nếu không có bằng chứng độc lập và quy hoạch dài hạn (It remains uncertain without independent evidence and careful long-term planning).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị dễ như từ vựng (R4Q3, R4Q7), quy chiếu đại từ (R4Q6) và chèn câu (R4Q4). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu chi tiết (R4Q2, R4Q5, R4Q8). Cuối cùng, dựa trên toàn bộ bức tranh dữ liệu để hoàn thành các câu hỏi đòi hỏi tư duy phân tích sâu như ý chính (R4Q1), suy luận tổng hợp (R4Q9) và mục đích tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, George.\nHe wants to know more about you as you haven't seen each other for a long time. Read part of his email below. I'm doing a project about my friends' lives and backgrounds. It's been a while since we last talked!\n- Can you tell me a bit more about yourself and what you have been up to lately?\n- What is your hometown like?\n- What are some of your favorite things or hobbies these days?\nWrite an email responding to George. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, George.",
+      "He wants to know more about you as you haven't seen each other for a long time. Read part of his email below."
+     ],
+     "quote": [
+      "I'm doing a project about my friends' lives and backgrounds. It's been a while since we last talked!",
+      "- Can you tell me a bit more about yourself and what you have been up to lately?",
+      "- What is your hometown like?",
+      "- What are some of your favorite things or hobbies these days?"
+     ],
+     "instruction": "Write an email responding to George. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- **Dạng đề:** Thư thân mật (Informal Email).\n- **Nhiệm vụ:** Trả lời 3 thông tin: bản thân/công việc hiện tại, mô tả quê hương và sở thích cá nhân.\n- **Yêu cầu:** Viết tối thiểu 120 từ, sử dụng ngôn ngữ tự nhiên, gần gũi.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật (Hi George / Dear George).\n- **Opening:** Hỏi thăm sức khỏe và phản hồi lại mục đích viết thư của bạn. Ví dụ: \"It's great to hear about your project! I'm happy to share some details about my life.\"\n- **Body 1:** Giới thiệu bản thân và tình hình hiện tại (học tập/công việc). Ví dụ: \"As you know, I've recently started working as a freelancer, which keeps me quite busy but happy.\"\n- **Body 2:** Mô tả quê hương (vị trí, đặc điểm, con người). Ví dụ: \"My hometown is a peaceful coastal city known for its beautiful beaches and friendly locals.\"\n- **Body 3:** Chia sẻ về sở thích. Ví dụ: \"In my free time, I'm really into photography and playing badminton with my friends.\"\n- **Closing & Sign-off:** Kết thúc thư và ký tên (Best wishes / Warmly).\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn cho các sự thật và Hiện tại hoàn thành cho những việc vừa xảy ra.\n- Kết hợp các tính từ miêu tả để làm bài viết sinh động hơn.\nTừ vựng quan trọng:\n- **Lately / Recently:** Dạo gần đây\n- **Coastal city:** Thành phố ven biển\n- **Local cuisine:** Ẩm thực địa phương\n- **Bustling / Peaceful:** Nhộn nhịp / Yên bình\n- **Be keen on / Be into:** Thích cái gì đó\n- **Hometown:** Quê hương\nTừ nối (Linking words):\n- **To begin with:** Để bắt đầu\n- **Regarding:** Liên quan đến\n- **Besides:** Bên cạnh đó\n- **Actually:** Thực ra thì\n- **Anyway:** Dù sao thì\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm thrilled to tell you:** Mình rất hào hứng kể cho bạn\n- **To be honest:** Thành thật mà nói\n- **I really miss:** Mình thực sự nhớ...\n\n**4. Các lỗi thường gặp:**\n- Dùng từ quá trang trọng như \"Furthermore\" hoặc \"In conclusion\" (không hợp với thư cho bạn).\n- Không trả lời đủ 3 câu hỏi của đề bài.\n- Quên chia động từ ở thì hiện tại.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã có đủ phần chào và kết chưa.\n- Đảm bảo tên riêng (quê hương) được viết hoa.\n- Số lượng từ đã đủ 120 chưa.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang thực sự trò chuyện với một người bạn cũ. Sự tự nhiên và mạch lạc là yếu tố then chốt để đạt điểm cao.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nJob satisfaction is an important factor that contributes to the overall success of an organization and the\nwell-being of its employees.\nThere are various factors that influence how satisfied a person is with their work, ranging from financial rewards to the working environment.\nWrite an essay to analyze the factors that affect people's job satisfaction and explain why it is important for both employers and employees.\nWrite an essay to an educated reader to analyze the factors that affect people's job satisfaction and its importance. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Job satisfaction is an important factor that contributes to the overall success of an organization and the",
+      "well-being of its employees.",
+      "There are various factors that influence how satisfied a person is with their work, ranging from financial rewards to the working environment.",
+      "Write an essay to analyze the factors that affect people's job satisfaction and explain why it is important for both employers and employees."
+     ],
+     "instruction": "Write an essay to an educated reader to analyze the factors that affect people's job satisfaction and its importance. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- **Dạng bài:** Analysis/Expository Essay (Phân tích các yếu tố và tầm quan trọng).\n- **Chủ đề:** Sự hài lòng trong công việc (Job satisfaction).\n- **Nhiệm vụ:** Phân tích các yếu tố ảnh hưởng và giải thích tại sao nó quan trọng đối với cả chủ doanh nghiệp lẫn nhân viên.\n- **Yêu cầu:** Tối thiểu 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Dẫn dắt về tầm quan trọng của công việc trong đời sống và nêu mục đích bài viết là phân tích các yếu tố ảnh hưởng đến sự hài lòng.\n- **Body 1 (Các yếu tố ảnh hưởng):** Tập trung vào 2-3 yếu tố chính như: Lương thưởng (Salary), Môi trường làm việc (Work environment), và Cơ hội thăng tiến (Career growth). Ví dụ: Một mức lương cạnh tranh giúp nhân viên cảm thấy được tôn trọng.\n- **Body 2 (Tầm quan trọng):** Phân tích lợi ích đối với nhân viên (sức khỏe tinh thần) và đối với chủ (năng suất, sự trung thành). Ví dụ: Nhân viên hạnh phúc sẽ làm việc hiệu quả hơn và ít có ý định nghỉ việc.\n- **Conclusion:** Tóm tắt lại các yếu tố chính và khẳng định lại rằng sự hài lòng trong công việc là chìa khóa cho sự phát triển bền vững.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các danh từ trừu tượng (loyalty, productivity, motivation).\n- Sử dụng câu phức để giải thích mối quan hệ nguyên nhân - kết quả.\nTừ vựng quan trọng:\n- **Job satisfaction:** Sự hài lòng trong công việc\n- **Financial incentives:** Ưu đãi về tài chính/tiền lương\n- **Work-life balance:** Cân bằng công việc và cuộc sống\n- **Employee retention:** Sự giữ chân nhân viên\n- **Productivity:** Năng suất\n- **Career advancement:** Sự thăng tiến nghề nghiệp\n- **Corporate culture:** Văn hóa doanh nghiệp\nTừ nối (Linking words):\n- **First and foremost:** Đầu tiên và quan trọng nhất\n- **In addition to:** Bên cạnh việc...\n- **Consequently:** Hậu quả là / Kết quả là\n- **Notably:** Đáng chú ý là\n- **From an organizational perspective:** Từ góc độ tổ chức\n- **Overall:** Nhìn chung\nDiễn đạt lại ý (Paraphrasing):\n- **Job satisfaction:** Workplace happiness / Professional fulfillment.\n- **Factors:** Elements / Determinants / Drivers.\n- **Importance:** Significance / Crucial role.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is widely recognized that:** Mọi người đều công nhận rằng...\n- **This leads to a significant increase in:** Điều này dẫn đến sự gia tăng đáng kể trong...\n- **Another key aspect to consider is:** Một khía cạnh then chốt khác cần xem xét là...\n\n**4. Các lỗi thường gặp:**\n- Viết lan man về các loại công việc mà không tập trung vào yếu tố tạo nên \"sự hài lòng\".\n- Thiếu sự liên kết giữa các đoạn (ví dụ: nhảy từ yếu tố sang tầm quan trọng mà không có từ nối).\n- Lỗi dùng từ không trang trọng (academic tone).\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra các lỗi chính tả cơ bản.\n- Đảm bảo mỗi đoạn thân bài đều có ví dụ hoặc giải thích cụ thể.\n- Kiểm tra xem đã trả lời đủ cả 2 vế của đề bài chưa (yếu tố & tầm quan trọng).\n\n**6. Tư duy làm bài:**\n- Hãy tư duy một cách hệ thống: Chia các yếu tố thành \"vật chất\" và \"tinh thần\" để bài viết có chiều sâu và tổ chức tốt hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about email\n\n1\nHow often do you write or send emails in your daily life?\n2\nDo you prefer communicating via email or social media? Why?\n3\nWhat are some common problems you face when using email?\n\nNow, let’s talk about school subjects\n\n4\nWhat was your favorite subject when you were at school?\n5\nIs there any subject you didn't like? Why not?\n6\nDo you think students should be allowed to choose the subjects they want to study?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói gồm 6 câu hỏi quen thuộc liên quan đến cuộc sống hằng ngày và thời gian trả lời khoảng 3 phút.\n- **Topic A (Email):** Các câu hỏi 1–3 tập trung vào việc sử dụng email, cách giao tiếp trực tuyến và những khó khăn thường gặp khi dùng email.\n- **Topic B (Subjects):** Các câu hỏi 4–6 tập trung vào môn học yêu thích, môn học không thích và quyền lựa chọn môn học của học sinh.\n- Giám khảo đánh giá khả năng trả lời tự nhiên, độ trôi chảy, vốn từ vựng, ngữ pháp và phát âm.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo đủ thời gian cho cả hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer – Reason – Example để mở rộng ý hiệu quả.\n- **Ví dụ Topic A:** I send emails almost every day because I need to communicate with teachers and classmates about assignments.\n- **Ví dụ Topic B:** My favorite subject was English because it helped me communicate with people from different countries.\n- Luôn tự hỏi thêm “Why?” hoặc “Can you give an example?” để kéo dài câu trả lời.\n- Khi chuyển chủ đề, bạn có thể dùng câu như: Besides communication skills, school subjects also have a big impact on students’ future careers.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định và dùng filler tự nhiên như actually, well hoặc to be honest để tránh ngập ngừng.\n- Khi nói về thói quen dùng email, hãy dùng hiện tại đơn như: I usually send emails for work and study purposes.\n- Khi nói về thời đi học, hãy dùng quá khứ đơn như: I enjoyed studying literature when I was in secondary school.\n- Nếu quên từ vựng, hãy diễn đạt bằng từ đơn giản hơn thay vì dừng nói.\n- Vocabulary for Topic A: formal communication (giao tiếp trang trọng), spam emails (thư rác), online interaction (tương tác trực tuyến), instant messaging (nhắn tin tức thời).\n- Vocabulary for Topic B: academic subjects (môn học học thuật), practical knowledge (kiến thức thực tế), learning motivation (động lực học tập), educational system (hệ thống giáo dục).\nCụm từ quan trọng nên dùng:\n- communicate professionally – giao tiếp chuyên nghiệp\n- reply to important messages – trả lời tin nhắn quan trọng\n- experience technical problems – gặp vấn đề kỹ thuật\n- develop critical thinking – phát triển tư duy phản biện\n- be interested in science subjects – hứng thú với các môn khoa học\n- study according to personal interests – học theo sở thích cá nhân\nTừ nối khi nói (Linking Words):\n- First of all – trước tiên\n- In addition – ngoài ra\n- However – tuy nhiên\n- For example – ví dụ\n- As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n- Personally, I prefer social media because it is faster and more convenient for daily communication. – Cá nhân tôi thích mạng xã hội hơn vì nhanh và tiện lợi hơn.\n- From my perspective, email is still necessary for professional communication. – Theo góc nhìn của tôi, email vẫn cần thiết cho giao tiếp công việc.\n- As far as I am concerned, students should have more freedom to choose suitable subjects. – Theo tôi, học sinh nên có nhiều quyền tự do hơn trong việc chọn môn học phù hợp.\n- I believe some school subjects are more practical than others in daily life. – Tôi tin rằng một số môn học thực tế hơn trong cuộc sống hằng ngày.\n- In my opinion, too many compulsory subjects can reduce students’ motivation. – Theo tôi, quá nhiều môn bắt buộc có thể làm giảm động lực học tập.\n- To me, communication skills are just as important as academic knowledge. – Với tôi, kỹ năng giao tiếp quan trọng không kém kiến thức học thuật.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn chỉ bằng Yes hoặc No mà không giải thích thêm.\n- Nhầm lẫn giữa thì hiện tại và quá khứ khi nói về thời đi học.\n- Lặp đi lặp lại các từ đơn giản như good, bad hoặc interesting.\n- Không đưa ví dụ cá nhân để làm câu trả lời tự nhiên hơn.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu đệm như: That is an interesting question. Let me think for a moment.\n- Nếu quên từ “spam emails”, bạn có thể nói unwanted emails.\n- Với Topic A, nếu bí ý hãy nói về tốc độ, sự tiện lợi hoặc tính chuyên nghiệp của email.\n- Với Topic B, nếu bí ý hãy nói về giáo viên, bài tập hoặc cách môn học ảnh hưởng đến tương lai.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem Part 1 như một cuộc trò chuyện thân thiện với giám khảo.\n- Khi chuyển từ Email sang School Subjects, hãy thay đổi tư duy từ công nghệ sang giáo dục.\n- Sự lưu loát và tự nhiên quan trọng hơn việc cố gắng sử dụng quá nhiều từ học thuật khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour class is preparing for a graduation ceremony and needs to assign students to different committees.\n\nYou are considering the following options:\n\nOption 1: The Guest Invitation Committee (handling guest lists and invitations)\nOption 2: The Decoration and Design Committee (handling the look of the venue)\nOption 3: The Art and Drawing Committee (creating hand-drawn posters and souvenirs)\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn chọn ban phù hợp nhất cho lễ tốt nghiệp của lớp.\n- Ba lựa chọn gồm ban mời khách, ban trang trí thiết kế và ban mỹ thuật vẽ poster.\n- Giám khảo đánh giá khả năng phân tích, so sánh và đưa ra quyết định logic.\n- Thời gian làm bài khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị ý và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Bạn có thể sử dụng cấu trúc I-C-E: Introduction – Comparison – End để bài nói mạch lạc.\n- Mở đầu bằng cách giới thiệu rằng lễ tốt nghiệp là sự kiện quan trọng nên cần sự tổ chức cẩn thận.\n- Option 1 phù hợp với những người giỏi giao tiếp và tổ chức.\n- Option 2 giúp tạo không khí đẹp mắt và chuyên nghiệp cho buổi lễ.\n- Option 3 mang tính sáng tạo và giúp sự kiện trở nên độc đáo hơn.\n- Hãy liên hệ với kỹ năng thực tế của học sinh để lập luận tự nhiên hơn.\n- Sử dụng từ nối đối lập như however hoặc on the other hand khi so sánh các lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì trình bày tách biệt hoàn toàn.\n- Dùng hiện tại đơn để mô tả nhiệm vụ và lợi ích của từng ban.\n- Dùng cấu trúc giả định như: This committee would make the ceremony more memorable.\n- Nếu quên từ “souvenirs”, bạn có thể nói small gifts for guests to remember the event.\nCụm từ quan trọng nên dùng:\n- organize a successful event – tổ chức sự kiện thành công\n- manage guest information – quản lý thông tin khách mời\n- create an attractive atmosphere – tạo không khí hấp dẫn\n- encourage creativity – khuyến khích sự sáng tạo\n- work effectively as a team – làm việc nhóm hiệu quả\n- leave a positive impression – để lại ấn tượng tích cực\nTừ nối khi nói (Linking Words):\n- Firstly – đầu tiên\n- In comparison – so sánh với\n- Moreover – hơn nữa\n- As a consequence – kết quả là\n- To sum up – tóm lại\nCách thể hiện quan điểm tự nhiên:\n- I would personally choose the Decoration and Design Committee because appearance is very important for a graduation ceremony. – Tôi sẽ chọn ban trang trí vì hình thức rất quan trọng với lễ tốt nghiệp.\n- Compared to the Art Committee, the Guest Invitation Committee requires stronger communication skills. – So với ban mỹ thuật, ban mời khách cần kỹ năng giao tiếp mạnh hơn.\n- In my opinion, the best committee should combine creativity, teamwork and organization skills. – Theo tôi, ban tốt nhất nên kết hợp sự sáng tạo, làm việc nhóm và kỹ năng tổ chức.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói ưu điểm của lựa chọn mình thích mà quên phân tích hai lựa chọn còn lại.\n- Lặp lại các từ đơn giản như beautiful hoặc good quá nhiều.\n- Không đưa ra kết luận cuối cùng rõ ràng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng, hãy nói về nhiệm vụ, cảm xúc hoặc lợi ích thực tế của từng ban.\n- Bạn có thể dùng câu đệm như: Let’s evaluate this option from another perspective.\n- Nếu bí ý ở một lựa chọn, hãy chuyển sang option tiếp theo để giữ độ lưu loát.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người tổ chức sự kiện muốn buổi lễ thành công và đáng nhớ nhất.\n- Ngay cả khi chọn phương án tốt nhất, bạn vẫn nên đề cập một hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of learning English\n\nBenefits of English\nBetter job opportunities in international companies\nAccess to a vast amount of online knowledge and entertainment\nEasier travel and communication with people worldwide\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat is the most difficult part of learning English for you?\n2\nDo you think English will remain the most popular language in the future?\n3\nHow has the internet changed the way people learn English?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn trình bày về lợi ích của việc học tiếng Anh trong học tập, công việc và cuộc sống.\n- Ba nhánh ý chính gồm cơ hội việc làm tốt hơn, tiếp cận kiến thức toàn cầu và giao tiếp quốc tế dễ dàng hơn.\n- Ở nhánh ý tưởng cá nhân, bạn có thể nói về việc học tiếng Anh giúp tăng sự tự tin và phát triển bản thân.\n- Giám khảo đánh giá khả năng phát triển ý, độ logic, vốn từ vựng và phản xạ trả lời follow-up questions.\n- Thời gian khoảng 5 phút, trong đó khoảng 3–3.5 phút dành cho bài nói chính và phần còn lại dành cho phần hỏi đáp.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Bạn có thể sử dụng cấu trúc IDEA: Introduction – Detail – Example – Add/wrap up để triển khai bài nói.\n- **Ví dụ 1:** Today, I would like to talk about the advantages of learning English in modern society.\n- **Ví dụ 2:** Another important benefit is that English helps people become more confident when communicating internationally.\n- Khi nói về công việc, hãy liên hệ với các công ty quốc tế hoặc cơ hội du học.\n- Khi nói về internet, hãy giải thích rằng phần lớn tài liệu và khóa học trực tuyến đều sử dụng tiếng Anh.\n- Hãy bám sát mindmap để tránh lặp ý và nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng câu chuyển ý như: Another significant advantage is... để bài nói mượt mà hơn.\n- Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành để nói về quá trình học tập.\n- Thay vì lặp lại learning English, bạn có thể dùng studying a foreign language hoặc improving English skills.\nCụm từ quan trọng nên dùng:\n- improve career prospects – cải thiện cơ hội nghề nghiệp\n- communicate with international people – giao tiếp với người nước ngoài\n- access educational resources – tiếp cận tài liệu giáo dục\n- expand global understanding – mở rộng hiểu biết toàn cầu\n- develop language confidence – phát triển sự tự tin ngôn ngữ\n- study abroad opportunities – cơ hội du học\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Furthermore – hơn nữa\n- For example – ví dụ\n- As a result – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, English is one of the most useful skills in the modern world. – Theo tôi, tiếng Anh là một trong những kỹ năng hữu ích nhất trong thế giới hiện đại.\n- I strongly believe that English opens up many educational and professional opportunities. – Tôi tin mạnh mẽ rằng tiếng Anh mở ra nhiều cơ hội học tập và nghề nghiệp.\n- From my perspective, learning English also helps people become more confident and independent. – Theo góc nhìn của tôi, học tiếng Anh còn giúp con người tự tin và độc lập hơn.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **What is the most difficult part of learning English for you?** – For me, pronunciation is the hardest part because some English sounds are very different from Vietnamese.\n- **Do you think English will remain the most popular language in the future?** – Yes, because English is still widely used in business, education and international communication.\n- **How has the internet changed the way people learn English?** – The internet provides online courses, videos and language apps that make learning English easier and more flexible.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích của tiếng Anh mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n- Dành quá nhiều thời gian cho bài nói chính khiến thiếu thời gian trả lời follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với trải nghiệm học tiếng Anh cá nhân hoặc môi trường học tập ở trường.\n- Bạn có thể dùng câu đệm như: That is a complex issue. If we evaluate it from an educational perspective...\n- Nếu quên từ chuyên ngành, hãy dùng từ đơn giản hơn hoặc mô tả ý nghĩa của nó.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ giáo dục, nghề nghiệp và hội nhập quốc tế.\n- Sự logic và mạch lạc giữa các ý quan trọng hơn việc dùng quá nhiều từ vựng học thuật.\n- Luôn đưa ví dụ thực tế để bài nói tự nhiên, thuyết phục và dễ hiểu hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about email.\n1.\nHow often do you write or send emails in your daily life?\n2.\nDo you prefer communicating via email or social media? Why?\n3.\nWhat are some common problems you face when using email?\nNow, let’s talk about school subjects.\n4.\nWhat was your favorite subject when you were at school?\n5.\nIs there any subject you didn't like? Why not?\n6.\nDo you think students should be allowed to choose the subjects they want to study?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói gồm 6 câu hỏi quen thuộc liên quan đến cuộc sống hằng ngày và thời gian trả lời khoảng 3 phút.\n• Topic A (Email): Các câu hỏi 1–3 tập trung vào việc sử dụng email, cách giao tiếp trực tuyến và những khó khăn\nthường gặp khi dùng email.\n• Topic B (Subjects): Các câu hỏi 4–6 tập trung vào môn học yêu thích, môn học không thích và quyền lựa chọn môn\nhọc của học sinh.\n• Giám khảo đánh giá khả năng trả lời tự nhiên, độ trôi chảy, vốn từ vựng, ngữ pháp và phát âm.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo đủ thời gian cho cả hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer – Reason – Example để mở rộng ý hiệu quả.\n• Ví dụ Topic A: I send emails almost every day because I need to communicate with teachers and classmates about\nassignments.\n• Ví dụ Topic B: My favorite subject was English because it helped me communicate with people from different\ncountries.\n• Luôn tự hỏi thêm “Why?” hoặc “Can you give an example?” để kéo dài câu trả lời.\n• Khi chuyển chủ đề, bạn có thể dùng câu như: Besides communication skills, school subjects also have a big impact\non students’ future careers.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định và dùng filler tự nhiên như actually, well hoặc to be honest để tránh ngập ngừng.\n• Khi nói về thói quen dùng email, hãy dùng hiện tại đơn như: I usually send emails for work and study purposes.\n• Khi nói về thời đi học, hãy dùng quá khứ đơn như: I enjoyed studying literature when I was in secondary school.\n• Nếu quên từ vựng, hãy diễn đạt bằng từ đơn giản hơn thay vì dừng nói.\n• Vocabulary for Topic A: formal communication (giao tiếp trang trọng), spam emails (thư rác), online interaction (tương\ntác trực tuyến), instant messaging (nhắn tin tức thời).\n• Vocabulary for Topic B: academic subjects (môn học học thuật), practical knowledge (kiến thức thực tế), learning\nmotivation (động lực học tập), educational system (hệ thống giáo dục).\nCụm từ quan trọng nên dùng:\n• communicate professionally – giao tiếp chuyên nghiệp\n• reply to important messages – trả lời tin nhắn quan trọng\n• experience technical problems – gặp vấn đề kỹ thuật\n• develop critical thinking – phát triển tư duy phản biện\n• be interested in science subjects – hứng thú với các môn khoa học\n• study according to personal interests – học theo sở thích cá nhân\nTừ nối khi nói (Linking Words):\n• First of all – trước tiên\n• In addition – ngoài ra\n• However – tuy nhiên\n• For example – ví dụ\n• As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n• Personally, I prefer social media because it is faster and more convenient for daily communication. – Cá nhân tôi\nthích mạng xã hội hơn vì nhanh và tiện lợi hơn.\n• From my perspective, email is still necessary for professional communication. – Theo góc nhìn của tôi, email vẫn\ncần thiết cho giao tiếp công việc.\n• As far as I am concerned, students should have more freedom to choose suitable subjects. – Theo tôi, học sinh nên\ncó nhiều quyền tự do hơn trong việc chọn môn học phù hợp.\n• I believe some school subjects are more practical than others in daily life. – Tôi tin rằng một số môn học thực tế hơn\ntrong cuộc sống hằng ngày.\n• In my opinion, too many compulsory subjects can reduce students’ motivation. – Theo tôi, quá nhiều môn bắt buộc\ncó thể làm giảm động lực học tập.\n• To me, communication skills are just as important as academic knowledge. – Với tôi, kỹ năng giao tiếp quan trọng\nkhông kém kiến thức học thuật.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn chỉ bằng Yes hoặc No mà không giải thích thêm.\n• Nhầm lẫn giữa thì hiện tại và quá khứ khi nói về thời đi học.\n• Lặp đi lặp lại các từ đơn giản như good, bad hoặc interesting.\n• Không đưa ví dụ cá nhân để làm câu trả lời tự nhiên hơn.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu đệm như: That is an interesting question. Let me think for a moment.\n• Nếu quên từ “spam emails”, bạn có thể nói unwanted emails.\n• Với Topic A, nếu bí ý hãy nói về tốc độ, sự tiện lợi hoặc tính chuyên nghiệp của email.\n• Với Topic B, nếu bí ý hãy nói về giáo viên, bài tập hoặc cách môn học ảnh hưởng đến tương lai.\n6. Tư duy làm bài nói:\n• Hãy xem Part 1 như một cuộc trò chuyện thân thiện với giám khảo.\n• Khi chuyển từ Email sang School Subjects, hãy thay đổi tư duy từ công nghệ sang giáo dục.\n• Sự lưu loát và tự nhiên quan trọng hơn việc cố gắng sử dụng quá nhiều từ học thuật khó.\nSolution Discussion\nPART 2\n4 phút\nYour class is preparing for a graduation ceremony and needs to assign students to different committees.\nYou are considering the following options:\n• Option 1: The Guest Invitation Committee (handling guest lists and invitations)\n• Option 2: The Decoration and Design Committee (handling the look of the venue)\n• Option 3: The Art and Drawing Committee (creating hand-drawn posters and souvenirs)\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn chọn ban phù hợp nhất cho lễ tốt nghiệp của lớp.\n• Ba lựa chọn gồm ban mời khách, ban trang trí thiết kế và ban mỹ thuật vẽ poster.\n• Giám khảo đánh giá khả năng phân tích, so sánh và đưa ra quyết định logic.\n• Thời gian làm bài khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị ý và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Bạn có thể sử dụng cấu trúc I-C-E: Introduction – Comparison – End để bài nói mạch lạc.\n• Mở đầu bằng cách giới thiệu rằng lễ tốt nghiệp là sự kiện quan trọng nên cần sự tổ chức cẩn thận.\n• Option 1 phù hợp với những người giỏi giao tiếp và tổ chức.\n• Option 2 giúp tạo không khí đẹp mắt và chuyên nghiệp cho buổi lễ.\n• Option 3 mang tính sáng tạo và giúp sự kiện trở nên độc đáo hơn.\n• Hãy liên hệ với kỹ năng thực tế của học sinh để lập luận tự nhiên hơn.\n• Sử dụng từ nối đối lập như however hoặc on the other hand khi so sánh các lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì trình bày tách biệt hoàn toàn.\n• Dùng hiện tại đơn để mô tả nhiệm vụ và lợi ích của từng ban.\n• Dùng cấu trúc giả định như: This committee would make the ceremony more memorable.\n• Nếu quên từ “souvenirs”, bạn có thể nói small gifts for guests to remember the event.\nCụm từ quan trọng nên dùng:\n• organize a successful event – tổ chức sự kiện thành công\n• manage guest information – quản lý thông tin khách mời\n• create an attractive atmosphere – tạo không khí hấp dẫn\n• encourage creativity – khuyến khích sự sáng tạo\n• work effectively as a team – làm việc nhóm hiệu quả\n• leave a positive impression – để lại ấn tượng tích cực\nTừ nối khi nói (Linking Words):\n• Firstly – đầu tiên\n• In comparison – so sánh với\n• Moreover – hơn nữa\n• As a consequence – kết quả là\n• To sum up – tóm lại\nCách thể hiện quan điểm tự nhiên:\n• I would personally choose the Decoration and Design Committee because appearance is very important for a\ngraduation ceremony. – Tôi sẽ chọn ban trang trí vì hình thức rất quan trọng với lễ tốt nghiệp.\n• Compared to the Art Committee, the Guest Invitation Committee requires stronger communication skills. – So với\nban mỹ thuật, ban mời khách cần kỹ năng giao tiếp mạnh hơn.\n• In my opinion, the best committee should combine creativity, teamwork and organization skills. – Theo tôi, ban tốt\nnhất nên kết hợp sự sáng tạo, làm việc nhóm và kỹ năng tổ chức.\n4. Các lỗi thường gặp:\n• Chỉ nói ưu điểm của lựa chọn mình thích mà quên phân tích hai lựa chọn còn lại.\n• Lặp lại các từ đơn giản như beautiful hoặc good quá nhiều.\n• Không đưa ra kết luận cuối cùng rõ ràng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng, hãy nói về nhiệm vụ, cảm xúc hoặc lợi ích thực tế của từng ban.\n• Bạn có thể dùng câu đệm như: Let’s evaluate this option from another perspective.\n• Nếu bí ý ở một lựa chọn, hãy chuyển sang option tiếp theo để giữ độ lưu loát.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người tổ chức sự kiện muốn buổi lễ thành công và đáng nhớ nhất.\n• Ngay cả khi chọn phương án tốt nhất, bạn vẫn nên đề cập một hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of learning English\nBetter job opportunities in international\nAccess to a vast amount of online\ncompanies\nknowledge and entertainment\nBenefits of English\nÝ tưởng của bạn\nEasier travel and communication with\npeople worldwide\nFOLLOW-UP QUESTIONS\n1.\nWhat is the most difficult part of learning English for you?\n2.\nDo you think English will remain the most popular language in the future?\n3.\nHow has the internet changed the way people learn English?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn trình bày về lợi ích của việc học tiếng Anh trong học tập, công việc và cuộc sống.\n• Ba nhánh ý chính gồm cơ hội việc làm tốt hơn, tiếp cận kiến thức toàn cầu và giao tiếp quốc tế dễ dàng hơn.\n• Ở nhánh ý tưởng cá nhân, bạn có thể nói về việc học tiếng Anh giúp tăng sự tự tin và phát triển bản thân.\n• Giám khảo đánh giá khả năng phát triển ý, độ logic, vốn từ vựng và phản xạ trả lời follow-up questions.\n• Thời gian khoảng 5 phút, trong đó khoảng 3–3.5 phút dành cho bài nói chính và phần còn lại dành cho phần hỏi đáp.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Bạn có thể sử dụng cấu trúc IDEA: Introduction – Detail – Example – Add/wrap up để triển khai bài nói.\n• Ví dụ 1: Today, I would like to talk about the advantages of learning English in modern society.\n• Ví dụ 2: Another important benefit is that English helps people become more confident when communicating\ninternationally.\n• Khi nói về công việc, hãy liên hệ với các công ty quốc tế hoặc cơ hội du học.\n• Khi nói về internet, hãy giải thích rằng phần lớn tài liệu và khóa học trực tuyến đều sử dụng tiếng Anh.\n• Hãy bám sát mindmap để tránh lặp ý và nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng câu chuyển ý như: Another significant advantage is... để bài nói mượt mà hơn.\n• Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành để nói về quá trình học tập.\n• Thay vì lặp lại learning English, bạn có thể dùng studying a foreign language hoặc improving English skills.\nCụm từ quan trọng nên dùng:\n• improve career prospects – cải thiện cơ hội nghề nghiệp\n• communicate with international people – giao tiếp với người nước ngoài\n• access educational resources – tiếp cận tài liệu giáo dục\n• expand global understanding – mở rộng hiểu biết toàn cầu\n• develop language confidence – phát triển sự tự tin ngôn ngữ\n• study abroad opportunities – cơ hội du học\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Furthermore – hơn nữa\n• For example – ví dụ\n• As a result – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, English is one of the most useful skills in the modern world. – Theo tôi, tiếng Anh là một trong những\nkỹ năng hữu ích nhất trong thế giới hiện đại.\n• I strongly believe that English opens up many educational and professional opportunities. – Tôi tin mạnh mẽ rằng\ntiếng Anh mở ra nhiều cơ hội học tập và nghề nghiệp.\n• From my perspective, learning English also helps people become more confident and independent. – Theo góc nhìn\ncủa tôi, học tiếng Anh còn giúp con người tự tin và độc lập hơn.\n4. Gợi ý trả lời câu hỏi follow-up:\n• What is the most difficult part of learning English for you? – For me, pronunciation is the hardest part because some\nEnglish sounds are very different from Vietnamese.\n• Do you think English will remain the most popular language in the future? – Yes, because English is still widely used\nin business, education and international communication.\n• How has the internet changed the way people learn English? – The internet provides online courses, videos and\nlanguage apps that make learning English easier and more flexible.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích của tiếng Anh mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n• Dành quá nhiều thời gian cho bài nói chính khiến thiếu thời gian trả lời follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với trải nghiệm học tiếng Anh cá nhân hoặc môi trường học tập ở trường.\n• Bạn có thể dùng câu đệm như: That is a complex issue. If we evaluate it from an educational perspective...\n• Nếu quên từ chuyên ngành, hãy dùng từ đơn giản hơn hoặc mô tả ý nghĩa của nó.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ giáo dục, nghề nghiệp và hội nhập quốc tế.\n• Sự logic và mạch lạc giữa các ý quan trọng hơn việc dùng quá nhiều từ vựng học thuật.\n• Luôn đưa ví dụ thực tế để bài nói tự nhiên, thuyết phục và dễ hiểu hơn."
+}

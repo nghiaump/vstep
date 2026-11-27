@@ -1,0 +1,716 @@
+{
+ "id": "vlu-2",
+ "number": 2,
+ "title": "Đề thi VLU 2",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-2",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Benefits of Community Gardening",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "A community garden is a piece of land where local people grow plants together. It may be a small plot behind a church, a space between apartment buildings, or an empty lot that was once covered in rubbish. In many cities, gardens like these have appeared over the last few decades, as residents look for ways to use unused space and to bring more green into their neighbourhoods. These projects range from a few raised beds to large gardens with hundreds of members. Some are run by volunteers, while others are supported by councils or charities.",
+     "One of the main benefits of community gardening is the supply of fresh food. People can grow vegetables, fruit, and herbs, and they often share the harvest with neighbours who cannot afford to buy much produce. Fresh vegetables that are picked and eaten on the same day are usually more **nutritious** than those that have travelled long distances to a supermarket. Children who help to grow vegetables are also more willing to try them at meals. Gardening is also a gentle form of exercise, because digging, planting, and watering use many different muscles. For this reason, doctors sometimes suggest it to older people and to those who find a gym too tiring.",
+     "Gardens are also friendly places where people **gather** and make new friends. Neighbours who might never speak to each other in the street often start talking while they water the plants, and many gardens organise events such as harvest festivals, cooking days, and workshops for children. Older residents can pass on traditional skills, while younger members bring new ideas and energy. In this way, a garden can help to reduce loneliness and build a stronger sense of community, especially in large cities where many people hardly know their neighbours.",
+     "Community gardens benefit the environment as well. Plants absorb carbon dioxide and give off oxygen, and green spaces help to keep cities cooler during hot summers. Gardens also provide a home for bees, butterflies, and birds, which are often missing from busy urban areas. Many gardeners make their own compost from kitchen waste, so less rubbish is sent to landfill. Because a neglected lot often attracts litter, turning it into a garden can make the street cleaner and safer, and children can learn about nature **there**.",
+     "Of course, community gardens also face difficulties. Finding land can be hard, especially in cities where property is expensive, and some gardens are closed when the owner decides to sell the site. Volunteers sometimes lose interest, and without regular care, plants die and weeds spread quickly. Many groups solve these problems by signing agreements with local councils and by sharing the work fairly among members. In conclusion, community gardening offers healthy food, friendship, and a cleaner environment, and it shows how a small piece of unused land can change the life of a whole neighbourhood."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "Why councils should sell unused public land",
+       "B": "How to grow vegetables on apartment balconies",
+       "C": "How community gardens help people and the environment",
+       "D": "The history of commercial farming in cities"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu khái niệm và sự xuất hiện của các khu vườn cộng đồng; đoạn 2 nêu lợi ích về thực phẩm sạch và rèn luyện sức khỏe; đoạn 3 nhấn mạnh giá trị kết nối xã hội, giảm cô đơn và gắn kết tình làng nghĩa xóm; đoạn 4 bàn về các lợi ích môi trường (giảm CO2, làm mát phố phường, tạo không gian cho động vật và tái chế rác hữu cơ); đoạn cuối nhắc đến những khó khăn và giải pháp duy trì. Do đó, phương án đúng phải khái quát toàn diện việc vườn cộng đồng giúp ích cho cả con người lẫn môi trường (How community gardens help people and the environment), tránh chọn các đáp án phiến diện hay lệch trọng tâm."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why are fresh local vegetables often more nutritious?",
+      "options": {
+       "A": "They are eaten soon after they are picked",
+       "B": "They are grown with costly imported chemicals",
+       "C": "They are washed in special supermarket machines",
+       "D": "They are cooked for much longer periods"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"nutritious\" ở đoạn 2 để thấy rõ nguyên nhân rau củ tươi ngon và bổ dưỡng hơn vì chúng được hái và ăn ngay trong ngày (They are eaten soon after they are picked)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"nutritious\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "tasteless",
+       "B": "colourful",
+       "C": "crowded",
+       "D": "wholesome"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"nutritious\" ở đoạn 2 mô tả chất lượng dinh dưỡng tốt của rau củ tươi, đồng nghĩa với \"wholesome\"."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what do older residents do in community gardens?",
+      "options": {
+       "A": "They organise cooking classes in several local schools",
+       "B": "They teach traditional skills to young members",
+       "C": "They design the layout of every new garden",
+       "D": "They manage the money for all harvest festivals"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"older residents\" ở đoạn 3: cư dân lớn tuổi truyền đạt các kỹ năng truyền thống cho các thành viên trẻ tuổi (They teach traditional skills to young members)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"gather\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "work alone",
+       "B": "leave early",
+       "C": "meet together",
+       "D": "argue loudly"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"gather\" ở đoạn 3 đi kèm với việc mọi người tụ họp, làm quen và kết bạn trong vườn, mang nghĩa gặp gỡ, hội họp tương đương \"meet together\"."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"there\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "In the garden",
+       "B": "On the street",
+       "C": "In the supermarket",
+       "D": "At the town hall"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào trạng từ chỉ địa điểm \"there\" ở đoạn 4. Áp dụng quy tắc đọc ngữ cảnh xung quanh: câu văn nhắc đến việc biến những khu đất bỏ hoang thành vườn cộng đồng, giúp đường phố sạch sẽ hơn và trẻ em có thể học về thiên nhiên tại chính nơi đó, quy chiếu trực tiếp đến khu vườn (In the garden)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, why are some gardens closed?",
+      "options": {
+       "A": "Councils refuse to sign any such agreements",
+       "B": "Plants die because of poor weather conditions",
+       "C": "Members move away from the whole city",
+       "D": "The owner decides to sell the whole site"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as an environmental benefit?",
+      "options": {
+       "A": "Cooler streets during hot summer months",
+       "B": "Cleaner rivers near the city centre",
+       "C": "A home for bees, butterflies, and birds",
+       "D": "Less kitchen waste sent to landfill"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các lợi ích môi trường được liệt kê ở đoạn 4 (làm mát đường phố vào mùa hè, làm nhà cho ong bướm và chim chóc, giảm lượng rác nhà bếp đưa đến bãi chôn lấp), từ đó loại trừ phương án làm sạch các dòng sông gần trung tâm thành phố vì chi tiết này hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 3 and 5 about community gardens?",
+      "options": {
+       "A": "They are always cheaper to run than supermarkets",
+       "B": "They are only suitable for older retired people",
+       "C": "Success depends on the effort of members",
+       "D": "They never face any difficulty once they open"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 3 và 5 về các khu vườn cộng đồng: thành công hay thất bại của các dự án này phụ thuộc vào việc các thành viên thỏa thuận chia sẻ công việc công bằng và nỗ lực duy trì (Success depends on the effort of members)."
+     },
+     {
+      "number": 10,
+      "stem": "Why did the writer write this passage?",
+      "options": {
+       "A": "To explain why people should garden together",
+       "B": "To advertise tools that garden shops are selling",
+       "C": "To describe how farms feed very large cities",
+       "D": "To warn people about dangers of gardening Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích giải thích và làm rõ lý do vì sao mọi người nên cùng nhau làm vườn cộng đồng thông qua việc liệt kê các lợi ích thiết thực (To explain why people should garden together)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu khái niệm và sự xuất hiện của các khu vườn cộng đồng; đoạn 2 nêu lợi ích về thực phẩm sạch và rèn luyện sức khỏe; đoạn 3 nhấn mạnh giá trị kết nối xã hội, giảm cô đơn và gắn kết tình làng nghĩa xóm; đoạn 4 bàn về các lợi ích môi trường (giảm CO2, làm mát phố phường, tạo không gian cho động vật và tái chế rác hữu cơ); đoạn cuối nhắc đến những khó khăn và giải pháp duy trì. Do đó, phương án đúng phải khái quát toàn diện việc vườn cộng đồng giúp ích cho cả con người lẫn môi trường (How community gardens help people and the environment), tránh chọn các đáp án phiến diện hay lệch trọng tâm.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R1Q2**, quét từ khóa \"nutritious\" ở đoạn 2 để thấy rõ nguyên nhân rau củ tươi ngon và bổ dưỡng hơn vì chúng được hái và ăn ngay trong ngày (They are eaten soon after they are picked).\n  - Với **R1Q4**, quét từ khóa \"older residents\" ở đoạn 3: cư dân lớn tuổi truyền đạt các kỹ năng truyền thống cho các thành viên trẻ tuổi (They teach traditional skills to young members).\n  - With **R1Q7**, quét từ khóa \"closed\" ở đoạn 5 để tìm lý do đóng cửa một số khu vườn: chủ sở hữu quyết định bán lại khu đất (The owner decides to sell the whole site).\n  - Với **R1Q8**, đối soát kỹ các lợi ích môi trường được liệt kê ở đoạn 4 (làm mát đường phố vào mùa hè, làm nhà cho ong bướm và chim chóc, giảm lượng rác nhà bếp đưa đến bãi chôn lấp), từ đó loại trừ phương án làm sạch các dòng sông gần trung tâm thành phố vì chi tiết này hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"nutritious\"** ở đoạn 2 mô tả chất lượng dinh dưỡng tốt của rau củ tươi, đồng nghĩa với \"wholesome\".\n  - Với **R1Q5**, từ **\"gather\"** ở đoạn 3 đi kèm với việc mọi người tụ họp, làm quen và kết bạn trong vườn, mang nghĩa gặp gỡ, hội họp tương đương \"meet together\".\n- **Dạng câu hỏi Quy chiếu (R1Q6):** Tập trung vào trạng từ chỉ địa điểm **\"there\"** ở đoạn 4. Áp dụng quy tắc đọc ngữ cảnh xung quanh: câu văn nhắc đến việc biến những khu đất bỏ hoang thành vườn cộng đồng, giúp đường phố sạch sẽ hơn và trẻ em có thể học về thiên nhiên tại chính nơi đó, quy chiếu trực tiếp đến khu vườn (In the garden).\n- **Dạng câu hỏi Suy luận (R1Q9):** Kết hợp thông tin từ đoạn 3 và 5 về các khu vườn cộng đồng: thành công hay thất bại của các dự án này phụ thuộc vào việc các thành viên thỏa thuận chia sẻ công việc công bằng và nỗ lực duy trì (Success depends on the effort of members).\n- **Dạng câu hỏi Mục đích tác giả (R1Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích giải thích và làm rõ lý do vì sao mọi người nên cùng nhau làm vườn cộng đồng thông qua việc liệt kê các lợi ích thiết thực (To explain why people should garden together).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6) vì thông tin rất khu trú. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, hoàn thành các câu suy luận (R1Q9), mục đích tác giả (R1Q10) và ý chính (R1Q1) dựa trên tổng quan toàn bài."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Understanding Inertia: The Law of Motion",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Everyone has felt the jolt of a bus that brakes suddenly, throwing standing passengers forward. This everyday experience illustrates inertia, the tendency of any object to resist changes in its state of motion. An object at rest stays at rest, and an object in motion continues in a straight line at constant speed, unless an external force acts on it. This statement, known as Newton's first law of motion, underpins much of classical physics.",
+     "For nearly two thousand years, scholars failed to understand this principle correctly. The Greek philosopher Aristotle taught that objects come to rest and that a force is needed to keep anything moving, a belief that seemed to match everyday observation, since carts stop when horses stop pulling. Only in the early seventeenth century did Galileo Galilei challenge this view by rolling balls down smooth slopes and noticing that the smoother the surface, the farther each ball travelled. He concluded that a ball would roll forever if friction could be removed entirely, a conclusion that was **counterintuitive** to many of his contemporaries.",
+     "Isaac Newton incorporated Galileo's insight into his Principia, published in 1687, and went on to show that inertia is closely linked to mass. The more mass an object has, the greater its resistance to acceleration, which explains why a loaded lorry is far harder to stop than a bicycle travelling at the same speed. Mass is therefore an **intrinsic** property of an object, unlike weight, which changes with the strength of gravity. An astronaut on the Moon weighs about one-sixth of what she weighs on Earth, yet her inertia remains exactly the same.",
+     "In daily life, inertia is often disguised by friction, **which** acts between surfaces and gradually slows moving objects. A hockey puck sliding across smooth ice travels much farther than one sliding across a carpet, because ice offers far less resistance to the motion of the puck. In the vacuum of space, where friction and air resistance are almost absent, a probe can coast for decades with its engines switched off. The Voyager spacecraft, launched in 1977, continue to travel away from the Sun largely because of their inertia.",
+     "Understanding inertia has helped engineers to save countless lives on the road. When a car stops abruptly in a collision, the occupants continue moving forward at the car's previous speed, which is why seatbelts and airbags are designed to apply a controlled force over a longer time. Headrests protect the neck by preventing the head from lagging behind when a vehicle is struck from behind. Engineers also apply the principle in the design of cranes, lifts, and trains, ensuring that passengers and cargo are not jolted by sudden starts and stops.",
+     "Inertia is frequently misunderstood as a force, but it is better described as a property of matter. An object does not need a force to keep moving; a force is required only to change its motion. Modern physics has refined Newton's ideas, since Einstein's theories show that inertia is related to energy as well as mass, and that its effects become dramatic near the speed of light. Nevertheless, for everyday speeds, the first law remains an accurate and powerful tool, linking simple experiences such as a sliding puck or a braking bus to the motion of planets and spacecraft."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Newton completely disproved Galileo's earlier theories about moving objects",
+       "B": "Inertia is a fundamental property of matter with practical importance",
+       "C": "Friction remains the only force that governs object motion",
+       "D": "Seatbelts are the most important safety device ever invented"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc tổng quan mạch bài: đoạn 1 giới thiệu khái niệm quán tính (inertia) và định luật đầu tiên của Newton; đoạn 2 đề cập đến lịch sử quan điểm từ Aristotle đến Galileo; đoạn 3 chỉ ra mối quan hệ giữa khối lượng (mass) và quán tính; đoạn 4 giải thích vai trò của ma sát trong đời sống và không gian; đoạn 5 đưa ra các ứng dụng thực tế trong kỹ thuật an toàn giao thông; đoạn cuối kết luận về bản chất và tính ứng dụng phổ quát của quán tính. Do đó, phương án đúng phải khái quát toàn diện việc quán tính là một thuộc tính cơ bản của vật chất mang lại ý nghĩa thực tiễn quan trọng (Inertia is a fundamental property of matter with practical importance), tránh chọn các đáp án phiến diện hay lệch trọng tâm."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, how did Galileo challenge Aristotle's view?",
+      "options": {
+       "A": "By dropping heavy stones from tall towers in front of crowds",
+       "B": "By measuring how fast carts moved behind horses along public roads",
+       "C": "By studying the movements of distant planets with a new telescope",
+       "D": "By rolling balls down smooth slopes and observing how far they travelled"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về Galileo ở đoạn 2: ông thách thức quan điểm của Aristotle bằng cách lăn các quả bóng xuống dốc trơn trượt và quan sát chúng đi được quãng đường xa bao nhiêu (By rolling balls down smooth slopes and observing how far they travelled)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"counterintuitive\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "unexpected",
+       "B": "obvious",
+       "C": "persuasive",
+       "D": "scientific"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"counterintuitive\" ở đoạn 2 mô tả kết luận rằng một quả bóng sẽ lăn mãi mãi nếu không có ma sát là điều trái ngược với trực giác thông thường, đồng nghĩa với \"unexpected\"."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, how does mass relate to inertia?",
+      "options": {
+       "A": "A heavier object resists applied forces less strongly",
+       "B": "Mass changes with the strength of local gravity",
+       "C": "Greater mass means greater resistance to acceleration",
+       "D": "Mass only affects objects travelling at constant speed"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"mass relate to inertia\" ở đoạn 3: khối lượng càng lớn thì khả năng chống lại gia tốc càng lớn (Greater mass means greater resistance to acceleration)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"intrinsic\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "occasional",
+       "B": "inherent",
+       "C": "artificial",
+       "D": "variable"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"intrinsic\" ở đoạn 3 dùng để chỉ khối lượng là thuộc tính nội tại, vốn có của vật thể chứ không thay đổi theo trọng lực, sát nghĩa với \"inherent\"."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Inertia",
+       "B": "Surfaces",
+       "C": "Objects",
+       "D": "Friction"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đoạn 4. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ sự việc: câu văn nhắc đến lực ma sát tác động giữa các bề mặt và làm chậm các vật thể chuyển động (friction, which acts between surfaces), quy chiếu trực tiếp đến từ \"Friction\"."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, how do seatbelts protect passengers?",
+      "options": {
+       "A": "They apply controlled force over a longer time",
+       "B": "They stop the car's motion before the impact begins",
+       "C": "They slow the vehicle down during sudden braking",
+       "D": "They prevent the head lagging behind the body"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"seatbelts\" ở đoạn 5: dây an toàn bảo vệ hành khách bằng cách áp dụng lực có kiểm soát trong một khoảng thời gian dài hơn (They apply controlled force over a longer time)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as an example of inertia or its applications?",
+      "options": {
+       "A": "A hockey puck sliding across smooth ice",
+       "B": "Voyager spacecraft travelling away from the Sun",
+       "C": "A pendulum swinging inside antique clocks",
+       "D": "Headrests protecting the neck in collisions"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các ví dụ về quán tính được nhắc đến trong bài (khúc côn cầu trượt trên băng ở đoạn 4, tàu vũ trụ Voyager ở đoạn 4, tựa đầu bảo vệ cổ khi va chạm ở đoạn 5), từ đó loại trừ phương án con lắc dao động trong đồng hồ cổ vì hoàn toàn không xuất hiện."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 2 to 4 about everyday observation?",
+      "options": {
+       "A": "It always supports the conclusions of great scientists",
+       "B": "It can mislead people because friction hides inertia's effects",
+       "C": "It is less reliable than ancient philosophical teaching",
+       "D": "It explains why Voyager needs constant engine power"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 2 đến đoạn 4 về quan sát hằng ngày (như xe đẩy dừng lại khi ngựa ngừng kéo): những hiện tượng quan sát trực quan này có thể đánh lừa con người bởi vì lực ma sát che giấu đi các hiệu ứng thực sự của quán tính (It can mislead people because friction hides inertia's effects)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that Newton's laws have now become entirely obsolete",
+       "B": "To compare Aristotle's physics with the later physics of Einstein",
+       "C": "To describe how modern cars are manufactured in large factories",
+       "D": "To explain fundamental concepts of inertia and its applications Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm giải thích các khái niệm cơ bản về quán tính và những ứng dụng thực tiễn của nó trong đời sống cũng như khoa học (To explain fundamental concepts of inertia and its applications)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc tổng quan mạch bài: đoạn 1 giới thiệu khái niệm quán tính (inertia) và định luật đầu tiên của Newton; đoạn 2 đề cập đến lịch sử quan điểm từ Aristotle đến Galileo; đoạn 3 chỉ ra mối quan hệ giữa khối lượng (mass) và quán tính; đoạn 4 giải thích vai trò của ma sát trong đời sống và không gian; đoạn 5 đưa ra các ứng dụng thực tế trong kỹ thuật an toàn giao thông; đoạn cuối kết luận về bản chất và tính ứng dụng phổ quát của quán tính. Do đó, phương án đúng phải khái quát toàn diện việc quán tính là một thuộc tính cơ bản của vật chất mang lại ý nghĩa thực tiễn quan trọng (Inertia is a fundamental property of matter with practical importance), tránh chọn các đáp án phiến diện hay lệch trọng tâm.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R2Q2**, quét thông tin về Galileo ở đoạn 2: ông thách thức quan điểm của Aristotle bằng cách lăn các quả bóng xuống dốc trơn trượt và quan sát chúng đi được quãng đường xa bao nhiêu (By rolling balls down smooth slopes and observing how far they travelled).\n  - Với **R2Q4**, quét từ khóa \"mass relate to inertia\" ở đoạn 3: khối lượng càng lớn thì khả năng chống lại gia tốc càng lớn (Greater mass means greater resistance to acceleration).\n  - Với **R2Q7**, quét từ khóa \"seatbelts\" ở đoạn 5: dây an toàn bảo vệ hành khách bằng cách áp dụng lực có kiểm soát trong một khoảng thời gian dài hơn (They apply controlled force over a longer time).\n  - Với **R2Q8**, đối soát kỹ các ví dụ về quán tính được nhắc đến trong bài (khúc côn cầu trượt trên băng ở đoạn 4, tàu vũ trụ Voyager ở đoạn 4, tựa đầu bảo vệ cổ khi va chạm ở đoạn 5), từ đó loại trừ phương án con lắc dao động trong đồng hồ cổ vì hoàn toàn không xuất hiện.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"counterintuitive\"** ở đoạn 2 mô tả kết luận rằng một quả bóng sẽ lăn mãi mãi nếu không có ma sát là điều trái ngược với trực giác thông thường, đồng nghĩa với \"unexpected\".\n  - Với **R2Q5**, từ **\"intrinsic\"** ở đoạn 3 dùng để chỉ khối lượng là thuộc tính nội tại, vốn có của vật thể chứ không thay đổi theo trọng lực, sát nghĩa với \"inherent\".\n- **Dạng câu hỏi Quy chiếu (R2Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đoạn 4. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ sự việc: câu văn nhắc đến lực ma sát tác động giữa các bề mặt và làm chậm các vật thể chuyển động (friction, which acts between surfaces), quy chiếu trực tiếp đến từ \"Friction\".\n- **Dạng câu hỏi Suy luận (R2Q9):** Kết hợp thông tin từ đoạn 2 đến đoạn 4 về quan sát hằng ngày (như xe đẩy dừng lại khi ngựa ngừng kéo): những hiện tượng quan sát trực quan này có thể đánh lừa con người bởi vì lực ma sát che giấu đi các hiệu ứng thực sự của quán tính (It can mislead people because friction hides inertia's effects).\n- **Dạng câu hỏi Mục đích tác giả (R2Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm giải thích các khái niệm cơ bản về quán tính và những ứng dụng thực tiễn của nó trong đời sống cũng như khoa học (To explain fundamental concepts of inertia and its applications).\nLời khuyên: Hãy bắt đầu với các câu hỏi từ vựng (R2Q3, R2Q5) và quy chiếu (R2Q6) vì thông tin rất tập trung và dễ định vị. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, hoàn thành các câu hỏi suy luận (R2Q9), mục đích tác giả (R2Q10) và ý chính (R2Q1)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Impact of Artificial Intelligence in Modern Education",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few technologies have entered classrooms as quickly, or provoked as much debate, as artificial intelligence. Tutoring programmes, automated marking tools, and conversational assistants are now used by millions of students worldwide, often without clear guidance from schools. Advocates see a chance to personalise learning on an unprecedented scale, whereas sceptics fear that pupils will gradually outsource their thinking to machines and lose the habit of independent effort.",
+     "The most widely praised application is adaptive learning. Software can track how a student answers each question, identify recurring misunderstandings, and adjust the difficulty or sequence of tasks accordingly, something a single teacher with thirty pupils can rarely manage. Early studies suggest that such systems are particularly helpful in subjects with clear right answers, such as mathematics and language grammar, where immediate feedback allows learners to correct mistakes before they become habits. Shy or anxious learners may also prefer asking an automated tutor repeated questions.",
+     "Teachers may benefit as well, since artificial intelligence can take over routine administrative work. **[1]** Systems that mark multiple-choice tests, suggest lesson plans, and draft reports for parents can save hours every week, which is significant in a profession where heavy workloads are a leading reason for resignation. **[2]** Nevertheless, automated feedback on essays remains less reliable, because programs often reward fluent but shallow writing. **[3]** Some schools have therefore adopted a hybrid approach in which software provides a first assessment and teachers review the borderline cases. **[4]**",
+     "However, the same tools have intensified worries about academic integrity. Chatbots can produce essays, solve equations, and summarise articles in seconds, which makes it tempting for students to submit work that is not their own. Detection software has proved unreliable, sometimes wrongly accusing honest students who are learning English. Many teachers are therefore redesigning assessments to include oral examinations, supervised writing, and projects that require students to explain their reasoning. Critics argue that the problem is not merely cheating but the **erosion** of the struggle through which understanding is built.",
+     "Equity is a further concern. Students from wealthy families are more likely to have devices, internet connections, and parents who can guide them in using such tools, whereas pupils in poorer or rural areas may lack these advantages. Without deliberate policies, **they** could fall further behind, and technology meant to narrow gaps may widen them.",
+     "Privacy and fairness raise additional questions. Educational platforms collect enormous quantities of data about students, including their answers, reading speed, and even facial expressions, yet families are rarely told how this information is stored or who may profit from it. Algorithms trained on historical data can also reproduce existing prejudices against minority students. Because the reasoning behind such decisions is often **opaque**, parents and teachers find it hard to challenge a result they believe is unjust.",
+     "Artificial intelligence is therefore best understood as a powerful tool whose value depends on how it is governed. Used thoughtfully, it can personalise instruction, relieve teachers of tedious tasks, and widen access to expertise. Used carelessly, it may weaken critical thinking, deepen inequality, and expose young people's data to commercial exploitation. The challenge for schools and policy makers is to set clear rules, train teachers, and ensure that technology serves the goals of education rather than redefining them."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Teachers will soon be replaced entirely by cheap automated tutoring software",
+       "B": "Detection programs have successfully eliminated cheating in modern schools",
+       "C": "Artificial intelligence offers real educational benefits but also serious risks",
+       "D": "Rural schools have benefited most from adaptive learning technology"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự xuất hiện nhanh chóng của AI trong giáo dục cùng hai luồng ý kiến ủng hộ và hoài nghi; đoạn 2 nói về lợi ích của học tập thích ứng (adaptive learning); đoạn 3 phân tích lợi ích cho giáo viên trong việc giảm tải công việc hành chính; đoạn 4 đề cập đến các vấn đề về tính liêm chính học thuật và nguy cơ xói mòn nỗ lực tự thân; đoạn 5 bàn về sự bất bình đẳng tiếp cận công nghệ; đoạn 6 nhắc đến các vấn đề về quyền riêng tư và sự thiếu minh bạch của dữ liệu; đoạn cuối tổng kết AI là con dao hai lưỡi cần được quản lý chặt chẽ. Do đó, phương án đúng phải khái quát toàn diện việc trí tuệ nhân tạo mang lại lợi ích giáo dục thực sự nhưng đồng thời đi kèm những rủi ro nghiêm trọng (Artificial intelligence offers real educational benefits but also serious risks), tránh chọn các đáp án phiến diện hay cực đoan."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why might adaptive systems help students?",
+      "options": {
+       "A": "Software can tailor tasks to each learner's recurring misunderstandings",
+       "B": "Immediate feedback is unnecessary in subjects with clear answers",
+       "C": "Teachers can assign identical work to thirty pupils at once",
+       "D": "Shy students are encouraged to question human teachers more often"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về adaptive systems ở đoạn 2: phần mềm có thể theo dõi cách học sinh trả lời, xác định các lỗi hiểu sai lầm lặp lại và điều chỉnh độ khó hoặc trình tự bài tập cho phù hợp (Software can tailor tasks to each learner's recurring misunderstandings)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"erosion\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "careful measurement",
+       "B": "public celebration",
+       "C": "rapid expansion",
+       "D": "gradual weakening"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"erosion\" ở đoạn 4 đi kèm với việc học sinh lười suy nghĩ và đánh mất thói quen nỗ lực độc lập, mang ý nghĩa xói mòn, suy giảm dần, đồng nghĩa với \"gradual weakening\"."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'The time saved can then be redirected towards discussion, mentoring, and creative planning.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'The time saved can then be redirected towards discussion, mentoring, and creative planning.' (Thời gian tiết kiệm được sau đó có thể được chuyển hướng sang thảo luận, cố vấn và lập kế hoạch sáng tạo). Ý nghĩa về thời gian tiết kiệm được nhờ tự động hóa công việc hành chính được nhắc đến ngay trước ô [1] (giúp tiết kiệm hàng giờ mỗi tuần trong một nghề nghiệp mà khối lượng công việc nặng nhọc là nguyên nhân hàng đầu dẫn đến việc từ chức). Do đó, vị trí thích hợp nhất để điền câu này là ngay sau câu đó, tức là tại ô [1]."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what concern is raised about educational data collection?",
+      "options": {
+       "A": "Reading speed is measured less accurately than answers",
+       "B": "Parents are forced to pay for every stored record",
+       "C": "Families seldom know who benefits financially from the information",
+       "D": "Teachers are prevented from viewing results in class"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về educational data collection ở đoạn 6: các nền tảng thu thập lượng lớn dữ liệu nhưng các gia đình hiếm khi được biết thông tin này được lưu trữ thế nào hoặc ai là người trục lợi từ nó (Families seldom know who benefits financially from the information)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"they\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Poorer or rural pupils",
+       "B": "Students from wealthy families",
+       "C": "Parents who guide children",
+       "D": "Teachers using such tools"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số nhiều \"they\" ở đầu câu của đoạn 5. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ đối tượng: câu trước nhắc đến học sinh ở các vùng nghèo hoặc vùng nông thôn thiếu thốn thiết bị và internet so với học sinh giàu có, quy chiếu trực tiếp đến nhóm học sinh này (Poorer or rural pupils)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"opaque\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "generous",
+       "B": "efficient",
+       "C": "impartial",
+       "D": "unclear"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"opaque\" ở đoạn 6 mô tả lý đằng sau các quyết định của thuật toán vốn không rõ ràng khiến phụ huynh và giáo viên khó lòng tranh cãi hay khiếu nại, sát nghĩa với không rõ ràng, mập mờ tương đương \"unclear\"."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a response to AI-assisted cheating?",
+      "options": {
+       "A": "Introducing oral examinations alongside written ones",
+       "B": "Banning every personal device from school premises",
+       "C": "Asking students to write under teacher supervision",
+       "D": "Designing projects that require explaining one's own reasoning"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các phản ứng đối phó với gian lận hỗ trợ bởi AI được liệt kê ở đoạn 4 (thi vấn đáp cùng thi viết, yêu cầu học sinh viết dưới sự giám sát của giáo viên, thiết kế các dự án yêu cầu giải thích lý do), từ đó loại trừ phương án cấm mọi thiết bị cá nhân khỏi khuôn viên trường vì chi tiết này hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4 to 6 about automated judgements in education?",
+      "options": {
+       "A": "Detection programs are more accurate than teachers in assessing writing",
+       "B": "Families generally prefer algorithmic decisions to the judgements of teachers",
+       "C": "They may disproportionately penalise students least able to contest them",
+       "D": "Minority students are deliberately excluded from most digital learning platforms"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 4 đến đoạn 6 về các phán quyết tự động trong giáo dục: vì các quyết định dựa trên dữ liệu lịch sử và mang tính thiếu minh bạch (opaque), chúng có thể gây bất lợi hoặc phạt nhầm một cách bất tương xứng đối với những học sinh ít có khả năng khiếu nại nhất (They may disproportionately penalise students least able to contest them)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To weigh the benefits of artificial intelligence against its risks",
+       "B": "To persuade schools to ban chatbots from every classroom",
+       "C": "To describe how adaptive tutoring software is programmed",
+       "D": "To compare examination results before and after chatbots appeared Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích cân nhắc, đối chiếu và đánh giá những lợi ích của trí tuệ nhân tạo đối với giáo dục song hành cùng những rủi ro đi kèm (To weigh the benefits of artificial intelligence against its risks)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự xuất hiện nhanh chóng của AI trong giáo dục cùng hai luồng ý kiến ủng hộ và hoài nghi; đoạn 2 nói về lợi ích của học tập thích ứng (adaptive learning); đoạn 3 phân tích lợi ích cho giáo viên trong việc giảm tải công việc hành chính; đoạn 4 đề cập đến các vấn đề về tính liêm chính học thuật và nguy cơ xói mòn nỗ lực tự thân; đoạn 5 bàn về sự bất bình đẳng tiếp cận công nghệ; đoạn 6 nhắc đến các vấn đề về quyền riêng tư và sự thiếu minh bạch của dữ liệu; đoạn cuối tổng kết AI là con dao hai lưỡi cần được quản lý chặt chẽ. Do đó, phương án đúng phải khái quát toàn diện việc trí tuệ nhân tạo mang lại lợi ích giáo dục thực sự nhưng đồng thời đi kèm những rủi ro nghiêm trọng (Artificial intelligence offers real educational benefits but also serious risks), tránh chọn các đáp án phiến diện hay cực đoan.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R3Q2**, quét thông tin về adaptive systems ở đoạn 2: phần mềm có thể theo dõi cách học sinh trả lời, xác định các lỗi hiểu sai lầm lặp lại và điều chỉnh độ khó hoặc trình tự bài tập cho phù hợp (Software can tailor tasks to each learner's recurring misunderstandings).\n  - Với **R3Q5**, quét thông tin về educational data collection ở đoạn 6: các nền tảng thu thập lượng lớn dữ liệu nhưng các gia đình hiếm khi được biết thông tin này được lưu trữ thế nào hoặc ai là người trục lợi từ nó (Families seldom know who benefits financially from the information).\n  - Với **R3Q8**, đối soát kỹ các phản ứng đối phó với gian lận hỗ trợ bởi AI được liệt kê ở đoạn 4 (thi vấn đáp cùng thi viết, yêu cầu học sinh viết dưới sự giám sát của giáo viên, thiết kế các dự án yêu cầu giải thích lý do), từ đó loại trừ phương án cấm mọi thiết bị cá nhân khỏi khuôn viên trường vì chi tiết này hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"erosion\"** ở đoạn 4 đi kèm với việc học sinh lười suy nghĩ và đánh mất thói quen nỗ lực độc lập, mang ý nghĩa xói mòn, suy giảm dần, đồng nghĩa với \"gradual weakening\".\n  - Với **R3Q7**, từ **\"opaque\"** ở đoạn 6 mô tả lý đằng sau các quyết định của thuật toán vốn không rõ ràng khiến phụ huynh và giáo viên khó lòng tranh cãi hay khiếu nại, sát nghĩa với không rõ ràng, mập mờ tương đương \"unclear\".\n- **Dạng câu hỏi Điền câu vào đoạn văn (R3Q4):** Đọc kỹ câu cần chèn: 'The time saved can then be redirected towards discussion, mentoring, and creative planning.' (Thời gian tiết kiệm được sau đó có thể được chuyển hướng sang thảo luận, cố vấn và lập kế hoạch sáng tạo). Ý nghĩa về thời gian tiết kiệm được nhờ tự động hóa công việc hành chính được nhắc đến ngay trước ô **[1]** (giúp tiết kiệm hàng giờ mỗi tuần trong một nghề nghiệp mà khối lượng công việc nặng nhọc là nguyên nhân hàng đầu dẫn đến việc từ chức). Do đó, vị trí thích hợp nhất để điền câu này là ngay sau câu đó, tức là tại ô **[1]**.\n- **Dạng câu hỏi Quy chiếu (R3Q6):** Tập trung vào đại từ nhân xưng số nhiều **\"they\"** ở đầu câu của đoạn 5. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ đối tượng: câu trước nhắc đến học sinh ở các vùng nghèo hoặc vùng nông thôn thiếu thốn thiết bị và internet so với học sinh giàu có, quy chiếu trực tiếp đến nhóm học sinh này (Poorer or rural pupils).\n- **Dạng câu hỏi Suy luận (R3Q9):** Kết hợp thông tin từ đoạn 4 đến đoạn 6 về các phán quyết tự động trong giáo dục: vì các quyết định dựa trên dữ liệu lịch sử và mang tính thiếu minh bạch (opaque), chúng có thể gây bất lợi hoặc phạt nhầm một cách bất tương xứng đối với những học sinh ít có khả năng khiếu nại nhất (They may disproportionately penalise students least able to contest them).\n- **Dạng câu hỏi Mục đích tác giả (R3Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích cân nhắc, đối chiếu và đánh giá những lợi ích của trí tuệ nhân tạo đối với giáo dục song hành cùng những rủi ro đi kèm (To weigh the benefits of artificial intelligence against its risks).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R3Q3, R3Q7), câu điền đoạn (R3Q4) và quy chiếu (R3Q6) vì thông tin khu trú rất rõ ràng. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R3Q2, R3Q5, R3Q8). Cuối cùng, hoàn thành các câu suy luận (R3Q9), mục đích tác giả (R3Q10) và ý chính (R3Q1) dựa trên tổng quan toàn bài."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Seafloor Spreading and Plate Tectonics",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In the early twentieth century, most geologists believed that the continents and ocean basins had been fixed in place since the Earth cooled. Alfred Wegener, a German meteorologist, challenged this view in 1912 by proposing that the continents had once formed a single landmass that later broke apart and drifted to their present positions. He cited the jigsaw-like fit of South America and Africa, matching fossils on separate continents, and similar rock formations on opposite shores. Yet his theory was rejected because he could not explain what force could move continents.",
+     "The decisive evidence came from the ocean floor itself. During and after the Second World War, research ships equipped with sonar revealed a continuous chain of underwater mountains, the mid-ocean ridge, winding for roughly 65,000 kilometres around the globe. Its crest contains a deep central rift where heat flow from the crust is unusually high. In the early 1960s, the geologist Harry Hess proposed that new oceanic crust forms at such ridges as molten rock rises from the mantle, cools, and spreads sideways, carrying older crust away.",
+     "Confirmation arrived from an unexpected direction: magnetism. When lava solidifies, iron-rich minerals within it align with the Earth's magnetic field and preserve that orientation permanently. **[1]** Because the planet's field has reversed polarity many times in its history, rocks formed at different periods record alternating directions. **[2]** Surveys in the 1960s found that the seafloor on either side of a ridge displays matching stripes of normal and reversed magnetism, with each band mirrored on the other side. **[3]** Drilling later showed that the sediments covering the ocean floor become thicker and the underlying rocks older with increasing distance from the ridge. **[4]**",
+     "These discoveries were soon merged with other evidence into the theory of plate tectonics. The Earth's rigid outer shell, or lithosphere, is divided into about a dozen major plates, which move slowly at roughly the speed at which fingernails grow. Plates are carried along by slow convection in the underlying mantle, together with the pull of heavy slabs that sink back into the interior, a process whose relative importance is still debated. Geologists regard the resulting framework, which is remarkably coherent, as one of the greatest achievements of twentieth-century science.",
+     "Most geological activity occurs where plates meet. At divergent boundaries, such as the mid-Atlantic ridge, plates move apart and magma rises to fill the gap. At convergent boundaries, one plate usually slides beneath another in a process called subduction, producing deep ocean trenches, chains of volcanoes, and some of the most powerful earthquakes. At transform boundaries, such as the San Andreas Fault in California, plates grind past each other horizontally, accumulating stress that is released suddenly when the rocks slip.",
+     "These processes explain the global distribution of volcanoes and earthquakes, which cluster around the Pacific Ocean in the so-called Ring of Fire. They also account for the formation of the world's great mountain ranges. The Himalayas, for example, rose because the Indian plate, moving northwards, collided with the Eurasian plate, and since neither could easily sink beneath the other, the crust crumpled and was thrust upwards. The collision began roughly fifty million years ago, and the Indian plate still moves northwards, so **it** continues to raise the range.",
+     "Plate tectonics has therefore turned separate branches of Earth science into one unified account of the planet. Wegener's central idea proved correct even though his proposed mechanism was wrong, and its acceptance came only after new technology exposed the ocean floor to **scrutiny**. The theory also reminds us that scientific progress often depends on evidence gathered in unexpected places."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Wegener's explanation of continental movement was accepted immediately by geologists",
+       "B": "Seafloor evidence turned continental drift into a widely accepted theory",
+       "C": "Volcanoes and earthquakes occur mainly because oceans are slowly shrinking",
+       "D": "Magnetic surveys show that continents move faster than the ocean floor"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm bắt mạch nội dung: đoạn 1 giới thiệu lý thuyết trôi dạt lục địa của Alfred Wegener nhưng bị từ chối do thiếu cơ chế giải thích; đoạn 2 và 3 đưa ra các bằng chứng mang tính bước ngoặt từ đáy đại dương (sơn-na, dải núi giữa đại dương, hiện tượng đảo cực từ tính và tuổi thọ của trầm tích); đoạn 4 tổng hợp thành thuyết kiến tạo mảng (plate tectonics); đoạn 5 phân tích các ranh giới mảng (phân kỳ, hội tụ, biến dạng); đoạn 6 giải thích sự phân bố núi lửa, động đất và sự hình thành dãy Himalayas; đoạn cuối kết luận rằng lý thuyết của Wegener cuối cùng đã được chứng minh nhờ các bằng chứng mới từ đáy biển. Do đó, phương án đúng phải khái quát toàn diện việc các bằng chứng từ đáy biển đã biến lý thuyết trôi dạt lục địa thành một học thuyết được công nhận rộng rãi (Seafloor evidence turned continental drift into a widely accepted theory), tránh chọn các đáp án phiến diện hay sai lệch."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what did Harry Hess propose?",
+      "options": {
+       "A": "Ridges are produced when older crust collides with continents",
+       "B": "Heat from the crust gradually melts the mantle beneath continents",
+       "C": "Oceanic crust is destroyed at ridges and recreated beneath continents",
+       "D": "New crust forms at ridges and moves sideways away from them"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Harry Hess propose\" ở đoạn 2: ông đề xuất lớp vỏ đại dương mới hình thành tại các sống núi khi đá nóng chảy từ mây phủ (mantle) trồi lên, nguội đi và lan ra hai bên, đẩy lớp vỏ cũ ra xa (New crust forms at ridges and moves sideways away from them)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"coherent\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "logical",
+       "B": "disputed",
+       "C": "outdated",
+       "D": "unfinished"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"coherent\" ở đoạn 4 mô tả khung lý thuyết kiến tạo mảng được hình thành một cách logic, mạch lạc và chặt chẽ, đồng nghĩa với \"logical\"."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such a mirrored pattern is exactly what would be expected if new crust were created at the ridge and carried away in both directions.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'Such a mirrored pattern is exactly what would be expected if new crust were created at the ridge and carried away in both directions.' (Một mô hình đối xứng như vậy chính là điều được mong đợi nếu lớp vỏ mới được tạo ra ở sống núi và bị mang đi theo cả hai hướng). Cụm từ \"mirrored stripes of normal and reversed magnetism\" được đề cập ngay trước ô [3] khi nói về các dải từ tính đối xứng ở hai bên sống núi. Do đó, vị trí thích hợp nhất để tiếp nối ý nghĩa đối xứng này là ngay tại ô [3]."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what happens at transform boundaries?",
+      "options": {
+       "A": "One plate dives beneath another to form trenches",
+       "B": "Plates move sideways past one another and store stress",
+       "C": "Magma rises to fill the gap between separating plates",
+       "D": "Two continents collide and crumple into high mountain ranges"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về \"transform boundaries\" ở đoạn 5: các mảng trượt ngang qua nhau theo chiều ngang và tích tụ ứng suất được giải phóng đột ngột khi các khối đá trượt đi (Plates move sideways past one another and store stress)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"it\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "The Eurasian plate",
+       "B": "The mountain range",
+       "C": "The Pacific Ocean",
+       "D": "The Indian plate"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng \"it\" ở đầu câu cuối của đoạn 6. Áp dụng quy tắc đọc ngữ cảnh xung quanh: câu văn nhắc đến việc mảng Ấn Độ tiếp tục di chuyển về phía bắc, quy chiếu trực tiếp đến chủ thể đang tạo ra lực đẩy làm nâng cao dãy núi Himalayas (The Indian plate)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"scrutiny\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "close examination",
+       "B": "generous funding",
+       "C": "political pressure",
+       "D": "public admiration"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"scrutiny\" ở đoạn 7 đi kèm với việc công nghệ mới đem đáy đại dương ra phân tích, xem xét kỹ lưỡng, sát nghĩa với \"close examination\"."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as evidence for seafloor spreading or continental drift?",
+      "options": {
+       "A": "Fossils of the same kinds found on separate continents",
+       "B": "Sediments that thicken with growing distance from ridges",
+       "C": "Satellite measurements of rising sea levels near ridges",
+       "D": "Matching magnetic bands lying on both sides of a ridge"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các bằng chứng về sự giãn đáy biển hoặc trôi dạt lục địa được liệt kê trong bài (hóa thạch giống nhau trên các lục địa riêng biệt ở đoạn 1, trầm tích dày dần khi cách xa sống núi ở đoạn 3, các dải từ tính khớp nhau ở cả hai bên sống núi ở đoạn 3), từ đó loại trừ phương án đo đạc vệ tinh về mực nước biển dâng cao gần các sống núi vì hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 1, 3, and 7 about the acceptance of Wegener's theory?",
+      "options": {
+       "A": "Seafloor evidence alone convinced every geologist that Wegener's mechanism was right",
+       "B": "New seafloor evidence helped, because it supplied the process Wegener lacked",
+       "C": "Wegener's fossil evidence became convincing once his proposed mechanism was confirmed",
+       "D": "Wider acceptance probably owed more to Wegener's reputation than to any new evidence"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ các đoạn 1, 3 và 7 về việc chấp nhận lý thuyết của Wegener: ý tưởng cốt lõi của ông hoàn toàn chính xác, nhưng sự công nhận rộng rãi chỉ đến khi các bằng chứng mới từ đáy biển cung cấp được cơ chế lực vận động mà thời của Wegener còn thiếu (New seafloor evidence helped, because it supplied the process Wegener lacked)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To criticise geologists for rejecting Wegener's early proposal",
+       "B": "To warn coastal residents about the dangers of earthquakes",
+       "C": "To describe how sonar equipment was developed during wartime",
+       "D": "To trace how evidence from the seafloor established plate tectonics"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích thuật lại quá trình các bằng chứng từ đáy đại dương đã xác lập nên học thuyết kiến tạo mảng hoàn chỉnh (To trace how evidence from the seafloor established plate tectonics)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm bắt mạch nội dung: đoạn 1 giới thiệu lý thuyết trôi dạt lục địa của Alfred Wegener nhưng bị từ chối do thiếu cơ chế giải thích; đoạn 2 và 3 đưa ra các bằng chứng mang tính bước ngoặt từ đáy đại dương (sơn-na, dải núi giữa đại dương, hiện tượng đảo cực từ tính và tuổi thọ của trầm tích); đoạn 4 tổng hợp thành thuyết kiến tạo mảng (plate tectonics); đoạn 5 phân tích các ranh giới mảng (phân kỳ, hội tụ, biến dạng); đoạn 6 giải thích sự phân bố núi lửa, động đất và sự hình thành dãy Himalayas; đoạn cuối kết luận rằng lý thuyết của Wegener cuối cùng đã được chứng minh nhờ các bằng chứng mới từ đáy biển. Do đó, phương án đúng phải khái quát toàn diện việc các bằng chứng từ đáy biển đã biến lý thuyết trôi dạt lục địa thành một học thuyết được công nhận rộng rãi (Seafloor evidence turned continental drift into a widely accepted theory), tránh chọn các đáp án phiến diện hay sai lệch.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R4Q2**, quét từ khóa \"Harry Hess propose\" ở đoạn 2: ông đề xuất lớp vỏ đại dương mới hình thành tại các sống núi khi đá nóng chảy từ mây phủ (mantle) trồi lên, nguội đi và lan ra hai bên, đẩy lớp vỏ cũ ra xa (New crust forms at ridges and moves sideways away from them).\n  - Với **R4Q5**, quét thông tin về \"transform boundaries\" ở đoạn 5: các mảng trượt ngang qua nhau theo chiều ngang và tích tụ ứng suất được giải phóng đột ngột khi các khối đá trượt đi (Plates move sideways past one another and store stress).\n  - Với **R4Q8**, đối soát kỹ các bằng chứng về sự giãn đáy biển hoặc trôi dạt lục địa được liệt kê trong bài (hóa thạch giống nhau trên các lục địa riêng biệt ở đoạn 1, trầm tích dày dần khi cách xa sống núi ở đoạn 3, các dải từ tính khớp nhau ở cả hai bên sống núi ở đoạn 3), từ đó loại trừ phương án đo đạc vệ tinh về mực nước biển dâng cao gần các sống núi vì hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"coherent\"** ở đoạn 4 mô tả khung lý thuyết kiến tạo mảng được hình thành một cách logic, mạch lạc và chặt chẽ, đồng nghĩa với \"logical\".\n  - Với **R4Q7**, từ **\"scrutiny\"** ở đoạn 7 đi kèm với việc công nghệ mới đem đáy đại dương ra phân tích, xem xét kỹ lưỡng, sát nghĩa với \"close examination\".\n- **Dạng câu hỏi Điền câu vào đoạn văn (R4Q4):** Đọc kỹ câu cần chèn: 'Such a mirrored pattern is exactly what would be expected if new crust were created at the ridge and carried away in both directions.' (Một mô hình đối xứng như vậy chính là điều được mong đợi nếu lớp vỏ mới được tạo ra ở sống núi và bị mang đi theo cả hai hướng). Cụm từ \"mirrored stripes of normal and reversed magnetism\" được đề cập ngay trước ô [3] khi nói về các dải từ tính đối xứng ở hai bên sống núi. Do đó, vị trí thích hợp nhất để tiếp nối ý nghĩa đối xứng này là ngay tại ô **[3]**.\n- **Dạng câu hỏi Quy chiếu (R4Q6):** Tập trung vào đại từ nhân xưng **\"it\"** ở đầu câu cuối của đoạn 6. Áp dụng quy tắc đọc ngữ cảnh xung quanh: câu văn nhắc đến việc mảng Ấn Độ tiếp tục di chuyển về phía bắc, quy chiếu trực tiếp đến chủ thể đang tạo ra lực đẩy làm nâng cao dãy núi Himalayas (The Indian plate).\n- **Dạng câu hỏi Suy luận (R4Q9):** Kết hợp thông tin từ các đoạn 1, 3 và 7 về việc chấp nhận lý thuyết của Wegener: ý tưởng cốt lõi của ông hoàn toàn chính xác, nhưng sự công nhận rộng rãi chỉ đến khi các bằng chứng mới từ đáy biển cung cấp được cơ chế lực vận động mà thời của Wegener còn thiếu (New seafloor evidence helped, because it supplied the process Wegener lacked).\n- **Dạng câu hỏi Mục đích tác giả (R4Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích thuật lại quá trình các bằng chứng từ đáy đại dương đã xác lập nên học thuyết kiến tạo mảng hoàn chỉnh (To trace how evidence from the seafloor established plate tectonics).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R4Q3, R4Q7), câu điền đoạn (R4Q4) và quy chiếu (R4Q6) vì thông tin rất cô đọng. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R4Q2, R4Q5, R4Q8). Cuối cùng, hoàn thành các câu suy luận (R4Q9), mục đích tác giả (R4Q10) và ý chính (R4Q1) dựa trên tổng quan toàn bài."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Sarah.\nShe is doing a small project about digital habits and asked you for some information. Read part of her email below. I'm curious about how people in different countries use the internet.\n- How often do you use social media every day?\n- Which social networking sites do you use most frequently?\n- In your opinion, what are the effects of social media on our daily lives?\nWrite an email responding to Sarah. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Sarah.",
+      "She is doing a small project about digital habits and asked you for some information. Read part of her email below."
+     ],
+     "quote": [
+      "I'm curious about how people in different countries use the internet.",
+      "- How often do you use social media every day?",
+      "- Which social networking sites do you use most frequently?",
+      "- In your opinion, what are the effects of social media on our daily lives?"
+     ],
+     "instruction": "Write an email responding to Sarah. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Dạng đề: Informal Email (Thư thân mật).\n- Nhiệm vụ: Trả lời 3 câu hỏi của Sarah về tần suất sử dụng, loại mạng xã hội và ảnh hưởng của chúng.\n- Yêu cầu: Viết tối thiểu 120 từ, trả lời đầy đủ các câu hỏi và giữ giọng văn tự nhiên.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Hi Sarah, / Dear Sarah,\n- **Opening:** Dẫn dắt tự nhiên. Ví dụ: \"It's great to hear about your project! I'm happy to share my social media habits with you.\"\n- **Body 1:** Trả lời về tần suất sử dụng mạng xã hội hàng ngày.\n- **Body 2:** Nêu tên các mạng xã hội thường dùng nhất và lý do tại sao.\n- **Body 3:** Trình bày ý kiến về tác động tích cực và tiêu cực của mạng xã hội.\n- **Closing:** Chúc Sarah hoàn thành tốt dự án và ký tên.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để mô tả thói quen và quan điểm cá nhân.\n- Dùng các trạng từ chỉ tần suất (frequently, occasionally, constantly) để làm câu văn chính xác hơn.\n- Sử dụng các cấu trúc đưa ra ý kiến như \"From my perspective\" hoặc \"I am of the opinion that\".\n- Đảm bảo tính liên kết giữa các câu bằng các từ nối phù hợp với văn phong thân mật.\nTừ vựng quan trọng:\n- **Social networking sites:** Các trang mạng xã hội\n- **Scroll through:** Lướt (tin tức)\n- **Keep in touch with:** Giữ liên lạc với\n- **Addictive:** Gây nghiện\n- **Broaden one's knowledge:** Mở rộng kiến thức\n- **Distraction:** Sự xao nhãng\nTừ nối (Linking words):\n- **To be honest:** Thành thật mà nói\n- **Particularly:** Đặc biệt là\n- **On the other hand:** Mặt khác\n- **As a result:** Kết quả là\n- **Generally speaking:** Nhìn chung\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I find it very useful for...:** Mình thấy nó rất hữu ích cho...\n- **I have to admit that...:** Mình phải thừa nhận rằng...\n- **It makes me feel...:** Nó làm mình cảm thấy...\n\n**4. Các lỗi thường gặp:**\n- Dùng từ quá trang trọng (Formal) như \"Regarding your query\" không phù hợp với bạn bè.\n- Viết quá ngắn, không đạt đủ 120 từ theo yêu cầu.\n- Liệt kê mạng xã hội nhưng quên không giải thích các hiệu ứng (effects) như đề bài yêu cầu.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã có đủ lời chào và lời kết chưa.\n- Rà soát lỗi chính tả của các tên mạng xã hội.\n- Kiểm tra các trạng từ chỉ tần suất đã được đặt đúng vị trí chưa.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang thực sự giúp đỡ một người bạn làm bài tập nghiên cứu để tạo ra nội dung thực tế và gần gũi.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nNowadays, a growing number of people share various aspects of their personal lives, from daily meals to private emotions, on social media platforms.\nWhile some people enjoy this trend as a way to connect, others express concerns about privacy and mental health. What is your opinion about sharing personal life on social media?\nWrite an essay to an educated reader to give your opinion on whether people should share their personal life on social media. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Nowadays, a growing number of people share various aspects of their personal lives, from daily meals to private emotions, on social media platforms.",
+      "While some people enjoy this trend as a way to connect, others express concerns about privacy and mental health.",
+      "What is your opinion about sharing personal life on social media?"
+     ],
+     "instruction": "Write an essay to an educated reader to give your opinion on whether people should share their personal life on social media. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Opinion Essay (Nêu quan điểm cá nhân).\n- Chủ đề: Việc chia sẻ đời tư trên mạng xã hội.\n- Nhiệm vụ: Đưa ra lập trường rõ ràng về việc xu hướng này là tích cực hay tiêu cực và giải thích tại sao.\n- Độ dài: Tối thiểu 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu bối cảnh và nêu rõ quan điểm cá nhân (Thesis Statement). Ví dụ: \"In my view, while sharing on social media has benefits, it poses serious risks to privacy and mental health if not handled carefully.\"\n- **Body 1:** Thảo luận về những mặt tích cực (kết nối xã hội, lưu giữ kỷ niệm). Ví dụ: \"On one hand, posting updates can help individuals maintain relationships with distant friends and family.\"\n- **Body 2:** Phân tích các rủi ro (an ninh mạng, áp lực tâm lý, sự so sánh). Ví dụ: \"On the other hand, oversharing often leads to the erosion of privacy and can cause anxiety due to social comparison.\"\n- **Conclusion:** Khẳng định lại quan điểm và đề xuất cách tiếp cận cân bằng.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các cấu trúc câu bị động để tăng tính khách quan cho bài viết.\n- Dùng các cụm từ chỉ mức độ (highly likely, significantly, marginally) để làm luận điểm thuyết phục hơn.\n- Tránh lặp từ bằng cách sử dụng các từ đồng nghĩa cho \"social media\" và \"share\".\n- Đảm bảo mỗi đoạn văn có một câu chủ đề (Topic sentence) rõ ràng và được phát triển bằng ví dụ cụ thể.\nTừ vựng quan trọng:\n- **Oversharing:** Chia sẻ quá đà\n- **Privacy settings:** Cài đặt quyền riêng tư\n- **Cybersecurity:** An ninh mạng\n- **Mental well-being:** Sức khỏe tinh thần\n- **Digital footprint:** Dấu chân kỹ thuật số\n- **Validation:** Sự công nhận/phê chuẩn từ người khác\nTừ nối (Linking words):\n- **From my perspective:** Theo góc nhìn của tôi\n- **Furthermore:** Hơn nữa\n- **Conversely:** Ngược lại\n- **In contrast:** Đối lập với điều đó\n- **Consequently:** Do đó\n- **In conclusion:** Kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- **Posting private information:** Thay cho \"sharing life\".\n- **Online platforms:** Thay cho \"social media\".\n- **Users:** Thay cho \"people\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is widely argued that...:** Nhiều người tranh luận rằng...\n- **I am convinced that...:** Tôi thuyết phục rằng...\n- **One should strike a balance between...:** Mọi người nên giữ sự cân bằng giữa...\n\n**4. Các lỗi thường gặp:**\n- Không đưa ra quan điểm cá nhân rõ ràng ngay từ phần mở bài.\n- Sử dụng các ví dụ quá chung chung mà không liên kết trực tiếp với luận điểm.\n- Lỗi dùng từ sai ngữ cảnh khi cố gắng sử dụng từ vựng nâng cao.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra sự mạch lạc giữa các đoạn văn thông qua các từ nối.\n- Rà soát lại sự hòa hợp giữa chủ ngữ và động từ (Subject-Verb Agreement).\n- Đảm bảo kết bài không đưa thêm thông tin mới chưa được đề cập ở thân bài.\n\n**6. Tư duy làm bài:**\n- Hãy coi bài viết như một cuộc thảo luận học thuật, nơi bạn cần trình bày các bằng chứng logic để bảo vệ lập trường của mình."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about restaurants\n\n1\nHow often do you go to restaurants to eat?\n2\nWhat is your favorite type of restaurant and why do you like it?\n3\nDo you prefer eating at a restaurant or at home? Why?\n\nNow, let’s talk about holidays\n\n4\nWhat is your favorite holiday of the year?\n5\nWhat do you usually do during your holidays?\n6\nDo you prefer to spend your holidays at home or travel to a new place? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói gồm 6 câu hỏi ngắn trong khoảng 3 phút. Bạn cần trả lời tự nhiên, có giải thích và ví dụ đơn giản.\n- **Topic A (Restaurants):** Câu hỏi 1–3 xoay quanh thói quen đi nhà hàng, loại nhà hàng yêu thích và sở thích ăn ở nhà hay ngoài hàng.\n- **Topic B (Holidays):** Câu hỏi 4–6 tập trung vào ngày nghỉ yêu thích, hoạt động trong kỳ nghỉ và sở thích du lịch.\n- Giám khảo đánh giá độ lưu loát, phát âm, vốn từ và khả năng phát triển ý.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu để đảm bảo cân bằng giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng câu trả lời.\n- **Ví dụ Topic A:** I usually go to restaurants once or twice a week because I enjoy trying different kinds of food with my friends. For example, we often eat Korean barbecue on weekends.\n- **Ví dụ Topic B:** My favorite holiday is Tet because I can spend time with my family and relax after a long period of studying.\n- Hãy luôn tự hỏi Why? hoặc How? để kéo dài ý tự nhiên hơn.\n- Khi chuyển chủ đề, bạn có thể dùng câu như: Besides eating habits, holidays are also an important part of my life.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định và tránh dừng quá lâu để suy nghĩ.\n- Với Topic A, nên dùng hiện tại đơn để mô tả thói quen ăn uống và sở thích cá nhân.\n- Với Topic B, có thể dùng quá khứ đơn hoặc hiện tại đơn khi nói về kỳ nghỉ gần đây hoặc thói quen nghỉ lễ.\n- Nếu quên từ vựng, hãy mô tả bằng câu đơn giản thay vì im lặng.\n- Từ vựng Topic A: dine out (ăn ngoài), local cuisine (ẩm thực địa phương), homemade meals (bữa ăn tự nấu), cozy atmosphere (không gian ấm cúng).\n- Từ vựng Topic B: public holiday (ngày nghỉ lễ), take a short trip (đi du lịch ngắn ngày), relax and recharge (thư giãn và hồi phục năng lượng), sightseeing activities (hoạt động tham quan).\nCụm từ quan trọng nên dùng:\n- enjoy eating out with friends – thích ăn ngoài cùng bạn bè\n- try different kinds of food – thử nhiều loại món ăn khác nhau\n- prefer home-cooked meals – thích đồ ăn nấu ở nhà\n- spend quality time with family – dành thời gian ý nghĩa với gia đình\n- travel to explore new cultures – du lịch để khám phá văn hóa mới\n- take a break from work and study – nghỉ ngơi khỏi công việc và học tập\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Besides that – bên cạnh đó\n- For example – ví dụ\n- However – tuy nhiên\n- As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n- Personally, I prefer eating at home because it is healthier and cheaper. – Cá nhân tôi thích ăn ở nhà vì tốt cho sức khỏe và tiết kiệm hơn.\n- In my opinion, restaurants are great places to meet friends and relax. – Theo tôi, nhà hàng là nơi tuyệt vời để gặp gỡ bạn bè và thư giãn.\n- I would say seafood restaurants are my favorite because I love fresh food. – Tôi cho rằng nhà hàng hải sản là yêu thích nhất vì tôi thích đồ ăn tươi.\n- To be honest, I really enjoy traveling during holidays because it helps me reduce stress. – Thành thật mà nói tôi rất thích du lịch trong kỳ nghỉ vì nó giúp giảm căng thẳng.\n- From my perspective, holidays are important for both physical and mental health. – Theo quan điểm của tôi, kỳ nghỉ quan trọng cho cả sức khỏe thể chất lẫn tinh thần.\n- I believe visiting new places can broaden our knowledge and experience. – Tôi tin rằng khám phá nơi mới có thể mở rộng kiến thức và trải nghiệm.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn chỉ bằng Yes hoặc No mà không có giải thích.\n- Ở Topic A, nhiều bạn chỉ kể tên món ăn hoặc nhà hàng mà không nói lý do thích.\n- Ở Topic B, nhiều bạn lặp từ holiday hoặc travel quá nhiều thay vì paraphrase.\n- Dùng sai thì khi kể về kỳ nghỉ trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu filler như: That is an interesting question, let me think for a moment.\n- Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm của sự vật đó.\n- Ở Topic A, nếu quên tên món ăn, bạn có thể mô tả nguyên liệu hoặc hương vị.\n- Ở Topic B, nếu quên tên địa điểm du lịch, hãy nói about a famous place near the sea hoặc in the mountains.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem Part 1 như một cuộc trò chuyện hằng ngày với giám khảo.\n- Khi chuyển từ chủ đề ăn uống sang kỳ nghỉ, hãy thay đổi ý tưởng rõ ràng để tránh lặp nội dung.\n- Sự tự nhiên và lưu loát quan trọng hơn việc cố sử dụng từ quá học thuật.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour family is planning a vacation together and you are choosing the destination.\n\nYou are considering the following options:\n\nOption 1: Going to the beach\nOption 2: Going to the mountains\nOption 3: Visiting another city\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đề bài yêu cầu bạn lựa chọn điểm đến phù hợp nhất cho kỳ nghỉ gia đình.\n- Bạn cần phân tích cả 3 lựa chọn và đưa ra quyết định cuối cùng kèm lý do rõ ràng.\n- Giám khảo sẽ đánh giá khả năng lập luận, so sánh và phát triển ý logic.\n- Thời gian làm bài khoảng 4 phút nên cần nói đủ ý nhưng không quá dài dòng.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để bài nói mạch lạc.\n- Option 1 có ưu điểm là thư giãn, nhiều hoạt động giải trí và phù hợp cho gia đình.\n- Option 2 mang lại không khí yên bình, khí hậu mát mẻ và phù hợp với người thích thiên nhiên.\n- Option 3 giúp khám phá văn hóa, ẩm thực và nhiều địa điểm mới.\n- Hãy liên hệ với nhu cầu thực tế của gia đình như ngân sách, sức khỏe hoặc sở thích.\n- Dùng từ nối đối lập như however hoặc on the other hand để chuyển ý chuyên nghiệp hơn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ từng option.\n- Dùng hiện tại đơn để nói lợi ích chung và câu điều kiện để nói kết quả của từng lựa chọn.\n- Nếu quên từ vựng, hãy diễn đạt bằng các từ đơn giản như relaxing place hoặc exciting destination.\nCụm từ quan trọng nên dùng:\n- enjoy outdoor activities – tận hưởng hoạt động ngoài trời\n- spend quality time together – dành thời gian chất lượng cùng nhau\n- relax in a peaceful environment – thư giãn trong môi trường yên bình\n- explore local culture and cuisine – khám phá văn hóa và ẩm thực địa phương\n- suitable for all family members – phù hợp với mọi thành viên trong gia đình\n- create unforgettable family memories – tạo ra kỷ niệm gia đình khó quên\nTừ nối khi nói (Linking Words):\n- First of all – trước tiên\n- In addition – thêm vào đó\n- On the other hand – mặt khác\n- As a result – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I personally think going to the beach is the best option because it is relaxing and entertaining. – Cá nhân tôi nghĩ đi biển là lựa chọn tốt nhất vì vừa thư giãn vừa thú vị.\n- Compared to visiting another city, going to the mountains is much quieter. – So với đi thành phố khác, đi núi yên tĩnh hơn nhiều.\n- In my opinion, family vacations should focus on relaxation and spending time together. – Theo tôi, kỳ nghỉ gia đình nên tập trung vào thư giãn và gắn kết.\n\n**4. Các lỗi thường gặp:**\n- Nhiều bạn chỉ tập trung nói ưu điểm của lựa chọn mình thích mà quên phân tích hai lựa chọn còn lại.\n- Lặp từ good hoặc beautiful quá nhiều thay vì dùng relaxing, peaceful hoặc exciting.\n- Kết luận không rõ ràng nên bài nói thiếu tính thuyết phục.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng, hãy chuyển sang nói về thời tiết, chi phí hoặc hoạt động giải trí.\n- Bạn có thể dùng câu: Let's evaluate this option from another point of view để có thêm thời gian suy nghĩ.\n- Nếu bị bí ở một lựa chọn, hãy chuyển sang option tiếp theo rồi quay lại sau.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người lên kế hoạch thực tế cho cả gia đình.\n- Ngay cả với lựa chọn tốt nhất, bạn vẫn nên nhắc đến hạn chế nhỏ để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of studying abroad for students\n\nLearning Abroad\nHave better job opportunities\nDevelop an independent life\nMake international friends\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat are some difficulties that students have to face when studying abroad?\n2\nDo you think students should work part-time while studying in a foreign country?\n3\nIs it necessary to learn the local language before going to study abroad? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn trình bày lợi ích của việc du học đối với sinh viên.\n- Sơ đồ tư duy gồm 3 ý chính: cơ hội việc làm tốt hơn, phát triển tính tự lập và kết bạn quốc tế.\n- Nhánh ý tưởng cá nhân có thể là improving foreign language skills hoặc experiencing different cultures.\n- Giám khảo đánh giá khả năng phát triển ý, sử dụng ví dụ và trả lời follow-up questions.\n- Thời gian khoảng 5 phút nên dành khoảng 3 phút cho bài nói chính và phần còn lại cho hỏi đáp.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/Wrap up để triển khai từng ý trong mindmap.\n- **Ví dụ 1:** Today, I would like to talk about the benefits of studying abroad for students in modern society.\n- **Ví dụ 2:** Another major benefit is improving language skills because students communicate with native speakers every day.\n- Hãy đưa ví dụ thực tế như trải nghiệm của bạn bè hoặc người thân từng du học.\n- Đi theo sơ đồ tư duy để tránh lặp ý và giữ bài nói logic.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng câu chuyển ý như Moving on to another advantage hoặc Another important point is that.\n- Dùng hiện tại đơn để nói lợi ích chung và hiện tại hoàn thành để mô tả thay đổi trong giáo dục quốc tế.\n- Có thể paraphrase studying abroad bằng overseas education hoặc international study experience.\nCụm từ quan trọng nên dùng:\n- gain valuable international experience – có được kinh nghiệm quốc tế quý giá\n- improve communication and language skills – cải thiện kỹ năng giao tiếp và ngôn ngữ\n- become more independent and responsible – trở nên tự lập và có trách nhiệm hơn\n- adapt to different cultures – thích nghi với các nền văn hóa khác nhau\n- build a global network of friends – xây dựng mạng lưới bạn bè quốc tế\n- increase future career opportunities – tăng cơ hội nghề nghiệp tương lai\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- In addition – thêm vào đó\n- For example – ví dụ\n- As a result – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, studying abroad can completely change a student's future. – Theo tôi, du học có thể thay đổi hoàn toàn tương lai của sinh viên.\n- I personally believe overseas education helps students become more mature. – Cá nhân tôi tin rằng du học giúp sinh viên trưởng thành hơn.\n- From my perspective, making international friends is one of the most exciting benefits of studying abroad. – Theo quan điểm của tôi, kết bạn quốc tế là một trong những lợi ích thú vị nhất của du học.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- What difficulties do students face when studying abroad? – They may face language barriers, homesickness and financial pressure.\n- Should students work part-time while studying abroad? – Yes, because part-time jobs help students gain experience and support themselves financially.\n- Is it necessary to learn the local language before studying abroad? – Yes, learning the local language makes communication and daily life much easier.\n\n**5. Các lỗi thường gặp:**\n- Nhiều bạn chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ thực tế.\n- Quên phát triển nhánh ý tưởng cá nhân nên bài nói thiếu chiều sâu.\n- Dành quá nhiều thời gian cho bài nói chính và không còn thời gian trả lời follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với trải nghiệm học ngoại ngữ hoặc cuộc sống sinh viên.\n- Bạn có thể dùng câu: That is a complex issue. If we consider it from an educational perspective để có thêm thời gian suy nghĩ.\n- Nếu quên từ chuyên ngành, hãy dùng cách diễn đạt đơn giản hơn.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ từ góc nhìn của sinh viên hiện đại trong môi trường toàn cầu hóa.\n- Tính logic và liên kết giữa các ý là yếu tố quan trọng để đạt điểm cao.\n- Đừng cố dùng quá nhiều từ khó nếu bạn không chắc về phát âm hoặc cách sử dụng."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about restaurants.\n1.\nHow often do you go to restaurants to eat?\n2.\nWhat is your favorite type of restaurant and why do you like it?\n3.\nDo you prefer eating at a restaurant or at home? Why?\nNow, let’s talk about holidays.\n4.\nWhat is your favorite holiday of the year?\n5.\nWhat do you usually do during your holidays?\n6.\nDo you prefer to spend your holidays at home or travel to a new place? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói gồm 6 câu hỏi ngắn trong khoảng 3 phút. Bạn cần trả lời tự nhiên, có giải thích và ví dụ đơn giản.\n• Topic A (Restaurants): Câu hỏi 1–3 xoay quanh thói quen đi nhà hàng, loại nhà hàng yêu thích và sở thích ăn ở nhà\nhay ngoài hàng.\n• Topic B (Holidays): Câu hỏi 4–6 tập trung vào ngày nghỉ yêu thích, hoạt động trong kỳ nghỉ và sở thích du lịch.\n• Giám khảo đánh giá độ lưu loát, phát âm, vốn từ và khả năng phát triển ý.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu để đảm bảo cân bằng giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng câu trả lời.\n• Ví dụ Topic A: I usually go to restaurants once or twice a week because I enjoy trying different kinds of food with my\nfriends. For example, we often eat Korean barbecue on weekends.\n• Ví dụ Topic B: My favorite holiday is Tet because I can spend time with my family and relax after a long period of\nstudying.\n• Hãy luôn tự hỏi Why? hoặc How? để kéo dài ý tự nhiên hơn.\n• Khi chuyển chủ đề, bạn có thể dùng câu như: Besides eating habits, holidays are also an important part of my life.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định và tránh dừng quá lâu để suy nghĩ.\n• Với Topic A, nên dùng hiện tại đơn để mô tả thói quen ăn uống và sở thích cá nhân.\n• Với Topic B, có thể dùng quá khứ đơn hoặc hiện tại đơn khi nói về kỳ nghỉ gần đây hoặc thói quen nghỉ lễ.\n• Nếu quên từ vựng, hãy mô tả bằng câu đơn giản thay vì im lặng.\n• Từ vựng Topic A: dine out (ăn ngoài), local cuisine (ẩm thực địa phương), homemade meals (bữa ăn tự nấu), cozy\natmosphere (không gian ấm cúng).\n• Từ vựng Topic B: public holiday (ngày nghỉ lễ), take a short trip (đi du lịch ngắn ngày), relax and recharge (thư giãn\nvà hồi phục năng lượng), sightseeing activities (hoạt động tham quan).\nCụm từ quan trọng nên dùng:\n• enjoy eating out with friends – thích ăn ngoài cùng bạn bè\n• try different kinds of food – thử nhiều loại món ăn khác nhau\n• prefer home-cooked meals – thích đồ ăn nấu ở nhà\n• spend quality time with family – dành thời gian ý nghĩa với gia đình\n• travel to explore new cultures – du lịch để khám phá văn hóa mới\n• take a break from work and study – nghỉ ngơi khỏi công việc và học tập\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Besides that – bên cạnh đó\n• For example – ví dụ\n• However – tuy nhiên\n• As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n• Personally, I prefer eating at home because it is healthier and cheaper. – Cá nhân tôi thích ăn ở nhà vì tốt cho sức\nkhỏe và tiết kiệm hơn.\n• In my opinion, restaurants are great places to meet friends and relax. – Theo tôi, nhà hàng là nơi tuyệt vời để gặp gỡ\nbạn bè và thư giãn.\n• I would say seafood restaurants are my favorite because I love fresh food. – Tôi cho rằng nhà hàng hải sản là yêu\nthích nhất vì tôi thích đồ ăn tươi.\n• To be honest, I really enjoy traveling during holidays because it helps me reduce stress. – Thành thật mà nói tôi rất\nthích du lịch trong kỳ nghỉ vì nó giúp giảm căng thẳng.\n• From my perspective, holidays are important for both physical and mental health. – Theo quan điểm của tôi, kỳ nghỉ\nquan trọng cho cả sức khỏe thể chất lẫn tinh thần.\n• I believe visiting new places can broaden our knowledge and experience. – Tôi tin rằng khám phá nơi mới có thể mở\nrộng kiến thức và trải nghiệm.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn chỉ bằng Yes hoặc No mà không có giải thích.\n• Ở Topic A, nhiều bạn chỉ kể tên món ăn hoặc nhà hàng mà không nói lý do thích.\n• Ở Topic B, nhiều bạn lặp từ holiday hoặc travel quá nhiều thay vì paraphrase.\n• Dùng sai thì khi kể về kỳ nghỉ trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu filler như: That is an interesting question, let me think for a moment.\n• Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm của sự vật đó.\n• Ở Topic A, nếu quên tên món ăn, bạn có thể mô tả nguyên liệu hoặc hương vị.\n• Ở Topic B, nếu quên tên địa điểm du lịch, hãy nói about a famous place near the sea hoặc in the mountains.\n6. Tư duy làm bài nói:\n• Hãy xem Part 1 như một cuộc trò chuyện hằng ngày với giám khảo.\n• Khi chuyển từ chủ đề ăn uống sang kỳ nghỉ, hãy thay đổi ý tưởng rõ ràng để tránh lặp nội dung.\n• Sự tự nhiên và lưu loát quan trọng hơn việc cố sử dụng từ quá học thuật.\nSolution Discussion\nPART 2\n4 phút\nYour family is planning a vacation together and you are choosing the destination.\nYou are considering the following options:\n• Option 1: Going to the beach\n• Option 2: Going to the mountains\n• Option 3: Visiting another city\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đề bài yêu cầu bạn lựa chọn điểm đến phù hợp nhất cho kỳ nghỉ gia đình.\n• Bạn cần phân tích cả 3 lựa chọn và đưa ra quyết định cuối cùng kèm lý do rõ ràng.\n• Giám khảo sẽ đánh giá khả năng lập luận, so sánh và phát triển ý logic.\n• Thời gian làm bài khoảng 4 phút nên cần nói đủ ý nhưng không quá dài dòng.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để bài nói mạch lạc.\n• Option 1 có ưu điểm là thư giãn, nhiều hoạt động giải trí và phù hợp cho gia đình.\n• Option 2 mang lại không khí yên bình, khí hậu mát mẻ và phù hợp với người thích thiên nhiên.\n• Option 3 giúp khám phá văn hóa, ẩm thực và nhiều địa điểm mới.\n• Hãy liên hệ với nhu cầu thực tế của gia đình như ngân sách, sức khỏe hoặc sở thích.\n• Dùng từ nối đối lập như however hoặc on the other hand để chuyển ý chuyên nghiệp hơn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ từng option.\n• Dùng hiện tại đơn để nói lợi ích chung và câu điều kiện để nói kết quả của từng lựa chọn.\n• Nếu quên từ vựng, hãy diễn đạt bằng các từ đơn giản như relaxing place hoặc exciting destination.\nCụm từ quan trọng nên dùng:\n• enjoy outdoor activities – tận hưởng hoạt động ngoài trời\n• spend quality time together – dành thời gian chất lượng cùng nhau\n• relax in a peaceful environment – thư giãn trong môi trường yên bình\n• explore local culture and cuisine – khám phá văn hóa và ẩm thực địa phương\n• suitable for all family members – phù hợp với mọi thành viên trong gia đình\n• create unforgettable family memories – tạo ra kỷ niệm gia đình khó quên\nTừ nối khi nói (Linking Words):\n• First of all – trước tiên\n• In addition – thêm vào đó\n• On the other hand – mặt khác\n• As a result – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I personally think going to the beach is the best option because it is relaxing and entertaining. – Cá nhân tôi nghĩ đi\nbiển là lựa chọn tốt nhất vì vừa thư giãn vừa thú vị.\n• Compared to visiting another city, going to the mountains is much quieter. – So với đi thành phố khác, đi núi yên tĩnh\nhơn nhiều.\n• In my opinion, family vacations should focus on relaxation and spending time together. – Theo tôi, kỳ nghỉ gia đình\nnên tập trung vào thư giãn và gắn kết.\n4. Các lỗi thường gặp:\n• Nhiều bạn chỉ tập trung nói ưu điểm của lựa chọn mình thích mà quên phân tích hai lựa chọn còn lại.\n• Lặp từ good hoặc beautiful quá nhiều thay vì dùng relaxing, peaceful hoặc exciting.\n• Kết luận không rõ ràng nên bài nói thiếu tính thuyết phục.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng, hãy chuyển sang nói về thời tiết, chi phí hoặc hoạt động giải trí.\n• Bạn có thể dùng câu: Let's evaluate this option from another point of view để có thêm thời gian suy nghĩ.\n• Nếu bị bí ở một lựa chọn, hãy chuyển sang option tiếp theo rồi quay lại sau.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người lên kế hoạch thực tế cho cả gia đình.\n• Ngay cả với lựa chọn tốt nhất, bạn vẫn nên nhắc đến hạn chế nhỏ để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: The benefits of studying abroad for students\nHave better job opportunities\nDevelop an independent life\nLearning Abroad\nÝ tưởng của bạn\nMake international friends\nFOLLOW-UP QUESTIONS\n1.\nWhat are some difficulties that students have to face when studying abroad?\n2.\nDo you think students should work part-time while studying in a foreign country?\n3.\nIs it necessary to learn the local language before going to study abroad? Why?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn trình bày lợi ích của việc du học đối với sinh viên.\n• Sơ đồ tư duy gồm 3 ý chính: cơ hội việc làm tốt hơn, phát triển tính tự lập và kết bạn quốc tế.\n• Nhánh ý tưởng cá nhân có thể là improving foreign language skills hoặc experiencing different cultures.\n• Giám khảo đánh giá khả năng phát triển ý, sử dụng ví dụ và trả lời follow-up questions.\n• Thời gian khoảng 5 phút nên dành khoảng 3 phút cho bài nói chính và phần còn lại cho hỏi đáp.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/Wrap up để triển khai từng ý trong mindmap.\n• Ví dụ 1: Today, I would like to talk about the benefits of studying abroad for students in modern society.\n• Ví dụ 2: Another major benefit is improving language skills because students communicate with native speakers\nevery day.\n• Hãy đưa ví dụ thực tế như trải nghiệm của bạn bè hoặc người thân từng du học.\n• Đi theo sơ đồ tư duy để tránh lặp ý và giữ bài nói logic.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng câu chuyển ý như Moving on to another advantage hoặc Another important point is that.\n• Dùng hiện tại đơn để nói lợi ích chung và hiện tại hoàn thành để mô tả thay đổi trong giáo dục quốc tế.\n• Có thể paraphrase studying abroad bằng overseas education hoặc international study experience.\nCụm từ quan trọng nên dùng:\n• gain valuable international experience – có được kinh nghiệm quốc tế quý giá\n• improve communication and language skills – cải thiện kỹ năng giao tiếp và ngôn ngữ\n• become more independent and responsible – trở nên tự lập và có trách nhiệm hơn\n• adapt to different cultures – thích nghi với các nền văn hóa khác nhau\n• build a global network of friends – xây dựng mạng lưới bạn bè quốc tế\n• increase future career opportunities – tăng cơ hội nghề nghiệp tương lai\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• In addition – thêm vào đó\n• For example – ví dụ\n• As a result – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, studying abroad can completely change a student's future. – Theo tôi, du học có thể thay đổi hoàn\ntoàn tương lai của sinh viên.\n• I personally believe overseas education helps students become more mature. – Cá nhân tôi tin rằng du học giúp sinh\nviên trưởng thành hơn.\n• From my perspective, making international friends is one of the most exciting benefits of studying abroad. – Theo\nquan điểm của tôi, kết bạn quốc tế là một trong những lợi ích thú vị nhất của du học.\n4. Gợi ý trả lời câu hỏi follow-up:\n• What difficulties do students face when studying abroad? – They may face language barriers, homesickness and\nfinancial pressure.\n• Should students work part-time while studying abroad? – Yes, because part-time jobs help students gain experience\nand support themselves financially.\n• Is it necessary to learn the local language before studying abroad? – Yes, learning the local language makes\ncommunication and daily life much easier.\n5. Các lỗi thường gặp:\n• Nhiều bạn chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ thực tế.\n• Quên phát triển nhánh ý tưởng cá nhân nên bài nói thiếu chiều sâu.\n• Dành quá nhiều thời gian cho bài nói chính và không còn thời gian trả lời follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với trải nghiệm học ngoại ngữ hoặc cuộc sống sinh viên.\n• Bạn có thể dùng câu: That is a complex issue. If we consider it from an educational perspective để có thêm thời gian\nsuy nghĩ.\n• Nếu quên từ chuyên ngành, hãy dùng cách diễn đạt đơn giản hơn.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ từ góc nhìn của sinh viên hiện đại trong môi trường toàn cầu hóa.\n• Tính logic và liên kết giữa các ý là yếu tố quan trọng để đạt điểm cao.\n• Đừng cố dùng quá nhiều từ khó nếu bạn không chắc về phát âm hoặc cách sử dụng."
+}

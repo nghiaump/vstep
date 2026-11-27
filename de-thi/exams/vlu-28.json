@@ -1,0 +1,716 @@
+{
+ "id": "vlu-28",
+ "number": 28,
+ "title": "Đề thi VLU 28",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-28",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "A Visit to a Film Studio",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Last summer, my class took a school trip to a large film studio outside the city. We travelled there by coach early in the morning, and everyone was excited because many of us had never seen how a film is really made. On the coach, our teacher reminded us to ask questions, listen carefully, and stay together in one group. At the gate, a friendly guide called Mr Lee gave us visitor badges and a short map. He told us that the studio makes both films and television programmes.",
+     "Our first stop was the main sound stage, which was an **enormous** building as tall as a block of flats with no windows, so that no outside noise could spoil the recording. Inside, we saw workers building a kitchen, a street, and even a small garden from wood and paint. The guide explained that the sets are often built in only a few days. Some of the walls are so light that one person can move them. A red light above the door shows when filming has started and nobody is allowed to speak.",
+     "Next, we visited the costume department, where hundreds of clothes were hanging on long rails, including dresses from the past, uniforms, and even animal costumes for children's films. A designer showed us a coat that had been worn by an actor in a popular series. She said that costumes must look **realistic**, but they must also be comfortable, because actors wear them for many hours. Every outfit is washed and repaired after each day of filming. We were allowed to try on a hat and a long cloak, and my friends laughed when they saw me.",
+     "In the props room, we saw fake swords, old telephones, and plastic food that looks delicious on screen, although the pizza on the table was made of foam. Some props are very old, but only **those** that are strong enough are used in new scenes. After that, a technician showed us a green screen at the back of a small room. He explained that computers can replace the green colour with any place, such as a beach, a forest, or the moon. Everyone clapped when the teacher appeared on screen standing on the moon.",
+     "At the end of the visit, the guide thanked us for our questions and said that making a film needs hundreds of people working together, not only actors. I learned that directors, camera operators, designers, and builders all play important roles. Before we left, we bought small souvenirs in the studio shop and took a photograph in front of the main gate. I would like to visit again one day and perhaps even work in a studio when I am older. The trip was tiring but fun, and now I watch films in a completely different way."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "A school trip showed students how films are made behind the scenes",
+       "B": "Studio workers earn more money than famous actors in most countries",
+       "C": "Film studios are much too dangerous for school children to visit",
+       "D": "Computers have now replaced all human actors in modern film studios"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why does the sound stage have no windows?",
+      "options": {
+       "A": "To stop visitors from taking photographs of the actors",
+       "B": "Because the builders ran out of money for glass",
+       "C": "To keep outside noise away from the recording",
+       "D": "To make the building look smaller from the street"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"sound stage\" và \"windows\" ở đoạn 2 để thấy lý do xưởng ghi âm không có cửa sổ: để ngăn tiếng ồn bên ngoài làm hỏng quá trình ghi âm (To keep outside noise away from the recording)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"enormous\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "tiny",
+       "B": "huge",
+       "C": "quiet",
+       "D": "empty"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"enormous\" ở đoạn 2 đi kèm với việc mô tả tòa nhà phòng thu cao như một khối căn hộ không cửa sổ, mang nghĩa khổng lồ, rất lớn (huge)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what did the designer say about costumes?",
+      "options": {
+       "A": "They should be bought only from expensive shops",
+       "B": "They are never washed during the filming",
+       "C": "Children's films never use any special clothes",
+       "D": "They must look real and feel comfortable"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"designer\" và \"costumes\" ở đoạn 3 để xác định yêu cầu đối với phục trang: chúng phải trông chân thực và mang lại cảm giác thoải mái cho diễn viên (They must look real and feel comfortable)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"realistic\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "lifelike",
+       "B": "boring",
+       "C": "unusual",
+       "D": "costly"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"realistic\" ở đoạn 3 đi kèm với yêu cầu trang phục trông giống như thật, sống động, tương đương với nghĩa chân thực, giống như đời thực (lifelike)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"those\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Scenes",
+       "B": "Swords",
+       "C": "Props",
+       "D": "Actors"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định số nhiều \"those\" ở đoạn 4. Đọc ngược lại câu ngay trước hoặc câu chứa nó để tìm danh từ số nhiều tương ứng: nói về các đạo cụ cũ (*some props are very old*), nhưng chỉ *những cái* (*those*) đủ chắc chắn mới được sử dụng cho cảnh quay mới. Do đó, \"those\" quy chiếu thẳng đến các đạo cụ (Props)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what can computers do with a green screen?",
+      "options": {
+       "A": "Make actors look much taller than they are",
+       "B": "Record the sound of the actors more clearly",
+       "C": "Print photographs for visitors at the studio shop",
+       "D": "Replace the green colour with any place"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"green screen\" ở đoạn 4 để xác định tính năng của máy tính: thay thế màu xanh lá cây bằng bất kỳ địa điểm nào (Replace the green colour with any place)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned in the props room?",
+      "options": {
+       "A": "Plastic food that looks very good on screen",
+       "B": "Real gold crowns worn by the actors",
+       "C": "Fake swords kept beside all the other tools",
+       "D": "Old telephones that were kept in the room"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các vật dụng trong phòng đạo cụ ở đoạn 4: đồ ăn bằng giả nhựa, kiếm giả và điện thoại cũ. Chi tiết \"vương miện vàng thật do diễn viên đeo\" hoàn toàn không được nhắc đến."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 4 and 5 about making a film?",
+      "options": {
+       "A": "It needs teamwork and many different skills as well as acting",
+       "B": "Only famous actors are important because everyone else just watches",
+       "C": "Computers can make a whole film without needing any people",
+       "D": "Film studios are only built for large groups of tourists"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4 và 5 về việc làm phim (cần sự hợp tác của hàng trăm người, từ đạo diễn, quay phim, nhà thiết kế đến thợ xây dựng chứ không chỉ có diễn viên). Từ đó suy luận ra rằng việc làm phim đòi hỏi sự làm việc nhóm và nhiều kỹ năng khác nhau bên cạnh diễn xuất (It needs teamwork and many different skills as well as acting)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to become famous actors before they leave school",
+       "B": "To compare the prices of tickets at several different film studios",
+       "C": "To describe an interesting school visit to a film studio",
+       "D": "To warn people about the dangers of working with computers Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu chuyến tham quan trường học đến xưởng phim; các đoạn tiếp theo chi tiết hóa các khu vực (phòng thu âm, phòng phục trang, phòng đạo cụ và phông xanh); đoạn cuối rút ra bài học về sự cộng tác trong đoàn làm phim. Do đó, phương án đúng cho câu ý chính phải phản ánh việc chuyến tham quan trường học cho học sinh thấy cách phim được thực hiện phía sau hậu trường, đồng thời mục đích chính của tác giả là mô tả một chuyến thăm trường thú vị đến xưởng phim.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R1Q2**, tìm từ khóa \"sound stage\" và \"windows\" ở đoạn 2 để thấy lý do xưởng ghi âm không có cửa sổ: để ngăn tiếng ồn bên ngoài làm hỏng quá trình ghi âm (To keep outside noise away from the recording).\n  - Với **R1Q4**, định vị từ khóa \"designer\" và \"costumes\" ở đoạn 3 để xác định yêu cầu đối với phục trang: chúng phải trông chân thực và mang lại cảm giác thoải mái cho diễn viên (They must look real and feel comfortable).\n  - Với **R1Q7**, tìm từ khóa \"green screen\" ở đoạn 4 để xác định tính năng của máy tính: thay thế màu xanh lá cây bằng bất kỳ địa điểm nào (Replace the green colour with any place).\n  - Với **R1Q8**, đối soát kỹ các vật dụng trong phòng đạo cụ ở đoạn 4: đồ ăn bằng giả nhựa, kiếm giả và điện thoại cũ. Chi tiết \"vương miện vàng thật do diễn viên đeo\" hoàn toàn không được nhắc đến.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"enormous\"** ở đoạn 2 đi kèm với việc mô tả tòa nhà phòng thu cao như một khối căn hộ không cửa sổ, mang nghĩa khổng lồ, rất lớn (huge).\n  - Với **R1Q5**, từ **\"realistic\"** ở đoạn 3 đi kèm với yêu cầu trang phục trông giống như thật, sống động, tương đương với nghĩa chân thực, giống như đời thực (lifelike).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ chỉ định số nhiều **\"those\"** ở đoạn 4. Đọc ngược lại câu ngay trước hoặc câu chứa nó để tìm danh từ số nhiều tương ứng: nói về các đạo cụ cũ (*some props are very old*), nhưng chỉ *những cái* (*those*) đủ chắc chắn mới được sử dụng cho cảnh quay mới. Do đó, \"those\" quy chiếu thẳng đến các đạo cụ (Props).\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ các đoạn 4 và 5 về việc làm phim (cần sự hợp tác của hàng trăm người, từ đạo diễn, quay phim, nhà thiết kế đến thợ xây dựng chứ không chỉ có diễn viên). Từ đó suy luận ra rằng việc làm phim đòi hỏi sự làm việc nhóm và nhiều kỹ năng khác nhau bên cạnh diễn xuất (It needs teamwork and many different skills as well as acting).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng và quy chiếu đại từ (từ R1Q2 đến R1Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R1Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R1Q1) và Mục đích tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Growth of Online Learning",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Not long ago, studying for a qualification meant attending lectures in a fixed place at a fixed time, but over the past two decades the internet has loosened both constraints. Today, millions of people take courses online, from schoolchildren to retired professionals. This article considers how the sector has grown, what it offers, and where its limits lie. Understanding these trends matters for students, teachers, and employers alike.",
+     "Early efforts were modest: universities posted lecture notes online, and distance-learning providers offered courses by post and email. The turning point came around 2012, when Coursera, edX, and similar platforms began offering free university courses to anyone with a connection, attracting millions of registrations within a few years. Growth accelerated again in 2020, when the pandemic obliged schools and universities to teach remotely, and many institutions have since kept some of those arrangements permanently.",
+     "Flexibility is the most obvious attraction, because learners can study during evenings, commutes, or lunch breaks and revisit recorded explanations as often as they need. Costs are often lower too, since many courses are free or charge modest fees. Moreover, adaptive software can build learning paths **tailored** to each student, offering extra practice where mistakes are frequent and skipping material that has already been mastered. Learners with disabilities or caring duties benefit especially, since they can adapt the pace and format to their circumstances.",
+     "Despite this promise, the evidence on outcomes is mixed, because completion rates for open courses are frequently low, with only a small minority of registered learners finishing. Without fixed timetables or classmates nearby, motivation can fade, and participation often becomes **sporadic**, with long gaps between sessions. Researchers suggest that regular deadlines and small group projects can improve persistence considerably. Teachers who check in personally with students appear to make an even bigger difference.",
+     "Another uncertainty concerns recognition, because employers have traditionally trusted degrees from established universities and are still learning how to judge shorter online certificates. Micro-credentials, which certify a specific skill after only a few weeks of study, are growing in popularity, and several large technology firms now accept them alongside traditional qualifications. Even so, recruiters still value a degree, and many say **it** reduces the risk of a poor hire.",
+     "Access remains deeply unequal, because reliable internet connections, suitable devices, and a quiet place to study are far from universal, even in some wealthy countries. Surveys during the pandemic suggested that poorer pupils fell further behind than wealthier ones. Quality varies widely as well, since a polished video lecture is not necessarily a good lesson, and some low-cost courses simply replicate lectures without interaction or feedback. Concerns about data privacy and online cheating complicate matters further.",
+     "Looking ahead, many experts expect the strongest results from blended models, in which online resources prepare students for discussions, laboratories, and mentoring sessions delivered in person. Artificial intelligence may soon provide instant feedback and personal tutoring at very low cost. Whether that promise benefits everyone, however, will depend on whether governments and institutions close the gaps in access and support. Ultimately, technology will extend good teaching only if it is combined with sound design."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Employers now reject every degree earned inside a classroom",
+       "B": "The pandemic was the only cause of recent growth",
+       "C": "Free courses always produce better results than paid ones",
+       "D": "Online learning has grown fast but still faces real limits"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what happened around 2012?",
+      "options": {
+       "A": "Schools started charging students for every lecture note",
+       "B": "Free university courses became widely available online",
+       "C": "Distance providers stopped sending any courses by post",
+       "D": "Governments required all universities to close their campuses"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"2012\" ở đoạn 2 để thấy sự kiện bước ngoặt: các khóa học đại học miễn phí trở nên phổ biến rộng rãi trực tuyến (Free university courses became widely available online)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"tailored\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "customised",
+       "B": "identical",
+       "C": "restricted",
+       "D": "postponed"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"tailored\" ở đoạn 3 đi kèm với phần mềm thích ứng giúp xây dựng lộ trình học tập được cá nhân hóa, may đo riêng cho từng học sinh, mang nghĩa được tùy chỉnh, cá nhân hóa (customised)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why is online study often cheaper?",
+      "options": {
+       "A": "Teachers accept lower wages whenever lessons are recorded on video",
+       "B": "Governments pay the tuition fees for every online student",
+       "C": "Numerous courses are free or charge only modest fees",
+       "D": "Universities refuse to offer certificates to any paying learners"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"cheaper\" ở đoạn 3 để xác định lý do việc học trực tuyến thường rẻ hơn: nhiều khóa học miễn phí hoặc chỉ tính phí vừa phải (Numerous courses are free or charge only modest fees)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"sporadic\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "continuous",
+       "B": "vigorous",
+       "C": "immediate",
+       "D": "occasional"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"sporadic\" ở đoạn 4 mô tả sự tham gia diễn ra ngắt quãng, thỉnh thoảng mới có các khoảng trống dài giữa các buổi học, tương đương với nghĩa thỉnh thoảng, không thường xuyên (occasional)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"it\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "A degree",
+       "B": "The risk",
+       "C": "A skill",
+       "D": "A firm"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số ít \"it\" ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số ít phù hợp: nói về việc nhà tuyển dụng vẫn coi trọng bằng cấp vì *nó* (*it* - bằng cấp) làm giảm rủi ro khi tuyển dụng nhầm người kém chất lượng. Do đó, \"it\" quy chiếu thẳng đến bằng cấp (A degree)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what did surveys during the pandemic suggest?",
+      "options": {
+       "A": "Wealthy families chose to keep children away from school",
+       "B": "Poorer pupils fell further behind than wealthier ones",
+       "C": "Most pupils learned faster online than they ever had",
+       "D": "Teachers reported that all homework had become far easier"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Suy luận",
+      "explanation": "tìm từ khóa \"pandemic\" ở đoạn 6 để xác định gợi ý từ các cuộc khảo sát: học sinh nghèo bị tụt lại phía sau nhiều hơn học sinh giàu (Poorer pupils fell further behind than wealthier ones)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a problem for online learning?",
+      "options": {
+       "A": "Poor access to reliable internet and basic devices",
+       "B": "Worries about privacy and cheating in online exams",
+       "C": "A shortage of experienced teachers in classrooms",
+       "D": "Courses of varying quality with very little interaction"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các vấn đề của học trực tuyến được liệt kê ở đoạn 6: khả năng truy cập internet kém, lo ngại về quyền riêng tư/gian lận, và chất lượng khóa học khác nhau ít tương tác. Phương án \"tình trạng thiếu giáo viên có kinh nghiệm trong các lớp học truyền thống\" không hề xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about online learning?",
+      "options": {
+       "A": "Its success depends on learner motivation, employer recognition, and fair access",
+       "B": "Employers reject every online certificate because they distrust modern technology",
+       "C": "Wealthy students avoid online courses because quality is always poor",
+       "D": "Low completion rates prove that video lessons never teach anything"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về giáo dục trực tuyến (thành công của nó phụ thuộc vào động lực của người học, sự công nhận của nhà tuyển dụng và khả năng tiếp cận công bằng). Từ đó suy luận ra rằng sự thành công của nó phụ thuộc vào động lực người học, sự công nhận từ nhà tuyển dụng và khả năng tiếp cận công bằng (Its success depends on learner motivation, employer recognition, and fair access). Lời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng và quy chiếu đại từ (từ R2Q2 đến R2Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R2Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R2Q1) và Mục đích tác giả (R2Q10)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade parents to withdraw their children from every traditional school",
+       "B": "To compare the salaries earned by teachers in several different countries",
+       "C": "To advertise one platform that offers cheap courses in software",
+       "D": "To outline the growth, benefits, and limitations of online learning Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự phát triển của giáo dục trực tuyến; đoạn 2 nói về các mốc phát triển và đại dịch; đoạn 3 bàn về sự linh hoạt, chi phí và phần mềm thích ứng; đoạn 4 và 5 đề cập đến tỷ lệ hoàn thành thấp, sự công nhận của nhà tuyển dụng và các chứng chỉ vi mô (micro-credentials); đoạn 6 nêu các vấn đề về bất bình đẳng truy cập và chất lượng; đoạn cuối kết luận về mô hình kết hợp (blended models) và vai trò của trí tuệ nhân tạo. Do đó, phương án đúng cho câu ý chính phải phản ánh việc học trực tuyến đã phát triển nhanh chóng nhưng vẫn đối mặt với những hạn chế thực tế; đồng thời mục đích chính của tác giả là phác thảo sự phát triển, lợi ích và những hạn chế của giáo dục trực tuyến.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R2Q2**, tìm từ khóa \"2012\" ở đoạn 2 để thấy sự kiện bước ngoặt: các khóa học đại học miễn phí trở nên phổ biến rộng rãi trực tuyến (Free university courses became widely available online).\n  - Với **R2Q4**, định vị từ khóa \"cheaper\" ở đoạn 3 để xác định lý do việc học trực tuyến thường rẻ hơn: nhiều khóa học miễn phí hoặc chỉ tính phí vừa phải (Numerous courses are free or charge only modest fees).\n  - Với **R2Q7**, tìm từ khóa \"pandemic\" ở đoạn 6 để xác định gợi ý từ các cuộc khảo sát: học sinh nghèo bị tụt lại phía sau nhiều hơn học sinh giàu (Poorer pupils fell further behind than wealthier ones).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"tailored\"** ở đoạn 3 đi kèm với phần mềm thích ứng giúp xây dựng lộ trình học tập được cá nhân hóa, may đo riêng cho từng học sinh, mang nghĩa được tùy chỉnh, cá nhân hóa (customised).\n  - Với **R2Q5**, từ **\"sporadic\"** ở đoạn 4 mô tả sự tham gia diễn ra ngắt quãng, thỉnh thoảng mới có các khoảng trống dài giữa các buổi học, tương đương với nghĩa thỉnh thoảng, không thường xuyên (occasional).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ nhân xưng số ít **\"it\"** ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số ít phù hợp: nói về việc nhà tuyển dụng vẫn coi trọng bằng cấp vì *nó* (*it* - bằng cấp) làm giảm rủi ro khi tuyển dụng nhầm người kém chất lượng. Do đó, \"it\" quy chiếu thẳng đến bằng cấp (A degree).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối soát kỹ các vấn đề của học trực tuyến được liệt kê ở đoạn 6: khả năng truy cập internet kém, lo ngại về quyền riêng tư/gian lận, và chất lượng khóa học khác nhau ít tương tác. Phương án \"tình trạng thiếu giáo viên có kinh nghiệm trong các lớp học truyền thống\" không hề xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về giáo dục trực tuyến (thành công của nó phụ thuộc vào động lực của người học, sự công nhận của nhà tuyển dụng và khả năng tiếp cận công bằng). Từ đó suy luận ra rằng sự thành công của nó phụ thuộc vào động lực người học, sự công nhận từ nhà tuyển dụng và khả năng tiếp cận công bằng (Its success depends on learner motivation, employer recognition, and fair access). Lời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng và quy chiếu đại từ (từ R2Q2 đến R2Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R2Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R2Q1) và Mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Developing Local Tourism",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "For many regions, tourism is no longer an optional extra but a central pillar of the economy, supporting hotels, transport, restaurants, guides, and countless small traders. Yet rapid growth can damage the very qualities that attract visitors in the first place. Developing local tourism therefore means planning carefully, so that the benefits reach residents rather than distant investors.",
+     "In recent years, many travellers have turned away from standardised package holidays and sought experiences that feel rooted in a particular place, such as cooking classes, farm stays, and guided walks led by residents. Community-based projects respond to this demand by letting residents design and manage the activities themselves. Done well, such projects can strengthen pride in local heritage; done badly, they risk turning traditions into staged performances that **dilute** the culture they claim to celebrate.",
+     "The benefits of tourism are not always shared evenly. **[1]** In large resorts owned by foreign companies, food, furnishings, and even staff are frequently imported, so a considerable share of each guest's spending flows abroad. **[2]** That difference helps explain why many governments now encourage homestays and cooperatives rather than only large hotels. **[3]** Such schemes also keep visitors in direct contact with residents, which many travellers say they value highly. **[4]** Nevertheless, small operators often lack the capital and marketing skills needed to compete with international booking platforms.",
+     "Overcrowding presents a different challenge, because popular destinations can receive far more visitors than their roads, water supplies, and waste systems were designed to handle. Residents of cities such as Venice and Barcelona have protested against rising rents and crowded streets, and several authorities have introduced entry fees, visitor caps, or restrictions on short-term rentals. Smaller destinations can learn from these experiences before similar problems become too severe to manage. Bhutan, for example, has long pursued a high-value, low-volume approach, charging visitors a daily fee that funds local services.",
+     "Successful destinations often build their appeal on what is distinctive, and a village that protects **its** architecture, crafts, and cuisine can charge more than one offering generic comforts. Training is equally important, since guides, cooks, and hosts need language skills and business knowledge. Digital tools help as well, allowing small businesses to take bookings directly rather than paying large commissions to intermediaries. Quality standards, shared across a region, reassure travellers who might otherwise hesitate to book unfamiliar accommodation.",
+     "Sharing income widely demands **equitable** policies, such as requiring hotels to buy local produce, reserving a portion of ticket revenue for community funds, and giving residents a voice in planning decisions. Environmental safeguards matter too, because coastlines, forests, and wildlife are the assets visitors come to see. Protected-area fees, limits on group sizes, and rules on waste disposal can all help, although enforcement is often weak where budgets are small.",
+     "Developing local tourism is therefore less about attracting the largest possible number of visitors than about creating lasting value for the people who live in the destination. The evidence suggests that small, well-managed projects can generate reasonable incomes without destroying local heritage. Whether such success can be repeated widely depends on patient investment, honest planning, and a willingness to listen to residents before building anything."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Foreign-owned resorts are always the best way to help villages",
+       "B": "Visitor numbers should rise every year in popular destinations",
+       "C": "Local tourism can benefit residents if planned carefully and managed fairly",
+       "D": "Traditional culture disappears whenever any tourists visit a community"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what risk can arise when traditions are turned into staged performances?",
+      "options": {
+       "A": "Local culture may lose its real meaning",
+       "B": "Food prices in local markets may double quickly",
+       "C": "Governments would ban all festivals held in villages",
+       "D": "Tourists often prefer places with fewer old traditions"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"staged performances\" ở đoạn 2 để thấy rủi ro khi truyền thống biến thành buổi biểu diễn dàn dựng: văn hóa địa phương có thể đánh mất ý nghĩa thực sự của nó (Local culture may lose its real meaning)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"dilute\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "enhance",
+       "B": "preserve",
+       "C": "reward",
+       "D": "weaken"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"dilute\" ở đoạn 2 đi kèm với việc biến văn hóa thành màn trình diễn dàn dựng làm suy yếu hoặc làm loãng đi giá trị cốt lõi của nền văn hóa đó, mang nghĩa làm suy yếu, làm loãng (weaken)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'This leakage is far smaller at a family-run guesthouse, which buys vegetables from neighbouring farms and employs local guides.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'This leakage is far smaller at a family-run guesthouse, which buys vegetables from neighbouring farms and employs local guides.' Cụm từ \"This leakage\" quy chiếu trực tiếp về hiện tượng dòng tiền chi tiêu của du khách bị chảy ra nước ngoài (flows abroad) được đề cập ngay trước vị trí [2]. Do đó, vị trí [2] là nơi nối kết logic hoàn hảo nhất."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, how have some authorities responded to overcrowding?",
+      "options": {
+       "A": "Councils have closed every museum during the busy summer months",
+       "B": "Several cities built larger airports to welcome more travellers",
+       "C": "They have introduced fees, visitor caps, or rental restrictions",
+       "D": "Authorities paid residents to leave their historic homes"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"overcrowding\" ở đoạn 4 để xác định cách các nhà chức trách ứng phó với tình trạng quá tải: họ đã áp dụng phí vào cửa, giới hạn số lượng khách hoặc hạn chế cho thuê ngắn hạn (They have introduced fees, visitor caps, or rental restrictions)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"its\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Successful destinations",
+       "B": "Generic comforts",
+       "C": "Local cuisine",
+       "D": "A village"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ sở hữu số ít \"its\" ở đoạn 5. Đọc ngược lại câu ngay trước hoặc cùng câu để tìm danh từ số ít phù hợp: nói về việc một ngôi làng (*a village*) bảo vệ kiến trúc, thủ công và ẩm thực của *chính nó* (*its architecture*). Do đó, \"its\" quy chiếu thẳng đến ngôi làng (A village)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"equitable\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "fair",
+       "B": "strict",
+       "C": "costly",
+       "D": "secret"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"equitable\" ở đoạn 6 mô tả các chính sách chia sẻ thu nhập một cách công bằng, hợp lý cho cư dân, tương đương với nghĩa công bằng, hợp lý (fair)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to make tourism more beneficial?",
+      "options": {
+       "A": "Requiring hotels to buy produce from local farmers",
+       "B": "Banning all foreign visitors from protected areas",
+       "C": "Reserving part of ticket revenue for community funds",
+       "D": "Limiting group sizes and setting rules on waste disposal"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các cách làm cho du lịch có lợi hơn được liệt kê ở đoạn 6: yêu cầu khách sạn mua nông sản từ nông dân địa phương, trích một phần doanh thu vé cho quỹ cộng đồng, và giới hạn quy mô nhóm/đặt quy định về xử lý rác thải. Phương án \"cấm tất cả khách nước ngoài đến các khu vực được bảo vệ\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 5, 6, and 7 about local tourism?",
+      "options": {
+       "A": "Digital booking platforms have made every small business wealthy already",
+       "B": "Protected-area fees alone are enough to guarantee permanent success",
+       "C": "Regional quality standards discourage travellers from booking local accommodation",
+       "D": "Lasting benefits require skilled hosts, balanced policies, and careful environmental protection"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5, 6 và 7 về du lịch địa phương (những lợi ích lâu dài đòi hỏi chủ nhà có tay nghề, các chính sách cân bằng và bảo vệ môi trường cẩn thận). Từ đó suy luận ra rằng các lợi ích lâu dài đòi hỏi chủ nhà có kỹ năng, chính sách cân bằng và bảo vệ môi trường cẩn thận (Lasting benefits require skilled hosts, balanced policies, and careful environmental protection)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To examine how tourism can be made to benefit residents",
+       "B": "To persuade governments to ban every form of mass tourism immediately",
+       "C": "To advertise a luxury hotel opened beside a famous beach",
+       "D": "To describe the history of travel since ancient times Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu tầm quan trọng của du lịch địa phương và nhu cầu quy hoạch cẩn thận; đoạn 2 nói về du lịch cộng đồng và rủi ro khi biến truyền thống thành màn trình diễn; đoạn 3 bàn về sự phân bổ lợi ích không đồng đều và dòng tiền chảy ra nước ngoài; đoạn 4 đề cập đến tình trạng quá tải và các biện pháp ứng phó; đoạn 5 nói về yếu tố đặc trưng, đào tạo và công cụ số; đoạn 6 nêu các chính sách công bằng và bảo vệ môi trường; đoạn cuối kết luận rằng du lịch địa phương cần tạo ra giá trị bền vững thay vì chỉ chạy theo số lượng. Do đó, phương án đúng cho câu ý chính phải phản ánh việc du lịch địa phương có thể mang lại lợi ích cho cư dân nếu được lên kế hoạch cẩn thận và quản lý công bằng; đồng thời mục đích chính của tác giả là kiểm tra và xem xét cách làm cho du lịch mang lại lợi ích cho cư dân.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R3Q2**, tìm từ khóa \"staged performances\" ở đoạn 2 để thấy rủi ro khi truyền thống biến thành buổi biểu diễn dàn dựng: văn hóa địa phương có thể đánh mất ý nghĩa thực sự của nó (Local culture may lose its real meaning).\n  - Với **R3Q5**, định vị từ khóa \"overcrowding\" ở đoạn 4 để xác định cách các nhà chức trách ứng phó với tình trạng quá tải: họ đã áp dụng phí vào cửa, giới hạn số lượng khách hoặc hạn chế cho thuê ngắn hạn (They have introduced fees, visitor caps, or rental restrictions).\n  - Với **R3Q8**, đối soát kỹ các cách làm cho du lịch có lợi hơn được liệt kê ở đoạn 6: yêu cầu khách sạn mua nông sản từ nông dân địa phương, trích một phần doanh thu vé cho quỹ cộng đồng, và giới hạn quy mô nhóm/đặt quy định về xử lý rác thải. Phương án \"cấm tất cả khách nước ngoài đến các khu vực được bảo vệ\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"dilute\"** ở đoạn 2 đi kèm với việc biến văn hóa thành màn trình diễn dàn dựng làm suy yếu hoặc làm loãng đi giá trị cốt lõi của nền văn hóa đó, mang nghĩa làm suy yếu, làm loãng (weaken).\n  - Với **R3Q7**, từ **\"equitable\"** ở đoạn 6 mô tả các chính sách chia sẻ thu nhập một cách công bằng, hợp lý cho cư dân, tương đương với nghĩa công bằng, hợp lý (fair).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R3Q4):** Đọc kỹ câu cần chèn: 'This leakage is far smaller at a family-run guesthouse, which buys vegetables from neighbouring farms and employs local guides.' Cụm từ \"This leakage\" quy chiếu trực tiếp về hiện tượng dòng tiền chi tiêu của du khách bị chảy ra nước ngoài (flows abroad) được đề cập ngay trước vị trí **[2]**. Do đó, vị trí **[2]** là nơi nối kết logic hoàn hảo nhất.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ sở hữu số ít **\"its\"** ở đoạn 5. Đọc ngược lại câu ngay trước hoặc cùng câu để tìm danh từ số ít phù hợp: nói về việc một ngôi làng (*a village*) bảo vệ kiến trúc, thủ công và ẩm thực của *chính nó* (*its architecture*). Do đó, \"its\" quy chiếu thẳng đến ngôi làng (A village).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 5, 6 và 7 về du lịch địa phương (những lợi ích lâu dài đòi hỏi chủ nhà có tay nghề, các chính sách cân bằng và bảo vệ môi trường cẩn thận). Từ đó suy luận ra rằng các lợi ích lâu dài đòi hỏi chủ nhà có kỹ năng, chính sách cân bằng và bảo vệ môi trường cẩn thận (Lasting benefits require skilled hosts, balanced policies, and careful environmental protection).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu vào chỗ trống và quy chiếu đại từ (từ R3Q2 đến R3Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R3Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R3Q1) và Mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Environmental Cost of AI Waste",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Public discussion of artificial intelligence usually concentrates on what the technology can do, from drafting essays to diagnosing diseases, and rarely on what it leaves behind once the impressive demonstrations are over. Yet every query answered and every model trained has a material footprint. This article examines the energy, water, hardware, and data that artificial intelligence consumes, and asks how its waste might be reduced.",
+     "Modern AI systems are trained and operated in vast data centres, whose voracious demand for electricity has begun to attract the attention of grid operators and regulators. The International Energy Agency has estimated that data centres accounted for roughly one to two per cent of global electricity consumption in recent years, and it expects that share to rise as AI use expands. Where this electricity comes from matters as much as how much is used. Facilities powered mainly by coal or gas generate far more carbon dioxide than facilities supplied by wind, solar, or hydropower.",
+     "Water is a less visible cost, since many data centres use evaporative cooling, which can consume millions of litres a year at a single large site, often in regions already facing shortages. Researchers have also estimated that training one large model can emit hundreds of tonnes of carbon dioxide. Such figures vary enormously with the hardware, the electricity mix, and the accounting method, so they should be treated as rough guides rather than precise measurements. Moreover, the training stage may be dwarfed by the cumulative energy used when millions of people query a model every day.",
+     "The physical side of artificial intelligence is easy to overlook. **[1]** These chips are replaced after only a few years, because newer generations are far faster and more efficient. **[2]** Discarded units contain valuable metals such as copper, gold, and cobalt, together with hazardous substances that require careful handling. **[3]** Yet equipment of this kind is frequently shipped overseas or stored indefinitely instead of being recycled properly, and the processes involved are rarely documented in public. **[4]** One academic study has projected that generative AI could add millions of tonnes to global electronic waste by 2030, although such projections remain highly uncertain.",
+     "Waste is not confined to hardware, because the digital by-products of AI development are also growing, including abandoned prototypes, duplicated datasets, and countless versions of models that are never released. Each of these must be stored on servers that draw power around the clock. Companies also compete by retraining ever larger models, so a system considered state of the art one year may be quietly retired the next. Critics argue that this rivalry rewards size over usefulness, encouraging resource-intensive projects whose benefits are marginal.",
+     "Fortunately, several remedies are available, beginning with more efficient algorithms and specialised chips that deliver the same results with a fraction of the energy previously required. Procurement rules could favour manufacturers who design durable, repairable products over **those** who depend on rapid replacement. Extending the working life of servers through refurbishment and resale can reduce demand for new equipment, while mandatory reporting of energy, water, and waste data would let the public judge corporate claims. Some firms already publish such figures voluntarily, although their methods vary and comparisons remain difficult.",
+     "The achievements of artificial intelligence can seem **ephemeral-** , appearing and vanishing on a screen in seconds, yet the infrastructure behind them is anything but temporary. Its energy, water, and material demands accumulate quietly, far from the places where the benefits are enjoyed. A responsible approach would therefore measure these costs honestly, design systems to last, and ask in each case whether a model's benefits justify its footprint."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "AI uses so little energy that its footprint is irrelevant",
+       "B": "AI carries environmental costs that better design and transparency could reduce",
+       "C": "Data centres should be banned because they produce only waste",
+       "D": "Water shortages are the single cause of every environmental problem"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, why does the source of a data centre's electricity matter?",
+      "options": {
+       "A": "Renewable energy is always cheaper than electricity from fossil fuels",
+       "B": "Grid operators refuse to connect any new facilities to networks",
+       "C": "Cooler climates make all electricity cost twice as much",
+       "D": "Coal and gas produce far more carbon dioxide"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"electricity\" và \"source\" ở đoạn 2 để thấy lý do nguồn điện quan trọng: than và khí đốt tạo ra lượng carbon dioxide lớn hơn nhiều (Coal and gas produce far more carbon dioxide)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"voracious\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "modest",
+       "B": "declining",
+       "C": "insatiable",
+       "D": "seasonal"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"voracious\" ở đoạn 2 đi kèm với sự thèm khát năng lượng và tài nguyên khổng lồ của các trung tâm dữ liệu, mang nghĩa vô độ, thèm thuồng (insatiable)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'The most conspicuous example is the specialised graphics processor, which is used to train and run large models.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'The most conspicuous example is the specialised graphics processor, which is used to train and run large models.' Câu này nhắc đến bộ xử lý đồ họa chuyên dụng (graphics processor) như một ví dụ điển hình, nối tiếp hoàn hảo ngay sau câu giới thiệu về nhu cầu phần cứng chuyên biệt tại vị trí [1]."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what contributes to digital waste in AI development?",
+      "options": {
+       "A": "Customers who delete unwanted files from their own phones weekly",
+       "B": "Abandoned prototypes and duplicated datasets that remain on servers",
+       "C": "Governments that print too many reports about computing research",
+       "D": "Students using free chatbots to prepare their homework"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"digital waste\" ở đoạn 5 để xác định nguyên nhân gây ra rác thải kỹ thuật số trong phát triển AI: các nguyên mẫu bị bỏ quên và tập dữ liệu trùng lặp nằm lại trên máy chủ (Abandoned prototypes and duplicated datasets that remain on servers)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"those\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Regulators",
+       "B": "Operators",
+       "C": "Manufacturers",
+       "D": "Consumers"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số nhiều \"those\" ở đoạn 6. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về việc khuyến khích các nhà sản xuất (*manufacturers*) thiết kế phần cứng bền bỉ và giúp *họ* (*those* - các nhà sản xuất) tái chế tốt hơn. Do đó, \"those\" quy chiếu thẳng đến các nhà sản xuất (Manufacturers)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"ephemeral\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "fleeting",
+       "B": "permanent",
+       "C": "profitable",
+       "D": "predictable"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ephemeral\" ở đoạn 7 mô tả bản chất ngắn ngủi, mau qua đi của xu hướng công nghệ hoặc các mô hình dùng rồi bỏ, tương đương với nghĩa phù du, ngắn ngủi (fleeting)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a remedy for AI's environmental costs?",
+      "options": {
+       "A": "Procurement rules that favour durable and repairable hardware",
+       "B": "Refurbishing and reselling servers to reduce new demand",
+       "C": "Mandatory reporting of energy, water, and waste figures",
+       "D": "A ban on training every large model"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các giải pháp được liệt kê ở đoạn 6: quy tắc mua sắm ưu tiên phần cứng bền bỉ/dễ sửa chữa, tân trang/bán lại máy chủ, và báo cáo bắt buộc về năng lượng/nước/rác thải. Phương án \"lệnh cấm huấn luyện mọi mô hình lớn\" không hề xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 5, 6, and 7 about AI's environmental impact?",
+      "options": {
+       "A": "Voluntary reports from companies have already solved the whole problem",
+       "B": "Reducing AI's footprint needs better technology, clearer reporting, and greater restraint",
+       "C": "Larger models are always more useful than smaller ones",
+       "D": "Recycling alone will remove every environmental risk from computing"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5, 6 và 7 về tác động môi trường của AI (việc giảm thiểu dấu chân môi trường của AI đòi hỏi công nghệ tốt hơn, báo cáo rõ ràng hơn và sự kiềm chế lớn hơn). Từ đó suy luận ra rằng việc giảm thiểu dấu chân của AI cần công nghệ tốt hơn, báo cáo rõ ràng hơn và sự kiềm chế lớn hơn (Reducing AI's footprint needs better technology, clearer reporting, and greater restraint)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To analyse the environmental costs of AI and possible remedies",
+       "B": "To celebrate recent scientific breakthroughs achieved by large language models worldwide",
+       "C": "To criticise one technology company for building too many offices",
+       "D": "To explain how electronic chips are manufactured in factories"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu về chi phí môi trường của AI; đoạn 2 và 3 bàn về tiêu thụ năng lượng và nước của trung tâm dữ liệu; đoạn 4 nói về phần cứng và hiệu quả tính toán; đoạn 5 đề cập đến chất thải kỹ thuật số và các nguyên mẫu bị bỏ quên; đoạn 6 và 7 nêu các giải pháp khắc phục như minh bạch hóa thông tin, thiết kế phần cứng bền bỉ và sự kiềm chế. Do đó, phương án đúng cho câu ý chính phải phản ánh việc AI đi kèm với các chi phí môi trường mà thiết kế tốt hơn và sự minh bạch có thể làm giảm bớt; đồng thời mục đích chính của tác giả là phân tích các chi phí môi trường của AI và các giải pháp khắc phục.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R4Q2**, tìm từ khóa \"electricity\" và \"source\" ở đoạn 2 để thấy lý do nguồn điện quan trọng: than và khí đốt tạo ra lượng carbon dioxide lớn hơn nhiều (Coal and gas produce far more carbon dioxide).\n  - Với **R4Q5**, định vị từ khóa \"digital waste\" ở đoạn 5 để xác định nguyên nhân gây ra rác thải kỹ thuật số trong phát triển AI: các nguyên mẫu bị bỏ quên và tập dữ liệu trùng lặp nằm lại trên máy chủ (Abandoned prototypes and duplicated datasets that remain on servers).\n  - Với **R4Q8**, đối soát kỹ các giải pháp được liệt kê ở đoạn 6: quy tắc mua sắm ưu tiên phần cứng bền bỉ/dễ sửa chữa, tân trang/bán lại máy chủ, và báo cáo bắt buộc về năng lượng/nước/rác thải. Phương án \"lệnh cấm huấn luyện mọi mô hình lớn\" không hề xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"voracious\"** ở đoạn 2 đi kèm với sự thèm khát năng lượng và tài nguyên khổng lồ của các trung tâm dữ liệu, mang nghĩa vô độ, thèm thuồng (insatiable).\n  - Với **R4Q7**, từ **\"ephemeral\"** ở đoạn 7 mô tả bản chất ngắn ngủi, mau qua đi của xu hướng công nghệ hoặc các mô hình dùng rồi bỏ, tương đương với nghĩa phù du, ngắn ngủi (fleeting).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R4Q4):** Đọc kỹ câu cần chèn: 'The most conspicuous example is the specialised graphics processor, which is used to train and run large models.' Câu này nhắc đến bộ xử lý đồ họa chuyên dụng (graphics processor) như một ví dụ điển hình, nối tiếp hoàn hảo ngay sau câu giới thiệu về nhu cầu phần cứng chuyên biệt tại vị trí **[1]**.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ nhân xưng số nhiều **\"those\"** ở đoạn 6. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về việc khuyến khích các nhà sản xuất (*manufacturers*) thiết kế phần cứng bền bỉ và giúp *họ* (*those* - các nhà sản xuất) tái chế tốt hơn. Do đó, \"those\" quy chiếu thẳng đến các nhà sản xuất (Manufacturers).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 5, 6 và 7 về tác động môi trường của AI (việc giảm thiểu dấu chân môi trường của AI đòi hỏi công nghệ tốt hơn, báo cáo rõ ràng hơn và sự kiềm chế lớn hơn). Từ đó suy luận ra rằng việc giảm thiểu dấu chân của AI cần công nghệ tốt hơn, báo cáo rõ ràng hơn và sự kiềm chế lớn hơn (Reducing AI's footprint needs better technology, clearer reporting, and greater restraint).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu vào chỗ trống và quy chiếu đại từ (từ R4Q2 đến R4Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R4Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R4Q1) và Mục đích tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English teacher, Mrs. Brown. She is planning to give a talk show for students at your school and asked for your opinion and suggestions.\nI am going to organize a talk show for students next month, but I have not decided on the details yet.\n- Suggest a suitable day and time for the talk show.\n- Recommend a topic that would interest students.\n- Explain why students would enjoy and benefit from this event.\nWrite an email responding to Mrs. Brown. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English teacher, Mrs. Brown. She is planning to give a talk show for students at your school and asked for your opinion and suggestions."
+     ],
+     "quote": [
+      "I am going to organize a talk show for students next month, but I have not decided on the details yet.",
+      "- Suggest a suitable day and time for the talk show.",
+      "- Recommend a topic that would interest students.",
+      "- Explain why students would enjoy and benefit from this event."
+     ],
+     "instruction": "Write an email responding to Mrs. Brown. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal/Semi-formal Email** vì người nhận là cô giáo tiếng Anh nên giọng văn cần lịch sự nhưng vẫn tự nhiên.\n- Đề bài yêu cầu bạn trả lời đủ 3 ý chính: đề xuất ngày giờ tổ chức, đề xuất chủ đề talk show và giải thích lý do học sinh sẽ thích chương trình này.\n- Bạn cần viết tối thiểu 120 từ. Nếu viết quá ngắn, bạn sẽ mất điểm Task Fulfillment.\n- Không nên chỉ liệt kê ý. Mỗi ý cần được giải thích hoặc cho ví dụ cụ thể.\n- Cần chú ý dùng giọng điệu tích cực, thân thiện và mang tính gợi ý thay vì ra lệnh.\n- Hãy xác định rõ mục đích của email là đưa ra đề xuất hữu ích cho chương trình talk show.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Mở đầu lịch sự. Ví dụ: Dear Mrs. Brown,\n- **Opening:** Cảm ơn cô giáo vì đã hỏi ý kiến. Ví dụ: Thank you for asking for my suggestions about the talk show.\n- **Body Paragraph 1:** Đề xuất thời gian tổ chức và giải thích lý do. Ví dụ: I think Friday evening would be the best time because students are usually free after school.\n- **Body Paragraph 2:** Đề xuất chủ đề phù hợp với học sinh. Ví dụ: In my opinion, the topic of study skills and career orientation would attract many students.\n- **Body Paragraph 3:** Giải thích lợi ích của talk show. Ví dụ: Students can learn useful skills and feel more motivated after attending the event.\n- **Closing:** Kết thúc lịch sự và thể hiện hy vọng. Ví dụ: I hope my suggestions will be helpful for your program.\n- **Sign-off:** Best regards, hoặc Best wishes,\n- Mỗi đoạn nên dài khoảng 2–4 câu để bài viết cân đối và dễ đọc.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Nên sử dụng thì hiện tại đơn khi nói về thói quen hoặc sự thật chung.\n- Có thể dùng thì tương lai đơn để nói về lợi ích của chương trình. Ví dụ: Students will gain more confidence.\n- Sử dụng các cụm từ đưa ra ý kiến như I think, In my opinion, I would recommend để tăng tính tự nhiên.\n- Tránh lặp lại quá nhiều từ “talk show” hoặc “students”. Hãy thay bằng “event”, “program”, “participants”, “young people”.\n- Dùng câu phức với because, although, so that để tăng điểm Grammar.\n- Luôn liên kết các ý bằng từ nối để bài viết mạch lạc hơn.\nTừ vựng quan trọng:\n- **Educational event:** Sự kiện giáo dục\n- **Career orientation:** Định hướng nghề nghiệp\n- **Public speaking skills:** Kỹ năng nói trước đám đông\n- **Time management:** Quản lý thời gian\n- **Motivational speaker:** Diễn giả truyền cảm hứng\n- **Academic pressure:** Áp lực học tập\n- **Interactive activity:** Hoạt động tương tác\n- **Gain practical experience:** Có được kinh nghiệm thực tế\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Besides:** Bên cạnh đó\n- **Moreover:** Hơn nữa\n- **As a result:** Kết quả là\n- **Therefore:** Vì vậy\n- **For example:** Ví dụ\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am excited about the event:** Tôi rất hào hứng về sự kiện này\n- **I believe students will enjoy it:** Tôi tin học sinh sẽ thích chương trình này\n- **I would be happy to attend:** Tôi sẽ rất vui nếu được tham gia\n- **The talk show sounds interesting:** Buổi talk show nghe rất thú vị\n\n**4. Các lỗi thường gặp:**\n- Không trả lời đủ cả 3 ý trong đề bài.\n- Viết email quá ngắn hoặc không chia đoạn rõ ràng.\n- Dùng văn phong quá thân mật như viết cho bạn bè.\n- Sai thì động từ khi nói về kế hoạch tương lai.\n- Lặp lại từ vựng đơn giản như “good”, “interesting” quá nhiều.\n- Quên lời chào mở đầu hoặc câu kết thúc email.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã trả lời đầy đủ ngày giờ, chủ đề và lợi ích chưa.\n- Đếm nhanh số từ để chắc chắn trên 120 từ.\n- Kiểm tra lỗi chia thì và lỗi chính tả cơ bản.\n- Đảm bảo email có mở bài và kết bài đầy đủ.\n- Kiểm tra các từ nối để bài viết mạch lạc hơn.\n\n**6. Tư duy làm bài:**\n- Hãy coi đây là một email thực tế gửi cho giáo viên nên ưu tiên sự rõ ràng và lịch sự.\n- Không cần dùng từ quá khó, quan trọng là diễn đạt tự nhiên và đúng ngữ pháp.\n- Mỗi ý nên có giải thích ngắn để tăng tính thuyết phục.\n- Hãy tập trung vào việc hoàn thành đúng yêu cầu đề bài trước khi cố gắng viết quá phức tạp.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nNowadays, many students have opportunities to study online at home. However, a large number of students still prefer going to school in person.\nSome people believe that traditional schools provide a better learning environment and more social interaction than online classes.\nExplain why many students prefer going to school rather than studying online.\nWrite an essay to an educated reader to analyze the causes of students preferring traditional schools over online learning and its effects. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Nowadays, many students have opportunities to study online at home. However, a large number of students still prefer going to school in person.",
+      "Some people believe that traditional schools provide a better learning environment and more social interaction than online classes.",
+      "Explain why many students prefer going to school rather than studying online."
+     ],
+     "instruction": "Write an essay to an educated reader to analyze the causes of students preferring traditional schools over online learning and its effects. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Cause–Effect Essay** vì đề yêu cầu giải thích lý do tại sao học sinh thích đến trường hơn học online.\n- Từ khóa quan trọng là “prefer going to school rather than studying online”. Bạn cần tập trung vào nguyên nhân và có thể đề cập tác động tích cực của việc học trực tiếp.\n- Bạn nên đưa ra từ 2–3 lý do chính thay vì liệt kê quá nhiều ý nhỏ.\n- Bài viết cần tối thiểu 250 từ và nên chia thành 4–5 đoạn rõ ràng.\n- Không nên viết lệch sang việc so sánh ưu nhược điểm chung mà quên giải thích nguyên nhân chính.\n- Ví dụ thực tế về học tập, giao tiếp hoặc hoạt động ngoại khóa sẽ giúp bài viết thuyết phục hơn.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu chủ đề và paraphrase đề bài. Ví dụ: Although online learning has become more popular, many students still enjoy attending school in person.\n- **Thesis Statement:** Nêu rõ các lý do chính. Ví dụ: This preference can be explained by better interaction, improved concentration and social development.\n- **Body Paragraph 1:** Giải thích lợi ích của giao tiếp trực tiếp. Ví dụ: Face-to-face communication helps students understand lessons more effectively.\n- **Body Paragraph 2:** Nói về môi trường học tập và khả năng tập trung. Ví dụ: Students are less likely to be distracted when studying in classrooms.\n- **Body Paragraph 3:** Đề cập hoạt động ngoại khóa và phát triển kỹ năng mềm nếu cần.\n- **Conclusion:** Tóm tắt các lý do và khẳng định lại quan điểm. Ví dụ: In conclusion, traditional schools remain more attractive because they support both academic and social growth.\n- Mỗi đoạn thân bài nên có cấu trúc: Topic sentence -> Explanation -> Example -> Mini conclusion.\n- Nên sử dụng ví dụ gần gũi như học nhóm, hoạt động câu lạc bộ hoặc tương tác với giáo viên.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Nên sử dụng thì hiện tại đơn để trình bày các sự thật và quan điểm chung.\n- Sử dụng câu phức với because, since, although, while để tăng điểm ngữ pháp.\n- Mỗi ý chính nên được giải thích và cho ví dụ thay vì chỉ nêu ý ngắn gọn.\n- Tránh lặp lại từ “school” hoặc “online learning” bằng cách paraphrase linh hoạt.\n- Sử dụng cohesive devices để kết nối ý mạch lạc giữa các đoạn.\n- Luôn có thesis statement rõ ràng trong phần mở bài.\nTừ vựng quan trọng:\n- **Face-to-face interaction:** Tương tác trực tiếp\n- **Learning environment:** Môi trường học tập\n- **Social skills:** Kỹ năng xã hội\n- **Academic performance:** Kết quả học tập\n- **Classroom atmosphere:** Không khí lớp học\n- **Extracurricular activities:** Hoạt động ngoại khóa\n- **Peer communication:** Giao tiếp với bạn bè\n- **Self-discipline:** Tính tự giác\nTừ nối (Linking words):\n- **In addition:** Thêm vào đó\n- **Moreover:** Hơn nữa\n- **However:** Tuy nhiên\n- **As a result:** Kết quả là\n- **For example:** Ví dụ\n- **Therefore:** Vì vậy\n- **In conclusion:** Kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- **Traditional classrooms:** Cách diễn đạt khác của “going to school”\n- **Virtual learning:** Cách diễn đạt học trực tuyến\n- **In-person education:** Giáo dục trực tiếp tại trường\n- **Physical school environment:** Môi trường học trực tiếp\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **I believe that direct interaction is essential:** Tôi tin rằng tương tác trực tiếp là cần thiết\n- **Students tend to learn better when:** Học sinh có xu hướng học tốt hơn khi\n- **One major reason is that:** Một lý do chính là\n- **This can lead to better academic results:** Điều này có thể dẫn đến kết quả học tập tốt hơn\n\n**4. Các lỗi thường gặp:**\n- Viết quá chung chung mà không giải thích nguyên nhân cụ thể.\n- Không có ví dụ minh họa cho các luận điểm.\n- Lặp lại cấu trúc câu đơn giản quá nhiều.\n- Viết sai chính tả các từ học thuật như “environment” hoặc “interaction”.\n- Không chia đoạn rõ ràng giữa các ý.\n- Kết luận quá ngắn hoặc chỉ lặp lại nguyên đề.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem bài đã đủ tối thiểu 250 từ chưa.\n- Đảm bảo mỗi đoạn thân bài có topic sentence rõ ràng.\n- Kiểm tra lỗi ngữ pháp cơ bản như chia động từ và mạo từ.\n- Đọc lại để chắc chắn các ý liên kết logic.\n- Kiểm tra xem đã có conclusion đầy đủ hay chưa.\n\n**6. Tư duy làm bài:**\n- Điểm quan trọng nhất là giải thích rõ ràng và logic, không phải dùng từ quá khó.\n- Hãy phát triển sâu 2–3 ý chính thay vì viết quá nhiều ý ngắn.\n- Luôn nghĩ đến trải nghiệm thực tế của học sinh để lấy ví dụ tự nhiên.\n- Sự mạch lạc và hoàn thành đúng yêu cầu đề bài sẽ giúp bạn đạt mức B1–B2 tốt."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about shopping\n\n1\nDo you enjoy going shopping? Why or why not?\n2\nWhere do you usually go shopping?\n3\nWhat should people pay attention to when buying something?\n\nNow, let’s talk about your family\n\n4\nWho are you closest to in your family?\n5\nWhat activities do you usually do with your family?\n6\nHow important is family time to you?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần này của bài thi nói kéo dài khoảng 3 phút với tổng cộng 6 câu hỏi cá nhân quen thuộc trong cuộc sống hằng ngày.\n- **Topic A (Shopping):** Các câu hỏi tập trung vào sở thích mua sắm, địa điểm mua sắm và những điều cần lưu ý khi mua hàng. Giám khảo muốn đánh giá khả năng mô tả thói quen, đưa ra ý kiến cá nhân và giải thích lý do.\n- **Topic B (Family Relationship):** Các câu hỏi xoay quanh người thân thiết nhất trong gia đình và các hoạt động gia đình. Chủ đề này kiểm tra khả năng diễn đạt cảm xúc, kể về trải nghiệm cá nhân và nói tự nhiên.\n- Tiêu chí chấm điểm gồm: độ trôi chảy, vốn từ vựng, ngữ pháp và phát âm.\n- Bạn nên phân bổ khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng giữa Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer (trả lời trực tiếp) -> Reason (giải thích lý do) -> Example (đưa ví dụ).\n- **Ví dụ Topic A:** I really enjoy shopping because it helps me relax after stressful classes. For example, I often go to shopping malls with my friends on weekends.\n- **Ví dụ Topic B:** I am closest to my mother because she always supports me emotionally and gives me useful advice.\n- Luôn tự hỏi “Why?” hoặc “How?” để kéo dài câu trả lời thay vì trả lời quá ngắn.\n- Để chuyển ý tự nhiên, bạn có thể dùng câu như: Speaking of shopping, I think online shopping is becoming more popular nowadays.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và dùng fillers như “Well”, “Actually”, “To be honest” để tránh im lặng quá lâu.\n- Topic shopping thường dùng hiện tại đơn để mô tả thói quen; Topic gia đình có thể dùng hiện tại đơn kết hợp hiện tại hoàn thành để nói về mối quan hệ lâu dài.\n- Nếu quên từ vựng, hãy diễn đạt bằng cách giải thích chức năng hoặc đặc điểm của món đồ.\n- Từ vựng Topic A: bargain hunting (săn đồ giá rẻ), shopping mall (trung tâm thương mại), online purchase (mua hàng trực tuyến), product quality (chất lượng sản phẩm).\n- Từ vựng Topic B: family bonding (gắn kết gia đình), spend quality time (dành thời gian ý nghĩa), supportive person (người luôn hỗ trợ), household activities (hoạt động gia đình).\nCụm từ quan trọng nên dùng:\n- I usually compare prices before buying anything – Tôi thường so sánh giá trước khi mua.\n- Shopping helps me relieve stress – Mua sắm giúp tôi giảm căng thẳng.\n- I pay attention to product quality and price – Tôi chú ý đến chất lượng và giá cả.\n- I am very close to my older sister – Tôi rất thân với chị gái.\n- My family often gathers for dinner – Gia đình tôi thường tụ họp ăn tối.\n- Family support plays an important role in my life – Sự hỗ trợ từ gia đình rất quan trọng với tôi.\nTừ nối khi nói (Linking Words):\n- First of all – trước hết, dùng để mở ý.\n- Besides that – bên cạnh đó, dùng để thêm ý.\n- For example – ví dụ như, dùng để minh họa.\n- However – tuy nhiên, dùng để đối lập.\n- As a result – kết quả là, dùng để nêu kết quả.\nCách thể hiện quan điểm tự nhiên:\n- Personally, I think shopping is enjoyable because I can discover new products – Cá nhân tôi nghĩ mua sắm thú vị vì có thể khám phá sản phẩm mới.\n- From my perspective, buying things carefully can help save money – Theo quan điểm của tôi, mua sắm cẩn thận giúp tiết kiệm tiền.\n- In my opinion, family members should spend more time together – Theo tôi, các thành viên gia đình nên dành nhiều thời gian cho nhau.\n- I believe my mother understands me the most because she always listens to me – Tôi tin mẹ hiểu tôi nhất vì luôn lắng nghe tôi.\n- To be honest, I enjoy family dinners more than going outside – Thành thật mà nói tôi thích ăn tối cùng gia đình hơn đi chơi ngoài.\n- As far as I am concerned, family support is extremely valuable – Theo tôi, sự hỗ trợ của gia đình vô cùng quý giá.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời “Yes” hoặc “No” rồi dừng lại là lỗi nghiêm trọng nhất.\n- Nói quá chung chung về shopping mà không đưa ví dụ cụ thể.\n- Lặp từ “family” quá nhiều thay vì dùng relatives, parents, siblings.\n- Dùng sai thì, đặc biệt khi nói về thói quen và trải nghiệm gia đình.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu: “That is an interesting question, let me think for a second.” để lấy thời gian suy nghĩ.\n- Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm thay vì dừng lại.\n- Ở topic shopping, nếu bí ý hãy nói về giá tiền, chất lượng hoặc trải nghiệm mua sắm online.\n- Ở topic gia đình, nếu không biết nói gì thêm hãy kể về một hoạt động gần đây cả nhà cùng làm.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem đây là một cuộc trò chuyện tự nhiên thay vì một bài diễn văn.\n- Khi chuyển từ Topic A sang Topic B, hãy reset tâm lý để thay đổi giọng điệu tự nhiên hơn.\n- Độ trôi chảy và sự tự nhiên quan trọng hơn việc cố dùng từ quá khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend is going to study in the USA and you want to buy a farewell gift.\n\nYou are considering the following options:\n\nOption 1: Buy a pair of headphones\nOption 2: Buy a picture frame\nOption 3: Buy a watch\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn chọn món quà phù hợp cho người bạn sắp đi du học Mỹ.\n- Ba lựa chọn gồm tai nghe, khung ảnh và đồng hồ — tất cả đều có ưu và nhược điểm riêng.\n- Giám khảo đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định rõ ràng.\n- Thời gian khoảng 4 phút, bạn nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để bài nói rõ ràng hơn.\n- Option 1 có ưu điểm là hữu ích cho việc học tập và giải trí khi đi du học.\n- Option 2 mang ý nghĩa tình cảm và giúp lưu giữ kỷ niệm.\n- Option 3 là món quà sang trọng và có thể sử dụng hằng ngày.\n- Hãy liên hệ với cuộc sống du học sinh để bài nói thực tế hơn.\n- Dùng từ nối đối lập như however, on the other hand để chuyển ý giữa ưu và nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Đừng phân tích từng option tách biệt hoàn toàn; hãy liên kết và so sánh chúng.\n- Dùng hiện tại đơn để nói về đặc điểm món quà và tương lai đơn khi nói về việc sử dụng ở Mỹ.\n- Nếu quên từ chuyên ngành, hãy diễn đạt bằng cách nói về chức năng của món đồ.\nCụm từ quan trọng nên dùng:\n- practical gift – món quà thực tế\n- memorable souvenir – món quà lưu niệm đáng nhớ\n- daily convenience – sự tiện lợi hằng ngày\n- long-lasting value – giá trị lâu dài\n- emotional meaning – ý nghĩa tình cảm\n- study abroad experience – trải nghiệm du học\nTừ nối khi nói (Linking Words):\n- Firstly – đầu tiên\n- In contrast – trái lại\n- Moreover – hơn nữa\n- As a result – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I would personally choose headphones because they are useful for studying and entertainment – Tôi sẽ chọn tai nghe vì chúng hữu ích cho học tập và giải trí.\n- Compared to a picture frame, a watch is more practical for daily use – So với khung ảnh, đồng hồ thực tế hơn trong cuộc sống hằng ngày.\n- In my opinion, a meaningful gift should be both useful and memorable – Theo tôi, món quà ý nghĩa nên vừa hữu ích vừa đáng nhớ.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen option mình chọn mà không phân tích nhược điểm của các lựa chọn khác.\n- Lặp từ “good” hoặc “bad” thay vì dùng practical, meaningful, expensive, useful.\n- Không đưa ra kết luận rõ ràng ở cuối bài.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng, hãy nói về giá cả, tính hữu ích hoặc độ bền của món quà.\n- Bạn có thể dùng câu: “Let's evaluate this option from a different perspective.” để kéo dài thời gian suy nghĩ.\n- Nếu bí ý ở một option, hãy nhanh chóng chuyển sang option khác thay vì im lặng.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người đưa ra quyết định thực tế và cân nhắc cả yếu tố cảm xúc lẫn tính hữu ích.\n- Ngay cả option bạn chọn cũng nên có một nhược điểm nhỏ để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of teamwork in young people's lives\n\nImportance of Teamwork\nBenefits of teamwork in study and work\nSkills developed through teamwork\nProblems people may face in teamwork\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy is teamwork important for students nowadays?\n2\nDo you think schools should organize more group activities?\n3\nWhat can people do to become better team members?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về vai trò của teamwork trong cuộc sống của người trẻ.\n- Ba nhánh chính gồm lợi ích của teamwork, kỹ năng phát triển từ teamwork và các vấn đề khi làm việc nhóm.\n- Nhánh thứ tư là ý tưởng cá nhân, bạn có thể nói về teamwork trong môi trường làm việc tương lai.\n- Tiêu chí chấm điểm gồm độ logic, khả năng phát triển ý, vốn từ và độ trôi chảy.\n- Thời gian khoảng 5 phút; nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/wrap up.\n- **Ví dụ 1:** Today, I would like to talk about why teamwork plays an important role in young people's lives.\n- **Ví dụ 2:** From my own experience, teamwork has helped me become more confident and responsible.\n- Ở mỗi nhánh ý, hãy giải thích ngắn gọn rồi đưa ví dụ thực tế từ trường học hoặc công việc bán thời gian.\n- Luôn đi theo mindmap để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng từ nối mượt mà khi chuyển giữa các nhánh của mindmap.\n- Dùng hiện tại đơn cho sự thật chung và hiện tại hoàn thành khi nói về kinh nghiệm tích lũy.\n- Có thể paraphrase teamwork bằng cooperation, collaboration hoặc working together.\nCụm từ quan trọng nên dùng:\n- team collaboration – sự hợp tác nhóm\n- problem-solving skills – kỹ năng giải quyết vấn đề\n- share responsibilities – chia sẻ trách nhiệm\n- effective communication – giao tiếp hiệu quả\n- work toward a common goal – làm việc hướng tới mục tiêu chung\n- build strong relationships – xây dựng mối quan hệ bền vững\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- In addition – thêm vào đó\n- For instance – ví dụ như\n- On the other hand – mặt khác\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, teamwork is essential because people rarely work alone nowadays – Theo tôi teamwork rất quan trọng vì ngày nay hiếm ai làm việc một mình.\n- I strongly believe teamwork improves communication skills – Tôi tin teamwork cải thiện kỹ năng giao tiếp.\n- From my perspective, schools should encourage more group projects – Theo quan điểm của tôi trường học nên có nhiều dự án nhóm hơn.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- Why is teamwork important for students nowadays? – Because most academic and workplace tasks require cooperation and communication.\n- Do you think schools should organize more group activities? – Yes, because students can learn leadership and responsibility through teamwork.\n- What can people do to become better team members? – They should listen actively, respect others' opinions and complete tasks on time.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích của teamwork mà không giải thích hoặc đưa ví dụ.\n- Quên phát triển nhánh ý cá nhân trong mindmap.\n- Nói quá dài ở bài chính khiến không còn thời gian cho phần follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ đến trải nghiệm học nhóm hoặc hoạt động câu lạc bộ.\n- Bạn có thể dùng câu: “That is a complex issue. If we evaluate it from a societal viewpoint...” để kéo dài thời gian suy nghĩ.\n- Nếu quên từ chuyên môn, hãy dùng mô tả đơn giản thay thế.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn teamwork từ góc độ nhà tuyển dụng và xã hội hiện đại.\n- Sự logic và liên kết ý tưởng quan trọng hơn việc dùng từ quá khó.\n- Hãy nói tự nhiên như đang chia sẻ quan điểm cá nhân thay vì đọc thuộc lòng."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about shopping.\n1.\nDo you enjoy going shopping? Why or why not?\n2.\nWhere do you usually go shopping?\n3.\nWhat should people pay attention to when buying something?\nNow, let’s talk about your family.\n4.\nWho are you closest to in your family?\n5.\nWhat activities do you usually do with your family?\n6.\nHow important is family time to you?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần này của bài thi nói kéo dài khoảng 3 phút với tổng cộng 6 câu hỏi cá nhân quen thuộc trong cuộc sống hằng\nngày.\n• Topic A (Shopping): Các câu hỏi tập trung vào sở thích mua sắm, địa điểm mua sắm và những điều cần lưu ý khi\nmua hàng. Giám khảo muốn đánh giá khả năng mô tả thói quen, đưa ra ý kiến cá nhân và giải thích lý do.\n• Topic B (Family Relationship): Các câu hỏi xoay quanh người thân thiết nhất trong gia đình và các hoạt động gia đình.\nChủ đề này kiểm tra khả năng diễn đạt cảm xúc, kể về trải nghiệm cá nhân và nói tự nhiên.\n• Tiêu chí chấm điểm gồm: độ trôi chảy, vốn từ vựng, ngữ pháp và phát âm.\n• Bạn nên phân bổ khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng giữa Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer (trả lời trực tiếp) -> Reason (giải thích lý do) -> Example (đưa ví dụ).\n• Ví dụ Topic A: I really enjoy shopping because it helps me relax after stressful classes. For example, I often go to\nshopping malls with my friends on weekends.\n• Ví dụ Topic B: I am closest to my mother because she always supports me emotionally and gives me useful advice.\n• Luôn tự hỏi “Why?” hoặc “How?” để kéo dài câu trả lời thay vì trả lời quá ngắn.\n• Để chuyển ý tự nhiên, bạn có thể dùng câu như: Speaking of shopping, I think online shopping is becoming more\npopular nowadays.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và dùng fillers như “Well”, “Actually”, “To be honest” để tránh im lặng quá lâu.\n• Topic shopping thường dùng hiện tại đơn để mô tả thói quen; Topic gia đình có thể dùng hiện tại đơn kết hợp hiện tại\nhoàn thành để nói về mối quan hệ lâu dài.\n• Nếu quên từ vựng, hãy diễn đạt bằng cách giải thích chức năng hoặc đặc điểm của món đồ.\n• Từ vựng Topic A: bargain hunting (săn đồ giá rẻ), shopping mall (trung tâm thương mại), online purchase (mua hàng\ntrực tuyến), product quality (chất lượng sản phẩm).\n• Từ vựng Topic B: family bonding (gắn kết gia đình), spend quality time (dành thời gian ý nghĩa), supportive person\n(người luôn hỗ trợ), household activities (hoạt động gia đình).\nCụm từ quan trọng nên dùng:\n• I usually compare prices before buying anything – Tôi thường so sánh giá trước khi mua.\n• Shopping helps me relieve stress – Mua sắm giúp tôi giảm căng thẳng.\n• I pay attention to product quality and price – Tôi chú ý đến chất lượng và giá cả.\n• I am very close to my older sister – Tôi rất thân với chị gái.\n• My family often gathers for dinner – Gia đình tôi thường tụ họp ăn tối.\n• Family support plays an important role in my life – Sự hỗ trợ từ gia đình rất quan trọng với tôi.\nTừ nối khi nói (Linking Words):\n• First of all – trước hết, dùng để mở ý.\n• Besides that – bên cạnh đó, dùng để thêm ý.\n• For example – ví dụ như, dùng để minh họa.\n• However – tuy nhiên, dùng để đối lập.\n• As a result – kết quả là, dùng để nêu kết quả.\nCách thể hiện quan điểm tự nhiên:\n• Personally, I think shopping is enjoyable because I can discover new products – Cá nhân tôi nghĩ mua sắm thú vị vì\ncó thể khám phá sản phẩm mới.\n• From my perspective, buying things carefully can help save money – Theo quan điểm của tôi, mua sắm cẩn thận giúp\ntiết kiệm tiền.\n• In my opinion, family members should spend more time together – Theo tôi, các thành viên gia đình nên dành nhiều\nthời gian cho nhau.\n• I believe my mother understands me the most because she always listens to me – Tôi tin mẹ hiểu tôi nhất vì luôn\nlắng nghe tôi.\n• To be honest, I enjoy family dinners more than going outside – Thành thật mà nói tôi thích ăn tối cùng gia đình hơn\nđi chơi ngoài.\n• As far as I am concerned, family support is extremely valuable – Theo tôi, sự hỗ trợ của gia đình vô cùng quý giá.\n4. Các lỗi thường gặp:\n• Chỉ trả lời “Yes” hoặc “No” rồi dừng lại là lỗi nghiêm trọng nhất.\n• Nói quá chung chung về shopping mà không đưa ví dụ cụ thể.\n• Lặp từ “family” quá nhiều thay vì dùng relatives, parents, siblings.\n• Dùng sai thì, đặc biệt khi nói về thói quen và trải nghiệm gia đình.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu: “That is an interesting question, let me think for a second.” để lấy thời gian suy nghĩ.\n• Nếu quên từ, hãy mô tả chức năng hoặc đặc điểm thay vì dừng lại.\n• Ở topic shopping, nếu bí ý hãy nói về giá tiền, chất lượng hoặc trải nghiệm mua sắm online.\n• Ở topic gia đình, nếu không biết nói gì thêm hãy kể về một hoạt động gần đây cả nhà cùng làm.\n6. Tư duy làm bài nói:\n• Hãy xem đây là một cuộc trò chuyện tự nhiên thay vì một bài diễn văn.\n• Khi chuyển từ Topic A sang Topic B, hãy reset tâm lý để thay đổi giọng điệu tự nhiên hơn.\n• Độ trôi chảy và sự tự nhiên quan trọng hơn việc cố dùng từ quá khó.\nSolution Discussion\nPART 2\n4 phút\nYour friend is going to study in the USA and you want to buy a farewell gift.\nYou are considering the following options:\n• Option 1: Buy a pair of headphones\n• Option 2: Buy a picture frame\n• Option 3: Buy a watch\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn chọn món quà phù hợp cho người bạn sắp đi du học Mỹ.\n• Ba lựa chọn gồm tai nghe, khung ảnh và đồng hồ — tất cả đều có ưu và nhược điểm riêng.\n• Giám khảo đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định rõ ràng.\n• Thời gian khoảng 4 phút, bạn nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để bài nói rõ ràng hơn.\n• Option 1 có ưu điểm là hữu ích cho việc học tập và giải trí khi đi du học.\n• Option 2 mang ý nghĩa tình cảm và giúp lưu giữ kỷ niệm.\n• Option 3 là món quà sang trọng và có thể sử dụng hằng ngày.\n• Hãy liên hệ với cuộc sống du học sinh để bài nói thực tế hơn.\n• Dùng từ nối đối lập như however, on the other hand để chuyển ý giữa ưu và nhược điểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Đừng phân tích từng option tách biệt hoàn toàn; hãy liên kết và so sánh chúng.\n• Dùng hiện tại đơn để nói về đặc điểm món quà và tương lai đơn khi nói về việc sử dụng ở Mỹ.\n• Nếu quên từ chuyên ngành, hãy diễn đạt bằng cách nói về chức năng của món đồ.\nCụm từ quan trọng nên dùng:\n• practical gift – món quà thực tế\n• memorable souvenir – món quà lưu niệm đáng nhớ\n• daily convenience – sự tiện lợi hằng ngày\n• long-lasting value – giá trị lâu dài\n• emotional meaning – ý nghĩa tình cảm\n• study abroad experience – trải nghiệm du học\nTừ nối khi nói (Linking Words):\n• Firstly – đầu tiên\n• In contrast – trái lại\n• Moreover – hơn nữa\n• As a result – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I would personally choose headphones because they are useful for studying and entertainment – Tôi sẽ chọn tai\nnghe vì chúng hữu ích cho học tập và giải trí.\n• Compared to a picture frame, a watch is more practical for daily use – So với khung ảnh, đồng hồ thực tế hơn trong\ncuộc sống hằng ngày.\n• In my opinion, a meaningful gift should be both useful and memorable – Theo tôi, món quà ý nghĩa nên vừa hữu ích\nvừa đáng nhớ.\n4. Các lỗi thường gặp:\n• Chỉ khen option mình chọn mà không phân tích nhược điểm của các lựa chọn khác.\n• Lặp từ “good” hoặc “bad” thay vì dùng practical, meaningful, expensive, useful.\n• Không đưa ra kết luận rõ ràng ở cuối bài.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng, hãy nói về giá cả, tính hữu ích hoặc độ bền của món quà.\n• Bạn có thể dùng câu: “Let's evaluate this option from a different perspective.” để kéo dài thời gian suy nghĩ.\n• Nếu bí ý ở một option, hãy nhanh chóng chuyển sang option khác thay vì im lặng.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người đưa ra quyết định thực tế và cân nhắc cả yếu tố cảm xúc lẫn tính hữu ích.\n• Ngay cả option bạn chọn cũng nên có một nhược điểm nhỏ để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: The importance of teamwork in young people's lives\nBenefits of teamwork in study and work\nSkills developed through teamwork\nImportance of Teamwork\nÝ tưởng của bạn\nProblems people may face in teamwork\nFOLLOW-UP QUESTIONS\n1.\nWhy is teamwork important for students nowadays?\n2.\nDo you think schools should organize more group activities?\n3.\nWhat can people do to become better team members?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về vai trò của teamwork trong cuộc sống của người trẻ.\n• Ba nhánh chính gồm lợi ích của teamwork, kỹ năng phát triển từ teamwork và các vấn đề khi làm việc nhóm.\n• Nhánh thứ tư là ý tưởng cá nhân, bạn có thể nói về teamwork trong môi trường làm việc tương lai.\n• Tiêu chí chấm điểm gồm độ logic, khả năng phát triển ý, vốn từ và độ trôi chảy.\n• Thời gian khoảng 5 phút; nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/wrap up.\n• Ví dụ 1: Today, I would like to talk about why teamwork plays an important role in young people's lives.\n• Ví dụ 2: From my own experience, teamwork has helped me become more confident and responsible.\n• Ở mỗi nhánh ý, hãy giải thích ngắn gọn rồi đưa ví dụ thực tế từ trường học hoặc công việc bán thời gian.\n• Luôn đi theo mindmap để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng từ nối mượt mà khi chuyển giữa các nhánh của mindmap.\n• Dùng hiện tại đơn cho sự thật chung và hiện tại hoàn thành khi nói về kinh nghiệm tích lũy.\n• Có thể paraphrase teamwork bằng cooperation, collaboration hoặc working together.\nCụm từ quan trọng nên dùng:\n• team collaboration – sự hợp tác nhóm\n• problem-solving skills – kỹ năng giải quyết vấn đề\n• share responsibilities – chia sẻ trách nhiệm\n• effective communication – giao tiếp hiệu quả\n• work toward a common goal – làm việc hướng tới mục tiêu chung\n• build strong relationships – xây dựng mối quan hệ bền vững\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• In addition – thêm vào đó\n• For instance – ví dụ như\n• On the other hand – mặt khác\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, teamwork is essential because people rarely work alone nowadays – Theo tôi teamwork rất quan trọng\nvì ngày nay hiếm ai làm việc một mình.\n• I strongly believe teamwork improves communication skills – Tôi tin teamwork cải thiện kỹ năng giao tiếp.\n• From my perspective, schools should encourage more group projects – Theo quan điểm của tôi trường học nên có\nnhiều dự án nhóm hơn.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Why is teamwork important for students nowadays? – Because most academic and workplace tasks require\ncooperation and communication.\n• Do you think schools should organize more group activities? – Yes, because students can learn leadership and\nresponsibility through teamwork.\n• What can people do to become better team members? – They should listen actively, respect others' opinions and\ncomplete tasks on time.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích của teamwork mà không giải thích hoặc đưa ví dụ.\n• Quên phát triển nhánh ý cá nhân trong mindmap.\n• Nói quá dài ở bài chính khiến không còn thời gian cho phần follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ đến trải nghiệm học nhóm hoặc hoạt động câu lạc bộ.\n• Bạn có thể dùng câu: “That is a complex issue. If we evaluate it from a societal viewpoint...” để kéo dài thời gian suy\nnghĩ.\n• Nếu quên từ chuyên môn, hãy dùng mô tả đơn giản thay thế.\n7. Tư duy làm bài nói:\n• Hãy nhìn teamwork từ góc độ nhà tuyển dụng và xã hội hiện đại.\n• Sự logic và liên kết ý tưởng quan trọng hơn việc dùng từ quá khó.\n• Hãy nói tự nhiên như đang chia sẻ quan điểm cá nhân thay vì đọc thuộc lòng."
+}

@@ -1,0 +1,717 @@
+{
+ "id": "vlu-5",
+ "number": 5,
+ "title": "Đề thi VLU 5",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-5",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Impact of Light Pollution",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Light pollution is the excessive or poorly directed use of artificial light at night. It is most obvious in large cities, where street lamps, advertising signs, car headlights, and lighted office windows create a permanent glow that can be seen from many kilometres away. For people who live there, a truly dark night sky has become a rare sight. A few generations ago, almost everyone could look up and see thousands of stars, but today many children have never seen the Milky Way. Scientists therefore describe light pollution as a growing environmental problem that is easy to overlook.",
+     "Artificial light does not only affect people; it also **disrupts** the lives of many animals, because wildlife has adapted over millions of years to the natural rhythm of day and night. Baby sea turtles, for example, normally crawl towards the bright horizon over the ocean. Near coastal towns, however, **they** are often attracted by hotel lights and move in the wrong direction, away from the water. Migrating birds can also become confused by tall lighted buildings, and many may collide with windows during a single night.",
+     "Too much artificial light at night can also have a negative effect on human health. Our bodies produce a hormone called melatonin, which helps us to fall asleep, but bright light in the evening, especially from phones and screens, can reduce its production and make it harder to rest. Doctors say that people who sleep badly for a long time may feel tired, lose concentration, and have a higher chance of becoming ill. Good sleep is **essential** for both children and adults. In addition, astronomers complain that city lights make it difficult to study distant stars and planets.",
+     "Light pollution also wastes a great deal of energy and money, because much of the light from badly designed lamps shines upwards or sideways instead of onto the ground where it is needed. Some experts estimate that millions of pounds are lost every year in this way. Fortunately, there are several simple solutions, such as using shields that direct light downwards, choosing warmer and dimmer bulbs, and switching off lights that are not needed. Motion sensors and timers can also reduce the amount of light used in car parks and public buildings after midnight.",
+     "Several cities around the world have already taken action, introducing rules that limit outdoor lighting, and some regions have created dark sky reserves where visitors can enjoy the stars without interference. Ordinary citizens can also help by choosing sensible lighting for their own homes and gardens. In conclusion, light pollution may seem harmless, but it affects wildlife, health, and the environment, and reducing it would save money as well as protect the beauty of the night sky. A little darkness, it turns out, is something that every living thing needs."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "How astronomers build powerful new telescopes in remote deserts",
+       "B": "The causes and effects of too much artificial light",
+       "C": "Why street lamps were invented in large European cities",
+       "D": "The best ways to help baby animals find enough food"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, where is light pollution most obvious?",
+      "options": {
+       "A": "In small villages located far from main roads",
+       "B": "On quiet islands where very few people live",
+       "C": "Near busy airports where planes land at night",
+       "D": "In large cities with many lamps and signs"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"most obvious\" ở đoạn 1 để thấy hiện tượng này hiển hiện rõ nhất ở các thành phố lớn (large cities) với đèn đường, biển quảng cáo và cửa sổ sáng rực."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"disrupts\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "disturbs",
+       "B": "supports",
+       "C": "protects",
+       "D": "teaches"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"disrupts\" dùng trong bối cảnh ánh sáng nhân tạo phá vỡ nhịp điệu tự nhiên hằng triệu năm của động vật hoang dã, mang nghĩa gây xáo trộn, quấy rầy (disturbs)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, why do baby sea turtles move the wrong way near towns?",
+      "options": {
+       "A": "Loud music from beach bars scares them",
+       "B": "Strong winds push them towards the land",
+       "C": "They are attracted by bright hotel lights",
+       "D": "The ocean has become too warm for them"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 5,
+      "stem": "The word \"essential\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "optional",
+       "B": "unusual",
+       "C": "expensive",
+       "D": "necessary"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"essential\" đứng trong cấu trúc nói về tầm quan trọng của giấc ngủ tốt đối với cả trẻ em và người lớn, đồng nghĩa với việc cực kỳ cần thiết (necessary)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"they\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "Hotel guests",
+       "B": "Baby sea turtles",
+       "C": "Coastal towns",
+       "D": "Migrating birds"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xem xét đại từ \"they\" ở câu thứ hai của đoạn 2. Câu trước nhắc đến \"Baby sea turtles\" (những chú rùa biển con) thường bò về phía chân trời sáng trên đại dương, do đó \"they\" quy chiếu trực tiếp về các chú rùa biển con này."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, how does light pollution waste energy?",
+      "options": {
+       "A": "Light from badly designed lamps shines upwards or sideways",
+       "B": "Warm bulbs use more electricity than white bulbs",
+       "C": "Shops keep every window lit during the whole winter",
+       "D": "Public buildings pay extra taxes for night lighting"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 với từ khóa \"waste energy\" để thấy nguyên nhân đến từ việc đèn thiết kế kém chất lượng chiếu ngược lên trên hoặc sang hai bên thay vì xuống mặt đất."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a solution?",
+      "options": {
+       "A": "Using shields that direct light downwards",
+       "B": "Choosing warmer and dimmer light bulbs",
+       "C": "Painting street lamps with bright colours",
+       "D": "Installing motion sensors in public car parks"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu các giải pháp được liệt kê ở đoạn 4 bao gồm: dùng tấm chắn hướng ánh sáng xuống dưới, chọn bóng đèn ấm và mờ hơn, dùng cảm biến chuyển động và hẹn giờ. Giải pháp \"sơn đèn đường bằng màu sáng rực rỡ\" không hề xuất hiện và hoàn toàn trái ngược với thực tế bài đọc."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from the passage about light pollution?",
+      "options": {
+       "A": "Animals living near oceans are the only victims",
+       "B": "Simple changes could reduce it and save money",
+       "C": "Natural darkness will return within a few years",
+       "D": "Modern cities cannot solve the problem in any way"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ phần giải pháp và kết luận của bài (đoạn 4 và đoạn 5) khi tác giả chỉ ra các bước đơn giản như dùng tấm chắn, bóng đèn phù hợp hoặc tắt đèn không cần thiết sẽ giúp tiết kiệm tiền và giảm thiểu ô nhiễm. Từ đó suy luận ra rằng những thay đổi nhỏ, đơn giản hoàn toàn có thể giúp cắt giảm ô nhiễm và tiết kiệm chi phí."
+     },
+     {
+      "number": 10,
+      "stem": "Why did the writer write this passage?",
+      "options": {
+       "A": "To explain how artificial light harms people and nature",
+       "B": "To advertise new street lamps for city councils",
+       "C": "To describe a holiday at a famous observatory",
+       "D": "To prove that stars are disappearing from space Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề các đoạn để nắm bắt nội dung tổng thể: định nghĩa light pollution ở đoạn 1, tác động đến động vật ở đoạn 2, ảnh hưởng sức khỏe con người và thiên văn học ở đoạn 3, sự lãng phí năng lượng cùng các giải pháp ở đoạn 4, và kết luận tổng hợp ở đoạn cuối. Do đó, bài viết tập trung phân tích nguyên nhân - hệ quả của ô nhiễm ánh sáng và giải thích cách nó ảnh hưởng tiêu cực đến con người lẫn tự nhiên, chứ không bàn về xây kính thiên văn hay quảng cáo đèn đường.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q2**, tìm từ khóa \"most obvious\" ở đoạn 1 để thấy hiện tượng này hiển hiện rõ nhất ở các thành phố lớn (large cities) với đèn đường, biển quảng cáo và cửa sổ sáng rực.\n  - With **R1Q4**, quét từ khóa \"baby sea turtles\" ở đoạn 2 để xác định nguyên nhân chúng di chuyển sai hướng là do bị thu hút bởi ánh đèn khách sạn (hotel lights) thay vì hướng ra biển.\n  - Với **R1Q7**, quét đoạn 4 với từ khóa \"waste energy\" để thấy nguyên nhân đến từ việc đèn thiết kế kém chất lượng chiếu ngược lên trên hoặc sang hai bên thay vì xuống mặt đất.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"disrupts\"** dùng trong bối cảnh ánh sáng nhân tạo phá vỡ nhịp điệu tự nhiên hằng triệu năm của động vật hoang dã, mang nghĩa gây xáo trộn, quấy rầy (disturbs).\n  - Với **R1Q5**, từ **\"essential\"** đứng trong cấu trúc nói về tầm quan trọng của giấc ngủ tốt đối với cả trẻ em và người lớn, đồng nghĩa với việc cực kỳ cần thiết (necessary).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Xem xét đại từ **\"they\"** ở câu thứ hai của đoạn 2. Câu trước nhắc đến \"Baby sea turtles\" (những chú rùa biển con) thường bò về phía chân trời sáng trên đại dương, do đó \"they\" quy chiếu trực tiếp về các chú rùa biển con này.\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối chiếu các giải pháp được liệt kê ở đoạn 4 bao gồm: dùng tấm chắn hướng ánh sáng xuống dưới, chọn bóng đèn ấm và mờ hơn, dùng cảm biến chuyển động và hẹn giờ. Giải pháp \"sơn đèn đường bằng màu sáng rực rỡ\" không hề xuất hiện và hoàn toàn trái ngược với thực tế bài đọc.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ phần giải pháp và kết luận của bài (đoạn 4 và đoạn 5) khi tác giả chỉ ra các bước đơn giản như dùng tấm chắn, bóng đèn phù hợp hoặc tắt đèn không cần thiết sẽ giúp tiết kiệm tiền và giảm thiểu ô nhiễm. Từ đó suy luận ra rằng những thay đổi nhỏ, đơn giản hoàn toàn có thể giúp cắt giảm ô nhiễm và tiết kiệm chi phí.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6) trước vì vị trí thông tin rất khu biệt. Tiếp theo, sử dụng phương pháp quét từ khóa để hoàn thành nhanh nhóm câu hỏi chi tiết (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, dựa trên toàn bộ bức tranh nội dung đã phân tích để xử lý các câu đòi hỏi tư duy bao quát như ý chính (R1Q1), suy luận (R1Q9) và mục đích viết (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Legend of the Machine Wolf",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In the Varrow Mountains, where winters last half the year, an old legend is still told. It concerns a clockmaker named Ilse, who lived in the village of Harrowgate and, according to the story, built a wolf of brass and iron to protect her neighbours from the dangers of winter. Whether or not the tale is true, the villagers have never forgotten it.",
+     "That winter was the harshest in living memory, and starving wolves began to prowl at the edge of the village, taking sheep from the pens and frightening the children. The men were too few and too tired to guard every house through the night. Ilse locked herself in her workshop for forty days and nights, and when she finally emerged, she led out a creature that gleamed like frost in the lantern light.",
+     "The Machine Wolf never slept and never tired, and for years it patrolled the ridges above Harrowgate with a **vigilant** eye, driving off real wolves with a low metallic growl. Shepherds slept soundly again, and the flocks grew larger with each passing spring. Children began to follow the wolf down the mountain paths, convinced that it was a kind spirit made only for them. Travellers who crossed the pass in those years spoke with wonder of the gleaming sentinel on the ridge.",
+     "As the seasons passed, however, the villagers grew so dependent on the wolf that they stopped repairing their fences, training their dogs, and posting sentries. Ilse, now an old woman, watched this change with growing unease and tried to warn her neighbours. A machine, she said, is only as faithful as the hands that maintain **it**, and no gear turns forever without oil.",
+     "Nobody listened until one autumn, when the wolf's growl turned into a harsh grinding noise and its movements became **erratic**, and it began to wander into the fields at dusk, trampling crops. Real wolves, sensing the weakness of their metal rival, returned to the hills above the village. Panic spread quickly, for nobody remembered how to defend a flock, and several sheep were lost before the villagers understood what they had allowed themselves to forget. Even the oldest shepherds, who had once boasted that they needed no machine, found themselves frightened and unprepared.",
+     "Ashamed, the villagers begged Ilse to repair the wolf, but she shook her head and answered that she was too old to rebuild what had taken forty days to create. Instead, she taught the young people to oil the gears and replace worn parts. She also insisted that every household take a turn at standing watch, so that the wolf would become a partner in the village's defence rather than a substitute for it.",
+     "The wolf served Harrowgate for many more winters, and villagers say its growl can still be heard on stormy nights, although nobody has seen it since Ilse was laid to rest. Parents tell the story to remind children that protection is a shared duty. No guardian, however powerful, can replace the vigilance of the people it serves, and a community that hands over its responsibilities completely may discover too late how fragile its safety has become."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "A clockmaker's inventions made her village rich through trade with nearby valleys",
+       "B": "Starving wolves are dangerous animals that should be hunted every single winter",
+       "C": "A legend warns that people must share responsibility for their protection",
+       "D": "Machines will eventually replace all human guards and shepherds in remote valleys"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why did Ilse build the wolf?",
+      "options": {
+       "A": "Hungry wolves were threatening the village animals and children",
+       "B": "Bandits had begun stealing grain from the village stores",
+       "C": "The village council commanded her to design a monument",
+       "D": "She planned to display her inventions at the regional exhibition"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để thấy nguyên nhân Ilse chế tạo con sói là do mùa đông khắc nghiệt khiến sói đói xuất hiện đe dọa vật nuôi và trẻ em trong làng (Hungry wolves were threatening the village animals and children)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"vigilant\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "careless",
+       "B": "distant",
+       "C": "hesitant",
+       "D": "watchful"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"vigilant\" ở đoạn 3 đi kèm với hình ảnh con sói tuần tra các rặng núi để xua đuổi sói thật, mang nghĩa cảnh giác, tỉnh táo, theo dõi sát sao (watchful)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what did the villagers stop doing?",
+      "options": {
+       "A": "Trading wool with the lowland towns each autumn",
+       "B": "Repairing fences, training dogs, and posting sentries",
+       "C": "Visiting Ilse's workshop to learn about clock repair",
+       "D": "Telling the legend to their young children"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 với các từ khóa chỉ sự lơ là để nhận ra người dân đã ngừng việc sửa chữa hàng rào, huấn luyện chó và cắt cử người canh gác (Repairing fences, training dogs, and posting sentries)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"erratic\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "peaceful",
+       "B": "graceful",
+       "C": "irregular",
+       "D": "careful"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"erratic\" ở đoạn 5 mô tả trạng thái chuyển động và tiếng gầm gừ của con sói khi máy móc bị mòn, không còn đều đặn hay ổn định nữa, đồng nghĩa với thất thường, bất định (irregular)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"it\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "The village",
+       "B": "Her workshop",
+       "C": "The winter",
+       "D": "A machine"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xem xét đại từ \"it\" ở câu thoại của Ilse trong đoạn 4: \"A machine... is only as faithful as the hands that maintain it\". Dựa vào ngữ cảnh nhắc đến danh từ số ít chỉ máy móc ở trước đó, \"it\" quy chiếu thẳng đến máy móc nói chung (A machine)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what happened when the wolf began to fail?",
+      "options": {
+       "A": "Real wolves returned and sheep were lost",
+       "B": "Ilse abandoned the village and moved far away",
+       "C": "A storm destroyed the bridge to the market",
+       "D": "The children all refused to leave their houses"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 để xác định hiện tượng khi con sói trục trặc: bầy sói thật quay lại và cừu bị mất (Real wolves returned and sheep were lost)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as part of Ilse's advice?",
+      "options": {
+       "A": "Teaching young people to oil the gears",
+       "B": "Building a second wolf for the northern pass",
+       "C": "Giving each household a turn at watch",
+       "D": "Making the wolf a partner in defence"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu lời khuyên của Ilse ở đoạn 6 gồm: hướng dẫn thanh niên tra dầu mỡ, thay thế linh kiện mòn, yêu cầu mỗi hộ gia đình luân phiên canh gác, và biến con sói thành đối tác thay vì vật thay thế. Lời khuyên \"xây dựng con sói thứ hai cho đèo phía bắc\" là chi tiết không hề xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from the passage about Ilse's attitude to the wolf?",
+      "options": {
+       "A": "Her main regret was failing to make it more powerful",
+       "B": "Fear of its strength made her refuse to repair it",
+       "C": "She considered it a perfect replacement for all the sentries",
+       "D": "She believed technology should support people, not replace them"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Thái độ tác giả",
+      "explanation": "Tổng hợp thái độ của Ilse qua hành động không chịu sửa lại hoàn toàn mà bắt người dân phải học cách tự bảo dưỡng và chia nhau canh gác (đoạn 6). Điều này chứng minh rằng cô tin rằng công nghệ chỉ nên đóng vai trò hỗ trợ con người chứ không thể thay thế hoàn toàn trách nhiệm của con người (She believed technology should support people, not replace them)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To describe how brass and iron machines were manufactured",
+       "B": "To explain why wolves attack villages during hard winters",
+       "C": "To tell a story that warns against excessive dependence",
+       "D": "To promote winter tourism across the Varrow Mountains Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt các đoạn để nắm bắt mạch truyện: giới thiệu truyền thuyết về người thợ đồng hồ Ilse và con sói máy (đoạn 1-2), con sói bảo vệ ngôi làng (đoạn 3), người dân quá ỷ lại và bỏ bê trách nhiệm (đoạn 4), con sói gặp sự cố và bầy sói thật quay lại (đoạn 5), Ilse hướng dẫn giới trẻ cách bảo dưỡng và chia sẻ trách nhiệm canh gác (đoạn 6), và bài học ngụ ngôn rút ra ở đoạn cuối. Do đó, câu trả lời đúng phải phản ánh được thông điệp cốt lõi rằng huyền thoại mang lại lời cảnh tỉnh về việc con người phải chia sẻ trách nhiệm bảo vệ lẫn nhau chứ không nên phó mặc hoàn toàn cho công nghệ hay người khác.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q2**, quét thông tin ở đoạn 2 để thấy nguyên nhân Ilse chế tạo con sói là do mùa đông khắc nghiệt khiến sói đói xuất hiện đe dọa vật nuôi và trẻ em trong làng (Hungry wolves were threatening the village animals and children).\n  - Với **R2Q4**, quét đoạn 4 với các từ khóa chỉ sự lơ là để nhận ra người dân đã ngừng việc sửa chữa hàng rào, huấn luyện chó và cắt cử người canh gác (Repairing fences, training dogs, and posting sentries).\n  - Với **R2Q7**, quét đoạn 5 để xác định hiện tượng khi con sói trục trặc: bầy sói thật quay lại và cừu bị mất (Real wolves returned and sheep were lost).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"vigilant\"** ở đoạn 3 đi kèm với hình ảnh con sói tuần tra các rặng núi để xua đuổi sói thật, mang nghĩa cảnh giác, tỉnh táo, theo dõi sát sao (watchful).\n  - Với **R2Q5**, từ **\"erratic\"** ở đoạn 5 mô tả trạng thái chuyển động và tiếng gầm gừ của con sói khi máy móc bị mòn, không còn đều đặn hay ổn định nữa, đồng nghĩa với thất thường, bất định (irregular).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Xem xét đại từ **\"it\"** ở câu thoại của Ilse trong đoạn 4: \"A machine... is only as faithful as the hands that maintain it\". Dựa vào ngữ cảnh nhắc đến danh từ số ít chỉ máy móc ở trước đó, \"it\" quy chiếu thẳng đến máy móc nói chung (A machine).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối chiếu lời khuyên của Ilse ở đoạn 6 gồm: hướng dẫn thanh niên tra dầu mỡ, thay thế linh kiện mòn, yêu cầu mỗi hộ gia đình luân phiên canh gác, và biến con sói thành đối tác thay vì vật thay thế. Lời khuyên \"xây dựng con sói thứ hai cho đèo phía bắc\" là chi tiết không hề xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thái độ của Ilse qua hành động không chịu sửa lại hoàn toàn mà bắt người dân phải học cách tự bảo dưỡng và chia nhau canh gác (đoạn 6). Điều này chứng minh rằng cô tin rằng công nghệ chỉ nên đóng vai trò hỗ trợ con người chứ không thể thay thế hoàn toàn trách nhiệm của con người (She believed technology should support people, not replace them).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi từ vựng (R2Q3, R2Q5) và quy chiếu (R2Q6) vì vị trí dữ liệu rất tập trung. Sau đó, dùng kỹ thuật đọc quét nhanh để xử lý các câu hỏi chi tiết theo đoạn (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, dựa trên toàn bộ cốt truyện và thông điệp bài đọc để làm tốt các câu hỏi tổng hợp bao quát như ý chính (R2Q1), suy luận thái độ (R2Q9) và mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Rise of Job Hopping in the 21st Century",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "For most of the twentieth century, a career meant loyalty: a graduate joined a firm in their twenties and, if all went well, retired from it with a gold watch. Today, that model looks almost quaint to people who have worked for five employers by thirty. Surveys in several countries suggest that younger employees change jobs every two to three years, and this pattern, widely known as job hopping, has become **commonplace** in many industries.",
+     "Several forces explain the shift. Economic insecurity is the first: after repeated recessions and waves of redundancies, many workers concluded that employers would not reward loyalty, and so they stopped offering it. Pay evidence points the same way, as frequent movers tend to receive larger rises than loyal staff. Companies often pay more to attract a newcomer than to retain a veteran, partly because outsiders negotiate from strength while insiders are assumed to be content.",
+     "Supporters argue that changing jobs is a rational response to this environment. **[1]** Each move exposes a worker to new tools, colleagues, and problems, so skills accumulate faster than they would in a single role, however senior, where routines tend to harden over time. **[2]** Hoppers also learn to negotiate, since every new offer requires them to judge their market value and defend it. **[3]** A broad network built across several firms, moreover, can open doors that years of quiet loyalty never would. **[4]**",
+     "Critics, however, see costs on both sides. When experienced staff depart, they take with them knowledge that took years to acquire, and recruiting and training a replacement is expensive, often absorbing a substantial part of a year's salary. Some firms report that unplanned departures disrupt clients, who prefer to deal with familiar faces. Managers complain that short-term employees seldom commit to long projects, which can leave teams **fragmented** and plans unfinished.",
+     "For individuals, the risks are equally real. A CV listing six employers in ten years may alarm cautious recruiters, who often read short tenures as evidence of unreliability, regardless of the reasons for each move. Hoppers may also forfeit rewards that accrue only through years of continuous service. Examples include employer-matched pension contributions, long-term bonuses, and the trust required for senior leadership roles. Others find it hard to settle, because the satisfaction of mastering a role usually arrives after several years.",
+     "Forward-looking organisations are beginning to adapt rather than complain. Instead of treating departures as betrayals, they offer internal transfers, flexible schedules, and clearer promotion routes, hoping to retain talented staff by letting them change roles without leaving the firm. Several large employers now publish internal vacancies first, giving staff a reason to look inside the company before looking outside. Some even welcome 'boomerang' employees back, because **they** bring fresh skills and already know the culture.",
+     "Job hopping is therefore neither a vice nor a virtue in itself; its value depends on whether moves are deliberate or merely restless. Workers who change roles to build skills, and who can explain each decision, are likely to be rewarded in a market that has grown accustomed to mobility. Employers that expect unconditional loyalty without offering security, however, may lose their best people first. The cost of ignoring this shift will be borne by the firm itself."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Employers should penalise workers who leave their positions within three years",
+       "B": "Younger employees are less capable than earlier generations of workers",
+       "C": "Staying with one company remains the most profitable career choice today",
+       "D": "Frequent job changes reflect new economic realities and bring benefits and risks"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why have many workers stopped offering loyalty?",
+      "options": {
+       "A": "Repeated recessions convinced them that employers would not reward it",
+       "B": "Universities now teach graduates to avoid signing any long contracts",
+       "C": "Modern offices have become too crowded for people to stay long",
+       "D": "Pension schemes have been abolished in almost every developed country"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm nguyên nhân người lao động ngừng cống hiến sự trung thành là do những đợt suy thoái lặp lại và làn sóng sa thải khiến họ kết luận rằng nhà tuyển dụng sẽ không đền đáp lòng trung thành đó (Repeated recessions convinced them that employers would not reward it)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"commonplace\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "rare",
+       "B": "routine",
+       "C": "unlawful",
+       "D": "costly"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"commonplace\" ở đoạn 1 xuất hiện trong ngữ cảnh nói về việc nhân sự trẻ đổi việc liên tục mỗi 2-3 năm, điều mà trước kia là hiếm nhưng nay đã trở nên phổ biến, thông thường, tương đương với routine."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such bargaining skill is something that employees who never move rarely have the chance to practise.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu / Chèn vị trí",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mạch lập luận tại các vị trí đánh dấu trong đoạn 3. Câu cần chèn bàn về kỹ năng đàm phán (bargaining skill) mà những nhân sự không bao giờ dịch chuyển ít có cơ hội thực hành. Vị trí [3] nằm ngay sau câu nói về việc nhân sự nhảy việc phải liên tục đánh giá giá trị thị trường và bảo vệ nó cho mỗi lời mời chào mới (since every new offer requires them to judge their market value and defend it), tạo nên sự liên kết ý nghĩa hoàn hảo về mặt logic."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what cost do employers face when experienced staff leave?",
+      "options": {
+       "A": "Customers immediately cancel their contracts and ask for full cash refunds",
+       "B": "Governments require firms to pay departing staff a large annual bonus",
+       "C": "Remaining employees must be paid double wages for covering extra vacancies",
+       "D": "They lose valuable knowledge and must pay for a replacement"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"cost\" ở đoạn 4 để xác định khi nhân sự giàu kinh nghiệm rời đi, họ mang theo kiến thức tích lũy và việc tuyển dụng, đào tạo người thay thế rất tốn kém (They lose valuable knowledge and must pay for a replacement)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"they\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Boomerang employees",
+       "B": "Talented managers",
+       "C": "Rival companies",
+       "D": "Loyal veterans"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xét đại từ \"they\" ở câu cuối đoạn 6, khi đề cập đến việc một số công ty chào đón nhân sự quay lại (\"boomerang\" employees) vì nhóm đối tượng này mang lại kỹ năng mới và đã rành văn hóa công ty. Do đó, \"they\" quy chiếu thẳng về nhân sự quay lại (Boomerang employees)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"fragmented\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "united",
+       "B": "inspired",
+       "C": "divided",
+       "D": "relaxed"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"fragmented\" ở đoạn 4 mô tả trạng thái các đội ngũ làm việc bị chia cắt, đứt gãy do nhân sự ngắn hạn không cam kết gắn bó với các dự án dài hơi, đồng nghĩa với divided."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way organisations are adapting?",
+      "options": {
+       "A": "Offering internal transfers and flexible working schedules",
+       "B": "Banning employees from joining competing companies after they resign",
+       "C": "Publishing internal vacancies before advertising them externally",
+       "D": "Creating clearer promotion routes for talented staff"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu các cách thức thích ứng của tổ chức được nêu ở đoạn 6 gồm: tạo luân chuyển nội bộ, giờ làm việc linh hoạt, công bố vị trí tuyển dụng nội bộ trước, và tạo lộ trình thăng tiến rõ ràng. Chi tiết \"cấm nhân sự gia nhập công ty đối thủ sau khi từ chức\" hoàn toàn không được đề cập trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 2, 4, and 6 about employers?",
+      "options": {
+       "A": "Employers' own reward policies may contribute to turnover they find costly",
+       "B": "Workers who stay with one firm are always paid less than newcomers",
+       "C": "Flexible schedules are the main reason that most employees choose to resign",
+       "D": "Rehiring former employees clearly proves that changing jobs never harms long-term careers"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2, 4, và 6: công ty trả lương cao hơn cho người mới để thu hút nhưng lại keo kiệt với nhân viên cũ, dẫn đến việc nhân viên nhảy việc, từ đó chính doanh nghiệp lại phải chịu chi phí tuyển dụng và đào tạo đắt đỏ. Điều này ngụ ý rằng chính sách đãi ngộ và khen thưởng của bản thân nhà tuyển dụng đã góp phần tạo ra tỷ lệ nhân sự nghỉ việc tốn kém mà họ đang phải gánh chịu."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade graduates to remain with a single employer for life",
+       "B": "To compare recruitment practices across several named countries in detail",
+       "C": "To explain how companies calculate starting salaries for new staff",
+       "D": "To examine why job hopping has spread and what follows Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt các đoạn để nắm bắt mạch nội dung tổng thể: sự chuyển dịch sang xu hướng nhảy việc (job hopping) ở đoạn 1, nguyên nhân kinh tế thúc đẩy ở đoạn 2, lợi ích mang lại cho nhân sự ở đoạn 3, chi phí và tổn thất đối với phía doanh nghiệp ở đoạn 4, rủi ro cho cá nhân người lao động ở đoạn 5, cách các tổ chức thích ứng ở đoạn 6, và lời kết luận mang tính trung lập. Do đó, bài viết tập trung phân tích lý do hiện tượng nhảy việc lan rộng cùng những tác động đa chiều (cả lợi ích lẫn rủi ro) thay vì cổ súy trung thành trọn đời hay chỉ trích giới trẻ.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q2**, quét thông tin ở đoạn 2 để tìm nguyên nhân người lao động ngừng cống hiến sự trung thành là do những đợt suy thoái lặp lại và làn sóng sa thải khiến họ kết luận rằng nhà tuyển dụng sẽ không đền đáp lòng trung thành đó (Repeated recessions convinced them that employers would not reward it).\n  - Với **R3Q5**, quét từ khóa \"cost\" ở đoạn 4 để xác định khi nhân sự giàu kinh nghiệm rời đi, họ mang theo kiến thức tích lũy và việc tuyển dụng, đào tạo người thay thế rất tốn kém (They lose valuable knowledge and must pay for a replacement).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"commonplace\"** ở đoạn 1 xuất hiện trong ngữ cảnh nói về việc nhân sự trẻ đổi việc liên tục mỗi 2-3 năm, điều mà trước kia là hiếm nhưng nay đã trở nên phổ biến, thông thường, tương đương với routine.\n  - Với **R3Q7**, từ **\"fragmented\"** ở đoạn 4 mô tả trạng thái các đội ngũ làm việc bị chia cắt, đứt gãy do nhân sự ngắn hạn không cam kết gắn bó với các dự án dài hơi, đồng nghĩa với divided.\n- **Dạng câu hỏi Điền câu / Chèn vị trí (R3Q4):** Phân tích mạch lập luận tại các vị trí đánh dấu trong đoạn 3. Câu cần chèn bàn về kỹ năng đàm phán (bargaining skill) mà những nhân sự không bao giờ dịch chuyển ít có cơ hội thực hành. Vị trí **[3]** nằm ngay sau câu nói về việc nhân sự nhảy việc phải liên tục đánh giá giá trị thị trường và bảo vệ nó cho mỗi lời mời chào mới (since every new offer requires them to judge their market value and defend it), tạo nên sự liên kết ý nghĩa hoàn hảo về mặt logic.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Xét đại từ **\"they\"** ở câu cuối đoạn 6, khi đề cập đến việc một số công ty chào đón nhân sự quay lại (\"boomerang\" employees) vì nhóm đối tượng này mang lại kỹ năng mới và đã rành văn hóa công ty. Do đó, \"they\" quy chiếu thẳng về nhân sự quay lại (Boomerang employees).\n- **Dạng câu hỏi Loại trừ NOT (R3Q8):** Đối chiếu các cách thức thích ứng của tổ chức được nêu ở đoạn 6 gồm: tạo luân chuyển nội bộ, giờ làm việc linh hoạt, công bố vị trí tuyển dụng nội bộ trước, và tạo lộ trình thăng tiến rõ ràng. Chi tiết \"cấm nhân sự gia nhập công ty đối thủ sau khi từ chức\" hoàn toàn không được đề cập trong bài.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 2, 4, và 6: công ty trả lương cao hơn cho người mới để thu hút nhưng lại keo kiệt với nhân viên cũ, dẫn đến việc nhân viên nhảy việc, từ đó chính doanh nghiệp lại phải chịu chi phí tuyển dụng và đào tạo đắt đỏ. Điều này ngụ ý rằng chính sách đãi ngộ và khen thưởng của bản thân nhà tuyển dụng đã góp phần tạo ra tỷ lệ nhân sự nghỉ việc tốn kém mà họ đang phải gánh chịu.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị dễ như từ vựng (R3Q3, R3Q7), quy chiếu (R3Q6) và chèn câu (R3Q4). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu chi tiết (R3Q2, R3Q5, R3Q8). Cuối cùng, kết hợp toàn bộ bức tranh dữ liệu để làm tốt các câu hỏi đòi hỏi tư duy phân tích sâu như ý chính (R3Q1), suy luận tổng hợp (R3Q9) và mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Era of AI Slop: Quality vs. Quantity in the Digital Age",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few words capture the mood of today's internet as neatly as 'slop', the term for the low-effort, machine-generated content that now floods feeds, search results, and online marketplaces. Once dismissed as an annoyance, the phenomenon has grown too large to ignore. Its sheer proliferation is beginning to reshape how information is produced, found, and trusted. Whether an essay, a product review, or a photograph of an event that never occurred, the item may now be produced in seconds and published without any human oversight.",
+     "The explanation lies in economics rather than technology. Generating an article now costs almost nothing, whereas writing a careful one still demands time, expertise, and money, so platforms that pay for clicks reward whoever publishes most rather than whoever publishes best. Advertising revenue, which flows to pages that attract any attention at all, funds the cycle without asking whether anyone benefited. A rational producer consequently has every incentive to flood the market, even if each individual item is mediocre.",
+     "Search engines illustrate the problem more clearly than almost any other service that people use daily. **[1]** Their ranking systems were built on the assumption that a link from one page to another reflected a human judgement of value. **[2]** Automated sites, however, can now imitate that signal at scale, publishing thousands of pages tailored to popular queries and linking them to one another at almost no cost. **[3]** The outcome is that users scroll past dozens of near-identical summaries before finding anything written by someone with first-hand experience. [4]",
+     "The consequences extend beyond inconvenience. When readers cannot tell whether a recipe was tested or a review was written by a customer, they must verify everything themselves, which acts as a hidden tax on attention. Genuine creators suffer doubly: **their** work is buried beneath imitations, and its authenticity is questioned precisely because imitation has become so easy. Some artists now publish sketches and timelapse videos as proof that a human hand was involved.",
+     "A subtler danger is circular. Language models learn from text gathered online, and if a growing share of that text is itself machine-generated, future systems may be trained partly on the output of their predecessors. Researchers have warned that repeated training on synthetic data can degrade quality, causing rare ideas and unusual styles to vanish while common patterns grow ever more dominant. Whether this becomes a serious problem depends largely on how carefully developers filter their data. The evidence outside the laboratory, however, remains incomplete.",
+     "Responses are emerging from several directions. Some platforms demote repetitive material or require disclosure when content is machine-generated, while others experiment with provenance standards that attach verifiable records to files from the moment they are created. Critics note that such measures are easily **circumvented**, and that honest creators bear most of the compliance burden. Meanwhile, readers are quietly building their own defences by following trusted writers directly rather than relying on algorithmic feeds.",
+     "Slop is, in the end, a problem of incentives rather than machines. Tools that make production cheap will always tempt producers to prefer quantity, unless audiences and institutions make quality worth its cost. Readers can contribute by supporting sources that show their working, paying for journalism they value, and treating content that seems designed to please algorithms with healthy scepticism. If they do not, the digital commons may become a place where finding something worth reading demands more effort than producing a thousand things that are not."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Artificial intelligence tools should be banned from every online platform immediately",
+       "B": "Search engines have already solved the problem of low-quality automated websites",
+       "C": "Cheap machine-generated content, driven by incentives, threatens the reliability of online information",
+       "D": "Human writers will soon disappear because audiences prefer machine-written material"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, why do producers flood the market with content?",
+      "options": {
+       "A": "Pay-per-click platforms reward quantity more reliably than careful quality",
+       "B": "Readers have demanded more content than editors can possibly provide",
+       "C": "Advertisers insist that every page contain at least one machine-made image",
+       "D": "Governments subsidise online publishers according to the number of pages posted"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"economics\" hoặc \"producers flood the market\" ở đoạn 2 để xác định nguyên nhân là do các nền tảng trả tiền cho mỗi lượt nhấp chuộng số lượng hơn là chất lượng kỹ lưỡng (Pay-per-click platforms reward quantity more reliably than careful quality)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"degrade\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "improve",
+       "B": "explain",
+       "C": "measure",
+       "D": "worsen"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"degrade\" ở đoạn 5 xuất hiện trong ngữ cảnh huấn luyện lặp lại trên dữ liệu tổng hợp sẽ làm giảm sút chất lượng, khiến các ý tưởng hiếm hoi biến mất, đồng nghĩa với làm cho kém đi, tồi đi (worsen)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Originally, that was a sensible assumption, since creating a link required a deliberate human decision.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu / Chèn vị trí",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mạch lập luận tại các vị trí trong đoạn 3. Câu cần chèn bàn về việc giả định ban đầu đó từng rất hợp lý vì tạo ra một liên kết đòi hỏi quyết định có chủ ý của con người ('Originally, that was a sensible assumption, since creating a link required a deliberate human decision.'). Vị trí [2] nằm ngay sau câu nói về hệ thống xếp hạng được xây dựng trên giả định liên kết phản ánh phán quyết giá trị của con người, tạo nên mạch quy chiếu hoàn hảo cho cụm từ \"that was a sensible assumption\"."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, how do some artists respond to doubts about authenticity?",
+      "options": {
+       "A": "They refuse to share any work on large public online platforms",
+       "B": "They hire freelance editors to remove every trace of machine involvement",
+       "C": "They publish sketches and timelapse videos showing the creative process",
+       "D": "They sue search engines for ranking imitations above original work"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 4 để tìm cách phản ứng của các nghệ sĩ trước những hoài nghi về tính xác thực: họ công bố các bản phác thảo và video tua nhanh thời gian ghi lại quá trình sáng tạo (They publish sketches and timelapse videos showing the creative process)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"their\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Genuine creators",
+       "B": "Online readers",
+       "C": "Search engines",
+       "D": "Platform owners"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Xét đại từ sở hữu \"their\" ở câu thứ hai của đoạn 4 khi nhắc đến việc những người sáng tạo chân chính chịu tổn hại kép: công trình của *họ* bị chôn vùi bên dưới các bản nhái. Do đó, \"their\" quy chiếu thẳng về nhóm người sáng tạo chân chính (Genuine creators)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"circumvented\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "approved",
+       "B": "funded",
+       "C": "documented",
+       "D": "bypassed"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"circumvented\" ở đoạn 6 nói về việc các biện pháp kỹ thuật hay tiêu chuẩn nguồn gốc dễ bị lách qua bởi những người làm nội dung, mang nghĩa né tránh, vượt qua (bypassed)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a response to slop?",
+      "options": {
+       "A": "Platforms demoting repetitive material and requiring disclosure of origins",
+       "B": "Provenance records attached to files from the moment of their creation",
+       "C": "Governments imprisoning the owners of websites that publish automated content",
+       "D": "Readers following trusted writers directly instead of algorithmic feeds"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu các biện pháp ứng phó được nêu ở đoạn 6 bao gồm: nền tảng giáng cấp tài liệu lặp đi lặp lại, đính kèm hồ sơ nguồn gốc từ lúc tạo ra, và độc giả theo dõi trực tiếp các tác giả uy tín. Chi tiết \"chính phủ bỏ tù chủ các trang web xuất bản nội dung tự động\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 2, 5, and 6 about the future of online content quality?",
+      "options": {
+       "A": "Technical safeguards will certainly remove the problem once developers filter data",
+       "B": "Technical safeguards alone are unlikely to solve a problem rooted in incentives",
+       "C": "Every kind of online content is already dominated by synthetic material",
+       "D": "Honest creators' compliance burden is what caused slop to spread"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2, 5, và 6: vấn đề cốt lõi bắt nguồn từ động lực kinh tế và cơ chế trả thưởng lượt nhấp, do đó các biện pháp bảo vệ kỹ thuật đơn thuần sẽ khó có thể giải quyết triệt để gốc rễ của vấn đề (Technical safeguards alone are unlikely to solve a problem rooted in incentives)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To analyse why low-quality automated content spreads and what can be done",
+       "B": "To advise businesses on purchasing the most efficient generation tools",
+       "C": "To celebrate the creative possibilities that automation has opened for artists",
+       "D": "To report the results of a single experiment on search rankings"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt qua các đoạn để nắm bắt mạch nội dung tổng thể: hiện tượng tràn lan nội dung rác do máy tự sinh ra (slop) ở đoạn 1, nguyên nhân kinh tế từ các nền tảng trả phí theo lượt nhấp ở đoạn 2, sự thao túng các công cụ tìm kiếm ở đoạn 3, hệ lụy đối với người sáng tạo và người đọc ở đoạn 4, nguy cơ vòng lặp dữ liệu tổng hợp ở đoạn 5, và các giải pháp ứng phó ở đoạn 6-7. Do đó, bài viết tập trung phân tích lý do nội dung tự động kém chất lượng lan rộng và các giải pháp đối phó, chứ không kêu gọi cấm AI hoàn toàn hay ca ngợi tự động hóa.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q2**, quét từ khóa \"economics\" hoặc \"producers flood the market\" ở đoạn 2 để xác định nguyên nhân là do các nền tảng trả tiền cho mỗi lượt nhấp chuộng số lượng hơn là chất lượng kỹ lưỡng (Pay-per-click platforms reward quantity more reliably than careful quality).\n  - Với **R4Q5**, quét thông tin ở đoạn 4 để tìm cách phản ứng của các nghệ sĩ trước những hoài nghi về tính xác thực: họ công bố các bản phác thảo và video tua nhanh thời gian ghi lại quá trình sáng tạo (They publish sketches and timelapse videos showing the creative process).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"degrade\"** ở đoạn 5 xuất hiện trong ngữ cảnh huấn luyện lặp lại trên dữ liệu tổng hợp sẽ làm giảm sút chất lượng, khiến các ý tưởng hiếm hoi biến mất, đồng nghĩa với làm cho kém đi, tồi đi (worsen).\n  - Với **R4Q7**, từ **\"circumvented\"** ở đoạn 6 nói về việc các biện pháp kỹ thuật hay tiêu chuẩn nguồn gốc dễ bị lách qua bởi những người làm nội dung, mang nghĩa né tránh, vượt qua (bypassed).\n- **Dạng câu hỏi Điền câu / Chèn vị trí (R4Q4):** Phân tích mạch lập luận tại các vị trí trong đoạn 3. Câu cần chèn bàn về việc giả định ban đầu đó từng rất hợp lý vì tạo ra một liên kết đòi hỏi quyết định có chủ ý của con người ('Originally, that was a sensible assumption, since creating a link required a deliberate human decision.'). Vị trí **[2]** nằm ngay sau câu nói về hệ thống xếp hạng được xây dựng trên giả định liên kết phản ánh phán quyết giá trị của con người, tạo nên mạch quy chiếu hoàn hảo cho cụm từ \"that was a sensible assumption\".\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Xét đại từ sở hữu **\"their\"** ở câu thứ hai của đoạn 4 khi nhắc đến việc những người sáng tạo chân chính chịu tổn hại kép: công trình của *họ* bị chôn vùi bên dưới các bản nhái. Do đó, \"their\" quy chiếu thẳng về nhóm người sáng tạo chân chính (Genuine creators).\n- **Dạng câu hỏi Loại trừ NOT (R4Q8):** Đối chiếu các biện pháp ứng phó được nêu ở đoạn 6 bao gồm: nền tảng giáng cấp tài liệu lặp đi lặp lại, đính kèm hồ sơ nguồn gốc từ lúc tạo ra, và độc giả theo dõi trực tiếp các tác giả uy tín. Chi tiết \"chính phủ bỏ tù chủ các trang web xuất bản nội dung tự động\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 2, 5, và 6: vấn đề cốt lõi bắt nguồn từ động lực kinh tế và cơ chế trả thưởng lượt nhấp, do đó các biện pháp bảo vệ kỹ thuật đơn thuần sẽ khó có thể giải quyết triệt để gốc rễ của vấn đề (Technical safeguards alone are unlikely to solve a problem rooted in incentives).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị dễ như từ vựng (R4Q3, R4Q7), quy chiếu đại từ (R4Q6) và chèn câu (R4Q4). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu chi tiết (R4Q2, R4Q5, R4Q8). Cuối cùng, dựa trên toàn bộ bức tranh dữ liệu để làm tốt các câu hỏi đòi hỏi tư duy phân tích sâu như ý chính (R4Q1), suy luận tổng hợp (R4Q9) và mục đích tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You have just won two tickets to a music concert and you want to invite your best friend to go with you.\nWrite an email to your friend about the tickets.\nWrite an email to your friend to invite them to the event. In your email, you should:\n- Explain how you won the tickets and why you thought of your friend immediately.\n- Provide details about the event, including when and where it takes place.\n- Mention who is performing and what you need to prepare for the concert.\nWrite an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You have just won two tickets to a music concert and you want to invite your best friend to go with you.",
+      "Write an email to your friend about the tickets."
+     ],
+     "quote": [
+      "Write an email to your friend to invite them to the event. In your email, you should:",
+      "- Explain how you won the tickets and why you thought of your friend immediately.",
+      "- Provide details about the event, including when and where it takes place.",
+      "- Mention who is performing and what you need to prepare for the concert."
+     ],
+     "instruction": "Write an email responding to your friend. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng thư thân mật (Informal Email) gửi cho bạn thân.\n- Yêu cầu chính: Kể về việc thắng giải, giải thích lý do mời bạn, cung cấp thông tin thời gian/địa điểm/nghệ sĩ và chuẩn bị gì.\n- Độ dài tối thiểu: 120 từ.\n- Tông giọng: Vui vẻ, hào hứng, thân mật.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào bạn bằng tên riêng. Ví dụ: Hi Nam, / Dear Linh,\n- **Opening:** Thông báo tin vui và lý do viết thư. Ví dụ: You won't believe this, but I've just won two tickets to a concert!\n- **Body Paragraph 1:** Kể về cách thắng giải (cuộc thi trên radio/mạng xã hội) và lý do mời bạn (vì bạn cũng thích nghệ sĩ đó).\n- **Body Paragraph 2:** Chi tiết về sự kiện (thời gian, địa điểm, nghệ sĩ biểu diễn) và dặn dò chuẩn bị (quần áo, máy ảnh).\n- **Closing:** Mong chờ phản hồi. Ví dụ: Let me know if you can make it!\n- **Sign-off:** Best, / Love, + Tên của bạn.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Quá đơn để kể về việc thắng giải và Tương lai đơn cho kế hoạch đi xem.\n- Sử dụng các câu cảm thán để thể hiện sự hào hứng.\nTừ vựng quan trọng:\n- **Lucky draw:** Bốc thăm may mắn\n- **Live performance:** Biểu diễn trực tiếp\n- **Main act / Headliner:** Nghệ sĩ chính\n- **Venue:** Địa điểm tổ chức\n- **Once-in-a-lifetime opportunity:** Cơ hội ngàn năm có một\n- **To be over the moon:** Rất hạnh phúc\nTừ nối (Linking words):\n- **Guess what!:** Đoán xem cái gì này!\n- **The reason why:** Lý do tại sao\n- **Actually:** Thực ra là\n- **By the way:** Nhân tiện\n- **In addition:** Thêm vào đó\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I was so thrilled when I heard the news:** Mình đã rất run vì sướng khi nghe tin.\n- **I immediately thought of you:** Mình nghĩ ngay đến cậu.\n- **It would be awesome if you could come:** Sẽ thật tuyệt nếu cậu có thể đi.\n\n**4. Các lỗi thường gặp:**\n- Viết quá trang trọng (như dùng \"Dear Sir/Madam\").\n- Quên không nhắc đến việc tại sao lại nghĩ tới người bạn đó (thiếu Task Fulfillment).\n- Dùng sai thì khi kể về sự kiện trong quá khứ và tương lai.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đã trả lời đủ 3 câu hỏi ở phần content chưa?\n- Số lượng từ đã đạt tối thiểu 120 từ chưa?\n- Có lỗi chính tả tên nghệ sĩ hoặc địa điểm không?\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng mình thực sự vừa thắng giải để tạo cảm xúc thật cho bài viết, giúp từ vựng tự nhiên hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nAir pollution is becoming a serious problem worldwide due to the release of harmful chemicals from factories and industrial activities.\nThis phenomenon has significant negative impacts on both the environment and human health.\nDiscuss the causes of this problem and suggest possible solutions that both organizations and individuals should take.\nWrite an essay to an educated reader to discuss the problems caused by air pollution and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Air pollution is becoming a serious problem worldwide due to the release of harmful chemicals from factories and industrial activities.",
+      "This phenomenon has significant negative impacts on both the environment and human health.",
+      "Discuss the causes of this problem and suggest possible solutions that both organizations and individuals should take."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by air pollution and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Problem - Solution (Nguyên nhân - Giải pháp).\n- Chủ đề: Ô nhiễm không khí do hóa chất và nhà máy.\n- Đối tượng thực hiện giải pháp: Tổ chức (Chính phủ/Doanh nghiệp) và Cá nhân.\n- Yêu cầu: Tối thiểu 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Dẫn dắt về thực trạng ô nhiễm và nêu khái quát nội dung bài viết. Ví dụ: Air pollution has emerged as a major threat due to industrial expansion.\n- **Body 1 (Causes):** Tập trung vào khí thải công nghiệp, quản lý rác thải hóa chất kém.\n- **Body 2 (Solutions for Organizations):** Chính phủ áp đặt thuế xanh, doanh nghiệp nâng cấp công nghệ lọc khí.\n- **Body 3 (Solutions for Individuals):** Sử dụng phương tiện công cộng, giảm thiểu tiêu dùng sản phẩm gây hại.\n- **Conclusion:** Tóm tắt lại các ý chính và khẳng định tầm quan trọng của sự phối hợp.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các cấu trúc câu phức (Complex sentences) và câu bị động khi nói về tác động môi trường.\nTừ vựng quan trọng:\n- **Industrial waste:** Rác thải công nghiệp\n- **Toxic emissions:** Khí thải độc hại\n- **Respiratory diseases:** Bệnh đường hô hấp\n- **Environmental degradation:** Sự suy thoái môi trường\n- **Sustainable energy:** Năng lượng bền vững\n- **Strict regulations:** Quy định nghiêm ngặt\nTừ nối (Linking words):\n- **Chiefly / Primarily:** Chủ yếu là\n- **Consequently:** Hệ quả là\n- **In terms of solutions:** Xét về các giải pháp\n- **Taking everything into account:** Xem xét mọi khía cạnh\n- **On a personal level:** Ở cấp độ cá nhân\n- **From an organizational perspective:** Từ góc độ tổ chức\nDiễn đạt lại ý (Paraphrasing):\n- **Atmospheric contamination:** Thay cho air pollution.\n- **Manufacturing plants:** Thay cho factories.\n- **To mitigate the issue:** Thay cho to solve the problem.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is imperative that...:** Cấp bách rằng...\n- **One viable approach could be...:** Một cách tiếp cận khả thi có thể là...\n- **To play a pivotal role in...:** Đóng vai trò then chốt trong...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nêu nguyên nhân mà quên nêu giải pháp cho cả 2 đối tượng (tổ chức và cá nhân).\n- Dùng từ vựng quá phổ thông như \"bad\", \"good\" thay vì \"detrimental\" hay \"beneficial\".\n- Thiếu ví dụ thực tế cho các loại hóa chất hoặc nhà máy cụ thể.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Đã có Thesis Statement (Câu chủ đề) ở mở bài chưa?\n- Các đoạn văn có sự kết nối bằng từ nối chưa?\n- Kiểm tra lỗi chia động từ số ít/số nhiều.\n\n**6. Tư duy làm bài:**\n- Luôn phải phân định rõ ràng giữa trách nhiệm của tổ chức và trách nhiệm của mỗi cá nhân để bài viết có chiều sâu và logic."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about farms\n\n1\nHave you ever visited a farm? When was that?\n2\nWhat kinds of animals or crops are common on farms in your country?\n3\nDo you think life on a farm is better than life in a big city? Why?\n\nNow, let’s talk about the weather\n\n4\nWhat is your favorite type of weather? Why?\n5\nDoes the weather affect your mood or daily activities? How?\n6\nWhat do you usually do when the weather is bad and you cannot go out?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói gồm 6 câu hỏi cá nhân quen thuộc và thời gian trả lời khoảng 3 phút.\n- **Topic A (Farm Life):** Các câu hỏi 1–3 tập trung vào trải nghiệm với nông trại, cây trồng, vật nuôi và so sánh cuộc sống nông thôn với thành phố.\n- **Topic B (Weather):** Các câu hỏi 4–6 tập trung vào thời tiết yêu thích, ảnh hưởng của thời tiết đến cảm xúc và hoạt động hằng ngày.\n- Giám khảo đánh giá dựa trên độ lưu loát, khả năng phát triển ý, vốn từ vựng và phát âm tự nhiên.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng thời gian giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer – Reason – Example để mở rộng câu trả lời tự nhiên và logic.\n- **Ví dụ Topic A:** I visited a farm when I was in high school because my family wanted me to experience rural life. I really enjoyed feeding the animals and picking vegetables.\n- **Ví dụ Topic B:** My favorite weather is cool and sunny weather because it makes me feel energetic and comfortable when going outside.\n- Luôn tự hỏi thêm “Why?”, “How?” hoặc “What happened next?” để kéo dài ý.\n- Khi chuyển sang chủ đề thời tiết, bạn có thể dùng câu như: Speaking of daily life, weather also has a strong influence on people’s emotions and routines.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và dùng filler tự nhiên như actually, well hoặc to be honest để tránh khoảng lặng.\n- Với trải nghiệm đã xảy ra trong quá khứ như đi nông trại, hãy dùng thì quá khứ đơn.\n- Với các câu hỏi về sở thích hoặc thói quen liên quan đến thời tiết, hãy dùng hiện tại đơn.\n- Nếu quên từ vựng, hãy diễn đạt bằng mô tả đơn giản thay vì dừng nói.\n- Vocabulary for Topic A: livestock (gia súc), rice fields (cánh đồng lúa), rural lifestyle (lối sống nông thôn), organic vegetables (rau hữu cơ).\n- Vocabulary for Topic B: humid weather (thời tiết ẩm), refreshing atmosphere (bầu không khí dễ chịu), seasonal changes (sự thay đổi mùa), indoor activities (hoạt động trong nhà).\nCụm từ quan trọng nên dùng:\n- live close to nature – sống gần gũi với thiên nhiên\n- grow agricultural products – trồng nông sản\n- lead a peaceful life – sống cuộc sống yên bình\n- feel emotionally affected – bị ảnh hưởng về cảm xúc\n- stay indoors during storms – ở trong nhà khi có bão\n- enjoy cool breezes – tận hưởng những cơn gió mát\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Besides that – bên cạnh đó\n- However – tuy nhiên\n- For example – ví dụ\n- As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n- Personally, I think farm life is less stressful than city life because the environment is quieter. – Cá nhân tôi nghĩ cuộc sống nông trại ít căng thẳng hơn thành phố vì môi trường yên tĩnh hơn.\n- From my perspective, sunny weather helps people feel more positive and productive. – Theo góc nhìn của tôi, thời tiết nắng đẹp giúp con người tích cực và năng suất hơn.\n- As far as I am concerned, modern cities are convenient but often too crowded and noisy. – Theo tôi, thành phố hiện đại tiện lợi nhưng thường quá đông và ồn ào.\n- I believe weather can strongly influence people’s mood and energy. – Tôi tin rằng thời tiết ảnh hưởng mạnh đến tâm trạng và năng lượng.\n- In my opinion, living in rural areas is healthier because the air is cleaner. – Theo tôi, sống ở vùng nông thôn tốt cho sức khỏe hơn vì không khí sạch hơn.\n- To me, rainy weather is relaxing because I enjoy staying at home and reading books. – Với tôi, thời tiết mưa khá thư giãn vì tôi thích ở nhà đọc sách.\n\n**4. Các lỗi thường gặp:**\n- Trả lời Yes hoặc No rồi dừng lại mà không giải thích thêm.\n- Nhầm lẫn giữa thì hiện tại và quá khứ khi kể trải nghiệm đi nông trại.\n- Chỉ nói “good weather” hoặc “bad weather” mà không mô tả cụ thể.\n- Không đưa ví dụ thực tế liên quan đến cuộc sống cá nhân.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu đệm như: That is an interesting question. Let me think for a second.\n- Nếu quên từ “livestock”, bạn có thể nói animals raised on farms.\n- Với Topic A, nếu bí ý hãy nói về sự yên bình, không khí trong lành hoặc đồ ăn sạch.\n- Với Topic B, nếu bí ý hãy nói về hoạt động bạn thường làm ở nhà khi trời mưa như xem phim hoặc ngủ.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem Part 1 như một cuộc trò chuyện tự nhiên với giám khảo thay vì một bài phát biểu học thuật.\n- Khi chuyển từ chủ đề Farm Life sang Weather, hãy thay đổi tư duy từ môi trường sống sang cảm xúc và thói quen cá nhân.\n- Sự lưu loát và tự nhiên quan trọng hơn việc cố gắng dùng quá nhiều từ vựng khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend is currently staying in the hospital due to an illness. You want to give him a gift to encourage him.\n\nYou are considering the following options:\n\nOption 1: A flower pot\nOption 2: Colored pencils and a drawing book\nOption 3: Healthy food\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn chọn món quà phù hợp nhất để động viên một người bạn đang nằm viện.\n- Ba lựa chọn gồm chậu hoa, bút màu và sổ vẽ hoặc thực phẩm tốt cho sức khỏe.\n- Giám khảo muốn đánh giá khả năng so sánh, lập luận và đưa ra quyết định hợp lý của bạn.\n- Thời gian làm bài khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị ý tưởng và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Bạn có thể sử dụng cấu trúc State opinion – Give reason – Compare – Conclude để trình bày rõ ràng.\n- Mở đầu bằng việc nhắc lại tình huống và mục tiêu là giúp bạn cảm thấy vui vẻ hoặc hồi phục nhanh hơn.\n- Option 1 tạo cảm giác thư giãn và làm căn phòng bệnh viện bớt buồn chán.\n- Option 2 giúp bệnh nhân giải trí và giảm căng thẳng trong thời gian nằm viện.\n- Option 3 hỗ trợ sức khỏe và quá trình hồi phục thể chất.\n- Hãy liên hệ với thực tế cuộc sống để lập luận tự nhiên và dễ thuyết phục hơn.\n- Sử dụng từ nối đối lập như however hoặc on the other hand khi phân tích ưu và nhược điểm của từng lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Hãy liên kết các lựa chọn với nhau thay vì phân tích từng option riêng lẻ hoàn toàn.\n- Khi nói về lợi ích chung hoặc sự thật, hãy dùng hiện tại đơn.\n- Khi giả định kết quả tương lai, hãy dùng cấu trúc như: This gift would help my friend feel happier.\n- Nếu quên từ “colored pencils”, bạn có thể diễn đạt là pencils used for drawing and coloring.\nCụm từ quan trọng nên dùng:\n- recover from illness – hồi phục sau bệnh\n- improve emotional well-being – cải thiện tinh thần\n- show care and support – thể hiện sự quan tâm và hỗ trợ\n- reduce stress and boredom – giảm căng thẳng và buồn chán\n- promote healthy habits – thúc đẩy thói quen lành mạnh\n- create a positive atmosphere – tạo bầu không khí tích cực\nTừ nối khi nói (Linking Words):\n- Firstly – đầu tiên\n- In comparison – so sánh với\n- Moreover – hơn nữa\n- As a result – kết quả là\n- To sum up – tóm lại\nCách thể hiện quan điểm tự nhiên:\n- I would personally choose healthy food because it can directly support my friend’s recovery. – Tôi sẽ chọn thực phẩm tốt cho sức khỏe vì nó hỗ trợ trực tiếp việc hồi phục.\n- Compared to flowers, drawing materials seem more entertaining during a long hospital stay. – So với hoa, dụng cụ vẽ giúp giải trí hơn trong thời gian nằm viện dài.\n- In my opinion, the best gift should improve both physical and mental health. – Theo tôi, món quà tốt nhất nên cải thiện cả sức khỏe thể chất lẫn tinh thần.\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung nói ưu điểm của lựa chọn mình thích mà quên so sánh với hai lựa chọn còn lại.\n- Lặp đi lặp lại các từ đơn giản như good hoặc nice quá nhiều.\n- Không đưa ra kết luận cuối cùng rõ ràng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên biệt, hãy chuyển sang nói về cảm xúc, chi phí hoặc tính hữu ích.\n- Bạn có thể dùng câu đệm như: Let’s evaluate this option from another perspective.\n- Nếu bị bí ý ở một lựa chọn, hãy nhanh chóng chuyển sang option tiếp theo để giữ độ lưu loát.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người bạn thật sự muốn mang lại động lực và sự tích cực cho bệnh nhân.\n- Ngay cả khi đã chọn phương án tốt nhất, bạn vẫn nên nhắc đến một hạn chế nhỏ để thể hiện tư duy phản biện. Topic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of leadership skills\n\nImportance of Leadership\nContributing to organizational development\nImproving communication among members\nMaking beneficial decisions\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think leaders are born or made through practice?\n2\nWhat are the most important qualities of a good leader?\n3\nHow can students develop leadership skills while at university?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn trình bày về tầm quan trọng của kỹ năng lãnh đạo trong học tập, công việc và xã hội.\n- Ba nhánh ý chính gồm phát triển tổ chức, cải thiện giao tiếp và đưa ra quyết định có lợi.\n- Ở nhánh ý tưởng cá nhân, bạn có thể nói về việc leadership giúp truyền cảm hứng và tạo động lực cho người khác.\n- Giám khảo sẽ đánh giá khả năng phát triển ý, độ mạch lạc, vốn từ vựng và phản xạ trả lời follow-up questions.\n- Thời gian khoảng 5 phút, trong đó nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho phần hỏi đáp.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Bạn có thể sử dụng cấu trúc FEEL: Point – Explanation – Example – Link để phát triển từng nhánh ý.\n- **Ví dụ 1:** Today, I would like to talk about why leadership skills are essential in modern society.\n- **Ví dụ 2:** Another important benefit of leadership is inspiring team members to work harder and more confidently.\n- Khi nói về organizational development, hãy liên hệ với công ty hoặc nhóm học tập.\n- Khi nói về communication, hãy giải thích rằng nhà lãnh đạo tốt giúp giảm hiểu lầm giữa các thành viên.\n- Luôn đi theo sơ đồ mindmap để tránh lặp ý và giữ bài nói logic.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng các câu chuyển ý mượt mà như: Another significant aspect is...\n- Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành khi nói về trải nghiệm tích lũy.\n- Thay vì lặp lại leadership skills, bạn có thể dùng management abilities, guiding skills hoặc decision-making abilities. Cụm từ quan trọng nên dùng:\n- make strategic decisions – đưa ra quyết định chiến lược\n- motivate team members – tạo động lực cho thành viên\n- improve workplace communication – cải thiện giao tiếp nơi làm việc\n- handle difficult situations – xử lý tình huống khó khăn\n- achieve long-term goals – đạt mục tiêu dài hạn\n- build trust within a team – xây dựng lòng tin trong nhóm\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Furthermore – hơn nữa\n- For instance – ví dụ\n- Consequently – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, leadership skills are essential because every organization needs effective guidance. – Theo tôi, kỹ năng lãnh đạo rất cần thiết vì mọi tổ chức đều cần sự định hướng hiệu quả.\n- I strongly believe that good leaders can inspire people to achieve better results. – Tôi tin mạnh mẽ rằng nhà lãnh đạo giỏi có thể truyền cảm hứng để đạt kết quả tốt hơn.\n- From my perspective, leadership is not only about power but also responsibility. – Theo góc nhìn của tôi, lãnh đạo không chỉ là quyền lực mà còn là trách nhiệm.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Do you think leaders are born or made through practice?** – I think some people have natural abilities, but leadership skills can definitely be developed through experience and training.\n- **What are the most important qualities of a good leader?** – Good leaders should be responsible, confident and able to communicate effectively.\n- **How can students develop leadership skills while at university?** – Students can join clubs, participate in group projects and organize events to improve leadership abilities.\n\n**5. Các lỗi thường gặp:**\n- Liệt kê quá nhiều phẩm chất của leader mà không giải thích hoặc cho ví dụ cụ thể.\n- Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n- Dành quá nhiều thời gian cho bài nói chính và không đủ thời gian cho follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với trải nghiệm làm nhóm ở trường học hoặc công việc bán thời gian.\n- Bạn có thể dùng câu đệm như: That is a complex issue. If we evaluate it from a professional viewpoint...\n- Nếu quên từ chuyên ngành, hãy diễn đạt bằng từ đơn giản hoặc mô tả chức năng của nó.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn leadership từ góc độ xã hội, doanh nghiệp và phát triển cá nhân.\n- Sự logic và liên kết ý tưởng quan trọng hơn việc cố gắng dùng từ quá khó.\n- Luôn đưa ví dụ thực tế để bài nói tự nhiên, dễ hiểu và thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about farms.\n1.\nHave you ever visited a farm? When was that?\n2.\nWhat kinds of animals or crops are common on farms in your country?\n3.\nDo you think life on a farm is better than life in a big city? Why?\nNow, let’s talk about the weather.\n4.\nWhat is your favorite type of weather? Why?\n5.\nDoes the weather affect your mood or daily activities? How?\n6.\nWhat do you usually do when the weather is bad and you cannot go out?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói gồm 6 câu hỏi cá nhân quen thuộc và thời gian trả lời khoảng 3 phút.\n• Topic A (Farm Life): Các câu hỏi 1–3 tập trung vào trải nghiệm với nông trại, cây trồng, vật nuôi và so sánh cuộc sống\nnông thôn với thành phố.\n• Topic B (Weather): Các câu hỏi 4–6 tập trung vào thời tiết yêu thích, ảnh hưởng của thời tiết đến cảm xúc và hoạt\nđộng hằng ngày.\n• Giám khảo đánh giá dựa trên độ lưu loát, khả năng phát triển ý, vốn từ vựng và phát âm tự nhiên.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng thời gian giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer – Reason – Example để mở rộng câu trả lời tự nhiên và logic.\n• Ví dụ Topic A: I visited a farm when I was in high school because my family wanted me to experience rural life. I really\nenjoyed feeding the animals and picking vegetables.\n• Ví dụ Topic B: My favorite weather is cool and sunny weather because it makes me feel energetic and comfortable\nwhen going outside.\n• Luôn tự hỏi thêm “Why?”, “How?” hoặc “What happened next?” để kéo dài ý.\n• Khi chuyển sang chủ đề thời tiết, bạn có thể dùng câu như: Speaking of daily life, weather also has a strong influence\non people’s emotions and routines.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và dùng filler tự nhiên như actually, well hoặc to be honest để tránh khoảng lặng.\n• Với trải nghiệm đã xảy ra trong quá khứ như đi nông trại, hãy dùng thì quá khứ đơn.\n• Với các câu hỏi về sở thích hoặc thói quen liên quan đến thời tiết, hãy dùng hiện tại đơn.\n• Nếu quên từ vựng, hãy diễn đạt bằng mô tả đơn giản thay vì dừng nói.\n• Vocabulary for Topic A: livestock (gia súc), rice fields (cánh đồng lúa), rural lifestyle (lối sống nông thôn), organic\nvegetables (rau hữu cơ).\n• Vocabulary for Topic B: humid weather (thời tiết ẩm), refreshing atmosphere (bầu không khí dễ chịu), seasonal\nchanges (sự thay đổi mùa), indoor activities (hoạt động trong nhà).\nCụm từ quan trọng nên dùng:\n• live close to nature – sống gần gũi với thiên nhiên\n• grow agricultural products – trồng nông sản\n• lead a peaceful life – sống cuộc sống yên bình\n• feel emotionally affected – bị ảnh hưởng về cảm xúc\n• stay indoors during storms – ở trong nhà khi có bão\n• enjoy cool breezes – tận hưởng những cơn gió mát\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Besides that – bên cạnh đó\n• However – tuy nhiên\n• For example – ví dụ\n• As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n• Personally, I think farm life is less stressful than city life because the environment is quieter. – Cá nhân tôi nghĩ cuộc\nsống nông trại ít căng thẳng hơn thành phố vì môi trường yên tĩnh hơn.\n• From my perspective, sunny weather helps people feel more positive and productive. – Theo góc nhìn của tôi, thời\ntiết nắng đẹp giúp con người tích cực và năng suất hơn.\n• As far as I am concerned, modern cities are convenient but often too crowded and noisy. – Theo tôi, thành phố hiện\nđại tiện lợi nhưng thường quá đông và ồn ào.\n• I believe weather can strongly influence people’s mood and energy. – Tôi tin rằng thời tiết ảnh hưởng mạnh đến tâm\ntrạng và năng lượng.\n• In my opinion, living in rural areas is healthier because the air is cleaner. – Theo tôi, sống ở vùng nông thôn tốt cho\nsức khỏe hơn vì không khí sạch hơn.\n• To me, rainy weather is relaxing because I enjoy staying at home and reading books. – Với tôi, thời tiết mưa khá thư\ngiãn vì tôi thích ở nhà đọc sách.\n4. Các lỗi thường gặp:\n• Trả lời Yes hoặc No rồi dừng lại mà không giải thích thêm.\n• Nhầm lẫn giữa thì hiện tại và quá khứ khi kể trải nghiệm đi nông trại.\n• Chỉ nói “good weather” hoặc “bad weather” mà không mô tả cụ thể.\n• Không đưa ví dụ thực tế liên quan đến cuộc sống cá nhân.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu đệm như: That is an interesting question. Let me think for a second.\n• Nếu quên từ “livestock”, bạn có thể nói animals raised on farms.\n• Với Topic A, nếu bí ý hãy nói về sự yên bình, không khí trong lành hoặc đồ ăn sạch.\n• Với Topic B, nếu bí ý hãy nói về hoạt động bạn thường làm ở nhà khi trời mưa như xem phim hoặc ngủ.\n6. Tư duy làm bài nói:\n• Hãy xem Part 1 như một cuộc trò chuyện tự nhiên với giám khảo thay vì một bài phát biểu học thuật.\n• Khi chuyển từ chủ đề Farm Life sang Weather, hãy thay đổi tư duy từ môi trường sống sang cảm xúc và thói quen cá\nnhân.\n• Sự lưu loát và tự nhiên quan trọng hơn việc cố gắng dùng quá nhiều từ vựng khó.\nSolution Discussion\nPART 2\n4 phút\nYour friend is currently staying in the hospital due to an illness. You want to give him a gift to encourage him.\nYou are considering the following options:\n• Option 1: A flower pot\n• Option 2: Colored pencils and a drawing book\n• Option 3: Healthy food\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn chọn món quà phù hợp nhất để động viên một người bạn đang nằm viện.\n• Ba lựa chọn gồm chậu hoa, bút màu và sổ vẽ hoặc thực phẩm tốt cho sức khỏe.\n• Giám khảo muốn đánh giá khả năng so sánh, lập luận và đưa ra quyết định hợp lý của bạn.\n• Thời gian làm bài khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị ý tưởng và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Bạn có thể sử dụng cấu trúc State opinion – Give reason – Compare – Conclude để trình bày rõ ràng.\n• Mở đầu bằng việc nhắc lại tình huống và mục tiêu là giúp bạn cảm thấy vui vẻ hoặc hồi phục nhanh hơn.\n• Option 1 tạo cảm giác thư giãn và làm căn phòng bệnh viện bớt buồn chán.\n• Option 2 giúp bệnh nhân giải trí và giảm căng thẳng trong thời gian nằm viện.\n• Option 3 hỗ trợ sức khỏe và quá trình hồi phục thể chất.\n• Hãy liên hệ với thực tế cuộc sống để lập luận tự nhiên và dễ thuyết phục hơn.\n• Sử dụng từ nối đối lập như however hoặc on the other hand khi phân tích ưu và nhược điểm của từng lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Hãy liên kết các lựa chọn với nhau thay vì phân tích từng option riêng lẻ hoàn toàn.\n• Khi nói về lợi ích chung hoặc sự thật, hãy dùng hiện tại đơn.\n• Khi giả định kết quả tương lai, hãy dùng cấu trúc như: This gift would help my friend feel happier.\n• Nếu quên từ “colored pencils”, bạn có thể diễn đạt là pencils used for drawing and coloring.\nCụm từ quan trọng nên dùng:\n• recover from illness – hồi phục sau bệnh\n• improve emotional well-being – cải thiện tinh thần\n• show care and support – thể hiện sự quan tâm và hỗ trợ\n• reduce stress and boredom – giảm căng thẳng và buồn chán\n• promote healthy habits – thúc đẩy thói quen lành mạnh\n• create a positive atmosphere – tạo bầu không khí tích cực\nTừ nối khi nói (Linking Words):\n• Firstly – đầu tiên\n• In comparison – so sánh với\n• Moreover – hơn nữa\n• As a result – kết quả là\n• To sum up – tóm lại\nCách thể hiện quan điểm tự nhiên:\n• I would personally choose healthy food because it can directly support my friend’s recovery. – Tôi sẽ chọn thực phẩm\ntốt cho sức khỏe vì nó hỗ trợ trực tiếp việc hồi phục.\n• Compared to flowers, drawing materials seem more entertaining during a long hospital stay. – So với hoa, dụng cụ\nvẽ giúp giải trí hơn trong thời gian nằm viện dài.\n• In my opinion, the best gift should improve both physical and mental health. – Theo tôi, món quà tốt nhất nên cải\nthiện cả sức khỏe thể chất lẫn tinh thần.\n4. Các lỗi thường gặp:\n• Chỉ tập trung nói ưu điểm của lựa chọn mình thích mà quên so sánh với hai lựa chọn còn lại.\n• Lặp đi lặp lại các từ đơn giản như good hoặc nice quá nhiều.\n• Không đưa ra kết luận cuối cùng rõ ràng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên biệt, hãy chuyển sang nói về cảm xúc, chi phí hoặc tính hữu ích.\n• Bạn có thể dùng câu đệm như: Let’s evaluate this option from another perspective.\n• Nếu bị bí ý ở một lựa chọn, hãy nhanh chóng chuyển sang option tiếp theo để giữ độ lưu loát.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người bạn thật sự muốn mang lại động lực và sự tích cực cho bệnh nhân.\n• Ngay cả khi đã chọn phương án tốt nhất, bạn vẫn nên nhắc đến một hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The importance of leadership skills\nContributing to organizational\nImproving communication among\ndevelopment\nmembers\nImportance of Leadership\nÝ tưởng của bạn\nMaking beneficial decisions\nFOLLOW-UP QUESTIONS\n1.\nDo you think leaders are born or made through practice?\n2.\nWhat are the most important qualities of a good leader?\n3.\nHow can students develop leadership skills while at university?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn trình bày về tầm quan trọng của kỹ năng lãnh đạo trong học tập, công việc và xã hội.\n• Ba nhánh ý chính gồm phát triển tổ chức, cải thiện giao tiếp và đưa ra quyết định có lợi.\n• Ở nhánh ý tưởng cá nhân, bạn có thể nói về việc leadership giúp truyền cảm hứng và tạo động lực cho người khác.\n• Giám khảo sẽ đánh giá khả năng phát triển ý, độ mạch lạc, vốn từ vựng và phản xạ trả lời follow-up questions.\n• Thời gian khoảng 5 phút, trong đó nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho phần hỏi đáp.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Bạn có thể sử dụng cấu trúc FEEL: Point – Explanation – Example – Link để phát triển từng nhánh ý.\n• Ví dụ 1: Today, I would like to talk about why leadership skills are essential in modern society.\n• Ví dụ 2: Another important benefit of leadership is inspiring team members to work harder and more confidently.\n• Khi nói về organizational development, hãy liên hệ với công ty hoặc nhóm học tập.\n• Khi nói về communication, hãy giải thích rằng nhà lãnh đạo tốt giúp giảm hiểu lầm giữa các thành viên.\n• Luôn đi theo sơ đồ mindmap để tránh lặp ý và giữ bài nói logic.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng các câu chuyển ý mượt mà như: Another significant aspect is...\n• Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành khi nói về trải nghiệm tích lũy.\n• Thay vì lặp lại leadership skills, bạn có thể dùng management abilities, guiding skills hoặc decision-making abilities.\nCụm từ quan trọng nên dùng:\n• make strategic decisions – đưa ra quyết định chiến lược\n• motivate team members – tạo động lực cho thành viên\n• improve workplace communication – cải thiện giao tiếp nơi làm việc\n• handle difficult situations – xử lý tình huống khó khăn\n• achieve long-term goals – đạt mục tiêu dài hạn\n• build trust within a team – xây dựng lòng tin trong nhóm\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Furthermore – hơn nữa\n• For instance – ví dụ\n• Consequently – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, leadership skills are essential because every organization needs effective guidance. – Theo tôi, kỹ\nnăng lãnh đạo rất cần thiết vì mọi tổ chức đều cần sự định hướng hiệu quả.\n• I strongly believe that good leaders can inspire people to achieve better results. – Tôi tin mạnh mẽ rằng nhà lãnh đạo\ngiỏi có thể truyền cảm hứng để đạt kết quả tốt hơn.\n• From my perspective, leadership is not only about power but also responsibility. – Theo góc nhìn của tôi, lãnh đạo\nkhông chỉ là quyền lực mà còn là trách nhiệm.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do you think leaders are born or made through practice? – I think some people have natural abilities, but leadership\nskills can definitely be developed through experience and training.\n• What are the most important qualities of a good leader? – Good leaders should be responsible, confident and able\nto communicate effectively.\n• How can students develop leadership skills while at university? – Students can join clubs, participate in group\nprojects and organize events to improve leadership abilities.\n5. Các lỗi thường gặp:\n• Liệt kê quá nhiều phẩm chất của leader mà không giải thích hoặc cho ví dụ cụ thể.\n• Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n• Dành quá nhiều thời gian cho bài nói chính và không đủ thời gian cho follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với trải nghiệm làm nhóm ở trường học hoặc công việc bán thời gian.\n• Bạn có thể dùng câu đệm như: That is a complex issue. If we evaluate it from a professional viewpoint...\n• Nếu quên từ chuyên ngành, hãy diễn đạt bằng từ đơn giản hoặc mô tả chức năng của nó.\n7. Tư duy làm bài nói:\n• Hãy nhìn leadership từ góc độ xã hội, doanh nghiệp và phát triển cá nhân.\n• Sự logic và liên kết ý tưởng quan trọng hơn việc cố gắng dùng từ quá khó.\n• Luôn đưa ví dụ thực tế để bài nói tự nhiên, dễ hiểu và thuyết phục hơn."
+}

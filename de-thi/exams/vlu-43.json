@@ -1,0 +1,717 @@
+{
+ "id": "vlu-43",
+ "number": 43,
+ "title": "Đề thi VLU 43",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-43",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Strawberry Bots: The Future of Fruit Harvesting",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Strawberries are one of the most popular fruits in the world, but picking them is hard work. The berries are soft and easy to damage, so people usually pick them by hand, bending over for many hours each day. Many people also want fresh fruit all year, so farms must pick large amounts quickly. In many countries, farms now struggle to find enough workers during the harvest season, so engineers have built robots that can pick strawberries and may change the way we get our fruit.",
+     "Many strawberry robots look like small vehicles that drive slowly along the rows of plants. The robots have cameras that look at each berry, and a computer program decides whether the fruit is **ripe** by checking its colour. Some robots use two cameras to measure how far away each berry is. The program is trained with thousands of photographs that people have labelled, so it can tell the difference between a berry, a leaf, and a stalk even in bright sunlight. The robot does the work on its own computer, so a weak internet signal does not stop the picking.",
+     "When the robot finds a ripe berry, a thin arm moves towards it. At the end of the arm, two small fingers hold the fruit gently, and a tiny blade cuts the stalk. That is important because pulling a strawberry can damage the berry and the plant. After picking, the robot checks the fruit for problems such as marks or the wrong shape, and then puts it carefully into a box so that the berries stay fresh. One company says that its robot checks each berry for sixteen kinds of problem.",
+     "Farm owners say that robots could help farms that have a serious shortage of workers. In the United Kingdom, a report said that thousands of tonnes of berries were wasted in 2021 because there were not enough pickers. Robots do not get tired, so some of them can work at night for up to sixteen hours, and **this** helps farms to finish the harvest faster. However, robots are still slower than good human pickers, and a person can pick between fifteen and thirty kilograms of fruit in an hour.",
+     "At the moment, most robots are expensive, and farmers must be sure that the machines will save money. Experts think that in a few years a robot may cost about the same as human pickers, but they do not expect the machines to replace every worker. People will still be needed to repair the robots, to manage the farms, and to do jobs that machines cannot do well. Robots could also work on other crops, such as tomatoes and grapes, in the same way. In the end, the future of fruit picking will probably be a team of people and robots working together."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Robots that pick strawberries may help farms but cannot replace everyone",
+       "B": "Strawberries have become too expensive for most families to buy",
+       "C": "Farm workers in every country have refused to harvest fruit",
+       "D": "Scientists have invented a machine that can grow berries overnight"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, how does the program decide that a berry is ripe?",
+      "options": {
+       "A": "By measuring how warm each plant feels today",
+       "B": "By asking a farmer to taste a sample",
+       "C": "By listening for a special sound from plants",
+       "D": "By examining the colour of every berry"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 tìm từ \"cameras\" và \"colour\" để nhận diện cách chương trình máy tính quyết định độ chín của quả (kiểm tra màu sắc)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"ripe\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "very small",
+       "B": "ready to eat",
+       "C": "still green",
+       "D": "too sweet"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ripe\" ở đoạn 2 gắn liền với việc kiểm tra màu sắc để xác định quả đã sẵn sàng để thu hoạch và ăn được (ready to eat)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how does the robot cut the strawberry?",
+      "options": {
+       "A": "Strong magnets pull the fruit off the plant",
+       "B": "Hot air blows the berry from above",
+       "C": "A tiny blade cuts through the stalk",
+       "D": "A wide net catches every falling berry"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để tìm cơ chế cắt quả của cánh tay robot: bộ phận kẹp nhẹ hai ngón tay và dùng một lưỡi dao nhỏ cắt phần cuống (a tiny blade cuts through the stalk)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"shortage\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "too many",
+       "B": "fair prices",
+       "C": "heavy rain",
+       "D": "too little"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"shortage\" ở đoạn 4 được đặt trong bối cảnh các trang trại ở nhiều nước chật vật không tìm đủ lao động trong mùa thu hoạch, đồng nghĩa với tình trạng thiếu hụt nhân công (too little)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"this\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Robots working at night",
+       "B": "Farms finishing early",
+       "C": "Pickers earning more",
+       "D": "Batteries charging slowly"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"this\" ở đoạn 4. Áp dụng quy tắc đọc ngược câu liền kề: câu trước nêu việc robot không mệt mỏi và có thể làm việc ban đêm tới 16 giờ, điều này giúp các trang trại hoàn thành vụ thu hoạch nhanh hơn. Do đó, \"this\" quy chiếu đến việc robot làm việc xuyên đêm."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, how much can a person pick in an hour?",
+      "options": {
+       "A": "Nearly two hundred kilograms of fruit every minute",
+       "B": "Only three small baskets before they feel tired",
+       "C": "Between fifteen and thirty kilograms of fruit",
+       "D": "Roughly the same amount as the newest robot"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "A thin arm moves towards the ripe berry",
+       "B": "The robot sprays water on every berry",
+       "C": "Two small fingers hold the fruit very gently",
+       "D": "The robot checks the fruit for small marks"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 4 and 5 about strawberry robots?",
+      "options": {
+       "A": "Strawberries will soon become free for every family everywhere",
+       "B": "Farmers no longer need any workers or any machines",
+       "C": "Robots are cheaper and faster than every human picker",
+       "D": "They may help farms, but people will still be needed"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ đoạn 4 và đoạn 5. Mặc dù robot giúp giải quyết bài toán thiếu nhân công và làm việc không mệt mỏi, văn bản cũng chỉ ra robot vẫn chậm hơn người, chi phí đắt đỏ và kết luận rằng tương lai sẽ là sự kết hợp giữa con người và robot. Từ đó suy luận hợp lý rằng robot hỗ trợ đắc lực cho trang trại nhưng không thể thay thế hoàn toàn con người."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to buy a strawberry robot for their gardens",
+       "B": "To report that many farm workers lost their jobs last year",
+       "C": "To describe how strawberry robots work and why they matter",
+       "D": "To compare strawberries with many other fruits in different countries Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả cao trong phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và kết luận của bài để nắm bắt toàn cảnh: bài viết giới thiệu khó khăn khi hái dâu thủ công, giải pháp robot với công nghệ nhận diện màu sắc, cách hái cơ học, đồng thời phân tích những lợi ích (giải quyết thiếu nhân công, làm việc ban đêm) cũng như giới hạn của robot (giá đắt, chưa thể thay thế hoàn toàn con người). Do đó, ý chính và mục đích viết đều tập trung vào việc mô tả công nghệ robot hái dâu và vai trò thực tế của chúng trong nông nghiệp hiện đại, không chọn các đáp án suy diễn quá đà hoặc sai lệch nội dung.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để định vị thông tin trực diện:\n  - Với **R1Q2**, quét đoạn 2 tìm từ \"cameras\" và \"colour\" để nhận diện cách chương trình máy tính quyết định độ chín của quả (kiểm tra màu sắc).\n  - Với **R1Q4**, quét đoạn 3 để tìm cơ chế cắt quả của cánh tay robot: bộ phận kẹp nhẹ hai ngón tay và dùng một lưỡi dao nhỏ cắt phần cuống (a tiny blade cuts through the stalk).\n  - With **R1Q7**, quét đoạn 4 tìm từ khóa chỉ năng suất con người (\"fifteen and thirty kilograms\") để xác định khối lượng dâu một người thợ có thể hái trong một giờ.\n  - Với **R1Q8** (câu hỏi Loại trừ NOT), đối soát từng ý trong đoạn 3: cánh tay di chuyển đến quả (có), hai ngón tay giữ nhẹ (có), kiểm tra 16 loại lỗi/vết xước (có), chi tiết xịt nước lên quả hoàn toàn không được nhắc đến.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"ripe\"** ở đoạn 2 gắn liền với việc kiểm tra màu sắc để xác định quả đã sẵn sàng để thu hoạch và ăn được (ready to eat).\n  - Với **R1Q5**, từ **\"shortage\"** ở đoạn 4 được đặt trong bối cảnh các trang trại ở nhiều nước chật vật không tìm đủ lao động trong mùa thu hoạch, đồng nghĩa với tình trạng thiếu hụt nhân công (too little).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ **\"this\"** ở đoạn 4. Áp dụng quy tắc đọc ngược câu liền kề: câu trước nêu việc robot không mệt mỏi và có thể làm việc ban đêm tới 16 giờ, điều này giúp các trang trại hoàn thành vụ thu hoạch nhanh hơn. Do đó, \"this\" quy chiếu đến việc robot làm việc xuyên đêm.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ đoạn 4 và đoạn 5. Mặc dù robot giúp giải quyết bài toán thiếu nhân công và làm việc không mệt mỏi, văn bản cũng chỉ ra robot vẫn chậm hơn người, chi phí đắt đỏ và kết luận rằng tương lai sẽ là sự kết hợp giữa con người và robot. Từ đó suy luận hợp lý rằng robot hỗ trợ đắc lực cho trang trại nhưng không thể thay thế hoàn toàn con người.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi định vị từ khóa cụ thể như Chi tiết (R1Q2, R1Q4, R1Q7), Từ vựng (R1Q3, R1Q5) và **Quy chiếu** (R1Q6) trước để tích lũy dữ kiện. Sau đó, kết hợp toàn bộ bức tranh nội dung để xử lý các câu hỏi tổng hợp bao gồm **Ý chính** (R1Q1), **Loại trừ** (R1Q8), **Suy luận** (R1Q9) và **Mục đích tác giả** (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Why We Can't Focus Anymore",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few complaints are as common today as the feeling that our attention is slipping away. People start reading an article and drift to their phones after a paragraph, and they begin a task at work only to be pulled away by incessant notifications. Many finish their evenings wondering where the time went. The sense that concentration has become harder is widely shared, and researchers have begun to measure precisely what has changed.",
+     "The most cited evidence comes from the psychologist Gloria Mark, who has tracked how people use screens for two decades. In a study conducted in 2003, she found that people spent an average of about two and a half minutes on any single screen before switching to something else. In studies carried out between 2016 and 2020, that average had fallen to roughly 47 seconds. These figures come from observation studies, so they are averages and vary widely between individuals. Her work also suggests that recovering from an interruption can take a surprisingly long time, sometimes approaching half an hour.",
+     "Technology is an obvious suspect, and the design of modern devices certainly deserves some of the blame. Smartphones, introduced in 2007, put email, news, and social networks in every pocket, and many apps are designed to encourage **compulsive** checking through notifications, endless feeds, and rewards that arrive unpredictably. Because the rewards are unpredictable, each glance at the screen carries the small possibility of something new.",
+     "Yet technology alone does not fully explain the pattern that researchers have observed. Mark has reported that people interrupt themselves roughly half the time, often to check email, look something up, or visit social media, **which** suggests that the habit is as much internal as external. Curiosity, boredom, and the desire for social contact all play a part, and the structure of the internet makes it easy to wander since it links ideas by association.",
+     "The consequences of constant switching extend well beyond simple irritation or lost time. Frequent switching leaves people feeling more stressed and less able to think deeply, because each return to a task requires effort to reload what was being done. Over a day, those small costs accumulate into fatigue, errors, and a nagging sense of having been busy without achieving much.",
+     "Fortunately, attention is a skill that can be trained and protected with modest effort. Mark recommends setting clear goals and keeping them visible, scheduling demanding work for the part of the day when concentration is naturally strongest, and taking breaks before exhaustion sets in. Others suggest monotasking, turning off non-essential notifications, and creating quiet periods at work when no messages are sent. Short walks in nature and regular meditation have also been linked with lower stress and better focus.",
+     "None of this means that individuals alone can realistically solve the problem. Platforms that profit from engagement have little incentive to protect concentration, so many commentators argue that regulation and better design are needed alongside personal discipline. Still, the research offers a measured conclusion: our attention has not been permanently damaged, but it is being competed for as never before, and keeping hold of it increasingly requires deliberate choices."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Scientists agree that smartphones permanently damaged every adult brain since 2007",
+       "B": "Workers should ignore email entirely because most messages are not useful",
+       "C": "Attention is declining through habits and design, though people can protect it",
+       "D": "Boredom is the only genuine cause of distraction in today's offices"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what did Mark's research find about average focus on a single screen?",
+      "options": {
+       "A": "It rose steadily from one minute to ten minutes",
+       "B": "It dropped from roughly 150 seconds to 47",
+       "C": "It stayed about the same across all twenty years",
+       "D": "It was too small to measure with any equipment"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 tìm nghiên cứu của Gloria Mark để thấy thời gian tập trung trên một màn hình giảm từ khoảng 150 giây xuống còn 47 giây."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"incessant\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "occasional and brief",
+       "B": "gentle and welcome",
+       "C": "faint and far away",
+       "D": "continuous and unending"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"incessant\" ở đoạn 1 mô tả tiếng chuông thông báo và email vang lên không ngừng nghỉ trong môi trường làm việc hiện đại, đồng nghĩa với sự liên tục và không dứt (continuous and unending)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, how long can recovery from an interruption take?",
+      "options": {
+       "A": "Sometimes close to thirty whole minutes",
+       "B": "Usually less than a second or two",
+       "C": "Roughly three entire working days later",
+       "D": "About ten seconds after each message"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 tìm từ khóa \"recovery\" hoặc \"interruption\" để xác định thời gian phục hồi sau khi bị ngắt quãng (gần 30 phút)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"compulsive\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "calm and planned",
+       "B": "slow and careful",
+       "C": "hard to resist",
+       "D": "rare and accidental"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"compulsive\" ở đoạn 3 mô tả thói quen kiểm tra điện thoại/màn hình mang tính tự phát, khó cưỡng lại (hard to resist)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Researchers studying screen use",
+       "B": "Interrupting ourselves frequently",
+       "C": "Looking something up online",
+       "D": "Studies of screen habits"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đầu câu trong đoạn 4. Đọc ngược lại câu trước để tìm hành động/sự việc làm chủ ngữ: câu trước nhắc đến việc chúng ta tự ngắt quãng bản thân ngay cả khi không có thông báo. Do đó, \"which\" quy chiếu thẳng đến hành động tự gây gián đoạn thường xuyên này."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what does Mark recommend?",
+      "options": {
+       "A": "Checking email constantly so that you remain alert",
+       "B": "Working straight through the night without any breaks",
+       "C": "Keeping every single notification switched on all day",
+       "D": "Setting clear goals and keeping them visible"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 6 tìm khuyến nghị của Mark (thiết lập mục tiêu rõ ràng và giữ chúng luôn hiển thị)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Planning hard tasks for your most focused hours",
+       "B": "Creating quiet periods when no messages are sent",
+       "C": "Deleting every social account for several years",
+       "D": "Spending time in nature to reduce stress levels"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3, 4, and 5 about distraction?",
+      "options": {
+       "A": "It results from both device design and personal habits, with real costs",
+       "B": "It is caused entirely by the notifications that nobody can control",
+       "C": "It affects only children, since adults developed strong concentration long ago",
+       "D": "It disappears entirely once people stop using screens for a day"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 5 về nguyên nhân gây mất tập trung. Bài viết chỉ ra rằng sự phân tâm không chỉ đến từ thiết kế cá cám dỗ của thiết bị hay thông báo bên ngoài mà còn xuất phát từ chính thói quen tự chuyển hướng của người dùng, đi kèm với những cái giá đắt về năng suất và sự mệt mỏi. Từ đó suy luận rằng sự phân tâm là kết quả kết hợp từ cả thiết kế thiết bị lẫn thói quen cá nhân."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to delete every app from their phones immediately",
+       "B": "To explore why people struggle to concentrate and what helps",
+       "C": "To report how many hours people spend watching television each week",
+       "D": "To criticise teachers for failing to keep their students focused Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả cao trong phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu và phần kết luận để nắm bắt tổng quát: bài viết thảo luận về tình trạng suy giảm khả năng tập trung do công nghệ và thói quen cá nhân (thông báo liên tục, tự phân tâm), đồng thời đưa ra các giải pháp cải thiện. Do đó, đáp án đúng phải bao quát cả hai vế (nguyên nhân suy giảm sự chú ý và cách bảo vệ sự tập trung), không chọn các phương án cực đoan như từ bỏ hoàn toàn công nghệ hay đổ lỗi cho một yếu tố đơn lẻ.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện:\n  - Với **R2Q2**, quét đoạn 2 tìm nghiên cứu của Gloria Mark để thấy thời gian tập trung trên một màn hình giảm từ khoảng 150 giây xuống còn 47 giây.\n  - Với **R2Q4**, quét đoạn 2 tìm từ khóa \"recovery\" hoặc \"interruption\" để xác định thời gian phục hồi sau khi bị ngắt quãng (gần 30 phút).\n  - Với **R2Q7**, quét đoạn 6 tìm khuyến nghị của Mark (thiết lập mục tiêu rõ ràng và giữ chúng luôn hiển thị).\n  - Với **R2Q8** (câu hỏi Loại trừ NOT), đối soát các giải pháp ở đoạn 6: lập kế hoạch cho giờ tập trung cao độ (có), tạo khoảng thời gian yên tĩnh (có), ra thiên nhiên giảm stress (có), trong khi việc xóa mọi tài khoản mạng xã hội trong nhiều năm hoàn toàn không được đề cập.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"incessant\"** ở đoạn 1 mô tả tiếng chuông thông báo và email vang lên không ngừng nghỉ trong môi trường làm việc hiện đại, đồng nghĩa với sự liên tục và không dứt (continuous and unending).\n  - Với **R2Q5**, từ **\"compulsive\"** ở đoạn 3 mô tả thói quen kiểm tra điện thoại/màn hình mang tính tự phát, khó cưỡng lại (hard to resist).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đầu câu trong đoạn 4. Đọc ngược lại câu trước để tìm hành động/sự việc làm chủ ngữ: câu trước nhắc đến việc chúng ta tự ngắt quãng bản thân ngay cả khi không có thông báo. Do đó, \"which\" quy chiếu thẳng đến hành động tự gây gián đoạn thường xuyên này.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 5 về nguyên nhân gây mất tập trung. Bài viết chỉ ra rằng sự phân tâm không chỉ đến từ thiết kế cá cám dỗ của thiết bị hay thông báo bên ngoài mà còn xuất phát từ chính thói quen tự chuyển hướng của người dùng, đi kèm với những cái giá đắt về năng suất và sự mệt mỏi. Từ đó suy luận rằng sự phân tâm là kết quả kết hợp từ cả thiết kế thiết bị lẫn thói quen cá nhân.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi có từ khóa rõ ràng như Chi tiết (R2Q2, R2Q4, R2Q7) và Từ vựng (R2Q3, R2Q5) để thu thập dữ kiện nền tảng. Tiếp theo, xử lý các câu **Quy chiếu** (R2Q6) và **Loại trừ** (R2Q8). Cuối cùng, dựa trên bức tranh toàn cảnh của bài để hoàn thành các câu hỏi đòi hỏi tư duy bao quát như **Ý chính** (R2Q1), **Suy luận** (R2Q9) và **Mục đích tác giả** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The 15th-Century Court Life in Italy and France",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "By the fifteenth century, the courts of Italy and France had become stages for displaying power. Rulers surrounded themselves with artists, scholars, musicians, and soldiers, partly for pleasure and partly because a crowded, **opulent** household proclaimed authority to rivals and subjects alike. Yet the two regions developed noticeably different styles of court life, and comparing them reveals how geography and politics shaped etiquette.",
+     "Daily routine in an Italian court was shaped by ceremony as much as by government. **[1]** This emphasis on ritual reached its peak at banquets, where guests might enjoy elaborate sugar sculptures, music between courses, and costumed performers arriving on moving platforms. **[2]** Visiting ambassadors, accordingly, studied the guest lists and decorations as closely as the menus. **[3]** Their reports to home governments could influence alliances, marriages, and trade agreements for years afterwards. **[4]** Such influence helped explain why even small courts spent sums that appear disproportionate to their revenues.",
+     "Italian courts usually stood in compact city-states, so rulers lived close to merchants and craftsmen. Urbino under Federico da Montefeltro, Mantua under the Gonzaga family, and Ferrara under the Este family became famous for patronising painters, architects, and humanist scholars who studied classical texts. Education formed part of this world, and young nobles were expected to combine skill in arms with Latin, music, and conversation.",
+     "French royal courts, by contrast, were often itinerant, moving between castles in the Loire Valley, Paris, and the surrounding countryside with hundreds of servants and officials following behind. Because the household travelled, ceremonies often took place in temporary halls, which made portable tapestries and furnishings especially valuable. The Dukes of Burgundy, meanwhile, set standards of ceremony that many French nobles admired. French courtiers competed for royal favour through military service, family connections, and loyalty, since proximity to the king often determined access to pensions and offices.",
+     "Charles VIII's expedition to Italy in 1494 exposed French nobles and soldiers, many of **whom** had never seen such cities, to Italian palaces, gardens, and classical art. Several are said to have returned with artists, craftsmen, and ideas that gradually altered French architecture and ornament. Historians generally caution, however, that French taste had also been changing before the invasion, so the Italian contribution should not be treated as a sudden revolution.",
+     "Women also shaped court culture, though their influence depended on rank and marriage. Isabella d'Este, who married into the Gonzaga family in 1490, collected antiques and paintings and corresponded with leading artists, while Anne of Brittany is often credited with enlarging the queen's household of noblewomen. Their patronage usually operated through persuasion and example rather than formal office, but it could still affect which artists and writers succeeded.",
+     "Court life in fifteenth-century Italy and France was therefore less frivolous than its glittering surface suggests. Even the most ostentatious festival, dress, or building could serve as a calculated message to allies, rivals, and subjects, and it shaped reputations in an age without newspapers. Understanding that logic helps modern readers see why rulers with limited funds still invested so heavily in spectacle, patronage, and ceremony."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "French kings copied every Italian custom after 1494 and abandoned older traditions",
+       "B": "Court life was private entertainment with little connection to politics or power",
+       "C": "Courts in Italy and France used lavish display and patronage as political tools",
+       "D": "Women controlled the daily government of every court in fifteenth-century Europe"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, what did elaborate banquets help rulers to do?",
+      "options": {
+       "A": "Show wealth that rival rulers could hardly equal",
+       "B": "Raise taxes from nearby merchants before the next war",
+       "C": "Train young nobles in Latin and classical philosophy daily",
+       "D": "Persuade foreign ambassadors to leave the city before winter began"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 để thấy các buổi tiệc tùng xa hoa giúp các nhà cai trị thể hiện sự giàu có mà các đối thủ khó lòng sánh kịp."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"opulent\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "plain and cheap",
+       "B": "noisy and unsafe",
+       "C": "quiet and private",
+       "D": "splendid and costly"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"opulent\" ở đoạn 1 mô tả hộ gia đình hoàng gia đông đúc, giàu có và quyền lực, mang nghĩa lộng lẫy và đắt đỏ (splendid and costly)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such lavish display was never mere entertainment, since it advertised wealth that rival rulers could not easily match.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Chèn câu",
+      "explanation": null
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what were young nobles expected to learn?",
+      "options": {
+       "A": "Military skills alongside Latin, music, and polite conversation",
+       "B": "How to farm land and speak Greek fluently",
+       "C": "Trading rules so that they could manage workshop accounts",
+       "D": "Silence in front of every foreign ambassador"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để xác định yêu cầu đối với các nhà quý tộc trẻ: kết hợp kỹ năng quân sự cùng với tiếng Latinh, âm nhạc và nghệ thuật đối thoại lịch sự."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"whom\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Italian palace builders",
+       "B": "Dukes of Burgundy",
+       "C": "French nobles and soldiers",
+       "D": "Merchants from Florence"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"whom\" trong cấu trúc \"many of whom\" ở đoạn 5. Đọc ngược lại danh từ chỉ người đứng trước nó trong mệnh đề: câu nhắc đến các nhà quý tộc và binh lính Pháp tham gia cuộc viễn chinh của Charles VIII năm 1494. Do đó, \"whom\" quy chiếu thẳng đến nhóm quý tộc và binh lính Pháp."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"ostentatious\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "modest and plain",
+       "B": "showy and extravagant",
+       "C": "ancient and fragile",
+       "D": "secret and silent"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ostentatious\" ở đoạn 7 dùng để chỉ các lễ hội, trang phục hay công trình mang tính trưng bày rầm rộ, phô trương và hào nhoáng (showy and extravagant)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "The court often moved between several castles and cities",
+       "B": "Burgundian ceremony was admired by many French nobles",
+       "C": "Closeness to the king affected access to pensions",
+       "D": "Courtiers elected the king by public vote"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about French court culture?",
+      "options": {
+       "A": "It developed through local traditions and Italian contact, not through sudden imitation alone",
+       "B": "It stayed completely isolated from Italian art until the sixteenth century",
+       "C": "It excluded women entirely because queens had no household or influence",
+       "D": "It depended solely on Burgundian rulers who controlled every French castle"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về văn hóa cung đình Pháp. Bài viết chỉ ra rằng văn hóa này chịu ảnh hưởng từ các truyền thống bản địa (như di sản Burgundy) kết hợp với những tiếp xúc từ chuyến viễn chinh Ý, chứ không phải là sự sao chép đột ngột hoàn toàn. Từ đó suy luận đúng là văn hóa cung đình Pháp phát triển qua cả truyền thống địa phương lẫn sự giao thoa với Ý."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that French kings were weaker than Italian dukes",
+       "B": "To advise modern historians how to study fifteenth-century paintings and sculpture",
+       "C": "To explain how Italian and French courts used display politically",
+       "D": "To list the foods that were served at banquets Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả cao trong phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu mở đầu đoạn 1 và đoạn kết luận để nắm bắt toàn cảnh: bài viết chỉ ra các triều đình Ý và Pháp không chỉ giải trí xa hoa mà xem sự trưng bày quyền lực, nghệ thuật và nghi lễ là công cụ chính trị chiến lược. Do đó, đáp án đúng phải phản ánh đúng bản chất chính trị của sự trưng bày và bảo trợ, tránh các suy diễn sai lệch hay cực đoan.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R3Q2**, quét đoạn 2 để thấy các buổi tiệc tùng xa hoa giúp các nhà cai trị thể hiện sự giàu có mà các đối thủ khó lòng sánh kịp.\n  - Với **R3Q5**, quét đoạn 3 để xác định yêu cầu đối với các nhà quý tộc trẻ: kết hợp kỹ năng quân sự cùng với tiếng Latinh, âm nhạc và nghệ thuật đối thoại lịch sự.\n  - Với **R3Q8** (câu hỏi Loại trừ NOT), đối soát các thông tin ở đoạn 4: việc triều đình di chuyển giữa các lâu đài (có), sự ngưỡng mộ nghi lễ Burgundy (có), sự thân cận với nhà vua ảnh hưởng đến trợ cấp (có), trong khi việc triều thần bầu cử nhà vua bằng phiếu phổ thông hoàn toàn không xuất hiện.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"opulent\"** ở đoạn 1 mô tả hộ gia đình hoàng gia đông đúc, giàu có và quyền lực, mang nghĩa lộng lẫy và đắt đỏ (splendid and costly).\n  - Với **R3Q7**, từ **\"ostentatious\"** ở đoạn 7 dùng để chỉ các lễ hội, trang phục hay công trình mang tính trưng bày rầm rộ, phô trương và hào nhoáng (showy and extravagant).\n- **Dạng câu hỏi Chèn câu (Sentence Insertion - R3Q4):** Phân tích vị trí các ô trống **[1]**, **[2]**, **[3]**, **[4]** trong đoạn 2. Câu cần chèn: 'Such lavish display was never mere entertainment, since it advertised wealth that rival rulers could not easily match.' Cụm từ liên kết **\"Such lavish display\"** quy chiếu trực tiếp đến các buổi tiệc tùng xa hoa và nghi lễ được miêu tả ngay trước ô **[2]** (nói về yến tiệc, điêu khắc đường, nghệ sĩ biểu diễn), đồng thời giải thích tại sao các đại sứ lại phải chú ý quan sát kỹ lưỡng để báo cáo về triều đình nhà. Do đó, vị trí phù hợp nhất là **[2]**.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ **\"whom\"** trong cấu trúc \"many of whom\" ở đoạn 5. Đọc ngược lại danh từ chỉ người đứng trước nó trong mệnh đề: câu nhắc đến các nhà quý tộc và binh lính Pháp tham gia cuộc viễn chinh của Charles VIII năm 1494. Do đó, \"whom\" quy chiếu thẳng đến nhóm quý tộc và binh lính Pháp.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về văn hóa cung đình Pháp. Bài viết chỉ ra rằng văn hóa này chịu ảnh hưởng từ các truyền thống bản địa (như di sản Burgundy) kết hợp với những tiếp xúc từ chuyến viễn chinh Ý, chứ không phải là sự sao chép đột ngột hoàn toàn. Từ đó suy luận đúng là văn hóa cung đình Pháp phát triển qua cả truyền thống địa phương lẫn sự giao thoa với Ý.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi định vị từ khóa và ngữ nghĩa như Chi tiết (R3Q2, R3Q5, R3Q8), Từ vựng (R3Q3, R3Q7), **Quy chiếu** (R3Q6) và **Chèn câu** (R3Q4) để củng cố dữ kiện. Sau đó, kết hợp toàn bộ bối cảnh thông tin để hoàn thành các câu hỏi mang tính tổng hợp cao gồm **Ý chính** (R3Q1), **Suy luận** (R3Q9) và **Mục đích tác giả** (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "A Beginner's Guide to Reading Music",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "To an untrained eye, printed music can look like a puzzle in a foreign alphabet. Rows of dots, lines, and curious symbols appear **daunting**, and many beginners assume that reading music requires a special talent. In fact, the system is a logical code with a small number of rules, and many people can learn its essentials in a few weeks of regular practice.",
+     "The foundation of written music is the staff, a set of five lines and four spaces. Each line or space represents a different pitch, named after the first seven letters of the alphabet, and notes placed higher on the staff sound higher. A symbol at the beginning, called a clef, fixes which letter belongs to which line. The treble clef is normally used for higher sounds, such as a pianist's right hand, whereas the bass clef is used for lower ones.",
+     "Pitch tells you which note to play, but rhythm tells you when and how long. Note shapes indicate duration: a whole note lasts four beats in common time, a half note lasts two, and a quarter note lasts one. Each shorter value halves the previous one, so eighth notes, which are joined by a bar across their stems, move twice as fast as quarter notes. The numbers at the start of a piece, known as the time signature, show how many beats fill each bar and which note value counts as one beat.",
+     "Silence is notated as carefully as sound. Rests have their own symbols and tell the player to stay silent for a set number of beats. Composers also add instructions about volume and speed, and many of these terms are Italian, largely because Italian musicians and publishers were highly influential when the conventions developed. For example, piano means soft, forte means loud, allegro suggests a lively pace, and adagio calls for a slow, relaxed one.",
+     "Beyond the basic staff, a small group of symbols changes the pitch of notes. **[1]** These symbols are called accidentals: a sharp raises a note by one semitone, a flat lowers it by the same amount, and a natural cancels either. **[2]** Their effect normally lasts until the end of the bar, after which the original pitch returns. **[3]** Repeating them in every bar would, however, clutter the page whenever a piece stays in one key for a long time. **[4]** Since the signature appears at the start, readers learn to check it before playing the first note.",
+     "Much of this system can be traced to Guido of Arezzo, an Italian monk whose teaching methods are often credited with popularising an early version of the staff in the eleventh century. His system of naming notes with syllables, later adapted into do-re-mi, helped singers learn new melodies. Printing, which spread through Europe in the fifteenth century, gradually made standardised notation affordable, so players in different countries could read the same pages.",
+     "Learning to read music is easier when practice is regular and gradual. Beginners are usually advised to start with simple melodies, naming each note aloud and clapping the rhythm before touching an instrument. Scales are another useful tool, since playing them repeatedly builds familiarity with patterns that appear in countless pieces. Progress rarely feels fast, yet becoming **proficient** at sight-reading, the skill of playing an unfamiliar piece almost immediately, is mostly a matter of consistent and patient exposure. With patience, the page of dots and lines gradually becomes a language that many people can read almost as naturally as ordinary text."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Music notation is a logical system that beginners can learn step by step",
+       "B": "Only trained pianists can understand the symbols printed on musical scores",
+       "C": "Italian monks invented every musical symbol that modern composers still use",
+       "D": "Rhythm matters far less than pitch when learning to read music"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what does a clef do?",
+      "options": {
+       "A": "It tells the player how loudly to perform",
+       "B": "It shows how many beats fill each bar",
+       "C": "It assigns letter names to the lines",
+       "D": "It marks silent moments between the written notes"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 tìm từ \"clef\" để xác định chức năng gán tên các nốt nhạc lên dòng kẻ (assigns letter names to the lines)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"daunting\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "amusing",
+       "B": "intimidating",
+       "C": "inspiring",
+       "D": "irrelevant"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"daunting\" ở đoạn 1 mô tả cảm giác ban đầu khi đối mặt với một bản nhạc chi chít ký hiệu, mang sắc thái làm chùn bước, đáng sợ hoặc gây lo lắng, đồng nghĩa với sự đe dọa, khó khăn (intimidating)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'A key signature solves this problem by placing the necessary sharps or flats once at the start of each line.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": null,
+      "type": "Chèn câu",
+      "explanation": null
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what does the time signature show?",
+      "options": {
+       "A": "The volume at which each phrase is played",
+       "B": "The pitch of the first written note",
+       "C": "The number of beats in each bar",
+       "D": "Which clef the player should use"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 tìm từ khóa \"time signature\" để nhận diện chỉ số nhịp quy định số phách trong mỗi ô nhịp (the number of beats in each bar)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"whose\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Guido of Arezzo",
+       "B": "A choir of singers",
+       "C": "The staff itself",
+       "D": "Italian publishers"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ sở hữu \"whose\" ở đoạn 6. Đọc ngược lại danh từ chỉ người đứng trước nó: đoạn văn nhắc đến nhà lý thuyết âm nhạc Guido of Arezzo (người phát minh ra hệ thống xướng âm và dòng kẻ sớm). Do đó, \"whose\" quy chiếu về Guido of Arezzo."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"proficient\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "reluctant",
+       "B": "easily distracted",
+       "C": "strictly formal",
+       "D": "highly skilled"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned?",
+      "options": {
+       "A": "Rests showing how long a player should stay silent",
+       "B": "Rules for tuning a violin before playing",
+       "C": "Italian terms describing the volume of the sound",
+       "D": "Words indicating whether a passage should be fast"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 5, 6, and 7 about learning to read music?",
+      "options": {
+       "A": "The notation was invented recently, so nobody can read old printed scores",
+       "B": "Sight-reading is impossible without a formal teacher sitting in the room",
+       "C": "The conventions evolved over many centuries, and regular practice makes them quite manageable",
+       "D": "Accidentals and key signatures make written music harder than spoken language"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5, 6 và 7 về quá trình học đọc nhạc. Các quy ước này đã tiến hóa qua nhiều thế kỷ và với sự thực hành đều đặn, người học hoàn toàn có thể nắm bắt chúng một cách dễ dàng (regular practice makes them quite manageable). Từ đó suy luận ra rằng hệ thống ký hiệu trải qua quá trình phát triển lâu dài và có thể quản lý, học tập được thông qua thực hành."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To introduce the basic elements of reading music for beginners",
+       "B": "To argue that professional musicians should abandon written notation entirely",
+       "C": "To compare Italian and French approaches to teaching young choir singers",
+       "D": "To review recent changes in modern piano manufacturing methods"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả cao trong phần thi đọc hiểu này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc mở đầu và kết luận của bài để nắm bắt tinh thần chung: bài viết nhấn mạnh rằng hệ thống ký hiệu âm nhạc thoạt nhìn có vẻ phức tạp nhưng thực chất là một hệ thống logic được phát triển qua nhiều thế kỷ, giúp người học có thể từng bước tiếp cận và thành thạo. Do đó, đáp án đúng phải khẳng định tính logic và khả năng học hỏi từng bước của ký hiệu âm nhạc, tránh các định kiến cực đoan.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, quét đoạn 2 tìm từ \"clef\" để xác định chức năng gán tên các nốt nhạc lên dòng kẻ (assigns letter names to the lines).\n  - Với **R4Q5**, quét đoạn 3 tìm từ khóa \"time signature\" để nhận diện chỉ số nhịp quy định số phách trong mỗi ô nhịp (the number of beats in each bar).\n  - Với **R4Q8** (câu hỏi Loại trừ NOT), đối soát thông tin ở đoạn 4: dấu lặng (có), thuật ngữ ý nghĩa âm lượng tiếng Ý (có), thuật ngữ tốc độ nhanh chậm (có), trong khi quy tắc lên dây đàn violin hoàn toàn không được đề cập.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"daunting\"** ở đoạn 1 mô tả cảm giác ban đầu khi đối mặt với một bản nhạc chi chít ký hiệu, mang sắc thái làm chùn bước, đáng sợ hoặc gây lo lắng, đồng nghĩa với sự đe dọa, khó khăn (intimidating).\n  - With **R4Q7**, từ **\"proficient\"** ở đoạn 7 chỉ những người chơi đàn luyện tập đều đặn và trở nên thành thạo, giỏi giang (highly skilled).\n- **Dạng câu hỏi Chèn câu (Sentence Insertion - R4Q4):** Phân tích vị trí các ô trống **[1]**, **[2]**, **[3]**, **[4]** trong bài. Câu cần chèn: 'A key signature solves this problem by placing the necessary sharps or flats once at the start of each line.' Cụm từ **\"solves this problem\"** ngụ ý rằng câu trước đó phải nêu ra một vấn đề bất tiện (ví dụ như việc phải viết lặp lại các dấu thăng/giáng ở mỗi nốt). Vị trí **[4]** nằm ngay sau khi bài viết thảo luận về cách hệ thống hóa các dấu hóa đầu dòng để giải quyết sự rườm rà này. Do đó, điểm **[4]** là vị trí chính xác.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ sở hữu **\"whose\"** ở đoạn 6. Đọc ngược lại danh từ chỉ người đứng trước nó: đoạn văn nhắc đến nhà lý thuyết âm nhạc **Guido of Arezzo** (người phát minh ra hệ thống xướng âm và dòng kẻ sớm). Do đó, \"whose\" quy chiếu về Guido of Arezzo.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 5, 6 và 7 về quá trình học đọc nhạc. Các quy ước này đã tiến hóa qua nhiều thế kỷ và với sự thực hành đều đặn, người học hoàn toàn có thể nắm bắt chúng một cách dễ dàng (regular practice makes them quite manageable). Từ đó suy luận ra rằng hệ thống ký hiệu trải qua quá trình phát triển lâu dài và có thể quản lý, học tập được thông qua thực hành.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị thông tin trực diện như Chi tiết (R4Q2, R4Q5, R4Q8), Từ vựng (R4Q3, R4Q7), Chèn câu (R4Q4) và Quy chiếu (R4Q6). Sau đó, tổng hợp lại cấu trúc logic của bài để làm các câu hỏi đòi hỏi tư duy khái quát như **Ý chính** (R4Q1), **Suy luận** (R4Q9) và **Mục đích tác giả** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Alex.\nHe is planning to visit Scotland this summer and wants to know your opinion and advice about the trip.\nI am thinking about going to Scotland this summer holiday because I heard that it is a beautiful country with amazing landscapes and interesting culture.\n- Tell Alex what you know about Scotland and the places he should visit.\n- Suggest some activities he can do during the summer.\n- Give him some advice about preparing for the trip.\nWrite an email responding to Alex. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Alex.",
+      "He is planning to visit Scotland this summer and wants to know your opinion and advice about the trip."
+     ],
+     "quote": [
+      "I am thinking about going to Scotland this summer holiday because I heard that it is a beautiful country with amazing landscapes and interesting culture.",
+      "- Tell Alex what you know about Scotland and the places he should visit.",
+      "- Suggest some activities he can do during the summer.",
+      "- Give him some advice about preparing for the trip."
+     ],
+     "instruction": "Write an email responding to Alex. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (email thân mật gửi bạn bè). Giọng văn cần tự nhiên, gần gũi và thân thiện.\n- Đề bài yêu cầu trả lời đủ 3 nội dung: giới thiệu Scotland, gợi ý hoạt động mùa hè và đưa lời khuyên chuẩn bị chuyến đi.\n- Bạn nên viết khoảng 140–170 từ để có đủ ý và phát triển nội dung hợp lý.\n- Không cần sử dụng ngôn ngữ quá học thuật hoặc quá trang trọng như thư công việc.\n- Cần chú ý dùng thì hiện tại đơn để nói thông tin chung và tương lai hoặc should để đưa lời khuyên.\n- Hãy trả lời trực tiếp từng bullet point để tránh bị thiếu ý.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Alex,\n- **Opening:** Cảm ơn thư và dẫn vào chủ đề. Ví dụ: I was happy to hear that you are planning to visit Scotland this summer.\n- **Body paragraph 1:** Giới thiệu các địa điểm nổi tiếng. Ví dụ: You should definitely visit Edinburgh and the Highlands because they are very beautiful.\n- **Body paragraph 2:** Gợi ý hoạt động mùa hè. Ví dụ: You can go hiking, visit castles or join local festivals.\n- **Body paragraph 3:** Đưa lời khuyên chuẩn bị chuyến đi. Ví dụ: You should bring warm clothes because the weather can change quickly.\n- **Closing:** Kết thúc tự nhiên. Ví dụ: I hope you will have an unforgettable trip to Scotland.\n- **Sign-off:** Có thể dùng: Best wishes, Take care, hoặc See you soon.\n- Mỗi đoạn nên có 2–3 câu để bài viết rõ ràng và logic.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng cấu trúc lời khuyên như “should”, “had better”, hoặc “don’t forget to”.\n- Dùng thì Hiện tại đơn để nói sự thật chung về Scotland.\n- Tránh lặp lại quá nhiều từ như “beautiful” hoặc “trip”.\n- Sử dụng thêm ví dụ cụ thể để bài viết sinh động hơn.\n- Kết hợp các từ nối để bài email mạch lạc hơn.\n- Ưu tiên viết câu rõ ràng, đúng ngữ pháp hơn là cố dùng cấu trúc quá khó.\nTừ vựng quan trọng:\n- **Historic castle:** Lâu đài cổ kính\n- **Mountain landscape:** Phong cảnh núi non\n- **Local festival:** Lễ hội địa phương\n- **Traditional culture:** Văn hóa truyền thống\n- **Outdoor activities:** Hoạt động ngoài trời\n- **Tourist attraction:** Điểm thu hút du khách\n- **Changeable weather:** Thời tiết thay đổi thất thường\n- **Summer vacation:** Kỳ nghỉ mùa hè\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Besides:** Bên cạnh đó\n- **Moreover:** Hơn nữa\n- **For example:** Ví dụ\n- **Finally:** Cuối cùng\n- **As a result:** Kết quả là\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am sure you will enjoy it.** Mình chắc rằng bạn sẽ thích chuyến đi đó.\n- **The scenery is absolutely amazing.** Phong cảnh thật sự tuyệt đẹp.\n- **You will have a great time there.** Bạn sẽ có khoảng thời gian tuyệt vời ở đó.\n- **I was really impressed by the culture.** Mình thực sự ấn tượng với văn hóa ở đó.\n\n**4. Các lỗi thường gặp:**\n- Không trả lời đầy đủ cả 3 yêu cầu của đề bài.\n- Dùng ngôn ngữ quá trang trọng như viết thư xin việc.\n- Viết một đoạn quá dài mà không chia ý rõ ràng.\n- Dùng sai thì động từ khi kể hoặc đưa lời khuyên.\n- Lặp từ đơn giản quá nhiều lần.\n- Thiếu phần mở đầu hoặc kết thúc email.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra số lượng từ đã trên 120 chưa.\n- Đảm bảo đã trả lời đầy đủ mọi bullet point.\n- Kiểm tra lỗi chính tả tên riêng và địa danh.\n- Xem lại cách chia thì và cấu trúc should.\n- Đảm bảo bài có bố cục rõ ràng và dễ đọc.\n\n**6. Tư duy làm bài:**\n- Hãy viết như đang thực sự trò chuyện với bạn bè để giọng văn tự nhiên hơn.\n- Tập trung vào việc truyền đạt thông tin rõ ràng thay vì cố dùng từ quá khó.\n- Một bài viết logic, đủ ý và ít lỗi sẽ dễ đạt điểm cao hơn.\n- Nên thêm cảm xúc hoặc nhận xét cá nhân để bài viết sinh động hơn.\n- Luôn bám sát yêu cầu đề bài để tránh viết lan man.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nNowadays, many parents work from home instead of going to offices every day. This trend has become more common due to technological developments and changes in working styles.\nSome people believe that working from home helps parents spend more time with their children and improves family relationships, while others think it can create stress and negatively affect communication between family members.\nDiscuss the effects of working from home on the relationship between parents and children and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about the effects of working from home on the relationship between parents and children. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Nowadays, many parents work from home instead of going to offices every day. This trend has become more common due to technological developments and changes in working styles.",
+      "Some people believe that working from home helps parents spend more time with their children and improves family relationships, while others think it can create stress and negatively affect communication between family members.",
+      "Discuss the effects of working from home on the relationship between parents and children and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about the effects of working from home on the relationship between parents and children. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Discussion Essay**, yêu cầu thảo luận cả tác động tích cực và tiêu cực của việc làm việc tại nhà đối với tình cảm giữa bố mẹ và con cái.\n- Từ khóa quan trọng gồm: “working from home”, “relationship between parents and children”, “effects”.\n- Bạn cần trình bày cả hai mặt của vấn đề trước khi đưa ra ý kiến cá nhân.\n- Bài viết nên có quan điểm rõ ràng ở phần mở bài hoặc kết bài.\n- Yêu cầu tối thiểu là 250 từ, nhưng nên viết khoảng 280–330 từ để phát triển ý tốt hơn.\n- Không nên chỉ tập trung vào lợi ích hoặc chỉ nói về tác hại.\n- Cần đưa ví dụ thực tế liên quan đến cuộc sống gia đình và công việc hiện đại.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu xu hướng làm việc tại nhà và nêu vấn đề. Ví dụ: In recent years, working from home has become increasingly common in many countries.\n- **Body paragraph 1:** Phân tích tác động tích cực. Ví dụ: On the one hand, parents who work from home can spend more time taking care of their children.\n- **Body paragraph 2:** Phân tích tác động tiêu cực. Ví dụ: On the other hand, working from home may create stress because parents have to balance work and family responsibilities.\n- **Body paragraph 3:** Đưa ý kiến cá nhân hoặc giải pháp cân bằng. Ví dụ: I believe that working from home can be beneficial if parents manage their time effectively.\n- **Conclusion:** Tóm tắt ý chính và khẳng định quan điểm. Ví dụ: In conclusion, working from home has both advantages and disadvantages for family relationships.\n- Mỗi đoạn thân bài cần có topic sentence rõ ràng và ví dụ minh họa cụ thể.\n- Nên dùng cấu trúc giải thích nguyên nhân và kết quả để bài viết logic hơn.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để trình bày quan điểm và sự thật chung.\n- Kết hợp ví dụ thực tế như cha mẹ giúp con học bài hoặc bị áp lực công việc tại nhà.\n- Dùng từ đồng nghĩa để tránh lặp lại “working from home” và “family”.\n- Đảm bảo mỗi đoạn có sự liên kết bằng từ nối phù hợp.\n- Nêu rõ quan điểm cá nhân thay vì viết mơ hồ.\n- Tránh viết câu quá dài dễ dẫn đến lỗi ngữ pháp.\n- Nên sử dụng các cụm từ học thuật ở mức B1–B2.\nTừ vựng quan trọng:\n- **Work-life balance:** Cân bằng công việc và cuộc sống\n- **Family bonding:** Sự gắn kết gia đình\n- **Flexible schedule:** Lịch trình linh hoạt\n- **Emotional support:** Sự hỗ trợ tinh thần\n- **Household responsibilities:** Trách nhiệm trong gia đình\n- **Communication gap:** Khoảng cách giao tiếp\n- **Stress management:** Quản lý căng thẳng\n- **Quality time:** Thời gian chất lượng bên gia đình\nTừ nối (Linking words):\n- **On the one hand:** Một mặt\n- **On the other hand:** Mặt khác\n- **Furthermore:** Hơn nữa\n- **However:** Tuy nhiên\n- **As a result:** Kết quả là\n- **For example:** Ví dụ\n- **In conclusion:** Kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- **Working from home -> remote working:** Cách diễn đạt học thuật hơn cho “làm việc tại nhà”.\n- **Parents and children -> family members:** Cách thay thế giúp tránh lặp từ.\n- **Improve relationships -> strengthen family bonds:** Diễn đạt nâng cao hơn cho “cải thiện mối quan hệ”.\n- **Spend more time together -> share more quality time:** Cách diễn đạt tự nhiên và học thuật hơn.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **I believe that...** Tôi tin rằng...\n- **One major benefit is that...** Một lợi ích lớn là...\n- **A possible solution is to...** Một giải pháp khả thi là...\n- **This may lead to...** Điều này có thể dẫn đến...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về lợi ích mà quên phân tích mặt tiêu cực.\n- Không đưa quan điểm cá nhân rõ ràng.\n- Lặp lại từ “family” hoặc “work” quá nhiều lần.\n- Viết đoạn quá dài nhưng thiếu ví dụ cụ thể.\n- Dùng sai cấu trúc “On the one hand / On the other hand”.\n- Thiếu câu kết luận tổng hợp ý chính.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã viết đủ trên 250 từ chưa.\n- Đảm bảo đã thảo luận cả hai mặt của vấn đề.\n- Kiểm tra lỗi chia thì và số ít/số nhiều.\n- Xem lại các từ nối để bài viết mạch lạc hơn.\n- Đảm bảo mỗi đoạn đều có ý chính rõ ràng.\n- Kiểm tra xem kết luận đã thể hiện quan điểm cá nhân chưa.\n\n**6. Tư duy làm bài:**\n- Hãy tập trung vào việc phát triển ý rõ ràng và logic thay vì cố viết quá phức tạp.\n- Một bài viết có ví dụ thực tế và lập luận hợp lý sẽ dễ đạt điểm cao hơn.\n- Luôn bám sát yêu cầu “discuss the effects” để tránh lạc đề.\n- Đừng quên thể hiện quan điểm cá nhân một cách rõ ràng và nhất quán.\n- Sự mạch lạc và tổ chức ý tưởng tốt là yếu tố rất quan trọng trong bài Writing."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about your last trip\n\n1\nWhere did you go on your most recent trip?\n2\nWhat did you enjoy most about that trip?\n3\nDo you prefer traveling alone or with other people? Why?\n\nNow, let’s talk about new habits\n\n4\nHave you developed any new habits recently?\n5\nWhy do you think this new habit is important for you?\n6\nDo you think it is difficult for people to maintain good habits? Why or why not?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 gồm 6 câu hỏi ngắn trong khoảng 3 phút và yêu cầu bạn phản xạ nhanh, trả lời tự nhiên.\n- **Topic A (A Trip):** Các câu hỏi 1–3 xoay quanh chuyến đi gần đây, trải nghiệm du lịch và sở thích đi du lịch.\n- **Topic B (A New Habit):** Các câu hỏi 4–6 tập trung vào thói quen mới, lợi ích của thói quen và khả năng duy trì thói quen tốt.\n- Giám khảo đánh giá sự trôi chảy, phát âm, ngữ pháp và khả năng mở rộng ý tưởng.\n- Bạn nên chia thời gian đều cho cả hai chủ đề, khoảng 25–35 giây cho mỗi câu hỏi.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer -> Reason -> Example để trả lời tự nhiên và đủ ý.\n- **Ví dụ Topic A:** Last month, I went to Da Lat with my friends because we wanted to relax after our exams and enjoy the cool weather.\n- **Ví dụ Topic B:** Recently, I have started waking up early to exercise because I want to improve my health and feel more energetic.\n- Luôn tự hỏi Why? hoặc How? để kéo dài câu trả lời thay vì trả lời quá ngắn.\n- Để chuyển ý tự nhiên, bạn có thể dùng câu như: Another reason is that...\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và sử dụng filler tự nhiên như actually, well hoặc to be honest.\n- Với Topic A, nên dùng quá khứ đơn để kể về chuyến đi gần đây.\n- Với Topic B, chủ yếu dùng hiện tại đơn hoặc hiện tại hoàn thành để nói về thói quen mới.\n- Nếu quên từ vựng, hãy mô tả ý bằng từ đơn giản hơn thay vì dừng lại quá lâu.\n- Vocabulary for Topic A: breathtaking scenery (phong cảnh đẹp ngoạn mục), local cuisine (ẩm thực địa phương), memorable experience (trải nghiệm đáng nhớ), recharge my batteries (nạp lại năng lượng).\n- Vocabulary for Topic B: healthy lifestyle (lối sống lành mạnh), daily routine (thói quen hằng ngày), self-discipline (tính kỷ luật), build a habit (hình thành thói quen).\nCụm từ quan trọng nên dùng:\n- I had an unforgettable trip with my family. – Tôi có một chuyến đi khó quên với gia đình.\n- The scenery there was absolutely beautiful. – Phong cảnh ở đó thực sự rất đẹp.\n- Traveling helps me reduce stress after studying. – Du lịch giúp tôi giảm căng thẳng sau khi học.\n- I have recently developed a healthier lifestyle. – Gần đây tôi xây dựng lối sống lành mạnh hơn.\n- This habit helps me become more productive. – Thói quen này giúp tôi làm việc hiệu quả hơn.\n- It takes time and effort to maintain a good habit. – Cần thời gian và nỗ lực để duy trì thói quen tốt.\nTừ nối khi nói (Linking Words):\n- First of all – trước hết.\n- Besides that – bên cạnh đó.\n- For example – ví dụ.\n- However – tuy nhiên.\n- As a result – kết quả là.\nCách thể hiện quan điểm tự nhiên:\n- Personally, I really enjoy traveling because it allows me to explore new places. – Cá nhân tôi rất thích du lịch vì được khám phá nơi mới.\n- From my perspective, traveling with friends is more exciting than traveling alone. – Theo quan điểm của tôi, đi với bạn bè thú vị hơn đi một mình.\n- To be honest, I think short trips are a great way to relax. – Thành thật mà nói, tôi nghĩ những chuyến đi ngắn rất tốt để thư giãn.\n- Personally, I believe good habits can improve both physical and mental health. – Cá nhân tôi tin rằng thói quen tốt cải thiện sức khỏe thể chất lẫn tinh thần.\n- In my opinion, consistency is the key to maintaining a new habit. – Theo tôi, sự kiên trì là chìa khóa để duy trì thói quen mới.\n- I think people often give up habits because they are too busy. – Tôi nghĩ nhiều người từ bỏ thói quen vì quá bận.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời Yes hoặc No rồi dừng lại là lỗi nghiêm trọng nhất.\n- Kể về chuyến đi nhưng không đưa ví dụ cụ thể hoặc cảm xúc cá nhân.\n- Dùng sai thì khi nói về thói quen mới.\n- Phát âm sai các từ như habit, travel hoặc routine.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng filler như: That is an interesting question, let me think for a second.\n- Nếu quên tên địa điểm du lịch, hãy mô tả cảnh vật hoặc hoạt động ở đó.\n- Với Topic A, nếu bí ý hãy nói về đồ ăn, thời tiết hoặc con người ở nơi bạn đến.\n- Với Topic B, nếu không có thói quen mới thật sự, bạn có thể nói về thói quen mà bạn muốn phát triển trong tương lai.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem phần thi như một cuộc trò chuyện thân thiện với giám khảo.\n- Khi chuyển từ chủ đề du lịch sang thói quen mới, hãy thay đổi ví dụ và cách diễn đạt để bài nói đa dạng hơn.\n- Sự tự nhiên và rõ ràng quan trọng hơn việc dùng từ quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend wants to start reading more books during the summer holiday.\n\nYou are considering the following options:\n\nOption 1: A detective novel\nOption 2: A romantic novel\nOption 3: A science book\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đề bài yêu cầu bạn chọn loại sách phù hợp nhất cho bạn của mình trong kỳ nghỉ hè.\n- Ba lựa chọn gồm tiểu thuyết trinh thám, tiểu thuyết tình yêu và sách khoa học.\n- Bạn cần phân tích ưu và nhược điểm của từng lựa chọn trước khi đưa ra quyết định cuối cùng.\n- Giám khảo đánh giá khả năng lập luận logic, từ vựng và độ trôi chảy.\n- Thời gian khoảng 4 phút, nên dành 1 phút chuẩn bị và khoảng 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc State opinion -> Give reason -> Compare -> Conclude để trình bày rõ ràng.\n- Option 1 có thể hấp dẫn vì tạo cảm giác hồi hộp và kích thích tư duy.\n- Option 2 phù hợp với người thích cảm xúc và giải trí nhẹ nhàng.\n- Option 3 giúp mở rộng kiến thức và học hỏi điều mới.\n- Hãy liên hệ với tính cách hoặc sở thích của người bạn để lập luận tự nhiên hơn.\n- Dùng từ nối đối lập như however hoặc on the other hand để so sánh các lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn thay vì chỉ nói riêng từng loại sách.\n- Dùng hiện tại đơn để nói về đặc điểm chung của từng loại sách.\n- Nếu quên từ vựng chuyên môn, hãy mô tả nội dung hoặc cảm giác khi đọc loại sách đó.\n- Sử dụng các tính từ như educational, entertaining, suspenseful để bài nói đa dạng hơn.\nCụm từ quan trọng nên dùng:\n- broaden knowledge – mở rộng kiến thức.\n- full of suspense – đầy kịch tính.\n- emotionally engaging – hấp dẫn về cảm xúc.\n- develop critical thinking – phát triển tư duy phản biện.\n- an enjoyable reading experience – trải nghiệm đọc thú vị.\n- learn something practical – học điều gì đó hữu ích.\nTừ nối khi nói (Linking Words):\n- Firstly – đầu tiên.\n- In addition – thêm vào đó.\n- On the contrary – ngược lại.\n- As a result – kết quả là.\n- In conclusion – kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n- Personally, I would choose a detective novel because it keeps readers curious and excited. – Cá nhân tôi sẽ chọn tiểu thuyết trinh thám vì nó tạo sự tò mò và hấp dẫn.\n- In my opinion, science books are more educational and useful in the long term. – Theo tôi, sách khoa học mang tính giáo dục và hữu ích lâu dài hơn.\n- I believe romantic novels are suitable for people who want to relax and enjoy emotional stories. – Tôi tin tiểu thuyết tình cảm phù hợp với người muốn thư giãn.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình thích mà không so sánh với hai lựa chọn còn lại.\n- Lặp lại các từ đơn giản như good hoặc interesting quá nhiều.\n- Không đưa ra quyết định cuối cùng rõ ràng ở phần kết luận.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên ngành, hãy nói về lợi ích hoặc cảm xúc mà loại sách đó mang lại.\n- Dùng câu như: Let's look at this option from another perspective.\n- Nếu bí ở một lựa chọn, hãy chuyển sang lựa chọn khác để duy trì độ trôi chảy.\n\n**6. Tư duy làm bài nói:**\n- Hãy nghĩ như một người thật sự đang tư vấn sách cho bạn của mình.\n- Ngay cả khi đã chọn một loại sách, bạn vẫn nên đề cập ngắn gọn ưu điểm của các lựa chọn còn lại để bài nói cân bằng hơn.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of making good decisions\n\nMaking Good Decisions\nFactors that influence decision-making\nEffects of good and bad decisions\nWays to improve decision-making skills\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy do some people make poor decisions?\n2\nDo young people today have too many choices in life?\n3\nHow can schools help students make better decisions?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về tầm quan trọng của việc đưa ra quyết định đúng đắn trong cuộc sống.\n- Ba nhánh mindmap gồm yếu tố ảnh hưởng tới quyết định, tác động của quyết định tốt hoặc xấu và cách cải thiện kỹ năng ra quyết định.\n- Nhánh ý cá nhân có thể nói về kinh nghiệm cá nhân hoặc vai trò của gia đình và bạn bè trong việc hỗ trợ quyết định.\n- Giám khảo đánh giá độ logic, khả năng phát triển ý và trả lời follow-up.\n- Thời gian khoảng 5 phút, nên dành khoảng 3–3.5 phút cho bài nói chính.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để phát triển từng nhánh ý.\n- **Ví dụ 1:** Today, I would like to talk about why making good decisions is extremely important in our daily lives.\n- **Ví dụ 2:** From my own experience, asking for advice from family members can help people avoid making wrong decisions.\n- Hãy đưa ví dụ gần gũi như chọn ngành học, quản lý thời gian hoặc sử dụng tiền bạc.\n- Đi theo mindmap để tránh lặp ý và giữ bài nói mạch lạc.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng các cụm chuyển ý như moving on to another point hoặc another important factor is.\n- Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành để nói về trải nghiệm tích lũy.\n- Có thể paraphrase decision-making bằng phrases như making choices hoặc solving problems.\n- Giữ giọng điệu tự tin và giải thích rõ nguyên nhân – kết quả.\nCụm từ quan trọng nên dùng:\n- make informed decisions – đưa ra quyết định có hiểu biết.\n- face the consequences – đối mặt với hậu quả.\n- critical thinking skills – kỹ năng tư duy phản biện.\n- long-term impact – ảnh hưởng lâu dài.\n- weigh the pros and cons – cân nhắc ưu và nhược điểm.\n- seek advice from others – tìm lời khuyên từ người khác.\nTừ nối khi nói (Linking Words):\n- First of all – trước hết.\n- Furthermore – hơn nữa.\n- For instance – ví dụ.\n- As a consequence – kết quả là.\n- Finally – cuối cùng.\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, good decisions can have a positive impact on a person's future. – Theo tôi, quyết định đúng có thể ảnh hưởng tích cực tới tương lai.\n- I personally believe people should think carefully before making important choices. – Cá nhân tôi tin mọi người nên suy nghĩ kỹ trước khi đưa ra quyết định quan trọng.\n- From my perspective, experience plays a major role in decision-making. – Theo góc nhìn của tôi, kinh nghiệm đóng vai trò lớn trong việc ra quyết định.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Why do some people make poor decisions?** – Because they may act emotionally or make choices without enough information.\n- **Do young people today have too many choices in life?** – Yes, modern society offers many opportunities, which can sometimes make young people confused.\n- **How can schools help students make better decisions?** – Schools can teach critical thinking and problem-solving skills through practical activities.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê ý mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển nhánh ý cá nhân thứ tư.\n- Dành quá nhiều thời gian cho bài nói chính và không còn thời gian cho follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ tới quyết định hằng ngày như chọn ngành học hoặc quản lý thời gian.\n- Dùng câu kéo thời gian như: That is a complex issue. If we evaluate it from a social perspective...\n- Nếu quên từ chuyên môn, hãy mô tả ý bằng từ đơn giản hơn.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ từ góc nhìn thực tế của sinh viên và người trưởng thành.\n- Sự logic và liên kết giữa các ý quan trọng hơn việc dùng từ quá khó.\n- Luôn cố gắng giải thích hậu quả hoặc lợi ích của quyết định để bài nói sâu sắc hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 4 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about your last trip.\n1.\nWhere did you go on your most recent trip?\n2.\nWhat did you enjoy most about that trip?\n3.\nDo you prefer traveling alone or with other people? Why?\nNow, let’s talk about new habits.\n4.\nHave you developed any new habits recently?\n5.\nWhy do you think this new habit is important for you?\n6.\nDo you think it is difficult for people to maintain good habits? Why or why not?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 gồm 6 câu hỏi ngắn trong khoảng 3 phút và yêu cầu bạn phản xạ nhanh, trả lời tự nhiên.\n• Topic A (A Trip): Các câu hỏi 1–3 xoay quanh chuyến đi gần đây, trải nghiệm du lịch và sở thích đi du lịch.\n• Topic B (A New Habit): Các câu hỏi 4–6 tập trung vào thói quen mới, lợi ích của thói quen và khả năng duy trì thói\nquen tốt.\n• Giám khảo đánh giá sự trôi chảy, phát âm, ngữ pháp và khả năng mở rộng ý tưởng.\n• Bạn nên chia thời gian đều cho cả hai chủ đề, khoảng 25–35 giây cho mỗi câu hỏi.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer -> Reason -> Example để trả lời tự nhiên và đủ ý.\n• Ví dụ Topic A: Last month, I went to Da Lat with my friends because we wanted to relax after our exams and enjoy\nthe cool weather.\n• Ví dụ Topic B: Recently, I have started waking up early to exercise because I want to improve my health and feel more\nenergetic.\n• Luôn tự hỏi Why? hoặc How? để kéo dài câu trả lời thay vì trả lời quá ngắn.\n• Để chuyển ý tự nhiên, bạn có thể dùng câu như: Another reason is that...\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và sử dụng filler tự nhiên như actually, well hoặc to be honest.\n• Với Topic A, nên dùng quá khứ đơn để kể về chuyến đi gần đây.\n• Với Topic B, chủ yếu dùng hiện tại đơn hoặc hiện tại hoàn thành để nói về thói quen mới.\n• Nếu quên từ vựng, hãy mô tả ý bằng từ đơn giản hơn thay vì dừng lại quá lâu.\n• Vocabulary for Topic A: breathtaking scenery (phong cảnh đẹp ngoạn mục), local cuisine (ẩm thực địa phương),\nmemorable experience (trải nghiệm đáng nhớ), recharge my batteries (nạp lại năng lượng).\n• Vocabulary for Topic B: healthy lifestyle (lối sống lành mạnh), daily routine (thói quen hằng ngày), self-discipline (tính\nkỷ luật), build a habit (hình thành thói quen).\nCụm từ quan trọng nên dùng:\n• I had an unforgettable trip with my family. – Tôi có một chuyến đi khó quên với gia đình.\n• The scenery there was absolutely beautiful. – Phong cảnh ở đó thực sự rất đẹp.\n• Traveling helps me reduce stress after studying. – Du lịch giúp tôi giảm căng thẳng sau khi học.\n• I have recently developed a healthier lifestyle. – Gần đây tôi xây dựng lối sống lành mạnh hơn.\n• This habit helps me become more productive. – Thói quen này giúp tôi làm việc hiệu quả hơn.\n• It takes time and effort to maintain a good habit. – Cần thời gian và nỗ lực để duy trì thói quen tốt.\nTừ nối khi nói (Linking Words):\n• First of all – trước hết.\n• Besides that – bên cạnh đó.\n• For example – ví dụ.\n• However – tuy nhiên.\n• As a result – kết quả là.\nCách thể hiện quan điểm tự nhiên:\n• Personally, I really enjoy traveling because it allows me to explore new places. – Cá nhân tôi rất thích du lịch vì được\nkhám phá nơi mới.\n• From my perspective, traveling with friends is more exciting than traveling alone. – Theo quan điểm của tôi, đi với\nbạn bè thú vị hơn đi một mình.\n• To be honest, I think short trips are a great way to relax. – Thành thật mà nói, tôi nghĩ những chuyến đi ngắn rất tốt\nđể thư giãn.\n• Personally, I believe good habits can improve both physical and mental health. – Cá nhân tôi tin rằng thói quen tốt\ncải thiện sức khỏe thể chất lẫn tinh thần.\n• In my opinion, consistency is the key to maintaining a new habit. – Theo tôi, sự kiên trì là chìa khóa để duy trì thói\nquen mới.\n• I think people often give up habits because they are too busy. – Tôi nghĩ nhiều người từ bỏ thói quen vì quá bận.\n4. Các lỗi thường gặp:\n• Chỉ trả lời Yes hoặc No rồi dừng lại là lỗi nghiêm trọng nhất.\n• Kể về chuyến đi nhưng không đưa ví dụ cụ thể hoặc cảm xúc cá nhân.\n• Dùng sai thì khi nói về thói quen mới.\n• Phát âm sai các từ như habit, travel hoặc routine.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng filler như: That is an interesting question, let me think for a second.\n• Nếu quên tên địa điểm du lịch, hãy mô tả cảnh vật hoặc hoạt động ở đó.\n• Với Topic A, nếu bí ý hãy nói về đồ ăn, thời tiết hoặc con người ở nơi bạn đến.\n• Với Topic B, nếu không có thói quen mới thật sự, bạn có thể nói về thói quen mà bạn muốn phát triển trong tương lai.\n6. Tư duy làm bài nói:\n• Hãy xem phần thi như một cuộc trò chuyện thân thiện với giám khảo.\n• Khi chuyển từ chủ đề du lịch sang thói quen mới, hãy thay đổi ví dụ và cách diễn đạt để bài nói đa dạng hơn.\n• Sự tự nhiên và rõ ràng quan trọng hơn việc dùng từ quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYour friend wants to start reading more books during the summer holiday.\nYou are considering the following options:\n• Option 1: A detective novel\n• Option 2: A romantic novel\n• Option 3: A science book\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đề bài yêu cầu bạn chọn loại sách phù hợp nhất cho bạn của mình trong kỳ nghỉ hè.\n• Ba lựa chọn gồm tiểu thuyết trinh thám, tiểu thuyết tình yêu và sách khoa học.\n• Bạn cần phân tích ưu và nhược điểm của từng lựa chọn trước khi đưa ra quyết định cuối cùng.\n• Giám khảo đánh giá khả năng lập luận logic, từ vựng và độ trôi chảy.\n• Thời gian khoảng 4 phút, nên dành 1 phút chuẩn bị và khoảng 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc State opinion -> Give reason -> Compare -> Conclude để trình bày rõ ràng.\n• Option 1 có thể hấp dẫn vì tạo cảm giác hồi hộp và kích thích tư duy.\n• Option 2 phù hợp với người thích cảm xúc và giải trí nhẹ nhàng.\n• Option 3 giúp mở rộng kiến thức và học hỏi điều mới.\n• Hãy liên hệ với tính cách hoặc sở thích của người bạn để lập luận tự nhiên hơn.\n• Dùng từ nối đối lập như however hoặc on the other hand để so sánh các lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn thay vì chỉ nói riêng từng loại sách.\n• Dùng hiện tại đơn để nói về đặc điểm chung của từng loại sách.\n• Nếu quên từ vựng chuyên môn, hãy mô tả nội dung hoặc cảm giác khi đọc loại sách đó.\n• Sử dụng các tính từ như educational, entertaining, suspenseful để bài nói đa dạng hơn.\nCụm từ quan trọng nên dùng:\n• broaden knowledge – mở rộng kiến thức.\n• full of suspense – đầy kịch tính.\n• emotionally engaging – hấp dẫn về cảm xúc.\n• develop critical thinking – phát triển tư duy phản biện.\n• an enjoyable reading experience – trải nghiệm đọc thú vị.\n• learn something practical – học điều gì đó hữu ích.\nTừ nối khi nói (Linking Words):\n• Firstly – đầu tiên.\n• In addition – thêm vào đó.\n• On the contrary – ngược lại.\n• As a result – kết quả là.\n• In conclusion – kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n• Personally, I would choose a detective novel because it keeps readers curious and excited. – Cá nhân tôi sẽ chọn\ntiểu thuyết trinh thám vì nó tạo sự tò mò và hấp dẫn.\n• In my opinion, science books are more educational and useful in the long term. – Theo tôi, sách khoa học mang tính\ngiáo dục và hữu ích lâu dài hơn.\n• I believe romantic novels are suitable for people who want to relax and enjoy emotional stories. – Tôi tin tiểu thuyết\ntình cảm phù hợp với người muốn thư giãn.\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình thích mà không so sánh với hai lựa chọn còn lại.\n• Lặp lại các từ đơn giản như good hoặc interesting quá nhiều.\n• Không đưa ra quyết định cuối cùng rõ ràng ở phần kết luận.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên ngành, hãy nói về lợi ích hoặc cảm xúc mà loại sách đó mang lại.\n• Dùng câu như: Let's look at this option from another perspective.\n• Nếu bí ở một lựa chọn, hãy chuyển sang lựa chọn khác để duy trì độ trôi chảy.\n6. Tư duy làm bài nói:\n• Hãy nghĩ như một người thật sự đang tư vấn sách cho bạn của mình.\n• Ngay cả khi đã chọn một loại sách, bạn vẫn nên đề cập ngắn gọn ưu điểm của các lựa chọn còn lại để bài nói cân\nbằng hơn.\nTopic Development\nPART 3\n5 phút\nTopic: The importance of making good decisions\nFactors that influence decision-making\nEffects of good and bad decisions\nMaking Good Decisions\nÝ tưởng của bạn\nWays to improve decision-making skills\nFOLLOW-UP QUESTIONS\n1.\nWhy do some people make poor decisions?\n2.\nDo young people today have too many choices in life?\n3.\nHow can schools help students make better decisions?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về tầm quan trọng của việc đưa ra quyết định đúng đắn trong cuộc sống.\n• Ba nhánh mindmap gồm yếu tố ảnh hưởng tới quyết định, tác động của quyết định tốt hoặc xấu và cách cải thiện kỹ\nnăng ra quyết định.\n• Nhánh ý cá nhân có thể nói về kinh nghiệm cá nhân hoặc vai trò của gia đình và bạn bè trong việc hỗ trợ quyết định.\n• Giám khảo đánh giá độ logic, khả năng phát triển ý và trả lời follow-up.\n• Thời gian khoảng 5 phút, nên dành khoảng 3–3.5 phút cho bài nói chính.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để phát triển từng nhánh ý.\n• Ví dụ 1: Today, I would like to talk about why making good decisions is extremely important in our daily lives.\n• Ví dụ 2: From my own experience, asking for advice from family members can help people avoid making wrong\ndecisions.\n• Hãy đưa ví dụ gần gũi như chọn ngành học, quản lý thời gian hoặc sử dụng tiền bạc.\n• Đi theo mindmap để tránh lặp ý và giữ bài nói mạch lạc.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng các cụm chuyển ý như moving on to another point hoặc another important factor is.\n• Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành để nói về trải nghiệm tích lũy.\n• Có thể paraphrase decision-making bằng phrases như making choices hoặc solving problems.\n• Giữ giọng điệu tự tin và giải thích rõ nguyên nhân – kết quả.\nCụm từ quan trọng nên dùng:\n• make informed decisions – đưa ra quyết định có hiểu biết.\n• face the consequences – đối mặt với hậu quả.\n• critical thinking skills – kỹ năng tư duy phản biện.\n• long-term impact – ảnh hưởng lâu dài.\n• weigh the pros and cons – cân nhắc ưu và nhược điểm.\n• seek advice from others – tìm lời khuyên từ người khác.\nTừ nối khi nói (Linking Words):\n• First of all – trước hết.\n• Furthermore – hơn nữa.\n• For instance – ví dụ.\n• As a consequence – kết quả là.\n• Finally – cuối cùng.\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, good decisions can have a positive impact on a person's future. – Theo tôi, quyết định đúng có thể\nảnh hưởng tích cực tới tương lai.\n• I personally believe people should think carefully before making important choices. – Cá nhân tôi tin mọi người nên\nsuy nghĩ kỹ trước khi đưa ra quyết định quan trọng.\n• From my perspective, experience plays a major role in decision-making. – Theo góc nhìn của tôi, kinh nghiệm đóng\nvai trò lớn trong việc ra quyết định.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Why do some people make poor decisions? – Because they may act emotionally or make choices without enough\ninformation.\n• Do young people today have too many choices in life? – Yes, modern society offers many opportunities, which can\nsometimes make young people confused.\n• How can schools help students make better decisions? – Schools can teach critical thinking and problem-solving\nskills through practical activities.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê ý mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển nhánh ý cá nhân thứ tư.\n• Dành quá nhiều thời gian cho bài nói chính và không còn thời gian cho follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ tới quyết định hằng ngày như chọn ngành học hoặc quản lý thời gian.\n• Dùng câu kéo thời gian như: That is a complex issue. If we evaluate it from a social perspective...\n• Nếu quên từ chuyên môn, hãy mô tả ý bằng từ đơn giản hơn.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ từ góc nhìn thực tế của sinh viên và người trưởng thành.\n• Sự logic và liên kết giữa các ý quan trọng hơn việc dùng từ quá khó.\n• Luôn cố gắng giải thích hậu quả hoặc lợi ích của quyết định để bài nói sâu sắc hơn."
+}

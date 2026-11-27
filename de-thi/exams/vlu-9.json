@@ -1,0 +1,717 @@
+{
+ "id": "vlu-9",
+ "number": 9,
+ "title": "Đề thi VLU 9",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-9",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Magic of Fairy Tales in Childhood",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Almost every child in the world grows up hearing fairy tales, whether from a parent at bedtime, a teacher in class, or a grandparent telling stories around the family table. These stories are very old, and many of them were told aloud for hundreds of years before anyone wrote them down. Cinderella, Snow White, and Hansel and Gretel are only a few examples. Even today, when children have films, games, and tablets, fairy tales remain popular, and many experts believe they still teach children important lessons about life. Their plots are simple, but their images are strong and easy to remember.",
+     "Fairy tales are full of **vivid** characters and places, such as talking animals and dark forests. When children listen to these stories, they must build the pictures in their own minds, and **this** helps to develop their imagination. A film shows everything on a screen, but a story told aloud leaves room for each child to imagine the details in a personal way. Teachers often notice that children who hear many stories find it easier to invent their own, and their drawings and games become more creative.",
+     "Fairy tales also help children to learn language. Stories use repeated patterns, such as 'once upon a time' and 'they lived happily ever after', so young listeners quickly learn how a story begins and ends. New words appear in a clear context, which makes them easier to remember. In addition, most fairy tales teach simple values. The kind and honest hero is rewarded, while the greedy or cruel character is punished, and children slowly begin to understand the difference between right and wrong. This is why children often ask to hear the same story again and again.",
+     "Some adults worry that fairy tales are too frightening for young children, because wolves, witches, and cruel stepmothers appear in so many of them today. However, psychologists suggest that these dark characters can actually **reassure** many children. In a story, the child can meet fear in a safe place, and the hero usually finds a way to win. This shows young listeners that problems can be solved, even when they seem very large at first, and that courage and cleverness often matter more than strength.",
+     "Parents can make the most of fairy tales at home in several simple ways. Reading aloud for just ten minutes each evening gives children a sense of comfort, and it also makes bedtime a happy and relaxing time for the whole family. Parents can stop at an exciting moment and ask, 'What do you think will happen next?' Children can then discuss the story, draw a favourite scene, or even act it out. In conclusion, fairy tales are more than entertainment, because they build imagination, language, and confidence, and they bring families closer together."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "Why modern children prefer films and games to stories",
+       "B": "How writers first collected old stories from different countries",
+       "C": "The ways fairy tales help children develop and learn",
+       "D": "Which fairy tales should be banned from children's bookshops"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why does listening to a story help imagination?",
+      "options": {
+       "A": "Children must create the pictures in their own minds",
+       "B": "A story shows every detail clearly on a large screen",
+       "C": "Teachers draw all the characters on the classroom board",
+       "D": "Parents ask children to copy characters from picture books"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"imagination\" ở đoạn 2 để thấy khi nghe kể chuyện, trẻ phải tự xây dựng hình ảnh trong tâm trí mình."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"vivid\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "dull and grey",
+       "B": "quiet and soft",
+       "C": "small and weak",
+       "D": "lively and bright"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what do children learn from repeated patterns in stories?",
+      "options": {
+       "A": "How to spell new words without any teacher",
+       "B": "How a story normally begins and ends",
+       "C": "Which countries the oldest stories come from",
+       "D": "How to find the author of each tale"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét cụm từ \"repeated patterns\" ở đoạn 4 (thực tế ở đoạn 3) để nhận ra các cấu trúc lặp giúp trẻ nắm bắt cách một câu chuyện bắt đầu và kết thúc như thế nào."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"reassure\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "alarm",
+       "B": "bore",
+       "C": "calm",
+       "D": "annoy"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"reassure\" ở đoạn 4 xuất hiện trong bối cảnh các nhân vật đáng sợ thực ra giúp trẻ trấn an, đối mặt với nỗi sợ trong môi trường an toàn, mang nghĩa làm dịu, trấn an (calm)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"this\" in paragraph 2 refers to _______.",
+      "options": {
+       "A": "Creating mental pictures",
+       "B": "Watching a short film",
+       "C": "Telling bedtime stories",
+       "D": "Visiting an old castle"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"this\" ở đoạn 2. Đọc ngược lại câu văn ngay trước đó mô tả hành động trẻ phải tự tạo hình ảnh trong tâm trí mình khi nghe kể chuyện, giúp phát triển trí tưởng tượng."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what can children learn from the hero's success?",
+      "options": {
+       "A": "Strong people always win against clever people",
+       "B": "Scary animals should always be avoided in forests",
+       "C": "Wolves and witches are real dangers in towns",
+       "D": "Problems can be solved with courage and cleverness"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"hero's success\" ở đoạn 4 để thấy bài học rằng các vấn đề hoàn toàn có thể được giải quyết bằng lòng dũng cảm và sự thông minh."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT suggested as an activity?",
+      "options": {
+       "A": "Recording the story and selling it online",
+       "B": "Reading aloud for ten minutes each evening",
+       "C": "Asking what might happen next in the story",
+       "D": "Drawing a favourite scene from the story"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu danh sách các hoạt động ở đoạn 5: đọc to mười phút, hỏi điều gì xảy ra tiếp theo, vẽ cảnh yêu thích đều được đề cập; việc ghi âm và bán câu chuyện trực tuyến hoàn toàn không xuất hiện."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about the writer's opinion of fairy tales?",
+      "options": {
+       "A": "Only very young listeners can enjoy them",
+       "B": "They are still valuable for children today",
+       "C": "They should be replaced by modern films",
+       "D": "They have become less popular than ever before"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ toàn bài về việc dù có công nghệ hiện đại, truyện cổ tích vẫn đóng vai trò quan trọng trong việc xây dựng trí tưởng tượng, ngôn ngữ và sự tự tin, qua đó suy luận ra rằng truyện cổ tích vẫn vô cùng giá trị đối với trẻ em ngày nay."
+     },
+     {
+      "number": 10,
+      "stem": "Why did the writer write this passage?",
+      "options": {
+       "A": "To warn parents that fairy tales are dangerous",
+       "B": "To list famous writers who created fairy tales",
+       "C": "To explain the benefits of fairy tales for children",
+       "D": "To compare fairy tales with modern computer games Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích viết",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích viết (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu sức sống lâu bền và vai trò của truyện cổ tích; đoạn 2 phân tích lợi ích phát triển trí tưởng tượng; đoạn 3 nói về việc học ngôn ngữ và giá trị đạo đức; đoạn 4 giải thích cách truyện cổ tích giúp trẻ đối diện nỗi sợ; đoạn 5 đưa ra các gợi ý hoạt động cho phụ huynh. Do đó, phương án đúng cần khái quát được toàn diện các cách thức mà truyện cổ tích giúp trẻ phát triển và học hỏi.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R1Q2**, tìm từ khóa \"imagination\" ở đoạn 2 để thấy khi nghe kể chuyện, trẻ phải tự xây dựng hình ảnh trong tâm trí mình.\n  - Với **R1Q4**, quét cụm từ \"repeated patterns\" ở đoạn 4 (thực tế ở đoạn 3) để nhận ra các cấu trúc lặp giúp trẻ nắm bắt cách một câu chuyện bắt đầu và kết thúc như thế nào.\n  - Với **R1Q7**, tìm từ khóa \"hero's success\" ở đoạn 4 để thấy bài học rằng các vấn đề hoàn toàn có thể được giải quyết bằng lòng dũng cảm và sự thông minh.\n  - Với **R1Q8**, đối chiếu danh sách các hoạt động ở đoạn 5: đọc to mười phút, hỏi điều gì xảy ra tiếp theo, vẽ cảnh yêu thích đều được đề cập; việc ghi âm và bán câu chuyện trực tuyến hoàn toàn không xuất hiện.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - With **R1Q3**, từ **\"vivid\"** ở đoạn 2 đi kèm với các nhân vật và bối cảnh sinh động như động vật biết nói, mang nghĩa sống động, tươi sáng (lively and bright).\n  - Với **R1Q5**, từ **\"reassure\"** ở đoạn 4 xuất hiện trong bối cảnh các nhân vật đáng sợ thực ra giúp trẻ trấn an, đối mặt với nỗi sợ trong môi trường an toàn, mang nghĩa làm dịu, trấn an (calm).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ **\"this\"** ở đoạn 2. Đọc ngược lại câu văn ngay trước đó mô tả hành động trẻ phải tự tạo hình ảnh trong tâm trí mình khi nghe kể chuyện, giúp phát triển trí tưởng tượng.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ toàn bài về việc dù có công nghệ hiện đại, truyện cổ tích vẫn đóng vai trò quan trọng trong việc xây dựng trí tưởng tượng, ngôn ngữ và sự tự tin, qua đó suy luận ra rằng truyện cổ tích vẫn vô cùng giá trị đối với trẻ em ngày nay.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R1Q3, R1Q5) và Quy chiếu (R1Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để hoàn thành nhanh các câu hỏi **Chi tiết** (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, tổng hợp nội dung toàn bài để xử lý các câu hỏi mang tính khái quát cao như **Ý chính** (R1Q1), **Suy luận** (R1Q9) và Mục đích viết (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Viking Expansion and Maritime Innovation",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "The Vikings, Scandinavian seafarers active from the late eighth century, are often remembered mainly as raiders. Historians now emphasise that they were also traders, settlers, and explorers whose journeys connected regions as distant as Newfoundland and the Caspian Sea. Their success depended less on military superiority than on a remarkable ability to travel quickly and unpredictably across open water, an ability rooted in their ships.",
+     "The longship was the heart of this achievement. Built using overlapping oak planks fastened with iron rivets, its hull was both light and flexible, allowing it to bend with the waves rather than resist them. A shallow keel let crews sail up rivers and land directly on beaches, so raiders could strike inland targets and **withdraw** before local forces could assemble. Because the vessel was symmetrical, it could also reverse direction without turning around.",
+     "Not every vessel was designed for war. The knarr, a broader and deeper cargo ship, carried livestock, timber, and supplies across the North Atlantic to Iceland and Greenland, where settlers established farming communities. Navigation relied on careful observation rather than instruments. Sailors read the position of the sun, the flight of birds, and the colour of the water. Some historians believe they also used a sunstone to locate the sun on cloudy days, though **this** remains debated.",
+     "In the east, Swedish Vikings known as the Rus travelled along the great rivers of Eastern Europe. Because the rapids made large ships impractical, they used lighter boats that could be carried overland between waterways, a technique called portaging. These routes carried furs, amber, and enslaved people towards Constantinople and the Islamic world, returning with silver coins that have been discovered in hoards across Scandinavia.",
+     "In the west, Viking activity took a different form. After decades of raiding, groups settled in eastern England, in parts of Ireland, and in Normandy, whose name derives from 'Northmen', and in each place they built ports and markets. Settlement was rarely a simple conquest, since Vikings often married local women and adopted local languages and religions, and their descendants became hard to distinguish from neighbouring populations within a few generations. Linguistic evidence of this blending remains visible today in many English words, including sky, window, and egg.",
+     "The Viking Age is conventionally said to end around 1066, though the decline was gradual. Christianisation, the growth of centralised monarchies in Scandinavia, and stronger defences in the lands they had raided all reduced the profitability of plunder, while trade increasingly replaced violence as the main source of wealth. Even so, Viking shipbuilding left a lasting legacy, influencing the clinker-built vessels used in northern Europe for centuries.",
+     "The Vikings therefore illustrate how technology can reshape the reach of a small society. Their ships did not make them invincible, and their reputation for violence was sometimes exaggerated by the monks who recorded early raids. Yet the combination of shallow-draught hulls, skilled navigation, and willingness to travel far beyond familiar waters allowed them to influence lands from Russia to North America, leaving traces that historians continue to uncover."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Viking raiders succeeded mainly because their armies were larger",
+       "B": "Innovative ships helped Vikings trade, settle, and explore widely",
+       "C": "Scandinavian kings forced all neighbours to adopt Norse religion",
+       "D": "The Viking Age ended suddenly when raiding became unprofitable"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what advantage did the longship's shallow keel provide?",
+      "options": {
+       "A": "It allowed ships to carry very heavy stone cargo",
+       "B": "It protected sailors from storms in the open ocean",
+       "C": "It reduced the need for any crew on board",
+       "D": "Crews could attack inland targets and retreat quickly"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"shallow keel\" ở đoạn 2 để thấy ưu điểm của sống tàu nông là giúp các đội thuyền tấn công mục tiêu trong đất liền và rút lui nhanh chóng."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"withdraw\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "retreat",
+       "B": "attack",
+       "C": "arrive",
+       "D": "gather"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"withdraw\" ở đoạn 2 đi kèm bối cảnh tấn công mục tiêu rồi rút lui trước khi quân địa phương kịp tập hợp, mang nghĩa rút lui (retreat)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, how did the Rus overcome river rapids?",
+      "options": {
+       "A": "They built large stone bridges across every river",
+       "B": "They hired local guides to carry their cargo",
+       "C": "They carried lighter boats overland between waterways",
+       "D": "They waited for winter and crossed thick ice"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"river rapids\" hoặc \"Rus\" ở đoạn 4 để thấy họ vượt qua thác ghềnh bằng cách mang các con thuyền nhẹ đi bộ qua đường bộ giữa các tuyến nước (portaging)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"impractical\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "affordable",
+       "B": "unsuitable",
+       "C": "reliable",
+       "D": "comfortable"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"impractical\" ở đoạn 4 xuất hiện khi nói về việc thác ghềnh làm cho các tàu lớn trở nên không khả thi, bất tiện, mang nghĩa không phù hợp, không thực tế (unsuitable)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"this\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Using a sunstone",
+       "B": "Reading bird flight",
+       "C": "Observing the sun",
+       "D": "Sailing on cloudy days"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"this\" ở đoạn 3. Đọc ngược lại câu văn trước nhắc đến việc một số nhà sử học tin rằng họ cũng sử dụng đá mặt trời (sunstone) để định vị mặt trời vào những ngày nhiều mây, mặc dù việc này vẫn còn tranh cãi."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what happened to Vikings who settled in the west?",
+      "options": {
+       "A": "They remained separate and refused local languages",
+       "B": "They returned to Scandinavia after a single winter",
+       "C": "The Church expelled them within a generation",
+       "D": "Their descendants blended into the local populations"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"settled in the west\" ở đoạn 5 để ghi nhận kết quả là con cháu của họ đã hòa nhập vào dân cư địa phương sau vài thế hệ."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a feature of Viking ships?",
+      "options": {
+       "A": "Overlapping oak planks fastened with iron rivets",
+       "B": "A shallow keel allowing direct beach landings",
+       "C": "Hulls covered with thick protective plates of copper",
+       "D": "A symmetrical shape that allowed quick reversal"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các đặc điểm của tàu Viking được đề cập: ván gỗ sồi chồng lên nhau (đoạn 2), sống tàu nông (đoạn 2), thân tàu đối xứng (đoạn 2); chi tiết \"thân tàu phủ lớp đồng bảo vệ dày\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3, 4, and 5 about Viking expansion?",
+      "options": {
+       "A": "It adapted its methods to suit very different environments",
+       "B": "It depended entirely on a single type of ship",
+       "C": "It was directed by one central Scandinavian government",
+       "D": "It always replaced local cultures with Norse customs"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 5 về cách người Viking sử dụng các loại thuyền khác nhau, vượt thác ghềnh bằng đường bộ ở phía đông và thích ứng, hòa nhập phong tục ở phía tây, từ đó suy luận ra rằng sự bành trướng của họ đã thích ứng linh hoạt với các môi trường rất khác nhau."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that Vikings were more peaceful than Christians",
+       "B": "To show how maritime innovation shaped Viking expansion",
+       "C": "To describe the daily lives of Viking farming families",
+       "D": "To compare Viking ships with modern naval vessels Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích viết (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu vai trò của người Viking không chỉ là cướp bóc mà còn là thương nhân, người định cư nhờ vào tàu thuyền; đoạn 2 nói về thiết kế tàu dài (longship); đoạn 3 về tàu chở hàng (knarr) và kỹ năng định hướng; đoạn 4 về các tuyến đường sông ở phía đông (người Rus); đoạn 5 về sự hòa nhập ở phía tây; đoạn 6 và 7 tổng kết sự suy giảm và di sản lâu dài. Do đó, phương án đúng cần phản ánh việc các đổi mới về tàu thuyền đã giúp người Viking giao thương, định cư và khám phá rộng rãi.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R2Q2**, tìm từ khóa \"shallow keel\" ở đoạn 2 để thấy ưu điểm của sống tàu nông là giúp các đội thuyền tấn công mục tiêu trong đất liền và rút lui nhanh chóng.\n  - Với **R2Q4**, quét từ khóa \"river rapids\" hoặc \"Rus\" ở đoạn 4 để thấy họ vượt qua thác ghềnh bằng cách mang các con thuyền nhẹ đi bộ qua đường bộ giữa các tuyến nước (portaging).\n  - Với **R2Q7**, tìm từ khóa \"settled in the west\" ở đoạn 5 để ghi nhận kết quả là con cháu của họ đã hòa nhập vào dân cư địa phương sau vài thế hệ.\n  - Với **R2Q8**, đối chiếu các đặc điểm của tàu Viking được đề cập: ván gỗ sồi chồng lên nhau (đoạn 2), sống tàu nông (đoạn 2), thân tàu đối xứng (đoạn 2); chi tiết \"thân tàu phủ lớp đồng bảo vệ dày\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"withdraw\"** ở đoạn 2 đi kèm bối cảnh tấn công mục tiêu rồi rút lui trước khi quân địa phương kịp tập hợp, mang nghĩa rút lui (retreat).\n  - Với **R2Q5**, từ **\"impractical\"** ở đoạn 4 xuất hiện khi nói về việc thác ghềnh làm cho các tàu lớn trở nên không khả thi, bất tiện, mang nghĩa không phù hợp, không thực tế (unsuitable).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ **\"this\"** ở đoạn 3. Đọc ngược lại câu văn trước nhắc đến việc một số nhà sử học tin rằng họ cũng sử dụng đá mặt trời (sunstone) để định vị mặt trời vào những ngày nhiều mây, mặc dù việc này vẫn còn tranh cãi.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 5 về cách người Viking sử dụng các loại thuyền khác nhau, vượt thác ghềnh bằng đường bộ ở phía đông và thích ứng, hòa nhập phong tục ở phía tây, từ đó suy luận ra rằng sự bành trướng của họ đã thích ứng linh hoạt với các môi trường rất khác nhau.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng như Từ vựng (R2Q3, R2Q5) và Quy chiếu (R2Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để hoàn thành nhanh các câu hỏi **Chi tiết** (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, tổng hợp nội dung toàn bài để xử lý các câu hỏi mang tính khái quát cao như **Ý chính** (R2Q1), **Suy luận** (R2Q9) và **Mục** đích viết (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Rise of Motorized Suitcases in Japanese Tourism",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Visitors to Japanese airports and railway stations have occasionally been **startled** by an unusual sight, an adult gliding through the concourse while seated on a suitcase. Motorised luggage of this kind, which combines a case, a small electric motor, and a seat or footrest, has moved from novelty product to a modest but visible part of the travel landscape. Its rise raises questions about technology, accessibility, and the shared use of public space.",
+     "Japan offers unusually favourable conditions for personal mobility devices of this kind. Its transport network is dense, punctual, and heavily used, so travellers often walk long distances between platforms, ticket gates, and connecting lines while carrying heavy bags. Visitor numbers have also recovered strongly since the pandemic, and favourable exchange rates have at times encouraged tourists to stay longer and shop more, increasing the luggage they must move.",
+     "Supporters of the idea point to several practical advantages. **[1]** For travellers with limited stamina, such as older passengers or people recovering from injury, a motorised case can reduce the strain of crossing large terminals. **[2]** Parents travelling with young children are another group who may benefit, since both hands remain free. **[3]** Manufacturers add that such devices are cheaper and easier to store than mobility scooters, and that they can double as ordinary luggage once the rider stands up. **[4]** Some travellers also simply enjoy the novelty.",
+     "Critics, however, emphasise the risks. A rider seated close to the ground is harder for other pedestrians to see, and a motor-assisted case can travel at a speed that is unsuitable for crowded platforms. A collision with a child or an elderly passenger could cause serious injury. Station operators also worry about escalators and stairs, where a heavy battery-powered device can become dangerous, and about the strict rules governing lithium batteries on aircraft.",
+     "Japanese authorities have generally preferred guidance to prohibition. Transport companies publish rules about behaviour on platforms and concourses, and some venues ask visitors to switch off motors or to walk beside their luggage in crowded areas. Such informal management has so far been considered adequate by most operators. This approach reflects a broader cultural emphasis on consideration for others, **which** may help explain why disputes over luggage have often been resolved through polite requests rather than formal penalties.",
+     "The trend also illustrates how tourism products can respond to demographic change over time. Japan has one of the oldest populations in the world, and an ageing society creates demand for devices that extend mobility, from walking aids to electric wheelchairs. A motorised case may therefore be viewed less as a toy than as part of a wider market for assistive technology, although its precise classification under safety law can be **ambiguous**.",
+     "Motorised suitcases are unlikely to replace conventional luggage, and their long-term future remains uncertain. Their appeal depends on whether designers can solve problems of safety, battery weight, and airline approval, and on whether public spaces can accommodate vehicles that blur the line between luggage and transport. What the trend does show is a tourism industry willing to experiment with solutions to genuine problems of movement. Whether those experiments endure will depend on evidence rather than novelty."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Japanese airports have banned all personal mobility devices permanently",
+       "B": "Luggage manufacturers have replaced wheelchairs for elderly passengers entirely",
+       "C": "Tourists prefer motorised suitcases because they are cheaper than trains",
+       "D": "Motorised suitcases offer convenience but raise safety questions"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why might Japan suit motorised luggage?",
+      "options": {
+       "A": "Dense transport networks involve long walks with heavy bags",
+       "B": "Strict laws oblige every visitor to own a mobility device",
+       "C": "Domestic airlines charge nothing for oversized luggage on flights",
+       "D": "Local residents never travel without several large suitcases"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"favourable conditions\" hoặc \"Japan\" ở đoạn 2 để thấy mạng lưới giao thông dày đặc khiến hành khách phải đi bộ những quãng đường dài với hành lý nặng."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"startled\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "pleased",
+       "B": "bored",
+       "C": "surprised",
+       "D": "impressed"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"startled\" ở đoạn 1 miêu tả cảm giác của du khách khi lần đầu nhìn thấy người ngồi trên va-li di chuyển qua sảnh, mang nghĩa bất ngờ, ngạc nhiên (surprised)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Their needs, however, are often met more safely by airport wheelchair services.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ ý nghĩa câu cần chèn 'Their needs, however, are often met more safely by airport wheelchair services.' (Tuy nhiên, nhu cầu của họ thường được đáp ứng an toàn hơn bằng các dịch vụ xe lăn tại sân bay). Cụm từ 'Their needs' quy chiếu đến nhóm đối tượng được nhắc đến ngay trước đó ở vị trí [1]: hành khách có sức bền hạn chế như người cao tuổi hoặc người đang phục hồi sau chấn thương. Do đó, vị trí phù hợp nhất để chèn câu này là ngay sau vị trí [1], nhằm phản biện và đưa ra lựa chọn an toàn hơn cho nhóm đối tượng này."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, why do critics worry about seated riders?",
+      "options": {
+       "A": "They can damage platform floors with heavy wheels",
+       "B": "They often ignore staff instructions on escalators",
+       "C": "They usually refuse to follow station announcements",
+       "D": "They are harder for pedestrians to notice"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"critics\" hoặc \"riders\" ở đoạn 4 để thấy người lái va-li ở gần mặt đất khiến người đi bộ khác khó nhìn thấy hơn."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Emphasis on consideration",
+       "B": "Transport companies' published rules",
+       "C": "Switching motors off",
+       "D": "Disputes over luggage"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"which\" ở đoạn 5. Đọc ngược lại mệnh đề ngay trước đó nói về việc văn hóa nhấn mạnh sự quan tâm đến người khác (cultural emphasis on consideration for others), giúp giải thích lý do các tranh chấp được giải quyết bằng sự lịch sự thay vì hình phạt."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"ambiguous\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "lenient",
+       "B": "generous",
+       "C": "unclear",
+       "D": "outdated"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ambiguous\" ở đoạn 6 xuất hiện trong bối cảnh phân loại pháp lý của va-li động cơ dưới luật an toàn còn chưa rõ ràng, mang nghĩa mập mờ, không rõ ràng (unclear)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as an advantage claimed by supporters?",
+      "options": {
+       "A": "Reduced strain when crossing large terminals",
+       "B": "Faster boarding priority at departure gates",
+       "C": "Free hands for parents with young children",
+       "D": "Easier storage than most mobility scooters"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các ưu điểm được người ủng hộ nêu ra ở đoạn 3: giảm căng thẳng khi đi qua các ga lớn, rảnh tay cho phụ huynh có trẻ nhỏ, dễ cất giữ hơn xe tay ga di động; việc ưu tiên lên máy bay nhanh hơn tại các cửa khởi hành hoàn toàn không được nhắc đến."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 2, 5, and 6 about the future of motorised suitcases in Japan?",
+      "options": {
+       "A": "Airlines will soon require every traveller to use motorised cases",
+       "B": "Older residents have already abandoned wheelchairs in favour of suitcases",
+       "C": "Demand will disappear once tourist numbers return to normal levels",
+       "D": "Acceptance will probably depend on etiquette and how regulators classify them"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2, 5 và 6 về quy định không chính thức, phép lịch sự xã hội và việc phân loại va-li dưới luật an toàn, từ đó suy luận ra rằng sự chấp nhận trong tương lai sẽ phụ thuộc vào phép xã giao và cách các nhà quản lý phân loại chúng."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To discuss benefits, risks, and regulation of motorised suitcases",
+       "B": "To advertise a new model of electric luggage to tourists",
+       "C": "To compare Japanese transport systems with European ones",
+       "D": "To argue that all personal mobility devices should be banned Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích viết (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu sự xuất hiện của va-li động cơ tại Nhật Bản; đoạn 2 phân tích điều kiện giao thông thuận lợi; đoạn 3 nêu các lợi ích từ phía người ủng hộ; đoạn 4 chỉ ra các rủi ro và lo ngại về an toàn từ phía chỉ trích; đoạn 5 nói về cách quản lý và văn hóa ứng xử; đoạn 6 bàn về sự thay đổi nhân khẩu học và tính pháp lý; đoạn 7 kết luận về tương lai của xu hướng này. Do đó, phương án đúng cần phản ánh đầy đủ hai mặt: mang lại sự tiện lợi nhưng đồng thời đặt ra các câu hỏi và vấn đề về an toàn.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R3Q2**, tìm từ khóa \"favourable conditions\" hoặc \"Japan\" ở đoạn 2 để thấy mạng lưới giao thông dày đặc khiến hành khách phải đi bộ những quãng đường dài với hành lý nặng.\n  - Với **R3Q5**, quét từ khóa \"critics\" hoặc \"riders\" ở đoạn 4 để thấy người lái va-li ở gần mặt đất khiến người đi bộ khác khó nhìn thấy hơn.\n  - Với **R3Q8**, đối chiếu các ưu điểm được người ủng hộ nêu ra ở đoạn 3: giảm căng thẳng khi đi qua các ga lớn, rảnh tay cho phụ huynh có trẻ nhỏ, dễ cất giữ hơn xe tay ga di động; việc ưu tiên lên máy bay nhanh hơn tại các cửa khởi hành hoàn toàn không được nhắc đến.\n- **Dạng câu hỏi Chèn câu (R3Q4):** Đọc kỹ ý nghĩa câu cần chèn 'Their needs, however, are often met more safely by airport wheelchair services.' (Tuy nhiên, nhu cầu của họ thường được đáp ứng an toàn hơn bằng các dịch vụ xe lăn tại sân bay). Cụm từ 'Their needs' quy chiếu đến nhóm đối tượng được nhắc đến ngay trước đó ở vị trí [1]: hành khách có sức bền hạn chế như người cao tuổi hoặc người đang phục hồi sau chấn thương. Do đó, vị trí phù hợp nhất để chèn câu này là ngay sau vị trí [1], nhằm phản biện và đưa ra lựa chọn an toàn hơn cho nhóm đối tượng này.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"startled\"** ở đoạn 1 miêu tả cảm giác của du khách khi lần đầu nhìn thấy người ngồi trên va-li di chuyển qua sảnh, mang nghĩa bất ngờ, ngạc nhiên (surprised).\n  - Với **R3Q7**, từ **\"ambiguous\"** ở đoạn 6 xuất hiện trong bối cảnh phân loại pháp lý của va-li động cơ dưới luật an toàn còn chưa rõ ràng, mang nghĩa mập mờ, không rõ ràng (unclear).\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ **\"which\"** ở đoạn 5. Đọc ngược lại mệnh đề ngay trước đó nói về việc văn hóa nhấn mạnh sự quan tâm đến người khác (cultural emphasis on consideration for others), giúp giải thích lý do các tranh chấp được giải quyết bằng sự lịch sự thay vì hình phạt.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 2, 5 và 6 về quy định không chính thức, phép lịch sự xã hội và việc phân loại va-li dưới luật an toàn, từ đó suy luận ra rằng sự chấp nhận trong tương lai sẽ phụ thuộc vào phép xã giao và cách các nhà quản lý phân loại chúng.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng như Từ vựng (R3Q3, R3Q7) và Quy chiếu (R3Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R3Q2, R3Q5, R3Q8) và câu hỏi **Chèn câu** (R3Q4). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như **Ý chính** (R3Q1), Suy luận (R3Q9) và Mục đích viết (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Biological and Environmental Significance of the Blue Whale",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "The blue whale is the largest animal known to have existed, reaching lengths of up to thirty metres and weights that may exceed one hundred and fifty tonnes. Its **colossal** dimensions are all the more remarkable because it feeds almost exclusively on krill. Krill are tiny crustaceans, rarely longer than a few centimetres, so how an animal of such size is sustained by such small prey has long fascinated biologists.",
+     "To survive, a blue whale uses a strategy known as lunge feeding. It accelerates towards a dense swarm of krill, opens its mouth wide, and engulfs a volume of water that can exceed the size of its own body. It then uses its tongue to push the water out through baleen plates that trap the prey. During peak feeding seasons an adult may consume several tonnes of krill daily, an intake that supports the energy demands of migration and breeding.",
+     "The twentieth century nearly brought the species to extinction. Industrial whaling, powered by steam-driven catcher boats and explosive harpoons, killed an estimated hundreds of thousands of blue whales, especially in the Southern Hemisphere, because their size made each carcass extraordinarily valuable for oil. By the time an international ban on hunting blue whales was agreed in the mid-1960s, populations had fallen to a small fraction of their former numbers, and some groups have never fully recovered. Estimates of the global population today are uncertain, ranging from about ten to twenty-five thousand animals.",
+     "Blue whales are more than victims of exploitation; they shape the ecosystems in which they live. **[1]** Their faeces contain iron and nitrogen, nutrients that stimulate the growth of phytoplankton near the surface. [2] Phytoplankton, in turn, absorb carbon dioxide and support the food chain on which fish, seabirds, and the whales themselves depend. **[3]** When a whale dies and sinks, its carcass delivers carbon to the deep seabed, where it may remain locked away for centuries and nourish specialised communities of organisms. **[4]** Researchers therefore sometimes describe whales as ecosystem engineers, although the scale of their effect on global carbon is still being studied.",
+     "Although hunting has ended, the recovery of the blue whale remains precarious in many regions. Ships strike whales in busy shipping lanes, and underwater noise from vessels and seismic surveys may interfere with the low-frequency calls that blue whales use to communicate across hundreds of kilometres. Climate change introduces further uncertainty, because warming oceans and shifting currents can alter the distribution and abundance of krill, the foundation of the whale's diet. Entanglement in fishing gear adds to the pressure, particularly in coastal feeding grounds.",
+     "Conservation therefore requires coordinated action across borders, since these animals may migrate thousands of kilometres. Measures under discussion include rerouting or slowing ships in known whale habitats, regulating noise, and tracking individual animals with satellite tags, **which** reveal migration routes that would be impossible to observe directly. Critics note that such measures impose costs on shipping companies, yet supporters argue that the cost is small compared with the ecological value of the species.",
+     "The blue whale therefore stands at the intersection of biology, history, and policy. Its anatomy demonstrates how extreme size can evolve, its near-extinction records the consequences of unrestrained exploitation, and its slow recovery suggests that protection can work when it is sustained and enforced. Yet the same evidence warns against complacency, because the pressures now acting on the species are diffuse and harder to regulate than a hunting ban. Whether blue whales continue to recover will depend on decisions about shipping, fishing, and emissions that extend far beyond the ocean."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Blue whales have fully recovered since commercial hunting was banned",
+       "B": "The blue whale's biology, near-extinction, and ecological role make protection important",
+       "C": "Krill supplies alone determine whether any whale species survives",
+       "D": "Whales matter mainly because they supply valuable oil to industry"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, how does a blue whale separate krill from water?",
+      "options": {
+       "A": "It crushes the krill with heavy teeth inside its jaws",
+       "B": "It swallows the krill whole before expelling the water later",
+       "C": "It stuns the krill first with very powerful low-frequency sounds",
+       "D": "It pushes water out through plates trapping the prey"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"separate krill from water\" ở đoạn 2 để thấy cách chúng dùng lưỡi đẩy nước ra qua các phiến sừng hàm (baleen plates) giữ lại con mồi."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"colossal\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "enormous",
+       "B": "delicate",
+       "C": "ordinary",
+       "D": "unusual"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"colossal\" ở đoạn 1 đi kèm với kích thước chiều dài lên tới 30 mét và nặng hơn 150 tấn, mang nghĩa khổng lồ, cực lớn (enormous)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Before industrial whaling, the cumulative effect of such burial may have been considerable.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ ý nghĩa câu cần chèn 'Before industrial whaling, the cumulative effect of such burial may have been considerable.' (Trước thời kỳ săn bắt cá voi công nghiệp, hiệu ứng tích lũy của việc chôn vùi như vậy có lẽ đã rất đáng kể). Câu này đề cập đến việc xác cá voi chìm xuống đáy biển (được nhắc đến ở câu ngay trước vị trí [4]) giúp khóa chặt carbon và nuôi dưỡng các sinh vật dưới đáy sâu trong nhiều thế kỷ. Do đó, vị trí [4] là hoàn hảo để tiếp nối ý nghĩa về việc xác cá voi chìm xuống đáy biển."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, why were blue whales especially attractive to whalers?",
+      "options": {
+       "A": "Their meat was easy to preserve without any refrigeration",
+       "B": "They were slower than every other species in the ocean",
+       "C": "Each carcass yielded a large quantity of valuable oil",
+       "D": "Governments paid fixed rewards for every animal caught"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"especially attractive to whalers\" ở đoạn 3 để nhận ra mỗi xác cá voi mang lại một lượng dầu vô cùng có giá trị lớn."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"which\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Satellite tags",
+       "B": "Known whale habitats",
+       "C": "Shipping companies",
+       "D": "Migration seasons"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"which\" ở đoạn 6. Đọc ngược lại mệnh đề ngay trước đó nói về việc theo dõi từng cá thể bằng thẻ vệ tinh (satellite tags), giúp tiết lộ các tuyến đường di cư mà quan sát trực tiếp không thể thấy được."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"precarious\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "secure",
+       "B": "unstable",
+       "C": "complete",
+       "D": "rapid"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"precarious\" ở đoạn 5 xuất hiện trong bối cảnh sự phục hồi của cá voi xanh vẫn đối mặt với nhiều rủi ro từ tàu thuyền, tiếng ồn và biến đổi khí hậu, mang nghĩa không ổn định, bấp bênh (unstable)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a current threat?",
+      "options": {
+       "A": "Collisions with vessels in busy shipping lanes",
+       "B": "Underwater noise that disrupts long-distance calls",
+       "C": "Entanglement in fishing gear near coastal feeding grounds",
+       "D": "Illegal hunting by modern commercial whaling fleets"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "rà soát các mối đe dọa ở đoạn 5: va chạm tàu thuyền, tiếng ồn dưới nước và vướng vào lưới đánh cá đều được nhắc đến; việc săn bắt bất hợp pháp bởi các đội tàu thương mại hiện đại không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about the consequences of whaling?",
+      "options": {
+       "A": "Whaling removed the need for any further ocean conservation",
+       "B": "Nutrient cycles recovered fully within a few years of the ban",
+       "C": "Whale losses probably reduced carbon storage in ways still unknown",
+       "D": "Only whales that were hunted were affected by the changes"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc cá voi đóng vai trò bơm sắt, nitơ và đưa carbon xuống đáy sâu, từ đó suy luận ra rằng sự sụt giảm số lượng cá voi do săn bắt có lẽ đã làm giảm khả năng lưu trữ carbon theo những cách mà con người vẫn chưa hiểu hết."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to donate to a whale-watching company",
+       "B": "To explain the blue whale's biology, history, and conservation",
+       "C": "To compare blue whales with other large marine mammals",
+       "D": "To describe how modern ships were designed to avoid whales"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích viết (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu kích thước khổng lồ và nguồn thức ăn (krill); đoạn 2 phân tích chiến thuật ăn lọc (lunge feeding); đoạn 3 bàn về lịch sử săn bắt công nghiệp và sự suy giảm quần thể; đoạn 4 giải thích vai trò sinh thái và chu trình carbon (hệ sinh thái); đoạn 5 nêu các mối đe dọa hiện tại; đoạn 6 đề cập đến các biện pháp bảo tồn và chính sách quản lý. Do đó, phương án đúng cần phản ánh đầy đủ: sinh học, lịch sử cận tuyệt chủng và vai trò sinh thái làm cho việc bảo vệ trở nên quan trọng.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R4Q2**, tìm từ khóa \"separate krill from water\" ở đoạn 2 để thấy cách chúng dùng lưỡi đẩy nước ra qua các phiến sừng hàm (baleen plates) giữ lại con mồi.\n  - Với **R4Q5**, quét từ khóa \"especially attractive to whalers\" ở đoạn 3 để nhận ra mỗi xác cá voi mang lại một lượng dầu vô cùng có giá trị lớn.\n  - Với **R4Q8**, rà soát các mối đe dọa ở đoạn 5: va chạm tàu thuyền, tiếng ồn dưới nước và vướng vào lưới đánh cá đều được nhắc đến; việc săn bắt bất hợp pháp bởi các đội tàu thương mại hiện đại không xuất hiện trong bài.\n- **Dạng câu hỏi Chèn câu (R4Q4):** Đọc kỹ ý nghĩa câu cần chèn 'Before industrial whaling, the cumulative effect of such burial may have been considerable.' (Trước thời kỳ săn bắt cá voi công nghiệp, hiệu ứng tích lũy của việc chôn vùi như vậy có lẽ đã rất đáng kể). Câu này đề cập đến việc xác cá voi chìm xuống đáy biển (được nhắc đến ở câu ngay trước vị trí [4]) giúp khóa chặt carbon và nuôi dưỡng các sinh vật dưới đáy sâu trong nhiều thế kỷ. Do đó, vị trí [4] là hoàn hảo để tiếp nối ý nghĩa về việc xác cá voi chìm xuống đáy biển.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"colossal\"** ở đoạn 1 đi kèm với kích thước chiều dài lên tới 30 mét và nặng hơn 150 tấn, mang nghĩa khổng lồ, cực lớn (enormous).\n  - Với **R4Q7**, từ **\"precarious\"** ở đoạn 5 xuất hiện trong bối cảnh sự phục hồi của cá voi xanh vẫn đối mặt với nhiều rủi ro từ tàu thuyền, tiếng ồn và biến đổi khí hậu, mang nghĩa không ổn định, bấp bênh (unstable).\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ **\"which\"** ở đoạn 6. Đọc ngược lại mệnh đề ngay trước đó nói về việc theo dõi từng cá thể bằng thẻ vệ tinh (satellite tags), giúp tiết lộ các tuyến đường di cư mà quan sát trực tiếp không thể thấy được.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc cá voi đóng vai trò bơm sắt, nitơ và đưa carbon xuống đáy sâu, từ đó suy luận ra rằng sự sụt giảm số lượng cá voi do săn bắt có lẽ đã làm giảm khả năng lưu trữ carbon theo những cách mà con người vẫn chưa hiểu hết.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R4Q3, R4Q7) và Quy chiếu (R4Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R4Q2, R4Q5, R4Q8) và câu hỏi **Chèn** câu (R4Q4). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như Ý chính (R4Q1), **Suy luận** (R4Q9) và **Mục đích viết** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Jennie.\nShe is interested in learning about your hobbies. Read part of her email below.\nI have been looking for a new hobby lately but I am not sure what to choose. I remember you have some very interesting interests!\n- What is your favorite hobby or activity?\n- How did you first know about or start this activity?\n- Can you suggest 3 tips for a beginner who wants to start doing it?\nWrite an email responding to Jennie. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Jennie.",
+      "She is interested in learning about your hobbies. Read part of her email below."
+     ],
+     "quote": [
+      "I have been looking for a new hobby lately but I am not sure what to choose. I remember you have some very interesting interests!",
+      "- What is your favorite hobby or activity?",
+      "- How did you first know about or start this activity?",
+      "- Can you suggest 3 tips for a beginner who wants to start doing it?"
+     ],
+     "instruction": "Write an email responding to Jennie. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng thư thân mật (Informal Email) gửi cho bạn bè.\n- Nội dung chính: Trả lời về hoạt động yêu thích, hoàn cảnh bắt đầu và đưa ra 3 lời khuyên.\n- Yêu cầu: Viết tối thiểu 120 từ và trả lời đầy đủ 3 ý hỏi trong thư.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật như \"Hi Jennie,\" hoặc \"Dear Jennie,\".\n- **Opening:** Cảm ơn vì Jennie đã viết thư và dẫn dắt vào chủ đề sở thích cá nhân. Ví dụ: \"It's so good to hear from you. I'm happy to share my favorite hobby with you!\"\n- **Body Paragraph 1:** Giới thiệu hoạt động yêu thích (ví dụ: đọc sách, chơi cầu lông, nấu ăn) và giải thích tại sao bạn lại biết đến nó (qua bạn bè, mạng xã hội, hoặc gia đình).\n- **Body Paragraph 2:** Đưa ra 3 lời khuyên cụ thể cho người mới bắt đầu. Sử dụng các cấu trúc như \"Firstly, you should...\", \"Second, it is important to...\", \"Finally, try to...\".\n- **Closing & Sign-off:** Kết thúc thư bằng một lời chúc hoặc hứa hẹn gặp mặt. Ví dụ: \"Best wishes,\" hoặc \"Warm regards,\".\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng thì Hiện tại đơn cho sở thích và Quá khứ đơn cho kỷ niệm khi bắt đầu hoạt động.\nTừ vựng quan trọng:\n- **Be into something:** Thích thú với điều gì đó\n- **Take up a hobby:** Bắt đầu một sở thích\n- **Come across:** Tình cờ biết đến\n- **Beginner-friendly:** Phù hợp cho người mới\n- **Consistency:** Sự kiên trì/đều đặn\n- **Equipment:** Trang thiết bị\nTừ nối (Linking words):\n- **To be honest:** Thành thật mà nói\n- **In terms of:** Xét về khía cạnh\n- **What's more:** Thêm vào đó\n- **Specifically:** Một cách cụ thể\n- **Therefore:** Vì vậy\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm quite passionate about...:** Tôi khá đam mê về...\n- **It helps me unwind after a long day:** Nó giúp tôi thư giãn sau một ngày dài.\n- **I felt really inspired when...:** Tôi cảm thấy rất được truyền cảm hứng khi...\n\n**4. Các lỗi thường gặp:**\n- Viết quá ngắn hoặc bỏ sót một trong ba yêu cầu (đặc biệt là phần 3 lời khuyên).\n- Sử dụng văn phong quá trang trọng (như dùng \"Yours faithfully\") cho thư gửi bạn bè.\n- Lỗi thì động từ khi kể về quá khứ (cơ duyên biết đến hoạt động).\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm số lượng từ để đảm bảo trên 120 từ.\n- Kiểm tra dấu câu và viết hoa tên riêng.\n- Rà soát các lỗi chính tả cơ bản.\n\n**6. Tư duy làm bài:**\n- Hãy chọn một sở thích thật gần gũi để dễ tìm từ vựng.\n- Tập trung vào tính kết nối và mạch lạc giữa các đoạn văn để ăn điểm Organization.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nThe exhaustion of fossil fuels and the impact of climate change have led to a shift towards alternative energy sources such as solar, wind, and nuclear power.\nWhile some people advocate for the widespread adoption of these energy sources due to their environmental benefits, others raise concerns about their cost and reliability.\nDiscuss the advantages and disadvantages of alternative energy.\nWrite an essay to an educated reader to discuss the advantages and disadvantages of alternative energy. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "The exhaustion of fossil fuels and the impact of climate change have led to a shift towards alternative energy sources such as solar, wind, and nuclear power.",
+      "While some people advocate for the widespread adoption of these energy sources due to their environmental benefits, others raise concerns about their cost and reliability.",
+      "Discuss the advantages and disadvantages of alternative energy."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages and disadvantages of alternative energy. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Advantages and Disadvantages (Thảo luận ưu điểm và nhược điểm).\n- Chủ đề: Năng lượng thay thế (Alternative energy) như năng lượng mặt trời, gió, hạt nhân.\n- Yêu cầu: Phân tích cân bằng cả hai mặt tích cực và tiêu cực.\n- Độ dài tối thiểu: 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Paraphrase lại đề bài và nêu rõ rằng bài viết sẽ thảo luận cả ưu điểm lẫn nhược điểm của năng lượng thay thế.\n- **Body 1 (Advantages):** Tập trung vào lợi ích môi trường (giảm phát thải carbon) và tính bền vững (không bao giờ cạn kiệt). Ví dụ: \"The primary benefit is that renewable energy produces little to no greenhouse gases.\"\n- **Body 2 (Disadvantages):** Đề cập đến chi phí đầu tư ban đầu cao và sự phụ thuộc vào điều kiện thời tiết (tính không ổn định). Ví dụ: \"On the downside, solar and wind power are highly dependent on weather conditions.\"\n- **Conclusion:** Tóm tắt lại các ý chính và đưa ra nhận định cá nhân về tương lai của năng lượng sạch.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\nSử dụng các cấu trúc câu phức và từ vựng chuyên ngành về môi trường.\nTừ vựng quan trọng:\n- **Renewable energy:** Năng lượng tái tạo\n- **Carbon footprint:** Dấu chân carbon\n- **Eco-friendly:** Thân thiện với môi trường\n- **Initial investment:** Đầu tư ban đầu\n- **Intermittency:** Tính gián đoạn (không liên tục)\n- **Fossil fuels:** Nhiên liệu hóa thạch\nTừ nối (Linking words):\n- **On the one hand / On the other hand:** Mặt này / Mặt khác\n- **Furthermore:** Hơn thế nữa\n- **In contrast:** Ngược lại\n- **For instance:** Ví dụ như\n- **Nevertheless:** Tuy nhiên\n- **In conclusion:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Green energy sources:** Thay cho \"alternative energy\".\n- **Sustainable power:** Thay cho \"renewable energy\".\n- **Environmental impact:** Thay cho \"effect on nature\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **The merits of... far outweigh the drawbacks:** Ưu điểm của... vượt xa nhược điểm.\n- **One significant disadvantage is...:** Một nhược điểm đáng kể là...\n- **From an environmental perspective:** Từ góc độ môi trường.\n\n**4. Các lỗi thường gặp:**\n- Chỉ viết về ưu điểm mà quên mất nhược điểm (hoặc ngược lại).\n- Sử dụng từ vựng quá đơn giản cho một chủ đề mang tính học thuật.\n- Thiếu ví dụ cụ thể để minh họa cho các lập luận.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem các đoạn văn đã có câu chủ đề (Topic sentence) rõ ràng chưa.\n- Rà soát lỗi hòa hợp giữa chủ ngữ và động từ.\n- Đảm bảo các từ nối được sử dụng chính xác để duy trì mạch lạc.\n\n**6. Tư duy làm bài:**\n- Cần có cái nhìn khách quan, không nên quá thiên lệch về một phía trong phần thân bài.\n- Sử dụng các số liệu hoặc ví dụ thực tế (như các dự án điện gió tại Việt Nam) để làm bài viết thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about happiness\n\n1\nWhat makes you feel happy in your daily life?\n2\nDo you think money is the most important factor for happiness? Why or why not?\n3\nWhat do you usually do to cheer yourself up when you are sad?\n\nNow, let’s talk about traveling\n\n4\nDo you like traveling to new places? Why?\n5\nWhich city or country would you like to visit in the future?\n6\nDo you prefer traveling alone or with a group of friends? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói kéo dài khoảng 3 phút với 6 câu hỏi mang tính cá nhân và gần gũi trong cuộc sống hằng ngày.\n- **Topic A (Emotions):** Các câu hỏi 1–3 tập trung vào cảm xúc, hạnh phúc và cách vượt qua tâm trạng tiêu cực. Giám khảo muốn đánh giá khả năng diễn đạt cảm xúc và quan điểm cá nhân.\n- **Topic B (Traveling):** Các câu hỏi 4–6 tập trung vào du lịch, sở thích khám phá và lựa chọn cách đi du lịch. Bạn cần mô tả trải nghiệm và giải thích lý do rõ ràng.\n- Tiêu chí chấm điểm gồm: độ trôi chảy, vốn từ vựng, ngữ pháp và phát âm.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu trả lời và cố gắng phân bổ thời gian đều cho cả hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer -> Reason -> Example để trả lời tự nhiên và đầy đủ.\n- **Ví dụ Topic A:** What makes me happy is spending time with my family because I feel relaxed and supported when I am with them.\n- **Ví dụ Topic B:** I really enjoy traveling to new places because I can learn about different cultures and try local food.\n- Luôn tự hỏi “Why?” hoặc “How?” để mở rộng ý và tránh trả lời quá ngắn.\n- Khi chuyển sang chủ đề mới, bạn có thể dùng câu như: Besides happiness in daily life, traveling is also something that brings me joy.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định và dùng filler tự nhiên như “Well”, “Actually”, “To be honest”.\n- Dùng hiện tại đơn khi nói về thói quen hoặc suy nghĩ cá nhân. Có thể dùng tương lai đơn khi nói về nơi muốn đến trong tương lai.\n- Nếu quên từ, hãy diễn đạt bằng cách giải thích đơn giản thay vì dừng lại quá lâu.\n- Từ vựng Topic A: positive mindset (tư duy tích cực), emotional support (sự hỗ trợ tinh thần), relieve stress (giảm căng thẳng), cheerful mood (tâm trạng vui vẻ).\n- Từ vựng Topic B: explore new places (khám phá nơi mới), cultural experience (trải nghiệm văn hóa), tourist attraction (địa điểm du lịch), travel companion (bạn đồng hành khi du lịch).\nCụm từ quan trọng nên dùng:\n- Feel emotionally balanced – cảm thấy cân bằng cảm xúc\n- Spend quality time – dành thời gian chất lượng\n- Look on the bright side – nhìn theo hướng tích cực\n- Travel around the world – du lịch vòng quanh thế giới\n- Broaden my horizons – mở rộng hiểu biết\n- Get away from daily stress – thoát khỏi áp lực hằng ngày\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Besides that – bên cạnh đó\n- For example – ví dụ\n- As a result – kết quả là\n- On the other hand – mặt khác\nCách thể hiện quan điểm tự nhiên:\n- I personally believe that happiness comes from relationships rather than money. – Tôi tin rằng hạnh phúc đến từ các mối quan hệ hơn là tiền bạc.\n- From my perspective, traveling helps people become more open-minded. – Theo quan điểm của tôi, du lịch giúp con người cởi mở hơn.\n- As far as I am concerned, spending time with loved ones is the best way to feel happy. – Theo tôi, dành thời gian với người thân là cách tốt nhất để cảm thấy hạnh phúc.\n- I would say that traveling with friends is more exciting and enjoyable. – Tôi cho rằng đi du lịch với bạn bè thú vị hơn.\n- Personally, listening to music helps me feel better when I am sad. – Cá nhân tôi thấy nghe nhạc giúp tôi cảm thấy tốt hơn khi buồn.\n- In my opinion, money is important but not the only factor for happiness. – Theo tôi, tiền quan trọng nhưng không phải yếu tố duy nhất tạo nên hạnh phúc.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời “Yes” hoặc “No” mà không giải thích thêm.\n- Nói quá chung chung về hạnh phúc mà không đưa ví dụ cá nhân.\n- Lặp lại từ “happy” hoặc “interesting” quá nhiều.\n- Dùng sai thì khi nói về kế hoạch du lịch tương lai.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Sử dụng câu đệm như: That is an interesting question. Let me think for a second.\n- Nếu quên từ, hãy mô tả bằng chức năng hoặc cảm xúc liên quan.\n- Với Topic A, nếu khó nói về cảm xúc, hãy liên hệ đến gia đình hoặc bạn bè.\n- Với Topic B, nếu chưa từng đi du lịch nhiều, hãy nói về nơi bạn muốn đến trong tương lai.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem phần thi như một cuộc trò chuyện tự nhiên với giám khảo.\n- Khi chuyển từ chủ đề cảm xúc sang du lịch, hãy thay đổi năng lượng và giọng nói linh hoạt hơn.\n- Sự tự nhiên và mạch lạc quan trọng hơn việc dùng quá nhiều từ vựng khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nA student is considering which factors are most important when choosing a university for higher education.\n\nYou are considering the following options:\n\nOption 1: University ranking and academic reputation\nOption 2: The distance from the university to their place of residence\nOption 3: Tuition fees and available scholarships\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn phân tích những yếu tố quan trọng khi lựa chọn trường đại học.\n- Ba lựa chọn gồm: danh tiếng học thuật, khoảng cách từ nhà đến trường và học phí cùng học bổng.\n- Giám khảo muốn đánh giá khả năng lập luận, so sánh và đưa ra quyết định logic.\n- Thời gian làm bài khoảng 4 phút, nên dành khoảng 1 phút để lên ý và 3 phút để trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc State opinion -> Give reason -> Compare -> Conclude để trình bày rõ ràng.\n- Option 1 có ưu điểm là mang lại chất lượng đào tạo và cơ hội việc làm tốt hơn nhưng thường cạnh tranh và áp lực cao.\n- Option 2 giúp tiết kiệm thời gian và chi phí đi lại nhưng có thể giới hạn cơ hội học tập.\n- Option 3 giúp giảm áp lực tài chính và phù hợp với nhiều sinh viên nhưng đôi khi không phải yếu tố quyết định duy nhất.\n- Hãy liên hệ với thực tế của sinh viên như chi phí sinh hoạt, việc làm tương lai hoặc khoảng cách địa lý.\n- Sử dụng từ nối đối lập như however, on the other hand hoặc compared to để chuyển ý mượt mà.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ từng ý.\n- Dùng hiện tại đơn để nói về ưu nhược điểm và tương lai đơn khi nói về cơ hội nghề nghiệp.\n- Nếu quên từ chuyên ngành giáo dục, hãy dùng từ đơn giản như good university hoặc study opportunities.\nCụm từ quan trọng nên dùng:\n- Academic reputation – danh tiếng học thuật\n- Career opportunities – cơ hội nghề nghiệp\n- Financial burden – gánh nặng tài chính\n- Living expenses – chi phí sinh hoạt\n- Scholarship program – chương trình học bổng\n- Convenient location – vị trí thuận tiện\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- In contrast – trái lại\n- Moreover – hơn nữa\n- As a result – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that tuition fees are one of the most important factors for students. – Tôi tin rằng học phí là một trong những yếu tố quan trọng nhất đối với sinh viên.\n- Compared to distance, academic reputation can have a greater impact on future careers. – So với khoảng cách, danh tiếng học thuật có ảnh hưởng lớn hơn đến nghề nghiệp tương lai.\n- In my opinion, scholarships can motivate students and reduce financial pressure. – Theo tôi, học bổng có thể tạo động lực và giảm áp lực tài chính.\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung nói về lựa chọn mình thích mà bỏ qua hai lựa chọn còn lại.\n- Lặp đi lặp lại các tính từ đơn giản như good hoặc important.\n- Không đưa ra quyết định cuối cùng rõ ràng ở phần kết luận.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng, hãy chuyển sang nói về thời gian, tiền bạc hoặc cơ hội nghề nghiệp.\n- Sử dụng câu đệm như: Let's evaluate this option from a different perspective.\n- Nếu bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn khác để giữ sự trôi chảy.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người đang thật sự chọn trường đại học cho tương lai của mình.\n- Ngay cả khi chọn một phương án, bạn vẫn nên chỉ ra hạn chế nhỏ của nó để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of music education in schools\n\nMusic Education\nReduces stress and improves mental health\nDevelops creativity and talent\nEnhances social skills through group performance\n[your own ideas]\n\nFollow-up Questions:\n\n1\nShould music be a compulsory subject in all schools?\n2\nHow can music influence a student's academic performance in other subjects?\n3\nDo you think technology will replace traditional music teachers in the future?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về tầm quan trọng của giáo dục âm nhạc trong trường học.\n- Ba nhánh mindmap gồm: giảm căng thẳng, phát triển sáng tạo và cải thiện kỹ năng xã hội. Nhánh thứ tư có thể nói về việc bảo tồn văn hóa hoặc tăng sự tự tin.\n- Giám khảo đánh giá khả năng phát triển ý, liên kết ý tưởng và trả lời câu hỏi follow-up.\n- Thời gian khoảng 5 phút, trong đó nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để triển khai từng nhánh của mindmap.\n- **Ví dụ 1:** Today, I would like to talk about why music education plays an important role in schools.\n- **Ví dụ 2:** Another benefit of music education is that it can help students become more confident in public\nperformances.\n- Hãy liên hệ đến trải nghiệm thực tế như tham gia văn nghệ hoặc học nhạc ở trường.\n- Luôn bám theo thứ tự mindmap để tránh lặp ý hoặc bỏ sót nội dung.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng cụm chuyển ý mượt mà giữa các nhánh của mindmap.\n- Dùng hiện tại đơn để nói về lợi ích chung và hiện tại hoàn thành để nói trải nghiệm tích lũy.\n- Có thể paraphrase music education bằng music training, learning music hoặc arts education.\nCụm từ quan trọng nên dùng:\n- Creative thinking – tư duy sáng tạo\n- Mental well-being – sức khỏe tinh thần\n- Team performance – biểu diễn theo nhóm\n- Self-confidence – sự tự tin\n- Emotional expression – thể hiện cảm xúc\n- Cultural appreciation – sự trân trọng văn hóa\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Another important point is – một điểm quan trọng khác là\n- For instance – ví dụ\n- As a consequence – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, music education helps students become more creative and confident. – Theo tôi, giáo dục âm nhạc giúp học sinh sáng tạo và tự tin hơn.\n- I personally think that music can reduce stress after long school hours. – Tôi nghĩ rằng âm nhạc có thể giảm căng thẳng sau nhiều giờ học.\n- From my perspective, schools should invest more in music programs. – Theo quan điểm của tôi, trường học nên đầu tư nhiều hơn vào các chương trình âm nhạc.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Should music be a compulsory subject in all schools?** – Yes, because music supports emotional and social development.\n- **How can music influence a student's academic performance in other subjects?** – Music can improve concentration, memory and creativity, which are useful in many subjects.\n- **Do you think technology will replace traditional music teachers in the future?** – No, because teachers provide emotional guidance and direct interaction that technology cannot fully replace.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n- Dành quá nhiều thời gian cho bài nói chính và không còn thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ đến trải nghiệm ở trường học hoặc hoạt động ngoại khóa.\n- Sử dụng câu đệm như: That is a complex issue. If we evaluate it from an educational perspective...\n- Nếu quên từ chuyên ngành, hãy dùng cách diễn đạt đơn giản hơn để giữ mạch nói.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ giáo dục và sự phát triển toàn diện của học sinh.\n- Tính logic và sự liên kết giữa các ý là chìa khóa để đạt điểm cao.\n- Đừng cố học thuộc toàn bộ bài mẫu; hãy nói tự nhiên và linh hoạt theo ý của mình."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about happiness.\n1.\nWhat makes you feel happy in your daily life?\n2.\nDo you think money is the most important factor for happiness? Why or why not?\n3.\nWhat do you usually do to cheer yourself up when you are sad?\nNow, let’s talk about traveling.\n4.\nDo you like traveling to new places? Why?\n5.\nWhich city or country would you like to visit in the future?\n6.\nDo you prefer traveling alone or with a group of friends? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói kéo dài khoảng 3 phút với 6 câu hỏi mang tính cá nhân và gần gũi trong cuộc sống hằng ngày.\n• Topic A (Emotions): Các câu hỏi 1–3 tập trung vào cảm xúc, hạnh phúc và cách vượt qua tâm trạng tiêu cực. Giám\nkhảo muốn đánh giá khả năng diễn đạt cảm xúc và quan điểm cá nhân.\n• Topic B (Traveling): Các câu hỏi 4–6 tập trung vào du lịch, sở thích khám phá và lựa chọn cách đi du lịch. Bạn cần\nmô tả trải nghiệm và giải thích lý do rõ ràng.\n• Tiêu chí chấm điểm gồm: độ trôi chảy, vốn từ vựng, ngữ pháp và phát âm.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu trả lời và cố gắng phân bổ thời gian đều cho cả hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer -> Reason -> Example để trả lời tự nhiên và đầy đủ.\n• Ví dụ Topic A: What makes me happy is spending time with my family because I feel relaxed and supported when I\nam with them.\n• Ví dụ Topic B: I really enjoy traveling to new places because I can learn about different cultures and try local food.\n• Luôn tự hỏi “Why?” hoặc “How?” để mở rộng ý và tránh trả lời quá ngắn.\n• Khi chuyển sang chủ đề mới, bạn có thể dùng câu như: Besides happiness in daily life, traveling is also something\nthat brings me joy.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định và dùng filler tự nhiên như “Well”, “Actually”, “To be honest”.\n• Dùng hiện tại đơn khi nói về thói quen hoặc suy nghĩ cá nhân. Có thể dùng tương lai đơn khi nói về nơi muốn đến\ntrong tương lai.\n• Nếu quên từ, hãy diễn đạt bằng cách giải thích đơn giản thay vì dừng lại quá lâu.\n• Từ vựng Topic A: positive mindset (tư duy tích cực), emotional support (sự hỗ trợ tinh thần), relieve stress (giảm căng\nthẳng), cheerful mood (tâm trạng vui vẻ).\n• Từ vựng Topic B: explore new places (khám phá nơi mới), cultural experience (trải nghiệm văn hóa), tourist attraction\n(địa điểm du lịch), travel companion (bạn đồng hành khi du lịch).\nCụm từ quan trọng nên dùng:\n• Feel emotionally balanced – cảm thấy cân bằng cảm xúc\n• Spend quality time – dành thời gian chất lượng\n• Look on the bright side – nhìn theo hướng tích cực\n• Travel around the world – du lịch vòng quanh thế giới\n• Broaden my horizons – mở rộng hiểu biết\n• Get away from daily stress – thoát khỏi áp lực hằng ngày\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Besides that – bên cạnh đó\n• For example – ví dụ\n• As a result – kết quả là\n• On the other hand – mặt khác\nCách thể hiện quan điểm tự nhiên:\n• I personally believe that happiness comes from relationships rather than money. – Tôi tin rằng hạnh phúc đến từ các\nmối quan hệ hơn là tiền bạc.\n• From my perspective, traveling helps people become more open-minded. – Theo quan điểm của tôi, du lịch giúp con\nngười cởi mở hơn.\n• As far as I am concerned, spending time with loved ones is the best way to feel happy. – Theo tôi, dành thời gian với\nngười thân là cách tốt nhất để cảm thấy hạnh phúc.\n• I would say that traveling with friends is more exciting and enjoyable. – Tôi cho rằng đi du lịch với bạn bè thú vị hơn.\n• Personally, listening to music helps me feel better when I am sad. – Cá nhân tôi thấy nghe nhạc giúp tôi cảm thấy\ntốt hơn khi buồn.\n• In my opinion, money is important but not the only factor for happiness. – Theo tôi, tiền quan trọng nhưng không\nphải yếu tố duy nhất tạo nên hạnh phúc.\n4. Các lỗi thường gặp:\n• Chỉ trả lời “Yes” hoặc “No” mà không giải thích thêm.\n• Nói quá chung chung về hạnh phúc mà không đưa ví dụ cá nhân.\n• Lặp lại từ “happy” hoặc “interesting” quá nhiều.\n• Dùng sai thì khi nói về kế hoạch du lịch tương lai.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Sử dụng câu đệm như: That is an interesting question. Let me think for a second.\n• Nếu quên từ, hãy mô tả bằng chức năng hoặc cảm xúc liên quan.\n• Với Topic A, nếu khó nói về cảm xúc, hãy liên hệ đến gia đình hoặc bạn bè.\n• Với Topic B, nếu chưa từng đi du lịch nhiều, hãy nói về nơi bạn muốn đến trong tương lai.\n6. Tư duy làm bài nói:\n• Hãy xem phần thi như một cuộc trò chuyện tự nhiên với giám khảo.\n• Khi chuyển từ chủ đề cảm xúc sang du lịch, hãy thay đổi năng lượng và giọng nói linh hoạt hơn.\n• Sự tự nhiên và mạch lạc quan trọng hơn việc dùng quá nhiều từ vựng khó.\nSolution Discussion\nPART 2\n4 phút\nA student is considering which factors are most important when choosing a university for higher education.\nYou are considering the following options:\n• Option 1: University ranking and academic reputation\n• Option 2: The distance from the university to their place of residence\n• Option 3: Tuition fees and available scholarships\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn phân tích những yếu tố quan trọng khi lựa chọn trường đại học.\n• Ba lựa chọn gồm: danh tiếng học thuật, khoảng cách từ nhà đến trường và học phí cùng học bổng.\n• Giám khảo muốn đánh giá khả năng lập luận, so sánh và đưa ra quyết định logic.\n• Thời gian làm bài khoảng 4 phút, nên dành khoảng 1 phút để lên ý và 3 phút để trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc State opinion -> Give reason -> Compare -> Conclude để trình bày rõ ràng.\n• Option 1 có ưu điểm là mang lại chất lượng đào tạo và cơ hội việc làm tốt hơn nhưng thường cạnh tranh và áp lực\ncao.\n• Option 2 giúp tiết kiệm thời gian và chi phí đi lại nhưng có thể giới hạn cơ hội học tập.\n• Option 3 giúp giảm áp lực tài chính và phù hợp với nhiều sinh viên nhưng đôi khi không phải yếu tố quyết định duy\nnhất.\n• Hãy liên hệ với thực tế của sinh viên như chi phí sinh hoạt, việc làm tương lai hoặc khoảng cách địa lý.\n• Sử dụng từ nối đối lập như however, on the other hand hoặc compared to để chuyển ý mượt mà.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ từng ý.\n• Dùng hiện tại đơn để nói về ưu nhược điểm và tương lai đơn khi nói về cơ hội nghề nghiệp.\n• Nếu quên từ chuyên ngành giáo dục, hãy dùng từ đơn giản như good university hoặc study opportunities.\nCụm từ quan trọng nên dùng:\n• Academic reputation – danh tiếng học thuật\n• Career opportunities – cơ hội nghề nghiệp\n• Financial burden – gánh nặng tài chính\n• Living expenses – chi phí sinh hoạt\n• Scholarship program – chương trình học bổng\n• Convenient location – vị trí thuận tiện\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• In contrast – trái lại\n• Moreover – hơn nữa\n• As a result – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that tuition fees are one of the most important factors for students. – Tôi tin rằng học phí là một\ntrong những yếu tố quan trọng nhất đối với sinh viên.\n• Compared to distance, academic reputation can have a greater impact on future careers. – So với khoảng cách, danh\ntiếng học thuật có ảnh hưởng lớn hơn đến nghề nghiệp tương lai.\n• In my opinion, scholarships can motivate students and reduce financial pressure. – Theo tôi, học bổng có thể tạo\nđộng lực và giảm áp lực tài chính.\n4. Các lỗi thường gặp:\n• Chỉ tập trung nói về lựa chọn mình thích mà bỏ qua hai lựa chọn còn lại.\n• Lặp đi lặp lại các tính từ đơn giản như good hoặc important.\n• Không đưa ra quyết định cuối cùng rõ ràng ở phần kết luận.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng, hãy chuyển sang nói về thời gian, tiền bạc hoặc cơ hội nghề nghiệp.\n• Sử dụng câu đệm như: Let's evaluate this option from a different perspective.\n• Nếu bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn khác để giữ sự trôi chảy.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người đang thật sự chọn trường đại học cho tương lai của mình.\n• Ngay cả khi chọn một phương án, bạn vẫn nên chỉ ra hạn chế nhỏ của nó để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The importance of music education in schools\nReduces stress and improves mental\nDevelops creativity and talent\nhealth\nMusic Education\nÝ tưởng của bạn\nEnhances social skills through group\nperformance\nFOLLOW-UP QUESTIONS\n1.\nShould music be a compulsory subject in all schools?\n2.\nHow can music influence a student's academic performance in other subjects?\n3.\nDo you think technology will replace traditional music teachers in the future?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về tầm quan trọng của giáo dục âm nhạc trong trường học.\n• Ba nhánh mindmap gồm: giảm căng thẳng, phát triển sáng tạo và cải thiện kỹ năng xã hội. Nhánh thứ tư có thể nói\nvề việc bảo tồn văn hóa hoặc tăng sự tự tin.\n• Giám khảo đánh giá khả năng phát triển ý, liên kết ý tưởng và trả lời câu hỏi follow-up.\n• Thời gian khoảng 5 phút, trong đó nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để triển khai từng nhánh của mindmap.\n• Ví dụ 1: Today, I would like to talk about why music education plays an important role in schools.\n• Ví dụ 2: Another benefit of music education is that it can help students become more confident in public\nperformances.\n• Hãy liên hệ đến trải nghiệm thực tế như tham gia văn nghệ hoặc học nhạc ở trường.\n• Luôn bám theo thứ tự mindmap để tránh lặp ý hoặc bỏ sót nội dung.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng cụm chuyển ý mượt mà giữa các nhánh của mindmap.\n• Dùng hiện tại đơn để nói về lợi ích chung và hiện tại hoàn thành để nói trải nghiệm tích lũy.\n• Có thể paraphrase music education bằng music training, learning music hoặc arts education.\nCụm từ quan trọng nên dùng:\n• Creative thinking – tư duy sáng tạo\n• Mental well-being – sức khỏe tinh thần\n• Team performance – biểu diễn theo nhóm\n• Self-confidence – sự tự tin\n• Emotional expression – thể hiện cảm xúc\n• Cultural appreciation – sự trân trọng văn hóa\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Another important point is – một điểm quan trọng khác là\n• For instance – ví dụ\n• As a consequence – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, music education helps students become more creative and confident. – Theo tôi, giáo dục âm nhạc\ngiúp học sinh sáng tạo và tự tin hơn.\n• I personally think that music can reduce stress after long school hours. – Tôi nghĩ rằng âm nhạc có thể giảm căng\nthẳng sau nhiều giờ học.\n• From my perspective, schools should invest more in music programs. – Theo quan điểm của tôi, trường học nên đầu\ntư nhiều hơn vào các chương trình âm nhạc.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Should music be a compulsory subject in all schools? – Yes, because music supports emotional and social\ndevelopment.\n• How can music influence a student's academic performance in other subjects? – Music can improve concentration,\nmemory and creativity, which are useful in many subjects.\n• Do you think technology will replace traditional music teachers in the future? – No, because teachers provide\nemotional guidance and direct interaction that technology cannot fully replace.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n• Dành quá nhiều thời gian cho bài nói chính và không còn thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ đến trải nghiệm ở trường học hoặc hoạt động ngoại khóa.\n• Sử dụng câu đệm như: That is a complex issue. If we evaluate it from an educational perspective...\n• Nếu quên từ chuyên ngành, hãy dùng cách diễn đạt đơn giản hơn để giữ mạch nói.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ giáo dục và sự phát triển toàn diện của học sinh.\n• Tính logic và sự liên kết giữa các ý là chìa khóa để đạt điểm cao.\n• Đừng cố học thuộc toàn bộ bài mẫu; hãy nói tự nhiên và linh hoạt theo ý của mình."
+}

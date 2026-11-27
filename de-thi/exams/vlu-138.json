@@ -1,0 +1,716 @@
+{
+ "id": "vlu-138",
+ "number": 138,
+ "title": "Đề thi VLU 138",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-138",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Mathematics in Everyday Life",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Many students ask the same question in maths lessons: \"When will I ever use this?\" For some, mathematics seems like a collection of rules and formulas that have little to do with real life. However, mathematics is all around us, and we use it every day, often without noticing. In fact, many of the decisions we make each day, from buying food to planning our time, depend on simple calculations. Understanding these connections can make maths feel much more meaningful.",
+     "Shopping is a good example. When we compare prices, calculate discounts or check whether we have enough money to pay, we are using basic arithmetic. A shopper who knows that \"buy two, get one free\" means paying about 67 percent of the normal price for each item can make smarter decisions. Even choosing between a large and a small packet of rice involves comparing the price per kilogram. Similarly, understanding percentages helps people avoid being **misled** by advertisements that make small savings sound large.",
+     "Mathematics is also important in managing money over longer periods. People who understand how interest works can see why a credit card debt can grow quickly if it is not paid off, or why saving a small amount regularly can produce a much larger sum after many years. Surveys in many countries have found that a large number of adults struggle with simple questions about interest and inflation, which can lead to poor financial choices. Some schools have therefore started teaching basic financial skills, such as making a budget, as part of their maths lessons.",
+     "Even everyday activities such as cooking, travelling and playing sports involve maths. A cook who doubles a recipe must multiply every ingredient correctly. A driver planning a long journey needs to **estimate** distance, speed and time, as well as the cost of fuel. Even a simple task like deciding when to leave home to arrive on time requires some mental arithmetic. In sport, coaches and fans use statistics to compare players and plan tactics. Many modern jobs, from nursing to building, also require accurate calculations, and small mistakes can sometimes have serious consequences.",
+     "Some teachers believe that students would enjoy mathematics more if lessons were connected to real situations. Instead of only solving abstract problems, students might plan a budget for a class trip or analyse data from a school survey. Supporters say that **this** helps students see the purpose of what they are learning. Some schools also invite engineers, shop owners and bankers to explain how they use maths at work. Others warn, however, that abstract thinking is also valuable, because it trains the mind to solve problems logically. In the end, both approaches may be needed to help young people understand the true value of mathematics."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "According to the passage, how can understanding percentages help shoppers?",
+      "options": {
+       "A": "They can always find the cheapest shop in their area",
+       "B": "They no longer need to check prices before paying",
+       "C": "They can tell when small savings are made to sound big",
+       "D": "They can get one item free whenever they buy two"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 quanh cụm từ về tỷ lệ phần trăm và người mua sắm để nhận diện lợi ích liên quan đến việc nhận ra các mức giảm giá/tiết kiệm nhỏ bị làm cho có vẻ lớn."
+     },
+     {
+      "number": 2,
+      "stem": "The word \"misled\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "robbed",
+       "B": "encouraged",
+       "C": "lost",
+       "D": "deceived"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"misled\" ở đoạn 2 nằm trong ngữ cảnh quảng cáo khiến người xem hiểu sai hoặc bị đánh lừa rằng khoản tiết kiệm nhỏ trở nên lớn, sát nghĩa với bị đánh lừa/dối trá hơn là bị cướp, được khích lệ hay bị lạc."
+     },
+     {
+      "number": 3,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "Why students find mathematics lessons boring and difficult",
+       "B": "How maths is used daily and how it might be taught",
+       "C": "Why abstract mathematics is more useful than practical maths",
+       "D": "How to manage credit card debt and avoid interest"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: đoạn 1 đặt vấn đề về sự gắn kết giữa toán học và đời sống hằng ngày; đoạn 2 minh họa qua hoạt động mua sắm, giảm giá và tỷ lệ phần trăm; đoạn 3 mở rộng sang quản lý tài chính dài hạn, lãi suất, lạm phát và kỹ năng tài chính ở trường học; đoạn 4 nêu các hoạt động quen thuộc như nấu ăn, di chuyển, thể thao cùng độ chính xác trong công việc; đoạn 5 bàn về cách kết nối bài học với tình huống thực tế bên cạnh giá trị của tư duy trừu tượng. Phương án đúng phải bao quát được cả ứng dụng toán học hằng ngày lẫn cách giảng dạy, tránh chọn ý chỉ tập trung vào sự nhàm chán, so sánh thiên lệch giữa hai loại toán hay quản lý nợ thẻ tín dụng."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what have surveys in many countries found?",
+      "options": {
+       "A": "Credit card debts are rising faster than ever before",
+       "B": "Inflation has made saving money almost impossible",
+       "C": "Most adults save money regularly for many years",
+       "D": "Many adults find simple questions about interest difficult"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 quanh nhắc đến các cuộc khảo sát ở nhiều quốc gia để tìm kết quả gắn với việc nhiều người lớn gặp khó khăn trước các câu hỏi đơn giản về lãi suất và lạm phát."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"this\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "abstract problems",
+       "B": "real-world lessons",
+       "C": "a school survey",
+       "D": "a class trip"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định số ít \"this\" ở đoạn 5 trong mệnh đề nêu quan điểm của những người ủng hộ việc giúp học sinh thấy rõ mục đích học tập. Đọc ngược lại câu liền trước để tìm danh từ/khái niệm chỉ cách dạy gắn với tình huống thực tế vừa được đề cập, tránh nhầm với bài toán trừu tượng, khảo sát ở trường hay chuyến đi dã ngoại của lớp."
+     },
+     {
+      "number": 6,
+      "stem": "Which of the following is NOT mentioned in the passage?",
+      "options": {
+       "A": "Children who enjoy maths earn higher salaries as adults",
+       "B": "Nurses need to make accurate calculations at work",
+       "C": "Coaches use statistics to compare players and plan tactics",
+       "D": "Doubling a recipe requires multiplying each ingredient"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: nhu cầu tính toán chính xác của điều dưỡng trong công việc (đoạn 4), việc huấn luyện viên dùng thống kê để so sánh cầu thủ và lên chiến thuật (đoạn 4), và việc nhân đôi công thức nấu ăn đòi hỏi nhân từng nguyên liệu (đoạn 4) đều có cơ sở. Chi tiết không xuất hiện là thông tin về mức lương khi trưởng thành của trẻ thích học toán."
+     },
+     {
+      "number": 7,
+      "stem": "What can be inferred from paragraph 4 about mathematical mistakes at work?",
+      "options": {
+       "A": "In some jobs, accuracy with numbers can really matter",
+       "B": "Serious consequences are what cause workers to make mistakes",
+       "C": "Every mistake at work leads to a serious accident",
+       "D": "Coaches and fans use statistics to plan tactics"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 4 về các công việc hiện đại đòi hỏi tính toán chuẩn xác và việc những sai sót nhỏ đôi khi dẫn đến hậu quả nghiêm trọng. Từ đó suy ra rằng ở một số nghề nghiệp, độ chính xác với các con số thực sự có ý nghĩa quan trọng, tránh các suy diễn cực đoan như mọi sai sót đều gây tai nạn nghiêm trọng hay đảo ngược nguyên nhân - hệ quả."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, why do some people think abstract maths is valuable?",
+      "options": {
+       "A": "It makes lessons more connected to students' real lives",
+       "B": "It trains people to think through problems logically",
+       "C": "It helps students organise class trips and school surveys",
+       "D": "It is easier for teachers to plan than real problems"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 quanh lý do toán học trừu tượng có giá trị để xác định lợi ích rèn luyện tư duy giải quyết vấn đề một cách logic."
+     },
+     {
+      "number": 9,
+      "stem": "The word \"estimate\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "roughly calculate",
+       "B": "respect",
+       "C": "pay for",
+       "D": "measure exactly"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"estimate\" ở đoạn 4 xuất hiện khi tài xế lên kế hoạch cho chuyến đi dài về quãng đường, tốc độ, thời gian và chi phí nhiên liệu, giúp chọn nghĩa ước lượng/tính toán gần đúng thay vì tôn trọng, chi trả hay đo lường chính xác tuyệt đối."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To explain why shoppers are often cheated by advertisements",
+       "B": "To teach readers how to calculate interest on loans",
+       "C": "To show how maths is part of daily life",
+       "D": "To argue that schools should stop teaching abstract maths Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": "Quan sát cách tổ chức bài viết từ đầu đến cuối. Tác giả liên tục đưa ra các ví dụ thực tế gần gũi để làm rõ toán học hiện diện trong cuộc sống thường nhật, thay vì chỉ giải thích chiêu trò quảng cáo, dạy công thức tính lãi vay hay kêu gọi loại bỏ toán trừu tượng khỏi nhà trường."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính toàn bài (R1Q3):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: đoạn 1 đặt vấn đề về sự gắn kết giữa toán học và đời sống hằng ngày; đoạn 2 minh họa qua hoạt động mua sắm, giảm giá và tỷ lệ phần trăm; đoạn 3 mở rộng sang quản lý tài chính dài hạn, lãi suất, lạm phát và kỹ năng tài chính ở trường học; đoạn 4 nêu các hoạt động quen thuộc như nấu ăn, di chuyển, thể thao cùng độ chính xác trong công việc; đoạn 5 bàn về cách kết nối bài học với tình huống thực tế bên cạnh giá trị của tư duy trừu tượng. Phương án đúng phải bao quát được cả ứng dụng toán học hằng ngày lẫn cách giảng dạy, tránh chọn ý chỉ tập trung vào sự nhàm chán, so sánh thiên lệch giữa hai loại toán hay quản lý nợ thẻ tín dụng.\n- **Dạng câu hỏi Mục đích tác giả (R1Q10):** Quan sát cách tổ chức bài viết từ đầu đến cuối. Tác giả liên tục đưa ra các ví dụ thực tế gần gũi để làm rõ toán học hiện diện trong cuộc sống thường nhật, thay vì chỉ giải thích chiêu trò quảng cáo, dạy công thức tính lãi vay hay kêu gọi loại bỏ toán trừu tượng khỏi nhà trường.\n- **Dạng câu hỏi Chi tiết (R1Q1, R1Q4, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực diện trong đúng đoạn văn được chỉ định.\n  - Với **R1Q1**, quét đoạn 2 quanh cụm từ về tỷ lệ phần trăm và người mua sắm để nhận diện lợi ích liên quan đến việc nhận ra các mức giảm giá/tiết kiệm nhỏ bị làm cho có vẻ lớn.\n  - Với **R1Q4**, quét đoạn 3 quanh nhắc đến các cuộc khảo sát ở nhiều quốc gia để tìm kết quả gắn với việc nhiều người lớn gặp khó khăn trước các câu hỏi đơn giản về lãi suất và lạm phát.\n  - Với **R1Q8**, quét đoạn 5 quanh lý do toán học trừu tượng có giá trị để xác định lợi ích rèn luyện tư duy giải quyết vấn đề một cách logic.\n- **Dạng câu hỏi Loại trừ NOT (R1Q6):** Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: nhu cầu tính toán chính xác của điều dưỡng trong công việc (đoạn 4), việc huấn luyện viên dùng thống kê để so sánh cầu thủ và lên chiến thuật (đoạn 4), và việc nhân đôi công thức nấu ăn đòi hỏi nhân từng nguyên liệu (đoạn 4) đều có cơ sở. Chi tiết không xuất hiện là thông tin về mức lương khi trưởng thành của trẻ thích học toán.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q2, R1Q9):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) xung quanh từ mục tiêu.\n  - Với **R1Q2**, từ **\"misled\"** ở đoạn 2 nằm trong ngữ cảnh quảng cáo khiến người xem hiểu sai hoặc bị đánh lừa rằng khoản tiết kiệm nhỏ trở nên lớn, sát nghĩa với bị đánh lừa/dối trá hơn là bị cướp, được khích lệ hay bị lạc.\n  - Với **R1Q9**, từ **\"estimate\"** ở đoạn 4 xuất hiện khi tài xế lên kế hoạch cho chuyến đi dài về quãng đường, tốc độ, thời gian và chi phí nhiên liệu, giúp chọn nghĩa ước lượng/tính toán gần đúng thay vì tôn trọng, chi trả hay đo lường chính xác tuyệt đối.\n- **Dạng câu hỏi Quy chiếu (R1Q5):** Tập trung vào đại từ chỉ định số ít **\"this\"** ở đoạn 5 trong mệnh đề nêu quan điểm của những người ủng hộ việc giúp học sinh thấy rõ mục đích học tập. Đọc ngược lại câu liền trước để tìm danh từ/khái niệm chỉ cách dạy gắn với tình huống thực tế vừa được đề cập, tránh nhầm với bài toán trừu tượng, khảo sát ở trường hay chuyến đi dã ngoại của lớp.\n- **Dạng câu hỏi Suy luận (R1Q7):** Kết hợp thông tin ở đoạn 4 về các công việc hiện đại đòi hỏi tính toán chuẩn xác và việc những sai sót nhỏ đôi khi dẫn đến hậu quả nghiêm trọng. Từ đó suy ra rằng ở một số nghề nghiệp, độ chính xác với các con số thực sự có ý nghĩa quan trọng, tránh các suy diễn cực đoan như mọi sai sót đều gây tai nạn nghiêm trọng hay đảo ngược nguyên nhân - hệ quả.\nLời khuyên: Hãy tối ưu hóa tốc độ làm bài bằng cách xử lý trước nhóm câu hỏi có vị trí định vị rõ ràng như Quy chiếu (R1Q5) và **Từ vựng theo ngữ cảnh** (R1Q2, R1Q9). Kế tiếp, dùng kỹ thuật đọc quét nhanh để giải quyết các câu **Chi tiết** (R1Q1, R1Q4, R1Q8) và câu hỏi **Loại trừ** (R1Q6). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã nắm vững, bạn sẽ dễ dàng chốt đáp án cho các câu đòi hỏi tư duy tổng hợp cao gồm **Suy luận** (R1Q7), **Ý chính toàn bài** (R1Q3) và **Mục** đích tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Korean Wave: How Much Did Government Investment Matter?",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In little more than two decades, South Korea has transformed itself into one of the world's most influential exporters of popular culture. K-pop groups fill stadiums on every continent, Korean dramas attract audiences from Latin America to the Middle East, and in 2020 Parasite became the first film not in English to win the Academy Award for Best Picture. This phenomenon, widely known as the Korean Wave, or Hallyu, is often presented as a triumph of deliberate government strategy. The reality, however, is somewhat more complicated.",
+     "Government interest in culture as an industry is usually traced to the 1990s. A frequently cited government report observed that the profits of a single Hollywood blockbuster equalled the revenue from exporting well over a million Korean cars, a comparison that reportedly helped persuade officials that entertainment could be a serious economic sector. After the 1997 Asian financial crisis exposed weaknesses in the country's heavy reliance on manufacturing, the government expanded support for cultural industries, increasing funding and easing the censorship that had long restricted filmmakers.",
+     "Subsequent administrations built on this foundation. Public agencies were created to fund production, train talent and promote Korean content abroad, culminating in the establishment of a dedicated content agency in 2009. The government has also financed infrastructure, offered tax incentives and loans to production companies, and supported overseas marketing through embassies and cultural centres. Such investment, supporters argue, helped small domestic firms compete against far larger foreign rivals.",
+     "Yet attributing Hallyu's success primarily to government planning risks overlooking other factors. The most commercially successful K-pop agencies are private companies that developed their own **rigorous** training systems, in which aspiring performers spend years learning singing, dancing and languages before debuting. The rise of global streaming and social media platforms, meanwhile, allowed Korean content to reach international audiences without relying on traditional distributors. Some scholars argue that state support **accelerated** a process driven largely by private creativity and technological change, rather than creating it.",
+     "Government involvement has not been without controversy. In 2016, it emerged that officials had compiled a blacklist of thousands of artists considered critical of the government, many of whom were allegedly denied public funding. The scandal raised uncomfortable questions about the risks of state influence over culture. Critics also point to the demanding conditions faced by many young trainees and performers. They argue that the industry's glossy global image has sometimes hidden problems of intense pressure, long working hours and restrictive contracts.",
+     "Other countries have taken note. Governments from Thailand to the United Kingdom have studied the Korean model in the hope of boosting their own creative industries. Whether it can be replicated, however, is uncertain. Korea's success reflected a particular combination of circumstances, including a highly connected domestic audience, intense competition among firms and a period of rapid technological change, that may be difficult to reproduce elsewhere.",
+     "The Korean Wave thus offers a nuanced lesson. Government investment appears to have played a meaningful supporting role, particularly in the early stages, but it was most effective when it complemented, rather than directed, the work of private creators. Sustaining that success may depend less on further funding than on preserving the creative freedom that allowed Korean culture to flourish."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "According to the passage, what was significant about the frequently cited government report?",
+      "options": {
+       "A": "It blamed the 1997 crisis on the entertainment industry",
+       "B": "It recommended banning Hollywood films from Korean cinemas",
+       "C": "It showed that Korean cars were more profitable than films",
+       "D": "It helped convince officials that entertainment could earn serious money"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 quanh báo cáo của chính phủ thường được trích dẫn để nhận diện tác động thay đổi nhận thức của giới chức về tiềm năng mang lại nguồn thu lớn của ngành giải trí."
+     },
+     {
+      "number": 12,
+      "stem": "The word \"rigorous\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "strict",
+       "B": "expensive",
+       "C": "cruel",
+       "D": "energetic"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"rigorous\" ở đoạn 4 xuất hiện khi mô tả quá trình rèn luyện, luyện tập khắt khe và kỷ luật cao, sát nghĩa với nghiêm ngặt/kắt khe hơn là đắt đỏ, tàn nhẫn hay tràn đầy năng lượng."
+     },
+     {
+      "number": 13,
+      "stem": "What can be inferred from paragraph 4 about the government's role in Hallyu?",
+      "options": {
+       "A": "Private agencies developed their own demanding training systems",
+       "B": "It likely amplified success rather than being its main source",
+       "C": "It had no effect whatsoever on Korean cultural exports",
+       "D": "Streaming platforms were created because of government support"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 4 về các yếu tố thị trường, đào tạo tư nhân và công nghệ cùng lập luận về vai trò hỗ trợ của nhà nước. Từ đó suy ra rằng yếu tố nhà nước nhiều khả năng khuếch đại và thúc đẩy thêm thành công hơn là giữ vai trò nguồn gốc chính yếu duy nhất."
+     },
+     {
+      "number": 14,
+      "stem": "Which of the following best summarises the passage?",
+      "options": {
+       "A": "The 2016 blacklist scandal damaged Korea's entertainment industry permanently",
+       "B": "Other countries can easily copy Korea's model of cultural investment",
+       "C": "State support aided Hallyu, but private creativity and technology were crucial",
+       "D": "Government planning alone created the global success of Korean culture"
+      },
+      "answer": "C",
+      "type_hint": "Tóm tắt ý chính toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: sự lan tỏa toàn cầu của làn sóng văn hóa Hàn Quốc (Hallyu) và góc nhìn xung quanh vai trò của nhà nước, báo cáo kinh tế sau khủng hoảng 1997 cùng nới lỏng kiểm duyệt, lập luận của người ủng hộ đầu tư công, vai trò của hệ thống đào tạo tư nhân và nền tảng công nghệ, tranh luận về can thiệp/kiểm duyệt văn hóa, và tính khó sao chép của mô hình này. Phương án đúng phải bao quát được cả sự hỗ trợ từ nhà nước lẫn tầm quan trọng then chốt của yếu tố sáng tạo tư nhân và công nghệ, tránh chọn các ý tuyệt đối hóa quy hoạch nhà nước hoặc thổi phồng một sự kiện đơn lẻ."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"They\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "government officials",
+       "B": "critics",
+       "C": "thousands of artists",
+       "D": "young trainees"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số nhiều \"They\" ở đoạn 5 trong mệnh đề nêu lập luận hoặc lo ngại về sự can thiệp/kiểm soát đối với hoạt động sáng tạo văn hóa. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ nhóm người đưa ra nhận định/phản biện đó, tránh nhầm với quan chức chính phủ, nghệ sĩ hay thực tập sinh trẻ."
+     },
+     {
+      "number": 16,
+      "stem": "According to the passage, what did supporters believe government investment achieved?",
+      "options": {
+       "A": "It replaced private companies with state-owned production studios",
+       "B": "It helped small Korean firms compete with bigger foreign ones",
+       "C": "It made Korean films cheaper than Hollywood productions",
+       "D": "It allowed the government to control the content of dramas"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 quanh quan điểm của những người ủng hộ đầu tư nhà nước để tìm lợi ích cạnh tranh giúp doanh nghiệp quy mô nhỏ trong nước đối đầu với đối thủ ngoại cỡ hơn."
+     },
+     {
+      "number": 17,
+      "stem": "Which of the following is NOT mentioned in the passage?",
+      "options": {
+       "A": "Korean dramas are now required viewing in some foreign schools",
+       "B": "Officials compiled a list of artists critical of the government",
+       "C": "Parasite won the Academy Award for Best Picture",
+       "D": "Censorship of filmmakers was eased after the 1997 crisis"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: việc lập danh sách nghệ sĩ chỉ trích chính phủ, giải thưởng điện ảnh quốc tế lớn của tác phẩm Hàn Quốc, và việc nới lỏng kiểm duyệt sau khủng hoảng năm 1997 đều có cơ sở. Chi tiết không xuất hiện là thông tin phim truyền hình Hàn Quốc trở thành nội dung xem bắt buộc tại một số trường học nước ngoài."
+     },
+     {
+      "number": 18,
+      "stem": "The word \"accelerated\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "sped up",
+       "B": "caused",
+       "C": "accepted",
+       "D": "funded"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"accelerated\" ở đoạn 4 nằm trong phần nói về tốc độ lan tỏa hoặc phát triển được đẩy nhanh nhờ các yếu tố hỗ trợ/công nghệ, giúp chọn nghĩa đẩy nhanh/tăng tốc thay vì gây ra, chấp nhận hay cấp vốn."
+     },
+     {
+      "number": 19,
+      "stem": "According to the passage, why might the Korean model be difficult to copy?",
+      "options": {
+       "A": "Thailand and the United Kingdom lack streaming platforms",
+       "B": "Other governments refuse to invest money in creative industries",
+       "C": "It relied on a specific mix of local conditions",
+       "D": "Korean companies do not allow foreign firms to study them"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 6 quanh lý do mô hình Hàn Quốc khó nhân rộng sang nơi khác để xác định sự phụ thuộc vào tập hợp điều kiện nội tại đặc thù."
+     },
+     {
+      "number": 20,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To describe the training system used by K-pop agencies",
+       "B": "To compare Korean films with major Hollywood blockbusters",
+       "C": "To assess how much government investment explains Hallyu's success",
+       "D": "To praise the Korean government as the sole creator of Hallyu Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": "Quan sát cách tác giả cân nhắc lập luận xuyên suốt bài đọc. Văn bản đặt vấn đề và đối chiếu nhiều khía cạnh—từ chính sách, vốn đầu tư, kiểm duyệt đến cơ chế thị trường, đào tạo và nền tảng phát sóng—nhằm đánh giá mức độ giải thích của yếu tố đầu tư nhà nước đối với thành công của Hallyu, thay vì chỉ mô tả đào tạo thần tượng, so sánh phim ảnh hay ca ngợi nhà nước là nguồn gốc duy nhất."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Tóm tắt ý chính toàn bài (R2Q4):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: sự lan tỏa toàn cầu của làn sóng văn hóa Hàn Quốc (Hallyu) và góc nhìn xung quanh vai trò của nhà nước, báo cáo kinh tế sau khủng hoảng 1997 cùng nới lỏng kiểm duyệt, lập luận của người ủng hộ đầu tư công, vai trò của hệ thống đào tạo tư nhân và nền tảng công nghệ, tranh luận về can thiệp/kiểm duyệt văn hóa, và tính khó sao chép của mô hình này. Phương án đúng phải bao quát được cả sự hỗ trợ từ nhà nước lẫn tầm quan trọng then chốt của yếu tố sáng tạo tư nhân và công nghệ, tránh chọn các ý tuyệt đối hóa quy hoạch nhà nước hoặc thổi phồng một sự kiện đơn lẻ.\n- **Dạng câu hỏi Mục đích tác giả (R2Q10):** Quan sát cách tác giả cân nhắc lập luận xuyên suốt bài đọc. Văn bản đặt vấn đề và đối chiếu nhiều khía cạnh—từ chính sách, vốn đầu tư, kiểm duyệt đến cơ chế thị trường, đào tạo và nền tảng phát sóng—nhằm đánh giá mức độ giải thích của yếu tố đầu tư nhà nước đối với thành công của Hallyu, thay vì chỉ mô tả đào tạo thần tượng, so sánh phim ảnh hay ca ngợi nhà nước là nguồn gốc duy nhất.\n- **Dạng câu hỏi Chi tiết (R2Q1, R2Q6, R2Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực diện trong đúng đoạn văn được chỉ định.\n  - Với **R2Q1**, quét đoạn 2 quanh báo cáo của chính phủ thường được trích dẫn để nhận diện tác động thay đổi nhận thức của giới chức về tiềm năng mang lại nguồn thu lớn của ngành giải trí.\n  - Với **R2Q6**, quét đoạn 3 quanh quan điểm của những người ủng hộ đầu tư nhà nước để tìm lợi ích cạnh tranh giúp doanh nghiệp quy mô nhỏ trong nước đối đầu với đối thủ ngoại cỡ hơn.\n  - Với **R2Q9**, quét đoạn 6 quanh lý do mô hình Hàn Quốc khó nhân rộng sang nơi khác để xác định sự phụ thuộc vào tập hợp điều kiện nội tại đặc thù.\n- **Dạng câu hỏi Loại trừ NOT (R2Q7):** Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: việc lập danh sách nghệ sĩ chỉ trích chính phủ, giải thưởng điện ảnh quốc tế lớn của tác phẩm Hàn Quốc, và việc nới lỏng kiểm duyệt sau khủng hoảng năm 1997 đều có cơ sở. Chi tiết không xuất hiện là thông tin phim truyền hình Hàn Quốc trở thành nội dung xem bắt buộc tại một số trường học nước ngoài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q2, R2Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) xung quanh từ mục tiêu.\n  - Với **R2Q2**, từ **\"rigorous\"** ở đoạn 4 xuất hiện khi mô tả quá trình rèn luyện, luyện tập khắt khe và kỷ luật cao, sát nghĩa với nghiêm ngặt/kắt khe hơn là đắt đỏ, tàn nhẫn hay tràn đầy năng lượng.\n  - Với **R2Q8**, từ **\"accelerated\"** ở đoạn 4 nằm trong phần nói về tốc độ lan tỏa hoặc phát triển được đẩy nhanh nhờ các yếu tố hỗ trợ/công nghệ, giúp chọn nghĩa đẩy nhanh/tăng tốc thay vì gây ra, chấp nhận hay cấp vốn.\n- **Dạng câu hỏi Quy chiếu (R2Q5):** Tập trung vào đại từ số nhiều **\"They\"** ở đoạn 5 trong mệnh đề nêu lập luận hoặc lo ngại về sự can thiệp/kiểm soát đối với hoạt động sáng tạo văn hóa. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ nhóm người đưa ra nhận định/phản biện đó, tránh nhầm với quan chức chính phủ, nghệ sĩ hay thực tập sinh trẻ.\n- **Dạng câu hỏi Suy luận (R2Q3):** Kết hợp thông tin ở đoạn 4 về các yếu tố thị trường, đào tạo tư nhân và công nghệ cùng lập luận về vai trò hỗ trợ của nhà nước. Từ đó suy ra rằng yếu tố nhà nước nhiều khả năng khuếch đại và thúc đẩy thêm thành công hơn là giữ vai trò nguồn gốc chính yếu duy nhất.\nLời khuyên: Hãy tối ưu hóa tốc độ làm bài bằng cách xử lý trước nhóm câu hỏi có vị trí định vị rõ ràng như Quy chiếu (R2Q5) và **Từ vựng theo ngữ cảnh** (R2Q2, R2Q8). Kế tiếp, dùng kỹ thuật đọc quét nhanh để giải quyết các câu **Chi tiết** (R2Q1, R2Q6, R2Q9) và câu hỏi **Loại trừ** (R2Q7). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã nắm vững, bạn sẽ dễ dàng chốt đáp án cho các câu đòi hỏi tư duy tổng hợp cao gồm **Suy luận** (R2Q3), **Tóm tắt ý chính toàn bài** (R2Q4) và **Mục đích tác giả** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Race After School: Academic Pressure in East Asia",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In many parts of East Asia, the school day does not end when classes finish. After regular lessons, millions of students head to private tutoring centres, known as hagwons in South Korea, juku in Japan and buxiban in Taiwan, where they may study until late in the evening. For these students, education is less a series of lessons than a long and intensely competitive race, with university entrance examinations as the finish line.",
+     "The stakes attached to these examinations help account for such intensity. In South Korea, the national college entrance exam is treated as an event of national importance: on the day it is held, office hours are adjusted to ease traffic and flights are briefly halted during the English listening section. A place at a prestigious university is widely believed to shape not only a student's career prospects but also social standing and even marriage opportunities. Under such conditions, families understandably view educational investment as essential rather than optional.",
+     "Parental expectations play a central role. **[1]** Many parents, particularly those who themselves experienced rapid social change and economic hardship, regard education as the most reliable path to security. **[2]** Some families devote a large share of their income to private tutoring, and spending on private education in South Korea has reached record levels even as the number of students has declined. **[3]** Researchers caution, however, against treating such parents simply as sources of pressure. Many act out of a rational fear that their children will fall behind in a system where others are already paying for extra lessons. **[4]**",
+     "The consequences for students' wellbeing are a matter of growing concern. Surveys frequently report high levels of stress, insufficient sleep and limited time for exercise or leisure among secondary students in the region. While causal links are difficult to establish, some researchers have associated intense academic pressure with anxiety and depression. Others point out that the same systems also produce consistently strong results in international assessments, raising the question of whether high achievement necessarily requires such costs.",
+     "Governments have attempted to intervene, with mixed results. In 2021, China introduced **sweeping** restrictions on for-profit tutoring in core school subjects, aiming to lighten both the financial burden on families and the workload on students. Reports since then suggest that demand has not disappeared; some tutoring has reportedly moved underground or into disguised forms. South Korea has long imposed curfews on tutoring centres in some regions, yet **these** have done little to **diminish** the overall appetite for private education.",
+     "Critics argue that such measures address symptoms rather than causes. As long as access to desirable universities and jobs depends heavily on a single examination, they contend, families will continue to seek any available advantage. Reforms that broaden admissions criteria or narrow the economic gap between prestigious and less prestigious career paths might do more to ease pressure, although such changes are politically and socially difficult.",
+     "It would be misleading to portray the region's students solely as victims. Many value the discipline and knowledge they acquire, and some research suggests that students' own aspirations, not merely parental demands, drive their efforts. Nonetheless, the question of how to sustain high standards without sacrificing young people's wellbeing remains one of the most pressing challenges facing education systems in the region."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "According to the passage, why do families see educational investment as essential?",
+      "options": {
+       "A": "The government pays families who send children to tutoring",
+       "B": "Universities require students to attend private tutoring centres",
+       "C": "Flights are halted during the English listening section",
+       "D": "Admission to top universities is believed to shape many life outcomes"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 quanh lý do các gia đình xem đầu tư giáo dục là thiết yếu để tìm yếu tố gắn với niềm tin rằng cơ hội trúng tuyển đại học hàng đầu định hình nhiều kết quả trong cuộc sống."
+     },
+     {
+      "number": 22,
+      "stem": "The word \"sweeping\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "wide-ranging",
+       "B": "temporary",
+       "C": "unpopular",
+       "D": "cleaning"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"sweeping\" ở đoạn 5 xuất hiện khi mô tả các cải cách hoặc quy định mang tầm ảnh hưởng rộng khắp trên diện rộng, sát nghĩa với sâu rộng/phạm vi rộng hơn là tạm thời, không được ưa chuộng hay lau dọn."
+     },
+     {
+      "number": 23,
+      "stem": "What can be inferred from paragraph 3 about parents who pay for tutoring?",
+      "options": {
+       "A": "They care more about status than about their children's happiness",
+       "B": "Their spending may reflect competitive fear, not just ambition",
+       "C": "Falling student numbers caused them to spend more on tutoring",
+       "D": "They are certain tutoring guarantees entry to top universities"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 3 về tâm lý phụ huynh khi chi tiền cho học thêm giữa sự cạnh tranh gay gắt và nỗi lo bị bỏ lại phía sau. Từ đó suy ra rằng khoản chi tiêu này có thể phản ánh nỗi lo cạnh tranh chứ không chỉ thuần túy là tham vọng hay sự bảo đảm tuyệt đối về kết quả."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following best expresses the main idea of the passage?",
+      "options": {
+       "A": "Intense academic competition in East Asia has complex causes and costs",
+       "B": "Government bans have successfully ended private tutoring across East Asia",
+       "C": "East Asian parents force their children to study against their will",
+       "D": "Cram schools produce better results than regular schools do"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính toàn bài",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: mức độ cạnh tranh học tập và áp lực thi cử tại Đông Á, niềm tin vào giá trị của việc đầu tư giáo dục đối với tương lai, tâm lý chi tiêu cho học thêm giữa bối cảnh cạnh tranh, các hệ lụy lên sức khỏe/giấc ngủ của học sinh, cùng những biện pháp siết chặt quản lý và thực tế thích ứng sau các quy định. Phương án đúng phải bao quát được cả nguyên nhân phức tạp lẫn những cái giá phải trả của cuộc cạnh tranh học thuật này, tránh chọn các ý quy kết lệnh cấm đã giải quyết xong hay tuyệt đối hóa một khía cạnh đơn lẻ."
+     },
+     {
+      "number": 25,
+      "stem": "The word \"these\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "some regions",
+       "B": "curfews",
+       "C": "tutoring centres",
+       "D": "disguised forms"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định số nhiều \"these\" ở đoạn 5 trong câu nói về việc thực thi, theo dõi hoặc né tránh các quy định giới hạn thời gian/khung giờ. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ chính các quy định giới hạn giờ giấc đó, tránh nhầm với tên khu vực, trung tâm dạy thêm hay hình thức ngụy trang."
+     },
+     {
+      "number": 26,
+      "stem": "According to the passage, what has happened since China's 2021 restrictions?",
+      "options": {
+       "A": "Students' overall workload has been reduced by half",
+       "B": "Families now spend more on tutoring abroad",
+       "C": "Some tutoring seems to continue in hidden forms",
+       "D": "Demand for private tutoring has disappeared almost completely"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 quanh mốc năm 2021 và các biện pháp hạn chế tại Trung Quốc để nhận diện thực tế hoạt động dạy thêm vẫn tiếp diễn dưới những hình thức kín đáo/biến tướng."
+     },
+     {
+      "number": 27,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'In this sense, tutoring resembles an arms race: each family spends more largely because every other family does.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Phân tích câu cần chèn ví von việc chi tiêu cho học thêm giống một cuộc chạy đua vũ trang khi mỗi nhà tăng chi chủ yếu vì các gia đình khác cũng làm vậy. Xác định vị trí dấu ngoặc vuông ngay sau đoạn/câu đã nêu logic cạnh tranh tương hỗ hoặc tâm lý sợ tụt lại phía sau giữa các gia đình để mạch lập luận khép kín tự nhiên."
+     },
+     {
+      "number": 28,
+      "stem": "The word \"diminish\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "explain",
+       "B": "regulate",
+       "C": "eliminate",
+       "D": "reduce"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"diminish\" ở đoạn 5 nằm trong phần nói về mức độ suy giảm hoặc thu hẹp của một hiện tượng/nhu cầu sau các biện pháp can thiệp, giúp chọn nghĩa làm giảm/thu hẹp thay vì giải thích, điều tiết hay xóa sổ hoàn toàn."
+     },
+     {
+      "number": 29,
+      "stem": "Which of the following is NOT mentioned in the passage?",
+      "options": {
+       "A": "Some regions limit how late tutoring centres can operate",
+       "B": "Secondary students often report getting too little sleep",
+       "C": "Students in the region perform well in international assessments",
+       "D": "Many students in the region now prefer online universities abroad"
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: giới hạn khung giờ hoạt động của trung tâm dạy thêm ở một số khu vực, tình trạng thiếu ngủ thường xuyên ở học sinh trung học, và kết quả nổi bật trong các kỳ đánh giá quốc tế đều có cơ sở. Chi tiết không xuất hiện là xu hướng đông đảo học sinh trong khu vực chuyển sang chọn đại học trực tuyến ở nước ngoài."
+     },
+     {
+      "number": 30,
+      "stem": "What is the writer's overall attitude towards academic pressure in the region?",
+      "options": {
+       "A": "Confident that tutoring bans will soon solve the problem",
+       "B": "Hostile towards parents who pay for extra lessons",
+       "C": "Concerned yet balanced, recognising both costs and genuine motivations",
+       "D": "Approving, since high pressure is necessary for strong results Reading"
+      },
+      "answer": "C",
+      "type_hint": "Thái độ tác giả",
+      "type": "Thái độ tác giả",
+      "explanation": "Quan sát cách tác giả cân nhắc vấn đề áp lực học tập xuyên suốt bài đọc. Văn bản chỉ ra rõ ràng những chi phí về thời gian, sức khỏe và tâm lý của cuộc đua học tập nhưng đồng thời thấu hiểu động lực thực tế và kỳ vọng của các gia đình, thể hiện sự quan tâm trăn trở nhưng giữ góc nhìn cân bằng thay vì tin rằng lệnh cấm sẽ giải quyết triệt để, thù địch với phụ huynh hay cổ vũ áp lực cực đoan."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính toàn bài (R3Q4):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch triển khai: mức độ cạnh tranh học tập và áp lực thi cử tại Đông Á, niềm tin vào giá trị của việc đầu tư giáo dục đối với tương lai, tâm lý chi tiêu cho học thêm giữa bối cảnh cạnh tranh, các hệ lụy lên sức khỏe/giấc ngủ của học sinh, cùng những biện pháp siết chặt quản lý và thực tế thích ứng sau các quy định. Phương án đúng phải bao quát được cả nguyên nhân phức tạp lẫn những cái giá phải trả của cuộc cạnh tranh học thuật này, tránh chọn các ý quy kết lệnh cấm đã giải quyết xong hay tuyệt đối hóa một khía cạnh đơn lẻ.\n- **Dạng câu hỏi Thái độ tác giả (R3Q10):** Quan sát cách tác giả cân nhắc vấn đề áp lực học tập xuyên suốt bài đọc. Văn bản chỉ ra rõ ràng những chi phí về thời gian, sức khỏe và tâm lý của cuộc đua học tập nhưng đồng thời thấu hiểu động lực thực tế và kỳ vọng của các gia đình, thể hiện sự quan tâm trăn trở nhưng giữ góc nhìn cân bằng thay vì tin rằng lệnh cấm sẽ giải quyết triệt để, thù địch với phụ huynh hay cổ vũ áp lực cực đoan.\n- **Dạng câu hỏi Chi tiết (R3Q1, R3Q6):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực diện trong đúng đoạn văn được chỉ định.\n  - Với **R3Q1**, quét đoạn 2 quanh lý do các gia đình xem đầu tư giáo dục là thiết yếu để tìm yếu tố gắn với niềm tin rằng cơ hội trúng tuyển đại học hàng đầu định hình nhiều kết quả trong cuộc sống.\n  - Với **R3Q6**, quét đoạn 5 quanh mốc năm 2021 và các biện pháp hạn chế tại Trung Quốc để nhận diện thực tế hoạt động dạy thêm vẫn tiếp diễn dưới những hình thức kín đáo/biến tướng.\n- **Dạng câu hỏi Loại trừ NOT (R3Q9):** Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: giới hạn khung giờ hoạt động của trung tâm dạy thêm ở một số khu vực, tình trạng thiếu ngủ thường xuyên ở học sinh trung học, và kết quả nổi bật trong các kỳ đánh giá quốc tế đều có cơ sở. Chi tiết không xuất hiện là xu hướng đông đảo học sinh trong khu vực chuyển sang chọn đại học trực tuyến ở nước ngoài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q2, R3Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) xung quanh từ mục tiêu.\n  - Với **R3Q2**, từ **\"sweeping\"** ở đoạn 5 xuất hiện khi mô tả các cải cách hoặc quy định mang tầm ảnh hưởng rộng khắp trên diện rộng, sát nghĩa với sâu rộng/phạm vi rộng hơn là tạm thời, không được ưa chuộng hay lau dọn.\n  - Với **R3Q8**, từ **\"diminish\"** ở đoạn 5 nằm trong phần nói về mức độ suy giảm hoặc thu hẹp của một hiện tượng/nhu cầu sau các biện pháp can thiệp, giúp chọn nghĩa làm giảm/thu hẹp thay vì giải thích, điều tiết hay xóa sổ hoàn toàn.\n- **Dạng câu hỏi Quy chiếu (R3Q5):** Tập trung vào đại từ chỉ định số nhiều **\"these\"** ở đoạn 5 trong câu nói về việc thực thi, theo dõi hoặc né tránh các quy định giới hạn thời gian/khung giờ. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ chính các quy định giới hạn giờ giấc đó, tránh nhầm với tên khu vực, trung tâm dạy thêm hay hình thức ngụy trang.\n- **Dạng câu hỏi Chèn câu (R3Q7):** Phân tích câu cần chèn ví von việc chi tiêu cho học thêm giống một cuộc chạy đua vũ trang khi mỗi nhà tăng chi chủ yếu vì các gia đình khác cũng làm vậy. Xác định vị trí dấu ngoặc vuông ngay sau đoạn/câu đã nêu logic cạnh tranh tương hỗ hoặc tâm lý sợ tụt lại phía sau giữa các gia đình để mạch lập luận khép kín tự nhiên.\n- **Dạng câu hỏi Suy luận (R3Q3):** Kết hợp thông tin ở đoạn 3 về tâm lý phụ huynh khi chi tiền cho học thêm giữa sự cạnh tranh gay gắt và nỗi lo bị bỏ lại phía sau. Từ đó suy ra rằng khoản chi tiêu này có thể phản ánh nỗi lo cạnh tranh chứ không chỉ thuần túy là tham vọng hay sự bảo đảm tuyệt đối về kết quả.\nLời khuyên: Hãy tối ưu hóa tốc độ làm bài bằng cách xử lý trước nhóm câu hỏi có vị trí định vị rõ ràng như Quy chiếu (R3Q5) và **Từ vựng theo ngữ cảnh** (R3Q2, R3Q8). Kế tiếp, dùng kỹ thuật đọc quét nhanh để giải quyết các câu **Chi tiết** (R3Q1, R3Q6) và câu hỏi **Loại trừ** (R3Q9). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã nắm vững, bạn sẽ dễ dàng chốt đáp án cho các câu đòi hỏi tư duy tổng hợp cao gồm **Chèn câu** (R3Q7), **Suy luận** (R3Q3), **Ý chính toàn bài** (R3Q4) và **Thái độ tác giả** (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Organic Goes Mainstream: Supermarkets and Shoppers",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Not long ago, organic food was largely **confined** to specialist shops, farmers' markets and the shelves of health-conscious grocers. Today it occupies a prominent place in mainstream supermarkets, including discount chains that once built their reputations on low prices alone. Many supermarkets now devote entire aisles to organic produce, dairy and packaged goods. Global retail sales of organic products have grown substantially over the past two decades, with the largest markets in the United States and Western Europe, though demand is also rising in parts of Asia.",
+     "Supermarkets have been central to this expansion. By introducing their own-brand organic ranges, large retailers have reduced prices and made organic products available to shoppers who would never have visited a specialist store. Not only has this broadened the market, but it has also changed its character. Some scholars describe a process of \"conventionalisation,\" in which organic farming increasingly resembles the industrial agriculture it once defined itself against: large-scale, specialised and dependent on long supply chains.",
+     "Why do consumers choose organic products? Surveys across many countries consistently identify health as the most commonly cited motive, followed by concerns about the environment, animal welfare and, for some, taste. When asked directly, respondents frequently express the belief that organic food is more nutritious or safer, although the scientific evidence for nutritional superiority remains limited. Others describe buying organic as a way of supporting farming practices they consider more responsible. Some shoppers also say that organic food simply makes them feel they are making a better choice for their families.",
+     "Yet stated preferences do not always translate into purchases. Many shoppers who express favourable views towards organic food buy it only occasionally, a pattern researchers call the attitude-behaviour gap. Price is the most frequently mentioned barrier, but it is not the only one. Some respondents question whether organic labels can be trusted, particularly for imported products, while others report that organic options are not consistently available where they shop. A minority express outright scepticism, regarding the organic premium as little more than a marketing strategy.",
+     "Responses also vary considerably between groups. Younger, more educated and higher-income consumers tend to report more frequent purchases, though the spread of discount ranges may be narrowing this gap. Parents of young children often say they buy organic products specifically for their children, even when they rarely buy them for themselves, suggesting that perceived risk shapes choices as much as general preference does. Older consumers, by contrast, are more likely to cite habit or price as reasons for not buying organic.",
+     "For farmers, supermarket demand has been a mixed blessing. Large retailers offer access to vast numbers of consumers, but they also exert strong pressure on prices and require consistent volumes and standards that small producers can struggle to meet. Some small farmers have therefore turned to alternative channels, such as box schemes and direct sales. Through these, **they** retain more control over prices and can communicate their values directly to customers. Others have formed cooperatives to negotiate collectively with large buyers.",
+     "The mainstreaming of organic food thus presents a paradox. Its growth in supermarkets has made organic products more accessible than ever, yet the same process may **dilute** some of the values that originally distinguished the movement. Whether consumers will continue to pay a premium for products that increasingly resemble conventional ones, apart from the label itself, may depend on how far they continue to trust what that label represents."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "According to the passage, how have supermarkets helped expand the organic market?",
+      "options": {
+       "A": "By buying out the specialist shops that once sold organic food",
+       "B": "Cheaper own-brand lines reached shoppers avoiding specialist stores",
+       "C": "By persuading farmers to abandon long supply chains entirely",
+       "D": "By convincing shoppers that organic food is more nutritious"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 quanh vai trò của siêu thị trong việc mở rộng thị trường hữu cơ để tìm yếu tố gắn với các dòng sản phẩm nhãn riêng dễ tiếp cận hơn đối với người mua ngại cửa hàng chuyên biệt."
+     },
+     {
+      "number": 32,
+      "stem": "The word \"confined\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "restricted",
+       "B": "displayed",
+       "C": "imprisoned",
+       "D": "verified"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"confined\" ở đoạn 1 xuất hiện khi nói về phạm vi hẹp hoặc giới hạn ban đầu của thị trường hữu cơ, sát nghĩa với bị giới hạn/thu hẹp hơn là trưng bày, giam cầm hay được xác minh."
+     },
+     {
+      "number": 33,
+      "stem": "What can be inferred from paragraph 2 about \"conventionalisation\"?",
+      "options": {
+       "A": "Long supply chains caused supermarkets to start selling organic food",
+       "B": "Large retailers have reduced the prices of organic products",
+       "C": "It proves organic farming is now identical to industrial agriculture",
+       "D": "Organic farming's growth may have eroded what originally made it distinctive"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 2 về khái niệm \"conventionalisation\" với quy mô sản xuất lớn và chuỗi cung ứng kéo dài. Từ đó suy ra rằng sự phát triển theo hướng thương mại quy mô lớn có thể làm mai một những nét đặc thù vốn có ban đầu của nông nghiệp hữu cơ, tránh các suy diễn đồng nhất hoàn toàn với nông nghiệp công nghiệp hay quy kết sai nguyên nhân."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following best summarises the central argument of the passage?",
+      "options": {
+       "A": "Small organic farmers should stop selling to large supermarkets",
+       "B": "Supermarkets have destroyed the organic movement's original values completely",
+       "C": "Organic food's supermarket growth brings wider access but raises new tensions",
+       "D": "Health is the only reason consumers buy organic food"
+      },
+      "answer": "C",
+      "type_hint": "Tóm tắt luận điểm trọng tâm",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc câu chủ đề của từng đoạn để nắm mạch triển khai: sự mở rộng của thị trường thực phẩm hữu cơ và vai trò của siêu thị, khái niệm \"conventionalisation\" cùng chuỗi cung ứng dài, động lực mua sắm theo khảo sát và khoảng cách giữa thái độ với hành vi mua hàng, các kênh tiêu thụ thay thế cho nông hộ nhỏ, cùng những tranh luận về độ tin cậy của nhãn mác và bản sắc hữu cơ. Phương án đúng phải phản ánh được cả lợi ích mở rộng khả năng tiếp cận qua siêu thị lẫn những căng thẳng mới phát sinh, tránh chọn các ý cực đoan như tẩy chay siêu thị, phá hủy hoàn toàn giá trị ban đầu hay quy về một động cơ duy nhất."
+     },
+     {
+      "number": 35,
+      "stem": "The word \"they\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "large retailers",
+       "B": "alternative channels",
+       "C": "direct sales",
+       "D": "small farmers"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số nhiều \"they\" ở đoạn 6 trong mệnh đề bàn về khó khăn hoặc lựa chọn kênh tiêu thụ của nhóm người sản xuất quy mô nhỏ. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ nhóm người canh tác đó, tránh nhầm với các nhà bán lẻ lớn, kênh phân phối thay thế hay hình thức bán hàng trực tiếp."
+     },
+     {
+      "number": 36,
+      "stem": "According to the passage, which motive do surveys most often identify?",
+      "options": {
+       "A": "Health, ahead of environmental and other concerns",
+       "B": "A preference for the taste of organic food",
+       "C": "Support for farming practices considered more responsible",
+       "D": "Concern for animal welfare on farms"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 quanh kết quả khảo sát về động lực mua hàng để nhận diện yếu tố sức khỏe đứng trước các mối bận tâm khác như môi trường hay phúc lợi động vật."
+     },
+     {
+      "number": 37,
+      "stem": "Which of the following is NOT mentioned in the passage?",
+      "options": {
+       "A": "Some consumers doubt whether labels on imported products are reliable",
+       "B": "Demand for organic food is growing in parts of Asia",
+       "C": "Organic food is cheaper than conventional food in some countries",
+       "D": "Box schemes allow farmers to sell directly to customers"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: sự hoài nghi về độ tin cậy của nhãn mác trên sản phẩm nhập khẩu, nhu cầu tăng ở một số khu vực châu Á, và mô hình giao giỏ/bán trực tiếp từ nông trại đều có cơ sở. Chi tiết không xuất hiện là khẳng định thực phẩm hữu cơ rẻ hơn thực phẩm thông thường ở một số quốc gia."
+     },
+     {
+      "number": 38,
+      "stem": "The word \"dilute\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "weaken",
+       "B": "delay",
+       "C": "promote",
+       "D": "destroy"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"dilute\" ở đoạn 7 nằm trong bối cảnh làm suy yếu hoặc pha loãng ý nghĩa, tiêu chuẩn hay tinh thần ban đầu, giúp chọn nghĩa làm suy yếu/pha loãng thay vì trì hoãn, thúc đẩy hay phá hủy hoàn toàn."
+     },
+     {
+      "number": 39,
+      "stem": "According to the passage, what is the \"attitude-behaviour gap\"?",
+      "options": {
+       "A": "Favourable views of organic food not matched by regular buying",
+       "B": "The price difference between organic and conventional products",
+       "C": "Shoppers' refusal to trust organic labels on any imported product",
+       "D": "Supermarkets failing to stock organic products consistently"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Thái độ tác giả",
+      "explanation": "quét đoạn 4 quanh thuật ngữ \"attitude-behaviour gap\" để xác định sự lệch pha giữa thái độ tích cực/ủng hộ và tần suất mua sắm thực tế."
+     },
+     {
+      "number": 40,
+      "stem": "Which of the following best describes how the writer develops the argument?",
+      "options": {
+       "A": "By arguing that consumers should avoid organic products in supermarkets",
+       "B": "By describing how organic food is grown on large farms",
+       "C": "By comparing organic sales figures across different continents",
+       "D": "By tracing organic food's growth, consumer views and resulting tensions"
+      },
+      "answer": "D",
+      "type_hint": "Cách triển khai lập luận",
+      "type": "Chi tiết",
+      "explanation": "Quan sát trình tự lập luận xuyên suốt văn bản. Tác giả lần lượt lần theo quá trình tăng trưởng của thực phẩm hữu cơ, phân tích quan điểm/hành vi của người tiêu dùng rồi làm rõ những mâu thuẫn, thách thức nảy sinh, thay vì khuyên tránh mua ở siêu thị, mô tả kỹ thuật canh tác trên trang trại lớn hay chỉ so sánh doanh số giữa các châu lục."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Tóm tắt luận điểm trọng tâm (R4Q4):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của từng đoạn để nắm mạch triển khai: sự mở rộng của thị trường thực phẩm hữu cơ và vai trò của siêu thị, khái niệm \"conventionalisation\" cùng chuỗi cung ứng dài, động lực mua sắm theo khảo sát và khoảng cách giữa thái độ với hành vi mua hàng, các kênh tiêu thụ thay thế cho nông hộ nhỏ, cùng những tranh luận về độ tin cậy của nhãn mác và bản sắc hữu cơ. Phương án đúng phải phản ánh được cả lợi ích mở rộng khả năng tiếp cận qua siêu thị lẫn những căng thẳng mới phát sinh, tránh chọn các ý cực đoan như tẩy chay siêu thị, phá hủy hoàn toàn giá trị ban đầu hay quy về một động cơ duy nhất.\n- **Dạng câu hỏi Cách triển khai lập luận (R4Q10):** Quan sát trình tự lập luận xuyên suốt văn bản. Tác giả lần lượt lần theo quá trình tăng trưởng của thực phẩm hữu cơ, phân tích quan điểm/hành vi của người tiêu dùng rồi làm rõ những mâu thuẫn, thách thức nảy sinh, thay vì khuyên tránh mua ở siêu thị, mô tả kỹ thuật canh tác trên trang trại lớn hay chỉ so sánh doanh số giữa các châu lục.\n- **Dạng câu hỏi Chi tiết (R4Q1, R4Q6, R4Q9):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để đối chiếu thông tin trực diện trong đúng đoạn văn được chỉ định.\n  - Với **R4Q1**, quét đoạn 2 quanh vai trò của siêu thị trong việc mở rộng thị trường hữu cơ để tìm yếu tố gắn với các dòng sản phẩm nhãn riêng dễ tiếp cận hơn đối với người mua ngại cửa hàng chuyên biệt.\n  - Với **R4Q6**, quét đoạn 3 quanh kết quả khảo sát về động lực mua hàng để nhận diện yếu tố sức khỏe đứng trước các mối bận tâm khác như môi trường hay phúc lợi động vật.\n  - Với **R4Q9**, quét đoạn 4 quanh thuật ngữ \"attitude-behaviour gap\" để xác định sự lệch pha giữa thái độ tích cực/ủng hộ và tần suất mua sắm thực tế.\n- **Dạng câu hỏi Loại trừ NOT (R4Q7):** Đối chiếu từng phương án với các thông tin thực sự xuất hiện trong bài: sự hoài nghi về độ tin cậy của nhãn mác trên sản phẩm nhập khẩu, nhu cầu tăng ở một số khu vực châu Á, và mô hình giao giỏ/bán trực tiếp từ nông trại đều có cơ sở. Chi tiết không xuất hiện là khẳng định thực phẩm hữu cơ rẻ hơn thực phẩm thông thường ở một số quốc gia.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q2, R4Q8):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh) xung quanh từ mục tiêu.\n  - Với **R4Q2**, từ **\"confined\"** ở đoạn 1 xuất hiện khi nói về phạm vi hẹp hoặc giới hạn ban đầu của thị trường hữu cơ, sát nghĩa với bị giới hạn/thu hẹp hơn là trưng bày, giam cầm hay được xác minh.\n  - Với **R4Q8**, từ **\"dilute\"** ở đoạn 7 nằm trong bối cảnh làm suy yếu hoặc pha loãng ý nghĩa, tiêu chuẩn hay tinh thần ban đầu, giúp chọn nghĩa làm suy yếu/pha loãng thay vì trì hoãn, thúc đẩy hay phá hủy hoàn toàn.\n- **Dạng câu hỏi Quy chiếu (R4Q5):** Tập trung vào đại từ số nhiều **\"they\"** ở đoạn 6 trong mệnh đề bàn về khó khăn hoặc lựa chọn kênh tiêu thụ của nhóm người sản xuất quy mô nhỏ. Đọc ngược lại câu liền trước để tìm danh từ số nhiều chỉ nhóm người canh tác đó, tránh nhầm với các nhà bán lẻ lớn, kênh phân phối thay thế hay hình thức bán hàng trực tiếp.\n- **Dạng câu hỏi Suy luận (R4Q3):** Kết hợp thông tin ở đoạn 2 về khái niệm \"conventionalisation\" với quy mô sản xuất lớn và chuỗi cung ứng kéo dài. Từ đó suy ra rằng sự phát triển theo hướng thương mại quy mô lớn có thể làm mai một những nét đặc thù vốn có ban đầu của nông nghiệp hữu cơ, tránh các suy diễn đồng nhất hoàn toàn với nông nghiệp công nghiệp hay quy kết sai nguyên nhân.\nLời khuyên: Hãy tối ưu hóa tốc độ làm bài bằng cách xử lý trước nhóm câu hỏi có vị trí định vị rõ ràng như Quy chiếu (R4Q5) và **Từ vựng theo ngữ cảnh** (R4Q2, R4Q8). Kế tiếp, dùng kỹ thuật đọc quét nhanh để giải quyết các câu **Chi tiết** (R4Q1, R4Q6, R4Q9) và câu hỏi **Loại trừ** (R4Q7). Cuối cùng, dựa trên bức tranh thông tin toàn cảnh đã nắm vững, bạn sẽ dễ dàng chốt đáp án cho các câu đòi hỏi tư duy tổng hợp cao gồm **Suy luận** (R4Q3), **Tóm tắt luận điểm trọng tâm** (R4Q4) và **Cách triển khai lập luận** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend, Nam, who lives in Thailand. He told you about a festival in his country and asked about yours. Read part of his email below.\nLast week we celebrated Songkran, our traditional New Year water festival, and it was so much fun! I'd love to know more about the festivals in your country. I also heard that you are planning to visit Thailand next summer.\n- What is a traditional festival in your country, and when is it celebrated?\n- What do people usually do during this festival?\n- What are your plans for your trip to Thailand next summer?\nWrite an email responding to Nam. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend, Nam, who lives in Thailand. He told you about a festival in his country and asked about yours. Read part of his email below."
+     ],
+     "quote": [
+      "Last week we celebrated Songkran, our traditional New Year water festival, and it was so much fun! I'd love to know more about the festivals in your country. I also heard that you are planning to visit Thailand next summer.",
+      "- What is a traditional festival in your country, and when is it celebrated?",
+      "- What do people usually do during this festival?",
+      "- What are your plans for your trip to Thailand next summer?"
+     ],
+     "instruction": "Write an email responding to Nam. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (Thư thân mật) gửi bạn bè, gồm 2 chức năng: **mô tả lễ hội truyền thống** và **chia sẻ kế** hoạch du lịch.\n- Giọng văn thân thiện, hào hứng; nên phản hồi ngắn về lễ hội Songkran của bạn ở phần mở đầu.\n- Bạn phải trả lời đủ **3 yêu cầu**: (1) tên lễ hội truyền thống và thời gian tổ chức, (2) mọi người thường làm gì, (3) kế hoạch đi Thái Lan hè năm sau.\n- Chọn lễ hội **quen thuộc, dễ mô tả**: Tết Nguyên Đán hoặc Tết Trung Thu.\n- Phần kế hoạch nên có: đi với ai, đi đâu, làm gì, và có thể đề nghị gặp bạn.\n- Bài viết tối thiểu **120 từ**; nên viết khoảng 130–150 từ.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Hi Nam,\n- **Opening:** Cảm ơn thư, phản hồi về Songkran. Ví dụ: Thanks for your email. Songkran sounds amazing – I'd love to join a water fight one day!\n- **Body 1 – Tên lễ hội và thời gian:** Ví dụ: The most important traditional festival in Vietnam is Tet, or the Lunar New Year. It usually takes place in late January or early February.\n- **Body 2 – Hoạt động:** Ví dụ: Before Tet, people clean and decorate their houses with peach blossoms and kumquat trees. During the holiday, families gather to eat traditional food such as banh chung, and children receive lucky money in red envelopes.\n- **Body 3 – Kế hoạch đi Thái Lan:** Ví dụ: As for my trip, I'm going to visit Thailand with my family in July. We plan to spend three days in Bangkok visiting temples and floating markets, and then relax on the beaches in Phuket.\n- **Closing:** Đề nghị gặp mặt. Ví dụ: It would be great if we could meet up while I'm there. Let me know when you're free!\n- **Sign-off:** Best wishes, / Cheers, + tên.\n- Mỗi đoạn thân bài 2–4 câu, mỗi đoạn trả lời một câu hỏi.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Dùng **Hiện tại đơn** và **câu bị động** để mô tả lễ hội (Tet is celebrated..., Banh chung is made from...).\n- Dùng **be going to / plan to / will** cho kế hoạch du lịch năm sau.\n- Dùng trạng từ tần suất (usually, often, always) khi mô tả phong tục.\n- Giải thích ngắn các từ tiếng Việt (banh chung – a square sticky rice cake) để người nước ngoài hiểu.\n- Tránh lặp từ festival, celebrate, interesting; thay bằng occasion, holiday, mark, festive, exciting.\nTừ vựng quan trọng:\n- **Lunar New Year / Tet:** Tết Nguyên Đán\n- **Mid-Autumn Festival:** Tết Trung Thu\n- **Family reunion:** Sum họp gia đình\n- **Peach blossoms / kumquat trees:** Hoa đào / cây quất\n- **Lucky money / red envelopes:** Tiền lì xì / bao lì xì\n- **Ancestor worship:** Thờ cúng tổ tiên\n- **Traditional food / sticky rice cake:** Món ăn truyền thống / bánh chưng\n- **Floating market / temple:** Chợ nổi / đền chùa\n- **Go sightseeing:** Đi tham quan\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Before / During / After:** Trước / Trong / Sau\n- **In addition / Besides:** Bên cạnh đó\n- **As for / Regarding:** Còn về\n- **Then / After that:** Sau đó\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **It sounds amazing!:** Nghe tuyệt quá!\n- **Tet is my favourite time of the year.:** Tết là khoảng thời gian mình thích nhất trong năm.\n- **I'm really looking forward to my trip.:** Mình rất mong chờ chuyến đi.\n- **It would be great to see you there!:** Thật tuyệt nếu được gặp bạn ở đó!\n\n**4. Các lỗi thường gặp:**\n- Mô tả lễ hội quá dài, quên trả lời phần kế hoạch đi Thái Lan.\n- Dùng sai thì: dùng hiện tại đơn cho kế hoạch (I visit Thailand next summer) thay vì be going to.\n- Viết từ tiếng Việt mà không giải thích nghĩa.\n- Sai giới từ: in Tet thay vì at Tet / during Tet; on next summer thay vì next summer.\n- Dùng văn phong quá trang trọng như Dear Sir hoặc Yours faithfully.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm sơ số từ, đảm bảo trên 120 từ.\n- Kiểm tra đã trả lời đủ 3 câu hỏi.\n- Kiểm tra lời chào, mở đầu, kết thư và ký tên.\n- Rà soát thì tương lai, câu bị động và giới từ thời gian.\n\n**6. Tư duy làm bài:**\n- Hãy viết như đang giới thiệu văn hóa Việt Nam cho một người bạn nước ngoài: rõ ràng, sinh động, tự hào.\n- Chọn lễ hội bạn hiểu rõ nhất để mô tả tự nhiên.\n- Trả lời đủ 3 yêu cầu là chìa khóa đạt điểm Task Fulfillment cao.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nWith the rapid development of technology, mobile phones and the Internet have become part of everyday life for people of all ages.\nMore and more elderly people are now using smartphones and going online.\nDiscuss the advantages and disadvantages of mobile phones and the Internet for elderly people.\nWrite an essay to an educated reader to discuss the advantages and disadvantages of mobile phones and the Internet for elderly people. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "With the rapid development of technology, mobile phones and the Internet have become part of everyday life for people of all ages.",
+      "More and more elderly people are now using smartphones and going online.",
+      "Discuss the advantages and disadvantages of mobile phones and the Internet for elderly people."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages and disadvantages of mobile phones and the Internet for elderly people. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng **Advantages & Disadvantages Essay**, yêu cầu trình bày cả **lợi ích** và **bất lợi** của điện thoại di động và Internet **đối với người cao tuổi**.\n- Từ khóa quan trọng: **mobile phones**, **the Internet**, **elderly people**, **advantages**, **disadvantages**.\n- Trọng tâm là **người già**; mọi lập luận và ví dụ phải gắn với đối tượng này.\n- Cần cân bằng hai phần: mỗi phần 2 ý chính có giải thích và ví dụ.\n- Bài viết tối thiểu **250 từ**; nên viết khoảng 270–300 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu và thesis statement. Ví dụ: Modern technology has become increasingly popular among older people, bringing them significant benefits as well as certain risks.\n- **Body 1 – Lợi ích:** Giữ liên lạc với con cháu ở xa, giảm cô đơn; tiếp cận thông tin sức khỏe, tin tức; tiện ích (đặt lịch khám, gọi xe, thanh toán); giải trí. Ví dụ: On the one hand, smartphones help elderly people stay in touch with their children and grandchildren through video calls, which reduces loneliness.\n- **Body 2 – Bất lợi:** Khó sử dụng, thiếu kỹ năng số; dễ bị lừa đảo trực tuyến, tin giả; ảnh hưởng sức khỏe (mắt, giấc ngủ), ít vận động. Ví dụ: On the other hand, many older people are easy targets for online scams because they are not familiar with digital technology.\n- **Conclusion:** Tóm tắt và nêu nhận định. Ví dụ: In conclusion, mobile phones and the Internet can greatly improve the lives of elderly people, provided that they receive proper guidance and support.\n- Cấu trúc mỗi đoạn thân bài: **Topic sentence -> Explanation -> Example -> Mini-conclusion**.\n- Ví dụ minh họa: A grandmother in the countryside can see her grandson studying abroad every week via Zalo, but she may also lose money after clicking on a fake prize message.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Dùng **thì Hiện tại đơn** cho sự thật chung, **Hiện tại hoàn thành** cho xu hướng (More elderly people have started using...).\n- Phát triển ý theo chuỗi: nêu ý -> giải thích -> ví dụ gắn với người già.\n- Dùng câu điều kiện (If older people are not careful, they may...), câu bị động và mệnh đề quan hệ để đa dạng ngữ pháp.\n- Tránh lặp lại elderly people; luân phiên dùng older people, the elderly, senior citizens, the older generation.\n- Thesis statement phải cho thấy bài bàn cả hai mặt.\nTừ vựng quan trọng:\n- **The elderly / senior citizens:** Người cao tuổi\n- **Stay in touch / video call:** Giữ liên lạc / gọi video\n- **Reduce loneliness / social isolation:** Giảm cô đơn / sự cô lập xã hội\n- **Access health information:** Tiếp cận thông tin sức khỏe\n- **Online services / e-payment:** Dịch vụ trực tuyến / thanh toán điện tử\n- **Digital literacy / digital skills:** Kỹ năng số\n- **Online scams / fraud:** Lừa đảo trực tuyến\n- **Fake news / misinformation:** Tin giả / thông tin sai lệch\n- **Eye strain / sedentary lifestyle:** Mỏi mắt / lối sống ít vận động\n- **Generation gap:** Khoảng cách thế hệ\nTừ nối (Linking words):\n- **Adding – Furthermore / Moreover / In addition:** Hơn nữa, thêm vào đó\n- **Contrast – On the other hand / However / Nevertheless:** Mặt khác, tuy nhiên\n- **Cause – Due to / Because of:** Do, bởi vì\n- **Effect – As a result / Consequently:** Kết quả là, do đó\n- **Example – For example / For instance / Such as:** Ví dụ như\n- **Conclusion – In conclusion / To sum up:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Modern technology / digital devices:** Thay cho mobile phones and the Internet (công nghệ hiện đại / thiết bị số).\n- **Older people / senior citizens:** Thay cho elderly people (người lớn tuổi).\n- **Benefits / drawbacks:** Thay cho advantages / disadvantages (lợi ích / hạn chế).\n- **Go online:** Thay cho use the Internet (lên mạng).\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **One of the most significant benefits for older people is...:** Một trong những lợi ích đáng kể nhất với người lớn tuổi là...\n- **Compared with younger users, elderly people...:** So với người dùng trẻ, người cao tuổi...\n- **A serious concern is that...:** Một mối lo ngại nghiêm trọng là...\n- **In my view, the benefits outweigh the drawbacks if...:** Theo tôi, lợi ích lớn hơn bất lợi nếu...\n\n**4. Các lỗi thường gặp:**\n- Viết chung về lợi ích/tác hại của công nghệ, không gắn với người cao tuổi.\n- Viết lệch một phía, chỉ nêu lợi ích hoặc chỉ nêu tác hại.\n- Sai mạo từ: the elderly (đúng) nhưng the elderly people (không tự nhiên); on Internet thay vì on the Internet.\n- Nhầm lẫn old, older và elderly (elderly lịch sự hơn khi nói về người già).\n- Kết luận đưa ý mới chưa phát triển ở thân bài.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra số từ đã đạt trên 250 chưa.\n- Đảm bảo đã bàn cả lợi ích và bất lợi, đều gắn với người cao tuổi.\n- Kiểm tra mở bài có thesis statement, mỗi đoạn có topic sentence.\n- Rà soát mạo từ, danh từ và chia động từ.\n\n**6. Tư duy làm bài:**\n- Liên hệ ông bà, cha mẹ bạn để có ví dụ thực tế, gần gũi và thuyết phục.\n- Chọn 2 lợi ích và 2 bất lợi rõ ràng nhất, phát triển sâu thay vì liệt kê.\n- Sự cân bằng, mạch lạc và đúng trọng tâm là chìa khóa để đạt band B2 trở lên."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about your family\n\n1\nCan you tell me about the members of your family?\n2\nWho usually makes important decisions in your family? Why?\n3\nDo you think family members should make decisions together? Why or why not?\n\nNow, let’s talk about outdoor activities\n\n4\nWhat outdoor activities do you enjoy?\n5\nDo you prefer doing outdoor activities alone or with other people? Why?\n6\nHow often do you take part in outdoor activities?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 là phần **Social Interaction** kéo dài **3 phút** với **6 câu hỏi** ngắn về đời sống hằng ngày, giúp bạn khởi động và thể hiện khả năng giao tiếp tự nhiên.\n- **Topic A (Your Family):** Câu 1–3 hỏi về các thành viên trong gia đình, người đưa ra quyết định quan trọng và việc cả nhà cùng quyết định. Phần này kiểm tra khả năng **giới thiệu và miêu tả người thân**, **giải thích vai trò trong gia đình** và **nêu quan điểm có lý do**.\n- **Topic B (Outdoor Activities):** Câu 4–6 hỏi về hoạt động ngoài trời yêu thích, lựa chọn đi một mình hay đi cùng người khác, và tần suất tham gia. Phần này kiểm tra khả năng **miêu tả hoạt động**, **so sánh hai lựa chọn** và **dùng trạng từ** tần suất.\n- Tiêu chí chấm điểm gồm: **Fluency (Độ trôi chảy)**, **Vocabulary (Từ vựng)**, **Grammar (Ngữ pháp)** và **Pronunciation (Phát** âm).\n- Phân bổ thời gian: khoảng **25–35 giây mỗi câu**. Ở câu 1, đừng chỉ liệt kê thành viên; hãy thêm một chi tiết ngắn về nghề nghiệp hoặc tính cách của mỗi người.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Áp dụng cấu trúc **ARE**: **A**nswer (Trả lời trực tiếp) -> **R**eason (Lý do) -> **E**xample (Ví dụ cụ thể). Đây là cấu trúc an toàn và hiệu quả cho trình độ B1/B2.\n- **Ví dụ Topic A:** In my family, my father usually makes the important decisions, but he always discusses them with my mother first. The reason is that he has a lot of experience and is very careful with money. For example, when we bought our new house, my parents spent several months discussing it before making the final decision.\n- **Ví dụ Topic B:** I prefer doing outdoor activities with my friends rather than alone. It is more fun, and we can motivate each other. For instance, every Sunday morning, my friends and I go cycling around the lake, and we always stop for breakfast together afterwards.\n- Mẹo kéo dài câu trả lời: luôn tự hỏi **Why?** (Tại sao?) và **How?** (Như thế nào?). Ví dụ: Cả nhà nên cùng quyết định -> Tại sao? -> Mọi người đều bị ảnh hưởng -> Như thế nào? -> Ví dụ chọn nơi đi du lịch, ai cũng được góp ý.\n- Mẹo chuyển chủ đề mượt mà: khi giám khảo chuyển sang Topic B, bạn có thể mở đầu bằng **Well, actually my family** and I often do outdoor activities together at the weekend. Câu này tạo liên kết tự nhiên giữa hai chủ đề.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói đều. Dùng từ đệm như **Well...**, **Actually...**, **Let me see...** để tránh khoảng lặng dài.\n- Về thì: dùng **There are + số lượng** và **Hiện tại đơn** cho câu 1 và câu 2 (There are four people in my family; My father makes...), **should** cho câu 3, **prefer + V-ing + to + V-ing** cho câu 5 (I prefer jogging with friends to jogging alone), **trạng** từ tần suất cho câu 6.\n- Kỹ thuật **paraphrase**: nếu quên từ **breadwinner**, hãy nói **the person who earns money for the family**; nếu quên từ outdoorsy, hãy nói someone who likes being outside.\n- Từ vựng Topic A: **a nuclear family** (gia đình hạt nhân), **the head of the family** (chủ gia đình), **have the final say** (có tiếng nói quyết định), **a close-knit family** (gia đình gắn bó).\n- Từ vựng Topic B: **go cycling** (đạp xe), **go camping** (đi cắm trại), **get some fresh air** (hít thở không khí trong lành), **stay** active (duy trì vận động).\nCụm từ quan trọng nên dùng:\n- **take after** – giống (bố hoặc mẹ) (Topic A)\n- **make decisions together** – cùng nhau ra quyết định (Topic A)\n- **respect each other's opinions** – tôn trọng ý kiến của nhau (Topic A)\n- **get along well with** – hòa hợp với (Topic A)\n- **enjoy my own company** – tận hưởng thời gian một mình (Topic B)\n- **motivate each other** – tạo động lực cho nhau (Topic B)\n- **reduce stress** – giảm căng thẳng (Topic B)\n- **be close to nature** – gần gũi với thiên nhiên (Topic B)\nTừ nối khi nói (Linking Words):\n- **First of all** – Trước hết (mở ý đầu tiên)\n- **As for** – Còn về (giới thiệu từng thành viên ở câu 1)\n- **For instance** – Ví dụ như (dẫn ví dụ cụ thể)\n- **Whereas** – Trong khi đó (so sánh đi một mình và đi cùng nhau ở câu 5)\n- **On top of that** – Thêm vào đó (bổ sung lý do)\n- **That is why** – Đó là lý do (kết luận ngắn gọn)\nCách thể hiện quan điểm tự nhiên:\n- **In my family, ... usually has the final say** (Trong gia đình tôi, ... thường là người quyết định cuối cùng) – In my family, my mother usually has the final say on money matters. (Topic A)\n- **I strongly believe that...** (Tôi tin chắc rằng...) – I strongly believe that families should discuss important decisions together. (Topic A)\n- **I really admire...** (Tôi thực sự ngưỡng mộ...) – I really admire my father because he is calm and wise. (Topic A)\n- **I am really into...** (Tôi rất mê...) – I am really into hiking and camping. (Topic B)\n- **I would rather... than...** (Tôi thà... còn hơn...) – I would rather go jogging with friends than alone because it is more motivating. (Topic B)\n- **It depends on my mood** (Còn tùy vào tâm trạng của tôi) – It depends on my mood; sometimes I enjoy walking alone to clear my mind. (Topic B)\n\n**4. Các lỗi thường gặp:**\n- Lỗi nghiêm trọng nhất: chỉ trả lời **My father** hay **With friends** rồi im lặng. Hãy luôn thêm lý do và ví dụ.\n- Topic A: nói **My family have four people** (không tự nhiên) -> **There are four people in my family** (đúng).\n- Topic A: dùng sai **make a decision** thành **do a decision** (sai).\n- Topic B: dùng sai cấu trúc **prefer**: **I prefer go with friends** (sai) -> **I prefer going with friends** (đúng).\n- Phát âm: **decision** /dɪˈsɪʒn/ trọng âm âm thứ hai; **outdoor** /ˈaʊtdɔːr/ trọng âm âm đầu.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu kéo thời gian: **That is an interesting question, let me think for a second.**\n- Khi quên từ, hãy mô tả thay thế: quên **household chores** thì nói **work like cleaning and cooking at home**.\n- Topic A: nếu bí ý về người ra quyết định, hãy chia theo lĩnh vực: bố quyết định việc lớn (mua nhà, xe), mẹ quyết định chi tiêu hằng ngày, con cái được hỏi ý kiến về học tập.\n- Topic B: nếu ít hoạt động ngoài trời, hãy nói về những hoạt động đơn giản như đi bộ trong công viên, đạp xe, chơi cầu lông hoặc lý do bạn ít ra ngoài (thời tiết nóng, bận học).\n\n**6. Tư duy làm bài nói:**\n- Hãy coi Part 1 như một cuộc trò chuyện thân mật với giám khảo, không phải một bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy **reset** lại tâm lý và tập trung hoàn toàn vào chủ đề mới.\n- Sự **tự nhiên và trôi chảy** quan trọng hơn từ vựng phức tạp. Với chủ đề gia đình, hãy nói bằng **cảm xúc chân thật** để câu trả lời ấm áp và thuyết phục.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour best friend has received three job offers and asks for your advice on which one to accept.\n\nYou are considering the following options:\n\nOption 1: A job with a high salary\nOption 2: A job with a good working environment\nOption 3: A job with a flexible working location\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống: người bạn thân của bạn nhận được ba lời mời làm việc và nhờ bạn tư vấn nên chọn công việc nào. Ba phương án gồm: **Option 1 – công việc lương cao**, **Option 2 – công việc có môi trường làm việc tốt**, **Option 3 – công** việc có địa điểm làm việc linh hoạt (làm từ xa hoặc kết hợp).\n- Nhiệm vụ: phân tích ưu và nhược điểm của **cả 3 phương án**, sau đó chọn một công việc phù hợp nhất và giải thích rõ lý do.\n- Tiêu chí chấm điểm: **Fluency**, **Vocabulary**, **Grammar**, **Pronunciation** và đặc biệt là **khả năng lập luận, so sánh logic**.\n- Thời gian: tổng **4 phút**, trong đó khoảng **1 phút chuẩn bị** và **khoảng 3 phút nói**.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **State opinion – Give reason – Compare – Conclude**: nêu lời khuyên ngay từ đầu -> đưa lý do chính -> so sánh với hai phương án còn lại -> kết luận. Cấu trúc này phù hợp vì ba phương án đại diện cho ba giá trị khác nhau (tiền bạc – con người – sự tự do), cần thể hiện rõ quan điểm ưu tiên. Ví dụ mở đầu: My best friend has received three job offers and asked for my advice. After thinking carefully, I would recommend the job with a good working environment.\n- **Ví dụ Option 1:** A high-salary job allows him to support his family, save money and enjoy a comfortable life. However, high pay often comes with heavy pressure, long working hours and little time for rest, which may lead to burnout.\n- **Ví dụ Option 2:** A good working environment with friendly colleagues and supportive managers helps him feel happy and motivated every day. He can also learn a lot and develop his career in the long term. On the other hand, the salary may be lower at the beginning.\n- **Ví dụ Option 3:** A job with a flexible location, such as working from home or from a café, saves commuting time and gives him more freedom to balance work and personal life. Nevertheless, working remotely can feel lonely, and it requires strong self-discipline to stay productive.\n- Mẹo: gắn lập luận với **đặc điểm của người bạn**, ví dụ mới ra trường cần học hỏi, tính cách hướng ngoại hay hướng nội, hoặc hoàn cảnh tài chính gia đình.\n- Mẹo: dùng từ nối tương phản như **however**, **on the other hand**, **although** để chuyển mượt giữa ưu điểm và nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các phương án thay vì nói rời rạc. Ví dụ: Money can make him comfortable, but a good environment can make him happy and help him grow. Hoặc: Unlike remote work, an office with great colleagues gives him chances to learn directly from others.\n- Về thì: dùng **Hiện tại hoàn thành** cho tình huống (He has received three offers), cấu trúc **khuyên nhủ** như **I would** advise him to..., He should..., và câu điều kiện loại 2 để giả định (If he chose the high-salary job, he might not have time for his family).\n- Kỹ thuật paraphrase: thay **high salary** bằng **well-paid job**, **attractive income**; thay **good working environment** bằng positive workplace, supportive company culture; thay flexible working location bằng remote work, working from home, hybrid working.\nCụm từ quan trọng nên dùng:\n- **a well-paid position** – vị trí lương cao\n- **financial security** – sự ổn định tài chính\n- **supportive colleagues** – đồng nghiệp hỗ trợ nhau\n- **job satisfaction** – sự hài lòng với công việc\n- **work-life balance** – cân bằng công việc và cuộc sống\n- **save commuting time** – tiết kiệm thời gian đi lại\n- **self-discipline** – tính kỷ luật tự giác\n- **long-term career growth** – phát triển sự nghiệp lâu dài\nTừ nối khi nói (Linking Words):\n- **To begin with** – Để bắt đầu (mở phần phân tích phương án đầu tiên)\n- **On the other hand** – Mặt khác (chuyển sang nhược điểm)\n- **While** – Trong khi (so sánh hai công việc trong một câu)\n- **More importantly** – Quan trọng hơn (nhấn mạnh phương án được chọn)\n- **In the long run** – Về lâu dài (nói về lợi ích lâu dài)\n- **All things considered** – Xét mọi khía cạnh (dẫn vào kết luận)\nCách thể hiện quan điểm tự nhiên:\n- **If I were him, I would...** (Nếu tôi là anh ấy, tôi sẽ...) – If I were him, I would choose the job with a good working environment.\n- **... matters more than... in the long run** (... quan trọng hơn... về lâu dài) – Happiness at work matters more than salary in the long run.\n- **The main drawback of... is that...** (Nhược điểm chính của... là...) – The main drawback of the high-salary job is the heavy pressure.\n- **I would strongly advise him to...** (Tôi thực sự khuyên anh ấy...) – I would strongly advise him to think about his health and happiness, not just money.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen công việc mình chọn mà không phân tích nhược điểm của hai công việc còn lại. Giám khảo cần thấy bạn đã **cân nhắc cả 3**.\n- Lặp đi lặp lại **good** và **money**. Hãy thay bằng **rewarding, supportive, flexible, motivating** hoặc **stressful, demanding,** isolating, exhausting.\n- Kết luận mơ hồ kiểu **It depends on him**. Bạn phải đưa ra **một lời khuyên rõ ràng** ở cuối bài.\n- Dùng sai: **salary** là danh từ đếm được, nói **a high salary**, không nói **a high wage job** một cách lặp. Phát âm: **salary** /ˈsæləri/; **flexible** /ˈfleksəbl/ trọng âm âm đầu.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng về công việc, hãy chuyển sang phân tích theo **thời gian** và **sức khỏe**: He will have more free time / He may feel tired and stressed.\n- Dùng câu kéo thời gian: **Let's evaluate this option from a different perspective.** Câu này giúp bạn có thêm vài giây và nghe rất chuyên nghiệp.\n- Giữ bình tĩnh, nếu bí ý ở một phương án thì chuyển ngay sang phương án tiếp theo, sau đó quay lại bổ sung nếu còn thời gian.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một **người bạn thân chân thành**: công việc nào giúp bạn mình vừa phát triển sự nghiệp, vừa hạnh phúc và khỏe mạnh lâu dài?\n- Thể hiện tư duy phản biện bằng cách đề xuất cải thiện cho lựa chọn của mình, ví dụ: Although the salary is lower at first, he can work hard, learn new skills and ask for a raise after one or two years.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of eating out\n\nBenefits of Eating Out\nA wide variety of food\nConvenience and saving time\nBonding with family and friends\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think young people are eating out more and more? Why?\n2\nWhat are the disadvantages of eating out too often?\n3\nShould families try to cook and eat at home more often? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề: **The benefits of eating out** (Lợi ích của việc ăn ngoài). Sơ đồ tư duy có 3 nhánh: **A wide variety of food** (đa dạng món ăn), **Convenience and saving time** (tiện lợi và tiết kiệm thời gian), **Bonding with family and friends** (gắn kết với gia đình và bạn bè), cùng một nhánh ý riêng của bạn.\n- Gợi ý cho nhánh thứ 4: **Supporting local businesses** (hỗ trợ các cơ sở kinh doanh địa phương) hoặc **Relaxing and** escaping from daily routine (thư giãn, thoát khỏi nhịp sống thường ngày).\n- Tiêu chí chấm điểm: **Fluency**, **Vocabulary**, **Grammar**, **Pronunciation** và **tính mạch lạc trong phát triển ý**.\n- Thời gian: tổng **5 phút**, dành khoảng **3–3,5 phút** cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc **PEEL** cho từng nhánh: **P**oint (nêu lợi ích) -> **E**xplanation (giải thích) -> **E**xample (ví dụ cụ thể) -> **L**ink (liên kết về việc ăn ngoài). Cấu trúc này phù hợp vì mỗi nhánh là một lợi ích độc lập cần được chứng minh.\n- **Ví dụ 1:** In big cities in Vietnam, eating out has become a part of daily life, from a quick bowl of pho in the morning to a family dinner at a restaurant at the weekend. Today, I would like to talk about the main benefits of eating out.\n- **Ví dụ 2:** In addition to the ideas in the mindmap, I believe eating out helps support local businesses. Small food stalls and family-run restaurants depend on customers to survive. For example, the old lady who sells broken rice near my house has been able to send her children to university thanks to her loyal customers.\n- Mẹo cho chủ đề này: dùng ví dụ **ẩm thực Việt Nam** phong phú như phở, bún bò, cơm tấm, lẩu, hay các nhà hàng nước ngoài như món Hàn, Nhật, Thái để minh họa sự đa dạng.\n- Mẹo: ở nhánh gắn kết, hãy nhắc đến các dịp cụ thể như **sinh nhật, họp lớp, liên hoan công ty, ăn mừng tốt nghiệp**.\n- Mẹo: đi theo đúng thứ tự sơ đồ tư duy để tránh lặp ý, đừng lẫn ý tiện lợi với ý đa dạng món ăn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Dùng cụm chuyển ý mượt giữa các nhánh: **Apart from the variety of dishes, eating out is also...**, **More importantly...**, Last but not least...\n- Về thì: dùng **Hiện tại đơn** cho sự thật chung (Restaurants offer many kinds of dishes), **Hiện tại hoàn thành** cho xu hướng (Eating out has become more popular among young people), kết hợp **so sánh hơn** (Eating out is more convenient than cooking after a long working day).\n- Paraphrase chủ đề chính: **eating out** có thể thay bằng **dining out**, **eating at restaurants**, **having meals outside the** home; benefits thay bằng advantages, positive aspects.\nCụm từ quan trọng nên dùng:\n- **a wide range of cuisines** – nhiều nền ẩm thực khác nhau\n- **try new dishes** – thử món mới\n- **save time on cooking and washing up** – tiết kiệm thời gian nấu nướng và rửa bát\n- **a busy lifestyle** – lối sống bận rộn\n- **spend quality time together** – dành thời gian ý nghĩa bên nhau\n- **celebrate special occasions** – ăn mừng những dịp đặc biệt\n- **street food culture** – văn hóa ẩm thực đường phố\n- **support local businesses** – hỗ trợ doanh nghiệp địa phương\nTừ nối khi nói (Linking Words):\n- **First and foremost** – Trước hết và quan trọng nhất (mở nhánh đa dạng món ăn)\n- **In addition to this** – Bên cạnh đó (chuyển sang nhánh tiện lợi)\n- **Apart from that** – Ngoài điều đó ra (thêm nhánh gắn kết)\n- **Last but not least** – Cuối cùng nhưng không kém phần quan trọng (giới thiệu ý riêng)\n- **As a result** – Kết quả là (nói về hệ quả tích cực)\n- **To sum up** – Tóm lại (kết bài)\nCách thể hiện quan điểm tự nhiên:\n- **It is undeniable that...** (Không thể phủ nhận rằng...) – It is undeniable that eating out saves a lot of time for busy people.\n- **From my own experience...** (Từ trải nghiệm của bản thân...) – From my own experience, my best conversations with friends often happen over a meal.\n- **One of the things I love most about... is...** (Một trong những điều tôi thích nhất ở... là...) – One of the things I love most about eating out is discovering new flavors.\n- **I believe that... as long as...** (Tôi tin rằng... miễn là...) – I believe that eating out is beneficial as long as we choose clean and healthy places.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Are young people eating out more and more?** – Yes, definitely. Young people are busy with studying and working, and many of them live alone in rented rooms without a proper kitchen. In addition, food delivery apps like GrabFood and ShopeeFood make it very easy to order meals, and eating out is also a popular way to socialize.\n- **What are the disadvantages of eating out too often?** – It can be expensive and unhealthy, because restaurant food often contains a lot of oil, salt and sugar. Food safety is also a concern at some street stalls. Moreover, people may lose the habit and skill of cooking at home.\n- **Should families cook and eat at home more often?** – Yes, I think so. Home-cooked meals are healthier and cheaper, and cooking together is a great way for family members to bond. However, eating out occasionally is still nice for special occasions or when everyone is too busy.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích như **many dishes, fast, happy** mà không giải thích hay đưa ví dụ. Mỗi nhánh cần có ít nhất một ví dụ cụ thể.\n- Quên phát triển nhánh ý riêng. Hãy chuẩn bị sẵn nhánh thứ 4 trong thời gian chuẩn bị để không bị động.\n- Nói bài chính quá dài, không còn thời gian cho câu hỏi follow-up – phần này cũng được tính điểm.\n- Dùng sai: **eat outside** (ăn ở ngoài trời) khác **eat out** (ăn ở nhà hàng, quán); **foods** chỉ dùng khi nói về nhiều loại thực phẩm khác nhau.\n- Phát âm: **variety** /vəˈraɪəti/ trọng âm âm thứ hai; **convenient** /kənˈviːniənt/; **restaurant** /ˈrestrɒnt/.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Khi bí ý, hãy liên hệ đến **trải nghiệm thực tế**: quán ăn quen gần trường, buổi họp lớp ở nhà hàng lẩu, hay thói quen đặt đồ ăn qua ứng dụng khi ôn thi.\n- Dùng câu kéo thời gian ở mức B2: **That is a complex issue. If we evaluate it from a societal viewpoint...**\n- Nếu quên từ như **food delivery**, hãy mô tả: **ordering food online and someone brings it to your house**; quên **hygiene** thì nói: **how clean the food and the place are**.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ **thực tế** và từ góc nhìn **xã hội**: ăn ngoài phản ánh nhịp sống đô thị hiện đại và góp phần thúc đẩy ngành dịch vụ ăn uống phát triển.\n- **Sự mạch lạc và logic** trong cách triển khai ý là chìa khóa để đạt điểm cao, quan trọng hơn việc dùng thật nhiều từ khó.\n- Dù đề yêu cầu nói về lợi ích, hãy kết thúc bằng một nhận định **cân bằng**, ví dụ: Eating out brings many benefits, but we should balance it with home-cooked meals for our health and our wallets."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about your family.\n1.\nCan you tell me about the members of your family?\n2.\nWho usually makes important decisions in your family? Why?\n3.\nDo you think family members should make decisions together? Why or why not?\nNow, let’s talk about outdoor activities.\n4.\nWhat outdoor activities do you enjoy?\n5.\nDo you prefer doing outdoor activities alone or with other people? Why?\n6.\nHow often do you take part in outdoor activities?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 là phần Social Interaction kéo dài 3 phút với 6 câu hỏi ngắn về đời sống hằng ngày, giúp bạn khởi động và thể\nhiện khả năng giao tiếp tự nhiên.\n• Topic A (Your Family): Câu 1–3 hỏi về các thành viên trong gia đình, người đưa ra quyết định quan trọng và việc cả\nnhà cùng quyết định. Phần này kiểm tra khả năng giới thiệu và miêu tả người thân, giải thích vai trò trong gia đình\nvà nêu quan điểm có lý do.\n• Topic B (Outdoor Activities): Câu 4–6 hỏi về hoạt động ngoài trời yêu thích, lựa chọn đi một mình hay đi cùng người\nkhác, và tần suất tham gia. Phần này kiểm tra khả năng miêu tả hoạt động, so sánh hai lựa chọn và dùng trạng từ\ntần suất.\n• Tiêu chí chấm điểm gồm: Fluency (Độ trôi chảy), Vocabulary (Từ vựng), Grammar (Ngữ pháp) và Pronunciation (Phát\nâm).\n• Phân bổ thời gian: khoảng 25–35 giây mỗi câu. Ở câu 1, đừng chỉ liệt kê thành viên; hãy thêm một chi tiết ngắn về\nnghề nghiệp hoặc tính cách của mỗi người.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Áp dụng cấu trúc ARE: Answer (Trả lời trực tiếp) -> Reason (Lý do) -> Example (Ví dụ cụ thể). Đây là cấu trúc an toàn\nvà hiệu quả cho trình độ B1/B2.\n• Ví dụ Topic A: In my family, my father usually makes the important decisions, but he always discusses them with\nmy mother first. The reason is that he has a lot of experience and is very careful with money. For example, when we\nbought our new house, my parents spent several months discussing it before making the final decision.\n• Ví dụ Topic B: I prefer doing outdoor activities with my friends rather than alone. It is more fun, and we can motivate\neach other. For instance, every Sunday morning, my friends and I go cycling around the lake, and we always stop for\nbreakfast together afterwards.\n• Mẹo kéo dài câu trả lời: luôn tự hỏi Why? (Tại sao?) và How? (Như thế nào?). Ví dụ: Cả nhà nên cùng quyết định ->\nTại sao? -> Mọi người đều bị ảnh hưởng -> Như thế nào? -> Ví dụ chọn nơi đi du lịch, ai cũng được góp ý.\n• Mẹo chuyển chủ đề mượt mà: khi giám khảo chuyển sang Topic B, bạn có thể mở đầu bằng Well, actually my family\nand I often do outdoor activities together at the weekend. Câu này tạo liên kết tự nhiên giữa hai chủ đề.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói đều. Dùng từ đệm như Well..., Actually..., Let me see... để tránh khoảng lặng dài.\n• Về thì: dùng There are + số lượng và Hiện tại đơn cho câu 1 và câu 2 (There are four people in my family; My father\nmakes...), should cho câu 3, prefer + V-ing + to + V-ing cho câu 5 (I prefer jogging with friends to jogging alone), trạng\ntừ tần suất cho câu 6.\n• Kỹ thuật paraphrase: nếu quên từ breadwinner, hãy nói the person who earns money for the family; nếu quên từ\noutdoorsy, hãy nói someone who likes being outside.\n• Từ vựng Topic A: a nuclear family (gia đình hạt nhân), the head of the family (chủ gia đình), have the final say (có\ntiếng nói quyết định), a close-knit family (gia đình gắn bó).\n• Từ vựng Topic B: go cycling (đạp xe), go camping (đi cắm trại), get some fresh air (hít thở không khí trong lành), stay\nactive (duy trì vận động).\nCụm từ quan trọng nên dùng:\n• take after – giống (bố hoặc mẹ) (Topic A)\n• make decisions together – cùng nhau ra quyết định (Topic A)\n• respect each other's opinions – tôn trọng ý kiến của nhau (Topic A)\n• get along well with – hòa hợp với (Topic A)\n• enjoy my own company – tận hưởng thời gian một mình (Topic B)\n• motivate each other – tạo động lực cho nhau (Topic B)\n• reduce stress – giảm căng thẳng (Topic B)\n• be close to nature – gần gũi với thiên nhiên (Topic B)\nTừ nối khi nói (Linking Words):\n• First of all – Trước hết (mở ý đầu tiên)\n• As for – Còn về (giới thiệu từng thành viên ở câu 1)\n• For instance – Ví dụ như (dẫn ví dụ cụ thể)\n• Whereas – Trong khi đó (so sánh đi một mình và đi cùng nhau ở câu 5)\n• On top of that – Thêm vào đó (bổ sung lý do)\n• That is why – Đó là lý do (kết luận ngắn gọn)\nCách thể hiện quan điểm tự nhiên:\n• In my family, ... usually has the final say (Trong gia đình tôi, ... thường là người quyết định cuối cùng) – In my family,\nmy mother usually has the final say on money matters. (Topic A)\n• I strongly believe that... (Tôi tin chắc rằng...) – I strongly believe that families should discuss important decisions\ntogether. (Topic A)\n• I really admire... (Tôi thực sự ngưỡng mộ...) – I really admire my father because he is calm and wise. (Topic A)\n• I am really into... (Tôi rất mê...) – I am really into hiking and camping. (Topic B)\n• I would rather... than... (Tôi thà... còn hơn...) – I would rather go jogging with friends than alone because it is more\nmotivating. (Topic B)\n• It depends on my mood (Còn tùy vào tâm trạng của tôi) – It depends on my mood; sometimes I enjoy walking alone\nto clear my mind. (Topic B)\n4. Các lỗi thường gặp:\n• Lỗi nghiêm trọng nhất: chỉ trả lời My father hay With friends rồi im lặng. Hãy luôn thêm lý do và ví dụ.\n• Topic A: nói My family have four people (không tự nhiên) -> There are four people in my family (đúng).\n• Topic A: dùng sai make a decision thành do a decision (sai).\n• Topic B: dùng sai cấu trúc prefer: I prefer go with friends (sai) -> I prefer going with friends (đúng).\n• Phát âm: decision /dɪˈsɪʒn/ trọng âm âm thứ hai; outdoor /ˈaʊtdɔːr/ trọng âm âm đầu.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu kéo thời gian: That is an interesting question, let me think for a second.\n• Khi quên từ, hãy mô tả thay thế: quên household chores thì nói work like cleaning and cooking at home.\n• Topic A: nếu bí ý về người ra quyết định, hãy chia theo lĩnh vực: bố quyết định việc lớn (mua nhà, xe), mẹ quyết định\nchi tiêu hằng ngày, con cái được hỏi ý kiến về học tập.\n• Topic B: nếu ít hoạt động ngoài trời, hãy nói về những hoạt động đơn giản như đi bộ trong công viên, đạp xe, chơi cầu\nlông hoặc lý do bạn ít ra ngoài (thời tiết nóng, bận học).\n6. Tư duy làm bài nói:\n• Hãy coi Part 1 như một cuộc trò chuyện thân mật với giám khảo, không phải một bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy reset lại tâm lý và tập trung hoàn toàn vào chủ đề mới.\n• Sự tự nhiên và trôi chảy quan trọng hơn từ vựng phức tạp. Với chủ đề gia đình, hãy nói bằng cảm xúc chân thật để\ncâu trả lời ấm áp và thuyết phục.\nSolution Discussion\nPART 2\n4 phút\nYour best friend has received three job offers and asks for your advice on which one to accept.\nYou are considering the following options:\n• Option 1: A job with a high salary\n• Option 2: A job with a good working environment\n• Option 3: A job with a flexible working location\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống: người bạn thân của bạn nhận được ba lời mời làm việc và nhờ bạn tư vấn nên chọn công việc nào. Ba\nphương án gồm: Option 1 – công việc lương cao, Option 2 – công việc có môi trường làm việc tốt, Option 3 – công\nviệc có địa điểm làm việc linh hoạt (làm từ xa hoặc kết hợp).\n• Nhiệm vụ: phân tích ưu và nhược điểm của cả 3 phương án, sau đó chọn một công việc phù hợp nhất và giải thích rõ\nlý do.\n• Tiêu chí chấm điểm: Fluency, Vocabulary, Grammar, Pronunciation và đặc biệt là khả năng lập luận, so sánh logic.\n• Thời gian: tổng 4 phút, trong đó khoảng 1 phút chuẩn bị và khoảng 3 phút nói.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc State opinion – Give reason – Compare – Conclude: nêu lời khuyên ngay từ đầu -> đưa lý do chính\n-> so sánh với hai phương án còn lại -> kết luận. Cấu trúc này phù hợp vì ba phương án đại diện cho ba giá trị khác\nnhau (tiền bạc – con người – sự tự do), cần thể hiện rõ quan điểm ưu tiên. Ví dụ mở đầu: My best friend has received\nthree job offers and asked for my advice. After thinking carefully, I would recommend the job with a good working\nenvironment.\n• Ví dụ Option 1: A high-salary job allows him to support his family, save money and enjoy a comfortable life. However,\nhigh pay often comes with heavy pressure, long working hours and little time for rest, which may lead to burnout.\n• Ví dụ Option 2: A good working environment with friendly colleagues and supportive managers helps him feel happy\nand motivated every day. He can also learn a lot and develop his career in the long term. On the other hand, the salary\nmay be lower at the beginning.\n• Ví dụ Option 3: A job with a flexible location, such as working from home or from a café, saves commuting time and\ngives him more freedom to balance work and personal life. Nevertheless, working remotely can feel lonely, and it\nrequires strong self-discipline to stay productive.\n• Mẹo: gắn lập luận với đặc điểm của người bạn, ví dụ mới ra trường cần học hỏi, tính cách hướng ngoại hay hướng\nnội, hoặc hoàn cảnh tài chính gia đình.\n• Mẹo: dùng từ nối tương phản như however, on the other hand, although để chuyển mượt giữa ưu điểm và nhược\nđiểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các phương án thay vì nói rời rạc. Ví dụ: Money can make him comfortable, but a good environment can make\nhim happy and help him grow. Hoặc: Unlike remote work, an office with great colleagues gives him chances to learn\ndirectly from others.\n• Về thì: dùng Hiện tại hoàn thành cho tình huống (He has received three offers), cấu trúc khuyên nhủ như I would\nadvise him to..., He should..., và câu điều kiện loại 2 để giả định (If he chose the high-salary job, he might not have\ntime for his family).\n• Kỹ thuật paraphrase: thay high salary bằng well-paid job, attractive income; thay good working environment bằng\npositive workplace, supportive company culture; thay flexible working location bằng remote work, working from\nhome, hybrid working.\nCụm từ quan trọng nên dùng:\n• a well-paid position – vị trí lương cao\n• financial security – sự ổn định tài chính\n• supportive colleagues – đồng nghiệp hỗ trợ nhau\n• job satisfaction – sự hài lòng với công việc\n• work-life balance – cân bằng công việc và cuộc sống\n• save commuting time – tiết kiệm thời gian đi lại\n• self-discipline – tính kỷ luật tự giác\n• long-term career growth – phát triển sự nghiệp lâu dài\nTừ nối khi nói (Linking Words):\n• To begin with – Để bắt đầu (mở phần phân tích phương án đầu tiên)\n• On the other hand – Mặt khác (chuyển sang nhược điểm)\n• While – Trong khi (so sánh hai công việc trong một câu)\n• More importantly – Quan trọng hơn (nhấn mạnh phương án được chọn)\n• In the long run – Về lâu dài (nói về lợi ích lâu dài)\n• All things considered – Xét mọi khía cạnh (dẫn vào kết luận)\nCách thể hiện quan điểm tự nhiên:\n• If I were him, I would... (Nếu tôi là anh ấy, tôi sẽ...) – If I were him, I would choose the job with a good working\nenvironment.\n• ... matters more than... in the long run (... quan trọng hơn... về lâu dài) – Happiness at work matters more than salary\nin the long run.\n• The main drawback of... is that... (Nhược điểm chính của... là...) – The main drawback of the high-salary job is the\nheavy pressure.\n• I would strongly advise him to... (Tôi thực sự khuyên anh ấy...) – I would strongly advise him to think about his health\nand happiness, not just money.\n4. Các lỗi thường gặp:\n• Chỉ khen công việc mình chọn mà không phân tích nhược điểm của hai công việc còn lại. Giám khảo cần thấy bạn\nđã cân nhắc cả 3.\n• Lặp đi lặp lại good và money. Hãy thay bằng rewarding, supportive, flexible, motivating hoặc stressful, demanding,\nisolating, exhausting.\n• Kết luận mơ hồ kiểu It depends on him. Bạn phải đưa ra một lời khuyên rõ ràng ở cuối bài.\n• Dùng sai: salary là danh từ đếm được, nói a high salary, không nói a high wage job một cách lặp. Phát âm: salary\n/ˈsæləri/; flexible /ˈfleksəbl/ trọng âm âm đầu.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng về công việc, hãy chuyển sang phân tích theo thời gian và sức khỏe: He will have more free time\n/ He may feel tired and stressed.\n• Dùng câu kéo thời gian: Let's evaluate this option from a different perspective. Câu này giúp bạn có thêm vài giây\nvà nghe rất chuyên nghiệp.\n• Giữ bình tĩnh, nếu bí ý ở một phương án thì chuyển ngay sang phương án tiếp theo, sau đó quay lại bổ sung nếu còn\nthời gian.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người bạn thân chân thành: công việc nào giúp bạn mình vừa phát triển sự nghiệp, vừa hạnh\nphúc và khỏe mạnh lâu dài?\n• Thể hiện tư duy phản biện bằng cách đề xuất cải thiện cho lựa chọn của mình, ví dụ: Although the salary is lower at\nfirst, he can work hard, learn new skills and ask for a raise after one or two years.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of eating out\nA wide variety of food\nConvenience and saving time\nBenefits of Eating Out\nÝ tưởng của bạn\nBonding with family and friends\nFOLLOW-UP QUESTIONS\n1.\nDo you think young people are eating out more and more? Why?\n2.\nWhat are the disadvantages of eating out too often?\n3.\nShould families try to cook and eat at home more often? Why?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề: The benefits of eating out (Lợi ích của việc ăn ngoài). Sơ đồ tư duy có 3 nhánh: A wide variety of food (đa\ndạng món ăn), Convenience and saving time (tiện lợi và tiết kiệm thời gian), Bonding with family and friends (gắn\nkết với gia đình và bạn bè), cùng một nhánh ý riêng của bạn.\n• Gợi ý cho nhánh thứ 4: Supporting local businesses (hỗ trợ các cơ sở kinh doanh địa phương) hoặc Relaxing and\nescaping from daily routine (thư giãn, thoát khỏi nhịp sống thường ngày).\n• Tiêu chí chấm điểm: Fluency, Vocabulary, Grammar, Pronunciation và tính mạch lạc trong phát triển ý.\n• Thời gian: tổng 5 phút, dành khoảng 3–3,5 phút cho bài nói chính và phần còn lại cho câu hỏi follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc PEEL cho từng nhánh: Point (nêu lợi ích) -> Explanation (giải thích) -> Example (ví dụ cụ thể) -> Link\n(liên kết về việc ăn ngoài). Cấu trúc này phù hợp vì mỗi nhánh là một lợi ích độc lập cần được chứng minh.\n• Ví dụ 1: In big cities in Vietnam, eating out has become a part of daily life, from a quick bowl of pho in the morning\nto a family dinner at a restaurant at the weekend. Today, I would like to talk about the main benefits of eating out.\n• Ví dụ 2: In addition to the ideas in the mindmap, I believe eating out helps support local businesses. Small food stalls\nand family-run restaurants depend on customers to survive. For example, the old lady who sells broken rice near my\nhouse has been able to send her children to university thanks to her loyal customers.\n• Mẹo cho chủ đề này: dùng ví dụ ẩm thực Việt Nam phong phú như phở, bún bò, cơm tấm, lẩu, hay các nhà hàng nước\nngoài như món Hàn, Nhật, Thái để minh họa sự đa dạng.\n• Mẹo: ở nhánh gắn kết, hãy nhắc đến các dịp cụ thể như sinh nhật, họp lớp, liên hoan công ty, ăn mừng tốt nghiệp.\n• Mẹo: đi theo đúng thứ tự sơ đồ tư duy để tránh lặp ý, đừng lẫn ý tiện lợi với ý đa dạng món ăn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Dùng cụm chuyển ý mượt giữa các nhánh: Apart from the variety of dishes, eating out is also..., More importantly...,\nLast but not least...\n• Về thì: dùng Hiện tại đơn cho sự thật chung (Restaurants offer many kinds of dishes), Hiện tại hoàn thành cho\nxu hướng (Eating out has become more popular among young people), kết hợp so sánh hơn (Eating out is more\nconvenient than cooking after a long working day).\n• Paraphrase chủ đề chính: eating out có thể thay bằng dining out, eating at restaurants, having meals outside the\nhome; benefits thay bằng advantages, positive aspects.\nCụm từ quan trọng nên dùng:\n• a wide range of cuisines – nhiều nền ẩm thực khác nhau\n• try new dishes – thử món mới\n• save time on cooking and washing up – tiết kiệm thời gian nấu nướng và rửa bát\n• a busy lifestyle – lối sống bận rộn\n• spend quality time together – dành thời gian ý nghĩa bên nhau\n• celebrate special occasions – ăn mừng những dịp đặc biệt\n• street food culture – văn hóa ẩm thực đường phố\n• support local businesses – hỗ trợ doanh nghiệp địa phương\nTừ nối khi nói (Linking Words):\n• First and foremost – Trước hết và quan trọng nhất (mở nhánh đa dạng món ăn)\n• In addition to this – Bên cạnh đó (chuyển sang nhánh tiện lợi)\n• Apart from that – Ngoài điều đó ra (thêm nhánh gắn kết)\n• Last but not least – Cuối cùng nhưng không kém phần quan trọng (giới thiệu ý riêng)\n• As a result – Kết quả là (nói về hệ quả tích cực)\n• To sum up – Tóm lại (kết bài)\nCách thể hiện quan điểm tự nhiên:\n• It is undeniable that... (Không thể phủ nhận rằng...) – It is undeniable that eating out saves a lot of time for busy\npeople.\n• From my own experience... (Từ trải nghiệm của bản thân...) – From my own experience, my best conversations with\nfriends often happen over a meal.\n• One of the things I love most about... is... (Một trong những điều tôi thích nhất ở... là...) – One of the things I love\nmost about eating out is discovering new flavors.\n• I believe that... as long as... (Tôi tin rằng... miễn là...) – I believe that eating out is beneficial as long as we choose\nclean and healthy places.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Are young people eating out more and more? – Yes, definitely. Young people are busy with studying and working,\nand many of them live alone in rented rooms without a proper kitchen. In addition, food delivery apps like GrabFood\nand ShopeeFood make it very easy to order meals, and eating out is also a popular way to socialize.\n• What are the disadvantages of eating out too often? – It can be expensive and unhealthy, because restaurant food\noften contains a lot of oil, salt and sugar. Food safety is also a concern at some street stalls. Moreover, people may\nlose the habit and skill of cooking at home.\n• Should families cook and eat at home more often? – Yes, I think so. Home-cooked meals are healthier and cheaper,\nand cooking together is a great way for family members to bond. However, eating out occasionally is still nice for\nspecial occasions or when everyone is too busy.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích như many dishes, fast, happy mà không giải thích hay đưa ví dụ. Mỗi nhánh cần có ít nhất một ví\ndụ cụ thể.\n• Quên phát triển nhánh ý riêng. Hãy chuẩn bị sẵn nhánh thứ 4 trong thời gian chuẩn bị để không bị động.\n• Nói bài chính quá dài, không còn thời gian cho câu hỏi follow-up – phần này cũng được tính điểm.\n• Dùng sai: eat outside (ăn ở ngoài trời) khác eat out (ăn ở nhà hàng, quán); foods chỉ dùng khi nói về nhiều loại thực\nphẩm khác nhau.\n• Phát âm: variety /vəˈraɪəti/ trọng âm âm thứ hai; convenient /kənˈviːniənt/; restaurant /ˈrestrɒnt/.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Khi bí ý, hãy liên hệ đến trải nghiệm thực tế: quán ăn quen gần trường, buổi họp lớp ở nhà hàng lẩu, hay thói quen đặt\nđồ ăn qua ứng dụng khi ôn thi.\n• Dùng câu kéo thời gian ở mức B2: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ như food delivery, hãy mô tả: ordering food online and someone brings it to your house; quên hygiene\nthì nói: how clean the food and the place are.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ thực tế và từ góc nhìn xã hội: ăn ngoài phản ánh nhịp sống đô thị hiện đại và góp phần thúc đẩy ngành\ndịch vụ ăn uống phát triển.\n• Sự mạch lạc và logic trong cách triển khai ý là chìa khóa để đạt điểm cao, quan trọng hơn việc dùng thật nhiều từ\nkhó.\n• Dù đề yêu cầu nói về lợi ích, hãy kết thúc bằng một nhận định cân bằng, ví dụ: Eating out brings many benefits, but\nwe should balance it with home-cooked meals for our health and our wallets."
+}

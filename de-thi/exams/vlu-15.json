@@ -1,0 +1,717 @@
+{
+ "id": "vlu-15",
+ "number": 15,
+ "title": "Đề thi VLU 15",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-15",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Rise of Hurry Sickness in Modern Society",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Many people today feel that there is never enough time to finish everything. They walk quickly, eat in a few minutes, and become angry when a lift is slow or a queue is long. Doctors sometimes call this feeling hurry sickness, a term used by two heart specialists in the 1970s to describe a constant sense of **urgency** that makes people rush even when there is no need. Although everyone feels busy at times, hurry sickness is different because the pressure comes from inside the person.",
+     "Several changes in modern life help to explain why this problem is growing so quickly. Smartphones deliver messages and news all day, so people feel they must reply at once. Many jobs also reward speed, and workers who answer emails quickly may be seen as more reliable. Cities with heavy traffic and crowded trains add to the pressure, since commuters lose time every day. In addition, social media shows other people's busy and successful lives, which can make a normal schedule feel too slow, even when nothing important is being missed. As a result, many people try to do several things at the same time.",
+     "Living in a constant hurry can damage both physical and mental health over time. People who are always rushing often feel **tense**, sleep badly, and find it hard to relax, even on holidays. Over many years, constant stress may raise blood pressure and increase the risk of heart disease, an illness that first concerned the doctors who described the problem. Doctors also warn that people who rush all day may ignore early signs of illness, because **they** believe they have no time to visit a clinic. Children can also copy this behaviour from their parents and begin to feel anxious about being late.",
+     "Fortunately, people can learn to slow down if they practise a few simple habits. Experts suggest starting with small changes, such as eating meals without a phone, walking at a natural speed, and leaving home ten minutes early each morning. Some people practise breathing exercises or meditation for a few minutes each day, which helps the body to relax. Others set limits on screen time or choose one evening each week without work. Taking regular breaks during work also improves concentration, so people often finish tasks faster after resting. These habits do not remove all stress, but they teach the mind that not every task is urgent.",
+     "In conclusion, hurry sickness is a growing problem in modern society, but it is not a permanent condition. By recognising the signs and making small changes, people can enjoy their work, protect their health, and spend more time with family and friends in a calmer way. Slowing down does not mean doing less with life; it means giving each moment the attention it deserves. Societies that value rest as well as productivity are likely to be healthier and happier."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Why people rush and how they can slow down",
+       "B": "How phones are made in factories around the world",
+       "C": "Why children should start working at a young age",
+       "D": "Which sports are best for people who work long hours"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why do many workers answer emails quickly?",
+      "options": {
+       "A": "Their managers forbid them from using any phones",
+       "B": "Slow replies are illegal in most large companies",
+       "C": "Quick replies make them seem more reliable",
+       "D": "They enjoy writing long messages every morning"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"answer emails quickly\" ở đoạn 2 để xác định nguyên nhân do công việc thưởng cho tốc độ và người phản hồi nhanh được xem là đáng tin cậy hơn."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"urgency\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "wish to travel far",
+       "B": "need to act fast",
+       "C": "habit of eating alone",
+       "D": "pride in good manners"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"urgency\" ở đoạn 1 chỉ cảm giác thôi thúc phải vội vã, hành động nhanh (need to act fast)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what may happen after many years of constant stress?",
+      "options": {
+       "A": "People usually become stronger and sleep for longer",
+       "B": "The body learns to ignore every kind of pressure",
+       "C": "Doctors stop recording any information about their patients",
+       "D": "Blood pressure and heart disease risk may increase"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"many years of constant stress\" ở đoạn 3 để thấy hệ quả lâu dài làm tăng huyết áp và nguy cơ mắc bệnh tim mạch."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"tense\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "worried and stressed",
+       "B": "calm and relaxed",
+       "C": "happy and proud",
+       "D": "tired and hungry"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"tense\" ở đoạn 3 đi kèm với việc ngủ kém và khó thư giãn, thể hiện trạng thái căng thẳng, lo âu (worried and stressed)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"they\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Heart doctors",
+       "B": "Early signs",
+       "C": "Local clinics",
+       "D": "Rushing people"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng \"they\" ở đoạn 3. Đọc lùi lại câu trước để tìm danh từ chỉ nhóm người vội vã suốt cả ngày và bỏ qua các dấu hiệu bệnh tật sớm (những người luôn vội vã - rushing people)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what do some people do to help the body relax?",
+      "options": {
+       "A": "They drink more coffee before every meeting",
+       "B": "They practise breathing exercises or meditation",
+       "C": "They avoid speaking to family and friends",
+       "D": "They study timetables to find shorter journeys"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm từ khóa \"relax\" hoặc các thói quen ở đoạn 4 để xác định việc thực hành các bài tập thở hoặc thiền (breathing exercises or meditation)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT suggested to reduce hurrying?",
+      "options": {
+       "A": "Eating meals without using a phone",
+       "B": "Leaving home ten minutes earlier than usual",
+       "C": "Working longer hours to finish tasks",
+       "D": "Choosing one evening without any work"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng lựa chọn với các giải pháp được đề cập tại đoạn 4 (ăn không dùng điện thoại, rời nhà sớm 10 phút, dành một buổi tối không làm việc), từ đó loại bỏ phương án trái ngược hoàn toàn với tinh thần bài viết (làm việc nhiều giờ hơn để hoàn thành nhiệm vụ)."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about the writer's attitude to hurry sickness?",
+      "options": {
+       "A": "It only affects older people with heart problems",
+       "B": "It will disappear as soon as phones improve",
+       "C": "It is caused entirely by weak personal character",
+       "D": "It is a serious problem that people can change"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận thái độ",
+      "type": "Thái độ tác giả",
+      "explanation": "Tổng hợp thông tin từ toàn bài về việc hội chứng vội vã là vấn đề nghiêm trọng nhưng hoàn toàn có thể thay đổi bằng cách nhận diện dấu hiệu và thực hành các thói quen mới."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To explain hurry sickness and how to reduce it",
+       "B": "To advertise a clinic that treats heart patients",
+       "C": "To prove that fast workers are always healthier",
+       "D": "To compare working hours in several different countries Reading"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R1Q1, R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc phần mở đầu và kết bài để nắm bắt luận điểm trung tâm: bài viết giải thích khái niệm hội chứng vội vã (hurry sickness), nguyên nhân, hệ quả sức khỏe và các giải pháp thực tế giúp con người sống chậm lại. Do đó, phương án đúng phải bao quát trọn vẹn cả việc giải thích hiện tượng lẫn cách khắc phục.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q2**, tìm từ khóa \"answer emails quickly\" ở đoạn 2 để xác định nguyên nhân do công việc thưởng cho tốc độ và người phản hồi nhanh được xem là đáng tin cậy hơn.\n  - Với **R1Q4**, quét từ khóa \"many years of constant stress\" ở đoạn 3 để thấy hệ quả lâu dài làm tăng huyết áp và nguy cơ mắc bệnh tim mạch.\n  - Với **R1Q7**, tìm kiếm từ khóa \"relax\" hoặc các thói quen ở đoạn 4 để xác định việc thực hành các bài tập thở hoặc thiền (breathing exercises or meditation).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"urgency\"** ở đoạn 1 chỉ cảm giác thôi thúc phải vội vã, hành động nhanh (need to act fast).\n  - Với **R1Q5**, từ **\"tense\"** ở đoạn 3 đi kèm với việc ngủ kém và khó thư giãn, thể hiện trạng thái căng thẳng, lo âu (worried and stressed).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ nhân xưng **\"they\"** ở đoạn 3. Đọc lùi lại câu trước để tìm danh từ chỉ nhóm người vội vã suốt cả ngày và bỏ qua các dấu hiệu bệnh tật sớm (những người luôn vội vã - rushing people).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối chiếu từng lựa chọn với các giải pháp được đề cập tại đoạn 4 (ăn không dùng điện thoại, rời nhà sớm 10 phút, dành một buổi tối không làm việc), từ đó loại bỏ phương án trái ngược hoàn toàn với tinh thần bài viết (làm việc nhiều giờ hơn để hoàn thành nhiệm vụ).\n- **Dạng câu hỏi Suy luận thái độ (R1Q9):** Tổng hợp thông tin từ toàn bài về việc hội chứng vội vã là vấn đề nghiêm trọng nhưng hoàn toàn có thể thay đổi bằng cách nhận diện dấu hiệu và thực hành các thói quen mới.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6) vì xác định thông tin rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R1Q2, R1Q4, R1Q7, R1Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R1Q1, R1Q9, R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Vital Role of Bees in Global Ecosystems",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Bees are among the most important animals on the planet, yet their significance is easily overlooked. More than twenty thousand species have been described, ranging from tiny solitary bees nesting in soil to the highly social honeybees that live in colonies of tens of thousands. Many of these species are rarely noticed because they are small, solitary, and do not produce honey. What unites them is dependence on flowers for food and a role in transferring pollen between plants as they forage.",
+     "Pollination is the transfer of pollen from one flower to another, enabling plants to produce seeds. Wind and water carry out part of this task, but many plants rely on animals, and bees are often the most effective visitors because their fuzzy bodies collect pollen. Honeybees are managed commercially for this purpose, while thousands of wild species contribute without any human assistance. Estimates suggest that around three-quarters of leading food crops benefit at least partly from animal pollination, including apples, almonds, blueberries, and coffee.",
+     "The economic value of this natural service is **considerable** and often underestimated. Researchers estimate that pollinators contribute hundreds of billions of dollars to global agriculture every year, and in some regions farmers rent honeybee hives during the flowering season to secure their harvests. Wild bees are equally valuable, since they pollinate native plants that support birds, mammals, and insects, forming the basis of entire food webs. Losing them would therefore raise food prices and reduce the variety of produce available.",
+     "Despite their importance, bees now face a combination of serious and overlapping threats. Intensive farming has removed hedgerows and wildflower meadows, depriving bees of food and nesting sites, while certain insecticides, notably neonicotinoids, can **impair** their navigation and reproduction at low doses. Parasites such as the varroa mite have devastated honeybee colonies in many countries, and climate change is altering the timing of flowering so that bees and plants may no longer be synchronised.",
+     "Governments and farmers have begun to respond to the crisis in several practical ways. The European Union has restricted several neonicotinoid insecticides on outdoor crops, and many farms now plant flower strips along field edges to provide food throughout the season. Urban beekeeping has also become fashionable, **which** raises awareness but may cause competition if hives are packed too densely, since honeybees can compete with wild bees for flowers.",
+     "Individuals can contribute to bee conservation as well, often with very modest effort. Gardeners who plant a variety of native flowers, leave patches of bare soil for ground-nesting species, and avoid unnecessary pesticides can create valuable refuges even in cities. Consumers can support farmers who use bee-friendly methods, while citizen science projects allow volunteers to record sightings, providing data that scientists could not collect alone.",
+     "Bees are indispensable partners in both agriculture and natural ecosystems, although few people notice their work. Protecting them requires coordinated action at several levels, from stricter pesticide regulation and restored habitats to ordinary decisions made in gardens and kitchens. If these efforts succeed, the buzz of bees on a summer afternoon will remain not merely a pleasant sound but a sign of the healthy ecosystems that sustain human societies."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Honeybees produce more valuable crops than all wild plants combined",
+       "B": "Pesticides have already caused every species of bee to vanish",
+       "C": "Urban beekeeping is the best available solution for all farmers",
+       "D": "Bees are essential pollinators that face threats requiring protection"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why are bees often effective pollinators?",
+      "options": {
+       "A": "They produce more seeds than any plant could use",
+       "B": "Their fuzzy bodies collect pollen as they feed",
+       "C": "They fly only at night when flowers are open",
+       "D": "They prevent wind from carrying pollen between plants"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 để xác định lý do ong trở thành tác nhân thụ phấn hiệu quả nhờ cơ thể có nhiều lông tơ giúp thu gom hạt phấn khi chúng tìm kiếm thức ăn."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"considerable\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "substantial",
+       "B": "negligible",
+       "C": "uncertain",
+       "D": "temporary"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"considerable\" ở đoạn 3 đi kèm với giá trị kinh tế khổng lồ mà các loài thụ phấn mang lại cho nông nghiệp toàn cầu, mang nghĩa đáng kể, lớn lao (substantial)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why are wild bees valuable?",
+      "options": {
+       "A": "They produce honey that farmers sell to supermarkets",
+       "B": "They can be rented to farmers during flowering",
+       "C": "They pollinate native plants supporting other wildlife",
+       "D": "They protect crops from damage caused by insects"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"wild bees\" ở đoạn 3 để thấy ong hoang dã rất có giá trị vì chúng thụ phấn cho các loài thực vật bản địa hỗ trợ các loài động vật hoang dã khác."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"impair\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "improve",
+       "B": "measure",
+       "C": "reward",
+       "D": "damage"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"impair\" ở đoạn 4 nằm trong ngữ cảnh thuốc trừ sâu làm suy giảm khả năng định hướng và sinh sản của ong, mang nghĩa làm suy yếu, gây tổn hại (damage)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "European farms",
+       "B": "Urban beekeeping",
+       "C": "Flower strips",
+       "D": "Wild honeybees"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đoạn 5. Đọc lùi lại tên của hiện tượng nuôi ong đô thị đang trở nên phổ biến được nhắc đến ngay trước dấu phẩy (Urban beekeeping)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, how can volunteers help scientists?",
+      "options": {
+       "A": "By recording sightings that provide valuable data",
+       "B": "By paying fees to keep rare flowers alive",
+       "C": "By planting hedgerows around every school playground",
+       "D": "By removing wild hives from private city gardens"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm từ khóa \"volunteers\" hoặc \"scientists\" ở đoạn 6 nhằm xác định tình nguyện viên có thể hỗ trợ các nhà khoa học bằng cách ghi lại các lần quan sát để cung cấp dữ liệu giá trị."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a response to bee decline?",
+      "options": {
+       "A": "Restricting some neonicotinoid insecticides on outdoor crops",
+       "B": "Planting flower strips along the edges of fields",
+       "C": "Banning all honey production across the continent",
+       "D": "Promoting urban beekeeping to raise public awareness"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng lựa chọn với các giải pháp ứng phó được đề cập ở đoạn 5 (hạn chế thuốc trừ sâu neonicotinoid, trồng dải hoa ven ruộng, thúc đẩy nuôi ong đô thị), từ đó loại bỏ phương án cực đoan không xuất hiện trong bài (cấm toàn bộ việc sản xuất mật ong trên khắp châu lục)."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3, 4, and 5 about bee conservation?",
+      "options": {
+       "A": "Wild bees are unimportant because honeybees can replace them",
+       "B": "Protecting bees supports food security as well as wider ecosystems",
+       "C": "Pesticide bans alone will immediately end all bee decline",
+       "D": "Farmers should avoid growing any crops that need pollination"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 5 về việc bảo vệ loài ong không chỉ giúp đảm bảo an ninh lương thực cho con người mà còn duy trì sự cân bằng của các hệ sinh thái rộng lớn hơn."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to start keeping bees at home",
+       "B": "To compare honey yields in some nearby countries",
+       "C": "To describe how bees use dances to communicate",
+       "D": "To explain why bees matter and how to help Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R2Q1, R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc phần mở đầu và kết bài để nắm bắt luận điểm trung tâm: loài ong đóng vai trò là các tác nhân thụ phấn thiết yếu nhưng đang phải đối mặt với nhiều mối đe dọa nghiêm trọng, đòi hỏi sự chung tay bảo vệ từ cộng đồng. Do đó, phương án đúng phải bao quát được tầm quan trọng, các mối đe dọa và cách thức bảo vệ loài ong.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q2**, tìm thông tin ở đoạn 2 để xác định lý do ong trở thành tác nhân thụ phấn hiệu quả nhờ cơ thể có nhiều lông tơ giúp thu gom hạt phấn khi chúng tìm kiếm thức ăn.\n  - Với **R2Q4**, quét từ khóa \"wild bees\" ở đoạn 3 để thấy ong hoang dã rất có giá trị vì chúng thụ phấn cho các loài thực vật bản địa hỗ trợ các loài động vật hoang dã khác.\n  - Với **R2Q7**, tìm kiếm từ khóa \"volunteers\" hoặc \"scientists\" ở đoạn 6 nhằm xác định tình nguyện viên có thể hỗ trợ các nhà khoa học bằng cách ghi lại các lần quan sát để cung cấp dữ liệu giá trị.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"considerable\"** ở đoạn 3 đi kèm với giá trị kinh tế khổng lồ mà các loài thụ phấn mang lại cho nông nghiệp toàn cầu, mang nghĩa đáng kể, lớn lao (substantial).\n  - Với **R2Q5**, từ **\"impair\"** ở đoạn 4 nằm trong ngữ cảnh thuốc trừ sâu làm suy giảm khả năng định hướng và sinh sản của ong, mang nghĩa làm suy yếu, gây tổn hại (damage).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đoạn 5. Đọc lùi lại tên của hiện tượng nuôi ong đô thị đang trở nên phổ biến được nhắc đến ngay trước dấu phẩy (Urban beekeeping).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối chiếu từng lựa chọn với các giải pháp ứng phó được đề cập ở đoạn 5 (hạn chế thuốc trừ sâu neonicotinoid, trồng dải hoa ven ruộng, thúc đẩy nuôi ong đô thị), từ đó loại bỏ phương án cực đoan không xuất hiện trong bài (cấm toàn bộ việc sản xuất mật ong trên khắp châu lục).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 5 về việc bảo vệ loài ong không chỉ giúp đảm bảo an ninh lương thực cho con người mà còn duy trì sự cân bằng của các hệ sinh thái rộng lớn hơn.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R2Q3, R2Q5) và quy chiếu đại từ (R2Q6) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R2Q2, R2Q4, R2Q7, R2Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R2Q1, R2Q9, R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Paradox of Social Media Connectivity",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Social media was promised as a technology that would bring humanity closer together. Platforms have become **ubiquitous**, connecting billions of people and allowing friends separated by oceans to share photographs, news, and jokes instantly and at almost no cost to themselves. Yet a growing body of research suggests that this connectivity coexists with rising reports of loneliness, particularly among young adults, a contradiction often described as the paradox of connection.",
+     "One explanation lies in the important difference between mere interaction and genuine intimacy. Online exchanges tend to be brief, public, and carefully edited, whereas close friendship usually develops through shared time, vulnerability, and the gradual accumulation of trust that a quick reaction can rarely replace. A thousand likes may therefore feel less satisfying than a single honest conversation over dinner.",
+     "[1] Platforms encourage users to present a curated version of their lives, highlighting holidays, achievements, and celebrations while concealing difficulties. **[2]** Scrolling through such images, a user is exposed to a stream of apparently happier and more successful peers. **[3]** Studies link this sense of inadequacy to anxiety and low mood, particularly among heavy users who spend several hours online each day. **[4]** However, the effect varies considerably, and users who engage actively with friends often report better wellbeing than those who merely observe, suggesting that the manner of use matters more than the amount of time.",
+     "Another dimension of the paradox concerns the gradual displacement of face-to-face contact by screens. Time spent online is time not spent with others, and heavy users sometimes withdraw from local activities such as clubs, sports teams, and gatherings, **which** once offered natural chances to build friendships. Even when people are physically together, phones can intrude, a habit sometimes labelled phubbing, in which one person ignores companions to check a screen.",
+     "Nevertheless, it would be misleading to portray social media as uniformly harmful. For people who are isolated by disability, geography, or social stigma, online communities can provide support, information, and a sense of belonging that would otherwise be unavailable to them. Migrants, for example, rely on messaging applications to maintain relationships with relatives overseas, and patients with rare conditions often find peers online who understand their experiences.",
+     "The design choices made by platforms also play a significant role in shaping these outcomes. Features such as infinite scrolling, push notifications, and algorithmic feeds are engineered to maximise engagement, and critics argue that they **exacerbate** the isolation that users hope to escape, since compulsive use displaces meaningful contact. Some companies have introduced time limits and wellbeing dashboards in response, although independent researchers caution that evidence for their effectiveness remains limited.",
+     "The paradox of connectivity ultimately reflects how technology is used rather than technology itself. Individuals can reduce its effects by prioritising a few close relationships, setting limits on passive scrolling, and treating online contact as a supplement to, rather than a substitute for, meeting in person. Policymakers and designers, meanwhile, bear responsibility for building platforms that reward quality of interaction instead of sheer quantity, a goal that will require transparency and sustained public scrutiny."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Loneliness is caused solely by the total amount of time people spend online",
+       "B": "Social media connects billions yet may deepen loneliness depending on its design",
+       "C": "Companies have proven that wellbeing dashboards successfully cure the isolation of heavy users",
+       "D": "Online friendships are generally deeper and more rewarding than offline ones for adults"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why might a thousand likes feel less satisfying than one conversation?",
+      "options": {
+       "A": "Likes usually come from strangers who secretly dislike the posts they see",
+       "B": "Online platforms delete reactions after a short period, leaving users with nothing",
+       "C": "Dinner conversations always last longer than any exchange carried out through screens",
+       "D": "Close friendship develops through shared time and trust that quick reactions rarely supply"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 để xác định nguyên nhân sự khác biệt giữa tương tác nông (hàng ngàn lượt thích) và sự thân mật thực sự hình thành qua thời gian chia sẻ và lòng tin."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"ubiquitous\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "found everywhere",
+       "B": "extremely costly",
+       "C": "poorly designed",
+       "D": "closely monitored"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"ubiquitous\" ở đoạn 1 miêu tả các nền tảng mạng xã hội hiện diện ở khắp mọi nơi trong đời sống hiện đại (found everywhere)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such constant comparison, in turn, leaves many users convinced that their own lives are dull by contrast.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chèn câu",
+      "explanation": null
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what sometimes happens when heavy users spend more time online?",
+      "options": {
+       "A": "They usually join more sports teams to meet new neighbours",
+       "B": "They may withdraw from clubs and gatherings offering friendships",
+       "C": "They begin to prefer conversations conducted entirely without any screens",
+       "D": "They lose interest in messaging applications and eventually delete them"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"heavy users spend more time online\" ở đoạn 4 để thấy việc sử dụng mạng xã hội nhiều làm giảm thời gian sinh hoạt chung và khiến họ rút lui khỏi các hoạt động câu lạc bộ, đội nhóm địa phương."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"which\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Most heavy users",
+       "B": "Online hours",
+       "C": "Phone habits",
+       "D": "Local activities"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đoạn 4. Đọc lùi lại danh từ chỉ sự vật đứng ngay trước dấu phẩy để tìm đối tượng là các hoạt động địa phương, câu lạc bộ từng mang lại cơ hội tự nhiên để kết bạn (Local activities)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"exacerbate\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "worsen",
+       "B": "delay",
+       "C": "predict",
+       "D": "imitate"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"exacerbate\" ở đoạn 6 chỉ việc các thiết kế gây nghiện làm trầm trọng thêm, làm tồi tệ hơn cảm giác cô lập mà người dùng muốn trốn tránh (worsen)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned in connection with platform design?",
+      "options": {
+       "A": "Infinite scrolling that keeps people engaged for longer",
+       "B": "Push notifications engineered to maximise engagement",
+       "C": "Compulsory identity checks for every new user",
+       "D": "Time limits and wellbeing dashboards introduced by companies"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các yếu tố thiết kế nền tảng được đề cập ở đoạn 6 (cuộn vô tận, thông báo đẩy, giới hạn thời gian và bảng điều khiển sức khỏe), từ đó loại bỏ phương án không xuất hiện trong bài (kiểm tra danh tính bắt buộc cho mọi người dùng mới)."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 2, 3, and 6 about the paradox of social media connectivity?",
+      "options": {
+       "A": "Greater numbers of friends always guarantee stronger wellbeing among heavy users",
+       "B": "Most users deliberately choose platforms that make them feel excluded",
+       "C": "Brief public exchanges are the best foundation for lasting friendships",
+       "D": "Emotional outcomes depend on interaction quality and platform design, not connection alone"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2, 3 và 6 về việc kết quả cảm xúc của người dùng phụ thuộc vào chất lượng tương tác và thiết kế nền tảng chứ không phải chỉ dựa vào tổng số lượng kết nối trực tuyến. Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R3Q3, R3Q7), quy chiếu đại từ (R3Q6) và điền câu (R3Q4) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R3Q2, R3Q5, R3Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R3Q1, R3Q9, R3Q10)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to delete all their social media accounts immediately",
+       "B": "To examine why online connection does not always reduce loneliness",
+       "C": "To compare the popularity of messaging applications across countries",
+       "D": "To announce new wellbeing features introduced by technology companies Reading"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R3Q1, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn mở đầu và đoạn kết để nắm bắt luận điểm trung tâm: mạng xã hội kết nối hàng tỷ người nhưng đồng thời khoét sâu sự cô đơn do cách thức tương tác bề nổi, thiết kế gây nghiện của nền tảng và việc thay thế các cuộc gặp trực tiếp. Do đó, phương án đúng phải phản ánh được bản chất đa chiều của nghịch lý này thay vì quy chụp mạng xã hội hoàn toàn tốt hoặc xấu.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q2**, tìm thông tin ở đoạn 2 để xác định nguyên nhân sự khác biệt giữa tương tác nông (hàng ngàn lượt thích) và sự thân mật thực sự hình thành qua thời gian chia sẻ và lòng tin.\n  - Với **R3Q4** (Điền câu), vị trí **[3]** là điểm chèn hoàn hảo cho câu miêu tả hiệu ứng so sánh liên tục khiến người dùng tự ti về cuộc sống tẻ nhạt của mình, nối tiếp ngay sau hình ảnh lướt xem các bài đăng khoe khoang và trước nghiên cứu về mức độ lo âu.\n  - Với **R3Q5**, quét từ khóa \"heavy users spend more time online\" ở đoạn 4 để thấy việc sử dụng mạng xã hội nhiều làm giảm thời gian sinh hoạt chung và khiến họ rút lui khỏi các hoạt động câu lạc bộ, đội nhóm địa phương.\n  - Với **R3Q8**, đối chiếu các yếu tố thiết kế nền tảng được đề cập ở đoạn 6 (cuộn vô tận, thông báo đẩy, giới hạn thời gian và bảng điều khiển sức khỏe), từ đó loại bỏ phương án không xuất hiện trong bài (kiểm tra danh tính bắt buộc cho mọi người dùng mới).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"ubiquitous\"** ở đoạn 1 miêu tả các nền tảng mạng xã hội hiện diện ở khắp mọi nơi trong đời sống hiện đại (found everywhere).\n  - Với **R3Q7**, từ **\"exacerbate\"** ở đoạn 6 chỉ việc các thiết kế gây nghiện làm trầm trọng thêm, làm tồi tệ hơn cảm giác cô lập mà người dùng muốn trốn tránh (worsen).\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đoạn 4. Đọc lùi lại danh từ chỉ sự vật đứng ngay trước dấu phẩy để tìm đối tượng là các hoạt động địa phương, câu lạc bộ từng mang lại cơ hội tự nhiên để kết bạn (Local activities).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 2, 3 và 6 về việc kết quả cảm xúc của người dùng phụ thuộc vào chất lượng tương tác và thiết kế nền tảng chứ không phải chỉ dựa vào tổng số lượng kết nối trực tuyến. Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R3Q3, R3Q7), quy chiếu đại từ (R3Q6) và điền câu (R3Q4) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R3Q2, R3Q5, R3Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R3Q1, R3Q9, R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Escalating Threat of Marine Heatwaves",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Marine heatwaves are prolonged periods of unusually warm seawater that can last for months. Scientists commonly define such an event as a spell of at least five consecutive days during which temperatures exceed those typically recorded for that location and season. Unlike terrestrial heatwaves, these episodes unfold largely out of public sight, so their repercussions were underappreciated until a series of dramatic events during the past decade. Their frequency appears to have increased markedly in many ocean regions during recent decades, according to satellite and ship-based records.",
+     "The causes of these events are varied, and they frequently compound one another. A persistent high-pressure system can suppress cloud cover and wind, allowing the surface layer to absorb sunlight without being mixed with the cooler water beneath it. Ocean currents may carry warm water into new regions, while background warming raises the baseline from which anomalies are measured, and attribution studies suggest that human-driven climate change has made many recent events more likely and more intense.",
+     "[1] Corals offer the clearest illustration of this vulnerability, because prolonged warmth causes them to expel the microscopic algae that supply most of their energy. **[2]** Recovery is possible if temperatures fall quickly, but prolonged stress frequently proves fatal, as large stretches of the Great Barrier Reef appear to have suffered in several recent summers. **[3]** Mass mortality of this kind removes structures that shelter a substantial fraction of marine species, so the consequences extend far beyond the corals themselves. **[4]** Fish, crustaceans, and the coastal communities that depend on them all feel the loss.",
+     "Beyond the tropics, marine heatwaves have disturbed temperate ecosystems that were long assumed to be stable. Kelp forests, home to countless species, have retreated in several regions after exposure to abnormal warmth. In some places the kelp has been replaced by barren seabeds dominated by sea urchins, **which** graze on young plants and prevent forests from regrowing even after temperatures return to normal. Seagrass meadows that store carbon and nurse juvenile fish have suffered comparable losses in some warm-water bays.",
+     "Several well-documented episodes have become important reference cases for researchers studying these events. Between 2013 and 2016, an exceptionally warm patch of the north-eastern Pacific, nicknamed the Blob, was linked to toxic algal blooms, disrupted fisheries, and the starvation of seabirds and marine mammals along the coast. In 2011, a heatwave off Western Australia reportedly altered the distribution of fish, and repeated summer heatwaves in the Mediterranean have been associated with mass mortality among sponges. Such cases show that impacts depend on the species affected, the intensity of heat, and how long the abnormal conditions persist.",
+     "Human societies are by no means insulated from these changes in the sea. Fisheries that depend on predictable stocks may face closures or sudden shifts in species distribution, and aquaculture operations can suffer losses when warm water lowers oxygen levels and encourages disease. Coastal communities that rely on tourism, fishing, and natural storm protection from healthy reefs are therefore exposed to considerable economic and social disruption. Ultimately, the surest way to **curtail** the long-term threat is to cut greenhouse gas emissions, although adaptation measures such as early warning systems can help managers respond.",
+     "Marine heatwaves illustrate how a gradual rise in average temperature can produce abrupt and disruptive extremes. Because the oceans absorb the great majority of the excess heat trapped by greenhouse gases, they buffer the climate while making the consequences of warming visible. Whether societies respond with sufficient urgency will determine how many of the ecosystems on which they depend survive."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Coral bleaching is the only serious effect of ocean warming scientists have documented",
+       "B": "Scientists have now developed reliable methods for preventing every marine heatwave",
+       "C": "Marine heatwaves threaten ecosystems and livelihoods, making emissions cuts and preparation essential",
+       "D": "Fisheries around the world have benefited from unusually warm coastal waters"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, how can a persistent high-pressure system contribute to a marine heatwave?",
+      "options": {
+       "A": "It reduces cloud and wind, so surface water absorbs more sunlight",
+       "B": "Cold currents driven toward the coast keep nearby reefs cool throughout summer",
+       "C": "Stronger winds stir cooler deeper water upward into the surface layer above",
+       "D": "Human activity directly warms tropical seawater through coastal construction projects"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm thông tin ở đoạn 2 để xác định hệ thống áp suất cao bền vững làm giảm mây và gió, giúp bề mặt nước biển hấp thụ nhiều ánh sáng mặt trời hơn."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"repercussions\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "origins",
+       "B": "definitions",
+       "C": "remedies",
+       "D": "outcomes"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"repercussions\" ở đoạn 1 đi kèm với việc các tác động của sóng nhiệt đại dương ít được chú ý cho đến khi xảy ra một chuỗi sự kiện kịch tính, mang nghĩa hậu quả, tác động (outcomes)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'This process, known as bleaching, leaves the colonies pale, starved, and increasingly susceptible to disease.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc vị trí [2] trong đoạn 3. Câu điền thêm 'This process, known as bleaching, leaves the colonies pale, starved, and increasingly susceptible to disease.' (Quá trình này, được gọi là tẩy trắng, khiến các thể tập hợp trở nên nhợt nhạt, thiếu dinh dưỡng và ngày càng dễ nhiễm bệnh) khớp hoàn hảo ngay sau câu giải thích hiện tượng san hô tống tảo vi mô ra khỏi cơ thể do nước ấm kéo dài."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, why may kelp forests fail to regrow after temperatures return to normal?",
+      "options": {
+       "A": "Sea urchins graze on the young plants that would rebuild them",
+       "B": "Warm seawater permanently changes the chemistry of the seabed beneath them",
+       "C": "Coastal communities harvest the remaining plants before they can recover",
+       "D": "Toxic algal blooms prevent sunlight from reaching the plants below"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"kelp forests\" ở đoạn 4 để thấy các khu rừng tảo bẹ có thể không tái sinh được do nhược điểm bị nhím biển ăn mất các mầm non giúp tái tạo chúng."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"which\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Barren seabeds",
+       "B": "Young plants",
+       "C": "Sea urchins",
+       "D": "Kelp forests"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đoạn 4. Đọc lùi lại danh từ số nhiều đứng ngay trước dấu phẩy để tìm đối tượng loài nhím biển chuyên ăn các mầm cây non (Sea urchins)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"curtail\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "document",
+       "B": "restrict",
+       "C": "relocate",
+       "D": "celebrate"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"curtail\" ở đoạn 6 chỉ cách chắc chắn nhất để kìm hãm, hạn chế mối đe dọa lâu dài là cắt giảm phát thải khí nhà kính (restrict)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a consequence linked to the Blob?",
+      "options": {
+       "A": "Toxic algal blooms occurring in coastal waters",
+       "B": "Disrupted fisheries along the Pacific coast",
+       "C": "Starvation among seabirds and marine mammals",
+       "D": "Widespread flooding of low-lying coastal towns"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các hệ quả liên quan đến sự kiện \"the Blob\" được đề cập ở đoạn 5 (tảo độc nở hoa, gián đoạn nghề cá, chim biển và thú biển chết đói), từ đó loại bỏ phương án không xuất hiện trong bài (ngập lụt diện rộng ở các thị trấn ven biển thấp)."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about the long-term effects of marine heatwaves?",
+      "options": {
+       "A": "Ecosystems always return to their original condition within a single season",
+       "B": "Tropical reefs are the only habitats seriously affected by extreme warmth",
+       "C": "Losing foundation species can trigger cascading harm that recovery may not undo",
+       "D": "Human societies can ignore ocean temperatures without suffering any economic consequences"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc sự suy vong của các loài nền tảng (foundation species) có thể châm ngòi cho những tổn hại dây chuyền mà quá trình phục hồi không thể bù đắp nổi. Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R4Q3, R4Q7), quy chiếu đại từ (R4Q6) và điền câu (R4Q4) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R4Q2, R4Q5, R4Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R4Q1, R4Q9, R4Q10)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To explain the causes and impacts of marine heatwaves and possible responses",
+       "B": "To advise tourists on which coral reefs are safest to visit",
+       "C": "To criticise governments for ignoring evidence about ocean pollution levels",
+       "D": "To describe a new technology that can cool seawater around reefs"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R4Q1, R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc đoạn mở đầu và kết bài để nắm bắt luận điểm trung tâm: các đợt sóng nhiệt đại dương đang gia tăng đe dọa nghiêm trọng đến hệ sinh thái và sinh kế con người, đòi hỏi phải cắt giảm phát thải khí nhà kính kết hợp các biện pháp thích ứng. Do đó, phương án đúng phải bao quát trọn vẹn cả nguyên nhân, tác động và giải pháp ứng phó.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q2**, tìm thông tin ở đoạn 2 để xác định hệ thống áp suất cao bền vững làm giảm mây và gió, giúp bề mặt nước biển hấp thụ nhiều ánh sáng mặt trời hơn.\n  - Với **R4Q5**, quét từ khóa \"kelp forests\" ở đoạn 4 để thấy các khu rừng tảo bẹ có thể không tái sinh được do nhược điểm bị nhím biển ăn mất các mầm non giúp tái tạo chúng.\n  - Với **R4Q8**, đối chiếu các hệ quả liên quan đến sự kiện \"the Blob\" được đề cập ở đoạn 5 (tảo độc nở hoa, gián đoạn nghề cá, chim biển và thú biển chết đói), từ đó loại bỏ phương án không xuất hiện trong bài (ngập lụt diện rộng ở các thị trấn ven biển thấp).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"repercussions\"** ở đoạn 1 đi kèm với việc các tác động của sóng nhiệt đại dương ít được chú ý cho đến khi xảy ra một chuỗi sự kiện kịch tính, mang nghĩa hậu quả, tác động (outcomes).\n  - Với **R4Q7**, từ **\"curtail\"** ở đoạn 6 chỉ cách chắc chắn nhất để kìm hãm, hạn chế mối đe dọa lâu dài là cắt giảm phát thải khí nhà kính (restrict).\n- **Dạng câu hỏi Điền câu vào đoạn văn (R4Q4):** Đọc vị trí **[2]** trong đoạn 3. Câu điền thêm 'This process, known as bleaching, leaves the colonies pale, starved, and increasingly susceptible to disease.' (Quá trình này, được gọi là tẩy trắng, khiến các thể tập hợp trở nên nhợt nhạt, thiếu dinh dưỡng và ngày càng dễ nhiễm bệnh) khớp hoàn hảo ngay sau câu giải thích hiện tượng san hô tống tảo vi mô ra khỏi cơ thể do nước ấm kéo dài.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đoạn 4. Đọc lùi lại danh từ số nhiều đứng ngay trước dấu phẩy để tìm đối tượng loài nhím biển chuyên ăn các mầm cây non (Sea urchins).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc sự suy vong của các loài nền tảng (foundation species) có thể châm ngòi cho những tổn hại dây chuyền mà quá trình phục hồi không thể bù đắp nổi. Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R4Q3, R4Q7), quy chiếu đại từ (R4Q6) và điền câu (R4Q4) vì có thể xác định đáp án rất nhanh. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R4Q2, R4Q5, R4Q8) trước khi hoàn thành các câu hỏi tổng hợp ý chính, suy luận và mục đích (R4Q1, R4Q9, R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, David.\nHe is doing a project about media habits in different countries and asked you about television in your country. Read part of his email below.\nI am curious about what people usually watch on TV in your country nowadays.\n- What is a popular TV program that you and your family often watch?\n- What is that program about?\n- Why do you think it is so popular among people in your country?\nWrite an email responding to David. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, David.",
+      "He is doing a project about media habits in different countries and asked you about television in your country. Read part of his email below."
+     ],
+     "quote": [
+      "I am curious about what people usually watch on TV in your country nowadays.",
+      "- What is a popular TV program that you and your family often watch?",
+      "- What is that program about?",
+      "- Why do you think it is so popular among people in your country?"
+     ],
+     "instruction": "Write an email responding to David. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (Thư thân mật) gửi cho bạn bè.\n- Bạn cần trả lời 3 yêu cầu: Tên chương trình phổ biến, nội dung chương trình và lý do tại sao nó thu hút khán giả.\n- Yêu cầu độ dài tối thiểu là **120 từ**.\n- Ngôn ngữ sử dụng cần tự nhiên, gần gũi nhưng vẫn đảm bảo đúng cấu trúc ngữ pháp.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật như \"Hi David,\" hoặc \"Dear David,\".\n- **Opening:** Phản hồi lại thông tin về dự án của bạn mình. Ví dụ: \"It is great to hear about your project! I would be happy to share some information about TV programs in Vietnam.\"\n- **Body Paragraph 1:** Giới thiệu tên chương trình (Ví dụ: Rap Viet, Shark Tank, hoặc một bộ phim truyền hình) và thời gian gia đình thường xem cùng nhau.\n- **Body Paragraph 2:** Miêu tả nội dung chính và các yếu tố hấp dẫn của chương trình đó.\n- **Body Paragraph 3:** Giải thích lý do phổ biến (tính giải trí cao, giá trị giáo dục, hoặc phản ánh đời sống thực tế).\n- **Closing & Sign-off:** Kết thư và chúc dự án thành công. Ví dụ: \"I hope this information helps. Best wishes, [Your Name].\"\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để miêu tả thói quen và nội dung chương trình.\n- Kết hợp các câu phức để tăng điểm ngữ pháp (cấu trúc Because, Although, Which...).\nTừ vựng quan trọng:\n- **Reality show:** Chương trình truyền hình thực tế\n- **Broadcast:** Phát sóng\n- **Educational content:** Nội dung giáo dục\n- **Game show:** Chương trình trò chơi truyền hình\n- **Massive audience:** Lượng khán giả khổng lồ\n- **Prime time:** Giờ vàng phát sóng\nTừ nối (Linking words):\n- **To begin with:** Để bắt đầu\n- **Regarding the content:** Liên quan đến nội dung\n- **Furthermore:** Hơn nữa\n- **In addition to this:** Thêm vào đó\n- **Mainly because:** Chủ yếu là vì\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am particularly fond of...:** Mình đặc biệt thích...\n- **It is a great way to bond:** Đó là cách tuyệt vời để gắn kết thành viên gia đình.\n- **I find it absolutely fascinating:** Mình thấy nó hoàn toàn hấp dẫn.\n\n**4. Các lỗi thường gặp:**\n- Quên không chào hỏi hoặc kết thư theo phong cách thân mật.\n- Viết quá ngắn (dưới 120 từ) khiến bài viết bị trừ điểm Task Fulfillment.\n- Nhầm lẫn giữa thể loại chương trình (ví dụ gọi phim dài tập là game show).\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm số lượng từ để đảm bảo đạt yêu cầu.\n- Kiểm tra lỗi chính tả tên các chương trình hoặc các từ vựng chuyên ngành truyền thông.\n- Đảm bảo đã trả lời đầy đủ 3 câu hỏi gợi ý trong phần content.\n\n**6. Tư duy làm bài:**\n- Hãy chọn một chương trình mà bạn thực sự biết rõ để có đủ ý tưởng miêu tả.\n- Tập trung vào việc giải thích sự kết nối giữa chương trình và văn hóa người Việt để bài viết sâu sắc hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nIn modern society, a growing number of young people report feeling high levels of stress and anxiety in their daily lives.\nThere are several factors contributing to this trend, ranging from academic pressure to social media influences. Write an essay to analyze the causes of this issue and suggest possible solutions.\nWrite an essay to an educated reader to discuss the problems caused by stress among young people and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "In modern society, a growing number of young people report feeling high levels of stress and anxiety in their daily lives.",
+      "There are several factors contributing to this trend, ranging from academic pressure to social media influences.",
+      "Write an essay to analyze the causes of this issue and suggest possible solutions."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by stress among young people and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Cause and Solution Essay** (Nguyên nhân và Giải pháp).\n- Từ khóa chính: \"stress among young people\", \"causes\", \"solutions\".\n- Yêu cầu: Phân tích ít nhất 2 nguyên nhân và đề xuất các giải pháp tương ứng cho từng nguyên nhân đó.\n- Độ dài tối thiểu: **250 từ**.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Dẫn dắt về thực trạng căng thẳng ở giới trẻ và nêu mục đích bài viết. Ví dụ: \"While modern life offers many opportunities, it also subjects the younger generation to unprecedented levels of stress.\"\n- **Body Paragraph 1 (Causes):** Phân tích các nguyên nhân như áp lực học tập (academic pressure) và sự kỳ vọng của gia đình, hoặc ảnh hưởng tiêu cực từ mạng xã hội (social media peer pressure).\n- **Body Paragraph 2 (Solutions):** Đưa ra các biện pháp khắc phục như thay đổi hệ thống giáo dục, sự hỗ trợ tâm lý từ gia đình và việc cân bằng lối sống cá nhân.\n- **Conclusion:** Tóm tắt lại các ý chính và khẳng định tầm quan trọng của việc giải quyết vấn đề này để bảo vệ tương lai giới trẻ.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng cấu trúc câu điều kiện (If/Unless) để nói về kết quả của các giải pháp.\n- Sử dụng các danh từ hóa (Nominalization) để bài viết trang trọng hơn.\nTừ vựng quan trọng:\n- **Academic workload:** Khối lượng học tập\n- **Peer pressure:** Áp lực đồng lứa\n- **Mental health disorders:** Các rối loạn sức khỏe tâm thần\n- **Expectation:** Sự kỳ vọng\n- **Sedentary lifestyle:** Lối sống ít vận động\n- **Counseling services:** Dịch vụ tư vấn tâm lý\nTừ nối (Linking words):\n- **One primary reason is...:** Một lý do chính là...\n- **Another contributing factor:** Một yếu tố góp phần khác\n- **Consequently:** Hậu quả là\n- **Turning to possible solutions:** Chuyển sang các giải pháp khả thi\n- **In order to tackle this issue:** Để giải quyết vấn đề này\n- **To sum up:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **The younger generation:** Thay cho \"young people\".\n- **Psychological pressure:** Thay cho \"stress\".\n- **Modern challenges:** Thay cho \"problems in daily lives\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is imperative that...:** Cấp bách rằng...\n- **A viable solution would be...:** Một giải pháp khả thi sẽ là...\n- **Governments and schools should take proactive steps to...:** Chính phủ và trường học nên có những bước đi chủ động để...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nêu nguyên nhân mà quên nêu giải pháp hoặc ngược lại.\n- Sử dụng quá nhiều từ ngữ không trang trọng (slang) hoặc viết tắt.\n- Không có sự kết nối giữa nguyên nhân ở đoạn 1 và giải pháp ở đoạn 2.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra tính nhất quán của luận điểm (Thesis statement) xuyên suốt bài.\n- Rà soát lỗi hòa hợp giữa chủ ngữ và động từ (Subject-Verb agreement).\n- Đảm bảo các đoạn văn có độ dài tương đối đồng đều.\n\n**6. Tư duy làm bài:**\n- Hãy tư duy theo hướng hệ thống: Với mỗi vấn đề (nguyên nhân) bạn nêu ra, hãy tự hỏi \"Ai có thể giải quyết việc này?\" (Cá nhân, gia đình, nhà trường hay xã hội?)."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about your family\n\n1\nDo you live in a big or a small family?\n2\nHow much time do you spend with your family members?\n3\nWhat do you like to do together with your family on weekends?\n\nNow, let’s talk about holidays\n\n4\nWhat are the most popular holidays in your country?\n5\nWhat do you usually do during these holidays?\n6\nDo you think holidays are becoming more commercialized in your country? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này kéo dài khoảng 3 phút và gồm 6 câu hỏi giao tiếp ngắn nhằm kiểm tra phản xạ nói tự nhiên của bạn.\n- **Topic A (Family Life):** Ba câu đầu xoay quanh gia đình, thời gian dành cho người thân và hoạt động cuối tuần. Chủ đề này kiểm tra khả năng mô tả thói quen và cảm xúc cá nhân.\n- **Topic B (Holidays):** Ba câu sau tập trung vào các ngày lễ, hoạt động truyền thống và quan điểm xã hội. Bạn cần vừa mô tả vừa nêu ý kiến cá nhân.\n- Giám khảo sẽ đánh giá độ trôi chảy, vốn từ, ngữ pháp và phát âm của bạn.\n- Hãy cố gắng trả lời khoảng 25 đến 35 giây cho mỗi câu để đảm bảo cân bằng thời gian giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc ARE: Answer – Reason – Example để phát triển ý tự nhiên và logic.\n- **Ví dụ Topic A:** I live in a small family because my parents prefer a quiet lifestyle. For example, we usually have dinner together every evening.\n- **Ví dụ Topic B:** Tet is the most popular holiday in my country because it is a time for family reunion and traditional celebrations.\n- Luôn tự hỏi “Why?” hoặc “Can you give an example?” để mở rộng câu trả lời.\n- Để chuyển ý mượt mà, bạn có thể dùng câu như: Speaking of family activities, holidays are also a great time for people to get together.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định và dùng filler tự nhiên như “Well”, “Actually” hoặc “To be honest” để tránh khoảng lặng.\n- Ở Topic A, hãy dùng thì hiện tại đơn để nói về thói quen gia đình và hiện tại tiếp diễn nếu mô tả hoạt động đang diễn ra.\n- Ở Topic B, bạn có thể dùng hiện tại hoàn thành để nói về sự thay đổi của các ngày lễ theo thời gian.\n- Nếu quên từ vựng, hãy mô tả ý bằng từ đơn giản hơn thay vì im lặng.\n- Vocabulary for Topic A: close-knit family (gia đình gắn bó), quality time (thời gian chất lượng), family gathering (buổi tụ họp gia đình), household chores (việc nhà).\n- Vocabulary for Topic B: public holiday (ngày nghỉ lễ), cultural tradition (truyền thống văn hóa), family reunion (đoàn tụ gia đình), commercial activities (hoạt động thương mại).\nCụm từ quan trọng nên dùng:\n- Spend quality time with family – dành thời gian chất lượng với gia đình.\n- Have a close relationship with relatives – có mối quan hệ gần gũi với người thân.\n- Share household responsibilities – chia sẻ trách nhiệm việc nhà.\n- Celebrate traditional festivals – tổ chức lễ hội truyền thống.\n- A chance for family reunion – cơ hội để gia đình đoàn tụ.\n- Become too commercialized – trở nên quá thương mại hóa.\nTừ nối khi nói (Linking Words):\n- First of all – trước hết.\n- Besides that – bên cạnh đó.\n- For example – ví dụ như.\n- However – tuy nhiên.\n- As a result – kết quả là.\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, family meals are important because they help family members stay connected. – Theo ý kiến của tôi...\n- I personally think weekends are the best time for family activities. – Cá nhân tôi nghĩ rằng...\n- From my perspective, spending time with family helps reduce stress. – Theo góc nhìn của tôi...\n- I believe holidays are still meaningful despite modern changes. – Tôi tin rằng...\n- As far as I know, Tet remains the most important holiday in Vietnam. – Theo như tôi biết...\n- To me, traditional values should be preserved during holidays. – Đối với tôi...\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời “Yes” hoặc “No” mà không giải thích thêm.\n- Ở Topic A, nhiều bạn chỉ kể tên thành viên gia đình mà không nói về cảm xúc hoặc hoạt động chung.\n- Ở Topic B, nhiều bạn mô tả ngày lễ quá ngắn và không nêu quan điểm cá nhân.\n- Dùng sai thì khi nói về truyền thống hoặc sự thay đổi theo thời gian.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Dùng câu câu giờ như: That is an interesting question, let me think for a second.\n- Nếu quên từ, hãy diễn tả chức năng hoặc đặc điểm của nó bằng tiếng Anh đơn giản.\n- Ở Topic A, nếu bí ý hãy nói về các hoạt động phổ biến như ăn tối, xem phim hoặc đi chơi cùng gia đình.\n- Ở Topic B, nếu không nhớ ví dụ cụ thể hãy nói về du lịch, mua sắm hoặc thăm họ hàng.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem đây là một cuộc trò chuyện thân thiện thay vì một bài kiểm tra căng thẳng.\n- Khi chuyển từ Topic A sang Topic B, hãy thay đổi góc nhìn từ cá nhân sang xã hội để câu trả lời đa dạng hơn.\n- Độ tự nhiên và sự rõ ràng quan trọng hơn việc dùng quá nhiều từ vựng khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour younger brother has just graduated from university and is considering his next step.\n\nYou are considering the following options:\n\nOption 1: Looking for a full-time job immediately\nOption 2: Continuing his studies for a Master's degree\nOption 3: Participating in volunteer activities for a year\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng Solution Discussion yêu cầu bạn phân tích ba lựa chọn trước khi đưa ra quyết định cuối cùng.\n- Tình huống liên quan đến định hướng sau khi tốt nghiệp đại học, một chủ đề quen thuộc với sinh viên.\n- Ba lựa chọn gồm đi làm ngay, học tiếp thạc sĩ hoặc tham gia hoạt động tình nguyện trong một năm.\n- Giám khảo đánh giá khả năng lập luận, so sánh và bảo vệ ý kiến cá nhân.\n- Thời gian làm bài khoảng 4 phút nên bạn cần trình bày ngắn gọn nhưng logic.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc I-C-E: Introduction – Comparison – End để bài nói rõ ràng và mạch lạc.\n- Mở đầu bằng việc giới thiệu tình huống và ba lựa chọn.\n- Option 1 có ưu điểm là giúp kiếm thu nhập và tích lũy kinh nghiệm thực tế.\n- Option 2 phù hợp với những người muốn phát triển học thuật hoặc theo đuổi công việc chuyên môn cao.\n- Option 3 giúp mở rộng trải nghiệm xã hội và phát triển kỹ năng mềm.\n- Hãy liên hệ với thực tế cuộc sống của sinh viên để bài nói tự nhiên hơn.\n- Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển ý.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Đừng phân tích từng lựa chọn tách biệt hoàn toàn mà hãy liên kết chúng bằng cách so sánh.\n- Dùng thì tương lai đơn hoặc câu điều kiện khi nói về định hướng tương lai.\n- Nếu quên từ chuyên ngành, hãy dùng cách diễn đạt đơn giản hơn nhưng vẫn đúng ý.\n- Hãy dùng các tính từ học thuật như practical, beneficial hoặc rewarding thay cho good hoặc bad.\nCụm từ quan trọng nên dùng:\n- Gain practical experience – tích lũy kinh nghiệm thực tế.\n- Pursue higher education – theo đuổi giáo dục bậc cao.\n- Develop interpersonal skills – phát triển kỹ năng giao tiếp.\n- Financial independence – sự độc lập tài chính.\n- Long-term career prospects – triển vọng nghề nghiệp lâu dài.\n- Contribute to the community – đóng góp cho cộng đồng.\nTừ nối khi nói (Linking Words):\n- On the one hand – một mặt.\n- On the other hand – mặt khác.\n- Compared to – so với.\n- In contrast – trái lại.\n- As a consequence – kết quả là.\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that getting a full-time job is the most practical option because it provides financial stability. – Tôi tin mạnh mẽ rằng...\n- Compared to volunteer work, pursuing a Master's degree may offer better academic opportunities. – So với...\n- If I were him, I would choose to work first and continue studying later. – Nếu tôi là em ấy...\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung nói về lựa chọn mình thích mà bỏ qua các lựa chọn còn lại.\n- Lặp lại từ vựng đơn giản như good hoặc bad quá nhiều lần.\n- Không đưa ra kết luận rõ ràng ở cuối bài.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên ngành, hãy chuyển sang nói về chi phí, thời gian hoặc kinh nghiệm.\n- Dùng câu câu giờ như: Let's evaluate this option from a different perspective.\n- Nếu bị bí ở một lựa chọn, hãy chuyển sang lựa chọn khác thay vì dừng lại quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người đưa ra quyết định thực tế cho tương lai của người khác.\n- Ngay cả khi chọn một phương án, hãy nêu một hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nQualities that a good teacher should have\n\nQualities of a Teacher\nSubject knowledge and teaching skills\nPatience and emotional intelligence\nGood communication and inspiration\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think technology will ever replace teachers in the future?\n2\nShould teachers be friends with their students? Why or why not?\n3\nWhat was the most important quality of your favorite teacher?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng Topic Development yêu cầu bạn phát triển bài nói dựa trên sơ đồ tư duy được cung cấp.\n- Chủ đề nói về những phẩm chất mà một giáo viên giỏi nên có trong xã hội.\n- Ba nhánh chính gồm kiến thức chuyên môn, sự kiên nhẫn và khả năng giao tiếp truyền cảm hứng.\n- Nhánh ý tưởng cá nhân có thể nói về sự sáng tạo, kỹ năng công nghệ hoặc đạo đức nghề nghiệp.\n- Giám khảo đánh giá khả năng tổ chức ý, phát triển luận điểm và trả lời câu hỏi follow-up.\n- Hãy dành khoảng 3 phút cho bài nói chính và phần còn lại cho follow-up questions.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc IDEA: Introduction – Detail – Example – Add/Wrap up.\n- **Ví dụ 1:** Today, I would like to talk about the important qualities that every good teacher should have.\n- **Ví dụ 2:** In addition to subject knowledge, creativity is also important because it makes lessons more interesting.\n- Hãy liên hệ với giáo viên thật mà bạn từng gặp để bài nói tự nhiên hơn.\n- Đi theo thứ tự mindmap để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng các cụm chuyển ý như another important quality hoặc besides that để bài nói mượt mà.\n- Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành để nói về trải nghiệm học tập.\n- Nếu lặp từ teacher quá nhiều, hãy thay bằng educator, mentor hoặc instructor.\n- Luôn giải thích vì sao phẩm chất đó quan trọng thay vì chỉ liệt kê.\nCụm từ quan trọng nên dùng:\n- Strong subject knowledge – kiến thức chuyên môn vững vàng.\n- Effective teaching methods – phương pháp giảng dạy hiệu quả.\n- Emotional intelligence – trí tuệ cảm xúc.\n- Encourage student participation – khuyến khích học sinh tham gia.\n- Create a positive learning environment – tạo môi trường học tập tích cực.\n- Inspire students to learn – truyền cảm hứng học tập cho học sinh.\nTừ nối khi nói (Linking Words):\n- First of all – trước tiên.\n- Another important point is – một điểm quan trọng khác là.\n- For instance – ví dụ như.\n- As a result – kết quả là.\n- In conclusion – kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, patience is one of the most important qualities of a teacher because students learn at different speeds.\n  - Theo ý kiến của tôi...\n- I strongly believe that communication skills can make lessons more effective and enjoyable. – Tôi tin mạnh mẽ rằng...\n- From my perspective, teachers should also be role models for students. – Theo góc nhìn của tôi...\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- Do you think technology will ever replace teachers in the future? – Technology can support education, but teachers are still necessary because students need emotional support and human interaction.\n- Should teachers be friends with their students? Why or why not? – Teachers should be friendly and supportive, but they still need professional boundaries.\n- What was the most important quality of your favorite teacher? – My favorite teacher was very patient and always encouraged students to ask questions.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê phẩm chất mà không giải thích hoặc đưa ví dụ.\n- Quên phát triển nhánh ý tưởng cá nhân trong sơ đồ tư duy.\n- Nói quá dài ở phần main speech khiến không còn thời gian cho follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ đến trải nghiệm học tập hoặc giáo viên bạn từng gặp.\n- Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a societal viewpoint...\n- Nếu quên từ khó, hãy thay bằng từ đơn giản hoặc mô tả ý bằng cách khác.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ giáo dục và xã hội thay vì chỉ nêu cảm nhận cá nhân.\n- Sự logic và liên kết giữa các ý quan trọng hơn việc dùng cấu trúc quá phức tạp.\n- Hãy nói với sự tự tin và tự nhiên như đang chia sẻ trải nghiệm thật."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about your family.\n1.\nDo you live in a big or a small family?\n2.\nHow much time do you spend with your family members?\n3.\nWhat do you like to do together with your family on weekends?\nNow, let’s talk about holidays.\n4.\nWhat are the most popular holidays in your country?\n5.\nWhat do you usually do during these holidays?\n6.\nDo you think holidays are becoming more commercialized in your country? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này kéo dài khoảng 3 phút và gồm 6 câu hỏi giao tiếp ngắn nhằm kiểm tra phản xạ nói tự nhiên của bạn.\n• Topic A (Family Life): Ba câu đầu xoay quanh gia đình, thời gian dành cho người thân và hoạt động cuối tuần. Chủ\nđề này kiểm tra khả năng mô tả thói quen và cảm xúc cá nhân.\n• Topic B (Holidays): Ba câu sau tập trung vào các ngày lễ, hoạt động truyền thống và quan điểm xã hội. Bạn cần vừa\nmô tả vừa nêu ý kiến cá nhân.\n• Giám khảo sẽ đánh giá độ trôi chảy, vốn từ, ngữ pháp và phát âm của bạn.\n• Hãy cố gắng trả lời khoảng 25 đến 35 giây cho mỗi câu để đảm bảo cân bằng thời gian giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc ARE: Answer – Reason – Example để phát triển ý tự nhiên và logic.\n• Ví dụ Topic A: I live in a small family because my parents prefer a quiet lifestyle. For example, we usually have dinner\ntogether every evening.\n• Ví dụ Topic B: Tet is the most popular holiday in my country because it is a time for family reunion and traditional\ncelebrations.\n• Luôn tự hỏi “Why?” hoặc “Can you give an example?” để mở rộng câu trả lời.\n• Để chuyển ý mượt mà, bạn có thể dùng câu như: Speaking of family activities, holidays are also a great time for people\nto get together.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định và dùng filler tự nhiên như “Well”, “Actually” hoặc “To be honest” để tránh khoảng lặng.\n• Ở Topic A, hãy dùng thì hiện tại đơn để nói về thói quen gia đình và hiện tại tiếp diễn nếu mô tả hoạt động đang diễn\nra.\n• Ở Topic B, bạn có thể dùng hiện tại hoàn thành để nói về sự thay đổi của các ngày lễ theo thời gian.\n• Nếu quên từ vựng, hãy mô tả ý bằng từ đơn giản hơn thay vì im lặng.\n• Vocabulary for Topic A: close-knit family (gia đình gắn bó), quality time (thời gian chất lượng), family gathering (buổi\ntụ họp gia đình), household chores (việc nhà).\n• Vocabulary for Topic B: public holiday (ngày nghỉ lễ), cultural tradition (truyền thống văn hóa), family reunion (đoàn\ntụ gia đình), commercial activities (hoạt động thương mại).\nCụm từ quan trọng nên dùng:\n• Spend quality time with family – dành thời gian chất lượng với gia đình.\n• Have a close relationship with relatives – có mối quan hệ gần gũi với người thân.\n• Share household responsibilities – chia sẻ trách nhiệm việc nhà.\n• Celebrate traditional festivals – tổ chức lễ hội truyền thống.\n• A chance for family reunion – cơ hội để gia đình đoàn tụ.\n• Become too commercialized – trở nên quá thương mại hóa.\nTừ nối khi nói (Linking Words):\n• First of all – trước hết.\n• Besides that – bên cạnh đó.\n• For example – ví dụ như.\n• However – tuy nhiên.\n• As a result – kết quả là.\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, family meals are important because they help family members stay connected. – Theo ý kiến của tôi...\n• I personally think weekends are the best time for family activities. – Cá nhân tôi nghĩ rằng...\n• From my perspective, spending time with family helps reduce stress. – Theo góc nhìn của tôi...\n• I believe holidays are still meaningful despite modern changes. – Tôi tin rằng...\n• As far as I know, Tet remains the most important holiday in Vietnam. – Theo như tôi biết...\n• To me, traditional values should be preserved during holidays. – Đối với tôi...\n4. Các lỗi thường gặp:\n• Chỉ trả lời “Yes” hoặc “No” mà không giải thích thêm.\n• Ở Topic A, nhiều bạn chỉ kể tên thành viên gia đình mà không nói về cảm xúc hoặc hoạt động chung.\n• Ở Topic B, nhiều bạn mô tả ngày lễ quá ngắn và không nêu quan điểm cá nhân.\n• Dùng sai thì khi nói về truyền thống hoặc sự thay đổi theo thời gian.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Dùng câu câu giờ như: That is an interesting question, let me think for a second.\n• Nếu quên từ, hãy diễn tả chức năng hoặc đặc điểm của nó bằng tiếng Anh đơn giản.\n• Ở Topic A, nếu bí ý hãy nói về các hoạt động phổ biến như ăn tối, xem phim hoặc đi chơi cùng gia đình.\n• Ở Topic B, nếu không nhớ ví dụ cụ thể hãy nói về du lịch, mua sắm hoặc thăm họ hàng.\n6. Tư duy làm bài nói:\n• Hãy xem đây là một cuộc trò chuyện thân thiện thay vì một bài kiểm tra căng thẳng.\n• Khi chuyển từ Topic A sang Topic B, hãy thay đổi góc nhìn từ cá nhân sang xã hội để câu trả lời đa dạng hơn.\n• Độ tự nhiên và sự rõ ràng quan trọng hơn việc dùng quá nhiều từ vựng khó.\nSolution Discussion\nPART 2\n4 phút\nYour younger brother has just graduated from university and is considering his next step.\nYou are considering the following options:\n• Option 1: Looking for a full-time job immediately\n• Option 2: Continuing his studies for a Master's degree\n• Option 3: Participating in volunteer activities for a year\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion yêu cầu bạn phân tích ba lựa chọn trước khi đưa ra quyết định cuối cùng.\n• Tình huống liên quan đến định hướng sau khi tốt nghiệp đại học, một chủ đề quen thuộc với sinh viên.\n• Ba lựa chọn gồm đi làm ngay, học tiếp thạc sĩ hoặc tham gia hoạt động tình nguyện trong một năm.\n• Giám khảo đánh giá khả năng lập luận, so sánh và bảo vệ ý kiến cá nhân.\n• Thời gian làm bài khoảng 4 phút nên bạn cần trình bày ngắn gọn nhưng logic.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc I-C-E: Introduction – Comparison – End để bài nói rõ ràng và mạch lạc.\n• Mở đầu bằng việc giới thiệu tình huống và ba lựa chọn.\n• Option 1 có ưu điểm là giúp kiếm thu nhập và tích lũy kinh nghiệm thực tế.\n• Option 2 phù hợp với những người muốn phát triển học thuật hoặc theo đuổi công việc chuyên môn cao.\n• Option 3 giúp mở rộng trải nghiệm xã hội và phát triển kỹ năng mềm.\n• Hãy liên hệ với thực tế cuộc sống của sinh viên để bài nói tự nhiên hơn.\n• Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển ý.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Đừng phân tích từng lựa chọn tách biệt hoàn toàn mà hãy liên kết chúng bằng cách so sánh.\n• Dùng thì tương lai đơn hoặc câu điều kiện khi nói về định hướng tương lai.\n• Nếu quên từ chuyên ngành, hãy dùng cách diễn đạt đơn giản hơn nhưng vẫn đúng ý.\n• Hãy dùng các tính từ học thuật như practical, beneficial hoặc rewarding thay cho good hoặc bad.\nCụm từ quan trọng nên dùng:\n• Gain practical experience – tích lũy kinh nghiệm thực tế.\n• Pursue higher education – theo đuổi giáo dục bậc cao.\n• Develop interpersonal skills – phát triển kỹ năng giao tiếp.\n• Financial independence – sự độc lập tài chính.\n• Long-term career prospects – triển vọng nghề nghiệp lâu dài.\n• Contribute to the community – đóng góp cho cộng đồng.\nTừ nối khi nói (Linking Words):\n• On the one hand – một mặt.\n• On the other hand – mặt khác.\n• Compared to – so với.\n• In contrast – trái lại.\n• As a consequence – kết quả là.\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that getting a full-time job is the most practical option because it provides financial stability. – Tôi\ntin mạnh mẽ rằng...\n• Compared to volunteer work, pursuing a Master's degree may offer better academic opportunities. – So với...\n• If I were him, I would choose to work first and continue studying later. – Nếu tôi là em ấy...\n4. Các lỗi thường gặp:\n• Chỉ tập trung nói về lựa chọn mình thích mà bỏ qua các lựa chọn còn lại.\n• Lặp lại từ vựng đơn giản như good hoặc bad quá nhiều lần.\n• Không đưa ra kết luận rõ ràng ở cuối bài.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên ngành, hãy chuyển sang nói về chi phí, thời gian hoặc kinh nghiệm.\n• Dùng câu câu giờ như: Let's evaluate this option from a different perspective.\n• Nếu bị bí ở một lựa chọn, hãy chuyển sang lựa chọn khác thay vì dừng lại quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người đưa ra quyết định thực tế cho tương lai của người khác.\n• Ngay cả khi chọn một phương án, hãy nêu một hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: Qualities that a good teacher should have\nSubject knowledge and teaching skills\nPatience and emotional intelligence\nQualities of a Teacher\nÝ tưởng của bạn\nGood communication and inspiration\nFOLLOW-UP QUESTIONS\n1.\nDo you think technology will ever replace teachers in the future?\n2.\nShould teachers be friends with their students? Why or why not?\n3.\nWhat was the most important quality of your favorite teacher?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Topic Development yêu cầu bạn phát triển bài nói dựa trên sơ đồ tư duy được cung cấp.\n• Chủ đề nói về những phẩm chất mà một giáo viên giỏi nên có trong xã hội.\n• Ba nhánh chính gồm kiến thức chuyên môn, sự kiên nhẫn và khả năng giao tiếp truyền cảm hứng.\n• Nhánh ý tưởng cá nhân có thể nói về sự sáng tạo, kỹ năng công nghệ hoặc đạo đức nghề nghiệp.\n• Giám khảo đánh giá khả năng tổ chức ý, phát triển luận điểm và trả lời câu hỏi follow-up.\n• Hãy dành khoảng 3 phút cho bài nói chính và phần còn lại cho follow-up questions.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc IDEA: Introduction – Detail – Example – Add/Wrap up.\n• Ví dụ 1: Today, I would like to talk about the important qualities that every good teacher should have.\n• Ví dụ 2: In addition to subject knowledge, creativity is also important because it makes lessons more interesting.\n• Hãy liên hệ với giáo viên thật mà bạn từng gặp để bài nói tự nhiên hơn.\n• Đi theo thứ tự mindmap để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng các cụm chuyển ý như another important quality hoặc besides that để bài nói mượt mà.\n• Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành để nói về trải nghiệm học tập.\n• Nếu lặp từ teacher quá nhiều, hãy thay bằng educator, mentor hoặc instructor.\n• Luôn giải thích vì sao phẩm chất đó quan trọng thay vì chỉ liệt kê.\nCụm từ quan trọng nên dùng:\n• Strong subject knowledge – kiến thức chuyên môn vững vàng.\n• Effective teaching methods – phương pháp giảng dạy hiệu quả.\n• Emotional intelligence – trí tuệ cảm xúc.\n• Encourage student participation – khuyến khích học sinh tham gia.\n• Create a positive learning environment – tạo môi trường học tập tích cực.\n• Inspire students to learn – truyền cảm hứng học tập cho học sinh.\nTừ nối khi nói (Linking Words):\n• First of all – trước tiên.\n• Another important point is – một điểm quan trọng khác là.\n• For instance – ví dụ như.\n• As a result – kết quả là.\n• In conclusion – kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, patience is one of the most important qualities of a teacher because students learn at different speeds.\n– Theo ý kiến của tôi...\n• I strongly believe that communication skills can make lessons more effective and enjoyable. – Tôi tin mạnh mẽ rằng...\n• From my perspective, teachers should also be role models for students. – Theo góc nhìn của tôi...\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do you think technology will ever replace teachers in the future? – Technology can support education, but teachers\nare still necessary because students need emotional support and human interaction.\n• Should teachers be friends with their students? Why or why not? – Teachers should be friendly and supportive, but\nthey still need professional boundaries.\n• What was the most important quality of your favorite teacher? – My favorite teacher was very patient and always\nencouraged students to ask questions.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê phẩm chất mà không giải thích hoặc đưa ví dụ.\n• Quên phát triển nhánh ý tưởng cá nhân trong sơ đồ tư duy.\n• Nói quá dài ở phần main speech khiến không còn thời gian cho follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ đến trải nghiệm học tập hoặc giáo viên bạn từng gặp.\n• Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ khó, hãy thay bằng từ đơn giản hoặc mô tả ý bằng cách khác.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ giáo dục và xã hội thay vì chỉ nêu cảm nhận cá nhân.\n• Sự logic và liên kết giữa các ý quan trọng hơn việc dùng cấu trúc quá phức tạp.\n• Hãy nói với sự tự tin và tự nhiên như đang chia sẻ trải nghiệm thật."
+}

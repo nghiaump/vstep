@@ -1,0 +1,717 @@
+{
+ "id": "vlu-4",
+ "number": 4,
+ "title": "Đề thi VLU 4",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-4",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "A Day at the National Park",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Last Saturday, my family and I spent a whole day at a national park near our city. We woke up at five o'clock, packed sandwiches, fruit, and plenty of water into two backpacks, and drove for almost two hours before reaching the main gate while the sun was still rising. The air was cool and fresh, and the car park was almost empty. Because it was early in the morning, we were the first visitors of the day. A friendly ranger gave us a map and explained which trails were suitable for children.",
+     "We chose a trail that leads through a **dense** forest, where tall pine trees block most of the sunlight and the ground is covered with soft green moss. My younger brother stopped every few minutes to look at insects, mushrooms, and strange footprints. After about an hour, we heard the sound of running water and followed it until we found a small stream. Birds were singing everywhere, but we saw only one deer, which quickly disappeared between the trees. Everything felt calm and peaceful, and for the first time in weeks nobody looked at a phone.",
+     "At noon we reached a wide lake, and we sat on large flat rocks to eat our lunch. My father explained that the lake had probably formed thousands of years ago when a glacier melted, and that many kinds of fish and birds now depend on its clean water to survive. A sign near the shore asked visitors not to feed the ducks, because human food can make **them** sick. So we kept our bread and simply enjoyed watching the ducks swim for a while.",
+     "In the afternoon, we climbed a steep path to a viewpoint at the top of the hill. The climb took nearly forty minutes, and my mother had to stop several times to rest, but the view from the top was so **breathtaking** that everyone forgot how tired they were. We could see the whole valley, the silver lake, and the green forest stretching far into the distance. My sister took dozens of photographs, while my father pointed out the mountain where he had camped as a student. Before leaving the hilltop, we shared the last of the fruit and promised to return in the autumn when the leaves change colour.",
+     "By the time we returned to the car park, the sun was setting, our legs were sore, and everyone was too tired to talk much, but we were all smiling. On the drive home, my brother fell asleep before we left the park. That day reminded me that nature can offer something that screens and busy city life rarely give us: silence, space, and time to think. I hope our family can visit again soon, and I would encourage anyone who lives near a national park to spend a day there."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "How rangers protect wild animals in large forests",
+       "B": "Why school trips to the countryside should be longer",
+       "C": "A family's enjoyable day exploring a national park",
+       "D": "A difficult journey to a distant mountain village"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu chuyến đi chơi nguyên ngày của gia đình tại một công viên quốc gia; đoạn 2 và 3 miêu tả hành trình khám phá rừng, suối và hồ nước; đoạn 4 kể về việc leo núi ngắm cảnh; đoạn cuối tổng kết lại cảm xúc bình yên và giá trị của việc hòa mình vào thiên nhiên. Do đó, phương án đúng phải khái quát trọn vẹn chuyến đi trải nghiệm đầy thú vị của một gia đình tại công viên quốc gia (A family's enjoyable day exploring a national park), tránh chọn các đáp án phiến diện hay sai lệch."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what did the ranger give the family?",
+      "options": {
+       "A": "A map and advice about suitable trails",
+       "B": "Free tickets for a guided evening tour",
+       "C": "Sandwiches and water for the long walk",
+       "D": "A list of rules about feeding animals"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 1: kiểm lâm thân thiện đã đưa bản đồ và giải thích những lối mòn nào phù hợp cho trẻ em (A map and advice about suitable trails)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"dense\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "warm",
+       "B": "noisy",
+       "C": "tiny",
+       "D": "thick"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"dense\" ở đoạn 2 đi kèm với miêu tả cây thông cao che khuất ánh sáng mặt trời tạo nên khu rừng rậm rạp, đồng nghĩa với \"thick\"."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, why should visitors not feed the ducks?",
+      "options": {
+       "A": "The ducks may attack very small children",
+       "B": "Human food can make the ducks sick",
+       "C": "Bread makes the lake water dirty and cold",
+       "D": "Rangers must clean the shore every morning"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về việc cho vịt ăn ở đoạn 3: thức ăn của con người có thể làm cho đàn vịt bị ốm, bệnh (Human food can make the ducks sick)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"breathtaking\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "boring",
+       "B": "scary",
+       "C": "amazing",
+       "D": "simple"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"breathtaking\" ở đoạn 4 mô tả khung cảnh tuyệt đẹp từ đỉnh đồi khiến mọi người quên hết mệt mỏi, mang nghĩa làm say đắm, tuyệt vời tương đương \"amazing\"."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"them\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "The ducks",
+       "B": "Visitors",
+       "C": "The rangers",
+       "D": "Small fish"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng \"them\" ở đoạn 3. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ đối tượng: biển báo nhắc nhở du khách không cho vịt ăn vì thức ăn của con người có thể làm hại chúng, quy chiếu trực tiếp đến những chú vịt (The ducks)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what happened during the climb?",
+      "options": {
+       "A": "Heavy rain forced everyone to return early",
+       "B": "My brother refused to walk any further",
+       "C": "A deer blocked the path for ten minutes",
+       "D": "The mother stopped several times to rest"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về buổi chiều leo núi ở đoạn 4: người mẹ phải dừng lại nhiều lần để nghỉ ngơi do đường dốc (The mother stopped several times to rest)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as something the family saw or heard?",
+      "options": {
+       "A": "Insects and mushrooms beside the trail",
+       "B": "A large brown bear near the stream",
+       "C": "The sound of running water nearby",
+       "D": "Birds singing in the tall trees"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các sự vật được gia đình nhìn thấy hoặc nghe thấy ở đoạn 2 (côn trùng và nấm bên lề đường, âm thanh dòng nước chảy, chim hót trên cây cao), từ đó loại trừ phương án con gấu nâu lớn ở gần suối vì chi tiết này hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about the writer's family from the passage?",
+      "options": {
+       "A": "Mountain climbing is the favourite hobby of this family",
+       "B": "National parks are always crowded on Saturday mornings",
+       "C": "Spending time outdoors together matters to this family",
+       "D": "Modern technology is banned inside every national park"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ toàn bài về chuyến đi dã ngoại của gia đình (cùng nhau dậy sớm, chuẩn bị đồ ăn, không ai nhìn điện thoại và tận hưởng thời gian bên nhau): điều này cho thấy việc dành thời gian ngoài trời cùng nhau rất quan trọng đối với các thành viên trong gia đình này (Spending time outdoors together matters to this family)."
+     },
+     {
+      "number": 10,
+      "stem": "Why did the writer write this passage?",
+      "options": {
+       "A": "To share a memorable family experience in nature",
+       "B": "To advertise tickets for a new national park",
+       "C": "To warn tourists about dangerous wild animals",
+       "D": "To teach readers how to cook outdoor meals Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích chia sẻ một trải nghiệm dã ngoại đáng nhớ của gia đình giữa thiên nhiên (To share a memorable family experience in nature). Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6) vì thông tin rất tập trung. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, hoàn thành các câu suy luận (R1Q9), mục đích tác giả (R1Q10) và ý chính (R1Q1)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu chuyến đi chơi nguyên ngày của gia đình tại một công viên quốc gia; đoạn 2 và 3 miêu tả hành trình khám phá rừng, suối và hồ nước; đoạn 4 kể về việc leo núi ngắm cảnh; đoạn cuối tổng kết lại cảm xúc bình yên và giá trị của việc hòa mình vào thiên nhiên. Do đó, phương án đúng phải khái quát trọn vẹn chuyến đi trải nghiệm đầy thú vị của một gia đình tại công viên quốc gia (A family's enjoyable day exploring a national park), tránh chọn các đáp án phiến diện hay sai lệch.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R1Q2**, quét thông tin ở đoạn 1: kiểm lâm thân thiện đã đưa bản đồ và giải thích những lối mòn nào phù hợp cho trẻ em (A map and advice about suitable trails).\n  - Với **R1Q4**, quét thông tin về việc cho vịt ăn ở đoạn 3: thức ăn của con người có thể làm cho đàn vịt bị ốm, bệnh (Human food can make the ducks sick).\n  - Với **R1Q7**, quét thông tin về buổi chiều leo núi ở đoạn 4: người mẹ phải dừng lại nhiều lần để nghỉ ngơi do đường dốc (The mother stopped several times to rest).\n  - Với **R1Q8**, đối soát kỹ các sự vật được gia đình nhìn thấy hoặc nghe thấy ở đoạn 2 (côn trùng và nấm bên lề đường, âm thanh dòng nước chảy, chim hót trên cây cao), từ đó loại trừ phương án con gấu nâu lớn ở gần suối vì chi tiết này hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"dense\"** ở đoạn 2 đi kèm với miêu tả cây thông cao che khuất ánh sáng mặt trời tạo nên khu rừng rậm rạp, đồng nghĩa với \"thick\".\n  - Với **R1Q5**, từ **\"breathtaking\"** ở đoạn 4 mô tả khung cảnh tuyệt đẹp từ đỉnh đồi khiến mọi người quên hết mệt mỏi, mang nghĩa làm say đắm, tuyệt vời tương đương \"amazing\".\n- **Dạng câu hỏi Quy chiếu (R1Q6):** Tập trung vào đại từ nhân xưng **\"them\"** ở đoạn 3. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ đối tượng: biển báo nhắc nhở du khách không cho vịt ăn vì thức ăn của con người có thể làm hại chúng, quy chiếu trực tiếp đến những chú vịt (The ducks).\n- **Dạng câu hỏi Suy luận (R1Q9):** Kết hợp thông tin từ toàn bài về chuyến đi dã ngoại của gia đình (cùng nhau dậy sớm, chuẩn bị đồ ăn, không ai nhìn điện thoại và tận hưởng thời gian bên nhau): điều này cho thấy việc dành thời gian ngoài trời cùng nhau rất quan trọng đối với các thành viên trong gia đình này (Spending time outdoors together matters to this family).\n- **Dạng câu hỏi Mục đích tác giả (R1Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích chia sẻ một trải nghiệm dã ngoại đáng nhớ của gia đình giữa thiên nhiên (To share a memorable family experience in nature). Lời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6) vì thông tin rất tập trung. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, hoàn thành các câu suy luận (R1Q9), mục đích tác giả (R1Q10) và ý chính (R1Q1)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Importance of Critical Thinking",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Every day, we are surrounded by claims, opinions, and advertisements that compete for our attention. In such an environment, the ability to evaluate information carefully, rather than simply accepting or rejecting it, has become one of the most valuable skills a person can possess. This ability is known as critical thinking. It involves analysing evidence, questioning assumptions, and reaching conclusions that are supported by logic rather than emotion.",
+     "The roots of critical thinking can be traced back to Socrates, the ancient Greek philosopher, who taught by asking probing questions that exposed contradictions in his listeners' beliefs instead of simply giving them answers. Modern educators have adopted a similar approach in classrooms and universities around the world. Instead of memorising facts, students are asked to compare sources, identify weaknesses in arguments, and explain why they hold a particular view. Such training encourages students to think independently and to respect evidence over authority.",
+     "The need for this skill has increased dramatically in the digital age, because anyone can publish information online, and false stories often spread faster than accurate ones, especially when they trigger strong emotions. Social media algorithms also tend to show people content that matches their existing opinions. As a result, users may live inside an information bubble in which their beliefs become more **entrenched** and alternative viewpoints are rarely encountered. Critical thinkers learn to check the source of a claim, look for supporting evidence, and consider who might benefit from its spread.",
+     "Employers consistently rank critical thinking among the most desirable qualities in new staff, since workplaces increasingly demand people who can solve unfamiliar problems, assess risks, and make sound decisions without constant supervision. Routine tasks, by contrast, are increasingly being taken over by automated machines and software. Doctors must weigh conflicting symptoms, engineers must test whether a design is safe, and managers must judge whether a proposal justifies its cost.",
+     "However, thinking critically is less natural than it seems, because people are influenced by cognitive biases. One well-known example is confirmation bias, **which** leads people to notice evidence that supports their beliefs while overlooking evidence that contradicts them, even when the contradicting evidence is stronger. Recognising such tendencies in ourselves is difficult, and it requires patience, humility, and regular practice.",
+     "Fortunately, critical thinking can be developed, and several simple habits are particularly effective: asking open questions, seeking out opposing viewpoints, and pausing to **scrutinise** the quality of evidence before sharing information with others. Reading widely and discussing ideas with people who disagree can also sharpen judgement. Schools can support this process by rewarding well-reasoned arguments rather than correct answers alone, and by creating classrooms where mistakes are treated as part of learning.",
+     "In conclusion, critical thinking is not a talent reserved for philosophers or scientists but a practical skill that protects individuals from manipulation and helps societies make wiser decisions about health, politics, and the environment. Developing it requires sustained effort, but the rewards last throughout a person's entire life. In a world of endless information, those who can question wisely will always be better prepared to learn, to choose, and to lead."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Critical thinking is a valuable skill anyone can develop",
+       "B": "Social media algorithms are the main cause of modern ignorance",
+       "C": "Only philosophers can truly judge complicated arguments with real skill",
+       "D": "Employers should now replace human staff with fully automated machines"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu khái niệm tư duy phản biện (critical thinking) và tầm quan trọng của nó; đoạn 2 nói về nguồn gốc từ Socrates và phương pháp giáo dục hiện đại; đoạn 3 bàn về sự cần thiết trong thời đại số và nguy cơ từ bong bóng thông tin; đoạn 4 chỉ ra nhu cầu từ thị trường lao động; đoạn 5 đề cập đến thành kiến nhận thức (confirmation bias); đoạn 6 đưa ra các thói quen phát triển kỹ năng; đoạn cuối kết luận tư duy phản biện bảo vệ con người khỏi sự thao túng và giúp xã hội ra quyết định khôn ngoan. Do đó, phương án đúng phải khái quát toàn diện việc tư duy phản biện là một kỹ năng quý giá mà bất kỳ ai cũng có thể phát triển (Critical thinking is a valuable skill anyone can develop), tránh chọn các đáp án phiến diện hay cực đoan."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, how did Socrates teach?",
+      "options": {
+       "A": "Through long speeches praising the great wisdom of Greek rulers",
+       "B": "Students copied his written notes during long public meetings",
+       "C": "By asking probing questions that exposed contradictions in beliefs",
+       "D": "Each learner received private lessons in logic and mathematics"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về Socrates ở đoạn 2: ông giảng dạy bằng cách đặt ra các câu hỏi dò dẫm vạch trần những mâu thuẫn trong niềm tin của người nghe thay vì đưa ra câu trả lời sẵn (By asking probing questions that exposed contradictions in beliefs)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"entrenched\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "gradually weakened",
+       "B": "carefully tested",
+       "C": "firmly established",
+       "D": "openly discussed"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"entrenched\" ở đoạn 3 mô tả niềm tin của người dùng trong bong bóng thông tin ngày càng trở nên sâu sắc, khó lay chuyển, đồng nghĩa với \"firmly established\"."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why might social media users live in an information bubble?",
+      "options": {
+       "A": "Algorithms show them content that matches their existing opinions",
+       "B": "Governments prevent them from reading most foreign news websites",
+       "C": "Most platforms charge fees for access to accurate reports",
+       "D": "False stories usually spread more slowly than accurate information"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về mạng xã hội ở đoạn 3: các thuật toán truyền thông xã hội có xu hướng hiển thị nội dung phù hợp với các quan điểm sẵn có của người dùng, khiến họ sống trong bong bóng thông tin (Algorithms show them content that matches their existing opinions)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"scrutinise\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "ignore",
+       "B": "inspect",
+       "C": "borrow",
+       "D": "praise"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"scrutinise\" ở đoạn 6 đi kèm với việc dừng lại xem xét kỹ lưỡng chất lượng của bằng chứng trước khi chia sẻ thông tin, sát nghĩa với \"inspect\"."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Human nature",
+       "B": "Strong evidence",
+       "C": "Cognitive science",
+       "D": "Confirmation bias"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đoạn 5. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ sự việc: câu văn nhắc đến hiện tượng thành kiến xác nhận (confirmation bias), quy chiếu trực tiếp đến khái niệm này."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, which skill do employers value in new staff?",
+      "options": {
+       "A": "Performing routine tasks faster than any automated machines",
+       "B": "Solving unfamiliar problems and making sound decisions independently",
+       "C": "Memorising large amounts of technical information very accurately",
+       "D": "Following every instruction carefully under close daily supervision"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về yêu cầu của nhà tuyển dụng ở đoạn 4: họ đánh giá cao những nhân viên có khả năng giải quyết các vấn đề chưa quen thuộc, đánh giá rủi ro và đưa ra quyết định hợp lý một cách độc lập (Solving unfamiliar problems and making sound decisions independently)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a task requiring critical thinking?",
+      "options": {
+       "A": "Reporters translating news items into several languages",
+       "B": "Doctors weighing symptoms that conflict with each other",
+       "C": "Engineers testing whether every new design is safe",
+       "D": "Managers judging whether a proposal justifies its cost"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các công việc đòi hỏi tư duy phản biện được liệt kê ở đoạn 4 (bác sĩ cân nhắc triệu chứng xung đột, kỹ sư kiểm tra an toàn thiết kế, quản lý đánh giá chi phí đề xuất), từ đó loại trừ phương án phóng viên dịch tin tức sang nhiều ngôn ngữ vì chi tiết này hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3 and 5 about people's beliefs?",
+      "options": {
+       "A": "Beliefs always change quickly when people read more online",
+       "B": "Strongly held beliefs may persist even against better evidence",
+       "C": "Only uneducated people are ever strongly influenced by cognitive biases",
+       "D": "Algorithms are designed to deceive users into believing falsehoods"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 3 và 5 về niềm tin con người: do ảnh hưởng của thành kiến nhận thức và bong bóng thông tin, những niềm tin đã bám rễ sâu có thể tiếp tục tồn tại ngay cả khi đối mặt với bằng chứng tốt hơn (Strongly held beliefs may persist even against better evidence)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in writing the passage?",
+      "options": {
+       "A": "To criticise most schools for teaching philosophy instead of science",
+       "B": "To persuade employers to hire more machines and fewer people",
+       "C": "To explain why critical thinking matters and how to build it",
+       "D": "To prove that social media should be banned in schools Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích giải thích lý do vì sao tư duy phản biện lại quan trọng và hướng dẫn cách để xây dựng, phát triển kỹ năng này (To explain why critical thinking matters and how to build it)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu khái niệm tư duy phản biện (critical thinking) và tầm quan trọng của nó; đoạn 2 nói về nguồn gốc từ Socrates và phương pháp giáo dục hiện đại; đoạn 3 bàn về sự cần thiết trong thời đại số và nguy cơ từ bong bóng thông tin; đoạn 4 chỉ ra nhu cầu từ thị trường lao động; đoạn 5 đề cập đến thành kiến nhận thức (confirmation bias); đoạn 6 đưa ra các thói quen phát triển kỹ năng; đoạn cuối kết luận tư duy phản biện bảo vệ con người khỏi sự thao túng và giúp xã hội ra quyết định khôn ngoan. Do đó, phương án đúng phải khái quát toàn diện việc tư duy phản biện là một kỹ năng quý giá mà bất kỳ ai cũng có thể phát triển (Critical thinking is a valuable skill anyone can develop), tránh chọn các đáp án phiến diện hay cực đoan.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R2Q2**, quét thông tin về Socrates ở đoạn 2: ông giảng dạy bằng cách đặt ra các câu hỏi dò dẫm vạch trần những mâu thuẫn trong niềm tin của người nghe thay vì đưa ra câu trả lời sẵn (By asking probing questions that exposed contradictions in beliefs).\n  - Với **R2Q4**, quét thông tin về mạng xã hội ở đoạn 3: các thuật toán truyền thông xã hội có xu hướng hiển thị nội dung phù hợp với các quan điểm sẵn có của người dùng, khiến họ sống trong bong bóng thông tin (Algorithms show them content that matches their existing opinions).\n  - Với **R2Q7**, quét thông tin về yêu cầu của nhà tuyển dụng ở đoạn 4: họ đánh giá cao những nhân viên có khả năng giải quyết các vấn đề chưa quen thuộc, đánh giá rủi ro và đưa ra quyết định hợp lý một cách độc lập (Solving unfamiliar problems and making sound decisions independently).\n  - Với **R2Q8**, đối soát kỹ các công việc đòi hỏi tư duy phản biện được liệt kê ở đoạn 4 (bác sĩ cân nhắc triệu chứng xung đột, kỹ sư kiểm tra an toàn thiết kế, quản lý đánh giá chi phí đề xuất), từ đó loại trừ phương án phóng viên dịch tin tức sang nhiều ngôn ngữ vì chi tiết này hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"entrenched\"** ở đoạn 3 mô tả niềm tin của người dùng trong bong bóng thông tin ngày càng trở nên sâu sắc, khó lay chuyển, đồng nghĩa với \"firmly established\".\n  - Với **R2Q5**, từ **\"scrutinise\"** ở đoạn 6 đi kèm với việc dừng lại xem xét kỹ lưỡng chất lượng của bằng chứng trước khi chia sẻ thông tin, sát nghĩa với \"inspect\".\n- **Dạng câu hỏi Quy chiếu (R2Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đoạn 5. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ sự việc: câu văn nhắc đến hiện tượng thành kiến xác nhận (confirmation bias), quy chiếu trực tiếp đến khái niệm này.\n- **Dạng câu hỏi Suy luận (R2Q9):** Kết hợp thông tin từ đoạn 3 và 5 về niềm tin con người: do ảnh hưởng của thành kiến nhận thức và bong bóng thông tin, những niềm tin đã bám rễ sâu có thể tiếp tục tồn tại ngay cả khi đối mặt với bằng chứng tốt hơn (Strongly held beliefs may persist even against better evidence).\n- **Dạng câu hỏi Mục đích tác giả (R2Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích giải thích lý do vì sao tư duy phản biện lại quan trọng và hướng dẫn cách để xây dựng, phát triển kỹ năng này (To explain why critical thinking matters and how to build it).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R2Q3, R2Q5) và quy chiếu (R2Q6) vì thông tin rất khu trú. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, hoàn thành các câu suy luận (R2Q9), mục đích tác giả (R2Q10) và ý chính (R2Q1) dựa trên tổng quan toàn bài."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Era of Artificial Intelligence: Opportunities and Risks",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Artificial intelligence has moved from science fiction to everyday reality with remarkable speed. Systems that recognise speech, translate languages, recommend films, and diagnose diseases from medical images are now **pervasive**, operating so smoothly in smartphones, hospitals, and offices that users barely notice them. Yet beneath this convenience lie profound questions about employment, fairness, privacy, and control.",
+     "The most compelling argument for artificial intelligence is its potential to accelerate discovery, since algorithms can search through enormous datasets for patterns that no human researcher could detect in a lifetime. In medicine, such tools already help doctors identify early signs of cancer in scans. In science, machine learning has been used to predict the structures of proteins, a task that often took years of laboratory work, and to speed up the search for new materials and drugs.",
+     "The economic consequences are likely to be uneven. **[1]** Automation has historically destroyed some jobs while creating others, but artificial intelligence differs from earlier technologies because it can perform cognitive tasks such as drafting reports, analysing contracts, and writing computer code. **[2]** Skills that were valuable a decade ago may therefore become **obsolete** within a few years. **[3]** Economists disagree about the scale of the disruption, but most accept that workers will need to retrain repeatedly, and that governments must support them during these transitions. **[4]**",
+     "A second set of concerns involves the fairness and transparency of automated decisions. Algorithms learn from historical data, so if that data reflects past discrimination, the resulting systems may reproduce it, for instance by ranking job applicants unfairly or by assigning higher risk scores to certain communities. Complex models are often described as black boxes, because even their designers cannot fully explain why **they** reach a particular conclusion. This opacity makes it hard for citizens to challenge unfair outcomes, and it complicates the task of assigning responsibility when something goes wrong.",
+     "Generative systems that can produce realistic text, images, and voices have lowered the cost of deception, enabling fabricated videos and persuasive fake messages to circulate on a scale once requiring a professional studio. Security experts also warn that criminals can use the same tools to automate fraud. Perhaps the most serious consequence is a general loss of trust, since if any recording might be fabricated, genuine evidence can be dismissed as false.",
+     "Responses to these risks are emerging, though unevenly: some governments have introduced laws requiring high-risk systems to be tested, documented, and monitored, while others prefer voluntary guidelines that leave companies to regulate themselves. Supporters of regulation argue that clear rules protect citizens and encourage responsible innovation. Critics reply that strict requirements may burden small firms, slow progress, and push research into countries with weaker standards. Because the technology evolves faster than legislation, many experts favour flexible frameworks that can be updated as evidence accumulates.",
+     "Artificial intelligence is therefore neither a miracle nor a menace in itself; its effects will depend on the choices that governments, companies, and citizens make about how it is designed, deployed, and held accountable. Societies that invest in education, oversight, and public debate are more likely to capture its benefits. Those that ignore the risks, or dismiss the opportunities, may find that the technology shapes them rather than the reverse."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Automation will soon eliminate the need for human employment entirely",
+       "B": "Governments have successfully removed all bias from automated decision systems",
+       "C": "Scientific research has benefited very little from machine learning technologies",
+       "D": "Artificial intelligence offers major benefits but poses serious risks"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự phổ biến của trí tuệ nhân tạo (AI); đoạn 2 nêu bật các lợi ích to lớn trong y học và khoa học; đoạn 3 và 4 phân tích các hệ quả kinh tế, vấn đề công bằng và tính minh bạch; đoạn 5 đề cập đến rủi ro từ các hệ thống tạo sinh (generative systems); đoạn 6 bàn về các phản ứng quản lý và luật pháp; đoạn cuối tổng kết AI mang lại nhiều lợi ích lớn nhưng đồng thời đặt ra những rủi ro nghiêm trọng cần được kiểm soát. Do đó, phương án đúng phải khái quát toàn diện việc trí tuệ nhân tạo mang lại lợi ích lớn nhưng đi kèm các rủi ro nghiêm trọng (Artificial intelligence offers major benefits but poses serious risks), tránh chọn các đáp án phiến diện hay cực đoan."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, how is machine learning used in science?",
+      "options": {
+       "A": "It predicts protein structures and speeds the search for drugs",
+       "B": "Researchers use it mainly to type and format all their reports",
+       "C": "Laboratories rely on it to replace every human scientist",
+       "D": "Doctors are trained by it to read scans more slowly"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về khoa học ở đoạn 2: học máy được sử dụng để dự đoán cấu trúc protein và đẩy nhanh quá trình tìm kiếm vật liệu và thuốc mới (It predicts protein structures and speeds the search for drugs)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"pervasive\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "recently invented",
+       "B": "highly dangerous",
+       "C": "found everywhere",
+       "D": "very expensive"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"pervasive\" ở đoạn 1 miêu tả việc các hệ thống AI xuất hiện khắp nơi trong điện thoại, bệnh viện và văn phòng, đồng nghĩa với \"found everywhere\"."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Until recently, tasks such as drafting, analysing, and coding were widely regarded as safe from machines.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'Until recently, tasks such as drafting, analysing, and coding were widely regarded as safe from machines.' (Cho đến gần đây, các công việc như soạn thảo, phân tích và lập trình từng được coi là an toàn trước máy móc). Ý nghĩa này bổ sung và tạo sự tương phản trực tiếp cho câu nói ngay sau ô [1] (nói về việc AI khác với công nghệ trước đó vì nó có thể thực hiện các tác vụ nhận thức như soạn thảo báo cáo, phân tích hợp đồng và viết mã code). Do đó, vị trí thích hợp nhất để điền câu này là ngay trước câu đó, tức là tại ô [1]."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, why may algorithms produce unfair results?",
+      "options": {
+       "A": "Their designers deliberately programme them to favour certain communities",
+       "B": "Job applicants often provide false information during online interviews",
+       "C": "Risk scores are calculated manually by overworked government officials",
+       "D": "They learn from historical data that may reflect past discrimination"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về thuật toán tạo ra kết quả không công bằng ở đoạn 4: chúng học từ dữ liệu lịch sử phản ánh sự phân biệt đối xử trong quá khứ (They learn from historical data that may reflect past discrimination)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"they\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "The designers",
+       "B": "Affected citizens",
+       "C": "Complex models",
+       "D": "Public officials"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số nhiều \"they\" ở đoạn 4. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ đối tượng: câu trước nhắc đến các mô hình phức tạp (complex models) khiến ngay cả nhà thiết kế cũng không giải thích nổi, quy chiếu trực tiếp đến các mô hình này."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"obsolete\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "outdated",
+       "B": "dangerous",
+       "C": "popular",
+       "D": "ordinary"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"obsolete\" ở đoạn 3 chỉ các kỹ năng từng có giá trị trước đây nay trở nên lỗi thời, không còn hữu dụng, sát nghĩa với \"outdated\"."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a risk associated with generative systems?",
+      "options": {
+       "A": "Criminals automating fraud with the same tools",
+       "B": "Overheating of data centres damaging the environment",
+       "C": "Genuine evidence being dismissed as probably fabricated",
+       "D": "Persuasive fake messages circulating at large scale"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các rủi ro liên quan đến hệ thống tạo sinh được liệt kê ở đoạn 5 (tội phạm tự động hóa lừa đảo, bằng chứng thật bị coi là giả mạo, tin nhắn giả lan truyền diện rộng), từ đó loại trừ phương án trung tâm dữ liệu quá nóng gây hại môi trường vì hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about the effects of artificial intelligence?",
+      "options": {
+       "A": "Existing laws already protect every worker from algorithmic discrimination",
+       "B": "Technology companies deliberately design systems to avoid being understood",
+       "C": "Rapid change and opacity may leave people without effective protection",
+       "D": "Retraining programmes have proved sufficient to prevent unemployment in most countries"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 3, 4 và 6 về tác động của AI: sự tiến hóa nhanh chóng của công nghệ cùng tính không minh bạch (opacity) của các mô hình có thể khiến người dân không nhận được sự bảo vệ hiệu quả trước các quyết định thuật toán (Rapid change and opacity may leave people without effective protection)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To weigh the promise and the dangers of artificial intelligence",
+       "B": "To persuade readers to avoid using smartphones and all online services",
+       "C": "To explain exactly how neural networks are programmed step by step",
+       "D": "To compare the economic policies of several named governments Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích cân nhắc và đánh giá cả những tiềm năng hứa hẹn lẫn các mối nguy hiểm của trí tuệ nhân tạo (To weigh the promise and the dangers of artificial intelligence)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự phổ biến của trí tuệ nhân tạo (AI); đoạn 2 nêu bật các lợi ích to lớn trong y học và khoa học; đoạn 3 và 4 phân tích các hệ quả kinh tế, vấn đề công bằng và tính minh bạch; đoạn 5 đề cập đến rủi ro từ các hệ thống tạo sinh (generative systems); đoạn 6 bàn về các phản ứng quản lý và luật pháp; đoạn cuối tổng kết AI mang lại nhiều lợi ích lớn nhưng đồng thời đặt ra những rủi ro nghiêm trọng cần được kiểm soát. Do đó, phương án đúng phải khái quát toàn diện việc trí tuệ nhân tạo mang lại lợi ích lớn nhưng đi kèm các rủi ro nghiêm trọng (Artificial intelligence offers major benefits but poses serious risks), tránh chọn các đáp án phiến diện hay cực đoan.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R3Q2**, quét thông tin về khoa học ở đoạn 2: học máy được sử dụng để dự đoán cấu trúc protein và đẩy nhanh quá trình tìm kiếm vật liệu và thuốc mới (It predicts protein structures and speeds the search for drugs).\n  - Với **R3Q5**, quét thông tin về thuật toán tạo ra kết quả không công bằng ở đoạn 4: chúng học từ dữ liệu lịch sử phản ánh sự phân biệt đối xử trong quá khứ (They learn from historical data that may reflect past discrimination).\n  - Với **R3Q8**, đối soát kỹ các rủi ro liên quan đến hệ thống tạo sinh được liệt kê ở đoạn 5 (tội phạm tự động hóa lừa đảo, bằng chứng thật bị coi là giả mạo, tin nhắn giả lan truyền diện rộng), từ đó loại trừ phương án trung tâm dữ liệu quá nóng gây hại môi trường vì hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"pervasive\"** ở đoạn 1 miêu tả việc các hệ thống AI xuất hiện khắp nơi trong điện thoại, bệnh viện và văn phòng, đồng nghĩa với \"found everywhere\".\n  - Với **R3Q7**, từ **\"obsolete\"** ở đoạn 3 chỉ các kỹ năng từng có giá trị trước đây nay trở nên lỗi thời, không còn hữu dụng, sát nghĩa với \"outdated\".\n- **Dạng câu hỏi Điền câu vào đoạn văn (R3Q4):** Đọc kỹ câu cần chèn: 'Until recently, tasks such as drafting, analysing, and coding were widely regarded as safe from machines.' (Cho đến gần đây, các công việc như soạn thảo, phân tích và lập trình từng được coi là an toàn trước máy móc). Ý nghĩa này bổ sung và tạo sự tương phản trực tiếp cho câu nói ngay sau ô **[1]** (nói về việc AI khác với công nghệ trước đó vì nó có thể thực hiện các tác vụ nhận thức như soạn thảo báo cáo, phân tích hợp đồng và viết mã code). Do đó, vị trí thích hợp nhất để điền câu này là ngay trước câu đó, tức là tại ô **[1]**.\n- **Dạng câu hỏi Quy chiếu (R3Q6):** Tập trung vào đại từ nhân xưng số nhiều **\"they\"** ở đoạn 4. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ đối tượng: câu trước nhắc đến các mô hình phức tạp (complex models) khiến ngay cả nhà thiết kế cũng không giải thích nổi, quy chiếu trực tiếp đến các mô hình này.\n- **Dạng câu hỏi Suy luận (R3Q9):** Kết hợp thông tin từ đoạn 3, 4 và 6 về tác động của AI: sự tiến hóa nhanh chóng của công nghệ cùng tính không minh bạch (opacity) của các mô hình có thể khiến người dân không nhận được sự bảo vệ hiệu quả trước các quyết định thuật toán (Rapid change and opacity may leave people without effective protection).\n- **Dạng câu hỏi Mục đích tác giả (R3Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích cân nhắc và đánh giá cả những tiềm năng hứa hẹn lẫn các mối nguy hiểm của trí tuệ nhân tạo (To weigh the promise and the dangers of artificial intelligence).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R3Q3, R3Q7), câu điền đoạn (R3Q4) và quy chiếu (R3Q6) vì thông tin khu trú rất rõ ràng. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R3Q2, R3Q5, R3Q8). Cuối cùng, hoàn thành các câu suy luận (R3Q9), mục đích tác giả (R3Q10) và ý chính (R3Q1) dựa trên tổng quan toàn bài."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Great Pyramids of Giza: Architectural Wonders of the Ancient World",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Rising from a desert plateau near Cairo, the pyramids of Giza have fascinated visitors for millennia. The largest of them, built for the pharaoh Khufu around 2560 BCE, was the tallest human-made structure in the world for nearly four thousand years. It is also the only one of the ancient Seven Wonders that still largely survives. Today, the site attracts millions of visitors who marvel at monuments older than almost any other surviving architecture.",
+     "Its dimensions remain astonishing, since the Great Pyramid originally stood about 146 metres high and is estimated to contain more than two million blocks of limestone. Its builders also aligned the sides almost perfectly with the four cardinal directions. Modern surveys have shown that the base of the Great Pyramid is level within a few centimetres across an area of more than five hectares. Such precision, achieved with copper tools, wooden sledges, and ropes, suggests highly organised planning and skilled surveying.",
+     "For centuries, popular imagination pictured the pyramids as monuments raised by enslaved multitudes under the whip. **[1]** Excavations since the 1990s, however, have uncovered the remains of a workers' settlement near the site, complete with bakeries, breweries, and cemeteries where labourers were buried with honour beside the pharaoh's own monuments. **[2]** Skeletons from these cemeteries show signs of healed fractures, indicating medical treatment. **[3]** Scholars therefore think that most workers were Egyptians, conscripted or paid, in rotating gangs supported by a core of permanent craftsmen. **[4]**",
+     "How the blocks were raised has generated lively debate, with theories ranging from a single straight ramp to spiralling ramps around the structure, although no proposal explains every stage. Transport, by contrast, is now better understood thanks to a remarkable archaeological discovery. In 2013, archaeologists found papyri at Wadi al-Jarf on the Red Sea coast, including the logbook of an official named Merer, which records boat crews carrying limestone blocks to Giza along the Nile.",
+     "Inside the Great Pyramid, narrow passages lead to the King's Chamber, which is built of massive granite blocks and roofed by stones weighing dozens of tonnes. The **meticulous** effort devoted to such details reflects the pyramid's purpose as a royal tomb. Egyptians believed that the pharaoh's body had to be preserved so that his spirit could travel to the afterlife, and the pyramid's shape may have symbolised a ramp of sunlight leading there.",
+     "Beside it stand two smaller pyramids, built for Khafre and Menkaure, and the Sphinx, which most Egyptologists attribute to Khafre's reign. Together they form a complex that served as the focus of royal ritual, and the surrounding temples, causeways, and subsidiary tombs show how closely religion and kingship were intertwined in Old Kingdom Egypt. Over the centuries, however, the pyramids were stripped of their smooth limestone casing. Much of that casing was removed in the medieval period and **repurposed** for buildings in Cairo, which is why the monuments now appear as stepped masses of rough stone.",
+     "The pyramids of Giza endure not merely because of their size but because they embody the ambition, organisation, and beliefs of a civilisation that believed it could secure eternal life through stone. Each new discovery refines, and sometimes overturns, earlier assumptions about how and why they were built. The shift from the myth of enslaved masses to the picture of a skilled, organised workforce shows how archaeology can correct even the most familiar stories."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Ancient Egyptians built the pyramids mainly as astronomical observatories for priests",
+       "B": "The Giza pyramids reveal advanced planning and organised labour rather than slavery",
+       "C": "Most of the pyramids were destroyed by earthquakes soon after construction",
+       "D": "Foreign engineers designed the monuments and supervised enslaved labourers directly"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu đại kim tự tháp Giza và sức hút lịch sử của nó; đoạn 2 miêu tả kích thước ấn tượng và độ chính xác trong quy hoạch; đoạn 3 lật lại lầm tưởng về nô lệ nhờ các khai quật khảo cổ mới về khu định cư của thợ xây; đoạn 4 bàn về phương thức vận chuyển đá bằng thuyền theo sông Nile; đoạn 5 nói về kiến trúc bên trong và mục đích lăng mộ hoàng gia; đoạn 6 nhắc đến phức hợp đền đài xung quanh và việc phần vỏ đá vôi bị tái sử dụng ở Cairo thời trung cổ; đoạn cuối tổng kết các phát hiện khảo cổ đã đính chính lại những câu chuyện quen thuộc. Do đó, phương án đúng phải khái quát toàn diện việc các kim tự tháp Giza cho thấy kế hoạch tiên tiến và lao động có tổ chức thay vì chế độ nô lệ (The Giza pyramids reveal advanced planning and organised labour rather than slavery), tránh chọn các đáp án phiến diện hay sai lệch."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what has recent archaeology revealed about the builders?",
+      "options": {
+       "A": "Prisoners captured abroad were forced to work without food",
+       "B": "A small group of priests carried every block unaided",
+       "C": "They lived in a settlement with bakeries and were buried honourably",
+       "D": "Their skeletons show severe injuries that were never treated"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin khảo cổ học về người thợ xây ở đoạn 3: họ sống trong một khu định cư có tiệm bánh, nhà máy bia và được chôn cất trang trọng (They lived in a settlement with bakeries and were buried honourably)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"meticulous\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "extremely careful",
+       "B": "completely accidental",
+       "C": "rather hurried",
+       "D": "largely symbolic"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"meticulous\" ở đoạn 5 mô tả sự nỗ lực tỉ mỉ, cực kỳ cẩn thận dành cho các chi tiết bên trong lăng mộ, đồng nghĩa với \"extremely careful\"."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'This interpretation transforms the pyramids from symbols of oppression into evidence of organised national effort.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'This interpretation transforms the pyramids from symbols of oppression into evidence of organised national effort.' (Cách giải thích này biến các kim tự tháp từ biểu tượng của sự áp bức thành bằng chứng về nỗ lực tổ chức mang tầm quốc gia). Ý nghĩa khái quát tổng kết này làm sáng tỏ toàn bộ đoạn văn khi chuyển từ quan niệm sai lầm về nô lệ sang lực lượng lao động được trả lương/sung công có tổ chức. Vị trí thích hợp nhất để chèn câu này là ngay sau khi kết luận các bằng chứng ở cuối đoạn 3, tức là tại ô [4]."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what does the Merer logbook reveal?",
+      "options": {
+       "A": "Workers dragged granite blocks across the desert on wheeled carts",
+       "B": "Boat crews carried limestone to Giza along the Nile",
+       "C": "A single straight ramp was used to raise every block",
+       "D": "Officials recorded the exact weight of each stone block"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về nhật ký Merer ở đoạn 4: các đội thuyền chở đá vôi đến Giza dọc theo sông Nile (Boat crews carried limestone to Giza along the Nile)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "The King's Chamber",
+       "B": "The Great Pyramid",
+       "C": "Narrow passages",
+       "D": "Massive granite blocks"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đoạn 5. Áp dụng quy tắc đọc ngược lại từ trước dấu phẩy để tìm danh từ chỉ sự vật: câu văn nhắc đến \"the King's Chamber\" được xây dựng bằng những khối đá granite lớn, quy chiếu trực tiếp đến căn phòng này (The King's Chamber)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"repurposed\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "destroyed",
+       "B": "hidden",
+       "C": "reused",
+       "D": "admired"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"repurposed\" ở đoạn 6 đi kèm với việc phần vỏ đá vôi mịn của kim tự tháp bị gỡ bỏ để tái sử dụng cho các công trình xây dựng ở Cairo, sát nghĩa với \"reused\"."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a feature of the Giza complex?",
+      "options": {
+       "A": "Causeways and temples surrounding the pyramids",
+       "B": "Subsidiary tombs near the main monuments",
+       "C": "A guardian Sphinx attributed to Khafre's reign",
+       "D": "An underground library storing royal records"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các tính năng của phức hợp Giza được liệt kê trong bài (đường đền và đền thờ xung quanh ở đoạn 6, lăng mộ phụ ở đoạn 6, nhân sư Sphinx ở đoạn 6), từ đó loại trừ phương án thư viện ngầm lưu trữ hồ sơ hoàng gia vì hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 3, 4, and 7 about the pyramids' construction?",
+      "options": {
+       "A": "Success depended on organised administration and logistics rather than brute force alone",
+       "B": "Every block was certainly transported by boat directly to the construction site",
+       "C": "Skilled surveyors alone were responsible for lifting each massive stone",
+       "D": "Ramps were unnecessary because workers had access to advanced lifting machinery"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ các đoạn 3, 4 và 7 về quá trình xây dựng kim tự tháp: thành công của công trình phụ thuộc vào công tác quản trị, tổ chức hậu cần và kỷ luật lao động tinh vi thay vì chỉ dựa vào sức mạnh cơ bắp đơn thuần (Success depended on organised administration and logistics rather than brute force alone)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that ancient astronauts helped to construct the monuments",
+       "B": "To encourage readers to plan a holiday to modern Cairo",
+       "C": "To explain what is known about building the pyramids",
+       "D": "To compare Egyptian pyramids with the temples of other civilisations"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích giải thích những gì hiện nay được khoa học và khảo cổ học hiểu biết về cách xây dựng các kim tự tháp (To explain what is known about building the pyramids)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu đại kim tự tháp Giza và sức hút lịch sử của nó; đoạn 2 miêu tả kích thước ấn tượng và độ chính xác trong quy hoạch; đoạn 3 lật lại lầm tưởng về nô lệ nhờ các khai quật khảo cổ mới về khu định cư của thợ xây; đoạn 4 bàn về phương thức vận chuyển đá bằng thuyền theo sông Nile; đoạn 5 nói về kiến trúc bên trong và mục đích lăng mộ hoàng gia; đoạn 6 nhắc đến phức hợp đền đài xung quanh và việc phần vỏ đá vôi bị tái sử dụng ở Cairo thời trung cổ; đoạn cuối tổng kết các phát hiện khảo cổ đã đính chính lại những câu chuyện quen thuộc. Do đó, phương án đúng phải khái quát toàn diện việc các kim tự tháp Giza cho thấy kế hoạch tiên tiến và lao động có tổ chức thay vì chế độ nô lệ (The Giza pyramids reveal advanced planning and organised labour rather than slavery), tránh chọn các đáp án phiến diện hay sai lệch.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R4Q2**, quét thông tin khảo cổ học về người thợ xây ở đoạn 3: họ sống trong một khu định cư có tiệm bánh, nhà máy bia và được chôn cất trang trọng (They lived in a settlement with bakeries and were buried honourably).\n  - Với **R4Q5**, quét thông tin về nhật ký Merer ở đoạn 4: các đội thuyền chở đá vôi đến Giza dọc theo sông Nile (Boat crews carried limestone to Giza along the Nile).\n  - Với **R4Q8**, đối soát kỹ các tính năng của phức hợp Giza được liệt kê trong bài (đường đền và đền thờ xung quanh ở đoạn 6, lăng mộ phụ ở đoạn 6, nhân sư Sphinx ở đoạn 6), từ đó loại trừ phương án thư viện ngầm lưu trữ hồ sơ hoàng gia vì hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"meticulous\"** ở đoạn 5 mô tả sự nỗ lực tỉ mỉ, cực kỳ cẩn thận dành cho các chi tiết bên trong lăng mộ, đồng nghĩa với \"extremely careful\".\n  - Với **R4Q7**, từ **\"repurposed\"** ở đoạn 6 đi kèm với việc phần vỏ đá vôi mịn của kim tự tháp bị gỡ bỏ để tái sử dụng cho các công trình xây dựng ở Cairo, sát nghĩa với \"reused\".\n- **Dạng câu hỏi Điền câu vào đoạn văn (R4Q4):** Đọc kỹ câu cần chèn: 'This interpretation transforms the pyramids from symbols of oppression into evidence of organised national effort.' (Cách giải thích này biến các kim tự tháp từ biểu tượng của sự áp bức thành bằng chứng về nỗ lực tổ chức mang tầm quốc gia). Ý nghĩa khái quát tổng kết này làm sáng tỏ toàn bộ đoạn văn khi chuyển từ quan niệm sai lầm về nô lệ sang lực lượng lao động được trả lương/sung công có tổ chức. Vị trí thích hợp nhất để chèn câu này là ngay sau khi kết luận các bằng chứng ở cuối đoạn 3, tức là tại ô **[4]**.\n- **Dạng câu hỏi Quy chiếu (R4Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đoạn 5. Áp dụng quy tắc đọc ngược lại từ trước dấu phẩy để tìm danh từ chỉ sự vật: câu văn nhắc đến \"the King's Chamber\" được xây dựng bằng những khối đá granite lớn, quy chiếu trực tiếp đến căn phòng này (The King's Chamber).\n- **Dạng câu hỏi Suy luận (R4Q9):** Kết hợp thông tin từ các đoạn 3, 4 và 7 về quá trình xây dựng kim tự tháp: thành công của công trình phụ thuộc vào công tác quản trị, tổ chức hậu cần và kỷ luật lao động tinh vi thay vì chỉ dựa vào sức mạnh cơ bắp đơn thuần (Success depended on organised administration and logistics rather than brute force alone).\n- **Dạng câu hỏi Mục đích tác giả (R4Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích giải thích những gì hiện nay được khoa học và khảo cổ học hiểu biết về cách xây dựng các kim tự tháp (To explain what is known about building the pyramids).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R4Q3, R4Q7), câu điền đoạn (R4Q4) và quy chiếu (R4Q6) vì thông tin khu trú rất rõ ràng. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R4Q2, R4Q5, R4Q8). Cuối cùng, hoàn thành các câu suy luận (R4Q9), mục đích tác giả (R4Q10) và ý chính (R4Q1) dựa trên tổng quan toàn bài."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You are working as an administrator at an English center. You need to send a formal email to a parent, Mr. Johnson, to provide details about a new English course.\nRead the information below.\nMr. Johnson is interested in enrolling his son in the upcoming English program.\n- What is the size of the class and the schedule?\n- How is the course organized in terms of curriculum and activities?\n- What are the benefits for the students after finishing the course?\nWrite a formal email to Mr. Johnson. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You are working as an administrator at an English center. You need to send a formal email to a parent, Mr. Johnson, to provide details about a new English course.",
+      "Read the information below."
+     ],
+     "quote": [
+      "Mr. Johnson is interested in enrolling his son in the upcoming English program.",
+      "- What is the size of the class and the schedule?",
+      "- How is the course organized in terms of curriculum and activities?",
+      "- What are the benefits for the students after finishing the course?"
+     ],
+     "instruction": "Write a formal email to Mr. Johnson. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Dạng đề: Formal Email (Thư trang trọng) gửi cho phụ huynh học sinh.\n- Nhiệm vụ: Cung cấp thông tin chi tiết về khóa học bao gồm sĩ số, lịch học, cách tổ chức và lợi ích.\n- Yêu cầu: Viết tối thiểu 120 từ, sử dụng ngôn ngữ chuyên nghiệp, lịch sự.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Dear Mr. Johnson,\n- **Opening:** Cảm ơn phụ huynh đã quan tâm đến trung tâm. Ví dụ: \"Thank you for contacting our center regarding the upcoming English course for your son.\"\n- **Body 1:** Thông tin lớp học (Sĩ số tối đa, ngày học trong tuần). Ví dụ: \"Each class is limited to 15 students to ensure personalized attention.\"\n- **Body 2:** Cách tổ chức khóa học (Giáo trình, phương pháp giảng dạy, hoạt động ngoại khóa).\n- **Body 3:** Kết quả đầu ra và lợi ích (Kỹ năng giao tiếp, chứng chỉ).\n- **Closing & Sign-off:** Sincerely, / Yours sincerely, [Tên của bạn/Chức vụ].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn cho các thông tin cố định và Tương lai đơn cho các cam kết đầu ra.\n- Sử dụng các cấu trúc câu bị động để tăng tính trang trọng (ví dụ: \"The curriculum is designed to...\").\n- Dùng các cụm từ chỉ mục đích (in order to, so as to) để giải thích lợi ích của các hoạt động.\n- Tránh dùng từ viết tắt (I'm, don't) để giữ văn phong trang trọng.\nTừ vựng quan trọng:\n- **Enrollment:** Sự đăng ký nhập học\n- **Class capacity:** Sĩ số lớp học\n- **Curriculum:** Chương trình học\n- **Extracurricular activities:** Hoạt động ngoại khóa\n- **Interactive learning:** Học tập tương tác\n- **Proficiency level:** Mức độ thành thạo\nTừ nối (Linking words):\n- **Furthermore:** Hơn thế nữa\n- **In addition:** Thêm vào đó\n- **Regarding:** Về vấn đề\n- **Consequently:** Do đó\n- **Specifically:** Một cách cụ thể\nCách diễn đạt cảm xúc (Expressing feelings):\n- **We are pleased to inform you:** Chúng tôi rất vui mừng được thông báo\n- **We look forward to hearing from you:** Chúng tôi rất mong nhận được phản hồi từ ông\n- **Please do not hesitate to contact us:** Đừng ngần ngại liên hệ với chúng tôi\n\n**4. Các lỗi thường gặp:**\n- Dùng ngôn ngữ quá thân mật (Hi, Thanks) không phù hợp với đối tượng phụ huynh và môi trường giáo dục.\n- Thiếu thông tin cụ thể về sĩ số hoặc tổ chức lớp học như yêu cầu.\n- Lỗi trình bày đoạn văn không rõ ràng.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra lại tên phụ huynh đã viết đúng chưa.\n- Rà soát các lỗi ngữ pháp về chia động từ số ít/số nhiều khi nói về lớp học.\n\n**6. Tư duy làm bài:**\n- Hãy đặt mình là một nhân viên chuyên nghiệp, cung cấp thông tin rõ ràng và tạo dựng lòng tin với phụ huynh. Essay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nPlastic waste has become one of the most pressing environmental issues of our time, with millions of tons ending up in oceans and landfills every year.\nThis phenomenon leads to devastating consequences for wildlife and human health, requiring urgent global intervention.\nDiscuss the effects of plastic waste and suggest possible solutions.\nWrite an essay to an educated reader to discuss the problems caused by plastic waste and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Plastic waste has become one of the most pressing environmental issues of our time, with millions of tons ending up in oceans and landfills every year.",
+      "This phenomenon leads to devastating consequences for wildlife and human health, requiring urgent global intervention.",
+      "Discuss the effects of plastic waste and suggest possible solutions."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by plastic waste and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Cause-Effect-Solution (Nguyên nhân - Hệ quả - Giải pháp).\n- Chủ đề: Rác thải nhựa (Plastic waste).\n- Nhiệm vụ: Phân tích các tác động tiêu cực và đề xuất các giải pháp khả thi.\n- Độ dài tối thiểu: 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu thực trạng ô nhiễm rác thải nhựa toàn cầu và nêu khái quát bài viết sẽ thảo luận về hệ quả và giải pháp.\n- **Body 1 (Effects):** Ảnh hưởng đến hệ sinh thái biển (động vật ăn nhầm nhựa), sức khỏe con người (vi nhựa đi vào chuỗi thức ăn) và ô nhiễm đất.\n- **Body 2 (Solutions - Government):** Ban hành luật cấm nhựa dùng một lần, tăng thuế đối với các công ty sản xuất nhựa, đầu tư vào hệ thống tái chế.\n- **Body 3 (Solutions - Individual):** Thay đổi thói quen tiêu dùng, sử dụng sản phẩm thay thế (túi vải, bình nước cá nhân), tham gia các hoạt động làm sạch môi trường.\n- **Conclusion:** Tóm tắt lại tầm quan trọng của việc hành động ngay lập tức và khẳng định sự cần thiết của việc hợp tác đa phương.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại hoàn thành để nói về tình trạng ô nhiễm đã và đang xảy ra.\n- Dùng các cấu trúc chỉ nguyên nhân - kết quả (due to, as a result of, lead to, result in).\n- Dùng câu điều kiện loại 1 và 2 để nói về viễn cảnh nếu không có giải pháp.\n- Phát triển ý bằng cách đưa ra các số liệu giả định hoặc ví dụ thực tế về các quốc gia đã cấm nhựa thành công. Từ vựng quan trọng:\n- **Single-use plastic:** Nhựa dùng một lần\n- **Microplastics:** Vi nhựa\n- **Marine ecosystem:** Hệ sinh thái biển\n- **Biodegradable materials:** Vật liệu phân hủy sinh học\n- **Landfill:** Bãi chôn lấp rác\n- **Disposable:** Dùng một lần rồi bỏ\nTừ nối (Linking words):\n- **First and foremost:** Đầu tiên và quan trọng nhất\n- **In terms of environment:** Xét về khía cạnh môi trường\n- **Consequently:** Hệ quả là\n- **Nevertheless:** Tuy nhiên\n- **On a larger scale:** Trên quy mô lớn hơn\n- **In conclusion:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Synthetic waste:** Thay cho \"plastic waste\".\n- **Environmental degradation:** Thay cho \"environmental issues\".\n- **Implement stringent regulations:** Thay cho \"make rules\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is widely recognized that...:** Mọi người đều công nhận rằng...\n- **A viable solution would be...:** Một giải pháp khả thi sẽ là...\n- **Immediate action is required to...:** Hành động ngay lập tức là cần thiết để...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về tác hại mà quên đưa ra giải pháp (hoặc ngược lại).\n- Sử dụng các giải pháp quá chung chung như \"save the earth\" mà không có hành động cụ thể.\n- Lỗi dùng từ \"plastic\" quá nhiều lần (nên dùng các từ thay thế).\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra sự logic giữa hệ quả đã nêu và giải pháp đề xuất (giải pháp phải giải quyết được hệ quả).\n- Rà soát lỗi chính tả và các cấu trúc câu bị động.\n\n**6. Tư duy làm bài:**\n- Hãy phân tích vấn đề dưới góc nhìn của một nhà hoạt động môi trường để bài viết có chiều sâu và sức thuyết phục mạnh mẽ."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about shopping\n\n1\nDo you enjoy going shopping in your free time? Why?\n2\nWhat do you usually buy when you go shopping?\n3\nDo you prefer shopping online or going to a physical store?\n\nNow, let’s talk about your family\n\n4\nWho is the family member you are closest to? Why?\n5\nHow much time do you spend with your family every week?\n6\nDo you think it is important for family members to have meals together? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói kéo dài khoảng 3 phút với 6 câu hỏi cá nhân quen thuộc trong cuộc sống hằng ngày.\n- **Topic A (Shopping):** Các câu hỏi 1–3 tập trung vào thói quen mua sắm, sở thích shopping và cách bạn lựa chọn giữa mua sắm trực tiếp và online.\n- **Topic B (Family):** Các câu hỏi 4–6 tập trung vào mối quan hệ gia đình, thời gian dành cho gia đình và tầm quan trọng của bữa cơm gia đình.\n- Giám khảo sẽ đánh giá dựa trên độ trôi chảy, vốn từ vựng, ngữ pháp và khả năng phát âm tự nhiên.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng giữa Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer – Reason – Example để mở rộng câu trả lời một cách tự nhiên.\n- **Ví dụ Topic A:** I enjoy shopping in my free time because it helps me relax after studying. For example, I often go to shopping malls with my friends on weekends.\n- **Ví dụ Topic B:** I am closest to my mother because she always gives me useful advice and supports me whenever I have difficulties.\n- Luôn tự hỏi “Why?” hoặc “How?” sau mỗi câu trả lời để phát triển ý dài hơn.\n- Khi chuyển chủ đề, bạn có thể dùng câu như: Speaking of family, I think spending time together is extremely important nowadays.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định, không nói quá nhanh và dùng filler tự nhiên để tránh im lặng quá lâu.\n- Với câu hỏi về thói quen mua sắm, nên dùng thì hiện tại đơn như: I usually shop online because...\n- Với câu hỏi so sánh giữa online và trực tiếp, bạn có thể dùng cấu trúc so sánh như: Shopping online is more convenient than going to physical stores.\n- Nếu quên từ vựng, hãy diễn đạt bằng từ đơn giản hơn thay vì dừng lại quá lâu.\n- Vocabulary for Topic A: online shopping (mua sắm trực tuyến), shopping mall (trung tâm thương mại), affordable price (giá cả hợp lý), impulse buying (mua sắm bốc đồng).\n- Vocabulary for Topic B: family bonding (gắn kết gia đình), quality time (thời gian chất lượng), family gathering (buổi họp mặt gia đình), emotional support (sự hỗ trợ tinh thần).\nCụm từ quan trọng nên dùng:\n- browse different products – xem nhiều sản phẩm khác nhau\n- take advantage of discounts – tận dụng khuyến mãi\n- shop for necessities – mua những thứ cần thiết\n- be emotionally close to someone – thân thiết về mặt tình cảm với ai đó\n- strengthen family relationships – củng cố mối quan hệ gia đình\n- share daily experiences – chia sẻ trải nghiệm hằng ngày\nTừ nối khi nói (Linking Words):\n- First of all – trước hết, dùng để mở đầu ý đầu tiên\n- Besides that – bên cạnh đó, dùng để bổ sung ý\n- However – tuy nhiên, dùng để đối lập\n- For example – ví dụ, dùng để minh họa\n- As a result – kết quả là, dùng để nêu kết quả\nCách thể hiện quan điểm tự nhiên:\n- Personally, I think online shopping is more convenient because it saves a lot of time. – Cá nhân tôi nghĩ mua sắm online tiện hơn vì tiết kiệm thời gian.\n- From my perspective, shopping malls are more enjoyable since I can try products directly. – Theo quan điểm của tôi, trung tâm thương mại thú vị hơn vì có thể thử sản phẩm.\n- As far as I am concerned, discounts strongly influence young people when shopping. – Theo tôi, giảm giá ảnh hưởng lớn đến giới trẻ khi mua sắm.\n- I believe family meals help members stay connected emotionally. – Tôi tin rằng bữa cơm gia đình giúp mọi người gắn kết.\n- In my opinion, spending time with family reduces stress after work or study. – Theo tôi, dành thời gian với gia đình giúp giảm căng thẳng.\n- To me, parents play the most important role in emotional support. – Với tôi, cha mẹ đóng vai trò quan trọng nhất trong hỗ trợ tinh thần.\n\n**4. Các lỗi thường gặp:**\n- Trả lời kiểu Yes/No rồi dừng lại là lỗi nghiêm trọng nhất trong Part 1.\n- Nói quá ngắn về Topic A mà không giải thích lý do thích hoặc không thích mua sắm.\n- Chỉ kể tên thành viên gia đình mà không giải thích vì sao thân thiết.\n- Dùng sai thì khi nói về thói quen hằng ngày.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu đệm như: That is an interesting question. Let me think for a moment.\n- Nếu quên từ “wireless earbuds”, bạn có thể nói: earphones without wires.\n- Với Topic A, nếu bí ý hãy nói về giá cả, sự tiện lợi hoặc trải nghiệm cá nhân khi đi mua sắm.\n- Với Topic B, nếu bí ý hãy kể một kỷ niệm gia đình hoặc hoạt động thường làm cùng nhau.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n- Khi chuyển từ Shopping sang Family, hãy thay đổi tư duy từ chủ đề cá nhân sang chủ đề cảm xúc và mối quan hệ.\n- Sự tự nhiên và khả năng duy trì hội thoại quan trọng hơn việc dùng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour best friend is going to celebrate their birthday soon, and you are choosing a special gift.\n\nYou are considering the following options:\n\nOption 1: A handmade gift (like a scrapbook or a knitted scarf)\nOption 2: A high-tech gadget (like a smartwatch or wireless earbuds)\nOption 3: A gift voucher for a favorite clothing store or restaurant\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn chọn món quà sinh nhật phù hợp nhất cho bạn thân.\n- Ba lựa chọn gồm quà handmade, thiết bị công nghệ và voucher mua sắm hoặc ăn uống.\n- Giám khảo sẽ đánh giá khả năng phân tích, so sánh và đưa ra quyết định hợp lý.\n- Thời gian tổng cộng khoảng 4 phút, bạn nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction – Comparison/Body – End để trình bày mạch lạc.\n- Bắt đầu bằng cách giới thiệu ngắn gọn tình huống và mục tiêu chọn món quà ý nghĩa nhất.\n- Option 1 có ưu điểm là mang giá trị tinh thần và thể hiện sự chân thành.\n- Option 2 hiện đại và hữu ích trong cuộc sống hằng ngày nhưng thường khá đắt.\n- Option 3 linh hoạt vì người nhận có thể tự chọn thứ mình thích.\n- Hãy liên hệ với thực tế cuộc sống của sinh viên hoặc người trẻ để lập luận tự nhiên hơn.\n- Dùng từ nối đối lập như however hoặc on the other hand để chuyển ý khi phân tích ưu nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Hãy liên kết các lựa chọn với nhau thay vì nói từng option tách biệt hoàn toàn.\n- Khi nói về sở thích cá nhân hoặc thói quen, dùng hiện tại đơn.\n- Khi giả định kết quả trong tương lai, dùng cấu trúc như: This gift would make my friend feel appreciated.\n- Nếu quên từ “gift voucher”, bạn có thể diễn đạt là a card that allows someone to buy what they want.\nCụm từ quan trọng nên dùng:\n- show appreciation – thể hiện sự trân trọng\n- practical and useful – thiết thực và hữu ích\n- emotionally meaningful – có ý nghĩa về mặt tình cảm\n- fit someone’s preferences – phù hợp với sở thích của ai đó\n- make a lasting impression – để lại ấn tượng lâu dài\n- financially affordable – phù hợp khả năng tài chính\nTừ nối khi nói (Linking Words):\n- First of all – trước tiên\n- In contrast – trái lại\n- Moreover – hơn nữa\n- As a consequence – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I would personally choose the handmade gift because it shows sincerity and effort. – Tôi sẽ chọn quà handmade vì nó thể hiện sự chân thành và công sức.\n- Compared to a gift voucher, a smartwatch seems more practical for daily use. – So với voucher, đồng hồ thông minh thực tế hơn cho cuộc sống hằng ngày.\n- In my opinion, the best gift should match the receiver’s personality and interests. – Theo tôi, món quà tốt nhất nên phù hợp tính cách và sở thích người nhận.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình thích mà không phân tích nhược điểm của các lựa chọn khác.\n- Lặp lại các từ đơn giản như good hoặc bad quá nhiều.\n- Không đưa ra quyết định cuối cùng rõ ràng trong phần kết luận.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng chuyên biệt, hãy chuyển sang nói về giá cả, tính tiện lợi hoặc cảm xúc.\n- Bạn có thể dùng câu đệm như: Let’s evaluate this option from a different perspective.\n- Nếu bí ý ở một lựa chọn, hãy chuyển nhanh sang option tiếp theo thay vì im lặng quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người đưa ra quyết định thực tế và cân bằng giữa cảm xúc với tính hữu ích.\n- Ngay cả với lựa chọn tốt nhất, bạn vẫn nên đề cập một hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of teamwork in modern life\n\nTeamwork\nIncrease work productivity\nExchange ideas and learn new skills\nReduce individual stress and workload\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you prefer working alone or in a group? Why?\n2\nWhat qualities make a person a good team member?\n3\nHow can leaders encourage teamwork among their employees?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về tầm quan trọng của teamwork trong cuộc sống.\n- Ba nhánh chính gồm tăng hiệu suất công việc, trao đổi ý tưởng và giảm áp lực cá nhân.\n- Nhánh thứ tư là ý tưởng cá nhân, bạn có thể nói về teamwork giúp xây dựng kỹ năng giao tiếp và lãnh đạo.\n- Giám khảo sẽ đánh giá độ mạch lạc, phát triển ý tưởng, vốn từ và khả năng trả lời follow-up.\n- Thời gian khoảng 5 phút, trong đó nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho follow-up questions.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Bạn có thể sử dụng cấu trúc IDEA: Introduction – Detail – Example – Add/wrap up.\n- **Ví dụ 1:** Today, I would like to talk about why teamwork plays an essential role in modern life.\n- **Ví dụ 2:** Another important benefit of teamwork is that it helps people improve leadership and communication skills.\n- Khi nói về productivity, hãy đưa ví dụ về làm việc nhóm trong học tập hoặc công ty.\n- Khi nói về exchanging ideas, hãy giải thích rằng nhiều góc nhìn khác nhau giúp giải quyết vấn đề hiệu quả hơn.\n- Luôn đi theo mindmap để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng câu chuyển ý mượt mà giữa các nhánh như: Another important aspect is...\n- Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành khi nói về trải nghiệm tích lũy.\n- Thay vì lặp lại teamwork, bạn có thể dùng cooperation, collaboration hoặc group work.\nCụm từ quan trọng nên dùng:\n- work toward a common goal – làm việc hướng tới mục tiêu chung\n- share responsibilities – chia sẻ trách nhiệm\n- improve communication skills – cải thiện kỹ năng giao tiếp\n- boost overall productivity – tăng năng suất tổng thể\n- solve problems effectively – giải quyết vấn đề hiệu quả\n- build strong relationships – xây dựng mối quan hệ bền vững\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- In addition – ngoài ra\n- For instance – ví dụ\n- As a result – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, teamwork is necessary because modern tasks are becoming more complicated. – Theo tôi, teamwork cần thiết vì công việc hiện đại ngày càng phức tạp.\n- I strongly believe that collaboration helps people become more creative. – Tôi tin mạnh mẽ rằng hợp tác giúp con người sáng tạo hơn.\n- From my perspective, working in teams prepares students for future careers. – Theo góc nhìn của tôi, làm việc nhóm giúp sinh viên chuẩn bị cho nghề nghiệp tương lai.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Do you prefer working alone or in a group?** – I prefer group work because team members can support each other and share ideas.\n- **What qualities make a person a good team member?** – A good team member should be responsible, cooperative and willing to listen to others.\n- **How can leaders encourage teamwork among employees?** – Leaders can organize team-building activities and create a friendly working environment.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích của teamwork mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n- Nói quá dài ở phần main speech khiến thiếu thời gian trả lời follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với trải nghiệm làm việc nhóm ở trường đại học hoặc nơi làm việc.\n- Bạn có thể dùng câu đệm như: That is a complex issue. If we evaluate it from a societal viewpoint...\n- Nếu quên từ chuyên môn, hãy dùng từ đơn giản hoặc mô tả chức năng của nó.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn teamwork từ góc độ xã hội và nhà tuyển dụng thay vì chỉ từ góc nhìn cá nhân.\n- Sự logic và liên kết giữa các ý quan trọng hơn việc dùng từ vựng quá học thuật.\n- Luôn cố gắng đưa ví dụ thực tế để bài nói tự nhiên và thuyết phục hơn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about shopping.\n1.\nDo you enjoy going shopping in your free time? Why?\n2.\nWhat do you usually buy when you go shopping?\n3.\nDo you prefer shopping online or going to a physical store?\nNow, let’s talk about your family.\n4.\nWho is the family member you are closest to? Why?\n5.\nHow much time do you spend with your family every week?\n6.\nDo you think it is important for family members to have meals together? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói kéo dài khoảng 3 phút với 6 câu hỏi cá nhân quen thuộc trong cuộc sống hằng ngày.\n• Topic A (Shopping): Các câu hỏi 1–3 tập trung vào thói quen mua sắm, sở thích shopping và cách bạn lựa chọn giữa\nmua sắm trực tiếp và online.\n• Topic B (Family): Các câu hỏi 4–6 tập trung vào mối quan hệ gia đình, thời gian dành cho gia đình và tầm quan trọng\ncủa bữa cơm gia đình.\n• Giám khảo sẽ đánh giá dựa trên độ trôi chảy, vốn từ vựng, ngữ pháp và khả năng phát âm tự nhiên.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng giữa Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer – Reason – Example để mở rộng câu trả lời một cách tự nhiên.\n• Ví dụ Topic A: I enjoy shopping in my free time because it helps me relax after studying. For example, I often go to\nshopping malls with my friends on weekends.\n• Ví dụ Topic B: I am closest to my mother because she always gives me useful advice and supports me whenever I\nhave difficulties.\n• Luôn tự hỏi “Why?” hoặc “How?” sau mỗi câu trả lời để phát triển ý dài hơn.\n• Khi chuyển chủ đề, bạn có thể dùng câu như: Speaking of family, I think spending time together is extremely important\nnowadays.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định, không nói quá nhanh và dùng filler tự nhiên để tránh im lặng quá lâu.\n• Với câu hỏi về thói quen mua sắm, nên dùng thì hiện tại đơn như: I usually shop online because...\n• Với câu hỏi so sánh giữa online và trực tiếp, bạn có thể dùng cấu trúc so sánh như: Shopping online is more convenient\nthan going to physical stores.\n• Nếu quên từ vựng, hãy diễn đạt bằng từ đơn giản hơn thay vì dừng lại quá lâu.\n• Vocabulary for Topic A: online shopping (mua sắm trực tuyến), shopping mall (trung tâm thương mại), affordable\nprice (giá cả hợp lý), impulse buying (mua sắm bốc đồng).\n• Vocabulary for Topic B: family bonding (gắn kết gia đình), quality time (thời gian chất lượng), family gathering (buổi\nhọp mặt gia đình), emotional support (sự hỗ trợ tinh thần).\nCụm từ quan trọng nên dùng:\n• browse different products – xem nhiều sản phẩm khác nhau\n• take advantage of discounts – tận dụng khuyến mãi\n• shop for necessities – mua những thứ cần thiết\n• be emotionally close to someone – thân thiết về mặt tình cảm với ai đó\n• strengthen family relationships – củng cố mối quan hệ gia đình\n• share daily experiences – chia sẻ trải nghiệm hằng ngày\nTừ nối khi nói (Linking Words):\n• First of all – trước hết, dùng để mở đầu ý đầu tiên\n• Besides that – bên cạnh đó, dùng để bổ sung ý\n• However – tuy nhiên, dùng để đối lập\n• For example – ví dụ, dùng để minh họa\n• As a result – kết quả là, dùng để nêu kết quả\nCách thể hiện quan điểm tự nhiên:\n• Personally, I think online shopping is more convenient because it saves a lot of time. – Cá nhân tôi nghĩ mua sắm\nonline tiện hơn vì tiết kiệm thời gian.\n• From my perspective, shopping malls are more enjoyable since I can try products directly. – Theo quan điểm của tôi,\ntrung tâm thương mại thú vị hơn vì có thể thử sản phẩm.\n• As far as I am concerned, discounts strongly influence young people when shopping. – Theo tôi, giảm giá ảnh hưởng\nlớn đến giới trẻ khi mua sắm.\n• I believe family meals help members stay connected emotionally. – Tôi tin rằng bữa cơm gia đình giúp mọi người\ngắn kết.\n• In my opinion, spending time with family reduces stress after work or study. – Theo tôi, dành thời gian với gia đình\ngiúp giảm căng thẳng.\n• To me, parents play the most important role in emotional support. – Với tôi, cha mẹ đóng vai trò quan trọng nhất\ntrong hỗ trợ tinh thần.\n4. Các lỗi thường gặp:\n• Trả lời kiểu Yes/No rồi dừng lại là lỗi nghiêm trọng nhất trong Part 1.\n• Nói quá ngắn về Topic A mà không giải thích lý do thích hoặc không thích mua sắm.\n• Chỉ kể tên thành viên gia đình mà không giải thích vì sao thân thiết.\n• Dùng sai thì khi nói về thói quen hằng ngày.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu đệm như: That is an interesting question. Let me think for a moment.\n• Nếu quên từ “wireless earbuds”, bạn có thể nói: earphones without wires.\n• Với Topic A, nếu bí ý hãy nói về giá cả, sự tiện lợi hoặc trải nghiệm cá nhân khi đi mua sắm.\n• Với Topic B, nếu bí ý hãy kể một kỷ niệm gia đình hoặc hoạt động thường làm cùng nhau.\n6. Tư duy làm bài nói:\n• Hãy xem Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n• Khi chuyển từ Shopping sang Family, hãy thay đổi tư duy từ chủ đề cá nhân sang chủ đề cảm xúc và mối quan hệ.\n• Sự tự nhiên và khả năng duy trì hội thoại quan trọng hơn việc dùng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYour best friend is going to celebrate their birthday soon, and you are choosing a special gift.\nYou are considering the following options:\n• Option 1: A handmade gift (like a scrapbook or a knitted scarf)\n• Option 2: A high-tech gadget (like a smartwatch or wireless earbuds)\n• Option 3: A gift voucher for a favorite clothing store or restaurant\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn chọn món quà sinh nhật phù hợp nhất cho bạn thân.\n• Ba lựa chọn gồm quà handmade, thiết bị công nghệ và voucher mua sắm hoặc ăn uống.\n• Giám khảo sẽ đánh giá khả năng phân tích, so sánh và đưa ra quyết định hợp lý.\n• Thời gian tổng cộng khoảng 4 phút, bạn nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction – Comparison/Body – End để trình bày mạch lạc.\n• Bắt đầu bằng cách giới thiệu ngắn gọn tình huống và mục tiêu chọn món quà ý nghĩa nhất.\n• Option 1 có ưu điểm là mang giá trị tinh thần và thể hiện sự chân thành.\n• Option 2 hiện đại và hữu ích trong cuộc sống hằng ngày nhưng thường khá đắt.\n• Option 3 linh hoạt vì người nhận có thể tự chọn thứ mình thích.\n• Hãy liên hệ với thực tế cuộc sống của sinh viên hoặc người trẻ để lập luận tự nhiên hơn.\n• Dùng từ nối đối lập như however hoặc on the other hand để chuyển ý khi phân tích ưu nhược điểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Hãy liên kết các lựa chọn với nhau thay vì nói từng option tách biệt hoàn toàn.\n• Khi nói về sở thích cá nhân hoặc thói quen, dùng hiện tại đơn.\n• Khi giả định kết quả trong tương lai, dùng cấu trúc như: This gift would make my friend feel appreciated.\n• Nếu quên từ “gift voucher”, bạn có thể diễn đạt là a card that allows someone to buy what they want.\nCụm từ quan trọng nên dùng:\n• show appreciation – thể hiện sự trân trọng\n• practical and useful – thiết thực và hữu ích\n• emotionally meaningful – có ý nghĩa về mặt tình cảm\n• fit someone’s preferences – phù hợp với sở thích của ai đó\n• make a lasting impression – để lại ấn tượng lâu dài\n• financially affordable – phù hợp khả năng tài chính\nTừ nối khi nói (Linking Words):\n• First of all – trước tiên\n• In contrast – trái lại\n• Moreover – hơn nữa\n• As a consequence – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I would personally choose the handmade gift because it shows sincerity and effort. – Tôi sẽ chọn quà handmade vì\nnó thể hiện sự chân thành và công sức.\n• Compared to a gift voucher, a smartwatch seems more practical for daily use. – So với voucher, đồng hồ thông minh\nthực tế hơn cho cuộc sống hằng ngày.\n• In my opinion, the best gift should match the receiver’s personality and interests. – Theo tôi, món quà tốt nhất nên\nphù hợp tính cách và sở thích người nhận.\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình thích mà không phân tích nhược điểm của các lựa chọn khác.\n• Lặp lại các từ đơn giản như good hoặc bad quá nhiều.\n• Không đưa ra quyết định cuối cùng rõ ràng trong phần kết luận.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng chuyên biệt, hãy chuyển sang nói về giá cả, tính tiện lợi hoặc cảm xúc.\n• Bạn có thể dùng câu đệm như: Let’s evaluate this option from a different perspective.\n• Nếu bí ý ở một lựa chọn, hãy chuyển nhanh sang option tiếp theo thay vì im lặng quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người đưa ra quyết định thực tế và cân bằng giữa cảm xúc với tính hữu ích.\n• Ngay cả với lựa chọn tốt nhất, bạn vẫn nên đề cập một hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The importance of teamwork in modern life\nIncrease work productivity\nExchange ideas and learn new skills\nTeamwork\nÝ tưởng của bạn\nReduce individual stress and workload\nFOLLOW-UP QUESTIONS\n1.\nDo you prefer working alone or in a group? Why?\n2.\nWhat qualities make a person a good team member?\n3.\nHow can leaders encourage teamwork among their employees?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về tầm quan trọng của teamwork trong cuộc sống.\n• Ba nhánh chính gồm tăng hiệu suất công việc, trao đổi ý tưởng và giảm áp lực cá nhân.\n• Nhánh thứ tư là ý tưởng cá nhân, bạn có thể nói về teamwork giúp xây dựng kỹ năng giao tiếp và lãnh đạo.\n• Giám khảo sẽ đánh giá độ mạch lạc, phát triển ý tưởng, vốn từ và khả năng trả lời follow-up.\n• Thời gian khoảng 5 phút, trong đó nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho follow-up\nquestions.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Bạn có thể sử dụng cấu trúc IDEA: Introduction – Detail – Example – Add/wrap up.\n• Ví dụ 1: Today, I would like to talk about why teamwork plays an essential role in modern life.\n• Ví dụ 2: Another important benefit of teamwork is that it helps people improve leadership and communication skills.\n• Khi nói về productivity, hãy đưa ví dụ về làm việc nhóm trong học tập hoặc công ty.\n• Khi nói về exchanging ideas, hãy giải thích rằng nhiều góc nhìn khác nhau giúp giải quyết vấn đề hiệu quả hơn.\n• Luôn đi theo mindmap để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng câu chuyển ý mượt mà giữa các nhánh như: Another important aspect is...\n• Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành khi nói về trải nghiệm tích lũy.\n• Thay vì lặp lại teamwork, bạn có thể dùng cooperation, collaboration hoặc group work.\nCụm từ quan trọng nên dùng:\n• work toward a common goal – làm việc hướng tới mục tiêu chung\n• share responsibilities – chia sẻ trách nhiệm\n• improve communication skills – cải thiện kỹ năng giao tiếp\n• boost overall productivity – tăng năng suất tổng thể\n• solve problems effectively – giải quyết vấn đề hiệu quả\n• build strong relationships – xây dựng mối quan hệ bền vững\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• In addition – ngoài ra\n• For instance – ví dụ\n• As a result – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, teamwork is necessary because modern tasks are becoming more complicated. – Theo tôi, teamwork\ncần thiết vì công việc hiện đại ngày càng phức tạp.\n• I strongly believe that collaboration helps people become more creative. – Tôi tin mạnh mẽ rằng hợp tác giúp con\nngười sáng tạo hơn.\n• From my perspective, working in teams prepares students for future careers. – Theo góc nhìn của tôi, làm việc nhóm\ngiúp sinh viên chuẩn bị cho nghề nghiệp tương lai.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do you prefer working alone or in a group? – I prefer group work because team members can support each other\nand share ideas.\n• What qualities make a person a good team member? – A good team member should be responsible, cooperative\nand willing to listen to others.\n• How can leaders encourage teamwork among employees? – Leaders can organize team-building activities and\ncreate a friendly working environment.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích của teamwork mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n• Nói quá dài ở phần main speech khiến thiếu thời gian trả lời follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với trải nghiệm làm việc nhóm ở trường đại học hoặc nơi làm việc.\n• Bạn có thể dùng câu đệm như: That is a complex issue. If we evaluate it from a societal viewpoint...\n• Nếu quên từ chuyên môn, hãy dùng từ đơn giản hoặc mô tả chức năng của nó.\n7. Tư duy làm bài nói:\n• Hãy nhìn teamwork từ góc độ xã hội và nhà tuyển dụng thay vì chỉ từ góc nhìn cá nhân.\n• Sự logic và liên kết giữa các ý quan trọng hơn việc dùng từ vựng quá học thuật.\n• Luôn cố gắng đưa ví dụ thực tế để bài nói tự nhiên và thuyết phục hơn."
+}

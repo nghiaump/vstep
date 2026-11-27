@@ -1,0 +1,714 @@
+{
+ "id": "vlu-37",
+ "number": 37,
+ "title": "Đề thi VLU 37",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-37",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Different Hobbies of Five Friends",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Lan, Nam, Hoa, Duc, and Mai have been friends since they were eleven years old. They go to the same school in Hue, but they spend their free time in very different ways. Their teachers often say that the group is unusual, because most students choose friends who like the same activities. In this article, we meet the five friends and learn how their different hobbies have made their friendship stronger, and why they say that being different is a good thing.",
+     "Lan loves photography, and she takes her camera everywhere, from the busy market near her home to the quiet river at sunrise. She needs to be **patient**, because a good photo often takes a long time to capture. She has even won a small prize in a school photo contest. Nam, on the other hand, is full of energy, and he plays football for the school team three times a week and dreams of becoming a coach. He says that the game has taught him how to work with other people and how to stay calm when things go wrong.",
+     "Hoa enjoys cooking and has learned many traditional dishes from her grandmother. At weekends, she prepares lunch for the whole family, and her bun bo Hue is so good that the neighbours often ask for the recipe. She hopes to open a small restaurant one day. Duc is a **skilful** guitar player who practises for an hour every evening. He started with an old guitar from his uncle, and now he plays at school concerts and local cafes. He also writes simple songs about his friends and his hometown.",
+     "Mai prefers quiet activities, and the favourite one is growing flowers in the small garden behind the family home. She also reads a lot of novels, and she often shares the best stories with friends at lunchtime. Mai's father taught **her** how to choose seeds and how to look after young plants, and now the garden is full of roses and orchids that bloom in spring and summer. Mai says that working with plants is the best way to relax after a busy week at school.",
+     "Although the five friends enjoy different activities, they meet every Sunday afternoon at Lan's house. Lan shows her newest photos, Nam talks about the latest match he played, Hoa brings a plate of homemade snacks, and Duc plays a new song that he wrote during the week. Mai gives each friend a small flower from the garden, which they put on their desks at school. They agree that having different interests makes their conversations more interesting, because everyone has something new to teach the others. Their friendship shows that people do not need identical hobbies to enjoy each other's company and to support each other."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Football is the most important hobby for every student",
+       "B": "Five friends with different hobbies enjoy learning from each other",
+       "C": "Photography is far too expensive for most young people",
+       "D": "Teachers want students to choose friends with similar interests"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why does Lan need to be patient?",
+      "options": {
+       "A": "Good photographs often take a very long time",
+       "B": "Her camera is old and breaks down very often",
+       "C": "The market near her home is often too crowded",
+       "D": "Sunrise comes very early in the middle of winter"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"patient\" hoặc \"photography\" ở đoạn 2 để thấy Lan cần kiên nhẫn vì một bức ảnh đẹp thường mất nhiều thời gian để chụp (Good photographs often take a very long time)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"patient\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "very excited",
+       "B": "easily bored",
+       "C": "able to wait",
+       "D": "quite angry"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"patient\" ở đoạn 2 đi kèm với lý do chụp ảnh mất nhiều thời gian, mang ý nghĩa có thể chờ đợi, kiên nhẫn (able to wait)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what does Hoa do at weekends?",
+      "options": {
+       "A": "Neighbours buy snacks from her small shop",
+       "B": "Her grandmother visits and cooks for everyone",
+       "C": "She teaches cooking lessons at the local school",
+       "D": "She prepares lunch for the whole family"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"weekends\" hoặc \"cooking\" ở đoạn 3 để xác định việc Hoa làm vào cuối tuần: chuẩn bị bữa trưa cho cả gia đình (She prepares lunch for the whole family)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"skilful\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "forgetful",
+       "B": "talented",
+       "C": "careless",
+       "D": "unhappy"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"skilful\" ở đoạn 3 miêu tả khả năng chơi guitar của Duc qua việc biểu diễn ở các buổi hòa nhạc trường và quán cà phê, đồng nghĩa với có tài, khéo léo (talented)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"her\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Mai",
+       "B": "Hoa",
+       "C": "Lan",
+       "D": "Duc"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung phân tích đại từ \"her\" trong câu \"Mai's father taught *her* how to choose seeds...\" ở đoạn 4. Áp dụng quy tắc quy chiếu ngược lại với danh từ chỉ người vừa được nhắc đến ngay trước đó trong mạch ngữ cảnh để xác định chính là Mai."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what do the friends do every Sunday afternoon?",
+      "options": {
+       "A": "They play football in the school yard",
+       "B": "They visit museums in the city centre",
+       "C": "They study together at the public library",
+       "D": "They meet together at Lan's house"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị thông tin tại đoạn 5 về các cuộc gặp gỡ chiều chủ nhật hàng tuần để nhận ra họ tụ họp tại nhà Lan (They meet together at Lan's house)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned about the friends' Sunday meetings?",
+      "options": {
+       "A": "Lan shows her newest photos to the group",
+       "B": "Nam talks about the latest match he played",
+       "C": "Duc cooks dinner for the whole group",
+       "D": "Mai gives each friend a small garden flower"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án về cuộc gặp chủ nhật ở đoạn 5: Lan khoe ảnh mới (ý A), Nam kể về trận đấu (ý B), và Mai tặng hoa (ý D). Phương án nói về việc Duc nấu bữa tối cho cả nhóm hoàn toàn không xuất hiện trong bài (thực tế Hoa mang đồ ăn vặt nhà làm, còn Duc chơi đàn)."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 4 and 5 about the five friends?",
+      "options": {
+       "A": "Different interests help them learn from each other",
+       "B": "They argue about their hobbies every Sunday",
+       "C": "Only Lan truly values these Sunday meetings",
+       "D": "Mai might leave because gardening feels boring"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ đoạn 4 và đoạn 5 về việc các bạn chia sẻ câu chuyện, âm nhạc, hoa và món ăn trong mỗi buổi chiều chủ nhật để học hỏi lẫn nhau. Từ đó suy luận ra các sở thích khác nhau giúp họ học hỏi lẫn nhau (Different interests help them learn from each other)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to buy a camera and guitar",
+       "B": "To describe five friends and their different hobbies",
+       "C": "To advertise cooking classes in the city of Hue",
+       "D": "To explain the complicated rules of professional football Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc phần mở đầu và kết luận để nắm bắt thông tin tổng quan: đoạn mở đầu giới thiệu 5 người bạn học cùng trường ở Huế với sở thích đa dạng giúp tình bạn thêm gắn kết; các đoạn thân bài lần lượt miêu tả chi tiết sở thích nhiếp ảnh, bóng đá, nấu ăn, chơi guitar và làm vườn; đoạn cuối nhấn mạnh việc có sở thích khác nhau giúp họ học hỏi lẫn nhau. Do đó, đáp án đúng phải khái quát đầy đủ việc 5 người bạn với sở thích khác nhau thích thú học hỏi từ nhau.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R1Q2**, tìm từ khóa \"patient\" hoặc \"photography\" ở đoạn 2 để thấy Lan cần kiên nhẫn vì một bức ảnh đẹp thường mất nhiều thời gian để chụp (Good photographs often take a very long time).\n  - Với **R1Q4**, quét từ khóa \"weekends\" hoặc \"cooking\" ở đoạn 3 để xác định việc Hoa làm vào cuối tuần: chuẩn bị bữa trưa cho cả gia đình (She prepares lunch for the whole family).\n  - Với **R1Q7**, định vị thông tin tại đoạn 5 về các cuộc gặp gỡ chiều chủ nhật hàng tuần để nhận ra họ tụ họp tại nhà Lan (They meet together at Lan's house).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R1Q3**, từ **\"patient\"** ở đoạn 2 đi kèm với lý do chụp ảnh mất nhiều thời gian, mang ý nghĩa có thể chờ đợi, kiên nhẫn (able to wait).\n  - Với **R1Q5**, từ **\"skilful\"** ở đoạn 3 miêu tả khả năng chơi guitar của Duc qua việc biểu diễn ở các buổi hòa nhạc trường và quán cà phê, đồng nghĩa với có tài, khéo léo (talented).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung phân tích đại từ **\"her\"** trong câu \"Mai's father taught *her* how to choose seeds...\" ở đoạn 4. Áp dụng quy tắc quy chiếu ngược lại với danh từ chỉ người vừa được nhắc đến ngay trước đó trong mạch ngữ cảnh để xác định chính là Mai.\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối chiếu từng phương án về cuộc gặp chủ nhật ở đoạn 5: Lan khoe ảnh mới (ý A), Nam kể về trận đấu (ý B), và Mai tặng hoa (ý D). Phương án nói về việc Duc nấu bữa tối cho cả nhóm hoàn toàn không xuất hiện trong bài (thực tế Hoa mang đồ ăn vặt nhà làm, còn Duc chơi đàn).\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ đoạn 4 và đoạn 5 về việc các bạn chia sẻ câu chuyện, âm nhạc, hoa và món ăn trong mỗi buổi chiều chủ nhật để học hỏi lẫn nhau. Từ đó suy luận ra các sở thích khác nhau giúp họ học hỏi lẫn nhau (Different interests help them learn from each other).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi Từ vựng và Quy chiếu đại từ. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý chính xác các câu hỏi Chi tiết và Loại trừ. Cuối cùng, kết nối toàn bộ bức tranh văn bản để hoàn thành các câu hỏi mang tính tổng hợp cao như Ý chính, Mục đích tác giả và Suy luận."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Hanoi: A City with One Thousand Years of History",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In 2010, Hanoi celebrated one thousand years since Emperor Lý Thái Tổ moved the capital to the banks of the Red River and renamed the city Thăng Long, meaning rising dragon. According to legend, the emperor saw a dragon rising from the river as he arrived, which was interpreted as an omen of lasting prosperity. Few capitals in Asia can trace so long a history, and Hanoi wears its past lightly, with ancient pagodas, colonial villas, and modern towers sharing the same streets. The result is a city in which history is part of daily life.",
+     "The Imperial Citadel of Thăng Long, recognised by UNESCO as a World Heritage Site in 2010, offers the clearest evidence of this long continuity. Excavations in the early 2000s revealed layers of foundations, drains, and pottery from successive dynasties, stretching from the seventh century to the nineteenth. Many of Hanoi's **venerable** monuments, such as the One Pillar Pagoda and the Temple of Literature, originate in the early centuries of the capital, although most have been rebuilt several times. Only a small part of the site has been fully explored, and archaeologists expect further discoveries.",
+     "The Old Quarter still preserves much of the commercial character of the medieval city. Its narrow streets were once organised by trade, which explains names such as Hang Bac, meaning silver, and Hang Dao, meaning dyed cloth, and craftsmen from nearby villages sold their goods here under guild rules. Later centuries added Chinese-style shophouses, Vietnamese temples, and French colonial buildings, giving the district an eclectic architecture that few other cities can match.",
+     "The modern history of Hanoi has been turbulent, and its consequences are visible everywhere. The city became the capital of French Indochina in 1902, and the colonial administration introduced wide boulevards, an opera house, and railway links that still shape the centre. After independence was declared in 1945, Hanoi endured decades of conflict, including heavy bombing during the war of the 1960s and 1970s, before becoming the capital of the reunified country in 1976. Economic reforms launched in the late 1980s then brought rapid growth, and the population has expanded to well over eight million.",
+     "Culture remains central to the identity of the city, and its traditions are still very much alive. Street food such as pho, bun cha, and egg coffee attracts visitors from around the world, while villages on the outskirts continue to produce ceramics, silk, and conical hats. In 2019, UNESCO added Hanoi to its Creative Cities Network in the field of design, recognising a growing community of young designers, many of **whom** draw on traditional motifs.",
+     "Success has brought pressures, however, and the city now faces difficult choices. Traffic congestion, air pollution, and rapid construction threaten both quality of life and the historic fabric of the city, and debates continue about how many old buildings and lakeside spaces should be preserved. Planners increasingly argue that heritage is not an obstacle to development but a resource, since it attracts tourism and gives residents a sense of belonging. If this balance can be maintained, Hanoi's second millennium may prove as distinctive as its first."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Colonial rule destroyed every trace of Vietnam's earlier royal heritage",
+       "B": "Modern buildings have completely replaced the medieval streets of Hanoi",
+       "C": "Street food is the single reason travellers choose this capital",
+       "D": "Hanoi's long history remains visible in its monuments, streets, and culture"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what did the emperor reportedly see on arrival?",
+      "options": {
+       "A": "A white horse running beside the river bank",
+       "B": "A dragon ascending from the Red River",
+       "C": "A bright comet crossing the clear evening sky",
+       "D": "A golden temple appearing above the calm water"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"emperor\" và \"arrival\" ở đoạn 1 để thấy vị hoàng đế được cho là đã nhìn thấy một con rồng bay lên từ sông Hồng (\"A dragon ascending from the Red River\")."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"venerable\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "recently built",
+       "B": "badly damaged",
+       "C": "much respected",
+       "D": "widely feared"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"venerable\" ở đoạn 2 đi kèm với các cấu trúc cổ kính, lâu đời mang lại sự tôn kính, đồng nghĩa với rất đáng kính trọng, lâu đời (much respected)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what did excavations in the early 2000s reveal?",
+      "options": {
+       "A": "Layers of foundations, drains, and pottery from several dynasties",
+       "B": "Royal tombs filled with gold, silk, and ancient weapons",
+       "C": "Wooden river boats buried beneath the banks of Hanoi",
+       "D": "A complete library of old manuscripts written during French rule"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"excavations\" ở đoạn 2 để xác định kết quả khai quật đầu những năm 2000: các tầng móng, hệ thống thoát nước và gốm sứ từ nhiều triều đại khác nhau."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"eclectic\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "uniform",
+       "B": "dreary",
+       "C": "modest",
+       "D": "varied"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"eclectic\" ở đoạn 3 miêu tả phong cách kiến trúc kết hợp đa dạng các trường phái (gồm cả đền thờ truyền thống và nhà ống thực dân), đồng nghĩa với phong phú, đa dạng, pha trộn (varied)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"whom\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Foreign visitors",
+       "B": "Local craftsmen",
+       "C": "Young designers",
+       "D": "UNESCO officials"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung phân tích đại từ quan hệ \"whom\" trong mệnh đề bổ nghĩa ở đoạn 5 (như \"young designers, *whom* the city now celebrates...\"). Đối chiếu ngược lại với danh từ chỉ người đứng ngay trước đó trong mạch ngữ cảnh để xác định chính là các nhà thiết kế trẻ (Young designers)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what happened to Hanoi in 1976?",
+      "options": {
+       "A": "It lost its status as national capital to Saigon",
+       "B": "It became the capital of the reunified country",
+       "C": "It was renamed in honour of a French governor",
+       "D": "It hosted the first modern Olympic Games in Asia"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị thông tin tại đoạn 4 về năm 1976 để xác định Hà Nội trở thành thủ đô của đất nước thống nhất."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned about the Old Quarter?",
+      "options": {
+       "A": "French engineers planned the whole district layout",
+       "B": "Its streets were once organised according to trade",
+       "C": "Craftsmen from nearby villages sold their goods there",
+       "D": "Shophouses and temples share the same narrow streets"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án về Phố cổ ở đoạn 3: đường phố từng được tổ chức theo phường nghề (ý B), thợ thủ công từ các làng lân cận đến bán hàng (ý C), và các cửa hàng kết hợp nhà ở xen kẽ với đền thờ (ý D). Phương án nhắc đến việc kỹ sư Pháp lên kế hoạch toàn bộ bố cục quận hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about modern Hanoi?",
+      "options": {
+       "A": "Foreign visitors now outnumber residents in the historic centre",
+       "B": "Economic reforms have destroyed traditional crafts around the city",
+       "C": "Hanoi balances historical continuity with rapid change and growing pressure",
+       "D": "Heritage conservation is considered impossible by most city planners"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc Hà Nội vừa giữ gìn di sản truyền thống, vừa đối mặt với áp lực phát triển đô thị nhanh chóng và những đổi mới kinh tế. Từ đó suy luận ra Hà Nội luôn biết cách cân bằng giữa tính liên tục của lịch sử với sự thay đổi nhanh chóng và áp lực gia tăng."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade foreign firms to build new industrial parks near Hanoi",
+       "B": "To compare the history of Hanoi with other capitals in Asia",
+       "C": "To describe the daily routine of Hanoi street food sellers",
+       "D": "To explain how Hanoi's past continues to shape the city Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nhận diện mạch nội dung: đoạn 1 và 2 giới thiệu nguồn gốc lịch sử lâu đời và Hoàng thành Thăng Long; đoạn 3 mô tả khu Phố cổ với kiến trúc đa dạng và các phố nghề; đoạn 4 và 5 bàn về giai đoạn lịch sử hiện đại, sự kiện năm 1976 và sự trỗi dậy của các nhà thiết kế trẻ cùng sự phát triển đương đại; đoạn 6 kết luận về sự cân bằng giữa quá khứ và tương lai. Do đó, đáp án đúng phải khái quát đầy đủ việc bề dày lịch sử của Hà Nội vẫn hiện hữu rõ nét qua các di tích, tuyến phố và văn hóa.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện:\n  - Với **R2Q2**, tìm từ khóa \"emperor\" và \"arrival\" ở đoạn 1 để thấy vị hoàng đế được cho là đã nhìn thấy một con rồng bay lên từ sông Hồng (\"A dragon ascending from the Red River\").\n  - Với **R2Q4**, quét từ khóa \"excavations\" ở đoạn 2 để xác định kết quả khai quật đầu những năm 2000: các tầng móng, hệ thống thoát nước và gốm sứ từ nhiều triều đại khác nhau.\n  - Với **R2Q7**, định vị thông tin tại đoạn 4 về năm 1976 để xác định Hà Nội trở thành thủ đô của đất nước thống nhất.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R2Q3**, từ **\"venerable\"** ở đoạn 2 đi kèm với các cấu trúc cổ kính, lâu đời mang lại sự tôn kính, đồng nghĩa với rất đáng kính trọng, lâu đời (much respected).\n  - Với **R2Q5**, từ **\"eclectic\"** ở đoạn 3 miêu tả phong cách kiến trúc kết hợp đa dạng các trường phái (gồm cả đền thờ truyền thống và nhà ống thực dân), đồng nghĩa với phong phú, đa dạng, pha trộn (varied).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung phân tích đại từ quan hệ **\"whom\"** trong mệnh đề bổ nghĩa ở đoạn 5 (như \"young designers, *whom* the city now celebrates...\"). Đối chiếu ngược lại với danh từ chỉ người đứng ngay trước đó trong mạch ngữ cảnh để xác định chính là các nhà thiết kế trẻ (Young designers).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối chiếu từng phương án về Phố cổ ở đoạn 3: đường phố từng được tổ chức theo phường nghề (ý B), thợ thủ công từ các làng lân cận đến bán hàng (ý C), và các cửa hàng kết hợp nhà ở xen kẽ với đền thờ (ý D). Phương án nhắc đến việc kỹ sư Pháp lên kế hoạch toàn bộ bố cục quận hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc Hà Nội vừa giữ gìn di sản truyền thống, vừa đối mặt với áp lực phát triển đô thị nhanh chóng và những đổi mới kinh tế. Từ đó suy luận ra Hà Nội luôn biết cách cân bằng giữa tính liên tục của lịch sử với sự thay đổi nhanh chóng và áp lực gia tăng.\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi Từ vựng và Quy chiếu đại từ. Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý chính xác các câu hỏi Chi tiết và Loại trừ. Cuối cùng, kết nối toàn bộ bức tranh văn bản để hoàn thành các câu hỏi mang tính tổng hợp cao như Ý chính, Mục đích tác giả và Suy luận."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Who Learns English More Effectively: Adults or Children?",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Many people believe that children learn foreign languages more easily than adults, and this belief shapes how schools, parents, and governments plan language education. Parents in Vietnam, for example, often enrol their children in English classes at the age of five or six because they fear that waiting will make the task harder. Yet the scientific evidence is more complicated than popular opinion tends to suggest today.",
+     "Children do have genuine advantages in some areas, and the clearest of these is pronunciation. Those who begin learning in early childhood are far more likely to speak without a noticeable foreign accent, and many researchers attribute this to an **innate** sensitivity to speech sounds that declines after puberty. Young learners also feel less embarrassed about making mistakes, so they speak more freely, practise more often, and absorb new expressions through play rather than formal study.",
+     "Adults, however, have strengths of their own. They already understand how grammar works in their first language, so they can grasp rules, patterns, and vocabulary more quickly in the early stages. In classroom experiments, older learners often outperform younger ones during the first months of study, partly because they can concentrate for longer and use deliberate strategies such as note-taking and self-testing. Their greater life experience also helps them to guess meaning from context.",
+     "Researchers who compare the two groups usually find that the setting matters at least as much as the age of the learner. **[1]** A child who moves to a new country is surrounded by the language at school, in shops, and on the playground for many hours each day. **[2]** As a result, many adults progress slowly despite working hard, and they often blame their age rather than their timetable. **[3]** Adults who live in the target country and use the language every day, however, usually improve much faster than classroom learners. **[4]** Studies of immigrants suggest that daily use matters more than starting age for everyday communication.",
+     "The idea that there is a critical period for language learning is usually traced to the neurologist Eric Lenneberg. Writing in the 1960s, **he** proposed that the brain becomes less flexible around puberty, and later studies of immigrants have shown that those who arrive in childhood tend to reach higher levels of accuracy. Most specialists now see this as a gradual decline rather than a sudden closing. The pattern also varies considerably between individuals.",
+     "Motivation and opportunity may be the decisive factors in the long run. Adults who study for professional reasons often show remarkable persistence, and when they receive sustained support over several years, the gap in everyday communication can be **negligible**. Even so, reaching a fully native-like accent remains rare among those who start late, which suggests that biology and environment both play a part.",
+     "In practical terms, both groups can succeed if the learning environment is well designed. Teachers should give young children plenty of play-based listening and speaking, whereas adults benefit from explicit explanations, realistic goals, and regular contact with native speakers. Rather than asking who learns better, educators would do well to ask how each learner can be given the time, support, and confidence to keep going."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Age affects language learning in complex ways, but environment and motivation matter greatly",
+       "B": "Children always learn foreign languages faster than adults in every situation",
+       "C": "Adults should avoid English study because their brains cannot adapt anymore",
+       "D": "Language classes for young children are too expensive for most families"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, in which area do children have a clear advantage?",
+      "options": {
+       "A": "Understanding complex grammar rules and abstract vocabulary",
+       "B": "Concentrating for long periods during classroom lessons",
+       "C": "Speaking without a noticeable foreign accent",
+       "D": "Remembering long lists of vocabulary items quickly"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"pronunciation\" hoặc \"advantage\" ở đoạn 2 để thấy trẻ em có ưu thế rõ ràng trong việc nói không bị vướng điểm nhấn hay phát âm chuẩn bản xứ (Speaking without a noticeable foreign accent)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"innate\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "forgotten",
+       "B": "expensive",
+       "C": "artificial",
+       "D": "inborn"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"innate\" ở đoạn 2 miêu tả độ nhạy cảm tự nhiên với âm thanh lời nói có từ khi sinh ra, đồng nghĩa với bẩm sinh (inborn)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such constant exposure, however, is rarely available to adults who study for only a few hours each week.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": null,
+      "type": "Chèn câu",
+      "explanation": null
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what helps adults learn rules and vocabulary quickly?",
+      "options": {
+       "A": "A natural talent for copying unfamiliar sounds exactly",
+       "B": "Fewer worries about making mistakes in front of others",
+       "C": "An early start in primary school classes",
+       "D": "Their understanding of grammar in their first language"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"rules and vocabulary quickly\" ở đoạn 3 để xác định nhờ vào việc họ đã hiểu cách ngữ pháp hoạt động trong ngôn ngữ mẹ đẻ của mình."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"he\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Eric Lenneberg",
+       "B": "A young learner",
+       "C": "An adult immigrant",
+       "D": "A classroom teacher"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung phân tích đại từ \"he\" trong câu \"Writing in the 1960s, *he* proposed...\" ở đoạn 5. Đối chiếu ngược lại với danh từ chỉ nhà thần kinh học được nhắc đến ở câu ngay trước đó để xác định chính là Eric Lenneberg."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"negligible\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "dramatic",
+       "B": "minimal",
+       "C": "permanent",
+       "D": "puzzling"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"negligible\" ở đoạn 6 đi kèm với khoảng cách biệt về giao tiếp hàng ngày giữa người lớn và trẻ em khi có đủ thời gian và hỗ trợ, mang ý nghĩa rất nhỏ, không đáng kể, đồng nghĩa với \"minimal\"."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned about language learning?",
+      "options": {
+       "A": "Adults often blame their age instead of their timetable",
+       "B": "Children hear the language for many hours each day",
+       "C": "Most adults have private tutors at home",
+       "D": "Daily use of English helps immigrants improve faster"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án với đoạn 4: người lớn thường đổ lỗi cho tuổi tác thay vì thời gian biểu (ý A), trẻ em nghe ngôn ngữ nhiều giờ mỗi ngày (ý B), và việc sử dụng tiếng Anh hàng ngày giúp người nhập cư tiến bộ nhanh hơn (ý D). Phương án nhắc đến việc hầu hết người lớn đều có gia sư riêng tại nhà hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 5, 6, and 7 about adult language learners?",
+      "options": {
+       "A": "Adults can reach high proficiency given enough support, time, and regular practice",
+       "B": "Adults should never begin studying a foreign language after puberty",
+       "C": "Young learners cannot benefit from structured classroom lessons at all",
+       "D": "Native-like accents are easily achieved by learners who start late"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5, 6 và 7 cho thấy người lớn hoàn toàn có thể đạt trình độ cao nếu nhận đủ sự hỗ trợ, thời gian và thực hành thường xuyên. Từ đó suy luận ra người lớn có thể đạt được độ thành thạo cao với đủ sự hỗ trợ, thời gian và luyện tập đều đặn."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade parents to enrol toddlers in expensive English programmes abroad",
+       "B": "To criticise teachers who use outdated methods when instructing older immigrant students",
+       "C": "To describe how the human brain stores memories during sleep",
+       "D": "To examine how age and context influence success in language learning Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nhận diện mạch nội dung: đoạn 1 giới thiệu niềm tin phổ biến và thực tế phức tạp hơn; đoạn 2 bàn về lợi thế của trẻ em (phát âm, ít sợ sai); đoạn 3 nêu thế mạnh của người lớn (hiểu ngữ pháp, tập trung, chiến lược học); đoạn 4 nói về tầm quan trọng của môi trường và thời gian tiếp xúc; đoạn 5 đề cập đến lý thuyết thời kỳ tới hạn của Eric Lenneberg; đoạn 6 và 7 nhấn mạnh vai trò của động lực, sự hỗ trợ và môi trường. Do đó, đáp án đúng phải khái quát đầy đủ việc độ tuổi ảnh hưởng phức tạp nhưng môi trường và động lực đóng vai trò rất lớn.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện:\n  - Với **R3Q2**, tìm từ khóa \"pronunciation\" hoặc \"advantage\" ở đoạn 2 để thấy trẻ em có ưu thế rõ ràng trong việc nói không bị vướng điểm nhấn hay phát âm chuẩn bản xứ (Speaking without a noticeable foreign accent).\n  - Với **R3Q4** (Điền câu văn vào vị trí trống), đọc kỹ câu cần chèn: \"Such constant exposure, however, is rarely available to adults who study for only a few hours each week.\" (Tuy nhiên, sự tiếp xúc liên tục như vậy hiếm khi có được ở người lớn, những người chỉ học vài giờ mỗi tuần). Quan sát đoạn 4: vị trí [2] nằm ngay sau câu mô tả đứa trẻ chuyển đến nước mới được vây quanh bởi ngôn ngữ cả ngày và ngay trước câu giải thích kết quả người lớn tiến bộ chậm dù làm việc chăm chỉ (tạo sự đối lập hoàn hảo với từ \"As a result\" ở ngay sau vị trí [2]), giúp câu chèn khớp vị trí [2] chính xác.\n  - Với **R3Q5**, quét từ khóa \"rules and vocabulary quickly\" ở đoạn 3 để xác định nhờ vào việc họ đã hiểu cách ngữ pháp hoạt động trong ngôn ngữ mẹ đẻ của mình.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R3Q3**, từ **\"innate\"** ở đoạn 2 miêu tả độ nhạy cảm tự nhiên với âm thanh lời nói có từ khi sinh ra, đồng nghĩa với bẩm sinh (inborn).\n  - Với **R3Q7**, từ **\"negligible\"** ở đoạn 6 đi kèm với khoảng cách biệt về giao tiếp hàng ngày giữa người lớn và trẻ em khi có đủ thời gian và hỗ trợ, mang ý nghĩa rất nhỏ, không đáng kể, đồng nghĩa với \"minimal\".\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung phân tích đại từ **\"he\"** trong câu \"Writing in the 1960s, *he* proposed...\" ở đoạn 5. Đối chiếu ngược lại với danh từ chỉ nhà thần kinh học được nhắc đến ở câu ngay trước đó để xác định chính là Eric Lenneberg.\n- **Dạng câu hỏi Loại trừ NOT (R3Q8):** Đối chiếu từng phương án với đoạn 4: người lớn thường đổ lỗi cho tuổi tác thay vì thời gian biểu (ý A), trẻ em nghe ngôn ngữ nhiều giờ mỗi ngày (ý B), và việc sử dụng tiếng Anh hàng ngày giúp người nhập cư tiến bộ nhanh hơn (ý D). Phương án nhắc đến việc hầu hết người lớn đều có gia sư riêng tại nhà hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 5, 6 và 7 cho thấy người lớn hoàn toàn có thể đạt trình độ cao nếu nhận đủ sự hỗ trợ, thời gian và thực hành thường xuyên. Từ đó suy luận ra người lớn có thể đạt được độ thành thạo cao với đủ sự hỗ trợ, thời gian và luyện tập đều đặn.\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi Từ vựng, Quy chiếu và Câu hỏi chèn câu (R3Q4) để tận dụng ngữ cảnh cấu trúc. Tiếp theo, dùng kỹ thuật đọc quét để xử lý chính xác các câu Chi tiết và Loại trừ. Cuối cùng, kết nối toàn bộ bức tranh văn bản để hoàn thành các câu hỏi mang tính tổng hợp cao như Ý chính, Mục đích tác giả và Suy luận."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "What Human Waste Can Teach Scientists",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few subjects make people as **squeamish** as human waste, and most of us flush it away without a second thought. Yet scientists increasingly regard faeces and sewage as rich sources of information, since they carry traces of everything from infections and diet to medication and illegal drugs. What was once a problem to be disposed of has become a valuable record of public health.",
+     "The best-known application of this approach is wastewater surveillance, which has expanded rapidly in recent years. Because infected people excrete viruses and bacteria, samples taken from sewage treatment plants can reveal how a disease is spreading through an entire community, without anyone needing to visit a clinic. Poliovirus has been tracked in this way for decades, and during the COVID-19 pandemic many countries monitored genetic traces of the coronavirus in sewage, which in some places signalled rising infections days before hospitals reported them. The approach is cheap, fast, and independent of whether people seek medical care.",
+     "The same technique can also reveal what a community consumes, which interests health and police authorities alike. **[1]** Every year, researchers in dozens of European cities measure chemical residues of cocaine, cannabis, and amphetamines in wastewater, and the findings are published in comparative reports. **[2]** Estimates of drug use have traditionally come from household questionnaires, which are inexpensive to circulate. **[3]** Wastewater analysis avoids this problem, since it measures what is actually excreted by everyone connected to the system. **[4]** Its limitation is that it cannot identify individuals, which is why privacy experts favour sampling large catchment areas. Human faeces are equally informative at the individual level, because every sample is a snapshot of the gut. A single sample contains billions of microorganisms, and large projects have shown that the composition of this gut community differs with diet, age, and health. Researchers have linked unusual patterns to conditions such as obesity, diabetes, and inflammatory bowel disease, although in most cases it remains unclear whether the bacteria cause the illness or merely reflect it. Such findings have encouraged companies to market home testing kits, though their predictions remain unreliable.",
+     "The most dramatic medical use is the faecal microbiota transplant, in which material from a healthy donor is introduced into the bowel of a sick person. It is now an established treatment for recurrent Clostridioides difficile infection, and clinical trials have reported cure rates far higher than those achieved with antibiotics alone in patients **who** had suffered repeated relapses. Scientists are testing similar transplants for other disorders, but results so far have been mixed.",
+     "Human waste also helps archaeologists to reconstruct the distant past in remarkable detail. Fossilised droppings, known as coprolites, preserve seeds, bones, fibres, and even DNA, allowing researchers to identify what ancient people ate and which parasites infected them. Analyses of material from several prehistoric sites suggest that early farming communities often suffered from intestinal worms, and that diets varied far more with the seasons than historians once assumed.",
+     "Finally, sewage is increasingly seen as a resource rather than merely a hazard. Treatment plants can capture methane to generate electricity, recover phosphorus for fertiliser, and even produce dried biosolids for farmland, although investment in such technology has been **sporadic** and public acceptance remains uneven. The scientific value of human waste, in other words, is matched by its practical potential, and both will grow if societies can overcome their reluctance to look at what they leave behind."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Wastewater monitoring has replaced hospitals as the source of disease data",
+       "B": "Ancient droppings prove that prehistoric farmers had healthier diets than modern people",
+       "C": "Faecal transplants are a safe cure for every disease affecting the gut",
+       "D": "Human waste offers valuable information for medicine, public health, history, and resource recovery"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, why can sewage samples reveal how a disease is spreading?",
+      "options": {
+       "A": "Clinics send patient records to sewage treatment plants",
+       "B": "Infected people excrete viruses and bacteria",
+       "C": "Hospitals refuse to report new cases promptly",
+       "D": "Sewage contains chemicals that kill dangerous germs quickly"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"sewage samples\" hoặc \"disease is spreading\" ở đoạn 2 để thấy người bệnh bài tiết virus và vi khuẩn qua chất thải giúp mẫu nước thải phản ánh tình trạng lây lan bệnh."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"squeamish\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "easily disgusted",
+       "B": "deeply curious",
+       "C": "quite careless",
+       "D": "mildly amused"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"squeamish\" ở đoạn 1 đi kèm với cảm giác e dè, khó chịu khi nghĩ đến chất thải con người, mang nghĩa dễ thấy ghê tởm, dễ nản lòng (easily disgusted)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such questionnaires, however, depend on respondents being honest about illegal behaviour.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": null,
+      "type": "Chèn câu",
+      "explanation": null
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what have researchers linked to unusual patterns of gut bacteria?",
+      "options": {
+       "A": "Health conditions including obesity, diabetes, and inflammatory bowel disease",
+       "B": "Shortages of clean water in rapidly growing coastal cities",
+       "C": "Sudden changes in the rainfall patterns affecting tropical farming regions",
+       "D": "Increased resistance to common antibiotics among hospital patients"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 36,
+      "stem": "The word \"who\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Donors",
+       "B": "Doctors",
+       "C": "Researchers",
+       "D": "Patients"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung phân tích đại từ quan hệ \"who\" trong mệnh đề bổ nghĩa ở đoạn 5 (như \"patients *who* had suffered repeated relapses\"). Đối chiếu ngược lại với danh từ chỉ người đứng ngay trước đó trong mạch ngữ cảnh để xác định chính là bệnh nhân (Patients)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"sporadic\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "constant",
+       "B": "irregular",
+       "C": "generous",
+       "D": "impressive"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"sporadic\" ở đoạn 7 đi kèm với việc đầu tư vào công nghệ thu hồi tài nguyên còn rời rạc, không thường xuyên, đồng nghĩa với không đều đặn (irregular)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned about coprolites?",
+      "options": {
+       "A": "They preserve seeds, bones, fibres, and even DNA",
+       "B": "Parasites that infected ancient people can be identified",
+       "C": "They were all discovered in Egypt",
+       "D": "Diets seem to have changed with the seasons"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng phương án về coprolites ở đoạn 6: bảo tồn hạt, xương, sợi và DNA (ý A); xác định ký sinh trùng lây nhiễm (ý B); chế độ ăn thay đổi theo mùa (ý D). Phương án khẳng định tất cả chúng đều được phát hiện ở Ai Cập hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 5, 6, and 7 about human waste?",
+      "options": {
+       "A": "Faecal transplants have now made antibiotics unnecessary for all bacterial infections",
+       "B": "Archaeologists prefer droppings to written records because they are always more accurate",
+       "C": "Treatment plants cannot recover any useful materials from the sewage they process",
+       "D": "Its scientific and practical value is substantial, yet public reluctance limits wider use"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5, 6 và 7 cho thấy chất thải có giá trị khoa học và thực tiễn to lớn, tuy nhiên sự miễn cưỡng của công chúng vẫn đang hạn chế việc ứng dụng rộng rãi hơn. Từ đó suy luận ra giá trị khoa học và thực tiễn của nó rất lớn nhưng sự e ngại của công chúng kìm hãm việc sử dụng rộng rãi. Lời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi Từ vựng, Quy chiếu và Câu hỏi chèn câu (R4Q4) để tận dụng ngữ cảnh cấu trúc. Tiếp theo, dùng kỹ thuật đọc quét để xử lý nhanh các câu Chi tiết và Loại trừ. Cuối cùng, kết nối toàn bộ bức tranh văn bản để hoàn thành các câu hỏi mang tính tổng hợp cao như Ý chính, Mục đích tác giả và Suy luận."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To show how scientists learn valuable information from human waste",
+       "B": "To warn readers about dangerous diseases spreading through city sewage",
+       "C": "To argue that governments should ban all home testing kits immediately",
+       "D": "To compare ancient farming methods with modern agricultural practice"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nhận diện mạch nội dung: đoạn 1 giới thiệu chất thải không chỉ là rác mà là nguồn thông tin y tế công cộng phong phú; đoạn 2 bàn về giám sát nước thải; đoạn 3 nói về việc theo dõi tiêu thụ chất cấm; đoạn 4 đề cập đến vi sinh vật đường ruột; đoạn 5 nói về cấy ghép hệ vi sinh phân; đoạn 6 bàn về phân hóa thạch (coprolites) giúp khảo cổ học hiểu quá khứ; đoạn 7 kết luận về tiềm năng thu hồi năng lượng, tài nguyên nhưng còn vấp phải sự e ngại của công cộng. Do đó, đáp án đúng phải khái quát đầy đủ việc chất thải mang lại thông tin giá trị cho y tế, sức khỏe, lịch sử và thu hồi tài nguyên.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện:\n  - Với **R4Q2**, tìm từ khóa \"sewage samples\" hoặc \"disease is spreading\" ở đoạn 2 để thấy người bệnh bài tiết virus và vi khuẩn qua chất thải giúp mẫu nước thải phản ánh tình trạng lây lan bệnh.\n  - Với **R4Q4** (Điền câu văn vào vị trí trống), đọc kỹ câu cần chèn: 'Such questionnaires, however, depend on respondents being honest about illegal behaviour.' (Tuy nhiên, các bảng hỏi như vậy phụ thuộc vào việc người trả lời thành thật về hành vi phạm pháp). Quan sát đoạn 3: vị trí [3] nằm ngay sau câu nói về việc ước tính sử dụng ma túy truyền thống dựa trên bảng hỏi hộ gia đình và ngay trước câu \"Wastewater analysis avoids this problem...\" (Phân tích nước thải tránh được vấn đề này...), tạo nên mối liên kết quy chiếu logic hoàn hảo cho vị trí [3].\n  - With **R4Q5**, quét từ khóa \"unusual patterns of gut bacteria\" ở đoạn 4 để xác định các trạng thái liên quan như béo phì, tiểu đường và bệnh viêm ruột.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R4Q3**, từ **\"squeamish\"** ở đoạn 1 đi kèm với cảm giác e dè, khó chịu khi nghĩ đến chất thải con người, mang nghĩa dễ thấy ghê tởm, dễ nản lòng (easily disgusted).\n  - Với **R4Q7**, từ **\"sporadic\"** ở đoạn 7 đi kèm với việc đầu tư vào công nghệ thu hồi tài nguyên còn rời rạc, không thường xuyên, đồng nghĩa với không đều đặn (irregular).\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung phân tích đại từ quan hệ **\"who\"** trong mệnh đề bổ nghĩa ở đoạn 5 (như \"patients *who* had suffered repeated relapses\"). Đối chiếu ngược lại với danh từ chỉ người đứng ngay trước đó trong mạch ngữ cảnh để xác định chính là bệnh nhân (Patients).\n- **Dạng câu hỏi Loại trừ NOT (R4Q8):** Đối chiếu từng phương án về coprolites ở đoạn 6: bảo tồn hạt, xương, sợi và DNA (ý A); xác định ký sinh trùng lây nhiễm (ý B); chế độ ăn thay đổi theo mùa (ý D). Phương án khẳng định tất cả chúng đều được phát hiện ở Ai Cập hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 5, 6 và 7 cho thấy chất thải có giá trị khoa học và thực tiễn to lớn, tuy nhiên sự miễn cưỡng của công chúng vẫn đang hạn chế việc ứng dụng rộng rãi hơn. Từ đó suy luận ra giá trị khoa học và thực tiễn của nó rất lớn nhưng sự e ngại của công chúng kìm hãm việc sử dụng rộng rãi. Lời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi Từ vựng, Quy chiếu và Câu hỏi chèn câu (R4Q4) để tận dụng ngữ cảnh cấu trúc. Tiếp theo, dùng kỹ thuật đọc quét để xử lý nhanh các câu Chi tiết và Loại trừ. Cuối cùng, kết nối toàn bộ bức tranh văn bản để hoàn thành các câu hỏi mang tính tổng hợp cao như Ý chính, Mục đích tác giả và Suy luận."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your friend, Tom.\nHe and his group of friends are planning to visit your country from July 1st and would like some travel suggestions from you.\nTom said that they wanted to have an exciting trip and avoid boring tourist activities.\n- Recommend some interesting places for them to visit.\n- Advise them whether they should travel by public trains or by bicycle.\n- Suggest some fun activities because Tom said: “No boring, please!”\nWrite an email responding to Tom. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your friend, Tom.",
+      "He and his group of friends are planning to visit your country from July 1st and would like some travel suggestions from you."
+     ],
+     "quote": [
+      "Tom said that they wanted to have an exciting trip and avoid boring tourist activities.",
+      "- Recommend some interesting places for them to visit.",
+      "- Advise them whether they should travel by public trains or by bicycle.",
+      "- Suggest some fun activities because Tom said: “No boring, please!”"
+     ],
+     "instruction": "Write an email responding to Tom. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** gửi cho bạn bè nên giọng văn cần thân thiện, tự nhiên và mang tính trò chuyện.\n- Đề bài yêu cầu trả lời đủ 3 ý chính: giới thiệu địa điểm thú vị, tư vấn phương tiện di chuyển và gợi ý các hoạt động vui vẻ, không nhàm chán.\n- Chi tiết “No boring, please!” cho thấy bạn nên đưa ra các hoạt động năng động, thú vị và mang tính trải nghiệm.\n- Bạn nên viết khoảng 140–180 từ để có đủ không gian phát triển ý.\n- Nên sử dụng các ví dụ cụ thể như chợ đêm, phố đi bộ, bãi biển, công viên giải trí hoặc địa điểm có hoạt động ngoài trời.\n- Không nên chỉ liệt kê địa điểm mà cần giải thích vì sao chúng thú vị.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Bắt đầu bằng “Dear Tom,” hoặc “Hi Tom,”.\n- **Opening:** Thể hiện sự hào hứng khi bạn của bạn sắp đến thăm. Ví dụ: “I’m really excited that you and your friends are coming to my country.”\n- **Body paragraph 1:** Gợi ý các địa điểm nổi bật và thú vị. Ví dụ: “You should definitely visit the night market and the beach area.”\n- **Body paragraph 2:** Tư vấn phương tiện di chuyển. Có thể so sánh public trains và bicycles dựa trên sự tiện lợi hoặc trải nghiệm.\n- **Body paragraph 3:** Gợi ý các hoạt động vui như street food tours, camping, cycling tours hoặc live music events.\n- **Closing:** Kết thúc tích cực. Ví dụ: “I’m sure you will have an unforgettable trip here.”\n- **Sign-off:** Sử dụng “Best wishes,” hoặc “See you soon,”.\n- Mỗi đoạn chỉ nên dài 2–3 câu để bài viết rõ ràng và logic.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì tương lai đơn khi nói về chuyến đi sắp tới.\n- Kết hợp các cấu trúc gợi ý như “You should…”, “I recommend…”, “It would be better to…”.\n- Tránh lặp từ “interesting” bằng các từ thay thế như “exciting”, “amazing”, “memorable” hoặc “fun”.\n- Sử dụng các cụm từ miêu tả du lịch để tăng điểm Vocabulary.\n- Kết hợp câu đơn và câu phức để bài viết tự nhiên hơn.\n- Dùng từ nối để liên kết ý thay vì viết các câu rời rạc.\nTừ vựng quan trọng:\n- **Public transportation:** phương tiện giao thông công cộng\n- **Night market:** chợ đêm\n- **Sightseeing:** tham quan\n- **Street food tour:** tour khám phá ẩm thực đường phố\n- **Adventure activities:** hoạt động mạo hiểm\n- **Cycling trip:** chuyến đi bằng xe đạp\n- **Tourist attraction:** điểm du lịch hấp dẫn\n- **Local culture:** văn hóa địa phương\nTừ nối (Linking words):\n- **First of all:** trước hết\n- **Moreover:** hơn nữa\n- **In addition:** thêm vào đó\n- **However:** tuy nhiên\n- **As a result:** kết quả là\n- **Finally:** cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I’m sure you’ll love it:** mình chắc chắn bạn sẽ thích nó\n- **You’re going to have so much fun:** bạn sẽ có rất nhiều niềm vui\n- **I can’t wait to show you around:** mình rất mong được dẫn bạn đi chơi\n- **The trip will be unforgettable:** chuyến đi sẽ rất khó quên\n\n**4. Các lỗi thường gặp:**\n- Không trả lời đủ cả 3 yêu cầu của đề bài.\n- Chỉ liệt kê địa điểm mà không giải thích vì sao thú vị.\n- Dùng từ vựng quá đơn giản như “good” hoặc “nice” quá nhiều lần.\n- Viết thiếu mở bài hoặc kết bài.\n- Dùng sai thì động từ khi nói về kế hoạch tương lai.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã trả lời đầy đủ các bullet points chưa.\n- Đảm bảo bài có đủ mở đầu và kết thúc email.\n- Kiểm tra lỗi chính tả và chia động từ.\n- Kiểm tra số lượng từ đã trên 120 từ chưa.\n- Đọc lại để xem các ý đã liên kết logic chưa.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang thật sự lên kế hoạch du lịch cho bạn bè.\n- Ưu tiên các ý tưởng thực tế, thú vị và dễ phát triển.\n- Không cần dùng quá nhiều từ khó; sự rõ ràng và tự nhiên quan trọng hơn.\n- Hãy thể hiện sự nhiệt tình và thân thiện trong bài viết.\n- Điểm cao đến từ việc trả lời đúng yêu cầu và tổ chức bài logic.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nPlastic waste has become one of the most serious environmental problems in many countries around the world. Large amounts of plastic are thrown away every day, causing pollution to land, rivers and oceans and threatening both human life and wildlife.\nDiscuss the effects of plastic waste on the environment and suggest some possible solutions to this problem. Write an essay to an educated reader to discuss the problems caused by plastic waste and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Plastic waste has become one of the most serious environmental problems in many countries around the world. Large amounts of plastic are thrown away every day, causing pollution to land, rivers and oceans and threatening both human life and wildlife.",
+      "Discuss the effects of plastic waste on the environment and suggest some possible solutions to this problem."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by plastic waste and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Problem–Solution Essay**, yêu cầu phân tích tác động của rác thải nhựa đối với môi trường và đề xuất giải pháp.\n- Từ khóa chính gồm “plastic waste”, “environment”, “effects” và “solutions”.\n- Bạn cần trình bày cả hai phần: hậu quả của rác thải nhựa và các biện pháp giải quyết.\n- Bài viết nên dài khoảng 280–320 từ để phát triển ý đầy đủ và logic.\n- Cần đưa ví dụ thực tế như ô nhiễm đại dương, động vật biển chết vì nuốt nhựa hoặc việc sử dụng túi nilon quá mức.\n- Không nên chỉ tập trung vào nguyên nhân mà quên phần giải pháp vì đó là yêu cầu bắt buộc của đề.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vấn đề rác thải nhựa đang ngày càng nghiêm trọng. Ví dụ: “Plastic waste is becoming a major environmental issue in many parts of the world.”\n- **Body paragraph 1:** Phân tích tác động tiêu cực như ô nhiễm đất, nước và ảnh hưởng đến động vật.\n- **Body paragraph 2:** Nói về ảnh hưởng đến con người như sức khỏe, thực phẩm và chất lượng cuộc sống.\n- **Body paragraph 3:** Đề xuất các giải pháp như tái chế, hạn chế nhựa dùng một lần và nâng cao nhận thức cộng đồng.\n- **Conclusion:** Tóm tắt vấn đề và nhấn mạnh tầm quan trọng của hành động bảo vệ môi trường. Ví dụ: “In conclusion, governments and individuals should work together to reduce plastic pollution.”\n- Mỗi đoạn thân bài cần có câu chủ đề rõ ràng.\n- Sau mỗi ý chính nên có giải thích hoặc ví dụ minh họa cụ thể.\n- Nên sử dụng các từ nối để bài viết mạch lạc hơn.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì hiện tại đơn để nói về các vấn đề môi trường hiện nay.\n- Kết hợp câu ghép và câu phức để tăng điểm Grammar.\n- Tránh lặp lại “plastic waste” bằng các từ thay thế như “plastic pollution”, “plastic products” hoặc “non-biodegradable waste”.\n- Sử dụng ví dụ thực tế để phát triển luận điểm thay vì chỉ liệt kê ý.\n- Dùng các cấu trúc chỉ nguyên nhân và kết quả để tăng tính học thuật.\n- Luôn có quan điểm rõ ràng và giải pháp cụ thể.\nTừ vựng quan trọng:\n- **Plastic pollution:** ô nhiễm nhựa\n- **Environmental damage:** thiệt hại môi trường\n- **Marine animals:** động vật biển\n- **Single-use plastic:** nhựa dùng một lần\n- **Recycling programs:** chương trình tái chế\n- **Biodegradable products:** sản phẩm phân hủy sinh học\n- **Waste management:** quản lý rác thải\n- **Public awareness:** nhận thức cộng đồng\nTừ nối (Linking words):\n- **Firstly:** thứ nhất\n- **Moreover:** hơn nữa\n- **As a result:** kết quả là\n- **For example:** ví dụ\n- **However:** tuy nhiên\n- **Therefore:** vì vậy\n- **In addition:** thêm vào đó\n- **In conclusion:** kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- **Plastic rubbish:** thay cho “plastic waste”\n- **Environmental contamination:** thay cho “environmental pollution”\n- **Eco-friendly products:** thay cho “environmentally safe products”\n- **Disposable plastic items:** thay cho “single-use plastic”\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **One major problem is that…:** một vấn đề lớn là…\n- **This can lead to serious environmental consequences:** điều này có thể dẫn đến hậu quả môi trường nghiêm trọng\n- **A practical solution would be to…:** một giải pháp thực tế là…\n- **Governments should encourage people to recycle more:** chính phủ nên khuyến khích người dân tái chế nhiều hơn\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về tác hại mà không đưa ra giải pháp.\n- Lặp lại từ “plastic” quá nhiều lần.\n- Không có ví dụ minh họa cho luận điểm.\n- Viết đoạn văn quá ngắn và thiếu phát triển ý.\n- Không có kết luận rõ ràng ở cuối bài.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã có cả phần problems và solutions chưa.\n- Đảm bảo mỗi đoạn đều có câu chủ đề rõ ràng.\n- Kiểm tra lỗi chính tả và ngữ pháp.\n- Kiểm tra xem từ nối đã được sử dụng hợp lý chưa.\n- Đếm sơ số lượng từ để chắc chắn trên 250 từ.\n\n**6. Tư duy làm bài:**\n- Hãy tập trung vào các ý tưởng quen thuộc và dễ giải thích.\n- Không cần viết quá học thuật; điều quan trọng là logic và rõ ràng.\n- Ví dụ thực tế sẽ giúp bài viết thuyết phục hơn rất nhiều.\n- Luôn đảm bảo rằng mọi ý đều liên quan trực tiếp đến câu hỏi của đề bài.\n- Điểm cao đến từ việc hoàn thành đầy đủ yêu cầu và tổ chức bài tốt."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about parties\n\n1\nDo you enjoy going to parties? Why or why not?\n2\nWhat do you usually do at a party?\n3\nDo you prefer indoor parties or outdoor parties?\n\nNow, let’s talk about entertainment\n\n4\nWhat do you usually do for entertainment in your free time?\n5\nDo you prefer indoor entertainment activities or outdoor activities?\n6\nDo entertainment activities help you reduce stress? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói gồm 6 câu hỏi cá nhân quen thuộc trong khoảng 3 phút.\n- **Topic A (Parties):** Các câu hỏi 1–3 xoay quanh việc tham gia tiệc, hoạt động trong bữa tiệc và sở thích giữa tiệc trong nhà hoặc ngoài trời. Chủ đề này kiểm tra khả năng mô tả trải nghiệm xã hội và diễn đạt sở thích.\n- **Topic B (Entertainment Activities):** Các câu hỏi 4–6 tập trung vào hoạt động giải trí, sở thích cá nhân và lợi ích của giải trí đối với tinh thần. Chủ đề này kiểm tra khả năng nói về thói quen và cảm xúc cá nhân.\n- Tiêu chí chấm điểm gồm độ trôi chảy, phát âm, từ vựng và ngữ pháp.\n- Bạn nên trả lời khoảng 25–35 giây cho mỗi câu và chia thời gian đều cho hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc ARE: Answer – Reason – Example để phát triển câu trả lời.\n- **Ví dụ Topic A:** I enjoy going to parties because they help me relax and connect with my friends. For example, I often attend birthday parties at weekends.\n- **Ví dụ Topic B:** In my free time, I usually watch movies or listen to music because these activities help me reduce stress after studying.\n- Luôn tự hỏi “Why?” hoặc “How?” để mở rộng câu trả lời tự nhiên hơn.\n- Bạn có thể dùng câu như: Besides that, another reason is that... để chuyển ý mượt mà.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và dùng fillers như “Actually”, “Well”, “To be honest” để tránh im lặng quá lâu.\n- Topic A chủ yếu sử dụng hiện tại đơn để nói về thói quen tham gia tiệc.\n- Topic B cũng dùng hiện tại đơn khi nói về hoạt động giải trí thường ngày.\n- Nếu quên từ, hãy dùng cách mô tả đơn giản thay vì dừng lại.\n- Vocabulary for Topic A: social gathering (buổi tụ họp xã hội), celebrate special occasions (ăn mừng dịp đặc biệt), interact with friends (giao lưu với bạn bè), lively atmosphere (bầu không khí sôi động).\n- Vocabulary for Topic B: entertainment activities (hoạt động giải trí), relieve stress (giảm căng thẳng), spend leisure time (dành thời gian rảnh), outdoor activities (hoạt động ngoài trời).\nCụm từ quan trọng nên dùng:\n- Have a great time – Có khoảng thời gian vui vẻ.\n- Enjoy the atmosphere – Thích không khí của buổi tiệc.\n- Catch up with friends – Gặp gỡ và trò chuyện với bạn bè.\n- Relax after a long day – Thư giãn sau một ngày dài.\n- Take part in activities – Tham gia hoạt động.\n- Improve mental health – Cải thiện sức khỏe tinh thần.\nTừ nối khi nói (Linking Words):\n- First of all – Trước hết.\n- Besides that – Bên cạnh đó.\n- For example – Ví dụ.\n- As a result – Kết quả là.\n- On the other hand – Mặt khác.\nCách thể hiện quan điểm tự nhiên:\n- I personally enjoy outdoor parties because they feel more comfortable and relaxing – Cá nhân tôi thích tiệc ngoài trời vì cảm thấy thoải mái hơn.\n- From my perspective, entertainment activities are necessary for students – Theo góc nhìn của tôi, hoạt động giải trí rất cần thiết cho sinh viên.\n- As far as I know, many young people enjoy parties to socialize with others – Theo tôi biết, nhiều người trẻ thích tiệc để giao lưu.\n- I believe entertainment helps people maintain a healthy balance in life – Tôi tin hoạt động giải trí giúp cân bằng cuộc sống.\n- Personally, I prefer simple parties with close friends – Cá nhân tôi thích những buổi tiệc đơn giản với bạn thân.\n- In my opinion, relaxing activities can improve productivity – Theo tôi, hoạt động thư giãn có thể cải thiện hiệu suất làm việc.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn chỉ bằng Yes hoặc No mà không giải thích.\n- Ở Topic A, nhiều bạn chỉ kể tên hoạt động trong tiệc mà không nói cảm xúc.\n- Ở Topic B, nhiều bạn lặp lại từ “fun” hoặc “interesting” quá nhiều.\n- Dùng sai thì hoặc nói quá nhanh khiến phát âm không rõ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n- Nếu quên từ, hãy mô tả chức năng hoặc cảm giác liên quan đến hoạt động đó.\n- Với Topic A, nếu bí ý hãy nói về đồ ăn, âm nhạc hoặc bạn bè trong bữa tiệc.\n- Với Topic B, nếu không nghĩ ra hoạt động giải trí hãy nói về việc xem phim hoặc nghe nhạc vì đây là ý dễ phát triển.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n- Khi chuyển từ Topic A sang Topic B, hãy thay đổi ví dụ và từ vựng để tránh lặp ý.\n- Sự tự nhiên và trôi chảy quan trọng hơn việc cố dùng từ quá khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nA new student has just joined your class and is not very good at English speaking skills. Your friend is thinking about the best way to improve speaking ability.\n\nYou are considering the following options:\n\nOption 1: Join an English speaking course\nOption 2: Join an English speaking club\nOption 3: Organize English speaking activities with classmates\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn đưa ra lời khuyên cho một học sinh mới có kỹ năng speaking còn yếu.\n- Ba lựa chọn gồm tham gia khóa học speaking, tham gia câu lạc bộ speaking và tổ chức hoạt động tiếng Anh với bạn cùng lớp.\n- Giám khảo đánh giá khả năng phân tích ưu nhược điểm và đưa ra quyết định hợp lý.\n- Thời gian khoảng 4 phút nên cần nói rõ ràng và logic.\n- Bạn nên liên hệ với thực tế học tiếng Anh của học sinh hoặc sinh viên để lập luận tự nhiên hơn.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Bạn có thể dùng cấu trúc I-C-E: Introduction – Comparison/Body – End để trình bày.\n- Option 1 có thể được phân tích là có giáo viên hướng dẫn chuyên nghiệp nhưng khá tốn tiền.\n- Option 2 có thể giúp tăng phản xạ giao tiếp và tạo môi trường thực hành tự nhiên.\n- Option 3 có thể tiết kiệm chi phí nhưng cần nhiều sự chủ động từ người tham gia.\n- Hãy dùng ví dụ thực tế như luyện speaking với bạn bè hoặc tham gia câu lạc bộ ở trường.\n- Sử dụng từ nối đối lập như However hoặc On the other hand để chuyển ý mượt hơn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Hãy liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ hoàn toàn.\n- Dùng hiện tại đơn để nói về lợi ích chung của các phương pháp học tiếng Anh.\n- Có thể dùng câu điều kiện như: If students join a speaking club, they can improve their confidence quickly.\n- Nếu quên từ chuyên ngành, hãy diễn đạt bằng cụm từ đơn giản như “practice speaking with others”.\nCụm từ quan trọng nên dùng:\n- Improve communication skills – Cải thiện kỹ năng giao tiếp.\n- Gain more confidence – Có thêm sự tự tin.\n- Practice with native speakers – Luyện tập với người bản xứ.\n- Create a supportive environment – Tạo môi trường hỗ trợ.\n- Develop speaking fluency – Phát triển độ trôi chảy khi nói.\n- Learn through interaction – Học thông qua tương tác.\nTừ nối khi nói (Linking Words):\n- First of all – Trước tiên.\n- In addition – Ngoài ra.\n- However – Tuy nhiên.\n- For instance – Chẳng hạn.\n- In conclusion – Tóm lại.\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, joining a speaking club is the best choice because students can practice regularly – Theo tôi, tham gia câu lạc bộ speaking là lựa chọn tốt nhất vì học sinh có thể luyện tập thường xuyên.\n- I personally think speaking courses are useful because learners receive professional guidance – Cá nhân tôi nghĩ khóa học speaking hữu ích vì người học được hướng dẫn chuyên nghiệp.\n- Compared to organizing activities alone, joining a club is more convenient and motivating – So với tự tổ chức hoạt động, tham gia câu lạc bộ tiện lợi và tạo động lực hơn.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói ưu điểm của lựa chọn mình thích mà không đánh giá hai lựa chọn còn lại.\n- Lặp lại từ “good” hoặc “helpful” quá nhiều.\n- Kết luận không rõ ràng hoặc thay đổi lựa chọn giữa bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng, hãy chuyển sang nói về thời gian, chi phí hoặc môi trường học tập.\n- Bạn có thể dùng câu: Let's evaluate this option from another perspective để có thêm thời gian suy nghĩ.\n- Nếu bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn khác thay vì dừng quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người đang thật sự tư vấn cho bạn mình.\n- Ngay cả khi chọn một option, bạn vẫn có thể đề xuất cách cải thiện để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nAdvantages of owning a pet\n\nOwning a Pet\nReducing loneliness\nEncouraging exercise and outdoor activities\nMaking life more interesting and enjoyable\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think people should keep dogs or cats as pets? Why?\n2\nWhat are some difficulties of owning a pet?\n3\nWhat can people learn from raising pets?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về lợi ích của việc nuôi thú cưng.\n- Ba nhánh mindmap gồm giảm cô đơn, khuyến khích vận động và làm cuộc sống thú vị hơn.\n- Nhánh ý tưởng cá nhân có thể nói về việc học trách nhiệm hoặc cải thiện sức khỏe tinh thần.\n- Giám khảo đánh giá khả năng phát triển ý tưởng, đưa ví dụ và trả lời follow-up questions.\n- Thời gian khoảng 5 phút nên bạn cần cân bằng giữa phần main speech và phần hỏi đáp.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Bạn có thể dùng cấu trúc FEEL: Point – Explanation – Example – Link để triển khai bài nói.\n- **Ví dụ 1:** Today, I would like to talk about the benefits of owning a pet and why many people love animals.\n- **Ví dụ 2:** Another advantage is that taking care of pets can teach people responsibility and patience.\n- Hãy sử dụng ví dụ thực tế như chó, mèo hoặc thú cưng bạn từng nuôi.\n- Bám sát mindmap để tránh lặp ý và nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng cụm chuyển ý như Moving on to the next point hoặc Another important benefit is that để nối các ý.\n- Dùng hiện tại đơn để nói về lợi ích chung của thú cưng.\n- Có thể dùng hiện tại hoàn thành để nói về trải nghiệm cá nhân với vật nuôi.\n- Bạn có thể paraphrase “owning a pet” bằng keeping animals at home hoặc raising pets.\nCụm từ quan trọng nên dùng:\n- Reduce feelings of loneliness – Giảm cảm giác cô đơn.\n- Improve mental health – Cải thiện sức khỏe tinh thần.\n- Encourage physical activity – Khuyến khích hoạt động thể chất.\n- Build responsibility – Xây dựng tinh thần trách nhiệm.\n- Provide emotional support – Mang lại sự hỗ trợ tinh thần.\n- Create a joyful atmosphere – Tạo bầu không khí vui vẻ.\nTừ nối khi nói (Linking Words):\n- First of all – Trước tiên.\n- In addition – Ngoài ra.\n- For example – Ví dụ.\n- As a result – Kết quả là.\n- Finally – Cuối cùng.\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, pets can become close companions for many people – Theo tôi, thú cưng có thể trở thành người bạn thân thiết của nhiều người.\n- I strongly believe owning a pet can improve mental health – Tôi tin mạnh mẽ rằng nuôi thú cưng có thể cải thiện sức khỏe tinh thần.\n- From my perspective, dogs are more suitable for active people because they encourage exercise – Theo góc nhìn của tôi, chó phù hợp với người năng động vì chúng khuyến khích vận động.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Do you think people should keep dogs or cats as pets? Why?** – I think both are good pets, but dogs are more active and friendly while cats are easier to take care of.\n- **What are some difficulties of owning a pet?** – People may spend a lot of money and time taking care of animals.\n- **What can people learn from raising pets?** – They can learn responsibility, patience and how to care for others.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n- Nói quá dài ở phần main speech dẫn đến thiếu thời gian cho follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ đến thú cưng của bản thân hoặc của bạn bè.\n- Bạn có thể dùng câu: That is a complex issue. If we look at it from an emotional perspective...\n- Nếu quên từ khó, hãy mô tả bằng cụm từ đơn giản hơn.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ từ góc nhìn thực tế của người nuôi thú cưng.\n- Sự logic và liên kết giữa các ý quan trọng hơn việc dùng quá nhiều từ khó.\n- Hãy nói tự nhiên như đang chia sẻ trải nghiệm thật của bản thân."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about parties.\n1.\nDo you enjoy going to parties? Why or why not?\n2.\nWhat do you usually do at a party?\n3.\nDo you prefer indoor parties or outdoor parties?\nNow, let’s talk about entertainment.\n4.\nWhat do you usually do for entertainment in your free time?\n5.\nDo you prefer indoor entertainment activities or outdoor activities?\n6.\nDo entertainment activities help you reduce stress? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói gồm 6 câu hỏi cá nhân quen thuộc trong khoảng 3 phút.\n• Topic A (Parties): Các câu hỏi 1–3 xoay quanh việc tham gia tiệc, hoạt động trong bữa tiệc và sở thích giữa tiệc trong\nnhà hoặc ngoài trời. Chủ đề này kiểm tra khả năng mô tả trải nghiệm xã hội và diễn đạt sở thích.\n• Topic B (Entertainment Activities): Các câu hỏi 4–6 tập trung vào hoạt động giải trí, sở thích cá nhân và lợi ích của\ngiải trí đối với tinh thần. Chủ đề này kiểm tra khả năng nói về thói quen và cảm xúc cá nhân.\n• Tiêu chí chấm điểm gồm độ trôi chảy, phát âm, từ vựng và ngữ pháp.\n• Bạn nên trả lời khoảng 25–35 giây cho mỗi câu và chia thời gian đều cho hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc ARE: Answer – Reason – Example để phát triển câu trả lời.\n• Ví dụ Topic A: I enjoy going to parties because they help me relax and connect with my friends. For example, I often\nattend birthday parties at weekends.\n• Ví dụ Topic B: In my free time, I usually watch movies or listen to music because these activities help me reduce\nstress after studying.\n• Luôn tự hỏi “Why?” hoặc “How?” để mở rộng câu trả lời tự nhiên hơn.\n• Bạn có thể dùng câu như: Besides that, another reason is that... để chuyển ý mượt mà.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và dùng fillers như “Actually”, “Well”, “To be honest” để tránh im lặng quá lâu.\n• Topic A chủ yếu sử dụng hiện tại đơn để nói về thói quen tham gia tiệc.\n• Topic B cũng dùng hiện tại đơn khi nói về hoạt động giải trí thường ngày.\n• Nếu quên từ, hãy dùng cách mô tả đơn giản thay vì dừng lại.\n• Vocabulary for Topic A: social gathering (buổi tụ họp xã hội), celebrate special occasions (ăn mừng dịp đặc biệt),\ninteract with friends (giao lưu với bạn bè), lively atmosphere (bầu không khí sôi động).\n• Vocabulary for Topic B: entertainment activities (hoạt động giải trí), relieve stress (giảm căng thẳng), spend leisure\ntime (dành thời gian rảnh), outdoor activities (hoạt động ngoài trời).\nCụm từ quan trọng nên dùng:\n• Have a great time – Có khoảng thời gian vui vẻ.\n• Enjoy the atmosphere – Thích không khí của buổi tiệc.\n• Catch up with friends – Gặp gỡ và trò chuyện với bạn bè.\n• Relax after a long day – Thư giãn sau một ngày dài.\n• Take part in activities – Tham gia hoạt động.\n• Improve mental health – Cải thiện sức khỏe tinh thần.\nTừ nối khi nói (Linking Words):\n• First of all – Trước hết.\n• Besides that – Bên cạnh đó.\n• For example – Ví dụ.\n• As a result – Kết quả là.\n• On the other hand – Mặt khác.\nCách thể hiện quan điểm tự nhiên:\n• I personally enjoy outdoor parties because they feel more comfortable and relaxing – Cá nhân tôi thích tiệc ngoài\ntrời vì cảm thấy thoải mái hơn.\n• From my perspective, entertainment activities are necessary for students – Theo góc nhìn của tôi, hoạt động giải trí\nrất cần thiết cho sinh viên.\n• As far as I know, many young people enjoy parties to socialize with others – Theo tôi biết, nhiều người trẻ thích tiệc\nđể giao lưu.\n• I believe entertainment helps people maintain a healthy balance in life – Tôi tin hoạt động giải trí giúp cân bằng cuộc\nsống.\n• Personally, I prefer simple parties with close friends – Cá nhân tôi thích những buổi tiệc đơn giản với bạn thân.\n• In my opinion, relaxing activities can improve productivity – Theo tôi, hoạt động thư giãn có thể cải thiện hiệu suất\nlàm việc.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn chỉ bằng Yes hoặc No mà không giải thích.\n• Ở Topic A, nhiều bạn chỉ kể tên hoạt động trong tiệc mà không nói cảm xúc.\n• Ở Topic B, nhiều bạn lặp lại từ “fun” hoặc “interesting” quá nhiều.\n• Dùng sai thì hoặc nói quá nhanh khiến phát âm không rõ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n• Nếu quên từ, hãy mô tả chức năng hoặc cảm giác liên quan đến hoạt động đó.\n• Với Topic A, nếu bí ý hãy nói về đồ ăn, âm nhạc hoặc bạn bè trong bữa tiệc.\n• Với Topic B, nếu không nghĩ ra hoạt động giải trí hãy nói về việc xem phim hoặc nghe nhạc vì đây là ý dễ phát triển.\n6. Tư duy làm bài nói:\n• Hãy xem Part 1 như một cuộc trò chuyện tự nhiên với giám khảo.\n• Khi chuyển từ Topic A sang Topic B, hãy thay đổi ví dụ và từ vựng để tránh lặp ý.\n• Sự tự nhiên và trôi chảy quan trọng hơn việc cố dùng từ quá khó.\nSolution Discussion\nPART 2\n4 phút\nA new student has just joined your class and is not very good at English speaking skills. Your friend is thinking about\nthe best way to improve speaking ability.\nYou are considering the following options:\n• Option 1: Join an English speaking course\n• Option 2: Join an English speaking club\n• Option 3: Organize English speaking activities with classmates\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn đưa ra lời khuyên cho một học sinh mới có kỹ năng speaking còn yếu.\n• Ba lựa chọn gồm tham gia khóa học speaking, tham gia câu lạc bộ speaking và tổ chức hoạt động tiếng Anh với bạn\ncùng lớp.\n• Giám khảo đánh giá khả năng phân tích ưu nhược điểm và đưa ra quyết định hợp lý.\n• Thời gian khoảng 4 phút nên cần nói rõ ràng và logic.\n• Bạn nên liên hệ với thực tế học tiếng Anh của học sinh hoặc sinh viên để lập luận tự nhiên hơn.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Bạn có thể dùng cấu trúc I-C-E: Introduction – Comparison/Body – End để trình bày.\n• Option 1 có thể được phân tích là có giáo viên hướng dẫn chuyên nghiệp nhưng khá tốn tiền.\n• Option 2 có thể giúp tăng phản xạ giao tiếp và tạo môi trường thực hành tự nhiên.\n• Option 3 có thể tiết kiệm chi phí nhưng cần nhiều sự chủ động từ người tham gia.\n• Hãy dùng ví dụ thực tế như luyện speaking với bạn bè hoặc tham gia câu lạc bộ ở trường.\n• Sử dụng từ nối đối lập như However hoặc On the other hand để chuyển ý mượt hơn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Hãy liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ hoàn toàn.\n• Dùng hiện tại đơn để nói về lợi ích chung của các phương pháp học tiếng Anh.\n• Có thể dùng câu điều kiện như: If students join a speaking club, they can improve their confidence quickly.\n• Nếu quên từ chuyên ngành, hãy diễn đạt bằng cụm từ đơn giản như “practice speaking with others”.\nCụm từ quan trọng nên dùng:\n• Improve communication skills – Cải thiện kỹ năng giao tiếp.\n• Gain more confidence – Có thêm sự tự tin.\n• Practice with native speakers – Luyện tập với người bản xứ.\n• Create a supportive environment – Tạo môi trường hỗ trợ.\n• Develop speaking fluency – Phát triển độ trôi chảy khi nói.\n• Learn through interaction – Học thông qua tương tác.\nTừ nối khi nói (Linking Words):\n• First of all – Trước tiên.\n• In addition – Ngoài ra.\n• However – Tuy nhiên.\n• For instance – Chẳng hạn.\n• In conclusion – Tóm lại.\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, joining a speaking club is the best choice because students can practice regularly – Theo tôi, tham\ngia câu lạc bộ speaking là lựa chọn tốt nhất vì học sinh có thể luyện tập thường xuyên.\n• I personally think speaking courses are useful because learners receive professional guidance – Cá nhân tôi nghĩ\nkhóa học speaking hữu ích vì người học được hướng dẫn chuyên nghiệp.\n• Compared to organizing activities alone, joining a club is more convenient and motivating – So với tự tổ chức hoạt\nđộng, tham gia câu lạc bộ tiện lợi và tạo động lực hơn.\n4. Các lỗi thường gặp:\n• Chỉ nói ưu điểm của lựa chọn mình thích mà không đánh giá hai lựa chọn còn lại.\n• Lặp lại từ “good” hoặc “helpful” quá nhiều.\n• Kết luận không rõ ràng hoặc thay đổi lựa chọn giữa bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng, hãy chuyển sang nói về thời gian, chi phí hoặc môi trường học tập.\n• Bạn có thể dùng câu: Let's evaluate this option from another perspective để có thêm thời gian suy nghĩ.\n• Nếu bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn khác thay vì dừng quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người đang thật sự tư vấn cho bạn mình.\n• Ngay cả khi chọn một option, bạn vẫn có thể đề xuất cách cải thiện để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: Advantages of owning a pet\nEncouraging exercise and outdoor\nReducing loneliness\nactivities\nOwning a Pet\nÝ tưởng của bạn\nMaking life more interesting and\nenjoyable\nFOLLOW-UP QUESTIONS\n1.\nDo you think people should keep dogs or cats as pets? Why?\n2.\nWhat are some difficulties of owning a pet?\n3.\nWhat can people learn from raising pets?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về lợi ích của việc nuôi thú cưng.\n• Ba nhánh mindmap gồm giảm cô đơn, khuyến khích vận động và làm cuộc sống thú vị hơn.\n• Nhánh ý tưởng cá nhân có thể nói về việc học trách nhiệm hoặc cải thiện sức khỏe tinh thần.\n• Giám khảo đánh giá khả năng phát triển ý tưởng, đưa ví dụ và trả lời follow-up questions.\n• Thời gian khoảng 5 phút nên bạn cần cân bằng giữa phần main speech và phần hỏi đáp.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Bạn có thể dùng cấu trúc FEEL: Point – Explanation – Example – Link để triển khai bài nói.\n• Ví dụ 1: Today, I would like to talk about the benefits of owning a pet and why many people love animals.\n• Ví dụ 2: Another advantage is that taking care of pets can teach people responsibility and patience.\n• Hãy sử dụng ví dụ thực tế như chó, mèo hoặc thú cưng bạn từng nuôi.\n• Bám sát mindmap để tránh lặp ý và nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng cụm chuyển ý như Moving on to the next point hoặc Another important benefit is that để nối các ý.\n• Dùng hiện tại đơn để nói về lợi ích chung của thú cưng.\n• Có thể dùng hiện tại hoàn thành để nói về trải nghiệm cá nhân với vật nuôi.\n• Bạn có thể paraphrase “owning a pet” bằng keeping animals at home hoặc raising pets.\nCụm từ quan trọng nên dùng:\n• Reduce feelings of loneliness – Giảm cảm giác cô đơn.\n• Improve mental health – Cải thiện sức khỏe tinh thần.\n• Encourage physical activity – Khuyến khích hoạt động thể chất.\n• Build responsibility – Xây dựng tinh thần trách nhiệm.\n• Provide emotional support – Mang lại sự hỗ trợ tinh thần.\n• Create a joyful atmosphere – Tạo bầu không khí vui vẻ.\nTừ nối khi nói (Linking Words):\n• First of all – Trước tiên.\n• In addition – Ngoài ra.\n• For example – Ví dụ.\n• As a result – Kết quả là.\n• Finally – Cuối cùng.\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, pets can become close companions for many people – Theo tôi, thú cưng có thể trở thành người bạn\nthân thiết của nhiều người.\n• I strongly believe owning a pet can improve mental health – Tôi tin mạnh mẽ rằng nuôi thú cưng có thể cải thiện sức\nkhỏe tinh thần.\n• From my perspective, dogs are more suitable for active people because they encourage exercise – Theo góc nhìn\ncủa tôi, chó phù hợp với người năng động vì chúng khuyến khích vận động.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do you think people should keep dogs or cats as pets? Why? – I think both are good pets, but dogs are more active\nand friendly while cats are easier to take care of.\n• What are some difficulties of owning a pet? – People may spend a lot of money and time taking care of animals.\n• What can people learn from raising pets? – They can learn responsibility, patience and how to care for others.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n• Nói quá dài ở phần main speech dẫn đến thiếu thời gian cho follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ đến thú cưng của bản thân hoặc của bạn bè.\n• Bạn có thể dùng câu: That is a complex issue. If we look at it from an emotional perspective...\n• Nếu quên từ khó, hãy mô tả bằng cụm từ đơn giản hơn.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ từ góc nhìn thực tế của người nuôi thú cưng.\n• Sự logic và liên kết giữa các ý quan trọng hơn việc dùng quá nhiều từ khó.\n• Hãy nói tự nhiên như đang chia sẻ trải nghiệm thật của bản thân."
+}

@@ -1,0 +1,717 @@
+{
+ "id": "vlu-17",
+ "number": 17,
+ "title": "Đề thi VLU 17",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-17",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Rise of Cooking Vlogs",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Cooking vlogs are short online videos in which people show how to prepare meals at home. Some are filmed in simple kitchens with a phone, while others use professional cameras and bright lighting. Over the last ten years these videos have become hugely popular on websites and social media, and millions of viewers now watch them every day to learn recipes, find ideas, or simply relax. Some of the most successful creators have attracted audiences of several million followers, and a few have even published their own cookbooks.",
+     "One important reason for this growth is that the videos are very convenient to use. Viewers can pause a video, repeat a step, and cook along at their own speed, which is much easier than following a recipe in a book. Many people also like the friendly style of the presenters, who talk to the camera as if they were speaking to a neighbour or a friend. Short videos of one or two minutes are especially popular because they fit easily into a busy day.",
+     "Cooking vlogs also help people to discover foods from many other cultures around the world. A viewer in Vietnam can learn how to make Italian pasta, while a student in Canada can try pho for the first time. Because the presenters often explain the history of a dish, viewers learn about traditions as well as techniques. Food that once seemed strange or difficult can quickly become familiar when it is explained step by step. Some creators travel to markets and villages to film **authentic** local dishes, and this gives their audiences a real taste of daily life in different places.",
+     "Cooking vlogs also bring several clear benefits to ordinary families and beginners. Beginners gain confidence because the steps are shown clearly, and families often save money by cooking at home instead of buying takeaway food. Teenagers who watch these videos sometimes start to cook for their parents, and some parents say that **they** now enjoy cooking with their children because the videos give them new ideas. Cooking together can also improve family relationships, since everyone shares a task and has time to talk.",
+     "However, cooking vlogs are not perfect, and viewers should be careful about what they watch. Some videos make cooking look easier than it really is, and a few creators use expensive tools that ordinary families cannot buy. Viewers should also remember that popular recipes are not always healthy, because many of them contain large amounts of sugar, oil, or salt. In conclusion, cooking vlogs are a useful and enjoyable way to learn, as long as viewers choose them carefully, keep a balanced diet, and do not copy every recipe without thinking. Schools and community centres could also use these videos in cooking lessons for young people."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Professional chefs refuse to share recipes with the public",
+       "B": "Viewers dislike cooking videos because they are too long",
+       "C": "Cooking at home is more expensive than eating out",
+       "D": "Cooking vlogs are popular and help people learn about food"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what can viewers do while watching a cooking vlog?",
+      "options": {
+       "A": "They can ask the presenter questions during a live call",
+       "B": "They can pause the video and repeat difficult steps",
+       "C": "They can easily order all the ingredients from the presenter",
+       "D": "They can print every single recipe as a small book"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm hành động của người xem: họ có thể tạm dừng video, lặp lại các bước và nấu theo tốc độ riêng (pause a video, repeat a step, and cook along)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"convenient\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "handy and practical",
+       "B": "costly and rare",
+       "C": "noisy and crowded",
+       "D": "dull and lengthy"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"convenient\" ở đoạn 2 gắn liền với khả năng tạm dừng, tua lại và điều chỉnh tốc độ nấu tùy ý, mang ý nghĩa tiện lợi, thiết thực (handy and practical)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how do viewers learn about traditions as well as techniques?",
+      "options": {
+       "A": "Presenters ask viewers to read books about local history",
+       "B": "Presenters sing traditional songs while the food cooks",
+       "C": "Presenters often explain the history of each dish",
+       "D": "Presenters show photographs of famous chefs and restaurants"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để tìm cách tiếp cận truyền thống lẫn kỹ thuật: người trình bày thường giải thích lịch sử của từng món ăn (explain the history of a dish)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"authentic\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "imported",
+       "B": "seasonal",
+       "C": "famous",
+       "D": "genuine"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 6,
+      "stem": "The word \"they\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Children",
+       "B": "Parents",
+       "C": "Creators",
+       "D": "Videos"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"they\" ở đoạn 4, hãy đọc ngược lại câu trước để tìm danh từ chỉ người số nhiều phù hợp: một số phụ huynh (parents) nói rằng giờ đây họ thích nấu ăn cùng con cái nhờ các video mang lại ý tưởng mới."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, how do families often save money?",
+      "options": {
+       "A": "By cooking at home instead of buying takeaway meals",
+       "B": "By growing all of their vegetables in a school garden",
+       "C": "By sharing one costly kitchen tool with all their neighbours",
+       "D": "By watching videos instead of paying for any cooking lessons"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 để tìm cách gia đình tiết kiệm tiền: nấu ăn tại nhà thay vì mua đồ ăn mang đi (cooking at home instead of buying takeaway food)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a problem with cooking vlogs?",
+      "options": {
+       "A": "Some videos make cooking look much easier than reality",
+       "B": "A few creators use tools families cannot afford",
+       "C": "Many presenters speak too quickly to be understood",
+       "D": "Many popular recipes contain far too much oil"
+      },
+      "answer": "C",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các vấn đề được cảnh báo ở đoạn 5: video làm cho việc nấu ăn trông quá dễ, một số người sáng tạo dùng dụng cụ đắt đỏ, và nhiều công thức chứa quá nhiều dầu/đường/muối. Phương án cho rằng người thuyết trình nói quá nhanh hoàn toàn không được nhắc đến trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about the writer's opinion of cooking vlogs?",
+      "options": {
+       "A": "They will soon replace all cookery lessons in schools",
+       "B": "They are valuable when viewers use them wisely and carefully",
+       "C": "They are dangerous for children and should be banned",
+       "D": "They are only enjoyed by professional chefs and critics"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp quan điểm toàn bài từ đoạn mở đầu cho đến lời khuyên ở đoạn cuối (chọn lọc kỹ, duy trì chế độ ăn cân đối và không sao chép mù quáng), từ đó suy luận rằng vlog nấu ăn rất có giá trị nếu người xem biết sử dụng một cách khôn ngoan và cẩn trọng."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To advertise a brand new cooking channel for young children",
+       "B": "To teach readers exactly how to make Italian pasta today",
+       "C": "To warn parents that most online videos waste valuable time",
+       "D": "To explain why cooking vlogs are popular and useful Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R1Q1, R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và phần kết luận của bài để thấy văn bản giới thiệu sự bùng nổ của video nấu ăn trực tuyến (cooking vlogs), lý do chúng trở nên phổ biến, mang lại nhiều lợi ích thiết thực (học công thức, khám phá văn hóa, gắn kết gia đình) đi kèm với một số lưu ý cần tránh. Do đó, phương án đúng phải khái quát được tính phổ biến và hữu ích của chúng trong việc học hỏi về ẩm thực (R1Q1) cũng như mục đích giải thích lý do chúng được ưa chuộng (R1Q10).\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R1Q2**, quét thông tin ở đoạn 2 để tìm hành động của người xem: họ có thể tạm dừng video, lặp lại các bước và nấu theo tốc độ riêng (pause a video, repeat a step, and cook along).\n  - Với **R1Q4**, quét đoạn 3 để tìm cách tiếp cận truyền thống lẫn kỹ thuật: người trình bày thường giải thích lịch sử của từng món ăn (explain the history of a dish).\n  - Với **R1Q7**, quét đoạn 4 để tìm cách gia đình tiết kiệm tiền: nấu ăn tại nhà thay vì mua đồ ăn mang đi (cooking at home instead of buying takeaway food).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R1Q3**, từ **\"convenient\"** ở đoạn 2 gắn liền với khả năng tạm dừng, tua lại và điều chỉnh tốc độ nấu tùy ý, mang ý nghĩa tiện lợi, thiết thực (handy and practical).\n  - With **R1Q5**, từ **\"authentic\"** ở đoạn 3 mô tả các món ăn địa phương nguyên bản do các nhà sáng tạo đến tận chợ và làng mạc để quay lại, đồng nghĩa với sự chân thực, chính hiệu (genuine).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Với đại từ **\"they\"** ở đoạn 4, hãy đọc ngược lại câu trước để tìm danh từ chỉ người số nhiều phù hợp: một số phụ huynh (parents) nói rằng giờ đây họ thích nấu ăn cùng con cái nhờ các video mang lại ý tưởng mới.\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R1Q8):** Đối chiếu danh sách các vấn đề được cảnh báo ở đoạn 5: video làm cho việc nấu ăn trông quá dễ, một số người sáng tạo dùng dụng cụ đắt đỏ, và nhiều công thức chứa quá nhiều dầu/đường/muối. Phương án cho rằng người thuyết trình nói quá nhanh hoàn toàn không được nhắc đến trong bài.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp quan điểm toàn bài từ đoạn mở đầu cho đến lời khuyên ở đoạn cuối (chọn lọc kỹ, duy trì chế độ ăn cân đối và không sao chép mù quáng), từ đó suy luận rằng vlog nấu ăn rất có giá trị nếu người xem biết sử dụng một cách khôn ngoan và cẩn trọng.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R1Q3, R1Q5), Quy chiếu (R1Q6) và các câu **Chi tiết** (R1Q2, R1Q4, R1Q7), sau đó dựa vào bức tranh toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích của tác giả."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Landslides in India: Causes and Consequences",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Landslides are a recurring and increasingly costly hazard across large parts of India. The danger is concentrated in the Himalayas, the Western Ghats, and the hills of the north-east, where a large proportion of the slopes are classed as **susceptible** to failure. Each monsoon season, news reports describe villages buried, roads cut, and families displaced. Official surveys have identified a substantial share of the country's land area as exposed to some degree of landslide risk.",
+     "The underlying causes of landslides in India are partly natural and partly human. Young, steep mountain ranges are geologically unstable, and the heavy rainfall delivered by the monsoon saturates soil and weakens the bonds that hold slopes together. Earthquakes, frequent along the Himalayan arc, can shake loose vast quantities of material, and slopes already weakened by repeated rainfall may fail with little warning.",
+     "Human activity has made the natural hazard considerably worse in recent decades. Deforestation removes the roots that anchor soil, road building and quarrying cut into hillsides without adequate support, and unplanned construction places homes and hotels on unstable ground. In several hill towns, rapid tourism development has outpaced the drainage and engineering safeguards needed to keep slopes stable, a pattern that experts have repeatedly warned about. Climate change adds a further complication, since more intense bursts of rainfall are expected to trigger a greater number of slides.",
+     "The consequences are severe and extend far beyond the immediate loss of life. Landslides destroy homes, farmland, and infrastructure, and when they block rivers they can form temporary lakes, **which** may burst without warning and send flood waves downstream. Recent disasters, such as the 2013 Kedarnath catastrophe and the 2024 Wayanad landslides in Kerala, are widely reported to have caused heavy loss of life and left communities devastated.",
+     "The economic costs are also considerable, although they are difficult to quantify. Damaged roads isolate mountain communities, delaying the delivery of food and medical supplies, while the loss of crops and livestock pushes vulnerable households deeper into poverty. Repeated displacement may also force families to migrate to cities, adding pressure to urban services already under strain.",
+     "Authorities and scientists are therefore working to **mitigate** the risk through better planning and monitoring. The Geological Survey of India has produced landslide susceptibility maps, and some regions have installed rainfall sensors and early warning systems that alert residents when thresholds are exceeded. Engineers also build retaining walls, improve drainage, and plant vegetation to stabilise vulnerable slopes, although such measures are costly and cannot protect every settlement. Community education matters too, because residents who recognise warning signs such as new cracks or muddy streams can evacuate in time.",
+     "Landslides in India will not disappear, because the mountains, the monsoon, and the pressure for development are all permanent features of the landscape. What can change, however, is the degree of exposure that communities face. Stricter land-use regulation, honest assessment of the carrying capacity of hill towns, and meaningful involvement of local communities in planning may together determine whether future monsoons bring routine disruption or repeated tragedy."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Heavy monsoon rain is the only cause of mountain disasters",
+       "B": "Earthquakes no longer threaten any of the Himalayan hill towns",
+       "C": "Landslides in India have natural and human causes and grave effects",
+       "D": "Tourism is the main reason why mountain farmers lose crops"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, how does heavy monsoon rainfall contribute to landslides?",
+      "options": {
+       "A": "It saturates the soil and weakens the bonds holding slopes",
+       "B": "It melts the ice that normally holds up steep mountain slopes",
+       "C": "It carries away the roads and bridges built by local engineers",
+       "D": "It encourages many farmers to cut down forests for new fields"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm cách mưa gió mùa ảnh hưởng: nước mưa làm bão hòa đất và làm suy yếu các liên kết giữ sườn dốc (saturates the soil and weakens the bonds holding slopes)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"susceptible\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "well protected",
+       "B": "clearly marked",
+       "C": "widely admired",
+       "D": "easily affected"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, how does deforestation increase the risk of landslides?",
+      "options": {
+       "A": "It increases the weight of rainwater falling on steep slopes",
+       "B": "It removes the roots that hold the soil together",
+       "C": "It blocks the main drainage channels along mountain roads",
+       "D": "It attracts many more tourists to unstable hillside hotels"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để định vị tác động của nạn phá rừng: việc này làm mất đi hệ thống rễ cây giữ đất lại với nhau (removes the roots that hold the soil together)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"mitigate\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "ignore",
+       "B": "predict",
+       "C": "reduce",
+       "D": "double"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"mitigate\" ở đoạn 6 đi kèm với các biện pháp kỹ thuật nhằm hạn chế thiệt hại do lở đất gây ra, mang nghĩa làm giảm bớt, xoa dịu (reduce)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Temporary lakes",
+       "B": "Blocked rivers",
+       "C": "Flood waves",
+       "D": "Damaged homes"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"which\" ở đoạn 4, hãy đọc ngược lại danh từ chỉ sự vật xuất hiện ngay trước nó trong mệnh đề quan hệ: các hồ nước tạm thời (Temporary lakes) bị hình thành do lở đất chặn dòng sông."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what do early warning systems do?",
+      "options": {
+       "A": "They stop heavy rain from falling on unstable slopes",
+       "B": "They alert residents when rainfall thresholds are exceeded",
+       "C": "They move whole villages to safer land without delay",
+       "D": "They measure the size of earthquakes along the Himalayas"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 6 để tìm chức năng của hệ thống cảnh báo sớm: chúng cảnh báo cư dân khi lượng mưa vượt ngưỡng cho phép (alert residents when rainfall thresholds are exceeded)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a measure to reduce landslide risk?",
+      "options": {
+       "A": "Installing rainfall sensors and early warning systems locally",
+       "B": "Building retaining walls and improving local drainage systems",
+       "C": "Planting vegetation to help stabilise the more vulnerable slopes",
+       "D": "Relocating every hill town onto the coastal plains"
+      },
+      "answer": "D",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các biện pháp phòng chống lở đất được nêu ở đoạn 6: lắp đặt cảm biến mưa, xây tường chắn, cải thiện hệ thống thoát nước, và trồng cây giữ dốc. Phương án yêu cầu \"di dời toàn bộ các thị trấn vùng đồi xuống vùng đồng bằng ven biển\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about reducing landslide disasters?",
+      "options": {
+       "A": "Human choices about land use strongly shape how severe disasters become",
+       "B": "Natural forces alone determine every landslide so planning is pointless",
+       "C": "Early warning systems can completely prevent landslides from ever occurring",
+       "D": "Tourism development has no effect on the stability of slopes"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc các hoạt động nhân sinh (phá rừng, xây dựng trái phép) làm trầm trọng thêm mức độ tàn phá của thiên tai, từ đó suy luận rằng những lựa chọn của con người về việc sử dụng đất đóng vai trò quyết định mức độ nghiêm trọng của thảm họa."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade tourists to avoid the Himalayas during the monsoon",
+       "B": "To compare landslide risks in India with those in Japan",
+       "C": "To explain the causes and effects of Indian landslides",
+       "D": "To report on a single disaster that happened last year Reading"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R2Q1, R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để nắm bắt chủ đề trung tâm: hiện tượng lở đất ở Ấn Độ xuất phát từ cả nguyên nhân tự nhiên lẫn tác động của con người, gây ra hậu quả nghiêm trọng và đòi hỏi các biện pháp giảm thiểu. Do đó, đáp án đúng phải bao quát được cả nguyên nhân kép và hậu quả (R2Q1) cũng như mục đích giải thích tường tận nguyên nhân và tác động của lở đất (R2Q10).\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R2Q2**, quét thông tin ở đoạn 2 để tìm cách mưa gió mùa ảnh hưởng: nước mưa làm bão hòa đất và làm suy yếu các liên kết giữ sườn dốc (saturates the soil and weakens the bonds holding slopes).\n  - Với **R2Q4**, quét đoạn 3 để định vị tác động của nạn phá rừng: việc này làm mất đi hệ thống rễ cây giữ đất lại với nhau (removes the roots that hold the soil together).\n  - Với **R2Q7**, quét đoạn 6 để tìm chức năng của hệ thống cảnh báo sớm: chúng cảnh báo cư dân khi lượng mưa vượt ngưỡng cho phép (alert residents when rainfall thresholds are exceeded).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - With **R2Q3**, từ **\"susceptible\"** ở đoạn 1 miêu tả các vùng đồi núi dễ chịu tác động tiêu cực của thiên tai, mang nghĩa dễ bị ảnh hưởng, dễ tổn thương (easily affected).\n  - Với **R2Q5**, từ **\"mitigate\"** ở đoạn 6 đi kèm với các biện pháp kỹ thuật nhằm hạn chế thiệt hại do lở đất gây ra, mang nghĩa làm giảm bớt, xoa dịu (reduce).\n- **Dạng câu hỏi Quy chiếu (R2Q6):** Với đại từ **\"which\"** ở đoạn 4, hãy đọc ngược lại danh từ chỉ sự vật xuất hiện ngay trước nó trong mệnh đề quan hệ: các hồ nước tạm thời (Temporary lakes) bị hình thành do lở đất chặn dòng sông.\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R2Q8):** Đối chiếu danh sách các biện pháp phòng chống lở đất được nêu ở đoạn 6: lắp đặt cảm biến mưa, xây tường chắn, cải thiện hệ thống thoát nước, và trồng cây giữ dốc. Phương án yêu cầu \"di dời toàn bộ các thị trấn vùng đồi xuống vùng đồng bằng ven biển\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc các hoạt động nhân sinh (phá rừng, xây dựng trái phép) làm trầm trọng thêm mức độ tàn phá của thiên tai, từ đó suy luận rằng những lựa chọn của con người về việc sử dụng đất đóng vai trò quyết định mức độ nghiêm trọng của thảm họa.\nLời khuyên: Hãy ưu tiên xử lý trước các câu hỏi tra cứu thông tin nhanh như Từ vựng (R2Q3, R2Q5), Quy chiếu (R2Q6) và các câu **Chi tiết** (R2Q2, R2Q4, R2Q7). Sau đó, dựa vào cấu trúc toàn bài để giải quyết các câu hỏi mang tính tổng hợp cao như **Ý chính** (R2Q1), **Loại trừ** (R2Q8), **Suy luận** (R2Q9) và **Mục đích tác giả** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "Teleconsultation for Women's Healthcare in Singapore",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Singapore has one of the most advanced healthcare systems in Asia, yet many women still postpone consultations on sensitive or routine matters because of time pressure, caregiving duties, and embarrassment. Teleconsultation, in which a doctor assesses a patient by video or phone, has emerged as a way of removing some of these barriers. Since the pandemic accelerated its adoption, providers have expanded services ranging from contraception advice to menopause management.",
+     "Convenience is, unsurprisingly, the most obvious advantage that teleconsultation offers to women. A working mother can consult a gynaecologist during a lunch break, without travelling across the island or arranging childcare, and prescriptions can be arranged digitally. Privacy matters as well, since women who are **reluctant** to discuss intimate concerns face to face may feel more comfortable speaking from the safety of their own homes. Reminders sent through the same platforms also help busy patients keep their appointments.",
+     "[1] Remote consultations make it easier for doctors to stay in regular contact with patients between physical appointments. **[2]** In such cases, early advice can determine whether a patient needs urgent examination or simple reassurance. **[3]** Postnatal follow-up and lactation support are also increasingly delivered by video, allowing new mothers to receive guidance while recovering at home. **[4]** Nevertheless, doctors emphasise that physical examinations, blood tests, and ultrasound scans cannot be replaced, so remote consultation works best as a complement to traditional care rather than a substitute for it.",
+     "Regulation has evolved alongside the technology to protect patients and maintain standards. Under Singapore's Healthcare Services Act, telemedicine providers are generally required to be licensed, and national guidelines indicate that doctors must be able to see and hear patients clearly. Doctors are also expected to keep proper records of each consultation, and **they** may decline to prescribe certain medicines without an in-person examination if the clinical risk seems high. Insurers and employers are also gradually recognising teleconsultation as a legitimate form of care.",
+     "Despite its considerable promise, teleconsultation also raises several legitimate concerns for patients. Data privacy is paramount when intimate health information travels across digital networks, and Singapore applies **stringent** rules to the handling of personal data, including sensitive medical records. Older women and those with limited digital skills may also struggle to use the platforms, creating a risk that technology widens rather than narrows existing inequalities.",
+     "Certain areas of women's health appear especially well suited to remote care. Contraceptive counselling, management of menopausal symptoms, review of test results, and routine follow-up after treatment typically require conversation rather than physical examination. By contrast, symptoms such as severe abdominal pain, heavy bleeding, or suspected ectopic pregnancy demand immediate in-person assessment, and clinicians are trained to recognise when to redirect patients to a clinic or emergency department.",
+     "Teleconsultation is therefore unlikely to transform women's healthcare on its own, but it can make care more accessible, private, and continuous. Its success will depend on sensible regulation, secure data practices, and a commitment to ensuring that women of all ages and backgrounds can use it with confidence. If those conditions are met, it may help Singaporean women engage with preventive care earlier and more consistently."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Singapore has banned all forms of remote medical consultation for women",
+       "B": "Most women prefer clinics because telemedicine is always unsafe for them",
+       "C": "Teleconsultation can widen access to women's healthcare but cannot replace physical care",
+       "D": "Telemedicine providers in Singapore operate without any legal supervision at all"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why might privacy-conscious women prefer teleconsultation?",
+      "options": {
+       "A": "They can discuss intimate concerns from their own homes",
+       "B": "Doctors in most clinics now refuse to discuss reproductive matters",
+       "C": "Consultations are always conducted by nurses rather than by doctors",
+       "D": "Appointments are free of charge for every woman under forty"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm lý do phụ nữ thích khám từ xa: họ có thể thảo luận các vấn đề thầm kín ngay tại nhà (discuss intimate concerns from their own homes)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"reluctant\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "eager",
+       "B": "qualified",
+       "C": "grateful",
+       "D": "unwilling"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"reluctant\" ở đoạn 2 mô tả thái độ e ngại, không muốn đến phòng khám truyền thống để chia sẻ các vấn đề tế nhị, mang nghĩa không sẵn lòng, miễn cưỡng, do đó đồng nghĩa với unwillingness (unwilling)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such frequent contact is especially valuable during pregnancy, when small changes in symptoms can signal complications.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu / Cohesion",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mạch văn ở đoạn 3. Vị trí [1] nằm ngay sau câu nói về việc tư vấn từ xa giúp kết nối liên tục, tạo điều kiện theo dõi sát sao giữa bác sĩ và bệnh nhân. Câu chèn vào (nhắc đến việc giữ liên lạc thường xuyên này đặc biệt quý giá trong thời kỳ mang thai khi các triệu chứng nhỏ có thể báo hiệu biến chứng) tạo sự liên kết logic hoàn hảo nhất để giải thích cho ý này."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what must doctors be able to do during a teleconsultation?",
+      "options": {
+       "A": "Perform an ultrasound scan through a video connection",
+       "B": "Prescribe any requested medicine without asking further questions",
+       "C": "See and hear the patient clearly during the call",
+       "D": "Meet the patient at a licensed clinic beforehand"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 để tìm yêu cầu đối với bác sĩ trong buổi tư vấn từ xa: phải có khả năng nhìn và nghe bệnh nhân rõ ràng qua video (see and hear the patient clearly during the call)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"they\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Doctors",
+       "B": "Patients",
+       "C": "Regulators",
+       "D": "Pharmacists"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"they\" ở đoạn 4, hãy đọc ngược lại danh từ chỉ người số nhiều đứng trước đó trong câu: các bác sĩ (Doctors) phải đảm bảo nhìn và nghe rõ bệnh nhân cũng như tuân thủ các tiêu chuẩn chuyên môn."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"stringent\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "flexible",
+       "B": "strict",
+       "C": "generous",
+       "D": "outdated"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"stringent\" ở đoạn 5 đi kèm với các quy định pháp lý và tiêu chuẩn kiểm soát chất lượng nghiêm ngặt của cơ quan quản lý, mang nghĩa khắt khe, chặt chẽ (strict)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT presented as suitable for remote consultation?",
+      "options": {
+       "A": "Contraceptive counselling and open discussion of all available options",
+       "B": "Review of routine test results with a doctor",
+       "C": "Management of menopausal symptoms and any ongoing treatment",
+       "D": "Emergency assessment of heavy bleeding or severe pain"
+      },
+      "answer": "D",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các trường hợp phù hợp và không phù hợp cho khám từ xa ở đoạn 6: tư vấn tránh thai, xem xét kết quả xét nghiệm định kỳ và quản lý triệu chứng mãn kinh là những ca phù hợp. Trường hợp đánh giá cấp cứu các triệu chứng chảy máu nặng hoặc đau dữ dội tuyệt đối không phù hợp để khám từ xa mà cần đến bệnh viện ngay."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 3, 5, and 6 about the future of women's teleconsultation in Singapore?",
+      "options": {
+       "A": "It will make physical examinations and scans unnecessary within a decade",
+       "B": "It is suitable only for women who are already pregnant",
+       "C": "Its value depends on matching the right problems with the right setting",
+       "D": "Its success is guaranteed because privacy risks no longer exist"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc khám từ xa rất hữu ích cho các vấn đề thông thường nhưng không thay thế được khám trực tiếp, từ đó suy luận rằng giá trị của công nghệ này phụ thuộc vào việc lựa chọn đúng vấn đề cho đúng hình thức (matching the right problems with the right setting)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To assess the benefits and limits of teleconsultation for women",
+       "B": "To advertise a specific private clinic that offers affordable online appointments",
+       "C": "To criticise the government for banning almost all new medical technology",
+       "D": "To compare average healthcare costs between Singapore and its neighbouring countries Reading"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R3Q1, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để thấy văn bản đánh giá tổng quan về dịch vụ tư vấn y tế từ xa (teleconsultation) dành cho phụ nữ tại Singapore: mang lại sự tiện lợi, mở rộng khả năng tiếp cận nhưng vẫn có những giới hạn nhất định và không thể thay thế hoàn toàn khám trực tiếp. Do đó, phương án đúng phải bao quát được cả hai mặt lợi ích - giới hạn (R3Q1) và mục đích đánh giá, cân bằng lợi ích lẫn hạn chế (R3Q10).\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R3Q2**, quét thông tin ở đoạn 2 để tìm lý do phụ nữ thích khám từ xa: họ có thể thảo luận các vấn đề thầm kín ngay tại nhà (discuss intimate concerns from their own homes).\n  - Với **R3Q5**, quét đoạn 4 để tìm yêu cầu đối với bác sĩ trong buổi tư vấn từ xa: phải có khả năng nhìn và nghe bệnh nhân rõ ràng qua video (see and hear the patient clearly during the call).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R3Q3**, từ **\"reluctant\"** ở đoạn 2 mô tả thái độ e ngại, không muốn đến phòng khám truyền thống để chia sẻ các vấn đề tế nhị, mang nghĩa không sẵn lòng, miễn cưỡng, do đó đồng nghĩa với unwillingness (unwilling).\n  - Với **R3Q7**, từ **\"stringent\"** ở đoạn 5 đi kèm với các quy định pháp lý và tiêu chuẩn kiểm soát chất lượng nghiêm ngặt của cơ quan quản lý, mang nghĩa khắt khe, chặt chẽ (strict).\n- **Dạng câu hỏi Điền câu / Cohesion (R3Q4):** Phân tích mạch văn ở đoạn 3. Vị trí **[1]** nằm ngay sau câu nói về việc tư vấn từ xa giúp kết nối liên tục, tạo điều kiện theo dõi sát sao giữa bác sĩ và bệnh nhân. Câu chèn vào (nhắc đến việc giữ liên lạc thường xuyên này đặc biệt quý giá trong thời kỳ mang thai khi các triệu chứng nhỏ có thể báo hiệu biến chứng) tạo sự liên kết logic hoàn hảo nhất để giải thích cho ý này.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Với đại từ **\"they\"** ở đoạn 4, hãy đọc ngược lại danh từ chỉ người số nhiều đứng trước đó trong câu: các bác sĩ (Doctors) phải đảm bảo nhìn và nghe rõ bệnh nhân cũng như tuân thủ các tiêu chuẩn chuyên môn.\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R3Q8):** Đối chiếu danh sách các trường hợp phù hợp và không phù hợp cho khám từ xa ở đoạn 6: tư vấn tránh thai, xem xét kết quả xét nghiệm định kỳ và quản lý triệu chứng mãn kinh là những ca phù hợp. Trường hợp đánh giá cấp cứu các triệu chứng chảy máu nặng hoặc đau dữ dội tuyệt đối không phù hợp để khám từ xa mà cần đến bệnh viện ngay.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc khám từ xa rất hữu ích cho các vấn đề thông thường nhưng không thay thế được khám trực tiếp, từ đó suy luận rằng giá trị của công nghệ này phụ thuộc vào việc lựa chọn đúng vấn đề cho đúng hình thức (matching the right problems with the right setting).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi định vị thông tin nhanh như Từ vựng (R3Q3, R3Q7), Quy chiếu (R3Q6) và các câu **Chi tiết** (R3Q2, R3Q4, R3Q5), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Evolutionary and Nutritional Science of Breastfeeding",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few biological processes are as ancient or as finely tuned as lactation. Milk production evolved long before the first humans appeared, and many biologists believe that its origins lie in glandular secretions that originally kept eggs moist and protected them from microbes. Today, thousands of mammal species produce milk, yet each species' milk is tailored to its own pattern of growth, feeding frequency, and habitat.",
+     "Human milk is far from a **uniform** liquid, as its composition shifts in response to infant need. It varies across a single feed, across the day, and over months of lactation, adapting to the needs of an infant who grows and develops at remarkable speed. Fat content, for instance, tends to rise toward the end of a feed, a change that may signal fullness to the infant. The first milk, colostrum, is rich in antibodies and immune cells, whereas mature milk supplies the fats and carbohydrates that fuel rapid brain growth.",
+     "[1] Among the most intriguing components of human milk are oligosaccharides, complex sugars that the infant cannot digest. **[2]** Instead, these compounds feed beneficial gut bacteria such as Bifidobacterium, encouraging the growth of a microbial community that supports digestion, immune development, and protection against infection. **[3]** They may also act as decoys, binding to harmful microbes before the microbes can attach to the intestinal wall. **[4]** Such an investment implies that the infant's microbial partners matter as much to survival as its own tissues.",
+     "Breast milk also delivers protective factors that no manufactured alternative fully replicates. Secretory antibodies coat the infant's gut and airways, providing passive immunity while the baby's own defences mature. Breastfed infants tend to experience fewer infections, and **this** has been observed in both wealthy and low-income settings, although separating the effect of milk from other influences, such as family circumstances, remains difficult. Milk also contains living cells and bioactive molecules whose precise roles are still under investigation.",
+     "The benefits of breastfeeding are not confined to infants, since mothers also appear to gain. Mothers who breastfeed appear to have a lower risk of breast and ovarian cancers, and the hormonal changes associated with lactation help the uterus return to its former size. By contrast, claims that breastfeeding substantially raises children's intelligence or prevents obesity are less **robust**, because families who breastfeed often differ in income, education, and lifestyle from those who do not. Duration also seems to matter, with longer periods linked to somewhat greater protection in several studies.",
+     "Health organisations, including the World Health Organization, recommend exclusive breastfeeding for the first six months of life, followed by continued breastfeeding alongside appropriate complementary foods. Yet many mothers fall short of this goal, not through lack of motivation but because of obstacles such as short maternity leave, inadequate workplace facilities, difficulties with latching, and limited access to skilled lactation support. Supportive policies and skilled guidance therefore appear more effective than exhortation alone. Peer counsellors and support groups have been shown in some trials to improve breastfeeding duration, particularly when contact begins before birth.",
+     "Breastfeeding therefore sits at the intersection of evolution, nutrition, and social circumstance. Its biology reflects millions of years of refinement, yet its practice depends on conditions that modern societies can either support or undermine. A balanced view recognises both the distinctive value of human milk and the legitimacy of formula feeding for families who cannot or choose not to breastfeed, since safe infant nutrition matters more than ideological purity."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Formula feeding is dangerous and has no place in modern healthcare systems",
+       "B": "Breastfeeding is an evolved process whose benefits and practice depend on social support",
+       "C": "Human milk is chemically identical to the milk of every other mammal",
+       "D": "Scientific studies prove that breastfeeding always raises intelligence in all children"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, how does the composition of human milk change?",
+      "options": {
+       "A": "It stays identical from the first feed until weaning ends",
+       "B": "It changes only when the mother's diet changes very dramatically",
+       "C": "It varies across feeds, across days, and over months",
+       "D": "It becomes thinner as the baby gains weight over time"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm cách thành phần sữa thay đổi: sữa biến đổi theo từng cữ bú, qua các ngày và trong nhiều tháng (it varies across feeds, across days, and over months)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"uniform\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "unchanging",
+       "B": "harmless",
+       "C": "expensive",
+       "D": "fragrant"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"uniform\" ở đoạn 2 xuất hiện trong bối cảnh sữa mẹ không phải là chất lỏng đồng nhất mà thay đổi liên tục theo nhu cầu của trẻ, mang nghĩa không thay đổi, đồng đều (unchanging)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Taken together, these functions explain why producing a substance the infant cannot digest is a worthwhile evolutionary investment.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu / Cohesion",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mạch văn ở đoạn 3. Vị trí [4] nằm ngay sau các câu liệt kê các chức năng của oligosaccharides (nuôi vi khuẩn có lợi và đóng vai trò như mồi nhử vi khuẩn). Câu chèn vào (nhắc đến việc tổng hợp các chức năng này giải thích tại sao việc sản xuất chất mà trẻ chưa thể tiêu hóa lại là một khoản đầu tư tiến hóa đáng giá) tạo sự liên kết logic hoàn hảo ở cuối đoạn."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, how may oligosaccharides protect infants from harmful microbes?",
+      "options": {
+       "A": "They dissolve the cell walls of every harmful bacterium instantly",
+       "B": "They bind to microbes before the microbes attach to the gut wall",
+       "C": "They prevent the infant from absorbing any other useful nutrients",
+       "D": "They provide large amounts of protein for rapid muscle growth"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để định vị cơ chế bảo vệ của oligosaccharides: chúng liên kết với các vi khuẩn có hại trước khi chúng bám vào thành ruột (bind to microbes before the microbes attach to the gut wall)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"this\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Fewer infections",
+       "B": "Passive immunity",
+       "C": "Maternal antibodies",
+       "D": "Family circumstances"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"this\" ở đoạn 4, hãy đọc ngược lại mệnh đề ngay trước đó: trẻ bú sữa mẹ ít gặp các bệnh nhiễm trùng hơn, và điều này (hiện tượng ít nhiễm trùng hơn) đã được quan sát ở cả vùng giàu có lẫn thu nhập thấp (Fewer infections)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"robust\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "careless",
+       "B": "excessive",
+       "C": "convincing",
+       "D": "hostile"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"robust\" ở đoạn 5 đi kèm với các tuyên bố về việc nuôi sữa mẹ làm tăng trí thông minh hay chống béo phì nhưng thiếu tính thuyết phục do yếu tố gia đình và xã hội can thiệp, mang nghĩa vững chắc, thuyết phục (convincing)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as an obstacle to breastfeeding?",
+      "options": {
+       "A": "Short periods of paid maternity leave at work",
+       "B": "Strong disapproval from other family members",
+       "C": "Inadequate workplace facilities for many breastfeeding mothers",
+       "D": "Limited access to skilled lactation support services"
+      },
+      "answer": "B",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các trở ngại đối với việc nuôi con bằng sữa mẹ được nêu ở đoạn 6: thời gian nghỉ thai sản ngắn, cơ sở vật chất nơi làm việc không đầy đủ, và hạn chế về dịch vụ hỗ trợ. Phương án nhắc đến sự \"phản đối mạnh mẽ từ các thành viên khác trong gia đình\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about the evidence on breastfeeding?",
+      "options": {
+       "A": "All claimed benefits have been confirmed by large controlled trials",
+       "B": "Mothers who choose formula are acting against scientific evidence",
+       "C": "Social factors have no influence on infant health outcomes",
+       "D": "Some benefits are well supported while others remain uncertain"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc một số lợi ích đã được quan sát rõ ràng (như giảm nhiễm trùng) trong khi các tuyên bố khác còn mơ hồ hoặc khó tách biệt khỏi yếu tố lối sống (như trí thông minh, béo phì), từ đó suy luận rằng một số lợi ích được chứng minh tốt trong khi số khác vẫn còn chưa chắc chắn (Some benefits are well supported while others remain uncertain)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade mothers to avoid formula under any circumstances",
+       "B": "To compare the milk of humans with that of cows",
+       "C": "To explain the biology of breastfeeding and the factors affecting it",
+       "D": "To report the results of a single clinical trial"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R4Q1, R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để thấy văn bản phân tích quá trình tiến hóa của việc nuôi con bằng sữa mẹ, các thành phần sinh học đặc biệt, đồng thời nhấn mạnh rằng lợi ích và thực tiễn của nó phụ thuộc lớn vào sự hỗ trợ của xã hội. Do đó, phương án đúng phải khái quát được cả tiến trình tiến hóa lẫn điều kiện xã hội (R4Q1) và mục đích giải thích sinh học cùng các yếu tố tác động (R4Q10).\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, quét thông tin ở đoạn 2 để tìm cách thành phần sữa thay đổi: sữa biến đổi theo từng cữ bú, qua các ngày và trong nhiều tháng (it varies across feeds, across days, and over months).\n  - Với **R4Q5**, quét đoạn 3 để định vị cơ chế bảo vệ của oligosaccharides: chúng liên kết với các vi khuẩn có hại trước khi chúng bám vào thành ruột (bind to microbes before the microbes attach to the gut wall).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R4Q3**, từ **\"uniform\"** ở đoạn 2 xuất hiện trong bối cảnh sữa mẹ không phải là chất lỏng đồng nhất mà thay đổi liên tục theo nhu cầu của trẻ, mang nghĩa không thay đổi, đồng đều (unchanging).\n  - Với **R4Q7**, từ **\"robust\"** ở đoạn 5 đi kèm với các tuyên bố về việc nuôi sữa mẹ làm tăng trí thông minh hay chống béo phì nhưng thiếu tính thuyết phục do yếu tố gia đình và xã hội can thiệp, mang nghĩa vững chắc, thuyết phục (convincing).\n- **Dạng câu hỏi Điền câu / Cohesion (R4Q4):** Phân tích mạch văn ở đoạn 3. Vị trí **[4]** nằm ngay sau các câu liệt kê các chức năng của oligosaccharides (nuôi vi khuẩn có lợi và đóng vai trò như mồi nhử vi khuẩn). Câu chèn vào (nhắc đến việc tổng hợp các chức năng này giải thích tại sao việc sản xuất chất mà trẻ chưa thể tiêu hóa lại là một khoản đầu tư tiến hóa đáng giá) tạo sự liên kết logic hoàn hảo ở cuối đoạn.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Với đại từ **\"this\"** ở đoạn 4, hãy đọc ngược lại mệnh đề ngay trước đó: trẻ bú sữa mẹ ít gặp các bệnh nhiễm trùng hơn, và điều này (hiện tượng ít nhiễm trùng hơn) đã được quan sát ở cả vùng giàu có lẫn thu nhập thấp (Fewer infections).\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R4Q8):** Đối chiếu danh sách các trở ngại đối với việc nuôi con bằng sữa mẹ được nêu ở đoạn 6: thời gian nghỉ thai sản ngắn, cơ sở vật chất nơi làm việc không đầy đủ, và hạn chế về dịch vụ hỗ trợ. Phương án nhắc đến sự \"phản đối mạnh mẽ từ các thành viên khác trong gia đình\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc một số lợi ích đã được quan sát rõ ràng (như giảm nhiễm trùng) trong khi các tuyên bố khác còn mơ hồ hoặc khó tách biệt khỏi yếu tố lối sống (như trí thông minh, béo phì), từ đó suy luận rằng một số lợi ích được chứng minh tốt trong khi số khác vẫn còn chưa chắc chắn (Some benefits are well supported while others remain uncertain).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R4Q3, R4Q7), Quy chiếu (R4Q6) và các câu **Chi tiết** (R4Q2, R4Q4, R4Q5), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Laura, who is planning to visit your country next month.\nRead part of her email below.\nI'm so excited about my trip to your country next month! Since it is my first time there, I need some advice from you.\n- Which places or cities should I visit?\n- What is the weather like at that time?\n- What kind of outdoor activities can we do together?\nWrite an email responding to Laura. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Laura, who is planning to visit your country next month.",
+      "Read part of her email below."
+     ],
+     "quote": [
+      "I'm so excited about my trip to your country next month! Since it is my first time there, I need some advice from you.",
+      "- Which places or cities should I visit?",
+      "- What is the weather like at that time?",
+      "- What kind of outdoor activities can we do together?"
+     ],
+     "instruction": "Write an email responding to Laura. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng thư thân mật (Informal Email) gửi cho bạn bè để đưa ra lời khuyên và gợi ý.\n- Bạn cần trả lời đầy đủ 3 yêu cầu: gợi ý địa điểm, mô tả thời tiết tháng tới, và đề xuất các hoạt động ngoài trời.\n- Đảm bảo viết ít nhất 120 từ với giọng văn tự nhiên, gần gũi.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Dear Laura, / Hi Laura,\n- **Opening:** Bày tỏ sự hào hứng về chuyến thăm của bạn mình. Ví dụ: I was thrilled to hear that you are visiting my country next month!\n- **Body Paragraph 1:** Gợi ý địa điểm (Vịnh Hạ Long, Hội An, hoặc Đà Lạt) và giải thích lý do.\n- **Body Paragraph 2:** Mô tả thời tiết (nắng, mưa, hay mát mẻ) để bạn chuẩn bị trang phục.\n- **Body Paragraph 3:** Đề xuất hoạt động ngoài trời như đi bộ đường dài, chèo thuyền hoặc tham quan chợ đêm.\n- **Closing & Sign-off:** Mong sớm gặp lại. Ví dụ: I can't wait to see you. Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các cấu trúc gợi ý như \"I highly recommend...\", \"You should definitely check out...\", \"It would be a great idea to...\".\n- Sử dụng thì tương lai đơn và hiện tại đơn để mô tả kế hoạch và sự thật về thời tiết.\nTừ vựng quan trọng:\n- **Tourist attraction:** Địa điểm thu hút khách du lịch\n- **Breathtaking scenery:** Phong cảnh đẹp đến ngạt thở\n- **Local cuisine:** Ẩm thực địa phương\n- **Humid / Sunny / Chilly:** Ẩm ướt / Nắng / Se lạnh\n- **Outdoor excursion:** Chuyến tham quan ngoài trời\n- **Hospitality:** Sự hiếu khách\nTừ nối (Linking words):\n- **First of all:** Đầu tiên là\n- **Regarding the weather:** Liên quan đến thời tiết\n- **In addition to that:** Thêm vào đó\n- **Moreover:** Hơn nữa\n- **Actually:** Thực ra thì\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm over the moon that...:** Mình cực kỳ hạnh phúc vì...\n- **I'm looking forward to...:** Mình đang rất mong đợi...\n- **It's going to be blast!:** Chắc chắn sẽ rất vui đây!\n\n**4. Các lỗi thường gặp:**\n- Quên không chào hỏi hoặc kết thúc thư đúng cách.\n- Dùng ngôn ngữ quá trang trọng (Formal) như \"I would like to inform you\" thay vì \"I want to tell you\".\n- Không trả lời đủ 3 câu hỏi trong lời dẫn.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra lỗi chính tả tên riêng địa danh.\n- Đảm bảo các câu hỏi của Laura đã được trả lời rõ ràng.\n- Đếm số từ để chắc chắn đạt trên 120 từ.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang thực sự lên kế hoạch cho một người bạn thân để bài viết có cảm xúc và chi tiết thực tế hơn.\n- Sự mạch lạc giữa các đoạn văn bằng từ nối là yếu tố giúp bạn đạt điểm B2.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nMarriage is a significant milestone in many cultures, but people have different views on how a partner should be chosen.\nSome people argue that arranged marriages, where parents or family members choose the spouse, lead to more stable relationships. However, others believe that love marriages, based on personal choice and romantic attraction, are more successful in the modern world.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about arranged marriages and love marriages. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Marriage is a significant milestone in many cultures, but people have different views on how a partner should be chosen.",
+      "Some people argue that arranged marriages, where parents or family members choose the spouse, lead to more stable relationships. However, others believe that love marriages, based on personal choice and romantic attraction, are more successful in the modern world.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about arranged marriages and love marriages. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng Discussion Essay (Thảo luận hai quan điểm và đưa ra ý kiến cá nhân).\n- Từ khóa: Arranged marriage (Hôn nhân sắp đặt), Love marriage (Hôn nhân tự nguyện/vì tình yêu).\n- Yêu cầu: Phân tích ưu/nhược điểm của cả hai phía trước khi chốt lại lựa chọn của mình.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Dẫn dắt về tầm quan trọng của hôn nhân và nêu ra hai luồng ý kiến trái chiều.\n- **Body 1:** Thảo luận về hôn nhân sắp đặt. Tập trung vào sự tương đồng về nền tảng gia đình, kinh tế và sự hỗ trợ từ người thân.\n- **Body 2:** Thảo luận về hôn nhân tự nguyện. Tập trung vào sự thấu hiểu cá nhân, quyền tự do lựa chọn và sự gắn kết cảm xúc mạnh mẽ.\n- **Conclusion:** Tóm tắt ý chính và đưa ra quan điểm cá nhân (thường nghiêng về hôn nhân tự nguyện trong xã hội hiện đại hoặc sự kết hợp cả hai).\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các cấu trúc so sánh và đối lập.\n- Đảm bảo mỗi đoạn thân bài có một Topic Sentence rõ ràng.\nTừ vựng quan trọng:\n- **Marital stability:** Sự ổn định trong hôn nhân\n- **Compatible backgrounds:** Nền tảng tương đồng/hợp nhau\n- **Romantic attachment:** Sự gắn kết lãng mạn\n- **Mutual understanding:** Sự thấu hiểu lẫn nhau\n- **Cultural heritage:** Di sản văn hóa\n- **Autonomy:** Quyền tự quyết\nTừ nối (Linking words):\n- **On the one hand / On the other hand:** Một mặt / Mặt khác\n- **In contrast / Conversely:** Ngược lại\n- **From my perspective:** Theo góc nhìn của tôi\n- **Proponents of... argue that:** Những người ủng hộ... cho rằng\n- **Nonetheless:** Tuy nhiên\n- **In conclusion:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Planned unions:** Thay cho arranged marriages.\n- **Self-selected marriage:** Thay cho love marriage.\n- **Life partner:** Thay cho husband/wife/spouse.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **It is often claimed that:** Thường có ý kiến cho rằng...\n- **While the former emphasizes..., the latter focuses on...:** Trong khi cái trước nhấn mạnh..., cái sau tập trung vào...\n- **I am inclined to believe that:** Tôi có xu hướng tin rằng...\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung vào một phía mà quên không thảo luận phía còn lại.\n- Không đưa ra được quan điểm cá nhân rõ ràng trong bài.\n- Sử dụng từ ngữ quá bình dân, thiếu các từ vựng học thuật liên quan đến xã hội học.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã có đủ phần Mở - Thân - Kết chưa.\n- Soát lỗi chia động từ (Subject-Verb Agreement).\n- Đảm bảo độ dài đạt tối thiểu 250 từ.\n\n**6. Tư duy làm bài:**\n- Hãy giữ cái nhìn khách quan. Dù bạn ủng hộ tình yêu tự do, vẫn phải chỉ ra được tại sao một số người vẫn tin vào hôn nhân sắp đặt (ví dụ: sự bền vững, sự ủng hộ của gia đình)."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about money\n\n1\nWhat do you usually spend your money on?\n2\nHave you ever overspent your budget? Why or why not?\n3\nWhat are some effective ways to save money for the future?\n\nNow, let’s talk about the Internet\n\n4\nWhat do you usually use the Internet for in your daily life?\n5\nHow has the Internet made your life more convenient?\n6\nDo you think people are spending too much time on the Internet nowadays?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 kéo dài khoảng **3 phút** với tổng cộng **6 câu hỏi**. Bạn cần trả lời nhanh, rõ ràng và duy trì hội thoại tự nhiên.\n- **Topic A (Money):** Các câu hỏi 1–3 tập trung vào cách tiêu tiền, quản lý tài chính cá nhân và tiết kiệm cho tương lai. Chủ đề này kiểm tra khả năng nói về thói quen và kinh nghiệm cá nhân.\n- **Topic B (Internet):** Các câu hỏi 4–6 liên quan đến việc sử dụng Internet và tác động của công nghệ đối với cuộc sống hiện đại. Chủ đề này kiểm tra khả năng diễn đạt quan điểm xã hội.\n- Giám khảo đánh giá dựa trên **độ trôi chảy**, **từ vựng**, **ngữ pháp** và **phát âm**.\n- Nên dành khoảng **25–35 giây** cho mỗi câu hỏi và chia thời gian đều giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Áp dụng cấu trúc **ARE**: Answer -> Reason -> Example để mở rộng ý tự nhiên.\n- **Ví dụ Topic A:** “I usually spend my money on food and study materials because they are essential for my daily life. For example, I often buy books and online courses.”\n- **Ví dụ Topic B:** “I mainly use the Internet for studying and communication since it helps me access information quickly.”\n- Luôn tự hỏi “Why?”, “How?” hoặc “Can you give an example?” để kéo dài câu trả lời.\n- Khi chuyển ý, bạn có thể dùng câu như: “Besides entertainment, the Internet is also useful for education.” để nối ý mượt mà.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và dùng filler tự nhiên như “Well”, “Actually”, “To be honest”.\n- Với Topic A, nên dùng hiện tại đơn khi nói về thói quen và hiện tại hoàn thành khi nói về trải nghiệm chi tiêu.\n- Nếu quên từ vựng, hãy giải thích ý bằng từ đơn giản thay vì im lặng quá lâu.\n- **Vocabulary for Topic A:** manage expenses (quản lý chi tiêu), monthly budget (ngân sách hàng tháng), save up for the future (tiết kiệm cho tương lai), unnecessary purchases (mua sắm không cần thiết).\n- **Vocabulary for Topic B:** browse the Internet (lướt Internet), online resources (tài nguyên trực tuyến), social networking sites (mạng xã hội), digital communication (giao tiếp kỹ thuật số).\nCụm từ quan trọng nên dùng:\n- **stick to a budget** – tuân theo ngân sách\n- **cut down on expenses** – cắt giảm chi tiêu\n- **save money for emergencies** – tiết kiệm tiền cho trường hợp khẩn cấp\n- **access information instantly** – truy cập thông tin ngay lập tức\n- **spend hours scrolling online** – dành hàng giờ lướt mạng\n- **keep in touch through the Internet** – giữ liên lạc qua Internet\nTừ nối khi nói (Linking Words):\n- **Firstly** – đầu tiên\n- **Besides that** – bên cạnh đó\n- **For example** – ví dụ như\n- **As a result** – kết quả là\n- **In my opinion** – theo quan điểm của tôi\nCách thể hiện quan điểm tự nhiên:\n- **I personally think saving money is important because...** – Cá nhân tôi nghĩ tiết kiệm tiền quan trọng vì...\n- **From my perspective, people should manage their spending carefully.** – Theo góc nhìn của tôi, mọi người nên quản lý chi tiêu cẩn thận.\n- **To be honest, I sometimes buy things I do not really need.** – Thành thật mà nói, đôi khi tôi mua những thứ không thực sự cần thiết.\n- **I believe the Internet makes life more convenient because...** – Tôi tin rằng Internet khiến cuộc sống tiện lợi hơn vì...\n- **In my view, people are becoming too dependent on technology.** – Theo tôi, mọi người đang phụ thuộc quá nhiều vào công nghệ.\n- **Personally, I use the Internet every day for both study and entertainment.** – Cá nhân tôi sử dụng Internet mỗi ngày cho việc học và giải trí.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn chỉ bằng “Yes” hoặc “No” mà không giải thích thêm.\n- Ở Topic A, nhiều bạn chỉ liệt kê mình mua gì mà không nói lý do.\n- Ở Topic B, nhiều bạn nói quá chung chung về Internet mà thiếu ví dụ thực tế.\n- Dùng sai thì khi kể trải nghiệm trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Có thể dùng câu filler như: “That is an interesting question. Let me think for a moment.”\n- Nếu quên từ vựng, hãy mô tả chức năng hoặc lợi ích của nó.\n- Với Topic A, nếu quên từ liên quan tài chính, hãy dùng các cụm đơn giản như “money planning”.\n- Với Topic B, nếu quên từ công nghệ, hãy nói theo cách đơn giản như “using phones and computers online”.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi Part 1 như một cuộc trò chuyện đời thường với giám khảo.\n- Khi chuyển từ Topic A sang Topic B, hãy đổi tư duy từ tài chính cá nhân sang công nghệ và xã hội.\n- Độ tự nhiên và mạch lạc quan trọng hơn việc cố sử dụng quá nhiều từ khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou are planning to have a pet to keep you company at home.\n\nYou are considering the following options:\n\nOption 1: A cat\nOption 2: A dog\nOption 3: A fish\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đề bài yêu cầu bạn chọn loại thú cưng phù hợp nhất để bầu bạn ở nhà.\n- Ba lựa chọn gồm mèo, chó và cá, mỗi lựa chọn có ưu và nhược điểm riêng.\n- Giám khảo sẽ đánh giá khả năng so sánh, lập luận và bảo vệ ý kiến của bạn.\n- Thời gian khoảng **4 phút**, nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Nên dùng cấu trúc **State opinion -> Give reason -> Compare -> Conclude**.\n- **Option 1:** Cats are independent and easy to take care of, but they may not be very interactive.\n- **Option 2:** Dogs are loyal and friendly, but they require more time and attention.\n- **Option 3:** Fish are quiet and relaxing to watch, but they cannot interact much with humans.\n- Hãy liên hệ với lối sống thực tế của sinh viên hoặc người đi làm để lập luận thuyết phục hơn.\n- Dùng các từ nối đối lập như “however”, “on the other hand”, “compared to” để chuyển ý mượt mà.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì nói tách rời từng option.\n- Dùng hiện tại đơn để mô tả đặc điểm của thú cưng và tương lai đơn khi nói về lợi ích lâu dài.\n- Nếu quên từ “companionship”, có thể thay bằng “emotional support” hoặc “a friend at home”.\nCụm từ quan trọng nên dùng:\n- **provide emotional support** – mang lại sự hỗ trợ tinh thần\n- **easy to take care of** – dễ chăm sóc\n- **require a lot of attention** – cần nhiều sự quan tâm\n- **keep someone company** – bầu bạn với ai đó\n- **reduce stress and loneliness** – giảm căng thẳng và cô đơn\n- **fit a busy lifestyle** – phù hợp với lối sống bận rộn\nTừ nối khi nói (Linking Words):\n- **Firstly** – đầu tiên\n- **In contrast** – ngược lại\n- **Moreover** – hơn nữa\n- **As a result** – kết quả là\n- **Compared to** – so với\nCách thể hiện quan điểm tự nhiên:\n- **I strongly believe a dog is the best choice because it is friendly and loyal.** – Tôi tin mạnh mẽ rằng chó là lựa chọn tốt nhất vì thân thiện và trung thành.\n- **Compared to cats, dogs are usually more interactive.** – So với mèo, chó thường tương tác nhiều hơn.\n- **In my opinion, fish are relaxing to watch, but they cannot provide real companionship.** – Theo tôi, cá giúp thư giãn khi ngắm nhưng không thể tạo sự gắn kết thực sự.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về lựa chọn mình thích mà không phân tích các lựa chọn còn lại.\n- Lặp từ “good” hoặc “cute” quá nhiều thay vì dùng từ đa dạng hơn.\n- Kết luận không rõ ràng hoặc thay đổi lựa chọn giữa bài nói.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng về thú cưng, hãy nói về thời gian chăm sóc, chi phí hoặc mức độ tiện lợi.\n- Dùng câu kéo thời gian như: “Let's consider this option from another perspective.”\n- Nếu bí ở một option, hãy nhanh chóng chuyển sang option tiếp theo thay vì dừng lại quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người thật sự muốn nuôi thú cưng và cân nhắc yếu tố thực tế.\n- Ngay cả với lựa chọn bạn thích nhất, hãy nêu thêm điểm hạn chế nhỏ để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of using electric cars\n\nBenefits of Electric Cars\nReduce environmental pollution\nSave money on fuel and maintenance\nConserve natural resources\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat are some disadvantages of using electric cars at the moment?\n2\nHow can the government encourage people to use electric vehicles?\n3\nDo you think electric cars will completely replace petrol cars in the future?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn trình bày lợi ích của xe điện trong cuộc sống hiện đại.\n- Ba nhánh mindmap chính gồm giảm ô nhiễm môi trường, tiết kiệm chi phí và bảo tồn tài nguyên thiên nhiên.\n- Bạn nên tự bổ sung nhánh thứ tư như cải thiện sức khỏe cộng đồng hoặc phát triển công nghệ xanh.\n- Giám khảo sẽ đánh giá khả năng phát triển ý, sử dụng từ vựng học thuật và trả lời follow-up.\n- Thời gian khoảng **5 phút**, nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho follow-up questions.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Nên dùng cấu trúc **FEEL**: Point -> Explanation -> Example -> Link.\n- **Ví dụ 1:** “Today, I would like to talk about the benefits of using electric cars in modern society.”\n- **Ví dụ 2:** “Another advantage is that electric vehicles can reduce noise pollution in crowded cities.”\n- Hãy phát triển từng ý bằng giải thích và ví dụ thay vì chỉ đọc lại mindmap.\n- Luôn đi theo thứ tự các nhánh mindmap để bài nói logic và tránh lặp ý.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng cụm nối như “Another major benefit is...”, “In addition to that...” để chuyển ý mượt mà.\n- Dùng hiện tại đơn để nói sự thật chung và tương lai đơn để dự đoán tương lai của xe điện.\n- Có thể paraphrase “electric cars” bằng “electric vehicles”, “eco-friendly cars” hoặc “battery-powered vehicles”. Cụm từ quan trọng nên dùng:\n- **reduce carbon emissions** – giảm khí thải carbon\n- **environmentally friendly transportation** – phương tiện giao thông thân thiện với môi trường\n- **save fuel costs** – tiết kiệm chi phí nhiên liệu\n- **promote sustainable development** – thúc đẩy phát triển bền vững\n- **depend less on fossil fuels** – phụ thuộc ít hơn vào nhiên liệu hóa thạch\n- **improve air quality** – cải thiện chất lượng không khí\nTừ nối khi nói (Linking Words):\n- **Firstly** – đầu tiên\n- **Besides that** – bên cạnh đó\n- **For instance** – ví dụ như\n- **As a consequence** – kết quả là\n- **Finally** – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- **In my opinion, electric cars are an important solution for environmental problems.** – Theo tôi, xe điện là giải pháp quan trọng cho vấn đề môi trường.\n- **I believe more people will use electric vehicles in the future.** – Tôi tin rằng nhiều người sẽ sử dụng xe điện hơn trong tương lai.\n- **From my perspective, governments should invest in charging stations.** – Theo góc nhìn của tôi, chính phủ nên đầu tư vào trạm sạc.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **What are some disadvantages of using electric cars at the moment?** – Electric cars are still expensive and charging infrastructure is limited in many areas.\n- **How can the government encourage people to use electric vehicles?** – Governments can reduce taxes and build more charging stations.\n- **Do you think electric cars will completely replace petrol cars in the future?** – I think electric vehicles will become more popular, but petrol cars may still exist for certain purposes.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích mà không giải thích chi tiết hoặc cho ví dụ.\n- Quên phát triển nhánh ý tưởng cá nhân thứ tư.\n- Nói quá dài ở phần trình bày chính và thiếu thời gian cho follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Khi bí ý, hãy liên hệ với tình hình giao thông hoặc ô nhiễm thực tế ở thành phố nơi bạn sống.\n- Dùng câu như: “That is a complex issue. If we look at it from an environmental perspective...” để kéo dài thời gian suy nghĩ.\n- Nếu quên từ kỹ thuật, hãy dùng mô tả đơn giản như “cars that use electricity instead of petrol”.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ môi trường, kinh tế và xã hội.\n- Tính logic và sự liên kết giữa các ý là yếu tố quan trọng để đạt điểm cao.\n- Giữ phong cách nói tự nhiên và thể hiện quan điểm cá nhân rõ ràng."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about money.\n1.\nWhat do you usually spend your money on?\n2.\nHave you ever overspent your budget? Why or why not?\n3.\nWhat are some effective ways to save money for the future?\nNow, let’s talk about the Internet.\n4.\nWhat do you usually use the Internet for in your daily life?\n5.\nHow has the Internet made your life more convenient?\n6.\nDo you think people are spending too much time on the Internet nowadays?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 kéo dài khoảng 3 phút với tổng cộng 6 câu hỏi. Bạn cần trả lời nhanh, rõ ràng và duy trì hội thoại tự nhiên.\n• Topic A (Money): Các câu hỏi 1–3 tập trung vào cách tiêu tiền, quản lý tài chính cá nhân và tiết kiệm cho tương lai.\nChủ đề này kiểm tra khả năng nói về thói quen và kinh nghiệm cá nhân.\n• Topic B (Internet): Các câu hỏi 4–6 liên quan đến việc sử dụng Internet và tác động của công nghệ đối với cuộc sống\nhiện đại. Chủ đề này kiểm tra khả năng diễn đạt quan điểm xã hội.\n• Giám khảo đánh giá dựa trên độ trôi chảy, từ vựng, ngữ pháp và phát âm.\n• Nên dành khoảng 25–35 giây cho mỗi câu hỏi và chia thời gian đều giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Áp dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng ý tự nhiên.\n• Ví dụ Topic A: “I usually spend my money on food and study materials because they are essential for my daily life.\nFor example, I often buy books and online courses.”\n• Ví dụ Topic B: “I mainly use the Internet for studying and communication since it helps me access information\nquickly.”\n• Luôn tự hỏi “Why?”, “How?” hoặc “Can you give an example?” để kéo dài câu trả lời.\n• Khi chuyển ý, bạn có thể dùng câu như: “Besides entertainment, the Internet is also useful for education.” để nối ý\nmượt mà.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và dùng filler tự nhiên như “Well”, “Actually”, “To be honest”.\n• Với Topic A, nên dùng hiện tại đơn khi nói về thói quen và hiện tại hoàn thành khi nói về trải nghiệm chi tiêu.\n• Nếu quên từ vựng, hãy giải thích ý bằng từ đơn giản thay vì im lặng quá lâu.\n• Vocabulary for Topic A: manage expenses (quản lý chi tiêu), monthly budget (ngân sách hàng tháng), save up for\nthe future (tiết kiệm cho tương lai), unnecessary purchases (mua sắm không cần thiết).\n• Vocabulary for Topic B: browse the Internet (lướt Internet), online resources (tài nguyên trực tuyến), social networking\nsites (mạng xã hội), digital communication (giao tiếp kỹ thuật số).\nCụm từ quan trọng nên dùng:\n• stick to a budget – tuân theo ngân sách\n• cut down on expenses – cắt giảm chi tiêu\n• save money for emergencies – tiết kiệm tiền cho trường hợp khẩn cấp\n• access information instantly – truy cập thông tin ngay lập tức\n• spend hours scrolling online – dành hàng giờ lướt mạng\n• keep in touch through the Internet – giữ liên lạc qua Internet\nTừ nối khi nói (Linking Words):\n• Firstly – đầu tiên\n• Besides that – bên cạnh đó\n• For example – ví dụ như\n• As a result – kết quả là\n• In my opinion – theo quan điểm của tôi\nCách thể hiện quan điểm tự nhiên:\n• I personally think saving money is important because... – Cá nhân tôi nghĩ tiết kiệm tiền quan trọng vì...\n• From my perspective, people should manage their spending carefully. – Theo góc nhìn của tôi, mọi người nên quản\nlý chi tiêu cẩn thận.\n• To be honest, I sometimes buy things I do not really need. – Thành thật mà nói, đôi khi tôi mua những thứ không\nthực sự cần thiết.\n• I believe the Internet makes life more convenient because... – Tôi tin rằng Internet khiến cuộc sống tiện lợi hơn vì...\n• In my view, people are becoming too dependent on technology. – Theo tôi, mọi người đang phụ thuộc quá nhiều vào\ncông nghệ.\n• Personally, I use the Internet every day for both study and entertainment. – Cá nhân tôi sử dụng Internet mỗi ngày\ncho việc học và giải trí.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn chỉ bằng “Yes” hoặc “No” mà không giải thích thêm.\n• Ở Topic A, nhiều bạn chỉ liệt kê mình mua gì mà không nói lý do.\n• Ở Topic B, nhiều bạn nói quá chung chung về Internet mà thiếu ví dụ thực tế.\n• Dùng sai thì khi kể trải nghiệm trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Có thể dùng câu filler như: “That is an interesting question. Let me think for a moment.”\n• Nếu quên từ vựng, hãy mô tả chức năng hoặc lợi ích của nó.\n• Với Topic A, nếu quên từ liên quan tài chính, hãy dùng các cụm đơn giản như “money planning”.\n• Với Topic B, nếu quên từ công nghệ, hãy nói theo cách đơn giản như “using phones and computers online”.\n6. Tư duy làm bài nói:\n• Hãy coi Part 1 như một cuộc trò chuyện đời thường với giám khảo.\n• Khi chuyển từ Topic A sang Topic B, hãy đổi tư duy từ tài chính cá nhân sang công nghệ và xã hội.\n• Độ tự nhiên và mạch lạc quan trọng hơn việc cố sử dụng quá nhiều từ khó.\nSolution Discussion\nPART 2\n4 phút\nYou are planning to have a pet to keep you company at home.\nYou are considering the following options:\n• Option 1: A cat\n• Option 2: A dog\n• Option 3: A fish\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đề bài yêu cầu bạn chọn loại thú cưng phù hợp nhất để bầu bạn ở nhà.\n• Ba lựa chọn gồm mèo, chó và cá, mỗi lựa chọn có ưu và nhược điểm riêng.\n• Giám khảo sẽ đánh giá khả năng so sánh, lập luận và bảo vệ ý kiến của bạn.\n• Thời gian khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Nên dùng cấu trúc State opinion -> Give reason -> Compare -> Conclude.\n• Option 1: Cats are independent and easy to take care of, but they may not be very interactive.\n• Option 2: Dogs are loyal and friendly, but they require more time and attention.\n• Option 3: Fish are quiet and relaxing to watch, but they cannot interact much with humans.\n• Hãy liên hệ với lối sống thực tế của sinh viên hoặc người đi làm để lập luận thuyết phục hơn.\n• Dùng các từ nối đối lập như “however”, “on the other hand”, “compared to” để chuyển ý mượt mà.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì nói tách rời từng option.\n• Dùng hiện tại đơn để mô tả đặc điểm của thú cưng và tương lai đơn khi nói về lợi ích lâu dài.\n• Nếu quên từ “companionship”, có thể thay bằng “emotional support” hoặc “a friend at home”.\nCụm từ quan trọng nên dùng:\n• provide emotional support – mang lại sự hỗ trợ tinh thần\n• easy to take care of – dễ chăm sóc\n• require a lot of attention – cần nhiều sự quan tâm\n• keep someone company – bầu bạn với ai đó\n• reduce stress and loneliness – giảm căng thẳng và cô đơn\n• fit a busy lifestyle – phù hợp với lối sống bận rộn\nTừ nối khi nói (Linking Words):\n• Firstly – đầu tiên\n• In contrast – ngược lại\n• Moreover – hơn nữa\n• As a result – kết quả là\n• Compared to – so với\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe a dog is the best choice because it is friendly and loyal. – Tôi tin mạnh mẽ rằng chó là lựa chọn\ntốt nhất vì thân thiện và trung thành.\n• Compared to cats, dogs are usually more interactive. – So với mèo, chó thường tương tác nhiều hơn.\n• In my opinion, fish are relaxing to watch, but they cannot provide real companionship. – Theo tôi, cá giúp thư giãn\nkhi ngắm nhưng không thể tạo sự gắn kết thực sự.\n4. Các lỗi thường gặp:\n• Chỉ nói về lựa chọn mình thích mà không phân tích các lựa chọn còn lại.\n• Lặp từ “good” hoặc “cute” quá nhiều thay vì dùng từ đa dạng hơn.\n• Kết luận không rõ ràng hoặc thay đổi lựa chọn giữa bài nói.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng về thú cưng, hãy nói về thời gian chăm sóc, chi phí hoặc mức độ tiện lợi.\n• Dùng câu kéo thời gian như: “Let's consider this option from another perspective.”\n• Nếu bí ở một option, hãy nhanh chóng chuyển sang option tiếp theo thay vì dừng lại quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người thật sự muốn nuôi thú cưng và cân nhắc yếu tố thực tế.\n• Ngay cả với lựa chọn bạn thích nhất, hãy nêu thêm điểm hạn chế nhỏ để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: The benefits of using electric cars\nReduce environmental pollution\nSave money on fuel and maintenance\nBenefits of Electric Cars\nÝ tưởng của bạn\nConserve natural resources\nFOLLOW-UP QUESTIONS\n1.\nWhat are some disadvantages of using electric cars at the moment?\n2.\nHow can the government encourage people to use electric vehicles?\n3.\nDo you think electric cars will completely replace petrol cars in the future?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn trình bày lợi ích của xe điện trong cuộc sống hiện đại.\n• Ba nhánh mindmap chính gồm giảm ô nhiễm môi trường, tiết kiệm chi phí và bảo tồn tài nguyên thiên nhiên.\n• Bạn nên tự bổ sung nhánh thứ tư như cải thiện sức khỏe cộng đồng hoặc phát triển công nghệ xanh.\n• Giám khảo sẽ đánh giá khả năng phát triển ý, sử dụng từ vựng học thuật và trả lời follow-up.\n• Thời gian khoảng 5 phút, nên dành khoảng 3–3.5 phút cho bài nói chính và phần còn lại cho follow-up questions.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Nên dùng cấu trúc FEEL: Point -> Explanation -> Example -> Link.\n• Ví dụ 1: “Today, I would like to talk about the benefits of using electric cars in modern society.”\n• Ví dụ 2: “Another advantage is that electric vehicles can reduce noise pollution in crowded cities.”\n• Hãy phát triển từng ý bằng giải thích và ví dụ thay vì chỉ đọc lại mindmap.\n• Luôn đi theo thứ tự các nhánh mindmap để bài nói logic và tránh lặp ý.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng cụm nối như “Another major benefit is...”, “In addition to that...” để chuyển ý mượt mà.\n• Dùng hiện tại đơn để nói sự thật chung và tương lai đơn để dự đoán tương lai của xe điện.\n• Có thể paraphrase “electric cars” bằng “electric vehicles”, “eco-friendly cars” hoặc “battery-powered vehicles”.\nCụm từ quan trọng nên dùng:\n• reduce carbon emissions – giảm khí thải carbon\n• environmentally friendly transportation – phương tiện giao thông thân thiện với môi trường\n• save fuel costs – tiết kiệm chi phí nhiên liệu\n• promote sustainable development – thúc đẩy phát triển bền vững\n• depend less on fossil fuels – phụ thuộc ít hơn vào nhiên liệu hóa thạch\n• improve air quality – cải thiện chất lượng không khí\nTừ nối khi nói (Linking Words):\n• Firstly – đầu tiên\n• Besides that – bên cạnh đó\n• For instance – ví dụ như\n• As a consequence – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, electric cars are an important solution for environmental problems. – Theo tôi, xe điện là giải pháp\nquan trọng cho vấn đề môi trường.\n• I believe more people will use electric vehicles in the future. – Tôi tin rằng nhiều người sẽ sử dụng xe điện hơn trong\ntương lai.\n• From my perspective, governments should invest in charging stations. – Theo góc nhìn của tôi, chính phủ nên đầu\ntư vào trạm sạc.\n4. Gợi ý trả lời câu hỏi follow-up:\n• What are some disadvantages of using electric cars at the moment? – Electric cars are still expensive and charging\ninfrastructure is limited in many areas.\n• How can the government encourage people to use electric vehicles? – Governments can reduce taxes and build\nmore charging stations.\n• Do you think electric cars will completely replace petrol cars in the future? – I think electric vehicles will become\nmore popular, but petrol cars may still exist for certain purposes.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích mà không giải thích chi tiết hoặc cho ví dụ.\n• Quên phát triển nhánh ý tưởng cá nhân thứ tư.\n• Nói quá dài ở phần trình bày chính và thiếu thời gian cho follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Khi bí ý, hãy liên hệ với tình hình giao thông hoặc ô nhiễm thực tế ở thành phố nơi bạn sống.\n• Dùng câu như: “That is a complex issue. If we look at it from an environmental perspective...” để kéo dài thời gian\nsuy nghĩ.\n• Nếu quên từ kỹ thuật, hãy dùng mô tả đơn giản như “cars that use electricity instead of petrol”.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ môi trường, kinh tế và xã hội.\n• Tính logic và sự liên kết giữa các ý là yếu tố quan trọng để đạt điểm cao.\n• Giữ phong cách nói tự nhiên và thể hiện quan điểm cá nhân rõ ràng."
+}

@@ -1,0 +1,717 @@
+{
+ "id": "vlu-11",
+ "number": 11,
+ "title": "Đề thi VLU 11",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-11",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Vibrant Culture of Vietnamese Street Food",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Walk along almost any street in Vietnam in the early morning, and you will smell fresh herbs, grilled meat, and boiling broth. Visitors can often smell the food before they see the stall. Street food is not only a quick meal; it is part of daily life and national identity. In the **bustling** cities of Hanoi and Ho Chi Minh City, thousands of small stalls serve people on their way to work, and every neighbourhood has its own favourite places. This passage looks at the most famous dishes, the reasons for their popularity, and the challenges that street vendors face.",
+     "Several Vietnamese dishes have become famous far beyond the borders of the country. Pho, a soup of rice noodles, herbs, and beef or chicken in a clear broth, is probably the best known, and many families eat it for breakfast. Banh mi is a crispy baguette filled with meat, pickled vegetables, and fresh coriander, which makes it a simple and filling lunch. Another favourite is bun cha, a northern dish of grilled pork served with noodles and a sweet and sour dipping sauce. Each dish has many regional versions, and cooks often add their own secret ingredients.",
+     "Street food is popular for several reasons. First, it is **affordable**, so students, office workers, and families can all enjoy a full meal for a small price. Second, the food is usually cooked in front of the customer, which allows people to see the ingredients and watch the cook prepare each portion. Third, eating on small plastic stools beside the road creates a friendly atmosphere, and strangers often chat while they wait for their orders. Many visitors say that **this** is the best way to understand local life.",
+     "However, street vendors in large cities face many serious problems every day. Local governments sometimes remove stalls from busy pavements, because crowded streets cause traffic jams and make it difficult for pedestrians to walk safely, especially in the busiest parts of the city. Food safety is another concern, since some vendors lack clean water or proper places to store fresh ingredients. Rising prices for meat and vegetables also reduce their small profits, and many sellers work more than ten hours a day, often starting before dawn.",
+     "In conclusion, Vietnamese street food is much more than cheap meals on the pavement. It brings neighbours together, supports thousands of families, and attracts tourists who want to taste authentic local flavours. Some cities have tried to protect this tradition by creating special food streets with clean water, shared tables, and fixed opening hours. Tourists often say they remember the taste of the food longer than any museum or temple. If governments and vendors work together, travellers will be able to enjoy these famous dishes for many years, and local people will keep an important part of their culture."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "How tourists choose restaurants in large European cities",
+       "B": "Why Vietnamese families prefer eating at home together",
+       "C": "How noodle factories produce food for foreign supermarkets",
+       "D": "The dishes, appeal, and problems of Vietnamese street food"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what is banh mi?",
+      "options": {
+       "A": "A sweet soup made from rice and beans",
+       "B": "A baguette filled with meat and vegetables",
+       "C": "A grilled pork dish served with noodles",
+       "D": "A cold salad of herbs and fresh fruit"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"banh mi\" ở đoạn 2 để thấy đó là bánh mì kẹp giòn với thịt, rau ngâm và rau mùi."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"bustling\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "lively",
+       "B": "quiet",
+       "C": "empty",
+       "D": "narrow"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"bustling\" ở đoạn 1 miêu tả các thành phố lớn như Hà Nội và TP.HCM với nhịp sống tấp nập, đông đúc, mang nghĩa náo nhiệt, sống động (lively)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, why do many people enjoy eating beside the road?",
+      "options": {
+       "A": "Prices are lower than in all supermarkets",
+       "B": "Local governments provide free tables for everyone",
+       "C": "Strangers often chat in a friendly atmosphere",
+       "D": "Customers can order food from their own cars"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"eating beside the road\" ở đoạn 4 (thực tế ở đoạn 3) để nhận ra việc ngồi ghế nhựa bên đường tạo không khí thân thiện, nơi người lạ trò chuyện cùng nhau."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"affordable\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "highly decorated",
+       "B": "reasonably priced",
+       "C": "freshly cooked",
+       "D": "easily damaged"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"affordable\" ở đoạn 3 đi kèm với việc học sinh, nhân viên văn phòng và gia đình có thể thưởng thức bữa ăn với giá nhỏ, mang nghĩa giá cả phải chăng (reasonably priced)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"this\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Watching food being cooked",
+       "B": "Paying a small price",
+       "C": "Visiting a famous restaurant",
+       "D": "Eating beside the road"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"this\" ở đoạn 3. Đọc ngược lại câu văn ngay trước đó mô tả trải nghiệm ăn uống trên những chiếc ghế nhựa nhỏ bên đường tạo nên bầu không khí thân thiện và cách tuyệt vời để thấu hiểu đời sống địa phương."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, why do some governments remove stalls?",
+      "options": {
+       "A": "Crowded pavements cause traffic jams and danger",
+       "B": "Vendors refuse to pay taxes on their profits",
+       "C": "Customers complain that the food is too spicy",
+       "D": "Tourists prefer to eat inside air-conditioned restaurants"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"remove stalls\" ở đoạn 4 để thấy các quầy hàng bị dẹp bỏ vì vỉa hè đông đúc gây kẹt xe và nguy hiểm cho người đi bộ."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT a problem for vendors?",
+      "options": {
+       "A": "Rising prices for meat and fresh vegetables",
+       "B": "Working more than ten hours each day",
+       "C": "Foreign tourists refusing to try local dishes",
+       "D": "Lack of clean water for cooking food"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "rà soát danh sách các vấn đề ở đoạn 4: giá thịt/rau tăng, làm việc hơn mười tiếng, thiếu nước sạch đều được nhắc đến; việc khách du lịch nước ngoài từ chối thử món địa phương hoàn toàn không xuất hiện."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about the writer's opinion of street food?",
+      "options": {
+       "A": "It should be replaced by modern restaurants",
+       "B": "It is a valuable tradition worth protecting",
+       "C": "It is mainly popular with visitors from abroad",
+       "D": "It will soon disappear from large cities"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ toàn bài, đặc biệt là đoạn cuối về việc chính quyền và người dân cần chung tay bảo vệ, giữ gìn một nét văn hóa quan trọng, qua đó suy luận ra rằng tác giả coi đây là một truyền thống giá trị rất đáng được bảo vệ."
+     },
+     {
+      "number": 10,
+      "stem": "Why did the writer write this passage?",
+      "options": {
+       "A": "To describe famous street dishes and their problems",
+       "B": "To teach foreign tourists how to cook pho",
+       "C": "To compare food prices in several Asian cities",
+       "D": "To advertise a new noodle restaurant in Hanoi Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích viết",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích viết (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu ẩm thực đường phố là một phần của đời sống và văn hóa; đoạn 2 liệt kê các món ăn nổi tiếng (phở, bánh mì, bún chả); đoạn 3 nêu các lý do khiến món ăn đường phố được ưa chuộng (giá rẻ, nấu trực tiếp, không khí gần gũi); đoạn 4 chỉ ra các vấn đề khó khăn mà người bán hàng rong gặp phải (lấn chiếm vỉa hè, an toàn thực phẩm, giá nguyên liệu tăng); đoạn 5 tổng kết ý nghĩa văn hóa và giải pháp bảo tồn. Do đó, phương án đúng cần phản ánh đầy đủ: các món ăn, sự hấp dẫn và các vấn đề của ẩm thực đường phố.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R1Q2**, tìm từ khóa \"banh mi\" ở đoạn 2 để thấy đó là bánh mì kẹp giòn với thịt, rau ngâm và rau mùi.\n  - Với **R1Q4**, quét từ khóa \"eating beside the road\" ở đoạn 4 (thực tế ở đoạn 3) để nhận ra việc ngồi ghế nhựa bên đường tạo không khí thân thiện, nơi người lạ trò chuyện cùng nhau.\n  - Với **R1Q7**, quét từ khóa \"remove stalls\" ở đoạn 4 để thấy các quầy hàng bị dẹp bỏ vì vỉa hè đông đúc gây kẹt xe và nguy hiểm cho người đi bộ.\n  - Với **R1Q8**, rà soát danh sách các vấn đề ở đoạn 4: giá thịt/rau tăng, làm việc hơn mười tiếng, thiếu nước sạch đều được nhắc đến; việc khách du lịch nước ngoài từ chối thử món địa phương hoàn toàn không xuất hiện.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"bustling\"** ở đoạn 1 miêu tả các thành phố lớn như Hà Nội và TP.HCM với nhịp sống tấp nập, đông đúc, mang nghĩa náo nhiệt, sống động (lively).\n  - Với **R1Q5**, từ **\"affordable\"** ở đoạn 3 đi kèm với việc học sinh, nhân viên văn phòng và gia đình có thể thưởng thức bữa ăn với giá nhỏ, mang nghĩa giá cả phải chăng (reasonably priced).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ **\"this\"** ở đoạn 3. Đọc ngược lại câu văn ngay trước đó mô tả trải nghiệm ăn uống trên những chiếc ghế nhựa nhỏ bên đường tạo nên bầu không khí thân thiện và cách tuyệt vời để thấu hiểu đời sống địa phương.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ toàn bài, đặc biệt là đoạn cuối về việc chính quyền và người dân cần chung tay bảo vệ, giữ gìn một nét văn hóa quan trọng, qua đó suy luận ra rằng tác giả coi đây là một truyền thống giá trị rất đáng được bảo vệ.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng như Từ vựng (R1Q3, R1Q5) và Quy chiếu (R1Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như **Ý chính** (R1Q1), **Suy luận** (R1Q9) và **Mục** đích viết (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Barriers to Foreign Language Acquisition Among Students",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Learning a foreign language is widely seen as valuable, yet many students never become confident speakers. Schools devote hundreds of hours to grammar and vocabulary, but graduates often report that they can read a text far more easily than they can hold a conversation. Researchers have therefore turned their attention to the barriers that obstruct progress, which fall broadly into psychological, instructional, and social categories.",
+     "The most frequently cited obstacle is language anxiety, a feeling of tension that arises when learners must speak or write in the new language in front of others. Students who fear making mistakes in front of classmates tend to remain silent, and silence deprives them of the practice that fluency requires. Over time, a cycle forms in which avoidance reduces confidence, lower confidence increases anxiety, and anxiety prompts further avoidance. Teachers can interrupt this cycle by treating errors as a normal part of learning.",
+     "Motivation is another decisive factor in whether students succeed or give up. Learners who study mainly to pass an examination often lose interest once the test is over, whereas those who see the language as a tool for travel, work, or friendship are more likely to persist. Unfortunately, school curricula tend to emphasise the former purpose, and students rarely meet situations in which the language is genuinely needed. Without a personal reason to communicate, even capable students may consider the effort **futile**.",
+     "Instructional methods can also hinder progress, particularly when they ignore speaking skills. Many classrooms rely on translation exercises, memorised word lists, and grammar drills, which build knowledge about a language but offer little opportunity to use it. Large class sizes compound the problem, since a teacher with forty students can allow each learner only a few minutes of speaking time per lesson. Moreover, examinations frequently reward accuracy in writing rather than fluency in speech, encouraging both teachers and students to prioritise what will be tested.",
+     "Exposure outside the classroom matters enormously, and here many students are at a disadvantage. In countries where the target language is rarely heard, learners may encounter it only in lessons lasting a few hours a week, an amount that is **insufficient** for genuine immersion. Films, music, and online communities can supply additional input, but many learners use **them** passively, reading subtitles in their own language instead of engaging with the original audio.",
+     "Individual differences between learners also play a significant role in their progress. Learners whose first language is structurally distant from the target language, such as speakers of Vietnamese learning English, face unfamiliar sounds, grammar, and writing conventions that demand more time to master. Age, aptitude, and learning habits matter too, although research suggests that consistent practice is a stronger predictor of success than any innate talent. Importantly, these differences describe tendencies rather than limits, and they can be partly offset by well-designed instruction.",
+     "Overcoming these barriers requires coordinated effort from schools, teachers, and learners themselves. Classrooms that prioritise communication, reduce anxiety, and connect study to learners' real interests are more likely to produce confident speakers, while students who seek regular listening and speaking practice progress faster. Ultimately, language acquisition is less a matter of intelligence than of environment, motivation, and sustained practice, and each of these can be improved."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Young children always acquire languages faster than students",
+       "B": "Overcrowded classes are the only reason students fail",
+       "C": "Several barriers prevent students from mastering foreign languages",
+       "D": "Digital media have solved most language learning problems"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why does anxiety reduce students' progress?",
+      "options": {
+       "A": "Fear of mistakes keeps them silent and unpractised",
+       "B": "Anxious students refuse to attend any classes at all",
+       "C": "Teachers punish students who make grammatical errors aloud",
+       "D": "Nervous learners read too slowly to finish tasks"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"anxiety reduce students' progress\" ở đoạn 2 để thấy sự sợ hãi sai lầm khiến học sinh giữ im lặng và thiếu thực hành."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"futile\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "exciting",
+       "B": "necessary",
+       "C": "rewarding",
+       "D": "pointless"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"futile\" ở đoạn 3 đi kèm với việc thiếu lý do cá nhân để giao tiếp khiến học sinh cảm thấy nỗ lực bỏ ra trở nên vô ích, mang nghĩa vô ích, không có kết quả (pointless)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why do large classes limit speaking practice?",
+      "options": {
+       "A": "Teachers cannot find enough rooms for oral examinations",
+       "B": "Each learner gets only a few minutes to speak",
+       "C": "Students are forbidden from speaking in written lessons",
+       "D": "Schools provide too few textbooks for every learner"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"large classes\" ở đoạn 4 để thấy sĩ số lớp đông khiến mỗi học sinh chỉ có vài phút phát biểu mỗi bài học."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"insufficient\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "very costly",
+       "B": "too varied",
+       "C": "not enough",
+       "D": "highly useful"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"insufficient\" ở đoạn 5 xuất hiện trong bối cảnh học vài giờ một tuần là không đủ cho việc ngâm mình thực sự vào ngôn ngữ, mang nghĩa không đủ (not enough)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"them\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Films and online communities",
+       "B": "Weekly classroom lessons",
+       "C": "Original audio tracks",
+       "D": "Children's first languages"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"them\" ở đoạn 5. Đọc ngược lại mệnh đề ngay trước đó nói về việc học sinh sử dụng các phương tiện như phim ảnh, âm nhạc và cộng đồng trực tuyến nhưng lại dùng chúng một cách thụ động (đọc phụ đề tiếng mẹ đẻ thay vì nghe âm thanh gốc)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what predicts success better than innate talent?",
+      "options": {
+       "A": "Natural talent identified in early childhood tests",
+       "B": "Consistent practice sustained over a long period",
+       "C": "Attending classes taught entirely by native speakers",
+       "D": "The number of different languages spoken at home"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"predicts success better than innate talent\" ở đoạn 6 để ghi nhận việc luyện tập kiên trì, đều đặn dự báo thành công tốt hơn tài năng bẩm sinh."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT identified as a problem with instruction?",
+      "options": {
+       "A": "Heavy reliance on translation and memorised word lists",
+       "B": "Very large classes that limit individual speaking time",
+       "C": "Examinations that reward writing accuracy over speech",
+       "D": "Teachers who have never studied the target language"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": null
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 2, 3, and 4 about improving language teaching?",
+      "options": {
+       "A": "Reducing anxiety and linking lessons to purposes would help",
+       "B": "Replacing grammar exercises with oral tests would solve everything",
+       "C": "Shorter examinations are the only change that is needed",
+       "D": "Students will succeed simply by studying more hours each week"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 2, 3 và 4 về việc giảm lo âu, kết nối bài học với mục đích thực tế và cải thiện phương pháp sẽ giúp ích, từ đó suy luận ra rằng việc giảm lo âu và liên kết bài học với mục đích sẽ mang lại hiệu quả cải thiện rõ rệt."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote a new method for teaching vocabulary",
+       "B": "To compare language exams in several different countries",
+       "C": "To examine why students struggle with foreign languages",
+       "D": "To explain how young children acquire their first language Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích viết (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 đặt vấn đề về sự khó khăn khi nói ngoại ngữ và phân chia các rào cản thành tâm lý, phương pháp giảng dạy và xã hội; đoạn 2 bàn về lo âu ngôn ngữ (language anxiety); đoạn 3 nói về động lực học tập; đoạn 4 phân tích phương pháp giảng dạy và sĩ số lớp học; đoạn 5 đề cập đến mức độ tiếp xúc ngoài lớp học; đoạn 6 bàn về sự khác biệt cá nhân; đoạn 7 kết luận về sự cần thiết phối hợp nỗ lực để vượt qua. Do đó, phương án đúng cần phản ánh việc có nhiều rào cản ngăn cản học sinh làm chủ ngoại ngữ.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R2Q2**, tìm từ khóa \"anxiety reduce students' progress\" ở đoạn 2 để thấy sự sợ hãi sai lầm khiến học sinh giữ im lặng và thiếu thực hành.\n  - Với **R2Q4**, quét từ khóa \"large classes\" ở đoạn 4 để thấy sĩ số lớp đông khiến mỗi học sinh chỉ có vài phút phát biểu mỗi bài học.\n  - Với **R2Q7**, quét từ khóa \"predicts success better than innate talent\" ở đoạn 6 để ghi nhận việc luyện tập kiên trì, đều đặn dự báo thành công tốt hơn tài năng bẩm sinh.\n  - With **R2Q8**, rà soát các vấn đề về phương pháp giảng dạy ở đoạn 4: lệ thuộc vào bài dịch/từ vựng ghi nhớ, lớp quá đông giới hạn thời gian nói, và kỳ thi ưu chuộng độ chính xác viết đều được nêu; việc giáo viên chưa bao giờ học ngôn ngữ mục tiêu hoàn toàn không xuất hiện.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"futile\"** ở đoạn 3 đi kèm với việc thiếu lý do cá nhân để giao tiếp khiến học sinh cảm thấy nỗ lực bỏ ra trở nên vô ích, mang nghĩa vô ích, không có kết quả (pointless).\n  - Với **R2Q5**, từ **\"insufficient\"** ở đoạn 5 xuất hiện trong bối cảnh học vài giờ một tuần là không đủ cho việc ngâm mình thực sự vào ngôn ngữ, mang nghĩa không đủ (not enough).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ **\"them\"** ở đoạn 5. Đọc ngược lại mệnh đề ngay trước đó nói về việc học sinh sử dụng các phương tiện như phim ảnh, âm nhạc và cộng đồng trực tuyến nhưng lại dùng chúng một cách thụ động (đọc phụ đề tiếng mẹ đẻ thay vì nghe âm thanh gốc).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 2, 3 và 4 về việc giảm lo âu, kết nối bài học với mục đích thực tế và cải thiện phương pháp sẽ giúp ích, từ đó suy luận ra rằng việc giảm lo âu và liên kết bài học với mục đích sẽ mang lại hiệu quả cải thiện rõ rệt.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R2Q3, R2Q5) và Quy chiếu (R2Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như **Ý chính** (R2Q1), **Suy luận** (R2Q9) và **Mục đích viết** (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Remarkable Symbiosis of Fiddler Crabs",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "On muddy shores, thousands of small crabs emerge at low tide to feed, court, and defend burrows. Fiddler crabs, named for the males' strikingly enlarged claw, which resembles a violin held in front of the body, are among the most **conspicuous** inhabitants of the intertidal zone. Yet their significance extends far beyond their appearance, since their activities profoundly alter the sediments and plant communities on which both they and many other species depend.",
+     "The enlarged claw is carried only by males and serves two purposes. Waved rhythmically, it attracts females, who prefer males with larger claws and more vigorous displays; wielded in combat, it deters rivals from entering a male's territory. Females, by contrast, have two small claws and spend much of their time scooping sediment into their mouths, filtering out algae and organic particles.",
+     "Burrowing is the activity with the greatest ecological consequences. **[1]** Each crab digs a tunnel that may extend a few dozen centimetres into the mud, providing shelter from predators, extreme heat, and the incoming tide, and serving as a site for moulting and mating. **[2]** In waterlogged sediments, which are typically starved of oxygen, these tunnels act as channels that carry air and water downward. **[3]** Such oxygenation allows plant roots and beneficial microbes to survive in conditions that would otherwise be toxic. **[4]** Burrowing also loosens compacted mud and brings nutrients from deeper layers to the surface.",
+     "In return, the plants that colonise these muddy flats provide the crabs with much of what they need. Marsh grasses and mangroves bind sediment with dense root systems, preventing the burrows from collapsing, and their shade lowers surface temperatures that can otherwise become lethal in the midday sun. Their fallen leaves decompose into detritus that supports the algae and microbes on which the crabs feed. Ecologists therefore describe the relationship as reciprocal, although they debate whether it fits the strict definition of mutualism, in which both partners must gain measurable benefits.",
+     "Experimental studies in several regions have helped to clarify the nature of these benefits. In field experiments on salt marshes, researchers found that plots from which crabs were excluded showed reduced plant growth, lower soil oxygen, and slower decomposition than plots where crabs remained active. These differences are largely attributed to the crabs' burrowing, **which** increases oxygen supply and accelerates the breakdown of organic matter. However, the magnitude of the effect varies with climate, sediment type, and the density of crabs.",
+     "This delicate partnership is vulnerable to disturbance from several distinct human activities today. Coastal development removes the marshes and mangroves on which both partners depend, while pollution from agriculture and urban runoff can alter sediment chemistry and reduce crab populations. Sea-level rise poses a further threat, because rising water may drown low-lying habitats faster than vegetation can migrate inland, a process sometimes described as coastal squeeze. Because fiddler crabs are also eaten by birds, fish, and larger crabs, their decline would ripple through the food web.",
+     "The fiddler crab therefore illustrates how small organisms can shape entire ecosystems. By oxygenating sediments, recycling nutrients, and sustaining plant growth, crabs help to maintain the very habitats in which they live, and in doing so they support fisheries, coastal protection, and biodiversity. Protecting these habitats demands attention to the connections between species rather than to each species in isolation, a principle that applies far beyond the mudflats."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Large claws allow male crabs to dominate every marine ecosystem on Earth",
+       "B": "Fiddler crabs and marsh plants benefit each other and shape habitats",
+       "C": "Crabs depend entirely on predators to keep their burrows clean",
+       "D": "Rising seas have already destroyed every fiddler crab population worldwide"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, how do males use their enlarged claw?",
+      "options": {
+       "A": "To dig deep burrows and collect algae",
+       "B": "To filter organic particles from the sediment",
+       "C": "To carry food pellets back to females",
+       "D": "To attract mates and deter rivals from territories"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"enlarged claw\" ở đoạn 2 để thấy con đực dùng càng lớn để thu hút bạn tình (attract mates) và xua đuổi đối thủ khỏi lãnh thổ (deter rivals)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"conspicuous\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "easily noticed",
+       "B": "rarely studied",
+       "C": "highly venomous",
+       "D": "deeply buried"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"conspicuous\" ở đoạn 1 đi kèm với hình ảnh những chú cua còng xuất hiện nổi bật ở vùng triều, mang nghĩa dễ dàng nhận thấy, nổi bật (easily noticed)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'As a result, oxygen penetrates layers of mud that would otherwise remain stagnant.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ ý nghĩa câu cần chèn 'As a result, oxygen penetrates layers of mud that would otherwise remain stagnant.' (Kết quả là, oxy thâm nhập vào các lớp bùn vốn dĩ sẽ bị tù đọng). Câu này diễn tả kết quả trực tiếp của việc các đường hầm hoạt động như các kênh dẫn không khí và nước xuống dưới (được miêu tả ngay trước vị trí [3]). Do đó, vị trí [3] là hoàn hảo để chèn câu này nhằm liên kết trực tiếp với hiện tượng oxy hóa bùn."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, how do plants benefit crabs?",
+      "options": {
+       "A": "Leaves release poisonous chemicals that deter every predator",
+       "B": "Roots stabilise burrows and shade lowers surface temperatures",
+       "C": "Flowers attract insects that crabs eat daily",
+       "D": "Stems carry tidal water directly into the burrows"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"plants benefit crabs\" ở đoạn 4 để ghi nhận việc rễ thực vật giúp ổn định hang (stabilise burrows) và bóng râm làm giảm nhiệt độ bề mặt."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"which\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Reduced plant growth",
+       "B": "Slower decomposition",
+       "C": "Active crab plots",
+       "D": "The crabs' burrowing"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"which\" ở đoạn 5. Đọc ngược lại mệnh đề ngay trước đó nói về việc cua đào hang (the crabs' burrowing), hành động này làm tăng nguồn cung cấp oxy và đẩy nhanh quá trình phân hủy chất hữu cơ."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"reciprocal\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "limited to one side",
+       "B": "decided by outsiders",
+       "C": "exchanged in both directions",
+       "D": "ignored by scientists"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"reciprocal\" ở đoạn 4 mô tả mối quan hệ hai chiều giữa cua và thực vật đầm lầy, mang nghĩa trao đổi hai chiều, tương hỗ (exchanged in both directions)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT identified as a threat to fiddler crab habitats?",
+      "options": {
+       "A": "Overharvesting of crabs for the aquarium trade",
+       "B": "Coastal development that removes marshes and mangroves",
+       "C": "Agricultural and urban pollution altering sediment chemistry",
+       "D": "Rising seas drowning habitats faster than plants migrate"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "rà soát danh sách các mối đe dọa ở đoạn 6: phát triển ven biển, ô nhiễm nông nghiệp/đô thị, và nước biển dâng đều được nêu rõ; việc khai thác quá mức cua cho ngành thương mại thủy sinh hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 3, 5, and 6 about the loss of fiddler crabs?",
+      "options": {
+       "A": "It would benefit marshes by reducing competition for nutrients",
+       "B": "It would have little effect because other species burrow similarly",
+       "C": "It would only matter to birds that feed on crabs",
+       "D": "It could weaken marsh vegetation and reduce habitat resilience"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 5 và 6 về vai trò thiết yếu của việc đào hang trong việc cung cấp oxy và tái chế chất dinh dưỡng, từ đó suy luận ra rằng sự biến mất của loài cua này sẽ làm suy yếu thảm thực vật đầm lầy và giảm khả năng phục hồi của hệ sinh thái."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To describe courtship behaviour in different crab species",
+       "B": "To explain how fiddler crabs and plants sustain coastal ecosystems",
+       "C": "To argue that crabs should be bred in captivity",
+       "D": "To compare crab populations in tropical and temperate regions Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích viết (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu cua còng và ý nghĩa sinh thái của chúng đối với trầm tích; đoạn 2 miêu tả cấu tạo và mục đích của chiếc càng lớn ở con đực; đoạn 3 giải thích tầm quan trọng sinh thái của việc đào hang (oxygen hóa bùn); đoạn 4 nêu mối quan hệ tương hỗ giữa thực vật ngập mặn và cua; đoạn 5 nói về các nghiên cứu thực nghiệm xác thực lợi ích; đoạn 6 liệt kê các mối đe dọa từ con người và biến đổi khí hậu; đoạn 7 kết luận về vai trò kết nối hệ sinh thái. Do đó, phương án đúng cần phản ánh việc cua còng và thực vật đầm lầy mang lại lợi ích cho nhau và cùng định hình môi trường sống.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R3Q2**, tìm từ khóa \"enlarged claw\" ở đoạn 2 để thấy con đực dùng càng lớn để thu hút bạn tình (attract mates) và xua đuổi đối thủ khỏi lãnh thổ (deter rivals).\n  - Với **R3Q5**, quét từ khóa \"plants benefit crabs\" ở đoạn 4 để ghi nhận việc rễ thực vật giúp ổn định hang (stabilise burrows) và bóng râm làm giảm nhiệt độ bề mặt.\n  - Với **R3Q8**, rà soát danh sách các mối đe dọa ở đoạn 6: phát triển ven biển, ô nhiễm nông nghiệp/đô thị, và nước biển dâng đều được nêu rõ; việc khai thác quá mức cua cho ngành thương mại thủy sinh hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Chèn câu (R3Q4):** Đọc kỹ ý nghĩa câu cần chèn 'As a result, oxygen penetrates layers of mud that would otherwise remain stagnant.' (Kết quả là, oxy thâm nhập vào các lớp bùn vốn dĩ sẽ bị tù đọng). Câu này diễn tả kết quả trực tiếp của việc các đường hầm hoạt động như các kênh dẫn không khí và nước xuống dưới (được miêu tả ngay trước vị trí [3]). Do đó, vị trí [3] là hoàn hảo để chèn câu này nhằm liên kết trực tiếp với hiện tượng oxy hóa bùn.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"conspicuous\"** ở đoạn 1 đi kèm với hình ảnh những chú cua còng xuất hiện nổi bật ở vùng triều, mang nghĩa dễ dàng nhận thấy, nổi bật (easily noticed).\n  - Với **R3Q7**, từ **\"reciprocal\"** ở đoạn 4 mô tả mối quan hệ hai chiều giữa cua và thực vật đầm lầy, mang nghĩa trao đổi hai chiều, tương hỗ (exchanged in both directions).\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ **\"which\"** ở đoạn 5. Đọc ngược lại mệnh đề ngay trước đó nói về việc cua đào hang (the crabs' burrowing), hành động này làm tăng nguồn cung cấp oxy và đẩy nhanh quá trình phân hủy chất hữu cơ.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 3, 5 và 6 về vai trò thiết yếu của việc đào hang trong việc cung cấp oxy và tái chế chất dinh dưỡng, từ đó suy luận ra rằng sự biến mất của loài cua này sẽ làm suy yếu thảm thực vật đầm lầy và giảm khả năng phục hồi của hệ sinh thái.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng như Từ vựng (R3Q3, R3Q7) và Quy chiếu (R3Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R3Q2, R3Q5, R3Q8) và câu hỏi **Chèn câu** (R3Q4). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như **Ý chính** (R3Q1), Suy luận (R3Q9) và Mục đích viết (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Volcanoes: Architects of the Earth's Surface",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Volcanoes are often portrayed as agents of destruction, yet they are also powerful builders. The oceanic crust, many of the world's islands, and large parts of the continental landscape owe their existence to eruptions that deposited molten rock at the surface. Even the atmosphere and oceans are thought to have originated partly from gases released by volcanic activity during Earth's early history.",
+     "Most of the world's active volcanoes are located where tectonic plates interact. At subduction zones, where one plate descends beneath another, water carried downward lowers the melting point of the overlying mantle, generating magma that feeds chains of volcanoes such as those around the Pacific. At mid-ocean ridges, plates move apart and molten rock wells up to form new crust, while at hotspots such as Hawaii, plumes of hot material rise through the mantle, often far from plate boundaries.",
+     "The style of an eruption depends largely on the properties of the magma. [1] In basaltic magma, common at ocean ridges and hotspots, both properties favour gentle activity, because the melt is fluid and releases gas easily, allowing lava to flow across the surface and build broad shield volcanoes. **[2]** Silica-rich magma, typical of subduction zones, is far more viscous and traps gas bubbles, so that pressure accumulates until the eruption becomes explosive. **[3]** The 1980 eruption of Mount St Helens and the 1991 eruption of Mount Pinatubo, which ejected ash high into the stratosphere, belong to this second category. **[4]** Intermediate cases produce the steep stratovolcanoes, built from alternating layers of lava and ash, that dominate many skylines.",
+     "Eruptions are constructive in several ways that are easily overlooked in news coverage. Volcanic islands such as Iceland, Hawaii, and the Azores have been built from accumulated lava. Surtsey, which emerged off Iceland's southern coast in 1963, has become a natural laboratory for studying how life colonises new land. Volcanic ash and weathered lava also release minerals that make soils exceptionally fertile, helping to explain why densely populated farming regions have developed on the slopes of volcanoes in many parts of the world.",
+     "Their influence extends beyond the land itself to the climate of the entire planet. Large explosive eruptions inject sulphur dioxide into the stratosphere, where it forms fine aerosol particles that reflect sunlight and cool the surface for a year or two. The 1991 eruption of Pinatubo is thought to have lowered average global temperatures by roughly half a degree Celsius. Over millions of years, by contrast, volcanic carbon dioxide has helped to **replenish** the atmospheric reservoir that rock weathering steadily depletes.",
+     "Yet the same processes that enrich landscapes can also endanger the people who live on them. Pyroclastic flows, fast-moving avalanches of hot gas and volcanic debris, are the deadliest hazard, while lahars, mudflows formed when eruptions melt snow or mix with rain, can devastate valleys many kilometres from the crater. Because soils are fertile and land is scarce, millions of people live near active volcanoes, many of **which** are **dormant** rather than extinct. Long quiet intervals can lull communities into complacency, so monitoring and education are as important as engineering.",
+     "Modern monitoring has considerably reduced the human toll of eruptions in many regions. Seismometers detect the tremors caused by rising magma, satellites measure ground swelling, and gas sensors track changes in emissions, allowing authorities to issue warnings and organise evacuations. Prediction remains imperfect, however, since volcanoes can change behaviour abruptly or remain restless for years without erupting. Understanding volcanoes therefore means accepting a paradox: the forces that built the planet's surface continue to threaten the societies that depend upon it."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Volcanic eruptions are always predictable with modern monitoring technology",
+       "B": "Explosive eruptions occur only where tectonic plates collide directly",
+       "C": "Volcanoes build land constructively yet also pose serious risks",
+       "D": "Volcanic soils are too toxic to support any large-scale agriculture"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what happens at subduction zones?",
+      "options": {
+       "A": "Water carried downward lowers mantle melting point",
+       "B": "Plates move apart and new crust forms",
+       "C": "Plumes of hot material rise regardless of boundaries",
+       "D": "Plates slide past each other without generating magma"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"subduction zones\" ở đoạn 2 để thấy nước bị kéo xuống làm hạ thấp điểm nóng chảy của lớp mantle phía trên, tạo ra mác-ma."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"replenish\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "remove",
+       "B": "restore",
+       "C": "predict",
+       "D": "absorb"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"replenish\" ở đoạn 5 đi kèm với việc khí CO2 từ núi lửa giúp bổ sung, khôi phục lại kho dự trữ khí quyển bị quá trình phong hóa đá làm cạn kiệt, mang nghĩa khôi phục, làm đầy lại (restore)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Two properties matter above all: the viscosity of the melt and its dissolved gas content.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Chèn câu",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ ý nghĩa câu cần chèn 'Two properties matter above all: the viscosity of the melt and its dissolved gas content.' (Hai đặc tính quan trọng nhất: độ nhớt của chất nóng chảy và hàm lượng khí hòa tan trong đó). Câu này giới thiệu trực tiếp về hai thuộc tính quan trọng chi phối phong cách phun trào, xuất hiện ngay trước câu bắt đầu bằng 'In basaltic magma...' ở vị trí [1]. Do đó, vị trí [1] là hoàn hảo để chèn câu này nhằm làm câu chủ đề mở đầu cho đoạn giải thích tính chất mác-ma."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, why is Surtsey scientifically valuable?",
+      "options": {
+       "A": "It is the oldest volcano on any continent",
+       "B": "Its soils contain rare minerals unknown elsewhere",
+       "C": "It shows life colonising newly formed land",
+       "D": "It erupts predictably every few decades"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"Surtsey\" ở đoạn 4 để ghi nhận đây là phòng thí nghiệm tự nhiên cho thấy sự sống định cư trên vùng đất mới hình thành."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"which\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Fertile soils",
+       "B": "Pyroclastic flows",
+       "C": "Farming regions",
+       "D": "Active volcanoes"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ \"which\" ở đoạn 6. Đọc ngược lại danh từ số nhiều đứng ngay trước đó là các ngọn núi lửa hoạt động (active volcanoes), nơi có hàng triệu người sinh sống vì đất đai màu mỡ và sự khan hiếm đất đai."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"dormant\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "currently erupting",
+       "B": "temporarily inactive",
+       "C": "completely submerged",
+       "D": "slowly sinking"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"dormant\" ở đoạn 6 kết hợp với tình trạng của các núi lửa thay vì đã tuyệt chủng hẳn, mang nghĩa tạm thời không hoạt động (temporarily inactive)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a monitoring method?",
+      "options": {
+       "A": "Seismometers detecting tremors caused by rising magma",
+       "B": "Satellites measuring swelling of the ground",
+       "C": "Sensors tracking changes in gas emissions",
+       "D": "Cameras permanently filming every volcanic crater"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "rà soát các phương pháp giám sát ở đoạn 7: máy đo địa chấn phát hiện chấn động, vệ tinh đo độ phồng mặt đất, và cảm biến khí thải đều được nhắc đến; việc dùng camera quay phim vĩnh viễn từng miệng núi lửa hoàn toàn không xuất hiện."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 4, 6, and 7 about living near volcanoes?",
+      "options": {
+       "A": "Improved monitoring has made volcanic settlements completely safe now",
+       "B": "Only the poorest communities choose to live near active volcanoes",
+       "C": "Fertile soils attract settlement, so risk persists despite monitoring",
+       "D": "Fertile soils form only after volcanoes have become extinct"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 6 và 7 về việc đất màu mỡ thu hút con người sinh sống dẫu cho nguy hiểm vẫn rình rập và việc dự đoán còn chưa hoàn hảo, từ đó suy luận ra rằng đất màu mỡ thu hút sự định cư nên rủi ro vẫn tồn tại bất chấp việc giám sát được cải thiện."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To show how volcanoes both shape Earth and endanger societies",
+       "B": "To persuade governments to evacuate volcanic regions permanently",
+       "C": "To compare volcanic eruptions with earthquakes and tsunamis",
+       "D": "To describe the formation of the first oceans"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích viết",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần đọc hiểu này, bạn có thể áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích viết (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc lướt toàn bài để nắm mạch thông tin: đoạn 1 giới thiệu núi lửa vừa là tác nhân hủy diệt vừa là nhà kiến tạo mạnh mẽ; đoạn 2 nói về vị trí và hoạt động của núi lửa tại các ranh giới mảng kiến tạo; đoạn 3 giải thích tính chất của mác-ma ảnh hưởng đến kiểu phun trào; đoạn 4 bàn về các cách xây dựng kiến tạo có lợi (đảo núi lửa, đất màu mỡ); đoạn 5 đề cập đến tác động khí hậu toàn cầu; đoạn 6 nêu các mối nguy hiểm đối với con người sống gần đó; đoạn 7 nói về công nghệ giám sát hiện đại và kết luận về nghịch lý giữa việc kiến tạo và đe dọa. Do đó, phương án đúng cần phản ánh đầy đủ: núi lửa vừa kiến tạo đất đai vừa mang lại những rủi ro nghiêm trọng.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu).\n  - Với **R4Q2**, tìm từ khóa \"subduction zones\" ở đoạn 2 để thấy nước bị kéo xuống làm hạ thấp điểm nóng chảy của lớp mantle phía trên, tạo ra mác-ma.\n  - Với **R4Q5**, quét từ khóa \"Surtsey\" ở đoạn 4 để ghi nhận đây là phòng thí nghiệm tự nhiên cho thấy sự sống định cư trên vùng đất mới hình thành.\n  - Với **R4Q8**, rà soát các phương pháp giám sát ở đoạn 7: máy đo địa chấn phát hiện chấn động, vệ tinh đo độ phồng mặt đất, và cảm biến khí thải đều được nhắc đến; việc dùng camera quay phim vĩnh viễn từng miệng núi lửa hoàn toàn không xuất hiện.\n- **Dạng câu hỏi Chèn câu (R4Q4):** Đọc kỹ ý nghĩa câu cần chèn 'Two properties matter above all: the viscosity of the melt and its dissolved gas content.' (Hai đặc tính quan trọng nhất: độ nhớt của chất nóng chảy và hàm lượng khí hòa tan trong đó). Câu này giới thiệu trực tiếp về hai thuộc tính quan trọng chi phối phong cách phun trào, xuất hiện ngay trước câu bắt đầu bằng 'In basaltic magma...' ở vị trí [1]. Do đó, vị trí [1] là hoàn hảo để chèn câu này nhằm làm câu chủ đề mở đầu cho đoạn giải thích tính chất mác-ma.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"replenish\"** ở đoạn 5 đi kèm với việc khí CO2 từ núi lửa giúp bổ sung, khôi phục lại kho dự trữ khí quyển bị quá trình phong hóa đá làm cạn kiệt, mang nghĩa khôi phục, làm đầy lại (restore).\n  - Với **R4Q7**, từ **\"dormant\"** ở đoạn 6 kết hợp với tình trạng của các núi lửa thay vì đã tuyệt chủng hẳn, mang nghĩa tạm thời không hoạt động (temporarily inactive).\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ **\"which\"** ở đoạn 6. Đọc ngược lại danh từ số nhiều đứng ngay trước đó là các ngọn núi lửa hoạt động (active volcanoes), nơi có hàng triệu người sinh sống vì đất đai màu mỡ và sự khan hiếm đất đai.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 4, 6 và 7 về việc đất màu mỡ thu hút con người sinh sống dẫu cho nguy hiểm vẫn rình rập và việc dự đoán còn chưa hoàn hảo, từ đó suy luận ra rằng đất màu mỡ thu hút sự định cư nên rủi ro vẫn tồn tại bất chấp việc giám sát được cải thiện.\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi định vị từ vựng rõ ràng như Từ vựng (R4Q3, R4Q7) và Quy chiếu (R4Q6). Tiếp theo, sử dụng kỹ thuật đọc quét để xử lý nhanh các câu hỏi **Chi tiết** (R4Q2, R4Q5, R4Q8) và câu hỏi **Chèn** câu (R4Q4). Cuối cùng, tổng hợp nội dung toàn bài để hoàn thành các câu hỏi mang tính khái quát cao như Ý chính (R4Q1), **Suy luận** (R4Q9) và **Mục đích viết** (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Mark, who is planning to visit your city next month.\nHe is asking for some advice and help with his trip. Read part of his email below.\nI am so excited to visit your city next month! Since it is my first time there, I have a few questions for you.\n- Could you please pick me up at the airport?\n- What will the weather be like then and what kind of clothes should I pack?\n- Which places should I visit, and which one is the most worth-visiting in your opinion?\nWrite an email responding to Mark. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Mark, who is planning to visit your city next month.",
+      "He is asking for some advice and help with his trip. Read part of his email below."
+     ],
+     "quote": [
+      "I am so excited to visit your city next month! Since it is my first time there, I have a few questions for you.",
+      "- Could you please pick me up at the airport?",
+      "- What will the weather be like then and what kind of clothes should I pack?",
+      "- Which places should I visit, and which one is the most worth-visiting in your opinion?"
+     ],
+     "instruction": "Write an email responding to Mark. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng thư thân mật (Informal Email) gửi cho một người bạn tên Mark.\n- Bạn cần thực hiện 4 yêu cầu: Xác nhận việc đón bạn tại sân bay, tư vấn về thời tiết/quần áo, gợi ý các địa điểm đi chơi và nhấn mạnh địa điểm đáng đi nhất.\n- Đảm bảo độ dài tối thiểu 120 từ và sử dụng ngôn ngữ gần gũi, tự nhiên.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- Greeting: Dear Mark, / Hi Mark,\n- Opening: Bày tỏ sự hào hứng về chuyến thăm của bạn mình. Ví dụ: I was thrilled to hear that you are finally coming to my city!\n- Body Paragraph 1: Trả lời về việc đón ở sân bay. Ví dụ: Of course, I can pick you up. Just send me your flight details.\n- Body Paragraph 2: Thông tin về thời tiết và trang phục. Ví dụ: Since it's summer, the weather is quite hot, so you should pack light clothes.\n- Body Paragraph 3: Gợi ý các địa điểm tham quan và nhấn mạnh nơi tốt nhất. Ví dụ: You should visit the Old Quarter, but the most worth-visiting place is the City Museum.\n- Closing & Sign-off: Best wishes, / Take care, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các cấu trúc đưa ra lời khuyên như \"I suggest that...\", \"You should...\", \"It would be a good idea to...\".\n- Sử dụng so sánh nhất để nhấn mạnh địa điểm đáng đi nhất.\nTừ vựng quan trọng:\n- Pick someone up: Đón ai đó\n- Flight details: Thông tin chuyến bay\n- Predictable: Có thể dự đoán được\n- Casual clothes: Quần áo thông thường\n- Breathtaking scenery: Phong cảnh ngoạn mục\n- Must-see attraction: Điểm đến nhất định phải thấy\nTừ nối (Linking words):\n- Regarding: Liên quan đến (vấn đề gì đó)\n- In terms of: Về mặt\n- Additionally: Thêm vào đó\n- In my opinion: Theo ý kiến của tôi\n- For instance: Ví dụ như\nCách diễn đạt cảm xúc (Expressing feelings):\n- I am looking forward to seeing you: Tôi rất mong được gặp bạn\n- I am more than happy to help: Tôi rất sẵn lòng giúp đỡ\n- It would be my pleasure: Đó là niềm vinh hạnh của tôi\n\n**4. Các lỗi thường gặp:**\n- Quên không trả lời một trong các câu hỏi của Mark (đặc biệt là ý đón ở sân bay).\n- Sử dụng từ ngữ quá trang trọng (Formal) như \"I would like to inform you\" trong thư gửi bạn bè.\n- Nhầm lẫn giữa tính từ đuôi -ing và -ed (ví dụ: I am exciting thay vì I am excited).\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã có đủ lời chào và lời kết chưa.\n- Đếm số từ để đảm bảo không dưới 120 từ.\n- Sửa lỗi chính tả tên riêng của địa danh hoặc thành phố.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang thực sự lên kế hoạch cho một người bạn thân để viết bài một cách chân thực nhất. Essay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nNatural disasters such as floods, storms, and earthquakes have become more frequent and severe in many parts of the world.\nSome people argue that building strong connections and maintaining good relationships with people in the local community is essential when facing these disasters.\nTo what extent do you agree or disagree with this opinion? Give reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite an essay to an educated reader to give your opinion on whether community connection is important during natural disasters. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Natural disasters such as floods, storms, and earthquakes have become more frequent and severe in many parts of the world.",
+      "Some people argue that building strong connections and maintaining good relationships with people in the local community is essential when facing these disasters.",
+      "To what extent do you agree or disagree with this opinion? Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+     ],
+     "instruction": "Write an essay to an educated reader to give your opinion on whether community connection is important during natural disasters. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng Opinion Essay (Agree or Disagree). Đề bài yêu cầu bạn nêu quan điểm về tầm quan trọng của kết nối cộng đồng trong thiên tai.\n- Bạn cần sử dụng trải nghiệm hoặc kiến thức thực tế để minh họa.\n- Yêu cầu tối thiểu 250 từ, tập trung vào tính thuyết phục của lập luận.\n\n**2. Cách xây dựng bố cục (Organization):**\n- Introduction: Dẫn dắt về sự gia tăng của thiên tai và nêu rõ quan điểm (hoàn toàn đồng ý/đồng ý một phần). Ví dụ: I strongly agree that community bonds are the first line of defense during environmental crises.\n- Body 1: Lợi ích của sự hỗ trợ tức thì. Hàng xóm là người giúp đỡ nhanh nhất trước khi lực lượng chức năng đến.\n- Body 2: Chia sẻ nguồn lực và thông tin. Sự đoàn kết giúp phân phối thực phẩm, nước uống và cảnh báo an toàn hiệu quả hơn.\n- Body 3: Khía cạnh tinh thần và hồi phục sau thiên tai. Sự động viên giúp cộng đồng vượt qua mất mát.\n- Conclusion: Tóm tắt lại các ý chính và khẳng định lại tầm quan trọng của tinh thần láng giềng.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng câu điều kiện (Type 2, 3) để nói về các tình huống giả định trong thiên tai.\n- Sử dụng các trạng từ chỉ mức độ để thể hiện sự khẳng định mạnh mẽ.\nTừ vựng quan trọng:\n- Natural disasters: Thiên tai\n- Community cohesion: Sự gắn kết cộng đồng\n- Emergency assistance: Hỗ trợ khẩn cấp\n- Resilience: Khả năng phục hồi\n- Mutual support: Sự hỗ trợ lẫn nhau\n- First responders: Những người ứng cứu đầu tiên\nTừ nối (Linking words):\n- First and foremost: Đầu tiên và quan trọng nhất\n- In the event of: Trong trường hợp xảy ra\n- Consequently: Hậu quả là / Kết quả là\n- From my own experience: Từ trải nghiệm của bản thân tôi\n- To illustrate: Để minh họa\n- In conclusion: Kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- Local residents: Thay cho \"people in the neighborhood\"\n- Environmental catastrophes: Thay cho \"natural disasters\"\n- Strong social bonds: Thay cho \"connections with people\"\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- I am of the opinion that: Tôi có ý kiến cho rằng\n- It is undeniable that: Không thể phủ nhận rằng\n- There is no doubt that: Không còn nghi ngờ gì khi\n\n**4. Các lỗi thường gặp:**\n- Viết quá lan man về các loại thiên tai mà quên mất trọng tâm là \"kết nối cộng đồng\".\n- Không đưa được ví dụ cụ thể từ trải nghiệm cá nhân (đây là yêu cầu bắt buộc của đề bài này).\n- Thiếu câu chủ đề (Topic sentence) ở đầu mỗi đoạn thân bài.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra các danh từ số nhiều và sự hòa hợp giữa chủ ngữ - động từ.\n- Đảm bảo các ví dụ thực tế liên kết chặt chẽ với luận điểm.\n- Rà soát lại các từ nối để bài viết mạch lạc hơn.\n\n**6. Tư duy làm bài:**\n- Hãy nghĩ về các ví dụ thực tế tại Việt Nam (như tinh thần tương thân tương ái trong các đợt bão lũ miền Trung) để làm dẫn chứng sinh động cho bài viết."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about restaurants\n\n1\nHow often do you go to restaurants?\n2\nWhat is your favorite type of restaurant and why?\n3\nDo you prefer eating at home or eating out at a restaurant?\n\nNow, let’s talk about public transportation\n\n4\nWhat are some common forms of public transport in your city?\n5\nDo you prefer using public transport or private vehicles? Why?\n6\nHow could public transport in your country be improved in the future?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói gồm 6 câu hỏi cá nhân trong khoảng 3 phút nhằm kiểm tra khả năng giao tiếp tự nhiên và phản xạ tiếng Anh của bạn.\n- **Topic A (Restaurants):** Các câu hỏi 1–3 tập trung vào thói quen ăn uống, nhà hàng yêu thích và sở thích ăn ở nhà hay ăn ngoài. Giám khảo muốn đánh giá vốn từ về ẩm thực và khả năng giải thích sở thích cá nhân.\n- **Topic B (Public Transport):** Các câu hỏi 4–6 liên quan đến phương tiện công cộng, thói quen di chuyển và ý tưởng cải thiện giao thông trong tương lai.\n- Tiêu chí chấm điểm gồm: độ trôi chảy, phát âm, ngữ pháp và vốn từ vựng.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và giữ sự cân bằng thời gian giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer -> Reason -> Example để phát triển ý rõ ràng.\n- **Ví dụ Topic A:** I usually go to restaurants once or twice a month because I enjoy trying different kinds of food with my friends.\n- **Ví dụ Topic B:** I prefer public transport because it is cheaper and more environmentally friendly than using private vehicles.\n- Luôn tự hỏi “Why?” hoặc “How?” để kéo dài câu trả lời tự nhiên.\n- Khi chuyển chủ đề, bạn có thể dùng câu như: Besides eating habits, transportation also plays an important role in daily life.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và dùng filler tự nhiên như “Well”, “Actually”, “To be honest”.\n- Dùng hiện tại đơn để nói về thói quen và tương lai đơn khi nói về cải thiện giao thông trong tương lai.\n- Nếu quên từ, hãy diễn đạt bằng từ đơn giản hơn thay vì dừng quá lâu.\n- Từ vựng Topic A: fine dining (nhà hàng cao cấp), homemade meals (bữa ăn tự nấu), affordable prices (giá cả hợp lý), cozy atmosphere (không gian ấm cúng).\n- Từ vựng Topic B: public transportation (giao thông công cộng), traffic congestion (kẹt xe), eco-friendly transport (phương tiện thân thiện môi trường), subway system (hệ thống tàu điện ngầm).\nCụm từ quan trọng nên dùng:\n- Try local cuisine – thử ẩm thực địa phương\n- Eat out with friends – đi ăn ngoài với bạn bè\n- Save time and effort – tiết kiệm thời gian và công sức\n- Reduce traffic jams – giảm ùn tắc giao thông\n- Convenient means of transport – phương tiện giao thông tiện lợi\n- Improve air quality – cải thiện chất lượng không khí\nTừ nối khi nói (Linking Words):\n- First of all – trước tiên\n- Besides that – bên cạnh đó\n- For example – ví dụ\n- As a result – kết quả là\n- On the other hand – mặt khác\nCách thể hiện quan điểm tự nhiên:\n- I personally believe that eating at home is healthier and cheaper. – Tôi tin rằng ăn ở nhà tốt cho sức khỏe và tiết kiệm hơn.\n- From my perspective, public transport should be improved to reduce pollution. – Theo quan điểm của tôi, giao thông công cộng nên được cải thiện để giảm ô nhiễm.\n- As far as I am concerned, restaurants are great places to relax with friends and family. – Theo tôi, nhà hàng là nơi tuyệt vời để thư giãn cùng bạn bè và gia đình.\n- I would say that buses are the most common form of public transport in my city. – Tôi cho rằng xe buýt là phương tiện công cộng phổ biến nhất ở thành phố tôi.\n- Personally, I prefer private vehicles because they are more flexible and comfortable. – Cá nhân tôi thích phương tiện cá nhân vì linh hoạt và thoải mái hơn.\n- In my opinion, public transport will become more modern in the future. – Theo tôi, giao thông công cộng sẽ hiện đại hơn trong tương lai.\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn chỉ bằng “Yes” hoặc “No”.\n- Lặp lại các tính từ đơn giản như good hoặc nice khi nói về nhà hàng.\n- Nói lan man về giao thông mà không trả lời đúng trọng tâm câu hỏi.\n- Dùng sai thì khi nói về kế hoạch cải thiện giao thông trong tương lai.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Sử dụng câu đệm như: That is an interesting question. Let me think for a second.\n- Nếu quên từ, hãy mô tả chức năng hoặc ví dụ liên quan.\n- Với Topic A, nếu ít đi nhà hàng, bạn có thể nói về trải nghiệm gần đây hoặc món ăn yêu thích.\n- Với Topic B, nếu khó nghĩ ý, hãy nói về vấn đề giao thông bạn thấy hằng ngày.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem phần thi như một cuộc trò chuyện tự nhiên với giám khảo.\n- Khi chuyển từ chủ đề ăn uống sang giao thông, hãy thay đổi hướng suy nghĩ rõ ràng để tránh lặp ý.\n- Sự tự nhiên và mạch lạc quan trọng hơn việc dùng quá nhiều từ vựng khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend is looking for a 60th birthday present for her mother, who really enjoys sightseeing and traveling.\n\nYou are considering the following options:\n\nOption 1: A book about famous landmarks\nOption 2: A new dress\nOption 3: A holiday trip to a scenic destination\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đề bài yêu cầu bạn lựa chọn món quà phù hợp nhất cho mẹ của một người bạn nhân dịp sinh nhật 60 tuổi.\n- Ba lựa chọn gồm: sách về danh lam thắng cảnh, một chiếc váy mới và chuyến du lịch đến địa điểm đẹp.\n- Giám khảo đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định rõ ràng.\n- Thời gian làm bài khoảng 4 phút, trong đó nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để trình bày logic.\n- Option 1 phù hợp với người thích đọc và khám phá văn hóa nhưng có thể hơi đơn giản cho dịp sinh nhật đặc biệt.\n- Option 2 thực tế và dễ sử dụng nhưng không liên quan nhiều đến sở thích du lịch của người mẹ.\n- Option 3 mang lại trải nghiệm đáng nhớ và phù hợp với sở thích tham quan, tuy nhiên chi phí có thể cao hơn.\n- Hãy liên hệ đến độ tuổi, sở thích và ý nghĩa tinh thần của món quà để lập luận thuyết phục hơn.\n- Sử dụng từ nối đối lập như however, in contrast hoặc compared to để chuyển ý tự nhiên.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Kết nối các lựa chọn với nhau thay vì phân tích từng lựa chọn riêng lẻ.\n- Dùng hiện tại đơn để nói về ưu nhược điểm và tương lai đơn khi nói về trải nghiệm của chuyến đi.\n- Nếu quên từ vựng về du lịch, hãy dùng cách diễn đạt đơn giản như beautiful place hoặc relaxing trip.\nCụm từ quan trọng nên dùng:\n- Memorable experience – trải nghiệm đáng nhớ\n- Scenic destination – điểm đến phong cảnh đẹp\n- Thoughtful present – món quà đầy ý nghĩa\n- Relax and unwind – thư giãn và nghỉ ngơi\n- Personal interests – sở thích cá nhân\n- Create happy memories – tạo ra kỷ niệm đẹp\nTừ nối khi nói (Linking Words):\n- First of all – trước tiên\n- Moreover – hơn nữa\n- On the other hand – mặt khác\n- As a result – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that a holiday trip would be the most meaningful gift. – Tôi tin rằng một chuyến du lịch sẽ là món quà ý nghĩa nhất.\n- Compared to a dress, a travel experience can create more unforgettable memories. – So với một chiếc váy, trải nghiệm du lịch có thể tạo ra nhiều kỷ niệm khó quên hơn.\n- In my opinion, gifts should match the receiver’s hobbies and interests. – Theo tôi, quà tặng nên phù hợp với sở thích của người nhận.\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về lựa chọn yêu thích mà không đánh giá các lựa chọn còn lại.\n- Lặp lại các từ đơn giản như good hoặc beautiful quá nhiều.\n- Không đưa ra quyết định cuối cùng rõ ràng ở phần kết luận.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ, hãy chuyển sang nói về chi phí, ý nghĩa tinh thần hoặc sự tiện lợi.\n- Sử dụng câu đệm như: Let's evaluate this option from another perspective.\n- Nếu bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn tiếp theo để giữ mạch nói.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người thật sự đang chọn quà cho người thân yêu.\n- Ngay cả khi chọn một phương án, bạn vẫn nên chỉ ra một vài hạn chế nhỏ để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe importance of soft skills for students\n\nImportance of Soft Skills\nEnhance career opportunities and employability\nImprove social relationships and communication\nHelp in managing stress and complex problems\n[your own ideas]\n\nFollow-up Questions:\n\n1\nIn your opinion, which soft skill is the most difficult to learn?\n2\nDo you think schools should replace some academic subjects with soft skills training?\n3\nHow have soft skills helped you in your personal life or studies?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về tầm quan trọng của kỹ năng mềm đối với học sinh hoặc sinh viên.\n- Ba nhánh mindmap gồm: cơ hội nghề nghiệp, giao tiếp xã hội và khả năng quản lý căng thẳng. Nhánh thứ tư có thể nói về kỹ năng lãnh đạo hoặc làm việc nhóm.\n- Giám khảo đánh giá khả năng phát triển ý tưởng, liên kết nội dung và trả lời câu hỏi follow-up.\n- Thời gian khoảng 5 phút, nên dành khoảng 3–3.5 phút cho bài nói chính và thời gian còn lại cho phần hỏi đáp.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để triển khai từng ý trong sơ đồ tư duy.\n- **Ví dụ 1:** Today, I would like to talk about why soft skills are becoming increasingly important for students.\n- **Ví dụ 2:** Another important soft skill is teamwork because students often need to cooperate with others in projects.\n- Hãy đưa ví dụ thực tế như thuyết trình nhóm, phỏng vấn xin việc hoặc hoạt động ngoại khóa.\n- Luôn bám theo thứ tự của mindmap để tránh lặp ý hoặc bỏ sót nội dung.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng cụm chuyển ý mượt mà giữa các nhánh của mindmap.\n- Dùng hiện tại đơn để nói về lợi ích chung và hiện tại hoàn thành để nói về trải nghiệm cá nhân.\n- Có thể paraphrase soft skills bằng interpersonal skills, communication abilities hoặc practical skills.\nCụm từ quan trọng nên dùng:\n- Communication skills – kỹ năng giao tiếp\n- Problem-solving ability – khả năng giải quyết vấn đề\n- Career development – phát triển nghề nghiệp\n- Work effectively in teams – làm việc hiệu quả theo nhóm\n- Handle pressure – xử lý áp lực\n- Build professional relationships – xây dựng mối quan hệ nghề nghiệp\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Another important point is – một điểm quan trọng khác là\n- For instance – ví dụ\n- As a consequence – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, communication is one of the most essential soft skills. – Theo tôi, giao tiếp là một trong những kỹ năng mềm quan trọng nhất.\n- I personally think that soft skills help students adapt to real-life situations more easily. – Tôi nghĩ rằng kỹ năng mềm giúp học sinh thích nghi với tình huống thực tế dễ dàng hơn.\n- From my perspective, employers today value soft skills as much as academic knowledge. – Theo quan điểm của tôi, nhà tuyển dụng hiện nay coi trọng kỹ năng mềm ngang với kiến thức học thuật.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **In your opinion, which soft skill is the most difficult to learn?** – I think leadership is the most difficult because it requires confidence and experience.\n- **Do you think schools should replace some academic subjects with soft skills training?** – No, schools should balance both academic subjects and soft skills instead of replacing one with another.\n- **How have soft skills helped you in your personal life or studies?** – Soft skills have helped me communicate better and work more effectively in group projects.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê kỹ năng mềm mà không giải thích lợi ích cụ thể.\n- Quên phát triển ý tưởng cá nhân ở nhánh thứ tư của mindmap.\n- Dành quá nhiều thời gian cho bài nói chính và không đủ thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ đến trải nghiệm học tập, làm việc nhóm hoặc hoạt động ngoại khóa.\n- Sử dụng câu đệm như: That is a complex issue. If we evaluate it from an educational perspective...\n- Nếu quên từ chuyên môn, hãy dùng cách diễn đạt đơn giản hơn để giữ mạch nói.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ thực tế và nhu cầu của xã hội hiện đại.\n- Sự logic và liên kết giữa các ý là yếu tố quan trọng để đạt điểm cao.\n- Đừng cố học thuộc lòng; hãy nói tự nhiên như đang chia sẻ trải nghiệm cá nhân."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about restaurants.\n1.\nHow often do you go to restaurants?\n2.\nWhat is your favorite type of restaurant and why?\n3.\nDo you prefer eating at home or eating out at a restaurant?\nNow, let’s talk about public transportation.\n4.\nWhat are some common forms of public transport in your city?\n5.\nDo you prefer using public transport or private vehicles? Why?\n6.\nHow could public transport in your country be improved in the future?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói gồm 6 câu hỏi cá nhân trong khoảng 3 phút nhằm kiểm tra khả năng giao tiếp tự nhiên và phản\nxạ tiếng Anh của bạn.\n• Topic A (Restaurants): Các câu hỏi 1–3 tập trung vào thói quen ăn uống, nhà hàng yêu thích và sở thích ăn ở nhà hay\năn ngoài. Giám khảo muốn đánh giá vốn từ về ẩm thực và khả năng giải thích sở thích cá nhân.\n• Topic B (Public Transport): Các câu hỏi 4–6 liên quan đến phương tiện công cộng, thói quen di chuyển và ý tưởng\ncải thiện giao thông trong tương lai.\n• Tiêu chí chấm điểm gồm: độ trôi chảy, phát âm, ngữ pháp và vốn từ vựng.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và giữ sự cân bằng thời gian giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer -> Reason -> Example để phát triển ý rõ ràng.\n• Ví dụ Topic A: I usually go to restaurants once or twice a month because I enjoy trying different kinds of food with\nmy friends.\n• Ví dụ Topic B: I prefer public transport because it is cheaper and more environmentally friendly than using private\nvehicles.\n• Luôn tự hỏi “Why?” hoặc “How?” để kéo dài câu trả lời tự nhiên.\n• Khi chuyển chủ đề, bạn có thể dùng câu như: Besides eating habits, transportation also plays an important role in\ndaily life.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và dùng filler tự nhiên như “Well”, “Actually”, “To be honest”.\n• Dùng hiện tại đơn để nói về thói quen và tương lai đơn khi nói về cải thiện giao thông trong tương lai.\n• Nếu quên từ, hãy diễn đạt bằng từ đơn giản hơn thay vì dừng quá lâu.\n• Từ vựng Topic A: fine dining (nhà hàng cao cấp), homemade meals (bữa ăn tự nấu), affordable prices (giá cả hợp lý),\ncozy atmosphere (không gian ấm cúng).\n• Từ vựng Topic B: public transportation (giao thông công cộng), traffic congestion (kẹt xe), eco-friendly transport\n(phương tiện thân thiện môi trường), subway system (hệ thống tàu điện ngầm).\nCụm từ quan trọng nên dùng:\n• Try local cuisine – thử ẩm thực địa phương\n• Eat out with friends – đi ăn ngoài với bạn bè\n• Save time and effort – tiết kiệm thời gian và công sức\n• Reduce traffic jams – giảm ùn tắc giao thông\n• Convenient means of transport – phương tiện giao thông tiện lợi\n• Improve air quality – cải thiện chất lượng không khí\nTừ nối khi nói (Linking Words):\n• First of all – trước tiên\n• Besides that – bên cạnh đó\n• For example – ví dụ\n• As a result – kết quả là\n• On the other hand – mặt khác\nCách thể hiện quan điểm tự nhiên:\n• I personally believe that eating at home is healthier and cheaper. – Tôi tin rằng ăn ở nhà tốt cho sức khỏe và tiết kiệm\nhơn.\n• From my perspective, public transport should be improved to reduce pollution. – Theo quan điểm của tôi, giao thông\ncông cộng nên được cải thiện để giảm ô nhiễm.\n• As far as I am concerned, restaurants are great places to relax with friends and family. – Theo tôi, nhà hàng là nơi\ntuyệt vời để thư giãn cùng bạn bè và gia đình.\n• I would say that buses are the most common form of public transport in my city. – Tôi cho rằng xe buýt là phương\ntiện công cộng phổ biến nhất ở thành phố tôi.\n• Personally, I prefer private vehicles because they are more flexible and comfortable. – Cá nhân tôi thích phương tiện\ncá nhân vì linh hoạt và thoải mái hơn.\n• In my opinion, public transport will become more modern in the future. – Theo tôi, giao thông công cộng sẽ hiện đại\nhơn trong tương lai.\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn chỉ bằng “Yes” hoặc “No”.\n• Lặp lại các tính từ đơn giản như good hoặc nice khi nói về nhà hàng.\n• Nói lan man về giao thông mà không trả lời đúng trọng tâm câu hỏi.\n• Dùng sai thì khi nói về kế hoạch cải thiện giao thông trong tương lai.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Sử dụng câu đệm như: That is an interesting question. Let me think for a second.\n• Nếu quên từ, hãy mô tả chức năng hoặc ví dụ liên quan.\n• Với Topic A, nếu ít đi nhà hàng, bạn có thể nói về trải nghiệm gần đây hoặc món ăn yêu thích.\n• Với Topic B, nếu khó nghĩ ý, hãy nói về vấn đề giao thông bạn thấy hằng ngày.\n6. Tư duy làm bài nói:\n• Hãy xem phần thi như một cuộc trò chuyện tự nhiên với giám khảo.\n• Khi chuyển từ chủ đề ăn uống sang giao thông, hãy thay đổi hướng suy nghĩ rõ ràng để tránh lặp ý.\n• Sự tự nhiên và mạch lạc quan trọng hơn việc dùng quá nhiều từ vựng khó.\nSolution Discussion\nPART 2\n4 phút\nYour friend is looking for a 60th birthday present for her mother, who really enjoys sightseeing and traveling.\nYou are considering the following options:\n• Option 1: A book about famous landmarks\n• Option 2: A new dress\n• Option 3: A holiday trip to a scenic destination\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đề bài yêu cầu bạn lựa chọn món quà phù hợp nhất cho mẹ của một người bạn nhân dịp sinh nhật 60 tuổi.\n• Ba lựa chọn gồm: sách về danh lam thắng cảnh, một chiếc váy mới và chuyến du lịch đến địa điểm đẹp.\n• Giám khảo đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định rõ ràng.\n• Thời gian làm bài khoảng 4 phút, trong đó nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction -> Comparison/Body -> End để trình bày logic.\n• Option 1 phù hợp với người thích đọc và khám phá văn hóa nhưng có thể hơi đơn giản cho dịp sinh nhật đặc biệt.\n• Option 2 thực tế và dễ sử dụng nhưng không liên quan nhiều đến sở thích du lịch của người mẹ.\n• Option 3 mang lại trải nghiệm đáng nhớ và phù hợp với sở thích tham quan, tuy nhiên chi phí có thể cao hơn.\n• Hãy liên hệ đến độ tuổi, sở thích và ý nghĩa tinh thần của món quà để lập luận thuyết phục hơn.\n• Sử dụng từ nối đối lập như however, in contrast hoặc compared to để chuyển ý tự nhiên.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Kết nối các lựa chọn với nhau thay vì phân tích từng lựa chọn riêng lẻ.\n• Dùng hiện tại đơn để nói về ưu nhược điểm và tương lai đơn khi nói về trải nghiệm của chuyến đi.\n• Nếu quên từ vựng về du lịch, hãy dùng cách diễn đạt đơn giản như beautiful place hoặc relaxing trip.\nCụm từ quan trọng nên dùng:\n• Memorable experience – trải nghiệm đáng nhớ\n• Scenic destination – điểm đến phong cảnh đẹp\n• Thoughtful present – món quà đầy ý nghĩa\n• Relax and unwind – thư giãn và nghỉ ngơi\n• Personal interests – sở thích cá nhân\n• Create happy memories – tạo ra kỷ niệm đẹp\nTừ nối khi nói (Linking Words):\n• First of all – trước tiên\n• Moreover – hơn nữa\n• On the other hand – mặt khác\n• As a result – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that a holiday trip would be the most meaningful gift. – Tôi tin rằng một chuyến du lịch sẽ là món\nquà ý nghĩa nhất.\n• Compared to a dress, a travel experience can create more unforgettable memories. – So với một chiếc váy, trải\nnghiệm du lịch có thể tạo ra nhiều kỷ niệm khó quên hơn.\n• In my opinion, gifts should match the receiver’s hobbies and interests. – Theo tôi, quà tặng nên phù hợp với sở thích\ncủa người nhận.\n4. Các lỗi thường gặp:\n• Chỉ nói về lựa chọn yêu thích mà không đánh giá các lựa chọn còn lại.\n• Lặp lại các từ đơn giản như good hoặc beautiful quá nhiều.\n• Không đưa ra quyết định cuối cùng rõ ràng ở phần kết luận.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ, hãy chuyển sang nói về chi phí, ý nghĩa tinh thần hoặc sự tiện lợi.\n• Sử dụng câu đệm như: Let's evaluate this option from another perspective.\n• Nếu bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn tiếp theo để giữ mạch nói.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người thật sự đang chọn quà cho người thân yêu.\n• Ngay cả khi chọn một phương án, bạn vẫn nên chỉ ra một vài hạn chế nhỏ để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: The importance of soft skills for students\nEnhance career opportunities and\nImprove social relationships and\nemployability\ncommunication\nImportance of Soft Skills\nÝ tưởng của bạn\nHelp in managing stress and complex\nproblems\nFOLLOW-UP QUESTIONS\n1.\nIn your opinion, which soft skill is the most difficult to learn?\n2.\nDo you think schools should replace some academic subjects with soft skills training?\n3.\nHow have soft skills helped you in your personal life or studies?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về tầm quan trọng của kỹ năng mềm đối với học sinh hoặc sinh viên.\n• Ba nhánh mindmap gồm: cơ hội nghề nghiệp, giao tiếp xã hội và khả năng quản lý căng thẳng. Nhánh thứ tư có thể\nnói về kỹ năng lãnh đạo hoặc làm việc nhóm.\n• Giám khảo đánh giá khả năng phát triển ý tưởng, liên kết nội dung và trả lời câu hỏi follow-up.\n• Thời gian khoảng 5 phút, nên dành khoảng 3–3.5 phút cho bài nói chính và thời gian còn lại cho phần hỏi đáp.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để triển khai từng ý trong sơ đồ tư duy.\n• Ví dụ 1: Today, I would like to talk about why soft skills are becoming increasingly important for students.\n• Ví dụ 2: Another important soft skill is teamwork because students often need to cooperate with others in projects.\n• Hãy đưa ví dụ thực tế như thuyết trình nhóm, phỏng vấn xin việc hoặc hoạt động ngoại khóa.\n• Luôn bám theo thứ tự của mindmap để tránh lặp ý hoặc bỏ sót nội dung.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng cụm chuyển ý mượt mà giữa các nhánh của mindmap.\n• Dùng hiện tại đơn để nói về lợi ích chung và hiện tại hoàn thành để nói về trải nghiệm cá nhân.\n• Có thể paraphrase soft skills bằng interpersonal skills, communication abilities hoặc practical skills.\nCụm từ quan trọng nên dùng:\n• Communication skills – kỹ năng giao tiếp\n• Problem-solving ability – khả năng giải quyết vấn đề\n• Career development – phát triển nghề nghiệp\n• Work effectively in teams – làm việc hiệu quả theo nhóm\n• Handle pressure – xử lý áp lực\n• Build professional relationships – xây dựng mối quan hệ nghề nghiệp\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Another important point is – một điểm quan trọng khác là\n• For instance – ví dụ\n• As a consequence – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, communication is one of the most essential soft skills. – Theo tôi, giao tiếp là một trong những kỹ\nnăng mềm quan trọng nhất.\n• I personally think that soft skills help students adapt to real-life situations more easily. – Tôi nghĩ rằng kỹ năng mềm\ngiúp học sinh thích nghi với tình huống thực tế dễ dàng hơn.\n• From my perspective, employers today value soft skills as much as academic knowledge. – Theo quan điểm của tôi,\nnhà tuyển dụng hiện nay coi trọng kỹ năng mềm ngang với kiến thức học thuật.\n4. Gợi ý trả lời câu hỏi follow-up:\n• In your opinion, which soft skill is the most difficult to learn? – I think leadership is the most difficult because it\nrequires confidence and experience.\n• Do you think schools should replace some academic subjects with soft skills training? – No, schools should balance\nboth academic subjects and soft skills instead of replacing one with another.\n• How have soft skills helped you in your personal life or studies? – Soft skills have helped me communicate better\nand work more effectively in group projects.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê kỹ năng mềm mà không giải thích lợi ích cụ thể.\n• Quên phát triển ý tưởng cá nhân ở nhánh thứ tư của mindmap.\n• Dành quá nhiều thời gian cho bài nói chính và không đủ thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ đến trải nghiệm học tập, làm việc nhóm hoặc hoạt động ngoại khóa.\n• Sử dụng câu đệm như: That is a complex issue. If we evaluate it from an educational perspective...\n• Nếu quên từ chuyên môn, hãy dùng cách diễn đạt đơn giản hơn để giữ mạch nói.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ thực tế và nhu cầu của xã hội hiện đại.\n• Sự logic và liên kết giữa các ý là yếu tố quan trọng để đạt điểm cao.\n• Đừng cố học thuộc lòng; hãy nói tự nhiên như đang chia sẻ trải nghiệm cá nhân."
+}

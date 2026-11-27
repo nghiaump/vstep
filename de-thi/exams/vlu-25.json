@@ -1,0 +1,717 @@
+{
+ "id": "vlu-25",
+ "number": 25,
+ "title": "Đề thi VLU 25",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-25",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Favorite Drinks and Healthy Habits",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Everyone has a favourite drink, whether it is a cold glass of orange juice in the morning or a cup of hot tea in the evening. Some people prefer something hot, others like cold drinks, and a few enjoy trying new flavours from different countries. Many families also have special drinks for festivals, such as sweet tea or warm ginger drinks on cold days. What we choose to drink can have a big effect on our health. In this passage, we look at popular drinks and some simple habits that keep the body strong.",
+     "Water is the healthiest choice for most people, because the body needs it to control its temperature, protect the joints, and move food through the stomach. Experts often suggest drinking six to eight glasses a day, although the right amount depends on age, weather, and activity. Many people forget to drink enough water when they are busy at school or work, so carrying a bottle can help. Cold water is refreshing on hot days, and it is a better choice than a sweet drink. Milk is another **beneficial** drink, since it gives children calcium for strong bones.",
+     "Tea and coffee are popular all over the world, and many people drink them to feel awake. Coffee contains caffeine, which can make it hard to sleep if you drink it late in the day. Green tea and herbal tea have no added sugar when you make them at home. Fruit juice tastes sweet and contains vitamins, but a small glass is enough because even natural juice has a lot of sugar, and some packaged drinks have added sugar as well. Soft drinks and energy drinks contain even more sugar, and doctors warn that **these** can damage teeth and cause weight gain.",
+     "Healthy habits matter just as much as the drinks we choose. Eating fresh fruit and vegetables, sleeping for at least eight hours, and walking or playing sport every day all help the body to stay in good condition. Walking to school or taking the stairs instead of the lift is an easy way to start. Drinking water before a meal can also help you to avoid eating too much. Drinking an **excessive** amount of sugary drinks, on the other hand, can lead to tiredness and health problems. Brushing your teeth after sweet drinks is also a good idea.",
+     "In conclusion, there is no need to give up every drink you enjoy. What matters is balance, so choose water most of the time, keep sweet drinks for special days, and build small habits that you can follow for many years. Remember that every person is different, so ask a doctor or teacher if you are not sure what is best for you. Small changes made today can lead to a healthier life tomorrow."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Water is the only drink people should ever have",
+       "B": "Fruit juice is much healthier than fresh fruit itself",
+       "C": "Doctors say that nobody should drink tea or coffee",
+       "D": "Drinks and daily habits both affect how healthy we feel"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why does the body need water?",
+      "options": {
+       "A": "It helps control temperature and move food",
+       "B": "Bones grow longer every year because of it",
+       "C": "Energy for the whole day comes from it",
+       "D": "It removes all the sugar from sweet drinks"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"water\" ở đoạn 2 để thấy lý do cơ thể cần nước: giúp kiểm soát nhiệt độ và di chuyển thức ăn qua dạ dày."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"beneficial\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "harmful",
+       "B": "expensive",
+       "C": "helpful",
+       "D": "colourful"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"beneficial\" ở đoạn 2 đi kèm với việc sữa cung cấp canxi cho xương chắc khỏe ở trẻ em, mang nghĩa có ích, hữu ích (helpful)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what is true about fruit juice?",
+      "options": {
+       "A": "It is always better for teeth than plain water or milk",
+       "B": "It has vitamins but also quite a lot of sugar",
+       "C": "Doctors say you should drink three glasses of it daily",
+       "D": "Packaged versions never have any added sugar of any kind"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"fruit juice\" ở đoạn 3 để xác định đặc điểm: nước ép có chứa vitamin nhưng cũng chứa khá nhiều đường."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"excessive\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "modest",
+       "B": "harmless",
+       "C": "careful",
+       "D": "extreme"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"excessive\" ở đoạn 4 đi kèm với việc tiêu thụ lượng lớn đồ uống nhiều đường dẫn đến mệt mỏi và vấn đề sức khỏe, tương đương với mức độ quá mức, cực đoan (extreme)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"these\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Soft and energy drinks",
+       "B": "Tea and herbal tea",
+       "C": "Fresh fruit juices",
+       "D": "Sugar and caffeine"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định số nhiều \"these\" ở đoạn 3. Đọc ngược lại câu ngay trước đó để tìm danh từ số nhiều tương ứng: \"Soft drinks and energy drinks contain even more sugar, and doctors warn that *these*... Do đó, \"these\" quy chiếu thẳng đến nước ngọt và nước tăng lực (Soft and energy drinks)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what can help the body stay in good condition?",
+      "options": {
+       "A": "Staying indoors and avoiding all movement after dinner",
+       "B": "Eating large meals late at night with friends",
+       "C": "Enough sleep, fresh fruit, and daily exercise",
+       "D": "Replacing every meal with a sweet fruit drink"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm các yếu tố ở đoạn 4 giúp cơ thể duy trì thể trạng tốt: ngủ đủ giấc, ăn trái cây tươi và tập thể dục hằng ngày."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a healthy habit?",
+      "options": {
+       "A": "Drinking a glass of water before each meal",
+       "B": "Skipping breakfast to save time each morning",
+       "C": "Taking the stairs instead of using the lift",
+       "D": "Sleeping for at least eight hours every night"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các thói quen lành mạnh được liệt kê ở đoạn 4: uống một ly nước trước mỗi bữa ăn, đi thang bộ thay vì thang máy, và ngủ ít nhất 8 tiếng mỗi đêm. Phương án về việc \"bỏ bữa sáng để tiết kiệm thời gian mỗi sáng\" không hề xuất hiện và đi ngược lại lời khuyên sức khỏe."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 3 and 4 about sweet drinks?",
+      "options": {
+       "A": "They are fine sometimes but should not be daily choices",
+       "B": "Children are never allowed to buy them in shops",
+       "C": "Natural juice is exactly as unhealthy as energy drinks",
+       "D": "Brushing the teeth removes every health problem they cause"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3 và 4 về đồ uống có đường (nước ngọt, nước tăng lực, nước ép có đường): chúng gây hại nếu dùng quá nhiều nhưng không bị cấm hoàn toàn, nghĩa là chúng có thể dùng thỉnh thoảng nhưng không nên là lựa chọn hằng ngày."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to buy a new brand of juice",
+       "B": "To tell a personal story about a childhood spent abroad",
+       "C": "To show that all drinks except water are dangerous",
+       "D": "To give advice about choosing drinks and living healthily Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu tầm quan trọng của đồ uống và thói quen đối với sức khỏe; đoạn 2 và 3 bàn về các loại đồ uống phổ biến (nước lọc, sữa, trà, cà phê, nước ép trái cây, nước ngọt); đoạn 4 kết hợp thêm các thói quen sinh hoạt lành mạnh; đoạn cuối nhấn mạnh sự cân bằng và các thay đổi nhỏ. Do đó, phương án đúng cho câu ý chính phải phản ánh việc cả đồ uống lẫn thói quen hằng ngày đều ảnh hưởng đến sức khỏe, đồng thời mục đích chính của tác giả là đưa ra lời khuyên về cách chọn đồ uống và sống lành mạnh.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R1Q2**, tìm từ khóa \"water\" ở đoạn 2 để thấy lý do cơ thể cần nước: giúp kiểm soát nhiệt độ và di chuyển thức ăn qua dạ dày.\n  - Với **R1Q4**, định vị từ khóa \"fruit juice\" ở đoạn 3 để xác định đặc điểm: nước ép có chứa vitamin nhưng cũng chứa khá nhiều đường.\n  - Với **R1Q7**, tìm kiếm các yếu tố ở đoạn 4 giúp cơ thể duy trì thể trạng tốt: ngủ đủ giấc, ăn trái cây tươi và tập thể dục hằng ngày.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"beneficial\"** ở đoạn 2 đi kèm với việc sữa cung cấp canxi cho xương chắc khỏe ở trẻ em, mang nghĩa có ích, hữu ích (helpful).\n  - Với **R1Q5**, từ **\"excessive\"** ở đoạn 4 đi kèm với việc tiêu thụ lượng lớn đồ uống nhiều đường dẫn đến mệt mỏi và vấn đề sức khỏe, tương đương với mức độ quá mức, cực đoan (extreme).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ chỉ định số nhiều **\"these\"** ở đoạn 3. Đọc ngược lại câu ngay trước đó để tìm danh từ số nhiều tương ứng: \"Soft drinks and energy drinks contain even more sugar, and doctors warn that *these*... Do đó, \"these\" quy chiếu thẳng đến nước ngọt và nước tăng lực (Soft and energy drinks).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối soát kỹ các thói quen lành mạnh được liệt kê ở đoạn 4: uống một ly nước trước mỗi bữa ăn, đi thang bộ thay vì thang máy, và ngủ ít nhất 8 tiếng mỗi đêm. Phương án về việc \"bỏ bữa sáng để tiết kiệm thời gian mỗi sáng\" không hề xuất hiện và đi ngược lại lời khuyên sức khỏe.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ các đoạn 3 và 4 về đồ uống có đường (nước ngọt, nước tăng lực, nước ép có đường): chúng gây hại nếu dùng quá nhiều nhưng không bị cấm hoàn toàn, nghĩa là chúng có thể dùng thỉnh thoảng nhưng không nên là lựa chọn hằng ngày.\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng và quy chiếu đại từ (từ R1Q2 đến R1Q7). Tiếp theo, loại trừ cẩn thận cho câu hỏi phủ định (R1Q8). Cuối cùng, tổng hợp toàn bộ nội dung bài đọc để hoàn thành chính xác câu Ý chính (R1Q1), Suy luận (R1Q9) và Mục đích tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Lifestyle of Generation Z",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Generation Z, usually defined as people born between the late 1990s and the early 2010s, is the first cohort to grow up with smartphones and social media as ordinary parts of childhood. Their habits are already reshaping markets, workplaces, and public debate in many countries. Many also completed part of their education online during the pandemic, which left a lasting mark on how they study and socialise. Yet describing them as a single, uniform group risks hiding considerable differences in income, culture, and opportunity.",
+     "Having come of age amid economic uncertainty, many young people take a **pragmatic** approach to money, prioritising stable income, savings, and affordable housing over status and prestige. Surveys in several countries suggest that many of them hold more than one source of income, such as freelance work or online selling. Many also treat financial advice from online creators with a mix of interest and caution. Few expect to rely on a single employer for an entire career, as their parents often did.",
+     "Digital technology is woven into almost every part of their daily lives. Short video platforms have become a primary source of news, humour, and trends, and many young people say that they first hear about world events from creators rather than from traditional broadcasters. Messaging apps and games also work as social spaces where friendships are formed and maintained across long distances. At the same time, constant connection has raised concerns about attention, privacy, and the spread of misinformation.",
+     "Many members of Generation Z value flexibility, meaningful work, and a clear separation between professional and private life more than a high salary alone, according to several workplace surveys. Remote and hybrid arrangements are therefore popular, although some young employees miss in-person mentoring. Side projects and freelance work are often seen as ways of building skills and independence. Employers who ignore these expectations may struggle to recruit and keep talented staff.",
+     "Environmental and social issues also shape daily choices, and many young consumers say that they prefer brands whose values match those they hold themselves, and some are willing to pay more for sustainable products. Critics argue, however, that online activism can be shallow and that actions often lag behind beliefs. Second-hand clothing, repair services, and rental platforms are often said to have grown partly because of this attitude.",
+     "Generation Z is also notably open about mental health, with surveys suggesting that many young people discuss anxiety and stress publicly and seek support earlier than their parents did. Counselling services in schools and universities have reported growing demand in recent years, although funding often fails to keep pace. At the same time, they are often **sceptical** of politicians, media, and large corporations. Researchers link this distrust to economic insecurity, climate anxiety, and repeated exposure to online controversy.",
+     "Taken together, these habits suggest a generation that is practical, connected, and socially aware, yet also anxious about an uncertain economic and environmental future that they did not create. Whether this outlook will last as they grow older remains to be seen. What is clear is that employers, educators, and policymakers can no longer treat young people as a passive audience."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Young people today are almost identical to every earlier generation",
+       "B": "Social media has made young people completely incapable of working",
+       "C": "Economic uncertainty has pushed young adults to abandon online platforms",
+       "D": "Generation Z shows distinctive attitudes towards money, technology, work, and values"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, how do many young people approach money?",
+      "options": {
+       "A": "They spend most of their income on luxury brands",
+       "B": "Their parents decide how every pound should be spent",
+       "C": "They focus on stability, savings, and affordable housing",
+       "D": "Banks and employers provide all the financial advice required"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"money\" ở đoạn 2 để thấy cách giới trẻ tiếp cận tài chính: họ tập trung vào sự ổn định, tiết kiệm và nhà ở giá cả phải chăng (stability, savings, and affordable housing)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"pragmatic\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "realistic",
+       "B": "dramatic",
+       "C": "hesitant",
+       "D": "careless"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"pragmatic\" ở đoạn 2 đi kèm với cách tiếp cận thực tế, tập trung vào sự ổn định và tiết kiệm tài chính, mang nghĩa thực tế, thực tế hóa (realistic)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what do many young people say about world events?",
+      "options": {
+       "A": "They only learn about them from printed newspapers at school",
+       "B": "They often hear about them first from online creators",
+       "C": "Most of them ignore the news entirely for months",
+       "D": "Old broadcasters now hire them as their main reporters"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"world events\" ở đoạn 3 để xác định nguồn tin tức: họ thường nghe về các sự kiện từ các nhà sáng tạo nội dung trực tuyến trước tiên (online creators)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"sceptical\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "trusting",
+       "B": "grateful",
+       "C": "doubtful",
+       "D": "curious"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"sceptical\" ở đoạn 6 mô tả thái độ hoài nghi của giới trẻ đối với các thể chế và tập đoàn lớn, tương đương với sự nghi ngờ, hoài nghi (doubtful)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"those\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Brands",
+       "B": "Prices",
+       "C": "Habits",
+       "D": "Values"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định số nhiều \"those\" ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về việc người tiêu dùng chọn nhãn hàng dựa trên các giá trị của họ. Do đó, \"those\" quy chiếu thẳng đến các giá trị (Values)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what do many young workers value more than a high salary alone?",
+      "options": {
+       "A": "Flexibility, meaningful work, and a private life",
+       "B": "Long hours that prove their loyalty to employers",
+       "C": "Promotion within a single company over many years",
+       "D": "Office attendance every day of the working week"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"salary\" ở đoạn 4 để xác định những gì người lao động trẻ coi trọng hơn mức lương cao: sự linh hoạt, công việc ý nghĩa và đời sống cá nhân (Flexibility, meaningful work, and a private life)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as part of Generation Z's consumer behaviour?",
+      "options": {
+       "A": "Choosing brands whose values match their own beliefs",
+       "B": "Buying the cheapest goods regardless of ethics",
+       "C": "Paying extra for products that are more sustainable",
+       "D": "Growing use of second-hand clothes and rental platforms"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các đặc điểm hành vi tiêu dùng được liệt kê ở đoạn 5: chọn nhãn hàng có giá trị tương đồng, sẵn sàng trả thêm cho sản phẩm bền vững, và xu hướng mua quần áo cũ/nền tảng cho thuê. Phương án \"mua hàng rẻ nhất bất kể đạo đức\" là hoàn toàn sai lệch và trái ngược với nội dung bài viết."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 5, 6, and 7 about Generation Z?",
+      "options": {
+       "A": "They have complete confidence in governments and in large companies",
+       "B": "Their opinions will certainly never change as they become older",
+       "C": "Online activism has already solved most major environmental problems worldwide",
+       "D": "Their values are strong, yet their trust in institutions remains fragile"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 5, 6 và 7 về hành vi của Gen Z (họ có giá trị sống và lập trường mạnh mẽ nhưng lại hoài nghi sâu sắc đối với các tổ chức, chính phủ và doanh nghiệp lớn). Từ đó suy luận ra rằng giá trị của họ rất mạnh mẽ, song niềm tin của họ vào các thể chế vẫn còn mong manh."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade companies to market more products directly to teenage consumers",
+       "B": "To criticise young people for spending too much time on phones",
+       "C": "To describe the lifestyle and attitudes of young people today",
+       "D": "To compare education systems in several countries around the world Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu về thế hệ Gen Z; đoạn 2 đề cập đến quan điểm thực tế về tiền bạc và tài chính; đoạn 3 nói về cách tiếp nhận thông tin từ mạng xã hội; đoạn 4 bàn về thái độ đối với công việc và sự linh hoạt; đoạn 5 và 6 phân tích hành vi tiêu dùng và sự hoài nghi đối với các tổ chức; đoạn cuối tổng kết các giá trị của họ. Do đó, phương án đúng cho câu ý chính phải chỉ ra rằng Gen Z thể hiện những thái độ đặc trưng về tiền bạc, công nghệ, công việc và giá trị sống, đồng thời mục đích chính của tác giả là mô tả lối sống và thái độ của giới trẻ hiện nay.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R2Q2**, tìm từ khóa \"money\" ở đoạn 2 để thấy cách giới trẻ tiếp cận tài chính: họ tập trung vào sự ổn định, tiết kiệm và nhà ở giá cả phải chăng (stability, savings, and affordable housing).\n  - Với **R2Q4**, định vị từ khóa \"world events\" ở đoạn 3 để xác định nguồn tin tức: họ thường nghe về các sự kiện từ các nhà sáng tạo nội dung trực tuyến trước tiên (online creators).\n  - Với **R2Q7**, tìm từ khóa \"salary\" ở đoạn 4 để xác định những gì người lao động trẻ coi trọng hơn mức lương cao: sự linh hoạt, công việc ý nghĩa và đời sống cá nhân (Flexibility, meaningful work, and a private life).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"pragmatic\"** ở đoạn 2 đi kèm với cách tiếp cận thực tế, tập trung vào sự ổn định và tiết kiệm tài chính, mang nghĩa thực tế, thực tế hóa (realistic).\n  - Với **R2Q5**, từ **\"sceptical\"** ở đoạn 6 mô tả thái độ hoài nghi của giới trẻ đối với các thể chế và tập đoàn lớn, tương đương với sự nghi ngờ, hoài nghi (doubtful).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ chỉ định số nhiều **\"those\"** ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về việc người tiêu dùng chọn nhãn hàng dựa trên các giá trị của họ. Do đó, \"those\" quy chiếu thẳng đến các giá trị (Values).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối soát kỹ các đặc điểm hành vi tiêu dùng được liệt kê ở đoạn 5: chọn nhãn hàng có giá trị tương đồng, sẵn sàng trả thêm cho sản phẩm bền vững, và xu hướng mua quần áo cũ/nền tảng cho thuê. Phương án \"mua hàng rẻ nhất bất kể đạo đức\" là hoàn toàn sai lệch và trái ngược với nội dung bài viết.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 5, 6 và 7 về hành vi của Gen Z (họ có giá trị sống và lập trường mạnh mẽ nhưng lại hoài nghi sâu sắc đối với các tổ chức, chính phủ và doanh nghiệp lớn). Từ đó suy luận ra rằng giá trị của họ rất mạnh mẽ, song niềm tin của họ vào các thể chế vẫn còn mong manh.\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng và quy chiếu đại từ (từ R2Q2 đến R2Q7). Tiếp theo, loại trừ cẩn thận cho câu hỏi phủ định (R2Q8). Cuối cùng, tổng hợp toàn bộ nội dung bài đọc để hoàn thành chính xác câu Ý chính (R2Q1), Suy luận (R2Q9) và Mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Evolution and Integration of AI Tools",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Artificial intelligence has moved from research laboratories into the everyday software that millions of people use. What began as a niche academic ambition in the 1950s has become a family of practical tools that draft documents, write code, translate languages, and answer questions in plain conversation. Understanding how this evolution unfolded helps explain both the promise and the risks.",
+     "The term artificial intelligence is usually traced to a workshop held at Dartmouth College in 1956, where researchers predicted that machines would soon match human reasoning. The early hopes proved premature, and progress over the following decades was largely **incremental-** , with long periods of disappointment sometimes called AI winters. Rule-based expert systems in the 1980s offered narrow help in fields such as medicine and finance.",
+     "A decisive change came when computing power and data grew large enough to train neural networks at scale. **[1]** Around 2012, deep learning systems began to outperform older methods in image recognition, which attracted heavy investment from technology companies. **[2]** A further breakthrough followed in 2017, when researchers introduced the transformer architecture, a design that processes language far more efficiently than earlier models. **[3]** By training such models on vast quantities of text, developers produced chatbots that could write essays, explain concepts, and hold fluent conversations, and by late 2022, the tools had reached a mass audience. **[4]** Such surprise did not slow the industry, however, since software firms rushed to embed the technology in word processors, search engines, and customer-service platforms.",
+     "Integration has been the second stage of this story, as AI features moved inside tools people already use. Programmers now receive code suggestions inside their editors, designers generate draft images from short descriptions, and office workers ask assistants to summarise long reports or draft routine emails. Early surveys of firms suggest that such tools can save time on routine tasks, although the gains vary widely and the reported figures are often self-assessed. Workers who learn to check and refine the output generally benefit most.",
+     "Beyond offices, AI tools are being tested in healthcare, education, and scientific research. Hospitals are testing systems that help doctors read scans, schools are trialling programmes that adapt exercises to each student, and laboratories are using models to predict protein structures. Supporters argue that, if properly supervised, **these** could widen access to expertise in regions with few specialists, although every such claim still requires careful testing. Critics, meanwhile, warn that enthusiasm may run ahead of evidence.",
+     "Wider integration has also exposed serious weaknesses that developers and regulators are still addressing. Many models are **opaque**, meaning that even their creators cannot always explain why a particular answer was produced, and this makes errors, biases, and invented facts difficult to detect and correct. Concerns about copyright, privacy, and energy consumption have prompted lawsuits and new legislation, including the European Union's AI Act, which sets obligations according to the level of risk.",
+     "Looking ahead, the most useful tools are likely to combine strong performance with transparency, so that users can understand when to trust a result and when to challenge it. History suggests that adoption will be uneven, with some professions changing quickly and others slowly. What seems certain is that AI tools will keep evolving, and that human judgement will remain essential in deciding how they are used."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Early researchers correctly predicted every breakthrough that followed after 1956",
+       "B": "Regulation has stopped companies from placing AI tools inside everyday software",
+       "C": "AI tools have grown from modest research into widely used, imperfect technology",
+       "D": "Chatbots are replacing doctors, teachers, and scientists in every large country"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, how did AI develop in the decades after 1956?",
+      "options": {
+       "A": "Slow and gradual, with long periods of disappointment",
+       "B": "Rapid and steady, with machines matching human reasoning by 1970",
+       "C": "Fast at first, but halted entirely by government bans",
+       "D": "Limited to the field of medicine until the late 1990s"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"1956\" ở đoạn 2 để thấy cách AI phát triển trong những thập kỷ sau đó: chậm và dần dần, kèm theo những giai đoạn thất vọng kéo dài (Slow and gradual, with long periods of disappointment)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"incremental\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "sudden",
+       "B": "gradual",
+       "C": "revolutionary",
+       "D": "unnoticed"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'This rapid adoption surprised even many specialists, who had expected a far slower transition.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'This rapid adoption surprised even many specialists, who had expected a far slower transition.' Cụm từ \"This rapid adoption\" liên kết hoàn hảo với đoạn nói về sự bùng nổ lan rộng nhanh chóng của các công cụ công nghệ mới ở vị trí [4]."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, which workers generally benefit most from AI tools?",
+      "options": {
+       "A": "Those who learn to check and refine the output",
+       "B": "People who accept every suggestion without reading it carefully first",
+       "C": "Nobody, since the gains are identical for every user",
+       "D": "Only specialists employed by very large technology companies"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"workers\" ở đoạn 4 để xác định nhóm người lao động hưởng lợi nhiều nhất: những người biết học cách kiểm tra và tinh chỉnh kết quả đầu ra (Those who learn to check and refine the output)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"these\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Hospitals, schools, and laboratories",
+       "B": "Doctors, students, and scientists",
+       "C": "Systems, programmes, and models",
+       "D": "Scans, exercises, and structures"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định số nhiều \"these\" ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về các hệ thống, chương trình và mô hình phức tạp. Do đó, \"these\" quy chiếu thẳng đến các hệ thống, chương trình và mô hình (Systems, programmes, and models)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"opaque\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "transparent",
+       "B": "predictable",
+       "C": "expensive",
+       "D": "unclear"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"opaque\" ở đoạn 6 mô tả các mô hình phức tạp khiến người dùng khó hiểu rõ cách chúng hoạt động bên trong, tương đương với nghĩa không rõ ràng, mập mờ (unclear)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a concern about AI tools?",
+      "options": {
+       "A": "Difficulty in explaining why a model gave an answer",
+       "B": "A complete ban on AI tools in schools",
+       "C": "Lawsuits and new laws prompted by copyright and privacy worries",
+       "D": "Invented facts and bias that are hard to detect"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các mối lo ngại được liệt kê ở đoạn 6: khó giải thích lý do mô hình đưa ra câu trả lời, tranh chấp bản quyền/quyền riêng tư, và thông tin bịa đặt/thiên vị. Phương án về việc \"lệnh cấm hoàn toàn các công cụ AI trong trường học\" không hề xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about the future of AI tools?",
+      "options": {
+       "A": "Companies will soon stop using AI because of the risks",
+       "B": "Every profession will adopt the technology at exactly the same pace",
+       "C": "Their benefits will depend on human supervision and careful testing of claims",
+       "D": "Complex models will soon be fully understood by every user"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về tương lai của các công cụ AI (chúng mang lại lợi ích nhưng đi kèm rủi ro về độ chính xác và tính minh bạch, đòi hỏi sự giám sát). Từ đó suy luận ra rằng lợi ích của chúng sẽ phụ thuộc vào sự giám sát của con người và việc kiểm tra cẩn thận các kết quả (Their benefits will depend on human supervision and careful testing of claims)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To trace how AI tools developed and spread into use",
+       "B": "To warn readers that every AI company is hiding dangerous secrets",
+       "C": "To teach beginners how to write their first chatbot program",
+       "D": "To compare the cost of different AI software packages Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 và 2 giới thiệu sự khởi đầu từ năm 1956 và quá trình phát triển qua nhiều giai đoạn; đoạn 3, 4, 5 nói về sự bùng nổ, ứng dụng trong công việc và lợi ích khi có sự kiểm tra của con người; đoạn 6 đề cập đến các rủi ro (tính mập mờ, bản quyền, thiên vị). Do đó, phương án đúng cho câu ý chính phải phản ánh việc AI đã chuyển từ nghiên cứu khiêm tốn thành công nghệ được sử dụng rộng rãi nhưng vẫn còn điểm chưa hoàn hảo, đồng thời mục đích chính của tác giả là truy vết quá trình phát triển và lan tỏa của các công cụ AI.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R3Q2**, tìm từ khóa \"1956\" ở đoạn 2 để thấy cách AI phát triển trong những thập kỷ sau đó: chậm và dần dần, kèm theo những giai đoạn thất vọng kéo dài (Slow and gradual, with long periods of disappointment).\n  - Với **R3Q5**, định vị từ khóa \"workers\" ở đoạn 4 để xác định nhóm người lao động hưởng lợi nhiều nhất: những người biết học cách kiểm tra và tinh chỉnh kết quả đầu ra (Those who learn to check and refine the output).\n  - Với **R3Q8**, đối soát kỹ các mối lo ngại được liệt kê ở đoạn 6: khó giải thích lý do mô hình đưa ra câu trả lời, tranh chấp bản quyền/quyền riêng tư, và thông tin bịa đặt/thiên vị. Phương án về việc \"lệnh cấm hoàn toàn các công cụ AI trong trường học\" không hề xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - With **R3Q3**, từ **\"incremental\"** ở đoạn 2 mô tả những bước tiến nhỏ, tích lũy dần theo thời gian, mang nghĩa từ từ, tiệm tiến (gradual).\n  - Với **R3Q7**, từ **\"opaque\"** ở đoạn 6 mô tả các mô hình phức tạp khiến người dùng khó hiểu rõ cách chúng hoạt động bên trong, tương đương với nghĩa không rõ ràng, mập mờ (unclear).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R3Q4):** Đọc kỹ câu cần chèn: 'This rapid adoption surprised even many specialists, who had expected a far slower transition.' Cụm từ \"This rapid adoption\" liên kết hoàn hảo với đoạn nói về sự bùng nổ lan rộng nhanh chóng của các công cụ công nghệ mới ở vị trí **[4]**.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ chỉ định số nhiều **\"these\"** ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về các hệ thống, chương trình và mô hình phức tạp. Do đó, \"these\" quy chiếu thẳng đến các hệ thống, chương trình và mô hình (Systems, programmes, and models).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về tương lai của các công cụ AI (chúng mang lại lợi ích nhưng đi kèm rủi ro về độ chính xác và tính minh bạch, đòi hỏi sự giám sát). Từ đó suy luận ra rằng lợi ích của chúng sẽ phụ thuộc vào sự giám sát của con người và việc kiểm tra cẩn thận các kết quả (Their benefits will depend on human supervision and careful testing of claims).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu vào chỗ trống và quy chiếu đại từ (từ R3Q2 đến R3Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R3Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R3Q1) và Mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Frontier of Energy Regeneration and Sustainable Systems",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Every machine loses some of the energy it consumes, usually as heat, vibration, or friction. Energy regeneration, the practice of capturing and reusing energy that would otherwise be lost, has therefore become a central idea in engineering, offering a way to improve efficiency without simply generating more power. The principle is simple, but putting it into practice at scale remains a formidable challenge.",
+     "The most familiar example is regenerative braking, in which an electric motor runs in reverse as a vehicle slows, turning motion into electricity instead of letting the energy be **dissipated** as heat. Many trains, trams, and electric cars now use this technology as a standard feature of their design. Estimates of the range gained vary with driving conditions, but urban stop-start journeys usually benefit most.",
+     "Factories, power stations, and data centres release enormous quantities of waste heat, much of which has traditionally been vented into the atmosphere without any further use. **[1]** Heat-recovery systems capture this energy and use it to generate electricity, to warm buildings, or to preheat industrial processes. **[2]** In a few Nordic cities, for example, surplus heat from data centres is reportedly fed into district heating networks that serve thousands of homes. **[3]** Where no such customer exists, engineers increasingly turn to thermoelectric generators, which convert temperature differences directly into electricity, although their efficiency remains low. **[4]** Researchers are therefore exploring new materials that might make such devices competitive with conventional power sources.",
+     "Regeneration also matters for electricity grids, where supply and demand rarely match perfectly. Pumped-storage hydropower, which pumps water uphill when electricity is cheap and releases it through turbines at times of high demand, is often cited as the largest source of grid-scale storage capacity. Batteries, whose costs have fallen sharply over the past decade, are now being installed alongside wind and solar farms to store surplus output. Newer proposals include lifting heavy blocks with surplus power and lowering them to release energy later.",
+     "Sustainability also depends on what happens to equipment once the first working life ends. An electric-vehicle battery that can no longer deliver adequate range may still retain a substantial share of **its** original capacity, which makes it suitable for less demanding second-life roles in stationary storage. Several manufacturers and energy companies have launched pilot projects that reuse retired batteries in homes, offices, and charging stations. Recycling the remaining materials, such as lithium, cobalt, and nickel, would then complete a loop that reduces demand for newly mined resources.",
+     "Despite this promise, many regeneration technologies still struggle to become commercially **viable** without public support. Installing heat-recovery equipment or storage systems requires heavy upfront investment, and payback periods can stretch across many years, which discourages companies that are under pressure to deliver short-term profits. Policymakers have responded with subsidies, tax incentives, and efficiency standards, although critics note that poorly designed schemes can reward waste rather than savings. There is also the risk that efficiency gains may simply encourage greater consumption, a pattern economists call the rebound effect.",
+     "Ultimately, the frontier of energy regeneration lies less in a single breakthrough than in the careful integration of many modest improvements across transport, industry, and the electricity grid. Each recovered fraction of lost energy reduces both operating costs and harmful emissions over time. Whether such systems become standard will depend as much on regulation, finance, and public acceptance as on engineering talent. For engineers and policymakers alike, the central task is to treat lost energy as an asset."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Regenerative braking has made conventional power stations completely unnecessary worldwide",
+       "B": "Recovering lost energy improves efficiency, but cost barriers still slow wider adoption",
+       "C": "Governments should ban batteries entirely because recycling them is impossible",
+       "D": "Pumped hydropower will replace every other form of energy storage"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, what is a limitation of thermoelectric generators?",
+      "options": {
+       "A": "They cannot operate near sources of industrial heat",
+       "B": "Harmful emissions are produced during daily operation",
+       "C": "Constant sunlight is needed to convert temperature differences",
+       "D": "Their efficiency is still quite low"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"thermoelectric generators\" ở đoạn 3 để thấy hạn chế của chúng: hiệu suất vẫn còn khá thấp (Their efficiency is still quite low)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"dissipated\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "scattered",
+       "B": "stored",
+       "C": "measured",
+       "D": "recycled"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"dissipated\" ở đoạn 2 mô tả năng lượng nhiệt bị thất thoát, tản ra môi trường xung quanh, tương đương với nghĩa bị phân tán, tản mát (scattered)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such networks, however, require a nearby customer for the heat, a condition that many industrial sites cannot meet.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'Such networks, however, require a nearby customer for the heat, a condition that many industrial sites cannot meet.' Cụm từ \"Such networks\" quy chiếu trực tiếp về các hệ thống sưởi khu vực/mạng lưới tận dụng nhiệt thải được mô tả ngay trước vị trí [3]."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, how does pumped-storage hydropower work?",
+      "options": {
+       "A": "Turbines are driven by steam produced from burning surplus agricultural waste",
+       "B": "Water is pumped uphill when power is cheap, then released",
+       "C": "Giant batteries store power in underground tanks of liquid metal",
+       "D": "Heavy blocks are lifted by hand and dropped later"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"pumped-storage hydropower\" ở đoạn 4 để xác định cách hoạt động: nước được bơm lên đồi khi điện giá rẻ rồi sau đó được xả xuống (Water is pumped uphill when power is cheap, then released)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"its\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "The vehicle",
+       "B": "The charger",
+       "C": "The motor",
+       "D": "The battery"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số ít \"its\" ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số ít phù hợp: nói về việc tái sử dụng pin ô tô điện sau khi *nó* (pin) không còn đủ dung lượng cho xe. Do đó, \"its\" quy chiếu thẳng đến pin (The battery)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"viable\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "feasible",
+       "B": "reckless",
+       "C": "trivial",
+       "D": "hidden"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"viable\" ở đoạn 6 đi kèm với việc làm cho các dự án thu hồi năng lượng trở nên khả thi về mặt kinh tế, mang nghĩa khả thi, thực tế (feasible)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as an obstacle or response to the spread of regeneration technologies?",
+      "options": {
+       "A": "Heavy upfront costs and long payback periods for investors",
+       "B": "Subsidies and tax incentives offered by several national policymakers",
+       "C": "A shortage of engineers able to design equipment",
+       "D": "Rising energy consumption caused by the rebound effect itself"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các rào cản hoặc phản ứng được liệt kê ở đoạn 6: chi phí ban đầu lớn, trợ cấp và ưu đãi thuế từ các nhà hoạch định chính sách, cùng hiện tượng tiêu thụ năng lượng tăng do hiệu ứng dội ngược. Phương án về \"tình trạng thiếu kỹ sư có khả năng thiết kế thiết bị\" không hề xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about sustainable energy systems?",
+      "options": {
+       "A": "Retired batteries are always too damaged to be used again anywhere",
+       "B": "Technical solutions exist, but financial and policy conditions decide how widely they spread",
+       "C": "Grid operators prefer expensive storage because it guarantees very large profits",
+       "D": "Efficiency improvements always reduce total energy use without any side effects"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về các hệ thống năng lượng bền vững (các giải pháp kỹ thuật tồn tại nhưng điều kiện tài chính và chính sách mới quyết định mức độ lan rộng của chúng). Từ đó suy luận ra rằng các giải pháp kỹ thuật đã sẵn có, nhưng các điều kiện tài chính và chính sách mới là yếu tố quyết định mức độ phổ biến rộng rãi của chúng."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To advertise a particular brand of electric vehicle to potential buyers",
+       "B": "To prove that wind and solar power will never succeed",
+       "C": "To describe the history of the first electric motors",
+       "D": "To explore how recovering lost energy could support sustainable systems"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 và 2 giới thiệu khái niệm thu hồi năng lượng bị thất thoát; đoạn 3, 4, 5 trình bày các công nghệ cụ thể (máy phát nhiệt điện, thủy điện tích năng, thu hồi năng lượng phanh xe điện và tái sử dụng pin); đoạn 6 đề cập đến các rào cản chi phí và chính sách. Do đó, phương án đúng cho câu ý chính phải phản ánh việc phục hồi năng lượng bị mất giúp cải thiện hiệu suất nhưng các rào cản chi phí vẫn làm chậm quá trình áp dụng rộng rãi; đồng thời mục đích chính của tác giả là khám phá cách việc thu hồi năng lượng bị mất có thể hỗ trợ hệ thống bền vững.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R4Q2**, tìm từ khóa \"thermoelectric generators\" ở đoạn 3 để thấy hạn chế của chúng: hiệu suất vẫn còn khá thấp (Their efficiency is still quite low).\n  - Với **R4Q5**, định vị từ khóa \"pumped-storage hydropower\" ở đoạn 4 để xác định cách hoạt động: nước được bơm lên đồi khi điện giá rẻ rồi sau đó được xả xuống (Water is pumped uphill when power is cheap, then released).\n  - Với **R4Q8**, đối soát kỹ các rào cản hoặc phản ứng được liệt kê ở đoạn 6: chi phí ban đầu lớn, trợ cấp và ưu đãi thuế từ các nhà hoạch định chính sách, cùng hiện tượng tiêu thụ năng lượng tăng do hiệu ứng dội ngược. Phương án về \"tình trạng thiếu kỹ sư có khả năng thiết kế thiết bị\" không hề xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"dissipated\"** ở đoạn 2 mô tả năng lượng nhiệt bị thất thoát, tản ra môi trường xung quanh, tương đương với nghĩa bị phân tán, tản mát (scattered).\n  - Với **R4Q7**, từ **\"viable\"** ở đoạn 6 đi kèm với việc làm cho các dự án thu hồi năng lượng trở nên khả thi về mặt kinh tế, mang nghĩa khả thi, thực tế (feasible).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R4Q4):** Đọc kỹ câu cần chèn: 'Such networks, however, require a nearby customer for the heat, a condition that many industrial sites cannot meet.' Cụm từ \"Such networks\" quy chiếu trực tiếp về các hệ thống sưởi khu vực/mạng lưới tận dụng nhiệt thải được mô tả ngay trước vị trí **[3]**.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ số ít **\"its\"** ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số ít phù hợp: nói về việc tái sử dụng pin ô tô điện sau khi *nó* (pin) không còn đủ dung lượng cho xe. Do đó, \"its\" quy chiếu thẳng đến pin (The battery).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về các hệ thống năng lượng bền vững (các giải pháp kỹ thuật tồn tại nhưng điều kiện tài chính và chính sách mới quyết định mức độ lan rộng của chúng). Từ đó suy luận ra rằng các giải pháp kỹ thuật đã sẵn có, nhưng các điều kiện tài chính và chính sách mới là yếu tố quyết định mức độ phổ biến rộng rãi của chúng.\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu vào chỗ trống và quy chiếu đại từ (từ R4Q2 đến R4Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R4Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R4Q1) và Mục đích tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your Canadian friend, Mike, who is a big fan of ice hockey.\nHe is asking for your opinion on the importance of diet for athletes and general health. Read part of his email below. I have been playing ice hockey recently and I realized how important food is for my performance.\n- What do you think about the importance of food for people playing sports like ice hockey?\n- What kinds of food should people eat these days to stay healthy?\n- Do you have any advice for me to keep a balanced diet?\nWrite an email responding to Mike. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your Canadian friend, Mike, who is a big fan of ice hockey.",
+      "He is asking for your opinion on the importance of diet for athletes and general health. Read part of his email below."
+     ],
+     "quote": [
+      "I have been playing ice hockey recently and I realized how important food is for my performance.",
+      "- What do you think about the importance of food for people playing sports like ice hockey?",
+      "- What kinds of food should people eat these days to stay healthy?",
+      "- Do you have any advice for me to keep a balanced diet?"
+     ],
+     "instruction": "Write an email responding to Mike. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng thư thân mật (Informal Email) gửi cho một người bạn tên Mike.\n- Bạn cần trả lời 3 yêu cầu: Tầm quan trọng của thức ăn đối với người chơi thể thao, các loại thực phẩm nên ăn hiện nay và lời khuyên về chế độ ăn cân bằng.\n- Yêu cầu tối thiểu 120 từ. Sử dụng ngôn ngữ gần gũi, tự nhiên.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật như \"Hi Mike,\" hoặc \"Dear Mike,\".\n- **Opening:** Phản hồi lại thông tin về việc Mike chơi ice hockey (khúc côn cầu trên băng). Ví dụ: \"It is great to hear that you are enjoying ice hockey! It is a very demanding sport.\"\n- **Body:** Chia thành 2 đoạn. Đoạn 1 nói về tầm quan trọng của dinh dưỡng với vận động viên. Đoạn 2 trả lời về thực phẩm lành mạnh và đưa ra lời khuyên.\n- **Closing:** Kết thúc thư và chúc may mắn. Ví dụ: \"Hope my advice helps you stay fit for your matches. Best of luck!\"\n- **Sign-off:** Thân mến, [Tên của bạn].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các cấu trúc đưa ra lời khuyên như \"I reckon you should...\" hoặc \"It would be better if you...\".\n- Sử dụng thì hiện tại đơn để nói về các thói quen dinh dưỡng.\nTừ vựng quan trọng:\n- **Physical performance:** Hiệu suất thể chất\n- **Nutritious diet:** Chế độ ăn giàu dinh dưỡng\n- **Energy boost:** Tăng cường năng lượng\n- **Processed food:** Thực phẩm chế biến sẵn\n- **Organic products:** Sản phẩm hữu cơ\n- **High-intensity sport:** Môn thể thao cường độ cao\nTừ nối (Linking words):\n- **Regarding:** Về việc...\n- **In terms of:** Xét về...\n- **To be honest:** Thành thật mà nói\n- **Moreover:** Hơn nữa\n- **As for your question:** Đối với câu hỏi của bạn\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am impressed that:** Mình rất ấn tượng rằng...\n- **I totally agree that:** Mình hoàn toàn đồng ý rằng...\n- **It is wonderful to hear:** Rất vui khi nghe thấy...\n\n**4. Các lỗi thường gặp:**\n- Quên không nhắc đến môn \"ice hockey\" khiến bài viết thiếu sự kết nối với ngữ cảnh.\n- Sử dụng từ nối quá trang trọng như \"Furthermore\" hay \"In conclusion\" không phù hợp với thư cho bạn bè.\n- Viết dưới 120 từ dẫn đến bị trừ điểm Task Fulfillment.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm số lượng từ để đảm bảo đạt yêu cầu.\n- Kiểm tra lỗi chính tả các từ chuyên ngành về thực phẩm.\n- Đảm bảo đã trả lời đủ 3 câu hỏi của Mike.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang thực sự trò chuyện với một người bạn thích thể thao để nội dung viết trở nên thực tế và sinh động hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nAir pollution is defined as the contamination of the indoor or outdoor environment by any chemical, physical, or biological agent that modifies the natural characteristics of the atmosphere.\nThis issue has become a major concern for governments and environmentalists worldwide due to its severe impact on human health and the planet.\nDiscuss the causes of air pollution and suggest some possible solutions to this problem.\nWrite an essay to an educated reader to discuss the problems caused by air pollution and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Air pollution is defined as the contamination of the indoor or outdoor environment by any chemical, physical, or biological agent that modifies the natural characteristics of the atmosphere.",
+      "This issue has become a major concern for governments and environmentalists worldwide due to its severe impact on human health and the planet.",
+      "Discuss the causes of air pollution and suggest some possible solutions to this problem."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by air pollution and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Cause and Solution (Nguyên nhân và Giải pháp).\n- Chủ đề: Ô nhiễm không khí (môi trường trong nhà và ngoài trời).\n- Yêu cầu: Phân tích các tác nhân hóa học, vật lý, sinh học gây ô nhiễm và đưa ra cách giải quyết.\n- Độ dài tối thiểu: 250 từ. Tránh lan man sang các loại ô nhiễm khác như nước hay tiếng ồn.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu tình trạng ô nhiễm không khí hiện nay là vấn đề cấp bách. Ví dụ: \"Air pollution has emerged as a critical environmental threat, affecting both indoor and outdoor settings.\"\n- **Body 1:** Phân tích nguyên nhân (khí thải công nghiệp, phương tiện giao thông, hoạt động sinh hoạt). Ví dụ: \"One of the primary causes of atmospheric contamination is the excessive emission of exhaust fumes from factories and vehicles.\"\n- **Body 2:** Đưa ra giải pháp (chuyển sang năng lượng xanh, chính sách chính phủ, nâng cao ý thức cá nhân). Ví dụ: \"To address this issue, governments should encourage the use of renewable energy sources such as wind and solar power.\"\n- **Conclusion:** Tóm tắt lại các ý chính và khẳng định tầm quan trọng của việc bảo vệ bầu không khí.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng câu bị động để mô tả tác động của ô nhiễm.\n- Sử dụng các cấu trúc chỉ nguyên nhân - kết quả (due to, resulting in).\nTừ vựng quan trọng:\n- **Exhaust fumes:** Khí thải\n- **Greenhouse gas emissions:** Phát thải khí nhà kính\n- **Respiratory diseases:** Các bệnh về đường hô hấp\n- **Environmental degradation:** Suy thoái môi trường\n- **Sustainable development:** Phát triển bền vững\n- **Technological advancements:** Sự tiến bộ công nghệ\nTừ nối (Linking words):\n- **First and foremost:** Đầu tiên và quan trọng nhất\n- **Consequently:** Hậu quả là\n- **In addition to:** Bên cạnh việc...\n- **For instance:** Ví dụ như\n- **On a global scale:** Trên quy mô toàn cầu\n- **To conclude:** Để kết luận\nDiễn đạt lại ý (Paraphrasing):\n- **Atmospheric contamination:** Thay cho \"air pollution\".\n- **Harmful substances:** Thay cho \"chemical agents\".\n- **Inhabit:** Thay cho \"live in\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **A viable solution would be:** Một giải pháp khả thi sẽ là...\n- **It is imperative that:** Điều cấp thiết là...\n- **The root cause of this:** Nguyên nhân gốc rễ của việc này là...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nêu nguyên nhân mà không có giải pháp tương ứng (hoặc ngược lại).\n- Sử dụng từ vựng quá đơn giản như \"bad air\" thay vì \"poor air quality\".\n- Viết đoạn văn quá dài không có câu chủ đề (Topic sentence).\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra sự hòa hợp giữa chủ ngữ và động từ.\n- Đảm bảo các giải pháp đề xuất có tính thực tế và liên quan trực tiếp đến nguyên nhân đã nêu.\n- Kiểm tra lại xem đã đề cập đến cả môi trường \"input/output\" (trong nhà và ngoài trời) như đề bài yêu cầu chưa.\n\n**6. Tư duy làm bài:**\n- Cần tư duy theo hướng hệ thống: Một nguyên nhân lớn nên đi kèm với một giải pháp mang tính vĩ mô (chính phủ), và một nguyên nhân nhỏ hơn đi kèm với giải pháp cá nhân."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about job interviews\n\n1\nHave you ever attended a job interview? What was it like?\n2\nWhat do you think is the most important factor to succeed in a job interview?\n3\nHow do you usually prepare yourself before meeting a potential employer?\n\nNow, let’s talk about shopping\n\n4\nDo you enjoy going shopping in your free time? Why or why not?\n5\nDo you prefer shopping at traditional markets or modern supermarkets?\n6\nWhat are some advantages of shopping online compared to shopping in person?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần này của bài thi nói kéo dài khoảng 3 phút với tổng cộng 6 câu hỏi quen thuộc trong cuộc sống và công việc.\n- **Topic A (Job Interviews):** Các câu hỏi 1–3 tập trung vào trải nghiệm phỏng vấn xin việc, cách chuẩn bị và các yếu tố giúp thành công trong môi trường chuyên nghiệp.\n- **Topic B (Shopping Habits):** Các câu hỏi 4–6 xoay quanh sở thích mua sắm, so sánh các hình thức mua sắm và quan điểm về mua sắm trực tuyến.\n- Giám khảo đánh giá khả năng nói trôi chảy, sử dụng từ vựng phù hợp, ngữ pháp chính xác và phát âm rõ ràng.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và cố gắng cân bằng thời gian giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy áp dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng ý tự nhiên và logic.\n- **Ví dụ Topic A:** I attended a job interview last year for a part-time position, and although I was nervous at first, the experience helped me become more confident.\n- **Ví dụ Topic B:** I enjoy shopping in my free time because it helps me relax and discover new products.\n- Luôn tự đặt câu hỏi Why? hoặc How? để kéo dài câu trả lời và tránh nói quá ngắn.\n- Để chuyển chủ đề mượt mà, bạn có thể dùng câu như: Besides work-related experiences, I also have some interesting habits in my daily life such as shopping.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định và sử dụng fillers như well, actually hoặc to be honest để tránh ngập ngừng.\n- Topic A thường dùng quá khứ đơn khi kể trải nghiệm phỏng vấn và hiện tại đơn khi nói về kỹ năng hoặc thói quen chuẩn bị.\n- Topic B chủ yếu dùng hiện tại đơn để mô tả sở thích và thói quen mua sắm.\n- Nếu quên từ vựng, hãy mô tả ý bằng cách đơn giản hơn thay vì dừng quá lâu.\n- Vocabulary for Topic A: job interview (phỏng vấn xin việc), professional appearance (ngoại hình chuyên nghiệp), communication skills (kỹ năng giao tiếp), make a good impression (tạo ấn tượng tốt).\n- Vocabulary for Topic B: online shopping (mua sắm trực tuyến), traditional market (chợ truyền thống), affordable products (sản phẩm giá phải chăng), convenient service (dịch vụ tiện lợi).\nCụm từ quan trọng nên dùng:\n- prepare carefully for an interview – chuẩn bị kỹ cho buổi phỏng vấn\n- answer questions confidently – trả lời câu hỏi một cách tự tin\n- leave a positive impression – để lại ấn tượng tích cực\n- go shopping to relax – đi mua sắm để thư giãn\n- compare prices online – so sánh giá trực tuyến\n- save time and effort – tiết kiệm thời gian và công sức\nTừ nối khi nói (Linking Words):\n- Firstly – đầu tiên\n- In addition – thêm vào đó\n- For example – ví dụ\n- However – tuy nhiên\n- As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n- From my perspective, confidence is one of the most important factors in a job interview. – Theo góc nhìn của tôi...\n- I personally believe that preparation can help candidates reduce stress during interviews. – Cá nhân tôi tin rằng...\n- As far as I am concerned, communication skills are more important than appearance. – Theo như tôi thấy...\n- To be honest, I enjoy shopping online because it is fast and convenient. – Thành thật mà nói...\n- I would say that supermarkets are cleaner and more comfortable than traditional markets. – Tôi cho rằng...\n- In my opinion, shopping online is becoming more popular among young people nowadays. – Theo ý kiến của tôi...\n\n**4. Các lỗi thường gặp:**\n- Trả lời Yes hoặc No mà không giải thích thêm là lỗi nghiêm trọng nhất.\n- Ở Topic A, nhiều bạn chỉ kể trải nghiệm mà không nêu cảm xúc hoặc bài học rút ra.\n- Ở Topic B, nhiều bạn dùng lặp từ shopping hoặc good quá nhiều khiến bài nói thiếu đa dạng.\n- Dùng sai thì quá khứ và hiện tại khi kể trải nghiệm cá nhân.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu đệm như: That is an interesting question, let me think for a moment.\n- Nếu quên từ, hãy mô tả chức năng hoặc tình huống liên quan thay vì im lặng.\n- Ở Topic A, nếu bí ý hãy kể về lần đầu phỏng vấn hoặc tưởng tượng một buổi phỏng vấn lý tưởng.\n- Ở Topic B, nếu không biết diễn đạt về mua sắm trực tuyến, hãy nói về sự tiện lợi hoặc giao hàng tận nơi.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem phần thi như một cuộc trò chuyện tự nhiên với giám khảo.\n- Khi chuyển từ chủ đề công việc sang mua sắm, hãy thay đổi ví dụ và giọng điệu để bài nói đa dạng hơn.\n- Sự tự nhiên và rõ ràng quan trọng hơn việc cố sử dụng từ vựng quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour school is organizing a 4th-anniversary celebration, and there is a workshop to help students prepare for job interviews. You need to decide which session would be most beneficial for the participants.\n\nYou are considering the following options:\n\nOption 1: How to write a professional CV\nOption 2: Developing essential skills in the workplace\nOption 3: Making a great impression in a job interview\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn lựa chọn buổi workshop hữu ích nhất để giúp sinh viên chuẩn bị cho phỏng vấn xin việc.\n- Ba lựa chọn bao gồm viết CV chuyên nghiệp, phát triển kỹ năng nơi làm việc và tạo ấn tượng tốt trong phỏng vấn.\n- Giám khảo sẽ đánh giá khả năng phân tích, so sánh và đưa ra quyết định logic.\n- Thời gian khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị và khoảng 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc State opinion -> Give reasons -> Compare options -> Conclude để bài nói rõ ràng.\n- Option 1 giúp sinh viên tạo CV chuyên nghiệp và gây ấn tượng ban đầu với nhà tuyển dụng.\n- Option 2 giúp phát triển kỹ năng mềm như giao tiếp, làm việc nhóm và giải quyết vấn đề.\n- Option 3 giúp sinh viên học cách trả lời câu hỏi và thể hiện sự tự tin khi phỏng vấn.\n- Hãy liên hệ với thực tế sinh viên mới ra trường để lập luận thuyết phục hơn.\n- Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển ý mượt mà.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Hãy liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ từng option.\n- Dùng hiện tại đơn để mô tả lợi ích chung và tương lai đơn khi nói về tác động nghề nghiệp sau này.\n- Nếu quên từ chuyên môn, hãy dùng các cụm đơn giản như work skills hoặc interview preparation.\nCụm từ quan trọng nên dùng:\n- gain practical experience – có được kinh nghiệm thực tế\n- improve communication skills – cải thiện kỹ năng giao tiếp\n- build professional confidence – xây dựng sự tự tin chuyên nghiệp\n- make a strong first impression – tạo ấn tượng đầu tiên mạnh mẽ\n- increase employment opportunities – tăng cơ hội việc làm\n- prepare students for future careers – chuẩn bị cho nghề nghiệp tương lai\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Moreover – hơn nữa\n- On the contrary – ngược lại\n- As a consequence – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that the interview session would be the most practical choice for students. – Tôi thực sự tin rằng...\n- Compared to writing a CV, practicing interview skills can help students feel more confident immediately. – So với...\n- In my opinion, workplace skills are important, but students first need to pass the interview stage. – Theo ý kiến của tôi...\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung nói về lựa chọn yêu thích mà không đề cập ưu và nhược điểm của các lựa chọn khác.\n- Lặp lại từ useful hoặc important quá nhiều thay vì dùng practical, effective hoặc beneficial.\n- Kết luận không rõ ràng hoặc thay đổi ý kiến ở cuối bài.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên ngành, hãy chuyển sang nói về lợi ích thực tế như tiết kiệm thời gian hoặc tăng cơ hội việc làm.\n- Bạn có thể dùng câu đệm như: Let's evaluate this option from another perspective.\n- Nếu bí ở một option, hãy chuyển sang option tiếp theo thay vì dừng lại quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người tổ chức workshop đang muốn mang lại lợi ích thực tế nhất cho sinh viên.\n- Ngay cả với lựa chọn bạn chọn, hãy đưa thêm đề xuất cải thiện để thể hiện khả năng tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nDrawbacks of using AI tools for learning\n\nDrawbacks of AI in Learning\nReduction in critical thinking and creativity\nPotential for academic dishonesty and cheating\nReliability and accuracy of information\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think AI will eventually replace teachers in the classroom?\n2\nHow can students use AI tools effectively without becoming dependent on them?\n3\nShould universities ban the use of AI tools like ChatGPT for assignments?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn trình bày những mặt tiêu cực của việc sử dụng công cụ AI trong học tập.\n- Ba nhánh ý chính bao gồm giảm tư duy phản biện, nguy cơ gian lận học tập và độ chính xác của thông tin.\n- Nhánh ý cá nhân có thể phát triển theo hướng học sinh trở nên phụ thuộc vào công nghệ.\n- Giám khảo đánh giá khả năng phát triển ý, lập luận logic và khả năng trả lời các câu hỏi follow-up.\n- Thời gian khoảng 5 phút, trong đó khoảng 3–3.5 phút dành cho bài nói chính và phần còn lại cho follow-up questions.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để bài nói có chiều sâu và logic.\n- **Ví dụ 1:** Today, I would like to talk about some disadvantages of using AI tools in modern education.\n- **Ví dụ 2:** Another important issue is that students may become too dependent on technology instead of learning independently.\n- Hãy đưa ví dụ thực tế liên quan đến sinh viên sử dụng AI để làm bài tập hoặc tìm thông tin.\n- Luôn bám theo sơ đồ tư duy để tránh lặp ý và mất cấu trúc.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng các cụm chuyển ý như another drawback hoặc besides that để chuyển giữa các nhánh.\n- Dùng hiện tại đơn để nói về sự thật và hiện tại hoàn thành khi nói về tác động lâu dài của AI.\n- Bạn có thể paraphrase AI tools bằng intelligent software, automated learning systems hoặc digital assistants. Cụm từ quan trọng nên dùng:\n- depend too much on technology – phụ thuộc quá nhiều vào công nghệ\n- reduce independent thinking – làm giảm tư duy độc lập\n- encourage academic dishonesty – khuyến khích gian lận học tập\n- provide inaccurate information – cung cấp thông tin không chính xác\n- lose problem-solving skills – mất kỹ năng giải quyết vấn đề\n- affect the quality of education – ảnh hưởng đến chất lượng giáo dục\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Furthermore – hơn nữa\n- For instance – ví dụ\n- As a result – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, AI should support learning instead of replacing human thinking. – Theo ý kiến của tôi...\n- I strongly believe that students still need teachers for guidance and motivation. – Tôi thực sự tin rằng...\n- From my perspective, overusing AI tools can negatively affect creativity in the long run. – Theo góc nhìn của tôi...\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Do you think AI will eventually replace teachers in the classroom?** – No, because teachers provide emotional support and real interaction that AI cannot fully replace.\n- **How can students use AI tools effectively without becoming dependent on them?** – Students should use AI for reference and idea generation instead of copying answers directly.\n- **Should universities ban the use of AI tools like ChatGPT for assignments?** – Universities should regulate rather than completely ban AI tools because they can still support learning if used responsibly.\n\n**5. Các lỗi thường gặp:**\n- Nhiều bạn chỉ liệt kê mặt tiêu cực mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển nhánh ý cá nhân khiến bài nói thiếu chiều sâu.\n- Nói quá dài ở phần main speech khiến không còn thời gian cho câu hỏi follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với trải nghiệm học tập thực tế của bản thân hoặc bạn bè.\n- Bạn có thể dùng câu học thuật như: That is a complex issue. If we evaluate it from an educational perspective...\n- Nếu quên từ chuyên ngành, hãy dùng từ đơn giản hoặc mô tả chức năng của AI.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn vấn đề từ góc độ giáo dục, xã hội và sự phát triển lâu dài của học sinh.\n- Sự logic và liên kết giữa các ý quan trọng hơn việc cố sử dụng từ quá khó.\n- Hãy thể hiện quan điểm cân bằng thay vì chỉ tập trung hoàn toàn vào mặt tiêu cực của AI."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about job interviews.\n1.\nHave you ever attended a job interview? What was it like?\n2.\nWhat do you think is the most important factor to succeed in a job interview?\n3.\nHow do you usually prepare yourself before meeting a potential employer?\nNow, let’s talk about shopping.\n4.\nDo you enjoy going shopping in your free time? Why or why not?\n5.\nDo you prefer shopping at traditional markets or modern supermarkets?\n6.\nWhat are some advantages of shopping online compared to shopping in person?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần này của bài thi nói kéo dài khoảng 3 phút với tổng cộng 6 câu hỏi quen thuộc trong cuộc sống và công việc.\n• Topic A (Job Interviews): Các câu hỏi 1–3 tập trung vào trải nghiệm phỏng vấn xin việc, cách chuẩn bị và các yếu tố\ngiúp thành công trong môi trường chuyên nghiệp.\n• Topic B (Shopping Habits): Các câu hỏi 4–6 xoay quanh sở thích mua sắm, so sánh các hình thức mua sắm và quan\nđiểm về mua sắm trực tuyến.\n• Giám khảo đánh giá khả năng nói trôi chảy, sử dụng từ vựng phù hợp, ngữ pháp chính xác và phát âm rõ ràng.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và cố gắng cân bằng thời gian giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy áp dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng ý tự nhiên và logic.\n• Ví dụ Topic A: I attended a job interview last year for a part-time position, and although I was nervous at first, the\nexperience helped me become more confident.\n• Ví dụ Topic B: I enjoy shopping in my free time because it helps me relax and discover new products.\n• Luôn tự đặt câu hỏi Why? hoặc How? để kéo dài câu trả lời và tránh nói quá ngắn.\n• Để chuyển chủ đề mượt mà, bạn có thể dùng câu như: Besides work-related experiences, I also have some interesting\nhabits in my daily life such as shopping.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định và sử dụng fillers như well, actually hoặc to be honest để tránh ngập ngừng.\n• Topic A thường dùng quá khứ đơn khi kể trải nghiệm phỏng vấn và hiện tại đơn khi nói về kỹ năng hoặc thói quen\nchuẩn bị.\n• Topic B chủ yếu dùng hiện tại đơn để mô tả sở thích và thói quen mua sắm.\n• Nếu quên từ vựng, hãy mô tả ý bằng cách đơn giản hơn thay vì dừng quá lâu.\n• Vocabulary for Topic A: job interview (phỏng vấn xin việc), professional appearance (ngoại hình chuyên nghiệp),\ncommunication skills (kỹ năng giao tiếp), make a good impression (tạo ấn tượng tốt).\n• Vocabulary for Topic B: online shopping (mua sắm trực tuyến), traditional market (chợ truyền thống), affordable\nproducts (sản phẩm giá phải chăng), convenient service (dịch vụ tiện lợi).\nCụm từ quan trọng nên dùng:\n• prepare carefully for an interview – chuẩn bị kỹ cho buổi phỏng vấn\n• answer questions confidently – trả lời câu hỏi một cách tự tin\n• leave a positive impression – để lại ấn tượng tích cực\n• go shopping to relax – đi mua sắm để thư giãn\n• compare prices online – so sánh giá trực tuyến\n• save time and effort – tiết kiệm thời gian và công sức\nTừ nối khi nói (Linking Words):\n• Firstly – đầu tiên\n• In addition – thêm vào đó\n• For example – ví dụ\n• However – tuy nhiên\n• As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n• From my perspective, confidence is one of the most important factors in a job interview. – Theo góc nhìn của tôi...\n• I personally believe that preparation can help candidates reduce stress during interviews. – Cá nhân tôi tin rằng...\n• As far as I am concerned, communication skills are more important than appearance. – Theo như tôi thấy...\n• To be honest, I enjoy shopping online because it is fast and convenient. – Thành thật mà nói...\n• I would say that supermarkets are cleaner and more comfortable than traditional markets. – Tôi cho rằng...\n• In my opinion, shopping online is becoming more popular among young people nowadays. – Theo ý kiến của tôi...\n4. Các lỗi thường gặp:\n• Trả lời Yes hoặc No mà không giải thích thêm là lỗi nghiêm trọng nhất.\n• Ở Topic A, nhiều bạn chỉ kể trải nghiệm mà không nêu cảm xúc hoặc bài học rút ra.\n• Ở Topic B, nhiều bạn dùng lặp từ shopping hoặc good quá nhiều khiến bài nói thiếu đa dạng.\n• Dùng sai thì quá khứ và hiện tại khi kể trải nghiệm cá nhân.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu đệm như: That is an interesting question, let me think for a moment.\n• Nếu quên từ, hãy mô tả chức năng hoặc tình huống liên quan thay vì im lặng.\n• Ở Topic A, nếu bí ý hãy kể về lần đầu phỏng vấn hoặc tưởng tượng một buổi phỏng vấn lý tưởng.\n• Ở Topic B, nếu không biết diễn đạt về mua sắm trực tuyến, hãy nói về sự tiện lợi hoặc giao hàng tận nơi.\n6. Tư duy làm bài nói:\n• Hãy xem phần thi như một cuộc trò chuyện tự nhiên với giám khảo.\n• Khi chuyển từ chủ đề công việc sang mua sắm, hãy thay đổi ví dụ và giọng điệu để bài nói đa dạng hơn.\n• Sự tự nhiên và rõ ràng quan trọng hơn việc cố sử dụng từ vựng quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYour school is organizing a 4th-anniversary celebration, and there is a workshop to help students prepare for job\ninterviews. You need to decide which session would be most beneficial for the participants.\nYou are considering the following options:\n• Option 1: How to write a professional CV\n• Option 2: Developing essential skills in the workplace\n• Option 3: Making a great impression in a job interview\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn lựa chọn buổi workshop hữu ích nhất để giúp sinh viên chuẩn bị cho phỏng vấn xin việc.\n• Ba lựa chọn bao gồm viết CV chuyên nghiệp, phát triển kỹ năng nơi làm việc và tạo ấn tượng tốt trong phỏng vấn.\n• Giám khảo sẽ đánh giá khả năng phân tích, so sánh và đưa ra quyết định logic.\n• Thời gian khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị và khoảng 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc State opinion -> Give reasons -> Compare options -> Conclude để bài nói rõ ràng.\n• Option 1 giúp sinh viên tạo CV chuyên nghiệp và gây ấn tượng ban đầu với nhà tuyển dụng.\n• Option 2 giúp phát triển kỹ năng mềm như giao tiếp, làm việc nhóm và giải quyết vấn đề.\n• Option 3 giúp sinh viên học cách trả lời câu hỏi và thể hiện sự tự tin khi phỏng vấn.\n• Hãy liên hệ với thực tế sinh viên mới ra trường để lập luận thuyết phục hơn.\n• Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển ý mượt mà.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Hãy liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ từng option.\n• Dùng hiện tại đơn để mô tả lợi ích chung và tương lai đơn khi nói về tác động nghề nghiệp sau này.\n• Nếu quên từ chuyên môn, hãy dùng các cụm đơn giản như work skills hoặc interview preparation.\nCụm từ quan trọng nên dùng:\n• gain practical experience – có được kinh nghiệm thực tế\n• improve communication skills – cải thiện kỹ năng giao tiếp\n• build professional confidence – xây dựng sự tự tin chuyên nghiệp\n• make a strong first impression – tạo ấn tượng đầu tiên mạnh mẽ\n• increase employment opportunities – tăng cơ hội việc làm\n• prepare students for future careers – chuẩn bị cho nghề nghiệp tương lai\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Moreover – hơn nữa\n• On the contrary – ngược lại\n• As a consequence – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that the interview session would be the most practical choice for students. – Tôi thực sự tin rằng...\n• Compared to writing a CV, practicing interview skills can help students feel more confident immediately. – So với...\n• In my opinion, workplace skills are important, but students first need to pass the interview stage. – Theo ý kiến của\ntôi...\n4. Các lỗi thường gặp:\n• Chỉ tập trung nói về lựa chọn yêu thích mà không đề cập ưu và nhược điểm của các lựa chọn khác.\n• Lặp lại từ useful hoặc important quá nhiều thay vì dùng practical, effective hoặc beneficial.\n• Kết luận không rõ ràng hoặc thay đổi ý kiến ở cuối bài.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên ngành, hãy chuyển sang nói về lợi ích thực tế như tiết kiệm thời gian hoặc tăng cơ hội việc làm.\n• Bạn có thể dùng câu đệm như: Let's evaluate this option from another perspective.\n• Nếu bí ở một option, hãy chuyển sang option tiếp theo thay vì dừng lại quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người tổ chức workshop đang muốn mang lại lợi ích thực tế nhất cho sinh viên.\n• Ngay cả với lựa chọn bạn chọn, hãy đưa thêm đề xuất cải thiện để thể hiện khả năng tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: Drawbacks of using AI tools for learning\nReduction in critical thinking and\nPotential for academic dishonesty and\ncreativity\ncheating\nDrawbacks of AI in Learning\nÝ tưởng của bạn\nReliability and accuracy of information\nFOLLOW-UP QUESTIONS\n1.\nDo you think AI will eventually replace teachers in the classroom?\n2.\nHow can students use AI tools effectively without becoming dependent on them?\n3.\nShould universities ban the use of AI tools like ChatGPT for assignments?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn trình bày những mặt tiêu cực của việc sử dụng công cụ AI trong học tập.\n• Ba nhánh ý chính bao gồm giảm tư duy phản biện, nguy cơ gian lận học tập và độ chính xác của thông tin.\n• Nhánh ý cá nhân có thể phát triển theo hướng học sinh trở nên phụ thuộc vào công nghệ.\n• Giám khảo đánh giá khả năng phát triển ý, lập luận logic và khả năng trả lời các câu hỏi follow-up.\n• Thời gian khoảng 5 phút, trong đó khoảng 3–3.5 phút dành cho bài nói chính và phần còn lại cho follow-up questions.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để bài nói có chiều sâu và logic.\n• Ví dụ 1: Today, I would like to talk about some disadvantages of using AI tools in modern education.\n• Ví dụ 2: Another important issue is that students may become too dependent on technology instead of learning\nindependently.\n• Hãy đưa ví dụ thực tế liên quan đến sinh viên sử dụng AI để làm bài tập hoặc tìm thông tin.\n• Luôn bám theo sơ đồ tư duy để tránh lặp ý và mất cấu trúc.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng các cụm chuyển ý như another drawback hoặc besides that để chuyển giữa các nhánh.\n• Dùng hiện tại đơn để nói về sự thật và hiện tại hoàn thành khi nói về tác động lâu dài của AI.\n• Bạn có thể paraphrase AI tools bằng intelligent software, automated learning systems hoặc digital assistants.\nCụm từ quan trọng nên dùng:\n• depend too much on technology – phụ thuộc quá nhiều vào công nghệ\n• reduce independent thinking – làm giảm tư duy độc lập\n• encourage academic dishonesty – khuyến khích gian lận học tập\n• provide inaccurate information – cung cấp thông tin không chính xác\n• lose problem-solving skills – mất kỹ năng giải quyết vấn đề\n• affect the quality of education – ảnh hưởng đến chất lượng giáo dục\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Furthermore – hơn nữa\n• For instance – ví dụ\n• As a result – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, AI should support learning instead of replacing human thinking. – Theo ý kiến của tôi...\n• I strongly believe that students still need teachers for guidance and motivation. – Tôi thực sự tin rằng...\n• From my perspective, overusing AI tools can negatively affect creativity in the long run. – Theo góc nhìn của tôi...\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do you think AI will eventually replace teachers in the classroom? – No, because teachers provide emotional support\nand real interaction that AI cannot fully replace.\n• How can students use AI tools effectively without becoming dependent on them? – Students should use AI for\nreference and idea generation instead of copying answers directly.\n• Should universities ban the use of AI tools like ChatGPT for assignments? – Universities should regulate rather than\ncompletely ban AI tools because they can still support learning if used responsibly.\n5. Các lỗi thường gặp:\n• Nhiều bạn chỉ liệt kê mặt tiêu cực mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển nhánh ý cá nhân khiến bài nói thiếu chiều sâu.\n• Nói quá dài ở phần main speech khiến không còn thời gian cho câu hỏi follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với trải nghiệm học tập thực tế của bản thân hoặc bạn bè.\n• Bạn có thể dùng câu học thuật như: That is a complex issue. If we evaluate it from an educational perspective...\n• Nếu quên từ chuyên ngành, hãy dùng từ đơn giản hoặc mô tả chức năng của AI.\n7. Tư duy làm bài nói:\n• Hãy nhìn vấn đề từ góc độ giáo dục, xã hội và sự phát triển lâu dài của học sinh.\n• Sự logic và liên kết giữa các ý quan trọng hơn việc cố sử dụng từ quá khó.\n• Hãy thể hiện quan điểm cân bằng thay vì chỉ tập trung hoàn toàn vào mặt tiêu cực của AI."
+}

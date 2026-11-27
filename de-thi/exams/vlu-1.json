@@ -1,0 +1,716 @@
+{
+ "id": "vlu-1",
+ "number": 1,
+ "title": "Đề thi VLU 1",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-1",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Benefits of Regular Physical Exercise",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Regular physical exercise is one of the simplest ways to stay healthy. Doctors around the world recommend that adults do at least thirty minutes of moderate activity on most days of the week, and that children be even more active. Modern life makes it easy to avoid movement, because lifts, cars, and online shopping save time and effort. Despite this advice, many people spend most of their day sitting at a desk, in a car, or in front of a screen, and they rarely think about the long-term effects on their bodies.",
+     "Exercise brings many clear benefits to the human body. It strengthens the heart and lungs, helps to control weight, and lowers the risk of serious illness. People who walk, swim, or cycle regularly also build stronger muscles and bones, which makes everyday tasks such as carrying shopping or climbing stairs much easier as they grow older. In addition, exercise can **boost** energy levels, so active people often feel less tired after work than people who rarely move. Even gentle activities such as gardening or dancing at home count as exercise. Doctors also link exercise to better sleep and a stronger immune system.",
+     "Physical activity is also good for the mind. When we exercise, the body releases chemicals that improve our mood and reduce stress, which is why a short walk can make a bad day feel better. Many students find that they concentrate more easily after sport, and research suggests that regular exercise may help older adults to keep their memory sharp. Exercising outdoors in fresh air can make people feel calmer and more relaxed. Exercise also helps people to **maintain** a positive attitude when they face problems at work or at school.",
+     "Exercise is often a social activity as well. Joining a football team, a dance class, or a walking group allows people to meet new friends and share their interests. Exercising with a partner can make the time pass more quickly and keep both people motivated. However, some people avoid sport because they think gyms are expensive or embarrassing places. Fortunately, there are many free options, such as jogging in a park or doing simple exercises at home, and most of **them** require no special equipment.",
+     "In conclusion, regular exercise improves both physical and mental health, and it does not need to be difficult or expensive. Experts suggest that beginners should start slowly, choose activities they enjoy, and increase the time gradually, so that exercise becomes a natural part of the week rather than a painful duty. Setting small goals, such as walking ten thousand steps a day or climbing the stairs instead of taking the lift, can help people to stay motivated. Remember that the best exercise is the one that you will actually do. With a little patience, almost anyone can develop a healthy habit that will bring benefits for many years."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the passage mainly about?",
+      "options": {
+       "A": "How beginners should choose an expensive gym",
+       "B": "Why doctors strongly disagree about school sports",
+       "C": "Why regular exercise benefits both body and mind",
+       "D": "The long history of professional football worldwide"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu tầm quan trọng của việc tập thể dục và lối sống ít vận động; đoạn 2 phân tích lợi ích thể chất (tim mạch, cơ xương, năng lượng); đoạn 3 đề cập đến lợi ích tinh thần (cải thiện tâm trạng, giảm stress, tăng sự tập trung); đoạn 4 gợi ý các hoạt động xã hội và lựa chọn tập luyện miễn phí; đoạn 5 tổng kết lời khuyên bắt đầu từ những mục tiêu nhỏ. Do đó, phương án đúng phải khái quát toàn diện lý do vì sao việc tập thể dục đều đặn mang lại lợi ích cho cả cơ thể lẫn tâm trí (Why regular exercise benefits both body and mind), tránh chọn các đáp án phiến diện hay lệch trọng tâm."
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what do doctors recommend for adults?",
+      "options": {
+       "A": "At least thirty minutes of moderate activity on most days",
+       "B": "Two hours of very hard training before every single morning meal",
+       "C": "One very long walk at weekends and no other exercise",
+       "D": "Ten minutes of gentle stretching before each large evening meal"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"recommend that adults\" ở đoạn 1: bác sĩ khuyên người lớn dành ít nhất 30 phút hoạt động ở mức độ vừa phải hầu hết các ngày trong tuần."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"boost\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "delay",
+       "B": "measure",
+       "C": "explain",
+       "D": "raise"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"boost\" ở đoạn 2 mô tả khả năng tăng cường mức năng lượng của cơ thể, đồng nghĩa với \"raise\"."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how does exercise help in everyday life?",
+      "options": {
+       "A": "It removes the need for any sleep during the whole night",
+       "B": "It makes tasks like climbing stairs easier as people age",
+       "C": "It helps people to earn much higher salaries at work",
+       "D": "It prevents every kind of illness for the rest of life"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về đời sống hằng ngày ở đoạn 2: tập thể dục giúp xây dựng cơ bắp và xương chắc khỏe, làm cho các công việc thường ngày như xách đồ hay leo cầu thang trở nên dễ dàng hơn khi có tuổi."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"maintain\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "abandon",
+       "B": "exchange",
+       "C": "preserve",
+       "D": "borrow"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"maintain\" ở đoạn 3 đi kèm với việc duy trì một thái độ tích cực khi đối mặt với khó khăn, sát nghĩa với \"preserve\"."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"them\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Free exercise options",
+       "B": "Football and dance teams",
+       "C": "Local park joggers",
+       "D": "Expensive city gyms"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số nhiều \"them\" ở đoạn 4. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ đối tượng: nhắc đến các lựa chọn tập luyện miễn phí (free options) như chạy bộ trong công viên hoặc tập các bài đơn giản tại nhà, quy chiếu trực tiếp đến các lựa chọn tập luyện miễn phí này (Free exercise options)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what do many students notice after sport?",
+      "options": {
+       "A": "They need to sleep during most morning lessons",
+       "B": "They forget their homework much more often now",
+       "C": "They feel too hungry to listen very carefully",
+       "D": "They concentrate more easily in their lessons"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"students\" ở đoạn 3 để tìm thông tin: nhiều học sinh/sinh viên nhận thấy họ tập trung dễ dàng hơn trong các bài học sau khi chơi thể thao."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as advice for beginners?",
+      "options": {
+       "A": "Starting slowly and building up the time gradually",
+       "B": "Training every day until you feel exhausted",
+       "C": "Choosing activities that you really enjoy doing",
+       "D": "Setting small goals such as daily steps"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các lời khuyên dành cho người mới bắt đầu được liệt kê ở đoạn 5 (bắt đầu từ từ, chọn hoạt động yêu thích, đặt mục tiêu nhỏ), từ đó loại trừ phương án tập luyện mỗi ngày cho đến khi kiệt sức vì hoàn toàn trái ngược với nội dung bài viết."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraph 1 about people who sit all day?",
+      "options": {
+       "A": "They always exercise very hard during every weekend",
+       "B": "They are healthier than people who walk daily",
+       "C": "They may harm their health without noticing it",
+       "D": "They have no interest in any kind of sport"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin ở đoạn 1 về lối sống ít vận động: những người dành phần lớn thời gian trong ngày ngồi ở bàn làm việc, trong ô tô hoặc trước màn hình hiếm khi nghĩ về tác động lâu dài đối với cơ thể, từ đó suy luận được rằng họ có thể đang âm thầm làm tổn hại sức khỏe mà không hề nhận ra (They may harm their health without noticing it)."
+     },
+     {
+      "number": 10,
+      "stem": "Why did the writer write this passage?",
+      "options": {
+       "A": "To explain why people should exercise regularly",
+       "B": "To advertise a new range of running shoes",
+       "C": "To describe famous athletes and their records",
+       "D": "To compare gyms in several large cities Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm giải thích lý do vì sao mọi người nên tập thể dục đều đặn thông qua việc trình bày các lợi ích cả về thể chất lẫn tinh thần (To explain why people should exercise regularly)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu tầm quan trọng của việc tập thể dục và lối sống ít vận động; đoạn 2 phân tích lợi ích thể chất (tim mạch, cơ xương, năng lượng); đoạn 3 đề cập đến lợi ích tinh thần (cải thiện tâm trạng, giảm stress, tăng sự tập trung); đoạn 4 gợi ý các hoạt động xã hội và lựa chọn tập luyện miễn phí; đoạn 5 tổng kết lời khuyên bắt đầu từ những mục tiêu nhỏ. Do đó, phương án đúng phải khái quát toàn diện lý do vì sao việc tập thể dục đều đặn mang lại lợi ích cho cả cơ thể lẫn tâm trí (Why regular exercise benefits both body and mind), tránh chọn các đáp án phiến diện hay lệch trọng tâm.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7, R1Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R1Q2**, quét từ khóa \"recommend that adults\" ở đoạn 1: bác sĩ khuyên người lớn dành ít nhất 30 phút hoạt động ở mức độ vừa phải hầu hết các ngày trong tuần.\n  - Với **R1Q4**, quét thông tin về đời sống hằng ngày ở đoạn 2: tập thể dục giúp xây dựng cơ bắp và xương chắc khỏe, làm cho các công việc thường ngày như xách đồ hay leo cầu thang trở nên dễ dàng hơn khi có tuổi.\n  - Với **R1Q7**, quét từ khóa \"students\" ở đoạn 3 để tìm thông tin: nhiều học sinh/sinh viên nhận thấy họ tập trung dễ dàng hơn trong các bài học sau khi chơi thể thao.\n  - Với **R1Q8**, đối soát kỹ các lời khuyên dành cho người mới bắt đầu được liệt kê ở đoạn 5 (bắt đầu từ từ, chọn hoạt động yêu thích, đặt mục tiêu nhỏ), từ đó loại trừ phương án tập luyện mỗi ngày cho đến khi kiệt sức vì hoàn toàn trái ngược với nội dung bài viết.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"boost\"** ở đoạn 2 mô tả khả năng tăng cường mức năng lượng của cơ thể, đồng nghĩa với \"raise\".\n  - Với **R1Q5**, từ **\"maintain\"** ở đoạn 3 đi kèm với việc duy trì một thái độ tích cực khi đối mặt với khó khăn, sát nghĩa với \"preserve\".\n- **Dạng câu hỏi Quy chiếu (R1Q6):** Tập trung vào đại từ số nhiều **\"them\"** ở đoạn 4. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ đối tượng: nhắc đến các lựa chọn tập luyện miễn phí (free options) như chạy bộ trong công viên hoặc tập các bài đơn giản tại nhà, quy chiếu trực tiếp đến các lựa chọn tập luyện miễn phí này (Free exercise options).\n- **Dạng câu hỏi Suy luận (R1Q9):** Kết hợp thông tin ở đoạn 1 về lối sống ít vận động: những người dành phần lớn thời gian trong ngày ngồi ở bàn làm việc, trong ô tô hoặc trước màn hình hiếm khi nghĩ về tác động lâu dài đối với cơ thể, từ đó suy luận được rằng họ có thể đang âm thầm làm tổn hại sức khỏe mà không hề nhận ra (They may harm their health without noticing it).\n- **Dạng câu hỏi Mục đích tác giả (R1Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm giải thích lý do vì sao mọi người nên tập thể dục đều đặn thông qua việc trình bày các lợi ích cả về thể chất lẫn tinh thần (To explain why people should exercise regularly).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6) vì vị trí thông tin rất tập trung. Tiếp theo, áp dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R1Q2, R1Q4, R1Q7, R1Q8). Cuối cùng, hoàn thành các câu đòi hỏi tư duy phân tích và tổng hợp như suy luận (R1Q9), mục đích tác giả (R1Q10) và ý chính (R1Q1)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Evolution of E-Learning in Modern Education",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Learning from a distance is not a new idea, though its methods have changed. In the nineteenth century, correspondence courses delivered by post allowed students in remote areas to study without attending a school, and radio and television later extended this principle to much larger audiences. Early distance courses were slow and isolating, because feedback could take weeks to arrive. What has changed in recent decades is the speed, scale, and interactivity of the technology, which has turned e-learning from a niche alternative into a central part of mainstream education.",
+     "The arrival of the internet brought the first truly major change in this field. In the 1990s, universities began to place lecture notes and discussion forums online, and learning management systems soon allowed teachers to distribute materials, set assignments, and track progress from a single platform. Many universities now record lectures so that students can review them. The next milestone came in 2012, when several American universities launched massive open online courses, or MOOCs, which attracted learners from around the world.",
+     "The pandemic of 2020 accelerated the adoption of online learning around the world. Within weeks, schools and universities in more than a hundred countries closed their buildings, and teachers who had never taught online were suddenly required to deliver lessons through video platforms. The experience was uneven: some institutions adapted quickly and creatively, while others struggled with poor connections, unfamiliar software, and students who found it hard to stay engaged in front of a screen. Nevertheless, the emergency forced education systems to confront questions about technology that they had postponed for years.",
+     "Supporters of e-learning emphasise its flexibility and its potential to personalise instruction. Students can study at their own pace, revisit difficult lectures, and fit education around work or family responsibilities, advantages that are particularly valuable for adult learners. Adaptive software can also analyse a learner's mistakes and offer tailored exercises, and virtual simulations let medical or engineering students practise procedures that would be dangerous or expensive to perform in reality. Properly designed, technology can **augment** the work of teachers rather than replace it.",
+     "Critics, however, point to several persistent problems that technology alone cannot solve. Access to reliable internet and suitable devices remains deeply unequal, so the shift online risks widening existing educational **disparities** between wealthy and poor households, and between urban and rural communities. Completion rates in open courses are often low, because learners who lack structure and personal contact find it difficult to remain motivated. Moreover, some skills, including teamwork, laboratory technique, and the social development that occurs in classrooms, are hard to cultivate through a screen, and **those** who study entirely alone may miss them.",
+     "Most educators now expect blended learning, which combines online resources with face-to-face teaching, to become the dominant model. Artificial intelligence is likely to play a growing role, offering instant feedback and personalised support, but it also raises concerns about privacy, cheating, and the quality of automatically generated material. Teacher training is therefore as important as the platforms themselves. Ultimately, the success of e-learning will depend less on the sophistication of the technology than on how thoughtfully teachers and institutions use it to serve students' needs."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "MOOCs have proved that universities no longer need human teachers",
+       "B": "E-learning has become a mainstream model with benefits and limits",
+       "C": "The pandemic showed that online lessons are inferior to classrooms",
+       "D": "Artificial intelligence will soon replace teachers in most schools"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 và 2 giới thiệu lịch sử phát triển và sự chuyển mình của học trực tuyến từ hình thức phụ sang xu hướng chủ đạo; đoạn 3 nhắc đến tác động từ đại dịch; đoạn 4 phân tích các lợi ích (tính linh hoạt, cá nhân hóa, mô phỏng ảo); đoạn 5 chỉ ra các bất cập và thách thức (khoảng cách truy cập, tỷ lệ hoàn thành thấp); đoạn cuối bàn về mô hình kết hợp (blended learning) và vai trò của giáo viên. Do đó, phương án đúng phải khái quát toàn diện việc e-learning đã trở thành mô hình chủ đạo mang lại cả lợi ích lẫn giới hạn (E-learning has become a mainstream model with benefits and limits), tránh chọn các đáp án cực đoan hay sai lệch."
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what did learning management systems allow teachers to do?",
+      "options": {
+       "A": "Replace discussion forums with live television broadcasts",
+       "B": "Grade written examinations without reading any answers",
+       "C": "Record every lecture for national radio programmes",
+       "D": "Distribute materials, set assignments, and track student progress"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về learning management systems ở đoạn 2: hệ thống này cho phép giáo viên phân phối tài liệu, ra bài tập và theo dõi tiến độ của học sinh từ một nền tảng duy nhất (Distribute materials, set assignments, and track student progress)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"disparities\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "inequalities",
+       "B": "agreements",
+       "C": "discoveries",
+       "D": "improvements"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"disparities\" ở đoạn 5 đi kèm với sự chênh lệch giữa hộ gia đình giàu và nghèo về thiết bị và internet, mang nghĩa bất bình đẳng, chênh lệch tương đương \"inequalities\"."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what problem did some institutions face during the pandemic?",
+      "options": {
+       "A": "Too few students willing to attend online classes",
+       "B": "Teachers refusing to use any technology whatsoever",
+       "C": "Weak internet connections and unfamiliar teaching software",
+       "D": "Excessive demand for printed textbooks and paper"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về đại dịch ở đoạn 3: một số cơ sở giáo dục gặp khó khăn với kết nối internet kém, phần mềm lạ và học sinh khó tập trung (Weak internet connections and unfamiliar teaching software)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"augment\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "restrict",
+       "B": "enhance",
+       "C": "imitate",
+       "D": "question"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"augment\" ở đoạn 4 mô tả công nghệ có thể hỗ trợ và làm tăng thêm giá trị cho công việc của giáo viên thay vì thay thế hoàn toàn, sát nghĩa với \"enhance\"."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"those\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Classroom teachers",
+       "B": "Wealthy households",
+       "C": "University managers",
+       "D": "Online learners"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số nhiều \"those\" ở đoạn 5. Áp dụng quy tắc đọc ngữ cảnh xung quanh để tìm đối tượng: câu văn nhắc đến những học viên học hoàn toàn một mình qua màn hình (Online learners), quy chiếu trực tiếp đến nhóm người học này."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, how can virtual simulations help students?",
+      "options": {
+       "A": "They allow practice of procedures that are risky or costly",
+       "B": "They remove the need for students to attend lectures",
+       "C": "They record the mistakes of teachers during live lessons",
+       "D": "They translate difficult lectures into many foreign languages daily"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"virtual simulations\" ở đoạn 4: mô phỏng ảo giúp học sinh y khoa hoặc kỹ thuật thực hành các quy trình vốn nguy hiểm hoặc tốn kém nếu thực hiện ngoài đời thật (They allow practice of procedures that are risky or costly)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a problem of e-learning?",
+      "options": {
+       "A": "Unequal access to reliable devices and fast internet connections",
+       "B": "Low completion rates among learners who lack any structure",
+       "C": "The expensive tuition fees charged for online degrees",
+       "D": "Fears about privacy, cheating, and generated online course material"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các vấn đề của e-learning được nêu trong bài (truy cập bất bình đẳng ở đoạn 5, tỷ lệ hoàn thành thấp ở đoạn 5, mối lo ngại về quyền riêng tư và gian lận ở đoạn 6), từ đó loại trừ phương án học phí đắt đỏ của các bằng cấp trực tuyến vì hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3 to 6 about e-learning?",
+      "options": {
+       "A": "Online classes will soon make all local schools entirely obsolete",
+       "B": "Its value depends on how conscientiously teachers apply it",
+       "C": "Wealthy families were the only group that benefited from closures",
+       "D": "Teachers lacking formal training should avoid every digital tool now"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 3 đến đoạn 6 về tương lai của e-learning: sự thành công của học trực tuyến không nằm ở công nghệ tối tân mà phụ thuộc vào cách giáo viên và các cơ sở giáo dục tận dụng nó một cách chu đáo, tận tâm (Its value depends on how conscientiously teachers apply it)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote one particular online course platform to teachers worldwide",
+       "B": "To explain why universities should stop recording their live lectures",
+       "C": "To compare examination results in several different countries worldwide",
+       "D": "To trace how e-learning developed and weigh its strengths Reading"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích thuật lại quá trình học trực tuyến phát triển ra sao và cân nhắc, đánh giá các điểm mạnh cũng như hạn chế của hình thức này (To trace how e-learning developed and weigh its strengths)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc xuyên suốt các đoạn để nắm mạch nội dung: đoạn 1 và 2 giới thiệu lịch sử phát triển và sự chuyển mình của học trực tuyến từ hình thức phụ sang xu hướng chủ đạo; đoạn 3 nhắc đến tác động từ đại dịch; đoạn 4 phân tích các lợi ích (tính linh hoạt, cá nhân hóa, mô phỏng ảo); đoạn 5 chỉ ra các bất cập và thách thức (khoảng cách truy cập, tỷ lệ hoàn thành thấp); đoạn cuối bàn về mô hình kết hợp (blended learning) và vai trò của giáo viên. Do đó, phương án đúng phải khái quát toàn diện việc e-learning đã trở thành mô hình chủ đạo mang lại cả lợi ích lẫn giới hạn (E-learning has become a mainstream model with benefits and limits), tránh chọn các đáp án cực đoan hay sai lệch.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7, R2Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R2Q2**, quét thông tin về learning management systems ở đoạn 2: hệ thống này cho phép giáo viên phân phối tài liệu, ra bài tập và theo dõi tiến độ của học sinh từ một nền tảng duy nhất (Distribute materials, set assignments, and track student progress).\n  - Với **R2Q4**, quét thông tin về đại dịch ở đoạn 3: một số cơ sở giáo dục gặp khó khăn với kết nối internet kém, phần mềm lạ và học sinh khó tập trung (Weak internet connections and unfamiliar teaching software).\n  - Với **R2Q7**, quét từ khóa \"virtual simulations\" ở đoạn 4: mô phỏng ảo giúp học sinh y khoa hoặc kỹ thuật thực hành các quy trình vốn nguy hiểm hoặc tốn kém nếu thực hiện ngoài đời thật (They allow practice of procedures that are risky or costly).\n  - Với **R2Q8**, đối soát kỹ các vấn đề của e-learning được nêu trong bài (truy cập bất bình đẳng ở đoạn 5, tỷ lệ hoàn thành thấp ở đoạn 5, mối lo ngại về quyền riêng tư và gian lận ở đoạn 6), từ đó loại trừ phương án học phí đắt đỏ của các bằng cấp trực tuyến vì hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"disparities\"** ở đoạn 5 đi kèm với sự chênh lệch giữa hộ gia đình giàu và nghèo về thiết bị và internet, mang nghĩa bất bình đẳng, chênh lệch tương đương \"inequalities\".\n  - Với **R2Q5**, từ **\"augment\"** ở đoạn 4 mô tả công nghệ có thể hỗ trợ và làm tăng thêm giá trị cho công việc của giáo viên thay vì thay thế hoàn toàn, sát nghĩa với \"enhance\".\n- **Dạng câu hỏi Quy chiếu (R2Q6):** Tập trung vào đại từ số nhiều **\"those\"** ở đoạn 5. Áp dụng quy tắc đọc ngữ cảnh xung quanh để tìm đối tượng: câu văn nhắc đến những học viên học hoàn toàn một mình qua màn hình (Online learners), quy chiếu trực tiếp đến nhóm người học này.\n- **Dạng câu hỏi Suy luận (R2Q9):** Kết hợp thông tin từ đoạn 3 đến đoạn 6 về tương lai của e-learning: sự thành công của học trực tuyến không nằm ở công nghệ tối tân mà phụ thuộc vào cách giáo viên và các cơ sở giáo dục tận dụng nó một cách chu đáo, tận tâm (Its value depends on how conscientiously teachers apply it).\n- **Dạng câu hỏi Mục đích tác giả (R2Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích thuật lại quá trình học trực tuyến phát triển ra sao và cân nhắc, đánh giá các điểm mạnh cũng như hạn chế của hình thức này (To trace how e-learning developed and weigh its strengths).\nLời khuyên: Hãy ưu tiên làm trước các câu hỏi từ vựng (R2Q3, R2Q5) và quy chiếu (R2Q6) vì thông tin khu trú rất rõ ràng. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, hoàn thành các câu hỏi suy luận (R2Q9), mục đích tác giả (R2Q10) và ý chính (R2Q1) dựa trên tổng quan toàn bài."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Emergence of the Subscription Economy",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "A generation ago, most consumers bought products outright: a newspaper from a kiosk, a film on a disc, software in a box. Today, many of those purchases have been replaced by recurring payments that grant access rather than ownership. Music, television, cloud storage, razors, meal kits, and even car features are now sold by subscription, and analysts describe the shift as the rise of the subscription economy.",
+     "The underlying idea of paying regularly for ongoing access is by no means new. Newspapers and magazines have been delivered to subscribers for centuries, and utilities such as electricity and water have long billed households at regular intervals. What is new is the application of this model to almost every category of consumer goods and services, made possible by cheap digital delivery, widespread broadband, and payment systems that can bill customers automatically.",
+     "For companies, the main appeal of subscriptions is the predictability of their income. A one-off sale produces revenue once, whereas a subscriber who stays for years generates a steady stream of income that investors can forecast with confidence. **[1]** This stability allows firms to plan product development, hire staff, and borrow money more cheaply than businesses whose sales fluctuate. **[2]** Subscriptions also generate detailed data about how customers use a service, which can be used to refine offerings and to suggest further purchases. **[3]** Many investors now value such companies on the basis of recurring revenue rather than annual profit. **[4]**",
+     "For consumers, the attraction is convenience, flexibility, and a much lower upfront cost. Paying a modest monthly fee for thousands of films or songs is cheaper than buying them individually, and cancelling is, in theory, easy. In practice, however, many companies rely on **inertia**: customers who sign up for a free trial often forget to cancel, or find the process deliberately tedious, so they continue paying for services they rarely use. Surveys in several countries suggest that the average household underestimates its monthly subscription spending by a considerable margin.",
+     "The subscription model has also reshaped the way that businesses compete with each other. Older firms that once sold software licences or physical media have moved to subscription, partly to protect revenue against piracy and partly to keep customers inside their own ecosystems. Meanwhile, start-ups have used subscriptions to challenge incumbent companies in sectors as varied as razors, mattresses, and fitness equipment. However, markets in which a handful of dominant platforms bundle many services together can make it difficult for smaller rivals to attract and retain subscribers.",
+     "Regulators in several countries have begun to respond to the growing volume of complaints. Several jurisdictions now require companies to disclose renewal terms clearly, send reminders before free trials end, and allow cancellation through the same channel used to sign up. Consumer groups argue that **these** measures are overdue, since so-called dark patterns, which are interface designs that nudge users towards costly choices, have become widespread. Industry representatives counter that excessive regulation could stifle innovation and raise prices for the very customers it aims to protect.",
+     "The subscription economy is therefore neither a passing fashion nor an unqualified benefit. It has made many goods more accessible and given businesses stable foundations, yet it can also encourage waste, hidden costs, and a feeling that ownership of anything has become impossible. Whether it becomes a fair partnership between firms and customers will depend on transparent pricing, genuine choice, and the willingness of consumers to review what they pay for."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Subscription services are cheaper than ownership in almost every circumstance",
+       "B": "Subscriptions have reshaped commerce, bringing both advantages and risks",
+       "C": "Regulators have successfully ended deceptive practices in the subscription industry",
+       "D": "Traditional shops have disappeared because customers prefer streaming services"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc tổng quan mạch bài: đoạn 1 và 2 giới thiệu sự bùng nổ của nền kinh tế thuê bao (subscription economy) thay thế cho quyền sở hữu truyền thống; đoạn 3 phân tích lợi ích cho doanh nghiệp; đoạn 4 chỉ ra những mặt trái đối với người tiêu dùng (chi phí ẩn, sự bất cẩn do thói quen dùng thử); đoạn 5 và 6 thảo luận về cạnh tranh thị trường và sự can thiệp của cơ quan quản lý; đoạn cuối kết luận mô hình này mang lại cả lợi ích lẫn rủi ro. Do đó, phương án đúng phải khái quát toàn diện việc các gói thuê bao đã tái định hình thương mại, mang lại cả ưu điểm lẫn rủi ro (Subscriptions have reshaped commerce, bringing both advantages and risks), tránh chọn các đáp án phiến diện hay cực đoan."
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why do firms value subscribers?",
+      "options": {
+       "A": "They pay higher prices than one-off customers",
+       "B": "They require fewer staff to serve than shoppers",
+       "C": "They never cancel their plans after trial periods",
+       "D": "They provide steady income that investors can forecast"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"value subscribers\" ở đoạn 3 để tìm lý do doanh nghiệp đánh giá cao người đăng ký: họ mang lại nguồn thu nhập ổn định giúp nhà đầu tư có thể dự báo với độ tin cậy cao (They provide steady income that investors can forecast)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"inertia\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "curiosity",
+       "B": "urgency",
+       "C": "passivity",
+       "D": "generosity"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'In effect, the company swaps unpredictable bursts of income for a reliable monthly flow.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'In effect, the company swaps unpredictable bursts of income for a reliable monthly flow.' (Thực chất, công ty đánh đổi những đợt doanh thu bấp bênh lấy một dòng tiền hằng tháng ổn định). Ý nghĩa này bổ sung và minh họa trực tiếp cho câu nói ngay trước ô [1] (nói về việc doanh thu từ thuê bao tạo ra dòng tiền đều đặn mà nhà đầu tư có thể dự báo). Do đó, vị trí thích hợp nhất là điền ngay vào ô [1]."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, why did older firms move to subscription?",
+      "options": {
+       "A": "To avoid competition from start-ups in the razor market",
+       "B": "To protect revenue against piracy and retain customers",
+       "C": "To comply with new consumer protection regulations",
+       "D": "To reduce the cost of manufacturing physical media"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin về các doanh nghiệp lâu đời ở đoạn 5: họ chuyển sang mô hình thuê bao một phần để bảo vệ doanh thu trước nạn vi phạm bản quyền và giữ chân khách hàng trong hệ sinh thái của mình (To protect revenue against piracy and retain customers)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"these\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Dark interface patterns",
+       "B": "Industry lobbying campaigns",
+       "C": "Free trial offers",
+       "D": "Consumer protection requirements"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định số nhiều \"these\" ở đầu câu của đoạn 6. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ sự việc: đoạn trước nhắc đến các yêu cầu mới từ các cơ quan quản lý (disclosure of renewal terms, sending reminders, allowing cancellation), quy chiếu trực tiếp đến các yêu cầu bảo vệ người tiêu dùng này (Consumer protection requirements)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"incumbent\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "ambitious",
+       "B": "foreign",
+       "C": "established",
+       "D": "struggling"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a benefit of subscriptions to companies?",
+      "options": {
+       "A": "Reduced need to compete with start-ups",
+       "B": "Greater confidence in forecasting future income",
+       "C": "Cheaper borrowing than firms with fluctuating sales",
+       "D": "Detailed data on how customers use their services"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các lợi ích của thuê bao đối với doanh nghiệp được đề cập (tự tin dự báo thu nhập ở đoạn 3, vay vốn rẻ hơn ở đoạn 3, dữ liệu chi tiết về khách hàng ở đoạn 3), từ đó loại trừ phương án giảm bớt áp lực cạnh tranh với các công ty khởi nghiệp vì hoàn toàn không xuất hiện (thực tế bài viết nêu các start-up dùng thuê bao để thách thức các công ty lâu đời)."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4 to 6 about subscription companies?",
+      "options": {
+       "A": "Customers always benefit from subscriptions because they cost less",
+       "B": "Regulation will inevitably end the growth of the subscription model",
+       "C": "Dark patterns are legal only in countries without consumer groups",
+       "D": "Companies may profit from inattention, prompting calls for regulation"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 4 đến đoạn 6 về cách vận hành của các công ty thuê bao: các doanh nghiệp có thể hưởng lợi từ sự bất cẩn hoặc lơ đễnh của khách hàng (quên hủy gói dùng thử), từ đó châm ngòi cho các cuộc tranh luận và lời kêu gọi siết chặt quản lý (Companies may profit from inattention, prompting calls for regulation)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers to cancel all of their subscriptions",
+       "B": "To evaluate how the subscription model affects businesses and consumers",
+       "C": "To compare the profits of several named technology companies",
+       "D": "To explain how streaming services select films for viewers Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích đánh giá và phân tích tác động của mô hình thuê bao đối với cả doanh nghiệp lẫn người tiêu dùng (To evaluate how the subscription model affects businesses and consumers)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc tổng quan mạch bài: đoạn 1 và 2 giới thiệu sự bùng nổ của nền kinh tế thuê bao (subscription economy) thay thế cho quyền sở hữu truyền thống; đoạn 3 phân tích lợi ích cho doanh nghiệp; đoạn 4 chỉ ra những mặt trái đối với người tiêu dùng (chi phí ẩn, sự bất cẩn do thói quen dùng thử); đoạn 5 và 6 thảo luận về cạnh tranh thị trường và sự can thiệp của cơ quan quản lý; đoạn cuối kết luận mô hình này mang lại cả lợi ích lẫn rủi ro. Do đó, phương án đúng phải khái quát toàn diện việc các gói thuê bao đã tái định hình thương mại, mang lại cả ưu điểm lẫn rủi ro (Subscriptions have reshaped commerce, bringing both advantages and risks), tránh chọn các đáp án phiến diện hay cực đoan.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R3Q2**, quét từ khóa \"value subscribers\" ở đoạn 3 để tìm lý do doanh nghiệp đánh giá cao người đăng ký: họ mang lại nguồn thu nhập ổn định giúp nhà đầu tư có thể dự báo với độ tin cậy cao (They provide steady income that investors can forecast).\n  - Với **R3Q5**, quét thông tin về các doanh nghiệp lâu đời ở đoạn 5: họ chuyển sang mô hình thuê bao một phần để bảo vệ doanh thu trước nạn vi phạm bản quyền và giữ chân khách hàng trong hệ sinh thái của mình (To protect revenue against piracy and retain customers).\n  - Với **R3Q8**, đối soát kỹ các lợi ích của thuê bao đối với doanh nghiệp được đề cập (tự tin dự báo thu nhập ở đoạn 3, vay vốn rẻ hơn ở đoạn 3, dữ liệu chi tiết về khách hàng ở đoạn 3), từ đó loại trừ phương án giảm bớt áp lực cạnh tranh với các công ty khởi nghiệp vì hoàn toàn không xuất hiện (thực tế bài viết nêu các start-up dùng thuê bao để thách thức các công ty lâu đời).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - With **R3Q3**, từ **\"inertia\"** ở đoạn 4 đi kèm với việc khách hàng đăng ký dùng thử nhưng quên hủy hoặc cảm thấy phiền phức nên tiếp tục trả tiền cho dịch vụ ít dùng, mang sắc thái trì trệ, thụ động, đồng nghĩa với \"passivity\".\n  - With **R3Q7**, từ **\"incumbent\"** ở đoạn 5 mô tả các công ty lâu năm, đang nắm giữ vị thế trên thị trường trước sự tấn công của các start-up, sát nghĩa với \"established\".\n- **Dạng câu hỏi Điền câu vào đoạn văn (R3Q4):** Đọc kỹ câu cần chèn: 'In effect, the company swaps unpredictable bursts of income for a reliable monthly flow.' (Thực chất, công ty đánh đổi những đợt doanh thu bấp bênh lấy một dòng tiền hằng tháng ổn định). Ý nghĩa này bổ sung và minh họa trực tiếp cho câu nói ngay trước ô **[1]** (nói về việc doanh thu từ thuê bao tạo ra dòng tiền đều đặn mà nhà đầu tư có thể dự báo). Do đó, vị trí thích hợp nhất là điền ngay vào ô **[1]**.\n- **Dạng câu hỏi Quy chiếu (R3Q6):** Tập trung vào đại từ chỉ định số nhiều **\"these\"** ở đầu câu của đoạn 6. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ sự việc: đoạn trước nhắc đến các yêu cầu mới từ các cơ quan quản lý (disclosure of renewal terms, sending reminders, allowing cancellation), quy chiếu trực tiếp đến các yêu cầu bảo vệ người tiêu dùng này (Consumer protection requirements).\n- **Dạng câu hỏi Suy luận (R3Q9):** Kết hợp thông tin từ đoạn 4 đến đoạn 6 về cách vận hành của các công ty thuê bao: các doanh nghiệp có thể hưởng lợi từ sự bất cẩn hoặc lơ đễnh của khách hàng (quên hủy gói dùng thử), từ đó châm ngòi cho các cuộc tranh luận và lời kêu gọi siết chặt quản lý (Companies may profit from inattention, prompting calls for regulation).\n- **Dạng câu hỏi Mục đích tác giả (R3Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm mục đích đánh giá và phân tích tác động của mô hình thuê bao đối với cả doanh nghiệp lẫn người tiêu dùng (To evaluate how the subscription model affects businesses and consumers).\nLời khuyên: Hãy bắt đầu với các câu hỏi từ vựng (R3Q3, R3Q7) và câu điền đoạn (R3Q4) để giải quyết nhanh gọn. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R3Q2, R3Q5, R3Q8) và câu quy chiếu (R3Q6). Cuối cùng, hoàn thành các câu suy luận (R3Q9), mục đích tác giả (R3Q10) và ý chính (R3Q1)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Great Deep-Sea Mining Debate",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Scattered across the abyssal plains of the Pacific Ocean, at depths of four to six kilometres, lie vast numbers of potato-sized lumps of rock known as polymetallic nodules. They contain nickel, cobalt, copper, and manganese, metals central to modern batteries and wind turbines. As land-based deposits become harder to find and more costly to exploit, a growing number of companies and governments have started to look to the seabed.",
+     "The legal framework that governs this activity is unusual by any standard. Under the United Nations Convention on the Law of the Sea, the seabed beyond national jurisdiction is designated the common heritage of humankind, and the International Seabed Authority regulates activity there. Dozens of exploration contracts have been granted, yet detailed rules for commercial extraction have still not been agreed.",
+     "Advocates make a case for seabed mining that genuinely deserves serious consideration. Producing the same metals on land often requires clearing forests, displacing communities, and, in some regions, relying on hazardous or exploitative labour. Nodules, by contrast, lie loose on the seafloor, so extraction would not involve digging open pits or generating the large volumes of waste rock associated with conventional mines. Supporters also note that demand for battery metals is projected to rise sharply as electric vehicles spread, and they argue that a secure, diversified supply is essential to meeting climate targets.",
+     "Opponents respond that the deep ocean is among the least understood environments on Earth. Scientists have described thousands of species on the nodule fields, the majority of them previously unknown, and many appear to live nowhere else. **[1]** Removing nodules would destroy the hard surfaces on which some animals attach themselves, and a creature that has evolved over millions of years in stable darkness cannot easily adapt to sudden change. **[2]** Mining machines would also stir up clouds of sediment that could drift for considerable distances before settling, potentially smothering filter-feeding organisms far from the extraction site. **[3]** Noise and light pollution add further stress to an ecosystem that has existed without either. **[4]**",
+     "Nodules accumulate extremely slowly, growing by only a few millimetres over a million years, and **this** means that any mined area would be effectively unrecoverable on human timescales. Many biologists therefore fear that the damage would be **irreversible** in practice. They warn that the scale of the unknowns is itself a reason for restraint. Because most of the species living on the nodule fields have not yet been formally described, it is currently impossible to predict which organisms would be lost or whether ecosystems could recover.",
+     "In response, a number of governments, scientific bodies, and major technology companies have called for a **moratorium** until the risks are better understood, and several have pledged not to use seabed minerals. Supporters of mining counter that research cannot be completed without commercial-scale trials, and that a ban would simply push demand towards land-based sources whose environmental and human costs are already well documented. The disagreement has also exposed tensions within the International Seabed Authority, whose dual mandate requires it both to promote mineral development and to protect the marine environment. No agreement has yet emerged on how to resolve this dilemma among the member states.",
+     "The deep-sea mining debate therefore pits two urgent goals against each other: securing the minerals needed to decarbonise economies, and preserving ecosystems that humanity has barely begun to explore. Recycling, improved battery chemistries, and reduced demand could ease the pressure, though few experts believe they can eliminate it entirely. What happens next will show how institutions balance short-term ambition against long-term responsibility for the global commons."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Battery metals will certainly stop being scarce once nodules are harvested",
+       "B": "Only species living near extraction sites face any danger from mining",
+       "C": "Seabed mining promises needed minerals yet raises unresolved ecological concerns",
+       "D": "Environmental campaigns have caused the shortage of metals used in batteries"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": "Sử dụng kỹ năng Skimming (Đọc lướt). Đọc tổng quan mạch bài: đoạn 1 giới thiệu các khối u đa kim chứa khoáng sản quan trọng ở đáy biển sâu; đoạn 2 đề cập đến khung pháp lý quốc tế; đoạn 3 nêu luận điểm ủng hộ khai thác (ít gây tàn phá bề mặt hơn khai thác trên cạn, đáp ứng nhu cầu xe điện); đoạn 4 và 5 đưa ra cảnh báo từ các nhà sinh học về hệ sinh thái chưa được khám phá và tốc độ tích tụ khối u cực kỳ chậm; đoạn 6 nhắc đến lời kêu gọi tạm hoãn (moratorium) trước những rủi ro chưa rõ ràng; đoạn cuối kết luận hoạt động này đặt ra sự giằng xé giữa nhu cầu khoáng sản và trách nhiệm bảo tồn lâu dài. Do đó, phương án đúng phải khái quát toàn diện việc khai thác mỏ dưới đáy biển mang lại nguồn khoáng sản cần thiết nhưng đồng thời làm dấy lên các quan ngại sinh thái chưa có lời giải (Seabed mining promises needed minerals yet raises unresolved ecological concerns), tránh chọn các đáp án phiến diện hay cực đoan."
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, how is the seabed beyond national jurisdiction treated under international law?",
+      "options": {
+       "A": "As the common heritage of humankind, regulated by an international authority",
+       "B": "As territory that coastal states may sell to private companies",
+       "C": "As a protected zone where all exploration is prohibited",
+       "D": "As property shared equally among the largest industrial economies"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin pháp lý ở đoạn 2: đáy biển ngoài quyền tài phác quốc gia được coi là di sản chung của nhân loại và được quản lý bởi Cơ quan Đáy biển Quốc tế (As the common heritage of humankind, regulated by an international authority)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"moratorium\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "subsidy",
+       "B": "expansion",
+       "C": "campaign",
+       "D": "suspension"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"moratorium\" ở đoạn 6 đi kèm với lời kêu gọi từ các chính phủ và cơ quan khoa học yêu cầu tạm dừng khai thác cho đến khi hiểu rõ hơn rủi ro, mang ý nghĩa tạm đình chỉ, hoãn lại, đồng nghĩa với \"suspension\"."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'For this reason, damage inflicted in a few years might take centuries to repair.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'For this reason, damage inflicted in a few years might take centuries to repair.' (Vì lý do này, những tổn hại gây ra trong vài năm có thể mất hàng thế kỷ để phục hồi). Cụm ý nghĩa về tốc độ tích tụ cực kỳ chậm chạp của các khối u (tăng chỉ vài milimet qua hàng triệu năm) được đề cập ngay đầu đoạn 5. Do đó, vị trí phù hợp nhất để nối tiếp ý nghĩa tàn phá và thời gian phục hồi là ngay sau câu nói về sự phát triển cực chậm này, tức là tại ô [2]."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, why do supporters say nodule collection would be less damaging than land mining?",
+      "options": {
+       "A": "It would require no machinery operating on the seafloor",
+       "B": "It would employ far more local workers in nearby coastal communities",
+       "C": "It would avoid digging open pits and producing waste rock",
+       "D": "It would produce metals of higher purity than land mines"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin từ những người ủng hộ ở đoạn 3: việc thu gom các khối u (nodules) nằm rời rạc dưới đáy biển sẽ không phải đào hố lộ thiên hay tạo ra lượng lớn đá thải như mỏ truyền thống (It would avoid digging open pits and producing waste rock)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"irreversible\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "permanent",
+       "B": "temporary",
+       "C": "partial",
+       "D": "gradual"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"irreversible\" ở đoạn 5 dùng để miêu tả những tổn hại sinh thái không thể khôi phục trên quy mô thời gian của con người, sát nghĩa với \"permanent\"."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"this\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Rapid sediment movement",
+       "B": "Noise and light pollution",
+       "C": "Frequent mining contracts",
+       "D": "Slow nodule formation"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định \"this\" ở đoạn 5. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ sự việc: câu trước nhắc đến việc các khối u tích tụ cực kỳ chậm chạp qua hàng triệu năm, quy chiếu trực tiếp đến hiện tượng hình thành khối u chậm này (Slow nodule formation)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a threat to deep-sea organisms?",
+      "options": {
+       "A": "Loss of the hard surfaces animals attach to",
+       "B": "Contamination of fish stocks by discarded fuel",
+       "C": "Smothering of organisms by drifting clouds of sediment",
+       "D": "Stress caused by noise and artificial light"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các mối đe dọa đối với sinh vật biển sâu được liệt kê (mất bề mặt cứng để bám ở đoạn 4, bị vùi lấp bởi đám mây trầm tích ở đoạn 4, căng thẳng do tiếng động và ánh sáng nhân tạo ở đoạn 4), từ đó loại trừ phương án ô nhiễm nguồn cá do nhiên liệu thải bỏ vì chi tiết này hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 5 and 6 about decisions on seabed mining?",
+      "options": {
+       "A": "Scientists have proved that mining would eliminate every seabed species",
+       "B": "Only technology companies are concerned about missing biological data",
+       "C": "Decisions may be pressed ahead despite incomplete scientific knowledge",
+       "D": "The authority has banned mining because trials caused severe damage"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Kết hợp thông tin từ đoạn 5 và 6 về cuộc tranh cãi: việc thiếu hụt dữ liệu sinh học và sự chia rẽ trong Cơ quan Đáy biển Quốc tế cho thấy các quyết định khai thác có thể vẫn được thúc đẩy tiến hành bất chấp kiến thức khoa học chưa hoàn thiện (Decisions may be pressed ahead despite incomplete scientific knowledge)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To weigh competing arguments about extracting minerals from the seabed",
+       "B": "To urge readers to boycott electric vehicles entirely",
+       "C": "To explain how nodules are transported to shore for processing",
+       "D": "To criticise the research methods used by marine biologists"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": "Phân tích tổng thể văn bản. Tác giả viết bài nhằm cân nhắc và mổ xẻ các luồng quan điểm cạnh tranh nhau xung quanh việc khai thác khoáng sản dưới đáy biển sâu (To weigh competing arguments about extracting minerals from the seabed)."
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc tổng quan mạch bài: đoạn 1 giới thiệu các khối u đa kim chứa khoáng sản quan trọng ở đáy biển sâu; đoạn 2 đề cập đến khung pháp lý quốc tế; đoạn 3 nêu luận điểm ủng hộ khai thác (ít gây tàn phá bề mặt hơn khai thác trên cạn, đáp ứng nhu cầu xe điện); đoạn 4 và 5 đưa ra cảnh báo từ các nhà sinh học về hệ sinh thái chưa được khám phá và tốc độ tích tụ khối u cực kỳ chậm; đoạn 6 nhắc đến lời kêu gọi tạm hoãn (moratorium) trước những rủi ro chưa rõ ràng; đoạn cuối kết luận hoạt động này đặt ra sự giằng xé giữa nhu cầu khoáng sản và trách nhiệm bảo tồn lâu dài. Do đó, phương án đúng phải khái quát toàn diện việc khai thác mỏ dưới đáy biển mang lại nguồn khoáng sản cần thiết nhưng đồng thời làm dấy lên các quan ngại sinh thái chưa có lời giải (Seabed mining promises needed minerals yet raises unresolved ecological concerns), tránh chọn các đáp án phiến diện hay cực đoan.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong bài đọc:\n  - Với **R4Q2**, quét thông tin pháp lý ở đoạn 2: đáy biển ngoài quyền tài phác quốc gia được coi là di sản chung của nhân loại và được quản lý bởi Cơ quan Đáy biển Quốc tế (As the common heritage of humankind, regulated by an international authority).\n  - Với **R4Q5**, quét thông tin từ những người ủng hộ ở đoạn 3: việc thu gom các khối u (nodules) nằm rời rạc dưới đáy biển sẽ không phải đào hố lộ thiên hay tạo ra lượng lớn đá thải như mỏ truyền thống (It would avoid digging open pits and producing waste rock).\n  - Với **R4Q8**, đối soát kỹ các mối đe dọa đối với sinh vật biển sâu được liệt kê (mất bề mặt cứng để bám ở đoạn 4, bị vùi lấp bởi đám mây trầm tích ở đoạn 4, căng thẳng do tiếng động và ánh sáng nhân tạo ở đoạn 4), từ đó loại trừ phương án ô nhiễm nguồn cá do nhiên liệu thải bỏ vì chi tiết này hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q6):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"moratorium\"** ở đoạn 6 đi kèm với lời kêu gọi từ các chính phủ và cơ quan khoa học yêu cầu tạm dừng khai thác cho đến khi hiểu rõ hơn rủi ro, mang ý nghĩa tạm đình chỉ, hoãn lại, đồng nghĩa với \"suspension\".\n  - Với **R4Q6**, từ **\"irreversible\"** ở đoạn 5 dùng để miêu tả những tổn hại sinh thái không thể khôi phục trên quy mô thời gian của con người, sát nghĩa với \"permanent\".\n- **Dạng câu hỏi Điền câu vào đoạn văn (R4Q4):** Đọc kỹ câu cần chèn: 'For this reason, damage inflicted in a few years might take centuries to repair.' (Vì lý do này, những tổn hại gây ra trong vài năm có thể mất hàng thế kỷ để phục hồi). Cụm ý nghĩa về tốc độ tích tụ cực kỳ chậm chạp của các khối u (tăng chỉ vài milimet qua hàng triệu năm) được đề cập ngay đầu đoạn 5. Do đó, vị trí phù hợp nhất để nối tiếp ý nghĩa tàn phá và thời gian phục hồi là ngay sau câu nói về sự phát triển cực chậm này, tức là tại ô **[2]**.\n- **Dạng câu hỏi Quy chiếu (R4Q7):** Tập trung vào đại từ chỉ định **\"this\"** ở đoạn 5. Áp dụng quy tắc đọc ngược lại câu trước để tìm danh từ chỉ sự việc: câu trước nhắc đến việc các khối u tích tụ cực kỳ chậm chạp qua hàng triệu năm, quy chiếu trực tiếp đến hiện tượng hình thành khối u chậm này (Slow nodule formation).\n- **Dạng câu hỏi Suy luận (R4Q9):** Kết hợp thông tin từ đoạn 5 và 6 về cuộc tranh cãi: việc thiếu hụt dữ liệu sinh học và sự chia rẽ trong Cơ quan Đáy biển Quốc tế cho thấy các quyết định khai thác có thể vẫn được thúc đẩy tiến hành bất chấp kiến thức khoa học chưa hoàn thiện (Decisions may be pressed ahead despite incomplete scientific knowledge).\n- **Dạng câu hỏi Mục đích tác giả (R4Q10):** Phân tích tổng thể văn bản. Tác giả viết bài nhằm cân nhắc và mổ xẻ các luồng quan điểm cạnh tranh nhau xung quanh việc khai thác khoáng sản dưới đáy biển sâu (To weigh competing arguments about extracting minerals from the seabed).\nLời khuyên: Hãy ưu tiên giải quyết trước các câu hỏi từ vựng (R4Q3, R4Q6), câu điền đoạn (R4Q4) và quy chiếu (R4Q7) vì thông tin rất tập trung. Tiếp theo, sử dụng kỹ thuật đọc quét để tìm câu trả lời chi tiết (R4Q2, R4Q5, R4Q8). Cuối cùng, hoàn thành các câu suy luận (R4Q9), mục đích tác giả (R4Q10) và ý chính (R4Q1)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Mark, who is planning to visit you next month.\nRead part of his email below.\nI am so excited about visiting you soon! I have a few questions before I arrive:\n- What activities should we do together while I am there?\n- I want to buy some chocolate as a gift for your parents. Do they like chocolate or should I bring something else?\n- What is the best way for me to get to your house from the airport?\nWrite an email responding to Mark. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Mark, who is planning to visit you next month.",
+      "Read part of his email below."
+     ],
+     "quote": [
+      "I am so excited about visiting you soon! I have a few questions before I arrive:",
+      "- What activities should we do together while I am there?",
+      "- I want to buy some chocolate as a gift for your parents. Do they like chocolate or should I bring something else?",
+      "- What is the best way for me to get to your house from the airport?"
+     ],
+     "instruction": "Write an email responding to Mark. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng thư thân mật (Informal Email) gửi cho bạn bè.\n- Người viết cần trả lời 3 câu hỏi: Gợi ý hoạt động, xác nhận sở thích ăn socola của bố mẹ và hướng dẫn cách di chuyển từ sân bay.\n- Đảm bảo độ dài tối thiểu 120 từ và sử dụng ngôn từ tự nhiên, gần gũi.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- Greeting: Chào hỏi thân mật như 'Hi Mark,' hoặc 'Dear Mark,'.\n- Opening: Bày tỏ sự hào hứng trước chuyến thăm của bạn. Ví dụ: 'I am thrilled to hear that you are coming to visit me next month!'\n- Body Paragraph 1: Gợi ý các hoạt động như đi tham quan, ăn uống. Ví dụ: 'We should definitely try some local street food and visit the city museum.'\n- Body Paragraph 2: Trả lời về món quà socola. Ví dụ: 'Regarding the gift, my parents actually love dark chocolate, so that would be perfect!'\n- Body Paragraph 3: Hướng dẫn đường đi. Ví dụ: 'The most convenient way to get to my house is by taking a taxi or a ride-sharing app like Grab.'\n- Closing: Kết thúc thư và mong sớm gặp lại. Ví dụ: 'I can't wait to see you. Safe travels!'\n- Sign-off: 'Best wishes,' hoặc 'Cheers,'.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì tương lai (Will/Be going to) cho các dự định và thì hiện tại đơn cho sở thích.\n- Sử dụng các cấu trúc gợi ý như 'How about...?', 'I suggest...', 'It would be great if...'.\nTừ vựng quan trọng:\n- Sightseeing: Đi tham quan\n- Local specialty: Đặc sản địa phương\n- Thoughtful: Chu đáo (về món quà)\n- Pick you up: Đón bạn\n- Public transport: Phương tiện công cộng\n- Convenient: Tiện lợi\nTừ nối (Linking words):\n- Anyway: Dù sao thì (để chuyển ý)\n- In terms of: Về mặt/Về việc\n- Actually: Thực ra thì\n- Besides: Ngoài ra\n- Furthermore: Hơn thế nữa\nCách diễn đạt cảm xúc (Expressing feelings):\n- I'm over the moon: Tôi cực kỳ hạnh phúc\n- Looking forward to: Mong đợi\n- It’s very kind of you: Bạn thật tốt bụng\n\n**4. Các lỗi thường gặp:**\n- Sử dụng từ ngữ quá trang trọng (Formal) trong thư cho bạn bè.\n- Quên trả lời một trong ba câu hỏi chính của đề bài.\n- Lỗi chia thì không nhất quán giữa dự định tương lai và thói quen hiện tại.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã có đủ lời chào và lời kết chưa.\n- Đếm số lượng từ để đảm bảo không dưới 120 từ.\n- Soát lỗi chính tả các từ vựng về di chuyển và thực phẩm.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang thực sự lên kế hoạch cho một người bạn thân. Điều này giúp nội dung trở nên chân thực và sinh động hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nOnline shopping has become increasingly popular in the modern world, changing the way people purchase goods. While this trend offers many benefits to consumers, there are also significant drawbacks that need to be\nconsidered.\nDiscuss the advantages and disadvantages of online shopping.\nWrite an essay to an educated reader to discuss the advantages and disadvantages of online shopping. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Online shopping has become increasingly popular in the modern world, changing the way people purchase goods. While this trend offers many benefits to consumers, there are also significant drawbacks that need to be",
+      "considered.",
+      "Discuss the advantages and disadvantages of online shopping."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the advantages and disadvantages of online shopping. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Advantages and Disadvantages Essay.\n- Chủ đề: Mua sắm trực tuyến (Online shopping).\n- Yêu cầu: Phân tích cả mặt lợi và mặt hại một cách khách quan. Tối thiểu 250 từ.\n- Tránh lỗi chỉ tập trung vào một phía hoặc viết quá sa đà vào kể lể cá nhân.\n\n**2. Cách xây dựng bố cục (Organization):**\n- Introduction: Dẫn dắt về sự bùng nổ của thương mại điện tử và nêu mục đích bài viết. Ví dụ: 'While e-commerce has revolutionized the retail industry, it presents both pros and cons.'\n- Body 1: Phân tích lợi ích (Sự tiện lợi, so sánh giá, đa dạng mặt hàng). Ví dụ: 'The primary advantage of online shopping is the convenience it offers to busy individuals.'\n- Body 2: Phân tích hạn chế (Rủi ro bảo mật, chất lượng hàng hóa không như hình, thiếu tương tác trực tiếp). Ví dụ: 'On the other hand, purchasing goods online carries certain risks, such as product quality issues.'\n- Conclusion: Tóm tắt lại hai mặt và đưa ra nhận định chung. Ví dụ: 'In conclusion, despite some drawbacks, online shopping remains a dominant trend if used wisely.'\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các cấu trúc câu phức và câu ghép để nâng cao điểm ngữ pháp.\n- Sử dụng các cụm danh từ (Noun phrases) để bài viết mang tính học thuật hơn.\nTừ vựng quan trọng:\n- E-commerce: Thương mại điện tử\n- Consumer behavior: Hành vi người tiêu dùng\n- Time-consuming: Tốn thời gian\n- Doorstep delivery: Giao hàng tận nhà\n- Counterfeit goods: Hàng giả\n- Cybersecurity: An ninh mạng\nTừ nối (Linking words):\n- Firstly / Secondly: Thứ nhất / Thứ hai\n- In addition: Thêm vào đó\n- On the contrary: Ngược lại\n- Consequently: Hậu quả là\n- Taking everything into consideration: Cân nhắc mọi thứ\n- For instance: Ví dụ là\nDiễn đạt lại ý (Paraphrasing):\n- Digital marketplace: Thay cho 'online shopping'\n- Brick-and-mortar stores: Cửa hàng truyền thống (để so sánh)\n- Virtual transactions: Giao dịch ảo\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- It is widely recognized that: Nhiều người công nhận rằng\n- One of the most notable benefits is: Một trong những lợi ích đáng chú ý nhất là\n- There is a possibility of: Có khả năng xảy ra việc...\n\n**4. Các lỗi thường gặp:**\n- Không chia đoạn rõ ràng giữa phần ưu điểm và nhược điểm.\n- Lỗi lặp từ 'good' hoặc 'bad' quá nhiều thay vì dùng từ chuyên ngành.\n- Viết quá ngắn (dưới 250 từ) sẽ bị trừ điểm nặng ở phần Task Fulfillment.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra sự thống nhất giữa chủ ngữ và động từ.\n- Đảm bảo mỗi đoạn thân bài đều có câu chủ đề (Topic sentence) rõ ràng.\n- Soát lại các từ nối để đảm bảo tính mạch lạc (Cohesion).\n\n**6. Tư duy làm bài:**\n- Hãy giữ thái độ khách quan. Ngay cả khi bạn thích mua hàng online, vẫn phải tìm ra ít nhất 2 nhược điểm để bài viết cân bằng."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about money\n\n1\nDo you use money often in your daily life?\n2\nHow should children be taught to use money wisely?\n3\nWhat is the most expensive thing you have ever bought?\n\nNow, let’s talk about your meals\n\n4\nDo you often have breakfast in the morning?\n5\nWhat kind of food do you usually eat for your meals?\n6\nDo you think you have a healthy lifestyle? Why or why not?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 gồm 6 câu hỏi cá nhân trong khoảng 3 phút. Bạn cần trả lời nhanh, tự nhiên và có giải thích ngắn gọn.\n- **Topic A (Money):** Câu hỏi 1–3 tập trung vào việc sử dụng tiền, giáo dục tài chính cho trẻ em và trải nghiệm mua món đồ đắt tiền nhất.\n- **Topic B (Food):** Câu hỏi 4–6 nói về thói quen ăn sáng, chế độ ăn uống và quan điểm về lối sống lành mạnh.\n- Giám khảo đánh giá khả năng phản xạ giao tiếp, độ lưu loát, từ vựng và phát âm.\n- Nên chia thời gian đều cho cả hai chủ đề, khoảng 25–35 giây cho mỗi câu hỏi.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng công thức ARE: Answer -> Reason -> Example để mở rộng ý.\n- **Ví dụ Topic A:** Yes, I use money every day because I need to pay for food, transportation and study materials. For example, I usually buy coffee and lunch near my university.\n- **Ví dụ Topic B:** I usually have bread and milk for breakfast because they are quick and convenient in the morning.\n- Luôn tự hỏi Why? hoặc How? để kéo dài câu trả lời tự nhiên hơn.\n- Khi chuyển chủ đề, bạn có thể nói: Besides managing money, I also pay attention to my eating habits and health.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định, tránh nói quá nhanh hoặc dừng lại quá lâu.\n- Với Topic A, nên dùng hiện tại đơn để mô tả thói quen và hiện tại hoàn thành khi nói về món đồ đắt nhất từng mua.\n- Với Topic B, dùng trạng từ tần suất như usually, often, rarely để nói về chế độ ăn uống.\n- Nếu quên từ vựng, hãy diễn đạt bằng cách đơn giản hơn thay vì im lặng.\n- Từ vựng Topic A: save money (tiết kiệm tiền), financial responsibility (trách nhiệm tài chính), spend wisely (chi tiêu hợp lý), budget management (quản lý ngân sách).\n- Từ vựng Topic B: balanced diet (chế độ ăn cân bằng), nutritious food (thực phẩm bổ dưỡng), healthy habits (thói quen lành mạnh), fast food consumption (việc ăn đồ ăn nhanh).\nCụm từ quan trọng nên dùng:\n- learn how to manage personal finances – học cách quản lý tài chính cá nhân\n- avoid wasting money on unnecessary things – tránh lãng phí tiền vào những thứ không cần thiết\n- save up for expensive purchases – tiết kiệm để mua món đồ đắt tiền\n- have a nutritious breakfast every morning – ăn sáng đầy đủ dinh dưỡng mỗi sáng\n- maintain a balanced lifestyle – duy trì lối sống cân bằng\n- exercise regularly and eat healthy food – tập thể dục thường xuyên và ăn uống lành mạnh\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Besides that – bên cạnh đó\n- For instance – ví dụ\n- However – tuy nhiên\n- As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n- Personally, I think children should learn about money at an early age. – Cá nhân tôi nghĩ trẻ em nên học về tiền từ sớm.\n- In my opinion, spending money wisely is an important life skill. – Theo tôi, chi tiêu hợp lý là kỹ năng sống quan trọng.\n- I would say my laptop is the most expensive thing I have ever bought. – Tôi cho rằng laptop là món đồ đắt nhất tôi từng mua.\n- To be honest, I sometimes skip breakfast because I wake up late. – Thành thật mà nói đôi khi tôi bỏ bữa sáng vì thức dậy muộn.\n- From my perspective, a healthy lifestyle includes both exercise and good eating habits. – Theo quan điểm của tôi, lối sống lành mạnh bao gồm tập thể dục và ăn uống tốt.\n- I believe eating too much fast food can negatively affect our health. – Tôi tin rằng ăn quá nhiều đồ ăn nhanh có thể ảnh hưởng xấu đến sức khỏe.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời Yes hoặc No mà không giải thích thêm là lỗi rất phổ biến.\n- Ở Topic A, nhiều bạn chỉ nói thích mua đồ mà không giải thích lý do hoặc trải nghiệm cá nhân.\n- Ở Topic B, nhiều bạn lặp lại từ healthy quá nhiều thay vì dùng balanced hoặc nutritious.\n- Dùng sai thì khi nói về trải nghiệm mua món đồ đắt nhất.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Có thể dùng câu filler như: That is an interesting question, let me think for a moment.\n- Nếu quên từ vựng, hãy mô tả chức năng hoặc ví dụ thay thế.\n- Ở Topic A, nếu quên tên món đồ đắt tiền, hãy mô tả công dụng của nó.\n- Ở Topic B, nếu quên tên món ăn bằng tiếng Anh, hãy mô tả thành phần chính của món ăn.\n\n**6. Tư duy làm bài nói:**\n- Hãy coi đây là một cuộc trò chuyện tự nhiên thay vì cố học thuộc câu trả lời.\n- Khi chuyển từ chủ đề tiền bạc sang sức khỏe, hãy thay đổi ý tưởng rõ ràng để tránh bị lặp.\n- Sự lưu loát và tự tin quan trọng hơn việc dùng quá nhiều từ vựng phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou are going to celebrate your birthday and are considering three options for the party.\n\nYou are considering the following options:\n\nOption 1: Having a big party with many people\nOption 2: Having a small gathering with only close friends and family\nOption 3: Celebrating alone\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn lựa chọn cách tổ chức sinh nhật phù hợp nhất trong ba phương án.\n- Bạn cần phân tích ưu và nhược điểm của cả ba lựa chọn trước khi đưa ra quyết định cuối cùng.\n- Giám khảo đánh giá khả năng lập luận, so sánh và diễn đạt quan điểm cá nhân.\n- Thời gian khoảng 4 phút nên bạn cần nói ngắn gọn nhưng đủ ý.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc State opinion -> Give reasons -> Compare -> Conclude để trình bày rõ ràng.\n- Option 1 có ưu điểm là vui vẻ và náo nhiệt nhưng có thể tốn kém và khó quản lý.\n- Option 2 tạo không khí ấm cúng, thân mật và giúp tiết kiệm chi phí hơn.\n- Option 3 phù hợp với người thích sự riêng tư nhưng có thể khiến ngày sinh nhật trở nên buồn chán.\n- Hãy liên hệ với trải nghiệm cá nhân hoặc văn hóa tổ chức sinh nhật của người trẻ.\n- Dùng từ nối đối lập như however hoặc on the contrary để chuyển ý logic hơn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ hoàn toàn.\n- Dùng hiện tại đơn để nói quan điểm chung và câu điều kiện khi nói kết quả của từng lựa chọn.\n- Nếu quên từ vựng, hãy paraphrase bằng các cụm đơn giản hơn như big celebration hoặc private event.\nCụm từ quan trọng nên dùng:\n- create unforgettable memories – tạo ra những kỷ niệm khó quên\n- spend quality time with loved ones – dành thời gian chất lượng với người thân\n- cost a significant amount of money – tốn khá nhiều tiền\n- enjoy a peaceful atmosphere – tận hưởng không khí yên bình\n- strengthen relationships with friends and family – tăng cường mối quan hệ với bạn bè và gia đình\n- organize a meaningful celebration – tổ chức một buổi tiệc ý nghĩa\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- On the other hand – mặt khác\n- Moreover – hơn nữa\n- In contrast – trái lại\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I personally prefer a small gathering because it feels warmer and more meaningful. – Cá nhân tôi thích buổi gặp mặt nhỏ vì nó ấm cúng và ý nghĩa hơn.\n- Compared to a huge party, a private celebration is less stressful and more affordable. – So với tiệc lớn, buổi tiệc riêng tư ít áp lực và tiết kiệm hơn.\n- In my opinion, celebrating alone is not a bad idea if someone wants to relax. – Theo tôi, ăn mừng một mình không hẳn là ý tưởng tệ nếu ai đó muốn thư giãn.\n\n**4. Các lỗi thường gặp:**\n- Nhiều bạn chỉ tập trung nói về lựa chọn mình thích mà quên phân tích hai lựa chọn còn lại.\n- Lặp lại từ good hoặc fun quá nhiều thay vì dùng enjoyable, memorable hoặc relaxing.\n- Kết luận không rõ ràng nên bài nói thiếu tính thuyết phục.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng, hãy chuyển sang nói về chi phí, cảm xúc hoặc thời gian tổ chức.\n- Bạn có thể dùng câu: Let's look at this option from another perspective để kéo dài thời gian suy nghĩ.\n- Nếu bị bí ở một lựa chọn, hãy chuyển sang lựa chọn khác rồi quay lại sau.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người đưa ra quyết định thực tế và phù hợp với hoàn cảnh.\n- Ngay cả với lựa chọn tốt nhất, bạn vẫn nên đề cập một vài hạn chế để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nFactors to consider when choosing a job\n\nChoosing a Job\nSalary and benefits\nWorking environment\nCareer promotion opportunities\n[your own ideas]\n\nFollow-up Questions:\n\n1\nIs salary the most important factor when choosing a job? Why?\n2\nDo you prefer working for a big company or a small start-up?\n3\nShould young people change jobs frequently to gain more experience?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về những yếu tố quan trọng khi lựa chọn công việc.\n- Sơ đồ tư duy gồm 3 ý chính: lương và phúc lợi, môi trường làm việc và cơ hội thăng tiến.\n- Nhánh ý tưởng cá nhân có thể là work-life balance hoặc job satisfaction.\n- Giám khảo đánh giá khả năng phát triển ý, dùng ví dụ và trả lời câu hỏi follow-up.\n- Thời gian khoảng 5 phút, nên dành khoảng 3 phút cho bài nói chính và phần còn lại cho hỏi đáp.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để triển khai từng ý trong mindmap.\n- **Ví dụ 1:** Today, I would like to talk about several important factors people should consider when choosing a job.\n- **Ví dụ 2:** Another important factor is work-life balance because employees need time for family and relaxation.\n- Hãy đưa ví dụ thực tế như kinh nghiệm làm part-time hoặc quan sát từ người thân.\n- Luôn đi theo thứ tự của mindmap để tránh lặp ý và giữ bài nói logic.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng câu chuyển ý như Moving on to the next factor hoặc Another thing worth mentioning is.\n- Dùng hiện tại đơn để nói sự thật chung và hiện tại hoàn thành khi nói về thay đổi trong thị trường lao động.\n- Có thể paraphrase job bằng career, occupation hoặc profession.\nCụm từ quan trọng nên dùng:\n- competitive salary and attractive benefits – mức lương cạnh tranh và phúc lợi hấp dẫn\n- positive working environment – môi trường làm việc tích cực\n- opportunities for professional development – cơ hội phát triển nghề nghiệp\n- achieve a healthy work-life balance – đạt được cân bằng giữa công việc và cuộc sống\n- gain valuable working experience – tích lũy kinh nghiệm làm việc quý giá\n- long-term career prospects – triển vọng nghề nghiệp lâu dài\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- In addition – thêm vào đó\n- For example – ví dụ\n- As a result – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, salary is important but it should not be the only factor. – Theo tôi, lương quan trọng nhưng không nên là yếu tố duy nhất.\n- I personally prefer a friendly working environment because it reduces stress. – Cá nhân tôi thích môi trường làm việc thân thiện vì nó giúp giảm áp lực.\n- From my perspective, young people should choose jobs that help them grow professionally. – Theo quan điểm của tôi, người trẻ nên chọn công việc giúp họ phát triển nghề nghiệp.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- Is salary the most important factor? – Salary is important, but working environment and job satisfaction also matter a lot.\n- Do you prefer a big company or a small start-up? – I prefer a big company because it offers more training\nopportunities and stability.\n- Should young people change jobs frequently? – Changing jobs can help people gain experience, but changing too often may reduce stability.\n\n**5. Các lỗi thường gặp:**\n- Nhiều bạn chỉ liệt kê yếu tố mà không giải thích hoặc cho ví dụ minh họa.\n- Quên phát triển nhánh ý tưởng cá nhân nên bài nói thiếu chiều sâu.\n- Nói quá dài ở phần main speech khiến không còn thời gian trả lời follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với kinh nghiệm học tập hoặc định hướng nghề nghiệp cá nhân.\n- Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a long-term perspective để có thêm thời gian suy nghĩ.\n- Nếu quên từ chuyên ngành, hãy dùng cách diễn đạt đơn giản hơn.\n\n**7. Tư duy làm bài nói:**\n- Hãy suy nghĩ từ góc nhìn của người lao động hiện đại và nhà tuyển dụng.\n- Tính logic và sự liên kết giữa các ý là yếu tố rất quan trọng để đạt điểm cao.\n- Đừng cố dùng từ quá học thuật nếu bạn không chắc cách phát âm hoặc cách dùng."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about money.\n1.\nDo you use money often in your daily life?\n2.\nHow should children be taught to use money wisely?\n3.\nWhat is the most expensive thing you have ever bought?\nNow, let’s talk about your meals.\n4.\nDo you often have breakfast in the morning?\n5.\nWhat kind of food do you usually eat for your meals?\n6.\nDo you think you have a healthy lifestyle? Why or why not?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 gồm 6 câu hỏi cá nhân trong khoảng 3 phút. Bạn cần trả lời nhanh, tự nhiên và có giải thích ngắn gọn.\n• Topic A (Money): Câu hỏi 1–3 tập trung vào việc sử dụng tiền, giáo dục tài chính cho trẻ em và trải nghiệm mua món\nđồ đắt tiền nhất.\n• Topic B (Food): Câu hỏi 4–6 nói về thói quen ăn sáng, chế độ ăn uống và quan điểm về lối sống lành mạnh.\n• Giám khảo đánh giá khả năng phản xạ giao tiếp, độ lưu loát, từ vựng và phát âm.\n• Nên chia thời gian đều cho cả hai chủ đề, khoảng 25–35 giây cho mỗi câu hỏi.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng công thức ARE: Answer -> Reason -> Example để mở rộng ý.\n• Ví dụ Topic A: Yes, I use money every day because I need to pay for food, transportation and study materials. For\nexample, I usually buy coffee and lunch near my university.\n• Ví dụ Topic B: I usually have bread and milk for breakfast because they are quick and convenient in the morning.\n• Luôn tự hỏi Why? hoặc How? để kéo dài câu trả lời tự nhiên hơn.\n• Khi chuyển chủ đề, bạn có thể nói: Besides managing money, I also pay attention to my eating habits and health.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định, tránh nói quá nhanh hoặc dừng lại quá lâu.\n• Với Topic A, nên dùng hiện tại đơn để mô tả thói quen và hiện tại hoàn thành khi nói về món đồ đắt nhất từng mua.\n• Với Topic B, dùng trạng từ tần suất như usually, often, rarely để nói về chế độ ăn uống.\n• Nếu quên từ vựng, hãy diễn đạt bằng cách đơn giản hơn thay vì im lặng.\n• Từ vựng Topic A: save money (tiết kiệm tiền), financial responsibility (trách nhiệm tài chính), spend wisely (chi tiêu\nhợp lý), budget management (quản lý ngân sách).\n• Từ vựng Topic B: balanced diet (chế độ ăn cân bằng), nutritious food (thực phẩm bổ dưỡng), healthy habits (thói quen\nlành mạnh), fast food consumption (việc ăn đồ ăn nhanh).\nCụm từ quan trọng nên dùng:\n• learn how to manage personal finances – học cách quản lý tài chính cá nhân\n• avoid wasting money on unnecessary things – tránh lãng phí tiền vào những thứ không cần thiết\n• save up for expensive purchases – tiết kiệm để mua món đồ đắt tiền\n• have a nutritious breakfast every morning – ăn sáng đầy đủ dinh dưỡng mỗi sáng\n• maintain a balanced lifestyle – duy trì lối sống cân bằng\n• exercise regularly and eat healthy food – tập thể dục thường xuyên và ăn uống lành mạnh\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Besides that – bên cạnh đó\n• For instance – ví dụ\n• However – tuy nhiên\n• As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n• Personally, I think children should learn about money at an early age. – Cá nhân tôi nghĩ trẻ em nên học về tiền từ\nsớm.\n• In my opinion, spending money wisely is an important life skill. – Theo tôi, chi tiêu hợp lý là kỹ năng sống quan trọng.\n• I would say my laptop is the most expensive thing I have ever bought. – Tôi cho rằng laptop là món đồ đắt nhất tôi\ntừng mua.\n• To be honest, I sometimes skip breakfast because I wake up late. – Thành thật mà nói đôi khi tôi bỏ bữa sáng vì thức\ndậy muộn.\n• From my perspective, a healthy lifestyle includes both exercise and good eating habits. – Theo quan điểm của tôi,\nlối sống lành mạnh bao gồm tập thể dục và ăn uống tốt.\n• I believe eating too much fast food can negatively affect our health. – Tôi tin rằng ăn quá nhiều đồ ăn nhanh có thể\nảnh hưởng xấu đến sức khỏe.\n4. Các lỗi thường gặp:\n• Chỉ trả lời Yes hoặc No mà không giải thích thêm là lỗi rất phổ biến.\n• Ở Topic A, nhiều bạn chỉ nói thích mua đồ mà không giải thích lý do hoặc trải nghiệm cá nhân.\n• Ở Topic B, nhiều bạn lặp lại từ healthy quá nhiều thay vì dùng balanced hoặc nutritious.\n• Dùng sai thì khi nói về trải nghiệm mua món đồ đắt nhất.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Có thể dùng câu filler như: That is an interesting question, let me think for a moment.\n• Nếu quên từ vựng, hãy mô tả chức năng hoặc ví dụ thay thế.\n• Ở Topic A, nếu quên tên món đồ đắt tiền, hãy mô tả công dụng của nó.\n• Ở Topic B, nếu quên tên món ăn bằng tiếng Anh, hãy mô tả thành phần chính của món ăn.\n6. Tư duy làm bài nói:\n• Hãy coi đây là một cuộc trò chuyện tự nhiên thay vì cố học thuộc câu trả lời.\n• Khi chuyển từ chủ đề tiền bạc sang sức khỏe, hãy thay đổi ý tưởng rõ ràng để tránh bị lặp.\n• Sự lưu loát và tự tin quan trọng hơn việc dùng quá nhiều từ vựng phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYou are going to celebrate your birthday and are considering three options for the party.\nYou are considering the following options:\n• Option 1: Having a big party with many people\n• Option 2: Having a small gathering with only close friends and family\n• Option 3: Celebrating alone\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn lựa chọn cách tổ chức sinh nhật phù hợp nhất trong ba phương án.\n• Bạn cần phân tích ưu và nhược điểm của cả ba lựa chọn trước khi đưa ra quyết định cuối cùng.\n• Giám khảo đánh giá khả năng lập luận, so sánh và diễn đạt quan điểm cá nhân.\n• Thời gian khoảng 4 phút nên bạn cần nói ngắn gọn nhưng đủ ý.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc State opinion -> Give reasons -> Compare -> Conclude để trình bày rõ ràng.\n• Option 1 có ưu điểm là vui vẻ và náo nhiệt nhưng có thể tốn kém và khó quản lý.\n• Option 2 tạo không khí ấm cúng, thân mật và giúp tiết kiệm chi phí hơn.\n• Option 3 phù hợp với người thích sự riêng tư nhưng có thể khiến ngày sinh nhật trở nên buồn chán.\n• Hãy liên hệ với trải nghiệm cá nhân hoặc văn hóa tổ chức sinh nhật của người trẻ.\n• Dùng từ nối đối lập như however hoặc on the contrary để chuyển ý logic hơn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ hoàn toàn.\n• Dùng hiện tại đơn để nói quan điểm chung và câu điều kiện khi nói kết quả của từng lựa chọn.\n• Nếu quên từ vựng, hãy paraphrase bằng các cụm đơn giản hơn như big celebration hoặc private event.\nCụm từ quan trọng nên dùng:\n• create unforgettable memories – tạo ra những kỷ niệm khó quên\n• spend quality time with loved ones – dành thời gian chất lượng với người thân\n• cost a significant amount of money – tốn khá nhiều tiền\n• enjoy a peaceful atmosphere – tận hưởng không khí yên bình\n• strengthen relationships with friends and family – tăng cường mối quan hệ với bạn bè và gia đình\n• organize a meaningful celebration – tổ chức một buổi tiệc ý nghĩa\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• On the other hand – mặt khác\n• Moreover – hơn nữa\n• In contrast – trái lại\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I personally prefer a small gathering because it feels warmer and more meaningful. – Cá nhân tôi thích buổi gặp mặt\nnhỏ vì nó ấm cúng và ý nghĩa hơn.\n• Compared to a huge party, a private celebration is less stressful and more affordable. – So với tiệc lớn, buổi tiệc riêng\ntư ít áp lực và tiết kiệm hơn.\n• In my opinion, celebrating alone is not a bad idea if someone wants to relax. – Theo tôi, ăn mừng một mình không\nhẳn là ý tưởng tệ nếu ai đó muốn thư giãn.\n4. Các lỗi thường gặp:\n• Nhiều bạn chỉ tập trung nói về lựa chọn mình thích mà quên phân tích hai lựa chọn còn lại.\n• Lặp lại từ good hoặc fun quá nhiều thay vì dùng enjoyable, memorable hoặc relaxing.\n• Kết luận không rõ ràng nên bài nói thiếu tính thuyết phục.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng, hãy chuyển sang nói về chi phí, cảm xúc hoặc thời gian tổ chức.\n• Bạn có thể dùng câu: Let's look at this option from another perspective để kéo dài thời gian suy nghĩ.\n• Nếu bị bí ở một lựa chọn, hãy chuyển sang lựa chọn khác rồi quay lại sau.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người đưa ra quyết định thực tế và phù hợp với hoàn cảnh.\n• Ngay cả với lựa chọn tốt nhất, bạn vẫn nên đề cập một vài hạn chế để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: Factors to consider when choosing a job\nSalary and benefits\nWorking environment\nChoosing a Job\nÝ tưởng của bạn\nCareer promotion opportunities\nFOLLOW-UP QUESTIONS\n1.\nIs salary the most important factor when choosing a job? Why?\n2.\nDo you prefer working for a big company or a small start-up?\n3.\nShould young people change jobs frequently to gain more experience?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về những yếu tố quan trọng khi lựa chọn công việc.\n• Sơ đồ tư duy gồm 3 ý chính: lương và phúc lợi, môi trường làm việc và cơ hội thăng tiến.\n• Nhánh ý tưởng cá nhân có thể là work-life balance hoặc job satisfaction.\n• Giám khảo đánh giá khả năng phát triển ý, dùng ví dụ và trả lời câu hỏi follow-up.\n• Thời gian khoảng 5 phút, nên dành khoảng 3 phút cho bài nói chính và phần còn lại cho hỏi đáp.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để triển khai từng ý trong mindmap.\n• Ví dụ 1: Today, I would like to talk about several important factors people should consider when choosing a job.\n• Ví dụ 2: Another important factor is work-life balance because employees need time for family and relaxation.\n• Hãy đưa ví dụ thực tế như kinh nghiệm làm part-time hoặc quan sát từ người thân.\n• Luôn đi theo thứ tự của mindmap để tránh lặp ý và giữ bài nói logic.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng câu chuyển ý như Moving on to the next factor hoặc Another thing worth mentioning is.\n• Dùng hiện tại đơn để nói sự thật chung và hiện tại hoàn thành khi nói về thay đổi trong thị trường lao động.\n• Có thể paraphrase job bằng career, occupation hoặc profession.\nCụm từ quan trọng nên dùng:\n• competitive salary and attractive benefits – mức lương cạnh tranh và phúc lợi hấp dẫn\n• positive working environment – môi trường làm việc tích cực\n• opportunities for professional development – cơ hội phát triển nghề nghiệp\n• achieve a healthy work-life balance – đạt được cân bằng giữa công việc và cuộc sống\n• gain valuable working experience – tích lũy kinh nghiệm làm việc quý giá\n• long-term career prospects – triển vọng nghề nghiệp lâu dài\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• In addition – thêm vào đó\n• For example – ví dụ\n• As a result – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, salary is important but it should not be the only factor. – Theo tôi, lương quan trọng nhưng không nên\nlà yếu tố duy nhất.\n• I personally prefer a friendly working environment because it reduces stress. – Cá nhân tôi thích môi trường làm việc\nthân thiện vì nó giúp giảm áp lực.\n• From my perspective, young people should choose jobs that help them grow professionally. – Theo quan điểm của\ntôi, người trẻ nên chọn công việc giúp họ phát triển nghề nghiệp.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Is salary the most important factor? – Salary is important, but working environment and job satisfaction also matter\na lot.\n• Do you prefer a big company or a small start-up? – I prefer a big company because it offers more training\nopportunities and stability.\n• Should young people change jobs frequently? – Changing jobs can help people gain experience, but changing too\noften may reduce stability.\n5. Các lỗi thường gặp:\n• Nhiều bạn chỉ liệt kê yếu tố mà không giải thích hoặc cho ví dụ minh họa.\n• Quên phát triển nhánh ý tưởng cá nhân nên bài nói thiếu chiều sâu.\n• Nói quá dài ở phần main speech khiến không còn thời gian trả lời follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với kinh nghiệm học tập hoặc định hướng nghề nghiệp cá nhân.\n• Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a long-term perspective để có thêm thời gian\nsuy nghĩ.\n• Nếu quên từ chuyên ngành, hãy dùng cách diễn đạt đơn giản hơn.\n7. Tư duy làm bài nói:\n• Hãy suy nghĩ từ góc nhìn của người lao động hiện đại và nhà tuyển dụng.\n• Tính logic và sự liên kết giữa các ý là yếu tố rất quan trọng để đạt điểm cao.\n• Đừng cố dùng từ quá học thuật nếu bạn không chắc cách phát âm hoặc cách dùng."
+}

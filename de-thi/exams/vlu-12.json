@@ -1,0 +1,717 @@
+{
+ "id": "vlu-12",
+ "number": 12,
+ "title": "Đề thi VLU 12",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-12",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Healthy Habits for a Better Life",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Many people say they want a healthier life, but they are not sure where to begin. Because the advice is so simple, anyone can start today without special equipment, a large budget, or help from a professional trainer. Doctors agree that a few simple habits, practised every day, can protect the body and mind better than any expensive medicine or fashionable diet that appears in advertisements. This essay looks at four of these habits and explains why they matter for students, workers, and families alike.",
+     "A balanced diet is the foundation of good health for people of all ages. Experts recommend eating plenty of fresh vegetables, fruit, and whole grains, which are more **nutritious** than fast food and sweet snacks. Cooking at home helps people control how much salt, sugar, and oil goes into each meal, and it usually costs less than eating in restaurants every evening. Drinking enough water is just as important, because the body needs it to digest food and keep a steady temperature. Eating at a calm pace and stopping when full also prevents people from consuming more food than they need.",
+     "Regular exercise does not have to mean joining an expensive gym or a sports club. Walking to school, climbing stairs, and cycling with friends are simple activities that raise the heart rate and strengthen the muscles. Unfortunately, many students spend long hours sitting at desks and looking at screens, and doctors warn that **this** habit can lead to back pain, weight gain, and tiredness. Even short walks after meals can improve digestion and lift the mood on difficult days. Adults should aim for about thirty minutes of movement on most days, while children need considerably more.",
+     "Sleep is the healthy habit that busy people most often ignore when life becomes stressful. Teenagers need eight to ten hours each night, yet many go to bed late because they are watching videos or chatting online. Good sleep also strengthens the immune system, so students who rest well catch fewer colds during the school year. A tired brain finds it hard to remember lessons, control emotions, and make good decisions. Experts suggest turning off phones an hour before bed, keeping the bedroom dark and cool, and waking up at the same time every day, even at weekends.",
+     "Finally, new habits are much easier to keep when people change their lives **gradually**. Trying to transform everything in one week usually ends in failure and disappointment. It is better to choose one small goal, such as drinking a glass of water after waking up, and repeat it until it feels natural. Friends and family can help by joining in or offering encouragement, and keeping a simple diary lets people see their progress and feel proud. With patience, these small steps add up to a healthier and happier life for everyone."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Why expensive gyms are better than walking",
+       "B": "How teenagers can earn money from competitions",
+       "C": "Simple daily habits that improve health and happiness",
+       "D": "Why schools should ban fast food completely"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why is cooking at home recommended?",
+      "options": {
+       "A": "People control ingredients and spend less money",
+       "B": "Restaurants are not allowed to sell healthy meals",
+       "C": "Fresh vegetables cannot be bought in any shops",
+       "D": "It costs much more than eating out daily"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"cooking at home\" ở đoạn 2 để xác định lợi ích về việc chủ động kiểm soát nguyên liệu và tiết kiệm chi phí hơn so với việc ăn ngoài hàng quán."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"nutritious\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "cheap and quick",
+       "B": "sour and salty",
+       "C": "freshly imported",
+       "D": "good for health"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"nutritious\" ở đoạn 2 được đặt lên bàn cân đối chiếu trực tiếp với thức ăn nhanh và đồ ăn vặt ngọt, dùng để chỉ nhóm thực phẩm có lợi cho cơ thể."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, what is one result of sitting for too long?",
+      "options": {
+       "A": "Students feel more energetic in morning lessons",
+       "B": "Back pain, extra weight, and constant tiredness",
+       "C": "Higher marks in examinations at their school",
+       "D": "Doctors advise using screens instead of homework"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"sitting\" hoặc \"screens\" ở đoạn 3 để nhận diện hệ quả tiêu cực của việc ngồi học hoặc làm việc quá lâu trước màn hình đối với cơ thể."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"gradually\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "suddenly",
+       "B": "secretly",
+       "C": "slowly",
+       "D": "loudly"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"gradually\" ở đoạn 5 nằm trong ngữ cảnh miêu tả việc thay đổi lối sống từng chút một, tránh thay đổi toàn bộ mọi thứ chỉ trong một tuần để không dẫn đến thất bại."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"this\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Spending hours sitting down",
+       "B": "Joining an expensive gym",
+       "C": "Walking to school daily",
+       "D": "Climbing many stairs"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ chỉ định \"this\" ở câu thứ hai của đoạn 3. Hãy đọc lùi lại câu ngay trước đó để tìm danh từ chỉ hành động đang được nhắc đến (việc học sinh ngồi lâu bên bàn và nhìn vào màn hình)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, why do many teenagers go to bed late?",
+      "options": {
+       "A": "Their parents work late at night shifts",
+       "B": "Schools start lessons very late each morning",
+       "C": "They drink too much water before bedtime",
+       "D": "Teenagers watch videos and chat online"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm từ khóa \"go to bed late\" hoặc \"teenagers\" ở đoạn 4 nhằm tìm nguyên nhân khiến giới trẻ thường xuyên ngủ muộn vào ban đêm."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT suggested for better sleep?",
+      "options": {
+       "A": "Keeping the bedroom dark and cool",
+       "B": "Watching videos in bed until midnight",
+       "C": "Waking up at the same time daily",
+       "D": "Switching off phones an hour earlier"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng lựa chọn với các biện pháp cải thiện giấc ngủ được đề cập tại đoạn 4 (tắt điện thoại trước một giờ, giữ phòng tối và mát, thức dậy đúng giờ), từ đó loại bỏ phương án trái ngược hoàn toàn với lời khuyên của chuyên gia."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about the writer's view of healthy living?",
+      "options": {
+       "A": "Small habits matter more than dramatic changes",
+       "B": "Only wealthy people can afford a healthy lifestyle",
+       "C": "Medicine works faster than any daily habit",
+       "D": "Gyms are necessary for anyone wanting fitness"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ toàn bộ bài viết, đặc biệt là đoạn cuối về việc thay đổi từng bước nhỏ và tránh ôm đồm mọi thứ trong thời gian ngắn, để suy ra quan điểm chủ đạo của tác giả về lối sống lành mạnh."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To advertise an expensive gym near the school",
+       "B": "To explain how doctors treat serious diseases",
+       "C": "To encourage readers to adopt simple healthy routines",
+       "D": "To compare diets popular in different countries Reading"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R1Q1, R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn: đoạn 1 mở đầu bằng việc giới thiệu các thói quen đơn giản để cải thiện sức khỏe thể chất lẫn tinh thần; các đoạn tiếp theo lần lượt phân tích chi tiết về dinh dưỡng, vận động, giấc ngủ và cách duy trì thói quen từng bước. Do đó, phương án đúng phải bao quát được thông điệp khuyến khích mọi người áp dụng các thói quen lành mạnh mỗi ngày mà không bị giới hạn trong các giải pháp đắt đỏ.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R1Q2**, tìm từ khóa \"cooking at home\" ở đoạn 2 để xác định lợi ích về việc chủ động kiểm soát nguyên liệu và tiết kiệm chi phí hơn so với việc ăn ngoài hàng quán.\n  - Với **R1Q4**, quét từ khóa \"sitting\" hoặc \"screens\" ở đoạn 3 để nhận diện hệ quả tiêu cực của việc ngồi học hoặc làm việc quá lâu trước màn hình đối với cơ thể.\n  - Với **R1Q7**, tìm kiếm từ khóa \"go to bed late\" hoặc \"teenagers\" ở đoạn 4 nhằm tìm nguyên nhân khiến giới trẻ thường xuyên ngủ muộn vào ban đêm.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"nutritious\"** ở đoạn 2 được đặt lên bàn cân đối chiếu trực tiếp với thức ăn nhanh và đồ ăn vặt ngọt, dùng để chỉ nhóm thực phẩm có lợi cho cơ thể.\n  - Với **R1Q5**, từ **\"gradually\"** ở đoạn 5 nằm trong ngữ cảnh miêu tả việc thay đổi lối sống từng chút một, tránh thay đổi toàn bộ mọi thứ chỉ trong một tuần để không dẫn đến thất bại.\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ chỉ định **\"this\"** ở câu thứ hai của đoạn 3. Hãy đọc lùi lại câu ngay trước đó để tìm danh từ chỉ hành động đang được nhắc đến (việc học sinh ngồi lâu bên bàn và nhìn vào màn hình).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối chiếu từng lựa chọn với các biện pháp cải thiện giấc ngủ được đề cập tại đoạn 4 (tắt điện thoại trước một giờ, giữ phòng tối và mát, thức dậy đúng giờ), từ đó loại bỏ phương án trái ngược hoàn toàn với lời khuyên của chuyên gia.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ toàn bộ bài viết, đặc biệt là đoạn cuối về việc thay đổi từng bước nhỏ và tránh ôm đồm mọi thứ trong thời gian ngắn, để suy ra quan điểm chủ đạo của tác giả về lối sống lành mạnh.\nLời khuyên: Hãy bắt đầu bằng việc giải quyết nhanh các câu hỏi từ vựng (R1Q3, R1Q5) và quy chiếu (R1Q6). Sau đó, dùng kỹ thuật đọc quét để xử lý các câu chi tiết (R1Q2, R1Q4, R1Q7, R1Q8) trước khi tổng hợp thông tin để trả lời câu hỏi ý chính, suy luận và mục đích bài viết (R1Q1, R1Q9, R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Vietnam's Shifting Demographics and Population Policies",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Vietnam's population, now close to one hundred million, has grown more than threefold since the mid-twentieth century, but the pace and composition of that growth are changing rapidly. After decades of concern about overpopulation, policymakers now face the opposite problem. Many analysts fear that the country may grow old before it grows rich. Understanding these trends helps explain many of the economic and social debates now taking place across the country.",
+     "The roots of this transition lie in policies introduced during the 1960s and 1980s. Family planning campaigns encouraged couples to have fewer children, and in 1988 the government promoted a limit of one or two children per family, backed by incentives and penalties. Together with urbanisation, rising female education, and the cost of raising children in cities, these measures helped fertility fall from about six births per woman in the 1960s to roughly two by the 2000s.",
+     "Fertility has now fallen below the replacement level of roughly 2.1 children per woman, and the decline has been steepest in big cities such as Ho Chi Minh City. Young adults cite expensive housing, long working hours, and the pressure of education costs as reasons for delaying marriage or having only one child. Official figures suggest the national rate is around 1.9, although regional differences remain large.",
+     "In response, the government abolished its long-standing two-child guideline in 2025, signalling a decisive shift from limiting births to encouraging them. Local authorities have experimented with cash bonuses, longer maternity leave, and housing support for larger families. Yet international experience shows that financial incentives alone seldom reverse falling fertility, because the underlying causes are deeply entrenched in economic and cultural change that policy alone cannot easily undo.",
+     "Meanwhile, the share of citizens aged sixty-five and over is rising quickly. Demographers expect Vietnam to move from an ageing society to an aged society within roughly a decade and a half, a transition that took France well over a century. This **compressed** timeline leaves little room for gradual adjustment to pensions, healthcare, and elderly care. Because many informal workers have no pension, numerous older people still rely on their children, and that tradition is weakening as families become smaller.",
+     "A further concern is the imbalance in the sex ratio at birth, **which** has exceeded the natural level of about 105 boys per 100 girls for more than a decade. Preference for sons, combined with prenatal sex selection, has contributed to this pattern. Banning the practice has proved difficult to enforce. If the imbalance persists, it could eventually leave a generation of men unable to find partners, with consequences for family stability and social cohesion.",
+     "Policymakers therefore face a delicate balance between supporting families and protecting public finances. Raising the retirement age, strengthening pension coverage, investing in childcare and affordable housing, and improving productivity through education may mitigate the effects of an ageing workforce, but none offers a quick solution. Vietnam still enjoys a favourable window in which working-age adults outnumber dependants, yet that window is expected to close within a few decades, making early and coordinated action essential."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Vietnam's falling fertility and ageing population demand new responses",
+       "B": "Vietnam's rapid economic growth has eliminated every demographic problem",
+       "C": "Strict birth limits remain the best solution for Vietnam's future",
+       "D": "Emigration is the main cause of population change in Vietnam"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, which factor helped fertility fall alongside family planning campaigns?",
+      "options": {
+       "A": "Mass emigration of young couples to other countries",
+       "B": "Widespread food shortages in the years after 1988",
+       "C": "Urbanisation and the high cost of childrearing",
+       "D": "Religious rules that forbid couples from marrying early"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"family planning\" hoặc đọc đoạn 2 để xác định các yếu tố đi kèm làm giảm mức sinh gồm đô thị hóa, chi phí nuôi con tăng và trình độ học vấn của phụ nữ."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"entrenched\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "recently discovered",
+       "B": "firmly established",
+       "C": "widely criticised",
+       "D": "easily reversed"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"entrenched\" ở đoạn 4 đi liền với sự thay đổi về kinh tế và văn hóa mà chính sách đơn lẻ khó mà giải quyết ngay được, thể hiện sự bám rễ sâu chắc, vững chắc (firmly established)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why might cash incentives fail to raise birth rates?",
+      "options": {
+       "A": "Families refuse to accept money from local authorities",
+       "B": "Maternity leave is already longer than anywhere else",
+       "C": "Housing support is unavailable outside the largest cities",
+       "D": "Fertility decline stems from deep economic and cultural causes"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 15,
+      "stem": "The word \"compressed\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "shortened",
+       "B": "stretched",
+       "C": "postponed",
+       "D": "unchanged"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"compressed\" ở đoạn 5 mô tả khoảng thời gian quá trình chuyển đổi xã hội già hóa diễn ra cực kỳ nhanh chóng (trong vòng khoảng một thập kỷ rưỡi so với phương Tây), mang nghĩa được rút ngắn lại (shortened)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "The natural level",
+       "B": "Prenatal sex selection",
+       "C": "The birth sex ratio",
+       "D": "Preference for sons"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"which\" ở đầu câu chứa mệnh đề quan hệ trong đoạn 6. Hãy đọc lùi lại danh từ đi ngay trước nó để tìm đối tượng đang vượt mức tự nhiên 105 bé trai/100 bé gái (tỷ số giới tính khi sinh - the birth sex ratio)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what has contributed to the imbalance in births?",
+      "options": {
+       "A": "Strict limits on the number of hospital beds",
+       "B": "Rising numbers of young women working abroad",
+       "C": "A shortage of trained midwives in rural areas",
+       "D": "Preference for sons together with sex selection"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm từ khóa \"imbalance in the sex ratio\" hoặc \"paragraph 6\" để xác định sự kết hợp giữa tư tưởng thích con trai và việc lựa chọn giới tính trước sinh."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a possible measure?",
+      "options": {
+       "A": "Raising the retirement age for older workers",
+       "B": "Importing foreign workers on permanent contracts",
+       "C": "Investing in childcare and more affordable housing",
+       "D": "Improving national productivity through better education"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu từng lựa chọn với các biện pháp được đề cập tại đoạn 7 (tăng tuổi nghỉ hưu, đầu tư vào chăm sóc trẻ em và nhà ở giá rẻ, nâng cao năng suất qua giáo dục), từ đó loại bỏ phương án không hề xuất hiện trong bài."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3, 4, and 5 about Vietnam's demographic future?",
+      "options": {
+       "A": "Rising incomes will soon restore fertility to replacement levels",
+       "B": "Large cities will become younger as villages empty",
+       "C": "Ageing will probably continue despite new pro-birth measures",
+       "D": "Pensions will become unnecessary as families grow larger"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 5 về việc các chính sách khuyến sinh mới khó lòng đảo ngược ngay lập tức xu hướng dân số, từ đó suy ra quá trình già hóa dân số sẽ vẫn tiếp tục diễn ra trong thời gian tới."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To examine how demographic change is reshaping Vietnam",
+       "B": "To argue that Vietnam should restore strict birth limits",
+       "C": "To compare Vietnam's fertility rates with those of France",
+       "D": "To explain why housing prices rose across Hanoi Reading"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R2Q1, R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn: đoạn 1 đề cập đến sự thay đổi tốc độ và thành phần dân số Việt Nam với thách thức mức sinh thấp và già hóa; các đoạn tiếp theo phân tích nguyên nhân giảm sinh, chính sách mới, tốc độ già hóa cấp tốc, mất cân bằng giới tính khi sinh và các giải pháp chính sách. Do đó, phương án đúng phải bao quát được bức tranh tổng thể về xu hướng biến động dân số và những thách thức đặt ra cho Việt Nam.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R2Q2**, tìm từ khóa \"family planning\" hoặc đọc đoạn 2 để xác định các yếu tố đi kèm làm giảm mức sinh gồm đô thị hóa, chi phí nuôi con tăng và trình độ học vấn của phụ nữ.\n  - With **R2Q4**, quét từ khóa \"cash incentives\" hoặc \"financial incentives\" ở đoạn 4 để hiểu nguyên nhân tại sao tiền hỗ trợ tài chính khó có thể đảo ngược tình trạng giảm sinh (do nguyên nhân bắt nguồn sâu xa từ kinh tế và văn hóa).\n  - Với **R2Q7**, tìm kiếm từ khóa \"imbalance in the sex ratio\" hoặc \"paragraph 6\" để xác định sự kết hợp giữa tư tưởng thích con trai và việc lựa chọn giới tính trước sinh.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"entrenched\"** ở đoạn 4 đi liền với sự thay đổi về kinh tế và văn hóa mà chính sách đơn lẻ khó mà giải quyết ngay được, thể hiện sự bám rễ sâu chắc, vững chắc (firmly established).\n  - Với **R2Q5**, từ **\"compressed\"** ở đoạn 5 mô tả khoảng thời gian quá trình chuyển đổi xã hội già hóa diễn ra cực kỳ nhanh chóng (trong vòng khoảng một thập kỷ rưỡi so với phương Tây), mang nghĩa được rút ngắn lại (shortened).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ quan hệ **\"which\"** ở đầu câu chứa mệnh đề quan hệ trong đoạn 6. Hãy đọc lùi lại danh từ đi ngay trước nó để tìm đối tượng đang vượt mức tự nhiên 105 bé trai/100 bé gái (tỷ số giới tính khi sinh - the birth sex ratio).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối chiếu từng lựa chọn với các biện pháp được đề cập tại đoạn 7 (tăng tuổi nghỉ hưu, đầu tư vào chăm sóc trẻ em và nhà ở giá rẻ, nâng cao năng suất qua giáo dục), từ đó loại bỏ phương án không hề xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 5 về việc các chính sách khuyến sinh mới khó lòng đảo ngược ngay lập tức xu hướng dân số, từ đó suy ra quá trình già hóa dân số sẽ vẫn tiếp tục diễn ra trong thời gian tới.\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi từ vựng (R2Q3, R2Q5) và quy chiếu (R2Q6) trước vì vị trí thông tin rất rõ ràng. Tiếp theo, áp dụng kỹ năng đọc quét để làm các câu hỏi chi tiết (R2Q2, R2Q4, R2Q7, R2Q8). Cuối cùng, kết nối toàn bộ nội dung các đoạn để xử lý các câu hỏi mang tính tổng hợp, suy luận và ý chính (R2Q1, R2Q9, R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Essential Qualities of Effective Leadership",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Leadership is often imagined as a gift possessed by a few charismatic individuals, yet research suggests it is better understood as a set of skills that can be developed through practice and reflection. Organisations that treat it as **innate** tend to overlook talented people who do not fit the stereotype. This essay examines the qualities that distinguish effective leaders in modern workplaces.",
+     "Communication is the quality that employees most frequently mention when describing leaders they admire. Effective leaders explain not only what must be done but why it matters, translating abstract strategy into concrete goals that individuals can understand and pursue. They also listen attentively, recognising that feedback from colleagues often reveals problems before they become costly. Clear and honest messages further reduce rumours, which tend to spread quickly when people feel uninformed.",
+     "Emotional intelligence, the capacity to recognise and manage one's own feelings and those of others, is another essential quality. [1] Leaders who lack it often misread the mood of their teams, responding to stress with criticism rather than support. **[2]** Empathetic leaders, by contrast, notice when colleagues are overwhelmed and adjust expectations accordingly. **[3]** This responsiveness builds trust, which in turn encourages employees to admit mistakes and propose unconventional ideas. **[4]** Such openness is valuable because errors that are hidden cannot be corrected, whereas those discussed early can usually be solved before customers or colleagues suffer the consequences.",
+     "Decisiveness under uncertainty separates strong leaders from merely competent managers. Rarely do executives possess complete information, and waiting for certainty can be as damaging as acting rashly. Effective leaders therefore gather evidence quickly, consult those with relevant expertise, and commit to a course of action while remaining willing to revise it when new evidence emerges. They also accept responsibility for outcomes instead of attributing failure to circumstances beyond their control.",
+     "Humility, though less celebrated than charisma, is increasingly regarded as a defining trait of effective leaders. Junior employees often notice flaws that senior managers miss because **they** work closest to the daily problems, and leaders who dismiss such observations forfeit valuable information. Humble leaders credit others for success, admit their own limitations, and seek advice from people with complementary strengths. Far from signalling weakness, this willingness to learn makes teams more innovative and cohesive.",
+     "Because these qualities can be learned, organisations should **cultivate** them deliberately rather than leave them to chance. Mentoring programmes, rotating assignments, and structured feedback allow aspiring leaders to practise skills in realistic settings and to learn from mistakes without damaging the organisation. Evidence from several large companies suggests that firms investing in such development retain staff longer and fill senior vacancies from within more often. However, development works only when senior executives model the behaviours they expect from others.",
+     "Effective leadership therefore rests on several qualities rather than on any single trait. Because contexts differ, no formula can guarantee success, and leaders must continually adapt their approach to the people and circumstances they face. Organisations that recognise this are better placed to identify talent early, to support it patiently, and to build cultures in which authority is earned through example instead of being assumed through position."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Charismatic personalities are the only reliable predictor of managerial success",
+       "B": "Effective leadership depends on learnable qualities including empathy, decisiveness, and humility",
+       "C": "Organisations should replace formal training with rigid rules for managers",
+       "D": "Small firms retain staff longer than large companies everywhere"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why do effective leaders listen attentively?",
+      "options": {
+       "A": "Attentive leaders can avoid giving any instructions to their teams",
+       "B": "Employees refuse to cooperate with managers who rarely ask questions",
+       "C": "Listening shortens meetings and therefore lowers the cost of salaries",
+       "D": "Colleague feedback can expose problems before they become costly"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"listen attentively\" ở đoạn 2 để xác định lợi ích giúp nhận diện vấn đề từ đồng nghiệp trước khi chúng trở nên tốn kém."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"innate\" in paragraph 1 is closest in meaning to _______.",
+      "options": {
+       "A": "inborn",
+       "B": "borrowed",
+       "C": "imaginary",
+       "D": "occasional"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"innate\" ở đoạn 1 được đặt trong vế đối lập với việc rèn luyện qua thực tiễn, chỉ bản chất bẩm sinh, có sẵn từ khi sinh ra (inborn)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Workloads may be redistributed, deadlines extended, or support offered before exhaustion damages performance.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc vị trí [3] trong đoạn 3. Câu điền thêm miêu tả cụ thể về việc phân bổ lại khối lượng công việc, gia hạn deadline hoặc đưa ra sự hỗ trợ trước khi tình trạng kiệt sức ảnh hưởng đến hiệu suất. Vị trí này nối tiếp hoàn hảo ngay sau câu miêu tả nhà lãnh đạo thấu cảm nhận ra khi đồng nghiệp đang quá tải và điều chỉnh kỳ vọng tương ứng."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, why is waiting for certainty risky?",
+      "options": {
+       "A": "Executives rarely possess any information about their competitors",
+       "B": "Delay may cause as much harm as hasty action",
+       "C": "Evidence collected quickly is always less reliable than slow research",
+       "D": "Leaders who consult experts lose the respect of staff"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"waiting for certainty\" ở đoạn 4 để thấy sự chần chừ, đợi chờ sự chắc chắn tuyệt đối có thể gây ra thiệt hại ngang bằng với hành động vội vàng."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"they\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Senior managers",
+       "B": "Humble leaders",
+       "C": "Daily problems",
+       "D": "Junior employees"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng \"they\" ở đầu câu thứ hai trong đoạn 5. Đọc lùi lại câu trước để tìm danh từ chỉ nhóm người làm việc gần gũi nhất với các vấn đề hàng ngày (nhân viên cấp dưới - junior employees)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"cultivate\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "dismiss entirely",
+       "B": "reward publicly",
+       "C": "develop deliberately",
+       "D": "imitate exactly"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"cultivate\" ở đoạn 6 chỉ hành động bồi dưỡng, thúc đẩy các phẩm chất lãnh đạo một cách có chủ đích (develop deliberately) thay vì để phó mặc tự nhiên."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to develop leaders?",
+      "options": {
+       "A": "Compulsory overseas relocation for every manager",
+       "B": "Mentoring programmes that pair novices with experienced leaders",
+       "C": "Rotating assignments that expose staff to different departments",
+       "D": "Structured feedback that helps aspiring leaders improve"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các phương án với danh sách giải pháp phát triển lãnh đạo tại đoạn 6 (chương trình cố vấn, luân chuyển công việc, phản hồi cấu trúc), từ đó loại trừ lựa chọn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 3, 5, and 6 about leaders who ignore their teams' perspectives?",
+      "options": {
+       "A": "They usually gain authority because teams then work without questioning",
+       "B": "Their companies tend to promote more staff from within",
+       "C": "Their teams generally become more innovative under tighter control",
+       "D": "They probably lose useful information and undermine learning within the organisation"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc phớt lờ góc nhìn hoặc quan điểm của cấp dưới sẽ khiến nhà lãnh đạo bỏ lỡ thông tin quý giá và cản trở quá trình học hỏi, đổi mới trong tổ chức. Lời khuyên: Hãy ưu tiên làm trước các câu hỏi từ vựng (R3Q3, R3Q7), quy chiếu (R3Q6) và điền câu (R3Q4) vì có thể xác định đáp án rất nhanh. Sau đó, dùng kỹ thuật đọc quét để giải quyết các câu hỏi chi tiết (R3Q2, R3Q5, R3Q8) trước khi hoàn thành các câu hỏi tổng hợp và ý chính (R3Q1, R3Q9, R3Q10)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To criticise companies that promote employees without formal qualifications",
+       "B": "To show that leadership qualities can be deliberately developed",
+       "C": "To compare leadership styles used in different countries and cultures",
+       "D": "To recommend that firms hire only experienced executives from abroad Reading"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật chi tiết sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R3Q1, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc phần mở đầu và kết bài để nắm bắt luận điểm trung tâm: lãnh đạo không chỉ là năng lực bẩm sinh (charismatic gift) mà là bộ kỹ năng có thể học hỏi và rèn luyện thông qua thực tế, bao gồm giao tiếp, trí tuệ cảm xúc, sự quyết đoán và sự khiêm tốn. Do đó, phương án đúng phải phản ánh đúng tinh thần tôn vinh các phẩm chất có thể trau dồi này.\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R3Q2**, tìm từ khóa \"listen attentively\" ở đoạn 2 để xác định lợi ích giúp nhận diện vấn đề từ đồng nghiệp trước khi chúng trở nên tốn kém.\n  - Với **R3Q5**, quét từ khóa \"waiting for certainty\" ở đoạn 4 để thấy sự chần chừ, đợi chờ sự chắc chắn tuyệt đối có thể gây ra thiệt hại ngang bằng với hành động vội vàng.\n  - Với **R3Q8**, đối chiếu các phương án với danh sách giải pháp phát triển lãnh đạo tại đoạn 6 (chương trình cố vấn, luân chuyển công việc, phản hồi cấu trúc), từ đó loại trừ lựa chọn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"innate\"** ở đoạn 1 được đặt trong vế đối lập với việc rèn luyện qua thực tiễn, chỉ bản chất bẩm sinh, có sẵn từ khi sinh ra (inborn).\n  - Với **R3Q7**, từ **\"cultivate\"** ở đoạn 6 chỉ hành động bồi dưỡng, thúc đẩy các phẩm chất lãnh đạo một cách có chủ đích (develop deliberately) thay vì để phó mặc tự nhiên.\n- **Dạng câu hỏi Điền câu vào đoạn văn (R3Q4):** Đọc vị trí **[3]** trong đoạn 3. Câu điền thêm miêu tả cụ thể về việc phân bổ lại khối lượng công việc, gia hạn deadline hoặc đưa ra sự hỗ trợ trước khi tình trạng kiệt sức ảnh hưởng đến hiệu suất. Vị trí này nối tiếp hoàn hảo ngay sau câu miêu tả nhà lãnh đạo thấu cảm nhận ra khi đồng nghiệp đang quá tải và điều chỉnh kỳ vọng tương ứng.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ nhân xưng **\"they\"** ở đầu câu thứ hai trong đoạn 5. Đọc lùi lại câu trước để tìm danh từ chỉ nhóm người làm việc gần gũi nhất với các vấn đề hàng ngày (nhân viên cấp dưới - junior employees).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 3, 5 và 6 về việc phớt lờ góc nhìn hoặc quan điểm của cấp dưới sẽ khiến nhà lãnh đạo bỏ lỡ thông tin quý giá và cản trở quá trình học hỏi, đổi mới trong tổ chức. Lời khuyên: Hãy ưu tiên làm trước các câu hỏi từ vựng (R3Q3, R3Q7), quy chiếu (R3Q6) và điền câu (R3Q4) vì có thể xác định đáp án rất nhanh. Sau đó, dùng kỹ thuật đọc quét để giải quyết các câu hỏi chi tiết (R3Q2, R3Q5, R3Q8) trước khi hoàn thành các câu hỏi tổng hợp và ý chính (R3Q1, R3Q9, R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Precision Agriculture: The Rise of Fruit-Picking Robots",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Fruit harvesting remains one of the last agricultural tasks that depends overwhelmingly on human hands. Cereals and processing tomatoes have long been harvested by machines, but delicate fruit that bruises easily, ripens unevenly, and hides among foliage has resisted mechanisation. As farms struggle to recruit seasonal workers, engineers are developing robots designed to pick such crops with a gentleness and judgement once thought impossible for machines.",
+     "A typical harvesting robot combines three technologies that must work together smoothly in an unpredictable orchard. Cameras and machine-learning software first locate fruit and estimate ripeness from colour, size, and sometimes reflected infrared light. A robotic arm then plans a path that avoids branches, and a soft gripper, often made of flexible silicone fingers, **detaches** the fruit with a twisting or cutting motion. Each stage must operate within seconds, because a machine that picks more slowly than a worker offers little economic advantage.",
+     "Orchards, however, are far less predictable than factories, and their unpredictability shapes every design decision. **[1]** Leaves frequently hide fruit from cameras, and branches sway in the wind, forcing the robot to recalculate its movements continuously. **[2]** Lighting changes with the weather and the time of day, which can confuse software trained under different conditions. **[3]** Fruit also varies enormously in size and shape, so a gripper that handles one variety safely may crush another, and even fruit on a single tree ripens at different rates. **[4]** Engineers have therefore turned to adaptive algorithms that learn from thousands of previous attempts.",
+     "The economic case for harvesting robots rests largely on the growing shortage of labour. In many fruit-growing regions, ageing workforces, tighter immigration rules, and competition from other industries have made seasonal labour scarce and expensive, and crops left unpicked can represent a substantial share of potential revenue. Robots can in principle work through the night and in conditions unpleasant for people, yet their purchase and maintenance costs remain high. Most analysts therefore expect early adoption among high-value crops such as strawberries and apples, where each piece of fruit justifies a considerable investment.",
+     "Harvesting is only one element of precision agriculture, an approach that uses sensors, satellites, and data analysis to manage each part of a farm according to its actual needs. Robots that pick fruit also gather information, recording the position, size, and ripeness of every piece they encounter. This data allows growers to forecast yields, schedule labour, and identify trees that need extra water or nutrients, which reduces waste of both resources and money. Some researchers even envisage orchards in which swarms of small drones pick fruit while larger machines transport the crates.",
+     "The spread of harvesting robots raises social questions that technology alone cannot answer. Many seasonal workers, for **whom** fruit picking is a primary source of income, fear that automation will remove their livelihoods before suitable alternative employment appears. Supporters respond that robots will mainly fill vacancies that growers already cannot fill and will create skilled jobs in maintenance, programming, and data analysis. Evidence on this question remains limited, however, and the outcome will depend on how quickly the technology matures and on whether governments invest in retraining.",
+     "Fruit-picking robots will not transform agriculture overnight, but they are steadily changing how fruit is grown. Yet each generation of machines is faster, cheaper, and more discerning than the last, and several commercial systems are already operating alongside human crews in orchards and greenhouses. Whether this technology ultimately benefits communities as well as growers will depend on deliberate choices, and those who plan ahead can **alleviate** the costs of transition through retraining, shared ownership, and gradual deployment."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Robots have already replaced human workers in every major orchard worldwide",
+       "B": "Fruit-picking robots are developing steadily but face technical, economic, and social challenges",
+       "C": "Precision agriculture has no connection with data collected on farms",
+       "D": "Machines cannot recognise ripe fruit and will never be useful"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, why has delicate fruit resisted mechanisation?",
+      "options": {
+       "A": "Farmers prefer hand-picked produce for its superior flavour and texture",
+       "B": "Governments banned automatic harvesters from orchards during the last decade",
+       "C": "It bruises easily, ripens unevenly, and hides among leaves",
+       "D": "Engineers showed little interest in developing equipment for horticultural crops"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"resisted mechanisation\" ở đoạn 1 để xác định lý do trái cây mỏng manh dễ bị dập, chín không đều và ẩn mình giữa tán lá."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"detaches\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "separates",
+       "B": "protects",
+       "C": "weighs",
+       "D": "freezes"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"detaches\" ở đoạn 2 mô tả thao tác dùng ngón tay silicone xoắn hoặc cắt để tách rời trái cây ra khỏi cành (separates)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Taken together, these obstacles explain why early prototypes often succeeded in laboratories but failed in commercial orchards.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào đoạn văn",
+      "type": "Chèn câu",
+      "explanation": "Đọc vị trí [4] trong đoạn 3. Câu điền thêm bắt đầu bằng cụm từ chuyển ý 'Taken together, these obstacles...' (Tổng hợp lại, những trở ngại này...), đóng vai trò tổng kết chuỗi các khó khăn đã liệt kê ngay trước đó (lá che khuất, ánh sáng thay đổi, kích thước quả đa dạng) để giải thích lý do vì sao các nguyên mẫu ban đầu thường thất bại ở vườn cây thương mại."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, why are strawberries and apples expected to be automated first?",
+      "options": {
+       "A": "They are grown only in regions with abundant seasonal labour",
+       "B": "Their high value justifies the cost of machinery",
+       "C": "Their skins are tough enough for rough mechanical handling",
+       "D": "Their plants require no irrigation or maintenance during harvest"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Chi tiết",
+      "explanation": "quét từ khóa \"strawberries and apples\" ở đoạn 4 để thấy giá trị cao của các loại trái cây này giúp bù đắp chi phí đầu tư máy móc lớn."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"whom\" in paragraph 6 refers to _______.",
+      "options": {
+       "A": "Fruit growers",
+       "B": "Robot engineers",
+       "C": "Government officials",
+       "D": "Seasonal workers"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ quan hệ \"whom\" ở đoạn 6. Hãy đọc lùi lại danh từ chỉ người làm việc trực tiếp đứng ngay trước giới từ (những công nhân theo mùa - seasonal workers)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"alleviate\" in paragraph 7 is closest in meaning to _______.",
+      "options": {
+       "A": "lessen",
+       "B": "predict",
+       "C": "ignore",
+       "D": "celebrate"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT identified as a use of data gathered by harvesting robots?",
+      "options": {
+       "A": "Forecasting yields before the harvest begins",
+       "B": "Scheduling labour more efficiently across the season",
+       "C": "Setting retail prices for fruit in supermarkets",
+       "D": "Identifying trees that need extra water or nutrients"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết & Thông tin theo đoạn",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối chiếu các ứng dụng của dữ liệu thu thập (dự báo sản lượng, sắp xếp lịch lao động, nhận diện cây thiếu nước/dinh dưỡng) tại đoạn 5 để loại trừ đáp án không liên quan (thiết lập giá bán lẻ trong siêu thị)."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 3, 4, and 6 about the adoption of harvesting robots?",
+      "options": {
+       "A": "It will accelerate rapidly because orchards are now predictable environments",
+       "B": "It will probably be gradual, starting with valuable crops and needing planning",
+       "C": "It will stop completely once fruit prices begin to fall",
+       "D": "It will mainly benefit workers who already hold technical qualifications"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc áp dụng robot sẽ diễn ra từ từ, bắt đầu với các loại cây trồng giá trị cao và cần có kế hoạch chuẩn bị kỹ lưỡng về mặt xã hội cũng như kỹ thuật. Lời khuyên: Hãy ưu tiên giải quyết các câu hỏi từ vựng (R4Q3, R4Q7), quy chiếu (R4Q6) và điền câu (R4Q4) trước. Tiếp theo, áp dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R4Q2, R4Q5, R4Q8) trước khi hoàn thành các câu hỏi tổng hợp, suy luận và ý chính (R4Q1, R4Q9, R4Q10)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To promote the sale of one particular robotic picking machine",
+       "B": "To prove that human pickers produce better quality fruit",
+       "C": "To explain how satellites map soil conditions in orchards",
+       "D": "To evaluate the prospects and consequences of robotic fruit harvesting"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để hoàn thành tốt phần thi đọc hiểu này, bạn có thể áp dụng các chiến thuật chi tiết sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R4Q1, R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc phần mở đầu và kết bài để nắm bắt trọng tâm: bài viết thảo luận về sự phát triển của robot hái trái cây, đồng thời phân tích toàn diện các thách thức kỹ thuật, kinh tế và tác động xã hội. Do đó, phương án đúng phải phản ánh được bức tranh đa chiều này thay vì chỉ khẳng định một chiều (ví dụ robot đã thay thế hoàn toàn hay không có ích).\n- **Dạng câu hỏi Chi tiết & Thông tin theo đoạn (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa).\n  - Với **R4Q2**, tìm từ khóa \"resisted mechanisation\" ở đoạn 1 để xác định lý do trái cây mỏng manh dễ bị dập, chín không đều và ẩn mình giữa tán lá.\n  - Với **R4Q5**, quét từ khóa \"strawberries and apples\" ở đoạn 4 để thấy giá trị cao của các loại trái cây này giúp bù đắp chi phí đầu tư máy móc lớn.\n  - Với **R4Q8**, đối chiếu các ứng dụng của dữ liệu thu thập (dự báo sản lượng, sắp xếp lịch lao động, nhận diện cây thiếu nước/dinh dưỡng) tại đoạn 5 để loại trừ đáp án không liên quan (thiết lập giá bán lẻ trong siêu thị).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Dựa vào **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"detaches\"** ở đoạn 2 mô tả thao tác dùng ngón tay silicone xoắn hoặc cắt để tách rời trái cây ra khỏi cành (separates).\n  - With **R4Q7**, từ **\"alleviate\"** ở đoạn 7 đi kèm với việc giảm bớt gánh nặng chi phí chuyển đổi thông qua đào tạo lại và triển khai dần dần (lessen).\n- **Dạng câu hỏi Điền câu vào đoạn văn (R4Q4):** Đọc vị trí **[4]** trong đoạn 3. Câu điền thêm bắt đầu bằng cụm từ chuyển ý 'Taken together, these obstacles...' (Tổng hợp lại, những trở ngại này...), đóng vai trò tổng kết chuỗi các khó khăn đã liệt kê ngay trước đó (lá che khuất, ánh sáng thay đổi, kích thước quả đa dạng) để giải thích lý do vì sao các nguyên mẫu ban đầu thường thất bại ở vườn cây thương mại.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ quan hệ **\"whom\"** ở đoạn 6. Hãy đọc lùi lại danh từ chỉ người làm việc trực tiếp đứng ngay trước giới từ (những công nhân theo mùa - seasonal workers).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 6 về việc áp dụng robot sẽ diễn ra từ từ, bắt đầu với các loại cây trồng giá trị cao và cần có kế hoạch chuẩn bị kỹ lưỡng về mặt xã hội cũng như kỹ thuật. Lời khuyên: Hãy ưu tiên giải quyết các câu hỏi từ vựng (R4Q3, R4Q7), quy chiếu (R4Q6) và điền câu (R4Q4) trước. Tiếp theo, áp dụng kỹ thuật đọc quét để xử lý các câu chi tiết (R4Q2, R4Q5, R4Q8) trước khi hoàn thành các câu hỏi tổng hợp, suy luận và ý chính (R4Q1, R4Q9, R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Mark, who wants to attend a weekend event with you.\nRead part of his email below.\nI am so glad we can hang out this weekend! There are two events happening in the city: a Tech Expo and a Street Food Festival.\n- Which event would you like to go to and why?\n- What time and where should we meet to discuss the details?\n- What should we bring along for the event?\nWrite an email responding to Mark. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Mark, who wants to attend a weekend event with you.",
+      "Read part of his email below."
+     ],
+     "quote": [
+      "I am so glad we can hang out this weekend! There are two events happening in the city: a Tech Expo and a Street Food Festival.",
+      "- Which event would you like to go to and why?",
+      "- What time and where should we meet to discuss the details?",
+      "- What should we bring along for the event?"
+     ],
+     "instruction": "Write an email responding to Mark. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng thư thân mật (Informal Email) gửi cho một người bạn tên Mark.\n- Yêu cầu chính: Chọn 1 trong 2 sự kiện (Tech Expo hoặc Street Food Festival), giải thích lý do, đưa ra thời gian/địa điểm gặp mặt và gợi ý đồ dùng cần mang theo.\n- Độ dài tối thiểu: 120 từ. Sử dụng ngôn ngữ tự nhiên, gần gũi.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- Chào hỏi: Hi Mark, / Dear Mark,\n- Mở đầu: Cảm ơn lời mời và bày tỏ sự hào hứng. Ví dụ: It is great to hear from you, and I am really excited about our plans this weekend!\n- Thân bài: Đoạn 1 chọn sự kiện và giải thích lý do (I would prefer the Tech Expo because...). Đoạn 2 đề xuất lịch hẹn (Let's meet at 9 AM at the Highland Coffee).\n- Kết thúc: Mong sớm gặp lại. Ví dụ: I am looking forward to seeing you soon!\n- Ký tên: Best, / Warm regards, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các cấu trúc gợi ý như \"How about...\", \"Why don't we...\", \"I suggest...\".\nTừ vựng quan trọng:\n- Tech Expo: Triển lãm công nghệ\n- Street Food Festival: Lễ hội ẩm thực đường phố\n- Take place: Diễn ra\n- Discuss the details: Thảo luận chi tiết\n- Convenient: Thuận tiện\n- Gadget: Thiết bị điện tử\nTừ nối (Linking words):\n- First of all: Đầu tiên là\n- Moreover: Hơn nữa\n- Regarding: Về việc...\n- Actually: Thực ra thì\n- By the way: Nhân tiện\nCách diễn đạt cảm xúc (Expressing feelings):\n- I am really looking forward to it: Mình rất mong chờ điều đó.\n- That sounds like a blast: Nghe có vẻ sẽ rất vui đấy.\n- I am a huge fan of...: Mình là một người rất hâm mộ...\n\n**4. Các lỗi thường gặp:**\n- Dùng từ ngữ quá trang trọng (như \"Yours faithfully\") cho bạn bè.\n- Quên không chọn 1 trong 2 sự kiện mà viết chung chung cho cả hai.\n- Thiếu một trong ba yêu cầu của đề bài (đặc biệt là phần hẹn địa điểm).\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã có đủ 3 ý chính chưa.\n- Đếm số lượng từ để đảm bảo trên 120 từ.\n- Sửa lỗi chính tả tên riêng và các dấu câu.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang lên kế hoạch thật với bạn mình.\n- Tập trung vào việc giải thích lý do tại sao bạn thích sự kiện đó để tăng độ dài bài viết một cách tự nhiên.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nThe rapid development of Artificial Intelligence (AI) is transforming many aspects of modern life, including work, education, and entertainment.\nSome people argue that AI brings significant benefits to society, while others worry about its potential risks and negative impacts.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about the impact of Artificial Intelligence. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "The rapid development of Artificial Intelligence (AI) is transforming many aspects of modern life, including work, education, and entertainment.",
+      "Some people argue that AI brings significant benefits to society, while others worry about its potential risks and negative impacts.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about the impact of Artificial Intelligence. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Dạng bài: Discussion Essay (Thảo luận hai mặt của vấn đề và đưa ra ý kiến cá nhân).\n- Chủ đề: Trí tuệ nhân tạo (AI) - lợi ích và tác động tiêu cực.\n- Yêu cầu: Phải thảo luận cả lợi ích (efficiency, automation) và rủi ro (job loss, privacy), sau đó nêu rõ quan điểm cá nhân.\n\n**2. Cách xây dựng bố cục (Organization):**\n- Mở bài: Dẫn dắt về sự bùng nổ của AI và nêu rõ bài viết sẽ thảo luận cả hai khía cạnh. Ví dụ: While AI offers revolutionary benefits, it also raises concerns regarding ethics and employment.\n- Thân bài 1 (Lợi ích): Tập trung vào việc tăng năng suất, hỗ trợ y tế và giáo dục. Ví dụ: On the one hand, AI enhances productivity by automating repetitive tasks.\n- Thân bài 2 (Rủi ro): Tập trung vào việc thay thế con người trong công việc và vấn đề bảo mật. Ví dụ: On the other hand, the rise of AI could lead to widespread job displacement.\n- Kết luận: Tóm tắt lại và khẳng định AI là công cụ hỗ trợ nếu được quản lý tốt.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các câu phức và câu điều kiện để giả định các tình huống trong tương lai.\nTừ vựng quan trọng:\n- Automation: Tự động hóa\n- Productivity: Năng suất\n- Job displacement: Sự mất việc làm\n- Algorithmic bias: Định kiến thuật toán\n- Revolutionize: Cách mạng hóa\n- Technological advancement: Sự tiến bộ công nghệ\nTừ nối (Linking words):\n- On the one hand / On the other hand: Một mặt / Mặt khác\n- In contrast: Ngược lại\n- Consequently: Hậu quả là\n- Furthermore: Hơn thế nữa\n- In conclusion: Tóm lại\n- From my perspective: Theo góc nhìn của tôi\nDiễn đạt lại ý (Paraphrasing):\n- AI-driven technology: Công nghệ được vận hành bởi AI\n- Machine intelligence: Trí tuệ máy móc\n- Human labor: Sức lao động của con người\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- The benefits of AI outweigh its drawbacks: Lợi ích của AI vượt xa tác hại.\n- It is essential to implement regulations: Việc thực thi các quy định là cần thiết.\n- AI serves as a powerful tool for...: AI đóng vai trò là một công cụ mạnh mẽ cho...\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung vào lợi ích mà quên mất phần rủi ro hoặc ngược lại.\n- Không đưa ra được ý kiến cá nhân rõ ràng (Thesis Statement).\n- Dùng từ vựng quá đơn giản cho một chủ đề mang tính học thuật.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra sự mạch lạc giữa các đoạn văn bằng từ nối.\n- Đảm bảo mỗi đoạn thân bài đều có câu chủ đề (Topic Sentence).\n- Soát lỗi chia động từ và mạo từ (a, an, the).\n\n**6. Tư duy làm bài:**\n- Đừng cố gắng liệt kê quá nhiều ý, hãy chọn 2 lợi ích và 2 rủi ro tiêu biểu nhất để phân tích sâu bằng ví dụ thực tế.\n- Sự cân bằng trong cách lập luận là yếu tố quyết định điểm số cao cho dạng bài Discussion."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about cooking\n\n1\nDo you like cooking? Why or why not?\n2\nWho usually does the cooking in your family?\n3\nWhat is a popular dish that people in your country like to cook?\n\nNow, let’s talk about social events\n\n4\nDo you enjoy attending social events like parties or festivals?\n5\nWhat was the last social event you went to?\n6\nIs it important to have social events in the local community? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này gồm 6 câu hỏi ngắn trong thời gian khoảng 3 phút. Bạn cần trả lời tự nhiên, rõ ràng và có mở rộng ý thay vì trả lời quá ngắn.\n- **Topic A (Cooking):** Các câu hỏi 1–3 tập trung vào việc nấu ăn, thói quen trong gia đình và món ăn truyền thống. Chủ đề này kiểm tra khả năng mô tả hoạt động thường ngày và đưa ra ý kiến cá nhân.\n- **Topic B (Social Events):** Các câu hỏi 4–6 xoay quanh lễ hội, tiệc tùng và vai trò của các sự kiện cộng đồng. Chủ đề này kiểm tra khả năng kể trải nghiệm và trình bày quan điểm xã hội.\n- Giám khảo đánh giá dựa trên độ trôi chảy, vốn từ vựng, ngữ pháp và phát âm.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng thời gian giữa Topic A và Topic B.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer -> Reason -> Example để kéo dài câu trả lời một cách tự nhiên.\n- **Ví dụ Topic A:** Yes, I really enjoy cooking because it helps me relax after studying. For example, I often cook fried rice or noodles for my family at weekends.\n- **Ví dụ Topic B:** I enjoy attending festivals because they are exciting and help me spend more time with friends and relatives.\n- Luôn tự hỏi “Why?”, “How?” hoặc “When?” để mở rộng ý sau khi trả lời câu chính.\n- Để chuyển ý tự nhiên, bạn có thể dùng câu như: Speaking of social events, I think they are becoming more important nowadays.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và dùng filler như “Well”, “Actually”, “To be honest” để tránh im lặng quá lâu.\n- Với Topic A, nên dùng hiện tại đơn để nói về thói quen và hiện tại tiếp diễn nếu mô tả hoạt động gần đây.\n- Với Topic B, có thể dùng quá khứ đơn khi kể về sự kiện gần nhất mà bạn tham gia.\n- Nếu quên từ vựng, hãy diễn đạt bằng cách đơn giản hơn thay vì dừng lại quá lâu.\n- Từ vựng cho Topic A: home-cooked meal (bữa ăn nấu tại nhà), recipe (công thức nấu ăn), traditional dish (món ăn truyền thống), prepare ingredients (chuẩn bị nguyên liệu).\n- Từ vựng cho Topic B: community gathering (buổi tụ họp cộng đồng), celebrate together (ăn mừng cùng nhau), strengthen relationships (gắn kết mối quan hệ), social interaction (giao tiếp xã hội).\nCụm từ quan trọng nên dùng:\n- I am really into cooking – Tôi rất thích nấu ăn.\n- Cook meals from scratch – Tự nấu món ăn từ đầu.\n- A famous local specialty – Một đặc sản địa phương nổi tiếng.\n- Take part in festivals – Tham gia lễ hội.\n- Create a sense of community – Tạo cảm giác gắn kết cộng đồng.\n- Spend quality time together – Dành thời gian ý nghĩa cùng nhau.\nTừ nối khi nói (Linking Words):\n- First of all – Trước hết, dùng để bắt đầu ý.\n- Besides that – Bên cạnh đó, thêm ý mới.\n- For example – Ví dụ như, dùng để minh họa.\n- As a result – Kết quả là, dùng để nói hệ quả.\n- In my opinion – Theo quan điểm của tôi, dùng để nêu ý kiến.\nCách thể hiện quan điểm tự nhiên:\n- I personally think cooking is a useful life skill because everyone should know how to prepare basic meals. – Tôi cá nhân cho rằng nấu ăn là kỹ năng sống hữu ích.\n- From my point of view, traditional food is an important part of culture. – Theo góc nhìn của tôi, món ăn truyền thống là một phần quan trọng của văn hóa.\n- As far as I am concerned, family meals help people become closer. – Theo tôi, các bữa ăn gia đình giúp mọi người gắn bó hơn.\n- I believe social events help people relax after stressful working days. – Tôi tin rằng các sự kiện xã hội giúp mọi người thư giãn.\n- In my opinion, festivals are a good way to preserve traditions. – Theo tôi, lễ hội là cách tốt để giữ gìn truyền thống.\n- I would say community activities are especially important for young people. – Tôi cho rằng hoạt động cộng đồng đặc biệt quan trọng với giới trẻ.\n\n**4. Các lỗi thường gặp:**\n- Trả lời Yes hoặc No rồi dừng lại mà không giải thích thêm.\n- Ở Topic A, nhiều bạn chỉ liệt kê món ăn mà không mô tả tại sao thích món đó.\n- Ở Topic B, nhiều bạn kể sự kiện nhưng quên nói cảm xúc hoặc lý do sự kiện đó đáng nhớ.\n- Dùng sai thì khi kể trải nghiệm quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n- Nếu quên tên món ăn, hãy mô tả nguyên liệu hoặc cách nấu.\n- Ở Topic A, nếu không nấu ăn thường xuyên, hãy nói về việc quan sát người thân nấu ăn.\n- Ở Topic B, nếu ít tham gia sự kiện, bạn có thể nói về một lễ hội trên TV hoặc trường học.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem đây là một cuộc trò chuyện tự nhiên với giám khảo thay vì bài diễn thuyết.\n- Khi chuyển từ Topic A sang Topic B, hãy thay đổi tư duy từ chủ đề cá nhân sang chủ đề cộng đồng.\n- Sự rõ ràng và trôi chảy quan trọng hơn việc cố dùng từ quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou are planning a trip with your family and considering how to organize it.\n\nYou are considering the following options:\n\nOption 1: Planning the trip by yourself\nOption 2: Consulting a professional travel agent\nOption 3: Asking for experiences from friends and relatives\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn lựa chọn cách tốt nhất để tổ chức một chuyến du lịch gia đình.\n- Ba lựa chọn gồm tự lên kế hoạch, thuê công ty du lịch hoặc hỏi kinh nghiệm từ người quen.\n- Giám khảo đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định rõ ràng.\n- Thời gian khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction -> Comparison -> Ending để bài nói rõ ràng và logic.\n- Giới thiệu tình huống: The family is trying to decide the best way to organize a trip.\n- Option 1: Tự lên kế hoạch giúp tiết kiệm tiền nhưng có thể mất nhiều thời gian.\n- Option 2: Công ty du lịch chuyên nghiệp giúp chuyến đi thuận tiện hơn nhưng chi phí cao.\n- Option 3: Hỏi kinh nghiệm từ người quen giúp có lời khuyên thực tế nhưng thông tin có thể không đầy đủ.\n- Hãy liên hệ với cuộc sống sinh viên hoặc gia đình thực tế để lập luận thuyết phục hơn.\n- Sử dụng từ nối đối lập như however, on the other hand để chuyển giữa ưu và nhược điểm.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì phân tích từng lựa chọn riêng biệt hoàn toàn.\n- Dùng hiện tại đơn để nói về ưu nhược điểm chung và dùng tương lai đơn khi nói về kế hoạch chuyến đi.\n- Nếu quên từ “travel agent”, bạn có thể diễn đạt là a company that organizes trips.\nCụm từ quan trọng nên dùng:\n- Plan an itinerary – Lên lịch trình chuyến đi.\n- Save time and effort – Tiết kiệm thời gian và công sức.\n- Travel on a budget – Du lịch tiết kiệm.\n- Reliable travel information – Thông tin du lịch đáng tin cậy.\n- Professional service – Dịch vụ chuyên nghiệp.\n- Create unforgettable memories – Tạo kỷ niệm đáng nhớ.\nTừ nối khi nói (Linking Words):\n- On the one hand – Một mặt.\n- On the other hand – Mặt khác.\n- In contrast – Trái lại.\n- As a result – Kết quả là.\n- In conclusion – Kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe consulting a travel agent is the most convenient choice for a family trip. – Tôi tin mạnh mẽ rằng thuê công ty du lịch là lựa chọn thuận tiện nhất.\n- Compared to planning everything alone, asking professionals can reduce stress significantly. – So với tự chuẩn bị mọi thứ, hỏi chuyên gia giúp giảm căng thẳng đáng kể.\n- From my perspective, getting advice from relatives is useful because it is based on real experiences. – Theo góc nhìn của tôi, hỏi người thân rất hữu ích vì dựa trên trải nghiệm thật.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình thích mà không phân tích nhược điểm của các lựa chọn còn lại.\n- Lặp lại các từ đơn giản như good hoặc bad quá nhiều.\n- Kết luận không rõ ràng hoặc không nói lựa chọn cuối cùng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ vựng du lịch, hãy chuyển sang nói về chi phí, thời gian hoặc sự thuận tiện.\n- Bạn có thể dùng câu: Let's evaluate this option from a different perspective.\n- Nếu bí ý ở một lựa chọn, hãy chuyển sang lựa chọn khác thay vì dừng lại quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như người đưa ra quyết định thực tế cho gia đình.\n- Ngay cả với lựa chọn tốt nhất, bạn vẫn nên đề cập một vài hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development"
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of playing team sports\n\nBenefits of Team Sports\nPhysical health improvement\nSocial and communication skills\nStress reduction and mental well-being\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you prefer team sports or individual sports? Why?\n2\nShould schools make team sports compulsory for all students?\n3\nWhat qualities are necessary to be a good team player?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về lợi ích của các môn thể thao đồng đội đối với cá nhân và xã hội.\n- Ba nhánh chính gồm sức khỏe thể chất, kỹ năng giao tiếp và lợi ích tinh thần. Bạn cần tự phát triển thêm nhánh thứ tư.\n- Nhánh cá nhân có thể là building leadership skills hoặc developing discipline.\n- Giám khảo đánh giá khả năng phát triển ý, sự mạch lạc và khả năng trả lời follow-up.\n- Thời gian khoảng 5 phút, nên dành khoảng 3 phút cho bài nói chính và phần còn lại cho follow-up.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/Conclusion.\n- **Ví dụ 1:** Today, I would like to talk about the benefits of playing team sports for young people.\n- **Ví dụ 2:** Besides improving health, team sports can also help students become more responsible and disciplined.\n- Khi nói về sức khỏe, hãy đưa ví dụ cụ thể như football, basketball hoặc volleyball.\n- Hãy đi theo từng nhánh trong sơ đồ để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng cụm chuyển ý như Moving on to the next point hoặc Another important benefit is.\n- Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành khi nói trải nghiệm tích lũy.\n- Có thể paraphrase “team sports” bằng group activities, competitive sports hoặc cooperative games.\nCụm từ quan trọng nên dùng:\n- Improve physical fitness – Cải thiện thể lực.\n- Develop teamwork skills – Phát triển kỹ năng làm việc nhóm.\n- Reduce stress and anxiety – Giảm căng thẳng và lo âu.\n- Build self-confidence – Xây dựng sự tự tin.\n- Encourage healthy competition – Khuyến khích cạnh tranh lành mạnh.\n- Strengthen friendships – Củng cố tình bạn.\nTừ nối khi nói (Linking Words):\n- First of all – Trước tiên.\n- In addition – Ngoài ra.\n- Moreover – Hơn nữa.\n- As a result – Kết quả là.\n- Finally – Cuối cùng.\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, team sports are extremely beneficial for students because they improve both physical and mental health. – Theo tôi, thể thao đồng đội rất có lợi cho học sinh.\n- I believe students can learn valuable life skills through sports activities. – Tôi tin rằng học sinh có thể học được nhiều kỹ năng sống quý giá thông qua thể thao.\n- From my perspective, schools should encourage more sports programs to help students become more active. – Theo góc nhìn của tôi, trường học nên khuyến khích nhiều chương trình thể thao hơn.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Do you prefer team sports or individual sports?** – I prefer team sports because I enjoy cooperating with other people and making new friends.\n- **Should schools make team sports compulsory?** – I think schools should encourage them strongly, but students should still have freedom to choose.\n- **What qualities are necessary to be a good team player?** – Team players should be responsible, cooperative and good at communication.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển ý cá nhân ở nhánh thứ tư.\n- Nói quá dài ở phần chính và không còn thời gian cho follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với trải nghiệm ở trường học hoặc hoạt động thể thao hằng ngày.\n- Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a societal viewpoint, team sports play an important role.\n- Nếu quên từ chuyên môn, hãy dùng mô tả đơn giản hơn.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ xã hội và nhà tuyển dụng vì kỹ năng teamwork rất quan trọng.\n- Sự logic và liên kết giữa các ý quan trọng hơn việc dùng từ vựng quá khó.\n- Luôn cố gắng nói tự nhiên và đưa ví dụ gần gũi với đời sống thật."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about cooking.\n1.\nDo you like cooking? Why or why not?\n2.\nWho usually does the cooking in your family?\n3.\nWhat is a popular dish that people in your country like to cook?\nNow, let’s talk about social events.\n4.\nDo you enjoy attending social events like parties or festivals?\n5.\nWhat was the last social event you went to?\n6.\nIs it important to have social events in the local community? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này gồm 6 câu hỏi ngắn trong thời gian khoảng 3 phút. Bạn cần trả lời tự nhiên, rõ ràng và có mở rộng ý thay\nvì trả lời quá ngắn.\n• Topic A (Cooking): Các câu hỏi 1–3 tập trung vào việc nấu ăn, thói quen trong gia đình và món ăn truyền thống. Chủ\nđề này kiểm tra khả năng mô tả hoạt động thường ngày và đưa ra ý kiến cá nhân.\n• Topic B (Social Events): Các câu hỏi 4–6 xoay quanh lễ hội, tiệc tùng và vai trò của các sự kiện cộng đồng. Chủ đề\nnày kiểm tra khả năng kể trải nghiệm và trình bày quan điểm xã hội.\n• Giám khảo đánh giá dựa trên độ trôi chảy, vốn từ vựng, ngữ pháp và phát âm.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng thời gian giữa Topic A và Topic B.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer -> Reason -> Example để kéo dài câu trả lời một cách tự nhiên.\n• Ví dụ Topic A: Yes, I really enjoy cooking because it helps me relax after studying. For example, I often cook fried rice\nor noodles for my family at weekends.\n• Ví dụ Topic B: I enjoy attending festivals because they are exciting and help me spend more time with friends and\nrelatives.\n• Luôn tự hỏi “Why?”, “How?” hoặc “When?” để mở rộng ý sau khi trả lời câu chính.\n• Để chuyển ý tự nhiên, bạn có thể dùng câu như: Speaking of social events, I think they are becoming more important\nnowadays.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và dùng filler như “Well”, “Actually”, “To be honest” để tránh im lặng quá lâu.\n• Với Topic A, nên dùng hiện tại đơn để nói về thói quen và hiện tại tiếp diễn nếu mô tả hoạt động gần đây.\n• Với Topic B, có thể dùng quá khứ đơn khi kể về sự kiện gần nhất mà bạn tham gia.\n• Nếu quên từ vựng, hãy diễn đạt bằng cách đơn giản hơn thay vì dừng lại quá lâu.\n• Từ vựng cho Topic A: home-cooked meal (bữa ăn nấu tại nhà), recipe (công thức nấu ăn), traditional dish (món ăn\ntruyền thống), prepare ingredients (chuẩn bị nguyên liệu).\n• Từ vựng cho Topic B: community gathering (buổi tụ họp cộng đồng), celebrate together (ăn mừng cùng nhau),\nstrengthen relationships (gắn kết mối quan hệ), social interaction (giao tiếp xã hội).\nCụm từ quan trọng nên dùng:\n• I am really into cooking – Tôi rất thích nấu ăn.\n• Cook meals from scratch – Tự nấu món ăn từ đầu.\n• A famous local specialty – Một đặc sản địa phương nổi tiếng.\n• Take part in festivals – Tham gia lễ hội.\n• Create a sense of community – Tạo cảm giác gắn kết cộng đồng.\n• Spend quality time together – Dành thời gian ý nghĩa cùng nhau.\nTừ nối khi nói (Linking Words):\n• First of all – Trước hết, dùng để bắt đầu ý.\n• Besides that – Bên cạnh đó, thêm ý mới.\n• For example – Ví dụ như, dùng để minh họa.\n• As a result – Kết quả là, dùng để nói hệ quả.\n• In my opinion – Theo quan điểm của tôi, dùng để nêu ý kiến.\nCách thể hiện quan điểm tự nhiên:\n• I personally think cooking is a useful life skill because everyone should know how to prepare basic meals. – Tôi cá\nnhân cho rằng nấu ăn là kỹ năng sống hữu ích.\n• From my point of view, traditional food is an important part of culture. – Theo góc nhìn của tôi, món ăn truyền thống\nlà một phần quan trọng của văn hóa.\n• As far as I am concerned, family meals help people become closer. – Theo tôi, các bữa ăn gia đình giúp mọi người\ngắn bó hơn.\n• I believe social events help people relax after stressful working days. – Tôi tin rằng các sự kiện xã hội giúp mọi người\nthư giãn.\n• In my opinion, festivals are a good way to preserve traditions. – Theo tôi, lễ hội là cách tốt để giữ gìn truyền thống.\n• I would say community activities are especially important for young people. – Tôi cho rằng hoạt động cộng đồng\nđặc biệt quan trọng với giới trẻ.\n4. Các lỗi thường gặp:\n• Trả lời Yes hoặc No rồi dừng lại mà không giải thích thêm.\n• Ở Topic A, nhiều bạn chỉ liệt kê món ăn mà không mô tả tại sao thích món đó.\n• Ở Topic B, nhiều bạn kể sự kiện nhưng quên nói cảm xúc hoặc lý do sự kiện đó đáng nhớ.\n• Dùng sai thì khi kể trải nghiệm quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n• Nếu quên tên món ăn, hãy mô tả nguyên liệu hoặc cách nấu.\n• Ở Topic A, nếu không nấu ăn thường xuyên, hãy nói về việc quan sát người thân nấu ăn.\n• Ở Topic B, nếu ít tham gia sự kiện, bạn có thể nói về một lễ hội trên TV hoặc trường học.\n6. Tư duy làm bài nói:\n• Hãy xem đây là một cuộc trò chuyện tự nhiên với giám khảo thay vì bài diễn thuyết.\n• Khi chuyển từ Topic A sang Topic B, hãy thay đổi tư duy từ chủ đề cá nhân sang chủ đề cộng đồng.\n• Sự rõ ràng và trôi chảy quan trọng hơn việc cố dùng từ quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYou are planning a trip with your family and considering how to organize it.\nYou are considering the following options:\n• Option 1: Planning the trip by yourself\n• Option 2: Consulting a professional travel agent\n• Option 3: Asking for experiences from friends and relatives\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn lựa chọn cách tốt nhất để tổ chức một chuyến du lịch gia đình.\n• Ba lựa chọn gồm tự lên kế hoạch, thuê công ty du lịch hoặc hỏi kinh nghiệm từ người quen.\n• Giám khảo đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định rõ ràng.\n• Thời gian khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction -> Comparison -> Ending để bài nói rõ ràng và logic.\n• Giới thiệu tình huống: The family is trying to decide the best way to organize a trip.\n• Option 1: Tự lên kế hoạch giúp tiết kiệm tiền nhưng có thể mất nhiều thời gian.\n• Option 2: Công ty du lịch chuyên nghiệp giúp chuyến đi thuận tiện hơn nhưng chi phí cao.\n• Option 3: Hỏi kinh nghiệm từ người quen giúp có lời khuyên thực tế nhưng thông tin có thể không đầy đủ.\n• Hãy liên hệ với cuộc sống sinh viên hoặc gia đình thực tế để lập luận thuyết phục hơn.\n• Sử dụng từ nối đối lập như however, on the other hand để chuyển giữa ưu và nhược điểm.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì phân tích từng lựa chọn riêng biệt hoàn toàn.\n• Dùng hiện tại đơn để nói về ưu nhược điểm chung và dùng tương lai đơn khi nói về kế hoạch chuyến đi.\n• Nếu quên từ “travel agent”, bạn có thể diễn đạt là a company that organizes trips.\nCụm từ quan trọng nên dùng:\n• Plan an itinerary – Lên lịch trình chuyến đi.\n• Save time and effort – Tiết kiệm thời gian và công sức.\n• Travel on a budget – Du lịch tiết kiệm.\n• Reliable travel information – Thông tin du lịch đáng tin cậy.\n• Professional service – Dịch vụ chuyên nghiệp.\n• Create unforgettable memories – Tạo kỷ niệm đáng nhớ.\nTừ nối khi nói (Linking Words):\n• On the one hand – Một mặt.\n• On the other hand – Mặt khác.\n• In contrast – Trái lại.\n• As a result – Kết quả là.\n• In conclusion – Kết luận lại.\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe consulting a travel agent is the most convenient choice for a family trip. – Tôi tin mạnh mẽ rằng\nthuê công ty du lịch là lựa chọn thuận tiện nhất.\n• Compared to planning everything alone, asking professionals can reduce stress significantly. – So với tự chuẩn bị\nmọi thứ, hỏi chuyên gia giúp giảm căng thẳng đáng kể.\n• From my perspective, getting advice from relatives is useful because it is based on real experiences. – Theo góc nhìn\ncủa tôi, hỏi người thân rất hữu ích vì dựa trên trải nghiệm thật.\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình thích mà không phân tích nhược điểm của các lựa chọn còn lại.\n• Lặp lại các từ đơn giản như good hoặc bad quá nhiều.\n• Kết luận không rõ ràng hoặc không nói lựa chọn cuối cùng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ vựng du lịch, hãy chuyển sang nói về chi phí, thời gian hoặc sự thuận tiện.\n• Bạn có thể dùng câu: Let's evaluate this option from a different perspective.\n• Nếu bí ý ở một lựa chọn, hãy chuyển sang lựa chọn khác thay vì dừng lại quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như người đưa ra quyết định thực tế cho gia đình.\n• Ngay cả với lựa chọn tốt nhất, bạn vẫn nên đề cập một vài hạn chế nhỏ để thể hiện tư duy phản biện.\nTopic Development\nPART 3\n5 phút\nTopic: The benefits of playing team sports\nPhysical health improvement\nSocial and communication skills\nBenefits of Team Sports\nÝ tưởng của bạn\nStress reduction and mental well-being\nFOLLOW-UP QUESTIONS\n1.\nDo you prefer team sports or individual sports? Why?\n2.\nShould schools make team sports compulsory for all students?\n3.\nWhat qualities are necessary to be a good team player?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về lợi ích của các môn thể thao đồng đội đối với cá nhân và xã hội.\n• Ba nhánh chính gồm sức khỏe thể chất, kỹ năng giao tiếp và lợi ích tinh thần. Bạn cần tự phát triển thêm nhánh thứ\ntư.\n• Nhánh cá nhân có thể là building leadership skills hoặc developing discipline.\n• Giám khảo đánh giá khả năng phát triển ý, sự mạch lạc và khả năng trả lời follow-up.\n• Thời gian khoảng 5 phút, nên dành khoảng 3 phút cho bài nói chính và phần còn lại cho follow-up.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/Conclusion.\n• Ví dụ 1: Today, I would like to talk about the benefits of playing team sports for young people.\n• Ví dụ 2: Besides improving health, team sports can also help students become more responsible and disciplined.\n• Khi nói về sức khỏe, hãy đưa ví dụ cụ thể như football, basketball hoặc volleyball.\n• Hãy đi theo từng nhánh trong sơ đồ để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng cụm chuyển ý như Moving on to the next point hoặc Another important benefit is.\n• Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành khi nói trải nghiệm tích lũy.\n• Có thể paraphrase “team sports” bằng group activities, competitive sports hoặc cooperative games.\nCụm từ quan trọng nên dùng:\n• Improve physical fitness – Cải thiện thể lực.\n• Develop teamwork skills – Phát triển kỹ năng làm việc nhóm.\n• Reduce stress and anxiety – Giảm căng thẳng và lo âu.\n• Build self-confidence – Xây dựng sự tự tin.\n• Encourage healthy competition – Khuyến khích cạnh tranh lành mạnh.\n• Strengthen friendships – Củng cố tình bạn.\nTừ nối khi nói (Linking Words):\n• First of all – Trước tiên.\n• In addition – Ngoài ra.\n• Moreover – Hơn nữa.\n• As a result – Kết quả là.\n• Finally – Cuối cùng.\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, team sports are extremely beneficial for students because they improve both physical and mental\nhealth. – Theo tôi, thể thao đồng đội rất có lợi cho học sinh.\n• I believe students can learn valuable life skills through sports activities. – Tôi tin rằng học sinh có thể học được nhiều\nkỹ năng sống quý giá thông qua thể thao.\n• From my perspective, schools should encourage more sports programs to help students become more active. – Theo\ngóc nhìn của tôi, trường học nên khuyến khích nhiều chương trình thể thao hơn.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do you prefer team sports or individual sports? – I prefer team sports because I enjoy cooperating with other people\nand making new friends.\n• Should schools make team sports compulsory? – I think schools should encourage them strongly, but students\nshould still have freedom to choose.\n• What qualities are necessary to be a good team player? – Team players should be responsible, cooperative and good\nat communication.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển ý cá nhân ở nhánh thứ tư.\n• Nói quá dài ở phần chính và không còn thời gian cho follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với trải nghiệm ở trường học hoặc hoạt động thể thao hằng ngày.\n• Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a societal viewpoint, team sports play an\nimportant role.\n• Nếu quên từ chuyên môn, hãy dùng mô tả đơn giản hơn.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ xã hội và nhà tuyển dụng vì kỹ năng teamwork rất quan trọng.\n• Sự logic và liên kết giữa các ý quan trọng hơn việc dùng từ vựng quá khó.\n• Luôn cố gắng nói tự nhiên và đưa ví dụ gần gũi với đời sống thật."
+}

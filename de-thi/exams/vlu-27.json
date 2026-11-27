@@ -1,0 +1,716 @@
+{
+ "id": "vlu-27",
+ "number": 27,
+ "title": "Đề thi VLU 27",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-27",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "Air Pollution in Modern Cities",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Millions of people around the world live in big cities, and one of the biggest problems they face every day is the quality of the air that they breathe. On some days, the sky looks grey and the air smells of smoke. Air pollution happens when gases and tiny pieces of dust are released into the air in amounts that are too high. According to the World Health Organization, a large majority of people worldwide breathe air that is above the recommended safety limits.",
+     "The most important cause in many cities is traffic, because cars, buses, and trucks that burn petrol or diesel **emit** gases and small particles from their exhaust pipes. Factories and power stations that burn coal are another major source of dirty air in some countries. Building work, burning rubbish, and cooking on wood or coal fires can also add dust and smoke to the air. In winter, cold weather and still air can trap the pollution close to the ground, so the problem often becomes worse in the colder months.",
+     "Breathing dirty air for a long time can be very bad for health. The smallest particles, which are much thinner than a human hair, can travel deep into the lungs and even enter the blood, and they are one of the most **harmful** parts of polluted air. Doctors link dirty air with coughing, headaches, asthma, heart disease, and a higher risk of lung problems. Children, older people, and people who already have breathing problems are usually affected most. Scientists also say that pollution may shorten life, and the World Health Organization estimates that millions of early deaths each year are connected to polluted air.",
+     "Fortunately, cities and governments can take many practical steps to clean up the air. Many cities have introduced low-emission zones, where the oldest and dirtiest vehicles are not allowed to enter, and many drivers now choose newer cars, which produce much less pollution than older **ones**. Electric buses, cycle lanes, and cheaper public transport give people better ways to travel without using a private car. Planting trees and creating parks also helps, because leaves can catch some dust and the green spaces make the city cooler. Some large cities, such as London, Paris, and Beijing, have reported improvements after introducing stricter rules.",
+     "Individuals can help as well by walking or cycling for short journeys, sharing car trips, switching off engines while waiting, and using public transport whenever it is possible. Checking the daily air quality report on a phone app can also help people to protect themselves. On days when the air is very bad, it is wise to avoid heavy exercise outside and to keep windows closed near busy roads. In conclusion, clean air is a basic need for everyone, and both governments and ordinary citizens must work together to protect it."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Air quality in modern cities has already improved everywhere",
+       "B": "Only people in the countryside suffer from dirty air",
+       "C": "Air pollution harms health in cities, but many solutions exist",
+       "D": "Planting trees alone can completely clean the city air"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, what is a major cause of air pollution in many cities?",
+      "options": {
+       "A": "Cars, buses, and trucks burning petrol or diesel",
+       "B": "Large forests that release far too much oxygen outdoors",
+       "C": "Fireworks displays held every night in busy town squares",
+       "D": "Rivers and lakes that become warm in the summer"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"major cause\" ở đoạn 2 để xác định nguyên nhân chính gây ô nhiễm: xe hơi, xe buýt và xe tải đốt xăng hoặc dầu diesel (Cars, buses, and trucks burning petrol or diesel)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"emit\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "absorb",
+       "B": "collect",
+       "C": "remove",
+       "D": "release"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"emit\" ở đoạn 2 đi kèm với việc ống xả của phương tiện thải ra khí thải và các hạt nhỏ, mang nghĩa thải ra, phát ra (release)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, which people are usually affected most by dirty air?",
+      "options": {
+       "A": "Strong young athletes who exercise indoors in clean gyms",
+       "B": "Children, older people, and those with breathing problems",
+       "C": "Tourists who spend their holidays beside beautiful beaches",
+       "D": "Farmers living extremely far from every large city"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"affected most\" ở đoạn 3 để xác định nhóm đối tượng chịu ảnh hưởng nặng nhất: trẻ em, người cao tuổi và những người có vấn đề về hô hấp (Children, older people, and those with breathing problems)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"harmful\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "pleasant",
+       "B": "familiar",
+       "C": "dangerous",
+       "D": "valuable"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"harmful\" ở đoạn 3 mô tả các hạt bụi mịn nhỏ hơn sợi tóc có thể xâm nhập sâu vào phổi, tương đương với nghĩa nguy hiểm, có hại (dangerous)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"ones\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Zones",
+       "B": "Fumes",
+       "C": "Roads",
+       "D": "Cars"
+      },
+      "answer": "D",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ số nhiều \"ones\" ở đoạn 4. Đọc ngược lại câu trước để tìm danh từ số nhiều tương ứng: nói về việc người lái xe chọn những chiếc xe mới hơn (*newer cars*), loại xe tạo ra ít ô nhiễm hơn so với những chiếc xe cũ (*older ones*). Do đó, \"ones\" quy chiếu thẳng đến những chiếc xe ô tô (Cars)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, what is the purpose of low-emission zones?",
+      "options": {
+       "A": "To keep the oldest, dirtiest vehicles out",
+       "B": "To collect money for building more large roads",
+       "C": "To stop children from walking to nearby schools",
+       "D": "To make drivers buy bigger cars for families"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"low-emission zones\" ở đoạn 4 để xác định mục đích của các khu vực phát thải thấp: ngăn chặn các phương tiện cũ và bẩn nhất đi vào (To keep the oldest, dirtiest vehicles out)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to improve air quality in cities?",
+      "options": {
+       "A": "Using electric buses and much cheaper public transport",
+       "B": "Allowing more diesel trucks into city centres",
+       "C": "Planting trees and creating parks in busy districts",
+       "D": "Building cycle lanes so people can ride safely"
+      },
+      "answer": "B",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các giải pháp cải thiện chất lượng không khí được liệt kê ở đoạn 4 và 5: sử dụng xe buýt điện và giao thông công cộng giá rẻ, trồng cây và tạo công viên, xây dựng làn đường cho xe đạp. Phương án \"cho phép nhiều xe tải chạy bằng dầu diesel hơn vào trung tâm thành phố\" là hoàn toàn sai lệch và đi ngược lại nỗ lực giảm ô nhiễm."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 3 and 4 about air pollution?",
+      "options": {
+       "A": "Nothing can be done because pollution always comes back",
+       "B": "Only older people should ever worry about air quality",
+       "C": "Cities with many trees never have any pollution problems",
+       "D": "It is a serious risk, yet action can improve things"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3 và 4 về ô nhiễm không khí (đây là rủi ro nghiêm trọng đối với sức khỏe nhưng các thành phố và chính phủ hoàn toàn có thể thực hiện các bước thiết thực để cải thiện tình hình). Từ đó suy luận ra rằng đây là một mối nguy hiểm lớn, nhưng các hành động can thiệp có thể cải thiện mọi thứ (It is a serious risk, yet action can improve things)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To advertise a new mask that protects all people from smoke",
+       "B": "To complain that governments never do anything about city traffic problems",
+       "C": "To explain the causes, effects, and solutions of air pollution",
+       "D": "To describe a long holiday spent walking in the mountains Reading"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu vấn đề ô nhiễm không khí tại các thành phố lớn; đoạn 2 chỉ ra các nguyên nhân chính từ giao thông, nhà máy và đốt rác; đoạn 3 mô tả tác hại sức khỏe đối với con người; đoạn 4 và 5 đề xuất các giải pháp từ phía chính phủ và cá nhân (vùng phát thải thấp, xe điện, trồng cây, đi bộ/đạp xe). Do đó, phương án đúng cho câu ý chính phải phản ánh việc ô nhiễm không khí gây hại cho sức khỏe nhưng có rất nhiều giải pháp tồn tại; đồng thời mục đích chính của tác giả là giải thích các nguyên nhân, hậu quả và giải pháp của ô nhiễm không khí.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R1Q2**, tìm từ khóa \"major cause\" ở đoạn 2 để xác định nguyên nhân chính gây ô nhiễm: xe hơi, xe buýt và xe tải đốt xăng hoặc dầu diesel (Cars, buses, and trucks burning petrol or diesel).\n  - Với **R1Q4**, định vị từ khóa \"affected most\" ở đoạn 3 để xác định nhóm đối tượng chịu ảnh hưởng nặng nhất: trẻ em, người cao tuổi và những người có vấn đề về hô hấp (Children, older people, and those with breathing problems).\n  - Với **R1Q7**, tìm từ khóa \"low-emission zones\" ở đoạn 4 để xác định mục đích của các khu vực phát thải thấp: ngăn chặn các phương tiện cũ và bẩn nhất đi vào (To keep the oldest, dirtiest vehicles out).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"emit\"** ở đoạn 2 đi kèm với việc ống xả của phương tiện thải ra khí thải và các hạt nhỏ, mang nghĩa thải ra, phát ra (release).\n  - Với **R1Q5**, từ **\"harmful\"** ở đoạn 3 mô tả các hạt bụi mịn nhỏ hơn sợi tóc có thể xâm nhập sâu vào phổi, tương đương với nghĩa nguy hiểm, có hại (dangerous).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào đại từ số nhiều **\"ones\"** ở đoạn 4. Đọc ngược lại câu trước để tìm danh từ số nhiều tương ứng: nói về việc người lái xe chọn những chiếc xe mới hơn (*newer cars*), loại xe tạo ra ít ô nhiễm hơn so với những chiếc xe cũ (*older ones*). Do đó, \"ones\" quy chiếu thẳng đến những chiếc xe ô tô (Cars).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối soát kỹ các giải pháp cải thiện chất lượng không khí được liệt kê ở đoạn 4 và 5: sử dụng xe buýt điện và giao thông công cộng giá rẻ, trồng cây và tạo công viên, xây dựng làn đường cho xe đạp. Phương án \"cho phép nhiều xe tải chạy bằng dầu diesel hơn vào trung tâm thành phố\" là hoàn toàn sai lệch và đi ngược lại nỗ lực giảm ô nhiễm.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ các đoạn 3 và 4 về ô nhiễm không khí (đây là rủi ro nghiêm trọng đối với sức khỏe nhưng các thành phố và chính phủ hoàn toàn có thể thực hiện các bước thiết thực để cải thiện tình hình). Từ đó suy luận ra rằng đây là một mối nguy hiểm lớn, nhưng các hành động can thiệp có thể cải thiện mọi thứ (It is a serious risk, yet action can improve things).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng và quy chiếu đại từ (từ R1Q2 đến R1Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R1Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R1Q1) và Mục đích tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Extreme Weather Around the World",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "In recent years, headlines about record-breaking heatwaves, destructive floods, and powerful storms have become so frequent that extreme weather no longer seems exceptional to many readers. Yet the underlying patterns are complex, and no single event can be explained by one cause alone. Scientists increasingly use attribution studies to estimate how far climate change has made particular events more likely or more intense.",
+     "Heatwaves are among the clearest signs of a changing climate, and the European heatwave of 2003 is widely estimated to have caused tens of thousands of premature deaths. Cities are especially vulnerable to extreme heat because concrete and asphalt absorb and store warmth. Outdoor workers, older residents, and people without cooling at home face the greatest danger. Meanwhile, the jet stream has become increasingly **erratic** in some analyses, causing weather systems to stall over a region for days or even weeks. Researchers continue to debate how strongly this effect is linked to Arctic warming.",
+     "A warmer atmosphere can hold more moisture, roughly seven per cent more for every degree Celsius of warming, which increases the potential for intense downpours and flash floods. Flash floods can arrive with little warning, leaving residents only minutes to reach higher ground. In 2022, floods in Pakistan submerged large areas and affected tens of millions of people. Rapid urbanisation worsens the problem, since paved surfaces prevent rainwater from soaking into the ground and overwhelm drainage systems designed for a cooler, drier climate.",
+     "Tropical cyclones draw energy from warm seawater, so rising ocean temperatures may increase **their** intensity, even if the total number of storms does not change. Several studies suggest that the proportion of the very strongest storms has been rising in recent decades. Rising sea levels add to the danger by raising the baseline from which storm surges begin, so even moderate storms can flood coastal communities. Slow-moving storms such as Hurricane Harvey in 2017 produced more than a metre of rain in parts of Texas.",
+     "At the opposite extreme, prolonged droughts are drying out rivers, reservoirs, and soils in regions from the Mediterranean to southern Africa, threatening harvests and drinking water supplies. Farmers in affected regions may lose entire seasons of income. Hot, dry conditions also create ideal circumstances for destructive wildfires across several continents. Australia's bushfire season of 2019 and 2020, often called Black Summer, burned millions of hectares and sent smoke across the Pacific.",
+     "The human cost of such events is rarely distributed evenly, because poorer communities often live in more exposed locations, have fewer resources for recovery, and receive less advance warning. Economic losses can be **catastrophic** for smaller countries, where a single disaster may erase years of development. Insurers, meanwhile, are raising premiums or withdrawing from high-risk areas, leaving some homeowners unable to obtain cover. Even wealthy nations have struggled, as the deadly floods in Germany in 2021 demonstrated.",
+     "Adapting to this new reality requires investment in early warning systems, heat-resistant buildings, flood defences, and drought-tolerant agriculture, alongside rapid reductions in the emissions that drive warming. Improved early warnings have helped to save many thousands of lives in countries such as Bangladesh. Ultimately, extreme weather will remain a defining challenge of this century, testing whether societies can plan for risks that are no longer rare."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Weather patterns today are exactly identical to centuries ago",
+       "B": "Extreme weather is intensifying, so societies must prepare for consequences",
+       "C": "Wealthy countries suffer storms while poorer countries avoid disasters",
+       "D": "Insurance companies have already solved rising flood damage problems"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, why are cities especially vulnerable to extreme heat?",
+      "options": {
+       "A": "Concrete and asphalt absorb and store warmth",
+       "B": "Tall buildings block every breeze from reaching streets",
+       "C": "Residents refuse to use air conditioning in summer",
+       "D": "Rivers in big cities evaporate completely each summer"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"cities\" và \"extreme heat\" ở đoạn 2 để thấy lý do thành phố dễ bị tổn thương trước nắng nóng: bê tông và nhựa đường hấp thụ và tích trữ nhiệt (Concrete and asphalt absorb and store warmth)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"erratic\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "consistent",
+       "B": "foreseeable",
+       "C": "unpredictable",
+       "D": "unvarying"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"erratic\" ở đoạn 2 đi kèm với các kiểu thời tiết thất thường, khó đoán định, mang nghĩa khó dự đoán, thất thường (unpredictable)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why does urbanisation worsen flooding?",
+      "options": {
+       "A": "Rivers are deliberately moved towards the centre of cities",
+       "B": "Drainage systems are always built far too large",
+       "C": "Taller buildings cast shadows that keep water cold",
+       "D": "Paved surfaces stop rainwater soaking into the ground"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"urbanisation\" và \"flooding\" ở đoạn 3 để xác định lý do đô thị hóa làm trầm trọng thêm tình trạng ngập lụt: bề mặt được lát đá ngăn nước mưa thấm xuống đất (Paved surfaces stop rainwater soaking into the ground)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"catastrophic\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "negligible",
+       "B": "devastating",
+       "C": "beneficial",
+       "D": "temporary"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"catastrophic\" ở đoạn 6 mô tả các hậu quả tàn khốc, thảm khốc của thiên tai đối với các cộng đồng dễ bị tổn thương, tương đương với sự tàn phá nặng nề, tàn khốc (devastating)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"their\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Rising oceans",
+       "B": "Coastal storms",
+       "C": "Tropical cyclones",
+       "D": "Warming seas"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ sở hữu số nhiều \"their\" ở đoạn 4. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về các cơn bão nhiệt đới (*Tropical cyclones*) mạnh lên khi nước biển ấm lên và năng lượng của *chúng* (*their energy*) gia tăng. Do đó, \"their\" quy chiếu về các cơn bão nhiệt đới (Tropical cyclones)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what do prolonged droughts threaten?",
+      "options": {
+       "A": "Harvests and supplies of drinking water",
+       "B": "Ocean currents and safety of coastal shipping",
+       "C": "Tourism income and prices of electric cars",
+       "D": "Hurricane tracks and strength of winter storms"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"prolonged droughts\" ở đoạn 5 để xác định các mối đe dọa từ hạn hạn kéo dài: đe dọa các vụ mùa thu hoạch và nguồn cung cấp nước uống (Harvests and supplies of drinking water)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason why poorer communities suffer more?",
+      "options": {
+       "A": "Their homes tend to stand in exposed places",
+       "B": "Fewer resources are available to support their recovery",
+       "C": "Less advance warning reaches them before storms strike",
+       "D": "They usually receive far more government funding"
+      },
+      "answer": "D",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các lý do khiến cộng đồng nghèo chịu tổn thất nặng nề hơn được liệt kê ở đoạn 6: nhà cửa nằm ở nơi dễ phơi bày rủi ro, ít nguồn lực hỗ trợ phục hồi, và ít nhận được cảnh báo sớm. Phương án về việc \"họ thường nhận được nhiều tài trợ từ chính phủ hơn\" là hoàn toàn sai lệch và trái ngược với thực tế bài viết."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about extreme weather?",
+      "options": {
+       "A": "Only tropical regions experience serious danger from changing weather patterns",
+       "B": "Its harm depends on both the physical hazard and human vulnerability",
+       "C": "Early warning systems have made all weather disasters completely harmless",
+       "D": "Wealthy countries are always fully protected against storms and floods"
+      },
+      "answer": "B",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về thời tiết cực đoan (tác động và tổn thất của chúng không chỉ phụ thuộc vào bản thân hiện tượng vật lý mà còn phụ thuộc vào mức độ dễ bị tổn thương của con người). Từ đó suy luận ra rằng tác hại của chúng phụ thuộc vào cả hiểm họa vật lý lẫn tính dễ bị tổn thương của con người (Its harm depends on both the physical hazard and human vulnerability)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To examine the causes and consequences of extreme weather events",
+       "B": "To persuade readers to take holidays only in cooler northern countries",
+       "C": "To criticise forecasters for failing to predict recent weather events accurately",
+       "D": "To describe a personal experience of surviving a major hurricane Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 và 2 giới thiệu về thời tiết cực đoan và hiệu ứng đảo nhiệt đô thị; đoạn 3, 4, 5 trình bày về ngập lụt, bão nhiệt đới và hạn hán kéo dài; đoạn 6 phân tích mức độ tổn thương của các cộng đồng nghèo; đoạn cuối kết luận về sự cần thiết phải chuẩn bị ứng phó. Do đó, phương án đúng cho câu ý chính phải phản ánh việc thời tiết cực đoan đang gia tăng nên xã hội cần chuẩn bị đối phó với hậu quả; đồng thời mục đích chính của tác giả là kiểm tra và xem xét các nguyên nhân cùng hậu quả của các hiện tượng thời tiết cực đoan.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R2Q2**, tìm từ khóa \"cities\" và \"extreme heat\" ở đoạn 2 để thấy lý do thành phố dễ bị tổn thương trước nắng nóng: bê tông và nhựa đường hấp thụ và tích trữ nhiệt (Concrete and asphalt absorb and store warmth).\n  - Với **R2Q4**, định vị từ khóa \"urbanisation\" và \"flooding\" ở đoạn 3 để xác định lý do đô thị hóa làm trầm trọng thêm tình trạng ngập lụt: bề mặt được lát đá ngăn nước mưa thấm xuống đất (Paved surfaces stop rainwater soaking into the ground).\n  - Với **R2Q7**, tìm từ khóa \"prolonged droughts\" ở đoạn 5 để xác định các mối đe dọa từ hạn hạn kéo dài: đe dọa các vụ mùa thu hoạch và nguồn cung cấp nước uống (Harvests and supplies of drinking water).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"erratic\"** ở đoạn 2 đi kèm với các kiểu thời tiết thất thường, khó đoán định, mang nghĩa khó dự đoán, thất thường (unpredictable).\n  - Với **R2Q5**, từ **\"catastrophic\"** ở đoạn 6 mô tả các hậu quả tàn khốc, thảm khốc của thiên tai đối với các cộng đồng dễ bị tổn thương, tương đương với sự tàn phá nặng nề, tàn khốc (devastating).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ sở hữu số nhiều **\"their\"** ở đoạn 4. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về các cơn bão nhiệt đới (*Tropical cyclones*) mạnh lên khi nước biển ấm lên và năng lượng của *chúng* (*their energy*) gia tăng. Do đó, \"their\" quy chiếu về các cơn bão nhiệt đới (Tropical cyclones).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối soát kỹ các lý do khiến cộng đồng nghèo chịu tổn thất nặng nề hơn được liệt kê ở đoạn 6: nhà cửa nằm ở nơi dễ phơi bày rủi ro, ít nguồn lực hỗ trợ phục hồi, và ít nhận được cảnh báo sớm. Phương án về việc \"họ thường nhận được nhiều tài trợ từ chính phủ hơn\" là hoàn toàn sai lệch và trái ngược với thực tế bài viết.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về thời tiết cực đoan (tác động và tổn thất của chúng không chỉ phụ thuộc vào bản thân hiện tượng vật lý mà còn phụ thuộc vào mức độ dễ bị tổn thương của con người). Từ đó suy luận ra rằng tác hại của chúng phụ thuộc vào cả hiểm họa vật lý lẫn tính dễ bị tổn thương của con người (Its harm depends on both the physical hazard and human vulnerability).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu vào chỗ trống và quy chiếu đại từ (từ R2Q2 đến R2Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R2Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R2Q1) và Mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Rise of E-Education",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few developments in education have been as rapid or as disruptive as the move from chalkboards to screens. What began as a niche option for distance learners has become a mainstream feature of schools, universities, and workplaces, reshaping how knowledge is delivered and who is able to receive it. Yet enthusiasm should be tempered by a careful look at what the evidence actually shows.",
+     "Online education is hardly new, since correspondence courses and televised lectures were offering remote instruction decades before the internet existed. However, platforms such as Coursera and edX, launched around 2012, showed that university-level courses could reach hundreds of thousands of learners simultaneously. The decisive shift came in 2020, when school closures during the pandemic forced institutions to move teaching online almost overnight, affecting well over a billion pupils and students at the peak of the disruption. Many schools have since kept digital tools to **augment** classroom teaching rather than replace it.",
+     "The most frequently cited advantage of e-education is access. **[1]** Students in remote villages, or those with physical disabilities, can attend lectures that were once available only in distant cities. **[2]** Working adults can fit lessons around their jobs, studying in the evening or during a lunch break. **[3]** Adaptive software goes further by adjusting the difficulty of each exercise according to the mistakes that an individual learner has made, so that nobody is bored or overwhelmed. **[4]** Freed from that constraint, teachers can devote more of their time to individual guidance.",
+     "Nevertheless, the benefits are distributed unevenly, because online learning presupposes devices, electricity, and a stable internet connection that many households simply do not have. International agencies have estimated that roughly a third of the world's population remained offline in recent years, with the lowest rates of connectivity found in low-income countries. During school closures, this connectivity gap quickly turned into a gap in learning outcomes. Even families with devices often lacked a quiet room, so children shared a single phone or laptop among several siblings.",
+     "Access alone does not guarantee learning, and completion figures for open online courses have often been strikingly low, with only a small minority of enrolled students reaching the end. Researchers point to isolation, weak structure, and the distractions of home as common reasons for dropping out. Many students struggle to stay motivated when the material becomes difficult, and without a teacher present to encourage **them**, they may simply stop logging in.",
+     "Teacher support therefore remains **paramount**, and successful programmes tend to combine online materials with regular human contact. Assessment poses a further problem, since unsupervised examinations make cheating easier, and employers are not always convinced that online certificates reflect the same standards as traditional degrees. Some universities have responded with proctoring software, although critics argue that it raises serious concerns about privacy.",
+     "The most promising model may therefore be a blended one, in which digital tools handle practice and feedback while teachers concentrate on discussion, mentoring, and motivation. Artificial intelligence tutors are likely to expand this approach, although their reliability and fairness still need careful testing. Ultimately, technology can widen opportunity only if societies invest equally in connectivity, teacher training, and the human relationships that make learning meaningful."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Digital courses have completely replaced teachers in most universities worldwide",
+       "B": "Online education widens access but requires fair infrastructure and human support",
+       "C": "The pandemic was the only reason online learning ever existed",
+       "D": "Students always learn better when no teacher is present"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why did online education expand so suddenly in 2020?",
+      "options": {
+       "A": "Governments began paying every student a monthly fee for studying",
+       "B": "Universities decided that classroom buildings were too expensive to maintain",
+       "C": "School closures forced institutions to move teaching online",
+       "D": "A new law made online lectures compulsory in every country"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"2020\" ở đoạn 2 để thấy lý do giáo dục trực tuyến mở rộng đột ngột: việc đóng cửa trường học buộc các cơ sở giáo dục phải chuyển việc giảng dạy lên trực tuyến (School closures forced institutions to move teaching online)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"augment\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "supplement",
+       "B": "undermine",
+       "C": "postpone",
+       "D": "abolish"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"augment\" ở đoạn 2 đi kèm với việc công nghệ kỹ thuật số hỗ trợ, bổ sung cho việc học tập trên lớp, mang nghĩa bổ sung, làm tăng thêm (supplement)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such fine adjustment was almost impossible in crowded classrooms, where a single teacher must set one pace for dozens of pupils.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'Such fine adjustment was almost impossible in crowded classrooms, where a single teacher must set one pace for dozens of pupils.' Cụm từ \"Such fine adjustment\" liên kết trực tiếp với khả năng điều chỉnh nhịp độ học tập cá nhân hóa được thảo luận ngay trước vị trí [4] trong phần bàn về học tập thích ứng."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, why did school closures widen learning gaps?",
+      "options": {
+       "A": "Teachers refused to record any lessons for absent children",
+       "B": "Many households lacked devices or stable internet connections",
+       "C": "Schools reopened too early in most low-income countries",
+       "D": "Textbooks were banned during the whole pandemic"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"school closures\" ở đoạn 4 để xác định lý do làm gia tăng khoảng cách học tập: nhiều hộ gia đình thiếu thiết bị hoặc kết nối internet ổn định (Many households lacked devices or stable internet connections)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"them\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Students",
+       "B": "Teachers",
+       "C": "Researchers",
+       "D": "Materials"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số nhiều \"them\" ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về việc hỗ trợ học sinh (*students*) giúp *họ* (*them*) vượt qua cảm giác cô lập và hoàn thành khóa học. Do đó, \"them\" quy chiếu thẳng đến học sinh (Students)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"paramount\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "optional",
+       "B": "secondary",
+       "C": "essential",
+       "D": "trivial"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"paramount\" ở đoạn 6 mô tả việc đảm bảo khả năng tiếp cận công bằng là ưu tiên hàng đầu, tối quan trọng, tương đương với nghĩa thiết yếu, quan trọng hàng đầu (essential)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason why learners drop out of online courses?",
+      "options": {
+       "A": "A sense of isolation among learners working alone",
+       "B": "Weak structure and little pressure to meet deadlines",
+       "C": "Constant distractions from family life and household noise",
+       "D": "Compulsory fees for every individual online lesson"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các nguyên nhân học viên bỏ học được liệt kê ở đoạn 5: cảm giác cô lập khi học một mình, cấu trúc yếu và ít áp lực thời hạn, cùng sự xao lãng từ gia đình. Phương án về \"học phí bắt buộc cho từng bài học trực tuyến riêng lẻ\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about online learning?",
+      "options": {
+       "A": "Successful online learning depends on both technology and supportive social conditions",
+       "B": "Poorer students benefit most because online lessons are free everywhere",
+       "C": "Teachers will soon become unnecessary now that software can assess",
+       "D": "Cheating has been eliminated entirely by modern proctoring software"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về giáo dục trực tuyến (thành công của nó phụ thuộc vào cả công nghệ kỹ thuật số lẫn các điều kiện xã hội và sự hỗ trợ đi kèm). Từ đó suy luận ra rằng học trực tuyến thành công phụ thuộc vào cả công nghệ lẫn các điều kiện xã hội mang tính hỗ trợ (Successful online learning depends on both technology and supportive social conditions)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To advertise a particular platform for learning foreign languages online",
+       "B": "To evaluate the promise and limits of online education",
+       "C": "To explain how teachers should design online examinations fairly",
+       "D": "To describe a student's daily routine at university Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu sự phát triển của giáo dục trực tuyến; đoạn 2 nói về việc chuyển đổi đột ngột năm 2020; đoạn 3 bàn về lợi ích cá nhân hóa; đoạn 4 và 5 đề cập đến khoảng cách số và tỷ lệ bỏ học; đoạn cuối kết luận về sự cần thiết của hạ tầng và sự hỗ trợ từ con người. Do đó, phương án đúng cho câu ý chính phải phản ánh việc giáo dục trực tuyến mở rộng khả năng tiếp cận nhưng đòi hỏi hạ tầng công bằng và sự hỗ trợ của con người, đồng thời mục đích chính của tác giả là đánh giá những hứa hẹn và giới hạn của giáo dục trực tuyến.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R3Q2**, tìm từ khóa \"2020\" ở đoạn 2 để thấy lý do giáo dục trực tuyến mở rộng đột ngột: việc đóng cửa trường học buộc các cơ sở giáo dục phải chuyển việc giảng dạy lên trực tuyến (School closures forced institutions to move teaching online).\n  - Với **R3Q5**, định vị từ khóa \"school closures\" ở đoạn 4 để xác định lý do làm gia tăng khoảng cách học tập: nhiều hộ gia đình thiếu thiết bị hoặc kết nối internet ổn định (Many households lacked devices or stable internet connections).\n  - Với **R3Q8**, đối soát kỹ các nguyên nhân học viên bỏ học được liệt kê ở đoạn 5: cảm giác cô lập khi học một mình, cấu trúc yếu và ít áp lực thời hạn, cùng sự xao lãng từ gia đình. Phương án về \"học phí bắt buộc cho từng bài học trực tuyến riêng lẻ\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"augment\"** ở đoạn 2 đi kèm với việc công nghệ kỹ thuật số hỗ trợ, bổ sung cho việc học tập trên lớp, mang nghĩa bổ sung, làm tăng thêm (supplement).\n  - Với **R3Q7**, từ **\"paramount\"** ở đoạn 6 mô tả việc đảm bảo khả năng tiếp cận công bằng là ưu tiên hàng đầu, tối quan trọng, tương đương với nghĩa thiết yếu, quan trọng hàng đầu (essential).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R3Q4):** Đọc kỹ câu cần chèn: 'Such fine adjustment was almost impossible in crowded classrooms, where a single teacher must set one pace for dozens of pupils.' Cụm từ \"Such fine adjustment\" liên kết trực tiếp với khả năng điều chỉnh nhịp độ học tập cá nhân hóa được thảo luận ngay trước vị trí **[4]** trong phần bàn về học tập thích ứng.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ nhân xưng số nhiều **\"them\"** ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về việc hỗ trợ học sinh (*students*) giúp *họ* (*them*) vượt qua cảm giác cô lập và hoàn thành khóa học. Do đó, \"them\" quy chiếu thẳng đến học sinh (Students).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về giáo dục trực tuyến (thành công của nó phụ thuộc vào cả công nghệ kỹ thuật số lẫn các điều kiện xã hội và sự hỗ trợ đi kèm). Từ đó suy luận ra rằng học trực tuyến thành công phụ thuộc vào cả công nghệ lẫn các điều kiện xã hội mang tính hỗ trợ (Successful online learning depends on both technology and supportive social conditions).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu vào chỗ trống và quy chiếu đại từ (từ R3Q2 đến R3Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R3Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R3Q1) và Mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Global Problem of E-Waste",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Every year, humanity discards an extraordinary volume of phones, laptops, televisions, and kitchen appliances, much of it long before the devices have stopped working. According to the United Nations, the world generated more than sixty million tonnes of electronic waste in 2022. Only about a quarter of that total was documented as being properly collected and recycled, which means that the fate of the remainder is largely unknown and may involve burial, burning, or export.",
+     "Several forces drive this growth, beginning with a consumer culture that treats electronics as fashion items to be replaced whenever a newer model appears. Manufacturers also contribute through design choices that make repairs difficult, such as glued batteries and sealed casings. Critics describe this strategy as planned obsolescence, arguing that products are engineered, or at least marketed, so that replacing them is cheaper and more convenient than fixing them. Meanwhile, the spread of internet-connected gadgets means that even ordinary objects, from toothbrushes to trainers, now contain circuitry.",
+     "Paradoxically, discarded electronics are also a rich resource, containing gold, silver, copper, and rare earth elements in concentrations that often exceed those found in natural ore. Recovering this material, sometimes called urban mining, could reduce the need for destructive extraction. Yet because proper recycling is expensive, a significant portion of old equipment is shipped to lower-income countries through **illicit** channels, frequently mislabelled as second-hand goods intended for reuse. Ports in West Africa and South Asia have long been identified as destinations for such cargo.",
+     "Where formal recycling is unavailable, the work is typically done by hand in informal settlements. **[1]** Workers, some of them children, burn plastic-coated cables over open fires to extract the copper inside. **[2]** Acid leaching is hardly safer, since circuit boards are soaked in baths to recover traces of gold, and the spent liquid is often poured onto the ground. **[3]** Lead, mercury, and cadmium then seep into the soil and groundwater around the site, contaminating crops and drinking supplies for nearby villages. **[4]** Studies in affected communities have linked such exposure to respiratory illness, damaged nervous systems, and complications during pregnancy, although establishing precise causes remains difficult.",
+     "Governments have responded with a patchwork of measures, the most influential of which is extended producer responsibility, a principle requiring manufacturers to pay for the collection and recycling of the goods they sell. Right-to-repair laws, adopted in parts of Europe and North America, oblige firms to supply spare parts so that consumers can mend their devices instead of discarding **them**. The Basel Convention also restricts shipments of hazardous waste, and amendments aim to limit exports to poorer nations. Some jurisdictions have additionally introduced take-back schemes, allowing consumers to return old devices to retailers free of charge.",
+     "Nevertheless, regulation is only as effective as its enforcement, and in many jurisdictions oversight remains **lax**, with limited inspections and modest penalties for exporters who break the rules. Informal workers, meanwhile, often earn their living from scrap and cannot easily be offered alternatives. Any solution that simply bans informal recycling without creating safer jobs would therefore risk deepening poverty while doing little to reduce pollution.",
+     "Ultimately, the most effective strategy is to produce less waste in the first place by designing durable, repairable, and upgradeable products. Advocates of a circular economy argue that materials should be reused repeatedly, not buried. Whether such ambitions are realised will depend on cooperation between governments, manufacturers, and consumers, because a device made in one country, bought in another, and discarded in a third respects no single set of laws."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Informal recyclers are the sole cause of global electronic pollution",
+       "B": "Developed countries have already solved the problem through advanced recycling",
+       "C": "E-waste is growing fast, so better design and enforcement are needed",
+       "D": "Recovered gold makes discarded phones too valuable to throw away"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, how do manufacturers contribute to the growth of e-waste?",
+      "options": {
+       "A": "By charging consumers high fees for returning old devices",
+       "B": "By making devices that contain too little metal for recycling",
+       "C": "By refusing to sell new models in poorer countries",
+       "D": "By designing products that are hard to repair"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"manufacturers\" ở đoạn 2 để thấy cách họ đóng góp vào sự gia tăng rác thải điện tử: thiết kế các sản phẩm rất khó sửa chữa (designing products that are hard to repair)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"illicit\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "unlawful",
+       "B": "approved",
+       "C": "routine",
+       "D": "seasonal"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"illicit\" ở đoạn 3 đi kèm với việc vận chuyển trái phép chất thải điện tử sang các nước đang phát triển, mang nghĩa trái pháp luật, bất hợp pháp (unlawful)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Such open burning releases dioxins and other toxic fumes that workers inhale every day.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'Such open burning releases dioxins and other toxic fumes that workers inhale every day.' Cụm từ \"Such open burning\" liên kết trực tiếp với phương pháp đốt mở các linh kiện để thu hồi kim loại được mô tả ngay trước vị trí [2] trong đoạn văn về xử lý rác thải thủ công."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what does extended producer responsibility require?",
+      "options": {
+       "A": "Consumers must repair every broken device themselves within thirty days",
+       "B": "Retailers should stop stocking products made from recycled metals",
+       "C": "Schools have to teach children about careful recycling",
+       "D": "Manufacturers must pay for collecting and recycling their products"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"extended producer responsibility\" ở đoạn 5 để xác định yêu cầu của chính sách này: các nhà sản xuất phải chi trả cho việc thu gom và tái chế sản phẩm của họ (Manufacturers must pay for collecting and recycling their products)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"them\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Consumers",
+       "B": "Firms",
+       "C": "Devices",
+       "D": "Laws"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số nhiều \"them\" ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về việc thiết kế lại các thiết bị (*devices*) hoặc thu hồi *chúng* (*them*). Do đó, \"them\" quy chiếu thẳng đến các thiết bị (Devices)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"lax\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "rigorous",
+       "B": "lenient",
+       "C": "vigilant",
+       "D": "consistent"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"lax\" ở đoạn 6 mô tả việc thực thi luật pháp bị lỏng lẻo ở một số khu vực, tương đương với nghĩa lỏng lẻo, dễ dãi (lenient)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a policy response to e-waste?",
+      "options": {
+       "A": "A tax on every household's electricity use",
+       "B": "Laws requiring firms to supply spare parts for repairs",
+       "C": "Restrictions on shipments of hazardous waste to poorer countries",
+       "D": "Schemes allowing people to return old devices to shops"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các phản ứng chính sách được liệt kê ở đoạn 5 và 6: luật yêu cầu cung cấp phụ tùng thay thế để sửa chữa, hạn chế vận chuyển chất thải nguy hại sang nước nghèo, và các chương trình cho phép người dân trả lại thiết bị cũ cho cửa hàng. Phương án \"thu thuế trên việc sử dụng điện của mỗi hộ gia đình\" không hề xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about the e-waste problem?",
+      "options": {
+       "A": "Informal recycling should be banned immediately without any alternative",
+       "B": "Wealthy nations bear no responsibility for waste found overseas",
+       "C": "Rules alone are insufficient unless enforcement and livelihoods are addressed too",
+       "D": "Consumers alone could end the crisis by buying fewer gadgets"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về vấn đề rác thải điện tử (các quy định luật pháp đơn thuần là chưa đủ nếu không giải quyết đồng thời vấn đề thực thi và sinh kế của người lao động trong ngành tái chế phi chính thức). Từ đó suy luận ra rằng các quy định đơn thuần là chưa đủ trừ khi việc thực thi và sinh kế cũng được giải quyết (Rules alone are insufficient unless enforcement and livelihoods are addressed too)."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To urge readers to buy the newest phones every year",
+       "B": "To recount the history of the mobile phone industry",
+       "C": "To blame one company for dumping waste abroad",
+       "D": "To analyse the causes, harms, and solutions of e-waste"
+      },
+      "answer": "D",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 và 2 giới thiệu vấn đề rác thải điện tử (e-waste) đang gia tăng nhanh chóng và thiết kế khó sửa chữa của các nhà sản xuất; đoạn 3 và 4 mô tả các hoạt động tái chế phi chính thức và hậu quả độc hại; đoạn 5 và 6 trình bày các chính sách như trách nhiệm mở rộng của nhà sản xuất (EPR), quyền được sửa chữa và việc thực thi luật pháp; đoạn cuối kết luận về giải pháp tổng thể. Do đó, phương án đúng cho câu ý chính phải phản ánh việc rác thải điện tử đang tăng nhanh, do đó cần thiết kế tốt hơn và tăng cường thực thi luật; đồng thời mục đích chính của tác giả là phân tích các nguyên nhân, tác hại và giải pháp cho vấn đề rác thải điện tử.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R4Q2**, tìm từ khóa \"manufacturers\" ở đoạn 2 để thấy cách họ đóng góp vào sự gia tăng rác thải điện tử: thiết kế các sản phẩm rất khó sửa chữa (designing products that are hard to repair).\n  - Với **R4Q5**, định vị từ khóa \"extended producer responsibility\" ở đoạn 5 để xác định yêu cầu của chính sách này: các nhà sản xuất phải chi trả cho việc thu gom và tái chế sản phẩm của họ (Manufacturers must pay for collecting and recycling their products).\n  - Với **R4Q8**, đối soát kỹ các phản ứng chính sách được liệt kê ở đoạn 5 và 6: luật yêu cầu cung cấp phụ tùng thay thế để sửa chữa, hạn chế vận chuyển chất thải nguy hại sang nước nghèo, và các chương trình cho phép người dân trả lại thiết bị cũ cho cửa hàng. Phương án \"thu thuế trên việc sử dụng điện của mỗi hộ gia đình\" không hề xuất hiện trong bài.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R4Q3**, từ **\"illicit\"** ở đoạn 3 đi kèm với việc vận chuyển trái phép chất thải điện tử sang các nước đang phát triển, mang nghĩa trái pháp luật, bất hợp pháp (unlawful).\n  - Với **R4Q7**, từ **\"lax\"** ở đoạn 6 mô tả việc thực thi luật pháp bị lỏng lẻo ở một số khu vực, tương đương với nghĩa lỏng lẻo, dễ dãi (lenient).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R4Q4):** Đọc kỹ câu cần chèn: 'Such open burning releases dioxins and other toxic fumes that workers inhale every day.' Cụm từ \"Such open burning\" liên kết trực tiếp với phương pháp đốt mở các linh kiện để thu hồi kim loại được mô tả ngay trước vị trí **[2]** trong đoạn văn về xử lý rác thải thủ công.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ nhân xưng số nhiều **\"them\"** ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về việc thiết kế lại các thiết bị (*devices*) hoặc thu hồi *chúng* (*them*). Do đó, \"them\" quy chiếu thẳng đến các thiết bị (Devices).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về vấn đề rác thải điện tử (các quy định luật pháp đơn thuần là chưa đủ nếu không giải quyết đồng thời vấn đề thực thi và sinh kế của người lao động trong ngành tái chế phi chính thức). Từ đó suy luận ra rằng các quy định đơn thuần là chưa đủ trừ khi việc thực thi và sinh kế cũng được giải quyết (Rules alone are insufficient unless enforcement and livelihoods are addressed too).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu vào chỗ trống và quy chiếu đại từ (từ R4Q2 đến R4Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R4Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R4Q1) và Mục đích tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your pen pal in the UK.\nYour friend is planning to take a gap year to travel abroad before going to university and asked for your advice. Your pen pal wants to prepare carefully for the trip and future studies.\n- Tell your friend what additional skills are necessary before traveling abroad.\n- Give advice on how to manage time effectively during the trip.\n- Suggest what should be prepared before studying at university.\nWrite an email responding to your pen pal. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your pen pal in the UK.",
+      "Your friend is planning to take a gap year to travel abroad before going to university and asked for your advice."
+     ],
+     "quote": [
+      "Your pen pal wants to prepare carefully for the trip and future studies.",
+      "- Tell your friend what additional skills are necessary before traveling abroad.",
+      "- Give advice on how to manage time effectively during the trip.",
+      "- Suggest what should be prepared before studying at university."
+     ],
+     "instruction": "Write an email responding to your pen pal. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** gửi cho bạn bè hoặc bạn qua thư, vì vậy giọng văn cần thân thiện và tự nhiên.\n- Đề bài yêu cầu trả lời đầy đủ 3 ý chính: kỹ năng cần học trước khi đi nước ngoài, cách quản lý thời gian trong chuyến đi và chuẩn bị cho đại học.\n- Bạn nên viết khoảng 140–170 từ để đảm bảo phát triển ý đầy đủ thay vì chỉ viết sát mức tối thiểu 120 từ.\n- Cần đưa ra lời khuyên cụ thể và thực tế thay vì chỉ liệt kê ngắn gọn.\n- Nên sử dụng trải nghiệm cá nhân hoặc ví dụ gần gũi để bài viết tự nhiên hơn.\n- Đây là chủ đề liên quan đến du lịch và học tập nên từ vựng cần phù hợp với cả hai lĩnh vực.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Chào hỏi thân mật. Ví dụ: Dear Tom,\n- **Opening:** Cảm ơn email và giới thiệu chủ đề. Ví dụ: I was excited to hear about your plan to take a gap year.\n- **Body Paragraph 1:** Nói về các kỹ năng cần thiết như giao tiếp, quản lý tài chính hoặc kỹ năng ngôn ngữ.\n- **Body Paragraph 2:** Đưa lời khuyên về quản lý thời gian trong chuyến đi như lập kế hoạch hoặc đặt mục tiêu.\n- **Body Paragraph 3:** Đề cập việc chuẩn bị cho đại học như tìm hiểu khóa học, cải thiện kỹ năng học tập hoặc chuẩn bị tài chính.\n- **Closing:** Động viên bạn và chúc chuyến đi thành công. Ví dụ: I hope you have an unforgettable experience abroad.\n- **Sign-off:** Best wishes, hoặc Take care,\n- Mỗi đoạn chỉ nên tập trung vào một ý chính để bài viết rõ ràng và dễ đọc.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để đưa lời khuyên và mô tả sự thật chung.\n- Dùng modal verbs như should, can, need to để đưa ra lời khuyên tự nhiên hơn.\n- Sử dụng câu phức với because, although hoặc if để tăng điểm ngữ pháp.\n- Tránh lặp từ “travel” hoặc “study” quá nhiều bằng cách paraphrase.\n- Nên dùng các cụm từ nối để bài viết mạch lạc và có tính liên kết.\n- Không cần dùng từ quá học thuật vì đây là thư thân mật.\nTừ vựng quan trọng:\n- **Communication skills:** Kỹ năng giao tiếp\n- **Time management:** Quản lý thời gian\n- **Budget planning:** Lập kế hoạch tài chính\n- **Independent living:** Sống tự lập\n- **Travel itinerary:** Lịch trình du lịch\n- **University preparation:** Chuẩn bị cho đại học\n- **Cultural awareness:** Hiểu biết văn hóa\n- **Academic skills:** Kỹ năng học tập\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **In addition:** Ngoài ra\n- **Besides:** Bên cạnh đó\n- **However:** Tuy nhiên\n- **As a result:** Kết quả là\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am really happy for you:** Tôi thật sự vui cho bạn.\n- **Your plan sounds amazing:** Kế hoạch của bạn nghe thật tuyệt.\n- **I hope you enjoy every moment of the trip:** Tôi hy vọng bạn tận hưởng mọi khoảnh khắc của chuyến đi.\n- **Don’t worry too much about the future:** Đừng quá lo lắng về tương lai.\n\n**4. Các lỗi thường gặp:**\n- Không trả lời đầy đủ cả 3 câu hỏi trong đề bài.\n- Viết quá ngắn khiến ý tưởng không được phát triển.\n- Dùng giọng văn quá trang trọng cho thư thân mật.\n- Lặp lại từ vựng đơn giản như “good”, “important”, “travel”.\n- Quên lời kết thư hoặc chữ ký cuối thư.\n- Viết sai thì động từ khi đưa lời khuyên.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã trả lời đầy đủ tất cả bullet points chưa.\n- Đếm sơ bộ số từ để chắc chắn vượt 120 từ.\n- Kiểm tra lỗi chính tả và chia động từ.\n- Đảm bảo mỗi đoạn đều có ý chính rõ ràng.\n- Kiểm tra lời chào và lời kết thư.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang thực sự trò chuyện với một người bạn thân.\n- Ưu tiên sự rõ ràng và logic thay vì cố dùng cấu trúc quá khó.\n- Mỗi lời khuyên nên có giải thích hoặc ví dụ ngắn.\n- Đừng chỉ liệt kê ý; hãy phát triển ý tưởng bằng 1–2 câu bổ sung.\n- Sự tự nhiên và mạch lạc sẽ giúp bài viết đạt điểm cao hơn.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nAir pollution has become one of the most serious environmental problems in many countries around the world. It is caused by different factors such as chemical substances, physical pollutants and biological contaminants. This problem negatively affects human health, the environment and the quality of life. Therefore, governments and individuals need to take action to reduce air pollution.\nDiscuss the causes of air pollution and suggest possible solutions to this problem.\nWrite an essay to an educated reader to discuss the problems caused by air pollution and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Air pollution has become one of the most serious environmental problems in many countries around the world. It is caused by different factors such as chemical substances, physical pollutants and biological contaminants. This problem negatively affects human health, the environment and the quality of life. Therefore, governments and individuals need to take action to reduce air pollution.",
+      "Discuss the causes of air pollution and suggest possible solutions to this problem."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss the problems caused by air pollution and suggest possible solutions. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Problem–Solution Essay**. Bạn cần phân tích nguyên nhân của ô nhiễm không khí và đưa ra giải pháp.\n- Đề bài thuộc chủ đề môi trường nên cần sử dụng từ vựng học thuật liên quan đến ô nhiễm và sức khỏe.\n- Bạn phải trình bày rõ cả hai phần: causes và solutions. Nếu thiếu một phần sẽ bị mất điểm Task Fulfilment.\n- Bài viết cần tối thiểu 250 từ, tuy nhiên nên viết khoảng 280–330 từ để phát triển ý hợp lý.\n- Cần nêu nguyên nhân cụ thể như khí thải xe cộ, nhà máy hoặc đốt rác.\n- Giải pháp nên thực tế và có tính khả thi thay vì quá chung chung.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu vấn đề và nêu định hướng bài viết. Ví dụ: Air pollution is becoming a serious issue in many cities around the world.\n- **Body Paragraph 1:** Phân tích các nguyên nhân chính gây ô nhiễm không khí như giao thông, công nghiệp và hoạt động sinh hoạt.\n- **Body Paragraph 2:** Trình bày hậu quả đối với sức khỏe và môi trường. Ví dụ: Polluted air can cause respiratory diseases and climate change.\n- **Body Paragraph 3:** Đưa ra giải pháp như sử dụng năng lượng sạch, phát triển giao thông công cộng và nâng cao nhận thức cộng đồng.\n- **Conclusion:** Tóm tắt vấn đề và nhấn mạnh tầm quan trọng của hành động chung. Ví dụ: In conclusion, both governments and citizens should work together to reduce air pollution.\n- Mỗi đoạn thân bài nên có Topic sentence rõ ràng ở đầu đoạn.\n- Nên sử dụng ví dụ thực tế như tình trạng ô nhiễm ở các thành phố lớn.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để mô tả sự thật và vấn đề chung.\n- Dùng câu bị động để tăng tính học thuật, ví dụ: Air pollution is caused by industrial activities.\n- Sử dụng các từ nối nguyên nhân – kết quả để bài viết logic hơn.\n- Không nên lặp từ “pollution” quá nhiều; hãy paraphrase bằng các cụm từ tương đương.\n- Nên phát triển mỗi ý bằng giải thích và ví dụ ngắn.\n- Sử dụng các cấu trúc như because of, due to, result in để tăng điểm ngữ pháp.\nTừ vựng quan trọng:\n- **Airborne particles:** Các hạt bụi trong không khí\n- **Industrial emissions:** Khí thải công nghiệp\n- **Vehicle exhaust fumes:** Khí thải phương tiện giao thông\n- **Respiratory diseases:** Bệnh về đường hô hấp\n- **Environmental protection:** Bảo vệ môi trường\n- **Renewable energy:** Năng lượng tái tạo\n- **Public transportation:** Giao thông công cộng\n- **Carbon dioxide:** Khí carbon dioxide\nTừ nối (Linking words):\n- **Firstly:** Thứ nhất\n- **Furthermore:** Hơn nữa\n- **As a result:** Kết quả là\n- **For instance:** Ví dụ\n- **However:** Tuy nhiên\n- **Therefore:** Vì vậy\n- **In addition:** Ngoài ra\n- **In conclusion:** Kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- **Environmental contamination:** Cách diễn đạt khác của “pollution”.\n- **Harmful gases released into the atmosphere:** Khí độc hại thải ra môi trường.\n- **Poor air quality:** Chất lượng không khí kém.\n- **Eco-friendly energy sources:** Nguồn năng lượng thân thiện môi trường.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **One major cause of this problem is…:** Một nguyên nhân chính của vấn đề này là…\n- **A practical solution would be to…:** Một giải pháp thực tế là…\n- **Governments should take stricter measures:** Chính phủ nên áp dụng các biện pháp nghiêm ngặt hơn.\n- **Individuals also play an important role in…:** Cá nhân cũng đóng vai trò quan trọng trong…\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về nguyên nhân mà không đưa ra giải pháp.\n- Viết ý quá chung chung, không có ví dụ minh họa.\n- Lặp lại cùng một từ vựng nhiều lần.\n- Dùng sai cấu trúc cause–effect như because hoặc because of.\n- Không chia đoạn rõ ràng khiến bài viết khó theo dõi.\n- Kết luận quá ngắn hoặc không nhắc lại ý chính.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem bài đã có đủ phần causes và solutions chưa.\n- Đếm sơ bộ số từ để chắc chắn vượt 250 từ.\n- Kiểm tra các lỗi chia động từ và chính tả.\n- Đảm bảo mỗi đoạn có câu chủ đề rõ ràng.\n- Kiểm tra các từ nối để bài viết mạch lạc hơn.\n- Đọc lại conclusion để chắc chắn đã khẳng định vấn đề và giải pháp.\n\n**6. Tư duy làm bài:**\n- Hãy tập trung vào chất lượng phát triển ý thay vì cố viết quá dài.\n- Mỗi nguyên nhân nên đi kèm ít nhất một hậu quả hoặc ví dụ.\n- Giải pháp cần thực tế và có thể áp dụng trong cuộc sống.\n- Ưu tiên bố cục logic và tính liên kết giữa các đoạn văn.\n- Người chấm đánh giá cao bài viết rõ ràng, mạch lạc và đúng yêu cầu đề bài."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about parties\n\n1\nWhat activity do you like best at parties?\n2\nHow do you usually dress when attending parties?\n3\nDo you enjoy making new friends at parties?\n\nNow, let’s talk about recycling\n\n4\nHow often do you recycle?\n5\nWhat items do you usually recycle?\n6\nWhat do you think are the benefits of recycling?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này kéo dài khoảng 3 phút với 6 câu hỏi cá nhân về cuộc sống hằng ngày và các vấn đề xã hội quen thuộc.\n- **Topic A (Parties):** Các câu hỏi 1–3 tập trung vào hoạt động ở các buổi tiệc, phong cách ăn mặc và khả năng giao tiếp xã hội.\n- **Topic B (Recycling):** Các câu hỏi 4–6 yêu cầu bạn nói về thói quen tái chế và lợi ích của việc bảo vệ môi trường.\n- Giám khảo sẽ đánh giá độ trôi chảy, vốn từ vựng, độ chính xác ngữ pháp và khả năng phát âm.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và đảm bảo phát triển đều cả hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc ARE: Answer -> Reason -> Example để trả lời mạch lạc và tự nhiên.\n- **Ví dụ Topic A:** My favorite activity at parties is talking with friends because I enjoy sharing stories and having fun conversations.\n- **Ví dụ Topic B:** I recycle plastic bottles and paper regularly because I want to reduce waste and protect the\nenvironment.\n- Luôn tự hỏi Why? hoặc How? để kéo dài ý thay vì trả lời quá ngắn.\n- Để chuyển chủ đề tự nhiên, bạn có thể dùng câu như: Besides social activities, I also care a lot about environmental protection.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định và sử dụng fillers như well, actually hoặc to be honest để tránh khoảng lặng.\n- Topic A chủ yếu sử dụng hiện tại đơn để nói về sở thích và thói quen khi tham gia tiệc.\n- Topic B cũng sử dụng hiện tại đơn khi mô tả thói quen tái chế và lợi ích môi trường.\n- Nếu quên từ vựng, hãy mô tả bằng những từ đơn giản hơn thay vì dừng quá lâu.\n- Vocabulary for Topic A: social gathering (buổi gặp gỡ xã hội), casual clothes (quần áo thường ngày), make new connections (tạo mối quan hệ mới), outgoing personality (tính cách hướng ngoại).\n- Vocabulary for Topic B: recyclable materials (vật liệu tái chế), reduce waste (giảm rác thải), environmental awareness (nhận thức môi trường), sustainable lifestyle (lối sống bền vững).\nCụm từ quan trọng nên dùng:\n- have a great time with friends – có khoảng thời gian vui vẻ với bạn bè\n- dress appropriately for the occasion – ăn mặc phù hợp với dịp\n- feel comfortable in social situations – cảm thấy thoải mái trong các tình huống xã hội\n- separate waste for recycling – phân loại rác để tái chế\n- protect the natural environment – bảo vệ môi trường tự nhiên\n- reduce pollution effectively – giảm ô nhiễm hiệu quả\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Besides that – bên cạnh đó\n- For example – ví dụ\n- However – tuy nhiên\n- As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n- From my perspective, parties are a great way to relax and connect with people. – Theo góc nhìn của tôi...\n- I personally believe that dressing appropriately shows respect for the host. – Cá nhân tôi tin rằng...\n- As far as I am concerned, making new friends can help people become more confident. – Theo như tôi thấy...\n- To be honest, recycling is one of the easiest ways to protect the environment. – Thành thật mà nói...\n- I would say that many people recycle more nowadays because they care about climate change. – Tôi cho rằng...\n- In my opinion, schools should encourage students to recycle regularly. – Theo ý kiến của tôi...\n\n**4. Các lỗi thường gặp:**\n- Trả lời quá ngắn bằng Yes hoặc No mà không giải thích thêm.\n- Ở Topic A, nhiều bạn chỉ nói thích tiệc mà không mô tả hoạt động hoặc cảm xúc cụ thể.\n- Ở Topic B, nhiều bạn lặp lại từ recycle quá nhiều thay vì dùng các cụm từ liên quan khác.\n- Dùng sai thì hoặc thiếu động từ khi nói về thói quen hằng ngày.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu đệm như: That is an interesting question, let me think for a moment.\n- Nếu quên từ, hãy mô tả chức năng hoặc đưa ví dụ thực tế thay vì im lặng.\n- Ở Topic A, nếu bí ý hãy kể về một buổi tiệc gần đây bạn từng tham gia.\n- Ở Topic B, nếu không biết nói về tái chế, hãy liên hệ đến việc bảo vệ môi trường hoặc tiết kiệm tài nguyên.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem phần thi như một cuộc trò chuyện tự nhiên với giám khảo.\n- Khi chuyển từ chủ đề tiệc tùng sang môi trường, hãy thay đổi ví dụ để bài nói đa dạng hơn.\n- Sự tự nhiên và rõ ràng quan trọng hơn việc cố dùng quá nhiều từ khó.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYour friend is an IT student who is about to graduate. He is very creative and is considering different career options after graduation.\n\nYou are considering the following options:\n\nOption 1: Become a graphic designer\nOption 2: Work as an IT support specialist\nOption 3: Become a digital content creator\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn lựa chọn nghề nghiệp phù hợp nhất cho một sinh viên IT sáng tạo sau khi tốt nghiệp.\n- Ba lựa chọn bao gồm thiết kế đồ họa, chuyên viên hỗ trợ IT và nhà sáng tạo nội dung số.\n- Giám khảo đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định hợp lý.\n- Thời gian khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị và khoảng 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc I-C-E: Introduction -> Comparison -> Ending để trình bày rõ ràng.\n- Option 1 phù hợp với người sáng tạo và có kỹ năng thiết kế hình ảnh.\n- Option 2 ổn định hơn và liên quan trực tiếp đến chuyên ngành IT.\n- Option 3 cho phép người trẻ thể hiện cá tính và sáng tạo nội dung trên nền tảng số.\n- Hãy liên hệ với xu hướng nghề nghiệp hiện nay để bài nói thực tế hơn.\n- Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển ý mượt mà.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Hãy liên kết các lựa chọn với nhau thay vì phân tích hoàn toàn tách biệt.\n- Dùng hiện tại đơn để mô tả đặc điểm công việc và tương lai đơn khi nói về triển vọng nghề nghiệp.\n- Nếu quên từ chuyên môn, hãy dùng cách diễn đạt đơn giản nhưng chính xác.\nCụm từ quan trọng nên dùng:\n- develop creative skills – phát triển kỹ năng sáng tạo\n- have stable career opportunities – có cơ hội nghề nghiệp ổn định\n- work in a dynamic environment – làm việc trong môi trường năng động\n- express personal creativity – thể hiện sự sáng tạo cá nhân\n- build a strong online presence – xây dựng hình ảnh trực tuyến mạnh\n- adapt to modern technology trends – thích nghi với xu hướng công nghệ hiện đại\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Moreover – hơn nữa\n- On the other hand – mặt khác\n- As a consequence – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that becoming a digital content creator is the most suitable option for a creative IT student. – Tôi thực sự tin rằng...\n- Compared to IT support, graphic design allows more freedom for creativity. – So với...\n- In my opinion, career satisfaction is just as important as salary. – Theo ý kiến của tôi...\n\n**4. Các lỗi thường gặp:**\n- Chỉ tập trung khen lựa chọn yêu thích mà không phân tích hạn chế của các lựa chọn còn lại.\n- Lặp lại từ good hoặc interesting quá nhiều thay vì dùng creative, stable hoặc flexible.\n- Kết luận không rõ ràng hoặc thay đổi lựa chọn ở cuối bài.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên môn, hãy nói về môi trường làm việc hoặc kỹ năng liên quan.\n- Bạn có thể dùng câu đệm như: Let's look at this option from another perspective.\n- Nếu bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn tiếp theo để duy trì sự trôi chảy.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người tư vấn nghề nghiệp muốn chọn công việc phù hợp nhất cho bạn mình.\n- Ngay cả với lựa chọn tốt nhất, bạn vẫn có thể đề xuất thêm kỹ năng cần phát triển để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nResponsibilities of pet owners\n\nPet Owner Responsibilities\nProviding proper nutrition for pets\nEnsuring pets get enough exercise\nGiving pets companionship and care\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhat pets are popular in your country?\n2\nWhat are the benefits of children keeping pets?\n3\nWhat are the harmful effects of keeping pets?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn trình bày trách nhiệm của những người nuôi thú cưng trong cuộc sống hiện đại.\n- Ba nhánh ý chính gồm cung cấp dinh dưỡng phù hợp, cho thú cưng vận động đầy đủ và chăm sóc về tinh thần.\n- Nhánh ý cá nhân có thể nói về việc đưa thú cưng đi khám bác sĩ thú y định kỳ.\n- Giám khảo đánh giá khả năng phát triển ý, sử dụng ví dụ và trả lời câu hỏi follow-up một cách logic.\n- Thời gian khoảng 5 phút, trong đó khoảng 3–3.5 phút dành cho bài nói chính và phần còn lại cho follow-up questions.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để bài nói rõ ràng và mạch lạc.\n- **Ví dụ 1:** Today, I would like to talk about the responsibilities that pet owners should have.\n- **Ví dụ 2:** Another important responsibility is taking pets to the veterinarian regularly to prevent diseases.\n- Hãy sử dụng ví dụ thực tế như chó, mèo hoặc thú cưng phổ biến để bài nói gần gũi hơn.\n- Luôn bám theo sơ đồ tư duy để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng các cụm chuyển ý như another important responsibility hoặc besides that để chuyển giữa các nhánh.\n- Dùng hiện tại đơn để nói về trách nhiệm và sự thật chung.\n- Bạn có thể paraphrase pets bằng domestic animals hoặc companion animals.\nCụm từ quan trọng nên dùng:\n- provide a balanced diet – cung cấp chế độ ăn cân bằng\n- take pets for regular walks – đưa thú cưng đi dạo thường xuyên\n- show love and attention – thể hiện sự yêu thương và quan tâm\n- maintain pets' health – duy trì sức khỏe cho thú cưng\n- create a safe environment – tạo môi trường an toàn\n- visit the veterinarian regularly – đi khám bác sĩ thú y định kỳ\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Furthermore – hơn nữa\n- For example – ví dụ\n- As a result – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, owning a pet is a long-term responsibility. – Theo ý kiến của tôi...\n- I strongly believe that pets should be treated like family members. – Tôi thực sự tin rằng...\n- From my perspective, responsible pet owners can improve animal welfare significantly. – Theo góc nhìn của tôi...\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **What pets are popular in your country?** – Dogs and cats are the most common pets because they are friendly and easy to take care of.\n- **What are the benefits of children keeping pets?** – Keeping pets can teach children responsibility, empathy and patience.\n- **What are the harmful effects of keeping pets?** – Pets can sometimes cause allergies or require a lot of time and money to care for properly.\n\n**5. Các lỗi thường gặp:**\n- Nhiều bạn chỉ liệt kê trách nhiệm mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển nhánh ý cá nhân khiến bài nói thiếu chiều sâu.\n- Nói quá dài ở phần main speech nên không còn thời gian cho follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với thú cưng của bản thân hoặc của người quen.\n- Bạn có thể dùng câu học thuật như: That is a complex issue. If we consider it from an animal welfare perspective...\n- Nếu quên từ chuyên ngành, hãy mô tả chức năng hoặc hành động liên quan thay vì im lặng.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn vấn đề từ góc độ trách nhiệm và tình yêu đối với động vật.\n- Sự logic và liên kết giữa các ý quan trọng hơn việc sử dụng quá nhiều từ khó.\n- Hãy thể hiện quan điểm cân bằng khi nói về lợi ích và khó khăn của việc nuôi thú cưng."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about parties.\n1.\nWhat activity do you like best at parties?\n2.\nHow do you usually dress when attending parties?\n3.\nDo you enjoy making new friends at parties?\nNow, let’s talk about recycling.\n4.\nHow often do you recycle?\n5.\nWhat items do you usually recycle?\n6.\nWhat do you think are the benefits of recycling?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này kéo dài khoảng 3 phút với 6 câu hỏi cá nhân về cuộc sống hằng ngày và các vấn đề xã hội quen thuộc.\n• Topic A (Parties): Các câu hỏi 1–3 tập trung vào hoạt động ở các buổi tiệc, phong cách ăn mặc và khả năng giao\ntiếp xã hội.\n• Topic B (Recycling): Các câu hỏi 4–6 yêu cầu bạn nói về thói quen tái chế và lợi ích của việc bảo vệ môi trường.\n• Giám khảo sẽ đánh giá độ trôi chảy, vốn từ vựng, độ chính xác ngữ pháp và khả năng phát âm.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và đảm bảo phát triển đều cả hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc ARE: Answer -> Reason -> Example để trả lời mạch lạc và tự nhiên.\n• Ví dụ Topic A: My favorite activity at parties is talking with friends because I enjoy sharing stories and having fun\nconversations.\n• Ví dụ Topic B: I recycle plastic bottles and paper regularly because I want to reduce waste and protect the\nenvironment.\n• Luôn tự hỏi Why? hoặc How? để kéo dài ý thay vì trả lời quá ngắn.\n• Để chuyển chủ đề tự nhiên, bạn có thể dùng câu như: Besides social activities, I also care a lot about environmental\nprotection.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định và sử dụng fillers như well, actually hoặc to be honest để tránh khoảng lặng.\n• Topic A chủ yếu sử dụng hiện tại đơn để nói về sở thích và thói quen khi tham gia tiệc.\n• Topic B cũng sử dụng hiện tại đơn khi mô tả thói quen tái chế và lợi ích môi trường.\n• Nếu quên từ vựng, hãy mô tả bằng những từ đơn giản hơn thay vì dừng quá lâu.\n• Vocabulary for Topic A: social gathering (buổi gặp gỡ xã hội), casual clothes (quần áo thường ngày), make new\nconnections (tạo mối quan hệ mới), outgoing personality (tính cách hướng ngoại).\n• Vocabulary for Topic B: recyclable materials (vật liệu tái chế), reduce waste (giảm rác thải), environmental awareness\n(nhận thức môi trường), sustainable lifestyle (lối sống bền vững).\nCụm từ quan trọng nên dùng:\n• have a great time with friends – có khoảng thời gian vui vẻ với bạn bè\n• dress appropriately for the occasion – ăn mặc phù hợp với dịp\n• feel comfortable in social situations – cảm thấy thoải mái trong các tình huống xã hội\n• separate waste for recycling – phân loại rác để tái chế\n• protect the natural environment – bảo vệ môi trường tự nhiên\n• reduce pollution effectively – giảm ô nhiễm hiệu quả\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Besides that – bên cạnh đó\n• For example – ví dụ\n• However – tuy nhiên\n• As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n• From my perspective, parties are a great way to relax and connect with people. – Theo góc nhìn của tôi...\n• I personally believe that dressing appropriately shows respect for the host. – Cá nhân tôi tin rằng...\n• As far as I am concerned, making new friends can help people become more confident. – Theo như tôi thấy...\n• To be honest, recycling is one of the easiest ways to protect the environment. – Thành thật mà nói...\n• I would say that many people recycle more nowadays because they care about climate change. – Tôi cho rằng...\n• In my opinion, schools should encourage students to recycle regularly. – Theo ý kiến của tôi...\n4. Các lỗi thường gặp:\n• Trả lời quá ngắn bằng Yes hoặc No mà không giải thích thêm.\n• Ở Topic A, nhiều bạn chỉ nói thích tiệc mà không mô tả hoạt động hoặc cảm xúc cụ thể.\n• Ở Topic B, nhiều bạn lặp lại từ recycle quá nhiều thay vì dùng các cụm từ liên quan khác.\n• Dùng sai thì hoặc thiếu động từ khi nói về thói quen hằng ngày.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu đệm như: That is an interesting question, let me think for a moment.\n• Nếu quên từ, hãy mô tả chức năng hoặc đưa ví dụ thực tế thay vì im lặng.\n• Ở Topic A, nếu bí ý hãy kể về một buổi tiệc gần đây bạn từng tham gia.\n• Ở Topic B, nếu không biết nói về tái chế, hãy liên hệ đến việc bảo vệ môi trường hoặc tiết kiệm tài nguyên.\n6. Tư duy làm bài nói:\n• Hãy xem phần thi như một cuộc trò chuyện tự nhiên với giám khảo.\n• Khi chuyển từ chủ đề tiệc tùng sang môi trường, hãy thay đổi ví dụ để bài nói đa dạng hơn.\n• Sự tự nhiên và rõ ràng quan trọng hơn việc cố dùng quá nhiều từ khó.\nSolution Discussion\nPART 2\n4 phút\nYour friend is an IT student who is about to graduate. He is very creative and is considering different career options\nafter graduation.\nYou are considering the following options:\n• Option 1: Become a graphic designer\n• Option 2: Work as an IT support specialist\n• Option 3: Become a digital content creator\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn lựa chọn nghề nghiệp phù hợp nhất cho một sinh viên IT sáng tạo sau khi tốt nghiệp.\n• Ba lựa chọn bao gồm thiết kế đồ họa, chuyên viên hỗ trợ IT và nhà sáng tạo nội dung số.\n• Giám khảo đánh giá khả năng so sánh, lập luận logic và đưa ra quyết định hợp lý.\n• Thời gian khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị và khoảng 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc I-C-E: Introduction -> Comparison -> Ending để trình bày rõ ràng.\n• Option 1 phù hợp với người sáng tạo và có kỹ năng thiết kế hình ảnh.\n• Option 2 ổn định hơn và liên quan trực tiếp đến chuyên ngành IT.\n• Option 3 cho phép người trẻ thể hiện cá tính và sáng tạo nội dung trên nền tảng số.\n• Hãy liên hệ với xu hướng nghề nghiệp hiện nay để bài nói thực tế hơn.\n• Sử dụng từ nối đối lập như however hoặc on the other hand để chuyển ý mượt mà.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Hãy liên kết các lựa chọn với nhau thay vì phân tích hoàn toàn tách biệt.\n• Dùng hiện tại đơn để mô tả đặc điểm công việc và tương lai đơn khi nói về triển vọng nghề nghiệp.\n• Nếu quên từ chuyên môn, hãy dùng cách diễn đạt đơn giản nhưng chính xác.\nCụm từ quan trọng nên dùng:\n• develop creative skills – phát triển kỹ năng sáng tạo\n• have stable career opportunities – có cơ hội nghề nghiệp ổn định\n• work in a dynamic environment – làm việc trong môi trường năng động\n• express personal creativity – thể hiện sự sáng tạo cá nhân\n• build a strong online presence – xây dựng hình ảnh trực tuyến mạnh\n• adapt to modern technology trends – thích nghi với xu hướng công nghệ hiện đại\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Moreover – hơn nữa\n• On the other hand – mặt khác\n• As a consequence – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that becoming a digital content creator is the most suitable option for a creative IT student. – Tôi\nthực sự tin rằng...\n• Compared to IT support, graphic design allows more freedom for creativity. – So với...\n• In my opinion, career satisfaction is just as important as salary. – Theo ý kiến của tôi...\n4. Các lỗi thường gặp:\n• Chỉ tập trung khen lựa chọn yêu thích mà không phân tích hạn chế của các lựa chọn còn lại.\n• Lặp lại từ good hoặc interesting quá nhiều thay vì dùng creative, stable hoặc flexible.\n• Kết luận không rõ ràng hoặc thay đổi lựa chọn ở cuối bài.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên môn, hãy nói về môi trường làm việc hoặc kỹ năng liên quan.\n• Bạn có thể dùng câu đệm như: Let's look at this option from another perspective.\n• Nếu bí ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn tiếp theo để duy trì sự trôi chảy.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người tư vấn nghề nghiệp muốn chọn công việc phù hợp nhất cho bạn mình.\n• Ngay cả với lựa chọn tốt nhất, bạn vẫn có thể đề xuất thêm kỹ năng cần phát triển để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: Responsibilities of pet owners\nProviding proper nutrition for pets\nEnsuring pets get enough exercise\nPet Owner Responsibilities\nÝ tưởng của bạn\nGiving pets companionship and care\nFOLLOW-UP QUESTIONS\n1.\nWhat pets are popular in your country?\n2.\nWhat are the benefits of children keeping pets?\n3.\nWhat are the harmful effects of keeping pets?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn trình bày trách nhiệm của những người nuôi thú cưng trong cuộc sống hiện đại.\n• Ba nhánh ý chính gồm cung cấp dinh dưỡng phù hợp, cho thú cưng vận động đầy đủ và chăm sóc về tinh thần.\n• Nhánh ý cá nhân có thể nói về việc đưa thú cưng đi khám bác sĩ thú y định kỳ.\n• Giám khảo đánh giá khả năng phát triển ý, sử dụng ví dụ và trả lời câu hỏi follow-up một cách logic.\n• Thời gian khoảng 5 phút, trong đó khoảng 3–3.5 phút dành cho bài nói chính và phần còn lại cho follow-up questions.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc FEEL: Point -> Explanation -> Example -> Link để bài nói rõ ràng và mạch lạc.\n• Ví dụ 1: Today, I would like to talk about the responsibilities that pet owners should have.\n• Ví dụ 2: Another important responsibility is taking pets to the veterinarian regularly to prevent diseases.\n• Hãy sử dụng ví dụ thực tế như chó, mèo hoặc thú cưng phổ biến để bài nói gần gũi hơn.\n• Luôn bám theo sơ đồ tư duy để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng các cụm chuyển ý như another important responsibility hoặc besides that để chuyển giữa các nhánh.\n• Dùng hiện tại đơn để nói về trách nhiệm và sự thật chung.\n• Bạn có thể paraphrase pets bằng domestic animals hoặc companion animals.\nCụm từ quan trọng nên dùng:\n• provide a balanced diet – cung cấp chế độ ăn cân bằng\n• take pets for regular walks – đưa thú cưng đi dạo thường xuyên\n• show love and attention – thể hiện sự yêu thương và quan tâm\n• maintain pets' health – duy trì sức khỏe cho thú cưng\n• create a safe environment – tạo môi trường an toàn\n• visit the veterinarian regularly – đi khám bác sĩ thú y định kỳ\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Furthermore – hơn nữa\n• For example – ví dụ\n• As a result – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, owning a pet is a long-term responsibility. – Theo ý kiến của tôi...\n• I strongly believe that pets should be treated like family members. – Tôi thực sự tin rằng...\n• From my perspective, responsible pet owners can improve animal welfare significantly. – Theo góc nhìn của tôi...\n4. Gợi ý trả lời câu hỏi follow-up:\n• What pets are popular in your country? – Dogs and cats are the most common pets because they are friendly and\neasy to take care of.\n• What are the benefits of children keeping pets? – Keeping pets can teach children responsibility, empathy and\npatience.\n• What are the harmful effects of keeping pets? – Pets can sometimes cause allergies or require a lot of time and\nmoney to care for properly.\n5. Các lỗi thường gặp:\n• Nhiều bạn chỉ liệt kê trách nhiệm mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển nhánh ý cá nhân khiến bài nói thiếu chiều sâu.\n• Nói quá dài ở phần main speech nên không còn thời gian cho follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với thú cưng của bản thân hoặc của người quen.\n• Bạn có thể dùng câu học thuật như: That is a complex issue. If we consider it from an animal welfare perspective...\n• Nếu quên từ chuyên ngành, hãy mô tả chức năng hoặc hành động liên quan thay vì im lặng.\n7. Tư duy làm bài nói:\n• Hãy nhìn vấn đề từ góc độ trách nhiệm và tình yêu đối với động vật.\n• Sự logic và liên kết giữa các ý quan trọng hơn việc sử dụng quá nhiều từ khó.\n• Hãy thể hiện quan điểm cân bằng khi nói về lợi ích và khó khăn của việc nuôi thú cưng."
+}

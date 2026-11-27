@@ -1,0 +1,717 @@
+{
+ "id": "vlu-21",
+ "number": 21,
+ "title": "Đề thi VLU 21",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-21",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Story of a Modern Inventor",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Many everyday objects, from phones to kitchen tools, were once only an idea in the mind of an inventor, and some inventors became famous for solving simple problems in clever ways. One modern example is James Dyson, a British designer who changed the way many people clean their homes. He was born in England in 1947 and studied art and design before moving into engineering. His story shows how patience and imagination can turn a small annoyance into a successful business.",
+     "In the late 1970s, Dyson found his vacuum cleaner at home quite frustrating. The machine used a bag to collect dust, and he noticed that as the bag filled up, the dust blocked the tiny holes in it, so the cleaner slowly lost its power. He wondered whether a machine could separate dust from air without using a bag at all. He later explained that the idea came from a sawmill, where a large machine used a spinning motion called a cyclone to remove sawdust from the air.",
+     "Dyson decided to build a small cyclone for the home, but the work was not easy. Over about five years, he reportedly built more than five thousand prototypes, and each one was slightly different from the last because he changed the shape, the size, or the materials. He tested each version by cleaning the same floor and then measuring how much dust it had collected. During this time, his wife worked as a teacher and helped to support the family, while he spent his savings and borrowed money from a bank. Many people would have given up, but Dyson was determined to continue until his idea worked.",
+     "At first, many large companies refused to take the risk of making his new machine. Large companies already earned steady profits from selling replacement bags, and **they** worried that a bagless machine would harm that business, so Dyson eventually started his own company. His first cyclone cleaner was sold in Japan in the 1980s, and a British version, the DC01, appeared in 1993. Within a few years, it became one of the best-selling vacuum cleaners in Britain. The company later opened factories and research centres in Asia and became famous for its bright and unusual product designs.",
+     "Today the company also makes hairdryers, fans, and air purifiers using similar ideas. Dyson has been described as one of Britain's wealthiest people, and he has used part of his fortune to support engineering education, including a university-level institute where students work on real projects. Not every idea succeeds, however, and the company has also cancelled some projects after spending large sums of money. In conclusion, the story of Dyson teaches us that creative ideas need patience, hard work, and the courage to keep trying after many failures."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Vacuum cleaners were first invented by monks to clean old churches",
+       "B": "Large companies always welcome new ideas from young inventors and engineers",
+       "C": "James Dyson used patience and creativity to turn a problem into success",
+       "D": "Modern inventors must never borrow money to build their first machines"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, why did Dyson's vacuum cleaner lose power?",
+      "options": {
+       "A": "Dust blocked the small holes in the bag",
+       "B": "The motor became too hot after a few minutes",
+       "C": "Wheels often stuck on the thick carpet at home",
+       "D": "He used the machine in a very dusty room"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 2 để tìm nguyên nhân máy hút bụi mất lực: bụi bám làm tắc các lỗ li ti trên túi chứa (Dust blocked the small holes in the bag)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"frustrating\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "exciting",
+       "B": "annoying",
+       "C": "dangerous",
+       "D": "cheerful"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"frustrating\" ở đoạn 2 mô tả cảm giác bực bội, khó chịu khi máy hút bụi liên tục bị mất lực, mang nghĩa gây phiền toái, bực mình (annoying)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, how did Dyson test his prototypes?",
+      "options": {
+       "A": "He asked neighbours to vote for the best design",
+       "B": "Each machine was sent to a laboratory in Japan",
+       "C": "Rival engineers secretly tested each design for him",
+       "D": "He cleaned the same floor and measured the dust"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": null
+     },
+     {
+      "number": 5,
+      "stem": "The word \"determined\" in paragraph 3 is closest in meaning to _______.",
+      "options": {
+       "A": "easily bored",
+       "B": "quite nervous",
+       "C": "firmly committed",
+       "D": "rather confused"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"determined\" ở đoạn 3 mô tả thái độ kiên quyết không bỏ cuộc của Dyson dù gặp nhiều khó khăn, mang nghĩa kiên quyết, tận tụy, cam kết vững chắc (firmly committed)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"they\" in paragraph 4 refers to _______.",
+      "options": {
+       "A": "Large companies",
+       "B": "Replacement bags",
+       "C": "Dyson's customers",
+       "D": "Japanese buyers"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"they\" ở đoạn 4, hãy đọc ngược lại danh từ chỉ đối tượng số nhiều đứng ngay trước đó trong câu: các công ty lớn (Large companies) lo ngại máy hút bụi không túi sẽ ảnh hưởng đến việc kinh doanh túi lọc thay thế của họ."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, where was Dyson's first cyclone cleaner sold?",
+      "options": {
+       "A": "Shops in Germany were selling it as early as 1965",
+       "B": "It was first sold in Japan during the 1980s",
+       "C": "It appeared in British shops on the very first day",
+       "D": "A Dutch company bought the idea and sold it widely"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 để tìm nơi bán máy hút bụi lốc xoáy đầu tiên của Dyson: được bán lần đầu tại Nhật Bản vào những năm 1980 (It was first sold in Japan during the 1980s)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned about Dyson?",
+      "options": {
+       "A": "The company sells hairdryers, fans, and air purifiers",
+       "B": "He funds engineering education with his own money",
+       "C": "Some projects stopped after large amounts were spent",
+       "D": "He eventually sold everything to a competitor"
+      },
+      "answer": "D",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các thông tin được nêu ở đoạn 5: công ty bán máy sấy tóc, quạt; ông dùng tài sản hỗ trợ giáo dục kỹ thuật; một số dự án bị hủy sau khi tốn nhiều tiền. Phương án cho rằng \"ông cuối cùng đã bán toàn bộ cơ ngơi cho đối thủ\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred about Dyson from the whole passage?",
+      "options": {
+       "A": "He believed in his idea and kept working despite many failures",
+       "B": "He gave up quickly whenever an experiment did not work",
+       "C": "Success came easily because companies supported him from the start",
+       "D": "He designed products only for rich customers living in Japan"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ toàn bài về chặng đường 5.000 nguyên mẫu thất bại nhưng không nản lòng của Dyson, từ đó suy luận rằng ông đã tin tưởng vào ý tưởng của mình và tiếp tục làm việc bất chấp nhiều thất bại (He believed in his idea and kept working despite many failures)."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To teach readers how to repair a broken vacuum cleaner at home",
+       "B": "To advertise the newest products made by a famous British company",
+       "C": "To tell the story of an inventor who solved a problem",
+       "D": "To compare several inventors who all failed to find any success Reading"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R1Q1, R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để thấy văn bản kể về câu chuyện của James Dyson, người đã kiên trì vượt qua khó khăn để biến một ý tưởng thành công ty thành công. Do đó, phương án đúng phải khái quát được việc James Dyson dùng sự kiên nhẫn và sáng tạo để biến rắc rối thành thành công (R1Q1) và mục đích kể lại câu chuyện của một nhà sáng chế giải quyết vấn đề (R1Q10).\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R1Q2**, quét đoạn 2 để tìm nguyên nhân máy hút bụi mất lực: bụi bám làm tắc các lỗ li ti trên túi chứa (Dust blocked the small holes in the bag).\n  - With **R1Q4**, quét đoạn 3 để định vị cách Dyson thử nghiệm các nguyên mẫu: ông lau cùng một sàn nhà và đo lường lượng bụi thu được (He cleaned the same floor and measured the dust).\n  - Với **R1Q7**, quét đoạn 4 để tìm nơi bán máy hút bụi lốc xoáy đầu tiên của Dyson: được bán lần đầu tại Nhật Bản vào những năm 1980 (It was first sold in Japan during the 1980s).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R1Q3**, từ **\"frustrating\"** ở đoạn 2 mô tả cảm giác bực bội, khó chịu khi máy hút bụi liên tục bị mất lực, mang nghĩa gây phiền toái, bực mình (annoying).\n  - Với **R1Q5**, từ **\"determined\"** ở đoạn 3 mô tả thái độ kiên quyết không bỏ cuộc của Dyson dù gặp nhiều khó khăn, mang nghĩa kiên quyết, tận tụy, cam kết vững chắc (firmly committed).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Với đại từ **\"they\"** ở đoạn 4, hãy đọc ngược lại danh từ chỉ đối tượng số nhiều đứng ngay trước đó trong câu: các công ty lớn (Large companies) lo ngại máy hút bụi không túi sẽ ảnh hưởng đến việc kinh doanh túi lọc thay thế của họ.\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R1Q8):** Đối chiếu danh sách các thông tin được nêu ở đoạn 5: công ty bán máy sấy tóc, quạt; ông dùng tài sản hỗ trợ giáo dục kỹ thuật; một số dự án bị hủy sau khi tốn nhiều tiền. Phương án cho rằng \"ông cuối cùng đã bán toàn bộ cơ ngơi cho đối thủ\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ toàn bài về chặng đường 5.000 nguyên mẫu thất bại nhưng không nản lòng của Dyson, từ đó suy luận rằng ông đã tin tưởng vào ý tưởng của mình và tiếp tục làm việc bất chấp nhiều thất bại (He believed in his idea and kept working despite many failures).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R1Q3, R1Q5), Quy chiếu (R1Q6) và các câu **Chi tiết** (R1Q2, R1Q4, R1Q7), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "Australia's Response to the COVID-19 Pandemic",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "When the World Health Organization declared COVID-19 a pandemic in March 2020, Australia, an island nation with few international entry points, sought to keep the virus out for as long as possible. Its strategy combined tight border controls, local lockdowns, and, later, a large vaccination programme. The approach was widely praised in the early stages, yet it also provoked fierce debate as the pandemic dragged on.",
+     "In March 2020, the federal government closed the border to most non-residents and required returning citizens to spend two weeks in stringent hotel quarantine, a measure that was later extended. Individual states also closed their internal borders, sometimes at very short notice. Exemptions were granted only in limited circumstances, such as compassionate cases or essential work. Some families were separated for months, and thousands of Australians were reportedly stranded overseas because flights were limited and expensive.",
+     "Responsibility for public health in Australia lies mainly with the states and territories. To coordinate their responses, federal and state leaders formed a National Cabinet in March 2020, **which** met often to agree on common rules, although premiers still made their own decisions about lockdowns. Melbourne, in particular, experienced several lockdowns that together lasted more than 250 days, among the longest in the world. Compliance was generally high, helped by clear public messaging and widespread concern about the virus.",
+     "The government also spent heavily to protect jobs and incomes during the crisis. The JobKeeper scheme, introduced in 2020, subsidised the wages of employees whose businesses had suffered large falls in revenue, and it was accompanied by temporary increases in unemployment benefits and support for households. Economists generally credit these measures with limiting job losses, although some later analyses suggested that payments went to firms that did not really need them.",
+     "Vaccination began relatively slowly, with the first doses given in February 2021. Early supply shortages and public concern about rare side effects of one vaccine made the rollout **contentious**, but a surge in late 2021 brought coverage among adults to very high levels. Authorities then began to relax restrictions, and borders reopened to vaccinated travellers in early 2022. The Omicron variant, however, caused a large wave of infections soon afterwards, showing that earlier success in limiting cases could not last indefinitely.",
+     "Assessing Australia's overall record involves weighing several competing factors rather than reaching a simple verdict. On the positive side, mortality per capita remained among the lowest in wealthy countries during 2020 and 2021, and the economy recovered relatively quickly compared with many peers. Critics, however, point to the heavy costs of prolonged restrictions, including disruption to schooling, harm to mental health, damage to small businesses, and strain on families separated by closed borders.",
+     "Australia's experience therefore offers lessons rather than a template for other countries. Its geography, its federal system, and its willingness to impose restrictions all shaped outcomes, and similar policies might have produced different results in densely connected or less affluent societies. What the pandemic did demonstrate is the value of clear communication, public trust, and flexibility when evidence changes quickly. Future preparedness will depend on investing in public health systems, data, and cooperation between governments."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Australia's strict pandemic response brought success alongside serious social costs",
+       "B": "Australia avoided every restriction and relied on voluntary measures",
+       "C": "Vaccination was completed before any outbreak reached Australian cities",
+       "D": "State governments surrendered all decision-making power to international agencies"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, what did the federal government require of returning citizens?",
+      "options": {
+       "A": "They could return freely after a short airport health check",
+       "B": "They were refused entry for at least twelve whole months",
+       "C": "They had to complete fourteen days in hotel quarantine",
+       "D": "Each traveller paid a large fine upon arriving back home"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm yêu cầu của chính phủ liên bang đối với công dân trở về: phải hoàn thành 14 ngày cách ly tại khách sạn (had to complete fourteen days in hotel quarantine)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"stringent\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "flexible",
+       "B": "rigorous",
+       "C": "optional",
+       "D": "comfortable"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"stringent\" ở đoạn 2 đi kèm với việc cách ly khách sạn nghiêm ngặt, khắt khe, mang nghĩa nghiêm ngặt, chặt chẽ (rigorous)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, what was the purpose of the National Cabinet?",
+      "options": {
+       "A": "To replace state governments during a national emergency",
+       "B": "To control all lockdowns from one federal office",
+       "C": "To approve funding for hospitals in each state",
+       "D": "To coordinate responses and agree on common rules"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để định vị mục đích của Nội các Quốc gia (National Cabinet): phối hợp các phản ứng và thống nhất các quy tắc chung (coordinate responses and agree on common rules)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"contentious\" in paragraph 5 is closest in meaning to _______.",
+      "options": {
+       "A": "controversial",
+       "B": "uneventful",
+       "C": "predictable",
+       "D": "problem-free"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"contentious\" ở đoạn 5 mô tả chiến dịch tiêm chủng giai đoạn đầu gặp nhiều thiếu hụt và lo ngại về tác dụng phụ nên gây ra nhiều tranh cãi, mang nghĩa gây tranh cãi (controversial)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"which\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Federal leaders",
+       "B": "State premiers",
+       "C": "National Cabinet",
+       "D": "Common rules"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"which\" ở đoạn 3, hãy đọc ngược lại danh từ chỉ thực thể đứng ngay trước đó trong mệnh đề quan hệ: Nội các Quốc gia (National Cabinet) được thành lập bởi các nhà lãnh đạo liên bang và tiểu bang."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what happened after the Omicron variant arrived?",
+      "options": {
+       "A": "Borders were closed again to all vaccinated foreign travellers",
+       "B": "Vaccination programmes were stopped because supplies had run out",
+       "C": "The economy fell sharply and jobs were lost widely",
+       "D": "A large wave of infections occurred soon afterwards"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 5 để tìm sự kiện xảy ra sau khi biến thể Omicron xuất hiện: một làn sóng lây nhiễm lớn đã xảy ra ngay sau đó (A large wave of infections occurred soon afterwards)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a cost of prolonged restrictions?",
+      "options": {
+       "A": "Disruption to children's schooling during very long lockdowns",
+       "B": "Falling life expectancy across the whole country",
+       "C": "Harm to mental health among many different people",
+       "D": "Damage to small businesses that depended on customers"
+      },
+      "answer": "B",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các chi phí/tác hại của việc hạn chế kéo dài được nêu ở đoạn 6: gián đoạn việc học của trẻ em, tổn hại sức khỏe tâm thần và thiệt hại cho các doanh nghiệp nhỏ. Phương án đề cập đến \"suy giảm tuổi thọ trên toàn quốc\" hoàn toàn không xuất hiện trong bài (ngược lại, tỷ lệ tử vong bình quân đầu người ở mức thấp nhất)."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 6 and 7 about Australia's pandemic response?",
+      "options": {
+       "A": "Every country that copies it will achieve identical results quickly",
+       "B": "Lockdowns were ineffective and caused more deaths than they prevented",
+       "C": "Its success depended on national conditions that other countries may lack",
+       "D": "Public opinion strongly opposed every restriction throughout the whole pandemic"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 6 và 7 về việc Australia có các điều kiện đặc thù (quốc gia hải đảo, ít cửa ngõ quốc tế, hệ thống liên bang), từ đó suy luận rằng sự thành công của chiến lược này phụ thuộc vào các điều kiện quốc gia mà các nước khác có thể không có (Its success depended on national conditions that other countries may lack)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To evaluate Australia's response to the pandemic and its consequences",
+       "B": "To criticise the federal government for ignoring expert medical advice",
+       "C": "To explain how vaccines are developed and approved by regulators",
+       "D": "To persuade readers that countries should copy Australian border policies exactly Reading"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R2Q1, R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để thấy văn bản đánh giá tổng quan về chiến lược ứng phó đại dịch COVID-19 của Australia: mang lại thành công lớn về tỷ lệ tử vong thấp nhưng đồng thời đi kèm với các chi phí xã hội nặng nề (giãn cách kéo dài, chia cắt gia đình, ảnh hưởng sức khỏe tâm thần). Do đó, phương án đúng phải khái quát được việc ứng phó nghiêm ngặt mang lại thành công đi kèm chi phí xã hội nghiêm trọng (R2Q1) và mục đích đánh giá phản ứng của Australia cùng các hệ quả của nó (R2Q10).\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R2Q2**, quét thông tin ở đoạn 2 để tìm yêu cầu của chính phủ liên bang đối với công dân trở về: phải hoàn thành 14 ngày cách ly tại khách sạn (had to complete fourteen days in hotel quarantine).\n  - Với **R2Q4**, quét đoạn 3 để định vị mục đích của Nội các Quốc gia (National Cabinet): phối hợp các phản ứng và thống nhất các quy tắc chung (coordinate responses and agree on common rules).\n  - Với **R2Q7**, quét đoạn 5 để tìm sự kiện xảy ra sau khi biến thể Omicron xuất hiện: một làn sóng lây nhiễm lớn đã xảy ra ngay sau đó (A large wave of infections occurred soon afterwards).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R2Q3**, từ **\"stringent\"** ở đoạn 2 đi kèm với việc cách ly khách sạn nghiêm ngặt, khắt khe, mang nghĩa nghiêm ngặt, chặt chẽ (rigorous).\n  - Với **R2Q5**, từ **\"contentious\"** ở đoạn 5 mô tả chiến dịch tiêm chủng giai đoạn đầu gặp nhiều thiếu hụt và lo ngại về tác dụng phụ nên gây ra nhiều tranh cãi, mang nghĩa gây tranh cãi (controversial).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Với đại từ **\"which\"** ở đoạn 3, hãy đọc ngược lại danh từ chỉ thực thể đứng ngay trước đó trong mệnh đề quan hệ: Nội các Quốc gia (National Cabinet) được thành lập bởi các nhà lãnh đạo liên bang và tiểu bang.\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R2Q8):** Đối chiếu danh sách các chi phí/tác hại của việc hạn chế kéo dài được nêu ở đoạn 6: gián đoạn việc học của trẻ em, tổn hại sức khỏe tâm thần và thiệt hại cho các doanh nghiệp nhỏ. Phương án đề cập đến \"suy giảm tuổi thọ trên toàn quốc\" hoàn toàn không xuất hiện trong bài (ngược lại, tỷ lệ tử vong bình quân đầu người ở mức thấp nhất).\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 6 và 7 về việc Australia có các điều kiện đặc thù (quốc gia hải đảo, ít cửa ngõ quốc tế, hệ thống liên bang), từ đó suy luận rằng sự thành công của chiến lược này phụ thuộc vào các điều kiện quốc gia mà các nước khác có thể không có (Its success depended on national conditions that other countries may lack).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R2Q3, R2Q5), Quy chiếu (R2Q6) và các câu **Chi tiết** (R2Q2, R2Q4, R2Q7), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Impact of Sugary Drinks on Childhood Health",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few products are as familiar to children as sweetened beverages, a category that includes fizzy drinks, energy drinks, sweetened teas, fruit-flavoured squashes, and flavoured milks, all of which contain added sugar in substantial amounts. Their appeal is easy to understand, since they are cheap, colourful, and heavily marketed. Yet public health researchers increasingly regard them as one of the most important dietary contributors to poor health in young people.",
+     "A single 330-millilitre can of a typical fizzy drink commonly contains around eight to nine teaspoons of sugar, which can exceed the daily limit that health authorities recommend for young children. Some surveys suggest that a significant share of children's added sugar intake comes from beverages alone. Advertising, sponsorship, and cheap pricing have made such drinks **pervasive** in shops, schools, and sports venues. Children are particularly susceptible, because their taste preferences are still forming and they rarely consider long-term consequences.",
+     "[1] The most visible consequence of high sugar intake is excess weight gain. **[2]** Consequently, children who drink sweetened beverages regularly tend to consume more energy overall, and several large reviews have associated this habit with a higher risk of obesity. **[3]** Excess weight in childhood often persists into adulthood and is associated with type 2 diabetes, high blood pressure, and fatty liver disease. **[4]** Sugary drinks also harm teeth directly, because frequent sipping exposes enamel to acid produced by bacteria.",
+     "Health consequences are not distributed equally across society. Surveys in many countries suggest that children from lower-income households consume more sweetened beverages than their wealthier peers, partly because these drinks are cheaper per serving than fresh fruit or milk. Heavy advertising near schools and in low-income neighbourhoods may deepen such inequalities. Dental decay and obesity, the two best-documented harms, are consequently more common among children living in poorer areas.",
+     "The beverage industry has long argued that sugary drinks are only one small part of a varied diet and that individual choice, rather than product design, determines health outcomes. Experts reply that obesity has many causes, yet sweetened drinks are unusual because they supply calories without nutrition. Industry groups point to voluntary pledges to cut sugar, and independent researchers say **those** have so far produced modest results. What remains unclear is how much of the current rise in childhood obesity can be attributed to beverages alone.",
+     "Governments around the world have introduced several measures intended to **mitigate** these harms, and the most widely discussed of them is a tax on drinks with a high sugar content. Evidence from places such as Mexico and the United Kingdom suggests that such taxes reduce purchases and encourage manufacturers to reformulate their recipes. Where taxes have been paired with public education campaigns, the results have generally been stronger than when taxes are introduced alone. Other measures include restricting advertising to children and limiting sales in schools.",
+     "Parents, schools, and health professionals also have an important part to play in shaping children's habits. Offering water as the default drink, avoiding the use of sweetened beverages as rewards, and modelling moderate consumption at home can establish preferences that last well into adult life. Ultimately, protecting children's health will require action at every level, from families to governments, rather than reliance on any single remedy."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Sugar taxes have failed everywhere and should be replaced by industry promises",
+       "B": "Childhood obesity results mainly from inactivity, not from anything children drink",
+       "C": "Sweetened drinks damage children's health, so action is needed from governments and families",
+       "D": "Beverage companies should be banned from selling any product to young people"
+      },
+      "answer": "C",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why are children particularly susceptible to sugary drinks?",
+      "options": {
+       "A": "Parents rarely buy any other kinds of drink",
+       "B": "Sweetened drinks are cheaper than bottled water",
+       "C": "Teachers regularly offer them as classroom rewards",
+       "D": "Their taste preferences are still developing"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm lý do trẻ em dễ bị ảnh hưởng bởi đồ uống có đường: sở thích vị giác của trẻ vẫn đang trong giai đoạn phát triển (their taste preferences are still developing)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"pervasive\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "widespread",
+       "B": "scarce",
+       "C": "expensive",
+       "D": "forbidden"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"pervasive\" ở đoạn 2 mô tả sự xuất hiện tràn lan, phổ biến của đồ uống có đường ở khắp các cửa hàng, trường học, mang nghĩa rộng khắp (widespread)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'This effect is magnified by the fact that liquid sugar does little to make the body feel full.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "B",
+      "type_hint": "Điền câu / Cohesion",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mạch văn ở đoạn 3. Vị trí [2] nằm ngay sau câu nói về hậu quả rõ thấy nhất là tăng cân quá mức. Câu chèn vào (nói về việc hiệu ứng này được khuếch đại bởi thực tế đường lỏng ít tạo cảm giác no) tạo sự liên kết logic hoàn hảo trước khi câu tiếp theo đề cập đến việc trẻ uống thường xuyên sẽ tiêu thụ nhiều năng lượng hơn."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, what often happens to excess weight gained in childhood?",
+      "options": {
+       "A": "It usually disappears once children begin primary school",
+       "B": "Doctors can remove it quickly with a short surgical procedure",
+       "C": "It turns into muscle if children exercise regularly",
+       "D": "It frequently persists into adulthood alongside other health risks"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 3 để định vị số phận của lượng cân nặng thừa trong thời kỳ thơ ấu: thường kéo dài đến tuổi trưởng thành cùng với các rủi ro sức khỏe khác (frequently persists into adulthood alongside other health risks)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"those\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Industry groups",
+       "B": "Independent researchers",
+       "C": "Voluntary pledges",
+       "D": "Health outcomes"
+      },
+      "answer": "C",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"those\" ở đoạn 5, hãy đọc ngược lại danh từ chỉ sự vật số nhiều đứng ngay trước đó trong câu: các cam kết tự nguyện (Voluntary pledges) cắt giảm đường của ngành công nghiệp."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"mitigate\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "worsen",
+       "B": "lessen",
+       "C": "ignore",
+       "D": "explain"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"mitigate\" ở đoạn 6 đi kèm với các biện pháp của chính phủ nhằm giảm thiểu các tác hại do đồ uống có đường gây ra, mang nghĩa làm giảm bớt (lessen)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as a measure against sugary drinks?",
+      "options": {
+       "A": "A national ban on all sweetened drinks",
+       "B": "A tax on beverages containing large amounts of sugar",
+       "C": "Restrictions on advertising aimed at young children",
+       "D": "Reduced sales of sweetened beverages inside school buildings"
+      },
+      "answer": "A",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách các biện pháp chống lại đồ uống có đường được nêu ở đoạn 6: thuế đánh vào đồ uống nhiều đường, hạn chế quảng cáo nhắm vào trẻ em, và giảm bán đồ uống này trong trường học. Phương án đề cập đến \"lệnh cấm toàn quốc đối với tất cả các loại đồ uống có đường\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about reducing sugary drink consumption?",
+      "options": {
+       "A": "Poorer families should be solely responsible for changing their children's drinking habits",
+       "B": "Industry pledges have proved far more effective than any government regulation",
+       "C": "Combined policies are probably more effective than voluntary industry action or isolated measures",
+       "D": "Sugar taxes are certain to end childhood obesity within a few years"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc các cam kết tự nguyện mang lại kết quả khiêm tốn và thuế phải kết hợp với giáo dục mới hiệu quả, từ đó suy luận rằng các chính sách kết hợp có lẽ mang lại hiệu quả cao hơn so với hành động tự nguyện đơn lẻ của ngành công nghiệp (Combined policies are probably more effective than voluntary industry action or isolated measures)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade parents that they should never allow children to drink sugar",
+       "B": "To report the results of a new experiment on children's dental health",
+       "C": "To argue that sugar taxes should replace all parental responsibility",
+       "D": "To examine how sugary drinks affect children and how societies respond Reading"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R3Q1, R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để nắm bắt chủ đề trung tâm: đồ uống có đường gây hại cho sức khỏe trẻ em, đòi hỏi sự chung tay hành động từ cả chính phủ lẫn gia đình (R3Q1). Mục đích của tác giả là phân tích tác động của đồ uống có đường đối với trẻ em và cách các xã hội phản ứng lại vấn đề này (R3Q10).\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R3Q2**, quét thông tin ở đoạn 2 để tìm lý do trẻ em dễ bị ảnh hưởng bởi đồ uống có đường: sở thích vị giác của trẻ vẫn đang trong giai đoạn phát triển (their taste preferences are still developing).\n  - Với **R3Q5**, quét đoạn 3 để định vị số phận của lượng cân nặng thừa trong thời kỳ thơ ấu: thường kéo dài đến tuổi trưởng thành cùng với các rủi ro sức khỏe khác (frequently persists into adulthood alongside other health risks).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R3Q3**, từ **\"pervasive\"** ở đoạn 2 mô tả sự xuất hiện tràn lan, phổ biến của đồ uống có đường ở khắp các cửa hàng, trường học, mang nghĩa rộng khắp (widespread).\n  - Với **R3Q7**, từ **\"mitigate\"** ở đoạn 6 đi kèm với các biện pháp của chính phủ nhằm giảm thiểu các tác hại do đồ uống có đường gây ra, mang nghĩa làm giảm bớt (lessen).\n- **Dạng câu hỏi Điền câu / Cohesion (R3Q4):** Phân tích mạch văn ở đoạn 3. Vị trí **[2]** nằm ngay sau câu nói về hậu quả rõ thấy nhất là tăng cân quá mức. Câu chèn vào (nói về việc hiệu ứng này được khuếch đại bởi thực tế đường lỏng ít tạo cảm giác no) tạo sự liên kết logic hoàn hảo trước khi câu tiếp theo đề cập đến việc trẻ uống thường xuyên sẽ tiêu thụ nhiều năng lượng hơn.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Với đại từ **\"those\"** ở đoạn 5, hãy đọc ngược lại danh từ chỉ sự vật số nhiều đứng ngay trước đó trong câu: các cam kết tự nguyện (Voluntary pledges) cắt giảm đường của ngành công nghiệp.\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R3Q8):** Đối chiếu danh sách các biện pháp chống lại đồ uống có đường được nêu ở đoạn 6: thuế đánh vào đồ uống nhiều đường, hạn chế quảng cáo nhắm vào trẻ em, và giảm bán đồ uống này trong trường học. Phương án đề cập đến \"lệnh cấm toàn quốc đối với tất cả các loại đồ uống có đường\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc các cam kết tự nguyện mang lại kết quả khiêm tốn và thuế phải kết hợp với giáo dục mới hiệu quả, từ đó suy luận rằng các chính sách kết hợp có lẽ mang lại hiệu quả cao hơn so với hành động tự nguyện đơn lẻ của ngành công nghiệp (Combined policies are probably more effective than voluntary industry action or isolated measures).\nLời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R3Q3, R3Q7), Quy chiếu (R3Q6) và các câu **Chi tiết** (R3Q2, R3Q4, R3Q5), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "The Iron Age: Technological and Social Transformations",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "The Iron Age is the name given by archaeologists to the period in which iron became the principal metal for tools and weapons across large parts of Europe, Asia, and Africa. The transition did not take place in every region at exactly the same moment. In the Near East, ironworking is generally dated to around 1200 BCE, whereas in northern Europe it became established several centuries later, and in sub-Saharan Africa the chronology remains debated.",
+     "Working iron required very different skills from those needed for bronze, because the metal could not be melted and poured into moulds using the furnaces available at the time. Smiths instead heated ore in clay furnaces called bloomeries, producing a spongy lump of metal. While it remained hot, the lump was **malleable**, so smiths could hammer out impurities and shape it into blades, nails, and ploughshares. The process demanded considerable experience, because small differences in temperature and carbon content could determine whether a tool was brittle or durable.",
+     "[1] Several practical factors help explain why iron eventually displaced bronze across so many regions. **[2]** Bronze depended on copper and tin, which often had to be transported over long distances, making supply dependent on trade networks that could be disrupted by conflict. **[3]** Consequently, communities that had never controlled the tin trade could produce their own tools and weapons from local resources. **[4]** Iron tools also proved tougher than bronze ones once smiths learned to add carbon, producing early steel that held a sharper edge.",
+     "The social consequences of this shift were considerable. Because iron was cheaper and easier to obtain, many farmers acquired stronger ploughs and axes, which allowed them to clear forests and cultivate heavier soils that had previously been too difficult to work. Agricultural output probably rose as a result, and this surplus helped to support larger and denser populations. Iron production also became more decentralised, and smiths in rural communities could work independently of elite patrons.",
+     "Archaeological evidence suggests that many Iron Age societies became increasingly hierarchical, with powerful families controlling land, livestock, and the production of metal goods. Fortified settlements known as hillforts appeared across Europe, and while some probably served as centres of trade or ritual, others were used mainly as defensive refuges in times of conflict. Scholars still debate the relative importance of trade and defence in explaining these sites, with the **latter** gaining support wherever massive ramparts and evidence of burning have been found. Other communities, by contrast, seem to have remained fairly egalitarian for many generations.",
+     "Trade and contact between distant regions intensified during the later Iron Age, as shown by imported goods. Mediterranean wine, pottery, and luxury items have been found in **lavish** graves far north of the Alps, suggesting that local elites exchanged raw materials, salt, or other valuable commodities for prestige goods. Distinctive artistic styles, such as those associated with Hallstatt and La Tène in central Europe, spread along these routes.",
+     "The Iron Age therefore represents more than a change in raw materials. In parts of western Europe, it ended with Roman expansion, which brought new administrative systems, coinage, and urban centres, although the pace of change varied considerably between regions. Historians now caution against treating the Iron Age as a simple story of progress, since the same tools that cleared forests also made warfare more destructive, and benefits were distributed unevenly."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Bronze remained the main metal everywhere until Roman armies arrived",
+       "B": "Iron technology reshaped economies and societies, though its effects varied by region",
+       "C": "Hillforts were built mainly as religious temples with little defensive value",
+       "D": "Iron tools ended warfare and brought lasting peace across Europe"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, how did smiths shape iron into tools?",
+      "options": {
+       "A": "They poured the molten metal into stone moulds",
+       "B": "They cut shapes directly from large blocks of iron",
+       "C": "They melted it repeatedly in sealed copper vessels",
+       "D": "They hammered the hot lump of metal"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét thông tin ở đoạn 2 để tìm cách thợ rèn tạo hình sắt thành công cụ: họ dùng búa đập khối kim loại khi còn nóng (They hammered the hot lump of metal)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"malleable\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "pliable",
+       "B": "fragile",
+       "C": "tarnished",
+       "D": "radiant"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"malleable\" ở đoạn 2 miêu tả trạng thái kim loại có thể dễ dàng rèn đập thành lưỡi dao, đinh khi còn nóng, mang nghĩa dễ uốn, dẻo (pliable)."
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'Iron ore, by contrast, occurs in many regions, and local communities could often gather it close to the surface.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "C",
+      "type_hint": "Điền câu / Cohesion",
+      "type": "Chèn câu",
+      "explanation": "Phân tích mạch văn ở đoạn 3. Vị trí [3] nằm ngay sau câu nói về việc đồng phụ thuộc vào thiếc và đồng phải vận chuyển xa dễ bị gián đoạn. Câu chèn vào (nói về việc quặng sắt xuất hiện ở nhiều vùng và cộng đồng địa phương có thể thu lượm gần bề mặt) tạo sự liên kết logic hoàn hảo trước khi câu tiếp theo bắt đầu bằng từ \"Consequently\" (Do đó...)."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, how did iron tools affect agriculture?",
+      "options": {
+       "A": "Farmers abandoned heavy soils and moved onto coastal plains",
+       "B": "Crop yields fell as iron tools rusted",
+       "C": "Villages stopped farming and relied entirely on hunting",
+       "D": "Farmers could clear forests and cultivate heavier soils"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "quét đoạn 4 để định vị tác động của công cụ bằng sắt đối với nông nghiệp: nông dân có thể chặt phá rừng và canh tác các loại đất nặng hơn (Farmers could clear forests and cultivate heavier soils)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"latter\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Trade",
+       "B": "Defence",
+       "C": "Ritual",
+       "D": "Hillforts"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Với đại từ \"latter\" ở đoạn 5, hãy nhìn ngược lại hai đối tượng được liệt kê trước đó (trade - thương mại và defence - phòng thủ) trong câu \"relative importance of trade and defence\": từ này chỉ đối tượng đứng sau là phòng thủ (Defence)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"lavish\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "extravagant",
+       "B": "modest",
+       "C": "ancient",
+       "D": "hidden"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"lavish\" ở đoạn 6 đồng nghĩa với extravagant."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned about trade in the later Iron Age?",
+      "options": {
+       "A": "Mediterranean wine and pottery buried in northern graves",
+       "B": "Distinctive artistic styles spreading along established trade routes",
+       "C": "Elites exchanging salt and raw materials for luxuries",
+       "D": "Paved roads linking every Iron Age village"
+      },
+      "answer": "D",
+      "type_hint": "Phủ định / Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối chiếu danh sách thương mại thời kỳ Đồ sắt muộn ở đoạn 6: rượu và gốm Địa Trung Hải, phong cách nghệ thuật lan rộng, giới tinh hoa trao đổi muối và nguyên liệu lấy hàng xa xỉ. Phương án đề cập đến \"những con đường trải nhựa nối liền mọi ngôi làng thời Đồ sắt\" hoàn toàn không xuất hiện trong bài."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 3, 4, and 5 about the spread of iron?",
+      "options": {
+       "A": "Iron weapons were too expensive for anyone except wealthy rulers",
+       "B": "Better ploughs caused populations to decline because soils were exhausted",
+       "C": "Cheaper tools boosted farming, yet power remained concentrated among powerful families",
+       "D": "Bronze producers easily maintained their dominance despite abundant iron ore"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 5 về việc công cụ rẻ hơn giúp thúc đẩy nông nghiệp và dân số tăng, nhưng đồng thời quyền lực lại tập trung vào các gia đình quyền thế (xã hội phân cấp, thành lũy xuất hiện), từ đó suy luận rằng công cụ rẻ hơn thúc đẩy nông nghiệp nhưng quyền lực vẫn tập trung trong tay các gia đình quyền thế (Cheaper tools boosted farming, yet power remained concentrated among powerful families). Lời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R4Q3, R4Q7), Quy chiếu (R4Q6) và các câu Chi tiết (R4Q2, R4Q4, R4Q5), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To explain how iron transformed technology, farming, trade, and society",
+       "B": "To describe the campaigns that Roman commanders fought against local tribes",
+       "C": "To compare Iron Age tools with modern industrial machinery",
+       "D": "To persuade readers that bronze tools were better than iron"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính & Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để làm tốt phần thi này, bạn nên áp dụng các chiến thuật sau:\n- **Dạng câu hỏi Ý chính & Mục đích tác giả (R4Q1, R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc kỹ câu mở đầu và kết luận của bài để thấy văn bản mô tả cách công nghệ đồ sắt định hình lại nền kinh tế và xã hội, đồng thời giải thích toàn diện cách sắt biến đổi công nghệ, nông nghiệp, thương mại và xã hội. Do đó, phương án đúng phải khái quát được việc công nghệ đồ sắt tái định hình các nền kinh tế và xã hội với tác động khác nhau tùy vùng (R4Q1) và mục đích giải thích cách sắt chuyển đổi công nghệ, nông nghiệp, thương mại và xã hội (R4Q10).\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu):\n  - Với **R4Q2**, quét thông tin ở đoạn 2 để tìm cách thợ rèn tạo hình sắt thành công cụ: họ dùng búa đập khối kim loại khi còn nóng (They hammered the hot lump of metal).\n  - Với **R4Q5**, quét đoạn 4 để định vị tác động của công cụ bằng sắt đối với nông nghiệp: nông dân có thể chặt phá rừng và canh tác các loại đất nặng hơn (Farmers could clear forests and cultivate heavier soils).\n  - Với **R4Q7**, từ **\"lavish\"** ở đoạn 6 miêu tả các ngôi mộ xa hoa, lộng lẫy chứa đồ xa xỉ phương Nam, mang nghĩa xa hoa, hoành tráng (extravagant).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh):\n  - Với **R4Q3**, từ **\"malleable\"** ở đoạn 2 miêu tả trạng thái kim loại có thể dễ dàng rèn đập thành lưỡi dao, đinh khi còn nóng, mang nghĩa dễ uốn, dẻo (pliable).\n  - Với **R4Q7**, từ **\"lavish\"** ở đoạn 6 đồng nghĩa với extravagant.\n- **Dạng câu hỏi Điền câu / Cohesion (R4Q4):** Phân tích mạch văn ở đoạn 3. Vị trí **[3]** nằm ngay sau câu nói về việc đồng phụ thuộc vào thiếc và đồng phải vận chuyển xa dễ bị gián đoạn. Câu chèn vào (nói về việc quặng sắt xuất hiện ở nhiều vùng và cộng đồng địa phương có thể thu lượm gần bề mặt) tạo sự liên kết logic hoàn hảo trước khi câu tiếp theo bắt đầu bằng từ \"Consequently\" (Do đó...).\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Với đại từ **\"latter\"** ở đoạn 5, hãy nhìn ngược lại hai đối tượng được liệt kê trước đó (trade - thương mại và defence - phòng thủ) trong câu \"relative importance of trade and defence\": từ này chỉ đối tượng đứng sau là phòng thủ (Defence).\n- **Dạng câu hỏi Phủ định / Loại trừ NOT (R4Q8):** Đối chiếu danh sách thương mại thời kỳ Đồ sắt muộn ở đoạn 6: rượu và gốm Địa Trung Hải, phong cách nghệ thuật lan rộng, giới tinh hoa trao đổi muối và nguyên liệu lấy hàng xa xỉ. Phương án đề cập đến \"những con đường trải nhựa nối liền mọi ngôi làng thời Đồ sắt\" hoàn toàn không xuất hiện trong bài.\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 5 về việc công cụ rẻ hơn giúp thúc đẩy nông nghiệp và dân số tăng, nhưng đồng thời quyền lực lại tập trung vào các gia đình quyền thế (xã hội phân cấp, thành lũy xuất hiện), từ đó suy luận rằng công cụ rẻ hơn thúc đẩy nông nghiệp nhưng quyền lực vẫn tập trung trong tay các gia đình quyền thế (Cheaper tools boosted farming, yet power remained concentrated among powerful families). Lời khuyên: Hãy ưu tiên giải quyết các câu hỏi tra cứu thông tin nhanh như Từ vựng (R4Q3, R4Q7), Quy chiếu (R4Q6) và các câu **Chi tiết** (R4Q2, R4Q4, R4Q5), sau đó dựa vào cấu trúc toàn bài để hoàn thành các câu hỏi suy luận, ý chính và mục đích tác giả."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Mark, who is a famous travel blogger.\nHe is planning to visit Vietnam soon because he was inspired by a documentary film about the country. Read part of his email below.\nI have just watched a fascinating film about Vietnam and I am really excited to visit your country next month! Since it is my first time, I need some help with the planning.\n- Can you suggest a good hotel in the city center?\n- Which famous sightseeing places should I visit to see the locations from the film?\n- What kind of street food do you think I must try for my blog?\nWrite an email responding to Mark. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Mark, who is a famous travel blogger.",
+      "He is planning to visit Vietnam soon because he was inspired by a documentary film about the country. Read part of his email below."
+     ],
+     "quote": [
+      "I have just watched a fascinating film about Vietnam and I am really excited to visit your country next month! Since it is my first time, I need some help with the planning.",
+      "- Can you suggest a good hotel in the city center?",
+      "- Which famous sightseeing places should I visit to see the locations from the film?",
+      "- What kind of street food do you think I must try for my blog?"
+     ],
+     "instruction": "Write an email responding to Mark. You should write at least 120 words. You don't need to include your name or addresses. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- **Dạng bài:** Thư thân mật (Informal Email) gửi cho một người bạn là blogger.\n- **Yêu cầu:** Phải trả lời đủ 3 câu hỏi: gợi ý khách sạn trung tâm, địa điểm tham quan (liên quan đến phim), và các món ăn đường phố.\n- **Độ dài:** Tối thiểu 120 từ.\n- **Giọng văn:** Thân thiện, hào hứng và có tính gợi ý cao.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Hi Mark, / Dear Mark,\n- **Opening:** Bày tỏ sự vui mừng khi Mark sắp đến Việt Nam. Ví dụ: I was so thrilled to hear that you are finally visiting Vietnam!\n- **Body Paragraph 1:** Gợi ý khách sạn ở trung tâm (ví dụ District 1 hoặc Old Quarter) và lý do (gần các tiện ích).\n- **Body Paragraph 2:** Gợi ý địa điểm tham quan xuất hiện trong phim. Ví dụ: Since you loved that documentary, you should definitely visit Ha Long Bay or the Marble Mountains.\n- **Body Paragraph 3:** Gợi ý street food cho blog. Ví dụ: For your food blog, you cannot miss Pho and Banh Mi in the local markets.\n- **Closing & Sign-off:** Chúc bạn có chuyến đi vui vẻ và ký tên. Ví dụ: I can't wait to see your photos! Best wishes, [Your Name].\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng các cấu trúc gợi ý (suggesting) và đưa ra lời khuyên.\n- Sử dụng tính từ miêu tả để bài viết sinh động hơn.\nTừ vựng quan trọng:\n- **Travel blogger:** Người viết blog du lịch\n- **City center / Heart of the city:** Trung tâm thành phố\n- **Documentary:** Phim tài liệu\n- **Sightseeing:** Đi tham quan\n- **Street food vendor:** Người bán đồ ăn đường phố\n- **Authentic cuisine:** Ẩm thực bản địa/nguyên bản\n- **Accommodation:** Chỗ ở\nTừ nối (Linking words):\n- **In terms of:** Xét về mặt (khách sạn)\n- **Speaking of:** Nói về (đồ ăn)\n- **Besides:** Ngoài ra\n- **Furthermore:** Hơn nữa\n- **As for:** Còn về phần\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I'm absolutely delighted to...:** Mình thực sự rất vui khi...\n- **You'll be amazed by...:** Bạn sẽ ngạc nhiên bởi...\n- **I highly recommend...:** Mình cực kỳ đề xuất...\n\n**4. Các lỗi thường gặp:**\n- Viết quá trang trọng (như dùng \"Yours faithfully\") không phù hợp với bạn bè.\n- Quên không nhắc đến yếu tố \"phim\" mà Mark đã đề cập trong đề bài.\n- Sử dụng sai thì (nên dùng hiện tại đơn cho sự thật và tương lai đơn cho kế hoạch).\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Đếm số lượng từ để đảm bảo trên 120 từ.\n- Kiểm tra dấu câu và viết hoa tên riêng (Vietnam, Pho, Banh Mi).\n- Đảm bảo đã trả lời đủ cả 3 yêu cầu của Mark.\n\n**6. Tư duy làm bài:**\n- Hãy tưởng tượng bạn đang là một hướng dẫn viên bản địa thân thiện giúp đỡ bạn mình để bài viết có cảm xúc tự nhiên nhất.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nThe age at which children start using mobile phones has become a subject of intense debate among parents and educators.\nSome people argue that giving smartphones to children at a young age provides them with essential digital skills and safety, while others contend that it leads to various psychological and physical health problems.\nDiscuss both views and give your own opinion.\nWrite an essay to an educated reader to discuss both views and give your own opinion about children using mobile phones at a young age. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "The age at which children start using mobile phones has become a subject of intense debate among parents and educators.",
+      "Some people argue that giving smartphones to children at a young age provides them with essential digital skills and safety, while others contend that it leads to various psychological and physical health problems.",
+      "Discuss both views and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about children using mobile phones at a young age. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- **Dạng bài:** Discussion Essay (Thảo luận hai quan điểm và đưa ra ý kiến cá nhân).\n- **Từ khóa chính:** Children, mobile phones, young age, digital skills vs. health problems.\n- **Yêu cầu:** Phải phân tích cả mặt lợi (giáo dục, an toàn) và mặt hại (sức khỏe, tâm lý) trước khi kết luận.\n- **Độ dài:** Tối thiểu 250 từ.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Dẫn dắt vấn đề về việc trẻ em dùng điện thoại sớm. Viết Thesis Statement nêu rõ sẽ thảo luận cả hai mặt và đưa ra ý kiến. Ví dụ: While mobile phones offer educational benefits, I believe their negative impacts on health should not be overlooked.\n- **Body 1 (Lợi ích):** Giúp trẻ tiếp cận kiến thức (educational apps) và giữ liên lạc với cha mẹ (safety). Ví dụ: On the one hand, smartphones can be powerful tools for learning.\n- **Body 2 (Tác hại):** Gây nghiện, giảm tương tác xã hội, ảnh hưởng thị lực và tiếp cận nội dung xấu. Ví dụ: On the other hand, early exposure to screens can lead to sedentary lifestyles.\n- **Conclusion:** Tóm tắt lại các ý chính và khẳng định quan điểm (thường là ủng hộ việc hạn chế hoặc giám sát chặt chẽ).\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng câu bị động và câu điều kiện để bài viết khách quan hơn.\n- Đảm bảo mỗi đoạn thân bài có Topic sentence (câu chủ đề) rõ ràng.\nTừ vựng quan trọng:\n- **Digital literacy:** Kiến thức công nghệ số\n- **Parental supervision:** Sự giám sát của cha mẹ\n- **Sedentary lifestyle:** Lối sống ít vận động\n- **Cyberbullying:** Bắt nạt qua mạng\n- **Educational resources:** Nguồn tài liệu giáo dục\n- **Cognitive development:** Phát triển nhận thức\n- **Screen time:** Thời gian sử dụng màn hình\nTừ nối (Linking words):\n- **On the one hand / On the other hand:** Mặt này / Mặt kia\n- **In addition / Furthermore:** Thêm vào đó\n- **However / Nevertheless:** Tuy nhiên\n- **Consequently:** Hệ quả là\n- **For instance:** Ví dụ như\n- **To sum up:** Tóm lại\nDiễn đạt lại ý (Paraphrasing):\n- **Young learners:** Thay cho \"children\".\n- **Handheld devices:** Thay cho \"mobile phones\".\n- **Early exposure to technology:** Thay cho \"using phones at a young age\".\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **From my perspective:** Theo quan điểm của tôi\n- **It is widely argued that:** Nhiều người tranh luận rằng\n- **Striking a balance between...:** Tạo ra sự cân bằng giữa...\n\n**4. Các lỗi thường gặp:**\n- Chỉ viết về một phía (lợi hoặc hại) dẫn đến điểm Task Response thấp.\n- Lấy ví dụ quá cá nhân (dùng \"My brother\", \"My son\") thay vì dùng ví dụ mang tính xã hội.\n- Lỗi lặp từ \"smartphones\" quá nhiều lần.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra lỗi chia động từ số ít/số nhiều (Children là số nhiều).\n- Đảm bảo đã có phần kết luận rõ ràng về quan điểm cá nhân.\n- Kiểm tra tính mạch lạc giữa các đoạn văn bằng từ nối.\n\n**6. Tư duy làm bài:**\n- Cần giữ thái độ trung lập khi phân tích hai phía và chỉ đưa ra sự lựa chọn rõ ràng nhất ở phần kết bài để tăng tính thuyết phục."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about friendship\n\n1\nDo you still keep in touch with your old friends from primary school?\n2\nWhat do you usually talk about when you meet an old friend?\n3\nWhy is it important to have long-term friendships?\n\nNow, let’s talk about celebrations\n\n4\nWhat is the most important anniversary or celebration in your country?\n5\nHow do people in your family usually celebrate birthdays?\n6\nDo you prefer small private celebrations or big parties with many people? Why?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Part 1 của bài thi nói kéo dài khoảng 3 phút với 6 câu hỏi ngắn về các chủ đề quen thuộc trong đời sống hằng ngày.\n- **Topic A (Friendship):** Câu hỏi 1–3 tập trung vào tình bạn lâu năm, việc giữ liên lạc với bạn cũ và giá trị của các mối quan hệ bền vững.\n- **Topic B (Celebrations):** Câu hỏi 4–6 xoay quanh lễ kỷ niệm, sinh nhật và sở thích tham gia các buổi tiệc lớn hoặc nhỏ.\n- Giám khảo đánh giá dựa trên độ trôi chảy, vốn từ vựng, độ chính xác ngữ pháp và phát âm.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng thời gian giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc ARE: Answer – Reason – Example để câu trả lời tự nhiên và dễ mở rộng.\n- **Ví dụ Topic A:** I still keep in touch with my primary school friends because we have shared many unforgettable memories together. For example, we often meet during holidays and talk about our current lives.\n- **Ví dụ Topic B:** In my opinion, birthdays are very important because they bring family members together. My family usually has a small dinner party at home.\n- Luôn tự hỏi thêm Why? hoặc How? để kéo dài câu trả lời và tránh bị cụt ý.\n- Khi chuyển ý, bạn có thể dùng câu như: Besides talking about work and study, we also share funny memories from the past.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Duy trì tốc độ nói ổn định và dùng các filler tự nhiên như actually, well, to be honest để tránh khoảng lặng quá dài.\n- Đối với Topic A, bạn nên dùng thì hiện tại đơn và hiện tại hoàn thành khi nói về tình bạn kéo dài trong nhiều năm.\n- Đối với Topic B, hiện tại đơn và quá khứ đơn sẽ phù hợp khi mô tả cách tổ chức lễ kỷ niệm.\n- Nếu quên từ vựng, hãy diễn đạt bằng ý đơn giản hơn thay vì dừng lại quá lâu.\n- Vocabulary for Topic A: keep in touch (giữ liên lạc), childhood memories (kỷ niệm tuổi thơ), close friendship (tình bạn thân thiết), emotional support (sự hỗ trợ tinh thần).\n- Vocabulary for Topic B: family gathering (buổi họp mặt gia đình), celebrate a special occasion (kỷ niệm dịp đặc biệt), throw a party (tổ chức tiệc), festive atmosphere (không khí lễ hội).\nCụm từ quan trọng nên dùng:\n- maintain a friendship – duy trì tình bạn\n- share common interests – có chung sở thích\n- lose contact with someone – mất liên lạc với ai đó\n- special occasion – dịp đặc biệt\n- have a family reunion – họp mặt gia đình\n- enjoy the atmosphere – tận hưởng không khí\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Besides that – bên cạnh đó\n- For example – ví dụ như\n- As a result – kết quả là\n- In contrast – ngược lại\nCách thể hiện quan điểm tự nhiên:\n- I personally think that long-term friendships are very valuable because they give us emotional support. – Tôi cá nhân cho rằng tình bạn lâu năm rất có giá trị vì mang lại sự hỗ trợ tinh thần.\n- From my perspective, keeping old friends helps people feel connected to their childhood. – Theo góc nhìn của tôi, việc giữ liên lạc với bạn cũ giúp mọi người gắn kết với tuổi thơ.\n- As far as I am concerned, true friendship is difficult to replace. – Theo tôi, tình bạn thật sự rất khó thay thế.\n- In my opinion, small celebrations are more meaningful because they are more intimate. – Theo tôi, những buổi tiệc nhỏ ý nghĩa hơn vì gần gũi hơn.\n- I would say that big parties are exciting since there are many fun activities. – Tôi cho rằng các bữa tiệc lớn rất thú vị vì có nhiều hoạt động vui vẻ.\n- Personally, I prefer celebrating with close family members rather than strangers. – Cá nhân tôi thích ăn mừng với gia đình hơn là với người lạ.\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời Yes hoặc No mà không giải thích thêm là lỗi nghiêm trọng nhất.\n- Ở Topic A, nhiều bạn chỉ nói về bạn bè mà quên giải thích tại sao tình bạn lâu năm lại quan trọng.\n- Ở Topic B, nhiều bạn chỉ mô tả bữa tiệc mà không nêu sở thích cá nhân hoặc lý do.\n- Dùng sai thì khi kể về những kỷ niệm trong quá khứ.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n- Nếu quên từ, hãy mô tả chức năng hoặc cảm xúc thay vì cố nhớ chính xác từ đó.\n- Đối với Topic A, nếu bí ý hãy kể về một người bạn cụ thể và một kỷ niệm đáng nhớ.\n- Đối với Topic B, nếu không biết nói gì hãy so sánh tiệc lớn và tiệc nhỏ dựa trên chi phí, cảm xúc hoặc sự thoải mái.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem đây là một cuộc trò chuyện tự nhiên thay vì một bài diễn thuyết học thuật.\n- Khi chuyển từ Topic A sang Topic B, hãy thay đổi tư duy sang các trải nghiệm gia đình và lễ kỷ niệm.\n- Sự tự nhiên và trôi chảy quan trọng hơn việc cố dùng từ quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nYou are about to start university and you are considering where to live.\n\nYou are considering the following options:\n\nOption 1: Sharing a room with other students in a dormitory\nOption 2: Renting a private room in a boarding house\nOption 3: Living with a relative's family\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Đây là dạng Solution Discussion yêu cầu bạn phân tích 3 lựa chọn nơi ở trước khi bắt đầu học đại học.\n- Ba lựa chọn gồm ở ký túc xá, thuê phòng riêng và sống cùng họ hàng.\n- Giám khảo đánh giá khả năng lập luận logic, so sánh các lựa chọn và đưa ra quyết định rõ ràng.\n- Thời gian lý tưởng là khoảng 1 phút chuẩn bị và 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Sử dụng cấu trúc I-C-E: Introduction – Comparison – End để bài nói rõ ràng và dễ theo dõi.\n- Option 1 có ưu điểm là tiết kiệm chi phí và dễ kết bạn nhưng có thể thiếu riêng tư.\n- Option 2 mang lại sự độc lập và yên tĩnh nhưng thường đắt hơn.\n- Option 3 giúp tiết kiệm tiền và nhận được sự hỗ trợ từ gia đình nhưng đôi khi thiếu tự do.\n- Hãy liên hệ với cuộc sống sinh viên thực tế như việc đi học, tự lập và quản lý tài chính.\n- Dùng các từ nối so sánh như however, on the other hand hoặc compared to để chuyển ý mượt mà.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Hãy liên kết các lựa chọn với nhau thay vì nói tách biệt hoàn toàn.\n- Dùng hiện tại đơn để mô tả đặc điểm của từng lựa chọn và dùng tương lai đơn khi nói về kế hoạch học đại học.\n- Nếu quên từ như dormitory, bạn có thể nói student accommodation.\nCụm từ quan trọng nên dùng:\n- financial burden – gánh nặng tài chính\n- independent lifestyle – lối sống tự lập\n- living expenses – chi phí sinh hoạt\n- personal privacy – sự riêng tư cá nhân\n- supportive environment – môi trường hỗ trợ\n- develop life skills – phát triển kỹ năng sống\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- In addition – thêm vào đó\n- However – tuy nhiên\n- Compared to – so với\n- As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n- I believe renting a private room is the best option because it offers more privacy. – Tôi tin rằng thuê phòng riêng là lựa chọn tốt nhất vì có nhiều sự riêng tư hơn.\n- Compared to living with relatives, staying in a dormitory helps students become more independent. – So với sống cùng họ hàng, ở ký túc xá giúp sinh viên tự lập hơn.\n- From my perspective, living with relatives is more comfortable financially. – Theo quan điểm của tôi, sống cùng họ hàng sẽ thoải mái hơn về tài chính.\n\n**4. Các lỗi thường gặp:**\n- Chỉ khen lựa chọn mình thích mà không phân tích điểm yếu của các lựa chọn còn lại.\n- Lặp đi lặp lại các từ đơn giản như good hoặc bad thay vì dùng từ học thuật hơn.\n- Không đưa ra quyết định cuối cùng rõ ràng ở phần kết luận.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên môn, hãy chuyển sang nói về chi phí, thời gian hoặc sự thuận tiện.\n- Bạn có thể dùng câu: Let's evaluate this option from a different perspective.\n- Nếu bí ý ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn khác thay vì dừng quá lâu.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người đang thực sự đưa ra quyết định cho cuộc sống đại học.\n- Ngay cả với lựa chọn bạn thích nhất, hãy đưa ra một điểm hạn chế nhỏ để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nThe benefits of preserving traditional festivals\n\nPreserving Festivals\nPromote cultural values and national identity\nBoost tourism and local economy\nStrengthen family and community bonds\n[your own ideas]\n\nFollow-up Questions:\n\n1\nDo you think young people today still care about traditional festivals?\n2\nHow has the way people celebrate festivals changed over the last 20 years?\n3\nShould the government spend more money on organizing festivals?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn nói về lợi ích của việc bảo tồn các lễ hội truyền thống trong xã hội hiện đại.\n- Ba nhánh chính gồm giá trị văn hóa, du lịch kinh tế và sự gắn kết cộng đồng.\n- Nhánh thứ tư là ý tưởng cá nhân, bạn có thể nói về giáo dục thế hệ trẻ hoặc quảng bá hình ảnh đất nước.\n- Giám khảo đánh giá độ mạch lạc, khả năng phát triển ý và trả lời câu hỏi follow-up.\n- Thời gian khoảng 5 phút gồm 3–3.5 phút trình bày và phần còn lại cho follow-up questions.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Bạn có thể dùng cấu trúc IDEA: Introduction – Detail – Example – Add/wrap up.\n- **Ví dụ 1:** Today, I would like to talk about why preserving traditional festivals is important for modern society.\n- **Ví dụ 2:** In addition, traditional festivals can educate younger generations about national history and customs.\n- Khi nói về lễ hội, hãy liên hệ đến các ví dụ quen thuộc như Tet Holiday hoặc Mid-Autumn Festival.\n- Luôn đi theo mindmap để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng các cụm chuyển ý mượt mà giữa các nhánh của sơ đồ tư duy.\n- Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành khi nói về sự thay đổi theo thời gian.\n- Bạn có thể paraphrase traditional festivals bằng cultural celebrations hoặc local traditions.\nCụm từ quan trọng nên dùng:\n- cultural heritage – di sản văn hóa\n- national identity – bản sắc dân tộc\n- tourist attraction – điểm thu hút du khách\n- local traditions – truyền thống địa phương\n- community spirit – tinh thần cộng đồng\n- pass down customs – truyền lại phong tục\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Moreover – hơn nữa\n- As a result – kết quả là\n- On top of that – thêm vào đó\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe traditional festivals play an important role in preserving culture. – Tôi tin mạnh mẽ rằng lễ hội truyền thống đóng vai trò quan trọng trong việc bảo tồn văn hóa.\n- From my point of view, festivals help people feel more connected to their community. – Theo quan điểm của tôi, lễ hội giúp mọi người gắn kết hơn với cộng đồng.\n- Personally, I think young people should participate in more traditional events. – Cá nhân tôi nghĩ rằng giới trẻ nên tham gia nhiều hoạt động truyền thống hơn.\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- Do you think young people today still care about traditional festivals? – Yes, many young people still enjoy festivals because they provide entertainment and help them understand their cultural roots.\n- How has the way people celebrate festivals changed over the last 20 years? – Festivals today are more modern and commercialized, but they are also more accessible thanks to technology and tourism.\n- Should the government spend more money on organizing festivals? – I think the government should invest reasonably because festivals can promote tourism and preserve national culture.\n\n**5. Các lỗi thường gặp:**\n- Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ cụ thể.\n- Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n- Dành quá nhiều thời gian cho bài nói chính và không còn thời gian trả lời follow-up.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ đến trải nghiệm cá nhân khi tham gia lễ hội cùng gia đình.\n- Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a societal viewpoint, traditional festivals are still extremely valuable.\n- Nếu quên từ khó, hãy dùng mô tả đơn giản hoặc từ đồng nghĩa dễ hơn.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn chủ đề từ góc độ xã hội, văn hóa và du lịch thay vì chỉ nói cảm xúc cá nhân.\n- Tính logic và sự liên kết giữa các ý quan trọng hơn việc dùng quá nhiều từ khó.\n- Hãy tưởng tượng bạn đang chia sẻ một quan điểm có chiều sâu với giám khảo thay vì chỉ trả lời ngắn gọn."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about friendship.\n1.\nDo you still keep in touch with your old friends from primary school?\n2.\nWhat do you usually talk about when you meet an old friend?\n3.\nWhy is it important to have long-term friendships?\nNow, let’s talk about celebrations.\n4.\nWhat is the most important anniversary or celebration in your country?\n5.\nHow do people in your family usually celebrate birthdays?\n6.\nDo you prefer small private celebrations or big parties with many people? Why?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Part 1 của bài thi nói kéo dài khoảng 3 phút với 6 câu hỏi ngắn về các chủ đề quen thuộc trong đời sống hằng ngày.\n• Topic A (Friendship): Câu hỏi 1–3 tập trung vào tình bạn lâu năm, việc giữ liên lạc với bạn cũ và giá trị của các mối\nquan hệ bền vững.\n• Topic B (Celebrations): Câu hỏi 4–6 xoay quanh lễ kỷ niệm, sinh nhật và sở thích tham gia các buổi tiệc lớn hoặc nhỏ.\n• Giám khảo đánh giá dựa trên độ trôi chảy, vốn từ vựng, độ chính xác ngữ pháp và phát âm.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi để đảm bảo cân bằng thời gian giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc ARE: Answer – Reason – Example để câu trả lời tự nhiên và dễ mở rộng.\n• Ví dụ Topic A: I still keep in touch with my primary school friends because we have shared many unforgettable\nmemories together. For example, we often meet during holidays and talk about our current lives.\n• Ví dụ Topic B: In my opinion, birthdays are very important because they bring family members together. My family\nusually has a small dinner party at home.\n• Luôn tự hỏi thêm Why? hoặc How? để kéo dài câu trả lời và tránh bị cụt ý.\n• Khi chuyển ý, bạn có thể dùng câu như: Besides talking about work and study, we also share funny memories from\nthe past.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Duy trì tốc độ nói ổn định và dùng các filler tự nhiên như actually, well, to be honest để tránh khoảng lặng quá dài.\n• Đối với Topic A, bạn nên dùng thì hiện tại đơn và hiện tại hoàn thành khi nói về tình bạn kéo dài trong nhiều năm.\n• Đối với Topic B, hiện tại đơn và quá khứ đơn sẽ phù hợp khi mô tả cách tổ chức lễ kỷ niệm.\n• Nếu quên từ vựng, hãy diễn đạt bằng ý đơn giản hơn thay vì dừng lại quá lâu.\n• Vocabulary for Topic A: keep in touch (giữ liên lạc), childhood memories (kỷ niệm tuổi thơ), close friendship (tình bạn\nthân thiết), emotional support (sự hỗ trợ tinh thần).\n• Vocabulary for Topic B: family gathering (buổi họp mặt gia đình), celebrate a special occasion (kỷ niệm dịp đặc biệt),\nthrow a party (tổ chức tiệc), festive atmosphere (không khí lễ hội).\nCụm từ quan trọng nên dùng:\n• maintain a friendship – duy trì tình bạn\n• share common interests – có chung sở thích\n• lose contact with someone – mất liên lạc với ai đó\n• special occasion – dịp đặc biệt\n• have a family reunion – họp mặt gia đình\n• enjoy the atmosphere – tận hưởng không khí\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Besides that – bên cạnh đó\n• For example – ví dụ như\n• As a result – kết quả là\n• In contrast – ngược lại\nCách thể hiện quan điểm tự nhiên:\n• I personally think that long-term friendships are very valuable because they give us emotional support. – Tôi cá nhân\ncho rằng tình bạn lâu năm rất có giá trị vì mang lại sự hỗ trợ tinh thần.\n• From my perspective, keeping old friends helps people feel connected to their childhood. – Theo góc nhìn của tôi,\nviệc giữ liên lạc với bạn cũ giúp mọi người gắn kết với tuổi thơ.\n• As far as I am concerned, true friendship is difficult to replace. – Theo tôi, tình bạn thật sự rất khó thay thế.\n• In my opinion, small celebrations are more meaningful because they are more intimate. – Theo tôi, những buổi tiệc\nnhỏ ý nghĩa hơn vì gần gũi hơn.\n• I would say that big parties are exciting since there are many fun activities. – Tôi cho rằng các bữa tiệc lớn rất thú vị\nvì có nhiều hoạt động vui vẻ.\n• Personally, I prefer celebrating with close family members rather than strangers. – Cá nhân tôi thích ăn mừng với gia\nđình hơn là với người lạ.\n4. Các lỗi thường gặp:\n• Chỉ trả lời Yes hoặc No mà không giải thích thêm là lỗi nghiêm trọng nhất.\n• Ở Topic A, nhiều bạn chỉ nói về bạn bè mà quên giải thích tại sao tình bạn lâu năm lại quan trọng.\n• Ở Topic B, nhiều bạn chỉ mô tả bữa tiệc mà không nêu sở thích cá nhân hoặc lý do.\n• Dùng sai thì khi kể về những kỷ niệm trong quá khứ.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu: That is an interesting question, let me think for a second.\n• Nếu quên từ, hãy mô tả chức năng hoặc cảm xúc thay vì cố nhớ chính xác từ đó.\n• Đối với Topic A, nếu bí ý hãy kể về một người bạn cụ thể và một kỷ niệm đáng nhớ.\n• Đối với Topic B, nếu không biết nói gì hãy so sánh tiệc lớn và tiệc nhỏ dựa trên chi phí, cảm xúc hoặc sự thoải mái.\n6. Tư duy làm bài nói:\n• Hãy xem đây là một cuộc trò chuyện tự nhiên thay vì một bài diễn thuyết học thuật.\n• Khi chuyển từ Topic A sang Topic B, hãy thay đổi tư duy sang các trải nghiệm gia đình và lễ kỷ niệm.\n• Sự tự nhiên và trôi chảy quan trọng hơn việc cố dùng từ quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nYou are about to start university and you are considering where to live.\nYou are considering the following options:\n• Option 1: Sharing a room with other students in a dormitory\n• Option 2: Renting a private room in a boarding house\n• Option 3: Living with a relative's family\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Đây là dạng Solution Discussion yêu cầu bạn phân tích 3 lựa chọn nơi ở trước khi bắt đầu học đại học.\n• Ba lựa chọn gồm ở ký túc xá, thuê phòng riêng và sống cùng họ hàng.\n• Giám khảo đánh giá khả năng lập luận logic, so sánh các lựa chọn và đưa ra quyết định rõ ràng.\n• Thời gian lý tưởng là khoảng 1 phút chuẩn bị và 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Sử dụng cấu trúc I-C-E: Introduction – Comparison – End để bài nói rõ ràng và dễ theo dõi.\n• Option 1 có ưu điểm là tiết kiệm chi phí và dễ kết bạn nhưng có thể thiếu riêng tư.\n• Option 2 mang lại sự độc lập và yên tĩnh nhưng thường đắt hơn.\n• Option 3 giúp tiết kiệm tiền và nhận được sự hỗ trợ từ gia đình nhưng đôi khi thiếu tự do.\n• Hãy liên hệ với cuộc sống sinh viên thực tế như việc đi học, tự lập và quản lý tài chính.\n• Dùng các từ nối so sánh như however, on the other hand hoặc compared to để chuyển ý mượt mà.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Hãy liên kết các lựa chọn với nhau thay vì nói tách biệt hoàn toàn.\n• Dùng hiện tại đơn để mô tả đặc điểm của từng lựa chọn và dùng tương lai đơn khi nói về kế hoạch học đại học.\n• Nếu quên từ như dormitory, bạn có thể nói student accommodation.\nCụm từ quan trọng nên dùng:\n• financial burden – gánh nặng tài chính\n• independent lifestyle – lối sống tự lập\n• living expenses – chi phí sinh hoạt\n• personal privacy – sự riêng tư cá nhân\n• supportive environment – môi trường hỗ trợ\n• develop life skills – phát triển kỹ năng sống\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• In addition – thêm vào đó\n• However – tuy nhiên\n• Compared to – so với\n• As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n• I believe renting a private room is the best option because it offers more privacy. – Tôi tin rằng thuê phòng riêng là\nlựa chọn tốt nhất vì có nhiều sự riêng tư hơn.\n• Compared to living with relatives, staying in a dormitory helps students become more independent. – So với sống\ncùng họ hàng, ở ký túc xá giúp sinh viên tự lập hơn.\n• From my perspective, living with relatives is more comfortable financially. – Theo quan điểm của tôi, sống cùng họ\nhàng sẽ thoải mái hơn về tài chính.\n4. Các lỗi thường gặp:\n• Chỉ khen lựa chọn mình thích mà không phân tích điểm yếu của các lựa chọn còn lại.\n• Lặp đi lặp lại các từ đơn giản như good hoặc bad thay vì dùng từ học thuật hơn.\n• Không đưa ra quyết định cuối cùng rõ ràng ở phần kết luận.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên môn, hãy chuyển sang nói về chi phí, thời gian hoặc sự thuận tiện.\n• Bạn có thể dùng câu: Let's evaluate this option from a different perspective.\n• Nếu bí ý ở một lựa chọn, hãy nhanh chóng chuyển sang lựa chọn khác thay vì dừng quá lâu.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người đang thực sự đưa ra quyết định cho cuộc sống đại học.\n• Ngay cả với lựa chọn bạn thích nhất, hãy đưa ra một điểm hạn chế nhỏ để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: The benefits of preserving traditional festivals\nPromote cultural values and national\nBoost tourism and local economy\nidentity\nPreserving Festivals\nÝ tưởng của bạn\nStrengthen family and community\nbonds\nFOLLOW-UP QUESTIONS\n1.\nDo you think young people today still care about traditional festivals?\n2.\nHow has the way people celebrate festivals changed over the last 20 years?\n3.\nShould the government spend more money on organizing festivals?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn nói về lợi ích của việc bảo tồn các lễ hội truyền thống trong xã hội hiện đại.\n• Ba nhánh chính gồm giá trị văn hóa, du lịch kinh tế và sự gắn kết cộng đồng.\n• Nhánh thứ tư là ý tưởng cá nhân, bạn có thể nói về giáo dục thế hệ trẻ hoặc quảng bá hình ảnh đất nước.\n• Giám khảo đánh giá độ mạch lạc, khả năng phát triển ý và trả lời câu hỏi follow-up.\n• Thời gian khoảng 5 phút gồm 3–3.5 phút trình bày và phần còn lại cho follow-up questions.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Bạn có thể dùng cấu trúc IDEA: Introduction – Detail – Example – Add/wrap up.\n• Ví dụ 1: Today, I would like to talk about why preserving traditional festivals is important for modern society.\n• Ví dụ 2: In addition, traditional festivals can educate younger generations about national history and customs.\n• Khi nói về lễ hội, hãy liên hệ đến các ví dụ quen thuộc như Tet Holiday hoặc Mid-Autumn Festival.\n• Luôn đi theo mindmap để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng các cụm chuyển ý mượt mà giữa các nhánh của sơ đồ tư duy.\n• Dùng hiện tại đơn để nói về sự thật chung và hiện tại hoàn thành khi nói về sự thay đổi theo thời gian.\n• Bạn có thể paraphrase traditional festivals bằng cultural celebrations hoặc local traditions.\nCụm từ quan trọng nên dùng:\n• cultural heritage – di sản văn hóa\n• national identity – bản sắc dân tộc\n• tourist attraction – điểm thu hút du khách\n• local traditions – truyền thống địa phương\n• community spirit – tinh thần cộng đồng\n• pass down customs – truyền lại phong tục\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Moreover – hơn nữa\n• As a result – kết quả là\n• On top of that – thêm vào đó\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe traditional festivals play an important role in preserving culture. – Tôi tin mạnh mẽ rằng lễ hội truyền\nthống đóng vai trò quan trọng trong việc bảo tồn văn hóa.\n• From my point of view, festivals help people feel more connected to their community. – Theo quan điểm của tôi, lễ\nhội giúp mọi người gắn kết hơn với cộng đồng.\n• Personally, I think young people should participate in more traditional events. – Cá nhân tôi nghĩ rằng giới trẻ nên\ntham gia nhiều hoạt động truyền thống hơn.\n4. Gợi ý trả lời câu hỏi follow-up:\n• Do you think young people today still care about traditional festivals? – Yes, many young people still enjoy festivals\nbecause they provide entertainment and help them understand their cultural roots.\n• How has the way people celebrate festivals changed over the last 20 years? – Festivals today are more modern and\ncommercialized, but they are also more accessible thanks to technology and tourism.\n• Should the government spend more money on organizing festivals? – I think the government should invest reasonably\nbecause festivals can promote tourism and preserve national culture.\n5. Các lỗi thường gặp:\n• Chỉ liệt kê lợi ích mà không giải thích hoặc đưa ví dụ cụ thể.\n• Quên phát triển nhánh ý tưởng cá nhân trong mindmap.\n• Dành quá nhiều thời gian cho bài nói chính và không còn thời gian trả lời follow-up.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ đến trải nghiệm cá nhân khi tham gia lễ hội cùng gia đình.\n• Bạn có thể dùng câu: That is a complex issue. If we evaluate it from a societal viewpoint, traditional festivals are still\nextremely valuable.\n• Nếu quên từ khó, hãy dùng mô tả đơn giản hoặc từ đồng nghĩa dễ hơn.\n7. Tư duy làm bài nói:\n• Hãy nhìn chủ đề từ góc độ xã hội, văn hóa và du lịch thay vì chỉ nói cảm xúc cá nhân.\n• Tính logic và sự liên kết giữa các ý quan trọng hơn việc dùng quá nhiều từ khó.\n• Hãy tưởng tượng bạn đang chia sẻ một quan điểm có chiều sâu với giám khảo thay vì chỉ trả lời ngắn gọn."
+}

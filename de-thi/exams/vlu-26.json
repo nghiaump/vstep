@@ -1,0 +1,717 @@
+{
+ "id": "vlu-26",
+ "number": 26,
+ "title": "Đề thi VLU 26",
+ "source": "https://vstepowl.com/exam-reviews/de-thi/?exam=vlu-exam-26",
+ "has_reading": true,
+ "reading": {
+  "duration_min": 60,
+  "parts": [
+   {
+    "part": 1,
+    "question_range": [
+     1,
+     10
+    ],
+    "title": "The Growing Danger of Wildfires",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "A wildfire is a large fire that burns out of control in forests, grasslands, or bushland. In recent years, many countries have reported bigger and more dangerous wildfires, and scientists say that hotter weather, longer dry seasons, and human activity are all part of the reason. Every year, fire seasons seem to start earlier and last longer. Places such as Australia, California, Canada, and southern Europe have faced especially serious fires. Understanding how these fires start and spread can help people stay safe.",
+     "Some wildfires begin naturally, for example when lightning hits dry trees, but experts believe that most fires are started by people through campfires, cigarettes, electrical equipment, or burning rubbish. Once a fire has started, the weather decides how quickly it grows. Dry wood and leaves on the ground burn very easily. High temperatures dry out grass and leaves, and a **fierce** wind can push the flames forward faster than a person can run. Strong winds can also carry burning pieces of wood far ahead of the main fire, starting new fires in other places.",
+     "Wildfires can cause serious harm to people, animals, and the communities that live near forests. Thousands of families may have to leave their homes in a hurry, and some cannot return **there** for weeks or months because the buildings are damaged or the area is still unsafe. Firefighters often risk their lives to protect homes and rescue people. Smoke from big fires can travel hundreds of kilometres and make the air unhealthy for people who live in distant cities. Children, older people, and people with breathing problems are especially at risk when the air is full of smoke.",
+     "Wildfires also change the natural world, and the damage to wild animals and plants can be severe. Many animals die in the flames or lose their homes, while the loss of trees can lead to floods and landslides because no roots are left to hold the soil in place. However, some forests need fire from time to time, because it clears old plants and helps new seeds to grow. Planting trees and protecting young plants can help to **restore** a burned area, although it may take many years.",
+     "People can reduce the danger of wildfires by following simple rules, such as never leaving a campfire burning, putting cigarettes out completely, and obeying fire bans during dry weather. Governments and local communities also have important jobs to do before the fire season begins. They can clear dry plants near houses, build firebreaks, train firefighters, and use warning systems that send messages to phones. In the long term, reducing climate change would also help, because hotter and drier weather makes fires more likely. In conclusion, wildfires are a growing danger, but careful behaviour and good planning can save lives, homes, and forests."
+    ],
+    "questions": [
+     {
+      "number": 1,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Wildfires are harmless events that only happen in distant countries",
+       "B": "Wildfires are a growing danger, but people can reduce the risks",
+       "C": "Firefighters alone can stop every wildfire before it spreads anywhere",
+       "D": "Forests should never be allowed to burn under any circumstances"
+      },
+      "answer": "B",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 2,
+      "stem": "According to the passage, how are most wildfires started?",
+      "options": {
+       "A": "By watering dry grass during very hot weather",
+       "B": "Lightning that hits tall buildings in large cities",
+       "C": "Firefighters start small fires to practise their skills",
+       "D": "By leaving campfires burning or dropping cigarettes"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"most fires are started\" ở đoạn 2 để thấy phần lớn các vụ cháy do con người gây ra qua việc để lửa trại, tàn thuốc lá hoặc rác (leaving campfires burning or dropping cigarettes)."
+     },
+     {
+      "number": 3,
+      "stem": "The word \"fierce\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "powerful",
+       "B": "gentle",
+       "C": "useless",
+       "D": "hidden"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"fierce\" ở đoạn 2 đi kèm với gió lớn thổi ngọn lửa bùng phát dữ dội, mang nghĩa mạnh mẽ, dữ dội (powerful)."
+     },
+     {
+      "number": 4,
+      "stem": "According to the passage, why is smoke from big fires a problem?",
+      "options": {
+       "A": "It always stays inside the forest and never reaches people",
+       "B": "Airports must close in every country for many months",
+       "C": "It can make the air unhealthy in faraway cities",
+       "D": "The ocean water near big coastal cities turns warm"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"smoke\" ở đoạn 3 để xác định vấn đề do khói gây ra: khói từ các đám cháy lớn có thể bay xa hàng trăm km và làm cho không khí ở các thành phố xa trở nên độc hại (make the air unhealthy in faraway cities)."
+     },
+     {
+      "number": 5,
+      "stem": "The word \"restore\" in paragraph 4 is closest in meaning to _______.",
+      "options": {
+       "A": "destroy",
+       "B": "ignore",
+       "C": "measure",
+       "D": "rebuild"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"restore\" ở đoạn 4 đi kèm với việc trồng cây và bảo vệ thực vật non để khôi phục lại khu vực đã bị cháy, tương đương với nghĩa xây dựng lại, phục hồi (rebuild)."
+     },
+     {
+      "number": 6,
+      "stem": "The word \"there\" in paragraph 3 refers to _______.",
+      "options": {
+       "A": "Burned forests",
+       "B": "Their homes",
+       "C": "Safe shelters",
+       "D": "Nearby towns"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào trạng từ chỉ địa điểm \"there\" ở đoạn 3. Đọc ngược lại câu ngay trước để tìm danh từ chỉ nơi chốn tương ứng: hàng ngàn gia đình phải rời khỏi nhà (leave their homes), và một số không thể quay lại *đó* (their homes/địa điểm nhà của họ) trong nhiều tuần hoặc nhiều tháng. Do đó, \"there\" quy chiếu về nhà của họ (Their homes)."
+     },
+     {
+      "number": 7,
+      "stem": "According to the passage, why can the loss of trees lead to floods and landslides?",
+      "options": {
+       "A": "Without roots, nothing holds the soil together",
+       "B": "Burned trees make extra water flow downhill quickly",
+       "C": "Animals dig deep holes in the empty ground",
+       "D": "Firefighters use far too much water on hills"
+      },
+      "answer": "A",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm kiếm cụm từ \"loss of trees\" và \"floods and landslides\" ở đoạn 4 để xác định nguyên nhân sạt lở: không còn rễ cây để giữ đất lại tại chỗ (Without roots, nothing holds the soil together)."
+     },
+     {
+      "number": 8,
+      "stem": "According to the passage, which of the following is NOT mentioned as a way to reduce wildfire danger?",
+      "options": {
+       "A": "Using phone messages to warn people early",
+       "B": "Clearing dry plants from areas near houses",
+       "C": "Cutting down every forest near towns",
+       "D": "Obeying fire bans during very dry weather"
+      },
+      "answer": "C",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các biện pháp giảm thiểu nguy hiểm được liệt kê ở đoạn 5: dùng tin nhắn điện thoại cảnh báo sớm, dọn dẹp thực vật khô quanh nhà, và tuân thủ lệnh cấm lửa vào mùa khô. Phương án \"chặt hạ mọi khu rừng gần thị trấn\" là hoàn toàn sai lệch và đi ngược lại logic bảo vệ môi trường trong bài."
+     },
+     {
+      "number": 9,
+      "stem": "What can be inferred from paragraphs 4 and 5 about wildfires?",
+      "options": {
+       "A": "Every wildfire is helpful because new plants always grow afterwards",
+       "B": "Planting trees is useless because burned land can never recover",
+       "C": "Governments cannot do anything to protect towns from fire danger",
+       "D": "Some fires have benefits, but human actions can make them worse"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4 và 5 về các đám cháy rừng (một số đám cháy có lợi ích tự nhiên trong việc làm sạch cây cũ, nhưng hành động của con người và khí hậu làm cho chúng trở nên tồi tệ và nguy hiểm hơn). Từ đó suy luận ra rằng một số đám cháy có lợi ích, nhưng hành động của con người có thể làm cho chúng trở nên tồi tệ hơn."
+     },
+     {
+      "number": 10,
+      "stem": "What is the writer's main purpose in the passage?",
+      "options": {
+       "A": "To explain the causes, effects, and dangers of wildfires",
+       "B": "To sell new clothing for firefighters working in hot weather",
+       "C": "To describe a holiday that the writer once took abroad",
+       "D": "To argue that nobody should ever enter any forest Reading"
+      },
+      "answer": "A",
+      "type_hint": "Mục đích tác giả",
+      "type": "Chi tiết",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R1Q1) & Mục đích tác giả (R1Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu về hiện tượng cháy rừng và xu hướng gia tăng; đoạn 2 nói về nguyên nhân và cách lửa lan truyền; đoạn 3 mô tả tác hại đối với con người và khói bụi; đoạn 4 đề cập đến tác động sinh thái và lợi ích ngẫu nhiên của một số đám cháy nhỏ; đoạn cuối nêu các biện pháp phòng ngừa và kế hoạch hành động. Do đó, phương án đúng cho câu ý chính phải phản ánh việc cháy rừng là mối nguy hiểm đang gia tăng nhưng con người có thể giảm thiểu rủi ro, đồng thời mục đích chính của tác giả là giải thích nguyên nhân, hậu quả và các mối nguy hiểm của cháy rừng.\n- **Dạng câu hỏi Chi tiết (R1Q2, R1Q4, R1Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R1Q2**, tìm từ khóa \"most fires are started\" ở đoạn 2 để thấy phần lớn các vụ cháy do con người gây ra qua việc để lửa trại, tàn thuốc lá hoặc rác (leaving campfires burning or dropping cigarettes).\n  - Với **R1Q4**, định vị từ khóa \"smoke\" ở đoạn 3 để xác định vấn đề do khói gây ra: khói từ các đám cháy lớn có thể bay xa hàng trăm km và làm cho không khí ở các thành phố xa trở nên độc hại (make the air unhealthy in faraway cities).\n  - Với **R1Q7**, tìm kiếm cụm từ \"loss of trees\" và \"floods and landslides\" ở đoạn 4 để xác định nguyên nhân sạt lở: không còn rễ cây để giữ đất lại tại chỗ (Without roots, nothing holds the soil together).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R1Q3, R1Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R1Q3**, từ **\"fierce\"** ở đoạn 2 đi kèm với gió lớn thổi ngọn lửa bùng phát dữ dội, mang nghĩa mạnh mẽ, dữ dội (powerful).\n  - Với **R1Q5**, từ **\"restore\"** ở đoạn 4 đi kèm với việc trồng cây và bảo vệ thực vật non để khôi phục lại khu vực đã bị cháy, tương đương với nghĩa xây dựng lại, phục hồi (rebuild).\n- **Dạng câu hỏi Quy chiếu đại từ (R1Q6):** Tập trung vào trạng từ chỉ địa điểm **\"there\"** ở đoạn 3. Đọc ngược lại câu ngay trước để tìm danh từ chỉ nơi chốn tương ứng: hàng ngàn gia đình phải rời khỏi nhà (leave their homes), và một số không thể quay lại *đó* (their homes/địa điểm nhà của họ) trong nhiều tuần hoặc nhiều tháng. Do đó, \"there\" quy chiếu về nhà của họ (Their homes).\n- **Dạng câu hỏi Loại trừ NOT (R1Q8):** Đối soát kỹ các biện pháp giảm thiểu nguy hiểm được liệt kê ở đoạn 5: dùng tin nhắn điện thoại cảnh báo sớm, dọn dẹp thực vật khô quanh nhà, và tuân thủ lệnh cấm lửa vào mùa khô. Phương án \"chặt hạ mọi khu rừng gần thị trấn\" là hoàn toàn sai lệch và đi ngược lại logic bảo vệ môi trường trong bài.\n- **Dạng câu hỏi Suy luận (R1Q9):** Tổng hợp thông tin từ các đoạn 4 và 5 về các đám cháy rừng (một số đám cháy có lợi ích tự nhiên trong việc làm sạch cây cũ, nhưng hành động của con người và khí hậu làm cho chúng trở nên tồi tệ và nguy hiểm hơn). Từ đó suy luận ra rằng một số đám cháy có lợi ích, nhưng hành động của con người có thể làm cho chúng trở nên tồi tệ hơn.\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng và quy chiếu đại từ (từ R1Q2 đến R1Q8). Sau đó, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R1Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R1Q1) và Mục đích tác giả (R1Q10)."
+   },
+   {
+    "part": 2,
+    "question_range": [
+     11,
+     20
+    ],
+    "title": "The Effects of Global Warming on People, Nature, and the Planet",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Global warming, the long-term rise in average temperatures caused mainly by the burning of fossil fuels, has moved from scientific prediction to daily reality for communities on every continent. The planet has already warmed by more than one degree Celsius since the late nineteenth century. Although that figure sounds small, it is enough to alter weather patterns, ecosystems, and human societies. Understanding the effects is therefore essential for individuals, businesses, and governments alike.",
+     "For many people, the most **tangible** consequence is extreme heat, since heatwaves are becoming more frequent and intense and are linked to thousands of additional deaths in some summers. Older adults, outdoor workers, and people without air conditioning are especially at risk. Heat also reduces productivity, making outdoor labour more dangerous and school lessons harder to follow. Warmer conditions may also allow mosquitoes that carry diseases such as dengue to survive in regions that were once too cool for them.",
+     "Agriculture is also vulnerable, because changing rainfall and rising temperatures can reduce yields of staple crops such as wheat and maize, and prolonged droughts leave farmers with too little water for irrigation. Food prices may then rise sharply, and the poorest households are usually the ones that suffer most. Some researchers also warn that glaciers, which supply drinking water to millions of people in Asia and South America, are shrinking steadily.",
+     "Meanwhile, the oceans are absorbing most of the extra heat, which causes seawater to expand, and together with melting ice this has raised average sea levels by roughly twenty centimetres since 1900. Coastal flooding therefore threatens homes, farmland, and fresh water supplies in many low-lying regions. Warmer, more acidic seawater also damages coral reefs, which protect coastlines and support fishing communities. In the Arctic, some analysts say the loss of summer sea ice is happening faster than many early models predicted, opening new shipping routes but disturbing local wildlife.",
+     "The consequences are not shared equally, because low-lying island nations contribute very little to global emissions, yet **they** face some of the most severe threats from rising seas and stronger storms. Wealthier countries have more resources to build sea walls and early warning systems. In poorer regions, people who lose their homes or livelihoods may be forced to migrate, which can increase pressure on cities and fuel social tensions.",
+     "Natural ecosystems are changing as well, often faster than species can adapt. Many animals and plants are moving towards the poles or up mountainsides in search of cooler conditions, and species that cannot move quickly enough face a higher risk of extinction. Wildfires and storms are also becoming more destructive in many places, adding pressure on already stressed habitats. Protecting forests, wetlands, and mangroves can help ecosystems stay **resilient**, because healthy habitats recover more easily from shocks and also store large amounts of carbon.",
+     "Limiting further warming will require deep cuts in greenhouse gas emissions, the central aim of the Paris Agreement of 2015, which seeks to keep the temperature rise well below two degrees Celsius. Adaptation, such as building defences and developing drought-resistant crops, is equally important. Whatever the pace of progress, the evidence suggests that the choices made in the next few decades will shape the planet for centuries."
+    ],
+    "questions": [
+     {
+      "number": 11,
+      "stem": "What is the main idea of the passage?",
+      "options": {
+       "A": "Global warming harms people and nature, so urgent action is needed",
+       "B": "Natural climate cycles alone explain every recent change in temperature",
+       "C": "Island nations are the main cause of rising global emissions",
+       "D": "Technology will soon remove every risk from extreme weather events"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 12,
+      "stem": "According to the passage, who is especially at risk during heatwaves?",
+      "options": {
+       "A": "Young athletes who train indoors in cool sports halls",
+       "B": "Older adults, outdoor workers, and people lacking cooling",
+       "C": "Residents of cold regions where mosquitoes simply cannot survive",
+       "D": "Office employees with access to modern air conditioning systems"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"heatwaves\" ở đoạn 2 để thấy nhóm đối tượng có nguy cơ cao nhất: người cao tuổi, lao động ngoài trời và những người thiếu các thiết bị làm mát (Older adults, outdoor workers, and people lacking cooling)."
+     },
+     {
+      "number": 13,
+      "stem": "The word \"tangible\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "unlikely",
+       "B": "delayed",
+       "C": "forgotten",
+       "D": "concrete"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"tangible\" ở đoạn 2 đi kèm với các mối đe dọa và tác động thực tế có thể cảm nhận rõ ràng của biến đổi khí hậu, mang nghĩa cụ thể, rõ ràng (concrete)."
+     },
+     {
+      "number": 14,
+      "stem": "According to the passage, why might crop yields fall?",
+      "options": {
+       "A": "Farmers choose to grow fewer crops because they dislike farming work",
+       "B": "Governments have banned all exports of both wheat and maize",
+       "C": "Changing rainfall and droughts can reduce harvests of staple crops",
+       "D": "Glaciers release extra water that floods the fields every spring"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"crop yields\" ở đoạn 3 để xác định nguyên nhân năng suất cây trồng giảm: sự thay đổi lượng mưa và hạn hán có thể làm giảm thu hoạch các loại cây lương thực chính (Changing rainfall and droughts can reduce harvests of staple crops)."
+     },
+     {
+      "number": 15,
+      "stem": "The word \"resilient\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "robust",
+       "B": "fragile",
+       "C": "isolated",
+       "D": "reduced"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"resilient\" ở đoạn 6 mô tả các cộng đồng và hệ thống có khả năng chống chịu, phục hồi tốt trước các cú sốc khí hậu, tương đương với sự bền bỉ, vững chắc (robust)."
+     },
+     {
+      "number": 16,
+      "stem": "The word \"they\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Richer coastal cities",
+       "B": "Low-lying island nations",
+       "C": "Stronger tropical storms",
+       "D": "Global carbon emissions"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số nhiều \"they\" ở đoạn 5. Đọc ngược lại câu ngay trước để tìm danh từ số nhiều phù hợp: nói về các quốc gia đảo thấp (Low-lying island nations) đối mặt với nguy cơ ngập lụt và *họ* (các quốc gia đó) ít có khả năng chịu chi phí di dời. Do đó, \"they\" quy chiếu thẳng đến các quốc gia đảo thấp (Low-lying island nations)."
+     },
+     {
+      "number": 17,
+      "stem": "According to the passage, what can wealthier countries do more easily?",
+      "options": {
+       "A": "Stop every storm by cooling the ocean's surface",
+       "B": "Move entire cities inland without any public cost",
+       "C": "Cancel all food imports from every poorer region",
+       "D": "Build sea walls and early warning systems"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"wealthier countries\" ở đoạn 5 để xác định những việc các nước giàu có thể làm dễ dàng hơn: xây dựng tường chắn biển và hệ thống cảnh báo sớm (Build sea walls and early warning systems)."
+     },
+     {
+      "number": 18,
+      "stem": "According to the passage, which of the following is NOT mentioned as a result of ocean warming and melting ice?",
+      "options": {
+       "A": "Falling sea levels along most coastlines",
+       "B": "Flooding that threatens homes and fresh water",
+       "C": "Damage to coral reefs and fishing communities",
+       "D": "New shipping routes opening across the Arctic"
+      },
+      "answer": "A",
+      "type_hint": "Loại trừ NOT",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "Đối soát kỹ các hậu quả được liệt kê ở đoạn 4 về nước biển ấm lên và băng tan: ngập lụt đe dọa nhà cửa/nguồn nước, tổn hại rạn san hô/cộng đồng đánh bắt, và mở ra các tuyến hàng hải mới qua Bắc Cực. Phương án về \"mực nước biển giảm dọc theo hầu hết các đường bờ biển\" là hoàn toàn sai lệch và đi ngược lại hiện tượng nước biển dâng."
+     },
+     {
+      "number": 19,
+      "stem": "What can be inferred from paragraphs 3, 4, and 5 about the effects of global warming?",
+      "options": {
+       "A": "Wealthy nations are suffering far more than poorer ones overall",
+       "B": "Food production will improve everywhere as temperatures continue to rise",
+       "C": "The harm is uneven, falling hardest on those with fewest resources",
+       "D": "Sea level rise only affects countries with very small populations"
+      },
+      "answer": "C",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 3, 4 và 5 về các tác động của sự ấm lên toàn cầu (tác động lan rộng từ nông nghiệp, mực nước biển đến khả năng thích ứng khác nhau giữa nước giàu và nước nghèo). Từ đó suy luận ra rằng những tổn hại là không đồng đều, giáng đòn nặng nề nhất lên những đối tượng có ít nguồn lực nhất (The harm is uneven, falling hardest on those with fewest resources)."
+     },
+     {
+      "number": 20,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade readers that scientists disagree about the causes of warming",
+       "B": "To outline how global warming affects people, nature, and societies",
+       "C": "To recommend specific brands of air conditioning for hot summer weather",
+       "D": "To record the daily weather in one small coastal settlement Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R2Q1) & Mục đích tác giả (R2Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu về sự ấm lên toàn cầu và các mối đe dọa; đoạn 2 nói về các đợt nắng nóng và sức khỏe con người; đoạn 3 bàn về tác động lên nông nghiệp và lương thực; đoạn 4 và 5 đề cập đến hiện tượng băng tan, mực nước biển dâng và sự bất bình đẳng trong khả năng ứng phó giữa các quốc gia; đoạn cuối nhấn mạnh tầm quan trọng của việc hành động và xây dựng khả năng chống chịu. Do đó, phương án đúng cho câu ý chính phải phản ánh việc sự ấm lên toàn cầu gây tổn hại cho con người và tự nhiên nên cần có hành động khẩn cấp; đồng thời mục đích chính của tác giả là phác thảo cách sự ấm lên toàn cầu ảnh hưởng đến con người, thiên nhiên và xã hội.\n- **Dạng câu hỏi Chi tiết (R2Q2, R2Q4, R2Q7):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R2Q2**, tìm từ khóa \"heatwaves\" ở đoạn 2 để thấy nhóm đối tượng có nguy cơ cao nhất: người cao tuổi, lao động ngoài trời và những người thiếu các thiết bị làm mát (Older adults, outdoor workers, and people lacking cooling).\n  - Với **R2Q4**, định vị từ khóa \"crop yields\" ở đoạn 3 để xác định nguyên nhân năng suất cây trồng giảm: sự thay đổi lượng mưa và hạn hán có thể làm giảm thu hoạch các loại cây lương thực chính (Changing rainfall and droughts can reduce harvests of staple crops).\n  - Với **R2Q7**, tìm từ khóa \"wealthier countries\" ở đoạn 5 để xác định những việc các nước giàu có thể làm dễ dàng hơn: xây dựng tường chắn biển và hệ thống cảnh báo sớm (Build sea walls and early warning systems).\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R2Q3, R2Q5):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R2Q3**, từ **\"tangible\"** ở đoạn 2 đi kèm với các mối đe dọa và tác động thực tế có thể cảm nhận rõ ràng của biến đổi khí hậu, mang nghĩa cụ thể, rõ ràng (concrete).\n  - Với **R2Q5**, từ **\"resilient\"** ở đoạn 6 mô tả các cộng đồng và hệ thống có khả năng chống chịu, phục hồi tốt trước các cú sốc khí hậu, tương đương với sự bền bỉ, vững chắc (robust).\n- **Dạng câu hỏi Quy chiếu đại từ (R2Q6):** Tập trung vào đại từ nhân xưng số nhiều **\"they\"** ở đoạn 5. Đọc ngược lại câu ngay trước để tìm danh từ số nhiều phù hợp: nói về các quốc gia đảo thấp (Low-lying island nations) đối mặt với nguy cơ ngập lụt và *họ* (các quốc gia đó) ít có khả năng chịu chi phí di dời. Do đó, \"they\" quy chiếu thẳng đến các quốc gia đảo thấp (Low-lying island nations).\n- **Dạng câu hỏi Loại trừ NOT (R2Q8):** Đối soát kỹ các hậu quả được liệt kê ở đoạn 4 về nước biển ấm lên và băng tan: ngập lụt đe dọa nhà cửa/nguồn nước, tổn hại rạn san hô/cộng đồng đánh bắt, và mở ra các tuyến hàng hải mới qua Bắc Cực. Phương án về \"mực nước biển giảm dọc theo hầu hết các đường bờ biển\" là hoàn toàn sai lệch và đi ngược lại hiện tượng nước biển dâng.\n- **Dạng câu hỏi Suy luận (R2Q9):** Tổng hợp thông tin từ các đoạn 3, 4 và 5 về các tác động của sự ấm lên toàn cầu (tác động lan rộng từ nông nghiệp, mực nước biển đến khả năng thích ứng khác nhau giữa nước giàu và nước nghèo). Từ đó suy luận ra rằng những tổn hại là không đồng đều, giáng đòn nặng nề nhất lên những đối tượng có ít nguồn lực nhất (The harm is uneven, falling hardest on those with fewest resources).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng và quy chiếu đại từ (từ R2Q2 đến R2Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R2Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R2Q1) và Mục đích tác giả (R2Q10)."
+   },
+   {
+    "part": 3,
+    "question_range": [
+     21,
+     30
+    ],
+    "title": "The Impact of Plastic Pollution on the World's Oceans",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Few images of environmental damage are as striking as a seabird with a stomach full of plastic. Global plastic production has risen from around two million tonnes in 1950 to several hundred million tonnes today, and a significant share of this material eventually reaches the sea through rivers, drains, and careless disposal. The consequences, though often invisible from the shore, are reshaping marine life.",
+     "Estimates suggest that several million tonnes of plastic enter the oceans each year, and because most types break down extremely slowly, the waste continues to **accumulate** in currents, on beaches, and on the seabed. The Great Pacific Garbage Patch is the best-known example of this problem. Contrary to popular imagination, it is less a solid island than a diffuse cloud of fragments, many of them too small to see easily.",
+     "Not all marine plastic arrives in the form of bottles or bags. **[1]** These particles originate from the gradual breakdown of larger items, from synthetic clothing fibres released during washing, and from tyre wear washed off roads. **[2]** Being so small, microplastics are easily swallowed by plankton, shellfish, and fish, allowing the material to enter the food chain. **[3]** Scientists have detected such particles in table salt, bottled water, and human blood, although the health implications remain poorly understood and are still being investigated by researchers around the world. **[4]** Cleaning up the problem is therefore far harder than collecting visible litter from beaches.",
+     "Marine animals suffer in several distinct ways from the plastic that now fills the oceans. Entanglement in discarded fishing nets and lines, often called ghost gear, kills seals, turtles, and whales, while ingestion of plastic fragments can cause starvation by leaving animals with a false sense of fullness. Studies of seabirds have found plastic in the stomachs of a large majority of some species. Plastic rafts also carry coastal organisms across oceans, which can introduce invasive species to unfamiliar ecosystems.",
+     "The damage extends beyond wildlife to the people who depend on healthy seas. Fishing communities report damaged boats and contaminated catches, tourism businesses lose income when beaches become unattractive, and local authorities spend considerable sums on clean-up operations. Many island economies are particularly exposed, since **their** prosperity depends on tourism and fishing, while local waste facilities are often too limited to cope with debris carried in by ocean currents.",
+     "Solutions require coordinated action at every stage of the plastic life cycle, from design to disposal. Several countries have banned single-use bags and microbeads in cosmetics, although some measures have inadvertently pushed shoppers towards heavier alternatives that only help the environment if they are reused many times. Improved waste collection in rapidly growing cities, deposit schemes for bottles, and redesigned packaging could reduce leakage at source. Negotiations on a global plastics treaty, begun under the United Nations in 2022, have so far struggled to reconcile the interests of producers and vulnerable coastal nations.",
+     "Ultimately, the fate of the oceans will depend on whether societies treat plastic as a valuable material to be recovered or as disposable waste to be forgotten once it leaves the home. Cleaning beaches helps, but only reducing production and leakage can stop the problem growing. Without such changes, scientists expect the quantity of plastic in the sea to rise considerably over the coming decades."
+    ],
+    "questions": [
+     {
+      "number": 21,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Microplastics are harmless to animals but dangerous to coastal property",
+       "B": "Recycling programmes have already removed most plastic from the oceans",
+       "C": "The Great Pacific Garbage Patch is a solid island of rubbish",
+       "D": "Plastic pollution harms marine life and livelihoods, so coordinated action is essential"
+      },
+      "answer": "D",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 22,
+      "stem": "According to the passage, why does plastic accumulate in the oceans?",
+      "options": {
+       "A": "Ocean currents deliberately collect rubbish into neat circular piles",
+       "B": "Most types of plastic break down extremely slowly",
+       "C": "Fishing fleets dump unused plastic overboard every single night",
+       "D": "Beaches are cleaned too often for waste to disappear naturally"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"plastic accumulate\" ở đoạn 2 để thấy lý do nhựa tích tụ trong đại dương: hầu hết các loại nhựa phân hủy cực kỳ chậm (break down extremely slowly)."
+     },
+     {
+      "number": 23,
+      "stem": "The word \"accumulate\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "disappear",
+       "B": "dissolve",
+       "C": "gather",
+       "D": "evaporate"
+      },
+      "answer": "C",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"accumulate\" ở đoạn 2 đi kèm với việc rác thải trôi dạt và tích tụ lại trong các dòng hải lưu lớn, mang nghĩa tập trung lại, thu gom, tích lũy (gather)."
+     },
+     {
+      "number": 24,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'A large proportion consists of microplastics, fragments smaller than five millimetres that are now found from polar ice to the deepest ocean trenches.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "A",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'A large proportion consists of microplastics, fragments smaller than five millimetres that are now found from polar ice to the deepest ocean trenches.' Câu này đề cập đến thành phần vi nhựa (microplastics) nhỏ hơn 5mm, nối tiếp hoàn hảo ngay sau câu giới thiệu về rác thải nhựa trôi nổi ở đại dương tại vị trí [1]."
+     },
+     {
+      "number": 25,
+      "stem": "According to the passage, how can ingesting plastic harm animals?",
+      "options": {
+       "A": "Animals grow too quickly and then die of old age much sooner",
+       "B": "Fish leave the whole area because the water becomes badly poisonous",
+       "C": "Sunlight is blocked at the surface so plankton cannot grow",
+       "D": "It can cause starvation by creating a false sense of fullness"
+      },
+      "answer": "D",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"ingesting plastic\" ở đoạn 4 để xác định cách nhựa gây hại cho động vật: gây ra tình trạng đói do tạo cảm giác no giả (causing starvation by creating a false sense of fullness)."
+     },
+     {
+      "number": 26,
+      "stem": "The word \"their\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Fishing communities",
+       "B": "Island economies",
+       "C": "Tourism businesses",
+       "D": "Local authorities"
+      },
+      "answer": "B",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ sở hữu số nhiều \"their\" ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về các nền kinh tế đảo (Island economies) chịu thiệt hại nặng nề và các nguồn thu của *chính họ* bị đe dọa. Do đó, \"their\" quy chiếu về các nền kinh tế đảo (Island economies)."
+     },
+     {
+      "number": 27,
+      "stem": "The word \"inadvertently\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "unintentionally",
+       "B": "deliberately",
+       "C": "gradually",
+       "D": "immediately"
+      },
+      "answer": "A",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"inadvertently\" ở đoạn 6 mô tả việc các loài sinh vật vô tình ăn phải hạt vi nhựa hoặc vướng vào lưới, tương đương với nghĩa vô tình, không cố ý (unintentionally)."
+     },
+     {
+      "number": 28,
+      "stem": "According to the passage, which of the following is NOT mentioned as an economic effect of marine plastic?",
+      "options": {
+       "A": "Damaged boats and contaminated catches for fishing communities",
+       "B": "Lost income for tourism businesses when beaches look unattractive",
+       "C": "Increased profits for companies that produce plastic",
+       "D": "Considerable clean-up costs that local authorities must pay"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các tác động kinh tế được liệt kê ở đoạn 5: thuyền bị hỏng/sản lượng đánh bắt bị nhiễm bẩn, thất thu du lịch khi bãi biển xấu đi, và chi phí dọn dẹp cao cho chính quyền. Phương án về \"lợi nhuận tăng cho các công ty sản xuất nhựa\" là sai lệch hoàn toàn."
+     },
+     {
+      "number": 29,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about solving marine plastic pollution?",
+      "options": {
+       "A": "Beach clean-ups alone will soon make the oceans completely clean",
+       "B": "Banning plastic bags has no effect on the environment whatsoever",
+       "C": "Only wealthy nations suffer damage because poorer ones produce no waste",
+       "D": "Effective solutions will probably need cooperation among governments, industries, and ordinary consumers"
+      },
+      "answer": "D",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc giải quyết ô nhiễm nhựa (vấn đề phức tạp ảnh hưởng đến sinh vật, kinh tế và đòi hỏi nỗ lực chung). Từ đó suy luận ra rằng các giải pháp hiệu quả có thể sẽ cần sự hợp tác giữa các chính phủ, ngành công nghiệp và người tiêu dùng (Effective solutions will probably need cooperation among governments, industries, and ordinary consumers)."
+     },
+     {
+      "number": 30,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To argue that plastic must be banned immediately in every single country",
+       "B": "To examine the causes, effects, and possible remedies of ocean plastic",
+       "C": "To compare the prices of reusable bottles sold by leading brands",
+       "D": "To describe a long scientific voyage across the Pacific Ocean Reading"
+      },
+      "answer": "B",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R3Q1) & Mục đích tác giả (R3Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu vấn đề ô nhiễm nhựa đại dương; đoạn 2 và 3 bàn về nguyên nhân rác thải tích tụ và vi nhựa; đoạn 4 nói về tác hại đối với động vật biển; đoạn 5 đề cập đến thiệt hại kinh tế đối với du lịch, đánh bắt và chính quyền địa phương; đoạn 6 và 7 nêu các giải pháp phối hợp toàn cầu. Do đó, phương án đúng cho câu ý chính phải phản ánh việc ô nhiễm nhựa gây hại cho sinh vật biển và sinh kế, đòi hỏi hành động phối hợp, đồng thời mục đích chính của tác giả là kiểm tra và xem xét các nguyên nhân, hậu quả cũng như giải pháp khắc phục ô nhiễm nhựa đại dương.\n- **Dạng câu hỏi Chi tiết (R3Q2, R3Q5, R3Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R3Q2**, tìm từ khóa \"plastic accumulate\" ở đoạn 2 để thấy lý do nhựa tích tụ trong đại dương: hầu hết các loại nhựa phân hủy cực kỳ chậm (break down extremely slowly).\n  - Với **R3Q5**, định vị từ khóa \"ingesting plastic\" ở đoạn 4 để xác định cách nhựa gây hại cho động vật: gây ra tình trạng đói do tạo cảm giác no giả (causing starvation by creating a false sense of fullness).\n  - Với **R3Q8**, đối soát kỹ các tác động kinh tế được liệt kê ở đoạn 5: thuyền bị hỏng/sản lượng đánh bắt bị nhiễm bẩn, thất thu du lịch khi bãi biển xấu đi, và chi phí dọn dẹp cao cho chính quyền. Phương án về \"lợi nhuận tăng cho các công ty sản xuất nhựa\" là sai lệch hoàn toàn.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R3Q3, R3Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - Với **R3Q3**, từ **\"accumulate\"** ở đoạn 2 đi kèm với việc rác thải trôi dạt và tích tụ lại trong các dòng hải lưu lớn, mang nghĩa tập trung lại, thu gom, tích lũy (gather).\n  - Với **R3Q7**, từ **\"inadvertently\"** ở đoạn 6 mô tả việc các loài sinh vật vô tình ăn phải hạt vi nhựa hoặc vướng vào lưới, tương đương với nghĩa vô tình, không cố ý (unintentionally).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R3Q4):** Đọc kỹ câu cần chèn: 'A large proportion consists of microplastics, fragments smaller than five millimetres that are now found from polar ice to the deepest ocean trenches.' Câu này đề cập đến thành phần vi nhựa (microplastics) nhỏ hơn 5mm, nối tiếp hoàn hảo ngay sau câu giới thiệu về rác thải nhựa trôi nổi ở đại dương tại vị trí **[1]**.\n- **Dạng câu hỏi Quy chiếu đại từ (R3Q6):** Tập trung vào đại từ sở hữu số nhiều **\"their\"** ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về các nền kinh tế đảo (Island economies) chịu thiệt hại nặng nề và các nguồn thu của *chính họ* bị đe dọa. Do đó, \"their\" quy chiếu về các nền kinh tế đảo (Island economies).\n- **Dạng câu hỏi Suy luận (R3Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về việc giải quyết ô nhiễm nhựa (vấn đề phức tạp ảnh hưởng đến sinh vật, kinh tế và đòi hỏi nỗ lực chung). Từ đó suy luận ra rằng các giải pháp hiệu quả có thể sẽ cần sự hợp tác giữa các chính phủ, ngành công nghiệp và người tiêu dùng (Effective solutions will probably need cooperation among governments, industries, and ordinary consumers).\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu vào chỗ trống và quy chiếu đại từ (từ R3Q2 đến R3Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R3Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R3Q1) và Mục đích tác giả (R3Q10)."
+   },
+   {
+    "part": 4,
+    "question_range": [
+     31,
+     40
+    ],
+    "title": "Local Housing Policies and Their Unintended Effects",
+    "directions": "Read the passage and choose the best answer (A, B, C, or D) for each question.",
+    "passage": [
+     "Housing policy is among the most politically sensitive areas of local government, because decisions about where homes may be built, how much they may cost, and who may live in them affect every resident. Yet well-meant rules often produce results that the authors never intended or even imagined. Examining how several common policies have worked in practice shows why economists urge caution.",
+     "Zoning rules, which divide a city into areas with different permitted uses, were **ostensibly** introduced to separate homes from polluting factories and to protect public health. Over time, however, many cities used them to restrict density, limiting housing to detached single-family homes. Minimum lot sizes, height limits, and parking requirements raise the cost of each new home, and critics argue that these rules have made construction effectively impossible in large parts of expensive cities.",
+     "Rent control illustrates the same pattern of good intentions and mixed results. **[1]** By capping rent increases, such laws provide immediate relief to sitting tenants, who gain security and are less likely to be forced out of their neighbourhoods. **[2]** However, landlords facing capped returns may convert apartments into condominiums, redevelop buildings, or withdraw them from the rental market altogether. **[3]** A frequently cited study of San Francisco found that rent control reduced the supply of affected rental housing by roughly fifteen per cent, even though it helped the tenants who stayed. **[4]** Such pressure falls hardest on newcomers, young workers, and low-income families, who must compete for a shrinking pool of uncontrolled homes.",
+     "Inclusionary zoning requires developers to reserve a share of new units for lower-income households. Where the requirement is modest and paired with incentives such as extra height, it can deliver affordable homes, but where it is too demanding, projects may become unprofitable and never be built. Minimum parking requirements, introduced to prevent congestion, can add thousands of dollars to the cost of each unit and encourage car ownership in places well served by public transport. Several cities have therefore abolished such minimums, allowing developers to decide how much parking buyers actually want.",
+     "Developers respond not only to current rules but also to the uncertainty surrounding possible future ones. If a city regularly adjusts approval procedures, fees, or affordability requirements, developers may build less or delay projects, because **they** cannot calculate returns with confidence and lenders hesitate to finance projects with unpredictable costs. Lengthy approval processes have a similar effect, since every month of delay adds interest and administrative costs that are eventually reflected in higher prices.",
+     "Demand-side subsidies, such as grants for first-time buyers, can have a perverse effect when supply is restricted, because the extra purchasing power is absorbed by higher prices rather than by additional homes. Economists describe this process as the capitalisation of subsidies into land values. Similarly, tax benefits for homeowners may strengthen opposition to new building, since residents who view their house as an investment have an incentive to protect scarcity.",
+     "None of this means that housing policy should be abandoned, but it suggests that regulations should be judged by their measurable outcomes rather than by the intentions of the people who design them. Cities that have permitted more construction, such as Auckland, have reportedly seen slower rent growth. Careful evaluation, flexible adjustment, and honest acknowledgement of trade-offs are therefore more valuable than slogans. In housing, as in other fields, the road to disappointing results is often paved with sincere good intentions."
+    ],
+    "questions": [
+     {
+      "number": 31,
+      "stem": "Which statement best summarises the passage?",
+      "options": {
+       "A": "Well-meant housing rules often backfire, so measured results matter more than intentions",
+       "B": "Rent control is clearly the best solution for every city",
+       "C": "Local governments should stop regulating housing entirely and trust developers completely",
+       "D": "Parking requirements are the only reason homes cost so much"
+      },
+      "answer": "A",
+      "type_hint": "Ý chính",
+      "type": "Ý chính",
+      "explanation": null
+     },
+     {
+      "number": 32,
+      "stem": "According to the passage, why were zoning rules originally introduced?",
+      "options": {
+       "A": "To encourage developers to build taller towers near stations",
+       "B": "To raise money for schools through higher property taxes",
+       "C": "To keep homes apart from polluting factories",
+       "D": "To guarantee each family a detached house and garden"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "tìm từ khóa \"zoning rules\" ở đoạn 2 để thấy lý do các quy tắc quy hoạch ban đầu được giới thiệu: để giữ nhà ở tách biệt khỏi các nhà máy gây ô nhiễm (To keep homes apart from polluting factories)."
+     },
+     {
+      "number": 33,
+      "stem": "The word \"ostensibly\" in paragraph 2 is closest in meaning to _______.",
+      "options": {
+       "A": "secretly",
+       "B": "apparently",
+       "C": "entirely",
+       "D": "gradually"
+      },
+      "answer": "B",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": null
+     },
+     {
+      "number": 34,
+      "stem": "Which of the following square brackets [1], [2], [3], or [4] best indicates where the following sentence could be added? 'That fall in supply tends to push up rents for everyone not protected by the controls, including future residents.'",
+      "options": {
+       "A": "[1]",
+       "B": "[2]",
+       "C": "[3]",
+       "D": "[4]"
+      },
+      "answer": "D",
+      "type_hint": "Điền câu vào vị trí trống",
+      "type": "Chèn câu",
+      "explanation": "Đọc kỹ câu cần chèn: 'That fall in supply tends to push up rents for everyone not protected by the controls, including future residents.' Cụm từ \"That fall in supply\" liên kết trực tiếp với hiện tượng sụt giảm nguồn cung nhà ở cho thuê được mô tả ngay trước vị trí [4] trong phần bàn về kiểm soát giá thuê nhà."
+     },
+     {
+      "number": 35,
+      "stem": "According to the passage, what can happen if inclusionary zoning is too demanding?",
+      "options": {
+       "A": "Developers receive large payments for every affordable flat built",
+       "B": "Buyers pay lower prices for each new home",
+       "C": "Projects may become unprofitable and never be built",
+       "D": "Heights of buildings are cut by half"
+      },
+      "answer": "C",
+      "type_hint": "Chi tiết",
+      "type": "Chi tiết",
+      "explanation": "định vị từ khóa \"inclusionary zoning\" ở đoạn 4 để xác định điều gì xảy ra nếu các yêu cầu quá khắt khe: các dự án có thể trở nên không có lãi và không bao giờ được xây dựng (Projects may become unprofitable and never be built)."
+     },
+     {
+      "number": 36,
+      "stem": "The word \"they\" in paragraph 5 refers to _______.",
+      "options": {
+       "A": "Developers",
+       "B": "Lenders",
+       "C": "Planning officers",
+       "D": "Home buyers"
+      },
+      "answer": "A",
+      "type_hint": "Quy chiếu đại từ",
+      "type": "Quy chiếu",
+      "explanation": "Tập trung vào đại từ nhân xưng số nhiều \"they\" ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về các nhà phát triển (Developers) đối mặt với chi phí tăng và *họ* (các nhà phát triển) có thể từ chối xây dựng. Do đó, \"they\" quy chiếu thẳng đến các nhà phát triển (Developers)."
+     },
+     {
+      "number": 37,
+      "stem": "The word \"perverse\" in paragraph 6 is closest in meaning to _______.",
+      "options": {
+       "A": "beneficial",
+       "B": "temporary",
+       "C": "negligible",
+       "D": "counterproductive"
+      },
+      "answer": "D",
+      "type_hint": "Từ vựng theo ngữ cảnh",
+      "type": "Từ vựng",
+      "explanation": "từ \"perverse\" ở đoạn 6 đi kèm với các hệ quả đi ngược lại mong muốn ban đầu của chính sách, tương đương với nghĩa phản tác dụng, mang tính phá hoại ngược (counterproductive)."
+     },
+     {
+      "number": 38,
+      "stem": "According to the passage, which of the following is NOT mentioned as a possible unintended effect of housing subsidies or tax benefits?",
+      "options": {
+       "A": "Higher prices absorbing the extra purchasing power created by grants",
+       "B": "A sudden surplus of cheap homes for first-time buyers",
+       "C": "Subsidies gradually being capitalised into the value of local land",
+       "D": "Homeowners resisting new building to protect the scarcity of housing"
+      },
+      "answer": "B",
+      "type_hint": "Chi tiết",
+      "type": "Loại trừ (NOT/EXCEPT)",
+      "explanation": "đối soát kỹ các hệ quả không mong muốn được liệt kê ở đoạn 6: giá cao hơn hấp thụ thêm sức mua từ trợ cấp, trợ cấp bị vốn hóa vào giá trị đất, và chủ nhà chống đối việc xây mới để bảo vệ sự khan hiếm. Phương án \"sự dư thừa đột ngột các căn hộ giá rẻ cho những người mua nhà lần đầu\" là hoàn toàn không xuất hiện và sai lệch so với bài viết."
+     },
+     {
+      "number": 39,
+      "stem": "What can be inferred from paragraphs 4, 5, and 6 about housing policy design?",
+      "options": {
+       "A": "Details such as scale, stability, and incentives can decide whether a policy succeeds",
+       "B": "Any new requirement placed on developers will always increase housing supply",
+       "C": "Subsidies for buyers are the most effective way to reduce prices",
+       "D": "Frequent rule changes make developers far more eager to start projects"
+      },
+      "answer": "A",
+      "type_hint": "Suy luận",
+      "type": "Suy luận",
+      "explanation": "Tổng hợp thông tin từ các đoạn 4, 5 và 6 về thiết kế chính sách nhà ở (quy mô, sự ổn định và các ưu đãi chi tiết có thể quyết định sự thành bại của một chính sách). Từ đó suy luận ra rằng các chi tiết như quy mô, tính ổn định và các ưu đãi có thể quyết định xem một chính sách có thành công hay không."
+     },
+     {
+      "number": 40,
+      "stem": "What is the author's main purpose in the passage?",
+      "options": {
+       "A": "To persuade local governments to abolish all planning rules immediately everywhere",
+       "B": "To advise tourists on where to rent holiday apartments cheaply",
+       "C": "To show how well-meant housing policies can produce unintended consequences",
+       "D": "To report the results of a recent election campaign"
+      },
+      "answer": "C",
+      "type_hint": "Mục đích tác giả",
+      "type": "Mục đích tác giả",
+      "explanation": null
+     }
+    ],
+    "tips_md": "Để đạt kết quả tốt cho phần thi này, bạn nên áp dụng các chiến thuật sau đây:\n- **Dạng câu hỏi Ý chính (R4Q1) & Mục đích tác giả (R4Q10):** Sử dụng kỹ năng **Skimming** (Đọc lướt). Đọc câu chủ đề của các đoạn để nắm mạch nội dung: đoạn 1 giới thiệu vấn đề các quy định nhà ở thiện chí nhưng mang lại hệ quả trái ngược; đoạn 2 và 3 bàn về quy hoạch phân khu (zoning) và kiểm soát giá thuê nhà; đoạn 4 và 5 đề cập đến các yêu cầu nhà ở thu nhập thấp (inclusionary zoning) và tác động lên nhà phát triển; đoạn 6 và 7 phân tích các hệ quả không mong muốn từ trợ cấp và kết luận về việc cần đánh giá kết quả thực tế thay vì chỉ nhìn vào thiện chí ban đầu. Do đó, phương án đúng cho câu ý chính phải phản ánh việc các quy định nhà ở thiện chí thường phản tác dụng, do đó kết quả thực tế quan trọng hơn ý định; đồng thời mục đích chính của tác giả là cho thấy các chính sách nhà ở thiện chí có thể tạo ra những hệ quả không mong muốn.\n- **Dạng câu hỏi Chi tiết (R4Q2, R4Q5, R4Q8):** Sử dụng kỹ năng **Scanning** (Đọc quét từ khóa đặc hiệu) để tìm kiếm dữ kiện trực diện có sẵn trong văn bản.\n  - Với **R4Q2**, tìm từ khóa \"zoning rules\" ở đoạn 2 để thấy lý do các quy tắc quy hoạch ban đầu được giới thiệu: để giữ nhà ở tách biệt khỏi các nhà máy gây ô nhiễm (To keep homes apart from polluting factories).\n  - Với **R4Q5**, định vị từ khóa \"inclusionary zoning\" ở đoạn 4 để xác định điều gì xảy ra nếu các yêu cầu quá khắt khe: các dự án có thể trở nên không có lãi và không bao giờ được xây dựng (Projects may become unprofitable and never be built).\n  - Với **R4Q8**, đối soát kỹ các hệ quả không mong muốn được liệt kê ở đoạn 6: giá cao hơn hấp thụ thêm sức mua từ trợ cấp, trợ cấp bị vốn hóa vào giá trị đất, và chủ nhà chống đối việc xây mới để bảo vệ sự khan hiếm. Phương án \"sự dư thừa đột ngột các căn hộ giá rẻ cho những người mua nhà lần đầu\" là hoàn toàn không xuất hiện và sai lệch so với bài viết.\n- **Dạng câu hỏi Từ vựng theo ngữ cảnh (R4Q3, R4Q7):** Sử dụng kỹ năng **Context Clues** (Manh mối ngữ cảnh).\n  - With **R4Q3**, từ **\"ostensibly\"** ở đoạn 2 mô tả mục đích bề ngoài của việc tách biệt nhà ở và nhà máy, mang nghĩa bề ngoài, có vẻ như (apparently).\n  - Với **R4Q7**, từ **\"perverse\"** ở đoạn 6 đi kèm với các hệ quả đi ngược lại mong muốn ban đầu của chính sách, tương đương với nghĩa phản tác dụng, mang tính phá hoại ngược (counterproductive).\n- **Dạng câu hỏi Điền câu vào vị trí trống (R4Q4):** Đọc kỹ câu cần chèn: 'That fall in supply tends to push up rents for everyone not protected by the controls, including future residents.' Cụm từ \"That fall in supply\" liên kết trực tiếp với hiện tượng sụt giảm nguồn cung nhà ở cho thuê được mô tả ngay trước vị trí **[4]** trong phần bàn về kiểm soát giá thuê nhà.\n- **Dạng câu hỏi Quy chiếu đại từ (R4Q6):** Tập trung vào đại từ nhân xưng số nhiều **\"they\"** ở đoạn 5. Đọc ngược lại câu trước để tìm danh từ số nhiều phù hợp: nói về các nhà phát triển (Developers) đối mặt với chi phí tăng và *họ* (các nhà phát triển) có thể từ chối xây dựng. Do đó, \"they\" quy chiếu thẳng đến các nhà phát triển (Developers).\n- **Dạng câu hỏi Suy luận (R4Q9):** Tổng hợp thông tin từ các đoạn 4, 5 và 6 về thiết kế chính sách nhà ở (quy mô, sự ổn định và các ưu đãi chi tiết có thể quyết định sự thành bại của một chính sách). Từ đó suy luận ra rằng các chi tiết như quy mô, tính ổn định và các ưu đãi có thể quyết định xem một chính sách có thành công hay không.\nLời khuyên: Hãy bắt đầu bằng cách giải quyết nhanh các câu hỏi tra cứu thông tin chi tiết, từ vựng, điền câu vào chỗ trống và quy chiếu đại từ (từ R4Q2 đến R4Q8). Tiếp theo, thực hiện phân tích tổng hợp để giải quyết câu hỏi suy luận (R4Q9). Cuối cùng, khái quát toàn bộ nội dung văn bản để hoàn thành chính xác câu Ý chính (R4Q1) và Mục đích tác giả (R4Q10)."
+   }
+  ]
+ },
+ "writing": {
+  "duration_min": 60,
+  "tasks": [
+   {
+    "task": 1,
+    "kind": "Email / Letter",
+    "min_words": 120,
+    "prompt": "You should spend about 20 minutes on this task. You received an email from your English friend, Jane.\nShe asked you about your current job and requested some advice for her upcoming job interview.\nJane wants to know more about your working life and is feeling nervous about an interview she will attend next week.\n- Tell her about your current job and your new colleagues.\n- Describe whether your workplace is far from your home and how you travel there.\n- Give her some useful advice for preparing for the interview.\nWrite an email responding to Jane. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 20 minutes on this task. You received an email from your English friend, Jane.",
+      "She asked you about your current job and requested some advice for her upcoming job interview."
+     ],
+     "quote": [
+      "Jane wants to know more about your working life and is feeling nervous about an interview she will attend next week.",
+      "- Tell her about your current job and your new colleagues.",
+      "- Describe whether your workplace is far from your home and how you travel there.",
+      "- Give her some useful advice for preparing for the interview."
+     ],
+     "instruction": "Write an email responding to Jane. You should write at least 120 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng đề:**\n- Đây là dạng **Informal Email** (thư thân mật gửi bạn bè). Giọng văn cần tự nhiên, thân thiện và gần gũi.\n- Đề bài yêu cầu bạn trả lời đầy đủ 3 nội dung chính: công việc hiện tại, đồng nghiệp mới và lời khuyên cho buổi phỏng vấn.\n- Bạn cần viết tối thiểu 120 từ, tuy nhiên nên viết khoảng 140–170 từ để triển khai ý tốt hơn.\n- Không nên viết quá trang trọng như thư xin việc hoặc thư thương mại.\n- Cần trả lời đúng trọng tâm từng bullet point, tránh viết lan man về chủ đề khác.\n- Nên sử dụng trải nghiệm cá nhân hoặc ví dụ thực tế để bài viết tự nhiên hơn.\n\n**2. Cách xây dựng bố cục logic (Organization):**\n- **Greeting:** Mở đầu thân mật. Ví dụ: Dear Jane,\n- **Opening:** Cảm ơn thư và dẫn vào chủ đề. Ví dụ: It was great to hear from you. I am happy to tell you about my new job.\n- **Body Paragraph 1:** Trả lời về công việc hiện tại và đồng nghiệp mới. Nêu công việc là gì, môi trường làm việc ra sao, đồng nghiệp có thân thiện không.\n- **Body Paragraph 2:** Mô tả nơi làm việc có xa nhà không và cách di chuyển. Ví dụ: My office is about 10 kilometers from my house, so I usually go there by motorbike.\n- **Body Paragraph 3:** Đưa ra lời khuyên cho buổi phỏng vấn. Ví dụ: You should prepare answers for common interview questions and dress formally.\n- **Closing:** Kết thúc tích cực. Ví dụ: I hope your interview goes well and I am sure you will succeed.\n- **Sign-off:** Best wishes, hoặc Take care,\n- Mỗi đoạn nên dài khoảng 2–4 câu để bài viết rõ ràng và dễ theo dõi.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để mô tả công việc và thói quen hằng ngày.\n- Có thể dùng Hiện tại tiếp diễn để nói về các hoạt động đang diễn ra ở công ty.\n- Tránh lặp lại quá nhiều từ như “job”, “work”, “interview”. Hãy paraphrase bằng các từ tương đương.\n- Nên dùng câu ghép với because, although, so để tăng tính liên kết.\n- Sử dụng các cụm diễn đạt lời khuyên như “You should…”, “It is important to…”, “I recommend that…”.\n- Ưu tiên các câu ngắn, rõ ràng thay vì cố viết câu quá phức tạp.\nTừ vựng quan trọng:\n- **Colleague:** Đồng nghiệp\n- **Workplace:** Nơi làm việc\n- **Commute:** Đi làm hằng ngày\n- **Interview preparation:** Sự chuẩn bị cho phỏng vấn\n- **Professional appearance:** Ngoại hình chuyên nghiệp\n- **Working environment:** Môi trường làm việc\n- **Friendly staff:** Nhân viên thân thiện\n- **Self-confidence:** Sự tự tin\nTừ nối (Linking words):\n- **First of all:** Trước hết\n- **Besides:** Bên cạnh đó\n- **Moreover:** Hơn nữa\n- **However:** Tuy nhiên\n- **As a result:** Kết quả là\n- **Finally:** Cuối cùng\nCách diễn đạt cảm xúc (Expressing feelings):\n- **I am really excited about my new job:** Tôi thật sự hào hứng với công việc mới.\n- **I was quite nervous at first:** Ban đầu tôi khá lo lắng.\n- **I am sure you will do great:** Tôi chắc chắn bạn sẽ làm tốt.\n- **Don’t worry too much about the interview:** Đừng quá lo lắng về buổi phỏng vấn.\n\n**4. Các lỗi thường gặp:**\n- Không trả lời đầy đủ cả 3 ý trong đề bài.\n- Dùng ngôn ngữ quá trang trọng như “Dear Sir/Madam”.\n- Viết một đoạn quá dài mà không chia bố cục rõ ràng.\n- Sai thì động từ khi nói về công việc hiện tại.\n- Quên lời chào hoặc lời kết thư.\n- Viết dưới số lượng từ yêu cầu.\n\n**5. Cách kiểm tra bài trong 2 phút cuối:**\n- Kiểm tra xem đã trả lời đủ tất cả bullet points chưa.\n- Đếm sơ bộ số từ để chắc chắn trên 120 từ.\n- Kiểm tra lỗi chia động từ và chính tả cơ bản.\n- Đảm bảo có mở đầu và kết thúc thư.\n- Kiểm tra các từ nối để bài viết mạch lạc hơn.\n\n**6. Tư duy làm bài:**\n- Hãy coi đây là cuộc trò chuyện thật với một người bạn nước ngoài.\n- Ưu tiên sự rõ ràng và tự nhiên hơn là cố dùng từ quá khó.\n- Mỗi ý nên có giải thích hoặc ví dụ ngắn để tăng điểm Task Fulfillment.\n- Giữ giọng văn tích cực, thân thiện và có tính cá nhân.\n- Không cần viết quá học thuật vì đây là thư thân mật.\nEssay"
+   },
+   {
+    "task": 2,
+    "kind": "Essay",
+    "min_words": 250,
+    "prompt": "You should spend about 40 minutes on this task.\nTextbooks have traditionally played an important role in foreign language classrooms by providing lessons, exercises and structured learning materials for students.\nHowever, with the development of technology and online resources, some people believe that textbooks are no longer essential in language learning.\nDiscuss whether textbooks are still important in foreign language classrooms and give your own opinion. Write an essay to an educated reader to discuss both views and give your own opinion about the importance of textbooks in foreign language classrooms. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar.",
+    "structured": {
+     "intro": [
+      "You should spend about 40 minutes on this task."
+     ],
+     "quote": [
+      "Textbooks have traditionally played an important role in foreign language classrooms by providing lessons, exercises and structured learning materials for students.",
+      "However, with the development of technology and online resources, some people believe that textbooks are no longer essential in language learning.",
+      "Discuss whether textbooks are still important in foreign language classrooms and give your own opinion."
+     ],
+     "instruction": "Write an essay to an educated reader to discuss both views and give your own opinion about the importance of textbooks in foreign language classrooms. Include reasons and any relevant examples to support your answer. You should write at least 250 words. Your response will be evaluated in terms of Task Fulfilment, Organization, Vocabulary and Grammar."
+    },
+    "guide_md": "**1. Phân tích đề bài và xác định dạng bài:**\n- Đây là dạng bài **Discussion Essay** kết hợp đưa ra ý kiến cá nhân.\n- Bạn cần thảo luận cả hai quan điểm: sách giáo khoa còn quan trọng hay không còn cần thiết trong lớp học ngoại ngữ.\n- Phần quan trọng nhất là phải thể hiện rõ quan điểm cá nhân ở mở bài và kết bài.\n- Đề bài thuộc chủ đề giáo dục và học ngoại ngữ nên cần sử dụng từ vựng học thuật ở mức B1/B2.\n- Bạn phải viết ít nhất 250 từ, nhưng nên viết khoảng 280–320 từ để phát triển ý đầy đủ.\n- Nhiều thí sinh chỉ viết một phía và quên “discuss both views”, đây là lỗi rất nghiêm trọng.\n\n**2. Cách xây dựng bố cục (Organization):**\n- **Introduction:** Giới thiệu chủ đề và nêu thesis statement. Ví dụ: While some people believe textbooks are still necessary in language classes, others think modern technology can replace them.\n- **Body Paragraph 1:** Trình bày lý do tại sao sách giáo khoa vẫn quan trọng. Ví dụ: Textbooks provide organized lessons and reliable knowledge for learners.\n- **Body Paragraph 2:** Trình bày quan điểm ngược lại rằng công nghệ và tài liệu online đang thay thế sách giáo khoa. Ví dụ: Online resources offer interactive and updated learning materials.\n- **Body Paragraph 3:** Nêu ý kiến cá nhân và giải thích. Bạn có thể nói rằng sách giáo khoa vẫn cần thiết nhưng nên kết hợp với công nghệ.\n- **Conclusion:** Tóm tắt hai quan điểm và khẳng định lại ý kiến cá nhân. Ví dụ: In conclusion, although digital resources are useful, I believe textbooks still play an important role in foreign language education.\n- Mỗi body paragraph nên có cấu trúc: Topic sentence -> Explanation -> Example -> Mini conclusion.\n- Nên sử dụng ví dụ thực tế như học tiếng Anh ở trường hoặc sử dụng ứng dụng học ngoại ngữ.\n\n**3. Chiến lược đạt điểm cao (Vocabulary & Grammar):**\n- Sử dụng thì Hiện tại đơn để trình bày sự thật và quan điểm chung.\n- Dùng câu phức với although, while, because, which để tăng điểm Grammar.\n- Tránh lặp từ “textbook” quá nhiều bằng cách paraphrase.\n- Mỗi đoạn cần có câu chủ đề rõ ràng để người chấm dễ theo dõi.\n- Sử dụng cohesive devices để liên kết ý logic hơn.\n- Không nên đưa ví dụ quá cá nhân hoặc không liên quan đến giáo dục.\nTừ vựng quan trọng:\n- **Learning materials:** Tài liệu học tập\n- **Structured lessons:** Các bài học có hệ thống\n- **Interactive activities:** Hoạt động tương tác\n- **Digital resources:** Tài nguyên kỹ thuật số\n- **Language acquisition:** Quá trình tiếp thu ngôn ngữ\n- **Self-study:** Tự học\n- **Academic guidance:** Sự hướng dẫn học thuật\n- **Reliable source of knowledge:** Nguồn kiến thức đáng tin cậy\nTừ nối (Linking words):\n- **Furthermore:** Hơn nữa\n- **In contrast:** Ngược lại\n- **As a result:** Kết quả là\n- **For example:** Ví dụ\n- **On the one hand:** Một mặt\n- **On the other hand:** Mặt khác\n- **Therefore:** Vì vậy\n- **In conclusion:** Kết luận lại\nDiễn đạt lại ý (Paraphrasing):\n- **Traditional learning books:** Cách diễn đạt khác của “textbooks”.\n- **Digital learning platforms:** Diễn đạt thay cho “online resources”.\n- **Foreign language education:** Diễn đạt khác của “language classrooms”.\n- **Printed educational materials:** Tài liệu học tập dạng in.\nCách diễn đạt ý kiến / so sánh / giải pháp:\n- **I strongly believe that…:** Tôi hoàn toàn tin rằng…\n- **Compared with online resources…:** So với tài liệu trực tuyến…\n- **A balanced combination would be more effective:** Một sự kết hợp cân bằng sẽ hiệu quả hơn.\n- **One possible solution is to…:** Một giải pháp khả thi là…\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói về lợi ích của công nghệ mà quên thảo luận vai trò của sách giáo khoa.\n- Không đưa ra quan điểm cá nhân rõ ràng.\n- Viết đoạn văn quá ngắn và thiếu ví dụ minh họa.\n- Dùng từ vựng quá đơn giản lặp đi lặp lại.\n- Sai chính tả các từ học thuật như “education”, “resources”, “materials”.\n- Không có câu kết luận rõ ràng.\n\n**5. Cách kiểm tra bài trong 3–5 phút cuối:**\n- Kiểm tra xem đã thảo luận đủ hai quan điểm chưa.\n- Đảm bảo thesis statement xuất hiện trong phần mở bài.\n- Kiểm tra số lượng từ đã vượt 250 từ chưa.\n- Đọc lại các câu dài để sửa lỗi ngữ pháp.\n- Kiểm tra từ nối để bài viết mạch lạc hơn.\n- Đảm bảo mỗi đoạn chỉ tập trung vào một ý chính.\n\n**6. Tư duy làm bài:**\n- Không cần cố gắng dùng từ quá khó nếu bạn chưa chắc cách dùng.\n- Điểm cao đến từ bố cục logic và trả lời đúng yêu cầu đề bài.\n- Hãy phát triển mỗi ý bằng giải thích và ví dụ ngắn.\n- Quan trọng nhất là sự rõ ràng và tính liên kết giữa các đoạn văn.\n- Nên giữ lập trường nhất quán từ mở bài đến kết bài."
+   }
+  ]
+ },
+ "speaking": {
+  "parts": [
+   {
+    "part": 1,
+    "prompt": "SPEAKING — PART 1\n\nQuestions:\n\nLet’s talk about your weekends\n\n1\nWhat do you usually do on weekends?\n2\nHow important are weekends to you?\n3\nDo you think weekends are long enough for you to relax and recharge?\n\nNow, let’s talk about happiness\n\n4\nDo you consider yourself a happy person?\n5\nWhat usually makes you feel happy in daily life?\n6\nHow does the weather affect your mood?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Phần thi này kéo dài khoảng 3 phút với 6 câu hỏi cá nhân quen thuộc trong cuộc sống hằng ngày.\n- **Topic A (Relaxation):** Các câu hỏi 1–3 tập trung vào hoạt động cuối tuần, tầm quan trọng của thời gian nghỉ ngơi và khả năng cân bằng cuộc sống.\n- **Topic B (Mood):** Các câu hỏi 4–6 yêu cầu bạn nói về cảm xúc cá nhân, điều khiến bạn hạnh phúc và ảnh hưởng của thời tiết đến tâm trạng.\n- Giám khảo sẽ đánh giá độ trôi chảy, khả năng sử dụng từ vựng phù hợp, ngữ pháp và phát âm.\n- Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và cố gắng phân chia thời gian đều giữa hai chủ đề.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy áp dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng câu trả lời.\n- **Ví dụ Topic A:** I usually spend my weekends relaxing at home or hanging out with my friends because weekdays are often stressful.\n- **Ví dụ Topic B:** I consider myself quite a happy person because I always try to focus on positive things in life.\n- Luôn tự hỏi Why? hoặc How? để kéo dài câu trả lời và tránh nói quá ngắn.\n- Để chuyển ý tự nhiên, bạn có thể dùng câu như: Besides talking about my weekends, I also think happiness is an important part of life.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Giữ tốc độ nói ổn định và sử dụng fillers như actually, well hoặc to be honest để tránh khoảng lặng.\n- Topic A chủ yếu dùng hiện tại đơn để mô tả thói quen cuối tuần.\n- Topic B cũng sử dụng hiện tại đơn nhưng có thể kết hợp hiện tại hoàn thành khi nói về trải nghiệm hoặc cảm xúc lâu dài.\n- Nếu quên từ vựng, hãy diễn đạt bằng cách mô tả thay vì dừng lại.\n- Vocabulary for Topic A: recharge my energy (nạp lại năng lượng), leisure activities (hoạt động giải trí), work-life balance (cân bằng công việc và cuộc sống), spend quality time (dành thời gian chất lượng).\n- Vocabulary for Topic B: positive mindset (tư duy tích cực), emotional well-being (sức khỏe tinh thần), boost my mood (cải thiện tâm trạng), feel stressed out (cảm thấy căng thẳng).\nCụm từ quan trọng nên dùng:\n- take a break from work or study – nghỉ ngơi khỏi công việc hoặc học tập\n- relax and recharge – thư giãn và hồi phục năng lượng\n- enjoy some free time – tận hưởng thời gian rảnh\n- maintain a positive attitude – duy trì thái độ tích cực\n- be in a good mood – có tâm trạng tốt\n- weather has a strong influence on emotions – thời tiết ảnh hưởng mạnh đến cảm xúc\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- Besides that – bên cạnh đó\n- For example – ví dụ\n- However – tuy nhiên\n- As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n- From my perspective, weekends are essential because they help people reduce stress. – Theo góc nhìn của tôi...\n- I personally believe that everyone needs enough time to relax after a busy week. – Cá nhân tôi tin rằng...\n- As far as I am concerned, having hobbies makes weekends more enjoyable. – Theo như tôi thấy...\n- To be honest, small things in life can make me feel happy every day. – Thành thật mà nói...\n- I would say that sunny weather usually improves my mood significantly. – Tôi cho rằng...\n- In my opinion, happiness comes from both personal achievements and relationships. – Theo ý kiến của tôi...\n\n**4. Các lỗi thường gặp:**\n- Chỉ trả lời Yes hoặc No mà không giải thích thêm là lỗi phổ biến nhất.\n- Ở Topic A, nhiều bạn chỉ liệt kê hoạt động cuối tuần mà không nói lý do hoặc cảm xúc.\n- Ở Topic B, nhiều bạn dùng lặp từ happy quá nhiều thay vì sử dụng các từ đa dạng hơn như cheerful hoặc satisfied.\n- Dùng sai thì hoặc quên chia động từ khi nói về thói quen hằng ngày.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Bạn có thể dùng câu đệm như: That is an interesting question, let me think for a second.\n- Nếu quên từ vựng, hãy mô tả cảm giác hoặc ví dụ thay vì im lặng.\n- Ở Topic A, nếu bí ý hãy kể về một cuối tuần gần đây của bạn.\n- Ở Topic B, nếu không biết nói về cảm xúc, hãy liên hệ đến gia đình, bạn bè hoặc thời tiết.\n\n**6. Tư duy làm bài nói:**\n- Hãy xem phần thi như một cuộc trò chuyện tự nhiên thay vì cố đọc thuộc lòng.\n- Khi chuyển từ chủ đề cuối tuần sang cảm xúc cá nhân, hãy thay đổi ví dụ để bài nói đa dạng hơn.\n- Sự tự nhiên và mạch lạc quan trọng hơn việc cố dùng từ quá phức tạp.\nSolution Discussion"
+   },
+   {
+    "part": 2,
+    "prompt": "SPEAKING — PART 2\n\nA group of exchange students is coming to your university. The school wants to choose a traditional Vietnamese symbol to welcome them.\n\nYou are considering the following options:\n\nOption 1: Give them lotus flowers\nOption 2: Prepare conical hats for them\nOption 3: Introduce Vietnamese ao dai\n\nChoose the best option and explain your reasons.",
+    "guide_md": "**1. Phân tích đề bài:**\n- Tình huống yêu cầu bạn lựa chọn biểu tượng văn hóa Việt Nam phù hợp nhất để chào đón sinh viên trao đổi quốc tế.\n- Ba lựa chọn gồm hoa sen, nón lá và áo dài truyền thống.\n- Giám khảo sẽ đánh giá khả năng so sánh, lập luận và đưa ra quyết định hợp lý.\n- Thời gian khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị và khoảng 3 phút trình bày.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc I-C-E: Introduction -> Comparison -> Ending để trình bày rõ ràng.\n- Option 1 mang ý nghĩa tinh thần và thể hiện vẻ đẹp thanh lịch của văn hóa Việt Nam.\n- Option 2 thực tế, dễ sử dụng và là biểu tượng quen thuộc với khách quốc tế.\n- Option 3 giúp sinh viên trải nghiệm văn hóa Việt Nam một cách trực tiếp và đáng nhớ.\n- Hãy liên hệ với trải nghiệm du lịch hoặc giao lưu văn hóa để lập luận thuyết phục hơn.\n- Sử dụng các từ nối đối lập như however hoặc on the other hand để so sánh các lựa chọn.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ từng option.\n- Dùng hiện tại đơn để mô tả đặc điểm văn hóa và tương lai đơn để nói về tác động đối với sinh viên quốc tế.\n- Nếu quên từ chuyên ngành văn hóa, hãy diễn đạt bằng những từ đơn giản và dễ hiểu.\nCụm từ quan trọng nên dùng:\n- represent Vietnamese culture – đại diện cho văn hóa Việt Nam\n- leave a memorable impression – để lại ấn tượng đáng nhớ\n- traditional cultural symbol – biểu tượng văn hóa truyền thống\n- promote cultural exchange – thúc đẩy giao lưu văn hóa\n- experience local traditions – trải nghiệm truyền thống địa phương\n- create a welcoming atmosphere – tạo không khí chào đón\nTừ nối khi nói (Linking Words):\n- First of all – trước hết\n- In addition – thêm vào đó\n- On the other hand – mặt khác\n- As a consequence – kết quả là\n- In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n- I strongly believe that the ao dai is the best symbol because it represents Vietnamese culture beautifully. – Tôi thực sự tin rằng...\n- Compared to lotus flowers, conical hats are more practical and memorable for foreign students. – So với...\n- In my opinion, cultural experiences are the best way to welcome exchange students. – Theo ý kiến của tôi...\n\n**4. Các lỗi thường gặp:**\n- Chỉ nói ưu điểm của lựa chọn mình thích mà không phân tích điểm yếu của các lựa chọn khác.\n- Lặp lại từ beautiful hoặc traditional quá nhiều thay vì dùng elegant, symbolic hoặc meaningful.\n- Kết luận không rõ ràng hoặc không đưa ra quyết định cuối cùng.\n\n**5. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu quên từ chuyên ngành, hãy nói về cảm xúc hoặc trải nghiệm mà biểu tượng văn hóa mang lại.\n- Bạn có thể dùng câu đệm như: Let's evaluate this option from a cultural perspective.\n- Nếu bí ý ở một lựa chọn, hãy chuyển sang lựa chọn tiếp theo để duy trì sự trôi chảy.\n\n**6. Tư duy làm bài nói:**\n- Hãy suy nghĩ như một người tổ chức sự kiện muốn tạo ấn tượng tích cực với sinh viên quốc tế.\n- Ngay cả với lựa chọn tốt nhất, bạn vẫn có thể đề xuất thêm hoạt động hỗ trợ để thể hiện tư duy phản biện."
+   },
+   {
+    "part": 3,
+    "prompt": "SPEAKING — PART 3\n\nMethods to protect the environment\n\nProtecting the Environment\nReducing the use of plastic bags\nUsing public transportation\nRaising environmental awareness among young people\n[your own ideas]\n\nFollow-up Questions:\n\n1\nWhy is environmental protection important nowadays?\n2\nDo you think young people care enough about environmental issues?\n3\nWhat can schools do to encourage students to protect the environment?",
+    "guide_md": "**1. Phân tích đề bài:**\n- Chủ đề yêu cầu bạn trình bày các phương pháp bảo vệ môi trường trong cuộc sống hiện đại.\n- Ba nhánh ý chính gồm giảm sử dụng túi nhựa, sử dụng phương tiện công cộng và nâng cao nhận thức môi trường cho giới trẻ.\n- Nhánh ý cá nhân có thể nói về việc trồng cây hoặc tiết kiệm điện nước.\n- Giám khảo đánh giá khả năng phát triển ý, sử dụng ví dụ và trả lời câu hỏi follow-up logic.\n- Thời gian khoảng 5 phút, trong đó khoảng 3–3.5 phút dành cho bài nói chính và phần còn lại dành cho câu hỏi phụ.\n\n**2. Cách xây dựng bố cục khi nói (Organization):**\n- Hãy sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/Conclusion để bài nói mạch lạc.\n- **Ví dụ 1:** Today, I would like to talk about some effective methods to protect the environment.\n- **Ví dụ 2:** Another useful solution is planting more trees in cities to improve air quality.\n- Hãy sử dụng ví dụ thực tế như việc dùng túi vải hoặc đi xe buýt để bài nói gần gũi hơn.\n- Luôn bám theo sơ đồ tư duy để tránh lặp ý hoặc nói lan man.\n\n**3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):**\n- Sử dụng cụm chuyển ý như another important method hoặc besides that để chuyển giữa các nhánh.\n- Dùng hiện tại đơn để nói về sự thật và tương lai đơn khi nói về tác động môi trường lâu dài.\n- Bạn có thể paraphrase environment bằng nature, surroundings hoặc ecosystem.\nCụm từ quan trọng nên dùng:\n- reduce plastic waste – giảm rác thải nhựa\n- protect natural resources – bảo vệ tài nguyên thiên nhiên\n- raise public awareness – nâng cao nhận thức cộng đồng\n- use eco-friendly products – sử dụng sản phẩm thân thiện môi trường\n- reduce air pollution – giảm ô nhiễm không khí\n- encourage sustainable lifestyles – khuyến khích lối sống bền vững\nTừ nối khi nói (Linking Words):\n- To begin with – để bắt đầu\n- Furthermore – hơn nữa\n- For example – ví dụ\n- As a result – kết quả là\n- Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n- In my opinion, everyone should take responsibility for protecting the environment. – Theo ý kiến của tôi...\n- I strongly believe that small daily actions can make a big difference in the future. – Tôi thực sự tin rằng...\n- From my perspective, young people play an important role in environmental protection. – Theo góc nhìn của tôi...\n\n**4. Gợi ý trả lời câu hỏi follow-up:**\n- **Why is environmental protection important nowadays?** – Because pollution and climate change are becoming more serious around the world.\n- **Do you think young people care enough about environmental issues?** – Many young people are becoming more environmentally conscious, but some still lack awareness.\n- **What can schools do to encourage students to protect the environment?** – Schools can organize recycling campaigns and environmental education activities.\n\n**5. Các lỗi thường gặp:**\n- Nhiều bạn chỉ liệt kê giải pháp mà không giải thích lợi ích hoặc đưa ví dụ.\n- Quên phát triển nhánh ý cá nhân khiến bài nói thiếu chiều sâu.\n- Dành quá nhiều thời gian cho phần main speech nên không còn thời gian cho follow-up questions.\n\n**6. Chiến lược xử lý khi bí ý hoặc quên từ:**\n- Nếu bí ý, hãy liên hệ với thói quen bảo vệ môi trường hằng ngày của bản thân.\n- Bạn có thể dùng câu học thuật như: That is a complex issue. If we consider it from a global perspective...\n- Nếu quên từ chuyên ngành, hãy dùng mô tả đơn giản thay vì dừng lại quá lâu.\n\n**7. Tư duy làm bài nói:**\n- Hãy nhìn vấn đề từ góc độ xã hội và trách nhiệm cộng đồng.\n- Sự logic và liên kết giữa các ý quan trọng hơn việc sử dụng từ vựng quá khó.\n- Hãy thể hiện thái độ tích cực và thực tế khi nói về các giải pháp bảo vệ môi trường."
+   }
+  ]
+ },
+ "speaking_raw": "PHẦN 3 · NÓI (Speaking)\nSocial Interaction\nPART 1\n3 phút\nLet’s talk about your weekends.\n1.\nWhat do you usually do on weekends?\n2.\nHow important are weekends to you?\n3.\nDo you think weekends are long enough for you to relax and recharge?\nNow, let’s talk about happiness.\n4.\nDo you consider yourself a happy person?\n5.\nWhat usually makes you feel happy in daily life?\n6.\nHow does the weather affect your mood?\nGHI CHÚ TRẢ LỜI\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Phần thi này kéo dài khoảng 3 phút với 6 câu hỏi cá nhân quen thuộc trong cuộc sống hằng ngày.\n• Topic A (Relaxation): Các câu hỏi 1–3 tập trung vào hoạt động cuối tuần, tầm quan trọng của thời gian nghỉ ngơi và\nkhả năng cân bằng cuộc sống.\n• Topic B (Mood): Các câu hỏi 4–6 yêu cầu bạn nói về cảm xúc cá nhân, điều khiến bạn hạnh phúc và ảnh hưởng của\nthời tiết đến tâm trạng.\n• Giám khảo sẽ đánh giá độ trôi chảy, khả năng sử dụng từ vựng phù hợp, ngữ pháp và phát âm.\n• Bạn nên dành khoảng 25–35 giây cho mỗi câu hỏi và cố gắng phân chia thời gian đều giữa hai chủ đề.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy áp dụng cấu trúc ARE: Answer -> Reason -> Example để mở rộng câu trả lời.\n• Ví dụ Topic A: I usually spend my weekends relaxing at home or hanging out with my friends because weekdays are\noften stressful.\n• Ví dụ Topic B: I consider myself quite a happy person because I always try to focus on positive things in life.\n• Luôn tự hỏi Why? hoặc How? để kéo dài câu trả lời và tránh nói quá ngắn.\n• Để chuyển ý tự nhiên, bạn có thể dùng câu như: Besides talking about my weekends, I also think happiness is an\nimportant part of life.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Giữ tốc độ nói ổn định và sử dụng fillers như actually, well hoặc to be honest để tránh khoảng lặng.\n• Topic A chủ yếu dùng hiện tại đơn để mô tả thói quen cuối tuần.\n• Topic B cũng sử dụng hiện tại đơn nhưng có thể kết hợp hiện tại hoàn thành khi nói về trải nghiệm hoặc cảm xúc lâu\ndài.\n• Nếu quên từ vựng, hãy diễn đạt bằng cách mô tả thay vì dừng lại.\n• Vocabulary for Topic A: recharge my energy (nạp lại năng lượng), leisure activities (hoạt động giải trí), work-life\nbalance (cân bằng công việc và cuộc sống), spend quality time (dành thời gian chất lượng).\n• Vocabulary for Topic B: positive mindset (tư duy tích cực), emotional well-being (sức khỏe tinh thần), boost my mood\n(cải thiện tâm trạng), feel stressed out (cảm thấy căng thẳng).\nCụm từ quan trọng nên dùng:\n• take a break from work or study – nghỉ ngơi khỏi công việc hoặc học tập\n• relax and recharge – thư giãn và hồi phục năng lượng\n• enjoy some free time – tận hưởng thời gian rảnh\n• maintain a positive attitude – duy trì thái độ tích cực\n• be in a good mood – có tâm trạng tốt\n• weather has a strong influence on emotions – thời tiết ảnh hưởng mạnh đến cảm xúc\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• Besides that – bên cạnh đó\n• For example – ví dụ\n• However – tuy nhiên\n• As a result – kết quả là\nCách thể hiện quan điểm tự nhiên:\n• From my perspective, weekends are essential because they help people reduce stress. – Theo góc nhìn của tôi...\n• I personally believe that everyone needs enough time to relax after a busy week. – Cá nhân tôi tin rằng...\n• As far as I am concerned, having hobbies makes weekends more enjoyable. – Theo như tôi thấy...\n• To be honest, small things in life can make me feel happy every day. – Thành thật mà nói...\n• I would say that sunny weather usually improves my mood significantly. – Tôi cho rằng...\n• In my opinion, happiness comes from both personal achievements and relationships. – Theo ý kiến của tôi...\n4. Các lỗi thường gặp:\n• Chỉ trả lời Yes hoặc No mà không giải thích thêm là lỗi phổ biến nhất.\n• Ở Topic A, nhiều bạn chỉ liệt kê hoạt động cuối tuần mà không nói lý do hoặc cảm xúc.\n• Ở Topic B, nhiều bạn dùng lặp từ happy quá nhiều thay vì sử dụng các từ đa dạng hơn như cheerful hoặc satisfied.\n• Dùng sai thì hoặc quên chia động từ khi nói về thói quen hằng ngày.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Bạn có thể dùng câu đệm như: That is an interesting question, let me think for a second.\n• Nếu quên từ vựng, hãy mô tả cảm giác hoặc ví dụ thay vì im lặng.\n• Ở Topic A, nếu bí ý hãy kể về một cuối tuần gần đây của bạn.\n• Ở Topic B, nếu không biết nói về cảm xúc, hãy liên hệ đến gia đình, bạn bè hoặc thời tiết.\n6. Tư duy làm bài nói:\n• Hãy xem phần thi như một cuộc trò chuyện tự nhiên thay vì cố đọc thuộc lòng.\n• Khi chuyển từ chủ đề cuối tuần sang cảm xúc cá nhân, hãy thay đổi ví dụ để bài nói đa dạng hơn.\n• Sự tự nhiên và mạch lạc quan trọng hơn việc cố dùng từ quá phức tạp.\nSolution Discussion\nPART 2\n4 phút\nA group of exchange students is coming to your university. The school wants to choose a traditional Vietnamese\nsymbol to welcome them.\nYou are considering the following options:\n• Option 1: Give them lotus flowers\n• Option 2: Prepare conical hats for them\n• Option 3: Introduce Vietnamese ao dai\nChoose the best option and explain your reasons.\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Tình huống yêu cầu bạn lựa chọn biểu tượng văn hóa Việt Nam phù hợp nhất để chào đón sinh viên trao đổi quốc tế.\n• Ba lựa chọn gồm hoa sen, nón lá và áo dài truyền thống.\n• Giám khảo sẽ đánh giá khả năng so sánh, lập luận và đưa ra quyết định hợp lý.\n• Thời gian khoảng 4 phút, nên dành khoảng 1 phút chuẩn bị và khoảng 3 phút trình bày.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc I-C-E: Introduction -> Comparison -> Ending để trình bày rõ ràng.\n• Option 1 mang ý nghĩa tinh thần và thể hiện vẻ đẹp thanh lịch của văn hóa Việt Nam.\n• Option 2 thực tế, dễ sử dụng và là biểu tượng quen thuộc với khách quốc tế.\n• Option 3 giúp sinh viên trải nghiệm văn hóa Việt Nam một cách trực tiếp và đáng nhớ.\n• Hãy liên hệ với trải nghiệm du lịch hoặc giao lưu văn hóa để lập luận thuyết phục hơn.\n• Sử dụng các từ nối đối lập như however hoặc on the other hand để so sánh các lựa chọn.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Liên kết các lựa chọn với nhau thay vì phân tích riêng lẻ từng option.\n• Dùng hiện tại đơn để mô tả đặc điểm văn hóa và tương lai đơn để nói về tác động đối với sinh viên quốc tế.\n• Nếu quên từ chuyên ngành văn hóa, hãy diễn đạt bằng những từ đơn giản và dễ hiểu.\nCụm từ quan trọng nên dùng:\n• represent Vietnamese culture – đại diện cho văn hóa Việt Nam\n• leave a memorable impression – để lại ấn tượng đáng nhớ\n• traditional cultural symbol – biểu tượng văn hóa truyền thống\n• promote cultural exchange – thúc đẩy giao lưu văn hóa\n• experience local traditions – trải nghiệm truyền thống địa phương\n• create a welcoming atmosphere – tạo không khí chào đón\nTừ nối khi nói (Linking Words):\n• First of all – trước hết\n• In addition – thêm vào đó\n• On the other hand – mặt khác\n• As a consequence – kết quả là\n• In conclusion – kết luận lại\nCách thể hiện quan điểm tự nhiên:\n• I strongly believe that the ao dai is the best symbol because it represents Vietnamese culture beautifully. – Tôi thực\nsự tin rằng...\n• Compared to lotus flowers, conical hats are more practical and memorable for foreign students. – So với...\n• In my opinion, cultural experiences are the best way to welcome exchange students. – Theo ý kiến của tôi...\n4. Các lỗi thường gặp:\n• Chỉ nói ưu điểm của lựa chọn mình thích mà không phân tích điểm yếu của các lựa chọn khác.\n• Lặp lại từ beautiful hoặc traditional quá nhiều thay vì dùng elegant, symbolic hoặc meaningful.\n• Kết luận không rõ ràng hoặc không đưa ra quyết định cuối cùng.\n5. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu quên từ chuyên ngành, hãy nói về cảm xúc hoặc trải nghiệm mà biểu tượng văn hóa mang lại.\n• Bạn có thể dùng câu đệm như: Let's evaluate this option from a cultural perspective.\n• Nếu bí ý ở một lựa chọn, hãy chuyển sang lựa chọn tiếp theo để duy trì sự trôi chảy.\n6. Tư duy làm bài nói:\n• Hãy suy nghĩ như một người tổ chức sự kiện muốn tạo ấn tượng tích cực với sinh viên quốc tế.\n• Ngay cả với lựa chọn tốt nhất, bạn vẫn có thể đề xuất thêm hoạt động hỗ trợ để thể hiện tư duy phản biện.\nPART 3\nTopic Development\n5 phút\nTopic: Methods to protect the environment\nReducing the use of plastic bags\nUsing public transportation\nProtecting the Environment\nÝ tưởng của bạn\nRaising environmental awareness\namong young people\nFOLLOW-UP QUESTIONS\n1.\nWhy is environmental protection important nowadays?\n2.\nDo you think young people care enough about environmental issues?\n3.\nWhat can schools do to encourage students to protect the environment?\nGHI CHÚ CHUẨN BỊ (1 PHÚT)\nGỢI Ý TRẢ LỜI\n1. Phân tích đề bài:\n• Chủ đề yêu cầu bạn trình bày các phương pháp bảo vệ môi trường trong cuộc sống hiện đại.\n• Ba nhánh ý chính gồm giảm sử dụng túi nhựa, sử dụng phương tiện công cộng và nâng cao nhận thức môi trường\ncho giới trẻ.\n• Nhánh ý cá nhân có thể nói về việc trồng cây hoặc tiết kiệm điện nước.\n• Giám khảo đánh giá khả năng phát triển ý, sử dụng ví dụ và trả lời câu hỏi follow-up logic.\n• Thời gian khoảng 5 phút, trong đó khoảng 3–3.5 phút dành cho bài nói chính và phần còn lại dành cho câu hỏi phụ.\n2. Cách xây dựng bố cục khi nói (Organization):\n• Hãy sử dụng cấu trúc IDEA: Introduction -> Detail -> Example -> Add/Conclusion để bài nói mạch lạc.\n• Ví dụ 1: Today, I would like to talk about some effective methods to protect the environment.\n• Ví dụ 2: Another useful solution is planting more trees in cities to improve air quality.\n• Hãy sử dụng ví dụ thực tế như việc dùng túi vải hoặc đi xe buýt để bài nói gần gũi hơn.\n• Luôn bám theo sơ đồ tư duy để tránh lặp ý hoặc nói lan man.\n3. Chiến lược đạt điểm cao (Fluency, Vocabulary & Grammar):\n• Sử dụng cụm chuyển ý như another important method hoặc besides that để chuyển giữa các nhánh.\n• Dùng hiện tại đơn để nói về sự thật và tương lai đơn khi nói về tác động môi trường lâu dài.\n• Bạn có thể paraphrase environment bằng nature, surroundings hoặc ecosystem.\nCụm từ quan trọng nên dùng:\n• reduce plastic waste – giảm rác thải nhựa\n• protect natural resources – bảo vệ tài nguyên thiên nhiên\n• raise public awareness – nâng cao nhận thức cộng đồng\n• use eco-friendly products – sử dụng sản phẩm thân thiện môi trường\n• reduce air pollution – giảm ô nhiễm không khí\n• encourage sustainable lifestyles – khuyến khích lối sống bền vững\nTừ nối khi nói (Linking Words):\n• To begin with – để bắt đầu\n• Furthermore – hơn nữa\n• For example – ví dụ\n• As a result – kết quả là\n• Finally – cuối cùng\nCách thể hiện quan điểm tự nhiên:\n• In my opinion, everyone should take responsibility for protecting the environment. – Theo ý kiến của tôi...\n• I strongly believe that small daily actions can make a big difference in the future. – Tôi thực sự tin rằng...\n• From my perspective, young people play an important role in environmental protection. – Theo góc nhìn của tôi...\n4. Gợi ý trả lời câu hỏi follow-up:\n• Why is environmental protection important nowadays? – Because pollution and climate change are becoming more\nserious around the world.\n• Do you think young people care enough about environmental issues? – Many young people are becoming more\nenvironmentally conscious, but some still lack awareness.\n• What can schools do to encourage students to protect the environment? – Schools can organize recycling\ncampaigns and environmental education activities.\n5. Các lỗi thường gặp:\n• Nhiều bạn chỉ liệt kê giải pháp mà không giải thích lợi ích hoặc đưa ví dụ.\n• Quên phát triển nhánh ý cá nhân khiến bài nói thiếu chiều sâu.\n• Dành quá nhiều thời gian cho phần main speech nên không còn thời gian cho follow-up questions.\n6. Chiến lược xử lý khi bí ý hoặc quên từ:\n• Nếu bí ý, hãy liên hệ với thói quen bảo vệ môi trường hằng ngày của bản thân.\n• Bạn có thể dùng câu học thuật như: That is a complex issue. If we consider it from a global perspective...\n• Nếu quên từ chuyên ngành, hãy dùng mô tả đơn giản thay vì dừng lại quá lâu.\n7. Tư duy làm bài nói:\n• Hãy nhìn vấn đề từ góc độ xã hội và trách nhiệm cộng đồng.\n• Sự logic và liên kết giữa các ý quan trọng hơn việc sử dụng từ vựng quá khó.\n• Hãy thể hiện thái độ tích cực và thực tế khi nói về các giải pháp bảo vệ môi trường."
+}
