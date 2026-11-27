@@ -1,16 +1,16 @@
-# Đề VSTEP Văn Lang (VLU 50–135): bản lưu offline để tự ôn
+# Đề VSTEP Văn Lang (VLU 1–141): bản lưu offline để tự ôn
 
 Nguồn: vstepowl.com (Exam Reviews), dùng để ôn luyện với sự cho phép của chủ trang. **Không dùng cho mục đích thương mại.**
 
 ## Mở để ôn (nhấp đúp, chạy offline)
 | Trang | Nội dung |
 |---|---|
-| `reading/index.html` | 54 đề × 4 part × 10 câu = 2.160 câu. Làm theo đề (chấm điểm, đáp án, giải thích, gợi ý) hoặc luyện **theo dạng câu hỏi** |
-| `writing/index.html` | 86 đề × Task 1 (thư/email ≥120 từ) + Task 2 (luận ≥250 từ), khung viết, đếm từ, hẹn giờ, hướng dẫn làm bài |
-| `speaking/index.html` | 86 đề × 3 part, hẹn giờ theo format thi |
+| `reading/index.html` | 98 đề × 4 part × 10 câu = 3.920 câu. Làm theo đề (chấm điểm, đáp án, giải thích, gợi ý) hoặc luyện **theo dạng câu hỏi** |
+| `writing/index.html` | 141 đề × Task 1 (thư/email ≥120 từ) + Task 2 (luận ≥250 từ), khung viết, đếm từ, hẹn giờ, hướng dẫn làm bài |
+| `speaking/index.html` | 141 đề × 3 part, hẹn giờ theo format thi |
 
 Bài làm và tiến độ được lưu trong trình duyệt (localStorage).
-Ghi chú: các đề 51, 55, 56, 58, 60, 62, 63, 74, 77, 79–84, 88, 93, 95, 98, 100, 101, 106, 107, 112–115, 124, 125, 127–129 trên trang **không có phần Reading**.
+Ghi chú: các đề 30, 31, 34, 36, 40, 42, 44, 48, 51, 55, 56, 58, 60, 62, 63, 74, 77, 79–84, 88, 93, 95, 98, 100, 101, 106, 107, 112–115, 124, 125, 127–129, 137, 139, 140 trên trang **không có phần Reading**.
 Đề 97 và 99 chưa có gợi ý/giải thích (bản gốc chưa có).
 
 ## Dữ liệu chuẩn hoá (để tái sử dụng)
@@ -50,8 +50,8 @@ Ghi chú: các đề 51, 55, 56, 58, 60, 62, 63, 74, 77, 79–84, 88, 93, 95, 98
 2. `python3 tools/parse_exam_pdf.py de-thi/pdf/*.pdf --out de-thi/exams`
 3. `python3 tools/build_skill_pages.py`
 
-Speaking 90–122 lấy từ giao diện trang; 50–89 và 123–135 tách từ PDF (đã đối chiếu: 31/33 đề cũ trùng khớp hoàn toàn, 2 đề chỉ khác thứ tự ô trong sơ đồ Part 3). Gợi ý trả lời Speaking của mọi đề lấy từ PDF.
+Speaking 90–122 lấy từ giao diện trang; 1–89 và 123–141 tách từ PDF (đã đối chiếu: 31/33 đề cũ trùng khớp hoàn toàn, 2 đề chỉ khác thứ tự ô trong sơ đồ Part 3). Gợi ý trả lời Speaking của mọi đề lấy từ PDF.
 
 ## Bài giải tham khảo (`loi-giai/`)
-Writing Part 1 + 2 và Speaking Part 1–3 cho cả 86 đề, mục tiêu 5–6 điểm: `loi-giai/vlu-N.md`, PDF trong `loi-giai/pdf/` (có bản gộp), xem trong app ở mục **Bài mẫu**.
+Writing Part 1 + 2 và Speaking Part 1–3 cho cả 141 đề, mục tiêu 5–6 điểm: `loi-giai/vlu-N.md`, PDF trong `loi-giai/pdf/` (có bản gộp), xem trong app ở mục **Bài mẫu**.
 Quy trình: `tools/solutions/make_prompts.py` (đề nguyên văn) → `answers/vlu-N.json` (bài giải) → `check.py` (số từ, cấu trúc, đủ ý, câu mẫu) → `verify_prompts.py` (đề khớp nguồn) → `build.py` (Markdown) → app `sync-data` → `export_pdf.mjs` (PDF).

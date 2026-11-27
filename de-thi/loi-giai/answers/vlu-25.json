@@ -1,0 +1,289 @@
+{
+ "id": "vlu-25",
+ "writing": {
+  "1": {
+   "template": "w1_informal",
+   "answer": "Hi Mike,\n\nThank you for your email. It was great to hear from you, and I am glad that you enjoy ice hockey.\n\nRegarding the importance of food, I think it is vital for ice hockey players. This is because it is a fast and tough sport, so your body needs a lot of energy. Because I studied medicine, I know that good food also helps your muscles recover after each match.\n\nAs for healthy food, people these days should eat more vegetables, fruit, fish and whole grains such as brown rice. They should also eat less fast food and fewer sugary drinks. They contain too much salt and sugar, which can lead to heart disease.\n\nAbout your question on a balanced diet, my advice is to fill half of your plate with vegetables. You should also eat some chicken, eggs or beans for protein. Before a match, have a light meal with rice or pasta, and drink plenty of water.\n\nGood luck with your matches. That's all for now. Write back soon!\n\nBest wishes,\nMinh",
+   "outline": [
+    {
+     "section": "Lời chào",
+     "content": "Chào thân mật theo tên",
+     "reusable": "Hi Mike,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Câu khung cảm ơn + vui vì Mike chơi khúc côn cầu",
+     "reusable": "Thank you for your email. It was great to hear from you"
+    },
+    {
+     "section": "Ý 1: tầm quan trọng của thức ăn",
+     "content": "Trả lời thẳng (rất quan trọng) → lý do (môn thể thao nhanh, cần năng lượng) → chi tiết (học y: giúp cơ hồi phục)",
+     "reusable": "Regarding the importance of food, I think it is vital for ice hockey players."
+    },
+    {
+     "section": "Ý 2: nên ăn gì để khoẻ",
+     "content": "Trả lời thẳng (rau, trái cây, cá, ngũ cốc nguyên hạt) → bớt đồ ăn nhanh → lý do (muối, đường gây bệnh)",
+     "reusable": "As for healthy food, people these days should eat more vegetables, fruit, fish and whole grains such as brown rice."
+    },
+    {
+     "section": "Ý 3: lời khuyên ăn cân bằng",
+     "content": "Nửa đĩa là rau → thêm đạm → bữa nhẹ trước trận + uống nhiều nước",
+     "reusable": "About your question on a balanced diet, my advice is to fill half of your plate with vegetables."
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Chúc may mắn + câu kết cố định",
+     "reusable": "That's all for now. Write back soon! Best wishes,"
+    }
+   ],
+   "vocab": [
+    {
+     "term": "recover",
+     "meaning": "hồi phục"
+    },
+    {
+     "term": "vital",
+     "meaning": "cực kỳ quan trọng"
+    },
+    {
+     "term": "whole grains",
+     "meaning": "ngũ cốc nguyên hạt"
+    },
+    {
+     "term": "sugary drinks",
+     "meaning": "đồ uống có đường"
+    },
+    {
+     "term": "protein",
+     "meaning": "chất đạm"
+    }
+   ]
+  },
+  "2": {
+   "essay_type": "Causes & solutions (nguyên nhân và giải pháp)",
+   "type_key": "x_solution",
+   "answer": "In recent years, the air in many big cities has become dirtier and more harmful to breathe. This problem affects both people's health and the natural environment. This essay will discuss the main causes of this issue and suggest some solutions.\n\nThere are two main causes of air pollution. Firstly, the number of private vehicles has increased very quickly. Most of them burn petrol or diesel and release harmful smoke into the air. For example, millions of motorbikes fill the streets of Ho Chi Minh City during rush hour every day. As a result, many people suffer from coughs, asthma and other breathing problems. Secondly, many factories and power plants release dirty smoke from burning coal and oil. This is because cleaner technology is expensive, so some owners try to save money. For instance, people who live near industrial zones often see grey smoke in the sky. Therefore, the air there becomes unsafe, and the risk of lung diseases goes up.\n\nHowever, there are some ways to solve this problem. Firstly, governments should improve public transport and encourage people to use it. A good example is the metro line from Ben Thanh to Suoi Tien, which carries many passengers at once. More electric buses and safe cycling paths would also help. Secondly, governments should set strict rules for factories and fine those that break them. They can also lower taxes for companies that use clean energy such as solar power. Thanks to this, factories will produce less smoke, and people will breathe cleaner air.\n\nIn conclusion, air pollution is mainly caused by vehicles and factories, but it can be reduced if governments improve public transport and control factory smoke. Everyone can also help by using their cars and motorbikes less often.",
+   "outline": [
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (không khí thành phố bẩn, hại sức khoẻ và môi trường) + câu dẫn",
+     "reusable": "This essay will discuss the main causes of this issue and suggest some solutions."
+    },
+    {
+     "section": "Thân bài 1 · nguyên nhân 1",
+     "content": "P: xe cá nhân tăng → E: đốt xăng dầu thải khói → Ex: xe máy giờ cao điểm ở TP.HCM → R: ho, hen suyễn",
+     "reusable": "There are two main causes of air pollution. Firstly, the number of private vehicles has increased very quickly."
+    },
+    {
+     "section": "Thân bài 1 · nguyên nhân 2",
+     "content": "P: nhà máy đốt than, dầu → E: công nghệ sạch đắt → Ex: khói xám gần khu công nghiệp → R: bệnh phổi tăng",
+     "reusable": "Secondly, many factories and power plants release dirty smoke from burning coal and oil."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 1 (cho nguyên nhân 1)",
+     "content": "Chính phủ cải thiện giao thông công cộng → Ex: tuyến metro Bến Thành – Suối Tiên, xe buýt điện",
+     "reusable": "However, there are some ways to solve this problem. Firstly, governments should improve public transport and encourage people to use it."
+    },
+    {
+     "section": "Thân bài 2 · giải pháp 2 (cho nguyên nhân 2)",
+     "content": "Chính phủ đặt luật nghiêm, phạt nhà máy + hỗ trợ thuế cho năng lượng sạch → R: ít khói, không khí sạch",
+     "reusable": "Secondly, governments should set strict rules for factories and fine those that break them."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Tóm tắt 2 nguyên nhân + 2 giải pháp",
+     "reusable": "In conclusion, air pollution is mainly caused by vehicles and factories, but it can be reduced if"
+    }
+   ],
+   "vocab": [
+    {
+     "term": "release harmful smoke",
+     "meaning": "thải ra khói độc hại"
+    },
+    {
+     "term": "rush hour",
+     "meaning": "giờ cao điểm"
+    },
+    {
+     "term": "industrial zones",
+     "meaning": "khu công nghiệp"
+    },
+    {
+     "term": "fine",
+     "meaning": "phạt tiền"
+    },
+    {
+     "term": "clean energy",
+     "meaning": "năng lượng sạch"
+    }
+   ]
+  }
+ },
+ "speaking": {
+  "1": {
+   "answers": [
+    "Yes, I have. I had an interview for my research job at the university two years ago. It was a little stressful, but the interviewers were friendly and asked a lot about my medical background.",
+    "I think confidence is the most important factor. This is because employers want people who can communicate clearly and calmly. For example, a confident candidate usually answers difficult questions better than a nervous one.",
+    "I usually read about the company and its work carefully. Then I practise answering common questions with a friend. The night before the interview, I also prepare my clothes and go to bed early.",
+    "Not really, I do not enjoy shopping very much. The main reason is that shopping centres are often crowded and noisy at weekends. I prefer to spend my free time reading or swimming instead.",
+    "I prefer modern supermarkets to traditional markets. This is because they are clean and cool, and the prices are clearly shown. However, my mother still buys fresh vegetables at a local market near our house.",
+    "Shopping online has several advantages. Firstly, it saves time because we do not need to travel or wait in long lines. Secondly, we can easily compare prices and read reviews before we buy something."
+   ],
+   "outline": [
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay Yes/No hoặc lựa chọn",
+     "reusable": "I prefer modern supermarkets to traditional markets."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "This is because employers want people who can communicate clearly and calmly."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân ngắn",
+     "reusable": "The night before the interview, I also prepare my clothes and go to bed early."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "medical background",
+     "meaning": "nền tảng y khoa"
+    },
+    {
+     "term": "candidate",
+     "meaning": "ứng viên"
+    },
+    {
+     "term": "crowded",
+     "meaning": "đông đúc"
+    },
+    {
+     "term": "compare prices",
+     "meaning": "so sánh giá"
+    },
+    {
+     "term": "read reviews",
+     "meaning": "đọc đánh giá"
+    }
+   ]
+  },
+  "2": {
+   "choice": 3,
+   "answer": "In this situation, among the three options, I think the session on making a great impression in a job interview is the best choice. I choose it for two main reasons.\n\nThe first reason is that the interview is the most important step in getting a job. By that, I mean a good CV only helps students get an interview, but the interview decides the final result. For example, many students with excellent grades still fail because they cannot answer questions clearly.\n\nAnother reason is that most students feel very nervous in their first interviews. In other words, they need practical advice and a lot of practice. For instance, the speaker can show them how to greet the interviewers, keep eye contact and answer common questions. Students can also join short mock interviews during the session.\n\nThere are also some reasons why I do not choose the other two options. Regarding the session on how to write a professional CV, I do not think it is the best choice because students can find many free CV templates online. As for the session on essential workplace skills, I do not think it is the best option either because these skills are more useful after students get a job.\n\nTo sum up, out of these three options, I believe the session on making a great impression is the best choice because it is practical, useful and suitable for job seekers.",
+   "outline": [
+    {
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: buổi tạo ấn tượng tốt khi phỏng vấn",
+     "reusable": "In this situation, among the three options, I think the session on making a great impression in a job interview is the best choice. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Phỏng vấn là bước quyết định → By that, I mean … → For example: điểm cao vẫn trượt",
+     "reusable": "The first reason is that the interview is the most important step in getting a job. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "Sinh viên hay lo lắng → In other words … → For instance: chào hỏi, giao tiếp bằng mắt, phỏng vấn thử",
+     "reusable": "Another reason is that most students feel very nervous in their first interviews. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "CV: có nhiều mẫu miễn phí trên mạng; kỹ năng nơi làm việc: hữu ích hơn sau khi có việc",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding the session on how to write a professional CV, I do not think it is the best choice because … As for the session on essential workplace skills, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe the session on making a great impression is the best choice because it is practical, useful and suitable for job seekers."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "making a great impression",
+     "meaning": "tạo ấn tượng tốt"
+    },
+    {
+     "term": "keep eye contact",
+     "meaning": "giữ giao tiếp bằng mắt"
+    },
+    {
+     "term": "mock interviews",
+     "meaning": "phỏng vấn thử"
+    },
+    {
+     "term": "CV templates",
+     "meaning": "mẫu CV"
+    },
+    {
+     "term": "job seekers",
+     "meaning": "người tìm việc"
+    }
+   ]
+  },
+  "3": {
+   "own_idea": "Less interaction with teachers and classmates",
+   "answer": "Today I would like to talk about the drawbacks of using AI tools for learning. In my opinion, AI is very useful, but students should be careful when they use it.\n\nFirstly, AI tools can reduce critical thinking and creativity. When students ask AI for every answer, they stop thinking for themselves. For example, some students use ChatGPT to write their essays, so they never learn how to build their own ideas.\n\nSecondly, AI makes academic dishonesty and cheating much easier. Students can copy a whole assignment in a few seconds and say that it is their own work. For instance, a lecturer at my university found several reports that were almost the same.\n\nThirdly, there are problems with the reliability and accuracy of information. AI sometimes gives wrong facts or even invents sources that do not exist. A good example is my own work. I use AI every day, but I always check its medical answers carefully.\n\nAnother important point is that students may have less interaction with teachers and classmates. They often ask a chatbot instead of discussing problems with real people. As a result, they may lose chances to improve their communication and teamwork skills.\n\nTo sum up, AI tools can reduce critical thinking, encourage cheating, give wrong information and reduce human interaction. Therefore, students should use AI as a helper, not as a replacement for their own thinking.",
+   "follow_ups": [
+    "No, I do not think so. The main reason is that teachers do more than give information. They also encourage students and guide them in real life. For example, a good teacher can notice when a student looks sad and talk to him after class.",
+    "I think students should use AI to get ideas or check their work, not to do the work for them. For example, they can write an essay first and then ask AI to point out grammar mistakes. They should also check important facts in books or reliable websites.",
+    "No, I do not think universities should ban AI tools completely. The main reason is that students will need these tools in their future jobs. Instead, universities should set clear rules. For instance, students must say when and how they used AI in their assignments."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính (AI hữu ích nhưng cần cẩn thận)",
+     "reusable": "Today I would like to talk about the drawbacks of using AI tools for learning. In my opinion, AI is very useful, but students should be careful when they use it."
+    },
+    {
+     "section": "Ý 1: tư duy phản biện, sáng tạo",
+     "content": "Ý → không tự suy nghĩ → ví dụ dùng ChatGPT viết bài luận",
+     "reusable": "Firstly, AI tools can reduce critical thinking and creativity."
+    },
+    {
+     "section": "Ý 2: gian lận học thuật",
+     "content": "Ý → chép bài trong vài giây → ví dụ giảng viên phát hiện báo cáo giống nhau",
+     "reusable": "Secondly, AI makes academic dishonesty and cheating much easier."
+    },
+    {
+     "section": "Ý 3: độ tin cậy, chính xác",
+     "content": "Ý → sai sự thật, bịa nguồn → ví dụ bản thân luôn kiểm tra câu trả lời y khoa",
+     "reusable": "Thirdly, there are problems with the reliability and accuracy of information."
+    },
+    {
+     "section": "Ý riêng: ít tương tác",
+     "content": "Ý → hỏi chatbot thay vì người thật → mất kỹ năng giao tiếp, làm nhóm",
+     "reusable": "Another important point is that students may have less interaction with teachers and classmates."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt 4 ý + dùng AI như trợ thủ",
+     "reusable": "To sum up, … Therefore, students should use AI as a helper, not as a replacement for their own thinking."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "critical thinking",
+     "meaning": "tư duy phản biện"
+    },
+    {
+     "term": "academic dishonesty",
+     "meaning": "gian lận trong học tập"
+    },
+    {
+     "term": "reliability and accuracy",
+     "meaning": "độ tin cậy và chính xác"
+    },
+    {
+     "term": "invents sources",
+     "meaning": "bịa ra nguồn tài liệu"
+    },
+    {
+     "term": "a replacement for",
+     "meaning": "sự thay thế cho"
+    }
+   ]
+  }
+ }
+}

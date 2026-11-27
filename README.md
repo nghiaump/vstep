@@ -2,9 +2,9 @@
 
 # VSTEP Phòng luyện
 
-**Bộ tự học VSTEP B1–B2 chạy offline: 86 đề Văn Lang (VLU 50–135), thi thử đúng giờ, bài mẫu mục tiêu 5–6 điểm và khung câu để học thuộc.**
+**Bộ tự học VSTEP B1–B2 chạy offline: 141 đề Văn Lang (VLU 1–141, đủ bộ), thi thử đúng giờ, bài mẫu mục tiêu 5–6 điểm và khung câu để học thuộc.**
 
-`Reading 54 đề · 2.160 câu` · `Writing 87 đề` · `Speaking 86 đề` · `Bài mẫu 87 đề` · `11 khung mẫu`
+`Reading 98 đề · 3.920 câu` · `Writing 142 đề` · `Speaking 141 đề` · `Bài mẫu 142 đề` · `11 khung mẫu`
 
 <img src="docs/images/home.png" alt="Trang chủ VSTEP Phòng luyện" width="860">
 
@@ -121,7 +121,7 @@ Bài mẫu nhắm mức **5–6 điểm**: câu ngắn (25 từ trở xuống), 
 | S3 | *Firstly / Secondly / Thirdly* + *Another important point…* + *To sum up*. Câu hỏi phụ trả lời 3–4 câu. | 200–260 từ |
 
 - Toàn bộ khung: [`de-thi/loi-giai/KHUNG-MAU.md`](de-thi/loi-giai/KHUNG-MAU.md), hoặc trong app ở **Bài mẫu → Khung mẫu**.
-- Bài mẫu từng đề: [`de-thi/loi-giai/`](de-thi/loi-giai/README.md). Mỗi đề có `vlu-N.md` và `pdf/vlu-N.pdf`; bản gộp là `pdf/VSTEP-VLU-90-135-bai-mau.pdf` (PDF chưa xuất cho VLU 50–89).
+- Bài mẫu từng đề: [`de-thi/loi-giai/`](de-thi/loi-giai/README.md). Mỗi đề có `vlu-N.md` và `pdf/vlu-N.pdf`; bản gộp là `pdf/VSTEP-VLU-90-135-bai-mau.pdf` (PDF chưa xuất cho VLU 1–89 và 136–141).
 - Lý do chọn các khung này: đối chiếu với tài liệu luyện thi (Sổ tay B2 30 ngày, TEMPLATE, FORM SPEAKING + WRITING…) trong [`de-thi/loi-giai/doi-chieu/`](de-thi/loi-giai/doi-chieu/README.md).
 - Đề tự tạo: `nho-2026-11-20-sang` (đề VLU sáng 20/11/2026 do thí sinh nhớ lại) có trong cả Bài mẫu và phòng thi Writing.
 
@@ -160,10 +160,10 @@ VSTEP/
 
 | Bộ | Số lượng | Ghi chú |
 |---|---|---|
-| Reading | 54 đề × 4 bài × 10 câu | Có đáp án, giải thích và 9 dạng câu (Chi tiết · Từ vựng · Quy chiếu · Loại trừ · Suy luận · Ý chính · Mục đích · Thái độ · Chèn câu). Các đề 51, 55, 56, 58, 60, 62, 63, 74, 77, 79–84, 88, 93, 95, 98, 100, 101, 106, 107, 112–115, 124, 125, 127–129 không có phần Reading trên trang. |
-| Writing | 86 đề × 2 task, cộng 1 đề tự tạo | Kèm hướng dẫn phân tích đề từ nguồn |
-| Speaking | 86 đề × 3 part | Kèm gợi ý trả lời từng part |
-| Bài mẫu | 87 đề | Tất cả qua `check.py` với 0 lỗi |
+| Reading | 98 đề × 4 bài × 10 câu | Có đáp án, giải thích và 9 dạng câu (Chi tiết · Từ vựng · Quy chiếu · Loại trừ · Suy luận · Ý chính · Mục đích · Thái độ · Chèn câu). Các đề 30, 31, 34, 36, 40, 42, 44, 48, 51, 55, 56, 58, 60, 62, 63, 74, 77, 79–84, 88, 93, 95, 98, 100, 101, 106, 107, 112–115, 124, 125, 127–129, 137, 139, 140 không có phần Reading trên trang. |
+| Writing | 141 đề × 2 task, cộng 1 đề tự tạo | Kèm hướng dẫn phân tích đề từ nguồn |
+| Speaking | 141 đề × 3 part | Kèm gợi ý trả lời từng part |
+| Bài mẫu | 142 đề | Tất cả qua `check.py` với 0 lỗi |
 
 Định dạng JSON của đề được mô tả trong [`de-thi/README.md`](de-thi/README.md).
 
@@ -213,6 +213,7 @@ npm run build      # tsc + vite build → app/dist
 
 | Ngày | Thay đổi |
 |---|---|
+| 27/11/2026 | Thêm **VLU 1–49 và 136–141** (55 đề, đủ toàn bộ 141 đề VLU trên trang): 44 đề Reading (1.760 câu), Writing + Speaking đủ 55 đề, cùng 55 bộ bài mẫu đã rà soát. Tổng cộng: 141 đề, 142 bộ bài mẫu. |
 | 25/11/2026 | Thêm **VLU 50–89** (40 đề): 22 đề Reading (880 câu), Writing + Speaking đủ 40 đề, cùng 40 bộ bài mẫu đã rà soát. Tổng cộng: 86 đề, 87 bộ bài mẫu. |
 | 20/11/2026 | Viết lại toàn bộ bài mẫu theo 11 khung cố định (PEER, khung S2/S3) sau khi đối chiếu tài liệu luyện thi. Thêm trang Khung mẫu và đề tự tạo VLU sáng 20/11. |
 | 19/11/2026 | Bổ sung VLU 123–135. Ra mắt app luyện thi và bài mẫu 5–6 điểm cho VLU 90–135. |

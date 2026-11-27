@@ -1,0 +1,284 @@
+{
+ "id": "vlu-12",
+ "writing": {
+  "1": {
+   "template": "w1_informal",
+   "answer": "Hi Mark,\n\nThank you for your email. I am really glad that we can spend this weekend together.\n\nRegarding the events, I would like to go to the Tech Expo. I work with AI in health care, so I want to see the newest gadgets and medical devices. I have also heard that there will be some short talks about robots. After the expo, we can still try some street food nearby.\n\nHow about meeting at Highlands Coffee near Ben Thanh Market at 7 p.m. on Friday? We can have a drink there and plan our Saturday. It is easy to find because it is right next to the market. If this time does not suit you, just let me know.\n\nAs for things to bring, you should bring your ID card because the organisers may check it at the entrance. Comfortable shoes are also important since we will walk a lot. Finally, remember to charge your phone so that we can take photos at the booths.\n\nThat's all for now. Write back soon!\n\nBest wishes,\nMinh",
+   "outline": [
+    {
+     "section": "Lời chào",
+     "content": "Chào thân mật theo tên",
+     "reusable": "Hi Mark,"
+    },
+    {
+     "section": "Mở đầu",
+     "content": "Cảm ơn thư + vui vì cuối tuần đi chơi cùng",
+     "reusable": "Thank you for your email. I am really glad that we can spend this weekend together."
+    },
+    {
+     "section": "Ý 1: chọn sự kiện + lý do",
+     "content": "Chọn Tech Expo → lý do (làm AI y tế) → có buổi nói chuyện về robot → sau đó ăn vặt",
+     "reusable": "Regarding the events, I would like to go to the Tech Expo."
+    },
+    {
+     "section": "Ý 2: hẹn gặp bàn chi tiết",
+     "content": "Thứ, giờ, địa điểm cụ thể → làm gì → dễ tìm → xin báo nếu không hợp",
+     "reusable": "How about meeting at Highlands Coffee near Ben Thanh Market at 7 p.m. on Friday? … If this time does not suit you, just let me know."
+    },
+    {
+     "section": "Ý 3: mang theo gì",
+     "content": "CCCD → giày thoải mái → sạc điện thoại",
+     "reusable": "As for things to bring, you should bring your ID card because the organisers may check it at the entrance."
+    },
+    {
+     "section": "Kết thư + ký tên",
+     "content": "Câu kết cố định, chào cuối thư",
+     "reusable": "That's all for now. Write back soon! Best wishes,"
+    }
+   ],
+   "vocab": [
+    {
+     "term": "gadgets",
+     "meaning": "thiết bị công nghệ nhỏ"
+    },
+    {
+     "term": "medical devices",
+     "meaning": "thiết bị y tế"
+    },
+    {
+     "term": "organisers",
+     "meaning": "ban tổ chức"
+    },
+    {
+     "term": "at the entrance",
+     "meaning": "ở lối vào"
+    },
+    {
+     "term": "booths",
+     "meaning": "gian hàng"
+    }
+   ]
+  },
+  "2": {
+   "essay_type": "Discussion – discuss both views (thảo luận hai quan điểm và nêu ý kiến)",
+   "type_key": "discussion",
+   "answer": "Artificial intelligence is developing very quickly and changing the way we work, study and relax. People have different opinions on whether this technology is good or bad for society. This essay will discuss both views, but I believe that its benefits are greater than its risks.\n\nOn the one hand, some people believe that AI is dangerous for society. This is because it can replace human workers and spread false information. For example, some companies now use chatbots instead of customer service staff, and fake videos made by AI often appear on social media. As a result, many people worry about losing their jobs and not knowing what is true.\n\nOn the other hand, I agree with those who think that AI brings great benefits to society. Firstly, AI helps people work faster and more accurately. It can do boring and repetitive tasks, so workers have more time for important work. For instance, in my research team, we use AI to help doctors check X-ray images in a few seconds. Thanks to this, doctors can spend more time talking with their patients. Secondly, AI makes learning more personal and easier to access. This means that every student can learn at his or her own speed, even at home. A good example is a learning app that gives extra exercises when a student makes the same mistake many times. Therefore, students can improve faster and feel more confident.\n\nIn conclusion, although AI may cause job losses and spread false information, I believe that it is good for society because it saves time at work and improves education. However, governments should make clear rules to reduce its risks.",
+   "outline": [
+    {
+     "section": "Mở bài",
+     "content": "Viết lại đề (AI phát triển nhanh, thay đổi công việc, học tập, giải trí) + hai quan điểm + ý kiến: lợi nhiều hơn hại",
+     "reusable": "This essay will discuss both views, but I believe that its benefits are greater than its risks."
+    },
+    {
+     "section": "Thân bài 1 · PEER quan điểm A",
+     "content": "P: AI nguy hiểm → E: thay người, lan tin giả → Ex: chatbot thay nhân viên, video giả → R: lo mất việc, khó biết đâu là thật",
+     "reusable": "On the one hand, some people believe that AI is dangerous for society. This is because …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 1",
+     "content": "P: làm nhanh, chính xác hơn → E: làm việc lặp lại nhàm chán → Ex: nhóm mình dùng AI giúp bác sĩ đọc X-quang",
+     "reusable": "On the other hand, I agree with those who think that AI brings great benefits to society. Firstly, …"
+    },
+    {
+     "section": "Thân bài 2 · PEER 2",
+     "content": "P: học tập cá nhân hoá, dễ tiếp cận → E: học theo tốc độ riêng → Ex: app cho thêm bài tập khi sai lặp lại → R: tiến bộ nhanh, tự tin",
+     "reusable": "Secondly, AI makes learning more personal and easier to access."
+    },
+    {
+     "section": "Kết bài",
+     "content": "Tóm tắt hai phía + nhắc lại ý kiến + cần luật rõ ràng",
+     "reusable": "In conclusion, although AI may cause job losses and spread false information, I believe that …"
+    }
+   ],
+   "vocab": [
+    {
+     "term": "replace human workers",
+     "meaning": "thay thế người lao động"
+    },
+    {
+     "term": "false information",
+     "meaning": "thông tin sai lệch"
+    },
+    {
+     "term": "customer service staff",
+     "meaning": "nhân viên chăm sóc khách hàng"
+    },
+    {
+     "term": "accurately",
+     "meaning": "một cách chính xác"
+    },
+    {
+     "term": "at his or her own speed",
+     "meaning": "theo tốc độ riêng của mình"
+    }
+   ]
+  }
+ },
+ "speaking": {
+  "1": {
+   "answers": [
+    "Yes, I like cooking, but I only cook at weekends. Cooking helps me relax after a busy week. My favourite dish to cook is sour fish soup, which my mother taught me.",
+    "My mother usually does the cooking in my family. She is a great cook, and she knows everyone's favourite dishes. At weekends, I sometimes help her prepare vegetables or wash the dishes.",
+    "A popular dish that Vietnamese people like to cook is spring rolls. Families often make them together on special occasions like Tet. We roll pork, shrimp and vegetables in rice paper and then fry them.",
+    "Yes, I enjoy attending social events, especially festivals. They are a good chance to meet new people and have fun. However, I do not like very loud parties that finish late at night.",
+    "The last social event I went to was my colleague's wedding party last month. It was held at a restaurant in the city centre. We ate delicious food, sang songs and took a lot of photos.",
+    "Yes, I think it is very important. Social events help neighbours get to know and trust each other. For example, the Mid-Autumn Festival in my neighbourhood brings children and parents together every year."
+   ],
+   "outline": [
+    {
+     "section": "Câu 1: trả lời thẳng",
+     "content": "Trả lời ngay Yes/No hoặc người/món cụ thể",
+     "reusable": "Yes, I like cooking, but I only cook at weekends."
+    },
+    {
+     "section": "Câu 2: lý do",
+     "content": "Thêm 1 lý do",
+     "reusable": "Social events help neighbours get to know and trust each other."
+    },
+    {
+     "section": "Câu 3: chi tiết",
+     "content": "Ví dụ cá nhân, thời gian, địa điểm",
+     "reusable": "For example, the Mid-Autumn Festival in my neighbourhood brings children and parents together every year."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "sour fish soup",
+     "meaning": "canh chua cá"
+    },
+    {
+     "term": "spring rolls",
+     "meaning": "chả giò, nem rán"
+    },
+    {
+     "term": "special occasions",
+     "meaning": "dịp đặc biệt"
+    },
+    {
+     "term": "rice paper",
+     "meaning": "bánh tráng"
+    },
+    {
+     "term": "get to know",
+     "meaning": "làm quen, hiểu nhau"
+    }
+   ]
+  },
+  "2": {
+   "choice": 2,
+   "answer": "In this situation, among the three options, I think consulting a professional travel agent is the best choice. I choose it for two main reasons.\n\nThe first reason is that a travel agent saves a lot of time and effort. By that, I mean they can book flights, hotels and tours for the whole family in one place. For example, last year my family booked a four-day trip to Phu Quoc through an agent. We only had to pay and pack our bags.\n\nAnother reason is that a professional agent can help us when problems happen. In other words, we have someone to call if a flight is delayed or a hotel room is not ready. For instance, when our flight was cancelled on that trip, the agent quickly found us another flight on the same day.\n\nThere are also some reasons why I do not choose the other two options. Regarding planning the trip by myself, I do not think it is the best choice because I am very busy at work. I may also make mistakes because I do not know the place well. As for asking friends and relatives, I do not think it is the best option either because their experiences may be old or different from my family's needs.\n\nTo sum up, out of these three options, I believe consulting a professional travel agent is the best choice because it is convenient, safe and stress-free.",
+   "outline": [
+    {
+     "section": "Chọn",
+     "content": "Câu khung + lựa chọn: nhờ công ty du lịch",
+     "reusable": "In this situation, among the three options, I think consulting a professional travel agent is the best choice. I choose it for two main reasons."
+    },
+    {
+     "section": "Lý do 1",
+     "content": "Tiết kiệm thời gian, công sức → By that, I mean … đặt vé, khách sạn, tour một chỗ → For example: chuyến Phú Quốc 4 ngày",
+     "reusable": "The first reason is that a travel agent saves a lot of time and effort. By that, I mean …"
+    },
+    {
+     "section": "Lý do 2",
+     "content": "Hỗ trợ khi có sự cố → In other words … chuyến bay trễ, phòng chưa sẵn → For instance: bị huỷ chuyến, đổi ngay",
+     "reusable": "Another reason is that a professional agent can help us when problems happen. In other words, …"
+    },
+    {
+     "section": "Loại 2 phương án",
+     "content": "Tự lên kế hoạch: bận, dễ sai; hỏi bạn bè: kinh nghiệm cũ, không hợp nhu cầu",
+     "reusable": "There are also some reasons why I do not choose the other two options. Regarding planning the trip by myself, I do not think it is the best choice because … As for asking friends and relatives, I do not think it is the best option either because …"
+    },
+    {
+     "section": "Kết",
+     "content": "Câu khung + 3 tính từ",
+     "reusable": "To sum up, out of these three options, I believe consulting a professional travel agent is the best choice because it is convenient, safe and stress-free."
+    }
+   ],
+   "vocab": [
+    {
+     "term": "travel agent",
+     "meaning": "đại lý / công ty du lịch"
+    },
+    {
+     "term": "pack our bags",
+     "meaning": "xếp hành lý"
+    },
+    {
+     "term": "delayed",
+     "meaning": "bị trễ, hoãn"
+    },
+    {
+     "term": "cancelled",
+     "meaning": "bị huỷ"
+    },
+    {
+     "term": "stress-free",
+     "meaning": "không căng thẳng, nhẹ nhàng"
+    }
+   ]
+  },
+  "3": {
+   "own_idea": "Discipline and responsibility",
+   "answer": "Today I would like to talk about the benefits of playing team sports. In my opinion, team sports are good for both our body and our mind.\n\nFirstly, team sports improve physical health. Players run, jump and move a lot, so their hearts and muscles become stronger. For example, playing football twice a week can help people control their weight and sleep better.\n\nSecondly, team sports develop social and communication skills. Players must talk to each other and work together to win. For instance, in a volleyball team, players have to call out clearly to decide who will hit the ball.\n\nThirdly, team sports reduce stress and improve mental well-being. When people play with friends, they forget their worries and feel happy. A good example is my office team. We play mini football together every Friday after work, and it helps us relax.\n\nAnother important point is that team sports teach discipline and responsibility. Players need to come to practice on time and follow the rules of the game. For example, a basketball player who often misses training can let the whole team down.\n\nTo sum up, team sports bring many benefits because they improve our health, our social skills, our mental well-being and our sense of responsibility.",
+   "follow_ups": [
+    "I prefer individual sports, especially swimming. The main reason is that I can practise at any time without waiting for other people. For example, I go to the pool every weekend at a time that suits me. However, I sometimes play team sports with my colleagues for fun.",
+    "Yes, I think schools should make team sports compulsory, but they should give students a choice. The main reason is that team sports keep students active and teach teamwork. For example, students can choose football, basketball or volleyball. This way, every student can find a sport they enjoy.",
+    "I think a good team player needs to be cooperative, responsible and respectful. The main reason is that a team can only win when everyone works together. For example, a good player passes the ball to a teammate instead of always trying to score alone."
+   ],
+   "outline": [
+    {
+     "section": "Mở",
+     "content": "Giới thiệu chủ đề + ý chính",
+     "reusable": "Today I would like to talk about the benefits of playing team sports. In my opinion, team sports are good for both our body and our mind."
+    },
+    {
+     "section": "Ý 1: sức khoẻ thể chất",
+     "content": "Ý → chạy, nhảy, tim và cơ khoẻ → ví dụ đá bóng 2 lần/tuần",
+     "reusable": "Firstly, team sports improve physical health."
+    },
+    {
+     "section": "Ý 2: kỹ năng xã hội, giao tiếp",
+     "content": "Ý → phải nói chuyện, phối hợp → ví dụ bóng chuyền gọi nhau",
+     "reusable": "Secondly, team sports develop social and communication skills."
+    },
+    {
+     "section": "Ý 3: giảm căng thẳng, tinh thần",
+     "content": "Ý → chơi với bạn quên lo âu → ví dụ đội ở cơ quan đá bóng mini tối thứ Sáu",
+     "reusable": "Thirdly, team sports reduce stress and improve mental well-being."
+    },
+    {
+     "section": "Ý riêng: kỷ luật, trách nhiệm",
+     "content": "Ý → đến tập đúng giờ, theo luật → ví dụ cầu thủ bóng rổ bỏ tập làm cả đội thất vọng",
+     "reusable": "Another important point is that team sports teach discipline and responsibility."
+    },
+    {
+     "section": "Kết",
+     "content": "Tóm tắt các ý",
+     "reusable": "To sum up, team sports bring many benefits because …"
+    }
+   ],
+   "vocab": [
+    {
+     "term": "physical health",
+     "meaning": "sức khoẻ thể chất"
+    },
+    {
+     "term": "mental well-being",
+     "meaning": "sức khoẻ tinh thần"
+    },
+    {
+     "term": "discipline",
+     "meaning": "tính kỷ luật"
+    },
+    {
+     "term": "let the whole team down",
+     "meaning": "làm cả đội thất vọng"
+    },
+    {
+     "term": "cooperative",
+     "meaning": "biết hợp tác"
+    }
+   ]
+  }
+ }
+}
